@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "exportedAt": "2026-08-20T00:00:00Z",
+    "templateCount": 2,
+    "placeholder": true
+  },
+  "templates": [
+    {
+      "id": "dialogue-lip-sync",
+      "title": {
+        "en": "Dialogue & Lip-Sync Scene",
+        "zh": "对话与口型同步场景"
+      },
+      "description": {
+        "en": "A single-character scene where the subject speaks on-camera with dialogue synced to an audio track.",
+        "zh": "单人物场景，角色对镜头说话，口型与音轨同步。"
+      },
+      "useWhen": {
+        "en": "Use for talking-head content, monologues, testimonials, or any shot where synced speech drives the scene.",
+        "zh": "用于口播、独白、证言类内容，或任何以同步语音驱动画面的镜头。"
+      },
+      "structure": {
+        "en": [
+          "shot type + framing (close-up / medium)",
+          "subject description + wardrobe",
+          "setting + time of day + light quality",
+          "dialogue sync instruction (lip-sync to provided audio)",
+          "camera behavior (static / subtle handheld)",
+          "mood + tone descriptor"
+        ],
+        "zh": [
+          "shot type + framing (close-up / medium)",
+          "subject description + wardrobe",
+          "setting + time of day + light quality",
+          "dialogue sync instruction (lip-sync to provided audio)",
+          "camera behavior (static / subtle handheld)",
+          "mood + tone descriptor"
+        ]
+      },
+      "guidance": {
+        "en": [
+          "Name the lip-sync requirement explicitly, do not assume it.",
+          "Keep camera movement subtle so the face stays legible for sync.",
+          "Describe light direction, not just brightness, to keep skin tones stable."
+        ],
+        "zh": [
+          "明确写出口型同步要求，不要默认模型会做。",
+          "镜头动作要克制，保证脸部清晰便于同步。",
+          "描述光的方向而不只是亮度，保持肤色稳定。"
+        ]
+      },
+      "pitfalls": {
+        "en": [
+          "Over-describing background detail pulls focus from lip accuracy.",
+          "Fast cuts or camera whip breaks sync continuity."
+        ],
+        "zh": [
+          "背景描述太多会分散口型精度的注意力。",
+          "快切或甩镜会打断同步的连续性。"
+        ]
+      },
+      "exampleCases": [
+        "cafe-lip-sync-monologue-25",
+        "ugc-morning-routine-25"
+      ],
+      "exampleCaseUrls": [
+        "https://goodcase.ai/cases/cafe-lip-sync-monologue-25",
+        "https://goodcase.ai/cases/ugc-morning-routine-25"
+      ]
+    },
+    {
+      "id": "product-orbit-commercial",
+      "title": {
+        "en": "Product Orbit Commercial",
+        "zh": "产品环绕商业镜头"
+      },
+      "description": {
+        "en": "A studio product shot that orbits or reveals a single object with commercial-grade lighting.",
+        "zh": "工作室产品镜头，围绕或展示单一物体，配合商业级打光。"
+      },
+      "useWhen": {
+        "en": "Use for ads, e-commerce hero shots, or any single-product reveal that needs a polished, sellable look.",
+        "zh": "用于广告、电商主图视频，或任何需要精致卖相的单品展示镜头。"
+      },
+      "structure": {
+        "en": [
+          "product description + material detail",
+          "environment (seamless studio / context set)",
+          "camera move (orbit / push-in / rise)",
+          "lighting setup (key, rim, fill)",
+          "finishing detail (particles, reflections, shadow quality)",
+          "grade descriptor (commercial, clean, high-contrast)"
+        ],
+        "zh": [
+          "product description + material detail",
+          "environment (seamless studio / context set)",
+          "camera move (orbit / push-in / rise)",
+          "lighting setup (key, rim, fill)",
+          "finishing detail (particles, reflections, shadow quality)",
+          "grade descriptor (commercial, clean, high-contrast)"
+        ]
+      },
+      "guidance": {
+        "en": [
+          "Specify the orbit direction and speed to avoid a jerky auto-generated path.",
+          "Call out material properties (matte, glossy, metallic) so reflections render correctly."
+        ],
+        "zh": [
+          "写清楚环绕方向和速度，避免自动生成路径卡顿。",
+          "点明材质属性（哑光/光面/金属），反射才会渲染正确。"
+        ]
+      },
+      "pitfalls": {
+        "en": [
+          "Leaving the background undescribed often produces a generic gray void.",
+          "Too many camera moves in one shot fights the product-clarity goal."
+        ],
+        "zh": [
+          "不描述背景容易生成通用的灰色空场。",
+          "一个镜头里堆太多运镜会牺牲产品清晰度。"
+        ]
+      },
+      "exampleCases": [
+        "product-orbit-sneaker-25"
+      ],
+      "exampleCaseUrls": [
+        "https://goodcase.ai/cases/product-orbit-sneaker-25"
+      ]
+    }
+  ]
+}

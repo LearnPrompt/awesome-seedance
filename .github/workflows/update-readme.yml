@@ -1,0 +1,48 @@
+name: Update README
+
+# Data refresh comes from the private goodcase.ai collection pipeline exporting
+# into data/cases.json / data/style-library.json and pushing that here — this
+# workflow only regenerates the derived README/docs/skill-reference files, it
+# does not call any external API itself. Runs on data changes and on demand.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run tests
+        run: node --test scripts/lib/render.test.mjs
+
+      - name: Generate README and Skill reference
+        run: |
+          node scripts/generate-readme.mjs
+          node scripts/generate-skill-reference.mjs
+
+      - name: Commit regenerated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md README_zh.md docs/gallery-seedance-2-0.md docs/gallery-seedance-2-0.zh.md agents/skills/seedance-prompt-library/references/style-library.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: regenerate README and skill reference from data"
+            git push
+          fi

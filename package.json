@@ -1,0 +1,16 @@
+{
+  "name": "awesome-seedance-2.5-prompts",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Curated, human-verified Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs",
+    "test": "node --test scripts/lib/render.test.mjs"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LearnPrompt/awesome-seedance-2.5-prompts"
+  }
+}

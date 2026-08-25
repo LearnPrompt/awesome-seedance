@@ -1,0 +1,16 @@
+{
+  "name": "awesome-seedance-2.5-prompts",
+  "owner": {
+    "name": "LearnPrompt",
+    "url": "https://github.com/LearnPrompt"
+  },
+  "plugins": [
+    {
+      "name": "seedance-prompt-library",
+      "source": "./agents/skills/seedance-prompt-library",
+      "description": "Verified Seedance 2.5 / 2.0 prompt templates, distilled from human-checked cases on goodcase.ai.",
+      "version": "0.1.0",
+      "license": "MIT"
+    }
+  ]
+}
