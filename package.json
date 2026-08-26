@@ -1,5 +1,5 @@
 {
-  "name": "awesome-seedance-2.5-prompts",
+  "name": "awesome-seedance",
   "private": true,
   "version": "0.1.0",
   "description": "Curated, human-verified Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
@@ -11,6 +11,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LearnPrompt/awesome-seedance-2.5-prompts"
+    "url": "https://github.com/LearnPrompt/awesome-seedance"
   }
 }

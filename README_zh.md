@@ -1,6 +1,6 @@
 [English](./README.md) | **[中文](./README_zh.md)**
 
-# awesome-seedance-2.5-prompts
+# Awesome Seedance
 
 > Seedance 2.5 / 2.0 视频生成提示词精选库，每一条都核对过原帖来源。
 
@@ -3545,4 +3545,4 @@ Prompt 文本、摘要和媒体引用均来自公开发布的创作者原帖，�
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance-2.5-prompts&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance-2.5-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance&Date)

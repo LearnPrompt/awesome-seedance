@@ -1,4 +1,4 @@
-// Pure rendering logic for awesome-seedance-2.5-prompts.
+// Pure rendering logic for awesome-seedance.
 // No I/O in this file — everything takes data in, returns strings out,
 // so it can be unit-tested without touching the filesystem.
 

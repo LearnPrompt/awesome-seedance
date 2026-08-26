@@ -42,7 +42,7 @@ const BADGES = [
 const COPY = {
   en: {
     langSwitch: "**[English](./README.md)** | [中文](./README_zh.md)",
-    title: "# awesome-seedance-2.5-prompts",
+    title: "# Awesome Seedance",
     tagline:
       "A curated, verified prompt library for Seedance 2.5 / 2.0 video generation — every case checked against its original source.",
     installHeading: "## Install",
@@ -99,7 +99,7 @@ const COPY = {
   },
   zh: {
     langSwitch: "[English](./README.md) | **[中文](./README_zh.md)**",
-    title: "# awesome-seedance-2.5-prompts",
+    title: "# Awesome Seedance",
     tagline: "Seedance 2.5 / 2.0 视频生成提示词精选库，每一条都核对过原帖来源。",
     installHeading: "## 安装",
     installBody: [
@@ -178,7 +178,7 @@ function renderStatsTable(stats, lang) {
 }
 
 function renderStarHistory() {
-  const repo = "LearnPrompt/awesome-seedance-2.5-prompts";
+  const repo = "LearnPrompt/awesome-seedance";
   return `[![Star History Chart](https://api.star-history.com/svg?repos=${repo}&type=Date)](https://star-history.com/#${repo}&Date)`;
 }
 

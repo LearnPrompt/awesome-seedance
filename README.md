@@ -1,6 +1,6 @@
 **[English](./README.md)** | [中文](./README_zh.md)
 
-# awesome-seedance-2.5-prompts
+# Awesome Seedance
 
 > A curated, verified prompt library for Seedance 2.5 / 2.0 video generation — every case checked against its original source.
 
@@ -3545,4 +3545,4 @@ If you are a rights holder and want an entry removed, open an issue with the ent
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance-2.5-prompts&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance-2.5-prompts&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance&Date)
