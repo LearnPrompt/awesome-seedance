@@ -4,7 +4,7 @@
   "description": "Installable Agent Skill: verified Seedance 2.5 / 2.0 prompt templates for Claude Code and Codex.",
   "type": "module",
   "bin": {
-    "seedance-prompt-library": "./bin/install.mjs"
+    "seedance-prompt-library": "bin/install.mjs"
   },
   "files": [
     "bin",
@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LearnPrompt/awesome-seedance",
+    "url": "git+https://github.com/LearnPrompt/awesome-seedance.git",
     "directory": "agents/skills/seedance-prompt-library"
   },
   "keywords": [
