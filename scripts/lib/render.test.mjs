@@ -40,12 +40,18 @@ test("isSeedance25 detects the 2.5 line only", () => {
 });
 
 test("computeStats counts totals, authors, and last-updated correctly", () => {
-  const stats = computeStats({ cases: fixtureCases });
+  // lastUpdated 现在取 meta.exportedAt（数据导出时间），不再取案例里最新的 sourcePublishedAt。
+  const stats = computeStats({ cases: fixtureCases, meta: { exportedAt: "2026-08-26T15:13:01.687Z" } });
   assert.equal(stats.total, 4);
   assert.equal(stats.v25Count, 2);
   assert.equal(stats.v20Count, 2);
   assert.equal(stats.authorCount, 3); // u1, u2, u3
-  assert.equal(stats.lastUpdated, "2026-08-02");
+  assert.equal(stats.lastUpdated, "2026-08-26");
+});
+
+test("computeStats returns null lastUpdated when meta.exportedAt is missing", () => {
+  const stats = computeStats({ cases: fixtureCases });
+  assert.equal(stats.lastUpdated, null);
 });
 
 test("getFeatured returns top N across versions by heat, not per-version", () => {

@@ -38,7 +38,7 @@ Seedance 2.5 is ByteDance's video generation model in Early Access, generating f
 | Seedance 2.5 | 33 |
 | Seedance 2.0 | 174 |
 | Unique authors | 140 |
-| Last updated | 2026-08-18T17:25:34+00:00 |
+| Last updated | 2026-08-26 |
 
 ## ⭐ Featured
 

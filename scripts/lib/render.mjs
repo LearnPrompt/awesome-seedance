@@ -54,9 +54,10 @@ export function computeStats(data) {
   const v25 = cases.filter(isSeedance25);
   const v20 = cases.filter(isSeedance20OrEarlier);
   const authors = new Set(cases.map((c) => c.creator));
-  const lastUpdated = cases.reduce((latest, c) => {
-    return !latest || c.sourcePublishedAt > latest ? c.sourcePublishedAt : latest;
-  }, null);
+  // "Last updated" 取数据导出时间（data/cases.json 顶层 meta.exportedAt），
+  // 不再取案例里最新的 sourcePublishedAt——那只反映内容年代，不反映数据本身多久没刷新过。
+  const exportedAt = data.meta && data.meta.exportedAt;
+  const lastUpdated = exportedAt ? exportedAt.slice(0, 10) : null;
   return {
     total: cases.length,
     v25Count: v25.length,

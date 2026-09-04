@@ -45,6 +45,10 @@ const COPY = {
     title: "# Awesome Seedance",
     tagline:
       "A curated, verified prompt library for Seedance 2.5 / 2.0 video generation — every case checked against its original source.",
+    // goodcase.ai 反链，位置固定在 badges 之后、Install 之前。原是 PR #1 手改进 README 的一行，
+    // 不搬进生成器模板的话下次 npm run generate 会把它覆盖掉。
+    backlink:
+      "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     installHeading: "## Install",
     installBody: [
       "```bash",
@@ -101,6 +105,9 @@ const COPY = {
     langSwitch: "[English](./README.md) | **[中文](./README_zh.md)**",
     title: "# Awesome Seedance",
     tagline: "Seedance 2.5 / 2.0 视频生成提示词精选库，每一条都核对过原帖来源。",
+    // goodcase.ai 反链，位置固定在 badges 之后、安装之前，中英各一份，见上方 en 段注释。
+    backlink:
+      "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     installHeading: "## 安装",
     installBody: [
       "```bash",
@@ -192,6 +199,8 @@ function buildReadme(lang) {
   head.push(`> ${c.tagline}`);
   head.push("");
   head.push(BADGES);
+  head.push("");
+  head.push(c.backlink);
   head.push("");
   head.push(c.installHeading);
   head.push("");
