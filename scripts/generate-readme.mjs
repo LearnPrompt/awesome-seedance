@@ -9,6 +9,8 @@ import {
   getFeatured,
   renderCaseEntry,
   renderTemplateCard,
+  renderStatsTable,
+  renderCrossModelSection,
   partitionAllPrompts,
   fitToSizeBudget,
   renderGalleryParts,
@@ -161,29 +163,6 @@ const COPY = {
   },
 };
 
-function renderStatsTable(stats, lang) {
-  if (lang === "en") {
-    return [
-      "| Metric | Value |",
-      "| --- | --- |",
-      `| Total cases | ${stats.total} |`,
-      `| Seedance 2.5 | ${stats.v25Count} |`,
-      `| Seedance 2.0 | ${stats.v20Count} |`,
-      `| Unique authors | ${stats.authorCount} |`,
-      `| Last updated | ${stats.lastUpdated} |`,
-    ].join("\n");
-  }
-  return [
-    "| 指标 | 数值 |",
-    "| --- | --- |",
-    `| 案例总数 | ${stats.total} |`,
-    `| Seedance 2.5 | ${stats.v25Count} |`,
-    `| Seedance 2.0 | ${stats.v20Count} |`,
-    `| 作者数 | ${stats.authorCount} |`,
-    `| 最近更新 | ${stats.lastUpdated} |`,
-  ].join("\n");
-}
-
 function renderStarHistory() {
   const repo = "LearnPrompt/awesome-seedance";
   return `[![Star History Chart](https://api.star-history.com/svg?repos=${repo}&type=Date)](https://star-history.com/#${repo}&Date)`;
@@ -230,6 +209,12 @@ function buildReadme(lang) {
   head.push("");
   for (const caseObj of featured) {
     head.push(renderCaseEntry(caseObj, lang));
+  }
+  // meta.retests 缺失（老数据/私仓导出层还没同步）或 totalRuns 为 0 时返回 null，
+  // 整节不渲染——这也是保证现有 data/cases.json 渲染逐字节不变的关键点。
+  const crossModelSection = renderCrossModelSection(cases, casesData.meta, lang);
+  if (crossModelSection) {
+    head.push(crossModelSection);
   }
   head.push(c.templatesHeading);
   head.push("");

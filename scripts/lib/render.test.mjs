@@ -1,5 +1,8 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import path from "node:path";
 import {
   sortByHeat,
   isSeedance25,
@@ -7,12 +10,22 @@ import {
   getFeatured,
   renderCaseEntry,
   renderTemplateCard,
+  renderStatsTable,
+  aggregateRetestsByModel,
+  renderCrossModelSection,
   partitionAllPrompts,
   fitToSizeBudget,
   renderGalleryParts,
   galleryPartFileName,
   FEATURED_COUNT,
+  README_SIZE_BUDGET_BYTES,
 } from "./render.mjs";
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const FIXTURE_ROOT = path.resolve(__dirname, "../../data/fixtures");
+function loadFixture(name) {
+  return JSON.parse(readFileSync(path.join(FIXTURE_ROOT, name), "utf8"));
+}
 
 const fixtureCases = [
   { slug: "a", title: "A", summary: "sa", promptFull: "prompt a", models: ["Seedance 2.5"], creator: "u1", sourceUrl: "https://x.com/1", sourcePublishedAt: "2026-08-01", heatScore: 90, mediaType: "video", posterUrl: "https://cdn/a.jpg", goodcaseUrl: "https://goodcase.ai/cases/a" },
@@ -148,4 +161,157 @@ test("renderGalleryParts renders every case, splits by budget, and names parts",
   assert.ok(parts[0].markdown.includes("[Part 2](./gallery-seedance-2-0-part-2.md)"));
   assert.ok(parts[1].markdown.includes("[Part 1](./gallery-seedance-2-0-part-1.md)"));
   assert.equal(galleryPartFileName("en", 2, 2), "gallery-seedance-2-0-part-2.md");
+});
+
+// ---------------------------------------------------------------------------
+// 复测（retest）字段：data/cases.json 还没同步这层字段，全部靠 fixture 开发。
+// 硬要求：老 case（没有 retestSummary/retests）渲染结果必须逐字节不变。
+// ---------------------------------------------------------------------------
+
+const caseWithReproducedRetest = {
+  ...fixtureCases[0],
+  slug: "with-retest-reproduced",
+  retestSummary: {
+    runs: 2,
+    models: ["MiniMax H3 768p", "Kling 2.1"],
+    latest: {
+      model: "MiniMax H3 768p",
+      verdict: "reproduced",
+      testedAt: "2026-09-05T10:00:00Z",
+      artifactUrl: "https://goodcase.ai/retests/x/h3-01.mp4",
+      finalScore: 82,
+    },
+  },
+};
+
+const caseWithDegradedRetest = {
+  ...fixtureCases[0],
+  slug: "with-retest-degraded",
+  retestSummary: {
+    runs: 1,
+    models: ["MiniMax H3 768p"],
+    latest: {
+      model: "MiniMax H3 768p",
+      verdict: "degraded",
+      testedAt: "2026-09-01T12:00:00Z",
+      artifactUrl: null,
+      finalScore: null,
+    },
+  },
+};
+
+test("renderCaseEntry adds a Retest line (en) when retestSummary is present, with score/link/runs", () => {
+  const md = renderCaseEntry(caseWithReproducedRetest, "en");
+  assert.match(
+    md,
+    /\*\*Retest:\*\* MiniMax H3 768p · 2026-09-05 · ✅ reproduced \(score 82\) · \[output\]\(https:\/\/goodcase\.ai\/retests\/x\/h3-01\.mp4\) · 2 runs/
+  );
+});
+
+test("renderCaseEntry adds a 复测 line (zh) when retestSummary is present, with score/link/runs", () => {
+  const md = renderCaseEntry(caseWithReproducedRetest, "zh");
+  assert.match(
+    md,
+    /\*\*复测：\*\* MiniMax H3 768p · 2026-09-05 · ✅ 复现 \(82 分\) · \[产物\]\(https:\/\/goodcase\.ai\/retests\/x\/h3-01\.mp4\) · 共 2 次/
+  );
+});
+
+test("renderCaseEntry omits score/link and runs suffix when finalScore/artifactUrl are null and runs === 1", () => {
+  const mdEn = renderCaseEntry(caseWithDegradedRetest, "en");
+  assert.match(mdEn, /\*\*Retest:\*\* MiniMax H3 768p · 2026-09-01 · ⚠️ degraded$/m);
+  assert.doesNotMatch(mdEn, /\(score/);
+  assert.doesNotMatch(mdEn, /\[output\]/);
+  assert.doesNotMatch(mdEn, / runs/);
+
+  const mdZh = renderCaseEntry(caseWithDegradedRetest, "zh");
+  assert.match(mdZh, /\*\*复测：\*\* MiniMax H3 768p · 2026-09-01 · ⚠️ 降级$/m);
+  assert.doesNotMatch(mdZh, /分\)/);
+  assert.doesNotMatch(mdZh, /\[产物\]/);
+  assert.doesNotMatch(mdZh, /共 \d+ 次/);
+});
+
+test("renderCaseEntry keeps rendering byte-identical (no Retest line) for cases without retestSummary", () => {
+  // fixtureCases[0] 完全没有 retestSummary 字段——老数据的真实形态。
+  const md = renderCaseEntry(fixtureCases[0], "en");
+  assert.doesNotMatch(md, /\*\*Retest:\*\*/);
+  const mdZh = renderCaseEntry(fixtureCases[0], "zh");
+  assert.doesNotMatch(mdZh, /\*\*复测：\*\*/);
+});
+
+test("computeStats reads meta.retests.casesWithRetests / totalRuns", () => {
+  const stats = computeStats({
+    cases: fixtureCases,
+    meta: {
+      exportedAt: "2026-08-26T15:13:01.687Z",
+      retests: { casesWithRetests: 37, totalRuns: 52, byModel: {}, byVerdict: {} },
+    },
+  });
+  assert.equal(stats.retestCases, 37);
+  assert.equal(stats.retestRuns, 52);
+});
+
+test("computeStats defaults retestCases/retestRuns to 0 when meta.retests is missing (old data)", () => {
+  const stats = computeStats({ cases: fixtureCases, meta: { exportedAt: "2026-08-26T15:13:01.687Z" } });
+  assert.equal(stats.retestCases, 0);
+  assert.equal(stats.retestRuns, 0);
+});
+
+test("renderStatsTable shows the cross-model retest row, even when it's 0/0", () => {
+  const zeroStats = {
+    total: 4,
+    v25Count: 2,
+    v20Count: 2,
+    authorCount: 3,
+    lastUpdated: "2026-08-26",
+    retestCases: 0,
+    retestRuns: 0,
+  };
+  const en = renderStatsTable(zeroStats, "en");
+  assert.match(en, /\| Re-run on other models \| 0 cases \/ 0 runs \|/);
+  const zh = renderStatsTable(zeroStats, "zh");
+  assert.match(zh, /\| 跨模型复测 \| 0 条 \/ 0 次 \|/);
+
+  const nonZeroStats = { ...zeroStats, retestCases: 37, retestRuns: 52 };
+  assert.match(renderStatsTable(nonZeroStats, "en"), /\| Re-run on other models \| 37 cases \/ 52 runs \|/);
+  assert.match(renderStatsTable(nonZeroStats, "zh"), /\| 跨模型复测 \| 37 条 \/ 52 次 \|/);
+});
+
+test("fitToSizeBudget keeps output within README_SIZE_BUDGET_BYTES even when entries include a Retest line", () => {
+  const bulkyCase = { ...caseWithReproducedRetest, promptFull: "x ".repeat(400) };
+  const entries = Array.from({ length: 400 }, (_, i) =>
+    renderCaseEntry({ ...bulkyCase, slug: `bulky-${i}`, title: `Bulky ${i}` }, "en") + "\n"
+  );
+  const result = fitToSizeBudget("HEAD\n", entries, "\nTAIL\n", README_SIZE_BUDGET_BYTES);
+  assert.ok(result.bytes <= README_SIZE_BUDGET_BYTES);
+  assert.equal(result.truncated, true); // sanity: this synthetic input is deliberately oversized
+});
+
+test("aggregateRetestsByModel aggregates per-model runs/reproduced counts from case-level retests[]", () => {
+  const fixtureData = loadFixture("cases.fixture.json");
+  const byModel = aggregateRetestsByModel(fixtureData.cases);
+  assert.deepEqual(byModel.get("MiniMax H3 768p"), { runs: 2, reproduced: 1 }); // 1 reproduced + 1 degraded
+  assert.deepEqual(byModel.get("Kling 2.1"), { runs: 1, reproduced: 1 });
+});
+
+test("renderCrossModelSection renders a heading + per-model table when meta.retests is present", () => {
+  const fixtureData = loadFixture("cases.fixture.json");
+  const md = renderCrossModelSection(fixtureData.cases, fixtureData.meta, "en");
+  assert.match(md, /^## 🔁 Cross-model retests/);
+  assert.match(md, /\| Model \| Runs \| Reproduction rate \|/);
+  assert.match(md, /\| MiniMax H3 768p \| 2 \| 50% \|/);
+  assert.match(md, /\| Kling 2\.1 \| 1 \| 100% \|/);
+
+  const mdZh = renderCrossModelSection(fixtureData.cases, fixtureData.meta, "zh");
+  assert.match(mdZh, /^## 🔁 跨模型复测/);
+  assert.match(mdZh, /\| 模型 \| 次数 \| 复现率 \|/);
+});
+
+test("renderCrossModelSection returns null when meta.retests is missing or totalRuns is 0", () => {
+  const fixtureData = loadFixture("cases.fixture.json");
+  assert.equal(renderCrossModelSection(fixtureData.cases, {}, "en"), null);
+  assert.equal(renderCrossModelSection(fixtureData.cases, undefined, "en"), null);
+  assert.equal(
+    renderCrossModelSection(fixtureData.cases, { retests: { totalRuns: 0 } }, "en"),
+    null
+  );
 });

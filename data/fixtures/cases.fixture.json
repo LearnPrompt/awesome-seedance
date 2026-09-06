@@ -1,12 +1,18 @@
 {
   "meta": {
     "exportedAt": "2026-08-20T00:00:00Z",
-    "caseCount": 6,
+    "caseCount": 8,
     "sections": [
-      { "model": "Seedance 2.5", "count": 4 },
-      { "model": "Seedance 2.0", "count": 2 }
+      { "model": "Seedance 2.5", "count": 5 },
+      { "model": "Seedance 2.0", "count": 3 }
     ],
-    "placeholder": true
+    "placeholder": true,
+    "retests": {
+      "casesWithRetests": 2,
+      "totalRuns": 3,
+      "byModel": { "MiniMax H3 768p": 2, "Kling 2.1": 1 },
+      "byVerdict": { "reproduced": 2, "degraded": 1 }
+    }
   },
   "cases": [
     {
@@ -134,6 +140,95 @@
       "stabilityScore": 78,
       "tags": ["food", "macro", "commercial"],
       "contentLocale": "zh"
+    },
+    {
+      "slug": "rooftop-drone-reveal-25",
+      "title": "Rooftop Drone Reveal",
+      "summary": "A drone rises from street level to reveal a neon-lit rooftop party in one continuous unbroken shot.",
+      "promptFull": "Drone shot starting at street level between two buildings, rising smoothly and continuously to reveal a rooftop party lit by neon signage and string lights, camera pitching forward as it clears the roofline, guests dancing, city skyline glowing in the background at dusk.",
+      "category": "Reveal",
+      "models": ["Seedance 2.5"],
+      "creator": "skyframe_ops",
+      "sourceUrl": "https://x.com/skyframe_ops/status/1000000000000000007",
+      "sourcePublishedAt": "2026-08-22",
+      "heatScore": 93,
+      "weightedInteractions": 11200,
+      "mediaType": "video",
+      "mediaUrl": "https://example-cdn.goodcase.ai/media/rooftop-drone-reveal-25.mp4",
+      "posterUrl": "https://example-cdn.goodcase.ai/media/rooftop-drone-reveal-25-poster.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/rooftop-drone-reveal-25",
+      "evidenceLevel": "verified",
+      "stabilityScore": 89,
+      "tags": ["reveal", "drone", "night", "party"],
+      "contentLocale": "en",
+      "retests": [
+        {
+          "model": "MiniMax H3 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-05T10:00:00Z",
+          "artifactUrl": "https://goodcase.ai/retests/rooftop-drone-reveal-25/h3-01.mp4",
+          "finalScore": 82
+        },
+        {
+          "model": "Kling 2.1",
+          "verdict": "reproduced",
+          "testedAt": "2026-08-20T08:00:00Z",
+          "artifactUrl": "https://goodcase.ai/retests/rooftop-drone-reveal-25/kling-01.mp4",
+          "finalScore": 75
+        }
+      ],
+      "retestSummary": {
+        "runs": 2,
+        "models": ["MiniMax H3 768p", "Kling 2.1"],
+        "latest": {
+          "model": "MiniMax H3 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-05T10:00:00Z",
+          "artifactUrl": "https://goodcase.ai/retests/rooftop-drone-reveal-25/h3-01.mp4",
+          "finalScore": 82
+        }
+      }
+    },
+    {
+      "slug": "desert-convoy-dust-20",
+      "title": "Desert Convoy Dust Trail",
+      "summary": "A convoy of off-road vehicles kicks up a long dust trail crossing an open desert at golden hour.",
+      "promptFull": "Wide tracking shot of an off-road vehicle convoy crossing an open desert at golden hour, long dust trails kicked up behind each vehicle, warm low-angle sunlight, heat shimmer on the horizon, camera holding a steady parallel track alongside the convoy.",
+      "category": "Action",
+      "models": ["Seedance 2.0"],
+      "creator": "duneline_media",
+      "sourceUrl": "https://x.com/duneline_media/status/1000000000000000008",
+      "sourcePublishedAt": "2026-06-02",
+      "heatScore": 79,
+      "weightedInteractions": 6800,
+      "mediaType": "video",
+      "mediaUrl": "https://example-cdn.goodcase.ai/media/desert-convoy-dust-20.mp4",
+      "posterUrl": "https://example-cdn.goodcase.ai/media/desert-convoy-dust-20-poster.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/desert-convoy-dust-20",
+      "evidenceLevel": "verified",
+      "stabilityScore": 77,
+      "tags": ["action", "desert", "vehicles"],
+      "contentLocale": "en",
+      "retests": [
+        {
+          "model": "MiniMax H3 768p",
+          "verdict": "degraded",
+          "testedAt": "2026-09-01T12:00:00Z",
+          "artifactUrl": null,
+          "finalScore": null
+        }
+      ],
+      "retestSummary": {
+        "runs": 1,
+        "models": ["MiniMax H3 768p"],
+        "latest": {
+          "model": "MiniMax H3 768p",
+          "verdict": "degraded",
+          "testedAt": "2026-09-01T12:00:00Z",
+          "artifactUrl": null,
+          "finalScore": null
+        }
+      }
     }
   ]
 }
