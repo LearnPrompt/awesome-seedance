@@ -72,6 +72,15 @@ export function computeStats(data) {
   const retests = data.meta && data.meta.retests;
   const retestCases = (retests && retests.casesWithRetests) || 0;
   const retestRuns = (retests && retests.totalRuns) || 0;
+  // stabilityScore: 0 表示未测量（含没有这个字段的老数据，取 || 0 兜底），
+  // 均分只在已测量的子集上算，一位小数；没有任何已测案例时 stabilityAvg 为 null，
+  // 渲染层据此显示占位符而不是 NaN。
+  const scored = cases.filter((c) => (c.stabilityScore || 0) > 0);
+  const stabilityCases = scored.length;
+  const stabilityAvg =
+    stabilityCases > 0
+      ? Number((scored.reduce((sum, c) => sum + c.stabilityScore, 0) / stabilityCases).toFixed(1))
+      : null;
   return {
     total: cases.length,
     v25Count: v25.length,
@@ -80,6 +89,8 @@ export function computeStats(data) {
     lastUpdated,
     retestCases,
     retestRuns,
+    stabilityCases,
+    stabilityAvg,
   };
 }
 
@@ -95,6 +106,7 @@ export function renderStatsTable(stats, lang) {
       `| Seedance 2.0 | ${stats.v20Count} |`,
       `| Unique authors | ${stats.authorCount} |`,
       `| Re-run on other models | ${stats.retestCases} cases / ${stats.retestRuns} runs |`,
+      `| Stability score (measured) | ${stats.stabilityCases} cases / avg ${stats.stabilityAvg != null ? stats.stabilityAvg.toFixed(1) : "-"} |`,
       `| Last updated | ${stats.lastUpdated} |`,
     ].join("\n");
   }
@@ -106,6 +118,7 @@ export function renderStatsTable(stats, lang) {
     `| Seedance 2.0 | ${stats.v20Count} |`,
     `| 作者数 | ${stats.authorCount} |`,
     `| 跨模型复测 | ${stats.retestCases} 条 / ${stats.retestRuns} 次 |`,
+    `| 稳定度分（已测） | ${stats.stabilityCases} 条 / 均分 ${stats.stabilityAvg != null ? stats.stabilityAvg.toFixed(1) : "-"} |`,
     `| 最近更新 | ${stats.lastUpdated} |`,
   ].join("\n");
 }
@@ -157,6 +170,16 @@ function renderRetestLine(retestSummary, lang) {
   return `${prefix} ${latest.model} · ${dateOnly(latest.testedAt)} · ${verdictInfo.icon} ${verdictLabel}${scorePart}${linkPart}${runsPart}`;
 }
 
+/**
+ * 单条案例的稳定度行。stabilityScore 0（含没有这个字段的老数据，undefined 按 0 处理）
+ * 表示还没测量,直接返回 null 让调用方跳过整行——保证未测案例渲染结果不变。
+ */
+function renderStabilityLine(stabilityScore, lang) {
+  if (!(stabilityScore > 0)) return null;
+  const prefix = lang === "en" ? "**Stability:**" : "**稳定度：**";
+  return `${prefix} ${stabilityScore}/100`;
+}
+
 /** Render a single case entry in the YouMind-style one-block footer format. */
 export function renderCaseEntry(caseObj, lang) {
   assertLang(lang);
@@ -181,6 +204,8 @@ export function renderCaseEntry(caseObj, lang) {
   lines.push(
     `**${t.author}:** ${caseObj.creator} | **${t.source}:** [${t.original}](${caseObj.sourceUrl}) | **${t.published}:** ${dateOnly(caseObj.sourcePublishedAt)} | **${t.heat}:** ${caseObj.heatScore}`
   );
+  const stabilityLine = renderStabilityLine(caseObj.stabilityScore, lang);
+  if (stabilityLine) lines.push(stabilityLine);
   const retestLine = renderRetestLine(caseObj.retestSummary, lang);
   if (retestLine) lines.push(retestLine);
   lines.push("");

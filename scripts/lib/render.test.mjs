@@ -238,6 +238,76 @@ test("renderCaseEntry keeps rendering byte-identical (no Retest line) for cases 
   assert.doesNotMatch(mdZh, /\*\*复测：\*\*/);
 });
 
+// ---------------------------------------------------------------------------
+// 稳定度分（stabilityScore）：0 表示未测量,包括没有这个字段的老数据。
+// ---------------------------------------------------------------------------
+
+test("renderCaseEntry adds a Stability line (en) when stabilityScore > 0", () => {
+  const c = { ...fixtureCases[0], stabilityScore: 78 };
+  const md = renderCaseEntry(c, "en");
+  assert.match(md, /\*\*Stability:\*\* 78\/100/);
+});
+
+test("renderCaseEntry adds a 稳定度 line (zh) when stabilityScore > 0", () => {
+  const c = { ...fixtureCases[0], stabilityScore: 78 };
+  const md = renderCaseEntry(c, "zh");
+  assert.match(md, /\*\*稳定度：\*\* 78\/100/);
+});
+
+test("renderCaseEntry omits the Stability line when stabilityScore is 0 or missing", () => {
+  const mdZero = renderCaseEntry({ ...fixtureCases[0], stabilityScore: 0 }, "en");
+  assert.doesNotMatch(mdZero, /\*\*Stability:\*\*/);
+  // fixtureCases[0] 本身没有 stabilityScore 字段——老数据的真实形态
+  const mdMissing = renderCaseEntry(fixtureCases[0], "en");
+  assert.doesNotMatch(mdMissing, /\*\*Stability:\*\*/);
+  const mdMissingZh = renderCaseEntry(fixtureCases[0], "zh");
+  assert.doesNotMatch(mdMissingZh, /\*\*稳定度：\*\*/);
+});
+
+test("computeStats counts measured stability scores and averages them to one decimal, ignoring 0/missing", () => {
+  const cases = [
+    { ...fixtureCases[0], stabilityScore: 80 },
+    { ...fixtureCases[1], stabilityScore: 85 },
+    { ...fixtureCases[2], stabilityScore: 0 }, // 未测量
+    { ...fixtureCases[3] }, // 老数据，没有这个字段
+  ];
+  const stats = computeStats({ cases, meta: { exportedAt: "2026-08-26T15:13:01.687Z" } });
+  assert.equal(stats.stabilityCases, 2);
+  assert.equal(stats.stabilityAvg, 82.5);
+});
+
+test("computeStats returns stabilityAvg null when no case has a measured score", () => {
+  const stats = computeStats({ cases: fixtureCases, meta: { exportedAt: "2026-08-26T15:13:01.687Z" } });
+  assert.equal(stats.stabilityCases, 0);
+  assert.equal(stats.stabilityAvg, null);
+});
+
+test("renderStatsTable shows the stability score row, with a placeholder average when there are 0 measured cases", () => {
+  const zeroStats = {
+    total: 4,
+    v25Count: 2,
+    v20Count: 2,
+    authorCount: 3,
+    lastUpdated: "2026-08-26",
+    retestCases: 0,
+    retestRuns: 0,
+    stabilityCases: 0,
+    stabilityAvg: null,
+  };
+  assert.match(renderStatsTable(zeroStats, "en"), /\| Stability score \(measured\) \| 0 cases \/ avg - \|/);
+  assert.match(renderStatsTable(zeroStats, "zh"), /\| 稳定度分（已测） \| 0 条 \/ 均分 - \|/);
+
+  const nonZeroStats = { ...zeroStats, stabilityCases: 2, stabilityAvg: 82.5 };
+  assert.match(
+    renderStatsTable(nonZeroStats, "en"),
+    /\| Stability score \(measured\) \| 2 cases \/ avg 82\.5 \|/
+  );
+  assert.match(
+    renderStatsTable(nonZeroStats, "zh"),
+    /\| 稳定度分（已测） \| 2 条 \/ 均分 82\.5 \|/
+  );
+});
+
 test("computeStats reads meta.retests.casesWithRetests / totalRuns", () => {
   const stats = computeStats({
     cases: fixtureCases,

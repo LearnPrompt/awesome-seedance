@@ -39,6 +39,7 @@ Seedance 2.5 is ByteDance's video generation model in Early Access, generating f
 | Seedance 2.0 | 272 |
 | Unique authors | 172 |
 | Re-run on other models | 11 cases / 11 runs |
+| Stability score (measured) | 2 cases / avg 85.5 |
 | Last updated | 2026-09-06 |
 
 ## ⭐ Featured
@@ -2581,6 +2582,7 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 [<img src="https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg" width="600" alt="梅林元素功夫表演">](https://goodcase.ai/cases/real-case-06-aimikoda)
 
 **Author:** @aimikoda | **Source:** [Original](https://x.com/aimikoda/status/2054460932068200517) | **Published:** 2026-05-13 | **Heat:** 91
+**Stability:** 86/100
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/real-case-06-aimikoda)**
 
@@ -3038,6 +3040,7 @@ Goal: A mouth-watering 12-second croissant journey from butter block to flaky te
 [<img src="https://media.goodcase.ai/media/poster/real-case-07-techiebysa.jpg" width="600" alt="法式牛角包制作过程">](https://goodcase.ai/cases/real-case-07-techiebysa)
 
 **Author:** @TechieBySA | **Source:** [Original](https://x.com/TechieBySA/status/2053523775702925768) | **Published:** 2026-05-10 | **Heat:** 87
+**Stability:** 85/100
 **Retest:** MiniMax H3 768p · 2026-08-11 · ⚠️ degraded · [output](https://media.goodcase.ai/retests/real-case-07-techiebysa/video-minimax-h3-768p-20260811-top-heat/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/real-case-07-techiebysa)**
@@ -3700,45 +3703,6 @@ The final result should look like a polished 60-second scene from a premium cine
 **Author:** @Caden_Flux | **Source:** [Original](https://x.com/Caden_Flux/status/2089154775829074074) | **Published:** 2026-08-17 | **Heat:** 86
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951)**
-
-
-### Vibrant K-pop Stage Performance
-
-> A rhythmic K-pop choreography prompt featuring three idols performing under LED lights with specific synchronized motions like laughing and peace signs.
-
-```
-A vibrant K-pop stage performance under bright purple and pink LED lights. Three young East Asian women idols with long dark hair stand in a line on stage, wearing headset microphones and stylish crop tops.
-
-Characters and outfits:
-
-Left idol: lime-green sleeveless top with white “BOYS LIE SPORT” text and heart logo.
-
-Center idol: baby-pink spaghetti-strap crop top with white piping.
-
-Right idol: navy-and-green horizontal striped collared crop top.
-
-Sequence — approximately 17 seconds:
-
-0–2s: The three idols begin by dancing lightly and naturally in sync to the beat. The center idol flips her long hair and turns slightly while dancing. The right idol dances with a playful expression. Do not have them cover their faces yet. Soft stage lighting and large LED screens show a big red “5” and heart graphics in the background.
-
-2–6s: While continuing their dance movement, all three suddenly bring both hands up to cover their mouths, reacting with genuine surprise and laughter. Their shoulders shake as they giggle and they gently bounce in place. The center idol laughs hardest, with her long hair naturally swaying.
-
-6–12s: They continue the synchronized cover-mouth-and-laugh motion while still subtly dancing to the beat. Keep their bodies moving naturally rather than freezing in place. Their expressions are joyful, playful, and genuinely amused. Medium camera framing captures all three idols clearly.
-
-12–15s: The dancing continues at 12 seconds as they smoothly transition from covering their mouths into making double peace signs with both hands raised near their faces. They keep moving rhythmically while smiling and laughing. The center idol briefly turns and then faces forward again.
-
-15–17s: Final pose while the dance energy continues subtly — all three hold double peace signs near their faces, beaming directly at the camera with bright, cheerful expressions. Soft stage haze and colorful LED lighting create a high-energy yet adorable K-pop concert atmosphere.
-
-Visual style: high-quality live concert footage, sharp details, natural skin texture, realistic facial expressions, dynamic but soft purple-and-pink stage lighting, subtle handheld camera shake for realism, natural hair movement, believable body motion, polished K-pop performance cinematography, cute, energetic, wholesome atmosphere.
-
-Important motion requirements: The idols must dance first before putting their hands on their faces. Do not start with their hands covering their mouths. The dancing continues throughout the sequence, including after the 12-second mark. No frozen poses before the final moment. No text overlays.
-```
-
-[<img src="https://pbs.twimg.com/amplify_video_thumb/2087744515708698624/img/xsHuD__Mo4DPZhcV.jpg" width="600" alt="Vibrant K-pop Stage Performance">](https://goodcase.ai/cases/vibrant-k-pop-stage-performance)
-
-**Author:** Sharon Riley | **Source:** [Original](https://x.com/i/status/2087744765341159503) | **Published:** 2026-08-13 | **Heat:** 85
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vibrant-k-pop-stage-performance)**
 
 
 ## How to Contribute
