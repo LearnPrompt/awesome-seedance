@@ -424,6 +424,7 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 [<img src="https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg" width="600" alt="梅林元素功夫表演">](https://goodcase.ai/cases/real-case-06-aimikoda)
 
 **Author:** @aimikoda | **Source:** [Original](https://x.com/aimikoda/status/2054460932068200517) | **Published:** 2026-05-13 | **Heat:** 91
+**Stability:** 86/100
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/real-case-06-aimikoda)**
 
@@ -872,6 +873,7 @@ Goal: A mouth-watering 12-second croissant journey from butter block to flaky te
 [<img src="https://media.goodcase.ai/media/poster/real-case-07-techiebysa.jpg" width="600" alt="法式牛角包制作过程">](https://goodcase.ai/cases/real-case-07-techiebysa)
 
 **Author:** @TechieBySA | **Source:** [Original](https://x.com/TechieBySA/status/2053523775702925768) | **Published:** 2026-05-10 | **Heat:** 87
+**Stability:** 85/100
 **Retest:** MiniMax H3 768p · 2026-08-11 · ⚠️ degraded · [output](https://media.goodcase.ai/retests/real-case-07-techiebysa/video-minimax-h3-768p-20260811-top-heat/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/real-case-07-techiebysa)**
