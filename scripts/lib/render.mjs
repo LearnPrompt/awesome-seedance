@@ -25,6 +25,15 @@ const LABELS = {
   },
 };
 
+// 复测 verdict → 图标 + 中英文案。case.retestSummary.latest.verdict 取值固定这四种，
+// 未知值兜底成 inconclusive 图标，不让渲染直接炸。
+const RETEST_VERDICT = {
+  reproduced: { icon: "✅", en: "reproduced", zh: "复现" },
+  degraded: { icon: "⚠️", en: "degraded", zh: "降级" },
+  failed: { icon: "❌", en: "failed", zh: "失败" },
+  inconclusive: { icon: "➖", en: "inconclusive", zh: "不确定" },
+};
+
 function assertLang(lang) {
   if (lang !== "en" && lang !== "zh") {
     throw new Error(`Unsupported lang: ${lang}`);
@@ -54,16 +63,51 @@ export function computeStats(data) {
   const v25 = cases.filter(isSeedance25);
   const v20 = cases.filter(isSeedance20OrEarlier);
   const authors = new Set(cases.map((c) => c.creator));
-  const lastUpdated = cases.reduce((latest, c) => {
-    return !latest || c.sourcePublishedAt > latest ? c.sourcePublishedAt : latest;
-  }, null);
+  // "Last updated" 取数据导出时间（data/cases.json 顶层 meta.exportedAt），
+  // 不再取案例里最新的 sourcePublishedAt——那只反映内容年代，不反映数据本身多久没刷新过。
+  const exportedAt = data.meta && data.meta.exportedAt;
+  const lastUpdated = exportedAt ? exportedAt.slice(0, 10) : null;
+  // meta.retests 是私仓导出层正在同步加的新字段，老数据/老导出没有这一层，
+  // 缺失时必须退化成 0 而不是 undefined——Statistics 表要能一直显示这一行。
+  const retests = data.meta && data.meta.retests;
+  const retestCases = (retests && retests.casesWithRetests) || 0;
+  const retestRuns = (retests && retests.totalRuns) || 0;
   return {
     total: cases.length,
     v25Count: v25.length,
     v20Count: v20.length,
     authorCount: authors.size,
     lastUpdated,
+    retestCases,
+    retestRuns,
   };
+}
+
+/** Statistics 表。从 generate-readme.mjs 挪过来变成纯函数，方便单测覆盖新增的复测行。 */
+export function renderStatsTable(stats, lang) {
+  assertLang(lang);
+  if (lang === "en") {
+    return [
+      "| Metric | Value |",
+      "| --- | --- |",
+      `| Total cases | ${stats.total} |`,
+      `| Seedance 2.5 | ${stats.v25Count} |`,
+      `| Seedance 2.0 | ${stats.v20Count} |`,
+      `| Unique authors | ${stats.authorCount} |`,
+      `| Re-run on other models | ${stats.retestCases} cases / ${stats.retestRuns} runs |`,
+      `| Last updated | ${stats.lastUpdated} |`,
+    ].join("\n");
+  }
+  return [
+    "| 指标 | 数值 |",
+    "| --- | --- |",
+    `| 案例总数 | ${stats.total} |`,
+    `| Seedance 2.5 | ${stats.v25Count} |`,
+    `| Seedance 2.0 | ${stats.v20Count} |`,
+    `| 作者数 | ${stats.authorCount} |`,
+    `| 跨模型复测 | ${stats.retestCases} 条 / ${stats.retestRuns} 次 |`,
+    `| 最近更新 | ${stats.lastUpdated} |`,
+  ].join("\n");
 }
 
 export function getFeatured(cases, count = FEATURED_COUNT) {
@@ -84,6 +128,33 @@ function fenceForPrompt(prompt) {
   }
   const fenceLen = Math.max(3, longestRun + 1);
   return "`".repeat(fenceLen);
+}
+
+/**
+ * 单条案例的复测摘要行。caseObj.retestSummary 是私仓导出层正在同步的新字段，
+ * 老数据/老 case 没有这个字段——必须返回 null 让调用方直接跳过整行，
+ * 保证没有复测数据的老案例渲染结果逐字节不变。
+ */
+function renderRetestLine(retestSummary, lang) {
+  if (!retestSummary || !retestSummary.latest) return null;
+  const { latest, runs } = retestSummary;
+  const verdictInfo = RETEST_VERDICT[latest.verdict] || RETEST_VERDICT.inconclusive;
+  const verdictLabel = verdictInfo[lang];
+  const scorePart =
+    latest.finalScore != null
+      ? lang === "en"
+        ? ` (score ${latest.finalScore})`
+        : ` (${latest.finalScore} 分)`
+      : "";
+  const linkPart = latest.artifactUrl
+    ? lang === "en"
+      ? ` · [output](${latest.artifactUrl})`
+      : ` · [产物](${latest.artifactUrl})`
+    : "";
+  const runsPart =
+    runs > 1 ? (lang === "en" ? ` · ${runs} runs` : ` · 共 ${runs} 次`) : "";
+  const prefix = lang === "en" ? "**Retest:**" : "**复测：**";
+  return `${prefix} ${latest.model} · ${dateOnly(latest.testedAt)} · ${verdictInfo.icon} ${verdictLabel}${scorePart}${linkPart}${runsPart}`;
 }
 
 /** Render a single case entry in the YouMind-style one-block footer format. */
@@ -110,6 +181,8 @@ export function renderCaseEntry(caseObj, lang) {
   lines.push(
     `**${t.author}:** ${caseObj.creator} | **${t.source}:** [${t.original}](${caseObj.sourceUrl}) | **${t.published}:** ${dateOnly(caseObj.sourcePublishedAt)} | **${t.heat}:** ${caseObj.heatScore}`
   );
+  const retestLine = renderRetestLine(caseObj.retestSummary, lang);
+  if (retestLine) lines.push(retestLine);
   lines.push("");
   lines.push(`**[${t.viewOnGoodcase}](${caseObj.goodcaseUrl})**`);
   lines.push("");
@@ -239,6 +312,58 @@ export function galleryPartFileName(lang, partNo, totalParts) {
   const suffix = lang === "en" ? "md" : "zh.md";
   const base = totalParts === 1 ? "gallery-seedance-2-0" : `gallery-seedance-2-0-part-${partNo}`;
   return `${base}.${suffix}`;
+}
+
+/**
+ * 按模型聚合每条 case 的 case.retests[]（倒序最多 5 条），算出每个模型的复测次数
+ * 和复现次数，用来算按模型的复现率。meta.retests.byVerdict 只有全局汇总，算不出
+ * 按模型的复现率——所以这里从 case 级明细重新聚合，而不是读 meta.retests.byModel。
+ * 注意：单条 case 的 retests 最多保留 5 条，模型总次数可能比 meta.retests.totalRuns
+ * 里的真实次数少；这是已知的近似，spec 里明确接受。
+ */
+export function aggregateRetestsByModel(cases) {
+  const byModel = new Map();
+  for (const c of cases || []) {
+    for (const r of c.retests || []) {
+      if (!r || !r.model) continue;
+      if (!byModel.has(r.model)) byModel.set(r.model, { runs: 0, reproduced: 0 });
+      const entry = byModel.get(r.model);
+      entry.runs += 1;
+      if (r.verdict === "reproduced") entry.reproduced += 1;
+    }
+  }
+  return byModel;
+}
+
+/**
+ * “🔁 Cross-model retests” 小节：一句话说明 + 按模型的次数/复现率表。
+ * meta.retests 缺失或 totalRuns 为 0 时返回 null，调用方据此整节不渲染
+ * ——老数据（data/cases.json 还没同步这层字段）必须完全不受影响。
+ */
+export function renderCrossModelSection(cases, meta, lang) {
+  assertLang(lang);
+  const retestsMeta = meta && meta.retests;
+  if (!retestsMeta || !retestsMeta.totalRuns) return null;
+  const perModel = aggregateRetestsByModel(cases);
+  if (perModel.size === 0) return null;
+
+  const heading = lang === "en" ? "## 🔁 Cross-model retests" : "## 🔁 跨模型复测";
+  const intro =
+    lang === "en"
+      ? "Every prompt here is re-run on other video models; verdicts and output artifacts are public, logged in goodcase.ai's retest history."
+      : "每条 prompt 都会在其他视频模型上重跑，结论与产物公开，记录在 goodcase.ai 的复测日志里。";
+  const tableHeader =
+    lang === "en"
+      ? ["| Model | Runs | Reproduction rate |", "| --- | --- | --- |"]
+      : ["| 模型 | 次数 | 复现率 |", "| --- | --- | --- |"];
+  const rows = Array.from(perModel.entries())
+    .sort((a, b) => b[1].runs - a[1].runs)
+    .map(([model, { runs, reproduced }]) => {
+      const rate = runs > 0 ? `${Math.round((reproduced / runs) * 100)}%` : "-";
+      return `| ${model} | ${runs} | ${rate} |`;
+    });
+
+  return [heading, "", intro, "", ...tableHeader, ...rows, ""].join("\n");
 }
 
 export { LABELS };

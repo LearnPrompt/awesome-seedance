@@ -39,7 +39,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.md README_zh.md docs/gallery-seedance-2-0.md docs/gallery-seedance-2-0.zh.md agents/skills/seedance-prompt-library/references/style-library.md
+          # gallery 已分片为 docs/gallery-seedance-2-0-part-N.md，不再是单文件，改为整个目录一起 add
+          git add README.md README_zh.md docs/ agents/
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

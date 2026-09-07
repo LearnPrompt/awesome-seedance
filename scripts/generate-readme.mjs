@@ -9,6 +9,8 @@ import {
   getFeatured,
   renderCaseEntry,
   renderTemplateCard,
+  renderStatsTable,
+  renderCrossModelSection,
   partitionAllPrompts,
   fitToSizeBudget,
   renderGalleryParts,
@@ -45,6 +47,10 @@ const COPY = {
     title: "# Awesome Seedance",
     tagline:
       "A curated, verified prompt library for Seedance 2.5 / 2.0 video generation — every case checked against its original source.",
+    // goodcase.ai 反链，位置固定在 badges 之后、Install 之前。原是 PR #1 手改进 README 的一行，
+    // 不搬进生成器模板的话下次 npm run generate 会把它覆盖掉。
+    backlink:
+      "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     installHeading: "## Install",
     installBody: [
       "```bash",
@@ -101,6 +107,9 @@ const COPY = {
     langSwitch: "[English](./README.md) | **[中文](./README_zh.md)**",
     title: "# Awesome Seedance",
     tagline: "Seedance 2.5 / 2.0 视频生成提示词精选库，每一条都核对过原帖来源。",
+    // goodcase.ai 反链，位置固定在 badges 之后、安装之前，中英各一份，见上方 en 段注释。
+    backlink:
+      "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     installHeading: "## 安装",
     installBody: [
       "```bash",
@@ -154,29 +163,6 @@ const COPY = {
   },
 };
 
-function renderStatsTable(stats, lang) {
-  if (lang === "en") {
-    return [
-      "| Metric | Value |",
-      "| --- | --- |",
-      `| Total cases | ${stats.total} |`,
-      `| Seedance 2.5 | ${stats.v25Count} |`,
-      `| Seedance 2.0 | ${stats.v20Count} |`,
-      `| Unique authors | ${stats.authorCount} |`,
-      `| Last updated | ${stats.lastUpdated} |`,
-    ].join("\n");
-  }
-  return [
-    "| 指标 | 数值 |",
-    "| --- | --- |",
-    `| 案例总数 | ${stats.total} |`,
-    `| Seedance 2.5 | ${stats.v25Count} |`,
-    `| Seedance 2.0 | ${stats.v20Count} |`,
-    `| 作者数 | ${stats.authorCount} |`,
-    `| 最近更新 | ${stats.lastUpdated} |`,
-  ].join("\n");
-}
-
 function renderStarHistory() {
   const repo = "LearnPrompt/awesome-seedance";
   return `[![Star History Chart](https://api.star-history.com/svg?repos=${repo}&type=Date)](https://star-history.com/#${repo}&Date)`;
@@ -192,6 +178,8 @@ function buildReadme(lang) {
   head.push(`> ${c.tagline}`);
   head.push("");
   head.push(BADGES);
+  head.push("");
+  head.push(c.backlink);
   head.push("");
   head.push(c.installHeading);
   head.push("");
@@ -221,6 +209,12 @@ function buildReadme(lang) {
   head.push("");
   for (const caseObj of featured) {
     head.push(renderCaseEntry(caseObj, lang));
+  }
+  // meta.retests 缺失（老数据/私仓导出层还没同步）或 totalRuns 为 0 时返回 null，
+  // 整节不渲染——这也是保证现有 data/cases.json 渲染逐字节不变的关键点。
+  const crossModelSection = renderCrossModelSection(cases, casesData.meta, lang);
+  if (crossModelSection) {
+    head.push(crossModelSection);
   }
   head.push(c.templatesHeading);
   head.push("");
