@@ -80,7 +80,7 @@ soft window light from left, 9:16 widescreen.
 
 **作者:** Caden Flux | **来源:** [原帖](https://x.com/i/status/2070862852735594771) | **发布:** 2026-06-27 | **热度:** 24
 **稳定度：** 85/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.5 分) · [产物](https://media.goodcase.ai/retests/case-179a06586ce5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.4 分) · [产物](https://media.goodcase.ai/retests/case-179a06586ce5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-179a06586ce5)**
 
@@ -96,7 +96,7 @@ A massive human fortress built into the cliffs of a frozen planet faces a final 
 
 **作者:** Pierrick Chevallier | IA | **来源:** [原帖](https://x.com/i/status/2080669361237303417) | **发布:** 2026-07-24 | **热度:** 23
 **稳定度：** 66/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66 分) · [产物](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66.1 分) · [产物](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1b3b8865bca8)**
 
@@ -111,8 +111,8 @@ A young creator walks into a bright living room holding a pair of sleek wireless
 [<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="无线耳机产品评测">](https://goodcase.ai/cases/case-b157d9c072bc)
 
 **作者:** Saul Goodman | **来源:** [原帖](https://x.com/i/status/2078490755958780363) | **发布:** 2026-07-18 | **热度:** 23
-**稳定度：** 78/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.6 分) · [产物](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 84/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.9 分) · [产物](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b157d9c072bc)**
 
@@ -127,8 +127,8 @@ Cinematic Korean action sequence in a narrow sunlit urban alleyway lined with br
 [<img src="https://media.goodcase.ai/media/poster/case-f7e7c1862f38.jpg" width="600" alt="武术巷战场景">](https://goodcase.ai/cases/case-f7e7c1862f38)
 
 **作者:** KeorUnreal | **来源:** [原帖](https://x.com/i/status/2081477878349246776) | **发布:** 2026-07-26 | **热度:** 22
-**稳定度：** 81/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.6 分) · [产物](https://media.goodcase.ai/retests/case-f7e7c1862f38/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.4 分) · [产物](https://media.goodcase.ai/retests/case-f7e7c1862f38/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f7e7c1862f38)**
 
@@ -143,8 +143,8 @@ Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animati
 [<img src="https://media.goodcase.ai/media/poster/vlog-065189cb9adb.jpg" width="600" alt="电影感滑翔伞旅行 Vlog">](https://goodcase.ai/cases/vlog-065189cb9adb)
 
 **作者:** Saul Goodman | **来源:** [原帖](https://x.com/i/status/2081028788771815678) | **发布:** 2026-07-25 | **热度:** 22
-**稳定度：** 91/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (90.8 分) · [产物](https://media.goodcase.ai/retests/vlog-065189cb9adb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 88/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (87.7 分) · [产物](https://media.goodcase.ai/retests/vlog-065189cb9adb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-065189cb9adb)**
 
@@ -159,8 +159,8 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 [<img src="https://media.goodcase.ai/media/poster/ugc-6f13437e4b40.jpg" width="600" alt="高端巧克力棒 UGC 广告提示词">](https://goodcase.ai/cases/ugc-6f13437e4b40)
 
 **作者:** Abkr Sadiq | **来源:** [原帖](https://x.com/i/status/2080969538032611779) | **发布:** 2026-07-25 | **热度:** 22
-**稳定度：** 82/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.8 分) · [产物](https://media.goodcase.ai/retests/ugc-6f13437e4b40/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 83/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.2 分) · [产物](https://media.goodcase.ai/retests/ugc-6f13437e4b40/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-6f13437e4b40)**
 
@@ -178,8 +178,8 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 [<img src="https://media.goodcase.ai/media/poster/case-21aab321f762.jpg" width="600" alt="黏土风格海盗鸭冒险">](https://goodcase.ai/cases/case-21aab321f762)
 
 **作者:** Pierrick Chevallier | IA | **来源:** [原帖](https://x.com/i/status/2078072313686184334) | **发布:** 2026-07-17 | **热度:** 21
-**稳定度：** 80/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80 分) · [产物](https://media.goodcase.ai/retests/case-21aab321f762/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 83/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83 分) · [产物](https://media.goodcase.ai/retests/case-21aab321f762/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-21aab321f762)**
 
@@ -224,8 +224,8 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 [<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud)
 
 **作者:** Soran | **来源:** [原帖](https://x.com/i/status/2081379282442420321) | **发布:** 2026-07-26 | **热度:** 19
-**稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (71 分) · [产物](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**稳定度：** 79/100
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (78.9 分) · [产物](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
 
@@ -240,8 +240,8 @@ Open on an extreme close up of his face reflected in a rain covered bus stop gla
 [<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="夜间追逐电影级镜头">](https://goodcase.ai/cases/case-d30f8318a084)
 
 **作者:** BMX | **来源:** [原帖](https://x.com/i/status/2081091640857702427) | **发布:** 2026-07-25 | **热度:** 19
-**稳定度：** 80/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.1 分) · [产物](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 84/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.8 分) · [产物](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d30f8318a084)**
 
@@ -284,8 +284,8 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 [<img src="https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg" width="600" alt="赛博朋克赛博之刃战斗">](https://goodcase.ai/cases/case-1a9a2c659866)
 
 **作者:** LUCY | **来源:** [原帖](https://x.com/i/status/2080628740955218120) | **发布:** 2026-07-24 | **热度:** 19
-**稳定度：** 63/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.1 分) · [产物](https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 60/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (59.6 分) · [产物](https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1a9a2c659866)**
 
@@ -340,8 +340,8 @@ Made  in @LumaLabsAI #LumaCPP
 [<img src="https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg" width="600" alt="凤凰骑士变身序列">](https://goodcase.ai/cases/case-4306bf4e075c)
 
 **作者:** LudovicCreator | **来源:** [原帖](https://x.com/i/status/2081092171428401560) | **发布:** 2026-07-25 | **热度:** 17
-**稳定度：** 87/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.5 分) · [产物](https://media.goodcase.ai/retests/case-4306bf4e075c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 88/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88.1 分) · [产物](https://media.goodcase.ai/retests/case-4306bf4e075c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-4306bf4e075c)**
 
@@ -356,8 +356,8 @@ A battle-worn knight in blackened plate armor stands alone on a ruined stone bri
 [<img src="https://media.goodcase.ai/media/poster/case-b1405ee458d3.jpg" width="600" alt="废墟之桥上的史诗骑士之战">](https://goodcase.ai/cases/case-b1405ee458d3)
 
 **作者:** Pierrick Chevallier | IA | **来源:** [原帖](https://x.com/i/status/2081031751598535092) | **发布:** 2026-07-25 | **热度:** 17
-**稳定度：** 84/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.1 分) · [产物](https://media.goodcase.ai/retests/case-b1405ee458d3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 83/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.5 分) · [产物](https://media.goodcase.ai/retests/case-b1405ee458d3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b1405ee458d3)**
 
@@ -400,7 +400,7 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 **作者:** 雨雲(Amagumo)806 ｜ AI Animer | **来源:** [原帖](https://x.com/i/status/2078023536992735573) | **发布:** 2026-07-17 | **热度:** 17
 **稳定度：** 70/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70 分) · [产物](https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.6 分) · [产物](https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b079faa80f0f)**
 
@@ -430,8 +430,8 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 [<img src="https://media.goodcase.ai/media/poster/case-f46706b10233.jpg" width="600" alt="消散的绳索吊桥峡谷">](https://goodcase.ai/cases/case-f46706b10233)
 
 **作者:** Bedi | **来源:** [原帖](https://x.com/i/status/2081398750996746385) | **发布:** 2026-07-26 | **热度:** 16
-**稳定度：** 80/100
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (79.5 分) · [产物](https://media.goodcase.ai/retests/case-f46706b10233/video-minimax-h3-768p-20260906-phase1/generated.mp4) · 共 2 次
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (76.9 分) · [产物](https://media.goodcase.ai/retests/case-f46706b10233/video-minimax-h3-768p-20260906-phase1/generated.mp4) · 共 2 次
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f46706b10233)**
 
@@ -460,8 +460,8 @@ A legendary female knight with long platinum hair, striking green eyes, athletic
 [<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="传奇骑士堡垒之战">](https://goodcase.ai/cases/case-c726edc4268d)
 
 **作者:** Pierrick Chevallier | IA | **来源:** [原帖](https://x.com/i/status/2080306973220725206) | **发布:** 2026-07-23 | **热度:** 15
-**稳定度：** 82/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.5 分) · [产物](https://media.goodcase.ai/retests/case-c726edc4268d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 81/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.9 分) · [产物](https://media.goodcase.ai/retests/case-c726edc4268d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c726edc4268d)**
 
@@ -513,8 +513,8 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 [<img src="https://media.goodcase.ai/media/poster/90-vhs-vlog-ae90c46cb606.jpg" width="600" alt="90 年代复古 VHS 健身 Vlog">](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)
 
 **作者:** serein ｜买美股上币安 | **来源:** [原帖](https://x.com/i/status/2081218658618188267) | **发布:** 2026-07-26 | **热度:** 14
-**稳定度：** 69/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.4 分) · [产物](https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 68/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.7 分) · [产物](https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)**
 
@@ -529,8 +529,8 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 [<img src="https://media.goodcase.ai/media/poster/case-95a5c01a9b87.jpg" width="600" alt="奥德修斯与独眼巨人的定格动画">](https://goodcase.ai/cases/case-95a5c01a9b87)
 
 **作者:** Melis✨ | **来源:** [原帖](https://x.com/i/status/2080744222571848176) | **发布:** 2026-07-24 | **热度:** 14
-**稳定度：** 83/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.5 分) · [产物](https://media.goodcase.ai/retests/case-95a5c01a9b87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 82/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.8 分) · [产物](https://media.goodcase.ai/retests/case-95a5c01a9b87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-95a5c01a9b87)**
 
@@ -545,8 +545,8 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 [<img src="https://media.goodcase.ai/media/poster/case-7a9235e91c71.jpg" width="600" alt="定格动画：薯片堆叠">](https://goodcase.ai/cases/case-7a9235e91c71)
 
 **作者:** Abkr Sadiq | **来源:** [原帖](https://x.com/i/status/2074744763505324502) | **发布:** 2026-07-08 | **热度:** 14
-**稳定度：** 64/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (64 分) · [产物](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.5 分) · [产物](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-7a9235e91c71)**
 
@@ -568,8 +568,8 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 [<img src="https://media.goodcase.ai/media/poster/case-e0d3b03f1aef.jpg" width="600" alt="汤姆·索亚粉刷篱笆场景">](https://goodcase.ai/cases/case-e0d3b03f1aef)
 
 **作者:** AIrina (Virtual Media Net) | **来源:** [原帖](https://x.com/i/status/2081078057386021026) | **发布:** 2026-07-25 | **热度:** 13
-**稳定度：** 87/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (87 分) · [产物](https://media.goodcase.ai/retests/case-e0d3b03f1aef/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 84/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.2 分) · [产物](https://media.goodcase.ai/retests/case-e0d3b03f1aef/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e0d3b03f1aef)**
 
@@ -647,8 +647,8 @@ P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen r
 [<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="音乐视频编舞与身份设定">](https://goodcase.ai/cases/case-24775a8dc979)
 
 **作者:** Kōda | **来源:** [原帖](https://x.com/i/status/2079968108303818827) | **发布:** 2026-07-22 | **热度:** 11
-**稳定度：** 33/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (32.9 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 50/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (50.1 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-24775a8dc979)**
 
@@ -802,8 +802,8 @@ output_rules:
 [<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML 跑酷电影级序列">](https://goodcase.ai/cases/yaml-629d172a4820)
 
 **作者:** 田中勇道 | AI画像・動画生成 | **来源:** [原帖](https://x.com/i/status/2079900274064490842) | **发布:** 2026-07-22 | **热度:** 11
-**稳定度：** 66/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 69/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (68.9 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yaml-629d172a4820)**
 
@@ -848,8 +848,8 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 [<img src="https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg" width="600" alt="2D Sticker Capybara Kitchen Prank">](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)
 
 **作者:** Soran | **来源:** [原帖](https://x.com/i/status/2081386564525953050) | **发布:** 2026-07-26 | **热度:** 10
-**稳定度：** 86/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.9 分) · [产物](https://media.goodcase.ai/retests/2d-sticker-capybara-kitchen-prank/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 78/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.6 分) · [产物](https://media.goodcase.ai/retests/2d-sticker-capybara-kitchen-prank/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)**
 
@@ -878,8 +878,8 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 [<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="夜间动漫风格涂鸦隧道场景">](https://goodcase.ai/cases/case-779580528a24)
 
 **作者:** TechieSA | **来源:** [原帖](https://x.com/i/status/2081354591925305667) | **发布:** 2026-07-26 | **热度:** 10
-**稳定度：** 88/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88.2 分) · [产物](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 83/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.4 分) · [产物](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-779580528a24)**
 
@@ -1490,8 +1490,8 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 [<img src="https://media.goodcase.ai/media/poster/cinematic-anime-martial-arts-training-ground.jpg" width="600" alt="Cinematic Anime Martial Arts Training Ground">](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)
 
 **作者:** TechieSA | **来源:** [原帖](https://x.com/i/status/2081405410464972870) | **发布:** 2026-07-26 | **热度:** 7
-**稳定度：** 84/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.1 分) · [产物](https://media.goodcase.ai/retests/cinematic-anime-martial-arts-training-ground/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 81/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.5 分) · [产物](https://media.goodcase.ai/retests/cinematic-anime-martial-arts-training-ground/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)**
 
@@ -1506,8 +1506,8 @@ A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with 
 [<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="复古汽水广告 Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)
 
 **作者:** Djaja Yerry | **来源:** [原帖](https://x.com/i/status/2080666062690140315) | **发布:** 2026-07-24 | **热度:** 7
-**稳定度：** 85/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.3 分) · [产物](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 84/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.3 分) · [产物](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)**
 
@@ -1592,8 +1592,8 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 [<img src="https://media.goodcase.ai/media/poster/case-a45446378e2a.jpg" width="600" alt="吉卜力风格森林烹饪动画">](https://goodcase.ai/cases/case-a45446378e2a)
 
 **作者:** AIReel | **来源:** [原帖](https://x.com/i/status/2079531584869548309) | **发布:** 2026-07-21 | **热度:** 6
-**稳定度：** 87/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-a45446378e2a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 79/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.4 分) · [产物](https://media.goodcase.ai/retests/case-a45446378e2a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a45446378e2a)**
 
@@ -1621,8 +1621,8 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 [<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="写实风格无线耳机广告">](https://goodcase.ai/cases/case-96017ad7706f)
 
 **作者:** HiAPI | **来源:** [原帖](https://x.com/i/status/2081294040415482322) | **发布:** 2026-07-26 | **热度:** 5
-**稳定度：** 75/100
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (74.8 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**稳定度：** 73/100
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (72.7 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-96017ad7706f)**
 
@@ -1705,8 +1705,8 @@ One shared valley, one @titan, same @wardens and @warhorn across all five cuts, 
 [<img src="https://media.goodcase.ai/media/poster/case-579dd9bdd240.jpg" width="600" alt="史诗冰雪奇幻：泰坦觉醒">](https://goodcase.ai/cases/case-579dd9bdd240)
 
 **作者:** Abdul Șhakoor | **来源:** [原帖](https://x.com/i/status/2081023473305162165) | **发布:** 2026-07-25 | **热度:** 5
-**稳定度：** 81/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.1 分) · [产物](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-579dd9bdd240)**
 
@@ -1721,8 +1721,8 @@ Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, h
 [<img src="https://media.goodcase.ai/media/poster/case-d087761bf321.jpg" width="600" alt="奢华沙龙美妆变身">](https://goodcase.ai/cases/case-d087761bf321)
 
 **作者:** KreviX | **来源:** [原帖](https://x.com/i/status/2080960631180570913) | **发布:** 2026-07-25 | **热度:** 5
-**稳定度：** 79/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.5 分) · [产物](https://media.goodcase.ai/retests/case-d087761bf321/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/case-d087761bf321/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d087761bf321)**
 
@@ -1783,8 +1783,8 @@ P09: Final victory shot. She accelerates toward the glowing skyline on the empty
 [<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="屋顶追逐动作短语">](https://goodcase.ai/cases/case-8f7479c32251)
 
 **作者:** LANDCÄSTER | **来源:** [原帖](https://x.com/i/status/2081432738683314614) | **发布:** 2026-07-26 | **热度:** 4
-**稳定度：** 64/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 70/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8f7479c32251)**
 
@@ -1799,8 +1799,8 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 [<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="纽约 FPV 无人机飞行">](https://goodcase.ai/cases/fpv-cd4a852a53ba)
 
 **作者:** KreviX | **来源:** [原帖](https://x.com/i/status/2081427105435255093) | **发布:** 2026-07-26 | **热度:** 4
-**稳定度：** 80/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.7 分) · [产物](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
 
@@ -2029,8 +2029,8 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 [<img src="https://media.goodcase.ai/media/poster/case-c0cf557563b7.jpg" width="600" alt="角斗场决斗动作">](https://goodcase.ai/cases/case-c0cf557563b7)
 
 **作者:** Hero Syndicate | **来源:** [原帖](https://x.com/i/status/2081137523536109682) | **发布:** 2026-07-25 | **热度:** 4
-**稳定度：** 67/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.3 分) · [产物](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 74/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.7 分) · [产物](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c0cf557563b7)**
 
@@ -2063,7 +2063,7 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 [<img src="https://media.goodcase.ai/media/poster/case-3ab1709b8447.jpg" width="600" alt="现代舞室音乐视频">](https://goodcase.ai/cases/case-3ab1709b8447)
 
 **作者:** PixelAIGC | **来源:** [原帖](https://x.com/i/status/2078846287500439682) | **发布:** 2026-07-19 | **热度:** 4
-**复测：** MiniMax H3 768p · 2026-08-09 · ✅ 复现 · [产物](https://media.goodcase.ai/retests/case-3ab1709b8447/video-minimax-h3-768p-20260809-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ❌ 失败 · 共 2 次
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3ab1709b8447)**
 
@@ -2078,8 +2078,8 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 [<img src="https://media.goodcase.ai/media/poster/asmr-vlog-db7f7a2ad923.jpg" width="600" alt="超治愈 ASMR Vlog">](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923)
 
 **作者:** Pan | **来源:** [原帖](https://x.com/i/status/2080942778293313949) | **发布:** 2026-07-25 | **热度:** 3
-**稳定度：** 61/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (61 分) · [产物](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 63/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.1 分) · [产物](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923)**
 
@@ -2117,8 +2117,8 @@ Maintain one continuous freefall throughout the entire sequence with accurate gr
 [<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="多元宇宙维度传送门坠落">](https://goodcase.ai/cases/case-b8e777843103)
 
 **作者:** Nabab Uddin | **来源:** [原帖](https://x.com/i/status/2079428121133240602) | **发布:** 2026-07-21 | **热度:** 3
-**稳定度：** 84/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.6 分) · [产物](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 80/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80 分) · [产物](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b8e777843103)**
 
@@ -2133,8 +2133,8 @@ Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wid
 [<img src="https://media.goodcase.ai/media/poster/case-749c98da9b7d.jpg" width="600" alt="皮克斯风格奶昔故事板动画">](https://goodcase.ai/cases/case-749c98da9b7d)
 
 **作者:** GPTProto Official | **来源:** [原帖](https://x.com/i/status/2071501518679998922) | **发布:** 2026-06-29 | **热度:** 3
-**稳定度：** 80/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80 分) · [产物](https://media.goodcase.ai/retests/case-749c98da9b7d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 81/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.5 分) · [产物](https://media.goodcase.ai/retests/case-749c98da9b7d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-749c98da9b7d)**
 
@@ -2200,8 +2200,8 @@ anime style、10秒、one-take、カットなし。少女を主役として同�
 [<img src="https://media.goodcase.ai/media/poster/dj-0f7bed87d7ec.jpg" width="600" alt="动漫 DJ 女孩俱乐部表演">](https://goodcase.ai/cases/dj-0f7bed87d7ec)
 
 **作者:** 結パパ | **来源:** [原帖](https://x.com/i/status/2080550617043587535) | **发布:** 2026-07-24 | **热度:** 2
-**稳定度：** 75/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.3 分) · [产物](https://media.goodcase.ai/retests/dj-0f7bed87d7ec/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 80/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/dj-0f7bed87d7ec/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/dj-0f7bed87d7ec)**
 
@@ -2216,6 +2216,7 @@ anime style、10秒、one-take、カットなし。少女を主役として同�
 [<img src="https://media.goodcase.ai/media/poster/case-a845e1418b39.jpg" width="600" alt="昭和时代复古客厅场景">](https://goodcase.ai/cases/case-a845e1418b39)
 
 **作者:** 真坂参志郎 | **来源:** [原帖](https://x.com/i/status/2081189582553657528) | **发布:** 2026-07-26 | **热度:** 1
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ❌ 失败
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a845e1418b39)**
 
@@ -2265,8 +2266,8 @@ whip-pans between beats; kinetic precision.
 [<img src="https://media.goodcase.ai/media/poster/case-251215797a14.jpg" width="600" alt="硬核科幻动漫剪辑">](https://goodcase.ai/cases/case-251215797a14)
 
 **作者:** PixieVerse | **来源:** [原帖](https://x.com/i/status/2081161446671651074) | **发布:** 2026-07-25 | **热度:** 1
-**稳定度：** 72/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (72.3 分) · [产物](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 75/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.9 分) · [产物](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-251215797a14)**
 
@@ -2283,8 +2284,8 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 [<img src="https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg" width="600" alt="奢华美妆护肤 ASMR">](https://goodcase.ai/cases/asmr-eb8937adce5b)
 
 **作者:** Pan | **来源:** [原帖](https://x.com/i/status/2080999511195828239) | **发布:** 2026-07-25 | **热度:** 1
-**稳定度：** 70/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.3 分) · [产物](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 75/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.3 分) · [产物](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-eb8937adce5b)**
 
@@ -2328,8 +2329,8 @@ Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Li
 [<img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="600" alt="童年玩具对话提示词">](https://goodcase.ai/cases/case-19957ff473b6)
 
 **作者:** PixelAIGC | **来源:** [原帖](https://x.com/i/status/2081047344850845750) | **发布:** 2026-07-25 | **热度:** null
-**稳定度：** 91/100
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (91.2 分) · [产物](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4) · 共 2 次
+**稳定度：** 90/100
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (90 分) · [产物](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4) · 共 2 次
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-19957ff473b6)**
 
@@ -2375,8 +2376,8 @@ No face, no full body, no realistic human, no scary bunny, no dark mood, no burn
 [<img src="https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg" width="600" alt="可爱兔兔厨师动漫烹饪">](https://goodcase.ai/cases/case-3d49f00e65c0)
 
 **作者:** Jiade 05 | **来源:** [原帖](https://x.com/i/status/2080643134011412961) | **发布:** 2026-07-24 | **热度:** null
-**稳定度：** 84/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84 分) · [产物](https://media.goodcase.ai/retests/case-3d49f00e65c0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 82/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.7 分) · [产物](https://media.goodcase.ai/retests/case-3d49f00e65c0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3d49f00e65c0)**
 
@@ -2391,8 +2392,8 @@ Classic 1990s Disney-style hand-drawn animation, colorful forest, expressive ani
 [<img src="https://media.goodcase.ai/media/poster/90-f704a9d8555b.jpg" width="600" alt="90 年代迪士尼风格森林动画">](https://goodcase.ai/cases/90-f704a9d8555b)
 
 **作者:** Sam Aoteman | **来源:** [原帖](https://x.com/i/status/2080638821557731785) | **发布:** 2026-07-24 | **热度:** null
-**稳定度：** 88/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88 分) · [产物](https://media.goodcase.ai/retests/90-f704a9d8555b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 87/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/90-f704a9d8555b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/90-f704a9d8555b)**
 
@@ -2407,8 +2408,8 @@ STYLE: Handheld selfie vlog — arm's-length front camera, eyes locked to lens, 
 [<img src="https://media.goodcase.ai/media/poster/vlog-2d9d2fcaef84.jpg" width="600" alt="日本夏日祭典自拍 Vlog">](https://goodcase.ai/cases/vlog-2d9d2fcaef84)
 
 **作者:** Northimage | **来源:** [原帖](https://x.com/i/status/2078070232137297951) | **发布:** 2026-07-17 | **热度:** null
-**稳定度：** 77/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/vlog-2d9d2fcaef84/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**稳定度：** 82/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.5 分) · [产物](https://media.goodcase.ai/retests/vlog-2d9d2fcaef84/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-2d9d2fcaef84)**
 
