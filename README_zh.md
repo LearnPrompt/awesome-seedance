@@ -34,10 +34,10 @@ Seedance 2.5 是字节跳动的视频生成模型，目前 Early Access，支持
 
 | 指标 | 数值 |
 | --- | --- |
-| 案例总数 | 366 |
-| Seedance 2.5 | 41 |
-| Seedance 2.0 | 325 |
-| 作者数 | 183 |
+| 案例总数 | 389 |
+| Seedance 2.5 | 42 |
+| Seedance 2.0 | 347 |
+| 作者数 | 156 |
 | 跨模型复测 | 247 条 / 257 次 |
 | 稳定度分（已测） | 245 条 / 均分 78.0 |
 | 最近更新 | 2026-09-11 |
@@ -68,7 +68,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)
 
-**作者:** TechHalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
 **稳定度：** 64/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.9 分) · [产物](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -84,7 +84,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 [<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-**作者:** Smiling Khan | **来源:** [原帖](https://x.com/i/status/2092971211169100048) | **发布:** 2026-08-27 | **热度:** 99
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2092971211169100048) | **发布:** 2026-08-27 | **热度:** 99
 **稳定度：** 76/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.7 分) · [产物](https://media.goodcase.ai/retests/vlog-c8171f712492/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -100,7 +100,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)
 
-**作者:** Sharon Riley | **来源:** [原帖](https://x.com/Just_sharon7/status/2083422886686031982) | **发布:** 2026-08-01 | **热度:** 99
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2083422886686031982) | **发布:** 2026-08-01 | **热度:** 99
 **稳定度：** 74/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.2 分) · [产物](https://media.goodcase.ai/retests/seedance-25-kpop-mv-dual-idol/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -132,7 +132,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)
 
-**作者:** 𝐌 | **来源:** [原帖](https://x.com/Strength04_X/status/2083094742682787939) | **发布:** 2026-07-31 | **热度:** 99
+**作者:** @Strength04_X | **来源:** [原帖](https://x.com/Strength04_X/status/2083094742682787939) | **发布:** 2026-07-31 | **热度:** 99
 **稳定度：** 77/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-25-minidv-coffee-asmr-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -210,49 +210,72 @@ No music. No narration. Only the two spoken lines specified above.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe)**
 
-### Seedance 原生 UGC 竖屏手机跟拍短片
+### Seedance：Create a 30-second, 1080p ultra-realistic emotional live-action scene about a y…
 
-> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
+> Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
 
 ```
-Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
-
-Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
-
-Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
-
-[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
-
-[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
-
-[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
-
-[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
-
-[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
-
-[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
-
-[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
-
-[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
-
-[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
-
-[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
-
-Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
-
-Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discovering her boyfriend kissing another woman inside a quiet café. Focus entirely on authentic human emotion, natural crying, subtle facial expressions and believable body language. No melodrama or exaggerated acting.
+MAIN CHARACTER
+Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, long black hair loosely styled, wearing a fitted pastel-pink top, casual denim shorts and simple sneakers.
+Maintain the exact same face, hairstyle, outfit, body proportions and appearance throughout the entire scene.
+LOCATION
+A cozy modern café on a rainy evening. Warm interior lighting, large windows covered with rain droplets, wooden tables, soft background chatter, cups and plates, a few customers quietly talking.
+SCENE
+She enters the café carrying a small handbag, casually looking around for her boyfriend.
+She suddenly notices him sitting at a table near the window.
+He is kissing another young woman.
+She immediately stops walking.
+Her expression changes from confusion to disbelief.
+She slowly lowers her handbag.
+She stares at them silently for a few seconds, struggling to process what she is seeing.
+Her eyes begin to fill with tears.
+Show realistic tears naturally forming along her lower eyelids, then slowly rolling down her cheeks. No exaggerated crying.
+She takes a shaky breath.
+She walks toward their table.
+Her boyfriend notices her.
+His expression immediately changes to shock.
+The other woman turns around and becomes uncomfortable.
+The girlfriend looks directly at him with trembling eyes and quietly says:
+“How could you do this to me?”
+Her voice cracks naturally.
+She wipes one tear from her cheek, but more tears continue falling.
+Her boyfriend stands up and tries to explain.
+She shakes her head and takes a small step backward.
+She says through tears:
+“I trusted you.”
+She looks at him for one final moment.
+Her expression shows heartbreak, disappointment and disbelief rather than anger.
+She turns around and walks toward the café door while quietly crying.
+Her boyfriend takes one step after her but stops.
+She reaches the door, pauses briefly, wipes her face and leaves.
+The camera remains inside the café as the door closes behind her.
+CAMERA / VISUAL STYLE
+Handheld cinematic camera with subtle natural movement. Start with a medium shot following her into the café, then slowly move closer when she notices the couple.
+Use realistic close-ups of her eyes, trembling lips, tears and subtle facial reactions.
+Natural shallow depth of field, realistic skin pores, authentic reflections in the café windows, soft rainy evening light, natural motion blur, 24fps, photorealistic live-action.
+Do not make her crying look beautiful or glamorous. It should look spontaneous, uncomfortable and emotionally real.
+AUDIO
+Rain against the café windows, quiet conversations, cups being placed on tables, distant café ambience, footsteps and subtle breathing.
+No background music.
+No narration.
+Dialogue should sound natural with slight pauses, trembling voice and emotional breathing.
+EMOTIONAL DIRECTION
+The emotion should build gradually:
+confusion → realization → shock → disbelief → tears → confrontation → heartbreak → quiet acceptance.
+Avoid screaming, physical aggression or exaggerated dramatic gestures.
+CONTINUITY / REALISM
+Keep tears physically consistent once they appear. Tears should remain visible on her cheeks and naturally accumulate as she continues crying.
+Maintain consistent clothing, hairstyle, jewelry and facial identity.
+No sudden emotional changes, no disappearing tears, no duplicated people, no changing café layout, no unnatural body movements.
+NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, melodramatic acting, screaming, physical violence, distorted faces, extra fingers, identity drift, outfit changes, CGI
 ```
 
-[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)
+[<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="600" alt="Seedance：Create a 30-second, 1080p ultra-realistic emotional live-action scene about a y…">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)
 
-**作者:** @mightyking | **来源:** [原帖](https://x.com/mightyking/status/2089299068514148655) | **发布:** 2026-08-17 | **热度:** 95
-**稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.2 分) · [产物](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2096439253970395531) | **发布:** 2026-09-06 | **热度:** 95
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)**
 
 ## 🔁 跨模型复测
 
@@ -409,7 +432,7 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 - 指名流派和它的生物力学。authentic Taekwondo biomechanics、真实解剖、重量、重力、动量，读起来跟 epic fight scene 完全是两回事。
 - 招式写成链：直拳接勾拳接低扫，对方格挡、滑步下潜、封挡，随即反击体踢。再补一句双方持续进攻，不待机、不摆架子、不重置、不瞬移、不跳位。
 
-**示例:** [#1](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0) [#2](https://goodcase.ai/cases/case-79df387a127e) [#3](https://goodcase.ai/cases/case-f7e7c1862f38) [#4](https://goodcase.ai/cases/case-1a9a2c659866)
+**示例:** [#1](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0) [#2](https://goodcase.ai/cases/yourplugai-seedance-ai-fb797edfc8e4) [#3](https://goodcase.ai/cases/case-f7e7c1862f38) [#4](https://goodcase.ai/cases/case-1a9a2c659866)
 
 #### 音乐卡点 MV
 
@@ -461,7 +484,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)
 
-**作者:** TechHalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
 **稳定度：** 64/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.9 分) · [产物](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -477,7 +500,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 [<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-**作者:** Smiling Khan | **来源:** [原帖](https://x.com/i/status/2092971211169100048) | **发布:** 2026-08-27 | **热度:** 99
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2092971211169100048) | **发布:** 2026-08-27 | **热度:** 99
 **稳定度：** 76/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.7 分) · [产物](https://media.goodcase.ai/retests/vlog-c8171f712492/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -493,7 +516,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)
 
-**作者:** Sharon Riley | **来源:** [原帖](https://x.com/Just_sharon7/status/2083422886686031982) | **发布:** 2026-08-01 | **热度:** 99
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2083422886686031982) | **发布:** 2026-08-01 | **热度:** 99
 **稳定度：** 74/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.2 分) · [产物](https://media.goodcase.ai/retests/seedance-25-kpop-mv-dual-idol/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -525,7 +548,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)
 
-**作者:** 𝐌 | **来源:** [原帖](https://x.com/Strength04_X/status/2083094742682787939) | **发布:** 2026-07-31 | **热度:** 99
+**作者:** @Strength04_X | **来源:** [原帖](https://x.com/Strength04_X/status/2083094742682787939) | **发布:** 2026-07-31 | **热度:** 99
 **稳定度：** 77/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-25-minidv-coffee-asmr-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -858,7 +881,7 @@ ENG 摄像机、摇臂摄像机、轨道跟拍、长焦、水面低机位、障�
 
 [<img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="600" alt="Boa Hancock Water Obstacle Race Prompt">](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)
 
-**作者:** 小宇Chengzi | **来源:** [原帖](https://x.com/i/status/2087458506123465088) | **发布:** 2026-08-12 | **热度:** 89
+**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2087458506123465088) | **发布:** 2026-08-12 | **热度:** 89
 **稳定度：** 66/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66.3 分) · [产物](https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -874,7 +897,7 @@ A realistic handheld travel vlog filmed by a friend following the main character
 
 [<img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="600" alt="手持感旅行 Vlog：从公寓到海滩">](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)
 
-**作者:** BubbleBrain | **来源:** [原帖](https://x.com/BubbleBrain/status/2083659648108990925) | **发布:** 2026-08-01 | **热度:** 88
+**作者:** @BubbleBrain | **来源:** [原帖](https://x.com/BubbleBrain/status/2083659648108990925) | **发布:** 2026-08-01 | **热度:** 88
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)**
 
@@ -1122,7 +1145,7 @@ CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
 
 [<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="单人 K-POP MV · Y2K 糖果世界逐秒分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)
 
-**作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts/status/2085736621685764503) | **发布:** 2026-08-07 | **热度:** 86
+**作者:** @aiwarts | **来源:** [原帖](https://x.com/aiwarts/status/2085736621685764503) | **发布:** 2026-08-07 | **热度:** 86
 **稳定度：** 48/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (47.5 分) · [产物](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1152,7 +1175,7 @@ Ending: The final geometric frame closes around her face, the holographic effect
 
 [<img src="https://media.goodcase.ai/cases/5ee3737281f4.jpg" width="600" alt="Cyberpunk Holographic Dance Performance">](https://goodcase.ai/cases/cyberpunk-holographic-dance-performance)
 
-**作者:** Aqsa | **来源:** [原帖](https://x.com/i/status/2087386090315616601) | **发布:** 2026-08-12 | **热度:** 85
+**作者:** @Aqsahere_ | **来源:** [原帖](https://x.com/Aqsahere_/status/2087386090315616601) | **发布:** 2026-08-12 | **热度:** 85
 **稳定度：** 80/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/cyberpunk-holographic-dance-performance/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1182,7 +1205,7 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 [<img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="600" alt="过山车假发闹剧：冻结与倒放的第二次演练">](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)
 
-**作者:** TechHalla | **来源:** [原帖](https://x.com/techhalla/status/2083585132917579834) | **发布:** 2026-08-01 | **热度:** 85
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083585132917579834) | **发布:** 2026-08-01 | **热度:** 85
 **稳定度：** 74/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1259,20 +1282,6 @@ Same hands, sleeve and wrist cord across all four segments. Same rod, knife, boa
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf)**
 
-### 末日幸存者与感染犬
-
-> 一段感人至深的多镜头电影化序列，描绘了一名幸存者在废弃豪宅中与一只感染犬的相遇，随后发生了一场充满希望的转变。
-
-```
-Multi-shot sequence with hard cuts between shots. Keep the same characters and visual style throughout. No music or score — only natural diegetic sound.\n\nSHOT 1 \nA dirty, exhausted 18-year-old girl with dark auburn-brown hair in a messy low ponytail, warm brown eyes, faded olive-green military jacket, backpack and gloves, aims a bolt-action rifle inside an abandoned ornate mansion. Sweat, dirt, a cheek scrape and tears cover her face. Her hands tremble. She closes her eyes as a tear rolls down, then hears something and lowers the rifle, visibly heartbroken.\n\nSHOT 2\nOver her shoulder, an infected golden-coated Golden Retriever sits on the debris-covered parquet floor. Matted fur, cloudy white eyes, wounds and dark veins. He trembles while softly whimpering and growling.\n\nSHOT 3 \nShe slowly crouches, places the rifle on the floor, wipes her tears and gives the dog a small broken smile. She quietly speaks to him, pulls a worn yellow-green tennis ball from her jacket and gently rolls it toward him.\n\nSHOT 4\nExtreme low-angle close-up of the tennis ball rolling through dust across the cracked parquet floor. It stops directly in front of the dog's paws. Hold on the still ball.\n\nHARD CUT / TRANSFORMATION\n\nSHOT 5\nSame low camera angle and ball position, but now on a clean sunny residential basketball court. A healthy golden-coated Golden Retriever suddenly grabs the ball. His eyes are clear and warm brown, fur clean, playful and energetic. He shakes and plays with the ball.\n\nSHOT 6\nWide shot of the basketball court. The woman throws the ball and the happy dog sprints after it, catches it, runs back and drops it at her feet, ready to play.\n\nSHOT 7\nClose-up of the clean, unharmed woman laughing while affectionately ruffling the dog's neck and chest. The dog happily pants beside her.\n\nSHOT 8\nWide peaceful shot. The woman and dog sit together in a pristine dark-green vintage convertible beside the court. She shares food from a tin can with him. He gently takes it and licks her fingers.\n\nCONSISTENCY\nSame woman throughout: dark auburn-brown hair, loose low ponytail, warm brown eyes, olive-green military jacket, khaki cargo pants and brown boots.\nSame Golden Retriever: infected and injured in the mansion, healthy and playful after the transformation.\n\nMansion: abandoned ornate interior, tall arched windows, torn dark-red curtains, peeling damask wallpaper, shattered gilt mirror, broken furniture, debris, ceiling hole and strong sunlight beams.\n\nCourt: clean residential basketball court, white lines, iron fence, flowering shrubs, stone townhouses, warm late-afternoon sunlight and soft shadows. Dark-green vintage convertible with chrome trim.\n\nVisual style: ultra-realistic, photorealistic, natural human and animal movement, handheld camera, shallow depth of field, ARRI Alexa 35 look, warm cinematic grade, subtle grain.\n\nAudio: ONLY natural breathing, house ambience, dog sounds, foots
-```
-
-[<img src="https://media.goodcase.ai/media/poster/case-44b9dbf5729c.jpg" width="600" alt="末日幸存者与感染犬">](https://goodcase.ai/cases/case-44b9dbf5729c)
-
-**作者:** Smiling Khan | **来源:** [原帖](https://x.com/i/status/2095351192054595892) | **发布:** 2026-09-03 | **热度:** 82
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-44b9dbf5729c)**
-
 ### Classic Mustang Golden Hour Drive
 
 > A cinematic commercial-style prompt of a woman driving a vintage Mustang through a city at sunset, featuring elegant lighting and tracking shots.
@@ -1291,7 +1300,7 @@ Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmospher
 
 [<img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="600" alt="Classic Mustang Golden Hour Drive">](https://goodcase.ai/cases/classic-mustang-golden-hour-drive)
 
-**作者:** Sharon Riley | **来源:** [原帖](https://x.com/i/status/2085277106960007654) | **发布:** 2026-08-06 | **热度:** 82
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2085277106960007654) | **发布:** 2026-08-06 | **热度:** 82
 **稳定度：** 81/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.3 分) · [产物](https://media.goodcase.ai/retests/classic-mustang-golden-hour-drive/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1323,11 +1332,25 @@ Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge det
 
 [<img src="https://media.goodcase.ai/media/poster/bladesmith-competition-reality-tv-video.jpg" width="600" alt="Bladesmith Competition Reality TV Video">](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)
 
-**作者:** TechHalla | **来源:** [原帖](https://x.com/i/status/2084112771533189499) | **发布:** 2026-08-03 | **热度:** 82
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2084112771533189499) | **发布:** 2026-08-03 | **热度:** 82
 **稳定度：** 74/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/bladesmith-competition-reality-tv-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)**
+
+### 末日幸存者与感染犬
+
+> 一段感人至深的多镜头电影化序列，描绘了一名幸存者在废弃豪宅中与一只感染犬的相遇，随后发生了一场充满希望的转变。
+
+```
+Multi-shot sequence with hard cuts between shots. Keep the same characters and visual style throughout. No music or score — only natural diegetic sound.\n\nSHOT 1 \nA dirty, exhausted 18-year-old girl with dark auburn-brown hair in a messy low ponytail, warm brown eyes, faded olive-green military jacket, backpack and gloves, aims a bolt-action rifle inside an abandoned ornate mansion. Sweat, dirt, a cheek scrape and tears cover her face. Her hands tremble. She closes her eyes as a tear rolls down, then hears something and lowers the rifle, visibly heartbroken.\n\nSHOT 2\nOver her shoulder, an infected golden-coated Golden Retriever sits on the debris-covered parquet floor. Matted fur, cloudy white eyes, wounds and dark veins. He trembles while softly whimpering and growling.\n\nSHOT 3 \nShe slowly crouches, places the rifle on the floor, wipes her tears and gives the dog a small broken smile. She quietly speaks to him, pulls a worn yellow-green tennis ball from her jacket and gently rolls it toward him.\n\nSHOT 4\nExtreme low-angle close-up of the tennis ball rolling through dust across the cracked parquet floor. It stops directly in front of the dog's paws. Hold on the still ball.\n\nHARD CUT / TRANSFORMATION\n\nSHOT 5\nSame low camera angle and ball position, but now on a clean sunny residential basketball court. A healthy golden-coated Golden Retriever suddenly grabs the ball. His eyes are clear and warm brown, fur clean, playful and energetic. He shakes and plays with the ball.\n\nSHOT 6\nWide shot of the basketball court. The woman throws the ball and the happy dog sprints after it, catches it, runs back and drops it at her feet, ready to play.\n\nSHOT 7\nClose-up of the clean, unharmed woman laughing while affectionately ruffling the dog's neck and chest. The dog happily pants beside her.\n\nSHOT 8\nWide peaceful shot. The woman and dog sit together in a pristine dark-green vintage convertible beside the court. She shares food from a tin can with him. He gently takes it and licks her fingers.\n\nCONSISTENCY\nSame woman throughout: dark auburn-brown hair, loose low ponytail, warm brown eyes, olive-green military jacket, khaki cargo pants and brown boots.\nSame Golden Retriever: infected and injured in the mansion, healthy and playful after the transformation.\n\nMansion: abandoned ornate interior, tall arched windows, torn dark-red curtains, peeling damask wallpaper, shattered gilt mirror, broken furniture, debris, ceiling hole and strong sunlight beams.\n\nCourt: clean residential basketball court, white lines, iron fence, flowering shrubs, stone townhouses, warm late-afternoon sunlight and soft shadows. Dark-green vintage convertible with chrome trim.\n\nVisual style: ultra-realistic, photorealistic, natural human and animal movement, handheld camera, shallow depth of field, ARRI Alexa 35 look, warm cinematic grade, subtle grain.\n\nAudio: ONLY natural breathing, house ambience, dog sounds, foots
+```
+
+[<img src="https://media.goodcase.ai/media/poster/case-44b9dbf5729c.jpg" width="600" alt="末日幸存者与感染犬">](https://goodcase.ai/cases/case-44b9dbf5729c)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2095351192054595892) | **发布:** 2026-09-03 | **热度:** 81
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-44b9dbf5729c)**
 
 ### Underwater Animal Orchestra
 
@@ -1339,7 +1362,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 [<img src="https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg" width="600" alt="Underwater Animal Orchestra">](https://goodcase.ai/cases/underwater-animal-orchestra)
 
-**作者:** Maria | **来源:** [原帖](https://x.com/i/status/2087112692809060493) | **发布:** 2026-08-11 | **热度:** 80
+**作者:** @thisismariaa25 | **来源:** [原帖](https://x.com/thisismariaa25/status/2087112692809060493) | **发布:** 2026-08-11 | **热度:** 80
 **稳定度：** 80/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.5 分) · [产物](https://media.goodcase.ai/retests/underwater-animal-orchestra/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1397,11 +1420,35 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 [<img src="https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg" width="600" alt="丧尸列车爆发">](https://goodcase.ai/cases/case-3b1796c66ab4)
 
-**作者:** WasifAI | **来源:** [原帖](https://x.com/i/status/2094285140247896553) | **发布:** 2026-08-31 | **热度:** 79
+**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2094285140247896553) | **发布:** 2026-08-31 | **热度:** 78
 **稳定度：** 64/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (64 分) · [产物](https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3b1796c66ab4)**
+
+### First-Person POV Dragon Rider Cinematic
+
+> An epic, photorealistic 8K sequence of riding a crimson-obsidian dragon over emerald cliffs and diving into the ocean with cinematic sound design.
+
+```
+Create a 30-second vertical 9:16, 24fps, 8K-quality photorealistic live-action fantasy sequence from a first-person rider POV. A massive original obsidian-crimson dragon with individually detailed scales, subtle dark mottling, molten-gold eyes, volcanic-black swept-back horns, blade-like dorsal fins, burgundy-red translucent wings and faint ember-like fissures across its body. Rider wears black leather gloves, dark-green sleeves and weathered leather bracers, holding heavy chain reins from a worn brown studded saddle.
+
+Begin with the dragon calmly breathing on a wet emerald coastal cliff; it slowly turns toward camera and the rider gently pets its neck. Suddenly it lowers its body, launches across the grass and leaps from the cliff. Dive steeply toward the grey-green ocean, deploy huge wings with realistic membrane movement, then skim just above the water with spray hitting the lens. Perform a dramatic high-speed bank around a sea stack, then plunge directly underwater. Brief dark-teal underwater silence with bubbles and faint crimson glow, followed by a powerful eruption through the ocean. Finish with a calm glide above foggy water as the dragon slowly turns and looks toward the rider.
+
+Use physically accurate anatomy, weight, gravity, wing aerodynamics, water physics, scale deformation, wind and environmental interaction. Natural rider-mounted camera movement, realistic motion blur, lens droplets, focus breathing, subtle handheld vibration, cinematic depth of field, soft overcast lighting, HDR, restrained film grain and natural cinematic color grading.
+
+Audio: atmospheric drone → intimate cello → rising orchestral tension → massive launch/flight score → intense percussion during the bank → muffled underwater audio → epic orchestral return during emergence → soft cello/piano ending. Layer detailed ASMR/SFX: dragon breathing, scales, leather, reins, claws scraping soil, wind, wingbeats, water spray, bubbles, ocean impact and a deep natural dragon roar.
+
+Make it indistinguishable from expensive real live-action cinema. No AI look, cartoon, anime, game CGI, plastic textures, fake physics, neon glow, oversaturation, distorted anatomy, extra limbs, text or watermark.
+```
+
+[<img src="https://media.goodcase.ai/cases/464939ccd5ab.jpg" width="600" alt="First-Person POV Dragon Rider Cinematic">](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic)
+
+**作者:** @frametheory058 | **来源:** [原帖](https://x.com/frametheory058/status/2087007818721423855) | **发布:** 2026-08-11 | **热度:** 76
+**稳定度：** 77/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.9 分) · [产物](https://media.goodcase.ai/retests/first-person-pov-dragon-rider-cinematic/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic)**
 
 ### 电影感湿货市场洪水逃生
 
@@ -1429,7 +1476,7 @@ Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realisti
 
 [<img src="https://media.goodcase.ai/media/poster/case-198b3f3748b3.jpg" width="600" alt="电影感湿货市场洪水逃生">](https://goodcase.ai/cases/case-198b3f3748b3)
 
-**作者:** Elisia | **来源:** [原帖](https://x.com/i/status/2091036019076272229) | **发布:** 2026-08-22 | **热度:** 76
+**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2091036019076272229) | **发布:** 2026-08-22 | **热度:** 75
 **稳定度：** 79/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.4 分) · [产物](https://media.goodcase.ai/retests/case-198b3f3748b3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1467,35 +1514,11 @@ Elegant, silent except for implied kitchen sounds and a refined, understated sco
 
 [<img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="600" alt="手工烘焙坊电影感商业广告">](https://goodcase.ai/cases/case-f62d402ccdf6)
 
-**作者:** Aaliya | **来源:** [原帖](https://x.com/i/status/2090780603872624826) | **发布:** 2026-08-21 | **热度:** 76
+**作者:** @AIwithAliya | **来源:** [原帖](https://x.com/AIwithAliya/status/2090780603872624826) | **发布:** 2026-08-21 | **热度:** 75
 **稳定度：** 67/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66.7 分) · [产物](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f62d402ccdf6)**
-
-### First-Person POV Dragon Rider Cinematic
-
-> An epic, photorealistic 8K sequence of riding a crimson-obsidian dragon over emerald cliffs and diving into the ocean with cinematic sound design.
-
-```
-Create a 30-second vertical 9:16, 24fps, 8K-quality photorealistic live-action fantasy sequence from a first-person rider POV. A massive original obsidian-crimson dragon with individually detailed scales, subtle dark mottling, molten-gold eyes, volcanic-black swept-back horns, blade-like dorsal fins, burgundy-red translucent wings and faint ember-like fissures across its body. Rider wears black leather gloves, dark-green sleeves and weathered leather bracers, holding heavy chain reins from a worn brown studded saddle.
-
-Begin with the dragon calmly breathing on a wet emerald coastal cliff; it slowly turns toward camera and the rider gently pets its neck. Suddenly it lowers its body, launches across the grass and leaps from the cliff. Dive steeply toward the grey-green ocean, deploy huge wings with realistic membrane movement, then skim just above the water with spray hitting the lens. Perform a dramatic high-speed bank around a sea stack, then plunge directly underwater. Brief dark-teal underwater silence with bubbles and faint crimson glow, followed by a powerful eruption through the ocean. Finish with a calm glide above foggy water as the dragon slowly turns and looks toward the rider.
-
-Use physically accurate anatomy, weight, gravity, wing aerodynamics, water physics, scale deformation, wind and environmental interaction. Natural rider-mounted camera movement, realistic motion blur, lens droplets, focus breathing, subtle handheld vibration, cinematic depth of field, soft overcast lighting, HDR, restrained film grain and natural cinematic color grading.
-
-Audio: atmospheric drone → intimate cello → rising orchestral tension → massive launch/flight score → intense percussion during the bank → muffled underwater audio → epic orchestral return during emergence → soft cello/piano ending. Layer detailed ASMR/SFX: dragon breathing, scales, leather, reins, claws scraping soil, wind, wingbeats, water spray, bubbles, ocean impact and a deep natural dragon roar.
-
-Make it indistinguishable from expensive real live-action cinema. No AI look, cartoon, anime, game CGI, plastic textures, fake physics, neon glow, oversaturation, distorted anatomy, extra limbs, text or watermark.
-```
-
-[<img src="https://media.goodcase.ai/cases/464939ccd5ab.jpg" width="600" alt="First-Person POV Dragon Rider Cinematic">](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic)
-
-**作者:** Nexora | **来源:** [原帖](https://x.com/i/status/2087007818721423855) | **发布:** 2026-08-11 | **热度:** 76
-**稳定度：** 77/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.9 分) · [产物](https://media.goodcase.ai/retests/first-person-pov-dragon-rider-cinematic/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic)**
 
 ### Sci-Fi Mystery Message from 2100
 
@@ -1525,7 +1548,7 @@ No cartoon style, no subtitles, no logos, no watermark.
 
 [<img src="https://media.goodcase.ai/media/poster/sci-fi-mystery-message-from-2100.jpg" width="600" alt="Sci-Fi Mystery Message from 2100">](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100)
 
-**作者:** Nafis Ahmed | **来源:** [原帖](https://x.com/i/status/2087921744166420808) | **发布:** 2026-08-13 | **热度:** 72
+**作者:** @iam_nafisahmed | **来源:** [原帖](https://x.com/iam_nafisahmed/status/2087921744166420808) | **发布:** 2026-08-13 | **热度:** 71
 **稳定度：** 78/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.2 分) · [产物](https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1578,7 +1601,7 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-eba905fedcff.jpg" width="600" alt="Seedance 2.5 深夜厨房手机实录做饭">](https://goodcase.ai/cases/seedance-2-5-eba905fedcff)
 
-**作者:** Ray | **来源:** [原帖](https://x.com/AIWithRay/status/2087544594384773346) | **发布:** 2026-08-12 | **热度:** 72
+**作者:** @AIWithRay | **来源:** [原帖](https://x.com/AIWithRay/status/2087544594384773346) | **发布:** 2026-08-12 | **热度:** 71
 **稳定度：** 75/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1594,11 +1617,53 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 [<img src="https://media.goodcase.ai/media/poster/case-1f8136a9893a.jpg" width="600" alt="富有情感的日语对话动画">](https://goodcase.ai/cases/case-1f8136a9893a)
 
-**作者:** さきすた AI artist | **来源:** [原帖](https://x.com/i/status/2088559545174175836) | **发布:** 2026-08-15 | **热度:** 70
+**作者:** @sakisuta_ | **来源:** [原帖](https://x.com/sakisuta_/status/2088559545174175836) | **发布:** 2026-08-15 | **热度:** 69
 **稳定度：** 71/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.3 分) · [产物](https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1f8136a9893a)**
+
+### 智能手机旅行 Vlog：日本武道馆体验
+
+> 一段轻松的智能手机 Vlog，记录了一位韩国女性在传统的日本乡村道场学习武术的过程。
+
+```
+Create a 20-second ultra-realistic casual smartphone travel vlog featuring the same Korean woman in her early 20s throughout. She has a petite oval face, brown eyes, natural coral lips, fair realistic skin and long straight black hair. Maintain identical facial identity, hairstyle, body proportions and appearance with no morphing or identity drift.
+
+TRAVEL OUTFIT: Cream oversized knit sweater, dark blue straight-leg jeans, white low-top sneakers and small crossbody bag. Hair in a loose low ponytail with natural strands.
+
+TRAINING OUTFIT: Off-white cotton keikogi-style jacket, matching white training pants and plain dark navy beginner belt. No logos, text or patterns. Keep this outfit identical throughout training.
+
+STYLE: Genuine handheld smartphone footage, imperfect framing, subtle camera shake, autofocus shifts, natural exposure, slight motion blur, realistic skin, blinking and body movement. No cinematic shots, drones, gimbals, beauty filters or commercial look.
+
+LOCATION: Quiet Japanese countryside neighborhood and a small authentic wooden dojo with traditional architecture, wooden floors and natural daylight. No famous landmarks.
+
+0:00–0:04: She walks toward the dojo while filming herself, excited and curious. She says naturally in Korean:
+“오늘은 일본 무술을 직접 배워볼게요!”
+She briefly shows the dojo entrance, then returns to selfie mode.
+
+0:04–0:07: Inside the dojo, she is now wearing the training uniform. She adjusts her sleeves. A friendly instructor bows respectfully; she bows back slightly awkwardly and smiles.
+
+0:07–0:11: Instructor demonstrates a simple beginner stance and controlled hand movement. She copies it awkwardly, places one foot incorrectly, then tries again after the instructor calmly corrects her posture.
+
+0:11–0:15: She attempts a slow beginner stance transition with controlled defensive arm movement, briefly loses balance, regains footing and laughs naturally. Instructor smiles encouragingly. Keep movements safe and beginner-friendly.
+
+0:15–0:18: Natural jump cut. Same woman and identical outfit/appearance. She repeats the sequence with noticeably better balance but still looks like a beginner. She smiles proudly.
+
+0:18–0:20: Outside the dojo in soft late-afternoon light, she films herself, slightly out of breath and smiling. She says:
+“생각보다 어렵지만 정말 재미있어요!”
+She gives a small wave and lowers the phone.
+
+AUDIO: Natural Korean female voice with accurate lip-sync. Footsteps, fabric movement, dojo ambience, distant neighborhood sounds and light wind. No music or dramatic effects.
+
+FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and beginner-level martial arts. No fighting, exaggerated movements, action choreography, famous landmarks, logos, brands, subtitles, text, watermarks or visual effects.
+```
+
+[<img src="https://media.goodcase.ai/cases/c1c5e14de6d8.jpg" width="600" alt="智能手机旅行 Vlog：日本武道馆体验">](https://goodcase.ai/cases/vlog-867cf0ce0743)
+
+**作者:** @SimplyAnnisa | **来源:** [原帖](https://x.com/SimplyAnnisa/status/2093978574692679983) | **发布:** 2026-08-30 | **热度:** 67
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-867cf0ce0743)**
 
 ### 90s Diner Time Freeze Effect
 
@@ -1624,25 +1689,9 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 
 [<img src="https://media.goodcase.ai/media/poster/90s-diner-time-freeze-effect.jpg" width="600" alt="90s Diner Time Freeze Effect">](https://goodcase.ai/cases/90s-diner-time-freeze-effect)
 
-**作者:** TechHalla | **来源:** [原帖](https://x.com/i/status/2085200942060691807) | **发布:** 2026-08-06 | **热度:** 66
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2085200942060691807) | **发布:** 2026-08-06 | **热度:** 65
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/90s-diner-time-freeze-effect)**
-
-### 东京手机美食 Vlog
-
-> 一份高度详细的提示词，用于创作具有照片级真实感的东京美食 Vlog，旨在模仿手机拍摄的视觉效果与质感，包含自然的掌镜晃动和地道的街区细节。
-
-```
-Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Japan. The entire video must look like it was genuinely recorded on a modern flagship smartphone by a real female creator, not like a cinematic production or AI-generated video. 0–5 seconds: A young Japanese woman walks through a narrow Tokyo side street in the early evening, holding her smartphone at arm’s length and casually talking to the camera. Traditional Japanese shopfronts, vending machines, bicycles, small signs, utility wires, pedestrians and warm storefront lights create an authentic neighborhood atmosphere. Natural handheld movement and slight framing imperfections. 5–10 seconds: She notices a tiny hidden dessert café and turns the camera toward its entrance with an excited reaction. She walks inside while continuing the vlog. The camera naturally adjusts exposure from the bright street to the warmer interior. 10–16 seconds: Show the staff preparing a fresh strawberry cream dessert. Realistic strawberries, whipped cream, soft cake layers and small details of the preparation. The creator moves the phone closer for a natural food close-up while autofocus subtly shifts between the dessert and her hand. 16–22 seconds: She receives the dessert, holds it directly toward the phone camera, then takes a spoonful and tastes it. Her reaction should be spontaneous and believable, with subtle facial expressions rather than exaggerated acting. 22–27 seconds: She smiles, takes another small bite and turns the camera slightly to show the cozy café interior, Japanese customers naturally sitting in the background and warm practical lighting. 27–30 seconds: She walks back outside onto the Japanese street, looks directly into the phone camera and naturally says, “Okay, this place was actually so good!” She smiles and ends the recording casually. Authentic Japanese environment, realistic human behavior, natural walking physics, real-looking food textures, accurate skin texture, natural hair movement, realistic reflections, imperfect smartphone framing, subtle autofocus hunting, automatic exposure adjustments, slight handheld shake, natural motion blur, realistic low-light smartphone noise, true-to-life colors, detailed background activity, genuine vlog energy, high-resolution smartphone footage, photorealistic, documentary realism, no cinematic camera moves, no drone shots, no artificial slow motion, no CGI appearance, no text, no subtitles.
-```
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="600" alt="东京手机美食 Vlog">](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)
-
-**作者:** 𝗦𝗮𝗻𝗶𝗮 | **来源:** [原帖](https://x.com/i/status/2088605003112235033) | **发布:** 2026-08-15 | **热度:** 63
-**稳定度：** 82/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.4 分) · [产物](https://media.goodcase.ai/retests/vlog-b7d2a3d9d7f2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)**
 
 ### Seedance 2.5 欧洲老城清晨旅拍 vlog
 
@@ -1668,11 +1717,27 @@ The final result should feel like an actual 15-second travel vlog filmed spontan
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-eae9734adb51.jpg" width="600" alt="Seedance 2.5 欧洲老城清晨旅拍 vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-eae9734adb51)
 
-**作者:** Sarah | **来源:** [原帖](https://x.com/SyntheSarah/status/2087737206459044262) | **发布:** 2026-08-13 | **热度:** 63
+**作者:** @SyntheSarah | **来源:** [原帖](https://x.com/SyntheSarah/status/2087737206459044262) | **发布:** 2026-08-13 | **热度:** 62
 **稳定度：** 80/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-vlog-eae9734adb51/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-vlog-eae9734adb51)**
+
+### 东京手机美食 Vlog
+
+> 一份高度详细的提示词，用于创作具有照片级真实感的东京美食 Vlog，旨在模仿手机拍摄的视觉效果与质感，包含自然的掌镜晃动和地道的街区细节。
+
+```
+Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Japan. The entire video must look like it was genuinely recorded on a modern flagship smartphone by a real female creator, not like a cinematic production or AI-generated video. 0–5 seconds: A young Japanese woman walks through a narrow Tokyo side street in the early evening, holding her smartphone at arm’s length and casually talking to the camera. Traditional Japanese shopfronts, vending machines, bicycles, small signs, utility wires, pedestrians and warm storefront lights create an authentic neighborhood atmosphere. Natural handheld movement and slight framing imperfections. 5–10 seconds: She notices a tiny hidden dessert café and turns the camera toward its entrance with an excited reaction. She walks inside while continuing the vlog. The camera naturally adjusts exposure from the bright street to the warmer interior. 10–16 seconds: Show the staff preparing a fresh strawberry cream dessert. Realistic strawberries, whipped cream, soft cake layers and small details of the preparation. The creator moves the phone closer for a natural food close-up while autofocus subtly shifts between the dessert and her hand. 16–22 seconds: She receives the dessert, holds it directly toward the phone camera, then takes a spoonful and tastes it. Her reaction should be spontaneous and believable, with subtle facial expressions rather than exaggerated acting. 22–27 seconds: She smiles, takes another small bite and turns the camera slightly to show the cozy café interior, Japanese customers naturally sitting in the background and warm practical lighting. 27–30 seconds: She walks back outside onto the Japanese street, looks directly into the phone camera and naturally says, “Okay, this place was actually so good!” She smiles and ends the recording casually. Authentic Japanese environment, realistic human behavior, natural walking physics, real-looking food textures, accurate skin texture, natural hair movement, realistic reflections, imperfect smartphone framing, subtle autofocus hunting, automatic exposure adjustments, slight handheld shake, natural motion blur, realistic low-light smartphone noise, true-to-life colors, detailed background activity, genuine vlog energy, high-resolution smartphone footage, photorealistic, documentary realism, no cinematic camera moves, no drone shots, no artificial slow motion, no CGI appearance, no text, no subtitles.
+```
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="600" alt="东京手机美食 Vlog">](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)
+
+**作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2088605003112235033) | **发布:** 2026-08-15 | **热度:** 61
+**稳定度：** 82/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.4 分) · [产物](https://media.goodcase.ai/retests/vlog-b7d2a3d9d7f2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)**
 
 ### 韩国社区夏季摄像机录像
 
@@ -1713,7 +1778,7 @@ FINAL FEEL: A forgotten recording of an ordinary summer afternoon — warm, inti
 
 [<img src="https://media.goodcase.ai/cases/1cd78806b56c.jpg" width="600" alt="韩国社区夏季摄像机录像">](https://goodcase.ai/cases/case-9034732a24fe)
 
-**作者:** Smiling Khan | **来源:** [原帖](https://x.com/i/status/2092599045248188760) | **发布:** 2026-08-26 | **热度:** 56
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2092599045248188760) | **发布:** 2026-08-26 | **热度:** 54
 **稳定度：** 79/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.3 分) · [产物](https://media.goodcase.ai/retests/case-9034732a24fe/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1735,7 +1800,7 @@ Make it look like genuine real-world smartphone footage: natural dusk lighting, 
 
 [<img src="https://media.goodcase.ai/media/poster/case-365f2a3615b1.jpg" width="600" alt="韩国城市公交站偶遇">](https://goodcase.ai/cases/case-365f2a3615b1)
 
-**作者:** 𝗦𝗮𝗻𝗶𝗮 | **来源:** [原帖](https://x.com/i/status/2091103923440328783) | **发布:** 2026-08-22 | **热度:** 56
+**作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2091103923440328783) | **发布:** 2026-08-22 | **热度:** 54
 **稳定度：** 70/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.4 分) · [产物](https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1791,7 +1856,7 @@ She gives a small wave and ends the recording.
 
 [<img src="https://media.goodcase.ai/media/poster/16mm-analog-morning-vlog.jpg" width="600" alt="16mm Analog Morning Vlog">](https://goodcase.ai/cases/16mm-analog-morning-vlog)
 
-**作者:** MAX | **来源:** [原帖](https://x.com/i/status/2085422370362110168) | **发布:** 2026-08-06 | **热度:** 55
+**作者:** @maxxmalist | **来源:** [原帖](https://x.com/maxxmalist/status/2085422370362110168) | **发布:** 2026-08-06 | **热度:** 54
 **稳定度：** 79/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.7 分) · [产物](https://media.goodcase.ai/retests/16mm-analog-morning-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1828,7 +1893,7 @@ RULES: References are appearance only, do not recreate. Keep the hero's face and
 
 [<img src="https://media.goodcase.ai/cases/9cbd731bf706.jpg" width="600" alt="硬核卡特尔藏身处动作场景">](https://goodcase.ai/cases/case-f6a1af7d22b1)
 
-**作者:** Aaliyah | AI | **来源:** [原帖](https://x.com/i/status/2095083714120229230) | **发布:** 2026-09-02 | **热度:** 54
+**作者:** @The_Kremlinn | **来源:** [原帖](https://x.com/The_Kremlinn/status/2095083714120229230) | **发布:** 2026-09-02 | **热度:** 52
 **稳定度：** 75/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.9 分) · [产物](https://media.goodcase.ai/retests/case-f6a1af7d22b1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1844,7 +1909,7 @@ Create a 10-second photorealistic cinematic motorcycle commercial featuring a yo
 
 [<img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="600" alt="Karakoram Motorcycle Commercial">](https://goodcase.ai/cases/karakoram-motorcycle-commercial)
 
-**作者:** AntonioAI | **来源:** [原帖](https://x.com/i/status/2088599346908365227) | **发布:** 2026-08-15 | **热度:** 53
+**作者:** @AI_with_Antonio | **来源:** [原帖](https://x.com/AI_with_Antonio/status/2088599346908365227) | **发布:** 2026-08-15 | **热度:** 52
 **稳定度：** 87/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.8 分) · [产物](https://media.goodcase.ai/retests/karakoram-motorcycle-commercial/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1860,7 +1925,7 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-8056757985cc.jpg" width="600" alt="Seedance 2.5 日本夏日祭浴衣自拍 vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc)
 
-**作者:** Al-Shamus | **来源:** [原帖](https://x.com/im_shahid7/status/2087407192031068528) | **发布:** 2026-08-12 | **热度:** 43
+**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2087407192031068528) | **发布:** 2026-08-12 | **热度:** 41
 **稳定度：** 82/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-vlog-8056757985cc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -1960,7 +2025,7 @@ Seedance 2.5 prompt 👇
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)
 
-**作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2086014766846275817) | **发布:** 2026-08-08 | **热度:** 42
+**作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2086014766846275817) | **发布:** 2026-08-08 | **热度:** 40
 **稳定度：** 74/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.4 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2002,7 +2067,7 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="600" alt="Seedance 2.5 生成暴雨港口灾难电影序列">](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22)
 
-**作者:** @Noor_ul_ain43 | **来源:** [原帖](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **发布:** 2026-08-13 | **热度:** 41
+**作者:** @Noor_ul_ain43 | **来源:** [原帖](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **发布:** 2026-08-13 | **热度:** 39
 **稳定度：** 79/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.6 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2042,7 +2107,7 @@ Photorealistic, heavy natural film grain, sharp skin and fabric detail, realisti
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 生成马尔代夫骑行纪录片长镜头">](https://goodcase.ai/cases/seedance-2-5-f3651857750b)
 
-**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2088099038839316601) | **发布:** 2026-08-14 | **热度:** 40
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2088099038839316601) | **发布:** 2026-08-14 | **热度:** 38
 **稳定度：** 80/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2095,7 +2160,7 @@ Single continuous first-person bodycam POV of one FBI agent for the entire 30 se
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 生成菠萝披萨突袭执法记录仪长镜头">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)
 
-**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2088036921184223468) | **发布:** 2026-08-13 | **热度:** 40
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2088036921184223468) | **发布:** 2026-08-13 | **热度:** 37
 **稳定度：** 80/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.8 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-d68024212dfc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2111,7 +2176,7 @@ Single continuous first-person bodycam POV of one FBI agent for the entire 30 se
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg" width="600" alt="Seedance 电影级分手表演提示词">](https://goodcase.ai/cases/seedance-3b9beb9a46d4)
 
-**作者:** 李岳 | **来源:** [原帖](https://x.com/i/status/2090378405288300626) | **发布:** 2026-08-20 | **热度:** 39
+**作者:** @liyue_ai | **来源:** [原帖](https://x.com/liyue_ai/status/2090378405288300626) | **发布:** 2026-08-20 | **热度:** 36
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-3b9beb9a46d4)**
 
@@ -2128,7 +2193,7 @@ HO2iXF9a4AAZsco
 
 [<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)
 
-**作者:** John | **来源:** [原帖](https://x.com/i/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 35
+**作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 33
 **稳定度：** 55/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (55 分) · [产物](https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2151,7 +2216,7 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 太阳镜UGC测评口播视频">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)
 
-**作者:** Smiling Khan | **来源:** [原帖](https://x.com/AIwithkhan/status/2084608509837275231) | **发布:** 2026-08-04 | **热度:** 30
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2084608509837275231) | **发布:** 2026-08-04 | **热度:** 28
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)**
 
@@ -2210,7 +2275,7 @@ FINAL OUTPUT
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)
 
-**作者:** Sharon Riley | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 29
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 27
 **稳定度：** 73/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.2 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2241,7 +2306,7 @@ Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)
 
-**作者:** Sadia | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 29
+**作者:** @SadiaMalik182 | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 27
 **稳定度：** 77/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2267,7 +2332,7 @@ Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f1696dad13bc.jpg" width="600" alt="Seedance 2.5 悬崖翼装跳伞环海一镜到底">](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc)
 
-**作者:** MrDejie | **来源:** [原帖](https://x.com/mrdejie/status/2085996752809927146) | **发布:** 2026-08-08 | **热度:** 17
+**作者:** @mrdejie | **来源:** [原帖](https://x.com/mrdejie/status/2085996752809927146) | **发布:** 2026-08-08 | **热度:** 15
 **稳定度：** 79/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-f1696dad13bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2349,13 +2414,13 @@ avoid: "Jitter, bent or distorted limbs, temporal flicker, identity drift betwee
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg" width="600" alt="Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画">](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)
 
-**作者:** pratish | **来源:** [原帖](https://x.com/pratishhhhh/status/2085679073632882880) | **发布:** 2026-08-07 | **热度:** 16
+**作者:** @pratishhhhh | **来源:** [原帖](https://x.com/pratishhhhh/status/2085679073632882880) | **发布:** 2026-08-07 | **热度:** 14
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)**
 
 ### Seedance 2.0（热度前列）
 
-按热度展示 Seedance 2.0(+) 全部 325 条中的前 60 条。→ [查看 Seedance 2.0 全量画廊](./docs/gallery-seedance-2-0-part-1.md)
+按热度展示 Seedance 2.0(+) 全部 347 条中的前 60 条。→ [查看 Seedance 2.0 全量画廊](./docs/gallery-seedance-2-0-part-1.md)
 
 ### Seedance：Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing a…
 
@@ -2430,6 +2495,74 @@ No music. No narration. Only the two spoken lines specified above.
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe)**
 
 
+### Seedance：Create a 30-second, 1080p ultra-realistic emotional live-action scene about a y…
+
+> Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
+
+```
+Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discovering her boyfriend kissing another woman inside a quiet café. Focus entirely on authentic human emotion, natural crying, subtle facial expressions and believable body language. No melodrama or exaggerated acting.
+MAIN CHARACTER
+Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, long black hair loosely styled, wearing a fitted pastel-pink top, casual denim shorts and simple sneakers.
+Maintain the exact same face, hairstyle, outfit, body proportions and appearance throughout the entire scene.
+LOCATION
+A cozy modern café on a rainy evening. Warm interior lighting, large windows covered with rain droplets, wooden tables, soft background chatter, cups and plates, a few customers quietly talking.
+SCENE
+She enters the café carrying a small handbag, casually looking around for her boyfriend.
+She suddenly notices him sitting at a table near the window.
+He is kissing another young woman.
+She immediately stops walking.
+Her expression changes from confusion to disbelief.
+She slowly lowers her handbag.
+She stares at them silently for a few seconds, struggling to process what she is seeing.
+Her eyes begin to fill with tears.
+Show realistic tears naturally forming along her lower eyelids, then slowly rolling down her cheeks. No exaggerated crying.
+She takes a shaky breath.
+She walks toward their table.
+Her boyfriend notices her.
+His expression immediately changes to shock.
+The other woman turns around and becomes uncomfortable.
+The girlfriend looks directly at him with trembling eyes and quietly says:
+“How could you do this to me?”
+Her voice cracks naturally.
+She wipes one tear from her cheek, but more tears continue falling.
+Her boyfriend stands up and tries to explain.
+She shakes her head and takes a small step backward.
+She says through tears:
+“I trusted you.”
+She looks at him for one final moment.
+Her expression shows heartbreak, disappointment and disbelief rather than anger.
+She turns around and walks toward the café door while quietly crying.
+Her boyfriend takes one step after her but stops.
+She reaches the door, pauses briefly, wipes her face and leaves.
+The camera remains inside the café as the door closes behind her.
+CAMERA / VISUAL STYLE
+Handheld cinematic camera with subtle natural movement. Start with a medium shot following her into the café, then slowly move closer when she notices the couple.
+Use realistic close-ups of her eyes, trembling lips, tears and subtle facial reactions.
+Natural shallow depth of field, realistic skin pores, authentic reflections in the café windows, soft rainy evening light, natural motion blur, 24fps, photorealistic live-action.
+Do not make her crying look beautiful or glamorous. It should look spontaneous, uncomfortable and emotionally real.
+AUDIO
+Rain against the café windows, quiet conversations, cups being placed on tables, distant café ambience, footsteps and subtle breathing.
+No background music.
+No narration.
+Dialogue should sound natural with slight pauses, trembling voice and emotional breathing.
+EMOTIONAL DIRECTION
+The emotion should build gradually:
+confusion → realization → shock → disbelief → tears → confrontation → heartbreak → quiet acceptance.
+Avoid screaming, physical aggression or exaggerated dramatic gestures.
+CONTINUITY / REALISM
+Keep tears physically consistent once they appear. Tears should remain visible on her cheeks and naturally accumulate as she continues crying.
+Maintain consistent clothing, hairstyle, jewelry and facial identity.
+No sudden emotional changes, no disappearing tears, no duplicated people, no changing café layout, no unnatural body movements.
+NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, melodramatic acting, screaming, physical violence, distorted faces, extra fingers, identity drift, outfit changes, CGI
+```
+
+[<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="600" alt="Seedance：Create a 30-second, 1080p ultra-realistic emotional live-action scene about a y…">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2096439253970395531) | **发布:** 2026-09-06 | **热度:** 95
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)**
+
+
 ### Seedance 原生 UGC 竖屏手机跟拍短片
 
 > Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
@@ -2475,6 +2608,45 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
 
 
+### Seedance 2.5 印尼女生日常写实短片
+
+> Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
+
+```
+Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow oversized cotton t-shirt, brown high-waisted linen wrap skirt reaching just below the knee, simple brown leather slide sandals, thin gold stud earrings, dark wavy hair in a messy low bun with loose wispy strands framing her face. Realistic warm brown skin texture, minimal natural makeup, warm and approachable demeanor. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
+
+Location: Authentic Indonesian residential neighborhood (gang) during a calm late morning. Narrow paved alleys, low-rise houses with open front terraces, terracotta roof tiles, potted frangipani and bougainvillea, laundry on bamboo drying racks, parked motorbikes along plastered walls, overhead utility wires, banana and coconut trees casting dappled moving shadows, quiet tropical residential atmosphere. No modern stores, billboards, cafés, or crowds.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
+
+Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between harsh tropical sun and deep alley shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, warm faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+
+00:00–00:02
+Outside a small house entrance with an open terrace. She sits on the low terrace step adjusting her loose hair bun with both hands raised. A light warm breeze moves loose strands of hair. She smiles naturally while the camera struggles to lock focus.
+
+00:02–00:05
+The camera follows her into a narrow alley lined with potted plants and plastered walls. She notices a neighborhood cat resting on a warm concrete ledge, crouches down, and gently pets it. Framing drifts off-center as the operator tries to keep up. Morning sunlight flickers through banana leaves overhead.
+
+00:05–00:08
+Small front terrace with a glass of sweet iced tea on a wooden stool. She sits relaxed on a plastic chair watching the quiet gang, casually brushing hair behind her ear. A motorbike passes slowly in the distant background. Handheld side angle with natural camera drift.
+
+00:08–00:10
+She turns toward the camera with a warm, genuine smile, gives a gentle nod of acknowledgement, then turns to walk down the tree-lined alley holding her iced tea. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.
+
+Audio: Hyper-detailed environmental ASMR binaural audio — crisp micro-sounds captured up close with high sensitivity. Crisp rustle of cotton fabric and linen as she moves, deep rhythmic cat purring vibrating close to the microphone, ice cubes gently clinking against the glass condensation, soft scuff of leather sandals on textured concrete pavement, dry banana leaves brushing together in the warm breeze, rhythmic faint sound of a sapu lidi broom sweeping fallen leaves nearby, water dripping into a terracotta gentong, distant gentle crowing rooster, faint muffled low-frequency hum of a passing motorbike down the alley. Pure natural foley textures, zero music, zero studio effects, zero narration, zero speech.
+
+Goal: Authentic Indonesian neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with immersive environmental ASMR soundscape.
+```
+
+[<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="600" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)
+
+**作者:** @RishuaVR | **来源:** [原帖](https://x.com/RishuaVR/status/2089204108175741157) | **发布:** 2026-08-17 | **热度:** 95
+**稳定度：** 78/100
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.5 分) · [产物](https://media.goodcase.ai/retests/rishuavr-seedance-ai-ad4e6de3949d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)**
+
+
 ### 金发少女在高中走廊释放超能力
 
 > Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
@@ -2510,45 +2682,6 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.6 分) · [产物](https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-b204cdfb3dac/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)**
-
-
-### Seedance 2.5 印尼女生日常写实短片
-
-> Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
-
-```
-Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow oversized cotton t-shirt, brown high-waisted linen wrap skirt reaching just below the knee, simple brown leather slide sandals, thin gold stud earrings, dark wavy hair in a messy low bun with loose wispy strands framing her face. Realistic warm brown skin texture, minimal natural makeup, warm and approachable demeanor. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-
-Location: Authentic Indonesian residential neighborhood (gang) during a calm late morning. Narrow paved alleys, low-rise houses with open front terraces, terracotta roof tiles, potted frangipani and bougainvillea, laundry on bamboo drying racks, parked motorbikes along plastered walls, overhead utility wires, banana and coconut trees casting dappled moving shadows, quiet tropical residential atmosphere. No modern stores, billboards, cafés, or crowds.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-
-Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between harsh tropical sun and deep alley shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, warm faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
-
-00:00–00:02
-Outside a small house entrance with an open terrace. She sits on the low terrace step adjusting her loose hair bun with both hands raised. A light warm breeze moves loose strands of hair. She smiles naturally while the camera struggles to lock focus.
-
-00:02–00:05
-The camera follows her into a narrow alley lined with potted plants and plastered walls. She notices a neighborhood cat resting on a warm concrete ledge, crouches down, and gently pets it. Framing drifts off-center as the operator tries to keep up. Morning sunlight flickers through banana leaves overhead.
-
-00:05–00:08
-Small front terrace with a glass of sweet iced tea on a wooden stool. She sits relaxed on a plastic chair watching the quiet gang, casually brushing hair behind her ear. A motorbike passes slowly in the distant background. Handheld side angle with natural camera drift.
-
-00:08–00:10
-She turns toward the camera with a warm, genuine smile, gives a gentle nod of acknowledgement, then turns to walk down the tree-lined alley holding her iced tea. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.
-
-Audio: Hyper-detailed environmental ASMR binaural audio — crisp micro-sounds captured up close with high sensitivity. Crisp rustle of cotton fabric and linen as she moves, deep rhythmic cat purring vibrating close to the microphone, ice cubes gently clinking against the glass condensation, soft scuff of leather sandals on textured concrete pavement, dry banana leaves brushing together in the warm breeze, rhythmic faint sound of a sapu lidi broom sweeping fallen leaves nearby, water dripping into a terracotta gentong, distant gentle crowing rooster, faint muffled low-frequency hum of a passing motorbike down the alley. Pure natural foley textures, zero music, zero studio effects, zero narration, zero speech.
-
-Goal: Authentic Indonesian neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with immersive environmental ASMR soundscape.
-```
-
-[<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="600" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)
-
-**作者:** @RishuaVR | **来源:** [原帖](https://x.com/RishuaVR/status/2089204108175741157) | **发布:** 2026-08-17 | **热度:** 94
-**稳定度：** 78/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.5 分) · [产物](https://media.goodcase.ai/retests/rishuavr-seedance-ai-ad4e6de3949d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)**
 
 
 ### 智能手机拍摄的海滩一日游回忆
@@ -2609,7 +2742,7 @@ IMPORTANT GENERATION REQUIREMENTS:
 
 [<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="600" alt="智能手机拍摄的海滩一日游回忆">](https://goodcase.ai/cases/smartphone-beach-day-memories)
 
-**作者:** Saul Goodman | **来源:** [原帖](https://x.com/i/status/2079189509586260101) | **发布:** 2026-07-20 | **热度:** 93
+**作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2079189509586260101) | **发布:** 2026-07-20 | **热度:** 93
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/smartphone-beach-day-memories)**
 
@@ -2879,7 +3012,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 [<img src="https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg" width="600" alt="手绘 2D 日本料理动画">](https://goodcase.ai/cases/2d-38a41133eab1)
 
-**作者:** riotboy | **来源:** [原帖](https://x.com/i/status/2092217560788000816) | **发布:** 2026-08-25 | **热度:** 91
+**作者:** @riotboy2024 | **来源:** [原帖](https://x.com/riotboy2024/status/2092217560788000816) | **发布:** 2026-08-25 | **热度:** 91
 **稳定度：** 56/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (55.9 分) · [产物](https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
@@ -2915,7 +3048,7 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 
 [<img src="https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg" width="600" alt="电影感巴黎时尚广告大片：五镜头街拍">](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear)
 
-**作者:** Sharon Riley | **来源:** [原帖](https://x.com/Just_sharon7/status/2083793251132186998) | **发布:** 2026-08-02 | **热度:** 90
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2083793251132186998) | **发布:** 2026-08-02 | **热度:** 90
 **稳定度：** 82/100
 **复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (81.8 分) · [产物](https://media.goodcase.ai/retests/youmind-paris-fashion-campaign-streetwear/video-minimax-h3-768p-20260906-phase1/generated.mp4) · 共 2 次
 
@@ -3241,6 +3374,48 @@ Create a cute cinematic 14-second 2D anime-style video featuring two completely 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/lianaalane-seedance-ai-d70d42733c55)**
 
 
+### 十秒自救的女巫把自己变成了鸭子
+
+> 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
+
+```
+0–3 sec — Hook
+A young wizard stands frozen in a dark forest as a massive monster charges toward her.
+Wizard: “Ten seconds… that’s all I need!”
+
+3–8 sec — The Spell
+She raises her glowing staff and rapidly chants a magical spell. The monster gets closer and closer.
+
+8–12 sec — Countdown
+Monster: “YOU’RE TOO LATE!”
+The wizard finishes the final word: “TRANSFORMUS!”
+
+12–16 sec — Magic Burst
+A huge explosion of purple light fills the screen. Everything goes silent.
+
+16–21 sec — Twist
+The smoke clears. The monster looks confused.
+Instead of the wizard… there’s a tiny, adorable duck standing in her robes.
+
+21–26 sec — Reaction
+The duck looks down at herself, quacks angrily, and smacks the staff with her wing.
+
+26–30 sec — Punchline
+The monster slowly backs away.
+Monster: “...Honestly, I’m scared of her.”
+The duck suddenly starts chasing him.
+SFX: Quack! Quack! Quack!
+End text:
+✨ Never rush a spell. 🦆
+```
+
+[<img src="https://media.goodcase.ai/cases/15792e0fa5ef.jpg" width="600" alt="十秒自救的女巫把自己变成了鸭子">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f)
+
+**作者:** @AIwithNatalia | **来源:** [原帖](https://x.com/AIwithNatalia/status/2089170554725265625) | **发布:** 2026-08-17 | **热度:** 89
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f)**
+
+
 ### Seedance 2.5 超写实微距延时：种子发芽十秒
 
 > Seedance 2.5 on @Vorla_AI ❤️ Prompt: Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the
@@ -3280,54 +3455,48 @@ Create a 3D claymation-style animation of a cute caricature of Erling Haaland we
 
 [<img src="https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg" width="600" alt="Erling Haaland 黏土动画园艺">](https://goodcase.ai/cases/erling-haaland-525acabe78da)
 
-**作者:** NoorAI | **来源:** [原帖](https://x.com/i/status/2079818537137475762) | **发布:** 2026-07-22 | **热度:** 88
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2079818537137475762) | **发布:** 2026-07-22 | **热度:** 88
 **稳定度：** 83/100
 **复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/erling-haaland-525acabe78da/video-minimax-h3-768p-20260907-phase1/generated.mp4) · 共 2 次
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/erling-haaland-525acabe78da)**
 
 
-### Seedance：Realism that makes ordinary life feel special
+### Seedance：A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-yea…
 
-> Realism that makes ordinary life feel special Seedance 2.5 Prompt Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese …
+> golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
 ```
-Realism that makes ordinary life feel special
+A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
 
-Seedance 2.5 
+Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
 
-Prompt
+Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
 
-Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese woman in her 20s through an ordinary day in Kyoto. Keep her face, identity, hairstyle, body, outfit, accessories, and proportions perfectly consistent.
+Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
 
-She wears a fitted pastel yellow short top, straight-leg light denim jeans, yellow canvas sneakers, a small tan tote bag, and thin gold hoop earrings throughout.
+Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
 
-Style: Genuine footage filmed casually by a close friend on a smartphone/compact camera. Handheld shake, imperfect framing, autofocus/exposure shifts, natural motion blur, mild digital noise, realistic skin texture, occasional late camera reactions. No gimbal, drone, cinematic choreography, slow motion, beauty filter, or commercial look.
+Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
 
-0–5s: Quiet residential Kyoto street, narrow lane with wooden facades. She steps out of her apartment, glances at her phone, notices the camera, smiles softly, tucks her hair behind her ear and says naturally: "今日も一緒に行こう。"
+Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
 
-5–11s: Enters a small neighborhood bakery/konbini-style shop, notices a fresh melon pan and says: "これ、いい匂いがする。" Buys it, takes a bite outside, and smiles at the camera.
+Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
 
-11–17s: Boards a local city bus and sits by the window. Kyoto streets and old buildings pass outside with realistic reflections and sunlight. She quietly says: "こういう日は、歩きたくなるな。"
+Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
 
-17–23s: Gets off near a canal-side walking path. Buys a drink from a small vending machine or cart. A cyclist passes unexpectedly close; she steps aside, laughs, and says: "今、ちょっとびっくりした。"
+Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
 
-23–27s: Golden-hour canal-side scene. She sits on a low stone ledge or bench, places her drink beside her, removes one earbud, watches the water, and gives a small genuine smile as the wind moves her hair.
+Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
 
-27–30s: She stands and walks away. After a few steps, looks back and says: "次は一緒に来てね。" She continues walking as the camera follows behind. Recording naturally ends around 29.5s.
-
-REALISM: Accurate human biomechanics, grounded feet, continuous objects, realistic bus movement, natural walking/eating/sitting, consistent architecture and wardrobe. No teleportation, morphing, identity drift, duplicated/disappearing objects, distorted hands or limbs.
-
-AUDIO: Natural Japanese dialogue with accurate lip-sync, phone-mic quality, footsteps, traffic, birds, bakery sounds, bus engine, bicycle bell, wind and city ambience. No music, narrator, or cinematic SFX.
-
-Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
+Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
 ```
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="600" alt="Seedance：Realism that makes ordinary life feel special">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)
+[<img src="https://media.goodcase.ai/cases/39b33ab9f88e.jpg" width="600" alt="Seedance：A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-yea…">](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806)
 
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2096109540924141746) | **发布:** 2026-09-05 | **热度:** 88
+**作者:** @eshal__ai | **来源:** [原帖](https://x.com/eshal__ai/status/2096840505355370629) | **发布:** 2026-09-07 | **热度:** 88
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806)**
 
 
 ### 泥土中诞生的罐中小鸟
@@ -3400,117 +3569,6 @@ Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, phys
 **作者:** @Yesandyou_ | **来源:** [原帖](https://x.com/Yesandyou_/status/2090075447195480403) | **发布:** 2026-08-19 | **热度:** 88
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d)**
-
-
-### Seedance 灾难现场拍还是跑：第一视角短片
-
-> Would you take out your phone to make videos or run first? Seedance 2.5 on @DomoAI_ prompt LIVE-ACTION CINEMATIC REALISM
-
-```
-Would you take out your phone to make videos or run first?
-
-Seedance 2.5 on @DomoAI_ 
-
-prompt
-
-LIVE-ACTION CINEMATIC REALISM. Every frame is photographed as real live-action footage: a real adult woman, real city, real pedestrians, real domestic pets, and a real enormous mascot plush statue. Real skin with pores, real wavy blonde hair with individual strands, real cotton, nylon, leather, metal, wet asphalt, glass, concrete and plush fibers. No illustration, painting, anime, CGI, 3D render, or artificial surface.
-
-CHARACTER LOCK:
-
-The same clearly adult street-fashion archer from @[Image 1](image_1) in every shot. Preserve her exact face, natural facial geometry, dark eyes, skin tone, expression, extremely long straight wavy blonde hair, thick blunt bangs, and royal-blue backward baseball cap with small decorative details but no readable text. She is 178 cm tall, XS size, very slim elongated runway-model proportions. Her outfit never changes: oversized white-to-light-grey graphic cotton T-shirt with a deep plunging neckline that that accentuates her large cleavage., faint doodle motifs but no readable lettering, dusty rose-pink wide cargo trousers with dimensional pockets and heavy folds, black belt with silver hardware, colorful keychain charms, layered bead necklaces, and red low-top sneakers with white soles.
-ARCHERY GEAR:
-She carries a long dark laminated-wood recurve bow with a leather-wrapped grip, visible taut string, realistic curved limbs and subtle wear. A dark-brown leather quiver crosses diagonally over her back, holding six to eight arrows with natural wood shafts and cream-white feather fletching. She wears matching brown leather archery gloves with stitched palms, reinforced knuckles and wrist straps, plus a fitted leather forearm bracer on the bow arm and a slim finger tab or draw glove. The archery equipment is integrated into her street-fashion styling, not a historical costume.
-LOCATION:
-A dense urban shopping district and pedestrian plaza at blue hour, wet asphalt reflecting storefront light, concrete towers, glass façades, crosswalk signals, street lamps, overhead transit lines, narrow side streets, urban haze, and a large original unbranded mascot plush statue installed in the center of the plaza. The mascot is enormous, approximately three stories tall, with a soft cream-and-pastel plush body, oversized rounded head, expressive embroidered eyes, visible seams, padded limbs and tactile fabric. No copyrighted character, logo or readable text.
-STORY — 12 SHOTS, ONE CONTINUOUS EVENT:
-1. 0–1.5s, LOW WIDE. Camera whips right past two foreground pedestrians and a street barrier. She bursts through the wet plaza at a low run, bow held low, red sneakers splashing lightly, dusty rose cargo fabric and extremely long hair streaming behind her.
-2. 1.5–3s, EXTREME CLOSE, LOCKED. A commuter’s eyes appear above a scarf behind a transparent umbrella. The eyes snap toward the plaza as nearby city lights reflect across the wet plastic.
-3. 3–4.5s, CLOSE, FAST PUSH-IN. Two pedestrians and their leashed pets in the distance suddenly turn toward the giant mascot statue. A small dog raises its ears while a cat inside a carrier shifts and looks outward.
-4. 4.5–6s, TRACKING MEDIUM. Camera runs beside her through the moving crowd at shoulder height. People step aside, coats and shopping bags sway, her long black hair, oversized T-shirt and cargo trousers carry real momentum as she reaches toward the quiver.
-5. 6–7.5s, LOW ANGLE CLOSE. Her red sneaker plants on the wet pavement. She straightens hard and raises the dark recurve bow into frame. The giant mascot statue is visible far behind her between buildings.
-6. 7.5–9s, MEDIUM FROM HER LEFT. Camera orbits behind her as she draws an arrow from the quiver, nocks it and pulls the string to full draw. The bow limbs flex visibly; pedestrians freeze at a safe distance, watching.
-7. 9–10.5s, MACRO, LOCKED, razor-shallow focus. Her leather-gloved fingers grip the string, stitched glove texture, finger tab and arrow shaft sharply resolved. Her eye, blue cap and city lights remain soft behind. The string creeps back the last centimetre. The crowd noise drops for one hard beat.
-8. 10.5–12s, WIDE FROM BEHIND AND ABOVE THE ARROW, LOCKED. She releases. The string snaps and blurs. The arrow tears forward between streetlights and glass buildings toward the giant mascot statue.
-9. 12–14s, MEDIUM CLOSE TRACKING THE ARROW. The arrow breaks apart in mid-air: its front half dissolves into millions of bright rose-pink glitter particles streaming behind it, each particle catching the city light separately while the feathered tail remains intact. The arrow has no point.
-10. 14–16s, WIDE LOW ANGLE. The glitter stream strikes the plush mascot’s chest and races through its seams as a bright rose-pink wave. Plush fibers ripple outward from the impact point. Pink reflections pulse across the wet pavement and nearby windows.
-11. 16–18s, WIDE LOW ANGLE, FAST PULLBACK. The enormous mascot plush statue activates and rises into a fully living presence. Its padded head lifts, embroidered eyes illuminate softly, oversized arms move, seams flex, and rose-pink glowing fabric appliqués spread across its plush surface from the impact point. It remains clearly soft, textile-based and physically heavy, not a CGI monster.
-12. 18–20s, FINALE, WIDE FROM BEHIND. Camera rises behind her as she lowers the bow and lets her weight settle naturally onto one hip. She looks up at the awakened mascot with a small confident smile. Pedestrians gather and react, some stepping backward, others pointing or raising phones. Dogs tug lightly at their leashes, a small pet in a carrier shifts, and the giant mascot waves slowly above the plaza. Glitter continues to fall through the city light.
-Vary the framing aggressively: extreme close-up, macro, close, medium, tracking, low wide and overhead. Never repeat the same shot type twice consecutively. Shots 2, 7 and 8 are locked; all others use clear camera movement. Every action must be instantly readable.
-LOOK:
-Photorealistic live-action large-format colour film with a refined three-strip Technicolor response. Concrete, glass, asphalt and distant architecture remain cool blue-grey and slightly desaturated. Saturated colours are the royal-blue cap, dusty rose cargo trousers, red sneakers, colorful keychain charms, rose-pink glitter, and the cream-and-pastel mascot plush. Fine photochemical grain, subtle halation on streetlights and glitter, realistic wet reflections, tactile cotton, nylon, leather, metal and plush fibers. Photographed reality, never drawn.
-LIGHTING:
-Blue-hour city light mixed with warm street lamps and storefront spill at approximately 4200K. Cooler sky fill at 4:1. Streetlights rim her long black hair, cap, bow and quiver. Thin urban mist and steam rise from vents and wet pavement. The glitter emits separate rose-pink specular points and casts soft pink reflections onto the mascot, asphalt, glass and her face.
-CAUSE AND EFFECT:
-Pedestrians and pets notice the strange event before the transformation, so their final reactions read as consequences. The glitter must visibly travel in sequence: arrow releases, arrow breaks apart, particles stream through the city, glitter strikes the mascot chest, light travels through the seams, the plush statue activates, then the crowd and pets react. Never cut directly to an already-animated mascot.
-PHYSICS:
-Real mass, real air and believable momentum. Bow limbs flex, string snaps, arrow flight has directional force, glitter behaves as millions of separate solid particles carried by fast air, and plush fabric compresses, ripples and rebounds with weight. Cargo fabric, T-shirt, hair, quiver strap and keychains respond to acceleration. Wet pavement reflects movement without becoming a mirror. The giant mascot moves slowly because of its padded mass. No slow motion; all shots run at real-time speed.
-AUDIO:
-Wet footsteps, light splashes, distant traffic, pedestrian chatter, shopping bags and coats moving, dog tags and leash tension, a faint pet sound, bowstring creak, sharp release snap, arrow hiss, crystalline glitter shimmer, plush fabric shifting, soft mechanical-like seam tension, crowd gasps and footsteps. No music.
-ON-SCREEN TEXT:
-None. No readable text, subtitles, numbers, captions, UI, logos, brand marks or watermark anywhere.
-OUTPUT:
-20 seconds, horizontal 16:9, 4K, continuous cinematic live-action realism. #DomoAi #DomoAiCPP
-```
-
-[<img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="600" alt="Seedance 灾难现场拍还是跑：第一视角短片">](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2089578815219785888) | **发布:** 2026-08-18 | **热度:** 88
-**稳定度：** 79/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.3 分) · [产物](https://media.goodcase.ai/retests/just-sharon7-seedance-ai-9c64e481a51d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)**
-
-
-### Korean Fantasy Romance Drama
-
-> A cinematic script prompt for a fantasy romance K-drama that follows two star-crossed lovers through different eras, from ancient kingdoms to modern Seoul.
-
-```
-Create a 2-minute ultra-realistic Korean fantasy romance cinematic mini-series following the same two main characters throughout every scene. Begin in an ancient Korean kingdom where the immortal warrior Ji Han promises to find his lost love again, sealing his vow with a magical necklace. Transition to modern Seoul, where fate reunites him with Seo Ra, a woman who has no memory of their past life but feels an undeniable connection to him. Show their growing romance through quiet café moments, rainy walks, rooftop conversations, and joyful everyday memories. As love blossoms, an ancient enemy returns, forcing Ji Han to reveal his supernatural powers and sacrifice himself to protect Seo Ra. End years later with an emotional reunion at sunset, proving that true love can overcome time, death, and destiny.
-
-Ultra-realistic Korean actors, cinematic K-drama visuals, emotional performances, natural lighting, fantasy magic effects, professional movie camera, authentic Seoul locations, Korean dialogue with English subtitles, emotional OST, 4K cinematic masterpiece.
-```
-
-[<img src="https://media.goodcase.ai/media/poster/korean-fantasy-romance-drama.jpg" width="600" alt="Korean Fantasy Romance Drama">](https://goodcase.ai/cases/korean-fantasy-romance-drama)
-
-**作者:** Julia Clark | **来源:** [原帖](https://x.com/i/status/2079586851862835248) | **发布:** 2026-07-21 | **热度:** 87
-**稳定度：** 74/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.7 分) · [产物](https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/korean-fantasy-romance-drama)**
-
-
-### 母亲抢走男孩的可丽饼座位
-
-> That's how I would be as a mother GPT Image 2 + Seedance 2.0 on @DomoAI_ prompt A realistic, cinematic short video (abou
-
-```
-That's how I would be as a mother
-
-GPT Image 2 + Seedance 2.0 on @DomoAI_ 
-
-prompt
-
-A realistic, cinematic short video (about 20 seconds) set in a bright modern kitchen with glossy white cabinets, black granite countertop, stainless steel appliances, a black coffee machine, and a red blender in the background. Natural daylight fills the space.
-
-A young boy @Image (around 8–10 years old, brown hair, wearing a bright green Pokémon T-shirt) sits at the kitchen island, focused on a black tablet propped in front of him.
-
-A fit, tattooed mother @Image generation (long wavy blonde hair, babypink T-shirt with a square neckline and ruched bodice., light blue denim shorts, checkered kitchen towel draped over one shoulder) approaches from behind, carrying a white square plate stacked with golden-brown crepes/pancakes. He places the plate gently on the counter in front of the boy.
-
-The boy looks up from the tablet, eyes lighting up with excitement. He quickly closes the tablet, sets it aside, and starts clapping his hands happily while smiling and bouncing slightly in his chair.
-
-The mother @Image generation turns, grabs a jar of Nutella from the counter, and places it next to the plate of crepes. she @Image generation then walks behind the boy, she @Image generation aggressively pulls the chair back as the boy @Image falls down from the chair, mother @Image generation then steps around, sits down in the chair, leans forward over the counter toward the plate of crepes and Nutella, looking down at the food with a calm, content expression.
-
-Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting, slight handheld camera feel, high detail, photorealistic style.
-
-#DomoAi #DomoAiCPP
-```
-
-[<img src="https://media.goodcase.ai/cases/670618f587b7.jpg" width="600" alt="母亲抢走男孩的可丽饼座位">](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2091529113425297759) | **发布:** 2026-08-23 | **热度:** 87
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58)**
 
 
 ## 如何投稿
