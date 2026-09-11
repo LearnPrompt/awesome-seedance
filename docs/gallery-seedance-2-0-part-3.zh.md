@@ -739,7 +739,7 @@ Ultra-photorealistic live-action horror, realistic human movement, believable ap
 
 **作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2091483449815126134) | **发布:** 2026-08-23 | **热度:** 50
 **稳定度：** 67/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (67.4 分) · [产物](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.4 分) · [产物](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)**
 
@@ -1551,7 +1551,7 @@ CRITICAL REALISM REQUIREMENTS: Prioritize genuine smartphone vlog footage: arm-l
 
 **作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2095106155978596773) | **发布:** 2026-09-02 | **热度:** 46
 **稳定度：** 74/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (74.3 分) · [产物](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.3 分) · [产物](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5)**
 
@@ -1648,7 +1648,7 @@ Throughout the entire video, prioritize real smartphone imperfections and authen
 
 **作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2093552631650386343) | **发布:** 2026-08-29 | **热度:** 45
 **稳定度：** 75/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (74.5 分) · [产物](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-82caafbf580a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.5 分) · [产物](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-82caafbf580a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/saniaspeaks-seedance-ai-82caafbf580a)**
 
@@ -2004,7 +2004,7 @@ The main dan
 
 **作者:** appletea 🍎アップルティ☕丨AI動画制作 | **来源:** [原帖](https://x.com/i/status/2087212818047340844) | **发布:** 2026-08-11 | **热度:** 42
 **稳定度：** 72/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (71.8 分) · [产物](https://media.goodcase.ai/retests/iphone-shot-street-dance-music-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.8 分) · [产物](https://media.goodcase.ai/retests/iphone-shot-street-dance-music-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/iphone-shot-street-dance-music-video)**
 
@@ -2043,7 +2043,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 **作者:** simeon-sanai | **来源:** [原帖](https://x.com/i/status/2081371164728041980) | **发布:** 2026-07-26 | **热度:** 42
 **稳定度：** 59/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (59.4 分) · [产物](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (59.4 分) · [产物](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-429309e40d97)**
 
@@ -2162,7 +2162,7 @@ Use karakter sheet - location 1 - location 2 (image)
 
 **作者:** @Cupang1997 | **来源:** [原帖](https://x.com/Cupang1997/status/2091438364545446209) | **发布:** 2026-08-23 | **热度:** 42
 **稳定度：** 66/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (66.3 分) · [产物](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66.3 分) · [产物](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2)**
 
@@ -2307,7 +2307,7 @@ Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinem
 
 **作者:** @liyue_ai | **来源:** [原帖](https://x.com/liyue_ai/status/2092147008895426977) | **发布:** 2026-08-25 | **热度:** 40
 **稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (71.3 分) · [产物](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.3 分) · [产物](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20)**
 
@@ -3192,7 +3192,7 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 **作者:** NoorAI | **来源:** [原帖](https://x.com/i/status/2080354151750668360) | **发布:** 2026-07-23 | **热度:** 33
 **稳定度：** 67/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (67.4 分) · [产物](https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.4 分) · [产物](https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-398be18644ee)**
 
@@ -3648,7 +3648,7 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 **作者:** Snow | **来源:** [原帖](https://x.com/i/status/2080938085081403765) | **发布:** 2026-07-25 | **热度:** 28
 **稳定度：** 73/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (72.7 分) · [产物](https://media.goodcase.ai/retests/case-d346cb88c88e/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (72.7 分) · [产物](https://media.goodcase.ai/retests/case-d346cb88c88e/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d346cb88c88e)**
 

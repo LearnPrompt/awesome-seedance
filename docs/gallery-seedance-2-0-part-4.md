@@ -96,7 +96,7 @@ A massive human fortress built into the cliffs of a frozen planet faces a final 
 
 **Author:** Pierrick Chevallier | IA | **Source:** [Original](https://x.com/i/status/2080669361237303417) | **Published:** 2026-07-24 | **Heat:** 23
 **Stability:** 66/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 66) · [output](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 66) · [output](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1b3b8865bca8)**
 
@@ -225,7 +225,7 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 **Author:** Soran | **Source:** [Original](https://x.com/i/status/2081379282442420321) | **Published:** 2026-07-26 | **Heat:** 19
 **Stability:** 71/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ✅ reproduced (score 71) · [output](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 71) · [output](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
 
@@ -285,7 +285,7 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 
 **Author:** LUCY | **Source:** [Original](https://x.com/i/status/2080628740955218120) | **Published:** 2026-07-24 | **Heat:** 19
 **Stability:** 63/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 63.1) · [output](https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 63.1) · [output](https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1a9a2c659866)**
 
@@ -400,7 +400,7 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 **Author:** 雨雲(Amagumo)806 ｜ AI Animer | **Source:** [Original](https://x.com/i/status/2078023536992735573) | **Published:** 2026-07-17 | **Heat:** 17
 **Stability:** 70/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 70) · [output](https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70) · [output](https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b079faa80f0f)**
 
@@ -514,7 +514,7 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 
 **Author:** serein ｜买美股上币安 | **Source:** [Original](https://x.com/i/status/2081218658618188267) | **Published:** 2026-07-26 | **Heat:** 14
 **Stability:** 69/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 69.4) · [output](https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 69.4) · [output](https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)**
 
@@ -546,7 +546,7 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 
 **Author:** Abkr Sadiq | **Source:** [Original](https://x.com/i/status/2074744763505324502) | **Published:** 2026-07-08 | **Heat:** 14
 **Stability:** 64/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 64) · [output](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 64) · [output](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-7a9235e91c71)**
 
@@ -648,7 +648,7 @@ P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen r
 
 **Author:** Kōda | **Source:** [Original](https://x.com/i/status/2079968108303818827) | **Published:** 2026-07-22 | **Heat:** 11
 **Stability:** 33/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 32.9) · [output](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 32.9) · [output](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-24775a8dc979)**
 
@@ -803,7 +803,7 @@ output_rules:
 
 **Author:** 田中勇道 | AI画像・動画生成 | **Source:** [Original](https://x.com/i/status/2079900274064490842) | **Published:** 2026-07-22 | **Heat:** 11
 **Stability:** 66/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 66) · [output](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 66) · [output](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/yaml-629d172a4820)**
 
@@ -1622,7 +1622,7 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 
 **Author:** HiAPI | **Source:** [Original](https://x.com/i/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 5
 **Stability:** 75/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ✅ reproduced (score 74.8) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 74.8) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f)**
 
@@ -1784,7 +1784,7 @@ P09: Final victory shot. She accelerates toward the glowing skyline on the empty
 
 **Author:** LANDCÄSTER | **Source:** [Original](https://x.com/i/status/2081432738683314614) | **Published:** 2026-07-26 | **Heat:** 4
 **Stability:** 64/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 63.8) · [output](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 63.8) · [output](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-8f7479c32251)**
 
@@ -2030,7 +2030,7 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 
 **Author:** Hero Syndicate | **Source:** [Original](https://x.com/i/status/2081137523536109682) | **Published:** 2026-07-25 | **Heat:** 4
 **Stability:** 67/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 67.3) · [output](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 67.3) · [output](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c0cf557563b7)**
 
@@ -2079,7 +2079,7 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 
 **Author:** Pan | **Source:** [Original](https://x.com/i/status/2080942778293313949) | **Published:** 2026-07-25 | **Heat:** 3
 **Stability:** 61/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 61) · [output](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 61) · [output](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923)**
 
@@ -2266,7 +2266,7 @@ whip-pans between beats; kinetic precision.
 
 **Author:** PixieVerse | **Source:** [Original](https://x.com/i/status/2081161446671651074) | **Published:** 2026-07-25 | **Heat:** 1
 **Stability:** 72/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 72.3) · [output](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 72.3) · [output](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-251215797a14)**
 
@@ -2284,7 +2284,7 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 
 **Author:** Pan | **Source:** [Original](https://x.com/i/status/2080999511195828239) | **Published:** 2026-07-25 | **Heat:** 1
 **Stability:** 70/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 70.3) · [output](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70.3) · [output](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/asmr-eb8937adce5b)**
 

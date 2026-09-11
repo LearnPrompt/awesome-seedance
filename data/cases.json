@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-09T22:35:57.698Z",
+    "exportedAt": "2026-09-11T06:28:39.898Z",
     "caseCount": 366,
     "sections": [
       {
@@ -27,8 +27,8 @@
         "MiniMax H3 768p": 11
       },
       "byVerdict": {
-        "reproduced": 252,
-        "degraded": 2
+        "reproduced": 178,
+        "degraded": 76
       }
     }
   },
@@ -63,7 +63,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.5
@@ -76,7 +76,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.5
@@ -263,7 +263,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.6
@@ -276,7 +276,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.6
@@ -343,7 +343,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.3
@@ -356,7 +356,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.3
@@ -442,7 +442,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 73.2
@@ -455,7 +455,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 73.2
@@ -721,7 +721,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.5
@@ -734,7 +734,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.5
@@ -821,7 +821,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.2
@@ -834,7 +834,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.2
@@ -919,7 +919,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.1
@@ -932,7 +932,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.1
@@ -970,7 +970,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67
@@ -983,7 +983,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67
@@ -1019,7 +1019,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.3
@@ -1032,7 +1032,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.3
@@ -1249,7 +1249,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.5
@@ -1262,7 +1262,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.5
@@ -1499,7 +1499,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.7
@@ -1512,7 +1512,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.7
@@ -1550,7 +1550,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.5
@@ -1563,7 +1563,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.5
@@ -1731,7 +1731,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 55.1
@@ -1744,7 +1744,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 55.1
@@ -2028,7 +2028,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 56.6
@@ -2041,7 +2041,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 56.6
@@ -2221,7 +2221,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.8
@@ -2234,7 +2234,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.8
@@ -2573,7 +2573,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-b529ffbdfd9a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.8
@@ -2586,7 +2586,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-b529ffbdfd9a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.8
@@ -2768,7 +2768,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/youmind-1980s-slasher-yacht-octopus/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.8
@@ -2789,7 +2789,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/youmind-1980s-slasher-yacht-octopus/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.8
@@ -2886,7 +2886,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/youmind-surprise-visit-romance-trailer/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.3
@@ -2899,7 +2899,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/youmind-surprise-visit-romance-trailer/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.3
@@ -2936,7 +2936,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/celestial-palace-minidv-tour/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.7
@@ -2949,7 +2949,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/celestial-palace-minidv-tour/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.7
@@ -3290,7 +3290,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ugc-80d503f66caa/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.8
@@ -3303,7 +3303,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ugc-80d503f66caa/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.8
@@ -3660,7 +3660,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/iphone-shot-street-dance-music-video/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.8
@@ -3673,7 +3673,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/iphone-shot-street-dance-music-video/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.8
@@ -3710,7 +3710,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 59.4
@@ -3723,7 +3723,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 59.4
@@ -4250,7 +4250,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.4
@@ -4263,7 +4263,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.4
@@ -4660,7 +4660,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-d346cb88c88e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.7
@@ -4673,7 +4673,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-d346cb88c88e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.7
@@ -5149,7 +5149,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66
@@ -5162,7 +5162,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66
@@ -5479,7 +5479,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-06T19:01:15.198+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4",
           "finalScore": 71
@@ -5492,7 +5492,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-06T19:01:15.198+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4",
           "finalScore": 71
@@ -5579,7 +5579,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 63.1
@@ -5592,7 +5592,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 63.1
@@ -5759,7 +5759,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70
@@ -5772,7 +5772,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70
@@ -5947,7 +5947,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.4
@@ -5960,7 +5960,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.4
@@ -6047,7 +6047,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64
@@ -6060,7 +6060,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64
@@ -6177,7 +6177,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 32.9
@@ -6190,7 +6190,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 32.9
@@ -6227,7 +6227,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66
@@ -6240,7 +6240,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66
@@ -6747,7 +6747,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-06T19:01:15.198+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4",
           "finalScore": 74.8
@@ -6760,7 +6760,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-06T19:01:15.198+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4",
           "finalScore": 74.8
@@ -6897,7 +6897,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 63.8
@@ -6910,7 +6910,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 63.8
@@ -6997,7 +6997,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.3
@@ -7010,7 +7010,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.3
@@ -7097,7 +7097,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 61
@@ -7110,7 +7110,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 61
@@ -7387,7 +7387,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.3
@@ -7400,7 +7400,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.3
@@ -7437,7 +7437,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.3
@@ -7450,7 +7450,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.3
@@ -7944,7 +7944,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 55.4
@@ -7957,7 +7957,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 55.4
@@ -8027,7 +8027,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.7
@@ -8040,7 +8040,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.7
@@ -8130,7 +8130,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 59.2
@@ -8143,7 +8143,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 59.2
@@ -8463,7 +8463,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/zarairahh-seedance-ai-3f362e9e352b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66.4
@@ -8476,7 +8476,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/zarairahh-seedance-ai-3f362e9e352b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66.4
@@ -8547,7 +8547,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/just-sharon7-seedance-ai-0a85559bbf5e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.3
@@ -8560,7 +8560,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/just-sharon7-seedance-ai-0a85559bbf5e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.3
@@ -8975,7 +8975,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 73.1
@@ -8988,7 +8988,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 73.1
@@ -9026,7 +9026,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ruzainameer-seedance-ai-e6073ec318f1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 73.5
@@ -9039,7 +9039,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ruzainameer-seedance-ai-e6073ec318f1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 73.5
@@ -9077,7 +9077,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/lexers-seedance-ai-7040e9b2e90e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.5
@@ -9090,7 +9090,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/lexers-seedance-ai-7040e9b2e90e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.5
@@ -9277,7 +9277,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/zarairahh-seedance-ai-b7601661378a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.3
@@ -9290,7 +9290,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/zarairahh-seedance-ai-b7601661378a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.3
@@ -9998,7 +9998,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/caden-flux-seedance-ai-40fe0c7229fc/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.7
@@ -10011,7 +10011,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/caden-flux-seedance-ai-40fe0c7229fc/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.7
@@ -10322,7 +10322,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.3
@@ -10335,7 +10335,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.3
@@ -10374,7 +10374,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.8
@@ -10387,7 +10387,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 69.8
@@ -10562,7 +10562,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/yourplugai-seedance-ai-fb797edfc8e4/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.6
@@ -10575,7 +10575,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/yourplugai-seedance-ai-fb797edfc8e4/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.6
@@ -10664,7 +10664,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aiwithjessica-seedance-ai-f519acb4b6b4/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.5
@@ -10677,7 +10677,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aiwithjessica-seedance-ai-f519acb4b6b4/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.5
@@ -10885,7 +10885,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/doctorwasif-seedance-ai-117496b404a6/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 68.8
@@ -10898,7 +10898,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/doctorwasif-seedance-ai-117496b404a6/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 68.8
@@ -11123,7 +11123,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/oggii-0-seedance-ai-a473e1b2b456/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.2
@@ -11136,7 +11136,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/oggii-0-seedance-ai-a473e1b2b456/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.2
@@ -11205,7 +11205,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/iamahmedfaraz66-seedance-ai-ce12dc209ee3/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.3
@@ -11218,7 +11218,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/iamahmedfaraz66-seedance-ai-ce12dc209ee3/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.3
@@ -11437,7 +11437,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/nawalsehar-seedance-ai-9cff7acb6229/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.6
@@ -11450,7 +11450,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/nawalsehar-seedance-ai-9cff7acb6229/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.6
@@ -11940,7 +11940,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/nawalsehar-seedance-ai-e50de3d2896e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64.5
@@ -11953,7 +11953,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/nawalsehar-seedance-ai-e50de3d2896e/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64.5
@@ -12588,7 +12588,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/shamiweb3-seedance-ai-a624f0561664/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.5
@@ -12601,7 +12601,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/shamiweb3-seedance-ai-a624f0561664/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.5
@@ -12974,7 +12974,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ciri-ai-seedance-ai-e714d09df6ce/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.3
@@ -12987,7 +12987,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ciri-ai-seedance-ai-e714d09df6ce/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.3
@@ -13141,7 +13141,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ethancole-ai-seedance-ai-c8e1a1b52569/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64.1
@@ -13154,7 +13154,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ethancole-ai-seedance-ai-c8e1a1b52569/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64.1
@@ -13358,7 +13358,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/juliaclarky-seedance-ai-f648a434d526/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 56.4
@@ -13371,7 +13371,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/juliaclarky-seedance-ai-f648a434d526/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 56.4
@@ -13829,7 +13829,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-45d48a1479db/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.9
@@ -13842,7 +13842,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-45d48a1479db/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 60.9
@@ -13934,7 +13934,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ciri-ai-seedance-ai-5ce4a010eef9/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 57.9
@@ -13947,7 +13947,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/ciri-ai-seedance-ai-5ce4a010eef9/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 57.9
@@ -13985,7 +13985,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/iamahmedfaraz66-seedance-ai-c5e754c28fb7/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.7
@@ -13998,7 +13998,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/iamahmedfaraz66-seedance-ai-c5e754c28fb7/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.7
@@ -14036,7 +14036,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/itxabdullaa-seedance-ai-e415bfb9d10b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64.6
@@ -14049,7 +14049,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/itxabdullaa-seedance-ai-e415bfb9d10b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 64.6
@@ -14238,7 +14238,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/chillaikalan-seedance-ai-c67e26cea7cb/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 65.5
@@ -14251,7 +14251,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/chillaikalan-seedance-ai-c67e26cea7cb/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 65.5
@@ -14342,7 +14342,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/qaistudio-seedance-ai-72dab559610b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.2
@@ -14355,7 +14355,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/qaistudio-seedance-ai-72dab559610b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.2
@@ -14394,7 +14394,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-5b1b7fa15e8f/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.5
@@ -14407,7 +14407,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-5b1b7fa15e8f/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.5
@@ -14446,7 +14446,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aqib-786ai-seedance-ai-9fcb27bab8b2/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.2
@@ -14459,7 +14459,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/aqib-786ai-seedance-ai-9fcb27bab8b2/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 72.2
@@ -14961,7 +14961,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.4
@@ -14974,7 +14974,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 67.4
@@ -15327,7 +15327,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.3
@@ -15340,7 +15340,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.3
@@ -15410,7 +15410,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-82caafbf580a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.5
@@ -15423,7 +15423,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-82caafbf580a/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 74.5
@@ -15757,7 +15757,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66.3
@@ -15770,7 +15770,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 66.3
@@ -15860,7 +15860,7 @@
       "retests": [
         {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.3
@@ -15873,7 +15873,7 @@
         ],
         "latest": {
           "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
+          "verdict": "degraded",
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 71.3

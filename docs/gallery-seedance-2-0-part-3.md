@@ -739,7 +739,7 @@ Ultra-photorealistic live-action horror, realistic human movement, believable ap
 
 **Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2091483449815126134) | **Published:** 2026-08-23 | **Heat:** 50
 **Stability:** 67/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 67.4) · [output](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 67.4) · [output](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)**
 
@@ -1551,7 +1551,7 @@ CRITICAL REALISM REQUIREMENTS: Prioritize genuine smartphone vlog footage: arm-l
 
 **Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2095106155978596773) | **Published:** 2026-09-02 | **Heat:** 46
 **Stability:** 74/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 74.3) · [output](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.3) · [output](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5)**
 
@@ -1648,7 +1648,7 @@ Throughout the entire video, prioritize real smartphone imperfections and authen
 
 **Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2093552631650386343) | **Published:** 2026-08-29 | **Heat:** 45
 **Stability:** 75/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 74.5) · [output](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-82caafbf580a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.5) · [output](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-82caafbf580a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/saniaspeaks-seedance-ai-82caafbf580a)**
 
@@ -2004,7 +2004,7 @@ The main dan
 
 **Author:** appletea 🍎アップルティ☕丨AI動画制作 | **Source:** [Original](https://x.com/i/status/2087212818047340844) | **Published:** 2026-08-11 | **Heat:** 42
 **Stability:** 72/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 71.8) · [output](https://media.goodcase.ai/retests/iphone-shot-street-dance-music-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.8) · [output](https://media.goodcase.ai/retests/iphone-shot-street-dance-music-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/iphone-shot-street-dance-music-video)**
 
@@ -2043,7 +2043,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 **Author:** simeon-sanai | **Source:** [Original](https://x.com/i/status/2081371164728041980) | **Published:** 2026-07-26 | **Heat:** 42
 **Stability:** 59/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 59.4) · [output](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 59.4) · [output](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429309e40d97)**
 
@@ -2162,7 +2162,7 @@ Use karakter sheet - location 1 - location 2 (image)
 
 **Author:** @Cupang1997 | **Source:** [Original](https://x.com/Cupang1997/status/2091438364545446209) | **Published:** 2026-08-23 | **Heat:** 42
 **Stability:** 66/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 66.3) · [output](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 66.3) · [output](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2)**
 
@@ -2307,7 +2307,7 @@ Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinem
 
 **Author:** @liyue_ai | **Source:** [Original](https://x.com/liyue_ai/status/2092147008895426977) | **Published:** 2026-08-25 | **Heat:** 40
 **Stability:** 71/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 71.3) · [output](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.3) · [output](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20)**
 
@@ -3192,7 +3192,7 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 **Author:** NoorAI | **Source:** [Original](https://x.com/i/status/2080354151750668360) | **Published:** 2026-07-23 | **Heat:** 33
 **Stability:** 67/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 67.4) · [output](https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 67.4) · [output](https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-398be18644ee)**
 
@@ -3648,7 +3648,7 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 **Author:** Snow | **Source:** [Original](https://x.com/i/status/2080938085081403765) | **Published:** 2026-07-25 | **Heat:** 28
 **Stability:** 73/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 72.7) · [output](https://media.goodcase.ai/retests/case-d346cb88c88e/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-d346cb88c88e/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d346cb88c88e)**
 

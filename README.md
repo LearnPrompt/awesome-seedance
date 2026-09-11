@@ -40,7 +40,7 @@ Seedance 2.5 is ByteDance's video generation model in Early Access, generating f
 | Unique authors | 183 |
 | Re-run on other models | 245 cases / 254 runs |
 | Stability score (measured) | 245 cases / avg 77.8 |
-| Last updated | 2026-09-09 |
+| Last updated | 2026-09-11 |
 
 ## ⭐ Featured
 
@@ -70,7 +70,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **Author:** TechHalla | **Source:** [Original](https://x.com/techhalla/status/2083389002552664385) | **Published:** 2026-08-01 | **Heat:** 100
 **Stability:** 72/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 71.5) · [output](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.5) · [output](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
 
@@ -260,7 +260,7 @@ Every prompt here is re-run on other video models; verdicts and output artifacts
 
 | Model | Runs | Reproduction rate |
 | --- | --- | --- |
-| MiniMax H3 Max 768p | 243 | 100% |
+| MiniMax H3 Max 768p | 243 | 70% |
 | MiniMax H3 768p | 11 | 82% |
 
 ## 🧩 Prompt Templates
@@ -463,7 +463,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **Author:** TechHalla | **Source:** [Original](https://x.com/techhalla/status/2083389002552664385) | **Published:** 2026-08-01 | **Heat:** 100
 **Stability:** 72/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 71.5) · [output](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.5) · [output](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
 
@@ -860,7 +860,7 @@ ENG 摄像机、摇臂摄像机、轨道跟拍、长焦、水面低机位、障�
 
 **Author:** 小宇Chengzi | **Source:** [Original](https://x.com/i/status/2087458506123465088) | **Published:** 2026-08-12 | **Heat:** 89
 **Stability:** 61/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 60.6) · [output](https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 60.6) · [output](https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)**
 
@@ -1124,7 +1124,7 @@ CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
 
 **Author:** 卡尔 | **Source:** [Original](https://x.com/aiwarts/status/2085736621685764503) | **Published:** 2026-08-07 | **Heat:** 86
 **Stability:** 69/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 69.3) · [output](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 69.3) · [output](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)**
 
@@ -1184,7 +1184,7 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 **Author:** TechHalla | **Source:** [Original](https://x.com/techhalla/status/2083585132917579834) | **Published:** 2026-08-01 | **Heat:** 85
 **Stability:** 73/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 73.2) · [output](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 73.2) · [output](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
 
@@ -1399,7 +1399,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 **Author:** WasifAI | **Source:** [Original](https://x.com/i/status/2094285140247896553) | **Published:** 2026-08-31 | **Heat:** 79
 **Stability:** 61/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 60.5) · [output](https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 60.5) · [output](https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3b1796c66ab4)**
 
@@ -1469,7 +1469,7 @@ Elegant, silent except for implied kitchen sounds and a refined, understated sco
 
 **Author:** Aaliya | **Source:** [Original](https://x.com/i/status/2090780603872624826) | **Published:** 2026-08-21 | **Heat:** 76
 **Stability:** 69/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 69.2) · [output](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 69.2) · [output](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-f62d402ccdf6)**
 
@@ -1527,7 +1527,7 @@ No cartoon style, no subtitles, no logos, no watermark.
 
 **Author:** Nafis Ahmed | **Source:** [Original](https://x.com/i/status/2087921744166420808) | **Published:** 2026-08-13 | **Heat:** 72
 **Stability:** 72/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 72.1) · [output](https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 72.1) · [output](https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100)**
 
@@ -1580,7 +1580,7 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 **Author:** Ray | **Source:** [Original](https://x.com/AIWithRay/status/2087544594384773346) | **Published:** 2026-08-12 | **Heat:** 72
 **Stability:** 67/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 67) · [output](https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 67) · [output](https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-eba905fedcff)**
 
@@ -1596,7 +1596,7 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 **Author:** さきすた AI artist | **Source:** [Original](https://x.com/i/status/2088559545174175836) | **Published:** 2026-08-15 | **Heat:** 70
 **Stability:** 71/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 71.3) · [output](https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.3) · [output](https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1f8136a9893a)**
 
@@ -1737,7 +1737,7 @@ Make it look like genuine real-world smartphone footage: natural dusk lighting, 
 
 **Author:** 𝗦𝗮𝗻𝗶𝗮 | **Source:** [Original](https://x.com/i/status/2091103923440328783) | **Published:** 2026-08-22 | **Heat:** 56
 **Stability:** 71/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 70.5) · [output](https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70.5) · [output](https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-365f2a3615b1)**
 
@@ -1962,7 +1962,7 @@ Seedance 2.5 prompt 👇
 
 **Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2086014766846275817) | **Published:** 2026-08-08 | **Heat:** 42
 **Stability:** 68/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 67.7) · [output](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 67.7) · [output](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)**
 
@@ -2004,7 +2004,7 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 **Author:** @Noor_ul_ain43 | **Source:** [Original](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **Published:** 2026-08-13 | **Heat:** 41
 **Stability:** 71/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 70.5) · [output](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70.5) · [output](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22)**
 
@@ -2130,7 +2130,7 @@ HO2iXF9a4AAZsco
 
 **Author:** John | **Source:** [Original](https://x.com/i/status/2084644638724395138) | **Published:** 2026-08-04 | **Heat:** 35
 **Stability:** 55/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 55.1) · [output](https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 55.1) · [output](https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)**
 
@@ -2754,7 +2754,7 @@ Negative:
 
 **Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2095025524586193105) | **Published:** 2026-09-02 | **Heat:** 92
 **Stability:** 55/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 55.4) · [output](https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 55.4) · [output](https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-269d1fc95820)**
 
@@ -2820,7 +2820,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **Author:** @MrDasOnX | **Source:** [Original](https://x.com/MrDasOnX/status/2089969922617266257) | **Published:** 2026-08-19 | **Heat:** 92
 **Stability:** 73/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 72.7) · [output](https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259)**
 
@@ -2881,7 +2881,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **Author:** riotboy | **Source:** [Original](https://x.com/i/status/2092217560788000816) | **Published:** 2026-08-25 | **Heat:** 91
 **Stability:** 57/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 56.6) · [output](https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 56.6) · [output](https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2d-38a41133eab1)**
 
@@ -3219,7 +3219,7 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 **Author:** @ZaraIrahh | **Source:** [Original](https://x.com/ZaraIrahh/status/2091385137133219971) | **Published:** 2026-08-23 | **Heat:** 89
 **Stability:** 59/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 59.2) · [output](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 59.2) · [output](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867)**
 
@@ -3475,7 +3475,7 @@ Ultra-realistic Korean actors, cinematic K-drama visuals, emotional performances
 
 **Author:** Julia Clark | **Source:** [Original](https://x.com/i/status/2079586851862835248) | **Published:** 2026-07-21 | **Heat:** 87
 **Stability:** 68/100
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 67.8) · [output](https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 67.8) · [output](https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/korean-fantasy-romance-drama)**
 

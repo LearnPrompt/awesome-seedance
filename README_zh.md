@@ -40,7 +40,7 @@ Seedance 2.5 是字节跳动的视频生成模型，目前 Early Access，支持
 | 作者数 | 183 |
 | 跨模型复测 | 245 条 / 254 次 |
 | 稳定度分（已测） | 245 条 / 均分 77.8 |
-| 最近更新 | 2026-09-09 |
+| 最近更新 | 2026-09-11 |
 
 ## ⭐ 精选
 
@@ -70,7 +70,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **作者:** TechHalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
 **稳定度：** 72/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (71.5 分) · [产物](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.5 分) · [产物](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
 
@@ -260,7 +260,7 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 
 | 模型 | 次数 | 复现率 |
 | --- | --- | --- |
-| MiniMax H3 Max 768p | 243 | 100% |
+| MiniMax H3 Max 768p | 243 | 70% |
 | MiniMax H3 768p | 11 | 82% |
 
 ## 🧩 提示词模板
@@ -463,7 +463,7 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **作者:** TechHalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
 **稳定度：** 72/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (71.5 分) · [产物](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.5 分) · [产物](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
 
@@ -860,7 +860,7 @@ ENG 摄像机、摇臂摄像机、轨道跟拍、长焦、水面低机位、障�
 
 **作者:** 小宇Chengzi | **来源:** [原帖](https://x.com/i/status/2087458506123465088) | **发布:** 2026-08-12 | **热度:** 89
 **稳定度：** 61/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (60.6 分) · [产物](https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (60.6 分) · [产物](https://media.goodcase.ai/retests/boa-hancock-water-obstacle-race-prompt/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)**
 
@@ -1124,7 +1124,7 @@ CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts/status/2085736621685764503) | **发布:** 2026-08-07 | **热度:** 86
 **稳定度：** 69/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (69.3 分) · [产物](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.3 分) · [产物](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)**
 
@@ -1184,7 +1184,7 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 **作者:** TechHalla | **来源:** [原帖](https://x.com/techhalla/status/2083585132917579834) | **发布:** 2026-08-01 | **热度:** 85
 **稳定度：** 73/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (73.2 分) · [产物](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.2 分) · [产物](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
 
@@ -1399,7 +1399,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 **作者:** WasifAI | **来源:** [原帖](https://x.com/i/status/2094285140247896553) | **发布:** 2026-08-31 | **热度:** 79
 **稳定度：** 61/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (60.5 分) · [产物](https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (60.5 分) · [产物](https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3b1796c66ab4)**
 
@@ -1469,7 +1469,7 @@ Elegant, silent except for implied kitchen sounds and a refined, understated sco
 
 **作者:** Aaliya | **来源:** [原帖](https://x.com/i/status/2090780603872624826) | **发布:** 2026-08-21 | **热度:** 76
 **稳定度：** 69/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (69.2 分) · [产物](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.2 分) · [产物](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f62d402ccdf6)**
 
@@ -1527,7 +1527,7 @@ No cartoon style, no subtitles, no logos, no watermark.
 
 **作者:** Nafis Ahmed | **来源:** [原帖](https://x.com/i/status/2087921744166420808) | **发布:** 2026-08-13 | **热度:** 72
 **稳定度：** 72/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (72.1 分) · [产物](https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (72.1 分) · [产物](https://media.goodcase.ai/retests/sci-fi-mystery-message-from-2100/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100)**
 
@@ -1580,7 +1580,7 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 **作者:** Ray | **来源:** [原帖](https://x.com/AIWithRay/status/2087544594384773346) | **发布:** 2026-08-12 | **热度:** 72
 **稳定度：** 67/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (67 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-eba905fedcff/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-eba905fedcff)**
 
@@ -1596,7 +1596,7 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 **作者:** さきすた AI artist | **来源:** [原帖](https://x.com/i/status/2088559545174175836) | **发布:** 2026-08-15 | **热度:** 70
 **稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (71.3 分) · [产物](https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.3 分) · [产物](https://media.goodcase.ai/retests/case-1f8136a9893a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1f8136a9893a)**
 
@@ -1737,7 +1737,7 @@ Make it look like genuine real-world smartphone footage: natural dusk lighting, 
 
 **作者:** 𝗦𝗮𝗻𝗶𝗮 | **来源:** [原帖](https://x.com/i/status/2091103923440328783) | **发布:** 2026-08-22 | **热度:** 56
 **稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (70.5 分) · [产物](https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.5 分) · [产物](https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-365f2a3615b1)**
 
@@ -1962,7 +1962,7 @@ Seedance 2.5 prompt 👇
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2086014766846275817) | **发布:** 2026-08-08 | **热度:** 42
 **稳定度：** 68/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (67.7 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.7 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)**
 
@@ -2004,7 +2004,7 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 **作者:** @Noor_ul_ain43 | **来源:** [原帖](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **发布:** 2026-08-13 | **热度:** 41
 **稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (70.5 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.5 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22)**
 
@@ -2130,7 +2130,7 @@ HO2iXF9a4AAZsco
 
 **作者:** John | **来源:** [原帖](https://x.com/i/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 35
 **稳定度：** 55/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (55.1 分) · [产物](https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (55.1 分) · [产物](https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)**
 
@@ -2754,7 +2754,7 @@ Negative:
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2095025524586193105) | **发布:** 2026-09-02 | **热度:** 92
 **稳定度：** 55/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (55.4 分) · [产物](https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (55.4 分) · [产物](https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-269d1fc95820)**
 
@@ -2820,7 +2820,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **作者:** @MrDasOnX | **来源:** [原帖](https://x.com/MrDasOnX/status/2089969922617266257) | **发布:** 2026-08-19 | **热度:** 92
 **稳定度：** 73/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (72.7 分) · [产物](https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (72.7 分) · [产物](https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259)**
 
@@ -2881,7 +2881,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **作者:** riotboy | **来源:** [原帖](https://x.com/i/status/2092217560788000816) | **发布:** 2026-08-25 | **热度:** 91
 **稳定度：** 57/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (56.6 分) · [产物](https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (56.6 分) · [产物](https://media.goodcase.ai/retests/2d-38a41133eab1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/2d-38a41133eab1)**
 
@@ -3219,7 +3219,7 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 **作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2091385137133219971) | **发布:** 2026-08-23 | **热度:** 89
 **稳定度：** 59/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (59.2 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (59.2 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867)**
 
@@ -3475,7 +3475,7 @@ Ultra-realistic Korean actors, cinematic K-drama visuals, emotional performances
 
 **作者:** Julia Clark | **来源:** [原帖](https://x.com/i/status/2079586851862835248) | **发布:** 2026-07-21 | **热度:** 87
 **稳定度：** 68/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (67.8 分) · [产物](https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.8 分) · [产物](https://media.goodcase.ai/retests/korean-fantasy-romance-drama/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/korean-fantasy-romance-drama)**
 

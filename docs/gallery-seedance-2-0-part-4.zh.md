@@ -96,7 +96,7 @@ A massive human fortress built into the cliffs of a frozen planet faces a final 
 
 **作者:** Pierrick Chevallier | IA | **来源:** [原帖](https://x.com/i/status/2080669361237303417) | **发布:** 2026-07-24 | **热度:** 23
 **稳定度：** 66/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (66 分) · [产物](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66 分) · [产物](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1b3b8865bca8)**
 
@@ -225,7 +225,7 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 **作者:** Soran | **来源:** [原帖](https://x.com/i/status/2081379282442420321) | **发布:** 2026-07-26 | **热度:** 19
 **稳定度：** 71/100
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (71 分) · [产物](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (71 分) · [产物](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
 
@@ -285,7 +285,7 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 
 **作者:** LUCY | **来源:** [原帖](https://x.com/i/status/2080628740955218120) | **发布:** 2026-07-24 | **热度:** 19
 **稳定度：** 63/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (63.1 分) · [产物](https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.1 分) · [产物](https://media.goodcase.ai/retests/case-1a9a2c659866/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1a9a2c659866)**
 
@@ -400,7 +400,7 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 **作者:** 雨雲(Amagumo)806 ｜ AI Animer | **来源:** [原帖](https://x.com/i/status/2078023536992735573) | **发布:** 2026-07-17 | **热度:** 17
 **稳定度：** 70/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (70 分) · [产物](https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70 分) · [产物](https://media.goodcase.ai/retests/case-b079faa80f0f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b079faa80f0f)**
 
@@ -514,7 +514,7 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 
 **作者:** serein ｜买美股上币安 | **来源:** [原帖](https://x.com/i/status/2081218658618188267) | **发布:** 2026-07-26 | **热度:** 14
 **稳定度：** 69/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (69.4 分) · [产物](https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.4 分) · [产物](https://media.goodcase.ai/retests/90-vhs-vlog-ae90c46cb606/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)**
 
@@ -546,7 +546,7 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 
 **作者:** Abkr Sadiq | **来源:** [原帖](https://x.com/i/status/2074744763505324502) | **发布:** 2026-07-08 | **热度:** 14
 **稳定度：** 64/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (64 分) · [产物](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (64 分) · [产物](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-7a9235e91c71)**
 
@@ -648,7 +648,7 @@ P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen r
 
 **作者:** Kōda | **来源:** [原帖](https://x.com/i/status/2079968108303818827) | **发布:** 2026-07-22 | **热度:** 11
 **稳定度：** 33/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (32.9 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (32.9 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-24775a8dc979)**
 
@@ -803,7 +803,7 @@ output_rules:
 
 **作者:** 田中勇道 | AI画像・動画生成 | **来源:** [原帖](https://x.com/i/status/2079900274064490842) | **发布:** 2026-07-22 | **热度:** 11
 **稳定度：** 66/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (66 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yaml-629d172a4820)**
 
@@ -1622,7 +1622,7 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 
 **作者:** HiAPI | **来源:** [原帖](https://x.com/i/status/2081294040415482322) | **发布:** 2026-07-26 | **热度:** 5
 **稳定度：** 75/100
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (74.8 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (74.8 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-96017ad7706f)**
 
@@ -1784,7 +1784,7 @@ P09: Final victory shot. She accelerates toward the glowing skyline on the empty
 
 **作者:** LANDCÄSTER | **来源:** [原帖](https://x.com/i/status/2081432738683314614) | **发布:** 2026-07-26 | **热度:** 4
 **稳定度：** 64/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (63.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8f7479c32251)**
 
@@ -2030,7 +2030,7 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 
 **作者:** Hero Syndicate | **来源:** [原帖](https://x.com/i/status/2081137523536109682) | **发布:** 2026-07-25 | **热度:** 4
 **稳定度：** 67/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (67.3 分) · [产物](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.3 分) · [产物](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c0cf557563b7)**
 
@@ -2079,7 +2079,7 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 
 **作者:** Pan | **来源:** [原帖](https://x.com/i/status/2080942778293313949) | **发布:** 2026-07-25 | **热度:** 3
 **稳定度：** 61/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (61 分) · [产物](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (61 分) · [产物](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923)**
 
@@ -2266,7 +2266,7 @@ whip-pans between beats; kinetic precision.
 
 **作者:** PixieVerse | **来源:** [原帖](https://x.com/i/status/2081161446671651074) | **发布:** 2026-07-25 | **热度:** 1
 **稳定度：** 72/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (72.3 分) · [产物](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (72.3 分) · [产物](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-251215797a14)**
 
@@ -2284,7 +2284,7 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 
 **作者:** Pan | **来源:** [原帖](https://x.com/i/status/2080999511195828239) | **发布:** 2026-07-25 | **热度:** 1
 **稳定度：** 70/100
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (70.3 分) · [产物](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.3 分) · [产物](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-eb8937adce5b)**
 
