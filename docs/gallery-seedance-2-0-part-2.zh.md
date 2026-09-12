@@ -4,37 +4,194 @@ Seedance 2.0 全部 130 条案例，按热度分排序。由 data/cases.json 生
 
 ← [返回 README](../README_zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · **Part 2**
 
-### 夜间动漫风格涂鸦隧道场景
+### 动态图生视频音乐可视化工具
 
-> 一个充满氛围感的动漫风格视频提示词，描绘了布满鲜艳涂鸦的黑暗地下街道隧道，呈现出湿润的沥青路面和昏暗的灯光反射效果。
+> 一个旨在将静态图像转换为具有动态视觉效果的专业音乐视频的提示词。
 
 ```
-Cinematic anime short film clip, 15 seconds. Underground street tunnel at night, long dark corridor, walls completely covered in colorful graffiti tags, wet glistening asphalt reflecting dim tunnel lights, raw illegal underground energy, nobody around.
-
-CHARACTER: Rex, light brown skin, sharp angular face, short messy black Caesar cut with fade, dark cold intense eyes, black leather jacket, white tee, dark joggers, gold chain.
-
-CAR: Nissan Skyline R34, wide body kit, lowered, matte finish covered in layers of graffiti tags in white red and green spray paint, worn and chipped, aggressive and raw.
-
-[0:00-0:01] HOOK — Extreme close up ignition key turning. Engine roars to life instantly.
-
-[0:01-0:02] Rex's cold eyes in rearview mirror. Gear shift grabbed. Slams into first.
-
-[0:02-0:13] MONTAGE — Ultra fast cuts every half second synced hard to heavy bass beat. Rotate constantly between: front wide shot of car launching forward — low angle tires screeching wet asphalt water spraying — speedometer needle jumping — side angle car flying through tunnel — graffiti walls blurring — exhaust flames shooting out — overhead angle car from above — close up Rex jaw tight stone cold — gear shift slamming — headlights cutting darkness — rear angle tail lights — close up Rex eyes never blinking — inside car dashboard shaking — bumper level shot tunnel rushing past — speedometer maxed out — every angle every second something different never the same shot twice.
-
-[0:13-0:15] Car vanishes into darkness. Tail lights fade. Silence. Cut to black. Text: ZERO TO SIXTY.
-
-Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, dark moody tunnel lighting, neon reflections on wet asphalt, film grain, heavy bass music with engine roar and tire screech layered throughout, ultra fast cutting rhythm, premium anime film quality
+generate an interesting music video using this image as first frame,be professional and use dynamic visuals
 ```
 
-[<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="夜间动漫风格涂鸦隧道场景">](https://goodcase.ai/cases/case-779580528a24)
+[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="动态图生视频音乐可视化工具">](https://goodcase.ai/cases/case-bf2bedc93316)
 
-**作者:** @TechieBySA | **来源:** [原帖](https://x.com/TechieBySA/status/2081354591925305667) | **发布:** 2026-07-26 | **热度:** 9
+**作者:** @EchoraContinuum | **来源:** [原帖](https://x.com/EchoraContinuum/status/2079917613149503813) | **发布:** 2026-07-22 | **热度:** 9
 
-**稳定度：** 83/100
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-bf2bedc93316)**
 
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.4 分) · [产物](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+### YAML 跑酷电影级序列
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-779580528a24)**
+> 一个用于现代城市精英跑酷选手的结构化 YAML 格式提示词，包含电影级运镜和逼真的物理效果。
+
+```
+meta:
+  task_type: video_generation
+  style:
+    camera: cinematic_dynamic
+    render: AAA_animation_unreal_engine_quality
+  reference_lock:
+    character_appearance: strict
+    style_and_art_direction: strict
+  priority: cinematic_impact
+
+cinematography:
+  shot_type: multi_shot_dynamic_sequence
+  framing:
+    - full_body_visible_during_key_actions
+  camera_height: variable
+  lens_look: 24mm_to_35mm
+  camera_motion:
+    - low_tracking_shot_following_behind
+    - side_tracking_shot
+    - drone_orbit
+    - fpv_drone_chase
+    - handheld_chase
+    - crane_pull_back
+    - speed_ramp
+    - slow_motion_on_key_flip
+
+subjects:
+  athlete:
+    type: parkour_runner
+    level: elite
+    attributes:
+      - athletic_build
+      - consistent_outfit_and_appearance_locked
+      - hair_and_cloth_physics_reactive
+
+environment:
+  location: modern_realistic_city
+  floor:
+    - paved_street
+    - rooftop_concrete
+    - metal_beams_and_pipes
+  background:
+    - glass_skyscrapers
+    - busy_traffic
+    - pedestrians
+    - street_signs
+    - bridges
+    - construction_zones
+  lighting:
+    - warm_sunset_transitioning_to_blue_hour
+    - volumetric_lighting
+    - realistic_reflections
+
+process:
+  - phase: sprint_launch
+    timing: 0s-3s
+    description:
+      - explosive_believable_acceleration
+      - dodge_pedestrians
+      - jump_over_obstacles
+      - slide_beneath_barriers
+  - phase: vault_and_wall_run
+    timing: 3s-6s
+    description:
+      - vault_over_railings
+      - wall_run_across_building
+      - leap_to_next_rooftop
+      - believable_momentum_and_impact_recovery
+  - phase: advanced_parkour_techniques
+    timing: 6s-9s
+    description:
+      - kong_vault
+      - precision_jump
+      - tic_tac_wall_jump
+      - front_flip
+      - perfect_balance_no_floating
+  - phase: rooftop_traversal
+    timing: 9s-12s
+    description:
+      - swing_from_metal_beam
+      - run_along_narrow_rooftop_edge
+      - slide_under_pipes
+      - long_rooftop_gap_jump
+  - phase: final_leap
+    timing: 12s-15s
+    description:
+      - reach_tallest_rooftop
+      - confident_smile
+      - final_cinematic_leap_toward_skyline
+      - freeze_frame_ending
+
+motion_rules:
+  pacing:
+    - natural_timing_with_dramatic_speed_ramps
+    - uninterrupted_flow_between_phases
+  physics:
+    - grounded_gravity_present
+    - accurate_center_of_gravity
+    - natural_inertia_and_weight_shift
+    - realistic_foot_placement
+    - proper_landing_compression
+    - cloth_simulation
+    - hair_simulation
+    - no_unearned_floating
+
+visual_rules:
+  style:
+    - anime_photorealistic_hybrid
+    - HDR_ray_tracing_reflections
+    - global_illumination
+    - soft_bloom
+    - shallow_depth_of_field
+    - filmic_color_grading
+    - shinkai_inspired_lighting
+  clarity:
+    - body_mechanics_readable_outside_slow_motion_beats
+
+audio:
+  - high_energy_cinematic_soundtrack
+  - synchronized_footsteps
+  - wind_rushing
+  - city_ambience
+  - cloth_movement_sfx
+  - metal_impact_sfx
+  - environmental_reverb
+  - no_dialogue
+
+constraints:
+  forbidden:
+    - unnatural_physics
+    - outfit_change
+    - multiple_characters
+    - text
+    - logo
+
+output_rules:
+  emphasis:
+    - cinematic_spectacle
+    - technical_parkour_accuracy
+    - character_consistency
+```
+
+[<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML 跑酷电影级序列">](https://goodcase.ai/cases/yaml-629d172a4820)
+
+**作者:** @yudotanaka | **来源:** [原帖](https://x.com/yudotanaka/status/2079900274064490842) | **发布:** 2026-07-22 | **热度:** 9
+
+**稳定度：** 69/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (68.9 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yaml-629d172a4820)**
+
+### 2D Sticker Capybara Kitchen Prank
+
+> A mixed-media video prompt for Seedance 2.0 combining a realistic 1st-person kitchen POV with a 2D animated capybara sticker character performing a salt-pouring prank.
+
+```
+真人实拍 + 2D 动漫贴纸合成搞笑短视频 【风格】 真人实拍 + Flat 2D Sticker Composite 搞笑短视频。 第一人称做饭视角，写实厨房质感与扁平卡通贴纸风格形成强烈反差。 整体为 Live-Action + Flat 2D Cartoon Sticker 混搭效果。 画面是 真实厨房实拍，角色是 全程保持纯 2D 平面贴纸质感 的 Q 版卡通角色。 8K 超清，竖屏，手持轻微晃动，短视频节奏明快，笑点直接。 【时长】 10 秒 【画幅】 9:16 竖屏 一、场景设定 【场景】 真实居家厨房第一人称视角。 黑色铁锅放在灶台上，锅里正在翻炒牛肉和青菜，油光滋滋，蒸汽上冒。 背景包含： 白色瓷砖墙 墙面插座 靠墙排列的酱油瓶和油瓶 右侧不锈钢水槽 侧窗自然光照入 要求整体环境 真实生活化，厨房质感可信，不能变成卡通厨房。 相机为第一人称 POV，轻微手持晃动，但不要晃得太乱。 二、角色设定 【角色】Q 版动漫贴纸角色：水豚噜噜（Capybara Lulu） 设定要求： 圆润可爱的拟人卡通水豚 正面站在画面中央偏下位置 身高约为铁锅的一半 扁平 2D 贴纸质感 明显卡通描边 纸片感强 不能变成立体真实动物 不被真实环境光重新塑造成写实立体光影 外观统一锁定： 身体为淡黄色 穿橙色短裤 脖子系黄色小围裙 头顶顶着一个小橘子 四只小短爪圆润如豆 头部 and 脸部占比很大 整体像软萌纸片贴纸角色 角色气质： 平时佛系慵懒 但一搞事就特别熟练 表情贱兮兮，恶作剧感强 【真人部分】 真人的手为写实风格，从画面右侧入画。 要求皮肤细节真实，毛孔可见，与 2D 角色形成明确反差。 三、镜头设计 【镜头 1｜00:00–00:03】 倒盐捣乱（Salt Avalanche Opening） 【机位】 第一人称俯视 POV 【画面动作】 真人的手正用锅铲翻炒锅里的牛肉和青菜。 水豚噜噜坐在灶台旁的小木凳上，眯起豆豆眼，腮红加深，嘴角上扬露出贱兮兮的坏笑。 它两只小短爪高高举起一个比自己脑袋还大的玻璃调料罐，趁真人炒菜时，把整罐白盐哗哗倒进锅里。 盐要像真实瀑布一样倾泻而下，清楚落进锅中，并在菜上堆成一座夸张但可见的“小白盐山”。 【角色表情】 豆豆眼微眯 嘴角坏笑 恶作剧得意 【音效】 食物滋滋声 盐倒入锅中的密集沙沙声 【本镜头唯一主要动作】 水豚噜噜把整罐盐倒进锅里。 【镜头 2｜00:03–00:05】 夺瓶敲头（Spatula Bonk） 【机位】 继续保持第一人称近景 POV 【画面动作】 真人一只手迅速夺走它怀里的玻璃盐罐。 另一只手举起锅铲，用铲面朝下，轻轻敲在水豚噜噜头顶。 注意这一下是 卡通式轻敲，不是现实暴力感。 敲击后，它头顶立刻弹出一个明显的红色卡通肿包。 它整个圆滚滚的 2D 贴纸身体上下猛地一颤，两只小短爪立刻抱头，豆豆眼瞬间瞪圆。 【角色表情】 震惊 委屈 打懵一瞬间 【音效】 锅铲 “Duang” 一声 轻微金属敲击音 卡通弹簧音效 【本镜头唯一主要动作】 真人用锅铲轻敲它的头顶。 【镜头 3｜00:05–00:08】 敲哭张嘴・铲盐入嘴（Cry & Feed） 【机位】 第一人称近景 POV，聚焦角色面部与锅边 【画面动作】 水豚噜噜捂着头顶的红色肿包，豆豆眼瞬间变成旋转蚊香眼。 它张大嘴巴“嗷嗷”大哭，蓝色卡通泪水像喷泉一样从两侧夸张喷出。 头顶的小橘子也随着哭泣一颤一颤。 与此同时，真人的手立刻用锅铲从锅里那座盐山上铲起满满一铲“白盐咸菜混合物”，趁它张嘴大哭时，精准把这一铲送进它嘴里。 它的嘴瞬间被塞得鼓鼓囊囊，左右腮帮子像两个半球一样夸张鼓起。 【角色表情】 蚊香眼 大哭 嘴被塞满后的震惊呆滞 【音效】 夸张卡通爆哭声 铲盐沙沙声 塞进嘴里的“啵”一声 【本镜头唯一主要动作】 真人趁它张嘴大哭时把一铲盐菜塞进它嘴里。 【镜头 4｜00:08–00:10】 齁到倒地（Salt K.O. Ending） 【机位】 第一人称固定近景，结尾定格 【画面动作】 水豚噜噜两边腮帮子鼓得通红，被迫咽下嘴里的盐。 它的瞳孔骤然缩成两个小点，淡黄色身体瞬间刷白一个色调，整只角色僵直抖动半拍。 紧接着，它的豆豆眼变成两个 “X”，身体直挺挺地从小木凳上向后仰倒，四脚朝天摔平在灶台上。 一只小短爪在空中无力划一下后垂落。 它头顶红肿包旁边缓缓绕出一圈旋转小星星。 方形小鼻子前悠悠飘出一缕灵魂状白烟。 画面定格在它“齁到升天”的瞬间。 【音效】 僵直 “咯噔” 一声 向后倒地 “咚” 一声 轻微卡通升天音效收尾 【本镜头唯一主要动作】 水豚噜噜被咸到后仰倒地。 四、执行要求 【视觉要求】 厨房环境必须真实写实 水豚噜噜必须始终保持纯 2D 贴纸感 2D 角色与真实厨房、真实人手形成强烈反差 不要把水豚噜噜做成立体真实毛绒动物 不要让角色接受复杂写实打光 角色轮廓始终清楚，像贴在实拍画面上的卡通贴纸 【动作要求】 每个镜头只保留一个主要动作 动作节奏要短平快 角色表情夸张，但动作逻辑清楚 盐、锅铲、蒸汽、倒地要有明确物理反馈 【表演要求】 水豚噜噜的搞事感要强 真人不出全身，只出现手 真人的反应要利落，像熟练处理捣蛋鬼 整体是无台词喜剧，不需要人物说话 【镜头要求】 全片保持第一人称 POV 轻微手持晃动 不切换成第三人称 不增加无关人物 结尾定格要干脆 五、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, subtitles, text, logo, error; deformed, mutated, bad anatomy, extra limbs, broken hands, disfigured, bad composition, out of frame; realistic animal fur, 3D realistic capybara, over-rendered lighting on sticker character, inconsistent character, changing clothes, changing body color, changing head accessory; background shift, disappearing props, broken kitchen continuity, floating objects, incorrect POV, extra people, extra hands, glitching cuts
+```
+
+[<img src="https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg" width="600" alt="2D Sticker Capybara Kitchen Prank">](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)
+
+**作者:** @Soranlan | **来源:** [原帖](https://x.com/Soranlan/status/2081386564525953050) | **发布:** 2026-07-26 | **热度:** 8
+
+**稳定度：** 78/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.6 分) · [产物](https://media.goodcase.ai/retests/2d-sticker-capybara-kitchen-prank/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)**
 
 ### 暗黑奇幻动漫召唤仪式
 
@@ -392,7 +549,7 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 [<img src="https://media.goodcase.ai/media/poster/case-5c6186d655a1.jpg" width="600" alt="暗黑奇幻动漫召唤仪式">](https://goodcase.ai/cases/case-5c6186d655a1)
 
-**作者:** @ontm0422ai | **来源:** [原帖](https://x.com/ontm0422ai/status/2080913136178397407) | **发布:** 2026-07-25 | **热度:** 9
+**作者:** @ontm0422ai | **来源:** [原帖](https://x.com/ontm0422ai/status/2080913136178397407) | **发布:** 2026-07-25 | **热度:** 8
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-5c6186d655a1)**
 
@@ -428,122 +585,9 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 [<img src="https://media.goodcase.ai/media/poster/case-79acf1a3e8a6.jpg" width="600" alt="高质量动漫泳装视频">](https://goodcase.ai/cases/case-79acf1a3e8a6)
 
-**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080867332889399547) | **发布:** 2026-07-25 | **热度:** 9
+**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080867332889399547) | **发布:** 2026-07-25 | **热度:** 8
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-79acf1a3e8a6)**
-
-### 电影级动漫魔法剑战
-
-> 一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルックによる映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。8秒の短尺で、浮遊刀の猛攻、防御、回避、反力、包囲、最大衝突を高密度に連結する。
-
-【参照画像と人物固定】
-@1は一人目、キャラクターAの参照画像。
-@2は二人目、キャラクターBの参照画像。
-ソース参照画像のキャラクターを参照し、それぞれ同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、武器意匠だけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、分割レイアウトは再現しない。
-二人は全編でそれぞれsame person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴混合、顔の平均化、髪色交換、衣装交換、武器交換、体格変化、別人化、クローン化、分身、追加人物を発生させない。
-
-【世界観と舞台の自動調整】
-戦闘内容、位置関係、動作、力関係、刀数、カメラ構造は固定する。背景、小物、建築様式、床材、天候、照明、色味、粒子、環境エフェクトのみ、@1と@2のキャラクターデザインに合わせて再設計する。
-
-二人の衣装、装飾、武器、素材、模様、固有色、モチーフから、両者が自然に存在できる一つの映画的戦闘舞台を新規構築する。学園都市、宮殿、神殿、庭園、幻想都市、工業施設、近未来空間などから最適な舞台を選ぶ。ただし参照画像の背景は直接コピーしない。
-
-床には反射、水滴、砂塵、雪、花弁、火の粉、魔力粒子など、世界観に適した接触表現を配置する。欄干、柱、ガラス、樹木、機械構造、魔法装置、発光線などの小物は舞台に適したものだけを使う。背景は人物より一段暗くし、顔、シルエット、刀の軌道を明瞭にする。
-キャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。
-
-【画風固定】
-細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。
-
-布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。
-
-【武器固定】
-キャラクターAは手持ち刀一本と、身体の周囲に浮かぶ四本の浮遊刀を使用する。浮遊刀はAの上、下、左、右を囲むように配置する。キャラクターBは手持ち刀一本を使用する。映像全体の刀は合計六本に固定する。
-
-参照画像の武器が刀ではない場合も、その武器の色、素材、意匠、装飾、モチーフを継承した刀へ再設計する。
-浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。
-
-【浮遊刀エフェクト】
-四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面に密着した湾曲残光として発生する。
-
-【力関係】
-キャラクターAは冷静に主導権を握る格上。四本の浮遊刀を時間差で操りながら、自身も手持ち刀で前進する。キャラクターBは高い剣技で猛攻を弾き、避け、受け流し、反撃を試みるが、攻撃方向が連続して変化するため徐々に押される。Aだけが前進し、Bだけが後退する非対称な移動を維持する。
-【カメラ】
-固定横視点ではなく、浮遊刀越しの斜め低角度、Bの肩越し、接触点の近距離、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを使用する。浮遊刀のレンズ前通過、環境粒子、床から跳ねる飛沫、刀光を短い遮蔽ワイプに使う。カメラと背景が回り、人物を無意味に回転させない。
-
-【8秒の動作構成】
-Cut 1：
-四本の浮遊刀がAの上下左右に静止した状態から開始。カメラは二本の浮遊刀の間を抜ける斜め低角度で、Aの顔、上半身、装飾、手持ち刀を見せる。Aは静かに前進し、視線だけでBを捉える。直後、右上の浮遊刀が加速し、Bの左肩口へ斜めに飛ぶ。
-
-Cut 2：
-Bの肩越し。Bは両手の刀で最初の浮遊刀を刀身中央同士の単一接触点で外側へ弾く。金属火花、両者の固有色の魔力火花、環境粒子、反力が発生する。弾かれた刀は弧を描いてAの周囲へ戻る。続いて左下の二本目が床すれすれを走り、Bは低く沈んで紙一重で回避。左上の三本目が斜め上から降下し、Bは刀を返して受け流す。
-
-Cut 3：
-環境粒子の遮蔽からAを斜め前方で映す。Aは止まらず踏み込み、手持ち刀で右下から左上へ斬り上げる。Bは後退しながら受け止める。二本の手持ち刀が一点で接触した瞬間、右下の浮遊刀がBの側面から侵入する。Bは肩を引いて避けるが、姿勢が横へ流れる。Aは接触を滑らせて解除し、さらに懐へ入る。
-Cut 4：
-接触点を中心にカメラが約60度回り込む。Bは反力を利用して返し斬りを放つが、Aの浮遊刀一本が側面から接触し、Bの刀を上へ逸らす。Aは手持ち刀を左上から右下へ振り下ろす。Bは急いで受け止めるが、足元が滑り後方へ押される。残る三本の浮遊刀がBの左右と上方へ散開し、退路を狭める包囲構図を作る。
-
-Cut 5：
-斜め低空カメラ。左手前に前進するA、右奥に押し込まれるB。Bは最後の反撃として踏み込む。Aも前進を止めず、左下から右上へ上昇斬りを放つ。二本の手持ち刀が中央の単一接触点で明瞭なX字を形成する。浮遊刀一本がBの刀身へ側面から追加圧力を加え、残る三本は周囲で次の斬撃姿勢を取る。
-Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱核の外側に巨大な二色のX字色面を形成する。放射状の衝撃波、環境粒子、蒸気、火花が広がる。Bの後ろ足が滑り、膝が沈み、両腕と肩の防御線が崩れ始める。Aは低い重心のまま前へ力を通す。X字の発光が最大まで拡大し、Bの防御崩壊が始まった瞬間に即カット。戦闘継続。
-
-【重大NG】
-固定横の格闘ゲーム視点、左右対称の全身構図、鏡写しの同時ダッシュ、長い助走、長い鍔迫り合い、無意味な連続回転は禁止。刀はAの手持ち一本＋浮遊四本、Bの一本、合計六本を固定。浮遊刀の増殖、消失、融合、変形、身体への貫通、切っ先だけの独立回転は禁止。手で刀身を握らない。独立レーザー、第三の光線、二色融合、全画面白飛びなし。追加人物、文字、字幕、ロゴ、透かし、UI、音響生成なし。
-```
-
-[<img src="https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg" width="600" alt="电影级动漫魔法剑战">](https://goodcase.ai/cases/case-c32e6c3bb2c5)
-
-**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080539077603172597) | **发布:** 2026-07-24 | **热度:** 9
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c32e6c3bb2c5)**
-
-### 动态图生视频音乐可视化工具
-
-> 一个旨在将静态图像转换为具有动态视觉效果的专业音乐视频的提示词。
-
-```
-generate an interesting music video using this image as first frame,be professional and use dynamic visuals
-```
-
-[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="动态图生视频音乐可视化工具">](https://goodcase.ai/cases/case-bf2bedc93316)
-
-**作者:** @EchoraContinuum | **来源:** [原帖](https://x.com/EchoraContinuum/status/2079917613149503813) | **发布:** 2026-07-22 | **热度:** 9
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-bf2bedc93316)**
-
-### Vox 风格历史拼贴动画
-
-> 一个用于 Seedance 的动画提示词，可将静态拼贴图像转换为具有纸张抖动和贴纸弹跳效果的 5 秒定格动画风格视频。
-
-```
-参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
-
-动画要求：
-
-保持 paper cutout / scrapbook / stop-motion 拼贴风
-所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
-动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
-
-可以加入的小动作：
-
-箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
-
-注意：
-不要整张画面乱晃
-主构图和重要文字保持稳定
-每个画面有一个“明确的小事件”，而不是纯漂浮
-
-最后：
-把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
-整体节奏控制在每 4–5 秒切换一个知识点。
-```
-
-[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox 风格历史拼贴动画">](https://goodcase.ai/cases/vox-d5c357d5e75d)
-
-**作者:** @MrLarus | **来源:** [原帖](https://x.com/MrLarus/status/2076610529615831169) | **发布:** 2026-07-13 | **热度:** 7
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vox-d5c357d5e75d)**
 
 ### 日式动漫风格猪肉卷芦笋烹饪视频
 
@@ -701,6 +745,53 @@ A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)**
 
+### Vox 风格历史拼贴动画
+
+> 一个用于 Seedance 的动画提示词，可将静态拼贴图像转换为具有纸张抖动和贴纸弹跳效果的 5 秒定格动画风格视频。
+
+```
+参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
+
+动画要求：
+
+保持 paper cutout / scrapbook / stop-motion 拼贴风
+所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
+动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
+
+可以加入的小动作：
+
+箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
+
+注意：
+不要整张画面乱晃
+主构图和重要文字保持稳定
+每个画面有一个“明确的小事件”，而不是纯漂浮
+
+最后：
+把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
+整体节奏控制在每 4–5 秒切换一个知识点。
+```
+
+[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox 风格历史拼贴动画">](https://goodcase.ai/cases/vox-d5c357d5e75d)
+
+**作者:** @MrLarus | **来源:** [原帖](https://x.com/MrLarus/status/2076610529615831169) | **发布:** 2026-07-13 | **热度:** 6
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vox-d5c357d5e75d)**
+
+### 京都情感旅行 Vlog 动画
+
+> 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将一系列照片快照转化为连贯且富有情感的旅行 Vlog，并呈现自然的掌机拍摄效果。
+
+```
+<<<image_1>>> Animate each of the 12 frames into a smooth, connected emotional vlog. Natural handheld camera movement with gentle shake. Flow the scenes naturally: sakura walk → teahouse → Philosopher’s Path → torii gate → bamboo grove → street food → temple → bicycle ride → ryokan rest → rainy umbrella → Kamo River sunset → zen garden moment. Keep the woman’s graceful presence, flowing hair, and soft expressions. Add subtle cherry blossom petals drifting, gentle wind, and authentic ambient sounds. Cinematic color grading, nostalgic film look, 24fps, vertical phone-style aspect with slight letterboxing if needed. Emotional, peaceful travel vlog atmosphere.
+```
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg" width="600" alt="京都情感旅行 Vlog 动画">](https://goodcase.ai/cases/vlog-4317b7fdff57)
+
+**作者:** @MrDasOnX | **来源:** [原帖](https://x.com/MrDasOnX/status/2080908954079760476) | **发布:** 2026-07-25 | **热度:** 5
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-4317b7fdff57)**
+
 ### 触感剪纸风格产品展示
 
 > 一个为 Seedance 2.0 设计的奢华香水产品展示提示词，采用触感剪纸定格动画风格。
@@ -720,7 +811,7 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 
 [<img src="https://media.goodcase.ai/media/poster/case-7aea1313f63b.jpg" width="600" alt="触感剪纸风格产品展示">](https://goodcase.ai/cases/case-7aea1313f63b)
 
-**作者:** @thesocialalpha_ | **来源:** [原帖](https://x.com/thesocialalpha_/status/2073075642996777159) | **发布:** 2026-07-03 | **热度:** 6
+**作者:** @thesocialalpha_ | **来源:** [原帖](https://x.com/thesocialalpha_/status/2073075642996777159) | **发布:** 2026-07-03 | **热度:** 5
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-7aea1313f63b)**
 
@@ -747,27 +838,13 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 
 [<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="写实风格无线耳机广告">](https://goodcase.ai/cases/case-96017ad7706f)
 
-**作者:** @hiapi_ai | **来源:** [原帖](https://x.com/hiapi_ai/status/2081294040415482322) | **发布:** 2026-07-26 | **热度:** 5
+**作者:** @hiapi_ai | **来源:** [原帖](https://x.com/hiapi_ai/status/2081294040415482322) | **发布:** 2026-07-26 | **热度:** 4
 
 **稳定度：** 73/100
 
 **复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (72.7 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-96017ad7706f)**
-
-### 京都情感旅行 Vlog 动画
-
-> 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将一系列照片快照转化为连贯且富有情感的旅行 Vlog，并呈现自然的掌机拍摄效果。
-
-```
-<<<image_1>>> Animate each of the 12 frames into a smooth, connected emotional vlog. Natural handheld camera movement with gentle shake. Flow the scenes naturally: sakura walk → teahouse → Philosopher’s Path → torii gate → bamboo grove → street food → temple → bicycle ride → ryokan rest → rainy umbrella → Kamo River sunset → zen garden moment. Keep the woman’s graceful presence, flowing hair, and soft expressions. Add subtle cherry blossom petals drifting, gentle wind, and authentic ambient sounds. Cinematic color grading, nostalgic film look, 24fps, vertical phone-style aspect with slight letterboxing if needed. Emotional, peaceful travel vlog atmosphere.
-```
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg" width="600" alt="京都情感旅行 Vlog 动画">](https://goodcase.ai/cases/vlog-4317b7fdff57)
-
-**作者:** @MrDasOnX | **来源:** [原帖](https://x.com/MrDasOnX/status/2080908954079760476) | **发布:** 2026-07-25 | **热度:** 5
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-4317b7fdff57)**
 
 ### 史诗冰雪奇幻：泰坦觉醒
 
@@ -1242,47 +1319,6 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923)**
 
-### 多元宇宙维度传送门坠落
-
-> 一个复杂的多重传送门旅程提示词，讲述了一个角色坠入不同维度的过程，从写实人类转变为动画、体素和科幻版本。
-
-```
-STYLE
-Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
-
-CHARACTER
-A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
-
-CAMERA
-Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
-
-LIGHTING
-Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
-
-TIMELINE
-
-0.0–4.0s | Scene 1
-Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
-8.0–12.0s | Scene 3
-He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
-12.0–16.0s | Scene 4
-Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
-16.0–20.0s | Scene 5
-He enters the final portal in one perfectly smooth transition. The environment transforms into a beautiful pastel-colored world with soft dreamy lighting, elegant architecture, colorful trees, and peaceful surroundings. His original casual outfit returns, reimagined in the same pastel artistic style. Still falling naturally, he looks at his hands, clothing, and surroundings in astonishment as life in every world continues normally, unaware of his journey. The sequence ends with him continuing his descent toward the vibrant landscape.
-DIRECTOR NOTES
-Maintain one continuous freefall throughout the entire sequence with accurate gravity, momentum, and natural body movement. Every portal transition should be fluid with no cuts or visual jumps. Each world should instantly transform around the character while preserving continuity. The character's appearance should adapt to each world's style while remaining instantly recognizable. Prioritize cinematic realism, believable reactions, and seamless world transitions.
-```
-
-[<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="多元宇宙维度传送门坠落">](https://goodcase.ai/cases/case-b8e777843103)
-
-**作者:** @NababUddin2 | **来源:** [原帖](https://x.com/NababUddin2/status/2079428121133240602) | **发布:** 2026-07-21 | **热度:** 3
-
-**稳定度：** 80/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80 分) · [产物](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b8e777843103)**
-
 ### 写实风格中国辣条商业广告
 
 > 一个旨在利用特定图像参考来保持模特和场景一致性，从而创作专业零食广告的提示词。
@@ -1316,6 +1352,47 @@ End with a cinematic macro shot of the glossy latiao arranged on a black plate, 
 **作者:** @kentdhani | **来源:** [原帖](https://x.com/kentdhani/status/2080945278392406294) | **发布:** 2026-07-25 | **热度:** 2
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-571927740e2f)**
+
+### 多元宇宙维度传送门坠落
+
+> 一个复杂的多重传送门旅程提示词，讲述了一个角色坠入不同维度的过程，从写实人类转变为动画、体素和科幻版本。
+
+```
+STYLE
+Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
+
+CHARACTER
+A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
+
+CAMERA
+Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
+
+LIGHTING
+Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
+
+TIMELINE
+
+0.0–4.0s | Scene 1
+Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
+8.0–12.0s | Scene 3
+He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
+12.0–16.0s | Scene 4
+Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
+16.0–20.0s | Scene 5
+He enters the final portal in one perfectly smooth transition. The environment transforms into a beautiful pastel-colored world with soft dreamy lighting, elegant architecture, colorful trees, and peaceful surroundings. His original casual outfit returns, reimagined in the same pastel artistic style. Still falling naturally, he looks at his hands, clothing, and surroundings in astonishment as life in every world continues normally, unaware of his journey. The sequence ends with him continuing his descent toward the vibrant landscape.
+DIRECTOR NOTES
+Maintain one continuous freefall throughout the entire sequence with accurate gravity, momentum, and natural body movement. Every portal transition should be fluid with no cuts or visual jumps. Each world should instantly transform around the character while preserving continuity. The character's appearance should adapt to each world's style while remaining instantly recognizable. Prioritize cinematic realism, believable reactions, and seamless world transitions.
+```
+
+[<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="多元宇宙维度传送门坠落">](https://goodcase.ai/cases/case-b8e777843103)
+
+**作者:** @NababUddin2 | **来源:** [原帖](https://x.com/NababUddin2/status/2079428121133240602) | **发布:** 2026-07-21 | **热度:** 2
+
+**稳定度：** 80/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80 分) · [产物](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b8e777843103)**
 
 ### 皮克斯风格奶昔故事板动画
 
