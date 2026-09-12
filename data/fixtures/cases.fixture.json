@@ -1,27 +1,47 @@
 {
   "meta": {
     "exportedAt": "2026-08-20T00:00:00Z",
-    "caseCount": 8,
+    "caseCount": 10,
     "sections": [
-      { "model": "Seedance 2.5", "count": 5 },
-      { "model": "Seedance 2.0", "count": 3 }
+      {
+        "model": "Seedance 2.5",
+        "count": 6
+      },
+      {
+        "model": "Seedance 2.0",
+        "count": 3
+      },
+      {
+        "model": "Seedance",
+        "count": 1
+      }
     ],
     "placeholder": true,
     "retests": {
-      "casesWithRetests": 2,
-      "totalRuns": 3,
-      "byModel": { "MiniMax H3 768p": 2, "Kling 2.1": 1 },
-      "byVerdict": { "reproduced": 2, "degraded": 1 }
-    }
+      "casesWithRetests": 3,
+      "totalRuns": 5,
+      "byModel": {
+        "MiniMax H3 768p": 2,
+        "Kling 2.1": 1,
+        "MiniMax H3 Max 768p": 2
+      },
+      "byVerdict": {
+        "reproduced": 3,
+        "degraded": 2
+      }
+    },
+    "retestBatchNote": "Runs before 2026-09-01 were scored with the phase-0 rubric and carry no final score; the 2026-09-07 batch uses the phase-1 rubric."
   },
   "cases": [
     {
       "slug": "neon-alley-chase-25",
-      "title": "Neon Alley Chase",
-      "summary": "A motorcycle courier weaves through a rain-slick neon alley at night, tracked by a low chasing drone shot.",
+      "title": "霓虹小巷雨夜追逐",
+      "summary": "深夜雨后的霓虹小巷，摩托快递员在低空跟拍无人机镜头下穿行。",
       "promptFull": "A courier on a matte-black motorcycle weaves through a narrow neon-lit alley at night, rain slicking the asphalt into mirrored color. Low chasing drone shot, motion blur on the wheels, steam rising from street vents, camera banking hard on turns, cinematic anamorphic flares.",
       "category": "Action",
-      "models": ["Seedance 2.5"],
+      "models": [
+        "Seedance 2.5"
+      ],
       "creator": "wenjie_frames",
       "sourceUrl": "https://x.com/wenjie_frames/status/1000000000000000001",
       "sourcePublishedAt": "2026-08-01",
@@ -33,16 +53,25 @@
       "goodcaseUrl": "https://goodcase.ai/cases/neon-alley-chase-25",
       "evidenceLevel": "verified",
       "stabilityScore": 92,
-      "tags": ["action", "night", "drone", "urban"],
-      "contentLocale": "en"
+      "tags": [
+        "action",
+        "night",
+        "drone",
+        "urban"
+      ],
+      "contentLocale": "en",
+      "titleEn": "Neon Alley Chase",
+      "summaryEn": "A motorcycle courier weaves through a rain-slick neon alley at night, tracked by a low chasing drone shot."
     },
     {
       "slug": "cafe-lip-sync-monologue-25",
-      "title": "Rainy Cafe Monologue",
-      "summary": "A woman delivers a quiet lip-synced monologue at a window table while rain streaks the glass behind her.",
+      "title": "雨窗咖啡馆独白",
+      "summary": "女人坐在窗边桌前做一段安静的口型同步独白，雨水在她身后的玻璃上流淌。",
       "promptFull": "Medium close-up of a woman at a cafe window table, delivering a quiet monologue with precise lip-sync to the provided voice track. Rain streaks the glass behind her, warm tungsten interior light against cool blue exterior, shallow depth of field, subtle handheld sway.",
       "category": "Dialogue",
-      "models": ["Seedance 2.5"],
+      "models": [
+        "Seedance 2.5"
+      ],
       "creator": "littlelens.ai",
       "sourceUrl": "https://www.xiaohongshu.com/explore/1000000000000000002",
       "sourcePublishedAt": "2026-08-05",
@@ -54,8 +83,15 @@
       "goodcaseUrl": "https://goodcase.ai/cases/cafe-lip-sync-monologue-25",
       "evidenceLevel": "verified",
       "stabilityScore": 90,
-      "tags": ["dialogue", "lip-sync", "indoor", "emotional"],
-      "contentLocale": "zh"
+      "tags": [
+        "dialogue",
+        "lip-sync",
+        "indoor",
+        "emotional"
+      ],
+      "contentLocale": "zh",
+      "titleEn": "Rainy Cafe Monologue",
+      "summaryEn": "A woman delivers a quiet lip-synced monologue at a window table while rain streaks the glass behind her."
     },
     {
       "slug": "product-orbit-sneaker-25",
@@ -63,7 +99,9 @@
       "summary": "A single sneaker rotates on a pedestal under shifting studio light for a clean product-ad orbit shot.",
       "promptFull": "A single sneaker on a rotating pedestal in a seamless white studio, 360-degree orbit camera move, shifting rim light from cool to warm across the rotation, soft product-ad shadows, subtle dust particles catching the key light, commercial grade sharpness.",
       "category": "Commercial",
-      "models": ["Seedance 2.5"],
+      "models": [
+        "Seedance 2.5"
+      ],
       "creator": "render_studio_kai",
       "sourceUrl": "https://www.bilibili.com/video/BV1000000003",
       "sourcePublishedAt": "2026-07-28",
@@ -75,8 +113,14 @@
       "goodcaseUrl": "https://goodcase.ai/cases/product-orbit-sneaker-25",
       "evidenceLevel": "verified",
       "stabilityScore": 88,
-      "tags": ["commercial", "product", "studio"],
-      "contentLocale": "en"
+      "tags": [
+        "commercial",
+        "product",
+        "studio"
+      ],
+      "contentLocale": "en",
+      "titleEn": null,
+      "summaryEn": null
     },
     {
       "slug": "ugc-morning-routine-25",
@@ -84,7 +128,9 @@
       "summary": "A creator films a selfie-style morning routine talk-to-camera in natural bedroom light with synced dialogue.",
       "promptFull": "Selfie-style talk-to-camera shot, handheld phone framing, natural morning window light, creator narrates a morning routine with dialogue synced to the audio track, slight jitter and occasional reframing typical of authentic UGC, casual bedroom background.",
       "category": "UGC",
-      "models": ["Seedance 2.5"],
+      "models": [
+        "Seedance 2.5"
+      ],
       "creator": "dailybycindy",
       "sourceUrl": "https://www.douyin.com/video/1000000000000000004",
       "sourcePublishedAt": "2026-08-10",
@@ -96,8 +142,14 @@
       "goodcaseUrl": "https://goodcase.ai/cases/ugc-morning-routine-25",
       "evidenceLevel": "verified",
       "stabilityScore": 85,
-      "tags": ["ugc", "talk-to-camera", "lifestyle"],
-      "contentLocale": "zh"
+      "tags": [
+        "ugc",
+        "talk-to-camera",
+        "lifestyle"
+      ],
+      "contentLocale": "zh",
+      "titleEn": null,
+      "summaryEn": null
     },
     {
       "slug": "mountain-timelapse-20",
@@ -105,7 +157,9 @@
       "summary": "Clouds pour over a mountain ridge in a sweeping timelapse as light shifts from dusk to full night.",
       "promptFull": "Wide landscape shot of a mountain ridge, clouds pouring over the rock face in fast timelapse motion, light shifting gradually from dusk orange to deep blue night, stars beginning to emerge, slow parallax push-in on the peak.",
       "category": "Landscape",
-      "models": ["Seedance 2.0"],
+      "models": [
+        "Seedance 2.0"
+      ],
       "creator": "highaltitude_films",
       "sourceUrl": "https://x.com/highaltitude_films/status/1000000000000000005",
       "sourcePublishedAt": "2026-06-14",
@@ -117,8 +171,14 @@
       "goodcaseUrl": "https://goodcase.ai/cases/mountain-timelapse-20",
       "evidenceLevel": "verified",
       "stabilityScore": 80,
-      "tags": ["landscape", "timelapse", "nature"],
-      "contentLocale": "en"
+      "tags": [
+        "landscape",
+        "timelapse",
+        "nature"
+      ],
+      "contentLocale": "en",
+      "titleEn": null,
+      "summaryEn": null
     },
     {
       "slug": "kitchen-plating-macro-20",
@@ -126,7 +186,9 @@
       "summary": "A chef's hands plate a dessert in extreme macro detail with sauce drizzled in a slow, deliberate arc.",
       "promptFull": "Extreme macro close-up of a chef's hands plating a dessert, sauce drizzled in a slow deliberate arc across white ceramic, shallow focus racking from spoon to plate, warm kitchen light, steam wisps in the background, food-commercial texture detail.",
       "category": "Food",
-      "models": ["Seedance 2.0"],
+      "models": [
+        "Seedance 2.0"
+      ],
       "creator": "tastework.lab",
       "sourceUrl": "https://www.xiaohongshu.com/explore/1000000000000000006",
       "sourcePublishedAt": "2026-05-30",
@@ -138,8 +200,14 @@
       "goodcaseUrl": "https://goodcase.ai/cases/kitchen-plating-macro-20",
       "evidenceLevel": "verified",
       "stabilityScore": 78,
-      "tags": ["food", "macro", "commercial"],
-      "contentLocale": "zh"
+      "tags": [
+        "food",
+        "macro",
+        "commercial"
+      ],
+      "contentLocale": "zh",
+      "titleEn": null,
+      "summaryEn": null
     },
     {
       "slug": "rooftop-drone-reveal-25",
@@ -147,7 +215,9 @@
       "summary": "A drone rises from street level to reveal a neon-lit rooftop party in one continuous unbroken shot.",
       "promptFull": "Drone shot starting at street level between two buildings, rising smoothly and continuously to reveal a rooftop party lit by neon signage and string lights, camera pitching forward as it clears the roofline, guests dancing, city skyline glowing in the background at dusk.",
       "category": "Reveal",
-      "models": ["Seedance 2.5"],
+      "models": [
+        "Seedance 2.5"
+      ],
       "creator": "skyframe_ops",
       "sourceUrl": "https://x.com/skyframe_ops/status/1000000000000000007",
       "sourcePublishedAt": "2026-08-22",
@@ -159,7 +229,12 @@
       "goodcaseUrl": "https://goodcase.ai/cases/rooftop-drone-reveal-25",
       "evidenceLevel": "verified",
       "stabilityScore": 89,
-      "tags": ["reveal", "drone", "night", "party"],
+      "tags": [
+        "reveal",
+        "drone",
+        "night",
+        "party"
+      ],
       "contentLocale": "en",
       "retests": [
         {
@@ -179,7 +254,10 @@
       ],
       "retestSummary": {
         "runs": 2,
-        "models": ["MiniMax H3 768p", "Kling 2.1"],
+        "models": [
+          "MiniMax H3 768p",
+          "Kling 2.1"
+        ],
         "latest": {
           "model": "MiniMax H3 768p",
           "verdict": "reproduced",
@@ -187,7 +265,9 @@
           "artifactUrl": "https://goodcase.ai/retests/rooftop-drone-reveal-25/h3-01.mp4",
           "finalScore": 82
         }
-      }
+      },
+      "titleEn": null,
+      "summaryEn": null
     },
     {
       "slug": "desert-convoy-dust-20",
@@ -195,7 +275,9 @@
       "summary": "A convoy of off-road vehicles kicks up a long dust trail crossing an open desert at golden hour.",
       "promptFull": "Wide tracking shot of an off-road vehicle convoy crossing an open desert at golden hour, long dust trails kicked up behind each vehicle, warm low-angle sunlight, heat shimmer on the horizon, camera holding a steady parallel track alongside the convoy.",
       "category": "Action",
-      "models": ["Seedance 2.0"],
+      "models": [
+        "Seedance 2.0"
+      ],
       "creator": "duneline_media",
       "sourceUrl": "https://x.com/duneline_media/status/1000000000000000008",
       "sourcePublishedAt": "2026-06-02",
@@ -207,7 +289,11 @@
       "goodcaseUrl": "https://goodcase.ai/cases/desert-convoy-dust-20",
       "evidenceLevel": "verified",
       "stabilityScore": 77,
-      "tags": ["action", "desert", "vehicles"],
+      "tags": [
+        "action",
+        "desert",
+        "vehicles"
+      ],
       "contentLocale": "en",
       "retests": [
         {
@@ -220,13 +306,104 @@
       ],
       "retestSummary": {
         "runs": 1,
-        "models": ["MiniMax H3 768p"],
+        "models": [
+          "MiniMax H3 768p"
+        ],
         "latest": {
           "model": "MiniMax H3 768p",
           "verdict": "degraded",
           "testedAt": "2026-09-01T12:00:00Z",
           "artifactUrl": null,
           "finalScore": null
+        }
+      },
+      "titleEn": null,
+      "summaryEn": null
+    },
+    {
+      "slug": "tokyo-crosswalk-unversioned",
+      "title": "东京雨夜十字路口穿行",
+      "titleEn": null,
+      "summary": "一位年轻女性在雨夜穿过东京涩谷十字路口，霓虹倒影铺满湿漉漉的路面。",
+      "summaryEn": null,
+      "promptFull": "A young woman crosses the Shibuya scramble at night in light rain, neon reflections on wet asphalt, slow handheld follow shot, umbrellas passing in the foreground, cinematic 35mm look.",
+      "category": "Street",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "night_walker_jp",
+      "sourceUrl": "https://x.com/night_walker_jp/status/1000000000000000009",
+      "sourcePublishedAt": "2026-08-15",
+      "heatScore": 85,
+      "weightedInteractions": 7200,
+      "mediaType": "video",
+      "mediaUrl": "https://example-cdn.goodcase.ai/media/tokyo-crosswalk-unversioned.mp4",
+      "posterUrl": "https://example-cdn.goodcase.ai/media/tokyo-crosswalk-unversioned-poster.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/tokyo-crosswalk-unversioned",
+      "evidenceLevel": "verified",
+      "stabilityScore": 0,
+      "tags": [
+        "street",
+        "night",
+        "rain"
+      ],
+      "contentLocale": "zh-CN"
+    },
+    {
+      "slug": "legacy-label-home-video-25",
+      "title": "Seedance：Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing a young woman walking through a rainy Tokyo crosswalk at night, neon reflections…",
+      "titleEn": null,
+      "summary": "Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing a young woman walking through a rainy Tokyo crosswalk at night…",
+      "summaryEn": "A 30-second DV-style home video of a young woman crossing a rainy Tokyo street at night.",
+      "promptFull": "Create a 30-second, 1080p ultra-realistic personal home-video showing a young woman walking through a rainy Tokyo crosswalk at night, neon reflections, handheld consumer camcorder look, autofocus hunting, no stabilization.",
+      "category": "UGC",
+      "models": [
+        "seedance-2.5"
+      ],
+      "creator": "dv_archive",
+      "sourceUrl": "https://x.com/dv_archive/status/1000000000000000010",
+      "sourcePublishedAt": "2026-08-18",
+      "heatScore": 84,
+      "weightedInteractions": 6900,
+      "mediaType": "video",
+      "mediaUrl": "https://example-cdn.goodcase.ai/media/legacy-label-home-video-25.mp4",
+      "posterUrl": "https://example-cdn.goodcase.ai/media/legacy-label-home-video-25-poster.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/legacy-label-home-video-25",
+      "evidenceLevel": "verified",
+      "stabilityScore": 81,
+      "tags": [
+        "ugc",
+        "night",
+        "rain"
+      ],
+      "contentLocale": "en",
+      "retests": [
+        {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-07T09:00:00Z",
+          "artifactUrl": "https://goodcase.ai/retests/legacy-label-home-video-25/h3max-02.mp4",
+          "finalScore": 80.5
+        },
+        {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "degraded",
+          "testedAt": "2026-08-11T09:00:00Z",
+          "artifactUrl": "https://goodcase.ai/retests/legacy-label-home-video-25/h3max-01.mp4",
+          "finalScore": null
+        }
+      ],
+      "retestSummary": {
+        "runs": 2,
+        "models": [
+          "MiniMax H3 Max 768p"
+        ],
+        "latest": {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-07T09:00:00Z",
+          "artifactUrl": "https://goodcase.ai/retests/legacy-label-home-video-25/h3max-02.mp4",
+          "finalScore": 80.5
         }
       }
     }

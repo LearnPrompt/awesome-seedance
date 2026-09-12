@@ -6,18 +6,36 @@ import path from "node:path";
 import {
   sortByHeat,
   isSeedance25,
+  isSeedance20,
+  isSeedanceUnversioned,
+  classifySeedance,
+  seedanceVersionOf,
+  normalizeModelLabel,
   computeStats,
   getFeatured,
   renderCaseEntry,
   renderTemplateCard,
   renderStatsTable,
+  renderTable,
+  renderTopTable,
   aggregateRetestsByModel,
   renderCrossModelSection,
   partitionAllPrompts,
   fitToSizeBudget,
   renderGalleryParts,
   galleryPartFileName,
+  galleryFileBase,
+  displayTitle,
+  displaySummary,
+  cleanHeadingTitle,
+  truncateAtBoundary,
+  pickText,
+  githubSlug,
+  formatRetestRun,
+  renderRetestBlock,
   FEATURED_COUNT,
+  TOP_INLINE_COUNT,
+  HEADING_MAX_LEN,
   README_SIZE_BUDGET_BYTES,
 } from "./render.mjs";
 
@@ -52,14 +70,208 @@ test("isSeedance25 detects the 2.5 line only", () => {
   assert.equal(isSeedance25({ models: ["Seedance 2.0"] }), false);
 });
 
+// ---------------------------------------------------------------------------
+// 版本三分类：2.5 / 2.0 / 未标版本。大小写、连字符不敏感；多版本取最高；每条只算一次。
+// ---------------------------------------------------------------------------
+
+test("seedanceVersionOf is case-insensitive, tolerates hyphens, and returns null for non-Seedance models", () => {
+  assert.equal(seedanceVersionOf("Seedance 2.5"), "2.5");
+  assert.equal(seedanceVersionOf("seedance-2.5"), "2.5");
+  assert.equal(seedanceVersionOf("SEEDANCE 2.0"), "2.0");
+  assert.equal(seedanceVersionOf("Seedance 2"), "2.0");
+  assert.equal(seedanceVersionOf("Seedance"), "unspecified");
+  assert.equal(seedanceVersionOf("seedance "), "unspecified");
+  assert.equal(seedanceVersionOf("Kling"), null);
+  assert.equal(seedanceVersionOf(null), null);
+});
+
+test("normalizeModelLabel canonicalizes legacy labels", () => {
+  assert.equal(normalizeModelLabel("seedance-2.5"), "Seedance 2.5");
+  assert.equal(normalizeModelLabel("SEEDANCE 2.0"), "Seedance 2.0");
+  assert.equal(normalizeModelLabel("seedance"), "Seedance");
+  assert.equal(normalizeModelLabel("Kling 2.1"), "Kling 2.1");
+});
+
+test("classifySeedance is three-way and picks the highest version when several are listed", () => {
+  assert.equal(classifySeedance({ models: ["Seedance 2.5"] }), "2.5");
+  assert.equal(classifySeedance({ models: ["Seedance 2.0"] }), "2.0");
+  assert.equal(classifySeedance({ models: ["Seedance"] }), "unspecified");
+  assert.equal(classifySeedance({ models: ["Kling", "Seedance"] }), "unspecified");
+  assert.equal(classifySeedance({ models: ["Seedance", "Seedance 2.0"] }), "2.0");
+  assert.equal(classifySeedance({ models: ["Seedance 2.0", "seedance-2.5"] }), "2.5");
+  assert.equal(classifySeedance({ models: [] }), "unspecified");
+  assert.equal(classifySeedance({}), "unspecified");
+  const c = { models: ["Seedance", "Seedance 2.5"] };
+  assert.equal([isSeedance25(c), isSeedance20(c), isSeedanceUnversioned(c)].filter(Boolean).length, 1);
+});
+
 test("computeStats counts totals, authors, and last-updated correctly", () => {
   // lastUpdated 现在取 meta.exportedAt（数据导出时间），不再取案例里最新的 sourcePublishedAt。
   const stats = computeStats({ cases: fixtureCases, meta: { exportedAt: "2026-08-26T15:13:01.687Z" } });
   assert.equal(stats.total, 4);
   assert.equal(stats.v25Count, 2);
   assert.equal(stats.v20Count, 2);
+  assert.equal(stats.unversionedCount, 0);
   assert.equal(stats.authorCount, 3); // u1, u2, u3
   assert.equal(stats.lastUpdated, "2026-08-26");
+});
+
+test("computeStats three-way version counts add up to the total, each case counted once", () => {
+  const cases = [
+    { models: ["Seedance 2.5"], creator: "a", heatScore: 1 },
+    { models: ["seedance-2.5"], creator: "a", heatScore: 1 },
+    { models: ["Seedance 2.0"], creator: "a", heatScore: 1 },
+    { models: ["Seedance"], creator: "a", heatScore: 1 },
+    { models: ["Seedance", "Kling"], creator: "a", heatScore: 1 },
+    { models: ["Seedance", "Seedance 2.0"], creator: "a", heatScore: 1 },
+  ];
+  const stats = computeStats({ cases, meta: {} });
+  assert.equal(stats.v25Count, 2);
+  assert.equal(stats.v20Count, 2);
+  assert.equal(stats.unversionedCount, 2);
+  assert.equal(stats.v25Count + stats.v20Count + stats.unversionedCount, stats.total);
+});
+
+test("renderStatsTable has three Seedance rows in both languages and no '2.0(+)' wording", () => {
+  const stats = computeStats(loadFixture("cases.fixture.json"));
+  const en = renderStatsTable(stats, "en");
+  assert.match(en, /\|\s*Seedance 2\.5\s*\|\s*6\s*\|/);
+  assert.match(en, /\|\s*Seedance 2\.0\s*\|\s*3\s*\|/);
+  assert.match(en, /\|\s*Seedance \(version unspecified\)\s*\|\s*1\s*\|/);
+  assert.doesNotMatch(en, /2\.0\(\+\)/);
+  const zh = renderStatsTable(stats, "zh");
+  assert.match(zh, /\|\s*Seedance（未标版本）\s*\|\s*1\s*\|/);
+  assert.doesNotMatch(zh, /2\.0\(\+\)/);
+});
+
+test("renderStatsTable appends meta.retestBatchNote under the table when present, and nothing when null", () => {
+  const withNote = computeStats(loadFixture("cases.fixture.json"));
+  assert.match(renderStatsTable(withNote, "en"), /\n\n\*Retest batch note: Runs before 2026-09-01/);
+  assert.match(renderStatsTable(withNote, "zh"), /\n\n\*复测批次说明：Runs before 2026-09-01/);
+  const withoutNote = computeStats({ cases: fixtureCases, meta: { exportedAt: "2026-08-26T00:00:00Z", retestBatchNote: null } });
+  assert.equal(withoutNote.retestBatchNote, null);
+  assert.doesNotMatch(renderStatsTable(withoutNote, "en"), /batch note|null|undefined/);
+});
+
+test("renderTable pads cells so pipes align (awesome-lint table-pipe-alignment)", () => {
+  const md = renderTable(["A", "Long header"], [["x", "y"], ["longer cell", "z"]]);
+  const lines = md.split("\n");
+  assert.equal(new Set(lines.map((l) => l.length)).size, 1);
+  assert.match(lines[1], /^\| -+ \| -+ \|$/);
+  // 宽度按 UTF-16 码元数算：astral emoji 占 2，和 remark 的列偏移一致
+  const emoji = renderTable(["A"], [["😄"], ["ab"], ["abc"]]).split("\n");
+  assert.equal(new Set(emoji.map((l) => l.length)).size, 1);
+});
+
+// ---------------------------------------------------------------------------
+// 标题 / 摘要：英文 README 用 titleEn/summaryEn，缺失回落；中文 README 用 title/summary。
+// ---------------------------------------------------------------------------
+
+test("pickText falls back on null/undefined/empty and never yields 'null' or 'undefined'", () => {
+  assert.equal(pickText("A", "B"), "A");
+  assert.equal(pickText(null, "B"), "B");
+  assert.equal(pickText(undefined, "B"), "B");
+  assert.equal(pickText("  ", "B"), "B");
+  assert.equal(pickText(null, undefined), "");
+});
+
+test("displayTitle/displaySummary prefer English fields in en and native fields in zh", () => {
+  const c = { title: "霓虹小巷雨夜追逐", titleEn: "Neon Alley Chase", summary: "中文摘要", summaryEn: "English summary" };
+  assert.equal(displayTitle(c, "en"), "Neon Alley Chase");
+  assert.equal(displayTitle(c, "zh"), "霓虹小巷雨夜追逐");
+  assert.equal(displaySummary(c, "en"), "English summary");
+  assert.equal(displaySummary(c, "zh"), "中文摘要");
+});
+
+test("displayTitle/displaySummary fall back to title/summary when titleEn/summaryEn are null or missing", () => {
+  const nulls = { title: "只有中文标题", titleEn: null, summary: "只有中文摘要", summaryEn: null };
+  assert.equal(displayTitle(nulls, "en"), "只有中文标题");
+  assert.equal(displaySummary(nulls, "en"), "只有中文摘要");
+  const missing = { title: "Old schema", summary: "old summary" };
+  assert.equal(displayTitle(missing, "en"), "Old schema");
+  assert.equal(displaySummary(missing, "en"), "old summary");
+  // zh 缺 title 时也回落到 titleEn，而不是渲染成 "null"
+  const zhFallback = { title: null, titleEn: "Only English", summary: null, summaryEn: "only en" };
+  assert.equal(displayTitle(zhFallback, "zh"), "Only English");
+  assert.equal(displaySummary(zhFallback, "zh"), "only en");
+});
+
+test("renderCaseEntry en uses titleEn/summaryEn from the fixture, zh keeps title/summary", () => {
+  const data = loadFixture("cases.fixture.json");
+  const neon = data.cases.find((c) => c.slug === "neon-alley-chase-25");
+  const en = renderCaseEntry(neon, "en");
+  assert.match(en, /^### Neon Alley Chase\n/);
+  assert.match(en, /^> A motorcycle courier weaves/m);
+  assert.doesNotMatch(en, /霓虹小巷/);
+  const zh = renderCaseEntry(neon, "zh");
+  assert.match(zh, /^### 霓虹小巷雨夜追逐\n/);
+  assert.match(zh, /^> 深夜雨后的霓虹小巷/m);
+  assert.doesNotMatch(zh, /Neon Alley Chase/);
+});
+
+test("renderCaseEntry never prints 'null' or 'undefined' for a case with all-null English fields", () => {
+  const data = loadFixture("cases.fixture.json");
+  const tokyo = data.cases.find((c) => c.slug === "tokyo-crosswalk-unversioned");
+  for (const lang of ["en", "zh"]) {
+    const md = renderCaseEntry(tokyo, lang);
+    assert.doesNotMatch(md, /\bnull\b|\bundefined\b/);
+    assert.match(md, /^### 东京雨夜十字路口穿行\n/);
+  }
+});
+
+test("cleanHeadingTitle strips the exporter's 'Seedance：' / 'Prompt:' prefix and shortens >80-char prompt titles", () => {
+  const ugly =
+    "Seedance：Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing a…";
+  const cleaned = cleanHeadingTitle(ugly);
+  assert.doesNotMatch(cleaned, /^Seedance/);
+  assert.doesNotMatch(cleaned, /^Prompt/);
+  assert.ok(cleaned.length <= HEADING_MAX_LEN + 1, `too long: ${cleaned}`); // +1 for the ellipsis
+  assert.match(cleaned, /…$/);
+  assert.match(cleaned, /^Create a 30-second/);
+  // 模型标签带版本号也算前缀；短标题只剥前缀不截断
+  assert.equal(cleanHeadingTitle("Seedance 2.5：Made with seedance 2.5"), "Made with seedance 2.5");
+  // 普通标题原样保留（去掉尾部英文标点，awesome-lint no-heading-punctuation）
+  assert.equal(cleanHeadingTitle("Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒"), "Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒");
+  assert.equal(cleanHeadingTitle("Rooftop Drone Reveal."), "Rooftop Drone Reveal");
+  // 图片引用占位符不进标题
+  const withRef = "Seedance：@[Image1](image-0442b9e3-3e54-49fa-95ab-1dd25868733f) HYPERSONIC SONÍDO — SPACE RACE ANTHEM opening sequence with chrome cars…";
+  assert.doesNotMatch(cleanHeadingTitle(withRef), /\[Image1\]/);
+});
+
+test("truncateAtBoundary cuts at sentence, clause, or word boundaries within maxLen", () => {
+  assert.deepEqual(truncateAtBoundary("Short title", 70), { text: "Short title", truncated: false });
+  const sentence = truncateAtBoundary("First sentence ends here early. Second sentence keeps going on and on and on and on.", 70);
+  assert.equal(sentence.text, "First sentence ends here early");
+  assert.equal(sentence.truncated, true);
+  const words = truncateAtBoundary("word ".repeat(30).trim(), 20);
+  assert.ok(words.text.length <= 20);
+  assert.doesNotMatch(words.text, /\s$/);
+});
+
+test("renderCaseEntry uses the cleaned heading for the fixture's legacy-label case", () => {
+  const data = loadFixture("cases.fixture.json");
+  const legacy = data.cases.find((c) => c.slug === "legacy-label-home-video-25");
+  const en = renderCaseEntry(legacy, "en");
+  assert.match(en, /^### Create a 30-second, 1080p ultra-realistic personal home-video showing[^\n]*…\n/);
+  assert.match(en, /^> A 30-second DV-style home video/m); // summaryEn wins in en
+  const zh = renderCaseEntry(legacy, "zh");
+  assert.match(zh, /^> Prompt: Create a 30-second/m); // zh keeps summary
+});
+
+test("renderCaseEntry dedupes identical headings within one document via opts.usedHeadings", () => {
+  const used = new Set();
+  const a = renderCaseEntry({ ...fixtureCases[0], slug: "dup-1" }, "en", { usedHeadings: used });
+  const b = renderCaseEntry({ ...fixtureCases[0], slug: "dup-2" }, "en", { usedHeadings: used });
+  assert.match(a, /^### A\n/);
+  assert.match(b, /^### A \(2\)\n/);
+});
+
+test("githubSlug matches GitHub heading anchors for ascii, emoji and CJK headings", () => {
+  assert.equal(githubSlug("⭐ Featured"), "-featured"); // GitHub keeps the hyphen left by the emoji's space
+  assert.equal(githubSlug("Copyright & Takedown Notice"), "copyright--takedown-notice");
+  assert.equal(githubSlug("What is Seedance 2.5"), "what-is-seedance-25");
+  assert.equal(githubSlug("不会有人认为这是真的吧？😄"), "不会有人认为这是真的吧");
+  assert.equal(githubSlug("Neon Alley Chase (2)"), "neon-alley-chase-2");
 });
 
 test("computeStats returns null lastUpdated when meta.exportedAt is missing", () => {
@@ -120,11 +332,34 @@ test("renderTemplateCard includes only first two guidance points", () => {
   assert.doesNotMatch(md, /g3 \(should be dropped\)/);
 });
 
-test("partitionAllPrompts puts 2.5 first, caps 2.0 inline list, keeps remainder for gallery", () => {
-  const { v25, v20Top, v20Rest } = partitionAllPrompts(fixtureCases, 1);
+test("partitionAllPrompts splits by version bucket (heat-sorted) and exposes the overall top N", () => {
+  const cases = [...fixtureCases, { ...fixtureCases[0], slug: "u", models: ["Seedance"], heatScore: 80 }];
+  const { v25, v20, unversioned, top, all } = partitionAllPrompts(cases, 3);
   assert.deepEqual(v25.map((c) => c.slug), ["b", "a"]); // heat 95, 90
-  assert.deepEqual(v20Top.map((c) => c.slug), ["c"]); // heat 70, limit 1
-  assert.deepEqual(v20Rest.map((c) => c.slug), ["d"]); // heat 60, overflow
+  assert.deepEqual(v20.map((c) => c.slug), ["c", "d"]); // heat 70, 60
+  assert.deepEqual(unversioned.map((c) => c.slug), ["u"]);
+  assert.deepEqual(top.map((c) => c.slug), ["b", "a", "u"]); // overall top 3 across versions
+  assert.equal(all.length, 5);
+  assert.equal(TOP_INLINE_COUNT, 30);
+});
+
+test("renderTopTable ranks cases, links title to goodcase and prompt to the gallery anchor, shows retest cells", () => {
+  const data = loadFixture("cases.fixture.json");
+  const cases = sortByHeat(data.cases).slice(0, 3);
+  const { header, rows, markdown } = renderTopTable(cases, "en", {
+    startRank: 1,
+    promptLinkFor: (c) => `./docs/gallery-seedance-2-5.md#${githubSlug(displayTitle(c, "en"))}`,
+  });
+  assert.equal(header.length, 2);
+  assert.equal(rows.length, 3);
+  assert.match(rows[0], /^\| 1\s+\| \[Neon Alley Chase\]\(https:\/\/goodcase\.ai\/cases\/neon-alley-chase-25\)/);
+  assert.match(rows[0], /\| 2\.5\s+\| 98\s+\|/);
+  assert.match(rows[0], /\[prompt\]\(\.\/docs\/gallery-seedance-2-5\.md#neon-alley-chase\)/);
+  assert.match(rows[0], /\[source\]\(https:\/\/x\.com\/wenjie_frames/);
+  assert.doesNotMatch(markdown, /\bnull\b|\bundefined\b/);
+  const zh = renderTopTable(cases, "zh", { startRank: 7 });
+  assert.match(zh.rows[0], /^\| 7\s+\|/);
+  assert.match(zh.header[0], /\| 案例\s+\| 版本\s+\| 热度\s+\| 复测\s+\| 链接\s+\|/);
 });
 
 test("fitToSizeBudget keeps everything when under budget", () => {
@@ -151,7 +386,8 @@ test("renderGalleryParts renders every case, splits by budget, and names parts",
   const [single] = renderGalleryParts(two, "zh");
   assert.equal(single.totalParts, 1);
   assert.equal(single.caseCount, 2);
-  assert.ok(single.markdown.includes("第 1/1 页"));
+  assert.ok(single.markdown.startsWith("# Seedance 2.0 — 全量案例\n"));
+  assert.equal(single.fileName, "gallery-seedance-2-0.zh.md");
   assert.equal(galleryPartFileName("zh", 1, 1), "gallery-seedance-2-0.zh.md");
 
   // 预算极小：每页一条，互相带导航链接（GitHub 超 512KB 拒渲染，分片是硬要求）
@@ -160,7 +396,25 @@ test("renderGalleryParts renders every case, splits by budget, and names parts",
   assert.equal(parts[0].caseCount, 1);
   assert.ok(parts[0].markdown.includes("[Part 2](./gallery-seedance-2-0-part-2.md)"));
   assert.ok(parts[1].markdown.includes("[Part 1](./gallery-seedance-2-0-part-1.md)"));
+  assert.ok(parts[0].markdown.includes("(Part 1/2)"));
   assert.equal(galleryPartFileName("en", 2, 2), "gallery-seedance-2-0-part-2.md");
+});
+
+test("renderGalleryParts names files per version bucket and reports heading anchors", () => {
+  assert.equal(galleryFileBase("2.5"), "gallery-seedance-2-5");
+  assert.equal(galleryFileBase("unspecified"), "gallery-seedance-unversioned");
+  const data = loadFixture("cases.fixture.json");
+  const v25 = data.cases.filter(isSeedance25);
+  const [part] = renderGalleryParts(v25, "en", { bucket: "2.5" });
+  assert.equal(part.fileName, "gallery-seedance-2-5.md");
+  assert.ok(part.markdown.startsWith("# Seedance 2.5 — Full Gallery\n"));
+  assert.ok(part.markdown.includes("[Back to README](../README.md)"));
+  const neon = part.entries.find((e) => e.slug === "neon-alley-chase-25");
+  assert.deepEqual(neon, { slug: "neon-alley-chase-25", heading: "Neon Alley Chase", anchor: "neon-alley-chase" });
+  const unversioned = data.cases.filter(isSeedanceUnversioned);
+  const [u] = renderGalleryParts(unversioned, "zh", { bucket: "unspecified" });
+  assert.equal(u.fileName, "gallery-seedance-unversioned.zh.md");
+  assert.ok(u.markdown.startsWith("# Seedance（未标版本） — 全量案例\n"));
 });
 
 // ---------------------------------------------------------------------------
@@ -216,18 +470,67 @@ test("renderCaseEntry adds a 复测 line (zh) when retestSummary is present, wit
   );
 });
 
-test("renderCaseEntry omits score/link and runs suffix when finalScore/artifactUrl are null and runs === 1", () => {
+test("renderCaseEntry renders 'score n/a' / '无评分' for a null finalScore, with no dangling separator", () => {
   const mdEn = renderCaseEntry(caseWithDegradedRetest, "en");
-  assert.match(mdEn, /\*\*Retest:\*\* MiniMax H3 768p · 2026-09-01 · ⚠️ degraded$/m);
-  assert.doesNotMatch(mdEn, /\(score/);
+  assert.match(mdEn, /\*\*Retest:\*\* MiniMax H3 768p · 2026-09-01 · ⚠️ degraded \(score n\/a\)$/m);
   assert.doesNotMatch(mdEn, /\[output\]/);
   assert.doesNotMatch(mdEn, / runs/);
+  assert.doesNotMatch(mdEn, /· *$/m);
 
   const mdZh = renderCaseEntry(caseWithDegradedRetest, "zh");
-  assert.match(mdZh, /\*\*复测：\*\* MiniMax H3 768p · 2026-09-01 · ⚠️ 降级$/m);
-  assert.doesNotMatch(mdZh, /分\)/);
+  assert.match(mdZh, /\*\*复测：\*\* MiniMax H3 768p · 2026-09-01 · ⚠️ 降级 \(无评分\)$/m);
   assert.doesNotMatch(mdZh, /\[产物\]/);
   assert.doesNotMatch(mdZh, /共 \d+ 次/);
+  assert.doesNotMatch(mdZh, /· *$/m);
+});
+
+test("formatRetestRun never ends with a separator, whatever combination of nulls it gets", () => {
+  const combos = [
+    { model: "M", verdict: "reproduced", testedAt: "2026-09-05T10:00:00Z", artifactUrl: null, finalScore: null },
+    { model: "M", verdict: "reproduced", testedAt: null, artifactUrl: null, finalScore: null },
+    { model: "M", verdict: "weird-unknown", testedAt: "2026-09-05", artifactUrl: "https://a/b.mp4", finalScore: 0 },
+  ];
+  for (const run of combos) {
+    for (const lang of ["en", "zh"]) {
+      const line = formatRetestRun(run, lang);
+      assert.doesNotMatch(line, /·\s*$/);
+      assert.doesNotMatch(line, /\bnull\b|\bundefined\b/);
+    }
+  }
+  assert.match(formatRetestRun(combos[0], "en"), /✅ reproduced \(score n\/a\)$/);
+  assert.match(formatRetestRun(combos[2], "en"), /➖ inconclusive \(score 0\) · \[output\]\(https:\/\/a\/b\.mp4\)$/);
+});
+
+test("renderRetestBlock lists every run with dates when a case was retested twice on the same model", () => {
+  const data = loadFixture("cases.fixture.json");
+  const legacy = data.cases.find((c) => c.slug === "legacy-label-home-video-25");
+  const en = renderRetestBlock(legacy, "en");
+  assert.equal(en[0], "**Retests:** 2 runs");
+  assert.equal(en[1], "");
+  assert.equal(en[2], "- MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.5) · [output](https://goodcase.ai/retests/legacy-label-home-video-25/h3max-02.mp4)");
+  assert.equal(en[3], "- MiniMax H3 Max 768p · 2026-08-11 · ⚠️ degraded (score n/a) · [output](https://goodcase.ai/retests/legacy-label-home-video-25/h3max-01.mp4)");
+  const zh = renderRetestBlock(legacy, "zh");
+  assert.equal(zh[0], "**复测：** 共 2 次");
+  assert.match(zh[3], /^- MiniMax H3 Max 768p · 2026-08-11 · ⚠️ 降级 \(无评分\)/);
+  // 整条 entry 里也不能有悬空分隔符
+  const md = renderCaseEntry(legacy, "en");
+  assert.doesNotMatch(md, /· *$/m);
+  assert.match(md, /\*\*Retests:\*\* 2 runs\n\n- MiniMax/);
+});
+
+test("renderRetestBlock notes when retests[] holds fewer runs than retestSummary.runs", () => {
+  const c = {
+    ...fixtureCases[0],
+    retests: [
+      { model: "A", verdict: "reproduced", testedAt: "2026-09-02", artifactUrl: null, finalScore: 70 },
+      { model: "A", verdict: "failed", testedAt: "2026-09-01", artifactUrl: null, finalScore: null },
+    ],
+    retestSummary: { runs: 7, models: ["A"], latest: { model: "A", verdict: "reproduced", testedAt: "2026-09-02", artifactUrl: null, finalScore: 70 } },
+  };
+  assert.equal(renderRetestBlock(c, "en")[0], "**Retests:** 7 runs (latest 2 shown)");
+  assert.equal(renderRetestBlock(c, "zh")[0], "**复测：** 共 7 次（仅列最近 2 次）");
+  // 没有 retestSummary 的老数据：空数组
+  assert.deepEqual(renderRetestBlock(fixtureCases[0], "en"), []);
 });
 
 test("renderCaseEntry keeps rendering byte-identical (no Retest line) for cases without retestSummary", () => {
@@ -294,17 +597,17 @@ test("renderStatsTable shows the stability score row, with a placeholder average
     stabilityCases: 0,
     stabilityAvg: null,
   };
-  assert.match(renderStatsTable(zeroStats, "en"), /\| Stability score \(measured\) \| 0 cases \/ avg - \|/);
-  assert.match(renderStatsTable(zeroStats, "zh"), /\| 稳定度分（已测） \| 0 条 \/ 均分 - \|/);
+  assert.match(renderStatsTable(zeroStats, "en"), /\| Stability score \(measured\)\s+\| 0 cases \/ avg -\s+\|/);
+  assert.match(renderStatsTable(zeroStats, "zh"), /\| 稳定度分（已测）\s+\| 0 条 \/ 均分 -\s+\|/);
 
   const nonZeroStats = { ...zeroStats, stabilityCases: 2, stabilityAvg: 82.5 };
   assert.match(
     renderStatsTable(nonZeroStats, "en"),
-    /\| Stability score \(measured\) \| 2 cases \/ avg 82\.5 \|/
+    /\| Stability score \(measured\)\s+\| 2 cases \/ avg 82\.5\s+\|/
   );
   assert.match(
     renderStatsTable(nonZeroStats, "zh"),
-    /\| 稳定度分（已测） \| 2 条 \/ 均分 82\.5 \|/
+    /\| 稳定度分（已测）\s+\| 2 条 \/ 均分 82\.5\s+\|/
   );
 });
 
@@ -337,13 +640,13 @@ test("renderStatsTable shows the cross-model retest row, even when it's 0/0", ()
     retestRuns: 0,
   };
   const en = renderStatsTable(zeroStats, "en");
-  assert.match(en, /\| Re-run on other models \| 0 cases \/ 0 runs \|/);
+  assert.match(en, /\| Re-run on other models\s+\| 0 cases \/ 0 runs\s+\|/);
   const zh = renderStatsTable(zeroStats, "zh");
-  assert.match(zh, /\| 跨模型复测 \| 0 条 \/ 0 次 \|/);
+  assert.match(zh, /\| 跨模型复测\s+\| 0 条 \/ 0 次\s+\|/);
 
   const nonZeroStats = { ...zeroStats, retestCases: 37, retestRuns: 52 };
-  assert.match(renderStatsTable(nonZeroStats, "en"), /\| Re-run on other models \| 37 cases \/ 52 runs \|/);
-  assert.match(renderStatsTable(nonZeroStats, "zh"), /\| 跨模型复测 \| 37 条 \/ 52 次 \|/);
+  assert.match(renderStatsTable(nonZeroStats, "en"), /\| Re-run on other models\s+\| 37 cases \/ 52 runs\s+\|/);
+  assert.match(renderStatsTable(nonZeroStats, "zh"), /\| 跨模型复测\s+\| 37 条 \/ 52 次\s+\|/);
 });
 
 test("fitToSizeBudget keeps output within README_SIZE_BUDGET_BYTES even when entries include a Retest line", () => {
@@ -367,13 +670,14 @@ test("renderCrossModelSection renders a heading + per-model table when meta.rete
   const fixtureData = loadFixture("cases.fixture.json");
   const md = renderCrossModelSection(fixtureData.cases, fixtureData.meta, "en");
   assert.match(md, /^## 🔁 Cross-model retests/);
-  assert.match(md, /\| Model \| Runs \| Reproduction rate \|/);
-  assert.match(md, /\| MiniMax H3 768p \| 2 \| 50% \|/);
-  assert.match(md, /\| Kling 2\.1 \| 1 \| 100% \|/);
+  assert.match(md, /\| Model\s+\| Runs\s+\| Reproduction rate\s+\|/);
+  assert.match(md, /\| MiniMax H3 768p\s+\| 2\s+\| 50%\s+\|/);
+  assert.match(md, /\| Kling 2\.1\s+\| 1\s+\| 100%\s+\|/);
+  assert.match(md, /\| MiniMax H3 Max 768p\s+\| 2\s+\| 50%\s+\|/);
 
   const mdZh = renderCrossModelSection(fixtureData.cases, fixtureData.meta, "zh");
   assert.match(mdZh, /^## 🔁 跨模型复测/);
-  assert.match(mdZh, /\| 模型 \| 次数 \| 复现率 \|/);
+  assert.match(mdZh, /\| 模型\s+\| 次数\s+\| 复现率\s+\|/);
 });
 
 test("renderCrossModelSection returns null when meta.retests is missing or totalRuns is 0", () => {
