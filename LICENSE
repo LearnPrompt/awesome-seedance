@@ -19,11 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Note: this MIT license covers the code in this repository (generator scripts,
-Agent Skill, tooling) only. Prompt text, summaries, and media referenced from
-data/cases.json remain the property of their original creators. See the
-"Copyright & Takedown Notice" section in README.md for the content license
-and takedown process.
