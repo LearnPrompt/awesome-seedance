@@ -3,7 +3,7 @@ import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
-import { renderCaseEntry, renderPromptBlock, renderGalleryParts, sortByHeat, classifySeedance, PROMPT_COLLAPSE_LINES, computeStats } from "./render.mjs";
+import { renderCaseEntry, renderPromptBlock, renderGalleryParts, sortByHeat, classifySeedance, collapseSeries, renderStatsTable, PROMPT_COLLAPSE_LINES, computeStats } from "./render.mjs";
 import {
   buildStatsSnapshot,
   renderBadges,
@@ -12,7 +12,9 @@ import {
   renderRetestSpotlight,
   pickRetestShowcase,
   buildCategoryGroups,
+  buildOverviewTiles,
   renderCategoryOverview,
+  SPONSOR_EMAIL,
   renderTemplateTables,
   renderGalleryIndex,
   categoryHeading,
@@ -50,8 +52,9 @@ const templates = [
   },
 ];
 
+const site = { fetchedAt: "2026-09-13", totalCases: 1059, videoCases: 567, creators: 334, videoSkills: { base: 5, creatorVariants: 19, url: "https://goodcase.ai/skills?category=video" } };
 const stats = computeStats(casesData);
-const snapshot = buildStatsSnapshot(stats, templates, categories);
+const snapshot = buildStatsSnapshot(stats, templates, categories, site);
 
 function galleryContext(lang) {
   const sorted = sortByHeat(cases);
@@ -101,6 +104,11 @@ test("buildStatsSnapshot exposes the numbers the badges and hero read", () => {
   assert.equal(snapshot.templateCategories, 2);
   assert.equal(snapshot.retestRuns, casesData.meta.retests.totalRuns);
   assert.equal(snapshot.lastUpdated, "2026-08-20");
+  // 站点全量 + AI 视频 Skill 数（站上 5+19，加本仓库 1 个）。
+  assert.equal(snapshot.siteTotalCases, 1059);
+  assert.equal(snapshot.videoSkillsOnSite, 24);
+  assert.equal(snapshot.skills, 25);
+  assert.equal(buildStatsSnapshot(stats, templates, categories, null).skills, 1);
 });
 
 test("renderBadges uses shields dynamic-json badges that read data/stats.json from main", () => {
@@ -119,14 +127,15 @@ test("renderHeroSvg is a self-contained SVG with the four numbers and no externa
   assert.match(svg, new RegExp(`>${snapshot.cases}<`));
   assert.match(svg, new RegExp(`>${snapshot.retestRuns}<`));
   assert.match(svg, />VERIFIED CASES</);
-  assert.match(svg, />AGENT SKILL</);
+  assert.match(svg, />AI VIDEO SKILLS</);
+  assert.match(svg, />25</);
   assert.doesNotMatch(svg, /<image|<style|http:\/\/[^w]|@import/);
   assert.match(svg, /#E8541E/); // 单一橙色强调
 });
 
-test("renderQuickLinks lists every gallery page with its case range, plus templates, skill, live site, contributing, license", () => {
+test("renderQuickLinks lists every gallery page with its case range, plus templates, skill, goodcase skills, live site; no Contributing/License (Contents has them)", () => {
   const ctx = galleryContext("en");
-  const md = renderQuickLinks({ ...ctx, templates, categories, stats }, "en");
+  const md = renderQuickLinks({ ...ctx, templates, categories, stats: { ...stats, videoSkillsOnSite: 24, videoSkillsUrl: site.videoSkills.url } }, "en");
   assert.match(md, /^## Quick Links/);
   assert.match(md, /\[Gallery index\]\(\.\/docs\/gallery\.md\)/);
   const partCount = Object.values(ctx.parts).reduce((n, p) => n + p.length, 0);
@@ -135,7 +144,8 @@ test("renderQuickLinks lists every gallery page with its case range, plus templa
   assert.match(md, /\[Prompt templates\]\(#-prompt-templates\) - 2 reusable structures in 2 categories\./);
   assert.match(md, /npx seedance-prompt-library install/);
   assert.match(md, /\[Live site on goodcase\.ai\]/);
-  assert.match(md, /\[License\]\(#license\)/);
+  assert.match(md, /\[More AI-video Skills on goodcase\.ai\]\(https:\/\/goodcase\.ai\/skills\?category=video\) - 24 installable Skills/);
+  assert.doesNotMatch(md, /\[License\]|\[Contributing\]/);
   for (const line of md.split("\n").filter((l) => l.startsWith("- "))) {
     assert.match(line, /^- \[/, `list items start with a link (awesome-lint): ${line}`);
   }
@@ -158,7 +168,8 @@ test("renderRetestSpotlight renders the claim, per-model table, verdict counts, 
   assert.match(md, /first public prompt library/);
   assert.match(md, /\| Model\s+\| Runs\s+\| Reproduction rate\s+\|/);
   assert.match(md, /Verdicts across all runs: ✅ \d+ reproduced · ⚠️ \d+ degraded · ❌ \d+ failed/);
-  assert.match(md, /\| Case\s+\| Original \(Seedance\)\s+\| Retest\s+\| Verdict\s+\|/);
+  assert.match(md, /\| Case\s+\| Original \(Seedance\)\s+\| Retest \(second model\)\s+\| Verdict\s+\|/);
+  assert.match(md, new RegExp(`\\[${SPONSOR_EMAIL}\\]\\(mailto:${SPONSOR_EMAIL}\\)`));
   assert.match(md, /▶ output video/);
   assert.match(md, /assets\/goodcase-retest-evidence\.png/);
   assert.match(md, /Sponsor a batch →\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/issues\/new/);
@@ -241,4 +252,66 @@ test("renderGalleryParts reports contiguous case ranges and links to the gallery
     assert.match(p.markdown, new RegExp(`This page: cases ${p.rangeStart}–${p.rangeEnd} of ${list.length}\\.`));
   }
   assert.equal(parts.at(-1).rangeEnd, list.length);
+});
+
+test("renderRetestSpotlight embeds a retest poster frame (linked to the goodcase page) when retestPosterFor returns one", () => {
+  const withPoster = renderRetestSpotlight(cases, casesData.meta, "en", { retestPosterFor: (c) => `./assets/retests/${c.slug}.jpg` });
+  const first = pickRetestShowcase(cases, 3)[0];
+  assert.match(withPoster, new RegExp(`\\[<img src="\\./assets/retests/${first.slug}\\.jpg" width="160" alt="[^"]+">\\]\\(${first.goodcaseUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\)<br>`));
+  const without = renderRetestSpotlight(cases, casesData.meta, "en");
+  assert.doesNotMatch(without, /assets\/retests\//);
+});
+
+test("buildOverviewTiles maps tiles onto templates and renderCategoryOverview renders one <td> per tile in 4 columns", () => {
+  const tilesConfig = {
+    tiles: [
+      { id: "a", templates: ["timeline"], title: { en: "Timeline", zh: "时间轴", ja: "タイムライン" } },
+      { id: "b", templates: ["ugc", "missing-id"], title: { en: "UGC", zh: "UGC", ja: "UGC" } },
+    ],
+  };
+  const tiles = buildOverviewTiles(tilesConfig, templates, categories, casesBySlug);
+  assert.equal(tiles.length, 2);
+  assert.equal(tiles[0].templates.length, 1);
+  assert.equal(tiles[1].templates.length, 1, "unknown template ids are ignored");
+  assert.equal(tiles[0].category.id, "foundation");
+  assert.equal(tiles[0].cover.slug, sortByHeat(tiles[0].cases)[0].slug);
+  const groups = buildCategoryGroups(templates, categories, casesBySlug);
+  const md = renderCategoryOverview(groups, "en", { tiles });
+  assert.equal((md.match(/<td /g) || []).length, 2);
+  assert.match(md, /<td width="25%"/);
+  assert.match(md, /<b>🏗️ Timeline<\/b>/);
+  assert.match(md, /href="#-structural-foundations-1-template"/);
+  assert.match(renderCategoryOverview(groups, "zh", { tiles }), /<b>🏗️ 时间轴<\/b>/);
+});
+
+test("collapseSeries folds same-creator prompt variants (same opening, ≥0.2 trigram overlap) to the earliest post and leaves unrelated cases alone", () => {
+  const base = "Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image. MAIN SUBJECT Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, long black hair loosely tied. SETTING A quiet older Seoul residential neighborhood during a warm summer afternoon.";
+  const variant = base.replace("summer evening", "summer afternoon") + " EXTRA She walks to the corner shop, buys a drink, waves at a neighbour and heads home as the light fades.";
+  const original = { slug: "orig", creator: "@a", sourcePublishedAt: "2026-08-27", heatScore: 99, promptFull: base };
+  const repost = { slug: "repost", creator: "@a", sourcePublishedAt: "2026-09-05", heatScore: 99, promptFull: `Prompt: ${variant}` };
+  // 同一作者的固定开场白（前 70 字相同）+ 完全不同的正文：不能被判成同一系列。
+  const sameOpeningOnly = {
+    slug: "other",
+    creator: "@a",
+    sourcePublishedAt: "2026-07-31",
+    heatScore: 99,
+    promptFull:
+      base.slice(0, 70) +
+      " CAMERA handheld mini DV camcorder footage shot by the main character herself, slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, bright kitchen morning light with real auto-exposure fluctuations. SCENE a quiet espresso ritual: grinding beans into the hopper, tamping the portafilter, locking it in, the machine hissing, crema pouring into a warm ceramic mug, steaming milk in a steel jug, pouring a simple heart, wiping the counter with a dishcloth, tapping the spoon on the saucer, first sip by the window. SOUND ASMR list: grinder burr, tamp thud, lever click, steam wand hiss, cup clink, spoon tap, water tap, quiet breathing, distant birds. STYLE no commercial look, no AI look, like a real home camcorder morning.",
+  };
+  const otherCreator = { slug: "copycat", creator: "@b", sourcePublishedAt: "2026-09-01", heatScore: 50, promptFull: base };
+  const { kept, collapsed } = collapseSeries([original, repost, sameOpeningOnly, otherCreator]);
+  assert.deepEqual(collapsed, [{ slug: "repost", keptSlug: "orig" }]);
+  assert.deepEqual(kept.map((c) => c.slug), ["orig", "other", "copycat"]);
+  assert.deepEqual(collapseSeries([]).kept, []);
+});
+
+test("renderStatsTable appends goodcase.ai site-wide rows when site is given, and none otherwise", () => {
+  const withSite = renderStatsTable(stats, "en", site);
+  assert.match(withSite, /\| Seedance cases in this repo\s+\| 10\s+\|/);
+  assert.match(withSite, /\| goodcase\.ai, all categories\s+\| 1059 cases \/ 334 creators\s+\|/);
+  assert.match(withSite, /\| goodcase\.ai, AI video\s+\| 567 cases\s+\|/);
+  assert.doesNotMatch(renderStatsTable(stats, "en"), /goodcase\.ai, all categories/);
+  assert.match(renderStatsTable(stats, "zh", site), /goodcase\.ai 全站（含非 Seedance）\s+\| 1059 条 \/ 334 位创作者/);
+  assert.match(renderStatsTable(stats, "ja", site), /goodcase\.ai 全カテゴリ/);
 });
