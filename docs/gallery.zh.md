@@ -1,6 +1,6 @@
 # Awesome Seedance — 画廊总览
 
-全部 389 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 419 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
@@ -9,9 +9,9 @@
 - [Seedance 2.5](./gallery-seedance-2-5.zh.md) - 43 条.
 - [Seedance 2.0 · 第 1/2 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–96 条，共 130 条.
 - [Seedance 2.0 · 第 2/2 页](./gallery-seedance-2-0-part-2.zh.md) - 第 97–130 条，共 130 条.
-- [Seedance（未标版本） · 第 1/3 页](./gallery-seedance-unversioned-part-1.zh.md) - 第 1–96 条，共 216 条.
-- [Seedance（未标版本） · 第 2/3 页](./gallery-seedance-unversioned-part-2.zh.md) - 第 97–182 条，共 216 条.
-- [Seedance（未标版本） · 第 3/3 页](./gallery-seedance-unversioned-part-3.zh.md) - 第 183–216 条，共 216 条.
+- [Seedance（未标版本） · 第 1/3 页](./gallery-seedance-unversioned-part-1.zh.md) - 第 1–94 条，共 246 条.
+- [Seedance（未标版本） · 第 2/3 页](./gallery-seedance-unversioned-part-2.zh.md) - 第 95–190 条，共 246 条.
+- [Seedance（未标版本） · 第 3/3 页](./gallery-seedance-unversioned-part-3.zh.md) - 第 191–246 条，共 246 条.
 
 ## 仓库里的其他入口
 
@@ -31,8 +31,8 @@
 - [Create a 30-second, 1080p ultra-realistic personal home-video showing…](./gallery-seedance-unversioned-part-1.zh.md#create-a-30-second-1080p-ultra-realistic-personal-home-video-showing) - That Baddie again Say NO to Hollywood and YES to AI Seedance 2.5 Prompt : Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordin…
 - [Create a 30-second, 1080p ultra-realistic emotional live-action scene…](./gallery-seedance-unversioned-part-1.zh.md#create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene) - Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
 - [Seedance 原生 UGC 竖屏手机跟拍短片](./gallery-seedance-unversioned-part-1.zh.md#seedance-原生-ugc-竖屏手机跟拍短片) - Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
-- [金发少女在高中走廊释放超能力](./gallery-seedance-unversioned-part-1.zh.md#金发少女在高中走廊释放超能力) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 - [Seedance 2.5 印尼女生日常写实短片](./gallery-seedance-unversioned-part-1.zh.md#seedance-25-印尼女生日常写实短片) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
+- [金发少女在高中走廊释放超能力](./gallery-seedance-unversioned-part-1.zh.md#金发少女在高中走廊释放超能力) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 - [智能手机拍摄的海滩一日游回忆](./gallery-seedance-2-0-part-1.zh.md#智能手机拍摄的海滩一日游回忆) - 一段关于阳光明媚海滩一日游的随性智能手机家庭录像提示词，包含跳剪效果和真实的手机手持晃动感。
 
 ← [返回 README](../README_zh.md)

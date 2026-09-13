@@ -1,9 +1,9 @@
 {
-  "cases": 389,
+  "cases": 419,
   "seedance25": 43,
   "seedance20": 130,
-  "unversioned": 216,
-  "authors": 156,
+  "unversioned": 246,
+  "authors": 158,
   "retestRuns": 257,
   "retestCases": 247,
   "stabilityCases": 245,
