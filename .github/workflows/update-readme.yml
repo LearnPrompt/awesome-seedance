@@ -28,7 +28,7 @@ jobs:
           node-version: "20"
 
       - name: Run tests
-        run: node --test scripts/lib/render.test.mjs
+        run: node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs
 
       - name: Generate README and Skill reference
         run: |
@@ -39,8 +39,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # gallery 已分片为 docs/gallery-seedance-2-0-part-N.md，不再是单文件，改为整个目录一起 add
-          git add README.md README_zh.md docs/ agents/
+          # gallery 已分片为 docs/gallery-*.md，不再是单文件，改为整个目录一起 add；
+          # assets/hero.svg 与 data/stats.json 也由生成器产出（横幅数字、动态徽章数据源）
+          git add README.md README_zh.md README_ja.md docs/ agents/ assets/hero.svg data/stats.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

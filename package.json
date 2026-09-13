@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs",
-    "test": "node --test scripts/lib/render.test.mjs"
+    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs"
   },
   "license": "MIT",
   "repository": {

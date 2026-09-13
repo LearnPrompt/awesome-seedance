@@ -1,0 +1,533 @@
+[English](./README.md) | [中文](./README_zh.md) | **[日本語](./README_ja.md)**
+
+[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
+
+# Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ: 419 ケースをすべて元投稿と照合、257 回のクロスモデル再テスト、14 個の再利用可能テンプレート、インストール可能な Agent Skill 1 つ。goodcase.ai から同期し、新しいケースが毎日追加されます。**
+
+[![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-all-prompts) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-cross-model-retests) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-prompt-templates) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
+
+プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)
+
+## クイックリンク
+
+アセットへ直接ジャンプ。下の目次はこのページのセクション一覧です。
+
+- [ギャラリー索引](./docs/gallery.ja.md) - 全 419 ケースのプロンプト全文、全ページをここから。
+- [Seedance 2.5](./docs/gallery-seedance-2-5.ja.md) - 43 件.
+- [Seedance 2.0、Part 1/2](./docs/gallery-seedance-2-0-part-1.ja.md) - 1–96 件目.
+- [Seedance 2.0、Part 2/2](./docs/gallery-seedance-2-0-part-2.ja.md) - 97–130 件目.
+- [Seedance（バージョン未記載）、Part 1/3](./docs/gallery-seedance-unversioned-part-1.ja.md) - 1–93 件目.
+- [Seedance（バージョン未記載）、Part 2/3](./docs/gallery-seedance-unversioned-part-2.ja.md) - 94–189 件目.
+- [Seedance（バージョン未記載）、Part 3/3](./docs/gallery-seedance-unversioned-part-3.ja.md) - 190–246 件目.
+- [プロンプトテンプレート](#-prompt-templates) - 6 カテゴリ、14 個の再利用可能な構造。
+- [Agent Skill](./agents/skills/seedance-prompt-library/) - `npx seedance-prompt-library install` で Claude Code / Codex に導入。
+- [goodcase.ai のライブサイト](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - 検索、ヒートランキング、安定度ランキング、再テスト記録。
+- [コントリビュート](./contributing.md) - ケースの投稿方法と PR の出し方。
+- [ライセンス](#license) - コードは MIT、キュレーションは CC BY 4.0、プロンプトの権利は作者に帰属。
+
+## 目次
+
+- [インストール](#インストール)
+- [このリストの特徴](#このリストの特徴)
+- [🔁 クロスモデル再テスト](#-クロスモデル再テスト)
+- [⭐ 注目ケース](#-注目ケース)
+- [🗂️ カテゴリ一覧](#-カテゴリ一覧)
+- [🧩 プロンプトテンプレート](#-プロンプトテンプレート)
+- [🔥 ヒート Top 30](#-ヒート-top-30)
+- [🎬 全プロンプト](#-全プロンプト)
+- [🌐 goodcase.ai で閲覧](#-goodcaseai-で閲覧)
+- [統計](#統計)
+- [🚀 このリポジトリの使い方](#-このリポジトリの使い方)
+- [コントリビュート](#コントリビュート)
+- [🙏 謝辞](#-謝辞)
+- [著作権と削除申請](#著作権と削除申請)
+- [Star History](#star-history)
+- [License](#license)
+## インストール
+
+```bash
+npx seedance-prompt-library install
+```
+
+`seedance-prompt-library` Agent Skill を Claude Code と Codex にインストールします。エージェントが構造化されたプロンプトテンプレートを引き、エディタ内で直接 Seedance プロンプトを書けるようになります。[skills CLI](https://github.com/vercel-labs/skills) 派なら `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` で同じ Skill が入ります。
+
+## このリストの特徴
+
+**元投稿と人手で照合済み。** ここにあるプロンプトはすべて作者の元投稿と突き合わせています。出力動画から逆算しただけで出典も投稿もないプロンプトは、[goodcase.ai の収録基準](https://goodcase.ai/standards)（2026-08-05 施行）に従い一律で却下します。
+
+**別モデルで再生成済み。** 大半のケースは別の動画モデルで再生成し、判定・スコア・出力を公開しています。[クロスモデル再テスト](#-クロスモデル再テスト)を参照。
+
+**全エントリに完全な出典。** 作者、元投稿リンク、公開日、そして同一プラットフォーム上の公開ケースにおける相対パーセンタイルであるヒートスコア。ランクインしなかったものはここにありません。
+
+**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実証済みの構造から Seedance プロンプトを書きます。
+
+## 🔁 クロスモデル再テスト
+
+**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** ここに掲載された 247 ケースが再テスト済み（累計 257 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
+
+| モデル                 | 回数  | 再現率 |
+| ------------------- | --- | --- |
+| MiniMax H3 Max 768p | 246 | 73% |
+| MiniMax H3 768p     | 11  | 82% |
+
+全実行の判定内訳: ✅ 188 再現 · ⚠️ 66 劣化 · ❌ 3 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
+
+**同じプロンプト、別のモデル。** 3 つの例。うち 1 つは持ちこたえられなかったものです:
+
+| ケース                                                                                                   | オリジナル（Seedance）                                                                                                                                                                                    | 再テスト                                                                                                                                                        | 判定               |
+| ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [首尔夏夜 Vlog](https://goodcase.ai/cases/vlog-c8171f712492)<br>2.5 · ヒート 99                              | [<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="160" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)                                                | MiniMax H3 Max 768p<br>[▶ 出力動画](https://media.goodcase.ai/retests/vlog-c8171f712492/video-minimax-h3-768p-20260907-phase1/generated.mp4)                    | ✅ 再現 (スコア 75.7)  |
+| [mini DV 咖啡 ASMR vlog](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)<br>2.5 · ヒート 99 | [<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="160" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) | MiniMax H3 Max 768p<br>[▶ 出力動画](https://media.goodcase.ai/retests/seedance-25-minidv-coffee-asmr-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)  | ✅ 再現 (スコア 77.3)  |
+| [复古餐厅时间冻结与倒放](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)<br>2.5 · ヒート 100        | [<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="160" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)        | MiniMax H3 Max 768p<br>[▶ 出力動画](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4) | ⚠️ 劣化 (スコア 63.9) |
+
+[<img src="./assets/goodcase-retest-evidence.png" width="800" alt="goodcase.ai のケースページにある再テスト証拠ブロック">](https://goodcase.ai/cases/vlog-c8171f712492)
+
+再テストは毎回、実費の推論コストがかかります。これまで 257 回で US$300 超（定価ベース、割引なし。誰が再現しても同じ金額です）。結果が良くても悪くてもそのまま公開します。 Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)
+
+## ⭐ 注目ケース
+
+全 Seedance バージョンを通じたヒートスコア上位 6 件。長いプロンプトは折りたたんであります。クリックで展開。
+
+### 复古餐厅时间冻结与倒放
+
+> 一份 30 秒的时间冻结加倒放脚本：咖啡打翻的瞬间被锁死，镜头绕悬浮液带走完整圈，再让所有人和物倒回原位，最后一个招手把事故消解掉。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2083389002552664385) | **公開日:** 2026-08-01 | **ヒート:** 100
+
+**安定度:** 64/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 63.9) · [出力](https://media.goodcase.ai/retests/seedance-25-diner-frozen-time-rewind/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（13 行、クリックで展開）</b></summary>
+
+```
+Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
+
+### 首尔夏夜 Vlog
+
+> 一份详尽的脚本式提示词，用于创作一段展现首尔夏夜怀旧家庭录像风格的视频。
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)
+
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2092971211169100048) | **公開日:** 2026-08-27 | **ヒート:** 99
+
+**安定度:** 76/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 75.7) · [出力](https://media.goodcase.ai/retests/vlog-c8171f712492/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image. MAIN SUBJECT Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and approachable personality. Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video. SETTING A quiet older Seoul residential neighborhood during a warm summer evening. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires, a tiny neighborhood bakery, a public water tap and large leafy trees casting shadows across the street. Everything should feel lived-in, ordinary and peaceful. CAMERA / VISUAL AESTHETIC Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections. — OUTSIDE THE HOUSE She steps outside carrying a small reusable shopping bag. She locks the door, adjusts her messy ponytail and looks toward the camera with a relaxed smile. — BAKERY STOP She reaches a tiny neighborhood bakery and buys a warm pastry. She steps outside, takes her first bite and immediately smiles because it tastes good. She notices her friend filming and holds the pastry toward the camera playfully before taking another bite. — WALKING HOME She continues down the narrow street while eating. A neighborhood cat follows her for a few steps. She notices it, crouches down and gently pets it. — SMALL ACCIDENT She walks beneath a large tree when a few leaves fall onto her hair. She stops, looks confused, then realizes what happened and laughs. — QUIET MOMENT She reaches a low concrete wall beside the street and sits down for a moment. — FINAL MOMENT She stands up and continues walking home.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-c8171f712492)**
+
+### 双人 K-pop MV 逐镜分镜
+
+> 把 30 秒切成十几段两到四秒的镜头，每段写死机位、景别、背景和动作，两个女生用粉发和黑发做外观锚点贯穿全片。值钱的是这套时间码排镜法。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2083422886686031982) | **公開日:** 2026-08-01 | **ヒート:** 99
+
+**安定度:** 74/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.2) · [出力](https://media.goodcase.ai/retests/seedance-25-kpop-mv-dual-idol/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)**
+
+### mini DV 咖啡 ASMR vlog
+
+> 用家用摄像机的缺陷反向做真实感：手抖、来回找焦、曝光漂移、磁带颗粒全写进提示词，再配一份 ASMR 声音清单和每段三秒的分镜节奏。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)
+
+**作者:** @Strength04_X | **出典:** [元投稿](https://x.com/Strength04_X/status/2083094742682787939) | **公開日:** 2026-07-31 | **ヒート:** 99
+
+**安定度:** 77/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/seedance-25-minidv-coffee-asmr-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+SUBJECT: Young man in his mid-20s, plain t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+→ (3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+→ (3s, close-up) Tamps the grounds down firmly and evenly.
+→ (3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+→ (3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+→ (3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+→ (3s, macro shot) Steam wand hissing as it froths the milk.
+→ (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+→ (3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+→ (3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)**
+
+### Create a 30-second, 1080p ultra-realistic personal home-video showing…
+
+> That Baddie again Say NO to Hollywood and YES to AI Seedance 2.5 Prompt : Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordin…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.jpg" width="600" alt="Create a 30-second, 1080p ultra-realistic personal home-video showing…">](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe)
+
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2096095608268280198) | **公開日:** 2026-09-05 | **ヒート:** 99
+
+<details>
+<summary><b>プロンプト全文（59 行、クリックで展開）</b></summary>
+
+```
+Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman. No reference image.
+MAIN SUBJECT
+Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and confident personality.
+Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace.
+Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+SETTING
+A quiet older Seoul residential neighborhood during a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires, laundry hanging outside homes, a tiny convenience store and children playing football in the street.
+Everything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.
+CAMERA / VISUAL AESTHETIC
+Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
+Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.
+No stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.
+— OUTSIDE THE HOUSE
+She steps outside carrying a small reusable shopping bag.
+She locks the door, adjusts her messy ponytail and gives the camera a relaxed smile.
+She starts walking down the narrow neighborhood lane.
+A light summer breeze moves her hair naturally.
+— MEETING THE SCHOOL CHILDREN
+A few school children wearing backpacks come walking toward her from the opposite direction.
+She recognizes them from the neighborhood.
+She smiles, raises her hand and says:
+“Hey, aren't you guys late?”
+The children laugh and continue walking toward school.
+One child briefly waves back at her.
+She laughs and continues down the street.
+— CHILDREN PLAYING FOOTBALL
+A little farther down the lane, several neighborhood children are playing football in the street.
+The ball rolls toward her and stops directly in front of her feet.
+She looks down at the ball.
+Then looks toward the children.
+One child calls out:
+“Noona! Kick it!”
+She smiles.
+She gently places one foot beside the ball.
+She gives the football one playful kick back toward the children.
+The ball rolls smoothly along the concrete toward them.
+The children excitedly chase after it.
+She laughs and continues walking.
+The football remains with the children after she kicks it. It does not disappear, duplicate or suddenly return to her.
+— QUIET WALK HOME
+She continues walking toward the end of the lane.
+She passes a small public water tap and stops briefly to rinse her hands.
+She shakes the water from her fingers, fixes a loose strand of hair and looks toward the camera.
+A bicycle passes behind her.
+She smiles and starts walking again.
+— FINAL MOMENT
+She reaches the corner of the neighborhood.
+The children are now playing football farther behind her.
+She turns around and watches them for a moment.
+One of the children notices the camera and waves.
+She waves back.
+She turns toward the camera with a small playful smile and says:
+“See you tomorrow.”
+She continues walking home.
+The camera follows behind her as she disappears around the corner.
+The recording abruptly cuts to black.
+AUDIO
+Natural location sound only: children shouting and laughing, football bouncing against concrete, footsteps, birds, summer insects, bicycle bells, distant scooters, neighborhood conversations, leaves moving in the breeze and subtle camera-handling noise.
+No music. No narration. Only the two spoken lines specified above.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe)**
+
+### Create a 30-second, 1080p ultra-realistic emotional live-action scene…
+
+> Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
+
+[<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="600" alt="Create a 30-second, 1080p ultra-realistic emotional live-action scene…">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)
+
+**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2096439253970395531) | **公開日:** 2026-09-06 | **ヒート:** 95
+
+<details>
+<summary><b>プロンプト全文（54 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discovering her boyfriend kissing another woman inside a quiet café. Focus entirely on authentic human emotion, natural crying, subtle facial expressions and believable body language. No melodrama or exaggerated acting.
+MAIN CHARACTER
+Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, long black hair loosely styled, wearing a fitted pastel-pink top, casual denim shorts and simple sneakers.
+Maintain the exact same face, hairstyle, outfit, body proportions and appearance throughout the entire scene.
+LOCATION
+A cozy modern café on a rainy evening. Warm interior lighting, large windows covered with rain droplets, wooden tables, soft background chatter, cups and plates, a few customers quietly talking.
+SCENE
+She enters the café carrying a small handbag, casually looking around for her boyfriend.
+She suddenly notices him sitting at a table near the window.
+He is kissing another young woman.
+She immediately stops walking.
+Her expression changes from confusion to disbelief.
+She slowly lowers her handbag.
+She stares at them silently for a few seconds, struggling to process what she is seeing.
+Her eyes begin to fill with tears.
+Show realistic tears naturally forming along her lower eyelids, then slowly rolling down her cheeks. No exaggerated crying.
+She takes a shaky breath.
+She walks toward their table.
+Her boyfriend notices her.
+His expression immediately changes to shock.
+The other woman turns around and becomes uncomfortable.
+The girlfriend looks directly at him with trembling eyes and quietly says:
+“How could you do this to me?”
+Her voice cracks naturally.
+She wipes one tear from her cheek, but more tears continue falling.
+Her boyfriend stands up and tries to explain.
+She shakes her head and takes a small step backward.
+She says through tears:
+“I trusted you.”
+She looks at him for one final moment.
+Her expression shows heartbreak, disappointment and disbelief rather than anger.
+She turns around and walks toward the café door while quietly crying.
+Her boyfriend takes one step after her but stops.
+She reaches the door, pauses briefly, wipes her face and leaves.
+The camera remains inside the café as the door closes behind her.
+CAMERA / VISUAL STYLE
+Handheld cinematic camera with subtle natural movement. Start with a medium shot following her into the café, then slowly move closer when she notices the couple.
+Use realistic close-ups of her eyes, trembling lips, tears and subtle facial reactions.
+Natural shallow depth of field, realistic skin pores, authentic reflections in the café windows, soft rainy evening light, natural motion blur, 24fps, photorealistic live-action.
+Do not make her crying look beautiful or glamorous. It should look spontaneous, uncomfortable and emotionally real.
+AUDIO
+Rain against the café windows, quiet conversations, cups being placed on tables, distant café ambience, footsteps and subtle breathing.
+No background music.
+No narration.
+Dialogue should sound natural with slight pauses, trembling voice and emotional breathing.
+EMOTIONAL DIRECTION
+The emotion should build gradually:
+confusion → realization → shock → disbelief → tears → confrontation → heartbreak → quiet acceptance.
+Avoid screaming, physical aggression or exaggerated dramatic gestures.
+CONTINUITY / REALISM
+Keep tears physically consistent once they appear. Tears should remain visible on her cheeks and naturally accumulate as she continues crying.
+Maintain consistent clothing, hairstyle, jewelry and facial identity.
+No sudden emotional changes, no disappearing tears, no duplicated people, no changing café layout, no unnatural body movements.
+NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, melodramatic acting, screaming, physical violence, distorted faces, extra fingers, identity drift, outfit changes, CGI
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)**
+
+## 🗂️ カテゴリ一覧
+
+作りたい絵柄から入り、そのカテゴリのテンプレートを開いて再利用可能な構造に落とし込みます。各タイルは下のテンプレートと、その裏付けとなる検証済みケースにリンクしています。
+
+<table>
+<tr>
+<td width="33%" valign="top" align="center"><b>🏗️ Structural foundations</b><br><sub>テンプレート 2 件 · 検証済みケース 8 件</sub><br><br><a href="https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt"><img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="260" alt="Boa Hancock Water Obstacle Race Prompt"></a><br><sub>Cross-cutting skeletons that almost every other template builds on: how to slice a clip into timed beats, and how to pin an identity across those beats.</sub><br><a href="#-structural-foundationsテンプレート-2-件">テンプレートを見る</a> · <a href="https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt">トップケース</a></td>
+<td width="33%" valign="top" align="center"><b>📱 Realism and UGC</b><br><sub>テンプレート 2 件 · 検証済みケース 8 件</sub><br><br><a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="260" alt="mini DV 咖啡 ASMR vlog"></a><br><sub>Templates that buy believability by describing camera flaws, body wear and consumer-grade optics instead of asking for quality.</sub><br><a href="#-realism-and-ugcテンプレート-2-件">テンプレートを見る</a> · <a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog">トップケース</a></td>
+<td width="33%" valign="top" align="center"><b>🛍️ Commercial and product</b><br><sub>テンプレート 3 件 · 検証済みケース 11 件</sub><br><br><a href="https://goodcase.ai/cases/case-e53b614b0f42"><img src="https://media.goodcase.ai/media/poster/case-e53b614b0f42.jpg" width="260" alt="阿马尔菲海岸奢华珠宝广告"></a><br><sub>Ad-shaped structures where a product has to survive macro shots, hand contact and a hero frame without deforming.</sub><br><a href="#-commercial-and-productテンプレート-3-件">テンプレートを見る</a> · <a href="https://goodcase.ai/cases/case-e53b614b0f42">トップケース</a></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><b>🎭 Narrative and performance</b><br><sub>テンプレート 2 件 · 検証済みケース 8 件</sub><br><br><a href="https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951"><img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="260" alt="Nano Banana + Seedance 2.5 六十秒高中初恋微电影"></a><br><sub>Templates where the payload is a story beat or a line of dialogue rather than a look.</sub><br><a href="#-narrative-and-performanceテンプレート-2-件">テンプレートを見る</a> · <a href="https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951">トップケース</a></td>
+<td width="33%" valign="top" align="center"><b>🎨 Stylized animation</b><br><sub>テンプレート 2 件 · 検証済みケース 8 件</sub><br><br><a href="https://goodcase.ai/cases/case-69e5879cc5a7"><img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="260" alt="定格动画：狼群袭击序列"></a><br><sub>Non-photoreal looks that collapse into generic CG unless the style is specified as measurable parameters plus an exclusion list.</sub><br><a href="#-stylized-animationテンプレート-2-件">テンプレートを見る</a> · <a href="https://goodcase.ai/cases/case-69e5879cc5a7">トップケース</a></td>
+<td width="33%" valign="top" align="center"><b>💥 Action, dance and effects</b><br><sub>テンプレート 3 件 · 検証済みケース 11 件</sub><br><br><a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="260" alt="复古餐厅时间冻结与倒放"></a><br><sub>Templates driven by body mechanics, beat placement or a physics set-piece rather than by scene description.</sub><br><a href="#-action-dance-and-effectsテンプレート-3-件">テンプレートを見る</a> · <a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind">トップケース</a></td>
+</tr>
+</table>
+
+## 🧩 プロンプトテンプレート
+
+高パフォーマンスのケースから抽出した再利用可能なプロンプト構造を、カテゴリ別にまとめました。1 行が 1 テンプレートです。各テンプレートの完全な構造・ポイント・落とし穴は [Skill リファレンス](./agents/skills/seedance-prompt-library/references/style-library.md) にあり、`npx seedance-prompt-library install` で一緒に導入されます。テンプレート本文は英語です。
+
+### 🏗️ Structural foundations（テンプレート 2 件）
+
+Cross-cutting skeletons that almost every other template builds on: how to slice a clip into timed beats, and how to pin an identity across those beats.
+
+| テンプレート                                                                                                                                                                                                                                                                                                                                                                   | 使いどころ                                                                                                                                                                                                         | 例                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[Second-by-second timeline script](./agents/skills/seedance-prompt-library/references/style-library.md#second-by-second-timeline-script)**<br><sub>Split the clip into contiguous timed segments, each carrying one shot type, one main action and its own sound line. The single most load-bearing structure in the corpus.</sub>                                     | Any clip longer than about 8 seconds, or any clip where a specific thing must happen at a specific moment. 63 of 207 cases (30%) use timed segments, and the share rises to 45% among Seedance 2.5 cases.     | [#1](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08) [#2](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22) [#3](https://goodcase.ai/cases/seedance-2-5-f3651857750b) [#4](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt) |
+| **[Reference image identity lock](./agents/skills/seedance-prompt-library/references/style-library.md#reference-image-identity-lock)**<br><sub>Name every reference with a stable token, enumerate what to inherit from it, and separately enumerate what must not be inherited. The inherit-nothing-else clause is what separates working locks from broken ones.</sub> | Any clip where a face, an outfit, a product or a UI layout must survive across shots. Applies to Seedance 2.0 and 2.5 alike; 2.5 additionally accepts audio and video references under the same token scheme. | [#1](https://goodcase.ai/cases/elsasofia-ai-seedance-ai-e087ab2aed4b) [#2](https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42) [#3](https://goodcase.ai/cases/case-79acf1a3e8a6) [#4](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)       |
+
+### 📱 Realism and UGC（テンプレート 2 件）
+
+Templates that buy believability by describing camera flaws, body wear and consumer-grade optics instead of asking for quality.
+
+| テンプレート                                                                                                                                                                                                                                                                                                               | 使いどころ                                                                                                                                                                           | 例                                                                                                                                                                                                                                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Handheld UGC vlog](./agents/skills/seedance-prompt-library/references/style-library.md#handheld-ugc-vlog)**<br><sub>Buy believability with camera defects. Name a specific consumer camera era, list its flaws as requirements, and switch cinematic polish off by hand.</sub>                                    | Personal-feeling footage: daily life, travel, gym, cooking, get-ready-with-me. Use it whenever the goal is looks like someone actually filmed this rather than looks expensive. | [#1](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) [#2](https://goodcase.ai/cases/16mm-analog-morning-vlog) [#3](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9) [#4](https://goodcase.ai/cases/seedance-2-5-eba905fedcff) |
+| **[First-person continuous take](./agents/skills/seedance-prompt-library/references/style-library.md#first-person-continuous-take)**<br><sub>Bodycam, GoPro, FPV and handlebar POV. The camera is mounted on a body, so its motion has to be derived from that body, and every cut has to be declared by hand.</sub> | Immersive footage where the viewer is the operator: tactical entry, action sports, cooking from the cook's eyes, drone flight. 32 of 207 cases sit here.                        | [#1](https://goodcase.ai/cases/seedance-2-5-d68024212dfc) [#2](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) [#3](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc) [#4](https://goodcase.ai/cases/fpv-cd4a852a53ba)                       |
+
+### 🛍️ Commercial and product（テンプレート 3 件）
+
+Ad-shaped structures where a product has to survive macro shots, hand contact and a hero frame without deforming.
+
+| テンプレート                                                                                                                                                                                                                                                                                                                                                       | 使いどころ                                                                                                                                           | 例                                                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[UGC creator review with spoken lines](./agents/skills/seedance-prompt-library/references/style-library.md#ugc-creator-review-with-spoken-lines)**<br><sub>A creator unboxes, handles and endorses a product on camera. Two independent locks are needed — one on the person, one on the product — and the spoken lines are welded into the actions.</sub> | Affiliate-style product videos, unboxings and creator reviews where the product must stay recognisable while being picked up, rotated and worn. | [#1](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106) [#2](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9) [#3](https://goodcase.ai/cases/case-b157d9c072bc)                                            |
+| **[Cinematic product commercial shot list](./agents/skills/seedance-prompt-library/references/style-library.md#cinematic-product-commercial-shot-list)**<br><sub>A polished 8 to 20 second ad: a stated commercial aesthetic up front, a numbered or timed shot breakdown in the middle, a hero frame at the end, and a keyword tail.</sub>                  | Beauty, beverage, jewellery, automotive and fragrance spots where the look has to read as paid production rather than as a creator video.       | [#1](https://goodcase.ai/cases/luxury-skincare-commercial) [#2](https://goodcase.ai/cases/case-e53b614b0f42) [#3](https://goodcase.ai/cases/crimson-cola-99e9ec88e937) [#4](https://goodcase.ai/cases/case-7aea1313f63b) |
+| **[Process and transformation montage](./agents/skills/seedance-prompt-library/references/style-library.md#process-and-transformation-montage)**<br><sub>Cooking steps, renovation timelapse, blueprint-to-house, miniature city assembly. The craft here is declaring what must not change, then ordering the change spatially.</sub>                       | Any clip whose subject is a process rather than a person: recipes, builds, assemblies, before-and-after reveals. 35 cases in the corpus.        | [#1](https://goodcase.ai/cases/case-429309e40d97) [#2](https://goodcase.ai/cases/case-778d0c927488) [#3](https://goodcase.ai/cases/case-8bdac964f9d4) [#4](https://goodcase.ai/cases/case-179a06586ce5)                  |
+
+### 🎭 Narrative and performance（テンプレート 2 件）
+
+Templates where the payload is a story beat or a line of dialogue rather than a look.
+
+| テンプレート                                                                                                                                                                                                                                                                                                                       | 使いどころ                                                                                                                                                                                                                         | 例                                                                                                                                                                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Dialogue and performance beats](./agents/skills/seedance-prompt-library/references/style-library.md#dialogue-and-performance-beats)**<br><sub>Declare the spoken language, tag the speaker, write the reaction as a causal chain rather than a list of expressions, and close each beat with an explicit end state.</sub> | Whenever a line has to be heard rather than implied. 78 of 207 cases carry quoted dialogue inline (38%), and 16 explicitly manage lip sync. Seedance 2.5 additionally supports driving lip sync from an uploaded audio track. | [#1](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer) [#2](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9) [#3](https://goodcase.ai/cases/case-1f8136a9893a) [#4](https://goodcase.ai/cases/case-a845e1418b39)                          |
+| **[Cinematic narrative short](./agents/skills/seedance-prompt-library/references/style-library.md#cinematic-narrative-short)**<br><sub>Multi-act storytelling in 15 to 60 seconds. Titled acts, a character card ahead of the acts, and a reveal written as a concrete image rather than as a promise of surprise.</sub>     | Trailers, mini-dramas, disaster set pieces, sci-fi mysteries and romance shorts — anything where the viewer should follow a plot rather than admire a look.                                                                   | [#1](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951) [#2](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100) [#3](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) [#4](https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus) |
+
+### 🎨 Stylized animation（テンプレート 2 件）
+
+Non-photoreal looks that collapse into generic CG unless the style is specified as measurable parameters plus an exclusion list.
+
+| テンプレート                                                                                                                                                                                                                                                                                                                                                       | 使いどころ                                                                                                                                                            | 例                                                                                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Anime and stylized style lock](./agents/skills/seedance-prompt-library/references/style-library.md#anime-and-stylized-style-lock)**<br><sub>Specify the drawing style as measurable parameters, then attach an exclusion list of the neighbouring styles it must not fall into. Without the exclusion list, anime collapses into a generic 3D face.</sub> | Cel-look action, Ghibli-flavoured slice of life, 3D toon RPG battles, 2D hand-drawn cooking. Roughly a quarter of the corpus is stylized animation of some kind. | [#1](https://goodcase.ai/cases/case-a9ab0266f96a) [#2](https://goodcase.ai/cases/case-a45446378e2a) [#3](https://goodcase.ai/cases/case-c32e6c3bb2c5) [#4](https://goodcase.ai/cases/case-ce63bf146d4e) |
+| **[Stop motion and stepped cadence](./agents/skills/seedance-prompt-library/references/style-library.md#stop-motion-and-stepped-cadence)**<br><sub>Stop motion is a timing spec before it is a look. Pin the frame rate and the hold count, name the craft material, and ban the three things that silently smooth it away.</sub>                            | Claymation, paper-cut, moving-oil-painting, collage and tabletop object animation. 24 cases in the corpus sit in this family.                                    | [#1](https://goodcase.ai/cases/case-69e5879cc5a7) [#2](https://goodcase.ai/cases/case-b079faa80f0f) [#3](https://goodcase.ai/cases/case-0287a838e662) [#4](https://goodcase.ai/cases/case-50ba683413ff) |
+
+### 💥 Action, dance and effects（テンプレート 3 件）
+
+Templates driven by body mechanics, beat placement or a physics set-piece rather than by scene description.
+
+| テンプレート                                                                                                                                                                                                                                                                                                                                                                                                                                        | 使いどころ                                                                                                                                                                               | 例                                                                                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Combat choreography](./agents/skills/seedance-prompt-library/references/style-library.md#combat-choreography)**<br><sub>Fights read as real when the prompt specifies biomechanics, contact points and an attack chain. Adjectives like epic produce two people swinging at air.</sub>                                                                                                                                                     | Martial arts, swordplay, street fights, superhero traversal and stunt sequences. 40 cases in the corpus, split fairly evenly between live-action and anime treatments.              | [#1](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0) [#2](https://goodcase.ai/cases/yourplugai-seedance-ai-fb797edfc8e4) [#3](https://goodcase.ai/cases/case-f7e7c1862f38) [#4](https://goodcase.ai/cases/case-1a9a2c659866)                 |
+| **[Beat-synced music video](./agents/skills/seedance-prompt-library/references/style-library.md#beat-synced-music-video)**<br><sub>Derive beat anchors from BPM, pin every cut, hair flip and formation change to a real downbeat, and constrain the backup dancers so they never steal the visual centre.</sub>                                                                                                                              | K-pop MVs, dance covers, beat-cut fitness edits and club performance clips. Use the audio-anchored variant only on Seedance 2.5, which accepts an audio track as an input modality. | [#1](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop) [#2](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol) [#3](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8) [#4](https://goodcase.ai/cases/vibrant-k-pop-stage-performance) |
+| **[Time freeze and rewind set piece](./agents/skills/seedance-prompt-library/references/style-library.md#time-freeze-and-rewind-set-piece)**<br><sub>A five-beat skeleton — normal, collision, freeze at the peak, orbit, precise rewind — with exactly one character exempt from the freeze. The corpus contains the same author reusing this skeleton with a different physical material, which is direct evidence that it transfers.</sub> | Short high-engagement set pieces built on a physics spectacle rather than a plot. The diner version is the single highest-engagement case in the whole corpus.                      | [#1](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind) [#2](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze) [#3](https://goodcase.ai/cases/90s-diner-time-freeze-effect)                                                       |
+
+## 🔥 ヒート Top 30
+
+全バージョンでヒートが高い 30 件（1–6 位は上の ⭐ 注目ケースにも全文掲載）。*プロンプト* はギャラリーの完全なエントリ、*元投稿* は作者のオリジナル投稿を開きます。
+
+| #   | プレビュー                                                                                                                                                                                                                                                                                                                                                                                | ケース                                                                                                                                                                                                      | バージョン | ヒート | 再テスト             | リンク                                                                                                                                                                                            |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | --- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="120" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)                                                                                                                                                                                          | [复古餐厅时间冻结与倒放](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)                                                                                                                            | 2.5   | 100 | ⚠️ 劣化 (スコア 63.9) | [プロンプト](./docs/gallery-seedance-2-5.ja.md#复古餐厅时间冻结与倒放) · [元投稿](https://x.com/techhalla/status/2083389002552664385)                                                                             |
+| 2   | [<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="120" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)                                                                                                                                                                                                                                  | [首尔夏夜 Vlog](https://goodcase.ai/cases/vlog-c8171f712492)                                                                                                                                                 | 2.5   | 99  | ✅ 再現 (スコア 75.7)  | [プロンプト](./docs/gallery-seedance-2-5.ja.md#首尔夏夜-vlog) · [元投稿](https://x.com/AIwithkhan/status/2092971211169100048)                                                                              |
+| 3   | [<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="120" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)                                                                                                                                                                                                   | [双人 K-pop MV 逐镜分镜](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)                                                                                                                              | 2.5   | 99  | ⚠️ 劣化 (スコア 74.2) | [プロンプト](./docs/gallery-seedance-2-5.ja.md#双人-k-pop-mv-逐镜分镜) · [元投稿](https://x.com/Just_sharon7/status/2083422886686031982)                                                                     |
+| 4   | [<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="120" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)                                                                                                                                                                                   | [mini DV 咖啡 ASMR vlog](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)                                                                                                                    | 2.5   | 99  | ✅ 再現 (スコア 77.3)  | [プロンプト](./docs/gallery-seedance-2-5.ja.md#mini-dv-咖啡-asmr-vlog) · [元投稿](https://x.com/Strength04_X/status/2083094742682787939)                                                                 |
+| 5   | [<img src="https://media.goodcase.ai/media/poster/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.jpg" width="120" alt="Create a 30-second, 1080p ultra-realistic personal home-video showing…">](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe) | [Create a 30-second, 1080p ultra-realistic personal home-video showing…](https://goodcase.ai/cases/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe)  | 未記載   | 99  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#create-a-30-second-1080p-ultra-realistic-personal-home-video-showing) · [元投稿](https://x.com/AIwithkhan/status/2096095608268280198)    |
+| 6   | [<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="120" alt="Create a 30-second, 1080p ultra-realistic emotional live-action scene…">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)                                                                                              | [Create a 30-second, 1080p ultra-realistic emotional live-action scene…](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b) | 未記載   | 95  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene) · [元投稿](https://x.com/AIwithSynthia/status/2096439253970395531) |
+| 7   | [<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="120" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                                                                                                                               | [Seedance 原生 UGC 竖屏手机跟拍短片](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                                                                | 未記載   | 95  | ⚠️ 劣化 (スコア 71.2) | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-原生-ugc-竖屏手机跟拍短片) · [元投稿](https://x.com/mightyking/status/2089299068514148655)                                                |
+| 8   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                                                                                                    | [Seedance 2.5 印尼女生日常写实短片](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                                   | 未記載   | 95  | ✅ 再現 (スコア 77.5)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-25-印尼女生日常写实短片) · [元投稿](https://x.com/RishuaVR/status/2089204108175741157)                                                    |
+| 9   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                                                                                                                     | [金发少女在高中走廊释放超能力](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                                                        | 未記載   | 94  | ✅ 再現 (スコア 81.6)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#金发少女在高中走廊释放超能力) · [元投稿](https://x.com/AiwithElisia/status/2092119695201837059)                                                        |
+| 10  | [<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="120" alt="智能手机拍摄的海滩一日游回忆">](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                                                                                                                                     | [智能手机拍摄的海滩一日游回忆](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                                                                | 2.0   | 93  | -                | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#智能手机拍摄的海滩一日游回忆) · [元投稿](https://x.com/Goodmanprotocol/status/2079189509586260101)                                                             |
+| 11  | [<img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="120" alt="狐狸在森林溪流边自拍漫游">](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259)                                                                                                                                                                                               | [狐狸在森林溪流边自拍漫游](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259)                                                                                                                              | 未記載   | 93  | ⚠️ 劣化 (スコア 74.5) | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#狐狸在森林溪流边自拍漫游) · [元投稿](https://x.com/MrDasOnX/status/2089969922617266257)                                                              |
+| 12  | [<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="120" alt="不会有人认为这是真的吧？😄">](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                                                                                                                                                     | [不会有人认为这是真的吧？😄](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                                                                        | 未記載   | 92  | ⚠️ 劣化 (スコア 50.9) | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#不会有人认为这是真的吧) · [元投稿](https://x.com/johnAGI168/status/2095025524586193105)                                                             |
+| 13  | [<img src="https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg" width="120" alt="Use the uploaded reference image as the exact character reference">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf)                              | [Use the uploaded reference image as the exact character reference](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf)                   | 未記載   | 92  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#use-the-uploaded-reference-image-as-the-exact-character-reference) · [元投稿](https://x.com/AIwithkhan/status/2094997895187673489)       |
+| 14  | [<img src="https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg" width="120" alt="手绘 2D 日本料理动画">](https://goodcase.ai/cases/2d-38a41133eab1)                                                                                                                                                                                                                                   | [手绘 2D 日本料理动画](https://goodcase.ai/cases/2d-38a41133eab1)                                                                                                                                                | 2.0   | 91  | ⚠️ 劣化 (スコア 55.9) | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#手绘-2d-日本料理动画) · [元投稿](https://x.com/riotboy2024/status/2092217560788000816)                                                                   |
+| 15  | [<img src="https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg" width="120" alt="电影感巴黎时尚广告大片：五镜头街拍">](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear)                                                                                                                                                                          | [电影感巴黎时尚广告大片：五镜头街拍](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear)                                                                                                                 | 2.0   | 90  | ✅ 再現 (スコア 81.8)  | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#电影感巴黎时尚广告大片五镜头街拍) · [元投稿](https://x.com/Just_sharon7/status/2083793251132186998)                                                              |
+| 16  | [<img src="https://media.goodcase.ai/cases/34deb8da196d.jpg" width="120" alt="Seedance 双角色 2D 动漫：小风筝的十四秒冒险">](https://goodcase.ai/cases/lianaalane-seedance-ai-d70d42733c55)                                                                                                                                                                                                         | [Seedance 双角色 2D 动漫：小风筝的十四秒冒险](https://goodcase.ai/cases/lianaalane-seedance-ai-d70d42733c55)                                                                                                            | 未記載   | 90  | ✅ 再現 (スコア 90.4)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-双角色-2d-动漫小风筝的十四秒冒险) · [元投稿](https://x.com/Lianaalane/status/2089563357074559014)                                             |
+| 17  | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-e7e817c4c4b8.jpg" width="120" alt="Seedance 2.0 电影感东亚女性生活方式短片">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-e7e817c4c4b8)                                                                                                                                                                         | [Seedance 2.0 电影感东亚女性生活方式短片](https://goodcase.ai/cases/aiwithelisia-seedance-ai-e7e817c4c4b8)                                                                                                            | 未記載   | 90  | ✅ 再現 (スコア 86.8)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-20-电影感东亚女性生活方式短片) · [元投稿](https://x.com/AiwithElisia/status/2088846290130190784)                                             |
+| 18  | [<img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="120" alt="Boa Hancock Water Obstacle Race Prompt">](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)                                                                                                                                                           | [Boa Hancock Water Obstacle Race Prompt](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)                                                                                               | 2.5   | 89  | ⚠️ 劣化 (スコア 66.3) | [プロンプト](./docs/gallery-seedance-2-5.ja.md#boa-hancock-water-obstacle-race-prompt) · [元投稿](https://x.com/Chengzilhy/status/2087458506123465088)                                                 |
+| 19  | [<img src="https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg" width="120" alt="梅林元素功夫表演">](https://goodcase.ai/cases/real-case-06-aimikoda)                                                                                                                                                                                                                     | [梅林元素功夫表演](https://goodcase.ai/cases/real-case-06-aimikoda)                                                                                                                                              | 2.0   | 89  | -                | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#梅林元素功夫表演) · [元投稿](https://x.com/aimikoda/status/2054460932068200517)                                                                          |
+| 20  | [<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="120" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867)                                                                                                                                                                                              | [猫咪自拍记录温馨的一天](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867)                                                                                                                              | 未記載   | 89  | ⚠️ 劣化 (スコア 70.2) | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#猫咪自拍记录温馨的一天) · [元投稿](https://x.com/ZaraIrahh/status/2091385137133219971)                                                              |
+| 21  | [<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-2a9dc20c947d.jpg" width="120" alt="泥土中诞生的罐中小鸟">](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d)                                                                                                                                                                                               | [泥土中诞生的罐中小鸟](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d)                                                                                                                               | 未記載   | 89  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#泥土中诞生的罐中小鸟) · [元投稿](https://x.com/Yesandyou_/status/2090075447195480403)                                                              |
+| 22  | [<img src="https://media.goodcase.ai/cases/15792e0fa5ef.jpg" width="120" alt="十秒自救的女巫把自己变成了鸭子">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f)                                                                                                                                                                                                                   | [十秒自救的女巫把自己变成了鸭子](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f)                                                                                                                      | 未記載   | 89  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#十秒自救的女巫把自己变成了鸭子) · [元投稿](https://x.com/AIwithNatalia/status/2089170554725265625)                                                      |
+| 23  | [<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="120" alt="Seedance 2.5 超写实微距延时：种子发芽十秒">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85)                                                                                                                                                                              | [Seedance 2.5 超写实微距延时：种子发芽十秒](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85)                                                                                                              | 未記載   | 89  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-25-超写实微距延时种子发芽十秒) · [元投稿](https://x.com/Yesandyou_/status/2088998841395921185)                                               |
+| 24  | [<img src="https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg" width="120" alt="Erling Haaland 黏土动画园艺">](https://goodcase.ai/cases/erling-haaland-525acabe78da)                                                                                                                                                                                                  | [Erling Haaland 黏土动画园艺](https://goodcase.ai/cases/erling-haaland-525acabe78da)                                                                                                                           | 2.0   | 88  | ✅ 再現 (スコア 83.3)  | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#erling-haaland-黏土动画园艺) · [元投稿](https://x.com/noorwithwifi/status/2079818537137475762)                                                         |
+| 25  | [<img src="https://media.goodcase.ai/media/poster/korean-fantasy-romance-drama.jpg" width="120" alt="Korean Fantasy Romance Drama">](https://goodcase.ai/cases/korean-fantasy-romance-drama)                                                                                                                                                                                         | [Korean Fantasy Romance Drama](https://goodcase.ai/cases/korean-fantasy-romance-drama)                                                                                                                   | 2.0   | 88  | ⚠️ 劣化 (スコア 73.7) | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#korean-fantasy-romance-drama) · [元投稿](https://x.com/JuliaClarky/status/2079586851862835248)                                                   |
+| 26  | [<img src="https://media.goodcase.ai/cases/39b33ab9f88e.jpg" width="120" alt="A cinematic 30-second tropical travel vlog montage featuring a…">](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806)                                                                                                    | [A cinematic 30-second tropical travel vlog montage featuring a…](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806)       | 未記載   | 88  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a) · [元投稿](https://x.com/eshal__ai/status/2096840505355370629)           |
+| 27  | [<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="120" alt="Realism that makes ordinary life feel special">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)                                                                                          | [Realism that makes ordinary life feel special](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)                                                           | 未記載   | 88  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#realism-that-makes-ordinary-life-feel-special) · [元投稿](https://x.com/Just_sharon7/status/2096109540924141746)                         |
+| 28  | [<img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="120" alt="Seedance 灾难现场拍还是跑：第一视角短片">](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)                                                                                                                                                                                                           | [Seedance 灾难现场拍还是跑：第一视角短片](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)                                                                                                              | 未記載   | 88  | ✅ 再現 (スコア 79.3)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-灾难现场拍还是跑第一视角短片) · [元投稿](https://x.com/Just_sharon7/status/2089578815219785888)                                               |
+| 29  | [<img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="120" alt="手持感旅行 Vlog：从公寓到海滩">](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)                                                                                                                                                                                          | [手持感旅行 Vlog：从公寓到海滩](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)                                                                                                                         | 2.5   | 87  | -                | [プロンプト](./docs/gallery-seedance-2-5.ja.md#手持感旅行-vlog从公寓到海滩) · [元投稿](https://x.com/BubbleBrain/status/2083659648108990925)                                                                      |
+| 30  | [<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="120" alt="Create a 30-second ultra-cinematic supernatural fantasy sequence…">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)                                                                                                   | [Create a 30-second ultra-cinematic supernatural fantasy sequence…](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)      | 未記載   | 87  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence) · [元投稿](https://x.com/Zyrellix/status/2097594855946113177)          |
+
+## 🎬 全プロンプト
+
+全 419 ケースのプロンプト全文は `docs/` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:
+
+- Seedance 2.5 - 43 件: [全ギャラリー](./docs/gallery-seedance-2-5.ja.md)。
+- Seedance 2.0 - 130 件: [Part 1（1–96 件目）](./docs/gallery-seedance-2-0-part-1.ja.md) · [Part 2（97–130 件目）](./docs/gallery-seedance-2-0-part-2.ja.md)。
+- Seedance（バージョン未記載） - 246 件: [Part 1（1–93 件目）](./docs/gallery-seedance-unversioned-part-1.ja.md) · [Part 2（94–189 件目）](./docs/gallery-seedance-unversioned-part-2.ja.md) · [Part 3（190–246 件目）](./docs/gallery-seedance-unversioned-part-3.ja.md)。
+
+## 🌐 goodcase.ai で閲覧
+
+この README は索引です。フル機能は [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) にあります: 全ケース横断検索、ヒートランキング、安定度ランキング、出力動画付きのケース別再テスト記録、そしてケースから育ったインストール可能な Skill。ここの各エントリは goodcase.ai のレコードにリンクしています。
+
+[<img src="./assets/goodcase-seedance-gallery.png" width="800" alt="goodcase.ai 上の Seedance ケース">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
+
+## 統計
+
+| 指標                 | 値               |
+| ------------------ | --------------- |
+| ケース総数              | 419             |
+| Seedance 2.5       | 43              |
+| Seedance 2.0       | 130             |
+| Seedance（バージョン未記載） | 246             |
+| 作者数                | 158             |
+| 他モデルでの再テスト         | 247 件 / 257 回   |
+| 安定度スコア（測定済み）       | 245 件 / 平均 78.0 |
+| 最終更新               | 2026-09-12      |
+
+各ケースは 1 回だけ数えます。複数の Seedance バージョンが付いたケースは最上位バージョンに計上します。
+
+## 🚀 このリポジトリの使い方
+
+1. [⭐ 注目ケース](#-注目ケース) か [🔥 ヒート Top 30](#-ヒート-top-30) から始めて、作りたいクリップの種類を決めます: vlog、広告、対話、アクション、スタイライズ。
+2. [🗂️ カテゴリ一覧](#%EF%B8%8F-カテゴリ一覧) か完全な[ギャラリー](./docs/gallery.ja.md)でそのカテゴリを開き、近いケースを 2、3 件読んで、まず *構造*（タイムライン、ショットリスト、アイデンティティ固定）を写し、次にスタイル語彙を写します。
+3. Skill をインストール（`npx seedance-prompt-library install`）するか、[テンプレート表](#-プロンプトテンプレート)を開き、自分の被写体・舞台・ビートを対応するテンプレートに流し込みます。予算を使う前にそのケースの再テスト判定を確認してください。
+
+## コントリビュート
+
+**新しいプロンプトケース**は出典とヒートスコアを検証可能に保つため goodcase.ai のレビューパイプラインを通します: [goodcase.ai/submit](https://goodcase.ai/submit) から投稿（収録基準: [goodcase.ai/standards](https://goodcase.ai/standards)）。GitHub 派なら、[`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) に従って [`submissions/`](./submissions/) に JSON を 1 件追加するプルリクエストを開いてください。メンテナが同じレビューに回し、次回のエクスポートで `data/` に入ります。
+
+**プルリクエスト歓迎**: `data/style-library.json` のテンプレート修正、`scripts/` と `agents/` のジェネレータ・Skill コード、英語タイトルや要約の訂正。`README.md`、`README_zh.md`、`README_ja.md`、`docs/`、Skill リファレンスは `data/` から生成されるので手で編集しないでください。ソースを直し、`npm test && npm run generate` を実行し、再生成されたファイルを同じ PR に含めます。投稿基準、却下されるもの、ジェネレータの仕組みは [contributing.md](./contributing.md) を参照。本プロジェクトは[行動規範](./code-of-conduct.md)に従います。
+
+## 🙏 謝辞
+
+本プロジェクトのフォーマットと Skill のパッケージングは以下を参考にしました:
+
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - テンプレートライブラリ + インストール可能 Skill + マーケットプレイスのパターン。
+- [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README をギャラリーにし、エントリごとに出典を付ける方式。
+- [goodcase.ai](https://goodcase.ai) - 本リポジトリの全ケース、ヒートスコア、再テストの出所。
+
+## 著作権と削除申請
+
+本リポジトリには 3 種類の素材があり、それぞれ異なる条件で提供されます。
+
+**コード**（ジェネレータスクリプト、Agent Skill、ツール）は MIT License で公開しています。`LICENSE` ファイルを参照。MIT はコードのみを対象とします。
+
+**キュレーション**（選定、構成、統計、テンプレート抽出、私たちが書いた要約）は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。*awesome-seedance / goodcase.ai* のクレジットを付けて再利用できます。
+
+**プロンプトとメディア**の著作権は元の作者に帰属します。プロンプト本文、作者の要約、ポスター画像、動画参照は、記録と学習のために公開投稿から引用したものです。各エントリは元の出典と goodcase.ai のレコードにリンクしています。元投稿が許す範囲を超えて、プロンプトやメディアそのものに関するライセンスを付与するものではありません。
+
+**削除の手順。** 権利者でエントリの削除や訂正を希望する場合は、そのエントリの slug（goodcase.ai の URL から取得）と元の出典リンクを添えて GitHub issue を開くか、goodcase.ai に直接ご連絡ください。元投稿と照合し、確認できしだい対応します。エントリは `data/` から削除され、次回の再生成ですべての生成ファイルから消えます。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance&Date)
+
+## License
+
+本リポジトリのコードは [MIT License](./LICENSE) のオープンソースです。ライセンス表記を残せば自由に使用・改変・配布・派生できます。キュレーションは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、プロンプトとメディアの権利は作者に帰属します。詳細は上の[著作権と削除申請](#著作権と削除申請)を参照。

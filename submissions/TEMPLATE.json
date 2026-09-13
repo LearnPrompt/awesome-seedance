@@ -1,0 +1,11 @@
+{
+  "$comment": "Copy this file to submissions/<your-slug>.json and fill every field. Keep the prompt exactly as the creator published it. A maintainer pushes the file through goodcase.ai's review; it is deleted from submissions/ once the case is exported into data/ (or rejected, with a reason in the PR).",
+  "title": "Short descriptive title (English or Chinese)",
+  "sourceUrl": "https://x.com/<creator>/status/<id>  (the creator's ORIGINAL post; aggregators are rejected)",
+  "creator": "@handle as shown on the source platform",
+  "sourcePublishedAt": "2026-09-01",
+  "models": ["Seedance 2.5"],
+  "promptFull": "The full prompt text, verbatim from the source post.",
+  "mediaUrl": "https://... direct link to the output video or poster shown in the source post",
+  "notes": "Optional: what makes this case worth including, or anything a reviewer should know."
+}

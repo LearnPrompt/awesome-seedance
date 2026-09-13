@@ -1,0 +1,6 @@
+{
+  "$comment": "Cross-model retest spend shown in the README. List price, no discounts: what anyone else would pay to reproduce the same runs. Update by hand when a new batch lands; runs count comes from data/cases.json meta.retests.totalRuns.",
+  "usd": 300,
+  "approx": "over",
+  "basis": "list-price"
+}
