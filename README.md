@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library.** 419 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 25 installable AI-video Skills, drawn from goodcase.ai's 1059 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
+**Verified Seedance 2.5 / 2.0 prompt library.** 419 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 24 installable AI-video Skills, drawn from goodcase.ai's 1071 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#install) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -43,7 +43,7 @@ Jump straight to the assets. The Contents list below is the section map of this 
 - [Seedance (version unspecified), part 3/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.md) - Cases 191–246.
 - [Prompt templates](https://github.com/LearnPrompt/awesome-seedance/blob/main/README.md#-prompt-templates) - 14 reusable structures in 6 categories.
 - [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - Install with `npx seedance-prompt-library install` into Claude Code / Codex.
-- [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 24 installable Skills grown out of the video cases.
+- [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 23 installable Skills grown out of the video cases.
 - [Live site on goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - Search, heat leaderboard, stability ranking, retest logs.
 ## Install
 
@@ -52,6 +52,8 @@ npx seedance-prompt-library install
 ```
 
 Installs the `seedance-prompt-library` Agent Skill into Claude Code and Codex, so your agent can pull structured prompt templates and write Seedance prompts directly in your editor. Prefer the [skills CLI](https://github.com/vercel-labs/skills)? `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` installs the same skill.
+
+Want your agent to query the whole goodcase.ai library (all models, live data, retest baselines) instead of just the Seedance templates? Install the `goodcase` Skill from the sister repo [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite): `npx skills add LearnPrompt/goodcase-lite --skill goodcase`.
 
 ## Why this list
 
@@ -471,7 +473,7 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 | Re-run on other models         | 247 cases / 257 runs      |
 | Stability score (measured)     | 245 cases / avg 78.0      |
 | Last updated                   | 2026-09-13                |
-| goodcase.ai, all categories    | 1059 cases / 334 creators |
+| goodcase.ai, all categories    | 1071 cases / 334 creators |
 | goodcase.ai, AI video          | 567 cases                 |
 
 Each case is counted once; a case tagged with several Seedance versions counts under the highest one.

@@ -9,7 +9,7 @@ Thanks for wanting to help. This list works differently from most awesome lists:
 3. Name the model as precisely as the source does (`Seedance 2.5`, `Seedance 2.0`, or just `Seedance` if the post doesn't say). Do not guess a version.
 4. Once a case passes review and ranks on heat score, it is exported here automatically (daily) and appears in the next regenerated README.
 
-Prefer GitHub? Copy [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) to `submissions/<slug>.json`, fill every field, and open a pull request. A maintainer pushes it through the same review; see [`submissions/README.md`](./submissions/README.md).
+Prefer GitHub? Copy [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) to `submissions/<slug>.json`, fill every field, and open a pull request. The `Validate submissions` check runs on the PR (required fields, original-source URL, model names, no duplicate of a case already in `data/`), `CODEOWNERS` requests a maintainer review automatically, and the maintainer pushes accepted cases through the same goodcase.ai review; see [`submissions/README.md`](./submissions/README.md). Run the check locally with `npm run validate:submissions`.
 
 ## Source-verification standard
 
@@ -46,7 +46,7 @@ npm run generate  # regenerates README.md, README_zh.md, README_ja.md, docs/gall
 - `scripts/generate-readme.mjs` builds the three READMEs (English, Chinese, Japanese; case titles and template text stay English in the Japanese edition) (hero banner, badges, quick links, cross-model retest spotlight, featured entries, category overview, template tables, the Top 30 table, gallery links), the gallery index `docs/gallery.md` and the sharded galleries under `docs/`. Galleries are split per Seedance version and kept under ~350KB per file so GitHub renders them. Featured and the Top 30 collapse same-creator prompt series (same author, same opening, ≥20% shared trigrams) to the earliest post; galleries and statistics stay complete. It also writes `assets/hero.svg` (the banner, numbers baked in) and `data/stats.json` (read by the shields.io dynamic badges at the top of the README, so the counts update with every data sync).
 - `scripts/lib/render.mjs` holds the entry, table and gallery renderers; `scripts/lib/sections.mjs` holds the newer README sections (quick links, retest spotlight, category overview, template tables, hero SVG, gallery index). Both are pure functions over the data, covered by `scripts/lib/render.test.mjs`.
 - `scripts/generate-skill-reference.mjs` builds `agents/skills/seedance-prompt-library/references/style-library.md` from `data/style-library.json`.
-- `.github/workflows/update-readme.yml` runs the same two commands on every change to `data/` or `scripts/` and commits the result, so you never need to regenerate by hand on `main`.
+- `.github/workflows/update-readme.yml` runs the same two commands on every change to `data/` or `scripts/` and commits the result, so you never need to regenerate by hand on `main`. `.github/workflows/refresh-site-stats.yml` runs daily at 09:30 Beijing time: it refreshes `data/site.json` from goodcase.ai, re-extracts the retest poster frames, and regenerates. `.github/workflows/validate-submissions.yml` checks `submissions/*.json` on pull requests.
 
 Please keep pull requests focused: code and tests in one PR, regenerated output in the same PR only when your code change affects it.
 

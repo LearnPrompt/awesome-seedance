@@ -1,0 +1,23 @@
+name: Validate submissions
+
+# submissions/ 下的投稿 JSON 在 PR 上自动校验：字段齐全、URL 合法、模型名规范、未与库内重复。
+# 通过只代表格式合规，是否收录仍由维护者按 goodcase.ai 收录标准人工审核。
+on:
+  pull_request:
+    paths:
+      - "submissions/**"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - run: node --test scripts/lib/submissions.test.mjs
+      - run: node scripts/validate-submissions.mjs

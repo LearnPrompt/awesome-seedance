@@ -42,7 +42,8 @@ const variants = [...hrefs].filter((h) => /-by-[a-z0-9]+$/.test(h)).length;
 
 const next = {
   ...site,
-  fetchedAt: new Date().toISOString().slice(0, 10),
+  // 东八区日期，和 README 里的“最近更新”口径一致
+  fetchedAt: new Date(Date.now() + 8 * 60 * 60 * 1000).toISOString().slice(0, 10),
   totalCases: totalCases ?? site.totalCases,
   videoCases: videoCases ?? site.videoCases,
   creators: creators ?? site.creators,

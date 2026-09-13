@@ -1,12 +1,14 @@
 {
   "name": "awesome-seedance",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Curated, human-verified Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs",
-    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs"
+    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs scripts/lib/submissions.test.mjs",
+    "validate:submissions": "node scripts/validate-submissions.mjs",
+    "refresh:site": "node scripts/fetch-site-stats.mjs && node scripts/fetch-retest-posters.mjs"
   },
   "license": "MIT",
   "repository": {

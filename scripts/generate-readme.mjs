@@ -125,6 +125,8 @@ const COPY = {
       "```",
       "",
       "Installs the `seedance-prompt-library` Agent Skill into Claude Code and Codex, so your agent can pull structured prompt templates and write Seedance prompts directly in your editor. Prefer the [skills CLI](https://github.com/vercel-labs/skills)? `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` installs the same skill.",
+      "",
+      "Want your agent to query the whole goodcase.ai library (all models, live data, retest baselines) instead of just the Seedance templates? Install the `goodcase` Skill from the sister repo [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite): `npx skills add LearnPrompt/goodcase-lite --skill goodcase`.",
     ].join("\n"),
     pillarsHeading: "## Why this list",
     pillars: [
@@ -212,6 +214,8 @@ const COPY = {
       "```",
       "",
       "把 seedance-prompt-library 这个 Agent Skill 装进 Claude Code / Codex，让 agent 直接调结构化模板在你的编辑器里写 Seedance prompt。习惯用 [skills CLI](https://github.com/vercel-labs/skills) 的话，`npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` 装的是同一个 Skill。",
+      "",
+      "想让 agent 直接查整个 goodcase.ai 案例库（全部模型、实时数据、复测基线）而不只是 Seedance 模板？装姊妹仓 [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite) 里的 `goodcase` Skill：`npx skills add LearnPrompt/goodcase-lite --skill goodcase`。",
     ].join("\n"),
     pillarsHeading: "## 为什么值得收藏这个仓库",
     pillars: [
@@ -298,6 +302,8 @@ const COPY = {
       "```",
       "",
       "`seedance-prompt-library` Agent Skill を Claude Code と Codex にインストールします。エージェントが構造化されたプロンプトテンプレートを引き、エディタ内で直接 Seedance プロンプトを書けるようになります。[skills CLI](https://github.com/vercel-labs/skills) 派なら `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` で同じ Skill が入ります。",
+      "",
+      "Seedance テンプレートだけでなく goodcase.ai のライブラリ全体（全モデル、ライブデータ、再テストのベースライン）をエージェントから引きたい場合は、姉妹リポジトリ [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite) の `goodcase` Skill を: `npx skills add LearnPrompt/goodcase-lite --skill goodcase`。",
     ].join("\n"),
     pillarsHeading: "## このリストの特徴",
     pillars: [

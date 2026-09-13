@@ -1,0 +1,6 @@
+# submissions/ 下的案例投稿 PR 自动请求维护者审核；维护者把通过的案例推进 goodcase.ai 的审核管线。
+/submissions/   @LearnPrompt
+# 生成器、渲染库与 Skill 的改动同样需要维护者过目。
+/scripts/       @LearnPrompt
+/agents/        @LearnPrompt
+/data/          @LearnPrompt

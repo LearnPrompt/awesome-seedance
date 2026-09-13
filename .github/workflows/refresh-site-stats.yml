@@ -1,0 +1,56 @@
+name: Refresh site stats and retest posters
+
+# 每天刷新两样只有联网才能拿到的东西，然后重新生成 README：
+# 1. data/site.json：goodcase.ai 站点全量数字（案例数、创作者数、视频案例数、视频 Skill 数），
+#    公开 API 的列表接口最多 50 条，拿不到总数，所以从站点 HTML 抓。
+# 2. assets/retests/<slug>.jpg：复测聚焦区三条样例的第二模型画面，热度榜一变样例就换，
+#    没有封面时生成器退回纯链接，所以这里定期补帧（需要 ffmpeg）。
+# 数据本身（data/cases.json）仍由私仓管线推送，这个工作流不碰。
+on:
+  schedule:
+    - cron: "30 1 * * *" # 每天 09:30 北京时间，跟在私仓 08:26 的数据同步之后
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+
+      - name: Refresh data/site.json from goodcase.ai
+        run: node scripts/fetch-site-stats.mjs
+
+      - name: Refresh retest poster frames
+        run: node scripts/fetch-retest-posters.mjs
+
+      - name: Run tests
+        run: node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs
+
+      - name: Regenerate README, galleries, banner and stats
+        run: |
+          node scripts/generate-readme.mjs
+          node scripts/generate-skill-reference.mjs
+
+      - name: Commit refreshed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/site.json assets/retests/ README.md README_zh.md README_ja.md docs/ agents/ assets/hero.svg data/stats.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh site stats and retest posters"
+            git push
+          fi
