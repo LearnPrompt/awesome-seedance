@@ -41,9 +41,18 @@ function escapeXml(str) {
  * data/stats.json 的内容：shields.io 的 dynamic/json 徽章直接读 raw.githubusercontent 上的这个文件，
  * 所以 README 顶部的数字随每天的数据同步自动变，不用重新生成徽章 URL。
  */
-export function buildStatsSnapshot(stats, templates, categories) {
+export function buildStatsSnapshot(stats, templates, categories, site = null) {
+  const videoSkills = site?.videoSkills ? (site.videoSkills.base || 0) + (site.videoSkills.creatorVariants || 0) : 0;
   return {
     cases: stats.total,
+    // goodcase.ai 站点全量（含非 Seedance）：来自 data/site.json 快照。
+    siteTotalCases: site?.totalCases ?? null,
+    siteVideoCases: site?.videoCases ?? null,
+    siteCreators: site?.creators ?? null,
+    siteFetchedAt: site?.fetchedAt ?? null,
+    // AI 视频 Skill 数：goodcase.ai 上的视频 Skill（基础 + 创作者变体）+ 本仓库自带的 1 个。
+    videoSkillsOnSite: videoSkills,
+    skills: videoSkills + 1,
     seedance25: stats.v25Count,
     seedance20: stats.v20Count,
     unversioned: stats.unversionedCount,
@@ -78,6 +87,7 @@ export function renderBadges(lang) {
     dynamicBadge("$.cases", L.cases, "e8541e", "#-all-prompts"),
     dynamicBadge("$.retestRuns", L.retests, "111111", "#-cross-model-retests"),
     dynamicBadge("$.templates", L.templates, "111111", "#-prompt-templates"),
+    dynamicBadge("$.skills", t(lang, { en: "AI video skills", zh: "AI 视频 Skill", ja: "AI 動画 Skill" }), "111111", "#install"),
     dynamicBadge("$.lastUpdated", L.updated, "555555", LIVE_SITE_URL),
     `[![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=${encodeURIComponent(L.skill)}&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library)`,
     "[![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE)",
@@ -103,7 +113,7 @@ export function renderHeroSvg(snapshot) {
     { n: snapshot.cases, label: "VERIFIED CASES" },
     { n: snapshot.retestRuns, label: "CROSS-MODEL RETESTS" },
     { n: snapshot.templates, label: "PROMPT TEMPLATES" },
-    { n: 1, label: "AGENT SKILL" },
+    { n: snapshot.skills ?? 1, label: "AI VIDEO SKILLS" },
   ];
   const cellW = (W - 80) / cells.length;
   const cellY = 268;
@@ -119,7 +129,7 @@ export function renderHeroSvg(snapshot) {
     })
     .join("");
   return [
-    `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Awesome Seedance: ${snapshot.cases} verified cases, ${snapshot.retestRuns} cross-model retests, ${snapshot.templates} prompt templates, 1 agent skill">`,
+    `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Awesome Seedance: ${snapshot.cases} verified cases, ${snapshot.retestRuns} cross-model retests, ${snapshot.templates} prompt templates, ${snapshot.skills ?? 1} AI video skills">`,
     `<rect width="${W}" height="${H}" fill="${bg}"/>`,
     ...Array.from({ length: 12 }, (_, i) => `<line x1="${(i * W) / 12}" y1="0" x2="${(i * W) / 12}" y2="${H}" stroke="${ink}" stroke-opacity="0.05" stroke-width="1"/>`),
     `<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" fill="none" stroke="${ink}" stroke-width="1"/>`,
@@ -205,6 +215,15 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
       ja: "`npx seedance-prompt-library install` で Claude Code / Codex に導入。",
     })}`
   );
+  if (stats.videoSkillsOnSite) {
+    lines.push(
+      `- [${t(lang, { en: "More AI-video Skills on goodcase.ai", zh: "goodcase.ai 上更多 AI 视频 Skill", ja: "goodcase.ai の AI 動画 Skill" })}](${stats.videoSkillsUrl}) - ${t(lang, {
+        en: `${stats.videoSkillsOnSite} installable Skills grown out of the video cases.`,
+        zh: `${stats.videoSkillsOnSite} 个从视频案例里长出来的可安装 Skill。`,
+        ja: `動画ケースから育った ${stats.videoSkillsOnSite} 個のインストール可能な Skill。`,
+      })}`
+    );
+  }
   lines.push(
     `- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${LIVE_SITE_URL}) - ${t(lang, {
       en: "search, heat leaderboard, stability ranking, retest logs.",
@@ -212,20 +231,7 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
       ja: "検索、ヒートランキング、安定度ランキング、再テスト記録。",
     })}`
   );
-  lines.push(
-    `- [${t(lang, { en: "Contributing", zh: "投稿与贡献", ja: "コントリビュート" })}](./contributing.md) - ${t(lang, {
-      en: "how to submit a case or open a PR.",
-      zh: "怎么投案例、怎么提 PR。",
-      ja: "ケースの投稿方法と PR の出し方。",
-    })}`
-  );
-  lines.push(
-    `- [${t(lang, { en: "License", zh: "许可证", ja: "ライセンス" })}](#license) - ${t(lang, {
-      en: "MIT code, CC BY 4.0 curation, prompts stay with their creators.",
-      zh: "代码 MIT，策展 CC BY 4.0，prompt 版权归原作者。",
-      ja: "コードは MIT、キュレーションは CC BY 4.0、プロンプトの権利は作者に帰属。",
-    })}`
-  );
+  // Contributing / License 不放这里：Contents 已经有 How to Contribute 与 License，两处并列会重复。
   return lines.join("\n");
 }
 
@@ -294,8 +300,12 @@ export function renderSpendLine(spend, runs, lang) {
   });
 }
 
+export const SPONSOR_EMAIL = "carl@goodcase.ai";
+
+/** 复测样例的产物封面：opts.retestPosterFor(caseObj) 返回相对路径（assets/retests/<slug>.jpg）或 null。 */
 export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   const retestsMeta = meta && meta.retests;
+  const retestPosterFor = opts.retestPosterFor || (() => null);
   if (!retestsMeta || !retestsMeta.totalRuns) return null;
   const perModel = aggregateRetestsByModel(cases);
   if (perModel.size === 0) return null;
@@ -345,9 +355,9 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
     );
     lines.push("");
     const h = t(lang, {
-      en: ["Case", "Original (Seedance)", "Retest", "Verdict"],
-      zh: ["案例", "原作（Seedance）", "复测", "结论"],
-      ja: ["ケース", "オリジナル（Seedance）", "再テスト", "判定"],
+      en: ["Case", "Original (Seedance)", "Retest (second model)", "Verdict"],
+      zh: ["案例", "原作（Seedance）", "复测（第二个模型）", "结论"],
+      ja: ["ケース", "オリジナル（Seedance）", "再テスト（別モデル）", "判定"],
     });
     const r = showcase.map((c) => {
       const latest = c.retestSummary.latest;
@@ -357,10 +367,14 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
         ? t(lang, { en: `score ${latest.finalScore}`, zh: `${latest.finalScore} 分`, ja: `スコア ${latest.finalScore}` })
         : t(lang, { en: "score n/a", zh: "无评分", ja: "スコア n/a" });
       const title = displayTitle(c, lang);
+      const poster = retestPosterFor(c);
+      const posterCell = poster
+        ? `[<img src="${poster}" width="160" alt="${escapeXml(`${latest.model}: ${title}`)}">](${c.goodcaseUrl})<br>`
+        : "";
       return [
         `[${title}](${c.goodcaseUrl})<br>${bucketShortLabel(classifySeedance(c), lang)} · ${t(lang, { en: "heat", zh: "热度", ja: "ヒート" })} ${c.heatScore ?? "-"}`,
         thumbCell(c, title, 160),
-        `${latest.model}<br>[${t(lang, { en: "▶ output video", zh: "▶ 复测视频", ja: "▶ 出力動画" })}](${latest.artifactUrl})`,
+        `${posterCell}${latest.model}<br>[${t(lang, { en: "▶ output video", zh: "▶ 复测视频", ja: "▶ 出力動画" })}](${latest.artifactUrl})`,
         `${v.icon} ${v[lang]} (${score})`,
       ];
     });
@@ -377,9 +391,9 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   lines.push("");
 
   const cta = t(lang, {
-    en: `Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](${SPONSOR_URL})`,
-    zh: `想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](${SPONSOR_URL})`,
-    ja: `Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](${SPONSOR_URL})`,
+    en: `Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](${SPONSOR_URL}) or write to [${SPONSOR_EMAIL}](mailto:${SPONSOR_EMAIL}).`,
+    zh: `想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](${SPONSOR_URL})，或直接写邮件到 [${SPONSOR_EMAIL}](mailto:${SPONSOR_EMAIL})。`,
+    ja: `Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](${SPONSOR_URL})、または [${SPONSOR_EMAIL}](mailto:${SPONSOR_EMAIL}) までご連絡ください。`,
   });
   lines.push(`${renderSpendLine(spend, runs, lang)} ${cta}`);
   lines.push("");
@@ -398,6 +412,23 @@ const CATEGORY_ICON = {
   stylized: "🎨",
   motion: "💥",
 };
+
+/**
+ * 总览格子：data/overview-tiles.json 的 12 格，每格挂 1-2 个模板。
+ * 返回 { tile, templates, cases, cover, category }，category 取第一个模板的分类（决定 "View templates" 锚点）。
+ */
+export function buildOverviewTiles(tilesConfig, templates, categories, casesBySlug) {
+  const byId = new Map(templates.map((tp) => [tp.id, tp]));
+  const catById = new Map(categories.map((c) => [c.id, c]));
+  return (tilesConfig?.tiles || []).map((tile) => {
+    const tpls = (tile.templates || []).map((id) => byId.get(id)).filter(Boolean);
+    const slugs = new Set();
+    for (const tp of tpls) for (const s of tp.exampleCases || []) slugs.add(s);
+    const cases = sortByHeat(Array.from(slugs).map((s) => casesBySlug.get(s)).filter(Boolean));
+    const category = tpls[0] ? catById.get(tpls[0].category) || null : null;
+    return { tile, templates: tpls, cases, cover: cases[0] || null, category };
+  });
+}
 
 /** 每个分类：模板列表、去重后的示例案例（按热度）、封面案例。 */
 export function buildCategoryGroups(templates, categories, casesBySlug) {
@@ -421,7 +452,10 @@ export function categoryHeading(group, lang) {
   });
 }
 
-export function renderCategoryOverview(groups, lang) {
+export function renderCategoryOverview(groups, lang, opts = {}) {
+  // tiles（12 格，每格 1-2 个模板）优先；没传 tiles 时退回按 6 个分类一格。
+  const items = (opts.tiles || null) ?? groups.map((g) => ({ tile: null, templates: g.templates, cases: g.cases, cover: g.cover, category: g.category, group: g }));
+  const cols = opts.cols || (opts.tiles ? 4 : 3);
   const lines = [];
   lines.push(t(lang, { en: "## 🗂️ Category Overview", zh: "## 🗂️ 分类总览", ja: "## 🗂️ カテゴリ一覧" }));
   lines.push("");
@@ -433,31 +467,35 @@ export function renderCategoryOverview(groups, lang) {
     })
   );
   lines.push("");
-  const cols = 3;
+  const width = Math.floor(100 / cols);
+  const imgWidth = cols >= 4 ? 200 : 260;
   lines.push("<table>");
-  for (let i = 0; i < groups.length; i += cols) {
+  for (let i = 0; i < items.length; i += cols) {
     lines.push("<tr>");
-    for (const g of groups.slice(i, i + cols)) {
-      const icon = CATEGORY_ICON[g.category.id] || "🧩";
-      const title = pickLang(g.category.title, lang);
-      const anchor = `#${githubSlug(categoryHeading(g, lang).replace(/^###\s+/, ""))}`;
-      const cover = g.cover;
+    for (const it of items.slice(i, i + cols)) {
+      const icon = CATEGORY_ICON[it.category?.id] || "🧩";
+      const title = it.tile ? pickLang(it.tile.title, lang) : pickLang(it.category?.title, lang);
+      const anchorGroup = it.group || (it.category ? groups.find((g) => g.category.id === it.category.id) : null);
+      const anchor = anchorGroup ? `#${githubSlug(categoryHeading(anchorGroup, lang).replace(/^###\s+/, ""))}` : "#-prompt-templates";
+      const cover = it.cover;
       const img = cover
-        ? `<a href="${cover.goodcaseUrl}"><img src="${cover.posterUrl}" width="260" alt="${escapeXml(displayTitle(cover, lang))}"></a>`
+        ? `<a href="${cover.goodcaseUrl}"><img src="${cover.posterUrl}" width="${imgWidth}" alt="${escapeXml(displayTitle(cover, lang))}"></a>`
         : "";
-      const nT = g.templates.length;
-      const nC = g.cases.length;
+      const nT = it.templates.length;
+      const nC = it.cases.length;
       const countLine = t(lang, {
         en: `${nT} ${nT === 1 ? "template" : "templates"} · ${nC} verified cases`,
         zh: `${nT} 个模板 · ${nC} 条已验证案例`,
         ja: `テンプレート ${nT} 件 · 検証済みケース ${nC} 件`,
       });
-      const desc = pickLang(g.category.description, lang);
+      const desc = it.tile
+        ? it.templates.map((tp) => pickLang(tp.title, lang)).join(" · ")
+        : pickLang(it.category?.description, lang);
       const viewTpl = t(lang, { en: "View templates", zh: "查看模板", ja: "テンプレートを見る" });
       const topCase = t(lang, { en: "Top case", zh: "热度最高案例", ja: "トップケース" });
       const links = `<a href="${anchor}">${viewTpl}</a>${cover ? ` · <a href="${cover.goodcaseUrl}">${topCase}</a>` : ""}`;
       lines.push(
-        `<td width="33%" valign="top" align="center"><b>${icon} ${escapeXml(title)}</b><br><sub>${escapeXml(countLine)}</sub><br><br>${img}<br><sub>${escapeXml(desc)}</sub><br>${links}</td>`
+        `<td width="${width}%" valign="top" align="center"><b>${icon} ${escapeXml(title)}</b><br><sub>${escapeXml(countLine)}</sub><br><br>${img}<br><sub>${escapeXml(desc)}</sub><br>${links}</td>`
       );
     }
     lines.push("</tr>");

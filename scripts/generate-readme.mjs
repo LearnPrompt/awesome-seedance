@@ -9,12 +9,13 @@
 // 🧩 Prompt Templates（按分类紧凑表）→ 🔥 Top 30（带预览图）→ 🎬 All Prompts → 🌐 Browse on goodcase.ai →
 // Statistics → 🚀 How to use → Contribute → Acknowledgements → Copyright → Star History → License。
 // 全量条目只放 docs/，README 控制在 ~120KB。
-import { readFileSync, writeFileSync, readdirSync, unlinkSync, mkdirSync } from "node:fs";
+import { readFileSync, writeFileSync, readdirSync, unlinkSync, mkdirSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import {
   computeStats,
   getFeatured,
+  collapseSeries,
   renderCaseEntry,
   renderStatsTable,
   renderTopTable,
@@ -38,6 +39,7 @@ import {
   renderQuickLinks,
   renderRetestSpotlight,
   buildCategoryGroups,
+  buildOverviewTiles,
   renderCategoryOverview,
   renderTemplateTables,
   renderGalleryIndex,
@@ -53,28 +55,46 @@ function loadJson(relPath) {
 
 const casesData = loadJson("data/cases.json");
 const styleData = loadJson("data/style-library.json");
-// 复测花费（人工维护，公开牌价不含折扣）；文件不存在时聚焦区只说“花真钱”不给数字。
-let retestSpend = null;
+// 站点全量数字与复测花费（data/site.json，人工/脚本刷新）；文件缺失时相关行不渲染、花费只说“花真钱”。
+let site = null;
 try {
-  retestSpend = loadJson("data/retest-spend.json");
+  site = loadJson("data/site.json");
 } catch {
-  retestSpend = null;
+  site = null;
 }
+const retestSpend = site?.retestSpend ?? null;
+// 分类总览的 12 格配置；缺失时退回按 6 个分类一格。
+let overviewTiles = null;
+try {
+  overviewTiles = loadJson("data/overview-tiles.json");
+} catch {
+  overviewTiles = null;
+}
+// 复测样例的产物封面（scripts/fetch-retest-posters.mjs 抽帧），没有就退回纯链接。
+const retestPosterFor = (caseObj) => {
+  const rel = `assets/retests/${caseObj.slug}.jpg`;
+  return existsSync(path.join(ROOT, rel)) ? `./${rel}` : null;
+};
 const cases = casesData.cases || [];
 const templates = styleData.templates || [];
 const categories = styleData.categories || [];
 const casesBySlug = new Map(cases.map((c) => [c.slug, c]));
 
 const stats = computeStats(casesData);
-const snapshot = buildStatsSnapshot(stats, templates, categories);
-const featured = getFeatured(cases, FEATURED_COUNT);
+const snapshot = buildStatsSnapshot(stats, templates, categories, site);
+// 精选和 Top 榜按“系列”折叠：同一作者反复发的同一套 prompt 只留原帖那条；画廊与统计仍是全量。
+const series = collapseSeries(cases);
+const featured = getFeatured(series.kept, FEATURED_COUNT);
 const partition = partitionAllPrompts(cases, TOP_INLINE_COUNT);
+const topPartition = partitionAllPrompts(series.kept, TOP_INLINE_COUNT);
 const bucketCases = {
   "2.5": partition.v25,
   "2.0": partition.v20,
   unspecified: partition.unversioned,
 };
 const categoryGroups = buildCategoryGroups(templates, categories, casesBySlug);
+const tiles = overviewTiles ? buildOverviewTiles(overviewTiles, templates, categories, casesBySlug) : null;
+const quickLinkStats = { ...stats, videoSkillsOnSite: snapshot.videoSkillsOnSite, videoSkillsUrl: site?.videoSkills?.url || "https://goodcase.ai/skills?category=video" };
 
 const AWESOME_BADGE = "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)";
 
@@ -92,7 +112,9 @@ const COPY = {
     heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
     tagline: (s) =>
-      `**Verified Seedance 2.5 / 2.0 prompt library: ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates and one installable Agent Skill. Synced from goodcase.ai, new cases land daily.**`,
+      `**Verified Seedance 2.5 / 2.0 prompt library: ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates and ${s.skills} installable AI-video Skills${
+        s.siteTotalCases ? `, drawn from goodcase.ai's ${s.siteTotalCases} verified AI cases across video, image, UI and copy` : ""
+      }. Synced daily, new cases land every day.**`,
     backlink:
       "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## Contents",
@@ -177,7 +199,9 @@ const COPY = {
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
     tagline: (s) =>
-      `**Seedance 2.5 / 2.0 提示词验证库：${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，外加一个可安装的 Agent Skill。数据来自 goodcase.ai，每天都有新案例进来。**`,
+      `**Seedance 2.5 / 2.0 提示词验证库：${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill${
+        s.siteTotalCases ? `，背后是 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例` : ""
+      }。每天同步，每天都有新案例进来。**`,
     backlink:
       "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目录",
@@ -261,7 +285,9 @@ const COPY = {
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
     tagline: (s) =>
-      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ: ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、インストール可能な Agent Skill 1 つ。goodcase.ai から同期し、新しいケースが毎日追加されます。**`,
+      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ: ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill${
+        s.siteTotalCases ? `。母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケース` : ""
+      }。毎日同期し、新しいケースが毎日追加されます。**`,
     backlink:
       "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目次",
@@ -387,7 +413,7 @@ function buildReadme(lang) {
   sections.push({ heading: c.pillarsHeading, body: c.pillars.flatMap((p) => [p, ""]).slice(0, -1) });
 
   // 复测聚焦区前置：meta.retests 缺失或 totalRuns 为 0 时返回 null，整节不渲染。
-  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend });
+  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend, retestPosterFor });
   if (spotlight) {
     const [heading, ...rest] = spotlight.split("\n");
     sections.push({ heading, body: rest.join("\n").trim().split("\n") });
@@ -399,7 +425,7 @@ function buildReadme(lang) {
   }
   sections.push({ heading: c.featuredHeading, body: featuredBody });
 
-  const overview = renderCategoryOverview(categoryGroups, lang);
+  const overview = renderCategoryOverview(categoryGroups, lang, { tiles });
   {
     const [heading, ...rest] = overview.split("\n");
     sections.push({ heading, body: rest.join("\n").trim().split("\n") });
@@ -408,7 +434,7 @@ function buildReadme(lang) {
   sections.push({ heading: c.templatesHeading, body: renderTemplateTables(categoryGroups, lang).split("\n") });
 
   // Top 榜是唯一可裁剪的部分：超预算时从表尾裁行，标题/说明按实际行数回填。
-  const top = renderTopTable(partition.top, lang, {
+  const top = renderTopTable(topPartition.top, lang, {
     startRank: 1,
     promptLinkFor: (caseObj) => promptLinks.get(caseObj.slug) || null,
   });
@@ -423,7 +449,7 @@ function buildReadme(lang) {
   const tailSections = [
     { heading: c.allHeading, body: galleryBody },
     { heading: c.browseHeading, body: [c.browseBody] },
-    { heading: c.statsHeading, body: [renderStatsTable(stats, lang), "", c.statsNote] },
+    { heading: c.statsHeading, body: [renderStatsTable(stats, lang, site), "", c.statsNote] },
     { heading: c.howToHeading, body: [c.howToBody] },
     { heading: c.contributeHeading, body: [c.contributeBody] },
     { heading: c.ackHeading, body: [c.ackBody] },
@@ -432,7 +458,7 @@ function buildReadme(lang) {
     { heading: c.licenseHeading, body: [c.licenseBody] },
   ];
 
-  const quickLinks = renderQuickLinks({ parts, bucketCases, templates, categories, stats }, lang);
+  const quickLinks = renderQuickLinks({ parts, bucketCases, templates, categories, stats: quickLinkStats }, lang);
   const quickLinksHeading = quickLinks.split("\n")[0];
 
   const allHeadings = [
@@ -532,5 +558,8 @@ for (const bucket of SEEDANCE_BUCKETS) {
   );
 }
 console.log(`Stats: ${JSON.stringify(snapshot)}`);
+if (series.collapsed.length) {
+  console.log(`Series collapsed in Featured/Top (${series.collapsed.length}): ${series.collapsed.map((x) => `${x.slug} → ${x.keptSlug}`).join("; ")}`);
+}
 // fitToSizeBudget 仍导出给测试和其他调用方；README 主体已改为按行裁剪。
 void fitToSizeBudget;

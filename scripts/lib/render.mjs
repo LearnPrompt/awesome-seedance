@@ -336,17 +336,34 @@ export function renderTable(headers, rows) {
 }
 
 /** Statistics 表。三档 Seedance 版本互斥，加总等于案例总数；有 retestBatchNote 时表下加一行说明。 */
-export function renderStatsTable(stats, lang) {
+export function renderStatsTable(stats, lang, site = null) {
   assertLang(lang);
   const avg = stats.stabilityAvg != null ? stats.stabilityAvg.toFixed(1) : "-";
   const unversioned = stats.unversionedCount ?? 0;
   const lastUpdated = stats.lastUpdated ?? "-";
+  // goodcase.ai 站点全量（含非 Seedance 的图像/编程/文案案例）放在表尾，口径与 Seedance 行分开。
+  const siteRows = site && site.totalCases
+    ? t(lang, {
+        en: [
+          ["goodcase.ai, all categories", `${site.totalCases} cases / ${site.creators ?? "-"} creators`],
+          ["goodcase.ai, AI video", `${site.videoCases ?? "-"} cases`],
+        ],
+        zh: [
+          ["goodcase.ai 全站（含非 Seedance）", `${site.totalCases} 条 / ${site.creators ?? "-"} 位创作者`],
+          ["goodcase.ai AI 视频", `${site.videoCases ?? "-"} 条`],
+        ],
+        ja: [
+          ["goodcase.ai 全カテゴリ", `${site.totalCases} 件 / クリエイター ${site.creators ?? "-"} 人`],
+          ["goodcase.ai AI 動画", `${site.videoCases ?? "-"} 件`],
+        ],
+      })
+    : [];
   let table;
   if (lang === "en") {
     table = renderTable(
       ["Metric", "Value"],
       [
-        ["Total cases", stats.total],
+        ["Seedance cases in this repo", stats.total],
         ["Seedance 2.5", stats.v25Count],
         ["Seedance 2.0", stats.v20Count],
         ["Seedance (version unspecified)", unversioned],
@@ -354,13 +371,14 @@ export function renderStatsTable(stats, lang) {
         ["Re-run on other models", `${stats.retestCases} cases / ${stats.retestRuns} runs`],
         ["Stability score (measured)", `${stats.stabilityCases} cases / avg ${avg}`],
         ["Last updated", lastUpdated],
+        ...siteRows,
       ]
     );
   } else if (lang === "ja") {
     table = renderTable(
       ["指標", "値"],
       [
-        ["ケース総数", stats.total],
+        ["このリポジトリの Seedance ケース", stats.total],
         ["Seedance 2.5", stats.v25Count],
         ["Seedance 2.0", stats.v20Count],
         ["Seedance（バージョン未記載）", unversioned],
@@ -368,13 +386,14 @@ export function renderStatsTable(stats, lang) {
         ["他モデルでの再テスト", `${stats.retestCases} 件 / ${stats.retestRuns} 回`],
         ["安定度スコア（測定済み）", `${stats.stabilityCases} 件 / 平均 ${avg}`],
         ["最終更新", lastUpdated],
+        ...siteRows,
       ]
     );
   } else {
     table = renderTable(
       ["指标", "数值"],
       [
-        ["案例总数", stats.total],
+        ["本仓库 Seedance 案例", stats.total],
         ["Seedance 2.5", stats.v25Count],
         ["Seedance 2.0", stats.v20Count],
         ["Seedance（未标版本）", unversioned],
@@ -382,6 +401,7 @@ export function renderStatsTable(stats, lang) {
         ["跨模型复测", `${stats.retestCases} 条 / ${stats.retestRuns} 次`],
         ["稳定度分（已测）", `${stats.stabilityCases} 条 / 均分 ${avg}`],
         ["最近更新", lastUpdated],
+        ...siteRows,
       ]
     );
   }
@@ -397,6 +417,82 @@ export function renderStatsTable(stats, lang) {
 
 export function getFeatured(cases, count = FEATURED_COUNT) {
   return sortByHeat(cases).slice(0, count);
+}
+
+const SERIES_PREFIX_LEN = 60;
+const SERIES_JACCARD_MIN = 0.2;
+
+function normalizePromptText(text) {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/^\s*(seedance\s*[：:]\s*)?(prompt\s*[：:]\s*)+/, "")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .trim();
+}
+
+function trigrams(text) {
+  const words = normalizePromptText(text).split(" ").filter(Boolean);
+  const set = new Set();
+  for (let i = 0; i + 2 < words.length; i += 1) set.add(`${words[i]} ${words[i + 1]} ${words[i + 2]}`);
+  return set;
+}
+
+function jaccard(a, b) {
+  if (!a.size || !b.size) return 0;
+  let inter = 0;
+  for (const x of a) if (b.has(x)) inter += 1;
+  return inter / (a.size + b.size - inter);
+}
+
+/**
+ * 同一作者反复发的同一套 prompt（同一系列的变体帖）在精选和 Top 榜里只留一条。
+ * 判定：同一作者 + prompt 开头 60 字相同 + 全文词三元组 Jaccard ≥ 0.2。
+ * 只看开头会把同作者的固定开场白（"handheld mini DV camcorder footage…"）误判成同系列，
+ * 只看 Jaccard 又会把同题材不同帖子拉进来，所以两条都要满足。
+ * 每个系列保留先发布的那条（原帖），并列取热度高的。画廊和统计不受影响。
+ * 返回 { kept, collapsed:[{slug, keptSlug}] }。
+ */
+export function collapseSeries(cases) {
+  const groups = new Map();
+  for (const c of cases) {
+    const prefix = normalizePromptText(c.promptFull).slice(0, SERIES_PREFIX_LEN);
+    const key = prefix ? `${String(c.creator || "").toLowerCase()}|${prefix}` : `__solo__${c.slug}`;
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(c);
+  }
+  const keptSet = new Set();
+  const collapsed = [];
+  for (const group of groups.values()) {
+    if (group.length === 1) {
+      keptSet.add(group[0].slug);
+      continue;
+    }
+    // 组内按 Jaccard 连通：并查集，阈值以上的两两相连才算同一系列。
+    const parent = group.map((_, i) => i);
+    const find = (i) => (parent[i] === i ? i : (parent[i] = find(parent[i])));
+    const grams = group.map((c) => trigrams(c.promptFull));
+    for (let i = 0; i < group.length; i += 1) {
+      for (let j = i + 1; j < group.length; j += 1) {
+        if (jaccard(grams[i], grams[j]) >= SERIES_JACCARD_MIN) parent[find(i)] = find(j);
+      }
+    }
+    const clusters = new Map();
+    group.forEach((c, i) => {
+      const r = find(i);
+      if (!clusters.has(r)) clusters.set(r, []);
+      clusters.get(r).push(c);
+    });
+    for (const cluster of clusters.values()) {
+      const sorted = [...cluster].sort(
+        (a, b) =>
+          String(a.sourcePublishedAt || "9999").localeCompare(String(b.sourcePublishedAt || "9999")) ||
+          (b.heatScore || 0) - (a.heatScore || 0)
+      );
+      keptSet.add(sorted[0].slug);
+      for (const dup of sorted.slice(1)) collapsed.push({ slug: dup.slug, keptSlug: sorted[0].slug });
+    }
+  }
+  return { kept: cases.filter((c) => keptSet.has(c.slug)), collapsed };
 }
 
 function fenceForPrompt(prompt) {
