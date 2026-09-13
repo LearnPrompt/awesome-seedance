@@ -35,21 +35,48 @@ const LABELS = {
     fullPrompt: (n) => `完整 prompt（${n} 行，点开展开）`,
     preview: "预览",
   },
+  ja: {
+    author: "作者",
+    source: "出典",
+    published: "公開日",
+    heat: "ヒート",
+    original: "元投稿",
+    viewOnGoodcase: "🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→",
+    fullPrompt: (n) => `プロンプト全文（${n} 行、クリックで展開）`,
+    preview: "プレビュー",
+  },
 };
 
 // 复测 verdict → 图标 + 中英文案。case.retestSummary.latest.verdict 取值固定这四种，
 // 未知值兜底成 inconclusive 图标，不让渲染直接炸。
 const RETEST_VERDICT = {
-  reproduced: { icon: "✅", en: "reproduced", zh: "复现" },
-  degraded: { icon: "⚠️", en: "degraded", zh: "降级" },
-  failed: { icon: "❌", en: "failed", zh: "失败" },
-  inconclusive: { icon: "➖", en: "inconclusive", zh: "不确定" },
+  reproduced: { icon: "✅", en: "reproduced", zh: "复现", ja: "再現" },
+  degraded: { icon: "⚠️", en: "degraded", zh: "降级", ja: "劣化" },
+  failed: { icon: "❌", en: "failed", zh: "失败", ja: "失敗" },
+  inconclusive: { icon: "➖", en: "inconclusive", zh: "不确定", ja: "判定不能" },
 };
 
+export const LANGS = ["en", "zh", "ja"];
+
 function assertLang(lang) {
-  if (lang !== "en" && lang !== "zh") {
+  if (!LANGS.includes(lang)) {
     throw new Error(`Unsupported lang: ${lang}`);
   }
+}
+
+/** 三语文案选择：ja 缺失时回落 en（数据里的 title/description 等只有 en/zh）。 */
+export function t(lang, texts) {
+  assertLang(lang);
+  const v = texts[lang];
+  if (v != null) return v;
+  return texts.en;
+}
+
+/** 数据对象里的多语字段（{en, zh} 形状）：ja 没有就用 en。 */
+export function pickLang(obj, lang) {
+  if (obj == null) return "";
+  if (typeof obj === "string") return obj;
+  return obj[lang] ?? obj.en ?? obj.zh ?? "";
 }
 
 /** Sort cases by heatScore descending. Stable: ties keep original relative order. */
@@ -122,7 +149,7 @@ export function bucketLabel(bucket, lang) {
   assertLang(lang);
   if (bucket === "2.5") return "Seedance 2.5";
   if (bucket === "2.0") return "Seedance 2.0";
-  return lang === "en" ? "Seedance (version unspecified)" : "Seedance（未标版本）";
+  return t(lang, { en: "Seedance (version unspecified)", zh: "Seedance（未标版本）", ja: "Seedance（バージョン未記載）" });
 }
 
 /** 短版本标签，用于 Top 榜表格。 */
@@ -130,7 +157,7 @@ export function bucketShortLabel(bucket, lang) {
   assertLang(lang);
   if (bucket === "2.5") return "2.5";
   if (bucket === "2.0") return "2.0";
-  return lang === "en" ? "unspecified" : "未标版本";
+  return t(lang, { en: "unspecified", zh: "未标版本", ja: "未記載" });
 }
 
 // ---------------------------------------------------------------------------
@@ -216,8 +243,9 @@ export function cleanHeadingTitle(raw) {
 /** README 里显示的标题：en 用 titleEn ?? title，zh 用 title（缺失时回落 titleEn），再清洗。 */
 export function displayTitle(caseObj, lang) {
   assertLang(lang);
+  // ja 没有专门的标题字段，跟 en 一样优先英文。
   const raw =
-    lang === "en" ? pickText(caseObj.titleEn, caseObj.title) : pickText(caseObj.title, caseObj.titleEn);
+    lang === "zh" ? pickText(caseObj.title, caseObj.titleEn) : pickText(caseObj.titleEn, caseObj.title);
   return cleanHeadingTitle(raw || caseObj.slug || "");
 }
 
@@ -225,9 +253,9 @@ export function displayTitle(caseObj, lang) {
 export function displaySummary(caseObj, lang) {
   assertLang(lang);
   const raw =
-    lang === "en"
-      ? pickText(caseObj.summaryEn, caseObj.summary)
-      : pickText(caseObj.summary, caseObj.summaryEn);
+    lang === "zh"
+      ? pickText(caseObj.summary, caseObj.summaryEn)
+      : pickText(caseObj.summaryEn, caseObj.summary);
   return collapseWhitespace(raw);
 }
 
@@ -328,6 +356,20 @@ export function renderStatsTable(stats, lang) {
         ["Last updated", lastUpdated],
       ]
     );
+  } else if (lang === "ja") {
+    table = renderTable(
+      ["指標", "値"],
+      [
+        ["ケース総数", stats.total],
+        ["Seedance 2.5", stats.v25Count],
+        ["Seedance 2.0", stats.v20Count],
+        ["Seedance（バージョン未記載）", unversioned],
+        ["作者数", stats.authorCount],
+        ["他モデルでの再テスト", `${stats.retestCases} 件 / ${stats.retestRuns} 回`],
+        ["安定度スコア（測定済み）", `${stats.stabilityCases} 件 / 平均 ${avg}`],
+        ["最終更新", lastUpdated],
+      ]
+    );
   } else {
     table = renderTable(
       ["指标", "数值"],
@@ -345,8 +387,11 @@ export function renderStatsTable(stats, lang) {
   }
   const note = pickText(stats.retestBatchNote, "");
   if (!note) return table;
-  const noteLine =
-    lang === "en" ? `*Retest batch note: ${note}*` : `*复测批次说明：${note}*`;
+  const noteLine = t(lang, {
+    en: `*Retest batch note: ${note}*`,
+    zh: `*复测批次说明：${note}*`,
+    ja: `*再テストのバッチ注記: ${note}*`,
+  });
   return `${table}\n\n${noteLine}`;
 }
 
@@ -376,9 +421,9 @@ function fenceForPrompt(prompt) {
 
 function retestScorePart(finalScore, lang) {
   if (finalScore != null && finalScore !== "") {
-    return lang === "en" ? `(score ${finalScore})` : `(${finalScore} 分)`;
+    return t(lang, { en: `(score ${finalScore})`, zh: `(${finalScore} 分)`, ja: `(スコア ${finalScore})` });
   }
-  return lang === "en" ? "(score n/a)" : "(无评分)";
+  return t(lang, { en: "(score n/a)", zh: "(无评分)", ja: "(スコア n/a)" });
 }
 
 /** 单次复测 → "模型 · 日期 · ✅ reproduced (score 82) · [output](url)"。各段用 join 拼，绝不留悬空分隔符。 */
@@ -391,7 +436,7 @@ export function formatRetestRun(run, lang) {
     `${verdictInfo.icon} ${verdictInfo[lang]} ${retestScorePart(run.finalScore, lang)}`,
   ];
   if (run.artifactUrl) {
-    parts.push(lang === "en" ? `[output](${run.artifactUrl})` : `[产物](${run.artifactUrl})`);
+    parts.push(`[${t(lang, { en: "output", zh: "产物", ja: "出力" })}](${run.artifactUrl})`);
   }
   return parts.join(" · ");
 }
@@ -414,16 +459,21 @@ export function renderRetestBlock(caseObj, lang) {
     );
     const shownNote =
       sorted.length < total
-        ? lang === "en"
-          ? ` (latest ${sorted.length} shown)`
-          : `（仅列最近 ${sorted.length} 次）`
+        ? t(lang, {
+            en: ` (latest ${sorted.length} shown)`,
+            zh: `（仅列最近 ${sorted.length} 次）`,
+            ja: `（直近 ${sorted.length} 回のみ表示）`,
+          })
         : "";
-    const header =
-      lang === "en" ? `**Retests:** ${total} runs${shownNote}` : `**复测：** 共 ${total} 次${shownNote}`;
+    const header = t(lang, {
+      en: `**Retests:** ${total} runs${shownNote}`,
+      zh: `**复测：** 共 ${total} 次${shownNote}`,
+      ja: `**再テスト:** 計 ${total} 回${shownNote}`,
+    });
     return [header, "", ...sorted.map((r) => `- ${formatRetestRun(r, lang)}`)];
   }
-  const prefix = lang === "en" ? "**Retest:**" : "**复测：**";
-  const runsPart = total > 1 ? (lang === "en" ? ` · ${total} runs` : ` · 共 ${total} 次`) : "";
+  const prefix = t(lang, { en: "**Retest:**", zh: "**复测：**", ja: "**再テスト:**" });
+  const runsPart = total > 1 ? t(lang, { en: ` · ${total} runs`, zh: ` · 共 ${total} 次`, ja: ` · 計 ${total} 回` }) : "";
   return [`${prefix} ${formatRetestRun(summary.latest, lang)}${runsPart}`];
 }
 
@@ -433,7 +483,7 @@ export function renderRetestBlock(caseObj, lang) {
  */
 function renderStabilityLine(stabilityScore, lang) {
   if (!(stabilityScore > 0)) return null;
-  const prefix = lang === "en" ? "**Stability:**" : "**稳定度：**";
+  const prefix = t(lang, { en: "**Stability:**", zh: "**稳定度：**", ja: "**安定度:**" });
   return `${prefix} ${stabilityScore}/100`;
 }
 
@@ -522,27 +572,27 @@ export function renderPromptBlock(prompt, lang) {
 export function renderTemplateCard(template, lang, opts = {}) {
   assertLang(lang);
   const level = opts.level || 4;
-  const title = template.title[lang];
-  const desc = template.description[lang];
-  const useWhen = template.useWhen[lang];
-  // 规范形状是 {en:[...], zh:[...]}（goodcase 蒸馏层定的），不是逐项双语对象。
-  const guidance = (template.guidance?.[lang] || []).slice(0, 2);
+  const title = pickLang(template.title, lang);
+  const desc = pickLang(template.description, lang);
+  const useWhen = pickLang(template.useWhen, lang);
+  // 规范形状是 {en:[...], zh:[...]}（goodcase 蒸馏层定的），不是逐项双语对象；ja 回落 en。
+  const guidance = (pickLang(template.guidance, lang) || []).slice(0, 2);
   const exampleUrls = template.exampleCaseUrls || [];
   const lines = [];
   lines.push(`${"#".repeat(level)} ${title}`);
   lines.push("");
   lines.push(desc);
   lines.push("");
-  lines.push(lang === "en" ? `**Use when:** ${useWhen}` : `**适用场景:** ${useWhen}`);
+  lines.push(`${t(lang, { en: "**Use when:**", zh: "**适用场景:**", ja: "**使いどころ:**" })} ${useWhen}`);
   lines.push("");
   if (guidance.length) {
-    lines.push(lang === "en" ? "**Guidance:**" : "**要点:**");
+    lines.push(t(lang, { en: "**Guidance:**", zh: "**要点:**", ja: "**ポイント:**" }));
     lines.push("");
     for (const g of guidance) lines.push(`- ${g}`);
     lines.push("");
   }
   if (exampleUrls.length) {
-    const label = lang === "en" ? "Examples" : "示例";
+    const label = t(lang, { en: "Examples", zh: "示例", ja: "例" });
     const links = exampleUrls.map((u, i) => `[#${i + 1}](${u})`).join(" ");
     lines.push(`**${label}:** ${links}`);
     lines.push("");
@@ -624,17 +674,18 @@ export function renderTopTable(cases, lang, opts = {}) {
   assertLang(lang);
   const promptLinkFor = opts.promptLinkFor || (() => null);
   const startRank = opts.startRank || 1;
-  const headers =
-    lang === "en"
-      ? ["#", "Preview", "Case", "Version", "Heat", "Retest", "Links"]
-      : ["#", "预览", "案例", "版本", "热度", "复测", "链接"];
+  const headers = t(lang, {
+    en: ["#", "Preview", "Case", "Version", "Heat", "Retest", "Links"],
+    zh: ["#", "预览", "案例", "版本", "热度", "复测", "链接"],
+    ja: ["#", "プレビュー", "ケース", "バージョン", "ヒート", "再テスト", "リンク"],
+  });
   const rows = cases.map((c, i) => {
     const title = displayTitle(c, lang);
     const thumb = thumbCell(c, title);
     const promptHref = promptLinkFor(c);
     const links = [
-      promptHref ? `[${lang === "en" ? "prompt" : "完整 prompt"}](${promptHref})` : null,
-      c.sourceUrl ? `[${lang === "en" ? "source" : "原帖"}](${c.sourceUrl})` : null,
+      promptHref ? `[${t(lang, { en: "prompt", zh: "完整 prompt", ja: "プロンプト" })}](${promptHref})` : null,
+      c.sourceUrl ? `[${t(lang, { en: "source", zh: "原帖", ja: "元投稿" })}](${c.sourceUrl})` : null,
     ]
       .filter(Boolean)
       .join(" · ");
@@ -669,9 +720,14 @@ const GALLERY_FILE_BASE = {
 };
 
 /** 画廊总览页文件名：docs/gallery.md / docs/gallery.zh.md。 */
+/** 各语言 README 文件名。 */
+export function readmeFileName(lang) {
+  return t(lang, { en: "README.md", zh: "README_zh.md", ja: "README_ja.md" });
+}
+
 export function galleryIndexFileName(lang) {
   assertLang(lang);
-  return lang === "en" ? "gallery.md" : "gallery.zh.md";
+  return t(lang, { en: "gallery.md", zh: "gallery.zh.md", ja: "gallery.ja.md" });
 }
 
 export function galleryFileBase(bucket) {
@@ -680,7 +736,7 @@ export function galleryFileBase(bucket) {
 
 /** 单页时不带 -part-N，多页时带；两种语言的命名规则一致。base 默认沿用旧的 2.0 文件名。 */
 export function galleryPartFileName(lang, partNo, totalParts, base = GALLERY_FILE_BASE["2.0"]) {
-  const suffix = lang === "en" ? "md" : "zh.md";
+  const suffix = t(lang, { en: "md", zh: "zh.md", ja: "ja.md" });
   const name = totalParts === 1 ? base : `${base}-part-${partNo}`;
   return `${name}.${suffix}`;
 }
@@ -727,21 +783,29 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
     offset = rangeEnd;
     const pageTag =
       totalParts > 1
-        ? lang === "en"
-          ? ` (Part ${partNo}/${totalParts})`
-          : `（第 ${partNo}/${totalParts} 页）`
+        ? t(lang, {
+            en: ` (Part ${partNo}/${totalParts})`,
+            zh: `（第 ${partNo}/${totalParts} 页）`,
+            ja: `（Part ${partNo}/${totalParts}）`,
+          })
         : "";
-    const title = lang === "en" ? `# ${label} — Full Gallery${pageTag}` : `# ${label} — 全量案例${pageTag}`;
-    const intro =
-      lang === "en"
-        ? `All ${cases.length} ${label} prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.`
-        : `${label} 全部 ${cases.length} 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。`;
-    const readmeName = lang === "en" ? "README.md" : "README_zh.md";
+    const title = t(lang, {
+      en: `# ${label} — Full Gallery${pageTag}`,
+      zh: `# ${label} — 全量案例${pageTag}`,
+      ja: `# ${label} — 全ケース${pageTag}`,
+    });
+    const intro = t(lang, {
+      en: `All ${cases.length} ${label} prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.`,
+      zh: `${label} 全部 ${cases.length} 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。`,
+      ja: `${label} の全 ${cases.length} ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。`,
+    });
+    const readmeName = readmeFileName(lang);
     const indexName = galleryIndexFileName(lang);
-    const back =
-      lang === "en"
-        ? `← [Back to README](../${readmeName}) · [Gallery index](./${indexName})`
-        : `← [返回 README](../${readmeName}) · [画廊总览](./${indexName})`;
+    const back = t(lang, {
+      en: `← [Back to README](../${readmeName}) · [Gallery index](./${indexName})`,
+      zh: `← [返回 README](../${readmeName}) · [画廊总览](./${indexName})`,
+      ja: `← [README に戻る](../${readmeName}) · [ギャラリー索引](./${indexName})`,
+    });
     const nav =
       totalParts > 1
         ? Array.from({ length: totalParts }, (_, i) => {
@@ -753,9 +817,11 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
     const navLine = nav ? `${back} · ${nav}` : back;
     const rangeLine =
       totalParts > 1
-        ? lang === "en"
-          ? `This page: cases ${rangeStart}–${rangeEnd} of ${cases.length}.`
-          : `本页：第 ${rangeStart}–${rangeEnd} 条，共 ${cases.length} 条。`
+        ? t(lang, {
+            en: `This page: cases ${rangeStart}–${rangeEnd} of ${cases.length}.`,
+            zh: `本页：第 ${rangeStart}–${rangeEnd} 条，共 ${cases.length} 条。`,
+            ja: `このページ: ${cases.length} 件中 ${rangeStart}–${rangeEnd} 件目。`,
+          })
         : null;
     const lines = [title, "", intro, ...(rangeLine ? ["", rangeLine] : []), "", navLine, "", ...items.map((it) => it.markdown), "", navLine, ""];
     return {
@@ -805,13 +871,13 @@ export function renderCrossModelSection(cases, meta, lang) {
   const perModel = aggregateRetestsByModel(cases);
   if (perModel.size === 0) return null;
 
-  const heading = lang === "en" ? "## 🔁 Cross-model retests" : "## 🔁 跨模型复测";
-  const intro =
-    lang === "en"
-      ? "Every prompt here is re-run on other video models; verdicts and output artifacts are public, logged in goodcase.ai's retest history. Runs without a final score show as `score n/a`."
-      : "每条 prompt 都会在其他视频模型上重跑，结论与产物公开，记录在 goodcase.ai 的复测日志里。没有终评分的记录显示为“无评分”。";
-  const headers =
-    lang === "en" ? ["Model", "Runs", "Reproduction rate"] : ["模型", "次数", "复现率"];
+  const heading = t(lang, { en: "## 🔁 Cross-model retests", zh: "## 🔁 跨模型复测", ja: "## 🔁 クロスモデル再テスト" });
+  const intro = t(lang, {
+    en: "Every prompt here is re-run on other video models; verdicts and output artifacts are public, logged in goodcase.ai's retest history. Runs without a final score show as `score n/a`.",
+    zh: "每条 prompt 都会在其他视频模型上重跑，结论与产物公开，记录在 goodcase.ai 的复测日志里。没有终评分的记录显示为“无评分”。",
+    ja: "各プロンプトは他の動画モデルでも再生成され、判定と出力は goodcase.ai の再テスト履歴で公開されます。最終スコアのない実行は `スコア n/a` と表示されます。",
+  });
+  const headers = t(lang, { en: ["Model", "Runs", "Reproduction rate"], zh: ["模型", "次数", "复现率"], ja: ["モデル", "回数", "再現率"] });
   const rows = Array.from(perModel.entries())
     .sort((a, b) => b[1].runs - a[1].runs)
     .map(([model, { runs, reproduced }]) => {

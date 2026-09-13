@@ -39,10 +39,10 @@ Entries are additionally re-run on other video models where possible; verdicts, 
 
 ```bash
 npm test          # unit tests for scripts/lib/render.mjs
-npm run generate  # regenerates README.md, README_zh.md, docs/gallery*.md, assets/hero.svg, data/stats.json and the Skill reference
+npm run generate  # regenerates README.md, README_zh.md, README_ja.md, docs/gallery*.md, assets/hero.svg, data/stats.json and the Skill reference
 ```
 
-- `scripts/generate-readme.mjs` builds both READMEs (hero banner, badges, quick links, cross-model retest spotlight, featured entries, category overview, template tables, the Top 30 table, gallery links), the gallery index `docs/gallery.md` and the sharded galleries under `docs/`. Galleries are split per Seedance version and kept under ~350KB per file so GitHub renders them. It also writes `assets/hero.svg` (the banner, numbers baked in) and `data/stats.json` (read by the shields.io dynamic badges at the top of the README, so the counts update with every data sync).
+- `scripts/generate-readme.mjs` builds the three READMEs (English, Chinese, Japanese; case titles and template text stay English in the Japanese edition) (hero banner, badges, quick links, cross-model retest spotlight, featured entries, category overview, template tables, the Top 30 table, gallery links), the gallery index `docs/gallery.md` and the sharded galleries under `docs/`. Galleries are split per Seedance version and kept under ~350KB per file so GitHub renders them. It also writes `assets/hero.svg` (the banner, numbers baked in) and `data/stats.json` (read by the shields.io dynamic badges at the top of the README, so the counts update with every data sync).
 - `scripts/lib/render.mjs` holds the entry, table and gallery renderers; `scripts/lib/sections.mjs` holds the newer README sections (quick links, retest spotlight, category overview, template tables, hero SVG, gallery index). Both are pure functions over the data, covered by `scripts/lib/render.test.mjs`.
 - `scripts/generate-skill-reference.mjs` builds `agents/skills/seedance-prompt-library/references/style-library.md` from `data/style-library.json`.
 - `.github/workflows/update-readme.yml` runs the same two commands on every change to `data/` or `scripts/` and commits the result, so you never need to regenerate by hand on `main`.

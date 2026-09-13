@@ -24,6 +24,8 @@ import {
   bucketLabel,
   githubSlug,
   galleryIndexFileName,
+  readmeFileName,
+  LANGS,
   SEEDANCE_BUCKETS,
   README_SIZE_BUDGET_BYTES,
   FEATURED_COUNT,
@@ -51,6 +53,13 @@ function loadJson(relPath) {
 
 const casesData = loadJson("data/cases.json");
 const styleData = loadJson("data/style-library.json");
+// 复测花费（人工维护，公开牌价不含折扣）；文件不存在时聚焦区只说“花真钱”不给数字。
+let retestSpend = null;
+try {
+  retestSpend = loadJson("data/retest-spend.json");
+} catch {
+  retestSpend = null;
+}
 const cases = casesData.cases || [];
 const templates = styleData.templates || [];
 const categories = styleData.categories || [];
@@ -69,9 +78,16 @@ const categoryGroups = buildCategoryGroups(templates, categories, casesBySlug);
 
 const AWESOME_BADGE = "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)";
 
+const LANG_LABELS = { en: "English", zh: "中文", ja: "日本語" };
+function renderLangSwitch(lang) {
+  return LANGS.map((l) => {
+    const link = `[${LANG_LABELS[l]}](./${readmeFileName(l)})`;
+    return l === lang ? `**${link}**` : link;
+  }).join(" | ");
+}
+
 const COPY = {
   en: {
-    langSwitch: "**[English](./README.md)** | [中文](./README_zh.md)",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
@@ -158,7 +174,6 @@ const COPY = {
       "Code in this repository is open source under the [MIT License](./LICENSE): use it, modify it, build on it, keep the license notice. Curation is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); prompts and media stay with their creators. Details above under [Copyright & Takedown Notice](#copyright--takedown-notice).",
   },
   zh: {
-    langSwitch: "[English](./README.md) | **[中文](./README_zh.md)**",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
     tagline: (s) =>
@@ -242,6 +257,90 @@ const COPY = {
     licenseBody:
       "本仓库代码基于 [MIT 许可证](./LICENSE)开源：可以自由使用、修改、分发并在此基础上构建，保留许可声明即可。策展内容为 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)；prompt 与媒体版权归原作者。详见上方[版权与下架政策](#版权与下架政策)。",
   },
+  ja: {
+    title: `# Awesome Seedance ${AWESOME_BADGE}`,
+    heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
+    tagline: (s) =>
+      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ: ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、インストール可能な Agent Skill 1 つ。goodcase.ai から同期し、新しいケースが毎日追加されます。**`,
+    backlink:
+      "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
+    contentsHeading: "## 目次",
+    installHeading: "## インストール",
+    installBody: [
+      "```bash",
+      "npx seedance-prompt-library install",
+      "```",
+      "",
+      "`seedance-prompt-library` Agent Skill を Claude Code と Codex にインストールします。エージェントが構造化されたプロンプトテンプレートを引き、エディタ内で直接 Seedance プロンプトを書けるようになります。[skills CLI](https://github.com/vercel-labs/skills) 派なら `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` で同じ Skill が入ります。",
+    ].join("\n"),
+    pillarsHeading: "## このリストの特徴",
+    pillars: [
+      "**元投稿と人手で照合済み。** ここにあるプロンプトはすべて作者の元投稿と突き合わせています。出力動画から逆算しただけで出典も投稿もないプロンプトは、[goodcase.ai の収録基準](https://goodcase.ai/standards)（2026-08-05 施行）に従い一律で却下します。",
+      "**別モデルで再生成済み。** 大半のケースは別の動画モデルで再生成し、判定・スコア・出力を公開しています。[クロスモデル再テスト](#-クロスモデル再テスト)を参照。",
+      "**全エントリに完全な出典。** 作者、元投稿リンク、公開日、そして同一プラットフォーム上の公開ケースにおける相対パーセンタイルであるヒートスコア。ランクインしなかったものはここにありません。",
+      "**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実証済みの構造から Seedance プロンプトを書きます。",
+    ],
+    featuredHeading: "## ⭐ 注目ケース",
+    featuredIntro: `全 Seedance バージョンを通じたヒートスコア上位 ${FEATURED_COUNT} 件。長いプロンプトは折りたたんであります。クリックで展開。`,
+    templatesHeading: "## 🧩 プロンプトテンプレート",
+    topHeading: `## 🔥 ヒート Top ${TOP_INLINE_COUNT}`,
+    topIntro: (shown) =>
+      `全バージョンでヒートが高い ${shown} 件（1–${FEATURED_COUNT} 位は上の ⭐ 注目ケースにも全文掲載）。*プロンプト* はギャラリーの完全なエントリ、*元投稿* は作者のオリジナル投稿を開きます。`,
+    allHeading: "## 🎬 全プロンプト",
+    allIntro: (total) =>
+      `全 ${total} ケースのプロンプト全文は \`docs/\` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:`,
+    galleryLink: (label, count, parts) => {
+      const partLinks =
+        parts.length === 1
+          ? `[全ギャラリー](./docs/${parts[0].fileName})`
+          : parts.map((p) => `[Part ${p.partNo}（${p.rangeStart}–${p.rangeEnd} 件目）](./docs/${p.fileName})`).join(" · ");
+      return `- ${label} - ${count} 件: ${partLinks}。`;
+    },
+    browseHeading: "## 🌐 goodcase.ai で閲覧",
+    browseBody: [
+      `この README は索引です。フル機能は [goodcase.ai](${LIVE_SITE_URL}) にあります: 全ケース横断検索、ヒートランキング、安定度ランキング、出力動画付きのケース別再テスト記録、そしてケースから育ったインストール可能な Skill。ここの各エントリは goodcase.ai のレコードにリンクしています。`,
+      "",
+      `[<img src="./assets/goodcase-seedance-gallery.png" width="800" alt="goodcase.ai 上の Seedance ケース">](${LIVE_SITE_URL})`,
+    ].join("\n"),
+    statsHeading: "## 統計",
+    statsNote: "各ケースは 1 回だけ数えます。複数の Seedance バージョンが付いたケースは最上位バージョンに計上します。",
+    howToHeading: "## 🚀 このリポジトリの使い方",
+    howToBody: [
+      "1. [⭐ 注目ケース](#-注目ケース) か [🔥 ヒート Top 30](#-ヒート-top-30) から始めて、作りたいクリップの種類を決めます: vlog、広告、対話、アクション、スタイライズ。",
+      "2. [🗂️ カテゴリ一覧](#%EF%B8%8F-カテゴリ一覧) か完全な[ギャラリー](./docs/gallery.ja.md)でそのカテゴリを開き、近いケースを 2、3 件読んで、まず *構造*（タイムライン、ショットリスト、アイデンティティ固定）を写し、次にスタイル語彙を写します。",
+      "3. Skill をインストール（`npx seedance-prompt-library install`）するか、[テンプレート表](#-プロンプトテンプレート)を開き、自分の被写体・舞台・ビートを対応するテンプレートに流し込みます。予算を使う前にそのケースの再テスト判定を確認してください。",
+    ].join("\n"),
+    contributeHeading: "## コントリビュート",
+    contributeBody: [
+      "**新しいプロンプトケース**は出典とヒートスコアを検証可能に保つため goodcase.ai のレビューパイプラインを通します: [goodcase.ai/submit](https://goodcase.ai/submit) から投稿（収録基準: [goodcase.ai/standards](https://goodcase.ai/standards)）。GitHub 派なら、[`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) に従って [`submissions/`](./submissions/) に JSON を 1 件追加するプルリクエストを開いてください。メンテナが同じレビューに回し、次回のエクスポートで `data/` に入ります。",
+      "",
+      "**プルリクエスト歓迎**: `data/style-library.json` のテンプレート修正、`scripts/` と `agents/` のジェネレータ・Skill コード、英語タイトルや要約の訂正。`README.md`、`README_zh.md`、`README_ja.md`、`docs/`、Skill リファレンスは `data/` から生成されるので手で編集しないでください。ソースを直し、`npm test && npm run generate` を実行し、再生成されたファイルを同じ PR に含めます。投稿基準、却下されるもの、ジェネレータの仕組みは [contributing.md](./contributing.md) を参照。本プロジェクトは[行動規範](./code-of-conduct.md)に従います。",
+    ].join("\n"),
+    ackHeading: "## 🙏 謝辞",
+    ackBody: [
+      "本プロジェクトのフォーマットと Skill のパッケージングは以下を参考にしました:",
+      "",
+      "- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - テンプレートライブラリ + インストール可能 Skill + マーケットプレイスのパターン。",
+      "- [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README をギャラリーにし、エントリごとに出典を付ける方式。",
+      "- [goodcase.ai](https://goodcase.ai) - 本リポジトリの全ケース、ヒートスコア、再テストの出所。",
+    ].join("\n"),
+    copyrightHeading: "## 著作権と削除申請",
+    copyrightBody: [
+      "本リポジトリには 3 種類の素材があり、それぞれ異なる条件で提供されます。",
+      "",
+      "**コード**（ジェネレータスクリプト、Agent Skill、ツール）は MIT License で公開しています。`LICENSE` ファイルを参照。MIT はコードのみを対象とします。",
+      "",
+      "**キュレーション**（選定、構成、統計、テンプレート抽出、私たちが書いた要約）は [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja) です。*awesome-seedance / goodcase.ai* のクレジットを付けて再利用できます。",
+      "",
+      "**プロンプトとメディア**の著作権は元の作者に帰属します。プロンプト本文、作者の要約、ポスター画像、動画参照は、記録と学習のために公開投稿から引用したものです。各エントリは元の出典と goodcase.ai のレコードにリンクしています。元投稿が許す範囲を超えて、プロンプトやメディアそのものに関するライセンスを付与するものではありません。",
+      "",
+      "**削除の手順。** 権利者でエントリの削除や訂正を希望する場合は、そのエントリの slug（goodcase.ai の URL から取得）と元の出典リンクを添えて GitHub issue を開くか、goodcase.ai に直接ご連絡ください。元投稿と照合し、確認できしだい対応します。エントリは `data/` から削除され、次回の再生成ですべての生成ファイルから消えます。",
+    ].join("\n"),
+    starHistory: "## Star History",
+    licenseHeading: "## License",
+    licenseBody:
+      "本リポジトリのコードは [MIT License](./LICENSE) のオープンソースです。ライセンス表記を残せば自由に使用・改変・配布・派生できます。キュレーションは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、プロンプトとメディアの権利は作者に帰属します。詳細は上の[著作権と削除申請](#著作権と削除申請)を参照。",
+  },
 };
 
 function renderStarHistory() {
@@ -288,7 +387,7 @@ function buildReadme(lang) {
   sections.push({ heading: c.pillarsHeading, body: c.pillars.flatMap((p) => [p, ""]).slice(0, -1) });
 
   // 复测聚焦区前置：meta.retests 缺失或 totalRuns 为 0 时返回 null，整节不渲染。
-  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang);
+  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend });
   if (spotlight) {
     const [heading, ...rest] = spotlight.split("\n");
     sections.push({ heading, body: rest.join("\n").trim().split("\n") });
@@ -351,7 +450,7 @@ function buildReadme(lang) {
   };
 
   const head = [];
-  head.push(c.langSwitch);
+  head.push(renderLangSwitch(lang));
   head.push("");
   head.push(`[<img src="./assets/hero.svg" width="100%" alt="${c.heroAlt}">](${LIVE_SITE_URL})`);
   head.push("");
@@ -392,11 +491,11 @@ function buildReadme(lang) {
   };
 }
 
-const enResult = buildReadme("en");
-const zhResult = buildReadme("zh");
-
-writeFileSync(path.join(ROOT, "README.md"), enResult.markdown, "utf8");
-writeFileSync(path.join(ROOT, "README_zh.md"), zhResult.markdown, "utf8");
+const results = Object.fromEntries(LANGS.map((lang) => [lang, buildReadme(lang)]));
+const enResult = results.en;
+for (const lang of LANGS) {
+  writeFileSync(path.join(ROOT, readmeFileName(lang)), results[lang].markdown, "utf8");
+}
 
 // 徽章读的统计快照 + 横幅 SVG（数字随数据走）。
 writeFileSync(path.join(ROOT, "data/stats.json"), JSON.stringify(snapshot, null, 2) + "\n", "utf8");
@@ -406,7 +505,7 @@ writeFileSync(path.join(ROOT, "assets/hero.svg"), renderHeroSvg(snapshot) + "\n"
 // 画廊文件：写新的，删掉本次没生成的旧 gallery-*.md（分页数变化时的残留）。
 const docsDir = path.join(ROOT, "docs");
 const written = new Set();
-for (const [lang, result] of [["en", enResult], ["zh", zhResult]]) {
+for (const [lang, result] of Object.entries(results)) {
   for (const bucket of SEEDANCE_BUCKETS) {
     for (const part of result.parts[bucket]) {
       writeFileSync(path.join(docsDir, part.fileName), part.markdown, "utf8");
@@ -426,8 +525,7 @@ for (const file of readdirSync(docsDir)) {
 
 const describe = (r) =>
   `${r.bytes} bytes${r.truncated ? ` (top table truncated, dropped ${r.droppedCount} rows)` : ""}`;
-console.log(`README.md: ${describe(enResult)}`);
-console.log(`README_zh.md: ${describe(zhResult)}`);
+for (const lang of LANGS) console.log(`${readmeFileName(lang)}: ${describe(results[lang])}`);
 for (const bucket of SEEDANCE_BUCKETS) {
   console.log(
     `gallery ${bucketLabel(bucket, "en")}: ${bucketCases[bucket].length} cases across ${enResult.parts[bucket].length} part(s)`

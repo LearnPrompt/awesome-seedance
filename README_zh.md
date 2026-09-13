@@ -1,4 +1,4 @@
-[English](./README.md) | **[中文](./README_zh.md)**
+[English](./README.md) | **[中文](./README_zh.md)** | [日本語](./README_ja.md)
 
 [<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
 
@@ -84,7 +84,7 @@ npx seedance-prompt-library install
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="goodcase.ai 案例页上的复测证据区">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-每次复测都是真金白银的推理费，结果好坏我们都照发。 想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)
+每次复测都是真金白银的推理费：到目前为止 257 次复测已超过 300 美元，按公开牌价算、不含任何折扣，别人复现同样的实验也是这个价。结果好坏我们都照发。 想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)
 
 ## ⭐ 精选
 

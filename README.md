@@ -1,4 +1,4 @@
-**[English](./README.md)** | [中文](./README_zh.md)
+**[English](./README.md)** | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
 [<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
 
@@ -84,7 +84,7 @@ Verdicts across all runs: ✅ 188 reproduced · ⚠️ 66 degraded · ❌ 3 fail
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="Retest evidence block on a goodcase.ai case page">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-Every run costs real inference money, and we publish the result whether or not it flatters the prompt. Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)
+Every run costs real inference money: over US$300 across 257 runs so far, at list price with no discounts, which is what anyone else would pay to reproduce them. We publish the result whether or not it flatters the prompt. Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)
 
 ## ⭐ Featured
 

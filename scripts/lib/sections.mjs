@@ -1,5 +1,6 @@
 // README 新增区块的渲染器（2026-09-13 对标 awesome-gpt-image-2 的最后一轮修改）：
 // 横幅 SVG、动态徽章、Quick Links、复测聚焦区、分类总览、模板紧凑表、画廊总览页。
+// 三语（en / zh / ja）：文案走 t(lang, {en, zh, ja})；数据里的多语字段（模板/分类只有 en/zh）走 pickLang，ja 回落 en。
 // 和 render.mjs 一样：只吃数据吐字符串，不碰文件系统。
 import {
   renderTable,
@@ -11,17 +12,18 @@ import {
   aggregateRetestsByModel,
   classifySeedance,
   bucketShortLabel,
+  bucketLabel,
   galleryIndexFileName,
+  readmeFileName,
+  t,
+  pickLang,
   THUMB_WIDTH,
 } from "./render.mjs";
 
 const REPO = "LearnPrompt/awesome-seedance";
 const RAW_STATS_URL = `https://raw.githubusercontent.com/${REPO}/main/data/stats.json`;
 export const LIVE_SITE_URL = "https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance";
-
-function assertLang(lang) {
-  if (lang !== "en" && lang !== "zh") throw new Error(`Unsupported lang: ${lang}`);
-}
+const SPONSOR_URL = `https://github.com/${REPO}/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor`;
 
 function escapeXml(str) {
   return String(str)
@@ -65,14 +67,19 @@ function dynamicBadge(query, label, color, href) {
 
 /** 顶部徽章行：案例数 / 复测次数 / 模板数 / 最近更新 走动态 JSON，Skill 版本走 npm，其余静态。 */
 export function renderBadges(lang) {
-  assertLang(lang);
-  const en = lang === "en";
+  const L = {
+    cases: t(lang, { en: "cases", zh: "案例", ja: "ケース" }),
+    retests: t(lang, { en: "cross-model retests", zh: "跨模型复测", ja: "クロスモデル再テスト" }),
+    templates: t(lang, { en: "templates", zh: "模板", ja: "テンプレート" }),
+    updated: t(lang, { en: "updated", zh: "更新", ja: "更新" }),
+    skill: t(lang, { en: "agent skill", zh: "Agent Skill", ja: "Agent Skill" }),
+  };
   return [
-    dynamicBadge("$.cases", en ? "cases" : "案例", "e8541e", "#-all-prompts"),
-    dynamicBadge("$.retestRuns", en ? "cross-model retests" : "跨模型复测", "111111", "#-cross-model-retests"),
-    dynamicBadge("$.templates", en ? "templates" : "模板", "111111", "#-prompt-templates"),
-    dynamicBadge("$.lastUpdated", en ? "updated" : "更新", "555555", LIVE_SITE_URL),
-    `[![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=${encodeURIComponent(en ? "agent skill" : "Agent Skill")}&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library)`,
+    dynamicBadge("$.cases", L.cases, "e8541e", "#-all-prompts"),
+    dynamicBadge("$.retestRuns", L.retests, "111111", "#-cross-model-retests"),
+    dynamicBadge("$.templates", L.templates, "111111", "#-prompt-templates"),
+    dynamicBadge("$.lastUpdated", L.updated, "555555", LIVE_SITE_URL),
+    `[![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=${encodeURIComponent(L.skill)}&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library)`,
     "[![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE)",
     "[![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)",
     "[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)",
@@ -114,15 +121,12 @@ export function renderHeroSvg(snapshot) {
   return [
     `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Awesome Seedance: ${snapshot.cases} verified cases, ${snapshot.retestRuns} cross-model retests, ${snapshot.templates} prompt templates, 1 agent skill">`,
     `<rect width="${W}" height="${H}" fill="${bg}"/>`,
-    // 网格线（Swiss grid 的暗示，很淡）
     ...Array.from({ length: 12 }, (_, i) => `<line x1="${(i * W) / 12}" y1="0" x2="${(i * W) / 12}" y2="${H}" stroke="${ink}" stroke-opacity="0.05" stroke-width="1"/>`),
     `<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" fill="none" stroke="${ink}" stroke-width="1"/>`,
-    // 顶栏
     `<rect x="40" y="36" width="12" height="12" fill="${accent}"/>`,
     `<text x="62" y="47" font-family="${mono}" font-size="13" letter-spacing="2" fill="${ink}">GOODCASE.AI · OPEN DATA</text>`,
     `<text x="${W - 40}" y="47" text-anchor="end" font-family="${mono}" font-size="13" letter-spacing="2" fill="${muted}">SYNCED ${escapeXml(snapshot.lastUpdated || "")} · DAILY</text>`,
     `<line x1="40" y1="64" x2="${W - 40}" y2="64" stroke="${ink}" stroke-width="1"/>`,
-    // 标题
     `<text x="40" y="150" font-family="${sans}" font-size="84" font-weight="800" letter-spacing="-3" fill="${ink}">Awesome <tspan fill="${accent}">Seedance</tspan></text>`,
     `<text x="40" y="196" font-family="${sans}" font-size="24" fill="${ink}">Verified Seedance 2.5 / 2.0 video prompts, each checked against its original post,</text>`,
     `<text x="40" y="228" font-family="${sans}" font-size="24" fill="${ink}">then re-run on a second model so you can see which ones actually hold up.</text>`,
@@ -134,53 +138,94 @@ export function renderHeroSvg(snapshot) {
 }
 
 // ---------------------------------------------------------------------------
+// 共用小件
+// ---------------------------------------------------------------------------
+
+function pageRange(p, listLength, lang, { withTotal = false } = {}) {
+  if (p.totalParts > 1) {
+    return t(lang, {
+      en: withTotal ? `cases ${p.rangeStart}–${p.rangeEnd} of ${listLength}` : `cases ${p.rangeStart}–${p.rangeEnd}`,
+      zh: withTotal ? `第 ${p.rangeStart}–${p.rangeEnd} 条，共 ${listLength} 条` : `第 ${p.rangeStart}–${p.rangeEnd} 条`,
+      ja: withTotal ? `${listLength} 件中 ${p.rangeStart}–${p.rangeEnd} 件目` : `${p.rangeStart}–${p.rangeEnd} 件目`,
+    });
+  }
+  return t(lang, { en: `${listLength} cases`, zh: `${listLength} 条`, ja: `${listLength} 件` });
+}
+
+function partTag(p, lang, style) {
+  if (p.totalParts <= 1) return "";
+  if (style === "inline") {
+    return t(lang, { en: `, part ${p.partNo}/${p.totalParts}`, zh: `，第 ${p.partNo}/${p.totalParts} 页`, ja: `、Part ${p.partNo}/${p.totalParts}` });
+  }
+  return t(lang, { en: ` · Part ${p.partNo}/${p.totalParts}`, zh: ` · 第 ${p.partNo}/${p.totalParts} 页`, ja: ` · Part ${p.partNo}/${p.totalParts}` });
+}
+
+// ---------------------------------------------------------------------------
 // Quick Links：和 Contents 的分工——Contents 是本页章节，Quick Links 是带数量的资产入口。
 // ---------------------------------------------------------------------------
 
 export function renderQuickLinks({ parts, bucketCases, templates, categories, stats }, lang) {
-  assertLang(lang);
-  const en = lang === "en";
   const lines = [];
-  lines.push(en ? "## Quick Links" : "## 快速入口");
+  lines.push(t(lang, { en: "## Quick Links", zh: "## 快速入口", ja: "## クイックリンク" }));
   lines.push("");
   lines.push(
-    en
-      ? "Jump straight to the assets. The Contents list below is the section map of this page."
-      : "直接跳到资产。下面的目录是本页章节地图。"
+    t(lang, {
+      en: "Jump straight to the assets. The Contents list below is the section map of this page.",
+      zh: "直接跳到资产。下面的目录是本页章节地图。",
+      ja: "アセットへ直接ジャンプ。下の目次はこのページのセクション一覧です。",
+    })
   );
   lines.push("");
   lines.push(
-    `- [${en ? "Gallery index" : "画廊总览"}](./docs/${galleryIndexFileName(lang)}) - ${
-      en ? `all ${stats.total} cases with full prompts, every page in one place.` : `全部 ${stats.total} 条案例（含完整 prompt），所有分页一处可达。`
-    }`
+    `- [${t(lang, { en: "Gallery index", zh: "画廊总览", ja: "ギャラリー索引" })}](./docs/${galleryIndexFileName(lang)}) - ${t(lang, {
+      en: `all ${stats.total} cases with full prompts, every page in one place.`,
+      zh: `全部 ${stats.total} 条案例（含完整 prompt），所有分页一处可达。`,
+      ja: `全 ${stats.total} ケースのプロンプト全文、全ページをここから。`,
+    })}`
   );
   for (const bucket of ["2.5", "2.0", "unspecified"]) {
     const list = bucketCases[bucket];
     if (!list || !list.length) continue;
-    const label = bucket === "unspecified" ? (en ? "Seedance (version unspecified)" : "Seedance（未标版本）") : `Seedance ${bucket}`;
+    const label = bucketLabel(bucket, lang);
     for (const p of parts[bucket]) {
-      const range = p.totalParts > 1 ? (en ? `cases ${p.rangeStart}–${p.rangeEnd}` : `第 ${p.rangeStart}–${p.rangeEnd} 条`) : en ? `${list.length} cases` : `${list.length} 条`;
-      const partTag = p.totalParts > 1 ? (en ? `, part ${p.partNo}/${p.totalParts}` : `，第 ${p.partNo}/${p.totalParts} 页`) : "";
-      lines.push(`- [${label}${partTag}](./docs/${p.fileName}) - ${range}.`);
+      lines.push(`- [${label}${partTag(p, lang, "inline")}](./docs/${p.fileName}) - ${pageRange(p, list.length, lang)}.`);
     }
   }
   lines.push(
-    `- [${en ? "Prompt templates" : "Prompt 模板"}](#-prompt-templates) - ${
-      en ? `${templates.length} reusable structures in ${categories.length} categories.` : `${categories.length} 类共 ${templates.length} 个可复用结构。`
-    }`
+    `- [${t(lang, { en: "Prompt templates", zh: "Prompt 模板", ja: "プロンプトテンプレート" })}](#-prompt-templates) - ${t(lang, {
+      en: `${templates.length} reusable structures in ${categories.length} categories.`,
+      zh: `${categories.length} 类共 ${templates.length} 个可复用结构。`,
+      ja: `${categories.length} カテゴリ、${templates.length} 個の再利用可能な構造。`,
+    })}`
   );
   lines.push(
-    `- [${en ? "Agent Skill" : "Agent Skill"}](./agents/skills/seedance-prompt-library/) - ${
-      en ? "`npx seedance-prompt-library install` for Claude Code / Codex." : "`npx seedance-prompt-library install` 装进 Claude Code / Codex。"
-    }`
+    `- [Agent Skill](./agents/skills/seedance-prompt-library/) - ${t(lang, {
+      en: "`npx seedance-prompt-library install` for Claude Code / Codex.",
+      zh: "`npx seedance-prompt-library install` 装进 Claude Code / Codex。",
+      ja: "`npx seedance-prompt-library install` で Claude Code / Codex に導入。",
+    })}`
   );
   lines.push(
-    `- [${en ? "Live site on goodcase.ai" : "goodcase.ai 在线站"}](${LIVE_SITE_URL}) - ${
-      en ? "search, heat leaderboard, stability ranking, retest logs." : "搜索、热度榜、稳定度榜、复测记录。"
-    }`
+    `- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${LIVE_SITE_URL}) - ${t(lang, {
+      en: "search, heat leaderboard, stability ranking, retest logs.",
+      zh: "搜索、热度榜、稳定度榜、复测记录。",
+      ja: "検索、ヒートランキング、安定度ランキング、再テスト記録。",
+    })}`
   );
-  lines.push(`- [${en ? "Contributing" : "投稿与贡献"}](./contributing.md) - ${en ? "how to submit a case or open a PR." : "怎么投案例、怎么提 PR。"}`);
-  lines.push(`- [${en ? "License" : "许可证"}](#license) - ${en ? "MIT code, CC BY 4.0 curation, prompts stay with their creators." : "代码 MIT，策展 CC BY 4.0，prompt 版权归原作者。"}`);
+  lines.push(
+    `- [${t(lang, { en: "Contributing", zh: "投稿与贡献", ja: "コントリビュート" })}](./contributing.md) - ${t(lang, {
+      en: "how to submit a case or open a PR.",
+      zh: "怎么投案例、怎么提 PR。",
+      ja: "ケースの投稿方法と PR の出し方。",
+    })}`
+  );
+  lines.push(
+    `- [${t(lang, { en: "License", zh: "许可证", ja: "ライセンス" })}](#license) - ${t(lang, {
+      en: "MIT code, CC BY 4.0 curation, prompts stay with their creators.",
+      zh: "代码 MIT，策展 CC BY 4.0，prompt 版权归原作者。",
+      ja: "コードは MIT、キュレーションは CC BY 4.0、プロンプトの権利は作者に帰属。",
+    })}`
+  );
   return lines.join("\n");
 }
 
@@ -189,10 +234,10 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
 // ---------------------------------------------------------------------------
 
 const VERDICT_LABEL = {
-  reproduced: { icon: "✅", en: "reproduced", zh: "复现" },
-  degraded: { icon: "⚠️", en: "degraded", zh: "降级" },
-  failed: { icon: "❌", en: "failed", zh: "失败" },
-  inconclusive: { icon: "➖", en: "inconclusive", zh: "不确定" },
+  reproduced: { icon: "✅", en: "reproduced", zh: "复现", ja: "再現" },
+  degraded: { icon: "⚠️", en: "degraded", zh: "降级", ja: "劣化" },
+  failed: { icon: "❌", en: "failed", zh: "失败", ja: "失敗" },
+  inconclusive: { icon: "➖", en: "inconclusive", zh: "不确定", ja: "判定不能" },
 };
 
 function verdictCounts(cases) {
@@ -221,9 +266,35 @@ export function pickRetestShowcase(cases, count = 3) {
   return picked;
 }
 
+/**
+ * 复测花费一句话。spend 形状 { usd, approx?: "over"|"about", basis?: "list-price" }，
+ * 来自 data/retest-spend.json（人工维护，按公开牌价、不含折扣）；没有就只说“花真钱”。
+ */
+export function renderSpendLine(spend, runs, lang) {
+  if (!spend || spend.usd == null) {
+    return t(lang, {
+      en: "Every run costs real inference money, and we publish the result whether or not it flatters the prompt.",
+      zh: "每次复测都是真金白银的推理费，结果好坏我们都照发。",
+      ja: "再テストは毎回、実費の推論コストがかかります。結果が良くても悪くてもそのまま公開します。",
+    });
+  }
+  const over = spend.approx !== "about";
+  const listPrice = spend.basis === "list-price";
+  const n = spend.runs ?? runs;
+  return t(lang, {
+    en: `Every run costs real inference money: ${over ? "over" : "about"} US$${spend.usd} across ${n} runs so far${
+      listPrice ? ", at list price with no discounts, which is what anyone else would pay to reproduce them" : ""
+    }. We publish the result whether or not it flatters the prompt.`,
+    zh: `每次复测都是真金白银的推理费：到目前为止 ${n} 次复测${over ? "已超过" : "约"} ${spend.usd} 美元${
+      listPrice ? "，按公开牌价算、不含任何折扣，别人复现同样的实验也是这个价" : ""
+    }。结果好坏我们都照发。`,
+    ja: `再テストは毎回、実費の推論コストがかかります。これまで ${n} 回で ${over ? "US$" + spend.usd + " 超" : "約 US$" + spend.usd}${
+      listPrice ? "（定価ベース、割引なし。誰が再現しても同じ金額です）" : ""
+    }。結果が良くても悪くてもそのまま公開します。`,
+  });
+}
+
 export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
-  assertLang(lang);
-  const en = lang === "en";
   const retestsMeta = meta && meta.retests;
   if (!retestsMeta || !retestsMeta.totalRuns) return null;
   const perModel = aggregateRetestsByModel(cases);
@@ -232,17 +303,20 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   const runs = retestsMeta.totalRuns;
   const casesWith = retestsMeta.casesWithRetests || 0;
   const screenshot = opts.screenshot || "./assets/goodcase-retest-evidence.png";
+  const spend = opts.spend ?? meta.retestSpend ?? null;
 
   const lines = [];
-  lines.push(en ? "## 🔁 Cross-model retests" : "## 🔁 跨模型复测");
+  lines.push(t(lang, { en: "## 🔁 Cross-model retests", zh: "## 🔁 跨模型复测", ja: "## 🔁 クロスモデル再テスト" }));
   lines.push("");
   lines.push(
-    en
-      ? `**As far as we know, this is the first public prompt library that re-runs its video prompts on a second model at scale and publishes the result either way.** ${casesWith} of the cases here have been re-run (${runs} runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.`
-      : `**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 这里已有 ${casesWith} 条案例被重跑过（累计 ${runs} 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。`
+    t(lang, {
+      en: `**As far as we know, this is the first public prompt library that re-runs its video prompts on a second model at scale and publishes the result either way.** ${casesWith} of the cases here have been re-run (${runs} runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.`,
+      zh: `**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 这里已有 ${casesWith} 条案例被重跑过（累计 ${runs} 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。`,
+      ja: `**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** ここに掲載された ${casesWith} ケースが再テスト済み（累計 ${runs} 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。`,
+    })
   );
   lines.push("");
-  const headers = en ? ["Model", "Runs", "Reproduction rate"] : ["模型", "次数", "复现率"];
+  const headers = t(lang, { en: ["Model", "Runs", "Reproduction rate"], zh: ["模型", "次数", "复现率"], ja: ["モデル", "回数", "再現率"] });
   const rows = Array.from(perModel.entries())
     .sort((a, b) => b[1].runs - a[1].runs)
     .map(([model, { runs: n, reproduced }]) => [model, String(n), n > 0 ? `${Math.round((reproduced / n) * 100)}%` : "-"]);
@@ -252,27 +326,41 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
     .map((k) => `${VERDICT_LABEL[k].icon} ${counts[k]} ${VERDICT_LABEL[k][lang]}`)
     .join(" · ");
   lines.push(
-    en
-      ? `Verdicts across all runs: ${verdictLine}. Runs without a final score show as \`score n/a\`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).`
-      : `全部复测的结论分布：${verdictLine}。没有终评分的记录显示为“无评分”。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。`
+    t(lang, {
+      en: `Verdicts across all runs: ${verdictLine}. Runs without a final score show as \`score n/a\`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).`,
+      zh: `全部复测的结论分布：${verdictLine}。没有终评分的记录显示为“无评分”。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。`,
+      ja: `全実行の判定内訳: ${verdictLine}。最終スコアのない実行は \`スコア n/a\` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。`,
+    })
   );
   lines.push("");
 
-  // 样例对比表：原作封面 vs 复测产物
   const showcase = pickRetestShowcase(cases, 3);
   if (showcase.length) {
-    lines.push(en ? "**Same prompt, second model.** Three examples, including one that did not hold up:" : "**同一段 prompt，换一个模型。** 三个样例，其中一个没扛住：");
+    lines.push(
+      t(lang, {
+        en: "**Same prompt, second model.** Three examples, including one that did not hold up:",
+        zh: "**同一段 prompt，换一个模型。** 三个样例，其中一个没扛住：",
+        ja: "**同じプロンプト、別のモデル。** 3 つの例。うち 1 つは持ちこたえられなかったものです:",
+      })
+    );
     lines.push("");
-    const h = en ? ["Case", "Original (Seedance)", "Retest", "Verdict"] : ["案例", "原作（Seedance）", "复测", "结论"];
+    const h = t(lang, {
+      en: ["Case", "Original (Seedance)", "Retest", "Verdict"],
+      zh: ["案例", "原作（Seedance）", "复测", "结论"],
+      ja: ["ケース", "オリジナル（Seedance）", "再テスト", "判定"],
+    });
     const r = showcase.map((c) => {
       const latest = c.retestSummary.latest;
       const v = VERDICT_LABEL[latest.verdict] || VERDICT_LABEL.inconclusive;
-      const score = latest.finalScore != null && latest.finalScore !== "" ? (en ? `score ${latest.finalScore}` : `${latest.finalScore} 分`) : en ? "score n/a" : "无评分";
+      const hasScore = latest.finalScore != null && latest.finalScore !== "";
+      const score = hasScore
+        ? t(lang, { en: `score ${latest.finalScore}`, zh: `${latest.finalScore} 分`, ja: `スコア ${latest.finalScore}` })
+        : t(lang, { en: "score n/a", zh: "无评分", ja: "スコア n/a" });
       const title = displayTitle(c, lang);
       return [
-        `[${title}](${c.goodcaseUrl})<br>${bucketShortLabel(classifySeedance(c), lang)} · ${en ? "heat" : "热度"} ${c.heatScore ?? "-"}`,
+        `[${title}](${c.goodcaseUrl})<br>${bucketShortLabel(classifySeedance(c), lang)} · ${t(lang, { en: "heat", zh: "热度", ja: "ヒート" })} ${c.heatScore ?? "-"}`,
         thumbCell(c, title, 160),
-        `${latest.model}<br>[${en ? "▶ output video" : "▶ 复测视频"}](${latest.artifactUrl})`,
+        `${latest.model}<br>[${t(lang, { en: "▶ output video", zh: "▶ 复测视频", ja: "▶ 出力動画" })}](${latest.artifactUrl})`,
         `${v.icon} ${v[lang]} (${score})`,
       ];
     });
@@ -280,26 +368,20 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
     lines.push("");
   }
 
-  lines.push(`[<img src="${screenshot}" width="800" alt="${en ? "Retest evidence block on a goodcase.ai case page" : "goodcase.ai 案例页上的复测证据区"}">](https://goodcase.ai/cases/${encodeURIComponent(showcase[0]?.slug || "")})`);
+  const alt = t(lang, {
+    en: "Retest evidence block on a goodcase.ai case page",
+    zh: "goodcase.ai 案例页上的复测证据区",
+    ja: "goodcase.ai のケースページにある再テスト証拠ブロック",
+  });
+  lines.push(`[<img src="${screenshot}" width="800" alt="${alt}">](https://goodcase.ai/cases/${encodeURIComponent(showcase[0]?.slug || "")})`);
   lines.push("");
 
-  // 钱与赞助：meta.retestSpend 由私仓导出层提供时才渲染具体数字，没有就只给赞助入口。
-  const spend = meta.retestSpend;
-  const spendLine =
-    spend && spend.usd != null
-      ? en
-        ? `Every run costs real inference money: about US$${spend.usd} across ${spend.runs ?? runs} runs so far, published whether or not the result flatters the prompt.`
-        : `每次复测都是真金白银的推理费：到目前为止约 US$${spend.usd}，共 ${spend.runs ?? runs} 次，结果好坏都照发。`
-      : en
-        ? "Every run costs real inference money, and we publish the result whether or not it flatters the prompt."
-        : "每次复测都是真金白银的推理费，结果好坏我们都照发。";
-  lines.push(
-    `${spendLine} ${
-      en
-        ? `Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/${REPO}/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)`
-        : `想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/${REPO}/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)`
-    }`
-  );
+  const cta = t(lang, {
+    en: `Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](${SPONSOR_URL})`,
+    zh: `想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](${SPONSOR_URL})`,
+    ja: `Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](${SPONSOR_URL})`,
+  });
+  lines.push(`${renderSpendLine(spend, runs, lang)} ${cta}`);
   lines.push("");
   return lines.join("\n");
 }
@@ -320,9 +402,9 @@ const CATEGORY_ICON = {
 /** 每个分类：模板列表、去重后的示例案例（按热度）、封面案例。 */
 export function buildCategoryGroups(templates, categories, casesBySlug) {
   return categories.map((cat) => {
-    const tpls = templates.filter((t) => t.category === cat.id);
+    const tpls = templates.filter((tp) => tp.category === cat.id);
     const slugs = new Set();
-    for (const t of tpls) for (const s of t.exampleCases || []) slugs.add(s);
+    for (const tp of tpls) for (const s of tp.exampleCases || []) slugs.add(s);
     const cases = sortByHeat(Array.from(slugs).map((s) => casesBySlug.get(s)).filter(Boolean));
     return { category: cat, templates: tpls, cases, cover: cases[0] || null };
   });
@@ -331,39 +413,49 @@ export function buildCategoryGroups(templates, categories, casesBySlug) {
 export function categoryHeading(group, lang) {
   const icon = CATEGORY_ICON[group.category.id] || "🧩";
   const n = group.templates.length;
-  const title = group.category.title[lang];
-  return lang === "en" ? `### ${icon} ${title} (${n} ${n === 1 ? "template" : "templates"})` : `### ${icon} ${title}（${n} 个模板）`;
+  const title = pickLang(group.category.title, lang);
+  return t(lang, {
+    en: `### ${icon} ${title} (${n} ${n === 1 ? "template" : "templates"})`,
+    zh: `### ${icon} ${title}（${n} 个模板）`,
+    ja: `### ${icon} ${title}（テンプレート ${n} 件）`,
+  });
 }
 
 export function renderCategoryOverview(groups, lang) {
-  assertLang(lang);
-  const en = lang === "en";
   const lines = [];
-  lines.push(en ? "## 🗂️ Category Overview" : "## 🗂️ 分类总览");
+  lines.push(t(lang, { en: "## 🗂️ Category Overview", zh: "## 🗂️ 分类总览", ja: "## 🗂️ カテゴリ一覧" }));
   lines.push("");
   lines.push(
-    en
-      ? "Start from the look you want, then open that category's templates to turn it into a reusable structure. Each tile links to the templates below and to the verified cases behind them."
-      : "先从想要的画面类型入手，再打开该分类的模板，把它变成可复用的结构。每格都链到下方的模板和它背后的已验证案例。"
+    t(lang, {
+      en: "Start from the look you want, then open that category's templates to turn it into a reusable structure. Each tile links to the templates below and to the verified cases behind them.",
+      zh: "先从想要的画面类型入手，再打开该分类的模板，把它变成可复用的结构。每格都链到下方的模板和它背后的已验证案例。",
+      ja: "作りたい絵柄から入り、そのカテゴリのテンプレートを開いて再利用可能な構造に落とし込みます。各タイルは下のテンプレートと、その裏付けとなる検証済みケースにリンクしています。",
+    })
   );
   lines.push("");
   const cols = 3;
-  lines.push('<table>');
+  lines.push("<table>");
   for (let i = 0; i < groups.length; i += cols) {
     lines.push("<tr>");
     for (const g of groups.slice(i, i + cols)) {
       const icon = CATEGORY_ICON[g.category.id] || "🧩";
-      const title = g.category.title[lang];
+      const title = pickLang(g.category.title, lang);
       const anchor = `#${githubSlug(categoryHeading(g, lang).replace(/^###\s+/, ""))}`;
       const cover = g.cover;
       const img = cover
         ? `<a href="${cover.goodcaseUrl}"><img src="${cover.posterUrl}" width="260" alt="${escapeXml(displayTitle(cover, lang))}"></a>`
         : "";
-      const countLine = en
-        ? `${g.templates.length} ${g.templates.length === 1 ? "template" : "templates"} · ${g.cases.length} verified cases`
-        : `${g.templates.length} 个模板 · ${g.cases.length} 条已验证案例`;
-      const desc = g.category.description[lang];
-      const links = `<a href="${anchor}">${en ? "View templates" : "查看模板"}</a>${cover ? ` · <a href="${cover.goodcaseUrl}">${en ? "Top case" : "热度最高案例"}</a>` : ""}`;
+      const nT = g.templates.length;
+      const nC = g.cases.length;
+      const countLine = t(lang, {
+        en: `${nT} ${nT === 1 ? "template" : "templates"} · ${nC} verified cases`,
+        zh: `${nT} 个模板 · ${nC} 条已验证案例`,
+        ja: `テンプレート ${nT} 件 · 検証済みケース ${nC} 件`,
+      });
+      const desc = pickLang(g.category.description, lang);
+      const viewTpl = t(lang, { en: "View templates", zh: "查看模板", ja: "テンプレートを見る" });
+      const topCase = t(lang, { en: "Top case", zh: "热度最高案例", ja: "トップケース" });
+      const links = `<a href="${anchor}">${viewTpl}</a>${cover ? ` · <a href="${cover.goodcaseUrl}">${topCase}</a>` : ""}`;
       lines.push(
         `<td width="33%" valign="top" align="center"><b>${icon} ${escapeXml(title)}</b><br><sub>${escapeXml(countLine)}</sub><br><br>${img}<br><sub>${escapeXml(desc)}</sub><br>${links}</td>`
       );
@@ -379,28 +471,28 @@ export function renderCategoryOverview(groups, lang) {
 // ---------------------------------------------------------------------------
 
 export function renderTemplateTables(groups, lang, opts = {}) {
-  assertLang(lang);
-  const en = lang === "en";
   const refPath = opts.referencePath || "./agents/skills/seedance-prompt-library/references/style-library.md";
   const lines = [];
   lines.push(
-    en
-      ? `Reusable prompt structures distilled from the highest-performing cases, grouped by category. Each row is one template; the full structure, guidance and pitfalls for every template live in the [Skill reference](${refPath}) and ship with \`npx seedance-prompt-library install\`.`
-      : `从最高热度案例里提炼出来的可复用 prompt 结构，按分类分组。每行一个模板；每个模板的完整结构、要点和坑都在 [Skill 参考文档](${refPath}) 里，\`npx seedance-prompt-library install\` 会一起装上。`
+    t(lang, {
+      en: `Reusable prompt structures distilled from the highest-performing cases, grouped by category. Each row is one template; the full structure, guidance and pitfalls for every template live in the [Skill reference](${refPath}) and ship with \`npx seedance-prompt-library install\`.`,
+      zh: `从最高热度案例里提炼出来的可复用 prompt 结构，按分类分组。每行一个模板；每个模板的完整结构、要点和坑都在 [Skill 参考文档](${refPath}) 里，\`npx seedance-prompt-library install\` 会一起装上。`,
+      ja: `高パフォーマンスのケースから抽出した再利用可能なプロンプト構造を、カテゴリ別にまとめました。1 行が 1 テンプレートです。各テンプレートの完全な構造・ポイント・落とし穴は [Skill リファレンス](${refPath}) にあり、\`npx seedance-prompt-library install\` で一緒に導入されます。テンプレート本文は英語です。`,
+    })
   );
   lines.push("");
   for (const g of groups) {
     lines.push(categoryHeading(g, lang));
     lines.push("");
-    lines.push(g.category.description[lang]);
+    lines.push(pickLang(g.category.description, lang));
     lines.push("");
-    const headers = en ? ["Template", "Use when", "Examples"] : ["模板", "适用场景", "示例"];
-    const rows = g.templates.map((t) => {
-      const title = t.title[lang];
+    const headers = t(lang, { en: ["Template", "Use when", "Examples"], zh: ["模板", "适用场景", "示例"], ja: ["テンプレート", "使いどころ", "例"] });
+    const rows = g.templates.map((tp) => {
+      const title = pickLang(tp.title, lang);
       const anchor = `${refPath}#${githubSlug(title)}`;
-      const useWhen = t.useWhen[lang];
-      const examples = (t.exampleCaseUrls || []).map((u, i) => `[#${i + 1}](${u})`).join(" ");
-      return [`**[${title}](${anchor})**<br><sub>${t.description[lang]}</sub>`, useWhen, examples || "-"];
+      const useWhen = pickLang(tp.useWhen, lang);
+      const examples = (tp.exampleCaseUrls || []).map((u, i) => `[#${i + 1}](${u})`).join(" ");
+      return [`**[${title}](${anchor})**<br><sub>${pickLang(tp.description, lang)}</sub>`, useWhen, examples || "-"];
     });
     lines.push(renderTable(headers, rows));
     lines.push("");
@@ -413,43 +505,60 @@ export function renderTemplateTables(groups, lang, opts = {}) {
 // ---------------------------------------------------------------------------
 
 export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks }, lang) {
-  assertLang(lang);
-  const en = lang === "en";
-  const readmeName = en ? "README.md" : "README_zh.md";
+  const readmeName = readmeFileName(lang);
+  const back = t(lang, {
+    en: `← [Back to README](../${readmeName})`,
+    zh: `← [返回 README](../${readmeName})`,
+    ja: `← [README に戻る](../${readmeName})`,
+  });
   const lines = [];
-  lines.push(en ? "# Awesome Seedance — Gallery Index" : "# Awesome Seedance — 画廊总览");
+  lines.push(t(lang, { en: "# Awesome Seedance — Gallery Index", zh: "# Awesome Seedance — 画廊总览", ja: "# Awesome Seedance — ギャラリー索引" }));
   lines.push("");
   lines.push(
-    en
-      ? `All ${cases.length} cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.`
-      : `全部 ${cases.length} 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。`
+    t(lang, {
+      en: `All ${cases.length} cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.`,
+      zh: `全部 ${cases.length} 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。`,
+      ja: `全 ${cases.length} ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。`,
+    })
   );
   lines.push("");
-  lines.push(en ? `← [Back to README](../${readmeName})` : `← [返回 README](../${readmeName})`);
+  lines.push(back);
   lines.push("");
-  lines.push(en ? "## Pages" : "## 分页");
+  lines.push(t(lang, { en: "## Pages", zh: "## 分页", ja: "## ページ" }));
   lines.push("");
   for (const bucket of ["2.5", "2.0", "unspecified"]) {
     const list = bucketCases[bucket];
     if (!list || !list.length) continue;
-    const label = bucket === "unspecified" ? (en ? "Seedance (version unspecified)" : "Seedance（未标版本）") : `Seedance ${bucket}`;
+    const label = bucketLabel(bucket, lang);
     for (const p of parts[bucket]) {
-      const partTag = p.totalParts > 1 ? (en ? ` · Part ${p.partNo}/${p.totalParts}` : ` · 第 ${p.partNo}/${p.totalParts} 页`) : "";
-      const range = p.totalParts > 1 ? (en ? `cases ${p.rangeStart}–${p.rangeEnd} of ${list.length}` : `第 ${p.rangeStart}–${p.rangeEnd} 条，共 ${list.length} 条`) : en ? `${list.length} cases` : `${list.length} 条`;
-      lines.push(`- [${label}${partTag}](./${p.fileName}) - ${range}.`);
+      lines.push(`- [${label}${partTag(p, lang, "dot")}](./${p.fileName}) - ${pageRange(p, list.length, lang, { withTotal: true })}.`);
     }
   }
   lines.push("");
-  lines.push(en ? "## Also in this repository" : "## 仓库里的其他入口");
+  lines.push(t(lang, { en: "## Also in this repository", zh: "## 仓库里的其他入口", ja: "## このリポジトリのその他の入口" }));
   lines.push("");
-  lines.push(`- [${en ? "Prompt templates" : "Prompt 模板"}](../${readmeName}#-prompt-templates)`);
-  lines.push(`- [${en ? "Agent Skill reference (full template text)" : "Agent Skill 参考（模板全文）"}](../agents/skills/seedance-prompt-library/references/style-library.md)`);
-  lines.push(`- [${en ? "Copyright & takedown notice" : "版权与下架政策"}](../${readmeName}#${en ? "copyright--takedown-notice" : "版权与下架政策"})`);
-  lines.push(`- [${en ? "Live site on goodcase.ai" : "goodcase.ai 在线站"}](${LIVE_SITE_URL})`);
+  lines.push(`- [${t(lang, { en: "Prompt templates", zh: "Prompt 模板", ja: "プロンプトテンプレート" })}](../${readmeName}#-prompt-templates)`);
+  lines.push(
+    `- [${t(lang, { en: "Agent Skill reference (full template text)", zh: "Agent Skill 参考（模板全文）", ja: "Agent Skill リファレンス（テンプレート全文）" })}](../agents/skills/seedance-prompt-library/references/style-library.md)`
+  );
+  lines.push(
+    `- [${t(lang, { en: "Copyright & takedown notice", zh: "版权与下架政策", ja: "著作権と削除申請" })}](../${readmeName}#${t(lang, {
+      en: "copyright--takedown-notice",
+      zh: "版权与下架政策",
+      ja: "著作権と削除申請",
+    })})`
+  );
+  lines.push(`- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${LIVE_SITE_URL})`);
   lines.push("");
-  lines.push(en ? "## Recommended entries" : "## 推荐入口");
+  lines.push(t(lang, { en: "## Recommended entries", zh: "## 推荐入口", ja: "## おすすめエントリ" }));
   lines.push("");
-  lines.push(en ? "The ten hottest cases across all versions; each link opens the full entry on its gallery page." : "全部版本里热度最高的十条；每个链接直达画廊分页里的完整条目。");
+  lines.push(
+    t(lang, {
+      en: "The ten hottest cases across all versions; each link opens the full entry on its gallery page.",
+      zh: "全部版本里热度最高的十条；每个链接直达画廊分页里的完整条目。",
+      ja: "全バージョンでヒートスコア上位 10 件。各リンクはギャラリーページの完全なエントリを開きます。",
+    })
+  );
   lines.push("");
   for (const c of sortByHeat(cases).slice(0, 10)) {
     const href = promptLinks.get(c.slug);
@@ -458,7 +567,7 @@ export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks }, l
     lines.push(`- [${title}](${href ? href.replace(/^\.\/docs\//, "./") : c.goodcaseUrl}) - ${summary}`);
   }
   lines.push("");
-  lines.push(en ? `← [Back to README](../${readmeName})` : `← [返回 README](../${readmeName})`);
+  lines.push(back);
   lines.push("");
   return lines.join("\n");
 }

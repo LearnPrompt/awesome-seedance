@@ -164,8 +164,13 @@ test("renderRetestSpotlight renders the claim, per-model table, verdict counts, 
   assert.match(md, /Sponsor a batch →\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/issues\/new/);
   assert.doesNotMatch(md, /US\$/); // 没有 meta.retestSpend 就不编数字
   assert.doesNotMatch(md, /\bnull\b|\bundefined\b/);
-  const withSpend = renderRetestSpotlight(cases, { ...casesData.meta, retestSpend: { usd: 120, runs: 5 } }, "en");
+  const withSpend = renderRetestSpotlight(cases, { ...casesData.meta, retestSpend: { usd: 120, runs: 5, approx: "about" } }, "en");
   assert.match(withSpend, /about US\$120 across 5 runs/);
+  // opts.spend（data/retest-spend.json）优先于 meta；默认 over + 牌价说明。
+  const listPrice = renderRetestSpotlight(cases, casesData.meta, "en", { spend: { usd: 300, approx: "over", basis: "list-price" } });
+  assert.match(listPrice, /over US\$300 across 5 runs so far, at list price with no discounts/);
+  assert.match(renderRetestSpotlight(cases, casesData.meta, "zh", { spend: { usd: 300, approx: "over", basis: "list-price" } }), /已超过 300 美元，按公开牌价算/);
+  assert.match(renderRetestSpotlight(cases, casesData.meta, "ja", { spend: { usd: 300, approx: "over", basis: "list-price" } }), /US\$300 超（定価ベース/);
   assert.match(renderRetestSpotlight(cases, casesData.meta, "zh"), /^## 🔁 跨模型复测/);
 });
 
