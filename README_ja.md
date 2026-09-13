@@ -4,30 +4,15 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ: 419 ケースをすべて元投稿と照合、257 回のクロスモデル再テスト、14 個の再利用可能テンプレート、25 個のインストール可能な AI 動画 Skill。母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1059 件の検証済み AI ケース。毎日同期し、新しいケースが毎日追加されます。**
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 419 ケースをすべて元投稿と照合、257 回のクロスモデル再テスト、14 個の再利用可能テンプレート、25 個のインストール可能な AI 動画 Skill。母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1059 件の検証済み AI ケース。毎日同期し、新しいケースが毎日追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-all-prompts) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-cross-model-retests) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-prompt-templates) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#install) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
 プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)
 
-## クイックリンク
-
-アセットへ直接ジャンプ。下の目次はこのページのセクション一覧です。
-
-- [ギャラリー索引](./docs/gallery.ja.md) - 全 419 ケースのプロンプト全文、全ページをここから。
-- [Seedance 2.5](./docs/gallery-seedance-2-5.ja.md) - 43 件.
-- [Seedance 2.0、Part 1/2](./docs/gallery-seedance-2-0-part-1.ja.md) - 1–96 件目.
-- [Seedance 2.0、Part 2/2](./docs/gallery-seedance-2-0-part-2.ja.md) - 97–130 件目.
-- [Seedance（バージョン未記載）、Part 1/3](./docs/gallery-seedance-unversioned-part-1.ja.md) - 1–93 件目.
-- [Seedance（バージョン未記載）、Part 2/3](./docs/gallery-seedance-unversioned-part-2.ja.md) - 94–189 件目.
-- [Seedance（バージョン未記載）、Part 3/3](./docs/gallery-seedance-unversioned-part-3.ja.md) - 190–246 件目.
-- [プロンプトテンプレート](#-prompt-templates) - 6 カテゴリ、14 個の再利用可能な構造。
-- [Agent Skill](./agents/skills/seedance-prompt-library/) - `npx seedance-prompt-library install` で Claude Code / Codex に導入。
-- [goodcase.ai の AI 動画 Skill](https://goodcase.ai/skills?category=video) - 動画ケースから育った 24 個のインストール可能な Skill。
-- [goodcase.ai のライブサイト](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - 検索、ヒートランキング、安定度ランキング、再テスト記録。
-
 ## 目次
 
+- [クイックリンク](#クイックリンク)
 - [インストール](#インストール)
 - [このリストの特徴](#このリストの特徴)
 - [🔁 クロスモデル再テスト](#-クロスモデル再テスト)
@@ -43,7 +28,23 @@
 - [🙏 謝辞](#-謝辞)
 - [著作権と削除申請](#著作権と削除申請)
 - [Star History](#star-history)
-- [License](#license)
+- [ライセンスと再利用](#ライセンスと再利用)
+
+## クイックリンク
+
+アセットへ直接ジャンプ。下の目次はこのページのセクション一覧です。
+
+- [ギャラリー索引](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.ja.md) - 全 419 ケースのプロンプト全文、全ページをここから。
+- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.ja.md) - 43 件.
+- [Seedance 2.0、Part 1/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.ja.md) - 1–96 件目.
+- [Seedance 2.0、Part 2/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.ja.md) - 97–130 件目.
+- [Seedance（バージョン未記載）、Part 1/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.ja.md) - 1–93 件目.
+- [Seedance（バージョン未記載）、Part 2/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.ja.md) - 94–189 件目.
+- [Seedance（バージョン未記載）、Part 3/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.ja.md) - 190–246 件目.
+- [プロンプトテンプレート](https://github.com/LearnPrompt/awesome-seedance/blob/main/README_ja.md#-prompt-templates) - 6 カテゴリ、14 個の再利用可能な構造。
+- [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - `npx seedance-prompt-library install` で Claude Code / Codex に導入。
+- [goodcase.ai の AI 動画 Skill](https://goodcase.ai/skills?category=video) - 動画ケースから育った 24 個のインストール可能な Skill。
+- [goodcase.ai のライブサイト](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - 検索、ヒートランキング、安定度ランキング、再テスト記録。
 ## インストール
 
 ```bash
@@ -469,7 +470,7 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 | 作者数                   | 158                   |
 | 他モデルでの再テスト            | 247 件 / 257 回         |
 | 安定度スコア（測定済み）          | 245 件 / 平均 78.0       |
-| 最終更新                  | 2026-09-12            |
+| 最終更新                  | 2026-09-13            |
 | goodcase.ai 全カテゴリ     | 1059 件 / クリエイター 334 人 |
 | goodcase.ai AI 動画     | 567 件                 |
 
@@ -511,6 +512,6 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance&Date)
 
-## License
+## ライセンスと再利用
 
 本リポジトリのコードは [MIT License](./LICENSE) のオープンソースです。ライセンス表記を残せば自由に使用・改変・配布・派生できます。キュレーションは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、プロンプトとメディアの権利は作者に帰属します。詳細は上の[著作権と削除申請](#著作権と削除申請)を参照。

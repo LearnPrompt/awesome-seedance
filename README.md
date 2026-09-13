@@ -4,30 +4,15 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library: 419 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 25 installable AI-video Skills, drawn from goodcase.ai's 1059 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.**
+**Verified Seedance 2.5 / 2.0 prompt library.** 419 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 25 installable AI-video Skills, drawn from goodcase.ai's 1059 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#install) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
 More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)
 
-## Quick Links
-
-Jump straight to the assets. The Contents list below is the section map of this page.
-
-- [Gallery index](./docs/gallery.md) - all 419 cases with full prompts, every page in one place.
-- [Seedance 2.5](./docs/gallery-seedance-2-5.md) - 43 cases.
-- [Seedance 2.0, part 1/2](./docs/gallery-seedance-2-0-part-1.md) - cases 1–96.
-- [Seedance 2.0, part 2/2](./docs/gallery-seedance-2-0-part-2.md) - cases 97–130.
-- [Seedance (version unspecified), part 1/3](./docs/gallery-seedance-unversioned-part-1.md) - cases 1–94.
-- [Seedance (version unspecified), part 2/3](./docs/gallery-seedance-unversioned-part-2.md) - cases 95–190.
-- [Seedance (version unspecified), part 3/3](./docs/gallery-seedance-unversioned-part-3.md) - cases 191–246.
-- [Prompt templates](#-prompt-templates) - 14 reusable structures in 6 categories.
-- [Agent Skill](./agents/skills/seedance-prompt-library/) - `npx seedance-prompt-library install` for Claude Code / Codex.
-- [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 24 installable Skills grown out of the video cases.
-- [Live site on goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - search, heat leaderboard, stability ranking, retest logs.
-
 ## Contents
 
+- [Quick Links](#quick-links)
 - [Install](#install)
 - [Why this list](#why-this-list)
 - [🔁 Cross-model retests](#-cross-model-retests)
@@ -43,7 +28,23 @@ Jump straight to the assets. The Contents list below is the section map of this 
 - [🙏 Acknowledgements](#-acknowledgements)
 - [Copyright & Takedown Notice](#copyright--takedown-notice)
 - [Star History](#star-history)
-- [License](#license)
+- [License & Reuse](#license--reuse)
+
+## Quick Links
+
+Jump straight to the assets. The Contents list below is the section map of this page.
+
+- [Gallery index](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.md) - All 419 cases with full prompts, every page in one place.
+- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.md) - 43 cases.
+- [Seedance 2.0, part 1/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.md) - Cases 1–96.
+- [Seedance 2.0, part 2/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.md) - Cases 97–130.
+- [Seedance (version unspecified), part 1/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.md) - Cases 1–94.
+- [Seedance (version unspecified), part 2/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.md) - Cases 95–190.
+- [Seedance (version unspecified), part 3/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.md) - Cases 191–246.
+- [Prompt templates](https://github.com/LearnPrompt/awesome-seedance/blob/main/README.md#-prompt-templates) - 14 reusable structures in 6 categories.
+- [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - Install with `npx seedance-prompt-library install` into Claude Code / Codex.
+- [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 24 installable Skills grown out of the video cases.
+- [Live site on goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - Search, heat leaderboard, stability ranking, retest logs.
 ## Install
 
 ```bash
@@ -469,7 +470,7 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 | Unique authors                 | 158                       |
 | Re-run on other models         | 247 cases / 257 runs      |
 | Stability score (measured)     | 245 cases / avg 78.0      |
-| Last updated                   | 2026-09-12                |
+| Last updated                   | 2026-09-13                |
 | goodcase.ai, all categories    | 1059 cases / 334 creators |
 | goodcase.ai, AI video          | 567 cases                 |
 
@@ -511,6 +512,6 @@ This repository carries three kinds of material under three different terms.
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance&Date)
 
-## License
+## License & Reuse
 
 Code in this repository is open source under the [MIT License](./LICENSE): use it, modify it, build on it, keep the license notice. Curation is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); prompts and media stay with their creators. Details above under [Copyright & Takedown Notice](#copyright--takedown-notice).

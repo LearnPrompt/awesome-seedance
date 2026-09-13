@@ -4,30 +4,15 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库：419 条案例逐条核对过原帖，257 次跨模型复测，14 个可复用模板，25 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1059 条已验证 AI 案例。每天同步，每天都有新案例进来。**
+**Seedance 2.5 / 2.0 提示词验证库。** 419 条案例逐条核对过原帖，257 次跨模型复测，14 个可复用模板，25 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1059 条已验证 AI 案例。每天同步，每天都有新案例进来。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-all-prompts) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-cross-model-retests) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-prompt-templates) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#install) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
 更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)
 
-## 快速入口
-
-直接跳到资产。下面的目录是本页章节地图。
-
-- [画廊总览](./docs/gallery.zh.md) - 全部 419 条案例（含完整 prompt），所有分页一处可达。
-- [Seedance 2.5](./docs/gallery-seedance-2-5.zh.md) - 43 条.
-- [Seedance 2.0，第 1/2 页](./docs/gallery-seedance-2-0-part-1.zh.md) - 第 1–96 条.
-- [Seedance 2.0，第 2/2 页](./docs/gallery-seedance-2-0-part-2.zh.md) - 第 97–130 条.
-- [Seedance（未标版本），第 1/3 页](./docs/gallery-seedance-unversioned-part-1.zh.md) - 第 1–94 条.
-- [Seedance（未标版本），第 2/3 页](./docs/gallery-seedance-unversioned-part-2.zh.md) - 第 95–190 条.
-- [Seedance（未标版本），第 3/3 页](./docs/gallery-seedance-unversioned-part-3.zh.md) - 第 191–246 条.
-- [Prompt 模板](#-prompt-templates) - 6 类共 14 个可复用结构。
-- [Agent Skill](./agents/skills/seedance-prompt-library/) - `npx seedance-prompt-library install` 装进 Claude Code / Codex。
-- [goodcase.ai 上更多 AI 视频 Skill](https://goodcase.ai/skills?category=video) - 24 个从视频案例里长出来的可安装 Skill。
-- [goodcase.ai 在线站](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - 搜索、热度榜、稳定度榜、复测记录。
-
 ## 目录
 
+- [快速入口](#快速入口)
 - [安装](#安装)
 - [为什么值得收藏这个仓库](#为什么值得收藏这个仓库)
 - [🔁 跨模型复测](#-跨模型复测)
@@ -43,7 +28,23 @@
 - [🙏 致谢](#-致谢)
 - [版权与下架政策](#版权与下架政策)
 - [Star History](#star-history)
-- [License](#license)
+- [许可与复用](#许可与复用)
+
+## 快速入口
+
+直接跳到资产。下面的目录是本页章节地图。
+
+- [画廊总览](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.zh.md) - 全部 419 条案例（含完整 prompt），所有分页一处可达。
+- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.zh.md) - 43 条.
+- [Seedance 2.0，第 1/2 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.zh.md) - 第 1–96 条.
+- [Seedance 2.0，第 2/2 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.zh.md) - 第 97–130 条.
+- [Seedance（未标版本），第 1/3 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.zh.md) - 第 1–94 条.
+- [Seedance（未标版本），第 2/3 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.zh.md) - 第 95–190 条.
+- [Seedance（未标版本），第 3/3 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.zh.md) - 第 191–246 条.
+- [Prompt 模板](https://github.com/LearnPrompt/awesome-seedance/blob/main/README_zh.md#-prompt-templates) - 6 类共 14 个可复用结构。
+- [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - `npx seedance-prompt-library install` 装进 Claude Code / Codex。
+- [goodcase.ai 上更多 AI 视频 Skill](https://goodcase.ai/skills?category=video) - 24 个从视频案例里长出来的可安装 Skill。
+- [goodcase.ai 在线站](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - 搜索、热度榜、稳定度榜、复测记录。
 ## 安装
 
 ```bash
@@ -469,7 +470,7 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 | 作者数                         | 158               |
 | 跨模型复测                       | 247 条 / 257 次     |
 | 稳定度分（已测）                    | 245 条 / 均分 78.0   |
-| 最近更新                        | 2026-09-12        |
+| 最近更新                        | 2026-09-13        |
 | goodcase.ai 全站（含非 Seedance） | 1059 条 / 334 位创作者 |
 | goodcase.ai AI 视频           | 567 条             |
 
@@ -511,6 +512,6 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 
 [![Star History Chart](https://api.star-history.com/svg?repos=LearnPrompt/awesome-seedance&type=Date)](https://star-history.com/#LearnPrompt/awesome-seedance&Date)
 
-## License
+## 许可与复用
 
 本仓库代码基于 [MIT 许可证](./LICENSE)开源：可以自由使用、修改、分发并在此基础上构建，保留许可声明即可。策展内容为 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)；prompt 与媒体版权归原作者。详见上方[版权与下架政策](#版权与下架政策)。
