@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 419 条案例逐条核对过原帖，257 次跨模型复测，14 个可复用模板，25 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1059 条已验证 AI 案例。每天同步，每天都有新案例进来。
+**Seedance 2.5 / 2.0 提示词验证库。** 419 条案例逐条核对过原帖，257 次跨模型复测，14 个可复用模板，24 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1071 条已验证 AI 案例。每天同步，每天都有新案例进来。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-all-prompts) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-cross-model-retests) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-prompt-templates) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#install) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -43,7 +43,7 @@
 - [Seedance（未标版本），第 3/3 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.zh.md) - 第 191–246 条.
 - [Prompt 模板](https://github.com/LearnPrompt/awesome-seedance/blob/main/README_zh.md#-prompt-templates) - 6 类共 14 个可复用结构。
 - [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - `npx seedance-prompt-library install` 装进 Claude Code / Codex。
-- [goodcase.ai 上更多 AI 视频 Skill](https://goodcase.ai/skills?category=video) - 24 个从视频案例里长出来的可安装 Skill。
+- [goodcase.ai 上更多 AI 视频 Skill](https://goodcase.ai/skills?category=video) - 23 个从视频案例里长出来的可安装 Skill。
 - [goodcase.ai 在线站](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - 搜索、热度榜、稳定度榜、复测记录。
 ## 安装
 
@@ -52,6 +52,8 @@ npx seedance-prompt-library install
 ```
 
 把 seedance-prompt-library 这个 Agent Skill 装进 Claude Code / Codex，让 agent 直接调结构化模板在你的编辑器里写 Seedance prompt。习惯用 [skills CLI](https://github.com/vercel-labs/skills) 的话，`npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` 装的是同一个 Skill。
+
+想让 agent 直接查整个 goodcase.ai 案例库（全部模型、实时数据、复测基线）而不只是 Seedance 模板？装姊妹仓 [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite) 里的 `goodcase` Skill：`npx skills add LearnPrompt/goodcase-lite --skill goodcase`。
 
 ## 为什么值得收藏这个仓库
 
@@ -471,7 +473,7 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 | 跨模型复测                       | 247 条 / 257 次     |
 | 稳定度分（已测）                    | 245 条 / 均分 78.0   |
 | 最近更新                        | 2026-09-13        |
-| goodcase.ai 全站（含非 Seedance） | 1059 条 / 334 位创作者 |
+| goodcase.ai 全站（含非 Seedance） | 1071 条 / 334 位创作者 |
 | goodcase.ai AI 视频           | 567 条             |
 
 每条案例只计一次；同时标了多个 Seedance 版本的案例按最高版本计。
