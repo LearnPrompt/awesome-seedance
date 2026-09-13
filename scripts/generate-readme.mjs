@@ -112,9 +112,9 @@ const COPY = {
     heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
     tagline: (s) =>
-      `**Verified Seedance 2.5 / 2.0 prompt library: ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates and ${s.skills} installable AI-video Skills${
+      `**Verified Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates and ${s.skills} installable AI-video Skills${
         s.siteTotalCases ? `, drawn from goodcase.ai's ${s.siteTotalCases} verified AI cases across video, image, UI and copy` : ""
-      }. Synced daily, new cases land every day.**`,
+      }. Synced daily, new cases land every day.`,
     backlink:
       "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## Contents",
@@ -191,7 +191,7 @@ const COPY = {
       "**Takedown process.** If you are a rights holder and want an entry removed or corrected, open a GitHub issue with the entry's slug (from its goodcase.ai URL) and the original source link, or contact goodcase.ai directly. Requests are verified against the original post and honored on verification; the entry is removed from `data/` and disappears from every generated file on the next regeneration.",
     ].join("\n"),
     starHistory: "## Star History",
-    licenseHeading: "## License",
+    licenseHeading: "## License & Reuse",
     licenseBody:
       "Code in this repository is open source under the [MIT License](./LICENSE): use it, modify it, build on it, keep the license notice. Curation is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); prompts and media stay with their creators. Details above under [Copyright & Takedown Notice](#copyright--takedown-notice).",
   },
@@ -199,9 +199,9 @@ const COPY = {
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
     tagline: (s) =>
-      `**Seedance 2.5 / 2.0 提示词验证库：${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill${
+      `**Seedance 2.5 / 2.0 提示词验证库。** ${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill${
         s.siteTotalCases ? `，背后是 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例` : ""
-      }。每天同步，每天都有新案例进来。**`,
+      }。每天同步，每天都有新案例进来。`,
     backlink:
       "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目录",
@@ -277,7 +277,7 @@ const COPY = {
       "**下架流程。** 如果你是版权方，想要下架或更正某条内容，请提 GitHub issue 并附上该条目的 slug（见其 goodcase.ai 链接）和原帖链接，或直接联系 goodcase.ai。请求会与原帖核对，核实后处理：条目从 `data/` 移除，下次重新生成时即从所有生成文件中消失。",
     ].join("\n"),
     starHistory: "## Star History",
-    licenseHeading: "## License",
+    licenseHeading: "## 许可与复用",
     licenseBody:
       "本仓库代码基于 [MIT 许可证](./LICENSE)开源：可以自由使用、修改、分发并在此基础上构建，保留许可声明即可。策展内容为 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)；prompt 与媒体版权归原作者。详见上方[版权与下架政策](#版权与下架政策)。",
   },
@@ -285,9 +285,9 @@ const COPY = {
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
     tagline: (s) =>
-      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ: ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill${
+      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill${
         s.siteTotalCases ? `。母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケース` : ""
-      }。毎日同期し、新しいケースが毎日追加されます。**`,
+      }。毎日同期し、新しいケースが毎日追加されます。`,
     backlink:
       "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目次",
@@ -363,7 +363,7 @@ const COPY = {
       "**削除の手順。** 権利者でエントリの削除や訂正を希望する場合は、そのエントリの slug（goodcase.ai の URL から取得）と元の出典リンクを添えて GitHub issue を開くか、goodcase.ai に直接ご連絡ください。元投稿と照合し、確認できしだい対応します。エントリは `data/` から削除され、次回の再生成ですべての生成ファイルから消えます。",
     ].join("\n"),
     starHistory: "## Star History",
-    licenseHeading: "## License",
+    licenseHeading: "## ライセンスと再利用",
     licenseBody:
       "本リポジトリのコードは [MIT License](./LICENSE) のオープンソースです。ライセンス表記を残せば自由に使用・改変・配布・派生できます。キュレーションは [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ja)、プロンプトとメディアの権利は作者に帰属します。詳細は上の[著作権と削除申請](#著作権と削除申請)を参照。",
   },
@@ -461,9 +461,10 @@ function buildReadme(lang) {
   const quickLinks = renderQuickLinks({ parts, bucketCases, templates, categories, stats: quickLinkStats }, lang);
   const quickLinksHeading = quickLinks.split("\n")[0];
 
+  // awesome-lint 的 awesome-toc 要求目录是第一个小节，所以 Contents 在前、Quick Links 在后。
   const allHeadings = [
-    quickLinksHeading,
     c.contentsHeading,
+    quickLinksHeading,
     ...sections.map((s) => s.heading),
     c.topHeading,
     ...tailSections.map((s) => s.heading),
@@ -488,9 +489,9 @@ function buildReadme(lang) {
   head.push("");
   head.push(c.backlink);
   head.push("");
+  head.push(renderContents(allHeadings.slice(1), lang));
   head.push(quickLinks);
   head.push("");
-  head.push(renderContents(allHeadings.slice(2), lang));
   const headMd = head.join("\n") + sections.map(renderSection).join("\n") + "\n";
 
   const tailMd = tailSections.map(renderSection).join("\n");

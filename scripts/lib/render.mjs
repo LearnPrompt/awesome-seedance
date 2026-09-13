@@ -280,6 +280,13 @@ function escapeTableCell(str) {
 // 统计
 // ---------------------------------------------------------------------------
 
+/** ISO 时间戳 → 东八区日期 "YYYY-MM-DD"；不可解析时回退成前 10 位。 */
+export function dateInShanghai(iso) {
+  const ms = Date.parse(iso);
+  if (Number.isNaN(ms)) return String(iso).slice(0, 10);
+  return new Date(ms + 8 * 60 * 60 * 1000).toISOString().slice(0, 10);
+}
+
 export function computeStats(data) {
   const cases = data.cases || [];
   const v25 = cases.filter(isSeedance25);
@@ -288,8 +295,10 @@ export function computeStats(data) {
   const authors = new Set(cases.map((c) => c.creator));
   // "Last updated" 取数据导出时间（data/cases.json 顶层 meta.exportedAt），
   // 不再取案例里最新的 sourcePublishedAt——那只反映内容年代，不反映数据本身多久没刷新过。
+  // 导出时间是 UTC 的 ISO 串（每天 23:26Z 跑），直接截日期会显示成前一天；
+  // 项目和读者主体在东八区，按 Asia/Shanghai 取日期。
   const exportedAt = data.meta && data.meta.exportedAt;
-  const lastUpdated = exportedAt ? exportedAt.slice(0, 10) : null;
+  const lastUpdated = exportedAt ? dateInShanghai(exportedAt) : null;
   // meta.retests 是私仓导出层加的字段，老数据/老导出没有这一层，
   // 缺失时必须退化成 0 而不是 undefined——Statistics 表要能一直显示这一行。
   const retests = data.meta && data.meta.retests;
@@ -940,7 +949,20 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
  * 注意：单条 case 的 retests 最多保留 5 条，模型总次数可能比 meta.retests.totalRuns
  * 里的真实次数少；这是已知的近似，spec 里明确接受。
  */
-export function aggregateRetestsByModel(cases) {
+export function aggregateRetestsByModel(cases, meta = null) {
+  // 导出层给了全量的按模型结论汇总（meta.retests.byModelVerdicts）就直接用：
+  // 它对原始复测行统计，不受每条 case 只保留最近 5 条明细的影响，和站内口径一致。
+  const full = meta && meta.retests && meta.retests.byModelVerdicts;
+  if (full && typeof full === "object" && Object.keys(full).length) {
+    const byModel = new Map();
+    for (const [model, v] of Object.entries(full)) {
+      const runs = Number(v.runs ?? v.total ?? 0);
+      const reproduced = Number(v.reproduced ?? 0);
+      if (!model || !runs) continue;
+      byModel.set(model, { runs, reproduced });
+    }
+    if (byModel.size) return byModel;
+  }
   const byModel = new Map();
   for (const c of cases || []) {
     for (const r of c.retests || []) {
@@ -964,7 +986,7 @@ export function renderCrossModelSection(cases, meta, lang) {
   assertLang(lang);
   const retestsMeta = meta && meta.retests;
   if (!retestsMeta || !retestsMeta.totalRuns) return null;
-  const perModel = aggregateRetestsByModel(cases);
+  const perModel = aggregateRetestsByModel(cases, meta);
   if (perModel.size === 0) return null;
 
   const heading = t(lang, { en: "## 🔁 Cross-model retests", zh: "## 🔁 跨模型复测", ja: "## 🔁 クロスモデル再テスト" });

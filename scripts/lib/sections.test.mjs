@@ -137,12 +137,16 @@ test("renderQuickLinks lists every gallery page with its case range, plus templa
   const ctx = galleryContext("en");
   const md = renderQuickLinks({ ...ctx, templates, categories, stats: { ...stats, videoSkillsOnSite: 24, videoSkillsUrl: site.videoSkills.url } }, "en");
   assert.match(md, /^## Quick Links/);
-  assert.match(md, /\[Gallery index\]\(\.\/docs\/gallery\.md\)/);
+  // 绝对 URL：awesome-lint list-item 规则不接受相对链接和页内锚点。
+  assert.match(md, /\[Gallery index\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/blob\/main\/docs\/gallery\.md\) - All \d+ cases/);
   const partCount = Object.values(ctx.parts).reduce((n, p) => n + p.length, 0);
   const pageLines = md.split("\n").filter((l) => /^- \[Seedance/.test(l));
   assert.equal(pageLines.length, partCount);
-  assert.match(md, /\[Prompt templates\]\(#-prompt-templates\) - 2 reusable structures in 2 categories\./);
-  assert.match(md, /npx seedance-prompt-library install/);
+  assert.match(md, /\[Prompt templates\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/blob\/main\/README\.md#-prompt-templates\) - 2 reusable structures in 2 categories\./);
+  assert.match(md, /\[Agent Skill\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/tree\/main\/agents\/skills\/seedance-prompt-library\) - Install with `npx seedance-prompt-library install`/);
+  for (const line of md.split("\n").filter((l) => l.startsWith("- "))) {
+    assert.match(line, /^- \[[^\]]+\]\(https:\/\/[^)]+\) - [A-Z0-9`]/, `absolute link + capitalised description (awesome-lint list-item): ${line}`);
+  }
   assert.match(md, /\[Live site on goodcase\.ai\]/);
   assert.match(md, /\[More AI-video Skills on goodcase\.ai\]\(https:\/\/goodcase\.ai\/skills\?category=video\) - 24 installable Skills/);
   assert.doesNotMatch(md, /\[License\]|\[Contributing\]/);

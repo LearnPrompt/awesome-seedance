@@ -15,7 +15,7 @@
 <rect x="0.5" y="0.5" width="1199" height="399" fill="none" stroke="#111111" stroke-width="1"/>
 <rect x="40" y="36" width="12" height="12" fill="#E8541E"/>
 <text x="62" y="47" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#111111">GOODCASE.AI · OPEN DATA</text>
-<text x="1160" y="47" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6B675F">SYNCED 2026-09-12 · DAILY</text>
+<text x="1160" y="47" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6B675F">SYNCED 2026-09-13 · DAILY</text>
 <line x1="40" y1="64" x2="1160" y2="64" stroke="#111111" stroke-width="1"/>
 <text x="40" y="150" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="84" font-weight="800" letter-spacing="-3" fill="#111111">Awesome <tspan fill="#E8541E">Seedance</tspan></text>
 <text x="40" y="196" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" fill="#111111">Verified Seedance 2.5 / 2.0 video prompts, each checked against its original post,</text>

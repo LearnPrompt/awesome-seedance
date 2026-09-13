@@ -21,9 +21,21 @@ import {
 } from "./render.mjs";
 
 const REPO = "LearnPrompt/awesome-seedance";
+// Quick Links 用绝对 URL：awesome-lint 的 list-item 规则把目录之后的列表当条目校验，相对链接和页内锚点会被判无效。
+const REPO_URL = `https://github.com/${REPO}`;
+const BLOB_URL = `${REPO_URL}/blob/main`;
 const RAW_STATS_URL = `https://raw.githubusercontent.com/${REPO}/main/data/stats.json`;
 export const LIVE_SITE_URL = "https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance";
 const SPONSOR_URL = `https://github.com/${REPO}/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor`;
+
+function capitalize(str) {
+  const s = String(str || "");
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+function readmeUrl(lang) {
+  return `${BLOB_URL}/${readmeFileName(lang)}`;
+}
 
 function escapeXml(str) {
   return String(str)
@@ -187,8 +199,8 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
   );
   lines.push("");
   lines.push(
-    `- [${t(lang, { en: "Gallery index", zh: "画廊总览", ja: "ギャラリー索引" })}](./docs/${galleryIndexFileName(lang)}) - ${t(lang, {
-      en: `all ${stats.total} cases with full prompts, every page in one place.`,
+    `- [${t(lang, { en: "Gallery index", zh: "画廊总览", ja: "ギャラリー索引" })}](${BLOB_URL}/docs/${galleryIndexFileName(lang)}) - ${t(lang, {
+      en: `All ${stats.total} cases with full prompts, every page in one place.`,
       zh: `全部 ${stats.total} 条案例（含完整 prompt），所有分页一处可达。`,
       ja: `全 ${stats.total} ケースのプロンプト全文、全ページをここから。`,
     })}`
@@ -198,19 +210,19 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
     if (!list || !list.length) continue;
     const label = bucketLabel(bucket, lang);
     for (const p of parts[bucket]) {
-      lines.push(`- [${label}${partTag(p, lang, "inline")}](./docs/${p.fileName}) - ${pageRange(p, list.length, lang)}.`);
+      lines.push(`- [${label}${partTag(p, lang, "inline")}](${BLOB_URL}/docs/${p.fileName}) - ${capitalize(pageRange(p, list.length, lang))}.`);
     }
   }
   lines.push(
-    `- [${t(lang, { en: "Prompt templates", zh: "Prompt 模板", ja: "プロンプトテンプレート" })}](#-prompt-templates) - ${t(lang, {
+    `- [${t(lang, { en: "Prompt templates", zh: "Prompt 模板", ja: "プロンプトテンプレート" })}](${readmeUrl(lang)}#-prompt-templates) - ${t(lang, {
       en: `${templates.length} reusable structures in ${categories.length} categories.`,
       zh: `${categories.length} 类共 ${templates.length} 个可复用结构。`,
       ja: `${categories.length} カテゴリ、${templates.length} 個の再利用可能な構造。`,
     })}`
   );
   lines.push(
-    `- [Agent Skill](./agents/skills/seedance-prompt-library/) - ${t(lang, {
-      en: "`npx seedance-prompt-library install` for Claude Code / Codex.",
+    `- [Agent Skill](${REPO_URL}/tree/main/agents/skills/seedance-prompt-library) - ${t(lang, {
+      en: "Install with `npx seedance-prompt-library install` into Claude Code / Codex.",
       zh: "`npx seedance-prompt-library install` 装进 Claude Code / Codex。",
       ja: "`npx seedance-prompt-library install` で Claude Code / Codex に導入。",
     })}`
@@ -226,7 +238,7 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
   }
   lines.push(
     `- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${LIVE_SITE_URL}) - ${t(lang, {
-      en: "search, heat leaderboard, stability ranking, retest logs.",
+      en: "Search, heat leaderboard, stability ranking, retest logs.",
       zh: "搜索、热度榜、稳定度榜、复测记录。",
       ja: "検索、ヒートランキング、安定度ランキング、再テスト記録。",
     })}`
@@ -307,7 +319,7 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   const retestsMeta = meta && meta.retests;
   const retestPosterFor = opts.retestPosterFor || (() => null);
   if (!retestsMeta || !retestsMeta.totalRuns) return null;
-  const perModel = aggregateRetestsByModel(cases);
+  const perModel = aggregateRetestsByModel(cases, meta);
   if (perModel.size === 0) return null;
   const counts = verdictCounts(cases);
   const runs = retestsMeta.totalRuns;

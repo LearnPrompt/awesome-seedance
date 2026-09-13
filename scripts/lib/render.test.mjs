@@ -12,6 +12,7 @@ import {
   seedanceVersionOf,
   normalizeModelLabel,
   computeStats,
+  dateInShanghai,
   getFeatured,
   renderCaseEntry,
   renderTemplateCard,
@@ -689,4 +690,25 @@ test("renderCrossModelSection returns null when meta.retests is missing or total
     renderCrossModelSection(fixtureData.cases, { retests: { totalRuns: 0 } }, "en"),
     null
   );
+});
+
+test("dateInShanghai converts a late-UTC export timestamp to the next day in UTC+8, and passes through unparsable input", () => {
+  assert.equal(dateInShanghai("2026-09-12T23:26:29.930Z"), "2026-09-13");
+  assert.equal(dateInShanghai("2026-09-12T15:59:59Z"), "2026-09-12");
+  assert.equal(dateInShanghai("2026-09-12T16:00:00Z"), "2026-09-13");
+  assert.equal(dateInShanghai("not-a-date"), "not-a-date");
+  assert.equal(computeStats({ cases: [], meta: { exportedAt: "2026-09-12T23:26:29.930Z" } }).lastUpdated, "2026-09-13");
+});
+
+test("aggregateRetestsByModel prefers meta.retests.byModelVerdicts (full counts from the exporter) over per-case retests[]", () => {
+  const cases = [
+    { slug: "a", retests: [{ model: "M", verdict: "reproduced" }, { model: "M", verdict: "degraded" }] },
+  ];
+  const fromCases = aggregateRetestsByModel(cases);
+  assert.deepEqual(fromCases.get("M"), { runs: 2, reproduced: 1 });
+  const meta = { retests: { totalRuns: 9, byModelVerdicts: { M: { runs: 9, reproduced: 6, degraded: 3 }, N: { runs: 0 } } } };
+  const fromMeta = aggregateRetestsByModel(cases, meta);
+  assert.deepEqual(fromMeta.get("M"), { runs: 9, reproduced: 6 });
+  assert.equal(fromMeta.has("N"), false, "zero-run models are skipped");
+  assert.deepEqual(aggregateRetestsByModel(cases, { retests: { byModelVerdicts: {} } }).get("M"), { runs: 2, reproduced: 1 }, "empty map falls back to cases");
 });
