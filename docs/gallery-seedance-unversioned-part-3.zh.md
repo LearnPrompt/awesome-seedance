@@ -1,116 +1,496 @@
 # Seedance（未标版本） — 全量案例（第 3/3 页）
 
-Seedance（未标版本） 全部 246 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance（未标版本） 全部 252 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 191–246 条，共 246 条。
+本页：第 191–252 条，共 252 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-unversioned-part-1.zh.md) · [Part 2](./gallery-seedance-unversioned-part-2.zh.md) · **Part 3**
 
-### Seedance 2.5 双 prompt 拼接三十秒叙事短片
+### 海滩上水獭为海龟叠石塔
 
-> Made with Seedance 2.5 using 2 prompts (15s each) + manual stitching. PROMPT 1: ⬇️ 15 seconds, 16:9 horizontal, one cont
+> Made with seedance 2.5 Prompt 👇 Create a 30-second cute, whimsical 3D animated short film set on a beautiful sunny beach. A tiny adorable sea turtle with a sof…
 
-[<img src="https://media.goodcase.ai/media/poster/youralphamom-seedance-ai-9afbf3248f50.jpg" width="600" alt="Seedance 2.5 双 prompt 拼接三十秒叙事短片">](https://goodcase.ai/cases/youralphamom-seedance-ai-9afbf3248f50)
+[<img src="https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-4baf2c6b5a8c.jpg" width="600" alt="海滩上水獭为海龟叠石塔">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c)
 
-**作者:** @YourAlphaMom | **来源:** [原帖](https://x.com/YourAlphaMom/status/2089412506716721609) | **发布:** 2026-08-17 | **热度:** 49
-
-**稳定度：** 79/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.5 分) · [产物](https://media.goodcase.ai/retests/youralphamom-seedance-ai-9afbf3248f50/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2095823249968148533) | **发布:** 2026-09-04 | **热度:** 49
 
 <details>
-<summary><b>完整 prompt（78 行，点开展开）</b></summary>
+<summary><b>完整 prompt（10 行，点开展开）</b></summary>
 
 ```
-Made with Seedance 2.5 using 2 prompts (15s each) + manual stitching.
+Made with seedance 2.5
 
-PROMPT 1: ⬇️
+Prompt 👇 
+Create a 30-second cute, whimsical 3D animated short film set on a beautiful sunny beach. A tiny adorable sea turtle with a soft mint-green shell sits peacefully on the warm sand with its eyes closed. The ocean, blue sky, fluffy clouds, and sparkling beach create a dreamy, heartwarming atmosphere.
 
-15 seconds, 16:9 horizontal, one continuous photorealistic viral smartphone shot.
+A small, fluffy brown otter approaches the turtle curiously and playfully interacts with it. The otter gently picks up smooth beach stones and begins carefully stacking them one by one on top of the turtle’s shell/head, creating an increasingly tall and funny tower of stones. The turtle remains calm and peaceful throughout, occasionally reacting with subtle cute facial expressions.
 
-Absurd surreal comedy scene in a small indoor hotel pool. Realistic environment: tiled walls, fluorescent ceiling lights, metal pool ladders at the sides, pool depth markers, white plastic chairs, vending machines, and 6–8 normal-size spectators in swimwear standing around the pool, laughing, cheering, and filming on smartphones.
+As the stone tower grows taller, the otter becomes increasingly excited and proud of its creation. The turtle stays perfectly still, balancing the tower. Eventually, the otter gets so excited that it loses balance and tumbles forward onto the sand. The turtle looks at the fallen otter with a slightly annoyed but adorable expression while the tower of stones remains standing.
 
-A giant young sexy blonde woman in her early 20s is floating flat on her back in the pool. Her enormous head, neck, and upper shoulders float naturally on the water surface. Her face is almost horizontal, looking upward toward the ceiling. Wet slicked-back blonde hair spreads slightly in the water. She is exceptionally beautiful, youthful, glamorous, and highly photogenic, with blue eyes, glossy wet skin, and realistic pores.
-
-At the very first frame, a full-size normal middle-aged man in plaid swim trunks is already standing barefoot with BOTH FEET planted directly on the center of the giant woman’s forehead above her eyebrows. He is holding a white cup.
-
-The man is approximately 180 cm tall in the world of the scene. He is NOT miniature, NOT toy-sized, NOT dwarf-sized, NOT shrunken. His size, height, head size, and body proportions must match the men standing around the pool. He must also match the human scale of the pool ladders, chairs, and vending machines. Only the woman is gigantic.
-
-The man is NOT standing on a ladder, NOT standing on the pool edge, and NOT climbing down from anywhere. The pool ladders exist only in the background and never interact with him.
-
-The giant woman remains lying flat on her back throughout the scene. Her enormous face floats on the water while the full-size normal man stands clearly on top of her forehead. Do not make him grab her nose.
-
-ACTION:
-0–3s: Wide poolside smartphone shot. The giant blonde woman floats flat on her back. The full-size normal 180 cm man is already balancing on her forehead with both feet. The crowd behind them laughs and films. She looks upward at him with amused, slightly confused eyes.
-
-3–6s: The man moves quickly and awkwardly across her forehead, taking faster unsteady steps and windmilling his arms while trying not to fall. He should not move carefully or slowly. The crowd reacts louder. The phone camera does a slight shaky push-in.
-
-6–9s: He slips suddenly and slides faster down the slope of her giant face toward her nose and mouth. His white cup flies out of his hand. Her eyes track him and her expression changes from amused confusion to surprised disbelief.
-
-9–12s: She opens her mouth very wide in sudden surprise. He slides directly into the open mouth much faster, feet-first, with a more dramatic loss of balance.
-
-12–15s: He falls completely into her open mouth and disappears fully inside. No part of him remains outside. She closes her mouth, blinks in shock, and the people around the pool erupt in cheers, laughter, raised hands, and excited phone filming.
-
-CAMERA / REALISM:
-One continuous viral smartphone shot from poolside, slightly handheld, natural framing, mild compression, realistic fluorescent indoor lighting, convincing wet skin, water reflections, and splashes. No cinematic grading. The impossible scale should still look weirdly believable: giant woman floating on the water + full-size normal 180 cm man standing on her face + normal-size crowd behind them.
-
-TONE:
-Funny, surreal, visually shocking, and energetic, but not horror. No gore, no blood, no violence, no body horror.
-
-CRITICAL NEGATIVES:
-NO man on ladder.
-NO man on pool edge.
-NO man climbing into frame.
-NO nose grabbing.
-NO miniature man.
-NO toy-sized man.
-NO dwarf-sized man.
-NO shrunken man.
-NO woman upright in the water.
-NO giant head standing vertically.
-NO scale changes.
-NO broken anatomy.
-NO extra limbs.
-NO glitchy transitions.
-
-----
-
-PROMPT 2 (with a screenshot of the man as a reference): ⬇️
-
-15 seconds, 16:9 horizontal
-
-Use the provided man as the reference identity. Keep his face, hairstyle, age, body type, and plaid swim trunks recognizable. He is the same man from the previous scene.
-
-Photorealistic absurd surreal comedy continuation. The man is rushing through a huge surreal internal tunnel inspired by a human colon/rectum, but presented like a bizarre water slide. The tunnel is fleshy, pinkish, wet, and organic-looking, with curved tubular walls, but it stays clean and surreal — no gore, no blood, no fecal content. Water rushes around him as if he is riding an impossible fleshy water slide. The man is visible in the frame for most of the sequence, sliding, spinning, yelling, and trying to hold on as he gets carried forward by the rushing water.
-
-The tunnel gradually opens into daylight. He shoots out of the end of the surreal organic slide into a bright real outdoor waterpark splash pool. Realistic sunny waterpark setting: colorful slides, shallow pool, splashing water, and a crowd of people cheering and clapping as he bursts out and lands in the water. He pops up from the splash, shocked but unharmed, while everyone applauds.
-
-CAMERA STYLE: 
-cinematic but still realistic, smooth motion as if the camera follows him inside the tunnel, then a clean wide exterior shot for the final exit. Strong realism, good water physics, clear continuity, exciting but playful tone.
-
-Tone: surreal, hilarious, high-energy, impossible but convincing. Not disgusting, not gory, not sexual. More like a bizarre theme-park sequence.
-
-ACTION TIMING:
-
-- 0–4s: Inside the surreal organic tunnel, the man slides feet-first through the wet curved passage while splashing water rushes around him.
-- 4–8s: He tumbles and spins through the fleshy water-slide tunnel, still clearly visible, yelling and flailing.
-- 8–11s: The tunnel brightens ahead as daylight appears. He accelerates toward the opening.
-- 11–15s: He blasts out into a real outdoor waterpark pool in a huge splash, the crowd cheers and claps, and he surfaces looking stunned but okay.
-
-Important: preserve the man’s identity from the reference. Keep him visible for most of the interior ride. Make the internal tunnel feel like a surreal organic water slide, not graphic anatomy. No gore, no fecal imagery, no body horror, no broken limbs, no glitching.
-
-#AIVideo
+End with a wide cinematic shot of the tiny turtle sitting beside the tall stack of smooth stones while the otter lies playfully on the sand. Cute comedic timing, expressive characters, soft rounded shapes, detailed fur, realistic sand and ocean textures, warm sunlight, gentle shadows, charming Pixar-like 3D animation, cinematic camera movement, shallow depth of field, high-quality character animation, wholesome and funny mood, smooth motion, vertical 9:16 composition, ultra-detailed 3D render, 4K quality.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youralphamom-seedance-ai-9afbf3248f50)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4baf2c6b5a8c)**
 
-### Create a 30-second, 1080p ultra-realistic early-2000s MiniDV home…
+### 街头偶遇最爱歌曲的瞬间
+
+> POV: You’re walking through the city when your favorite song suddenly starts playing. Created this 15-second cinematic everyday-life moment using Seedance 2.5 o…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86.jpg" width="600" alt="街头偶遇最爱歌曲的瞬间">](https://goodcase.ai/cases/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86)
+
+**作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2095374122674991259) | **发布:** 2026-09-03 | **热度:** 49
+
+<details>
+<summary><b>完整 prompt（11 行，点开展开）</b></summary>
+
+```
+POV — Your Favorite Song Starts Playing in Public
+
+A young man walks through a busy city sidewalk when he suddenly hears his favorite song playing from a nearby café. He recognizes it instantly, slows down, smiles, and starts subtly vibing to the rhythm while pretending to keep walking normally.
+
+The entire sequence follows realistic human behavior and accurate physics, including natural walking biomechanics, weight distribution, gravity, inertia, momentum, friction, foot-to-ground contact, realistic pedestrian movement, clothing dynamics, hair movement, and natural interactions between people and the environment.
+
+Ultra-realistic visuals, cinematic documentary style, natural late-afternoon lighting, realistic skin and clothing textures, smooth stabilized tracking, subtle handheld camera motion, realistic depth of field, natural focus pulls, physically accurate shadows and reflections, consistent character identity, authentic urban environment, natural colors, subtle film grain, and 4K cinematic quality.
+
+Would you be able to resist vibing to your favorite song in public? 
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86)**
+
+### 欧洲古城清晨咖啡漫游
+
+> Made with Seedance 2.5 + Gpt image 2 Prompt: Seedance 2.5-30-Second Ultra-Photorealistic Travel Vlog Prompt Create a 30-
+
+[<img src="https://media.goodcase.ai/cases/693702114cbc.jpg" width="600" alt="欧洲古城清晨咖啡漫游">](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb)
+
+**作者:** @ChillaiKalan__ | **来源:** [原帖](https://x.com/ChillaiKalan__/status/2094280707422191705) | **发布:** 2026-08-31 | **热度:** 49
+
+**稳定度：** 68/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (67.5 分) · [产物](https://media.goodcase.ai/retests/chillaikalan-seedance-ai-c67e26cea7cb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（210 行，点开展开）</b></summary>
+
+```
+Seedance 2.5-30-Second Ultra-Photorealistic Travel Vlog Prompt
+
+Create a 30-second ultra-photorealistic travel vlog that looks exactly like genuine footage spontaneously recorded by a real European travel creator on a high-quality handheld vlog camera. The same young European woman must remain visually identical throughout the entire video: identical face, facial proportions, hairstyle, hair color, skin tone, body proportions, age, wardrobe, accessories, and overall appearance. Maintain strict character consistency across every shot and camera angle.
+
+The woman should have natural skin pores, subtle facial imperfections, realistic eyes, individual hair strands, authentic hair movement, natural body proportions, realistic hands, and spontaneous human expressions. No beauty filter, no plastic skin, no excessive makeup, no perfect symmetry.
+
+The entire video must feel like real documentary/travel-vlog footage, not a commercial, music video, cinematic film, 3D render, or AI-generated sequence.
+
+CONTINUITY / CHARACTER LOCK
+
+Same woman in every shot. Young European woman, approximately mid-20s, naturally attractive but completely realistic. Natural complexion with visible pores and tiny imperfections, realistic eyes and eyelashes, natural eyebrows, slightly imperfect hair strands moving independently in the breeze. Same hairstyle and clothing throughout. Authentic posture and walking rhythm. No facial identity drift, no changes in age, hairstyle, clothing, accessories, body shape, or skin tone.
+
+She carries a small compact vlog camera, held naturally at arm's length during selfie shots. Her grip, fingers, hands, and camera position must remain anatomically realistic.
+
+LOCATION / ATMOSPHERE
+
+A beautiful European historic old-town district in the morning. Narrow stone-paved street, textured centuries-old buildings, colorful but realistic façades, wooden shutters, small cafés, outdoor tables, bicycles, bakery storefront, pedestrians, subtle street activity.
+
+Soft morning sunlight with realistic shadows. Natural atmospheric perspective. Authentic European street ambience. Background people behave independently and naturally, without staring at the camera. No duplicated pedestrians or repeated background characters.
+
+SHOT 1 — 0–5 SECONDS
+
+Selfie-style handheld vlog footage.
+
+The woman walks naturally down the old-town street while holding a small vlog camera at arm's length. She looks directly into the lens with a subtle, genuine smile.
+
+Camera has realistic handheld movement: slight walking bounce, tiny wrist movements, occasional micro-shake, natural framing imperfections, subtle breathing-related movement. Do NOT stabilize the footage perfectly.
+
+Her hair moves naturally as she walks through a light morning breeze. Her expression remains relaxed and spontaneous. She occasionally blinks naturally.
+
+Behind her: pedestrians walking casually, parked bicycles, café entrances, historic textured buildings and morning activity.
+
+Natural sunlight falls across her face as she moves between partial shade and sunlight. Preserve realistic exposure and skin tones.
+
+SHOT 2 — 5–10 SECONDS
+
+She naturally turns the camera away from herself toward the street.
+
+Create an imperfect handheld pan, as if a real travel creator casually redirected their vlog camera.
+
+Reveal:
+
+- detailed historic European architecture
+- stone façades and windows
+- outdoor café tables
+- people drinking coffee
+- bicycles moving through the street
+- a small neighborhood bakery
+- subtle morning street activity
+
+The pan should NOT be perfectly smooth. Include realistic wrist acceleration, tiny framing corrections and slight motion blur.
+
+As the camera moves from a darker section of the street into direct morning sunlight, produce a subtle automatic exposure adjustment. Highlights and shadows react naturally like a real camera sensor.
+
+No cinematic transition. No artificial camera glide.
+
+SHOT 3 — 10–15 SECONDS
+
+Cut naturally back to selfie footage.
+
+The same woman continues walking toward the café. She briefly says something casual and conversational to the camera, such as:
+
+“This little street is so beautiful.”
+
+Her lip movement must synchronize naturally with the words. Facial expressions are relaxed and understated. No exaggerated acting.
+
+She briefly glances toward something in the street and then back at the lens. She blinks naturally. A light breeze moves several individual strands of hair.
+
+Pedestrians pass naturally in the background without acknowledging the camera.
+
+Maintain realistic handheld shake, authentic walking bounce, natural breathing, realistic depth of field and believable street ambience.
+
+SHOT 4 — 15–21 SECONDS
+
+Transition naturally into POV footage from her camera.
+
+She approaches and enters a small independent local café.
+
+The camera moves through the doorway at normal human walking speed. Slight vertical bounce and subtle wrist movement remain visible.
+
+Inside:
+
+- warm natural café lighting
+- wooden tables
+- textured walls
+- realistic glass reflections
+- small background conversations
+- customers moving naturally
+- barista activity in the distance
+- subtle environmental shadows
+
+The camera approaches a wooden table containing a freshly prepared coffee and a small pastry.
+
+Show subtle realistic steam rising from the coffee. Reflections on the cup and nearby glass should obey real-world lighting.
+
+No exaggerated steam. No floating objects. No artificial-looking food.
+
+SHOT 5 — 21–26 SECONDS
+
+Cut back to selfie footage.
+
+The same woman is now sitting outside the café at a small table.
+
+She naturally picks up the coffee, takes a small casual sip, lowers the cup and looks into the camera.
+
+Her expression changes into a subtle authentic smile. Avoid influencer-style posing or exaggerated happiness.
+
+Maintain exact facial identity and wardrobe continuity.
+
+Background remains alive:
+pedestrians walking, bicycles passing, café customers talking, subtle movement of chairs and clothing in the breeze.
+
+Camera remains handheld and slightly imperfect, with realistic micro-shake.
+
+SHOT 6 — 26–30 SECONDS
+
+Continue the selfie shot for a natural ending.
+
+She keeps a relaxed smile for a moment, then her attention subtly shifts toward the street.
+
+The camera performs a small natural focus shift from her face toward the street behind her.
+
+Her face gradually becomes slightly softer while the background becomes clearer, like realistic autofocus behavior from a modern vlog camera.
+
+End spontaneously rather than dramatically.
+
+No cinematic fade, no artificial transition, no title card.
+
+CAMERA / PHYSICS
+
+Authentic handheld vlog-camera behavior throughout.
+
+Use:
+
+- realistic walking bounce
+- subtle wrist shake
+- natural micro-jitter
+- imperfect framing
+- physically accurate motion blur
+- realistic autofocus behavior
+- realistic exposure adaptation
+- natural depth of field
+- physically correct reflections
+- realistic shadows
+- natural skin response to sunlight
+- believable hair physics
+- realistic fabric movement
+- authentic pedestrian movement
+
+Camera should occasionally make tiny human corrections rather than moving perfectly smoothly.
+
+AUDIO / AMBIENCE
+
+Natural location sound only.
+
+Include subtle:
+
+- footsteps on stone pavement
+- distant conversations
+- café chatter
+- bicycle movement
+- light street noise
+- birds in the distance
+- door opening
+- subtle café interior ambience
+- faint cup movement
+- natural breathing
+
+Her spoken sentence should sound like a real casual vlog recording, with natural voice volume and slight environmental background noise.
+
+No dramatic soundtrack. No cinematic sound effects.
+
+ABSOLUTE REALISM REQUIREMENTS
+
+Prioritize photographic realism over visual perfection.
+
+The footage should contain the tiny imperfections normally found in genuine handheld travel footage.
+
+Avoid:
+
+- CGI appearance
+- AI-generated look
+- plastic skin
+- beauty filters
+- excessive skin smoothing
+- perfect facial symmetry
+- exaggerated expressions
+- overly cinematic lighting
+- perfect gimbal movement
+- impossible camera movement
+- warped hands
+- malformed fingers
+- distorted faces
+- inconsistent facial identity
+- changing clothing
+- changing hairstyle
+- duplicated pedestrians
+- frozen background people
+- unnatural walking
+- floating objects
+- impossible reflections
+- incorrect shadows
+- artificial depth-of-field
+- excessive bokeh
+- oversaturated colors
+- hyper-sharp artificial textures
+- dramatic transitions
+- commercial/ad-style posing
+
+Final target: The finished 30-second video must be indistinguishable from a genuine, spontaneously filmed European travel vlog captured by a real person on a premium handheld vlog camera. Every person, object, reflection, shadow, movement, facial expression, hair strand, exposure change and camera motion should obey real-world physics.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/chillaikalan-seedance-ai-c67e26cea7cb)**
+
+### 装甲女战士大战多臂外星机械兽
+
+> Leveling up the cinematic action with @FlovaAi and Seedance 2.5. Created with Seedance 2.5 Prompt: Cinematic 8K sci-fi a
+
+[<img src="https://media.goodcase.ai/media/poster/avelyrahnai-seedance-ai-2356640051c4.jpg" width="600" alt="装甲女战士大战多臂外星机械兽">](https://goodcase.ai/cases/avelyrahnai-seedance-ai-2356640051c4)
+
+**作者:** @AvelyrahnAI | **来源:** [原帖](https://x.com/AvelyrahnAI/status/2092500591331385840) | **发布:** 2026-08-26 | **热度:** 49
+
+**稳定度：** 80/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.6 分) · [产物](https://media.goodcase.ai/retests/avelyrahnai-seedance-ai-2356640051c4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Cinematic 8K sci-fi action sequence, an athletic female warrior in advanced tactical military armor with sleek metallic-green plating and shoulder-mounted twin heavy cannons stands on a high-rise rooftop overlooking a sprawling city skyline under an overcast sky. Seamless hard-hitting martial arts combat inside a luxury high-rise penthouse against a fierce, multi-armed white and black alien cyborg monster with glowing blue optical sensors. Dynamic camera tracking, motion blur, visceral punch impacts, breaking glass, realistic lighting, high-end Hollywood blockbuster cinematography, photorealistic texture detail.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/avelyrahnai-seedance-ai-2356640051c4)**
+
+### 韩国青年夏日街区的一天
+
+> AI slop? Maybe. But if it looks this real, I’m not complaining. Generated with Seedance 2.5 on Higgsfield. Prompt: Creat
+
+[<img src="https://media.goodcase.ai/media/poster/aqib-786ai-seedance-ai-9fcb27bab8b2.jpg" width="600" alt="韩国青年夏日街区的一天">](https://goodcase.ai/cases/aqib-786ai-seedance-ai-9fcb27bab8b2)
+
+**作者:** @Aqib__786Ai | **来源:** [原帖](https://x.com/Aqib__786Ai/status/2092122339463090626) | **发布:** 2026-08-25 | **热度:** 49
+
+**稳定度：** 74/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.5 分) · [产物](https://media.goodcase.ai/retests/aqib-786ai-seedance-ai-9fcb27bab8b2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（151 行，点开展开）</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary day in the life of a young Korean man. No reference image.
+
+MAIN SUBJECT
+
+Young Korean man in his early 20s, naturally attractive, realistic skin texture, minimal grooming, relaxed and slightly sleepy expression.
+
+Medium-length naturally messy black hair, subtle stubble, a few loose strands falling across his forehead.
+
+Wearing an oversized faded charcoal T-shirt, loose olive trousers, worn sneakers, and a simple silver watch.
+
+Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+
+SETTING
+
+A quiet older residential neighborhood during a warm summer afternoon.
+
+Small apartment buildings, narrow concrete alleys, rooftop terraces, neighborhood laundries, corner shops, parked bicycles, potted plants, utility wires, concrete staircases, trees providing patches of shade, and ordinary people going about their day.
+
+Everything should feel lived-in and authentic.
+
+CAMERA / VISUAL AESTHETIC
+
+Raw personal footage casually recorded by a friend.
+
+Handheld camera with natural shake, imperfect framing, occasional partial crops, autofocus hunting, exposure shifts between sunlight and shade, mild motion blur, soft image detail, subtle digital noise, slightly faded colors, and natural camera imperfections.
+
+The camera operator walks with him and reacts naturally.
+
+No stabilization, no cinematic camera movements, no dramatic lighting, no slow motion, no polished commercial appearance.
+
+The footage should feel accidentally beautiful rather than deliberately cinematic.
+
+⸻
+
+00:00–00:05 — LEAVING HOME
+
+He steps out of his apartment carrying a small reusable shopping bag.
+
+He locks the door, checks his pockets for his keys and phone, then starts walking downstairs.
+
+The camera follows behind him.
+
+He briefly looks back at the camera and gives a sleepy half-smile.
+
+⸻
+
+00:05–00:10 — MORNING ERRAND
+
+He walks through a quiet neighborhood alley toward a small local grocery shop.
+
+He passes parked bicycles and people watering plants outside their homes.
+
+He stops at a roadside fruit stand and picks up a couple of oranges, inspecting them casually before placing them into his bag.
+
+The camera briefly focuses on the fruit before returning to his face.
+
+⸻
+
+00:10–00:15 — SMALL BREAK
+
+He sits on a low concrete wall outside the shop.
+
+He opens a cold bottled drink and takes a few sips.
+
+A breeze moves his hair.
+
+He watches people passing by without saying anything.
+
+The camera stays slightly shaky and imperfectly framed, as if his friend is simply sitting nearby filming him.
+
+⸻
+
+00:15–00:20 — WALKING HOME
+
+He gets up and continues walking.
+
+A bicycle passes behind him.
+
+He notices a stray cat sitting beside a wall, crouches down and gently pets it.
+
+The cat walks away.
+
+He laughs quietly and stands back up.
+
+The camera operator accidentally cuts off part of his head while moving closer, then quickly reframes him.
+
+⸻
+
+00:20–00:25 — ROOFTOP
+
+He returns home and walks onto a small rooftop.
+
+He places the shopping bag beside an old chair.
+
+He leans against the railing and looks across the neighborhood.
+
+The afternoon sunlight falls naturally across his face.
+
+He runs his hand through his messy hair and quietly watches the distant buildings.
+
+⸻
+
+00:25–00:30 — FINAL MOMENT
+
+He notices the camera still recording.
+
+He looks directly into the lens and gives a tiny amused smile.
+
+He casually says:
+
+“You’re still recording?”
+
+He shakes his head and walks toward the camera.
+
+The camera moves backward slightly as he approaches.
+
+The recording abruptly cuts to black before he reaches the camera.
+
+⸻
+
+AUDIO
+
+Natural location sound only:
+
+Footsteps, distant traffic, bicycles, birds, wind, neighborhood conversations, shop sounds, bottle opening, fabric movement, doors closing, and subtle handheld camera noise.
+
+No music.
+
+No narration.
+
+No artificial sound effects.
+
+Only the single spoken line: “You’re still recording?”
+
+⸻
+
+FINAL FEEL
+
+The entire video should feel like a completely ordinary day that somehow became a beautiful memory.
+
+Quiet, masculine, youthful, intimate, warm, slightly nostalgic, and spontaneous.
+
+No dramatic events.
+
+No exaggerated acting.
+
+No model poses.
+
+No cinematic hero shots.
+
+The realism should come from tiny imperfections, casual body language, natural expressions, ordinary surroundings, imperfect camera operation, and moments that feel completely unplanned.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aqib-786ai-seedance-ai-9fcb27bab8b2)**
+
+### 首尔夏夜情侣漫步约会
 
 > Cousin of that Baddie 🤯 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic early-2000s MiniDV home video of a young Korean woman and her boyfriend…
 
-[<img src="https://media.goodcase.ai/cases/fd43ac5ade34.jpg" width="600" alt="Create a 30-second, 1080p ultra-realistic early-2000s MiniDV home…">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-minidv-home-video-of-a-yo-fd4c78266003)
+[<img src="https://media.goodcase.ai/cases/fd43ac5ade34.jpg" width="600" alt="首尔夏夜情侣漫步约会">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-minidv-home-video-of-a-yo-fd4c78266003)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2097285607550832921) | **发布:** 2026-09-08 | **热度:** 48
 
@@ -147,11 +527,11 @@ NEGATIVE: No subtitles, text, logos, watermark, identity drift, outfit changes, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-minidv-home-video-of-a-yo-fd4c78266003)**
 
-### Made with seedance 2.5 (4)
+### 公鸡激流营救三只小鸡
 
 > Made with seedance 2.5 Prompt 👇 Create a cinematic, ultra-realistic 30-second fantasy adventure scene set in a misty mountain forest with a powerful rushing ri…
 
-[<img src="https://media.goodcase.ai/cases/deaf63c43f9d.jpg" width="600" alt="Made with seedance 2.5 (4)">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898)
+[<img src="https://media.goodcase.ai/cases/deaf63c43f9d.jpg" width="600" alt="公鸡激流营救三只小鸡">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2097272507518587145) | **发布:** 2026-09-08 | **热度:** 48
 
@@ -181,11 +561,11 @@ Style: photorealistic cinematic fantasy, high-end animated movie quality, realis
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898)**
 
-### Made with seedance 2.5 (5)
+### 巨翼守护者护幼大战灰狼
 
 > Made with seedance 2.5 Prompt 👇 Create a 60-second cinematic 3D animated fantasy short film set in a lush, magical forest beside a powerful waterfall. Opening …
 
-[<img src="https://media.goodcase.ai/cases/af3b3dd1180b.jpg" width="600" alt="Made with seedance 2.5 (5)">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc)
+[<img src="https://media.goodcase.ai/cases/af3b3dd1180b.jpg" width="600" alt="巨翼守护者护幼大战灰狼">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2096566193058693197) | **发布:** 2026-09-06 | **热度:** 48
 
@@ -595,11 +975,111 @@ Hydro Step高速突进 → Water Guard硬接攻击 → Face Water Cannon正面�
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/pyona-ai-seedance-ai-47b0906eef64)**
 
-### The drama continued and the tension kept rising
+### Seedance 2.5 双 prompt 拼接三十秒叙事短片
+
+> Made with Seedance 2.5 using 2 prompts (15s each) + manual stitching. PROMPT 1: ⬇️ 15 seconds, 16:9 horizontal, one cont
+
+[<img src="https://media.goodcase.ai/media/poster/youralphamom-seedance-ai-9afbf3248f50.jpg" width="600" alt="Seedance 2.5 双 prompt 拼接三十秒叙事短片">](https://goodcase.ai/cases/youralphamom-seedance-ai-9afbf3248f50)
+
+**作者:** @YourAlphaMom | **来源:** [原帖](https://x.com/YourAlphaMom/status/2089412506716721609) | **发布:** 2026-08-17 | **热度:** 48
+
+**稳定度：** 79/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.5 分) · [产物](https://media.goodcase.ai/retests/youralphamom-seedance-ai-9afbf3248f50/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（78 行，点开展开）</b></summary>
+
+```
+Made with Seedance 2.5 using 2 prompts (15s each) + manual stitching.
+
+PROMPT 1: ⬇️
+
+15 seconds, 16:9 horizontal, one continuous photorealistic viral smartphone shot.
+
+Absurd surreal comedy scene in a small indoor hotel pool. Realistic environment: tiled walls, fluorescent ceiling lights, metal pool ladders at the sides, pool depth markers, white plastic chairs, vending machines, and 6–8 normal-size spectators in swimwear standing around the pool, laughing, cheering, and filming on smartphones.
+
+A giant young sexy blonde woman in her early 20s is floating flat on her back in the pool. Her enormous head, neck, and upper shoulders float naturally on the water surface. Her face is almost horizontal, looking upward toward the ceiling. Wet slicked-back blonde hair spreads slightly in the water. She is exceptionally beautiful, youthful, glamorous, and highly photogenic, with blue eyes, glossy wet skin, and realistic pores.
+
+At the very first frame, a full-size normal middle-aged man in plaid swim trunks is already standing barefoot with BOTH FEET planted directly on the center of the giant woman’s forehead above her eyebrows. He is holding a white cup.
+
+The man is approximately 180 cm tall in the world of the scene. He is NOT miniature, NOT toy-sized, NOT dwarf-sized, NOT shrunken. His size, height, head size, and body proportions must match the men standing around the pool. He must also match the human scale of the pool ladders, chairs, and vending machines. Only the woman is gigantic.
+
+The man is NOT standing on a ladder, NOT standing on the pool edge, and NOT climbing down from anywhere. The pool ladders exist only in the background and never interact with him.
+
+The giant woman remains lying flat on her back throughout the scene. Her enormous face floats on the water while the full-size normal man stands clearly on top of her forehead. Do not make him grab her nose.
+
+ACTION:
+0–3s: Wide poolside smartphone shot. The giant blonde woman floats flat on her back. The full-size normal 180 cm man is already balancing on her forehead with both feet. The crowd behind them laughs and films. She looks upward at him with amused, slightly confused eyes.
+
+3–6s: The man moves quickly and awkwardly across her forehead, taking faster unsteady steps and windmilling his arms while trying not to fall. He should not move carefully or slowly. The crowd reacts louder. The phone camera does a slight shaky push-in.
+
+6–9s: He slips suddenly and slides faster down the slope of her giant face toward her nose and mouth. His white cup flies out of his hand. Her eyes track him and her expression changes from amused confusion to surprised disbelief.
+
+9–12s: She opens her mouth very wide in sudden surprise. He slides directly into the open mouth much faster, feet-first, with a more dramatic loss of balance.
+
+12–15s: He falls completely into her open mouth and disappears fully inside. No part of him remains outside. She closes her mouth, blinks in shock, and the people around the pool erupt in cheers, laughter, raised hands, and excited phone filming.
+
+CAMERA / REALISM:
+One continuous viral smartphone shot from poolside, slightly handheld, natural framing, mild compression, realistic fluorescent indoor lighting, convincing wet skin, water reflections, and splashes. No cinematic grading. The impossible scale should still look weirdly believable: giant woman floating on the water + full-size normal 180 cm man standing on her face + normal-size crowd behind them.
+
+TONE:
+Funny, surreal, visually shocking, and energetic, but not horror. No gore, no blood, no violence, no body horror.
+
+CRITICAL NEGATIVES:
+NO man on ladder.
+NO man on pool edge.
+NO man climbing into frame.
+NO nose grabbing.
+NO miniature man.
+NO toy-sized man.
+NO dwarf-sized man.
+NO shrunken man.
+NO woman upright in the water.
+NO giant head standing vertically.
+NO scale changes.
+NO broken anatomy.
+NO extra limbs.
+NO glitchy transitions.
+
+----
+
+PROMPT 2 (with a screenshot of the man as a reference): ⬇️
+
+15 seconds, 16:9 horizontal
+
+Use the provided man as the reference identity. Keep his face, hairstyle, age, body type, and plaid swim trunks recognizable. He is the same man from the previous scene.
+
+Photorealistic absurd surreal comedy continuation. The man is rushing through a huge surreal internal tunnel inspired by a human colon/rectum, but presented like a bizarre water slide. The tunnel is fleshy, pinkish, wet, and organic-looking, with curved tubular walls, but it stays clean and surreal — no gore, no blood, no fecal content. Water rushes around him as if he is riding an impossible fleshy water slide. The man is visible in the frame for most of the sequence, sliding, spinning, yelling, and trying to hold on as he gets carried forward by the rushing water.
+
+The tunnel gradually opens into daylight. He shoots out of the end of the surreal organic slide into a bright real outdoor waterpark splash pool. Realistic sunny waterpark setting: colorful slides, shallow pool, splashing water, and a crowd of people cheering and clapping as he bursts out and lands in the water. He pops up from the splash, shocked but unharmed, while everyone applauds.
+
+CAMERA STYLE: 
+cinematic but still realistic, smooth motion as if the camera follows him inside the tunnel, then a clean wide exterior shot for the final exit. Strong realism, good water physics, clear continuity, exciting but playful tone.
+
+Tone: surreal, hilarious, high-energy, impossible but convincing. Not disgusting, not gory, not sexual. More like a bizarre theme-park sequence.
+
+ACTION TIMING:
+
+- 0–4s: Inside the surreal organic tunnel, the man slides feet-first through the wet curved passage while splashing water rushes around him.
+- 4–8s: He tumbles and spins through the fleshy water-slide tunnel, still clearly visible, yelling and flailing.
+- 8–11s: The tunnel brightens ahead as daylight appears. He accelerates toward the opening.
+- 11–15s: He blasts out into a real outdoor waterpark pool in a huge splash, the crowd cheers and claps, and he surfaces looking stunned but okay.
+
+Important: preserve the man’s identity from the reference. Keep him visible for most of the interior ride. Make the internal tunnel feel like a surreal organic water slide, not graphic anatomy. No gore, no fecal imagery, no body horror, no broken limbs, no glitching.
+
+#AIVideo
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youralphamom-seedance-ai-9afbf3248f50)**
+
+### 雨夜咖啡馆的背叛对峙
 
 > The drama continued and the tension kept rising Seedance 2.5 Prompt 👇 Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman…
 
-[<img src="https://media.goodcase.ai/cases/c73ec96625e2.jpg" width="600" alt="The drama continued and the tension kept rising">](https://goodcase.ai/cases/seedance-the-drama-continued-and-the-tension-kept-rising-1952e2660beb)
+[<img src="https://media.goodcase.ai/cases/c73ec96625e2.jpg" width="600" alt="雨夜咖啡馆的背叛对峙">](https://goodcase.ai/cases/seedance-the-drama-continued-and-the-tension-kept-rising-1952e2660beb)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2096604916014023117) | **发布:** 2026-09-06 | **热度:** 47
 
@@ -1115,11 +1595,11 @@ Sound: No BGM. Locker-room echo, distant locker clanks, shoelace tightening, ear
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/qaistudio-seedance-ai-72dab559610b)**
 
-### Create a 15-second fast-paced, high-end Huda Beauty cosmetics…
+### 红发模特演绎勃艮第腮红广告
 
 > A little blush, a lot of attitude. 🌹✨ Serving that perfect rosy flush, one swipe at a time. 💕 Created with Seedance 2.0 on @budgetpixel PROMPT : Create a 15-s…
 
-[<img src="https://media.goodcase.ai/cases/fb4e26bda95e.jpg" width="600" alt="Create a 15-second fast-paced, high-end Huda Beauty cosmetics…">](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-high-end-huda-beauty-cosmetics-advertisement-fea-22da35548b45)
+[<img src="https://media.goodcase.ai/cases/fb4e26bda95e.jpg" width="600" alt="红发模特演绎勃艮第腮红广告">](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-high-end-huda-beauty-cosmetics-advertisement-fea-22da35548b45)
 
 **作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2095862309285421150) | **发布:** 2026-09-04 | **热度:** 46
 
@@ -1168,11 +1648,11 @@ FINAL FEEL: Playful, glamorous, feminine, expensive, editorial, instantly eye-ca
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-high-end-huda-beauty-cosmetics-advertisement-fea-22da35548b45)**
 
-### Create a 30-second, 1080p ultra-realistic personal home-video showing… (2)
+### 首尔雪巷里的冬日清晨
 
 > Made with seedance 2.5 on Higgsfield Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary winter morning in the life of a y…
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657.jpg" width="600" alt="Create a 30-second, 1080p ultra-realistic personal home-video showing… (2)">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657)
+[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657.jpg" width="600" alt="首尔雪巷里的冬日清晨">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657)
 
 **作者:** @oggii_0 | **来源:** [原帖](https://x.com/oggii_0/status/2095764656694702168) | **发布:** 2026-09-04 | **热度:** 46
 
@@ -1319,11 +1799,11 @@ Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87)**
 
-### Woman = a young East Asian woman around 25, soft elegant features…
+### 雨夜街灯下的未完告别
 
 > It Doesn’t Have to Be! Rain, streetlights, and the goodbye neither of them wanted to say. Sometimes everything hangs on one answer. Made with Dreamina Seedance …
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6.jpg" width="600" alt="Woman = a young East Asian woman around 25, soft elegant features…">](https://goodcase.ai/cases/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6)
+[<img src="https://media.goodcase.ai/media/poster/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6.jpg" width="600" alt="雨夜街灯下的未完告别">](https://goodcase.ai/cases/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6)
 
 **作者:** @Weeleey6 | **来源:** [原帖](https://x.com/Weeleey6/status/2095902275898126648) | **发布:** 2026-09-04 | **热度:** 45
 
@@ -1410,116 +1890,11 @@ The ref image is exactly the first frame. Enjoy! 😎
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/techhalla-seedance-ai-81e09066a66b)**
 
-### 午夜电梯里的镜像追猎
-
-> Made with seedance 2.5 Prompt: Create a highly realistic cinematic horror sequence set inside a quiet apartment building
-
-[<img src="https://media.goodcase.ai/media/poster/saniaspeaks-seedance-ai-575658372136.jpg" width="600" alt="午夜电梯里的镜像追猎">](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)
-
-**作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2091483449815126134) | **发布:** 2026-08-23 | **热度:** 45
-
-**稳定度：** 63/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (62.9 分) · [产物](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（10 行，点开展开）</b></summary>
-
-```
-Create a highly realistic cinematic horror sequence set inside a quiet apartment building late at night. A young woman enters an empty elevator alone, wearing simple casual clothes, with natural realistic facial features and subtle nervous expressions. The elevator moves strangely, stopping at several floors. Every time the doors open, the exact same long, empty apartment corridor appears outside, dimly lit by flickering ceiling lights. She becomes increasingly confused and frightened, repeatedly pressing the elevator buttons and looking down the corridor.
-On the final stop, the elevator doors slowly slide open. At the far end of the corridor stands another young woman who looks exactly identical to her, motionless and staring directly at her. The atmosphere becomes completely silent. The woman inside the elevator slowly steps forward, unable to understand what she is seeing. The identical woman suddenly tilts her head at an unnatural angle and takes one slow step toward her.
-Without warning, the corridor woman violently charges toward her with extremely fast, unnatural movement. The original woman screams and tries to retreat into the elevator, but the other woman tackles her and both fall to the floor. The corridor woman grabs her and aggressively drags her backward across the floor while the original woman desperately tries to hold onto the elevator doorway. The elevator lights flicker rapidly, casting harsh moving shadows across both faces.
-The original woman manages to reach one hand toward the elevator control panel, desperately trying to press the door-close button. The corridor woman suddenly grabs her wrist and pulls her away. The elevator doors begin closing by themselves, slowly separating the two women. The original woman reaches toward the narrowing gap in panic while the identical woman stares at her with an eerie, emotionless expression.
-
-The doors finally slam shut.
-
-Cut to a completely empty corridor. No one is visible. A smartphone lies on the floor where the struggle happened, its screen still glowing and displaying 2:13 AM. The hallway lights flicker once, then everything goes completely dark.
-
-Ultra-photorealistic live-action horror, realistic human movement, believable apartment building textures, natural skin detail, subtle handheld camera movement, cinematic low-light exposure, practical fluorescent lighting, deep shadows, atmospheric tension, realistic motion blur, disturbing but non-gory horror, no supernatural visual effects, no text overlays, no subtitles, no cartoon appearance.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)**
-
-### 屋顶训练室女子晚间健身
-
-> Made with Seedance 2.5 Prompt: 30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout.
-
-[<img src="https://media.goodcase.ai/cases/ac0d4f78ea21.jpg" width="600" alt="屋顶训练室女子晚间健身">](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395)
-
-**作者:** @kingofdairyque | **来源:** [原帖](https://x.com/kingofdairyque/status/2089951161789092255) | **发布:** 2026-08-19 | **热度:** 45
-
-**稳定度：** 78/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.8 分) · [产物](https://media.goodcase.ai/retests/kingofdairyque-seedance-ai-d37a2e5fa395/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（51 行，点开展开）</b></summary>
-
-```
-30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
-
-Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
-
-00–05s:
-She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
-
-05–10s:
-She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
-
-10–15s:
-She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
-
-15–20s:
-She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
-
-20–25s:
-She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
-
-25–30s:
-She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
-
-Audio:
-Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
-
-Negative:
-No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.Made with Seedance 2.5
-
-Prompt:
-
-30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
-
-Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
-
-00–05s:
-She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
-
-05–10s:
-She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
-
-10–15s:
-She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
-
-15–20s:
-She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
-
-20–25s:
-She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
-
-25–30s:
-She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395)**
-
-### Created with Seedance 2.5 on Rezona Lab
+### 浴袍奶奶驾驶武装警用直升机逃亡
 
 > Created with Seedance 2.5 on Rezona Lab @rezona_ai Prompt 👇 Generate a continuous 30-second raw live USA television news helicopter coverage of the ongoing aft…
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e.jpg" width="600" alt="Created with Seedance 2.5 on Rezona Lab">](https://goodcase.ai/cases/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e)
+[<img src="https://media.goodcase.ai/media/poster/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e.jpg" width="600" alt="浴袍奶奶驾驶武装警用直升机逃亡">](https://goodcase.ai/cases/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2095804336328872106) | **发布:** 2026-09-04 | **热度:** 44
 
@@ -1606,11 +1981,116 @@ Negative: No CGI look, plastic skin, identity drift, distorted anatomy, extra li
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473)**
 
-### Create a short anime-style food video showing the step-by-step…
+### 午夜电梯里的镜像追猎
+
+> Made with seedance 2.5 Prompt: Create a highly realistic cinematic horror sequence set inside a quiet apartment building
+
+[<img src="https://media.goodcase.ai/media/poster/saniaspeaks-seedance-ai-575658372136.jpg" width="600" alt="午夜电梯里的镜像追猎">](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)
+
+**作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2091483449815126134) | **发布:** 2026-08-23 | **热度:** 44
+
+**稳定度：** 63/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (62.9 分) · [产物](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（10 行，点开展开）</b></summary>
+
+```
+Create a highly realistic cinematic horror sequence set inside a quiet apartment building late at night. A young woman enters an empty elevator alone, wearing simple casual clothes, with natural realistic facial features and subtle nervous expressions. The elevator moves strangely, stopping at several floors. Every time the doors open, the exact same long, empty apartment corridor appears outside, dimly lit by flickering ceiling lights. She becomes increasingly confused and frightened, repeatedly pressing the elevator buttons and looking down the corridor.
+On the final stop, the elevator doors slowly slide open. At the far end of the corridor stands another young woman who looks exactly identical to her, motionless and staring directly at her. The atmosphere becomes completely silent. The woman inside the elevator slowly steps forward, unable to understand what she is seeing. The identical woman suddenly tilts her head at an unnatural angle and takes one slow step toward her.
+Without warning, the corridor woman violently charges toward her with extremely fast, unnatural movement. The original woman screams and tries to retreat into the elevator, but the other woman tackles her and both fall to the floor. The corridor woman grabs her and aggressively drags her backward across the floor while the original woman desperately tries to hold onto the elevator doorway. The elevator lights flicker rapidly, casting harsh moving shadows across both faces.
+The original woman manages to reach one hand toward the elevator control panel, desperately trying to press the door-close button. The corridor woman suddenly grabs her wrist and pulls her away. The elevator doors begin closing by themselves, slowly separating the two women. The original woman reaches toward the narrowing gap in panic while the identical woman stares at her with an eerie, emotionless expression.
+
+The doors finally slam shut.
+
+Cut to a completely empty corridor. No one is visible. A smartphone lies on the floor where the struggle happened, its screen still glowing and displaying 2:13 AM. The hallway lights flicker once, then everything goes completely dark.
+
+Ultra-photorealistic live-action horror, realistic human movement, believable apartment building textures, natural skin detail, subtle handheld camera movement, cinematic low-light exposure, practical fluorescent lighting, deep shadows, atmospheric tension, realistic motion blur, disturbing but non-gory horror, no supernatural visual effects, no text overlays, no subtitles, no cartoon appearance.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)**
+
+### 屋顶训练室女子晚间健身
+
+> Made with Seedance 2.5 Prompt: 30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout.
+
+[<img src="https://media.goodcase.ai/cases/ac0d4f78ea21.jpg" width="600" alt="屋顶训练室女子晚间健身">](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395)
+
+**作者:** @kingofdairyque | **来源:** [原帖](https://x.com/kingofdairyque/status/2089951161789092255) | **发布:** 2026-08-19 | **热度:** 44
+
+**稳定度：** 78/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.8 分) · [产物](https://media.goodcase.ai/retests/kingofdairyque-seedance-ai-d37a2e5fa395/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（51 行，点开展开）</b></summary>
+
+```
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+
+Audio:
+Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
+
+Negative:
+No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.Made with Seedance 2.5
+
+Prompt:
+
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395)**
+
+### 烤肉串与冰镇石榴饮的制作
 
 > Seedance 2.5 Prompt: Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef sl…
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778.jpg" width="600" alt="Create a short anime-style food video showing the step-by-step…">](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778)
+[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778.jpg" width="600" alt="烤肉串与冰镇石榴饮的制作">](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778)
 
 **作者:** @aiwithlumi | **来源:** [原帖](https://x.com/aiwithlumi/status/2095496077764100446) | **发布:** 2026-09-03 | **热度:** 43
 
@@ -2283,11 +2763,11 @@ Reference image locked for character identity.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/rovvmut-seedance-ai-228f58be0ecb)**
 
-### Cinematic 19-second commercial ad for a luxury perfume
+### 暗蓝香水瓶雾光广告
 
 > Luxury in every detail A cinematic fragrance experience crafted to leave a lasting impression. Made With Seedance 2.5 Prompt: Cinematic 19-second commercial ad …
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2.jpg" width="600" alt="Cinematic 19-second commercial ad for a luxury perfume">](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2)
+[<img src="https://media.goodcase.ai/media/poster/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2.jpg" width="600" alt="暗蓝香水瓶雾光广告">](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2)
 
 **作者:** @juliaevee | **来源:** [原帖](https://x.com/juliaevee/status/2095745759027028252) | **发布:** 2026-09-04 | **热度:** 41
 
@@ -2297,11 +2777,11 @@ Cinematic 19-second commercial ad for a luxury perfume. The video starts in pitc
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2)**
 
-### She's spending the evening with her favorite friends
+### 韩国女孩与好友欢乐聚会的一天
 
 > She's spending the evening with her favorite friends. Created with seedance 2.5 Prompt ↓ Create a 30-second 16:9 ultra-r
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5.jpg" width="600" alt="She's spending the evening with her favorite friends">](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5)
+[<img src="https://media.goodcase.ai/media/poster/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5.jpg" width="600" alt="韩国女孩与好友欢乐聚会的一天">](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5)
 
 **作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2095106155978596773) | **发布:** 2026-09-02 | **热度:** 41
 
@@ -3161,6 +3641,36 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f)**
 
+### 黏土定格迷你能多益咖啡馆
+
+> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
+
+[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="黏土定格迷你能多益咖啡馆">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)
+
+**作者:** @MayaAiCreator | **来源:** [原帖](https://x.com/MayaAiCreator/status/2091397686104588650) | **发布:** 2026-08-23 | **热度:** 33
+
+<details>
+<summary><b>完整 prompt（12 行，点开展开）</b></summary>
+
+```
+A prompt to recreate this stop-motion claymation style AI video:
+Seedance 2.0. 
+​Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence & Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)**
+
 ### 道士少女与巨人的山路追车
 
 > Incredible character visuals and dialogue that actually hits! 🎬🔥 Stop wasting tokens on endless prompt tweaks. Seedanc
@@ -3828,7 +4338,7 @@ Seedance 2.5 prompt ⬇️
 
 [<img src="https://media.goodcase.ai/cases/db7139cf93f2.jpg" width="600" alt="Seedance 2.5 一张照片让自己飞天的科幻史诗短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac)
 
-**作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2088977887638516207) | **发布:** 2026-08-16 | **热度:** 22
+**作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2088977887638516207) | **发布:** 2026-08-16 | **热度:** 21
 
 <details>
 <summary><b>完整 prompt（107 行，点开展开）</b></summary>

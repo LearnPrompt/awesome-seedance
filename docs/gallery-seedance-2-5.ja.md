@@ -1,14 +1,14 @@
 # Seedance 2.5 — 全ケース
 
-Seedance 2.5 の全 43 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 45 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md)
 
-### 复古餐厅时间冻结与倒放
+### Frozen Time and Rewind in a 1950s Diner
 
-> 一份 30 秒的时间冻结加倒放脚本：咖啡打翻的瞬间被锁死，镜头绕悬浮液带走完整圈，再让所有人和物倒回原位，最后一个招手把事故消解掉。
+> A 30-second Seedance 2.5 script that locks a diner spill at its peak, orbits the suspended coffee ribbons for a full circle, rewinds every person and droplet back to the exact starting positions, then erases the accident with a single casual wave.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="Frozen Time and Rewind in a 1950s Diner">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)
 
 **作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2083389002552664385) | **公開日:** 2026-08-01 | **ヒート:** 100
 
@@ -39,11 +39,11 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
 
-### 首尔夏夜 Vlog
+### Seoul Summer Night Vlog
 
-> 一份详尽的脚本式提示词，用于创作一段展现首尔夏夜怀旧家庭录像风格的视频。
+> A thorough scripted prompt for a nostalgic home-video-style clip of a summer night in Seoul.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)
+[<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="Seoul Summer Night Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)
 
 **作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2092971211169100048) | **公開日:** 2026-08-27 | **ヒート:** 99
 
@@ -57,11 +57,11 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-c8171f712492)**
 
-### 双人 K-pop MV 逐镜分镜
+### Two-Idol K-pop MV, Shot by Shot
 
-> 把 30 秒切成十几段两到四秒的镜头，每段写死机位、景别、背景和动作，两个女生用粉发和黑发做外观锚点贯穿全片。值钱的是这套时间码排镜法。
+> A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="Two-Idol K-pop MV, Shot by Shot">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)
 
 **作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2083422886686031982) | **公開日:** 2026-08-01 | **ヒート:** 99
 
@@ -75,11 +75,11 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)**
 
-### mini DV 咖啡 ASMR vlog
+### Mini DV Coffee ASMR Vlog
 
-> 用家用摄像机的缺陷反向做真实感：手抖、来回找焦、曝光漂移、磁带颗粒全写进提示词，再配一份 ASMR 声音清单和每段三秒的分镜节奏。
+> A cozy espresso-making vlog that manufactures authenticity out of consumer camcorder flaws — hand shake, focus hunting, auto-exposure shifts and tape grain — paired with an ASMR sound list, a three-second-per-beat storyboard and an explicit rule against looking commercial or AI-generated.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="Mini DV Coffee ASMR Vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)
 
 **作者:** @Strength04_X | **出典:** [元投稿](https://x.com/Strength04_X/status/2083094742682787939) | **公開日:** 2026-07-31 | **ヒート:** 99
 
@@ -120,7 +120,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 [<img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="600" alt="Boa Hancock Water Obstacle Race Prompt">](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)
 
-**作者:** @Chengzilhy | **出典:** [元投稿](https://x.com/Chengzilhy/status/2087458506123465088) | **公開日:** 2026-08-12 | **ヒート:** 89
+**作者:** @Chengzilhy | **出典:** [元投稿](https://x.com/Chengzilhy/status/2087458506123465088) | **公開日:** 2026-08-12 | **ヒート:** 90
 
 **安定度:** 66/100
 
@@ -454,11 +454,11 @@ ENG 摄像机、摇臂摄像机、轨道跟拍、长焦、水面低机位、障�
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)**
 
-### 手持感旅行 Vlog：从公寓到海滩
+### Handheld Travel Vlog From Apartment to Beach
 
-> 把 30 秒切成五个连续的生活场景，用同一张参考图锁定女主角的脸和身材，从公寓出门写到日落坐在海边，靠摄像机做旧和真实感描述而不是明星卡司，撑出一条像朋友随手拍的旅行 vlog。
+> A 30-second handheld travel vlog that locks one woman's face and body across five everyday scenes, using camera-imperfection language instead of a cast or a plot to sell the friend-filmed feeling.
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="600" alt="手持感旅行 Vlog：从公寓到海滩">](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)
+[<img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="600" alt="Handheld Travel Vlog From Apartment to Beach">](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)
 
 **作者:** @BubbleBrain | **出典:** [元投稿](https://x.com/BubbleBrain/status/2083659648108990925) | **公開日:** 2026-08-01 | **ヒート:** 87
 
@@ -468,11 +468,11 @@ A realistic handheld travel vlog filmed by a friend following the main character
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)**
 
-### 单人 K-POP MV · Y2K 糖果世界逐秒分镜
+### Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard
 
-> 一份 30 秒逐秒 K-POP MV 脚本：用音频时间码把舞蹈、口型、剪辑和场景全钉死在真实节拍上，主角锁脸锁服装贯穿六个 Y2K 场景，伴舞人数和位置逐段精确控制，翻盖手机合盖硬停收尾。
+> A 30-second, second-by-second K-POP MV script that locks choreography, lip-sync, editing, and scenes to the audio’s actual beats. The protagonist’s face and outfit remain fixed across six Y2K settings, the number and positions of backup dancers are precisely controlled segment by segment, and the ending hard-stops as a flip phone snaps shut.
 
-[<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="单人 K-POP MV · Y2K 糖果世界逐秒分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)
+[<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)
 
 **作者:** @aiwarts | **出典:** [元投稿](https://x.com/aiwarts/status/2085736621685764503) | **公開日:** 2026-08-07 | **ヒート:** 86
 
@@ -762,11 +762,11 @@ Ending: The final geometric frame closes around her face, the holographic effect
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cyberpunk-holographic-dance-performance)**
 
-### 过山车假发闹剧：冻结与倒放的第二次演练
+### Roller Coaster Wig Mishap: A Second Take on Frozen Time
 
-> 同一个作者对时间冻结手法的第二次演练：假发被风吹飞、冻结、再精确倒放回起飞前一瞬间，用假发这个更轻更失控的道具取代咖啡液体，还加了一个原创的口香糖收尾动作，证明这套冻结倒放骨架能换着物理材质反复复用。
+> The same author's second freeze-and-rewind experiment, this time with a flying wig instead of spilled coffee, adding an original gum-and-reset punchline that turns a pure VFX trick into a small complete joke.
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="600" alt="过山车假发闹剧：冻结与倒放的第二次演练">](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)
+[<img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="600" alt="Roller Coaster Wig Mishap: A Second Take on Frozen Time">](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)
 
 **作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2083585132917579834) | **公開日:** 2026-08-01 | **ヒート:** 85
 
@@ -799,11 +799,42 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
 
-### Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程
+### 韩国女生户外泳池 Vlog
 
-> 作者用 Seedance 2.5 生成 30 秒胸挂 GoPro 第一人称短片，以四段硬切完成抛竿、处理鳟鱼、篝火烧烤和进食；提示词锁定参考物、镜头焦段、动作、物理、光色与现场声音。
+> 一段充满 2000 年代怀旧 DV 摄像机风格的 Vlog，记录了一位年轻韩国女生在安静的社区泳池享受阳光午后的时光。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-gopro-94a73eef1dbf.jpg" width="600" alt="Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程">](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf)
+[<img src="https://media.goodcase.ai/cases/68ae69f99fe4.jpg" width="600" alt="韩国女生户外泳池 Vlog">](https://goodcase.ai/cases/vlog-9decd38e99a4)
+
+**作者:** @Strength04_X | **出典:** [元投稿](https://x.com/Strength04_X/status/2091737661061095648) | **公開日:** 2026-08-24 | **ヒート:** 84
+
+<details>
+<summary><b>プロンプト全文（13 行、クリックで展開）</b></summary>
+
+```
+Young Korean woman, early 20s, navy one-piece swimsuit with a loose oversized shirt worn open over it, hair tied up in a high bun, swim goggles around her neck, playful cheerful energy.
+Location: Quiet outdoor community pool, sunny midday. Blue tiled edges, pool floats scattered nearby, lounge chairs, a few potted palms. No crowds, no commercial branding.
+Visual Style: Ultra-realistic documentary realism, playful candid feeling, bright natural sunlight.
+Camera Style: Early 2000s DV camcorder, handheld with water-splash blur on lens occasionally, exposure blown out in bright sun, soft grain. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She sits at the pool edge, feet dangling in the water, kicking gently.
+00:03–00:06 → She says to camera "물이 시원해서 좋다" ("The water feels nice and cool"), smiling.
+00:06–00:09 → She slides into the pool, then pushes off, swimming a short stretch.
+00:09–00:12 → She surfaces laughing, wiping water from her face.
+00:12–00:15 → She waves at camera saying "너도 들어와!" ("Come in too!"), splashing playfully as it fades.
+Audio:
+Water splashing, faint distant chatter, wind, birds. Her dialogue as noted above. No music.
+Goal: A playful, refreshing pool afternoon cheerful, light, authentic.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-9decd38e99a4)**
+
+### Seedance 2.5 GoPro Fishing to Campfire Cook in One Run
+
+> A 30-second chest-mounted GoPro short in four hard cuts: casting, cleaning the trout, grilling over a campfire, eating. Props, focal lengths, physics, light and sound are pinned down.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-gopro-94a73eef1dbf.jpg" width="600" alt="Seedance 2.5 GoPro Fishing to Campfire Cook in One Run">](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf)
 
 **作者:** @abxxai | **出典:** [元投稿](https://x.com/abxxai/status/2087189194720657649) | **公開日:** 2026-08-11 | **ヒート:** 84
 
@@ -947,11 +978,11 @@ Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge det
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)**
 
-### 末日幸存者与感染犬
+### Apocalypse Survivor and the Infected Dog
 
-> 一段感人至深的多镜头电影化序列，描绘了一名幸存者在废弃豪宅中与一只感染犬的相遇，随后发生了一场充满希望的转变。
+> A moving multi-shot cinematic sequence in which a survivor meets an infected dog inside an abandoned mansion, followed by a hopeful turn.
 
-[<img src="https://media.goodcase.ai/media/poster/case-44b9dbf5729c.jpg" width="600" alt="末日幸存者与感染犬">](https://goodcase.ai/cases/case-44b9dbf5729c)
+[<img src="https://media.goodcase.ai/media/poster/case-44b9dbf5729c.jpg" width="600" alt="Apocalypse Survivor and the Infected Dog">](https://goodcase.ai/cases/case-44b9dbf5729c)
 
 **作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2095351192054595892) | **公開日:** 2026-09-03 | **ヒート:** 81
 
@@ -979,11 +1010,11 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/underwater-animal-orchestra)**
 
-### 丧尸列车爆发
+### Zombie Outbreak on a Train
 
-> 一个复杂的、逐镜头视频 storyboard 提示词，描绘了列车上的恐怖丧尸爆发场景，重点展示变异细节和混乱的动作。
+> A complex shot-by-shot video storyboard prompt for a horror zombie outbreak aboard a train, focused on mutation detail and chaotic action.
 
-[<img src="https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg" width="600" alt="丧尸列车爆发">](https://goodcase.ai/cases/case-3b1796c66ab4)
+[<img src="https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg" width="600" alt="Zombie Outbreak on a Train">](https://goodcase.ai/cases/case-3b1796c66ab4)
 
 **作者:** @doctorwasif | **出典:** [元投稿](https://x.com/doctorwasif/status/2094285140247896553) | **公開日:** 2026-08-31 | **ヒート:** 78
 
@@ -1075,11 +1106,11 @@ Make it indistinguishable from expensive real live-action cinema. No AI look, ca
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic)**
 
-### 电影感湿货市场洪水逃生
+### Cinematic Wet Market Flood Escape
 
-> 一个高度精细的电影级动作提示词，描绘了一名女性在暴雨中穿过被洪水淹没的亚洲湿货市场的生存场景。
+> A highly detailed cinematic action prompt following a woman's survival run through a flooded Asian wet market in torrential rain.
 
-[<img src="https://media.goodcase.ai/media/poster/case-198b3f3748b3.jpg" width="600" alt="电影感湿货市场洪水逃生">](https://goodcase.ai/cases/case-198b3f3748b3)
+[<img src="https://media.goodcase.ai/media/poster/case-198b3f3748b3.jpg" width="600" alt="Cinematic Wet Market Flood Escape">](https://goodcase.ai/cases/case-198b3f3748b3)
 
 **作者:** @AiwithElisia | **出典:** [元投稿](https://x.com/AiwithElisia/status/2091036019076272229) | **公開日:** 2026-08-22 | **ヒート:** 75
 
@@ -1114,11 +1145,11 @@ Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realisti
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-198b3f3748b3)**
 
-### 手工烘焙坊电影感商业广告
+### Cinematic Commercial for an Artisan Bakery
 
-> 一份为高端烘焙坊定制的 30 秒商业广告提示词，聚焦于糕点制作过程与产品展示，呈现奢华的美学质感。
+> A 30-second commercial prompt for a high-end bakery, centered on the pastry-making process and product beauty shots with a luxurious aesthetic.
 
-[<img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="600" alt="手工烘焙坊电影感商业广告">](https://goodcase.ai/cases/case-f62d402ccdf6)
+[<img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="600" alt="Cinematic Commercial for an Artisan Bakery">](https://goodcase.ai/cases/case-f62d402ccdf6)
 
 **作者:** @AIwithAliya | **出典:** [元投稿](https://x.com/AIwithAliya/status/2090780603872624826) | **公開日:** 2026-08-21 | **ヒート:** 75
 
@@ -1200,11 +1231,11 @@ No cartoon style, no subtitles, no logos, no watermark.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100)**
 
-### Seedance 2.5 深夜厨房手机实录做饭
+### Seedance 2.5 Late-Night Kitchen Phone Footage
 
-> 固定机位手机实拍风：深夜厨房做饭 30 秒，自动对焦游移、小失误与收尾独白，分时段脚本精确到秒，全程无剪辑感。
+> Fixed-tripod phone footage: 30 seconds of cooking in a late-night kitchen, with drifting autofocus, small mistakes and a closing monologue, scripted to the second and edit-free throughout.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-eba905fedcff.jpg" width="600" alt="Seedance 2.5 深夜厨房手机实录做饭">](https://goodcase.ai/cases/seedance-2-5-eba905fedcff)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-eba905fedcff.jpg" width="600" alt="Seedance 2.5 Late-Night Kitchen Phone Footage">](https://goodcase.ai/cases/seedance-2-5-eba905fedcff)
 
 **作者:** @AIWithRay | **出典:** [元投稿](https://x.com/AIWithRay/status/2087544594384773346) | **公開日:** 2026-08-12 | **ヒート:** 71
 
@@ -1260,11 +1291,11 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-eba905fedcff)**
 
-### 富有情感的日语对话动画
+### Emotionally Expressive Japanese-Dialogue Animation
 
-> 一个针对 Seedance 2.5 的电影级视频提示词，专注于细腻的面部表情和真实的日语对话，旨在捕捉微妙的情感瞬间。
+> A cinematic video prompt for Seedance 2.5 focused on subtle facial expressions and authentic Japanese dialogue, designed to capture a nuanced emotional moment.
 
-[<img src="https://media.goodcase.ai/media/poster/case-1f8136a9893a.jpg" width="600" alt="富有情感的日语对话动画">](https://goodcase.ai/cases/case-1f8136a9893a)
+[<img src="https://media.goodcase.ai/media/poster/case-1f8136a9893a.jpg" width="600" alt="Emotionally Expressive Japanese-Dialogue Animation">](https://goodcase.ai/cases/case-1f8136a9893a)
 
 **作者:** @sakisuta_ | **出典:** [元投稿](https://x.com/sakisuta_/status/2088559545174175836) | **公開日:** 2026-08-15 | **ヒート:** 70
 
@@ -1278,11 +1309,11 @@ STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothi
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1f8136a9893a)**
 
-### 智能手机旅行 Vlog：日本武道馆体验
+### Smartphone Travel Vlog: A Japanese Dojo Session
 
-> 一段轻松的智能手机 Vlog，记录了一位韩国女性在传统的日本乡村道场学习武术的过程。
+> A relaxed smartphone vlog following a Korean woman learning martial arts at a traditional dojo in rural Japan.
 
-[<img src="https://media.goodcase.ai/cases/c1c5e14de6d8.jpg" width="600" alt="智能手机旅行 Vlog：日本武道馆体验">](https://goodcase.ai/cases/vlog-867cf0ce0743)
+[<img src="https://media.goodcase.ai/cases/c1c5e14de6d8.jpg" width="600" alt="Smartphone Travel Vlog: A Japanese Dojo Session">](https://goodcase.ai/cases/vlog-867cf0ce0743)
 
 **作者:** @SimplyAnnisa | **出典:** [元投稿](https://x.com/SimplyAnnisa/status/2093978574692679983) | **公開日:** 2026-08-30 | **ヒート:** 66
 
@@ -1358,11 +1389,25 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/90s-diner-time-freeze-effect)**
 
-### 东京手机美食 Vlog
+### 韩国校园天台日落场景
 
-> 一份高度详细的提示词，用于创作具有照片级真实感的东京美食 Vlog，旨在模仿手机拍摄的视觉效果与质感，包含自然的掌镜晃动和地道的街区细节。
+> 一个精美的照片级真实感提示词，描绘了韩国校园生活中，两名学生在日落时分追逐被风吹散的作业纸的场景。
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="600" alt="东京手机美食 Vlog">](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)
+[<img src="https://media.goodcase.ai/cases/e7d1edca5df7.jpg" width="600" alt="韩国校园天台日落场景">](https://goodcase.ai/cases/case-c290f40d8f85)
+
+**作者:** @Aqsahere_ | **出典:** [元投稿](https://x.com/Aqsahere_/status/2091001743035564070) | **公開日:** 2026-08-22 | **ヒート:** 61
+
+```
+photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-c290f40d8f85)**
+
+### Tokyo Street Food Phone Vlog
+
+> A highly detailed prompt for a photorealistic Tokyo food vlog that mimics phone-shot footage, complete with natural handheld shake and authentic neighborhood detail.
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="600" alt="Tokyo Street Food Phone Vlog">](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)
 
 **作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2088605003112235033) | **公開日:** 2026-08-15 | **ヒート:** 61
 
@@ -1376,11 +1421,11 @@ Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Ja
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2)**
 
-### Seedance 2.5 欧洲老城清晨旅拍 vlog
+### Seedance 2.5 Old European Town Morning Travel Vlog
 
-> 15 秒五镜头旅拍：自拍行走、街景平移、进店 POV 到咖啡收尾，主打全片人物一致性与真实手持质感。
+> A 15-second five-shot travel vlog: selfie walk, street pan, a POV step into a shop, closing on coffee, built around whole-clip character consistency and genuine handheld texture.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-eae9734adb51.jpg" width="600" alt="Seedance 2.5 欧洲老城清晨旅拍 vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-eae9734adb51)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-eae9734adb51.jpg" width="600" alt="Seedance 2.5 Old European Town Morning Travel Vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-eae9734adb51)
 
 **作者:** @SyntheSarah | **出典:** [元投稿](https://x.com/SyntheSarah/status/2087737206459044262) | **公開日:** 2026-08-13 | **ヒート:** 60
 
@@ -1413,11 +1458,11 @@ The final result should feel like an actual 15-second travel vlog filmed spontan
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-eae9734adb51)**
 
-### 韩国社区夏季摄像机录像
+### Korean Neighborhood Summer Camcorder Footage
 
-> 旨在唤起韩国普通住宅区夏日下午那种怀旧、亲密家庭录像感的提示词。
+> A prompt built to evoke the nostalgic, intimate home-video feel of a summer afternoon in an ordinary Korean residential block.
 
-[<img src="https://media.goodcase.ai/cases/1cd78806b56c.jpg" width="600" alt="韩国社区夏季摄像机录像">](https://goodcase.ai/cases/case-9034732a24fe)
+[<img src="https://media.goodcase.ai/cases/1cd78806b56c.jpg" width="600" alt="Korean Neighborhood Summer Camcorder Footage">](https://goodcase.ai/cases/case-9034732a24fe)
 
 **作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2092599045248188760) | **公開日:** 2026-08-26 | **ヒート:** 53
 
@@ -1465,11 +1510,11 @@ FINAL FEEL: A forgotten recording of an ordinary summer afternoon — warm, inti
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-9034732a24fe)**
 
-### 韩国城市公交站偶遇
+### Chance Encounter at a Korean City Bus Stop
 
-> 一个逼真的真人实拍提示词，描绘了一名男子在黄昏时分的韩国城市帮助一名女子赶上公交车的场景，画面呈现出手机拍摄的效果。
+> A photoreal live-action prompt in which a man helps a woman catch her bus in a Korean city at dusk, shot to look like phone footage.
 
-[<img src="https://media.goodcase.ai/media/poster/case-365f2a3615b1.jpg" width="600" alt="韩国城市公交站偶遇">](https://goodcase.ai/cases/case-365f2a3615b1)
+[<img src="https://media.goodcase.ai/media/poster/case-365f2a3615b1.jpg" width="600" alt="Chance Encounter at a Korean City Bus Stop">](https://goodcase.ai/cases/case-365f2a3615b1)
 
 **作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2091103923440328783) | **公開日:** 2026-08-22 | **ヒート:** 53
 
@@ -1557,11 +1602,11 @@ She gives a small wave and ends the recording.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/16mm-analog-morning-vlog)**
 
-### 硬核卡特尔藏身处动作场景
+### Hardcore Cartel Hideout Action Scene
 
-> 一段电影感十足的孤胆英雄动作序列，讲述了一位身经百战的硬汉在卡特尔藏身处杀出重围的故事。
+> A heavily cinematic lone-hero action sequence in which a battle-worn tough guy shoots his way out of a cartel hideout.
 
-[<img src="https://media.goodcase.ai/cases/9cbd731bf706.jpg" width="600" alt="硬核卡特尔藏身处动作场景">](https://goodcase.ai/cases/case-f6a1af7d22b1)
+[<img src="https://media.goodcase.ai/cases/9cbd731bf706.jpg" width="600" alt="Hardcore Cartel Hideout Action Scene">](https://goodcase.ai/cases/case-f6a1af7d22b1)
 
 **作者:** @The_Kremlinn | **出典:** [元投稿](https://x.com/The_Kremlinn/status/2095083714120229230) | **公開日:** 2026-09-02 | **ヒート:** 49
 
@@ -1619,11 +1664,11 @@ Create a 10-second photorealistic cinematic motorcycle commercial featuring a yo
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/karakoram-motorcycle-commercial)**
 
-### Seedance 2.5 日本夏日祭浴衣自拍 vlog
+### Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog
 
-> 自拍视角 30 秒：浴衣少女夜逛夏日祭，买章鱼烧、玩捞物游戏、看烟花，收尾对镜头挥手告别。
+> A 30-second selfie-POV vlog: a girl in a yukata wanders a summer festival at night, buys takoyaki, plays a scooping game, watches the fireworks and waves goodbye to camera.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-8056757985cc.jpg" width="600" alt="Seedance 2.5 日本夏日祭浴衣自拍 vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-8056757985cc.jpg" width="600" alt="Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc)
 
 **作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2087407192031068528) | **公開日:** 2026-08-12 | **ヒート:** 38
 
@@ -1637,11 +1682,11 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc)**
 
-### Seedance 2.5 生成暴雨港口灾难电影序列
+### Seedance 2.5 Storm Harbor Disaster Movie Sequence
 
-> 作者用 Seedance 2.5 生成 30 秒好莱坞式灾难序列，以六个分镜串联暴雨港口逃生、爆炸洪水、室内避难与巨型海怪结尾，并完整规定角色一致性、镜头运动、水体物理和声音设计。
+> A 30-second Hollywood-style disaster sequence in six shots: storm harbor escape, explosions and flooding, sheltering indoors, and a giant sea monster finale, with camera and water physics specified.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="600" alt="Seedance 2.5 生成暴雨港口灾难电影序列">](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="600" alt="Seedance 2.5 Storm Harbor Disaster Movie Sequence">](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22)
 
 **作者:** @Noor_ul_ain43 | **出典:** [元投稿](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **公開日:** 2026-08-13 | **ヒート:** 37
 
@@ -1686,11 +1731,11 @@ Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming cro
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22)**
 
-### Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒
+### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
 
-> 30 秒竖屏真实骑行 vlog:运动相机、手机前摄、伴随车跟拍三种机位混剪,4K photorealistic、阴天柔光、皮肤汗光与毛孔、无美颜。prompt 用【风格】【时长】等中文结构化区块把机位切换和时间轴写死,是'把剪辑思维写进 prompt'的范本。
+> A 30-second vertical cycling vlog cutting between action cam, phone front camera and a chase bike. 4K photoreal, overcast light, sweat and pores, no beauty filter, every cut hard-coded.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)
 
 **作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2086014766846275817) | **公開日:** 2026-08-08 | **ヒート:** 37
 
@@ -1793,11 +1838,11 @@ Seedance 2.5 prompt 👇
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)**
 
-### Seedance 2.5 生成马尔代夫骑行纪录片长镜头
+### Seedance 2.5 Maldives Cycling Documentary in One Long Take
 
-> 作者用 Seedance 2.5 生成马尔代夫度假村骑行的 18 秒纪实跟拍，以两秒一段的时间线安排人物、游客、员工、陆龟、鹦鹉、蝠鲼与鲸鱼动作，并统一约束手持镜头、胶片颗粒和连续运动。
+> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 生成马尔代夫骑行纪录片长镜头">](https://goodcase.ai/cases/seedance-2-5-f3651857750b)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b)
 
 **作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088099038839316601) | **公開日:** 2026-08-14 | **ヒート:** 35
 
@@ -1840,11 +1885,11 @@ Photorealistic, heavy natural film grain, sharp skin and fabric detail, realisti
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b)**
 
-### Seedance 2.5 生成菠萝披萨突袭执法记录仪长镜头
+### Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take
 
-> 作者用 Seedance 2.5 生成 30 秒连续执法记录仪视角突袭短片，四阶段串联破门、清场、发现菠萝披萨生产线和拘束人员；提示词同步锁定角色装备、房屋布局、光线、动作与环境音。
+> A 30-second continuous bodycam raid in four stages: breach, clear, find a pineapple pizza production line, restrain the suspects. Gear, floor plan, lighting and ambience are all locked down.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 生成菠萝披萨突袭执法记录仪长镜头">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)
 
 **作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088036921184223468) | **公開日:** 2026-08-13 | **ヒート:** 35
 
@@ -1900,11 +1945,11 @@ Single continuous first-person bodycam POV of one FBI agent for the entire 30 se
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)**
 
-### Seedance 电影级分手表演提示词
+### Seedance Cinematic Breakup Performance Prompt
 
-> 一份为 Seedance 2.5 设计的 15 秒结构化视频提示词，旨在呈现情感细腻的分手场景，重点刻画表情表演、呼吸节奏及心理转变，全程无剪辑。
+> A structured 15-second video prompt for Seedance 2.5 staging an emotionally delicate breakup, focused on facial performance, breathing rhythm and the psychological turn, with no cuts throughout.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg" width="600" alt="Seedance 电影级分手表演提示词">](https://goodcase.ai/cases/seedance-3b9beb9a46d4)
+[<img src="https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg" width="600" alt="Seedance Cinematic Breakup Performance Prompt">](https://goodcase.ai/cases/seedance-3b9beb9a46d4)
 
 **作者:** @liyue_ai | **出典:** [元投稿](https://x.com/liyue_ai/status/2090378405288300626) | **公開日:** 2026-08-20 | **ヒート:** 34
 
@@ -1935,11 +1980,11 @@ HO2iXF9a4AAZsco
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)**
 
-### Seedance 2.5 太阳镜UGC测评口播视频
+### Seedance 2.5 Sunglasses UGC Review With Voiceover
 
-> Seedance 2.5 生成的太阳镜UGC测评口播视频，女主角在卧室开箱、试戴并对镜展示细节，全程配台词描述佩戴体验。人物与产品均锁定参考图外观，手持运镜模拟真实博主测评的拍摄质感。
+> A UGC sunglasses review: the host unboxes, tries on and shows details in a bedroom mirror while narrating the fit. Person and product are locked to reference images, shot handheld.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 太阳镜UGC测评口播视频">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 Sunglasses UGC Review With Voiceover">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)
 
 **作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2084608509837275231) | **公開日:** 2026-08-04 | **ヒート:** 26
 
@@ -1961,11 +2006,11 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)**
 
-### Seedance 2.5 涩谷街头K-pop舞蹈同步字幕
+### Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs
 
-> Seedance 2.5 生成的涩谷街头K-pop快闪翻跳视频，四名舞者依次变换菱形、横排、V字三种队形完成舞蹈段落。画面叠加与舞点精确同步的复古大字字幕，逐句随节拍淡入淡出。
+> A K-pop street flash-dance cover in Shibuya: four dancers move through diamond, line and V formations, overlaid with oversized retro subtitles that fade in and out exactly on the beat.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)
 
 **作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2086067758970851614) | **公開日:** 2026-08-08 | **ヒート:** 25
 
@@ -2029,11 +2074,11 @@ FINAL OUTPUT
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)**
 
-### Seedance 2.5 咖啡机竖屏UGC广告
+### Seedance 2.5 Vertical Coffee Machine UGC Ad
 
-> Seedance 2.5 生成的竖屏咖啡机UGC广告，创作者从开箱、注水磨豆到出品试饮完整走一遍产品使用流程，中间穿插台词。分镜按秒数安排特写与转场，模拟真实博主口播带货的镜头语言。
+> A vertical coffee-machine UGC ad walking the full flow from unboxing through grinding to the first sip, with dialogue in between and shots timed to the second.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 Vertical Coffee Machine UGC Ad">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)
 
 **作者:** @SadiaMalik182 | **出典:** [元投稿](https://x.com/SadiaMalik182/status/2085947010293883115) | **公開日:** 2026-08-08 | **ヒート:** 25
 
@@ -2067,11 +2112,11 @@ Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)**
 
-### Seedance 2.5 悬崖翼装跳伞环海一镜到底
+### Seedance 2.5 Cliff Wingsuit Jump Over the Sea in One Take
 
-> Seedance 2.5 生成的悬崖翼装跳伞一镜到底视频，角色跳崖开伞后贴海面高速穿梭躲避多艘游艇，落地脱装后走向摊位咬下一口热狗收尾。全程锁定角色参考图身形面部，用连续跟拍串联跳跃与降落。
+> A one-take wingsuit jump: off the cliff, skimming the sea past a line of yachts, then landing, stripping the suit and biting into a hot dog. A reference image locks face and build throughout.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f1696dad13bc.jpg" width="600" alt="Seedance 2.5 悬崖翼装跳伞环海一镜到底">](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f1696dad13bc.jpg" width="600" alt="Seedance 2.5 Cliff Wingsuit Jump Over the Sea in One Take">](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc)
 
 **作者:** @mrdejie | **出典:** [元投稿](https://x.com/mrdejie/status/2085996752809927146) | **公開日:** 2026-08-08 | **ヒート:** 14
 
@@ -2100,11 +2145,11 @@ Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc)**
 
-### Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画
+### Seedance 2.5 Spider Anti-Hero Character Select UI Animation
 
-> Seedance 2.5 生成的游戏角色选择界面动画，锁定卡片轮播、技能树等UI布局不变，依次展示五名蜘蛛反英雄角色切换站姿。每个角色按参考图锁定设计，配合专属技能特效演出。
+> A game character-select animation: the card carousel and skill tree stay fixed while five spider anti-heroes cycle idle poses, each with its own signature skill VFX.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg" width="600" alt="Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画">](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg" width="600" alt="Seedance 2.5 Spider Anti-Hero Character Select UI Animation">](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)
 
 **作者:** @pratishhhhh | **出典:** [元投稿](https://x.com/pratishhhhh/status/2085679073632882880) | **公開日:** 2026-08-07 | **ヒート:** 13
 
@@ -2185,11 +2230,11 @@ avoid: "Jitter, bent or distorted limbs, temporal flicker, identity drift betwee
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)**
 
-### 吉卜力风格森林烹饪动画
+### Ghibli-Style Forest Cooking Animation
 
-> 一份详尽的电影级提示词，用于创作一段治愈系、宫崎骏风格的动画，描绘在森林溪边烹饪鱼片豆腐汤的场景，包含特定的声音设计与负面约束。
+> A detailed cinematic prompt for creating a healing, Hayao Miyazaki-style animation depicting fish fillet and tofu soup being cooked beside a forest stream, including specific sound design and negative constraints.
 
-[<img src="https://media.goodcase.ai/media/poster/case-a45446378e2a.jpg" width="600" alt="吉卜力风格森林烹饪动画">](https://goodcase.ai/cases/case-a45446378e2a)
+[<img src="https://media.goodcase.ai/media/poster/case-a45446378e2a.jpg" width="600" alt="Ghibli-Style Forest Cooking Animation">](https://goodcase.ai/cases/case-a45446378e2a)
 
 **作者:** @AIReelofficial | **出典:** [元投稿](https://x.com/AIReelofficial/status/2079531584869548309) | **公開日:** 2026-07-21 | **ヒート:** 5
 

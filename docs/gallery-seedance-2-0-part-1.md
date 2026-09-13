@@ -2,17 +2,17 @@
 
 All 130 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 1–96 of 130.
+This page: cases 1–97 of 130.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.md)
 
-### 智能手机拍摄的海滩一日游回忆
+### Beach Day Memories Shot on a Smartphone
 
-> 一段关于阳光明媚海滩一日游的随性智能手机家庭录像提示词，包含跳剪效果和真实的手机手持晃动感。
+> A casual smartphone-style family video prompt about a sunny beach day trip, featuring jump cuts and realistic handheld phone shake.
 
-[<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="600" alt="智能手机拍摄的海滩一日游回忆">](https://goodcase.ai/cases/smartphone-beach-day-memories)
+[<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="600" alt="Beach Day Memories Shot on a Smartphone">](https://goodcase.ai/cases/smartphone-beach-day-memories)
 
-**Author:** @Goodmanprotocol | **Source:** [Original](https://x.com/Goodmanprotocol/status/2079189509586260101) | **Published:** 2026-07-20 | **Heat:** 93
+**Author:** @Goodmanprotocol | **Source:** [Original](https://x.com/Goodmanprotocol/status/2079189509586260101) | **Published:** 2026-07-20 | **Heat:** 94
 
 <details>
 <summary><b>Full prompt (49 lines, click to expand)</b></summary>
@@ -73,11 +73,11 @@ IMPORTANT GENERATION REQUIREMENTS:
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/smartphone-beach-day-memories)**
 
-### 手绘 2D 日本料理动画
+### Hand-Drawn 2D Japanese Bakery Animation
 
-> 此高精细度提示词旨在创作一段 15 秒的动画风格烹饪短片，专注于制作可可巧克力面包的过程。通过对铅笔轮廓、赛璐珞阴影及精确摄像机运动的具体指令，实现手工绘制的审美效果。
+> A highly detailed prompt for a 15-second animated cooking short about making cocoa chocolate bread, specifying pencil outlines, cel shading and precise camera moves for a hand-drawn look.
 
-[<img src="https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg" width="600" alt="手绘 2D 日本料理动画">](https://goodcase.ai/cases/2d-38a41133eab1)
+[<img src="https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg" width="600" alt="Hand-Drawn 2D Japanese Bakery Animation">](https://goodcase.ai/cases/2d-38a41133eab1)
 
 **Author:** @riotboy2024 | **Source:** [Original](https://x.com/riotboy2024/status/2092217560788000816) | **Published:** 2026-08-25 | **Heat:** 91
 
@@ -140,11 +140,11 @@ IMPORTANT GENERATION REQUIREMENTS:
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2d-38a41133eab1)**
 
-### 电影感巴黎时尚广告大片：五镜头街拍
+### Cinematic Paris Fashion Campaign, Five Shots
 
-> 15 秒五个场景的巴黎街拍广告，每个场景固定 3 秒并写死机位和背景地标，用同一只粉色手袋贯穿全片当身份锚点，靠真实人群和手持质感把广告片拍出街拍抓拍的偶然感。
+> Five three-second Paris street shots anchored to named landmarks, with one pink handbag repeated in every scene so the model has an identity anchor to hold onto through rapid cuts.
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg" width="600" alt="电影感巴黎时尚广告大片：五镜头街拍">](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear)
+[<img src="https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg" width="600" alt="Cinematic Paris Fashion Campaign, Five Shots">](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear)
 
 **Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2083793251132186998) | **Published:** 2026-08-02 | **Heat:** 90
 
@@ -185,11 +185,11 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear)**
 
-### 梅林元素功夫表演
+### Meilin-Element Kung Fu Performance
 
-> 来自 X / 𝕏 的真实 视频 案例，由 @aimikoda 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
+> A real video case from X / 𝕏, published by @aimikoda. Useful for observing prompt structure, material organization, and reusable creation patterns.
 
-[<img src="https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg" width="600" alt="梅林元素功夫表演">](https://goodcase.ai/cases/real-case-06-aimikoda)
+[<img src="https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg" width="600" alt="Meilin-Element Kung Fu Performance">](https://goodcase.ai/cases/real-case-06-aimikoda)
 
 **Author:** @aimikoda | **Source:** [Original](https://x.com/aimikoda/status/2054460932068200517) | **Published:** 2026-05-13 | **Heat:** 89
 
@@ -315,11 +315,11 @@ flow: bound during rooted stances and precise strikes, free during aerial motion
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/real-case-06-aimikoda)**
 
-### Erling Haaland 黏土动画园艺
+### Erling Haaland Claymation Gardening
 
-> 一个关于足球明星 Erling Haaland 种植韭菜的幽默 3D 黏土动画提示词，包含生动的角色动作和奇幻的灯光效果。
+> A humorous 3D claymation prompt about football star Erling Haaland planting leeks, with vivid character actions and fantastical lighting effects.
 
-[<img src="https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg" width="600" alt="Erling Haaland 黏土动画园艺">](https://goodcase.ai/cases/erling-haaland-525acabe78da)
+[<img src="https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg" width="600" alt="Erling Haaland Claymation Gardening">](https://goodcase.ai/cases/erling-haaland-525acabe78da)
 
 **Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2079818537137475762) | **Published:** 2026-07-22 | **Heat:** 88
 
@@ -370,11 +370,11 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/modern-action-comedy-video-prompt)**
 
-### 法式牛角包制作过程
+### French Croissant-Making Process
 
-> 来自 X / 𝕏 的真实 视频 案例，由 @TechieBySA 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
+> A real video case from X / 𝕏, published by @TechieBySA. Useful for observing prompt structure, material organization, and reusable creation patterns.
 
-[<img src="https://media.goodcase.ai/media/poster/real-case-07-techiebysa.jpg" width="600" alt="法式牛角包制作过程">](https://goodcase.ai/cases/real-case-07-techiebysa)
+[<img src="https://media.goodcase.ai/media/poster/real-case-07-techiebysa.jpg" width="600" alt="French Croissant-Making Process">](https://goodcase.ai/cases/real-case-07-techiebysa)
 
 **Author:** @TechieBySA | **Source:** [Original](https://x.com/TechieBySA/status/2053523775702925768) | **Published:** 2026-05-10 | **Heat:** 86
 
@@ -456,11 +456,11 @@ Goal: A mouth-watering 12-second croissant journey from butter block to flaky te
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/real-case-07-techiebysa)**
 
-### 超现实酒店泳池比例失调场景
+### Surreal Hotel Pool Scale Illusion
 
-> 一个荒诞的超现实喜剧场景提示词，描绘了比例失调的画面：一名普通男子进入泳池，踩在了一位沉在水中的巨型女性脸上。
+> An absurdist comedy prompt that plays with impossible proportions: an ordinary man wades into a hotel pool and steps onto the face of a giant woman submerged beneath the water.
 
-[<img src="https://media.goodcase.ai/media/poster/case-142119be6421.jpg" width="600" alt="超现实酒店泳池比例失调场景">](https://goodcase.ai/cases/case-142119be6421)
+[<img src="https://media.goodcase.ai/media/poster/case-142119be6421.jpg" width="600" alt="Surreal Hotel Pool Scale Illusion">](https://goodcase.ai/cases/case-142119be6421)
 
 **Author:** @YourAlphaMom | **Source:** [Original](https://x.com/YourAlphaMom/status/2088749172543410403) | **Published:** 2026-08-15 | **Heat:** 85
 
@@ -580,11 +580,11 @@ A massive wooden sailing ship struggles violently against towering ocean waves d
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mermaid-rescue-cinematic-story)**
 
-### 阿马尔菲海岸奢华珠宝广告
+### Amalfi Coast Luxury Jewelry Ad
 
-> 一份详细的脚本和提示词，用于制作一部以 20 世纪 50 年代复古海报女郎风格为主题、在阿马尔菲海岸拍摄的高端钻石珠宝广告。
+> A detailed script and prompt for producing a high-end diamond jewelry commercial set on the Amalfi Coast with a 1950s vintage pin-up style theme.
 
-[<img src="https://media.goodcase.ai/media/poster/case-e53b614b0f42.jpg" width="600" alt="阿马尔菲海岸奢华珠宝广告">](https://goodcase.ai/cases/case-e53b614b0f42)
+[<img src="https://media.goodcase.ai/media/poster/case-e53b614b0f42.jpg" width="600" alt="Amalfi Coast Luxury Jewelry Ad">](https://goodcase.ai/cases/case-e53b614b0f42)
 
 **Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2080973878705434901) | **Published:** 2026-07-25 | **Heat:** 80
 
@@ -634,11 +634,11 @@ Premium luxury logo animation. Fade to black.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-e53b614b0f42)**
 
-### 末日韩式天台恐怖片
+### Post-Apocalyptic Korean Rooftop Horror
 
-> 一个多序列恐怖提示词，用于在韩国天台拍摄僵尸变异场景，包含激烈的动作和电影级运镜。
+> A multi-sequence horror prompt staging a zombie mutation on a Korean rooftop, with intense action and cinematic camera work.
 
-[<img src="https://media.goodcase.ai/cases/eaeddab55dea.jpg" width="600" alt="末日韩式天台恐怖片">](https://goodcase.ai/cases/case-b529ffbdfd9a)
+[<img src="https://media.goodcase.ai/cases/eaeddab55dea.jpg" width="600" alt="Post-Apocalyptic Korean Rooftop Horror">](https://goodcase.ai/cases/case-b529ffbdfd9a)
 
 **Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2090305873373810874) | **Published:** 2026-08-20 | **Heat:** 77
 
@@ -668,11 +668,11 @@ Premium luxury logo animation. Fade to black.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b529ffbdfd9a)**
 
-### 奢华护肤品广告
+### Luxury Skincare Commercial
 
-> 一份 15 秒的护肤品牌广告提示词，包含逐镜头拆解及高端美妆审美风格。
+> A 15-second skincare brand commercial prompt, including a shot-by-shot breakdown and a high-end beauty aesthetic style.
 
-[<img src="https://media.goodcase.ai/media/poster/luxury-skincare-commercial.jpg" width="600" alt="奢华护肤品广告">](https://goodcase.ai/cases/luxury-skincare-commercial)
+[<img src="https://media.goodcase.ai/media/poster/luxury-skincare-commercial.jpg" width="600" alt="Luxury Skincare Commercial">](https://goodcase.ai/cases/luxury-skincare-commercial)
 
 **Author:** @Itswsm105f | **Source:** [Original](https://x.com/Itswsm105f/status/2077666970707890376) | **Published:** 2026-07-16 | **Heat:** 76
 
@@ -720,11 +720,11 @@ Luxury skincare commercial, beauty ad, cinematic lighting, realistic skin textur
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/luxury-skincare-commercial)**
 
-### 电影级武侠古殿金色能量战斗之舞
+### Wuxia Temple Warrior: A Golden Energy Dance
 
-> 单镜头一镜到底的武侠打斗加能量特效组合，把滑步、旋转踢腿、慢动作落地和凌空能量丝带按先后顺序写进同一段描述，没有分镜时间码却靠动作次序撑住了连贯性，是东方武侠题材在西方视频模型上少见的成功案例。
+> A single unbroken block of martial-arts choreography that earns its supernatural energy ribbons by building physical credibility first — a rare case of Chinese wuxia aesthetics landing cleanly on a Western video model.
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-wuxia-temple-energy-dance.jpg" width="600" alt="电影级武侠古殿金色能量战斗之舞">](https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance)
+[<img src="https://media.goodcase.ai/media/poster/youmind-wuxia-temple-energy-dance.jpg" width="600" alt="Wuxia Temple Warrior: A Golden Energy Dance">](https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance)
 
 **Author:** @Inshrah_ali_ | **Source:** [Original](https://x.com/Inshrah_ali_/status/2082761095538790899) | **Published:** 2026-07-30 | **Heat:** 75
 
@@ -741,11 +741,11 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance)**
 
-### 奶油鸡肉意面烹饪 Vlog
+### Creamy Chicken Pasta Cooking Vlog
 
-> 一份详细的 30 秒烹饪 Vlog 分镜脚本提示词，专注于食材准备、烹饪步骤以及角色一致性。
+> A detailed 30-second cooking vlog storyboard prompt covering ingredient prep, the cooking steps and character consistency.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-5bea56e008fc.jpg" width="600" alt="奶油鸡肉意面烹饪 Vlog">](https://goodcase.ai/cases/vlog-5bea56e008fc)
+[<img src="https://media.goodcase.ai/media/poster/vlog-5bea56e008fc.jpg" width="600" alt="Creamy Chicken Pasta Cooking Vlog">](https://goodcase.ai/cases/vlog-5bea56e008fc)
 
 **Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2091483398972080172) | **Published:** 2026-08-23 | **Heat:** 72
 
@@ -755,11 +755,11 @@ DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-5bea56e008fc)**
 
-### 80 年代游艇章鱼杀手恐怖片段
+### 1980s Yacht Slasher: Octopus Attack
 
-> 30 秒里塞进五个固定角色和一场游艇章鱼袭击，用秒级时间轴控制每三秒一次镜头切换，靠 35mm 胶片颗粒、频闪灯光和实拍血浆道具这类技术词把生成视频做出真实 80 年代恐怖片的糙感，而不是干净的数字感。
+> A 30-second monster-attack sequence with five distinct bracketed characters and a giant octopus, using 35mm grain, strobe lighting and practical-blood language to fake genuine 1980s horror-film texture instead of a clean digital look.
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-1980s-slasher-yacht-octopus.jpg" width="600" alt="80 年代游艇章鱼杀手恐怖片段">](https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus)
+[<img src="https://media.goodcase.ai/media/poster/youmind-1980s-slasher-yacht-octopus.jpg" width="600" alt="1980s Yacht Slasher: Octopus Attack">](https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus)
 
 **Author:** @mrdejie | **Source:** [Original](https://x.com/mrdejie/status/2083433982356836382) | **Published:** 2026-08-01 | **Heat:** 72
 
@@ -788,11 +788,11 @@ DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus)**
 
-### 《惊喜探访》浪漫短片
+### The Surprise Visit: A Dialogue-Driven Romance Trailer
 
-> 少见的对白驱动生成视频，每个镜头都配着人物台词而不是纯画面描述，靠一条短信、一路奔跑、一次背后捂眼的三段式反转结构撑起一分钟迷你剧情，证明生成视频也能靠台词和反转讲故事，不止是炫技镜头。
+> A rare dialogue-driven generated video where every shot carries a line of speech, building a one-minute mini-story out of a text message, a citywide sprint and a hands-over-the-eyes reveal — proof that generated video can carry a plot twist, not just pretty shots.
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-surprise-visit-romance-trailer.jpg" width="600" alt="《惊喜探访》浪漫短片">](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer)
+[<img src="https://media.goodcase.ai/media/poster/youmind-surprise-visit-romance-trailer.jpg" width="600" alt="The Surprise Visit: A Dialogue-Driven Romance Trailer">](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer)
 
 **Author:** @Caden_Flux | **Source:** [Original](https://x.com/Caden_Flux/status/2079874069869289682) | **Published:** 2026-07-22 | **Heat:** 71
 
@@ -912,11 +912,11 @@ Some people make them unforgettable."
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer)**
 
-### 电影感生活 Vlog 提示词
+### Cinematic Day-in-the-Life Vlog Prompt
 
-> 一份详尽的视频提示词，用于制作超写实生活 Vlog，记录主角从晨间洗漱到夜晚的全天生活，并确保多场景下的人物一致性。
+> A thorough video prompt for an ultra-realistic life vlog following its subject from the morning wash through to night, holding character consistency across every scene.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-543a49303376.jpg" width="600" alt="电影感生活 Vlog 提示词">](https://goodcase.ai/cases/vlog-543a49303376)
+[<img src="https://media.goodcase.ai/media/poster/vlog-543a49303376.jpg" width="600" alt="Cinematic Day-in-the-Life Vlog Prompt">](https://goodcase.ai/cases/vlog-543a49303376)
 
 **Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2091345498909319528) | **Published:** 2026-08-23 | **Heat:** 70
 
@@ -1015,11 +1015,11 @@ She stands, throws the bag over her shoulder, and gives the camera a small wave.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary)**
 
-### 混合现实家居 Vlog 动画
+### Mixed-Reality Home Vlog Animation
 
-> 这是为 Seedance 2.0 Mini 设计的一款复杂创意提示词，将逼真的家居 Vlog 镜头与镜中反射的 2D 手绘动画相结合，呈现出身份互换和服装切换的效果。
+> A complex creative prompt designed for Seedance 2.0 Mini, combining realistic home vlog footage with 2D hand-drawn animation reflected in a mirror to create identity-swap and outfit-change effects.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-9e1f21c2fdf5.jpg" width="600" alt="混合现实家居 Vlog 动画">](https://goodcase.ai/cases/vlog-9e1f21c2fdf5)
+[<img src="https://media.goodcase.ai/media/poster/vlog-9e1f21c2fdf5.jpg" width="600" alt="Mixed-Reality Home Vlog Animation">](https://goodcase.ai/cases/vlog-9e1f21c2fdf5)
 
 **Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2080168687072379128) | **Published:** 2026-07-23 | **Heat:** 62
 
@@ -1065,11 +1065,11 @@ She stands, throws the bag over her shoulder, and gives the camera a small wave.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-9e1f21c2fdf5)**
 
-### 珠宝精品店武术动作大片
+### Martial Arts Action Set Piece in a Jewelry Boutique
 
-> 一段充满动感的电影级动作片段，讲述了一位身着翡翠绿丝绸礼服的女英雄在奢华精品店内击败窃贼的故事，包含慢动作玻璃破碎效果和精准的武术编排。
+> A kinetic cinematic action beat in which a heroine in an emerald silk gown defeats thieves inside a luxury boutique, with slow-motion shattering glass and precise fight choreography.
 
-[<img src="https://media.goodcase.ai/cases/7ec5d2e5421a.jpg" width="600" alt="珠宝精品店武术动作大片">](https://goodcase.ai/cases/case-d0f11d1ff17c)
+[<img src="https://media.goodcase.ai/cases/7ec5d2e5421a.jpg" width="600" alt="Martial Arts Action Set Piece in a Jewelry Boutique">](https://goodcase.ai/cases/case-d0f11d1ff17c)
 
 **Author:** @mimu_ai1 | **Source:** [Original](https://x.com/mimu_ai1/status/2091215411341930633) | **Published:** 2026-08-22 | **Heat:** 61
 
@@ -1083,11 +1083,11 @@ A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d0f11d1ff17c)**
 
-### 带有动画效果的 UGC 肉类广告
+### UGC Meat Ad with Animated Effects
 
-> 一个极具创意的手机风格广告提示词，融合了真人实拍与卡通角色互动，适用于食品营销。
+> A highly creative smartphone-style ad prompt that combines live action with cartoon character interaction, suitable for food marketing.
 
-[<img src="https://media.goodcase.ai/media/poster/ugc-f0cd0dd33284.jpg" width="600" alt="带有动画效果的 UGC 肉类广告">](https://goodcase.ai/cases/ugc-f0cd0dd33284)
+[<img src="https://media.goodcase.ai/media/poster/ugc-f0cd0dd33284.jpg" width="600" alt="UGC Meat Ad with Animated Effects">](https://goodcase.ai/cases/ugc-f0cd0dd33284)
 
 **Author:** @RuzainaMeer | **Source:** [Original](https://x.com/RuzainaMeer/status/2079141591449739775) | **Published:** 2026-07-20 | **Heat:** 61
 
@@ -1104,11 +1104,11 @@ A highly realistic 12-second vertical UGC-style commercial filmed on a smartphon
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-f0cd0dd33284)**
 
-### 电影感护肤美妆 Vlog
+### Cinematic Skincare and Beauty Vlog
 
-> 一份详细的脚本式提示词，用于制作护肤美妆 Vlog，包含女性展示产品使用的分镜头序列，并标注了具体的时间戳和运镜方式。
+> A detailed scripted prompt for creating a skincare and beauty vlog, including a shot-by-shot sequence of a woman demonstrating product use, with specific timestamps and camera movements marked.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-49dbf66ad64f.jpg" width="600" alt="电影感护肤美妆 Vlog">](https://goodcase.ai/cases/vlog-49dbf66ad64f)
+[<img src="https://media.goodcase.ai/media/poster/vlog-49dbf66ad64f.jpg" width="600" alt="Cinematic Skincare and Beauty Vlog">](https://goodcase.ai/cases/vlog-49dbf66ad64f)
 
 **Author:** @IsabellaHan_ | **Source:** [Original](https://x.com/IsabellaHan_/status/2081055849556877749) | **Published:** 2026-07-25 | **Heat:** 59
 
@@ -1152,11 +1152,11 @@ Cinematic vertical 9:16 beauty vlog style, 4k resolution, ultra-realistic textur
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-49dbf66ad64f)**
 
-### 电影感韩国市场购物之旅
+### Cinematic Korean Market Shopping Trip
 
-> 一份全面的视频脚本，用于生成一位年轻韩国女孩在时尚市场购物的序列。在包括服装摊位和自动扶梯下行在内的多个镜头中，保持角色的一致性。
+> A full video script generating a sequence of a young Korean girl shopping a fashion market, holding character consistency across clothing stalls and a descending escalator.
 
-[<img src="https://media.goodcase.ai/media/poster/case-429376496e25.jpg" width="600" alt="电影感韩国市场购物之旅">](https://goodcase.ai/cases/case-429376496e25)
+[<img src="https://media.goodcase.ai/media/poster/case-429376496e25.jpg" width="600" alt="Cinematic Korean Market Shopping Trip">](https://goodcase.ai/cases/case-429376496e25)
 
 **Author:** @ayzalnooor24521 | **Source:** [Original](https://x.com/ayzalnooor24521/status/2095356156487127394) | **Published:** 2026-09-03 | **Heat:** 57
 
@@ -1200,11 +1200,11 @@ Important: Keep the same girl's identity and appearance consistent in every shot
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429376496e25)**
 
-### 高端饮料 UGC 商业广告
+### Premium Beverage UGC Commercial
 
-> 一份全面的提示词，用于制作高端果饮商业广告，涵盖生活方式摄影、微距镜头以及慢动作液体物理效果。
+> A comprehensive prompt for creating a premium fruit drink commercial, covering lifestyle photography, macro shots, and slow-motion liquid physics effects.
 
-[<img src="https://media.goodcase.ai/media/poster/ugc-80d503f66caa.jpg" width="600" alt="高端饮料 UGC 商业广告">](https://goodcase.ai/cases/ugc-80d503f66caa)
+[<img src="https://media.goodcase.ai/media/poster/ugc-80d503f66caa.jpg" width="600" alt="Premium Beverage UGC Commercial">](https://goodcase.ai/cases/ugc-80d503f66caa)
 
 **Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2076893397256695952) | **Published:** 2026-07-14 | **Heat:** 50
 
@@ -1241,13 +1241,13 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no labels, no pro
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-80d503f66caa)**
 
-### 怀旧高中 Vlog
+### Nostalgic High School Vlog
 
-> 一个高度详细的视频提示词，用于创作具有真实感、家庭录像风格的 Vlog，主角为一名日本女高中生，重点呈现自然的表情和真实的校园环境。
+> A highly detailed video prompt for a home-video-style vlog led by a Japanese high school girl, built around natural expressions and a believable campus setting.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-a4aa7d6b0191.jpg" width="600" alt="怀旧高中 Vlog">](https://goodcase.ai/cases/vlog-a4aa7d6b0191)
+[<img src="https://media.goodcase.ai/media/poster/vlog-a4aa7d6b0191.jpg" width="600" alt="Nostalgic High School Vlog">](https://goodcase.ai/cases/vlog-a4aa7d6b0191)
 
-**Author:** @aiehon_aya | **Source:** [Original](https://x.com/aiehon_aya/status/2092733830801109291) | **Published:** 2026-08-26 | **Heat:** 48
+**Author:** @aiehon_aya | **Source:** [Original](https://x.com/aiehon_aya/status/2092733830801109291) | **Published:** 2026-08-26 | **Heat:** 47
 
 ```
 かわいい日本人の女子高校生の、なんでもない学校の1日を、同級生の親友が撮ったVlog風個人ホームビデオとして作成せよ。超現実的。約10個の短いショット（各2〜3秒）のハードカットのモンタージュで構成する。各ショットはすべて別の場所・別の瞬間で、1ショット＝1つの小さな出来事。トランジション効果やフェードは使わない。撮っているのはいちばん仲のいい親友なので、彼女は完全にリラックスしていて、カメラに笑いかけ、物を見せ、話しかける（言葉は聞き取れない）。ポーズや演技ではなく、親友にだけ見せる素の表情。 メイン被写体 全ショットを通じて同じ日本人の女子高校生。目を引く完璧な美人ではなく、笑った瞬間がいちばんかわいい、話しかけやすい親しみのある顔立ち。 現実的な肌の質感、ノーメイク、頬にほんの少し赤み。笑うと目が三日月になり、八重歯が少しのぞく。 黒髪のゆるいボブで、右の耳の上を小さな銀のヘアピンで留めている。 白い半袖の開襟シャツ、えんじ色のリボン、グレーの膝丈プリーツスカート、白いソックス、上履き（校外では白いスニーカー）、肩掛けのスクールバッグ。 顔、体型、髪型、制服、持ち物を最初から最後まで完全に一貫させる。 ロケーション 夏の朝から夕方の、ごく普通の公立高校。昇降口、窓際の席のある教室、廊下、購買、中庭、放課後の夕日が差す教室、校門。生活感のある本物の学校。他の生徒は背景に自然な程度。広告、認識できるブランドはなし。 カメラ / ビジュアルスタイル 全ショット共通：親友が構える手持ちの古い民生用デジタルカメラ。自然な揺れ、不完全なフレーミング、時折のオートフォーカス変更、露出のゆらぎ、柔らかい画像ディテール、軽いモーションブラー、微妙なデジタルノイズ、少し抑えた色、不完全なホワイトバランス。スタビライズ、ジンバル、ドローン、スローモーション、映画的照明、商業カラーグレーディングはなし。 ショットリスト（順番通り、各2〜3秒、すべてハードカット） 1. 休み時間。前の席の椅子に後ろ向きに座り、身振りをつけて何か喋る（聞こえない）。 2. 購買でパンを2つ買い、1つをレンズに差し出す。 3. 昼休みの中庭のベンチ。パンをかじりながら、木漏れ日に目を細める。 4. 廊下で笑いすぎて壁にもたれ、目じりを指で拭う。 5. 掃除の時間。ほうきを持ったままふざけたポーズをして、廊下の先の気配に気づき、慌ててまじめに掃きだす。 6. 水道で手を洗い、濡れた指先でカメラに水滴を飛ばすまねをして笑う。 7. 放課後、夕日の教室。机に伏せてうたた寝しているところを撮られ、起きて照れ笑い。 8. 黒板の隅に小さな落書きを描いて振り返り、八重歯を見せてにっと笑い、すぐ消す。 9. 昇降口でスニーカーに履き替えながら、何か喋って笑う。 10. 夕焼けの校門で振り返り、両手で大きく手を振る。その途中、録画は突然ブラックアウトに切り替わる。フェードアウトなし。 物理的リアリズム 全ショットで信ぴょう性のある現実世界の物理を維持。手、指、足、制服、髪、パン、ほうき、ノート、スクールバッグは自然に振る舞う。余分な指、融合した手、重複した手足、歪んだ解剖学、浮遊物、消える物体、突然の変形はなし。足は床と地面に適切に繋がったまま。ショット間で被写体を一貫させ、光は朝→昼→夕焼けへ自然に進む。 オーディオ 自然な環境音のみ。ショットごとに環境音も切り替わる。遠くのチャイム、上履きの音、教室のざわめき、購買の喧騒、セミの声、ほうきの音、遠くの部活の掛け声、言葉として聞き取れない話し声と笑い声。音楽なし。ナレーションなし。人工的な音響効果なし。 最終的な雰囲気 12個の何気ない瞬間を並べただけなのに、あとで見返すとエモいと感じる映像。商業作品ではない。ファッション映画ではない。ミュージックビデオではない。同じクラスの親友のカメラにだけ残っている、なんでもないのに二度と戻らない学校の1日の記録。屈託がなく、青春の途中で、懐かしく、温かく、即興的で、深く人間的。カメラがたまたまそこにあったような感じを優先。
@@ -1255,13 +1255,44 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no labels, no pro
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-a4aa7d6b0191)**
 
-### 火凤凰与水龙之战
+### Animated Forest Picnic Scene
 
-> 一场史诗级的元素对决，在古老遗迹中展现火凤凰与水龙的激战，包含详细的镜头与特效说明。
+> A peaceful animated-style riverside forest picnic prompt, featuring gathered ingredients, fish soup cooked over a campfire, and a calm atmosphere under dappled sunlight.
 
-[<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="火凤凰与水龙之战">](https://goodcase.ai/cases/case-2c7bcef707d4)
+[<img src="https://media.goodcase.ai/media/poster/case-e7dccea90d44.jpg" width="600" alt="Animated Forest Picnic Scene">](https://goodcase.ai/cases/case-e7dccea90d44)
 
-**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2095039305555263672) | **Published:** 2026-09-02 | **Heat:** 44
+**Author:** @0xluffy_eth | **Source:** [Original](https://x.com/0xluffy_eth/status/2079374857159270882) | **Published:** 2026-07-21 | **Heat:** 44
+
+**Stability:** 85/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 85.1) · [output](https://media.goodcase.ai/retests/case-e7dccea90d44/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (9 lines, click to expand)</b></summary>
+
+```
+宁静的动画风河边森林野炊场景，新鲜食材直接从自然采集。
+
+手从清澈溪流捞出银鱼，采摘洗净青菜叶，砧板上切鱼片和蔬菜。
+
+篝火上的铁锅里撒香料，放入鱼、青菜和蘑菇，在陶土锅里炖成浓郁热汤。
+
+在木桌上盛饭，配一杯新鲜椰汁，头顶撒下温暖的树影斑驳阳光。
+
+电影级动画画画风、鲜艳色彩、柔和自然光线、超细节、宁静氛围、4K
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-e7dccea90d44)**
+
+### Fire Phoenix Versus Water Dragon
+
+> An epic elemental showdown between a fire phoenix and a water dragon among ancient ruins, with detailed camera and VFX directions.
+
+[<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="Fire Phoenix Versus Water Dragon">](https://goodcase.ai/cases/case-2c7bcef707d4)
+
+**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2095039305555263672) | **Published:** 2026-09-02 | **Heat:** 43
 
 <details>
 <summary><b>Full prompt (21 lines, click to expand)</b></summary>
@@ -1300,7 +1331,7 @@ Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect cha
 
 [<img src="https://media.goodcase.ai/media/poster/korean-idol-backstage-fitting-vlog.jpg" width="600" alt="Korean Idol Backstage Fitting Vlog">](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog)
 
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2081353850779550056) | **Published:** 2026-07-26 | **Heat:** 44
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2081353850779550056) | **Published:** 2026-07-26 | **Heat:** 43
 
 **Stability:** 75/100
 
@@ -1312,83 +1343,11 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog)**
 
-### 森林野餐动画场景
+### 2000s MiniDV Han River Bike Ride
 
-> 一个宁静的动画风格河畔森林野餐提示词，包含采集食材、篝火煮鱼汤等内容，营造出斑驳阳光下的平和氛围。
+> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
 
-[<img src="https://media.goodcase.ai/media/poster/case-e7dccea90d44.jpg" width="600" alt="森林野餐动画场景">](https://goodcase.ai/cases/case-e7dccea90d44)
-
-**Author:** @0xluffy_eth | **Source:** [Original](https://x.com/0xluffy_eth/status/2079374857159270882) | **Published:** 2026-07-21 | **Heat:** 44
-
-**Stability:** 85/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 85.1) · [output](https://media.goodcase.ai/retests/case-e7dccea90d44/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-宁静的动画风河边森林野炊场景，新鲜食材直接从自然采集。
-
-手从清澈溪流捞出银鱼，采摘洗净青菜叶，砧板上切鱼片和蔬菜。
-
-篝火上的铁锅里撒香料，放入鱼、青菜和蘑菇，在陶土锅里炖成浓郁热汤。
-
-在木桌上盛饭，配一杯新鲜椰汁，头顶撒下温暖的树影斑驳阳光。
-
-电影级动画画画风、鲜艳色彩、柔和自然光线、超细节、宁静氛围、4K
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-e7dccea90d44)**
-
-### 高端口红美妆广告
-
-> 一个 8 秒的高端 UGC 口红广告项目，包含美妆镜头、产品微距特写以及展现奢华护肤美学的摄影棚灯光效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-b723c4e1858e.jpg" width="600" alt="高端口红美妆广告">](https://goodcase.ai/cases/case-b723c4e1858e)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2077621815598592445) | **Published:** 2026-07-16 | **Heat:** 40
-
-<details>
-<summary><b>Full prompt (23 lines, click to expand)</b></summary>
-
-```
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, pearl choker, bracelets, rings, and outfit consistency throughout every shot. Replace the jeans with a stylish pleated grey mini skirt while keeping the same top and accessories. Maintain perfect facial consistency and realistic hand anatomy.
-
-Create an 8-second premium UGC lipstick commercial with elegant beauty cinematography. Warm blush-pink studio background, soft diffused lighting, luxury skincare aesthetic, shallow depth of field, cinematic commercial color grading, photorealistic 4K HDR.
-
-Shot 1: Medium beauty shot. She looks directly into the camera while holding a luxury lipstick beside her face with a confident smile.
-
-Shot 2: Cinematic macro close-up of the lipstick rotating slowly in her hand. Metallic reflections shimmer across the premium packaging.
-
-Shot 3: Close-up as she naturally applies the lipstick to her lower lip while looking into a mirror just outside the frame.
-
-Shot 4: Extreme macro of glossy lips. She gently taps her lower lip with her fingertip to blend the product, revealing smooth hydrated texture and natural shine.
-
-Shot 5: Side-profile beauty shot. She smiles softly while holding the lipstick near her chin as her hair moves gently from a soft breeze.
-
-Shot 6: Full-body shot. Wearing the white fitted sleeveless top and grey pleated mini skirt, she confidently walks toward the camera through a minimalist luxury studio while holding the lipstick naturally.
-
-Shot 7: Beauty close-up. She slightly tilts her head, raises the lipstick beside her cheek, and smiles confidently as soft golden highlights illuminate her face.
-
-Shot 8: Hero ending. Elegant close-up of her face beside the lipstick. She lowers the lipstick slightly, maintains eye contact with the camera, gives a subtle confident smile, and the camera slowly pushes in before fading out.
-
-Style: Premium UGC beauty commercial, luxury K-beauty aesthetic, realistic skin texture, glossy lips, elegant natural expressions, cinematic handheld and gimbal movements, macro beauty shots, soft bokeh, commercial-grade lighting, photorealistic, ultra-detailed, 4K HDR, 24fps.
-
-Negative Prompt: No text, no subtitles, no logos, no watermarks, no kissing, no duplicate people, no distorted hands, no deformed lips, no low resolution, no AI artifacts, no cartoon style, no exaggerated makeup, no extra fingers, no flickering, no oversaturated colors.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b723c4e1858e)**
-
-### 2000 年代 MiniDV 汉江骑行
-
-> 为 Seedance 2.0 设计的综合性多场景提示词，旨在模仿 2004 年怀旧的手持 MiniDV 家庭录像风格。
-
-[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000 年代 MiniDV 汉江骑行">](https://goodcase.ai/cases/2000-minidv-5cceb6310905)
+[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905)
 
 **Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 39
 
@@ -1434,11 +1393,11 @@ Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bic
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905)**
 
-### 动画海盗动作序列
+### Animated Pirate Action Sequence
 
-> 一个风格化的 2D 动画提示词，用于表现暴风雨中大帆船上的高强度海盗战斗序列，包含多个角色视角和快节奏动作。
+> A stylized 2D animation prompt for a high-intensity pirate battle sequence aboard a galleon in a storm, featuring multiple character perspectives and fast-paced action.
 
-[<img src="https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg" width="600" alt="动画海盗动作序列">](https://goodcase.ai/cases/case-30f9477f562c)
+[<img src="https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg" width="600" alt="Animated Pirate Action Sequence">](https://goodcase.ai/cases/case-30f9477f562c)
 
 **Author:** @itsshara_ai | **Source:** [Original](https://x.com/itsshara_ai/status/2079565454436426187) | **Published:** 2026-07-21 | **Heat:** 39
 
@@ -1479,11 +1438,52 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-30f9477f562c)**
 
-### 芒果汁商业广告
+### High-End Lipstick Beauty Ad
 
-> 一份全面的提示词，用于制作 20 秒的高端芒果汁商业广告，呈现热带夏季美学、逼真的产品质感以及角色一致性。
+> An 8-second premium UGC lipstick ad project featuring beauty shots, macro product close-ups, and studio lighting effects that express a luxury skincare aesthetic.
 
-[<img src="https://media.goodcase.ai/media/poster/case-cbb9868317f8.jpg" width="600" alt="芒果汁商业广告">](https://goodcase.ai/cases/case-cbb9868317f8)
+[<img src="https://media.goodcase.ai/media/poster/case-b723c4e1858e.jpg" width="600" alt="High-End Lipstick Beauty Ad">](https://goodcase.ai/cases/case-b723c4e1858e)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2077621815598592445) | **Published:** 2026-07-16 | **Heat:** 39
+
+<details>
+<summary><b>Full prompt (23 lines, click to expand)</b></summary>
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, pearl choker, bracelets, rings, and outfit consistency throughout every shot. Replace the jeans with a stylish pleated grey mini skirt while keeping the same top and accessories. Maintain perfect facial consistency and realistic hand anatomy.
+
+Create an 8-second premium UGC lipstick commercial with elegant beauty cinematography. Warm blush-pink studio background, soft diffused lighting, luxury skincare aesthetic, shallow depth of field, cinematic commercial color grading, photorealistic 4K HDR.
+
+Shot 1: Medium beauty shot. She looks directly into the camera while holding a luxury lipstick beside her face with a confident smile.
+
+Shot 2: Cinematic macro close-up of the lipstick rotating slowly in her hand. Metallic reflections shimmer across the premium packaging.
+
+Shot 3: Close-up as she naturally applies the lipstick to her lower lip while looking into a mirror just outside the frame.
+
+Shot 4: Extreme macro of glossy lips. She gently taps her lower lip with her fingertip to blend the product, revealing smooth hydrated texture and natural shine.
+
+Shot 5: Side-profile beauty shot. She smiles softly while holding the lipstick near her chin as her hair moves gently from a soft breeze.
+
+Shot 6: Full-body shot. Wearing the white fitted sleeveless top and grey pleated mini skirt, she confidently walks toward the camera through a minimalist luxury studio while holding the lipstick naturally.
+
+Shot 7: Beauty close-up. She slightly tilts her head, raises the lipstick beside her cheek, and smiles confidently as soft golden highlights illuminate her face.
+
+Shot 8: Hero ending. Elegant close-up of her face beside the lipstick. She lowers the lipstick slightly, maintains eye contact with the camera, gives a subtle confident smile, and the camera slowly pushes in before fading out.
+
+Style: Premium UGC beauty commercial, luxury K-beauty aesthetic, realistic skin texture, glossy lips, elegant natural expressions, cinematic handheld and gimbal movements, macro beauty shots, soft bokeh, commercial-grade lighting, photorealistic, ultra-detailed, 4K HDR, 24fps.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no kissing, no duplicate people, no distorted hands, no deformed lips, no low resolution, no AI artifacts, no cartoon style, no exaggerated makeup, no extra fingers, no flickering, no oversaturated colors.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b723c4e1858e)**
+
+### Mango Juice Commercial
+
+> A comprehensive prompt for producing a 20-second premium mango juice commercial, presenting a tropical summer aesthetic, realistic product texture, and character consistency.
+
+[<img src="https://media.goodcase.ai/media/poster/case-cbb9868317f8.jpg" width="600" alt="Mango Juice Commercial">](https://goodcase.ai/cases/case-cbb9868317f8)
 
 **Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2080520939989811413) | **Published:** 2026-07-24 | **Heat:** 38
 
@@ -1518,11 +1518,11 @@ Negative Prompt: No text overlays, no subtitles, no watermarks, no distorted han
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-cbb9868317f8)**
 
-### 建筑空间改造延时摄影
+### Architectural Space Renovation Time-Lapse
 
-> 一段精准的视频提示词，用于制作无缝衔接的建筑改造动画，展示从毛坯混凝土房间到奢华室内空间的蜕变。
+> A precise video prompt for creating a seamless architectural renovation animation, showing the transformation from an unfinished concrete room into a luxurious interior space.
 
-[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="建筑空间改造延时摄影">](https://goodcase.ai/cases/case-429309e40d97)
+[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="Architectural Space Renovation Time-Lapse">](https://goodcase.ai/cases/case-429309e40d97)
 
 **Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | **Published:** 2026-07-26 | **Heat:** 37
 
@@ -1564,11 +1564,11 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429309e40d97)**
 
-### 电影感晨间健身日常
+### Cinematic Morning Fitness Routine
 
-> 一个 15 秒的电影感 GRWM 视频提示词，用于户外晨间健身，并保持参考角色的身份一致性。
+> A 15-second cinematic GRWM video prompt for an outdoor morning workout while maintaining the identity consistency of the reference character.
 
-[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="电影感晨间健身日常">](https://goodcase.ai/cases/case-3bdeb046587d)
+[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="Cinematic Morning Fitness Routine">](https://goodcase.ai/cases/case-3bdeb046587d)
 
 **Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2081222954659234074) | **Published:** 2026-07-26 | **Heat:** 37
 
@@ -1680,11 +1680,11 @@ The main dan
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/iphone-shot-street-dance-music-video)**
 
-### 夏季饮品商业电影感短片
+### Cinematic Summer Beverage Commercial Short
 
-> 一款专为 Seedance 2.0 设计的高端电影感饮品广告提示词，包含角色参考锁定及充满活力的夏季美学。
+> A premium cinematic beverage ad prompt designed for Seedance 2.0, featuring locked character references and a vibrant summer aesthetic.
 
-[<img src="https://media.goodcase.ai/media/poster/case-1f7a27e4c448.jpg" width="600" alt="夏季饮品商业电影感短片">](https://goodcase.ai/cases/case-1f7a27e4c448)
+[<img src="https://media.goodcase.ai/media/poster/case-1f7a27e4c448.jpg" width="600" alt="Cinematic Summer Beverage Commercial Short">](https://goodcase.ai/cases/case-1f7a27e4c448)
 
 **Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2081383131668701519) | **Published:** 2026-07-26 | **Heat:** 36
 
@@ -1704,11 +1704,11 @@ Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1f7a27e4c448)**
 
-### 复古日式 POV Vlog
+### Retro Japanese POV Vlog
 
-> 一款为 Seedance 2.0 设计的 21 世纪初 MiniDV 摄像机怀旧风提示词，记录了一位日本女性在黄金时刻拍摄的趣味日常 Vlog。
+> An early-21st-century MiniDV camcorder nostalgia-style prompt designed for Seedance 2.0, capturing a fun everyday vlog filmed by a Japanese woman during golden hour.
 
-[<img src="https://media.goodcase.ai/media/poster/pov-vlog-c94d5709daa4.jpg" width="600" alt="复古日式 POV Vlog">](https://goodcase.ai/cases/pov-vlog-c94d5709daa4)
+[<img src="https://media.goodcase.ai/media/poster/pov-vlog-c94d5709daa4.jpg" width="600" alt="Retro Japanese POV Vlog">](https://goodcase.ai/cases/pov-vlog-c94d5709daa4)
 
 **Author:** @SimplyAnnisa | **Source:** [Original](https://x.com/SimplyAnnisa/status/2081342566524486102) | **Published:** 2026-07-26 | **Heat:** 36
 
@@ -1759,11 +1759,11 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/pov-vlog-c94d5709daa4)**
 
-### 智能手表产品生活方式广告
+### Smartwatch Product Lifestyle Ad
 
-> 一份高端智能手表生活方式广告提示词，以一位年轻女性在各种日常场景中的表现为特色，具有极高的制作水准。
+> A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
 
-[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="智能手表产品生活方式广告">](https://goodcase.ai/cases/case-146e12082f4d)
+[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d)
 
 **Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2080519081959276735) | **Published:** 2026-07-24 | **Heat:** 35
 
@@ -1800,11 +1800,11 @@ Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinem
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-146e12082f4d)**
 
-### 复古 16mm 健身有氧 Vlog
+### Retro 16mm Aerobics Fitness Vlog
 
-> 一个电影感提示词，用于创作怀旧的 21 世纪初风格健身 Vlog，主角为韩国偶像，强调真实的手持摄像机运镜和低保真录像带质感。
+> A cinematic prompt for creating a nostalgic early-2000s-style fitness vlog starring a Korean idol, emphasizing authentic handheld camerawork and a lo-fi videotape texture.
 
-[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="复古 16mm 健身有氧 Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)
+[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="Retro 16mm Aerobics Fitness Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)
 
 **Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | **Published:** 2026-07-25 | **Heat:** 33
 
@@ -1818,11 +1818,11 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)**
 
-### 吉卜力风格 Starbucks 广告
+### Ghibli-Style Starbucks Ad
 
-> 一个温馨愉悦的 2D 动画风格 Starbucks 咖啡广告提示词，融合了吉卜力美学、都市生活场景及生动的动画表现。
+> A warm and cheerful 2D animated Starbucks coffee ad prompt that blends Ghibli aesthetics, urban life scenes, and lively animation performance.
 
-[<img src="https://media.goodcase.ai/media/poster/starbucks-739b454ab5c1.jpg" width="600" alt="吉卜力风格 Starbucks 广告">](https://goodcase.ai/cases/starbucks-739b454ab5c1)
+[<img src="https://media.goodcase.ai/media/poster/starbucks-739b454ab5c1.jpg" width="600" alt="Ghibli-Style Starbucks Ad">](https://goodcase.ai/cases/starbucks-739b454ab5c1)
 
 **Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2080914390782779861) | **Published:** 2026-07-25 | **Heat:** 33
 
@@ -1836,11 +1836,11 @@ Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Cof
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/starbucks-739b454ab5c1)**
 
-### 3D 烘焙动画序列
+### 3D Baking Animation Sequence
 
-> 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
+> This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
 
-[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D 烘焙动画序列">](https://goodcase.ai/cases/3d-f194855e4246)
+[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246)
 
 **Author:** @HaniaAi12 | **Source:** [Original](https://x.com/HaniaAi12/status/2076979039747920309) | **Published:** 2026-07-14 | **Heat:** 33
 
@@ -1877,11 +1877,11 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/3d-f194855e4246)**
 
-### 高端热带饮品 UGC 广告
+### Premium Tropical Drink UGC Ad
 
-> 一份详细的多场景视频提示词，用于高端热带饮品广告，展示了一位女性在海滩上的场景，包含电影感手持镜头和微距特写。
+> A detailed multi-scene video prompt for a premium tropical drink ad, showing a woman on the beach with cinematic handheld shots and macro close-ups.
 
-[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="高端热带饮品 UGC 广告">](https://goodcase.ai/cases/ugc-34764467dea1)
+[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="Premium Tropical Drink UGC Ad">](https://goodcase.ai/cases/ugc-34764467dea1)
 
 **Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | **Published:** 2026-07-14 | **Heat:** 32
 
@@ -1920,11 +1920,11 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no product labels
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-34764467dea1)**
 
-### 时尚 UGC 广告
+### Fashion UGC Ad
 
-> 一个用户生成内容（UGC）风格的时尚广告提示词，用于展示优雅的裙装，要求呈现自然的动态效果和写实的智能手机拍摄美学。
+> A user-generated content (UGC) style fashion ad prompt for showcasing an elegant dress, requiring natural motion effects and a realistic smartphone-shot aesthetic.
 
-[<img src="https://media.goodcase.ai/media/poster/ugc-f1f4b662e370.jpg" width="600" alt="时尚 UGC 广告">](https://goodcase.ai/cases/ugc-f1f4b662e370)
+[<img src="https://media.goodcase.ai/media/poster/ugc-f1f4b662e370.jpg" width="600" alt="Fashion UGC Ad">](https://goodcase.ai/cases/ugc-f1f4b662e370)
 
 **Author:** @Diplomeme | **Source:** [Original](https://x.com/Diplomeme/status/2079455816772649210) | **Published:** 2026-07-21 | **Heat:** 31
 
@@ -1966,11 +1966,29 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-f1f4b662e370)**
 
-### 故障艺术风格多维度人脸变形
+### Claymation Cat World Transformation
 
-> 一种实验性的故障风格提示词，通过有节奏的跳剪，在 3D CG、真人实拍、动画和像素艺术之间进行转换。
+> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
 
-[<img src="https://media.goodcase.ai/media/poster/case-5c32e2bac894.jpg" width="600" alt="故障艺术风格多维度人脸变形">](https://goodcase.ai/cases/case-5c32e2bac894)
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14)
+
+**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2078535850745626926) | **Published:** 2026-07-18 | **Heat:** 30
+
+**Stability:** 87/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86.7) · [output](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-6152b0808b14)**
+
+### Glitch Art Multi-Dimensional Face Transformation
+
+> An experimental glitch-style prompt that uses rhythmic jump cuts to switch between 3D CG, live action, animation, and pixel art.
+
+[<img src="https://media.goodcase.ai/media/poster/case-5c32e2bac894.jpg" width="600" alt="Glitch Art Multi-Dimensional Face Transformation">](https://goodcase.ai/cases/case-5c32e2bac894)
 
 **Author:** @Ushizaru_LAB | **Source:** [Original](https://x.com/Ushizaru_LAB/status/2081258810405175362) | **Published:** 2026-07-26 | **Heat:** 29
 
@@ -1984,11 +2002,11 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-5c32e2bac894)**
 
-### 可口可乐时尚转场广告
+### Coca-Cola Fashion Transition Ad
 
-> 一份全面的视频生成提示词，用于制作多场景可口可乐商业广告，包含拼贴风格图形和富有节奏感的服装转场。
+> A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
 
-[<img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="600" alt="可口可乐时尚转场广告">](https://goodcase.ai/cases/case-887d0484c2ce)
+[<img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="600" alt="Coca-Cola Fashion Transition Ad">](https://goodcase.ai/cases/case-887d0484c2ce)
 
 **Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2079810430252331482) | **Published:** 2026-07-22 | **Heat:** 29
 
@@ -2037,24 +2055,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-887d0484c2ce)**
 
-### 黏土动画猫咪世界大变身
-
-> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14)
-
-**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2078535850745626926) | **Published:** 2026-07-18 | **Heat:** 29
-
-**Stability:** 87/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86.7) · [output](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-6152b0808b14)**
-
 ### Luxury Rooftop Helicopter Party
 
 > A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
@@ -2089,11 +2089,11 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
 
-### 太空飞船驾驶舱 FPV 太空航行
+### FPV Space Voyage from a Spaceship Cockpit
 
-> 一段沉浸式第一人称太空飞船驾驶舱视角视频提示词，展现了在小行星带和行星系统中进行的高速机动。
+> An immersive first-person video prompt from the cockpit of a spaceship, showing high-speed maneuvers through an asteroid belt and planetary system.
 
-[<img src="https://media.goodcase.ai/media/poster/fpv-def15f90bf27.jpg" width="600" alt="太空飞船驾驶舱 FPV 太空航行">](https://goodcase.ai/cases/fpv-def15f90bf27)
+[<img src="https://media.goodcase.ai/media/poster/fpv-def15f90bf27.jpg" width="600" alt="FPV Space Voyage from a Spaceship Cockpit">](https://goodcase.ai/cases/fpv-def15f90bf27)
 
 **Author:** @LudovicCreator | **Source:** [Original](https://x.com/LudovicCreator/status/2080593896451473497) | **Published:** 2026-07-24 | **Heat:** 28
 
@@ -2107,11 +2107,11 @@ Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-def15f90bf27)**
 
-### 混乱早晨动画短片
+### Chaotic Morning Animated Short
 
-> 一个关于一名男子混乱早晨日常的幽默动画短片叙事提示词，最终发现这一切只是一场噩梦。
+> A humorous animated short narrative prompt about a man’s chaotic morning routine, ultimately revealing that it was all just a nightmare.
 
-[<img src="https://media.goodcase.ai/media/poster/case-398be18644ee.jpg" width="600" alt="混乱早晨动画短片">](https://goodcase.ai/cases/case-398be18644ee)
+[<img src="https://media.goodcase.ai/media/poster/case-398be18644ee.jpg" width="600" alt="Chaotic Morning Animated Short">](https://goodcase.ai/cases/case-398be18644ee)
 
 **Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2080354151750668360) | **Published:** 2026-07-23 | **Heat:** 28
 
@@ -2125,11 +2125,11 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-398be18644ee)**
 
-### 高端生活方式口红商业广告视频
+### High-End Lifestyle Lipstick Commercial Video
 
-> 一份详细的视频生成提示词，用于制作高端口红广告。视频以一位身处豪华公寓的女性为主角，侧重于写实的美容摄影风格及保持角色特征的一致性。
+> A detailed video generation prompt for creating a high-end lipstick ad. The video centers on a woman in a luxury apartment, focusing on a realistic beauty photography style and maintaining consistent character traits.
 
-[<img src="https://media.goodcase.ai/media/poster/case-9cb44af49d8a.jpg" width="600" alt="高端生活方式口红商业广告视频">](https://goodcase.ai/cases/case-9cb44af49d8a)
+[<img src="https://media.goodcase.ai/media/poster/case-9cb44af49d8a.jpg" width="600" alt="High-End Lifestyle Lipstick Commercial Video">](https://goodcase.ai/cases/case-9cb44af49d8a)
 
 **Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2081032248179220680) | **Published:** 2026-07-25 | **Heat:** 27
 
@@ -2139,11 +2139,11 @@ Use the uploaded reference image as the exact character reference. Preserve her 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-9cb44af49d8a)**
 
-### 股市崩盘新闻直播
+### Stock Market Crash News Livestream
 
-> 一份高度详细的直播风格提示词，用于营造实时新闻报道氛围，包含记者细节、场景设置及电影级运镜指令。
+> A highly detailed livestream-style prompt for creating the atmosphere of a real-time news report, including reporter details, scene setup, and cinematic camera-movement instructions.
 
-[<img src="https://media.goodcase.ai/media/poster/case-f5315418af5f.jpg" width="600" alt="股市崩盘新闻直播">](https://goodcase.ai/cases/case-f5315418af5f)
+[<img src="https://media.goodcase.ai/media/poster/case-f5315418af5f.jpg" width="600" alt="Stock Market Crash News Livestream">](https://goodcase.ai/cases/case-f5315418af5f)
 
 **Author:** @Strength04_X | **Source:** [Original](https://x.com/Strength04_X/status/2080895772531581198) | **Published:** 2026-07-25 | **Heat:** 27
 
@@ -2181,11 +2181,11 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-f5315418af5f)**
 
-### 吉卜力工作室风格牛角面包烘焙坊
+### Studio Ghibli-Style Croissant Bakery
 
-> 这是一个为 Seedance 2.0 设计的电影级动画风格视频提示词，旨在呈现吉卜力风格温暖烘焙坊中制作牛角面包的详细过程。
+> This is a cinematic animated-style video prompt designed for Seedance 2.0, intended to present the detailed process of making croissants in a warm Ghibli-style bakery.
 
-[<img src="https://media.goodcase.ai/media/poster/case-fecae6e34928.jpg" width="600" alt="吉卜力工作室风格牛角面包烘焙坊">](https://goodcase.ai/cases/case-fecae6e34928)
+[<img src="https://media.goodcase.ai/media/poster/case-fecae6e34928.jpg" width="600" alt="Studio Ghibli-Style Croissant Bakery">](https://goodcase.ai/cases/case-fecae6e34928)
 
 **Author:** @Ciri_ai | **Source:** [Original](https://x.com/Ciri_ai/status/2080302214640468225) | **Published:** 2026-07-23 | **Heat:** 27
 
@@ -2199,11 +2199,11 @@ Anime visual reference sheet, Studio Ghibli art style, clean cream white backgro
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-fecae6e34928)**
 
-### 网红奢华别墅探店
+### Influencer Luxury Villa Tour
 
-> 一份详尽的多镜头视频提示词，模拟 iPhone 16 Pro 拍摄效果，展示一位女性网红介绍现代悬崖别墅的过程，包含具体对话和时间轴转场。
+> A detailed multi-shot video prompt simulating iPhone 16 Pro footage, showing a female influencer introducing a modern cliffside villa, with specific dialogue and timeline transitions.
 
-[<img src="https://media.goodcase.ai/media/poster/case-80317051f9f3.jpg" width="600" alt="网红奢华别墅探店">](https://goodcase.ai/cases/case-80317051f9f3)
+[<img src="https://media.goodcase.ai/media/poster/case-80317051f9f3.jpg" width="600" alt="Influencer Luxury Villa Tour">](https://goodcase.ai/cases/case-80317051f9f3)
 
 **Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2077516915195736088) | **Published:** 2026-07-15 | **Heat:** 27
 
@@ -2242,11 +2242,11 @@ Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camer
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-80317051f9f3)**
 
-### 动漫花卉书签 ASMR
+### Anime Floral Bookmark ASMR
 
-> 一段吉卜力风格的动漫 ASMR 场景，展示了手工制作精致压花书签的过程。
+> A Ghibli-style anime ASMR scene showing the process of handcrafting a delicate pressed-flower bookmark.
 
-[<img src="https://media.goodcase.ai/media/poster/asmr-b99180475dc6.jpg" width="600" alt="动漫花卉书签 ASMR">](https://goodcase.ai/cases/asmr-b99180475dc6)
+[<img src="https://media.goodcase.ai/media/poster/asmr-b99180475dc6.jpg" width="600" alt="Anime Floral Bookmark ASMR">](https://goodcase.ai/cases/asmr-b99180475dc6)
 
 **Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2076415711375970372) | **Published:** 2026-07-12 | **Heat:** 26
 
@@ -2260,11 +2260,11 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/asmr-b99180475dc6)**
 
-### Seedance 2.0 可乐商业广告视频
+### Seedance 2.0 Cola Commercial Video
 
-> 一份为 Seedance 2.0 编写的综合性多场景视频提示词，旨在创作一支高能量的商业广告，确保角色特征的一致性及创意转场效果。
+> A comprehensive multi-scene video prompt written for Seedance 2.0, designed to create a high-energy commercial while ensuring consistent character features and creative transition effects.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-0-181cb461432f.jpg" width="600" alt="Seedance 2.0 可乐商业广告视频">](https://goodcase.ai/cases/seedance-2-0-181cb461432f)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-0-181cb461432f.jpg" width="600" alt="Seedance 2.0 Cola Commercial Video">](https://goodcase.ai/cases/seedance-2-0-181cb461432f)
 
 **Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2079547623917195490) | **Published:** 2026-07-21 | **Heat:** 25
 
@@ -2305,11 +2305,11 @@ Camera: fixed frontal composition throughout, 35mm full-body for character shots
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-181cb461432f)**
 
-### 超写实韩国河畔纪录片提示词
+### Ultra-Realistic Korean Riverside Documentary Prompt
 
-> 一套多场景视频提示词，旨在模拟 2000 年代中期手持摄像机拍摄的影像，记录一名年轻男子在雨后漫步河畔的场景。
+> A multi-scene video prompt designed to simulate mid-2000s handheld camera footage, documenting a young man walking along a riverside after the rain.
 
-[<img src="https://media.goodcase.ai/media/poster/case-d346cb88c88e.jpg" width="600" alt="超写实韩国河畔纪录片提示词">](https://goodcase.ai/cases/case-d346cb88c88e)
+[<img src="https://media.goodcase.ai/media/poster/case-d346cb88c88e.jpg" width="600" alt="Ultra-Realistic Korean Riverside Documentary Prompt">](https://goodcase.ai/cases/case-d346cb88c88e)
 
 **Author:** @iamrealsnow | **Source:** [Original](https://x.com/iamrealsnow/status/2080938085081403765) | **Published:** 2026-07-25 | **Heat:** 24
 
@@ -2359,11 +2359,11 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d346cb88c88e)**
 
-### 黑板火柴人空手道对决
+### Blackboard Stick-Figure Karate Duel
 
-> 一份详细的 2D 动画提示词，描述了火柴人在黑板上从互赠花朵到展开激烈空手道对决的场景。
+> A detailed 2D animation prompt describing a scene in which stick figures on a blackboard go from exchanging flowers to launching into an intense karate duel.
 
-[<img src="https://media.goodcase.ai/media/poster/case-de248f679b06.jpg" width="600" alt="黑板火柴人空手道对决">](https://goodcase.ai/cases/case-de248f679b06)
+[<img src="https://media.goodcase.ai/media/poster/case-de248f679b06.jpg" width="600" alt="Blackboard Stick-Figure Karate Duel">](https://goodcase.ai/cases/case-de248f679b06)
 
 **Author:** @mrdejie | **Source:** [Original](https://x.com/mrdejie/status/2079463899305476233) | **Published:** 2026-07-21 | **Heat:** 23
 
@@ -2377,11 +2377,11 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-de248f679b06)**
 
-### 定格动画：狼群袭击序列
+### Stop-Motion Animation: Wolf Pack Attack Sequence
 
-> 这是一个为 Seedance 2.0 设计的写实定格动画提示词，描述了暴风雪中残酷的狼群袭击过程，重点强调物理效果和摄像机运动。
+> This is a realistic stop-motion animation prompt designed for Seedance 2.0, describing a brutal wolf pack attack during a blizzard, with a strong emphasis on physics effects and camera movement.
 
-[<img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="600" alt="定格动画：狼群袭击序列">](https://goodcase.ai/cases/case-69e5879cc5a7)
+[<img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="600" alt="Stop-Motion Animation: Wolf Pack Attack Sequence">](https://goodcase.ai/cases/case-69e5879cc5a7)
 
 **Author:** @eyishazyer | **Source:** [Original](https://x.com/eyishazyer/status/2078437832604123625) | **Published:** 2026-07-18 | **Heat:** 23
 
@@ -2391,11 +2391,11 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-69e5879cc5a7)**
 
-### 海岛微缩模型港口城市蒙太奇
+### Island Miniature Model Harbor City Montage
 
-> 一个专业的视频生成提示词，用于创建高端、细节丰富的海岛港口城市微缩模型，包含电影级光影和复杂的组装动画。
+> A professional video generation prompt for creating a high-end, richly detailed miniature model of an island harbor city, with cinematic lighting and complex assembly animation.
 
-[<img src="https://media.goodcase.ai/media/poster/case-8bdac964f9d4.jpg" width="600" alt="海岛微缩模型港口城市蒙太奇">](https://goodcase.ai/cases/case-8bdac964f9d4)
+[<img src="https://media.goodcase.ai/media/poster/case-8bdac964f9d4.jpg" width="600" alt="Island Miniature Model Harbor City Montage">](https://goodcase.ai/cases/case-8bdac964f9d4)
 
 **Author:** @ai_lifehack55 | **Source:** [Original](https://x.com/ai_lifehack55/status/2076503632988561413) | **Published:** 2026-07-13 | **Heat:** 23
 
@@ -2436,11 +2436,11 @@ BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあ�
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-8bdac964f9d4)**
 
-### K-Pop 偶像后台 Vlog
+### K-Pop Idol Backstage Vlog
 
-> 一个为 Seedance 2.0 设计的专业 4K 分镜脚本提示词，展示了 K-pop 偶像在后台化妆间的场景，包含运镜指导及韩语对话。
+> A professional 4K storyboard script prompt designed for Seedance 2.0, showing a K-pop idol backstage in a dressing room, including camera movement guidance and Korean dialogue.
 
-[<img src="https://media.goodcase.ai/media/poster/k-pop-vlog-01673e48bc3c.jpg" width="600" alt="K-Pop 偶像后台 Vlog">](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c)
+[<img src="https://media.goodcase.ai/media/poster/k-pop-vlog-01673e48bc3c.jpg" width="600" alt="K-Pop Idol Backstage Vlog">](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c)
 
 **Author:** @AI__TSUBAKI | **Source:** [Original](https://x.com/AI__TSUBAKI/status/2081399474971373885) | **Published:** 2026-07-26 | **Heat:** 22
 
@@ -2492,11 +2492,11 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c)**
 
-### 手持式护肤 Vlog 摄像机美学
+### Handheld Skincare Vlog Camera Aesthetic
 
-> 这是一个为 Seedance 2.0 设计的详细分镜提示词，旨在生成一段具有手持迷你 DV 摄像机风格、包含 ASMR 细节的写实晚间护肤流程 Vlog。
+> A detailed storyboard prompt designed for Seedance 2.0, intended to generate a realistic evening skincare routine vlog with a handheld mini DV camera style and ASMR details.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-8a3e0b49e77b.jpg" width="600" alt="手持式护肤 Vlog 摄像机美学">](https://goodcase.ai/cases/vlog-8a3e0b49e77b)
+[<img src="https://media.goodcase.ai/media/poster/vlog-8a3e0b49e77b.jpg" width="600" alt="Handheld Skincare Vlog Camera Aesthetic">](https://goodcase.ai/cases/vlog-8a3e0b49e77b)
 
 **Author:** @Strength04_X | **Source:** [Original](https://x.com/Strength04_X/status/2077333945687925044) | **Published:** 2026-07-15 | **Heat:** 22
 
@@ -2549,13 +2549,63 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)**
 
-### 写实男性网红故事板
+### Hand-Drawn Stop Motion: Blizzard Scene
 
-> 一套全面的多场景视频提示词，旨在确保角色在不同地点和服装下的连贯性，并包含快速剪辑和手持摄像机运动效果。
+> A refined stop-motion animation prompt designed for Seedance 2.0, aiming to present a hand-drawn 2D style and depict a wolf pack attacking a Kazakh yurt camp in a blizzard.
 
-[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="写实男性网红故事板">](https://goodcase.ai/cases/case-58e736edb65c)
+[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="Hand-Drawn Stop Motion: Blizzard Scene">](https://goodcase.ai/cases/case-0287a838e662)
 
-**Author:** @Shorelyn_ | **Source:** [Original](https://x.com/Shorelyn_/status/2079066277650600170) | **Published:** 2026-07-20 | **Heat:** 21
+**Author:** @piotrbinkowski | **Source:** [Original](https://x.com/piotrbinkowski/status/2078515110855753844) | **Published:** 2026-07-18 | **Heat:** 21
+
+```
+Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-0287a838e662)**
+
+### Battle of the Frozen Planet Fortress
+
+> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
+
+[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8)
+
+**Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2080669361237303417) | **Published:** 2026-07-24 | **Heat:** 20
+
+**Stability:** 66/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 66.1) · [output](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1b3b8865bca8)**
+
+### Mythic Warrior Cinematic VFX Showcase
+
+> An epic 3D animation prompt showing a golden Garuda-style warrior battling a celestial goddess, featuring advanced cinematic camera techniques and energy effects.
+
+[<img src="https://media.goodcase.ai/media/poster/vfx-47bf458a20a3.jpg" width="600" alt="Mythic Warrior Cinematic VFX Showcase">](https://goodcase.ai/cases/vfx-47bf458a20a3)
+
+**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2079150941648150607) | **Published:** 2026-07-20 | **Heat:** 20
+
+**Stability:** 83/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83) · [output](https://media.goodcase.ai/retests/vfx-47bf458a20a3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Garuda-like mythical warrior battling a celestial masked goddess above floating islands and glowing clouds. Demonstrate a sequence of cinematic camera techniques including extreme wide aerial shots, low-angle monster introductions, tracking circles, dynamic orbits, spirals, close-ups, and fast action angles as both characters unleash fiery orange and cyan energy attacks that culminate in a colossal mid-air beam clash and shockwave explosion. Display a 16-panel storyboard reference grid along the bottom of the screen labeled with each camera move and lens focal length, with the active camera technique highlighted by a glowing white border as the sequence progresses.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vfx-47bf458a20a3)**
+
+### Realistic Male Influencer Storyboard
+
+> A comprehensive set of multi-scene video prompts designed to ensure character consistency across different locations and outfits, including fast cuts and handheld camera movement effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="Realistic Male Influencer Storyboard">](https://goodcase.ai/cases/case-58e736edb65c)
+
+**Author:** @Shorelyn_ | **Source:** [Original](https://x.com/Shorelyn_/status/2079066277650600170) | **Published:** 2026-07-20 | **Heat:** 20
 
 <details>
 <summary><b>Full prompt (27 lines, click to expand)</b></summary>
@@ -2594,61 +2644,11 @@ M-01. Hongdae Busking Street & Tattoo Shop Tour
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-58e736edb65c)**
 
-### 手绘定格动画：暴风雪场景
+### Wireless Earbuds Product Review
 
-> 这是一个为 Seedance 2.0 设计的精细定格动画提示词，旨在呈现一种手绘 2D 风格，描绘暴风雪中狼群袭击哈萨克族毡房营地的场景。
+> A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
 
-[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="手绘定格动画：暴风雪场景">](https://goodcase.ai/cases/case-0287a838e662)
-
-**Author:** @piotrbinkowski | **Source:** [Original](https://x.com/piotrbinkowski/status/2078515110855753844) | **Published:** 2026-07-18 | **Heat:** 21
-
-```
-Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-0287a838e662)**
-
-### 冰封星球要塞之战
-
-> 一个史诗级的科幻战斗提示词，描述了昆虫外星人对冰封星球上悬崖要塞的突袭。
-
-[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="冰封星球要塞之战">](https://goodcase.ai/cases/case-1b3b8865bca8)
-
-**Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2080669361237303417) | **Published:** 2026-07-24 | **Heat:** 20
-
-**Stability:** 66/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 66.1) · [output](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1b3b8865bca8)**
-
-### 神话战士电影级 VFX 展示
-
-> 一个史诗般的 3D 动画提示词，展示了金色的迦楼罗式战士与天界女神的战斗，呈现了先进的电影级摄像机技术和能量特效。
-
-[<img src="https://media.goodcase.ai/media/poster/vfx-47bf458a20a3.jpg" width="600" alt="神话战士电影级 VFX 展示">](https://goodcase.ai/cases/vfx-47bf458a20a3)
-
-**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2079150941648150607) | **Published:** 2026-07-20 | **Heat:** 20
-
-**Stability:** 83/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83) · [output](https://media.goodcase.ai/retests/vfx-47bf458a20a3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Garuda-like mythical warrior battling a celestial masked goddess above floating islands and glowing clouds. Demonstrate a sequence of cinematic camera techniques including extreme wide aerial shots, low-angle monster introductions, tracking circles, dynamic orbits, spirals, close-ups, and fast action angles as both characters unleash fiery orange and cyan energy attacks that culminate in a colossal mid-air beam clash and shockwave explosion. Display a 16-panel storyboard reference grid along the bottom of the screen labeled with each camera move and lens focal length, with the active camera technique highlighted by a glowing white border as the sequence progresses.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vfx-47bf458a20a3)**
-
-### 无线耳机产品评测
-
-> 一个商业风格的视频提示词，适用于年轻创作者评测无线耳机，结合了自然的互动与精致的产品特写镜头。
-
-[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="无线耳机产品评测">](https://goodcase.ai/cases/case-b157d9c072bc)
+[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="Wireless Earbuds Product Review">](https://goodcase.ai/cases/case-b157d9c072bc)
 
 **Author:** @Goodmanprotocol | **Source:** [Original](https://x.com/Goodmanprotocol/status/2078490755958780363) | **Published:** 2026-07-18 | **Heat:** 20
 
@@ -2662,11 +2662,11 @@ A young creator walks into a bright living room holding a pair of sleek wireless
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b157d9c072bc)**
 
-### 电影感酸种面包烘焙延时摄影
+### Cinematic Sourdough Bread Baking Timelapse
 
-> 一份详细的多镜头视频提示词，用于生成专业的酸种面包烘焙延时摄影，包含揉面、发酵和烘焙的特写镜头，并配有温暖的电影级灯光效果。
+> A detailed multi-shot video prompt for generating a professional sourdough bread baking timelapse, including close-up shots of kneading, proofing, and baking, with warm cinematic lighting effects.
 
-[<img src="https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg" width="600" alt="电影感酸种面包烘焙延时摄影">](https://goodcase.ai/cases/case-179a06586ce5)
+[<img src="https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg" width="600" alt="Cinematic Sourdough Bread Baking Timelapse">](https://goodcase.ai/cases/case-179a06586ce5)
 
 **Author:** @Caden_Flux | **Source:** [Original](https://x.com/Caden_Flux/status/2070862852735594771) | **Published:** 2026-06-27 | **Heat:** 20
 
@@ -2709,11 +2709,11 @@ soft window light from left, 9:16 widescreen.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-179a06586ce5)**
 
-### 武术巷战场景
+### Martial Arts Alley Fight Scene
 
-> 一个充满动感与写实风格的动作提示词，描述了一位运动型女性在阳光明媚的韩国城市小巷中，利用武术对抗多名袭击者的场景。
+> A dynamic, realistic action prompt describing an athletic woman using martial arts to fight multiple attackers in a sunny Korean city alley.
 
-[<img src="https://media.goodcase.ai/media/poster/case-f7e7c1862f38.jpg" width="600" alt="武术巷战场景">](https://goodcase.ai/cases/case-f7e7c1862f38)
+[<img src="https://media.goodcase.ai/media/poster/case-f7e7c1862f38.jpg" width="600" alt="Martial Arts Alley Fight Scene">](https://goodcase.ai/cases/case-f7e7c1862f38)
 
 **Author:** @KeorUnreal | **Source:** [Original](https://x.com/KeorUnreal/status/2081477878349246776) | **Published:** 2026-07-26 | **Heat:** 19
 
@@ -2727,11 +2727,11 @@ Cinematic Korean action sequence in a narrow sunlit urban alleyway lined with br
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-f7e7c1862f38)**
 
-### 电影感滑翔伞旅行 Vlog
+### Cinematic Paragliding Travel Vlog
 
-> 一份详细的电影感视频提示词，用于拍摄一位东亚女性在热带海岸线上空进行滑翔伞运动的旅行 Vlog。
+> A detailed cinematic video prompt for filming a travel vlog of an East Asian woman paragliding above a tropical coastline.
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-065189cb9adb.jpg" width="600" alt="电影感滑翔伞旅行 Vlog">](https://goodcase.ai/cases/vlog-065189cb9adb)
+[<img src="https://media.goodcase.ai/media/poster/vlog-065189cb9adb.jpg" width="600" alt="Cinematic Paragliding Travel Vlog">](https://goodcase.ai/cases/vlog-065189cb9adb)
 
 **Author:** @Goodmanprotocol | **Source:** [Original](https://x.com/Goodmanprotocol/status/2081028788771815678) | **Published:** 2026-07-25 | **Heat:** 19
 
@@ -2745,11 +2745,11 @@ Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animati
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-065189cb9adb)**
 
-### 高端巧克力棒 UGC 广告提示词
+### Premium Chocolate Bar UGC Ad Prompt
 
-> 一份适用于巧克力棒广告的 UGC 风格宣传视频提示词，场景设定在黄金时刻温馨的家庭办公室。
+> A UGC-style promotional video prompt for a chocolate bar ad, set in a cozy home office during golden hour.
 
-[<img src="https://media.goodcase.ai/media/poster/ugc-6f13437e4b40.jpg" width="600" alt="高端巧克力棒 UGC 广告提示词">](https://goodcase.ai/cases/ugc-6f13437e4b40)
+[<img src="https://media.goodcase.ai/media/poster/ugc-6f13437e4b40.jpg" width="600" alt="Premium Chocolate Bar UGC Ad Prompt">](https://goodcase.ai/cases/ugc-6f13437e4b40)
 
 **Author:** @abs_uiux | **Source:** [Original](https://x.com/abs_uiux/status/2080969538032611779) | **Published:** 2026-07-25 | **Heat:** 18
 
@@ -2763,11 +2763,11 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-6f13437e4b40)**
 
-### 黏土风格海盗鸭冒险
+### Clay-Style Pirate Duck Adventure
 
-> 这是一个充满趣味且可爱的 Seedance 2 提示词，用于生成皮克斯风格的 3D 黏土动画，主角是一只在浴缸海洋中航行的海盗鸭船长。
+> A fun and adorable Seedance 2 prompt for generating a Pixar-style 3D clay animation starring a pirate duck captain sailing across a bathtub ocean.
 
-[<img src="https://media.goodcase.ai/media/poster/case-21aab321f762.jpg" width="600" alt="黏土风格海盗鸭冒险">](https://goodcase.ai/cases/case-21aab321f762)
+[<img src="https://media.goodcase.ai/media/poster/case-21aab321f762.jpg" width="600" alt="Clay-Style Pirate Duck Adventure">](https://goodcase.ai/cases/case-21aab321f762)
 
 **Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2078072313686184334) | **Published:** 2026-07-17 | **Heat:** 18
 
@@ -2784,47 +2784,11 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-21aab321f762)**
 
-### Water Walking Xianxia Fraud
+### Stop-Motion Playing Card Art Short
 
-> A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
+> An experimental art short prompt designed for Seedance 2.0, showing rhythmic stop-motion transformations of hand-drawn playing cards on a deep red background.
 
-[<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud)
-
-**Author:** @Soranlan | **Source:** [Original](https://x.com/Soranlan/status/2081379282442420321) | **Published:** 2026-07-26 | **Heat:** 17
-
-**Stability:** 79/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ✅ reproduced (score 78.9) · [output](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-
-```
-诗意仙侠冷面反转喜剧 【风格】 诗意仙侠冷面反转喜剧，写实真人，真实电影高清质感。 采用古典中国画式构图、克制的武侠表演、清晨柔雾、低饱和玉绿色与象牙白色调、优雅稳定的运镜。 前半段营造“轻功高深、仙气十足”的庄重氛围，后半段通过视觉揭晓完成冷面反转，拆穿女主精心维持的仙人形象。 全片为纯古代中国世界，不出现任何现代物品、现代语言、现代建筑、现代音效或现代设计元素。 喜剧效果依靠清楚的空间关系、前置铺垫、镜头揭晓和人物冷静补刀完成，避免夸张搞怪表演。 【时长】 15 秒，三镜头结构，2 人出镜。 【画幅】 16:9 横屏，24fps。 一、场景设定 【场景】 清晨僻静的山门荷塘边。 墨绿色平静水面倒映着一棵老柳、缓慢漂浮的薄雾、白石平台、远处木质水榭、错落荷叶和风化石灯。 全片始终保持同一片荷塘、同一棵垂柳、同样的薄雾、同一块白石平台、同一座远处水榭和同一组荷叶分布。 空间关系必须稳定清楚，便于最后揭晓水下石桩的真实位置。 二、角色锁定 【角色 A｜剑仙师姐】 25–30 岁东亚女性。 椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。 固定服装为：白色刺绣真丝汉服、半透明分层宽袖、浅银色腰封、玉佩、白色布靴。 气质清冷、自信、克制，始终努力维持高人姿态。 【角色 B｜小师妹】 20–25 岁东亚女性。 圆润灵动的脸，黑发编辫，身形娇小。 固定服装为：青绿色亚麻汉服、深色布腰带、木簪、黑色布鞋。 气质真诚、自然、崇拜师姐，但最终补刀平静直接，形成冷面喜剧效果。 三、分镜设计 【镜头 1｜0–5s】 【机位】低角度全景横向跟拍 【主要动作】剑仙师姐在水面上轻盈前行 清晨僻静的山门荷塘边，墨绿色平静水面上漂着薄雾，岸边有白石平台，远处有木质水榭，荷叶错落，老柳轻垂。 同一个剑仙师姐从左向右行走在水面上，从鞋到头完整可见，双手负后，下巴微抬，每一步都显得轻若无物，姿态优雅稳定。 同一个小师妹站在白石岸边，发自内心地仰望她。 镜头低角度横向跟拍，运镜平稳克制，突出她仿佛“踏水无痕”的仙气。 【声音】 庄重古琴、轻微晨风、水面细小涟漪声、远处鸟鸣。 【镜头 2｜5–10s】 【机位】中景侧面跟拍 【主要动作】小师妹提问，师姐一本正经回应 同一个小师妹沿岸跟随，抬头问道： “师姐，这就是踏水无痕？” 同一个剑仙师姐保持平静高深的微笑，回答： “心若无尘，水自承身。” 她继续向前迈步，脚下同一双白色布靴精准落在看似空无一物的水面上。 背景始终保持同一片荷塘、同一棵垂柳、同样的薄雾、白石平台和远处水榭。 镜头节奏从容，重点强化“她好像真能踏水而行”的错觉。 【声音】 对白使用原生普通话，口型准确。 古琴继续，环境声保持安静清晨质感。 【镜头 3｜10–15s】 【机位】水面低机位近景揭晓，随后硬切极近特写 【主要动作】揭晓水下石桩，完成反转 摄影机降低至荷塘水面高度，清楚揭示水面下方藏着一排笔直排列的方形石桩。 同一个剑仙师姐其实正一步不差地踩着这些石桩前行，根本不是真正踏水无痕。 同一个小师妹在岸边抬起脚边最后一根尚未放入水中的石桩，面无表情地说道： “师姐，剩下这些石桩，今晚还搬吗？” 古琴声在一个断音上突然停止。 随后硬切到剑仙师姐的极近特写。 她眉毛轻轻抽动，原本努力维持的高人微笑瞬间凝固，太阳穴旁浮现一滴细汗。 远处传来一声孤零零的蛙鸣。 画面停留在她强装镇定却明显破功的瞬间收尾。 四、表演要求 【剑仙师姐】 前 10 秒必须始终保持清冷、高深、克制、自信的仙人姿态。 反转后也不要夸张跳脚或大叫，笑点来自微表情失守。 重点表现：眉毛轻抽、笑容凝固、细汗浮现、尊严受损后的短暂僵住。 【小师妹】 前半段真诚崇拜。 最后一句补刀要平静自然，像认真在问一个实际问题。 语气越平静，喜剧效果越强。 五、技术执行要求 【连续性要求】 三个镜头必须是同一场景连续发生 人物面部、发型、服装、身材比例全程稳定 师姐始终从左向右前行 小师妹始终在岸边跟随 水下石桩位置必须与前面师姐踩踏的位置严格对应 不增加额外人物 不出现镜头跳变、人物瞬移、背景漂移、道具消失 【物理效果要求】 水面、薄雾、倒影、荷叶、头发、真丝衣料的物理效果真实 水面承托脚步时要有细微自然反馈 揭晓石桩时，水的透明感、折射感、石桩位置都要清楚可信 细汗、发丝和衣料的细节需符合近景电影质感 【声音要求】 原生普通话对白 口型准确 不生成字幕 不使用任何现代提示音或现代配乐 音效只保留古琴、晨风、水声、鸟鸣、远处蛙鸣等古风环境声音 【剪辑要求】 运镜优雅稳定 镜头切换干净 镜头 3 从揭晓到特写使用明确硬切 结尾停顿干净，保留冷面反转余味 六、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, captions, logo, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, hairstyle, face morphing, unstable face, background shift, glitching cuts, disappearing props; extra people, duplicated body, duplicated props, broken continuity, floating objects without logic, wrong lip sync; modern objects, modern architecture, modern costume details, modern language, modern sound effects, electronic sounds
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
-
-### 夜间追逐电影级镜头
-
-> 一段快节奏的夜间电影级追逐片段，包含极致特写和富有节奏感的摄影闪光效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="夜间追逐电影级镜头">](https://goodcase.ai/cases/case-d30f8318a084)
-
-**Author:** @bmx_ai13 | **Source:** [Original](https://x.com/bmx_ai13/status/2081091640857702427) | **Published:** 2026-07-25 | **Heat:** 17
-
-**Stability:** 84/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.8) · [output](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d30f8318a084)**
-
-### 定格动画扑克牌艺术短片
-
-> 一个为 Seedance 2.0 设计的实验性艺术短片提示词，展示了深红色背景上手绘扑克牌的节奏感定格动画变换。
-
-[<img src="https://media.goodcase.ai/media/poster/case-50ba683413ff.jpg" width="600" alt="定格动画扑克牌艺术短片">](https://goodcase.ai/cases/case-50ba683413ff)
+[<img src="https://media.goodcase.ai/media/poster/case-50ba683413ff.jpg" width="600" alt="Stop-Motion Playing Card Art Short">](https://goodcase.ai/cases/case-50ba683413ff)
 
 **Author:** @bmx_ai13 | **Source:** [Original](https://x.com/bmx_ai13/status/2077208527840391188) | **Published:** 2026-07-15 | **Heat:** 17
 
@@ -2855,11 +2819,47 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-50ba683413ff)**
 
-### 赛博朋克赛博之刃战斗
+### Water Walking Xianxia Fraud
 
-> 一个为 Seedance 2.0 设计的电影级战斗提示词，主角是一位身处反乌托邦工业城市的银发青年，展现精准的剑术动作和数字粒子特效。
+> A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
 
-[<img src="https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg" width="600" alt="赛博朋克赛博之刃战斗">](https://goodcase.ai/cases/case-1a9a2c659866)
+[<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud)
+
+**Author:** @Soranlan | **Source:** [Original](https://x.com/Soranlan/status/2081379282442420321) | **Published:** 2026-07-26 | **Heat:** 16
+
+**Stability:** 79/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ✅ reproduced (score 78.9) · [output](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+```
+诗意仙侠冷面反转喜剧 【风格】 诗意仙侠冷面反转喜剧，写实真人，真实电影高清质感。 采用古典中国画式构图、克制的武侠表演、清晨柔雾、低饱和玉绿色与象牙白色调、优雅稳定的运镜。 前半段营造“轻功高深、仙气十足”的庄重氛围，后半段通过视觉揭晓完成冷面反转，拆穿女主精心维持的仙人形象。 全片为纯古代中国世界，不出现任何现代物品、现代语言、现代建筑、现代音效或现代设计元素。 喜剧效果依靠清楚的空间关系、前置铺垫、镜头揭晓和人物冷静补刀完成，避免夸张搞怪表演。 【时长】 15 秒，三镜头结构，2 人出镜。 【画幅】 16:9 横屏，24fps。 一、场景设定 【场景】 清晨僻静的山门荷塘边。 墨绿色平静水面倒映着一棵老柳、缓慢漂浮的薄雾、白石平台、远处木质水榭、错落荷叶和风化石灯。 全片始终保持同一片荷塘、同一棵垂柳、同样的薄雾、同一块白石平台、同一座远处水榭和同一组荷叶分布。 空间关系必须稳定清楚，便于最后揭晓水下石桩的真实位置。 二、角色锁定 【角色 A｜剑仙师姐】 25–30 岁东亚女性。 椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。 固定服装为：白色刺绣真丝汉服、半透明分层宽袖、浅银色腰封、玉佩、白色布靴。 气质清冷、自信、克制，始终努力维持高人姿态。 【角色 B｜小师妹】 20–25 岁东亚女性。 圆润灵动的脸，黑发编辫，身形娇小。 固定服装为：青绿色亚麻汉服、深色布腰带、木簪、黑色布鞋。 气质真诚、自然、崇拜师姐，但最终补刀平静直接，形成冷面喜剧效果。 三、分镜设计 【镜头 1｜0–5s】 【机位】低角度全景横向跟拍 【主要动作】剑仙师姐在水面上轻盈前行 清晨僻静的山门荷塘边，墨绿色平静水面上漂着薄雾，岸边有白石平台，远处有木质水榭，荷叶错落，老柳轻垂。 同一个剑仙师姐从左向右行走在水面上，从鞋到头完整可见，双手负后，下巴微抬，每一步都显得轻若无物，姿态优雅稳定。 同一个小师妹站在白石岸边，发自内心地仰望她。 镜头低角度横向跟拍，运镜平稳克制，突出她仿佛“踏水无痕”的仙气。 【声音】 庄重古琴、轻微晨风、水面细小涟漪声、远处鸟鸣。 【镜头 2｜5–10s】 【机位】中景侧面跟拍 【主要动作】小师妹提问，师姐一本正经回应 同一个小师妹沿岸跟随，抬头问道： “师姐，这就是踏水无痕？” 同一个剑仙师姐保持平静高深的微笑，回答： “心若无尘，水自承身。” 她继续向前迈步，脚下同一双白色布靴精准落在看似空无一物的水面上。 背景始终保持同一片荷塘、同一棵垂柳、同样的薄雾、白石平台和远处水榭。 镜头节奏从容，重点强化“她好像真能踏水而行”的错觉。 【声音】 对白使用原生普通话，口型准确。 古琴继续，环境声保持安静清晨质感。 【镜头 3｜10–15s】 【机位】水面低机位近景揭晓，随后硬切极近特写 【主要动作】揭晓水下石桩，完成反转 摄影机降低至荷塘水面高度，清楚揭示水面下方藏着一排笔直排列的方形石桩。 同一个剑仙师姐其实正一步不差地踩着这些石桩前行，根本不是真正踏水无痕。 同一个小师妹在岸边抬起脚边最后一根尚未放入水中的石桩，面无表情地说道： “师姐，剩下这些石桩，今晚还搬吗？” 古琴声在一个断音上突然停止。 随后硬切到剑仙师姐的极近特写。 她眉毛轻轻抽动，原本努力维持的高人微笑瞬间凝固，太阳穴旁浮现一滴细汗。 远处传来一声孤零零的蛙鸣。 画面停留在她强装镇定却明显破功的瞬间收尾。 四、表演要求 【剑仙师姐】 前 10 秒必须始终保持清冷、高深、克制、自信的仙人姿态。 反转后也不要夸张跳脚或大叫，笑点来自微表情失守。 重点表现：眉毛轻抽、笑容凝固、细汗浮现、尊严受损后的短暂僵住。 【小师妹】 前半段真诚崇拜。 最后一句补刀要平静自然，像认真在问一个实际问题。 语气越平静，喜剧效果越强。 五、技术执行要求 【连续性要求】 三个镜头必须是同一场景连续发生 人物面部、发型、服装、身材比例全程稳定 师姐始终从左向右前行 小师妹始终在岸边跟随 水下石桩位置必须与前面师姐踩踏的位置严格对应 不增加额外人物 不出现镜头跳变、人物瞬移、背景漂移、道具消失 【物理效果要求】 水面、薄雾、倒影、荷叶、头发、真丝衣料的物理效果真实 水面承托脚步时要有细微自然反馈 揭晓石桩时，水的透明感、折射感、石桩位置都要清楚可信 细汗、发丝和衣料的细节需符合近景电影质感 【声音要求】 原生普通话对白 口型准确 不生成字幕 不使用任何现代提示音或现代配乐 音效只保留古琴、晨风、水声、鸟鸣、远处蛙鸣等古风环境声音 【剪辑要求】 运镜优雅稳定 镜头切换干净 镜头 3 从揭晓到特写使用明确硬切 结尾停顿干净，保留冷面反转余味 六、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, captions, logo, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, hairstyle, face morphing, unstable face, background shift, glitching cuts, disappearing props; extra people, duplicated body, duplicated props, broken continuity, floating objects without logic, wrong lip sync; modern objects, modern architecture, modern costume details, modern language, modern sound effects, electronic sounds
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
+
+### Cinematic Night Chase Shot
+
+> A fast-paced cinematic night chase sequence featuring extreme close-ups and rhythmic camera-flash effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="Cinematic Night Chase Shot">](https://goodcase.ai/cases/case-d30f8318a084)
+
+**Author:** @bmx_ai13 | **Source:** [Original](https://x.com/bmx_ai13/status/2081091640857702427) | **Published:** 2026-07-25 | **Heat:** 16
+
+**Stability:** 84/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.8) · [output](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d30f8318a084)**
+
+### Cyberpunk Cyberblade Battle
+
+> A cinematic battle prompt designed for Seedance 2.0, featuring a silver-haired young man in a dystopian industrial city, with precise swordplay and digital particle effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg" width="600" alt="Cyberpunk Cyberblade Battle">](https://goodcase.ai/cases/case-1a9a2c659866)
 
 **Author:** @luxaios | **Source:** [Original](https://x.com/luxaios/status/2080628740955218120) | **Published:** 2026-07-24 | **Heat:** 16
 
@@ -2906,11 +2906,11 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1a9a2c659866)**
 
-### 凤凰骑士变身序列
+### Phoenix Knight Transformation Sequence
 
-> 一段详细的魔法变身序列电影级提示词，尽管文中将其归功于其他模型。
+> A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
 
-[<img src="https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg" width="600" alt="凤凰骑士变身序列">](https://goodcase.ai/cases/case-4306bf4e075c)
+[<img src="https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg" width="600" alt="Phoenix Knight Transformation Sequence">](https://goodcase.ai/cases/case-4306bf4e075c)
 
 **Author:** @LudovicCreator | **Source:** [Original](https://x.com/LudovicCreator/status/2081092171428401560) | **Published:** 2026-07-25 | **Heat:** 15
 
@@ -2926,11 +2926,11 @@ Made  in @LumaLabsAI #LumaCPP
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-4306bf4e075c)**
 
-### 日式动画风格麻婆豆腐烹饪过程
+### Japanese Anime-Style Mapo Tofu Cooking Process
 
-> 一份用于制作 15 秒 2D 手绘动画视频的详细提示词，展示了具有专业动画品质的麻婆豆腐烹饪步骤。
+> A detailed prompt for creating a 15-second 2D hand-drawn animated video showing the steps of cooking mapo tofu with professional animation quality.
 
-[<img src="https://media.goodcase.ai/media/poster/case-ce63bf146d4e.jpg" width="600" alt="日式动画风格麻婆豆腐烹饪过程">](https://goodcase.ai/cases/case-ce63bf146d4e)
+[<img src="https://media.goodcase.ai/media/poster/case-ce63bf146d4e.jpg" width="600" alt="Japanese Anime-Style Mapo Tofu Cooking Process">](https://goodcase.ai/cases/case-ce63bf146d4e)
 
 **Author:** @ozuozuai99 | **Source:** [Original](https://x.com/ozuozuai99/status/2078854293818622124) | **Published:** 2026-07-19 | **Heat:** 15
 
@@ -2969,11 +2969,11 @@ Made  in @LumaLabsAI #LumaCPP
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-ce63bf146d4e)**
 
-### 消散的绳索吊桥峡谷
+### Dissolving Rope Suspension Bridge Canyon
 
-> 一个超现实场景：一位旅行者穿过深不见底的峡谷，身后的绳索吊桥随之消散。
+> A surreal scene: a traveler crosses a bottomless canyon while the rope suspension bridge behind them dissolves away.
 
-[<img src="https://media.goodcase.ai/media/poster/case-f46706b10233.jpg" width="600" alt="消散的绳索吊桥峡谷">](https://goodcase.ai/cases/case-f46706b10233)
+[<img src="https://media.goodcase.ai/media/poster/case-f46706b10233.jpg" width="600" alt="Dissolving Rope Suspension Bridge Canyon">](https://goodcase.ai/cases/case-f46706b10233)
 
 **Author:** @zyvaoz | **Source:** [Original](https://x.com/zyvaoz/status/2081398750996746385) | **Published:** 2026-07-26 | **Heat:** 14
 
@@ -3010,25 +3010,11 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-f46706b10233)**
 
-### 电影级未来感动漫剑术对决
+### Epic Knight Battle on a Ruined Bridge
 
-> 一个针对未来城市背景的极度详尽动漫战斗提示词，涵盖了镜头角度、角色一致性以及节奏感十足的战斗编排。
+> A cinematic video prompt for an epic fantasy battle scene, telling the story of a battle-hardened knight who faces an enemy army alone on a collapsing bridge during a thunderstorm.
 
-[<img src="https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg" width="600" alt="电影级未来感动漫剑术对决">](https://goodcase.ai/cases/case-a9ab0266f96a)
-
-**Author:** @haruuraeadss | **Source:** [Original](https://x.com/haruuraeadss/status/2081317622927577411) | **Published:** 2026-07-26 | **Heat:** 14
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜けると**@1の胸上を斜め前から映す。@1は一歩も退かず無表情。右手で刀を低く保持し、左人差し指の前へ@1固有色の薄い六角形防御面を一枚だけ形成する。@2の斬撃が防御面中央の単一接触点へ当たり、局所閃光、六角形の波紋、@2固有色の火花が同期する。@1が指と手首を数センチ外側へ弾くと、防御面全体が傾き、@2の軌道が@1の肩外側から約45度上方へ偏向される。@2**の両腕、肩、腰へ逆向きの反力が戻り、支持脚が踏み直す。カメラは逸れた軌道をウィップパンで追う。Cut 3：ウィップパンの終端で**@1の肩越しへ入る。@2は返った反力を使い、左足を軸に腰を一度だけ反転して低い返し斬り。@1は左手を柄へ戻し、刀身中央同士を一点で受け、短いヒットストップの直後に接触面を滑らせて@2の刀を上外側へ弾く。そのまま@1が懐へ踏み込み、左下から右上へ@1固有色の上昇斬りを返す。カメラは接触点を中心に約60度回り込み、欄干と床反射が大きく移動する。@2は斜め後方へ押され、空中で半回転し、右足から着地して短く滑る。@1は止まらず前進する。@2だけが押し戻される**非対称な移動。着地の水しぶきが画面下部を覆う。Cut 4：水しぶきの奥で、@1を左手前に大きく、@2を右奥に置く斜め低空構図。二人を横並びにしない。@2は滑りの終端で右足を踏み直し、停止せず右上から中央へ**@2固有色の振り下ろし。@1も前進を止めず、左下から中央へ@1固有色の上昇斬り。二人の足元と背後から、それぞれの固有色の巨大な炎状オーラが噴き上がり、床の発光亀裂、細い電光、上昇流を伴う。二色は混ざらない。二本の刀が同じ接触点へ入る一瞬だけ形を読ませ、接触後は発光へ隠す。同じ接触点を発生源として、@1の直線軌道と@2の湾曲軌道が巨大なX字を形成する。狭い白熱中心だけを純白にし、その外側に二人の固有色を残す。大面積の高彩度色面を維持し、同じ衝突核から放射状の衝撃波、同心円圧力波、垂直の炎状オーラ、体積光、電光、火花を広げる。床水、蒸気、砂塵、破片、髪、衣装が外側へ吹き飛び、色付きエフェクトが画面の大部分を占める。@1の圧力で@2の防御姿勢が崩壊する。** カメラは接触点へ短く突進し、衝撃波で少し後方へ押し戻され、数度傾く。画面全体を白くしない。【重大NG】固定横の格闘ゲーム視点、左右対称の全身構図、二人を左右端へ離す仕切り直し、同時反転、鏡写しの同時ダッシュ、長い助走、長い刀の押し合い、無意味な連続回転、独立レーザー、第三の光線、二色融合、全画面白飛び、文字、字幕、ロゴ、透かし、UI、音響生成なし。【終端】@1のエネルギーが接触点を**@2側へ押し、@2側の水煙と砂塵が後方へ膨む。@2のシルエットが斜め後方へ崩れ始め、@1**は低い重心のまま前へ力を通し続ける。巨大な二色のX字光が最大まで拡大し、人物と刀身が光へ隠れた接触の瞬間、崩壊開始を捉えたそのフレームで即カットする。アクション継続。
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-a9ab0266f96a)**
-
-### 废墟之桥上的史诗骑士之战
-
-> 一个史诗奇幻战斗场景的电影级视频提示词，讲述了一位久经沙场的骑士在雷雨中，于一座即将坍塌的桥上独自面对敌军的故事。
-
-[<img src="https://media.goodcase.ai/media/poster/case-b1405ee458d3.jpg" width="600" alt="废墟之桥上的史诗骑士之战">](https://goodcase.ai/cases/case-b1405ee458d3)
+[<img src="https://media.goodcase.ai/media/poster/case-b1405ee458d3.jpg" width="600" alt="Epic Knight Battle on a Ruined Bridge">](https://goodcase.ai/cases/case-b1405ee458d3)
 
 **Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2081031751598535092) | **Published:** 2026-07-25 | **Heat:** 14
 
@@ -3042,11 +3028,11 @@ A battle-worn knight in blackened plate armor stands alone on a ruined stone bri
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b1405ee458d3)**
 
-### 定格油画动画
+### Stop-Motion Oil Painting Animation
 
-> 一个独特的提示词，用于创作具有油画风格的 2D 定格动画效果，描绘了雪崖上的一场戏剧性营救场景。
+> A unique prompt for creating a 2D stop-motion animation effect in an oil painting style, depicting a dramatic rescue scene on a snowy cliff.
 
-[<img src="https://media.goodcase.ai/media/poster/case-b079faa80f0f.jpg" width="600" alt="定格油画动画">](https://goodcase.ai/cases/case-b079faa80f0f)
+[<img src="https://media.goodcase.ai/media/poster/case-b079faa80f0f.jpg" width="600" alt="Stop-Motion Oil Painting Animation">](https://goodcase.ai/cases/case-b079faa80f0f)
 
 **Author:** @ai_animer | **Source:** [Original](https://x.com/ai_animer/status/2078023536992735573) | **Published:** 2026-07-17 | **Heat:** 14
 
@@ -3092,11 +3078,25 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b079faa80f0f)**
 
-### 传奇骑士堡垒之战
+### Cinematic Futuristic Anime Sword Duel
 
-> 一个史诗级的奇幻提示词，描绘了一位传奇骑士在摇摇欲坠的堡垒上与巨龙和长角恶魔激战的场景，包含动态运镜和 IMAX 级画质。
+> An extremely detailed anime battle prompt set in a futuristic city, covering camera angles, character consistency, and rhythmically choreographed combat.
 
-[<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="传奇骑士堡垒之战">](https://goodcase.ai/cases/case-c726edc4268d)
+[<img src="https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg" width="600" alt="Cinematic Futuristic Anime Sword Duel">](https://goodcase.ai/cases/case-a9ab0266f96a)
+
+**Author:** @haruuraeadss | **Source:** [Original](https://x.com/haruuraeadss/status/2081317622927577411) | **Published:** 2026-07-26 | **Heat:** 13
+
+```
+高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜けると**@1の胸上を斜め前から映す。@1は一歩も退かず無表情。右手で刀を低く保持し、左人差し指の前へ@1固有色の薄い六角形防御面を一枚だけ形成する。@2の斬撃が防御面中央の単一接触点へ当たり、局所閃光、六角形の波紋、@2固有色の火花が同期する。@1が指と手首を数センチ外側へ弾くと、防御面全体が傾き、@2の軌道が@1の肩外側から約45度上方へ偏向される。@2**の両腕、肩、腰へ逆向きの反力が戻り、支持脚が踏み直す。カメラは逸れた軌道をウィップパンで追う。Cut 3：ウィップパンの終端で**@1の肩越しへ入る。@2は返った反力を使い、左足を軸に腰を一度だけ反転して低い返し斬り。@1は左手を柄へ戻し、刀身中央同士を一点で受け、短いヒットストップの直後に接触面を滑らせて@2の刀を上外側へ弾く。そのまま@1が懐へ踏み込み、左下から右上へ@1固有色の上昇斬りを返す。カメラは接触点を中心に約60度回り込み、欄干と床反射が大きく移動する。@2は斜め後方へ押され、空中で半回転し、右足から着地して短く滑る。@1は止まらず前進する。@2だけが押し戻される**非対称な移動。着地の水しぶきが画面下部を覆う。Cut 4：水しぶきの奥で、@1を左手前に大きく、@2を右奥に置く斜め低空構図。二人を横並びにしない。@2は滑りの終端で右足を踏み直し、停止せず右上から中央へ**@2固有色の振り下ろし。@1も前進を止めず、左下から中央へ@1固有色の上昇斬り。二人の足元と背後から、それぞれの固有色の巨大な炎状オーラが噴き上がり、床の発光亀裂、細い電光、上昇流を伴う。二色は混ざらない。二本の刀が同じ接触点へ入る一瞬だけ形を読ませ、接触後は発光へ隠す。同じ接触点を発生源として、@1の直線軌道と@2の湾曲軌道が巨大なX字を形成する。狭い白熱中心だけを純白にし、その外側に二人の固有色を残す。大面積の高彩度色面を維持し、同じ衝突核から放射状の衝撃波、同心円圧力波、垂直の炎状オーラ、体積光、電光、火花を広げる。床水、蒸気、砂塵、破片、髪、衣装が外側へ吹き飛び、色付きエフェクトが画面の大部分を占める。@1の圧力で@2の防御姿勢が崩壊する。** カメラは接触点へ短く突進し、衝撃波で少し後方へ押し戻され、数度傾く。画面全体を白くしない。【重大NG】固定横の格闘ゲーム視点、左右対称の全身構図、二人を左右端へ離す仕切り直し、同時反転、鏡写しの同時ダッシュ、長い助走、長い刀の押し合い、無意味な連続回転、独立レーザー、第三の光線、二色融合、全画面白飛び、文字、字幕、ロゴ、透かし、UI、音響生成なし。【終端】@1のエネルギーが接触点を**@2側へ押し、@2側の水煙と砂塵が後方へ膨む。@2のシルエットが斜め後方へ崩れ始め、@1**は低い重心のまま前へ力を通し続ける。巨大な二色のX字光が最大まで拡大し、人物と刀身が光へ隠れた接触の瞬間、崩壊開始を捉えたそのフレームで即カットする。アクション継続。
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-a9ab0266f96a)**
+
+### Legendary Knight Fortress Battle
+
+> An epic fantasy prompt depicting a legendary knight battling a dragon and horned demons on a crumbling fortress, with dynamic camera movement and IMAX-level image quality.
+
+[<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="Legendary Knight Fortress Battle">](https://goodcase.ai/cases/case-c726edc4268d)
 
 **Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | **Published:** 2026-07-23 | **Heat:** 13
 
@@ -3110,11 +3110,11 @@ A legendary female knight with long platinum hair, striking green eyes, athletic
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c726edc4268d)**
 
-### 90 年代复古 VHS 健身 Vlog
+### 1990s Retro VHS Fitness Vlog
 
-> 一份详细的多段式提示词，用于创作具有 80/90 年代怀旧风格的健身 Vlog 视频，包含特定的 VHS 质感、POV 摄像机运镜以及自然的人物表情。
+> A detailed multi-part prompt for creating an 80s/90s nostalgic-style fitness vlog video, including specific VHS texture, POV camera movement, and natural character expressions.
 
-[<img src="https://media.goodcase.ai/media/poster/90-vhs-vlog-ae90c46cb606.jpg" width="600" alt="90 年代复古 VHS 健身 Vlog">](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)
+[<img src="https://media.goodcase.ai/media/poster/90-vhs-vlog-ae90c46cb606.jpg" width="600" alt="1990s Retro VHS Fitness Vlog">](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)
 
 **Author:** @you1873118 | **Source:** [Original](https://x.com/you1873118/status/2081218658618188267) | **Published:** 2026-07-26 | **Heat:** 12
 
@@ -3170,11 +3170,11 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606)**
 
-### 奥德修斯与独眼巨人的定格动画
+### Stop-Motion Animation of Odysseus and the Cyclops
 
-> 一个幽默的 3D 黏土动画风格提示词，描绘了奥德修斯利用一颗巨大的橄榄分散独眼巨人注意力，并驾驶着一艘小船的滑稽场景。
+> A humorous 3D clay animation-style prompt depicting a funny scene where Odysseus distracts the Cyclops with a giant olive and pilots a small boat.
 
-[<img src="https://media.goodcase.ai/media/poster/case-95a5c01a9b87.jpg" width="600" alt="奥德修斯与独眼巨人的定格动画">](https://goodcase.ai/cases/case-95a5c01a9b87)
+[<img src="https://media.goodcase.ai/media/poster/case-95a5c01a9b87.jpg" width="600" alt="Stop-Motion Animation of Odysseus and the Cyclops">](https://goodcase.ai/cases/case-95a5c01a9b87)
 
 **Author:** @miilesus | **Source:** [Original](https://x.com/miilesus/status/2080744222571848176) | **Published:** 2026-07-24 | **Heat:** 12
 
@@ -3188,11 +3188,11 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-95a5c01a9b87)**
 
-### 定格动画：薯片堆叠
+### Stop-Motion Animation: Stacked Potato Chips
 
-> 一个定格动画提示词，描述薯片自动堆叠成品牌 Logo，随后炸裂散开的场景。
+> A stop-motion animation prompt describing potato chips automatically stacking into a brand logo, then bursting apart.
 
-[<img src="https://media.goodcase.ai/media/poster/case-7a9235e91c71.jpg" width="600" alt="定格动画：薯片堆叠">](https://goodcase.ai/cases/case-7a9235e91c71)
+[<img src="https://media.goodcase.ai/media/poster/case-7a9235e91c71.jpg" width="600" alt="Stop-Motion Animation: Stacked Potato Chips">](https://goodcase.ai/cases/case-7a9235e91c71)
 
 **Author:** @abs_uiux | **Source:** [Original](https://x.com/abs_uiux/status/2074744763505324502) | **Published:** 2026-07-08 | **Heat:** 12
 
@@ -3206,11 +3206,11 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-7a9235e91c71)**
 
-### 汤姆·索亚粉刷篱笆场景
+### Tom Sawyer Whitewashing the Fence Scene
 
-> 一个基于叙事的提示词，旨在重现《汤姆·索亚历险记》中经典的粉刷篱笆场景，强调角色一致性及经典电影摄影规则。
+> A narrative-based prompt designed to recreate the classic fence-whitewashing scene from The Adventures of Tom Sawyer, emphasizing character consistency and classic cinematography rules.
 
-[<img src="https://media.goodcase.ai/media/poster/case-e0d3b03f1aef.jpg" width="600" alt="汤姆·索亚粉刷篱笆场景">](https://goodcase.ai/cases/case-e0d3b03f1aef)
+[<img src="https://media.goodcase.ai/media/poster/case-e0d3b03f1aef.jpg" width="600" alt="Tom Sawyer Whitewashing the Fence Scene">](https://goodcase.ai/cases/case-e0d3b03f1aef)
 
 **Author:** @airina_xyz | **Source:** [Original](https://x.com/airina_xyz/status/2081078057386021026) | **Published:** 2026-07-25 | **Heat:** 11
 
@@ -3236,13 +3236,90 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-e0d3b03f1aef)**
 
-### 音乐视频编舞与身份设定
+### Blueprint-to-House Timelapse Transformation
 
-> 一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。
+> A complex architectural timelapse prompt that turns a 2D floor plan and exterior reference image into a fully rendered, fully furnished 3D house while maintaining exact dimensions and layout.
 
-[<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="音乐视频编舞与身份设定">](https://goodcase.ai/cases/case-24775a8dc979)
+[<img src="https://media.goodcase.ai/media/poster/case-778d0c927488.jpg" width="600" alt="Blueprint-to-House Timelapse Transformation">](https://goodcase.ai/cases/case-778d0c927488)
 
-**Author:** @aimikoda | **Source:** [Original](https://x.com/aimikoda/status/2079968108303818827) | **Published:** 2026-07-22 | **Heat:** 10
+**Author:** @craftian_keskin | **Source:** [Original](https://x.com/craftian_keskin/status/2075669026508853393) | **Published:** 2026-07-10 | **Heat:** 10
+
+<details>
+<summary><b>Full prompt (17 lines, click to expand)</b></summary>
+
+```
+Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
+
+The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
+
+As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
+
+The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, and television materialize exactly matching the furniture arrangement from the blueprint. The garage forms around the parked car in the correct position.
+
+The roof structure grows over the house while maintaining the exterior silhouette from the reference image. Red brick textures spread across the exterior walls. Windows become reflective glass. The front entrance, garage door, landscaping, pathway, and surrounding lawn emerge organically. Sunlight gradually fills every room as if the home is coming alive.
+
+The transformation is smooth, continuous, and realistic, like watching months of construction compressed into seconds. Dust particles, tiny construction details, framing, roofing, drywall, painting, flooring, furnishing, and landscaping all appear in rapid but elegant timelapse.
+
+The final shot reveals the completed fully rendered house from a three-quarter aerial angle. The camera slowly circles a few degrees while sunlight reflects off the windows. Warm interior lighting glows naturally through the windows, emphasizing that every room perfectly matches the original floor plan.
+
+Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
+
+Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-778d0c927488)**
+
+### Magical Urban Fantasy Battle Animation
+
+> An epic high-fantasy anime battle prompt set in a magical city in the rain. It features complex visual effects involving multiple magic gates and beam attacks against a giant dragon, with an emphasis on cinematic quality and a 3D toon-rendered aesthetic.
+
+[<img src="https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg" width="600" alt="Magical Urban Fantasy Battle Animation">](https://goodcase.ai/cases/case-16429da4be7b)
+
+**Author:** @haruuraeadss | **Source:** [Original](https://x.com/haruuraeadss/status/2080976327231107259) | **Published:** 2026-07-25 | **Heat:** 9
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+高品質アニメ映像。高密度3Dトゥーン／セルルック。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。舞台は雨に濡れた壮麗な魔法都市。映画的なハイファンタジー・アクションRPGとして描く。参照画像のキャラクターが、自身の前方に展開した主ゲートと、周囲に展開した複数の収束ゲートから連続ビームを放ち、巨大な黒竜を最後は全ゲート同時斉射でオーバーキル気味に撃破する。
+
+【参照キャラクター固定】
+ソース参照画像のキャラクターを参照し、同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラーだけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミングは再現しない。表情、視線、口元、ポーズ、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴の混合、顔の平均化、衣装交換、別人化、クローン化、余計な人物の追加は禁止。装備品やアクセサリーは参照画像にあるものを保持し、勝手な増殖や別装備の追加をしない。攻撃は必ずキャラクター本人の掌前ゲート群から行い、腰の装備や小物から発射しない。
+【キャラ適応ルール】
+固定シーンの内容と戦闘展開は維持するが、背景の装飾、小物、魔法意匠、色味、発光色、空気感は参照キャラクターに合わせて調整する。都市の基礎構造は石造りの壮麗な魔法都市で固定しつつ、欄干意匠、魔法灯、水路、水晶柱、紋様、霧、反射色は参照キャラクターの世界観とカラーに寄せる。ビーム、ゲート、爆発、粒子、床反射も参照キャラクターの固有色を主軸に組み直す。色はキャラクターの魅力を最優先し、背景は一段暗く抑えて主役を埋もれさせない。
+
+【3Dスタイル固定】
+全編で繊細なセルルックを維持する。線は細く、顔・髪・衣装には明快な二段から三段のセルシェーディングと透明感のある中間影を入れる。瞳と髪には多層ハイライト。布、革、金属、宝石、濡れた石床、ガラス、水たまりを異なる反射と粗さで描き分ける。魔法だけは高輝度のグラフィックアニメVFX、体積光、加算発光、屈折波、方向性モーションブラーを用いる。太い黒輪郭、平坦な単層セル影、汎用的な3D顔、低密度背景、半写実、画風混合にしない。
+【主人公と敵の固定】
+主人公は画面左、敵は画面右。主人公は両脚を広げて膝を曲げ、後脚へ重心を残し、片方の掌を竜の胸へ向けて開く。もう片方の手はその腕や手首を支えてよい。掌、手首、肘、肩の接続を読ませ、ゲートで腕全体を隠しすぎない。反動は手首、肩、腰、支持脚へ連続して返り、髪、衣装、装飾が時間差で後方へなびく。敵は右側の巨大な黒い四足翼竜一体のみ。主人公の約四倍の高さ。頭は一つ、角は二本、目は二つ、脚は四本、翼は左右一対、尻尾は一本。着弾点は胸中央で固定。余分な頭、脚、翼、尻尾を作らない。
+
+【舞台とカメラ】
+舞台は雨上がりの巨大な魔法都市にある、空中へ張り出した広い石造りの魔法大通り。濡れた石板、浅い水たまり、古い亀裂、魔導金属の欄干、周囲の魔法塔、尖塔、アーチ橋、空中回廊、浮遊小塔、巨大結晶柱、魔力灯、発光水路、低い霧を配置する。これらの意匠と発光色は参照キャラクターに合わせて調整する。主人公は左、黒竜は右を維持し、主ゲート中心、各副ゲート、ビーム軸、黒竜の胸が同じ攻撃線へ収束する。カメラは顔が読める緩い近距離弧移動から始まり、ゲートの円弧がレンズを覆う遮蔽ワイプで低い後方三分の四ワイドへ移る。ビームに沿った横移動では欄干、雨粒、床紋様、水たまり反射、浮遊灯を異なる速度で流し、着弾圧で短く押し戻され、煙が開く時だけ静かに寄る。無目的な周回やランダム手ぶれにしない。
+【攻撃展開】
+開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前後へ離れ、異なる速度で逆回転する。短い目盛り、放射線、電光が発射軸へ集まり、掌の光が三度脈動し、三度目でリングが圧縮される。同時に主人公の周囲にも複数の副ゲートが次々と発生する。位置は右肩上、左上後方、前方上空、脇前方、背後上空など、深度差を持って主人公を囲むように配置する。数は多いが整理され、前景・中景・後景へ分かれる。顔と両目は常に読めるよう残し、リングで完全に隠さない。
+
+最初の攻撃では主ゲートから太い高出力ビームを放つ。コア、外殻、中間層、縁の色は参照キャラクターの固有色で構成し、細い棒状にしない。直後、周囲の副ゲートが時間差で順番に発射し、黒竜の胸中央へ連続着弾する。各ビームは十分に太く、雨、霧、水滴を外側へ押し分ける。黒竜の胸鱗は押し込まれ、前爪が濡れた石床を削り、翼膜、首、尻尾へ衝撃が遅れて伝わる。床には主人公の固有色に対応した太い反射帯が走る。
+【オーバーキルと撃破】
+連続照射の後、全ゲートが最大出力へ再圧縮される。主人公は左下で踏ん張ったまま掌を固定し、周囲の全副ゲートも同じ着弾点へ狙いを合わせる。主ゲートを含む全ゲートが同一フレームで一斉斉射し、複数の極太ビームが黒竜の胸中央へ集中する。各ビームは太さ、輝度、軸を落とさず持続し、内部に圧縮波が走る。最後の圧縮波が胸へ到達した同一フレームで、全ビームを発射口から着弾点まで完全に消す。細い残光を残さない。その瞬間、胸中央に白熱核が発生し、局所的な半球状衝撃ドームが一度だけ膨張して裂ける。そこから参照キャラクターの固有色を主軸にした巨大な炎状魔力爆発が上方と左右へ立体的に噴き上がる。鋭い炎の先端、太い体積光、透明な屈折波、細い電光、外向きの速度線を深度差付きで展開する。濡れた床には発光亀裂が走り、水、蒸気、黒い鱗片、石片が外向きへ吹き飛ぶ。
+
+直後、灰煙と黒い鱗片が前景へ重なり、黒竜の全身を完全に隠す。煙の中央が裂けると、黒竜は胸の着弾点をこちらへ向けて跪いている。胸中央から主人公の固有色に対応した魔力亀裂が全身へ走り、翼端と尾先から黒い鱗が灰へほどけ、微細な発光粒子へ変わる。翼膜、翼骨、尻尾、四肢、胴、首、頭へ連続して崩壊し、最後に胸の魔力核、角、両目の光が粒子へ砕け、肉体、影、床の反射まで完全に消える。死体を残さない。終端は戦闘結果の一枚絵。前景左に主人公、後景右には黒竜がいた空の濡れた路面と、消えかける灰と発光粒子だけを残す。主人公は警戒を保ったまま掌をわずかに下げ、呼吸とともに髪と衣装が落ち着く。最後の粒子が上昇し、黒竜の影と反射が完全に消えた瞬間に切る。
+【重大な破綻防止】
+文字、字幕、ロゴ、透かし、UIなし。ビームの細線化、短時間化、途中減衰、早すぎる爆発、ビームと爆発の長い同時表示、消え残るレーザーなし。平面的で左右対称な花形爆発、同じ大きさの丸煙、全画面白飛びなし。黒竜を煙が消える前に見せない。竜の立ち直り、瞬間消失、透明化、死体残留、切断された翼や尻尾、複数尻尾なし。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-16429da4be7b)**
+
+### Music Video Choreography and Identity Setup
+
+> A complex Seedance 2.0 video prompt for creating a multi-person music video, using image references to define character identities and video to control rhythm.
+
+[<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="Music Video Choreography and Identity Setup">](https://goodcase.ai/cases/case-24775a8dc979)
+
+**Author:** @aimikoda | **Source:** [Original](https://x.com/aimikoda/status/2079968108303818827) | **Published:** 2026-07-22 | **Heat:** 9
 
 **Stability:** 50/100
 
@@ -3285,119 +3362,181 @@ P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen r
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-24775a8dc979)**
 
-### 从蓝图到房屋的延时摄影变换
+### Dynamic Image-to-Video Music Visualizer
 
-> 一个复杂的建筑延时摄影提示词，将 2D 平面图和外观参考图转换为完全渲染、家具齐全的 3D 房屋，并保持精确的尺寸和布局。
+> A prompt designed to turn a static image into a professional music video with dynamic visual effects.
 
-[<img src="https://media.goodcase.ai/media/poster/case-778d0c927488.jpg" width="600" alt="从蓝图到房屋的延时摄影变换">](https://goodcase.ai/cases/case-778d0c927488)
+[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="Dynamic Image-to-Video Music Visualizer">](https://goodcase.ai/cases/case-bf2bedc93316)
 
-**Author:** @craftian_keskin | **Source:** [Original](https://x.com/craftian_keskin/status/2075669026508853393) | **Published:** 2026-07-10 | **Heat:** 10
-
-<details>
-<summary><b>Full prompt (17 lines, click to expand)</b></summary>
+**Author:** @EchoraContinuum | **Source:** [Original](https://x.com/EchoraContinuum/status/2079917613149503813) | **Published:** 2026-07-22 | **Heat:** 9
 
 ```
-Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
+generate an interesting music video using this image as first frame,be professional and use dynamic visuals
+```
 
-The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-bf2bedc93316)**
 
-As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
+### YAML Cinematic Parkour Sequence
 
-The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, and television materialize exactly matching the furniture arrangement from the blueprint. The garage forms around the parked car in the correct position.
+> A structured YAML-format prompt for an elite modern urban parkour athlete, including cinematic camera movement and realistic physics.
 
-The roof structure grows over the house while maintaining the exterior silhouette from the reference image. Red brick textures spread across the exterior walls. Windows become reflective glass. The front entrance, garage door, landscaping, pathway, and surrounding lawn emerge organically. Sunlight gradually fills every room as if the home is coming alive.
+[<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML Cinematic Parkour Sequence">](https://goodcase.ai/cases/yaml-629d172a4820)
 
-The transformation is smooth, continuous, and realistic, like watching months of construction compressed into seconds. Dust particles, tiny construction details, framing, roofing, drywall, painting, flooring, furnishing, and landscaping all appear in rapid but elegant timelapse.
+**Author:** @yudotanaka | **Source:** [Original](https://x.com/yudotanaka/status/2079900274064490842) | **Published:** 2026-07-22 | **Heat:** 9
 
-The final shot reveals the completed fully rendered house from a three-quarter aerial angle. The camera slowly circles a few degrees while sunlight reflects off the windows. Warm interior lighting glows naturally through the windows, emphasizing that every room perfectly matches the original floor plan.
+**Stability:** 69/100
 
-Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 68.9) · [output](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
-Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
+<details>
+<summary><b>Full prompt (140 lines, click to expand)</b></summary>
+
+```
+meta:
+  task_type: video_generation
+  style:
+    camera: cinematic_dynamic
+    render: AAA_animation_unreal_engine_quality
+  reference_lock:
+    character_appearance: strict
+    style_and_art_direction: strict
+  priority: cinematic_impact
+
+cinematography:
+  shot_type: multi_shot_dynamic_sequence
+  framing:
+    - full_body_visible_during_key_actions
+  camera_height: variable
+  lens_look: 24mm_to_35mm
+  camera_motion:
+    - low_tracking_shot_following_behind
+    - side_tracking_shot
+    - drone_orbit
+    - fpv_drone_chase
+    - handheld_chase
+    - crane_pull_back
+    - speed_ramp
+    - slow_motion_on_key_flip
+
+subjects:
+  athlete:
+    type: parkour_runner
+    level: elite
+    attributes:
+      - athletic_build
+      - consistent_outfit_and_appearance_locked
+      - hair_and_cloth_physics_reactive
+
+environment:
+  location: modern_realistic_city
+  floor:
+    - paved_street
+    - rooftop_concrete
+    - metal_beams_and_pipes
+  background:
+    - glass_skyscrapers
+    - busy_traffic
+    - pedestrians
+    - street_signs
+    - bridges
+    - construction_zones
+  lighting:
+    - warm_sunset_transitioning_to_blue_hour
+    - volumetric_lighting
+    - realistic_reflections
+
+process:
+  - phase: sprint_launch
+    timing: 0s-3s
+    description:
+      - explosive_believable_acceleration
+      - dodge_pedestrians
+      - jump_over_obstacles
+      - slide_beneath_barriers
+  - phase: vault_and_wall_run
+    timing: 3s-6s
+    description:
+      - vault_over_railings
+      - wall_run_across_building
+      - leap_to_next_rooftop
+      - believable_momentum_and_impact_recovery
+  - phase: advanced_parkour_techniques
+    timing: 6s-9s
+    description:
+      - kong_vault
+      - precision_jump
+      - tic_tac_wall_jump
+      - front_flip
+      - perfect_balance_no_floating
+  - phase: rooftop_traversal
+    timing: 9s-12s
+    description:
+      - swing_from_metal_beam
+      - run_along_narrow_rooftop_edge
+      - slide_under_pipes
+      - long_rooftop_gap_jump
+  - phase: final_leap
+    timing: 12s-15s
+    description:
+      - reach_tallest_rooftop
+      - confident_smile
+      - final_cinematic_leap_toward_skyline
+      - freeze_frame_ending
+
+motion_rules:
+  pacing:
+    - natural_timing_with_dramatic_speed_ramps
+    - uninterrupted_flow_between_phases
+  physics:
+    - grounded_gravity_present
+    - accurate_center_of_gravity
+    - natural_inertia_and_weight_shift
+    - realistic_foot_placement
+    - proper_landing_compression
+    - cloth_simulation
+    - hair_simulation
+    - no_unearned_floating
+
+visual_rules:
+  style:
+    - anime_photorealistic_hybrid
+    - HDR_ray_tracing_reflections
+    - global_illumination
+    - soft_bloom
+    - shallow_depth_of_field
+    - filmic_color_grading
+    - shinkai_inspired_lighting
+  clarity:
+    - body_mechanics_readable_outside_slow_motion_beats
+
+audio:
+  - high_energy_cinematic_soundtrack
+  - synchronized_footsteps
+  - wind_rushing
+  - city_ambience
+  - cloth_movement_sfx
+  - metal_impact_sfx
+  - environmental_reverb
+  - no_dialogue
+
+constraints:
+  forbidden:
+    - unnatural_physics
+    - outfit_change
+    - multiple_characters
+    - text
+    - logo
+
+output_rules:
+  emphasis:
+    - cinematic_spectacle
+    - technical_parkour_accuracy
+    - character_consistency
 ```
 
 </details>
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-778d0c927488)**
-
-### 夜间动漫风格涂鸦隧道场景
-
-> 一个充满氛围感的动漫风格视频提示词，描绘了布满鲜艳涂鸦的黑暗地下街道隧道，呈现出湿润的沥青路面和昏暗的灯光反射效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="夜间动漫风格涂鸦隧道场景">](https://goodcase.ai/cases/case-779580528a24)
-
-**Author:** @TechieBySA | **Source:** [Original](https://x.com/TechieBySA/status/2081354591925305667) | **Published:** 2026-07-26 | **Heat:** 9
-
-**Stability:** 83/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.4) · [output](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
-
-```
-Cinematic anime short film clip, 15 seconds. Underground street tunnel at night, long dark corridor, walls completely covered in colorful graffiti tags, wet glistening asphalt reflecting dim tunnel lights, raw illegal underground energy, nobody around.
-
-CHARACTER: Rex, light brown skin, sharp angular face, short messy black Caesar cut with fade, dark cold intense eyes, black leather jacket, white tee, dark joggers, gold chain.
-
-CAR: Nissan Skyline R34, wide body kit, lowered, matte finish covered in layers of graffiti tags in white red and green spray paint, worn and chipped, aggressive and raw.
-
-[0:00-0:01] HOOK — Extreme close up ignition key turning. Engine roars to life instantly.
-
-[0:01-0:02] Rex's cold eyes in rearview mirror. Gear shift grabbed. Slams into first.
-
-[0:02-0:13] MONTAGE — Ultra fast cuts every half second synced hard to heavy bass beat. Rotate constantly between: front wide shot of car launching forward — low angle tires screeching wet asphalt water spraying — speedometer needle jumping — side angle car flying through tunnel — graffiti walls blurring — exhaust flames shooting out — overhead angle car from above — close up Rex jaw tight stone cold — gear shift slamming — headlights cutting darkness — rear angle tail lights — close up Rex eyes never blinking — inside car dashboard shaking — bumper level shot tunnel rushing past — speedometer maxed out — every angle every second something different never the same shot twice.
-
-[0:13-0:15] Car vanishes into darkness. Tail lights fade. Silence. Cut to black. Text: ZERO TO SIXTY.
-
-Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, dark moody tunnel lighting, neon reflections on wet asphalt, film grain, heavy bass music with engine roar and tire screech layered throughout, ultra fast cutting rhythm, premium anime film quality
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-779580528a24)**
-
-### 魔幻都市奇幻战斗动画
-
-> 一个设定在雨中魔幻都市的史诗级高奇幻动漫战斗提示词。包含涉及多个魔法门和针对巨龙的射线攻击等复杂视觉特效，侧重于影院级质量和 3D 卡通渲染美学。
-
-[<img src="https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg" width="600" alt="魔幻都市奇幻战斗动画">](https://goodcase.ai/cases/case-16429da4be7b)
-
-**Author:** @haruuraeadss | **Source:** [Original](https://x.com/haruuraeadss/status/2080976327231107259) | **Published:** 2026-07-25 | **Heat:** 9
-
-<details>
-<summary><b>Full prompt (24 lines, click to expand)</b></summary>
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルック。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。舞台は雨に濡れた壮麗な魔法都市。映画的なハイファンタジー・アクションRPGとして描く。参照画像のキャラクターが、自身の前方に展開した主ゲートと、周囲に展開した複数の収束ゲートから連続ビームを放ち、巨大な黒竜を最後は全ゲート同時斉射でオーバーキル気味に撃破する。
-
-【参照キャラクター固定】
-ソース参照画像のキャラクターを参照し、同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラーだけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミングは再現しない。表情、視線、口元、ポーズ、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴の混合、顔の平均化、衣装交換、別人化、クローン化、余計な人物の追加は禁止。装備品やアクセサリーは参照画像にあるものを保持し、勝手な増殖や別装備の追加をしない。攻撃は必ずキャラクター本人の掌前ゲート群から行い、腰の装備や小物から発射しない。
-【キャラ適応ルール】
-固定シーンの内容と戦闘展開は維持するが、背景の装飾、小物、魔法意匠、色味、発光色、空気感は参照キャラクターに合わせて調整する。都市の基礎構造は石造りの壮麗な魔法都市で固定しつつ、欄干意匠、魔法灯、水路、水晶柱、紋様、霧、反射色は参照キャラクターの世界観とカラーに寄せる。ビーム、ゲート、爆発、粒子、床反射も参照キャラクターの固有色を主軸に組み直す。色はキャラクターの魅力を最優先し、背景は一段暗く抑えて主役を埋もれさせない。
-
-【3Dスタイル固定】
-全編で繊細なセルルックを維持する。線は細く、顔・髪・衣装には明快な二段から三段のセルシェーディングと透明感のある中間影を入れる。瞳と髪には多層ハイライト。布、革、金属、宝石、濡れた石床、ガラス、水たまりを異なる反射と粗さで描き分ける。魔法だけは高輝度のグラフィックアニメVFX、体積光、加算発光、屈折波、方向性モーションブラーを用いる。太い黒輪郭、平坦な単層セル影、汎用的な3D顔、低密度背景、半写実、画風混合にしない。
-【主人公と敵の固定】
-主人公は画面左、敵は画面右。主人公は両脚を広げて膝を曲げ、後脚へ重心を残し、片方の掌を竜の胸へ向けて開く。もう片方の手はその腕や手首を支えてよい。掌、手首、肘、肩の接続を読ませ、ゲートで腕全体を隠しすぎない。反動は手首、肩、腰、支持脚へ連続して返り、髪、衣装、装飾が時間差で後方へなびく。敵は右側の巨大な黒い四足翼竜一体のみ。主人公の約四倍の高さ。頭は一つ、角は二本、目は二つ、脚は四本、翼は左右一対、尻尾は一本。着弾点は胸中央で固定。余分な頭、脚、翼、尻尾を作らない。
-
-【舞台とカメラ】
-舞台は雨上がりの巨大な魔法都市にある、空中へ張り出した広い石造りの魔法大通り。濡れた石板、浅い水たまり、古い亀裂、魔導金属の欄干、周囲の魔法塔、尖塔、アーチ橋、空中回廊、浮遊小塔、巨大結晶柱、魔力灯、発光水路、低い霧を配置する。これらの意匠と発光色は参照キャラクターに合わせて調整する。主人公は左、黒竜は右を維持し、主ゲート中心、各副ゲート、ビーム軸、黒竜の胸が同じ攻撃線へ収束する。カメラは顔が読める緩い近距離弧移動から始まり、ゲートの円弧がレンズを覆う遮蔽ワイプで低い後方三分の四ワイドへ移る。ビームに沿った横移動では欄干、雨粒、床紋様、水たまり反射、浮遊灯を異なる速度で流し、着弾圧で短く押し戻され、煙が開く時だけ静かに寄る。無目的な周回やランダム手ぶれにしない。
-【攻撃展開】
-開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前後へ離れ、異なる速度で逆回転する。短い目盛り、放射線、電光が発射軸へ集まり、掌の光が三度脈動し、三度目でリングが圧縮される。同時に主人公の周囲にも複数の副ゲートが次々と発生する。位置は右肩上、左上後方、前方上空、脇前方、背後上空など、深度差を持って主人公を囲むように配置する。数は多いが整理され、前景・中景・後景へ分かれる。顔と両目は常に読めるよう残し、リングで完全に隠さない。
-
-最初の攻撃では主ゲートから太い高出力ビームを放つ。コア、外殻、中間層、縁の色は参照キャラクターの固有色で構成し、細い棒状にしない。直後、周囲の副ゲートが時間差で順番に発射し、黒竜の胸中央へ連続着弾する。各ビームは十分に太く、雨、霧、水滴を外側へ押し分ける。黒竜の胸鱗は押し込まれ、前爪が濡れた石床を削り、翼膜、首、尻尾へ衝撃が遅れて伝わる。床には主人公の固有色に対応した太い反射帯が走る。
-【オーバーキルと撃破】
-連続照射の後、全ゲートが最大出力へ再圧縮される。主人公は左下で踏ん張ったまま掌を固定し、周囲の全副ゲートも同じ着弾点へ狙いを合わせる。主ゲートを含む全ゲートが同一フレームで一斉斉射し、複数の極太ビームが黒竜の胸中央へ集中する。各ビームは太さ、輝度、軸を落とさず持続し、内部に圧縮波が走る。最後の圧縮波が胸へ到達した同一フレームで、全ビームを発射口から着弾点まで完全に消す。細い残光を残さない。その瞬間、胸中央に白熱核が発生し、局所的な半球状衝撃ドームが一度だけ膨張して裂ける。そこから参照キャラクターの固有色を主軸にした巨大な炎状魔力爆発が上方と左右へ立体的に噴き上がる。鋭い炎の先端、太い体積光、透明な屈折波、細い電光、外向きの速度線を深度差付きで展開する。濡れた床には発光亀裂が走り、水、蒸気、黒い鱗片、石片が外向きへ吹き飛ぶ。
-
-直後、灰煙と黒い鱗片が前景へ重なり、黒竜の全身を完全に隠す。煙の中央が裂けると、黒竜は胸の着弾点をこちらへ向けて跪いている。胸中央から主人公の固有色に対応した魔力亀裂が全身へ走り、翼端と尾先から黒い鱗が灰へほどけ、微細な発光粒子へ変わる。翼膜、翼骨、尻尾、四肢、胴、首、頭へ連続して崩壊し、最後に胸の魔力核、角、両目の光が粒子へ砕け、肉体、影、床の反射まで完全に消える。死体を残さない。終端は戦闘結果の一枚絵。前景左に主人公、後景右には黒竜がいた空の濡れた路面と、消えかける灰と発光粒子だけを残す。主人公は警戒を保ったまま掌をわずかに下げ、呼吸とともに髪と衣装が落ち着く。最後の粒子が上昇し、黒竜の影と反射が完全に消えた瞬間に切る。
-【重大な破綻防止】
-文字、字幕、ロゴ、透かし、UIなし。ビームの細線化、短時間化、途中減衰、早すぎる爆発、ビームと爆発の長い同時表示、消え残るレーザーなし。平面的で左右対称な花形爆発、同じ大きさの丸煙、全画面白飛びなし。黒竜を煙が消える前に見せない。竜の立ち直り、瞬間消失、透明化、死体残留、切断された翼や尻尾、複数尻尾なし。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-16429da4be7b)**
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/yaml-629d172a4820)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.md)

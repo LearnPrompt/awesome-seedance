@@ -1,6 +1,6 @@
 # Seedance 2.5 — 全量案例
 
-Seedance 2.5 全部 43 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 45 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md)
 
@@ -120,7 +120,7 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 [<img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="600" alt="Boa Hancock Water Obstacle Race Prompt">](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)
 
-**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2087458506123465088) | **发布:** 2026-08-12 | **热度:** 89
+**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2087458506123465088) | **发布:** 2026-08-12 | **热度:** 90
 
 **稳定度：** 66/100
 
@@ -799,6 +799,37 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
 
+### 韩国女生户外泳池 Vlog
+
+> 一段充满 2000 年代怀旧 DV 摄像机风格的 Vlog，记录了一位年轻韩国女生在安静的社区泳池享受阳光午后的时光。
+
+[<img src="https://media.goodcase.ai/cases/68ae69f99fe4.jpg" width="600" alt="韩国女生户外泳池 Vlog">](https://goodcase.ai/cases/vlog-9decd38e99a4)
+
+**作者:** @Strength04_X | **来源:** [原帖](https://x.com/Strength04_X/status/2091737661061095648) | **发布:** 2026-08-24 | **热度:** 84
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+Young Korean woman, early 20s, navy one-piece swimsuit with a loose oversized shirt worn open over it, hair tied up in a high bun, swim goggles around her neck, playful cheerful energy.
+Location: Quiet outdoor community pool, sunny midday. Blue tiled edges, pool floats scattered nearby, lounge chairs, a few potted palms. No crowds, no commercial branding.
+Visual Style: Ultra-realistic documentary realism, playful candid feeling, bright natural sunlight.
+Camera Style: Early 2000s DV camcorder, handheld with water-splash blur on lens occasionally, exposure blown out in bright sun, soft grain. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She sits at the pool edge, feet dangling in the water, kicking gently.
+00:03–00:06 → She says to camera "물이 시원해서 좋다" ("The water feels nice and cool"), smiling.
+00:06–00:09 → She slides into the pool, then pushes off, swimming a short stretch.
+00:09–00:12 → She surfaces laughing, wiping water from her face.
+00:12–00:15 → She waves at camera saying "너도 들어와!" ("Come in too!"), splashing playfully as it fades.
+Audio:
+Water splashing, faint distant chatter, wind, birds. Her dialogue as noted above. No music.
+Goal: A playful, refreshing pool afternoon cheerful, light, authentic.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-9decd38e99a4)**
+
 ### Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程
 
 > 作者用 Seedance 2.5 生成 30 秒胸挂 GoPro 第一人称短片，以四段硬切完成抛竿、处理鳟鱼、篝火烧烤和进食；提示词锁定参考物、镜头焦段、动作、物理、光色与现场声音。
@@ -1357,6 +1388,20 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/90s-diner-time-freeze-effect)**
+
+### 韩国校园天台日落场景
+
+> 一个精美的照片级真实感提示词，描绘了韩国校园生活中，两名学生在日落时分追逐被风吹散的作业纸的场景。
+
+[<img src="https://media.goodcase.ai/cases/e7d1edca5df7.jpg" width="600" alt="韩国校园天台日落场景">](https://goodcase.ai/cases/case-c290f40d8f85)
+
+**作者:** @Aqsahere_ | **来源:** [原帖](https://x.com/Aqsahere_/status/2091001743035564070) | **发布:** 2026-08-22 | **热度:** 61
+
+```
+photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c290f40d8f85)**
 
 ### 东京手机美食 Vlog
 

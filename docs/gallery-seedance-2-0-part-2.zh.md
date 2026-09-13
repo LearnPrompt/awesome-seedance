@@ -2,256 +2,9 @@
 
 Seedance 2.0 全部 130 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 97–130 条，共 130 条。
+本页：第 98–130 条，共 130 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · **Part 2**
-
-### 电影级动漫魔法剑战
-
-> 一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。
-
-[<img src="https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg" width="600" alt="电影级动漫魔法剑战">](https://goodcase.ai/cases/case-c32e6c3bb2c5)
-
-**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080539077603172597) | **发布:** 2026-07-24 | **热度:** 9
-
-<details>
-<summary><b>完整 prompt（53 行，点开展开）</b></summary>
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルックによる映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。8秒の短尺で、浮遊刀の猛攻、防御、回避、反力、包囲、最大衝突を高密度に連結する。
-
-【参照画像と人物固定】
-@1は一人目、キャラクターAの参照画像。
-@2は二人目、キャラクターBの参照画像。
-ソース参照画像のキャラクターを参照し、それぞれ同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、武器意匠だけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、分割レイアウトは再現しない。
-二人は全編でそれぞれsame person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴混合、顔の平均化、髪色交換、衣装交換、武器交換、体格変化、別人化、クローン化、分身、追加人物を発生させない。
-
-【世界観と舞台の自動調整】
-戦闘内容、位置関係、動作、力関係、刀数、カメラ構造は固定する。背景、小物、建築様式、床材、天候、照明、色味、粒子、環境エフェクトのみ、@1と@2のキャラクターデザインに合わせて再設計する。
-
-二人の衣装、装飾、武器、素材、模様、固有色、モチーフから、両者が自然に存在できる一つの映画的戦闘舞台を新規構築する。学園都市、宮殿、神殿、庭園、幻想都市、工業施設、近未来空間などから最適な舞台を選ぶ。ただし参照画像の背景は直接コピーしない。
-
-床には反射、水滴、砂塵、雪、花弁、火の粉、魔力粒子など、世界観に適した接触表現を配置する。欄干、柱、ガラス、樹木、機械構造、魔法装置、発光線などの小物は舞台に適したものだけを使う。背景は人物より一段暗くし、顔、シルエット、刀の軌道を明瞭にする。
-キャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。
-
-【画風固定】
-細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。
-
-布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。
-
-【武器固定】
-キャラクターAは手持ち刀一本と、身体の周囲に浮かぶ四本の浮遊刀を使用する。浮遊刀はAの上、下、左、右を囲むように配置する。キャラクターBは手持ち刀一本を使用する。映像全体の刀は合計六本に固定する。
-
-参照画像の武器が刀ではない場合も、その武器の色、素材、意匠、装飾、モチーフを継承した刀へ再設計する。
-浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。
-
-【浮遊刀エフェクト】
-四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面に密着した湾曲残光として発生する。
-
-【力関係】
-キャラクターAは冷静に主導権を握る格上。四本の浮遊刀を時間差で操りながら、自身も手持ち刀で前進する。キャラクターBは高い剣技で猛攻を弾き、避け、受け流し、反撃を試みるが、攻撃方向が連続して変化するため徐々に押される。Aだけが前進し、Bだけが後退する非対称な移動を維持する。
-【カメラ】
-固定横視点ではなく、浮遊刀越しの斜め低角度、Bの肩越し、接触点の近距離、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを使用する。浮遊刀のレンズ前通過、環境粒子、床から跳ねる飛沫、刀光を短い遮蔽ワイプに使う。カメラと背景が回り、人物を無意味に回転させない。
-
-【8秒の動作構成】
-Cut 1：
-四本の浮遊刀がAの上下左右に静止した状態から開始。カメラは二本の浮遊刀の間を抜ける斜め低角度で、Aの顔、上半身、装飾、手持ち刀を見せる。Aは静かに前進し、視線だけでBを捉える。直後、右上の浮遊刀が加速し、Bの左肩口へ斜めに飛ぶ。
-
-Cut 2：
-Bの肩越し。Bは両手の刀で最初の浮遊刀を刀身中央同士の単一接触点で外側へ弾く。金属火花、両者の固有色の魔力火花、環境粒子、反力が発生する。弾かれた刀は弧を描いてAの周囲へ戻る。続いて左下の二本目が床すれすれを走り、Bは低く沈んで紙一重で回避。左上の三本目が斜め上から降下し、Bは刀を返して受け流す。
-
-Cut 3：
-環境粒子の遮蔽からAを斜め前方で映す。Aは止まらず踏み込み、手持ち刀で右下から左上へ斬り上げる。Bは後退しながら受け止める。二本の手持ち刀が一点で接触した瞬間、右下の浮遊刀がBの側面から侵入する。Bは肩を引いて避けるが、姿勢が横へ流れる。Aは接触を滑らせて解除し、さらに懐へ入る。
-Cut 4：
-接触点を中心にカメラが約60度回り込む。Bは反力を利用して返し斬りを放つが、Aの浮遊刀一本が側面から接触し、Bの刀を上へ逸らす。Aは手持ち刀を左上から右下へ振り下ろす。Bは急いで受け止めるが、足元が滑り後方へ押される。残る三本の浮遊刀がBの左右と上方へ散開し、退路を狭める包囲構図を作る。
-
-Cut 5：
-斜め低空カメラ。左手前に前進するA、右奥に押し込まれるB。Bは最後の反撃として踏み込む。Aも前進を止めず、左下から右上へ上昇斬りを放つ。二本の手持ち刀が中央の単一接触点で明瞭なX字を形成する。浮遊刀一本がBの刀身へ側面から追加圧力を加え、残る三本は周囲で次の斬撃姿勢を取る。
-Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱核の外側に巨大な二色のX字色面を形成する。放射状の衝撃波、環境粒子、蒸気、火花が広がる。Bの後ろ足が滑り、膝が沈み、両腕と肩の防御線が崩れ始める。Aは低い重心のまま前へ力を通す。X字の発光が最大まで拡大し、Bの防御崩壊が始まった瞬間に即カット。戦闘継続。
-
-【重大NG】
-固定横の格闘ゲーム視点、左右対称の全身構図、鏡写しの同時ダッシュ、長い助走、長い鍔迫り合い、無意味な連続回転は禁止。刀はAの手持ち一本＋浮遊四本、Bの一本、合計六本を固定。浮遊刀の増殖、消失、融合、変形、身体への貫通、切っ先だけの独立回転は禁止。手で刀身を握らない。独立レーザー、第三の光線、二色融合、全画面白飛びなし。追加人物、文字、字幕、ロゴ、透かし、UI、音響生成なし。
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c32e6c3bb2c5)**
-
-### 动态图生视频音乐可视化工具
-
-> 一个旨在将静态图像转换为具有动态视觉效果的专业音乐视频的提示词。
-
-[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="动态图生视频音乐可视化工具">](https://goodcase.ai/cases/case-bf2bedc93316)
-
-**作者:** @EchoraContinuum | **来源:** [原帖](https://x.com/EchoraContinuum/status/2079917613149503813) | **发布:** 2026-07-22 | **热度:** 9
-
-```
-generate an interesting music video using this image as first frame,be professional and use dynamic visuals
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-bf2bedc93316)**
-
-### YAML 跑酷电影级序列
-
-> 一个用于现代城市精英跑酷选手的结构化 YAML 格式提示词，包含电影级运镜和逼真的物理效果。
-
-[<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML 跑酷电影级序列">](https://goodcase.ai/cases/yaml-629d172a4820)
-
-**作者:** @yudotanaka | **来源:** [原帖](https://x.com/yudotanaka/status/2079900274064490842) | **发布:** 2026-07-22 | **热度:** 9
-
-**稳定度：** 69/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (68.9 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（140 行，点开展开）</b></summary>
-
-```
-meta:
-  task_type: video_generation
-  style:
-    camera: cinematic_dynamic
-    render: AAA_animation_unreal_engine_quality
-  reference_lock:
-    character_appearance: strict
-    style_and_art_direction: strict
-  priority: cinematic_impact
-
-cinematography:
-  shot_type: multi_shot_dynamic_sequence
-  framing:
-    - full_body_visible_during_key_actions
-  camera_height: variable
-  lens_look: 24mm_to_35mm
-  camera_motion:
-    - low_tracking_shot_following_behind
-    - side_tracking_shot
-    - drone_orbit
-    - fpv_drone_chase
-    - handheld_chase
-    - crane_pull_back
-    - speed_ramp
-    - slow_motion_on_key_flip
-
-subjects:
-  athlete:
-    type: parkour_runner
-    level: elite
-    attributes:
-      - athletic_build
-      - consistent_outfit_and_appearance_locked
-      - hair_and_cloth_physics_reactive
-
-environment:
-  location: modern_realistic_city
-  floor:
-    - paved_street
-    - rooftop_concrete
-    - metal_beams_and_pipes
-  background:
-    - glass_skyscrapers
-    - busy_traffic
-    - pedestrians
-    - street_signs
-    - bridges
-    - construction_zones
-  lighting:
-    - warm_sunset_transitioning_to_blue_hour
-    - volumetric_lighting
-    - realistic_reflections
-
-process:
-  - phase: sprint_launch
-    timing: 0s-3s
-    description:
-      - explosive_believable_acceleration
-      - dodge_pedestrians
-      - jump_over_obstacles
-      - slide_beneath_barriers
-  - phase: vault_and_wall_run
-    timing: 3s-6s
-    description:
-      - vault_over_railings
-      - wall_run_across_building
-      - leap_to_next_rooftop
-      - believable_momentum_and_impact_recovery
-  - phase: advanced_parkour_techniques
-    timing: 6s-9s
-    description:
-      - kong_vault
-      - precision_jump
-      - tic_tac_wall_jump
-      - front_flip
-      - perfect_balance_no_floating
-  - phase: rooftop_traversal
-    timing: 9s-12s
-    description:
-      - swing_from_metal_beam
-      - run_along_narrow_rooftop_edge
-      - slide_under_pipes
-      - long_rooftop_gap_jump
-  - phase: final_leap
-    timing: 12s-15s
-    description:
-      - reach_tallest_rooftop
-      - confident_smile
-      - final_cinematic_leap_toward_skyline
-      - freeze_frame_ending
-
-motion_rules:
-  pacing:
-    - natural_timing_with_dramatic_speed_ramps
-    - uninterrupted_flow_between_phases
-  physics:
-    - grounded_gravity_present
-    - accurate_center_of_gravity
-    - natural_inertia_and_weight_shift
-    - realistic_foot_placement
-    - proper_landing_compression
-    - cloth_simulation
-    - hair_simulation
-    - no_unearned_floating
-
-visual_rules:
-  style:
-    - anime_photorealistic_hybrid
-    - HDR_ray_tracing_reflections
-    - global_illumination
-    - soft_bloom
-    - shallow_depth_of_field
-    - filmic_color_grading
-    - shinkai_inspired_lighting
-  clarity:
-    - body_mechanics_readable_outside_slow_motion_beats
-
-audio:
-  - high_energy_cinematic_soundtrack
-  - synchronized_footsteps
-  - wind_rushing
-  - city_ambience
-  - cloth_movement_sfx
-  - metal_impact_sfx
-  - environmental_reverb
-  - no_dialogue
-
-constraints:
-  forbidden:
-    - unnatural_physics
-    - outfit_change
-    - multiple_characters
-    - text
-    - logo
-
-output_rules:
-  emphasis:
-    - cinematic_spectacle
-    - technical_parkour_accuracy
-    - character_consistency
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yaml-629d172a4820)**
 
 ### 2D Sticker Capybara Kitchen Prank
 
@@ -270,6 +23,43 @@ output_rules:
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)**
+
+### 夜间动漫风格涂鸦隧道场景
+
+> 一个充满氛围感的动漫风格视频提示词，描绘了布满鲜艳涂鸦的黑暗地下街道隧道，呈现出湿润的沥青路面和昏暗的灯光反射效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="夜间动漫风格涂鸦隧道场景">](https://goodcase.ai/cases/case-779580528a24)
+
+**作者:** @TechieBySA | **来源:** [原帖](https://x.com/TechieBySA/status/2081354591925305667) | **发布:** 2026-07-26 | **热度:** 8
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.4 分) · [产物](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+
+```
+Cinematic anime short film clip, 15 seconds. Underground street tunnel at night, long dark corridor, walls completely covered in colorful graffiti tags, wet glistening asphalt reflecting dim tunnel lights, raw illegal underground energy, nobody around.
+
+CHARACTER: Rex, light brown skin, sharp angular face, short messy black Caesar cut with fade, dark cold intense eyes, black leather jacket, white tee, dark joggers, gold chain.
+
+CAR: Nissan Skyline R34, wide body kit, lowered, matte finish covered in layers of graffiti tags in white red and green spray paint, worn and chipped, aggressive and raw.
+
+[0:00-0:01] HOOK — Extreme close up ignition key turning. Engine roars to life instantly.
+
+[0:01-0:02] Rex's cold eyes in rearview mirror. Gear shift grabbed. Slams into first.
+
+[0:02-0:13] MONTAGE — Ultra fast cuts every half second synced hard to heavy bass beat. Rotate constantly between: front wide shot of car launching forward — low angle tires screeching wet asphalt water spraying — speedometer needle jumping — side angle car flying through tunnel — graffiti walls blurring — exhaust flames shooting out — overhead angle car from above — close up Rex jaw tight stone cold — gear shift slamming — headlights cutting darkness — rear angle tail lights — close up Rex eyes never blinking — inside car dashboard shaking — bumper level shot tunnel rushing past — speedometer maxed out — every angle every second something different never the same shot twice.
+
+[0:13-0:15] Car vanishes into darkness. Tail lights fade. Silence. Cut to black. Text: ZERO TO SIXTY.
+
+Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, dark moody tunnel lighting, neon reflections on wet asphalt, film grain, heavy bass music with engine roar and tire screech layered throughout, ultra fast cutting rhythm, premium anime film quality
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-779580528a24)**
 
 ### 暗黑奇幻动漫召唤仪式
 
@@ -677,6 +467,77 @@ output_rules:
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-79acf1a3e8a6)**
 
+### 电影级动漫魔法剑战
+
+> 一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。
+
+[<img src="https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg" width="600" alt="电影级动漫魔法剑战">](https://goodcase.ai/cases/case-c32e6c3bb2c5)
+
+**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080539077603172597) | **发布:** 2026-07-24 | **热度:** 8
+
+<details>
+<summary><b>完整 prompt（53 行，点开展开）</b></summary>
+
+```
+高品質アニメ映像。高密度3Dトゥーン／セルルックによる映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。8秒の短尺で、浮遊刀の猛攻、防御、回避、反力、包囲、最大衝突を高密度に連結する。
+
+【参照画像と人物固定】
+@1は一人目、キャラクターAの参照画像。
+@2は二人目、キャラクターBの参照画像。
+ソース参照画像のキャラクターを参照し、それぞれ同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、武器意匠だけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、分割レイアウトは再現しない。
+二人は全編でそれぞれsame person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴混合、顔の平均化、髪色交換、衣装交換、武器交換、体格変化、別人化、クローン化、分身、追加人物を発生させない。
+
+【世界観と舞台の自動調整】
+戦闘内容、位置関係、動作、力関係、刀数、カメラ構造は固定する。背景、小物、建築様式、床材、天候、照明、色味、粒子、環境エフェクトのみ、@1と@2のキャラクターデザインに合わせて再設計する。
+
+二人の衣装、装飾、武器、素材、模様、固有色、モチーフから、両者が自然に存在できる一つの映画的戦闘舞台を新規構築する。学園都市、宮殿、神殿、庭園、幻想都市、工業施設、近未来空間などから最適な舞台を選ぶ。ただし参照画像の背景は直接コピーしない。
+
+床には反射、水滴、砂塵、雪、花弁、火の粉、魔力粒子など、世界観に適した接触表現を配置する。欄干、柱、ガラス、樹木、機械構造、魔法装置、発光線などの小物は舞台に適したものだけを使う。背景は人物より一段暗くし、顔、シルエット、刀の軌道を明瞭にする。
+キャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。
+
+【画風固定】
+細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。
+
+布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。
+
+【武器固定】
+キャラクターAは手持ち刀一本と、身体の周囲に浮かぶ四本の浮遊刀を使用する。浮遊刀はAの上、下、左、右を囲むように配置する。キャラクターBは手持ち刀一本を使用する。映像全体の刀は合計六本に固定する。
+
+参照画像の武器が刀ではない場合も、その武器の色、素材、意匠、装飾、モチーフを継承した刀へ再設計する。
+浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。
+
+【浮遊刀エフェクト】
+四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面に密着した湾曲残光として発生する。
+
+【力関係】
+キャラクターAは冷静に主導権を握る格上。四本の浮遊刀を時間差で操りながら、自身も手持ち刀で前進する。キャラクターBは高い剣技で猛攻を弾き、避け、受け流し、反撃を試みるが、攻撃方向が連続して変化するため徐々に押される。Aだけが前進し、Bだけが後退する非対称な移動を維持する。
+【カメラ】
+固定横視点ではなく、浮遊刀越しの斜め低角度、Bの肩越し、接触点の近距離、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを使用する。浮遊刀のレンズ前通過、環境粒子、床から跳ねる飛沫、刀光を短い遮蔽ワイプに使う。カメラと背景が回り、人物を無意味に回転させない。
+
+【8秒の動作構成】
+Cut 1：
+四本の浮遊刀がAの上下左右に静止した状態から開始。カメラは二本の浮遊刀の間を抜ける斜め低角度で、Aの顔、上半身、装飾、手持ち刀を見せる。Aは静かに前進し、視線だけでBを捉える。直後、右上の浮遊刀が加速し、Bの左肩口へ斜めに飛ぶ。
+
+Cut 2：
+Bの肩越し。Bは両手の刀で最初の浮遊刀を刀身中央同士の単一接触点で外側へ弾く。金属火花、両者の固有色の魔力火花、環境粒子、反力が発生する。弾かれた刀は弧を描いてAの周囲へ戻る。続いて左下の二本目が床すれすれを走り、Bは低く沈んで紙一重で回避。左上の三本目が斜め上から降下し、Bは刀を返して受け流す。
+
+Cut 3：
+環境粒子の遮蔽からAを斜め前方で映す。Aは止まらず踏み込み、手持ち刀で右下から左上へ斬り上げる。Bは後退しながら受け止める。二本の手持ち刀が一点で接触した瞬間、右下の浮遊刀がBの側面から侵入する。Bは肩を引いて避けるが、姿勢が横へ流れる。Aは接触を滑らせて解除し、さらに懐へ入る。
+Cut 4：
+接触点を中心にカメラが約60度回り込む。Bは反力を利用して返し斬りを放つが、Aの浮遊刀一本が側面から接触し、Bの刀を上へ逸らす。Aは手持ち刀を左上から右下へ振り下ろす。Bは急いで受け止めるが、足元が滑り後方へ押される。残る三本の浮遊刀がBの左右と上方へ散開し、退路を狭める包囲構図を作る。
+
+Cut 5：
+斜め低空カメラ。左手前に前進するA、右奥に押し込まれるB。Bは最後の反撃として踏み込む。Aも前進を止めず、左下から右上へ上昇斬りを放つ。二本の手持ち刀が中央の単一接触点で明瞭なX字を形成する。浮遊刀一本がBの刀身へ側面から追加圧力を加え、残る三本は周囲で次の斬撃姿勢を取る。
+Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱核の外側に巨大な二色のX字色面を形成する。放射状の衝撃波、環境粒子、蒸気、火花が広がる。Bの後ろ足が滑り、膝が沈み、両腕と肩の防御線が崩れ始める。Aは低い重心のまま前へ力を通す。X字の発光が最大まで拡大し、Bの防御崩壊が始まった瞬間に即カット。戦闘継続。
+
+【重大NG】
+固定横の格闘ゲーム視点、左右対称の全身構図、鏡写しの同時ダッシュ、長い助走、長い鍔迫り合い、無意味な連続回転は禁止。刀はAの手持ち一本＋浮遊四本、Bの一本、合計六本を固定。浮遊刀の増殖、消失、融合、変形、身体への貫通、切っ先だけの独立回転は禁止。手で刀身を握らない。独立レーザー、第三の光線、二色融合、全画面白飛びなし。追加人物、文字、字幕、ロゴ、透かし、UI、音響生成なし。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c32e6c3bb2c5)**
+
 ### 日式动漫风格猪肉卷芦笋烹饪视频
 
 > 一份针对猪肉卷芦笋日式动漫风格烹饪视频的高度详细提示词。涵盖了视觉一致性、厨房物理效果及具体的场景序列，以确保动画效果既写实又诱人。
@@ -1068,48 +929,6 @@ Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, h
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d087761bf321)**
 
-### 现代舞室音乐视频
-
-> 一段 10 秒音乐视频的电影感提示词，场景设定在霓虹灯闪烁的暗调舞室中，包含持续的动态运镜。
-
-[<img src="https://media.goodcase.ai/media/poster/case-3ab1709b8447.jpg" width="600" alt="现代舞室音乐视频">](https://goodcase.ai/cases/case-3ab1709b8447)
-
-**作者:** @PixelAigc | **来源:** [原帖](https://x.com/PixelAigc/status/2078846287500439682) | **发布:** 2026-07-19 | **热度:** 4
-
-**复测：** 共 2 次
-
-- MiniMax H3 Max 768p · 2026-09-06 · ❌ 失败 (无评分)
-- MiniMax H3 768p · 2026-08-09 · ✅ 复现 (无评分) · [产物](https://media.goodcase.ai/retests/case-3ab1709b8447/video-minimax-h3-768p-20260809-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（19 行，点开展开）</b></summary>
-
-```
-生成视频：一部电影般的 10 秒音乐视频，拍摄于一个黑暗的现代舞蹈工作室，带有光滑的灰色反光地板、黑色墙壁和水平霓虹灯管。连续的动态摄像机运动，主要为中景和特写，绝不拉得太宽。女主角始终在移动，没有冻结或静态姿势。
-
-主要角色：20岁年轻东亚女性，凌乱的中长波浪黑发，前额刘海部分遮住脸庞，冷白皮，黑色眼睛，丰满光泽的嘴唇。她穿着白色真丝吊带连衣裙。她全程在唱歌，唇部同步清晰精确，嘴巴积极动作，强烈的感情表达。
-
-歌词：“ねえ、君は名前の入った箱をしまっているんだね / ベッド脇の引き出しの中に / ポラロイド写真やチケットの半券を / 赤いものの下に詰め込んで / 君はただ一つだけを持っていくんじゃなくて / 最後の残り火のすべてをさらっていく / そして、それぞれの秘められた心に / 小さな指の跡を残していくんだ”。
-
-0-2s：紧凑的中近景。她上身向后倾斜，头部侧倾，热情地唱歌，唇部同步强烈，头发垂落到脸上，身体弓起，一只手滑过胸膛。
-
-2-4s：摄像机缓慢推进并环绕。她从深弓姿势中恢复，躯干仍向前弯曲，双手放在大腿上，抬起头直视摄像机，同时以激进的唇部同步唱歌。三位外貌不同的男舞者（不同种族、发型和体型），穿着黑色背心和黑色宽松裤，已经靠近她周围，以低张力的姿势与她一同移动。另外两个男舞者在画面边缘可见，正在接近。
-
-4-6s：中近景。她向下蹲低，身体仍持续运动，头发摆动，激烈地唱歌，嘴巴动作清晰，头部锐利转动，眼睛锁定摄像机。男舞者保持靠近，他们的手在共同移动时轻轻触碰她。
-
-6-8s：中景，伴随缓慢的摄像机漂移。精确的五位外貌完全不同的男舞者，全都穿着黑色背心和黑色宽松裤，在地板上以密集交织的阵型紧紧包围她。她位于中心，身体仍在移动，上身上升和转移，以强烈的唇部同步唱歌。五位男舞者都与她微妙地移动，从不静态。男舞者绝不完全遮挡她的身体。
-
-8-10s：动态中景。五位多样化的男舞者将她举到空中，进入一个有力的深后弯姿势。她的身体完全伸展并弓起，头部向后甩，仍以清晰的唇部同步唱歌。他们托举着她，轻轻地随着节拍上下摇动。摄像机从她弓起身体的清晰侧视图开始，平滑过渡到她脸部的正面视图。结尾时，他们平滑地将她降落到脚上；她落地后立即继续唱歌，五位男舞者保持低姿势围绕在她周围。男舞者绝不完全遮挡她。
-
-高端时尚舞蹈能量，汗湿的皮肤，锐利的时机，女主角连续流畅的运动，每一帧都优先确保准确的唇部同步。
-
-规则：无手部变形，无身体扭曲，干净稳定的解剖结构，手指和手部在整个视频中保持一致和自然。，16:9
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3ab1709b8447)**
-
 ### 屋顶追逐动作短语
 
 > 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
@@ -1451,6 +1270,48 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923)**
+
+### 现代舞室音乐视频
+
+> 一段 10 秒音乐视频的电影感提示词，场景设定在霓虹灯闪烁的暗调舞室中，包含持续的动态运镜。
+
+[<img src="https://media.goodcase.ai/media/poster/case-3ab1709b8447.jpg" width="600" alt="现代舞室音乐视频">](https://goodcase.ai/cases/case-3ab1709b8447)
+
+**作者:** @PixelAigc | **来源:** [原帖](https://x.com/PixelAigc/status/2078846287500439682) | **发布:** 2026-07-19 | **热度:** 3
+
+**复测：** 共 2 次
+
+- MiniMax H3 Max 768p · 2026-09-06 · ❌ 失败 (无评分)
+- MiniMax H3 768p · 2026-08-09 · ✅ 复现 (无评分) · [产物](https://media.goodcase.ai/retests/case-3ab1709b8447/video-minimax-h3-768p-20260809-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（19 行，点开展开）</b></summary>
+
+```
+生成视频：一部电影般的 10 秒音乐视频，拍摄于一个黑暗的现代舞蹈工作室，带有光滑的灰色反光地板、黑色墙壁和水平霓虹灯管。连续的动态摄像机运动，主要为中景和特写，绝不拉得太宽。女主角始终在移动，没有冻结或静态姿势。
+
+主要角色：20岁年轻东亚女性，凌乱的中长波浪黑发，前额刘海部分遮住脸庞，冷白皮，黑色眼睛，丰满光泽的嘴唇。她穿着白色真丝吊带连衣裙。她全程在唱歌，唇部同步清晰精确，嘴巴积极动作，强烈的感情表达。
+
+歌词：“ねえ、君は名前の入った箱をしまっているんだね / ベッド脇の引き出しの中に / ポラロイド写真やチケットの半券を / 赤いものの下に詰め込んで / 君はただ一つだけを持っていくんじゃなくて / 最後の残り火のすべてをさらっていく / そして、それぞれの秘められた心に / 小さな指の跡を残していくんだ”。
+
+0-2s：紧凑的中近景。她上身向后倾斜，头部侧倾，热情地唱歌，唇部同步强烈，头发垂落到脸上，身体弓起，一只手滑过胸膛。
+
+2-4s：摄像机缓慢推进并环绕。她从深弓姿势中恢复，躯干仍向前弯曲，双手放在大腿上，抬起头直视摄像机，同时以激进的唇部同步唱歌。三位外貌不同的男舞者（不同种族、发型和体型），穿着黑色背心和黑色宽松裤，已经靠近她周围，以低张力的姿势与她一同移动。另外两个男舞者在画面边缘可见，正在接近。
+
+4-6s：中近景。她向下蹲低，身体仍持续运动，头发摆动，激烈地唱歌，嘴巴动作清晰，头部锐利转动，眼睛锁定摄像机。男舞者保持靠近，他们的手在共同移动时轻轻触碰她。
+
+6-8s：中景，伴随缓慢的摄像机漂移。精确的五位外貌完全不同的男舞者，全都穿着黑色背心和黑色宽松裤，在地板上以密集交织的阵型紧紧包围她。她位于中心，身体仍在移动，上身上升和转移，以强烈的唇部同步唱歌。五位男舞者都与她微妙地移动，从不静态。男舞者绝不完全遮挡她的身体。
+
+8-10s：动态中景。五位多样化的男舞者将她举到空中，进入一个有力的深后弯姿势。她的身体完全伸展并弓起，头部向后甩，仍以清晰的唇部同步唱歌。他们托举着她，轻轻地随着节拍上下摇动。摄像机从她弓起身体的清晰侧视图开始，平滑过渡到她脸部的正面视图。结尾时，他们平滑地将她降落到脚上；她落地后立即继续唱歌，五位男舞者保持低姿势围绕在她周围。男舞者绝不完全遮挡她。
+
+高端时尚舞蹈能量，汗湿的皮肤，锐利的时机，女主角连续流畅的运动，每一帧都优先确保准确的唇部同步。
+
+规则：无手部变形，无身体扭曲，干净稳定的解剖结构，手指和手部在整个视频中保持一致和自然。，16:9
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3ab1709b8447)**
 
 ### 写实风格中国辣条商业广告
 

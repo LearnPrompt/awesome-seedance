@@ -2,7 +2,7 @@
 
 Seedance 2.0 全部 130 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–96 条，共 130 条。
+本页：第 1–97 条，共 130 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.zh.md)
 
@@ -12,7 +12,7 @@ Seedance 2.0 全部 130 条案例，按热度分排序。由 data/cases.json 生
 
 [<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="600" alt="智能手机拍摄的海滩一日游回忆">](https://goodcase.ai/cases/smartphone-beach-day-memories)
 
-**作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2079189509586260101) | **发布:** 2026-07-20 | **热度:** 93
+**作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2079189509586260101) | **发布:** 2026-07-20 | **热度:** 94
 
 <details>
 <summary><b>完整 prompt（49 行，点开展开）</b></summary>
@@ -1247,7 +1247,7 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no labels, no pro
 
 [<img src="https://media.goodcase.ai/media/poster/vlog-a4aa7d6b0191.jpg" width="600" alt="怀旧高中 Vlog">](https://goodcase.ai/cases/vlog-a4aa7d6b0191)
 
-**作者:** @aiehon_aya | **来源:** [原帖](https://x.com/aiehon_aya/status/2092733830801109291) | **发布:** 2026-08-26 | **热度:** 48
+**作者:** @aiehon_aya | **来源:** [原帖](https://x.com/aiehon_aya/status/2092733830801109291) | **发布:** 2026-08-26 | **热度:** 47
 
 ```
 かわいい日本人の女子高校生の、なんでもない学校の1日を、同級生の親友が撮ったVlog風個人ホームビデオとして作成せよ。超現実的。約10個の短いショット（各2〜3秒）のハードカットのモンタージュで構成する。各ショットはすべて別の場所・別の瞬間で、1ショット＝1つの小さな出来事。トランジション効果やフェードは使わない。撮っているのはいちばん仲のいい親友なので、彼女は完全にリラックスしていて、カメラに笑いかけ、物を見せ、話しかける（言葉は聞き取れない）。ポーズや演技ではなく、親友にだけ見せる素の表情。 メイン被写体 全ショットを通じて同じ日本人の女子高校生。目を引く完璧な美人ではなく、笑った瞬間がいちばんかわいい、話しかけやすい親しみのある顔立ち。 現実的な肌の質感、ノーメイク、頬にほんの少し赤み。笑うと目が三日月になり、八重歯が少しのぞく。 黒髪のゆるいボブで、右の耳の上を小さな銀のヘアピンで留めている。 白い半袖の開襟シャツ、えんじ色のリボン、グレーの膝丈プリーツスカート、白いソックス、上履き（校外では白いスニーカー）、肩掛けのスクールバッグ。 顔、体型、髪型、制服、持ち物を最初から最後まで完全に一貫させる。 ロケーション 夏の朝から夕方の、ごく普通の公立高校。昇降口、窓際の席のある教室、廊下、購買、中庭、放課後の夕日が差す教室、校門。生活感のある本物の学校。他の生徒は背景に自然な程度。広告、認識できるブランドはなし。 カメラ / ビジュアルスタイル 全ショット共通：親友が構える手持ちの古い民生用デジタルカメラ。自然な揺れ、不完全なフレーミング、時折のオートフォーカス変更、露出のゆらぎ、柔らかい画像ディテール、軽いモーションブラー、微妙なデジタルノイズ、少し抑えた色、不完全なホワイトバランス。スタビライズ、ジンバル、ドローン、スローモーション、映画的照明、商業カラーグレーディングはなし。 ショットリスト（順番通り、各2〜3秒、すべてハードカット） 1. 休み時間。前の席の椅子に後ろ向きに座り、身振りをつけて何か喋る（聞こえない）。 2. 購買でパンを2つ買い、1つをレンズに差し出す。 3. 昼休みの中庭のベンチ。パンをかじりながら、木漏れ日に目を細める。 4. 廊下で笑いすぎて壁にもたれ、目じりを指で拭う。 5. 掃除の時間。ほうきを持ったままふざけたポーズをして、廊下の先の気配に気づき、慌ててまじめに掃きだす。 6. 水道で手を洗い、濡れた指先でカメラに水滴を飛ばすまねをして笑う。 7. 放課後、夕日の教室。机に伏せてうたた寝しているところを撮られ、起きて照れ笑い。 8. 黒板の隅に小さな落書きを描いて振り返り、八重歯を見せてにっと笑い、すぐ消す。 9. 昇降口でスニーカーに履き替えながら、何か喋って笑う。 10. 夕焼けの校門で振り返り、両手で大きく手を振る。その途中、録画は突然ブラックアウトに切り替わる。フェードアウトなし。 物理的リアリズム 全ショットで信ぴょう性のある現実世界の物理を維持。手、指、足、制服、髪、パン、ほうき、ノート、スクールバッグは自然に振る舞う。余分な指、融合した手、重複した手足、歪んだ解剖学、浮遊物、消える物体、突然の変形はなし。足は床と地面に適切に繋がったまま。ショット間で被写体を一貫させ、光は朝→昼→夕焼けへ自然に進む。 オーディオ 自然な環境音のみ。ショットごとに環境音も切り替わる。遠くのチャイム、上履きの音、教室のざわめき、購買の喧騒、セミの声、ほうきの音、遠くの部活の掛け声、言葉として聞き取れない話し声と笑い声。音楽なし。ナレーションなし。人工的な音響効果なし。 最終的な雰囲気 12個の何気ない瞬間を並べただけなのに、あとで見返すとエモいと感じる映像。商業作品ではない。ファッション映画ではない。ミュージックビデオではない。同じクラスの親友のカメラにだけ残っている、なんでもないのに二度と戻らない学校の1日の記録。屈託がなく、青春の途中で、懐かしく、温かく、即興的で、深く人間的。カメラがたまたまそこにあったような感じを優先。
@@ -1255,13 +1255,44 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no labels, no pro
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-a4aa7d6b0191)**
 
+### 森林野餐动画场景
+
+> 一个宁静的动画风格河畔森林野餐提示词，包含采集食材、篝火煮鱼汤等内容，营造出斑驳阳光下的平和氛围。
+
+[<img src="https://media.goodcase.ai/media/poster/case-e7dccea90d44.jpg" width="600" alt="森林野餐动画场景">](https://goodcase.ai/cases/case-e7dccea90d44)
+
+**作者:** @0xluffy_eth | **来源:** [原帖](https://x.com/0xluffy_eth/status/2079374857159270882) | **发布:** 2026-07-21 | **热度:** 44
+
+**稳定度：** 85/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.1 分) · [产物](https://media.goodcase.ai/retests/case-e7dccea90d44/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+宁静的动画风河边森林野炊场景，新鲜食材直接从自然采集。
+
+手从清澈溪流捞出银鱼，采摘洗净青菜叶，砧板上切鱼片和蔬菜。
+
+篝火上的铁锅里撒香料，放入鱼、青菜和蘑菇，在陶土锅里炖成浓郁热汤。
+
+在木桌上盛饭，配一杯新鲜椰汁，头顶撒下温暖的树影斑驳阳光。
+
+电影级动画画画风、鲜艳色彩、柔和自然光线、超细节、宁静氛围、4K
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e7dccea90d44)**
+
 ### 火凤凰与水龙之战
 
 > 一场史诗级的元素对决，在古老遗迹中展现火凤凰与水龙的激战，包含详细的镜头与特效说明。
 
 [<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="火凤凰与水龙之战">](https://goodcase.ai/cases/case-2c7bcef707d4)
 
-**作者:** @noorlewisx | **来源:** [原帖](https://x.com/noorlewisx/status/2095039305555263672) | **发布:** 2026-09-02 | **热度:** 44
+**作者:** @noorlewisx | **来源:** [原帖](https://x.com/noorlewisx/status/2095039305555263672) | **发布:** 2026-09-02 | **热度:** 43
 
 <details>
 <summary><b>完整 prompt（21 行，点开展开）</b></summary>
@@ -1300,7 +1331,7 @@ Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect cha
 
 [<img src="https://media.goodcase.ai/media/poster/korean-idol-backstage-fitting-vlog.jpg" width="600" alt="Korean Idol Backstage Fitting Vlog">](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog)
 
-**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2081353850779550056) | **发布:** 2026-07-26 | **热度:** 44
+**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2081353850779550056) | **发布:** 2026-07-26 | **热度:** 43
 
 **稳定度：** 75/100
 
@@ -1311,78 +1342,6 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog)**
-
-### 森林野餐动画场景
-
-> 一个宁静的动画风格河畔森林野餐提示词，包含采集食材、篝火煮鱼汤等内容，营造出斑驳阳光下的平和氛围。
-
-[<img src="https://media.goodcase.ai/media/poster/case-e7dccea90d44.jpg" width="600" alt="森林野餐动画场景">](https://goodcase.ai/cases/case-e7dccea90d44)
-
-**作者:** @0xluffy_eth | **来源:** [原帖](https://x.com/0xluffy_eth/status/2079374857159270882) | **发布:** 2026-07-21 | **热度:** 44
-
-**稳定度：** 85/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.1 分) · [产物](https://media.goodcase.ai/retests/case-e7dccea90d44/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
-
-```
-宁静的动画风河边森林野炊场景，新鲜食材直接从自然采集。
-
-手从清澈溪流捞出银鱼，采摘洗净青菜叶，砧板上切鱼片和蔬菜。
-
-篝火上的铁锅里撒香料，放入鱼、青菜和蘑菇，在陶土锅里炖成浓郁热汤。
-
-在木桌上盛饭，配一杯新鲜椰汁，头顶撒下温暖的树影斑驳阳光。
-
-电影级动画画画风、鲜艳色彩、柔和自然光线、超细节、宁静氛围、4K
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e7dccea90d44)**
-
-### 高端口红美妆广告
-
-> 一个 8 秒的高端 UGC 口红广告项目，包含美妆镜头、产品微距特写以及展现奢华护肤美学的摄影棚灯光效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-b723c4e1858e.jpg" width="600" alt="高端口红美妆广告">](https://goodcase.ai/cases/case-b723c4e1858e)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2077621815598592445) | **发布:** 2026-07-16 | **热度:** 40
-
-<details>
-<summary><b>完整 prompt（23 行，点开展开）</b></summary>
-
-```
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, pearl choker, bracelets, rings, and outfit consistency throughout every shot. Replace the jeans with a stylish pleated grey mini skirt while keeping the same top and accessories. Maintain perfect facial consistency and realistic hand anatomy.
-
-Create an 8-second premium UGC lipstick commercial with elegant beauty cinematography. Warm blush-pink studio background, soft diffused lighting, luxury skincare aesthetic, shallow depth of field, cinematic commercial color grading, photorealistic 4K HDR.
-
-Shot 1: Medium beauty shot. She looks directly into the camera while holding a luxury lipstick beside her face with a confident smile.
-
-Shot 2: Cinematic macro close-up of the lipstick rotating slowly in her hand. Metallic reflections shimmer across the premium packaging.
-
-Shot 3: Close-up as she naturally applies the lipstick to her lower lip while looking into a mirror just outside the frame.
-
-Shot 4: Extreme macro of glossy lips. She gently taps her lower lip with her fingertip to blend the product, revealing smooth hydrated texture and natural shine.
-
-Shot 5: Side-profile beauty shot. She smiles softly while holding the lipstick near her chin as her hair moves gently from a soft breeze.
-
-Shot 6: Full-body shot. Wearing the white fitted sleeveless top and grey pleated mini skirt, she confidently walks toward the camera through a minimalist luxury studio while holding the lipstick naturally.
-
-Shot 7: Beauty close-up. She slightly tilts her head, raises the lipstick beside her cheek, and smiles confidently as soft golden highlights illuminate her face.
-
-Shot 8: Hero ending. Elegant close-up of her face beside the lipstick. She lowers the lipstick slightly, maintains eye contact with the camera, gives a subtle confident smile, and the camera slowly pushes in before fading out.
-
-Style: Premium UGC beauty commercial, luxury K-beauty aesthetic, realistic skin texture, glossy lips, elegant natural expressions, cinematic handheld and gimbal movements, macro beauty shots, soft bokeh, commercial-grade lighting, photorealistic, ultra-detailed, 4K HDR, 24fps.
-
-Negative Prompt: No text, no subtitles, no logos, no watermarks, no kissing, no duplicate people, no distorted hands, no deformed lips, no low resolution, no AI artifacts, no cartoon style, no exaggerated makeup, no extra fingers, no flickering, no oversaturated colors.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b723c4e1858e)**
 
 ### 2000 年代 MiniDV 汉江骑行
 
@@ -1478,6 +1437,47 @@ Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consis
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-30f9477f562c)**
+
+### 高端口红美妆广告
+
+> 一个 8 秒的高端 UGC 口红广告项目，包含美妆镜头、产品微距特写以及展现奢华护肤美学的摄影棚灯光效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-b723c4e1858e.jpg" width="600" alt="高端口红美妆广告">](https://goodcase.ai/cases/case-b723c4e1858e)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2077621815598592445) | **发布:** 2026-07-16 | **热度:** 39
+
+<details>
+<summary><b>完整 prompt（23 行，点开展开）</b></summary>
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, pearl choker, bracelets, rings, and outfit consistency throughout every shot. Replace the jeans with a stylish pleated grey mini skirt while keeping the same top and accessories. Maintain perfect facial consistency and realistic hand anatomy.
+
+Create an 8-second premium UGC lipstick commercial with elegant beauty cinematography. Warm blush-pink studio background, soft diffused lighting, luxury skincare aesthetic, shallow depth of field, cinematic commercial color grading, photorealistic 4K HDR.
+
+Shot 1: Medium beauty shot. She looks directly into the camera while holding a luxury lipstick beside her face with a confident smile.
+
+Shot 2: Cinematic macro close-up of the lipstick rotating slowly in her hand. Metallic reflections shimmer across the premium packaging.
+
+Shot 3: Close-up as she naturally applies the lipstick to her lower lip while looking into a mirror just outside the frame.
+
+Shot 4: Extreme macro of glossy lips. She gently taps her lower lip with her fingertip to blend the product, revealing smooth hydrated texture and natural shine.
+
+Shot 5: Side-profile beauty shot. She smiles softly while holding the lipstick near her chin as her hair moves gently from a soft breeze.
+
+Shot 6: Full-body shot. Wearing the white fitted sleeveless top and grey pleated mini skirt, she confidently walks toward the camera through a minimalist luxury studio while holding the lipstick naturally.
+
+Shot 7: Beauty close-up. She slightly tilts her head, raises the lipstick beside her cheek, and smiles confidently as soft golden highlights illuminate her face.
+
+Shot 8: Hero ending. Elegant close-up of her face beside the lipstick. She lowers the lipstick slightly, maintains eye contact with the camera, gives a subtle confident smile, and the camera slowly pushes in before fading out.
+
+Style: Premium UGC beauty commercial, luxury K-beauty aesthetic, realistic skin texture, glossy lips, elegant natural expressions, cinematic handheld and gimbal movements, macro beauty shots, soft bokeh, commercial-grade lighting, photorealistic, ultra-detailed, 4K HDR, 24fps.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no kissing, no duplicate people, no distorted hands, no deformed lips, no low resolution, no AI artifacts, no cartoon style, no exaggerated makeup, no extra fingers, no flickering, no oversaturated colors.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b723c4e1858e)**
 
 ### 芒果汁商业广告
 
@@ -1966,6 +1966,24 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-f1f4b662e370)**
 
+### 黏土动画猫咪世界大变身
+
+> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
+
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14)
+
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2078535850745626926) | **发布:** 2026-07-18 | **热度:** 30
+
+**稳定度：** 87/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-6152b0808b14)**
+
 ### 故障艺术风格多维度人脸变形
 
 > 一种实验性的故障风格提示词，通过有节奏的跳剪，在 3D CG、真人实拍、动画和像素艺术之间进行转换。
@@ -2036,24 +2054,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-887d0484c2ce)**
-
-### 黏土动画猫咪世界大变身
-
-> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14)
-
-**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2078535850745626926) | **发布:** 2026-07-18 | **热度:** 29
-
-**稳定度：** 87/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-6152b0808b14)**
 
 ### Luxury Rooftop Helicopter Party
 
@@ -2549,51 +2549,6 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)**
 
-### 写实男性网红故事板
-
-> 一套全面的多场景视频提示词，旨在确保角色在不同地点和服装下的连贯性，并包含快速剪辑和手持摄像机运动效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="写实男性网红故事板">](https://goodcase.ai/cases/case-58e736edb65c)
-
-**作者:** @Shorelyn_ | **来源:** [原帖](https://x.com/Shorelyn_/status/2079066277650600170) | **发布:** 2026-07-20 | **热度:** 21
-
-<details>
-<summary><b>完整 prompt（27 行，点开展开）</b></summary>
-
-```
-Character Consistency: The subject is the young male influencer from the reference image @Image 1. In every time period and from every angle, the face shape, facial features, and skin tone must match @Image 1 exactly. Do not alter or distort the face.
-
-Outfit: In every scene, wear stylish and luxurious black casual, streetwear, or suit outfits. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
-
-Format: 9:16 vertical.
-
-Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
-
-Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
-
----
-
-M-01. Hongdae Busking Street & Tattoo Shop Tour
-
-0 to 2 seconds: [Hongdae Walking Street] A low angle shot holding a selfie stick high above while quickly spinning to capture both yourself and the crowd in the middle of a busy busking street.
-
-2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quick transition to your face looking at the camera while lightly biting your lip with a slightly nervous expression.
-
-4 to 6 seconds: [Tattoo Workstation] A forearm shot rolling up the sleeve of an oversized black T shirt, rapidly cross edited with a shot of your face smiling while enduring the pain.
-
-6 to 8 seconds: [In Front of the Shop Mirror] A tight shot checking the linework of the newly completed tattoo in the mirror, followed by your face making eye contact with the camera through the mirror and nodding with satisfaction.
-
-8 to 10 seconds: [Hongdae Alley] A close up taking one bite of a street waffle, then blowing on it because it is hot while smiling at the camera.
-
-10 to 12 seconds: [Select Shop Hallway] A handheld tracking shot from behind as you walk slowly with a shopping bag over one shoulder. The screen naturally shakes in sync with your footsteps.
-
-12 to 15 seconds: [Hongdae Station Entrance] In front of the station exit, playfully extend your fiste toward the camera in a fist bump pose. End with a front facing full body shot frozen on the final frame.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-58e736edb65c)**
-
 ### 手绘定格动画：暴风雪场景
 
 > 这是一个为 Seedance 2.0 设计的精细定格动画提示词，旨在呈现一种手绘 2D 风格，描绘暴风雪中狼群袭击哈萨克族毡房营地的场景。
@@ -2643,6 +2598,51 @@ Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Gar
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vfx-47bf458a20a3)**
+
+### 写实男性网红故事板
+
+> 一套全面的多场景视频提示词，旨在确保角色在不同地点和服装下的连贯性，并包含快速剪辑和手持摄像机运动效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="写实男性网红故事板">](https://goodcase.ai/cases/case-58e736edb65c)
+
+**作者:** @Shorelyn_ | **来源:** [原帖](https://x.com/Shorelyn_/status/2079066277650600170) | **发布:** 2026-07-20 | **热度:** 20
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+Character Consistency: The subject is the young male influencer from the reference image @Image 1. In every time period and from every angle, the face shape, facial features, and skin tone must match @Image 1 exactly. Do not alter or distort the face.
+
+Outfit: In every scene, wear stylish and luxurious black casual, streetwear, or suit outfits. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
+
+Format: 9:16 vertical.
+
+Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
+
+Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
+
+---
+
+M-01. Hongdae Busking Street & Tattoo Shop Tour
+
+0 to 2 seconds: [Hongdae Walking Street] A low angle shot holding a selfie stick high above while quickly spinning to capture both yourself and the crowd in the middle of a busy busking street.
+
+2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quick transition to your face looking at the camera while lightly biting your lip with a slightly nervous expression.
+
+4 to 6 seconds: [Tattoo Workstation] A forearm shot rolling up the sleeve of an oversized black T shirt, rapidly cross edited with a shot of your face smiling while enduring the pain.
+
+6 to 8 seconds: [In Front of the Shop Mirror] A tight shot checking the linework of the newly completed tattoo in the mirror, followed by your face making eye contact with the camera through the mirror and nodding with satisfaction.
+
+8 to 10 seconds: [Hongdae Alley] A close up taking one bite of a street waffle, then blowing on it because it is hot while smiling at the camera.
+
+10 to 12 seconds: [Select Shop Hallway] A handheld tracking shot from behind as you walk slowly with a shopping bag over one shoulder. The screen naturally shakes in sync with your footsteps.
+
+12 to 15 seconds: [Hongdae Station Entrance] In front of the station exit, playfully extend your fiste toward the camera in a fist bump pose. End with a front facing full body shot frozen on the final frame.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-58e736edb65c)**
 
 ### 无线耳机产品评测
 
@@ -2784,42 +2784,6 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-21aab321f762)**
 
-### Water Walking Xianxia Fraud
-
-> A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
-
-[<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud)
-
-**作者:** @Soranlan | **来源:** [原帖](https://x.com/Soranlan/status/2081379282442420321) | **发布:** 2026-07-26 | **热度:** 17
-
-**稳定度：** 79/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (78.9 分) · [产物](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-
-```
-诗意仙侠冷面反转喜剧 【风格】 诗意仙侠冷面反转喜剧，写实真人，真实电影高清质感。 采用古典中国画式构图、克制的武侠表演、清晨柔雾、低饱和玉绿色与象牙白色调、优雅稳定的运镜。 前半段营造“轻功高深、仙气十足”的庄重氛围，后半段通过视觉揭晓完成冷面反转，拆穿女主精心维持的仙人形象。 全片为纯古代中国世界，不出现任何现代物品、现代语言、现代建筑、现代音效或现代设计元素。 喜剧效果依靠清楚的空间关系、前置铺垫、镜头揭晓和人物冷静补刀完成，避免夸张搞怪表演。 【时长】 15 秒，三镜头结构，2 人出镜。 【画幅】 16:9 横屏，24fps。 一、场景设定 【场景】 清晨僻静的山门荷塘边。 墨绿色平静水面倒映着一棵老柳、缓慢漂浮的薄雾、白石平台、远处木质水榭、错落荷叶和风化石灯。 全片始终保持同一片荷塘、同一棵垂柳、同样的薄雾、同一块白石平台、同一座远处水榭和同一组荷叶分布。 空间关系必须稳定清楚，便于最后揭晓水下石桩的真实位置。 二、角色锁定 【角色 A｜剑仙师姐】 25–30 岁东亚女性。 椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。 固定服装为：白色刺绣真丝汉服、半透明分层宽袖、浅银色腰封、玉佩、白色布靴。 气质清冷、自信、克制，始终努力维持高人姿态。 【角色 B｜小师妹】 20–25 岁东亚女性。 圆润灵动的脸，黑发编辫，身形娇小。 固定服装为：青绿色亚麻汉服、深色布腰带、木簪、黑色布鞋。 气质真诚、自然、崇拜师姐，但最终补刀平静直接，形成冷面喜剧效果。 三、分镜设计 【镜头 1｜0–5s】 【机位】低角度全景横向跟拍 【主要动作】剑仙师姐在水面上轻盈前行 清晨僻静的山门荷塘边，墨绿色平静水面上漂着薄雾，岸边有白石平台，远处有木质水榭，荷叶错落，老柳轻垂。 同一个剑仙师姐从左向右行走在水面上，从鞋到头完整可见，双手负后，下巴微抬，每一步都显得轻若无物，姿态优雅稳定。 同一个小师妹站在白石岸边，发自内心地仰望她。 镜头低角度横向跟拍，运镜平稳克制，突出她仿佛“踏水无痕”的仙气。 【声音】 庄重古琴、轻微晨风、水面细小涟漪声、远处鸟鸣。 【镜头 2｜5–10s】 【机位】中景侧面跟拍 【主要动作】小师妹提问，师姐一本正经回应 同一个小师妹沿岸跟随，抬头问道： “师姐，这就是踏水无痕？” 同一个剑仙师姐保持平静高深的微笑，回答： “心若无尘，水自承身。” 她继续向前迈步，脚下同一双白色布靴精准落在看似空无一物的水面上。 背景始终保持同一片荷塘、同一棵垂柳、同样的薄雾、白石平台和远处水榭。 镜头节奏从容，重点强化“她好像真能踏水而行”的错觉。 【声音】 对白使用原生普通话，口型准确。 古琴继续，环境声保持安静清晨质感。 【镜头 3｜10–15s】 【机位】水面低机位近景揭晓，随后硬切极近特写 【主要动作】揭晓水下石桩，完成反转 摄影机降低至荷塘水面高度，清楚揭示水面下方藏着一排笔直排列的方形石桩。 同一个剑仙师姐其实正一步不差地踩着这些石桩前行，根本不是真正踏水无痕。 同一个小师妹在岸边抬起脚边最后一根尚未放入水中的石桩，面无表情地说道： “师姐，剩下这些石桩，今晚还搬吗？” 古琴声在一个断音上突然停止。 随后硬切到剑仙师姐的极近特写。 她眉毛轻轻抽动，原本努力维持的高人微笑瞬间凝固，太阳穴旁浮现一滴细汗。 远处传来一声孤零零的蛙鸣。 画面停留在她强装镇定却明显破功的瞬间收尾。 四、表演要求 【剑仙师姐】 前 10 秒必须始终保持清冷、高深、克制、自信的仙人姿态。 反转后也不要夸张跳脚或大叫，笑点来自微表情失守。 重点表现：眉毛轻抽、笑容凝固、细汗浮现、尊严受损后的短暂僵住。 【小师妹】 前半段真诚崇拜。 最后一句补刀要平静自然，像认真在问一个实际问题。 语气越平静，喜剧效果越强。 五、技术执行要求 【连续性要求】 三个镜头必须是同一场景连续发生 人物面部、发型、服装、身材比例全程稳定 师姐始终从左向右前行 小师妹始终在岸边跟随 水下石桩位置必须与前面师姐踩踏的位置严格对应 不增加额外人物 不出现镜头跳变、人物瞬移、背景漂移、道具消失 【物理效果要求】 水面、薄雾、倒影、荷叶、头发、真丝衣料的物理效果真实 水面承托脚步时要有细微自然反馈 揭晓石桩时，水的透明感、折射感、石桩位置都要清楚可信 细汗、发丝和衣料的细节需符合近景电影质感 【声音要求】 原生普通话对白 口型准确 不生成字幕 不使用任何现代提示音或现代配乐 音效只保留古琴、晨风、水声、鸟鸣、远处蛙鸣等古风环境声音 【剪辑要求】 运镜优雅稳定 镜头切换干净 镜头 3 从揭晓到特写使用明确硬切 结尾停顿干净，保留冷面反转余味 六、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, captions, logo, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, hairstyle, face morphing, unstable face, background shift, glitching cuts, disappearing props; extra people, duplicated body, duplicated props, broken continuity, floating objects without logic, wrong lip sync; modern objects, modern architecture, modern costume details, modern language, modern sound effects, electronic sounds
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
-
-### 夜间追逐电影级镜头
-
-> 一段快节奏的夜间电影级追逐片段，包含极致特写和富有节奏感的摄影闪光效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="夜间追逐电影级镜头">](https://goodcase.ai/cases/case-d30f8318a084)
-
-**作者:** @bmx_ai13 | **来源:** [原帖](https://x.com/bmx_ai13/status/2081091640857702427) | **发布:** 2026-07-25 | **热度:** 17
-
-**稳定度：** 84/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.8 分) · [产物](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d30f8318a084)**
-
 ### 定格动画扑克牌艺术短片
 
 > 一个为 Seedance 2.0 设计的实验性艺术短片提示词，展示了深红色背景上手绘扑克牌的节奏感定格动画变换。
@@ -2854,6 +2818,42 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-50ba683413ff)**
+
+### Water Walking Xianxia Fraud
+
+> A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
+
+[<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud)
+
+**作者:** @Soranlan | **来源:** [原帖](https://x.com/Soranlan/status/2081379282442420321) | **发布:** 2026-07-26 | **热度:** 16
+
+**稳定度：** 79/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (78.9 分) · [产物](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+```
+诗意仙侠冷面反转喜剧 【风格】 诗意仙侠冷面反转喜剧，写实真人，真实电影高清质感。 采用古典中国画式构图、克制的武侠表演、清晨柔雾、低饱和玉绿色与象牙白色调、优雅稳定的运镜。 前半段营造“轻功高深、仙气十足”的庄重氛围，后半段通过视觉揭晓完成冷面反转，拆穿女主精心维持的仙人形象。 全片为纯古代中国世界，不出现任何现代物品、现代语言、现代建筑、现代音效或现代设计元素。 喜剧效果依靠清楚的空间关系、前置铺垫、镜头揭晓和人物冷静补刀完成，避免夸张搞怪表演。 【时长】 15 秒，三镜头结构，2 人出镜。 【画幅】 16:9 横屏，24fps。 一、场景设定 【场景】 清晨僻静的山门荷塘边。 墨绿色平静水面倒映着一棵老柳、缓慢漂浮的薄雾、白石平台、远处木质水榭、错落荷叶和风化石灯。 全片始终保持同一片荷塘、同一棵垂柳、同样的薄雾、同一块白石平台、同一座远处水榭和同一组荷叶分布。 空间关系必须稳定清楚，便于最后揭晓水下石桩的真实位置。 二、角色锁定 【角色 A｜剑仙师姐】 25–30 岁东亚女性。 椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。 固定服装为：白色刺绣真丝汉服、半透明分层宽袖、浅银色腰封、玉佩、白色布靴。 气质清冷、自信、克制，始终努力维持高人姿态。 【角色 B｜小师妹】 20–25 岁东亚女性。 圆润灵动的脸，黑发编辫，身形娇小。 固定服装为：青绿色亚麻汉服、深色布腰带、木簪、黑色布鞋。 气质真诚、自然、崇拜师姐，但最终补刀平静直接，形成冷面喜剧效果。 三、分镜设计 【镜头 1｜0–5s】 【机位】低角度全景横向跟拍 【主要动作】剑仙师姐在水面上轻盈前行 清晨僻静的山门荷塘边，墨绿色平静水面上漂着薄雾，岸边有白石平台，远处有木质水榭，荷叶错落，老柳轻垂。 同一个剑仙师姐从左向右行走在水面上，从鞋到头完整可见，双手负后，下巴微抬，每一步都显得轻若无物，姿态优雅稳定。 同一个小师妹站在白石岸边，发自内心地仰望她。 镜头低角度横向跟拍，运镜平稳克制，突出她仿佛“踏水无痕”的仙气。 【声音】 庄重古琴、轻微晨风、水面细小涟漪声、远处鸟鸣。 【镜头 2｜5–10s】 【机位】中景侧面跟拍 【主要动作】小师妹提问，师姐一本正经回应 同一个小师妹沿岸跟随，抬头问道： “师姐，这就是踏水无痕？” 同一个剑仙师姐保持平静高深的微笑，回答： “心若无尘，水自承身。” 她继续向前迈步，脚下同一双白色布靴精准落在看似空无一物的水面上。 背景始终保持同一片荷塘、同一棵垂柳、同样的薄雾、白石平台和远处水榭。 镜头节奏从容，重点强化“她好像真能踏水而行”的错觉。 【声音】 对白使用原生普通话，口型准确。 古琴继续，环境声保持安静清晨质感。 【镜头 3｜10–15s】 【机位】水面低机位近景揭晓，随后硬切极近特写 【主要动作】揭晓水下石桩，完成反转 摄影机降低至荷塘水面高度，清楚揭示水面下方藏着一排笔直排列的方形石桩。 同一个剑仙师姐其实正一步不差地踩着这些石桩前行，根本不是真正踏水无痕。 同一个小师妹在岸边抬起脚边最后一根尚未放入水中的石桩，面无表情地说道： “师姐，剩下这些石桩，今晚还搬吗？” 古琴声在一个断音上突然停止。 随后硬切到剑仙师姐的极近特写。 她眉毛轻轻抽动，原本努力维持的高人微笑瞬间凝固，太阳穴旁浮现一滴细汗。 远处传来一声孤零零的蛙鸣。 画面停留在她强装镇定却明显破功的瞬间收尾。 四、表演要求 【剑仙师姐】 前 10 秒必须始终保持清冷、高深、克制、自信的仙人姿态。 反转后也不要夸张跳脚或大叫，笑点来自微表情失守。 重点表现：眉毛轻抽、笑容凝固、细汗浮现、尊严受损后的短暂僵住。 【小师妹】 前半段真诚崇拜。 最后一句补刀要平静自然，像认真在问一个实际问题。 语气越平静，喜剧效果越强。 五、技术执行要求 【连续性要求】 三个镜头必须是同一场景连续发生 人物面部、发型、服装、身材比例全程稳定 师姐始终从左向右前行 小师妹始终在岸边跟随 水下石桩位置必须与前面师姐踩踏的位置严格对应 不增加额外人物 不出现镜头跳变、人物瞬移、背景漂移、道具消失 【物理效果要求】 水面、薄雾、倒影、荷叶、头发、真丝衣料的物理效果真实 水面承托脚步时要有细微自然反馈 揭晓石桩时，水的透明感、折射感、石桩位置都要清楚可信 细汗、发丝和衣料的细节需符合近景电影质感 【声音要求】 原生普通话对白 口型准确 不生成字幕 不使用任何现代提示音或现代配乐 音效只保留古琴、晨风、水声、鸟鸣、远处蛙鸣等古风环境声音 【剪辑要求】 运镜优雅稳定 镜头切换干净 镜头 3 从揭晓到特写使用明确硬切 结尾停顿干净，保留冷面反转余味 六、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, captions, logo, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, hairstyle, face morphing, unstable face, background shift, glitching cuts, disappearing props; extra people, duplicated body, duplicated props, broken continuity, floating objects without logic, wrong lip sync; modern objects, modern architecture, modern costume details, modern language, modern sound effects, electronic sounds
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/water-walking-xianxia-fraud)**
+
+### 夜间追逐电影级镜头
+
+> 一段快节奏的夜间电影级追逐片段，包含极致特写和富有节奏感的摄影闪光效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="夜间追逐电影级镜头">](https://goodcase.ai/cases/case-d30f8318a084)
+
+**作者:** @bmx_ai13 | **来源:** [原帖](https://x.com/bmx_ai13/status/2081091640857702427) | **发布:** 2026-07-25 | **热度:** 16
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.8 分) · [产物](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d30f8318a084)**
 
 ### 赛博朋克赛博之刃战斗
 
@@ -3010,20 +3010,6 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f46706b10233)**
 
-### 电影级未来感动漫剑术对决
-
-> 一个针对未来城市背景的极度详尽动漫战斗提示词，涵盖了镜头角度、角色一致性以及节奏感十足的战斗编排。
-
-[<img src="https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg" width="600" alt="电影级未来感动漫剑术对决">](https://goodcase.ai/cases/case-a9ab0266f96a)
-
-**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2081317622927577411) | **发布:** 2026-07-26 | **热度:** 14
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜けると**@1の胸上を斜め前から映す。@1は一歩も退かず無表情。右手で刀を低く保持し、左人差し指の前へ@1固有色の薄い六角形防御面を一枚だけ形成する。@2の斬撃が防御面中央の単一接触点へ当たり、局所閃光、六角形の波紋、@2固有色の火花が同期する。@1が指と手首を数センチ外側へ弾くと、防御面全体が傾き、@2の軌道が@1の肩外側から約45度上方へ偏向される。@2**の両腕、肩、腰へ逆向きの反力が戻り、支持脚が踏み直す。カメラは逸れた軌道をウィップパンで追う。Cut 3：ウィップパンの終端で**@1の肩越しへ入る。@2は返った反力を使い、左足を軸に腰を一度だけ反転して低い返し斬り。@1は左手を柄へ戻し、刀身中央同士を一点で受け、短いヒットストップの直後に接触面を滑らせて@2の刀を上外側へ弾く。そのまま@1が懐へ踏み込み、左下から右上へ@1固有色の上昇斬りを返す。カメラは接触点を中心に約60度回り込み、欄干と床反射が大きく移動する。@2は斜め後方へ押され、空中で半回転し、右足から着地して短く滑る。@1は止まらず前進する。@2だけが押し戻される**非対称な移動。着地の水しぶきが画面下部を覆う。Cut 4：水しぶきの奥で、@1を左手前に大きく、@2を右奥に置く斜め低空構図。二人を横並びにしない。@2は滑りの終端で右足を踏み直し、停止せず右上から中央へ**@2固有色の振り下ろし。@1も前進を止めず、左下から中央へ@1固有色の上昇斬り。二人の足元と背後から、それぞれの固有色の巨大な炎状オーラが噴き上がり、床の発光亀裂、細い電光、上昇流を伴う。二色は混ざらない。二本の刀が同じ接触点へ入る一瞬だけ形を読ませ、接触後は発光へ隠す。同じ接触点を発生源として、@1の直線軌道と@2の湾曲軌道が巨大なX字を形成する。狭い白熱中心だけを純白にし、その外側に二人の固有色を残す。大面積の高彩度色面を維持し、同じ衝突核から放射状の衝撃波、同心円圧力波、垂直の炎状オーラ、体積光、電光、火花を広げる。床水、蒸気、砂塵、破片、髪、衣装が外側へ吹き飛び、色付きエフェクトが画面の大部分を占める。@1の圧力で@2の防御姿勢が崩壊する。** カメラは接触点へ短く突進し、衝撃波で少し後方へ押し戻され、数度傾く。画面全体を白くしない。【重大NG】固定横の格闘ゲーム視点、左右対称の全身構図、二人を左右端へ離す仕切り直し、同時反転、鏡写しの同時ダッシュ、長い助走、長い刀の押し合い、無意味な連続回転、独立レーザー、第三の光線、二色融合、全画面白飛び、文字、字幕、ロゴ、透かし、UI、音響生成なし。【終端】@1のエネルギーが接触点を**@2側へ押し、@2側の水煙と砂塵が後方へ膨む。@2のシルエットが斜め後方へ崩れ始め、@1**は低い重心のまま前へ力を通し続ける。巨大な二色のX字光が最大まで拡大し、人物と刀身が光へ隠れた接触の瞬間、崩壊開始を捉えたそのフレームで即カットする。アクション継続。
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a9ab0266f96a)**
-
 ### 废墟之桥上的史诗骑士之战
 
 > 一个史诗奇幻战斗场景的电影级视频提示词，讲述了一位久经沙场的骑士在雷雨中，于一座即将坍塌的桥上独自面对敌军的故事。
@@ -3091,6 +3077,20 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b079faa80f0f)**
+
+### 电影级未来感动漫剑术对决
+
+> 一个针对未来城市背景的极度详尽动漫战斗提示词，涵盖了镜头角度、角色一致性以及节奏感十足的战斗编排。
+
+[<img src="https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg" width="600" alt="电影级未来感动漫剑术对决">](https://goodcase.ai/cases/case-a9ab0266f96a)
+
+**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2081317622927577411) | **发布:** 2026-07-26 | **热度:** 13
+
+```
+高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜けると**@1の胸上を斜め前から映す。@1は一歩も退かず無表情。右手で刀を低く保持し、左人差し指の前へ@1固有色の薄い六角形防御面を一枚だけ形成する。@2の斬撃が防御面中央の単一接触点へ当たり、局所閃光、六角形の波紋、@2固有色の火花が同期する。@1が指と手首を数センチ外側へ弾くと、防御面全体が傾き、@2の軌道が@1の肩外側から約45度上方へ偏向される。@2**の両腕、肩、腰へ逆向きの反力が戻り、支持脚が踏み直す。カメラは逸れた軌道をウィップパンで追う。Cut 3：ウィップパンの終端で**@1の肩越しへ入る。@2は返った反力を使い、左足を軸に腰を一度だけ反転して低い返し斬り。@1は左手を柄へ戻し、刀身中央同士を一点で受け、短いヒットストップの直後に接触面を滑らせて@2の刀を上外側へ弾く。そのまま@1が懐へ踏み込み、左下から右上へ@1固有色の上昇斬りを返す。カメラは接触点を中心に約60度回り込み、欄干と床反射が大きく移動する。@2は斜め後方へ押され、空中で半回転し、右足から着地して短く滑る。@1は止まらず前進する。@2だけが押し戻される**非対称な移動。着地の水しぶきが画面下部を覆う。Cut 4：水しぶきの奥で、@1を左手前に大きく、@2を右奥に置く斜め低空構図。二人を横並びにしない。@2は滑りの終端で右足を踏み直し、停止せず右上から中央へ**@2固有色の振り下ろし。@1も前進を止めず、左下から中央へ@1固有色の上昇斬り。二人の足元と背後から、それぞれの固有色の巨大な炎状オーラが噴き上がり、床の発光亀裂、細い電光、上昇流を伴う。二色は混ざらない。二本の刀が同じ接触点へ入る一瞬だけ形を読ませ、接触後は発光へ隠す。同じ接触点を発生源として、@1の直線軌道と@2の湾曲軌道が巨大なX字を形成する。狭い白熱中心だけを純白にし、その外側に二人の固有色を残す。大面積の高彩度色面を維持し、同じ衝突核から放射状の衝撃波、同心円圧力波、垂直の炎状オーラ、体積光、電光、火花を広げる。床水、蒸気、砂塵、破片、髪、衣装が外側へ吹き飛び、色付きエフェクトが画面の大部分を占める。@1の圧力で@2の防御姿勢が崩壊する。** カメラは接触点へ短く突進し、衝撃波で少し後方へ押し戻され、数度傾く。画面全体を白くしない。【重大NG】固定横の格闘ゲーム視点、左右対称の全身構図、二人を左右端へ離す仕切り直し、同時反転、鏡写しの同時ダッシュ、長い助走、長い刀の押し合い、無意味な連続回転、独立レーザー、第三の光線、二色融合、全画面白飛び、文字、字幕、ロゴ、透かし、UI、音響生成なし。【終端】@1のエネルギーが接触点を**@2側へ押し、@2側の水煙と砂塵が後方へ膨む。@2のシルエットが斜め後方へ崩れ始め、@1**は低い重心のまま前へ力を通し続ける。巨大な二色のX字光が最大まで拡大し、人物と刀身が光へ隠れた接触の瞬間、崩壊開始を捉えたそのフレームで即カットする。アクション継続。
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a9ab0266f96a)**
 
 ### 传奇骑士堡垒之战
 
@@ -3236,55 +3236,6 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e0d3b03f1aef)**
 
-### 音乐视频编舞与身份设定
-
-> 一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。
-
-[<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="音乐视频编舞与身份设定">](https://goodcase.ai/cases/case-24775a8dc979)
-
-**作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2079968108303818827) | **发布:** 2026-07-22 | **热度:** 10
-
-**稳定度：** 50/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (50.1 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（27 行，点开展开）</b></summary>
-
-```
-Create a music video; the images are exclusive appearance references and @[blackout video] is the editorial clock. Keep four distinct members, continuous choreography, and an open rightward exit.
-
-Use @[image1] only for Vocal 1's final identity and wardrobe.
-Use @[image2] only for Vocal 2's final identity and wardrobe.
-Use @[image3] only for Vocal 3's final identity and wardrobe.
-Use @[image4] only for Vocal 4's final identity and wardrobe.
-Use @[blackout video]  only for vocal order, lip sync, hits and mix; add no words or voices.
-Only four performers exist: one instance each of @[image1], @[image2], @[image3] and @[image4]; no doubles, extras, reflections, shadow figures, partial bodies or spare limbs.
-
-LOOK + WORLD: Textured hand-painted 2D anime K-pop video with silhouettes, paper grain. Cycle through a crimson tunnel, cream-coral room, blue-gray rooftop, silver workshop and matte-black moon stage; nonreflective floors, red, cream and cyan light, wide-lens depth, mist.
-ACTION + CAMERA: Sharp weighted idol choreography locks to 148 BPM subdivisions. Cut on action with pose-matched set swaps and one stutter edit; rise from solo snaps through a three-cut burst into the chorus, then carry rightward without a final pose.
-VFX SYSTEM: Red-cyan light smears, tape-bloom halos and flat geometric flash panels appear only in P06, P07 and P11, never covering faces or lip sync.
-SOUND: Use @[blackout video]  unchanged: four distinct female vocals, syncopated snares, 16th-note hi-hats, synth stabs, sub-bass drops and frame-drum pulse; preserve tape saturation and plate reverb.
-
-BEATS:
-P01: Low front 3/4 WS, track: exactly four performers; Vocal 1 leads in the crimson tunnel with cap taps and elbow punches while the other three dance behind her.
-P02: Dutch profile MCU, push: Vocal 2 dances alone in the cream-coral room through alternating shoulder switches.
-P03: High front 3/4 FS, crane: Vocal 3 dances alone on the rooftop and lands a fast heel-toe chain.
-P04: Ground frontal MLS, tilt: Vocal 4 dances alone in the silver workshop and drops into a wide weighted step.
-P05: Frontal WS, locked: exactly four performers form one diamond in the crimson tunnel and load crossed forearms on the selected snare.
-P06: High front 3/4 WS, pull: exactly the same four burst-cut to the cream-coral room, open their elbows and widen the diamond as coral-white panels flash, then vanish.
-P07: Low frontal WS, push: exactly the same four burst-cut to the rooftop and release into a low stance; red-cyan smears rise from four floor contacts, then dissolve.
-P08: Rear 3/4 WS, track: exactly the same four cut to the silver workshop; three torso hits break the diamond and each member enters her assigned lane.
-P09: Top-down WS, crane: exactly four complete bodies kick-cut to the matte-black moon stage, cross in one X, two front and two rear, then open into one line.
-P10: Dutch side FS, track: exactly four members travel screen right through the chorus hook; the only stutter repeats one motion slice, never people or body parts.
-P11: Low front 3/4 WS, push: exactly four members connect an arm wave, chest hit and stomp beneath the full moon; its tape-bloom halo swells clear of faces, then settles.
-P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen right as the world cools into a moon-blue horizon; cut in motion, no final pose.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-24775a8dc979)**
-
 ### 从蓝图到房屋的延时摄影变换
 
 > 一个复杂的建筑延时摄影提示词，将 2D 平面图和外观参考图转换为完全渲染、家具齐全的 3D 房屋，并保持精确的尺寸和布局。
@@ -3319,43 +3270,6 @@ Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mell
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-778d0c927488)**
-
-### 夜间动漫风格涂鸦隧道场景
-
-> 一个充满氛围感的动漫风格视频提示词，描绘了布满鲜艳涂鸦的黑暗地下街道隧道，呈现出湿润的沥青路面和昏暗的灯光反射效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="夜间动漫风格涂鸦隧道场景">](https://goodcase.ai/cases/case-779580528a24)
-
-**作者:** @TechieBySA | **来源:** [原帖](https://x.com/TechieBySA/status/2081354591925305667) | **发布:** 2026-07-26 | **热度:** 9
-
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.4 分) · [产物](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
-
-```
-Cinematic anime short film clip, 15 seconds. Underground street tunnel at night, long dark corridor, walls completely covered in colorful graffiti tags, wet glistening asphalt reflecting dim tunnel lights, raw illegal underground energy, nobody around.
-
-CHARACTER: Rex, light brown skin, sharp angular face, short messy black Caesar cut with fade, dark cold intense eyes, black leather jacket, white tee, dark joggers, gold chain.
-
-CAR: Nissan Skyline R34, wide body kit, lowered, matte finish covered in layers of graffiti tags in white red and green spray paint, worn and chipped, aggressive and raw.
-
-[0:00-0:01] HOOK — Extreme close up ignition key turning. Engine roars to life instantly.
-
-[0:01-0:02] Rex's cold eyes in rearview mirror. Gear shift grabbed. Slams into first.
-
-[0:02-0:13] MONTAGE — Ultra fast cuts every half second synced hard to heavy bass beat. Rotate constantly between: front wide shot of car launching forward — low angle tires screeching wet asphalt water spraying — speedometer needle jumping — side angle car flying through tunnel — graffiti walls blurring — exhaust flames shooting out — overhead angle car from above — close up Rex jaw tight stone cold — gear shift slamming — headlights cutting darkness — rear angle tail lights — close up Rex eyes never blinking — inside car dashboard shaking — bumper level shot tunnel rushing past — speedometer maxed out — every angle every second something different never the same shot twice.
-
-[0:13-0:15] Car vanishes into darkness. Tail lights fade. Silence. Cut to black. Text: ZERO TO SIXTY.
-
-Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, dark moody tunnel lighting, neon reflections on wet asphalt, film grain, heavy bass music with engine roar and tire screech layered throughout, ultra fast cutting rhythm, premium anime film quality
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-779580528a24)**
 
 ### 魔幻都市奇幻战斗动画
 
@@ -3398,6 +3312,231 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-16429da4be7b)**
+
+### 音乐视频编舞与身份设定
+
+> 一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。
+
+[<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="音乐视频编舞与身份设定">](https://goodcase.ai/cases/case-24775a8dc979)
+
+**作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2079968108303818827) | **发布:** 2026-07-22 | **热度:** 9
+
+**稳定度：** 50/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (50.1 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+Create a music video; the images are exclusive appearance references and @[blackout video] is the editorial clock. Keep four distinct members, continuous choreography, and an open rightward exit.
+
+Use @[image1] only for Vocal 1's final identity and wardrobe.
+Use @[image2] only for Vocal 2's final identity and wardrobe.
+Use @[image3] only for Vocal 3's final identity and wardrobe.
+Use @[image4] only for Vocal 4's final identity and wardrobe.
+Use @[blackout video]  only for vocal order, lip sync, hits and mix; add no words or voices.
+Only four performers exist: one instance each of @[image1], @[image2], @[image3] and @[image4]; no doubles, extras, reflections, shadow figures, partial bodies or spare limbs.
+
+LOOK + WORLD: Textured hand-painted 2D anime K-pop video with silhouettes, paper grain. Cycle through a crimson tunnel, cream-coral room, blue-gray rooftop, silver workshop and matte-black moon stage; nonreflective floors, red, cream and cyan light, wide-lens depth, mist.
+ACTION + CAMERA: Sharp weighted idol choreography locks to 148 BPM subdivisions. Cut on action with pose-matched set swaps and one stutter edit; rise from solo snaps through a three-cut burst into the chorus, then carry rightward without a final pose.
+VFX SYSTEM: Red-cyan light smears, tape-bloom halos and flat geometric flash panels appear only in P06, P07 and P11, never covering faces or lip sync.
+SOUND: Use @[blackout video]  unchanged: four distinct female vocals, syncopated snares, 16th-note hi-hats, synth stabs, sub-bass drops and frame-drum pulse; preserve tape saturation and plate reverb.
+
+BEATS:
+P01: Low front 3/4 WS, track: exactly four performers; Vocal 1 leads in the crimson tunnel with cap taps and elbow punches while the other three dance behind her.
+P02: Dutch profile MCU, push: Vocal 2 dances alone in the cream-coral room through alternating shoulder switches.
+P03: High front 3/4 FS, crane: Vocal 3 dances alone on the rooftop and lands a fast heel-toe chain.
+P04: Ground frontal MLS, tilt: Vocal 4 dances alone in the silver workshop and drops into a wide weighted step.
+P05: Frontal WS, locked: exactly four performers form one diamond in the crimson tunnel and load crossed forearms on the selected snare.
+P06: High front 3/4 WS, pull: exactly the same four burst-cut to the cream-coral room, open their elbows and widen the diamond as coral-white panels flash, then vanish.
+P07: Low frontal WS, push: exactly the same four burst-cut to the rooftop and release into a low stance; red-cyan smears rise from four floor contacts, then dissolve.
+P08: Rear 3/4 WS, track: exactly the same four cut to the silver workshop; three torso hits break the diamond and each member enters her assigned lane.
+P09: Top-down WS, crane: exactly four complete bodies kick-cut to the matte-black moon stage, cross in one X, two front and two rear, then open into one line.
+P10: Dutch side FS, track: exactly four members travel screen right through the chorus hook; the only stutter repeats one motion slice, never people or body parts.
+P11: Low front 3/4 WS, push: exactly four members connect an arm wave, chest hit and stomp beneath the full moon; its tape-bloom halo swells clear of faces, then settles.
+P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen right as the world cools into a moon-blue horizon; cut in motion, no final pose.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-24775a8dc979)**
+
+### 动态图生视频音乐可视化工具
+
+> 一个旨在将静态图像转换为具有动态视觉效果的专业音乐视频的提示词。
+
+[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="动态图生视频音乐可视化工具">](https://goodcase.ai/cases/case-bf2bedc93316)
+
+**作者:** @EchoraContinuum | **来源:** [原帖](https://x.com/EchoraContinuum/status/2079917613149503813) | **发布:** 2026-07-22 | **热度:** 9
+
+```
+generate an interesting music video using this image as first frame,be professional and use dynamic visuals
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-bf2bedc93316)**
+
+### YAML 跑酷电影级序列
+
+> 一个用于现代城市精英跑酷选手的结构化 YAML 格式提示词，包含电影级运镜和逼真的物理效果。
+
+[<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML 跑酷电影级序列">](https://goodcase.ai/cases/yaml-629d172a4820)
+
+**作者:** @yudotanaka | **来源:** [原帖](https://x.com/yudotanaka/status/2079900274064490842) | **发布:** 2026-07-22 | **热度:** 9
+
+**稳定度：** 69/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (68.9 分) · [产物](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（140 行，点开展开）</b></summary>
+
+```
+meta:
+  task_type: video_generation
+  style:
+    camera: cinematic_dynamic
+    render: AAA_animation_unreal_engine_quality
+  reference_lock:
+    character_appearance: strict
+    style_and_art_direction: strict
+  priority: cinematic_impact
+
+cinematography:
+  shot_type: multi_shot_dynamic_sequence
+  framing:
+    - full_body_visible_during_key_actions
+  camera_height: variable
+  lens_look: 24mm_to_35mm
+  camera_motion:
+    - low_tracking_shot_following_behind
+    - side_tracking_shot
+    - drone_orbit
+    - fpv_drone_chase
+    - handheld_chase
+    - crane_pull_back
+    - speed_ramp
+    - slow_motion_on_key_flip
+
+subjects:
+  athlete:
+    type: parkour_runner
+    level: elite
+    attributes:
+      - athletic_build
+      - consistent_outfit_and_appearance_locked
+      - hair_and_cloth_physics_reactive
+
+environment:
+  location: modern_realistic_city
+  floor:
+    - paved_street
+    - rooftop_concrete
+    - metal_beams_and_pipes
+  background:
+    - glass_skyscrapers
+    - busy_traffic
+    - pedestrians
+    - street_signs
+    - bridges
+    - construction_zones
+  lighting:
+    - warm_sunset_transitioning_to_blue_hour
+    - volumetric_lighting
+    - realistic_reflections
+
+process:
+  - phase: sprint_launch
+    timing: 0s-3s
+    description:
+      - explosive_believable_acceleration
+      - dodge_pedestrians
+      - jump_over_obstacles
+      - slide_beneath_barriers
+  - phase: vault_and_wall_run
+    timing: 3s-6s
+    description:
+      - vault_over_railings
+      - wall_run_across_building
+      - leap_to_next_rooftop
+      - believable_momentum_and_impact_recovery
+  - phase: advanced_parkour_techniques
+    timing: 6s-9s
+    description:
+      - kong_vault
+      - precision_jump
+      - tic_tac_wall_jump
+      - front_flip
+      - perfect_balance_no_floating
+  - phase: rooftop_traversal
+    timing: 9s-12s
+    description:
+      - swing_from_metal_beam
+      - run_along_narrow_rooftop_edge
+      - slide_under_pipes
+      - long_rooftop_gap_jump
+  - phase: final_leap
+    timing: 12s-15s
+    description:
+      - reach_tallest_rooftop
+      - confident_smile
+      - final_cinematic_leap_toward_skyline
+      - freeze_frame_ending
+
+motion_rules:
+  pacing:
+    - natural_timing_with_dramatic_speed_ramps
+    - uninterrupted_flow_between_phases
+  physics:
+    - grounded_gravity_present
+    - accurate_center_of_gravity
+    - natural_inertia_and_weight_shift
+    - realistic_foot_placement
+    - proper_landing_compression
+    - cloth_simulation
+    - hair_simulation
+    - no_unearned_floating
+
+visual_rules:
+  style:
+    - anime_photorealistic_hybrid
+    - HDR_ray_tracing_reflections
+    - global_illumination
+    - soft_bloom
+    - shallow_depth_of_field
+    - filmic_color_grading
+    - shinkai_inspired_lighting
+  clarity:
+    - body_mechanics_readable_outside_slow_motion_beats
+
+audio:
+  - high_energy_cinematic_soundtrack
+  - synchronized_footsteps
+  - wind_rushing
+  - city_ambience
+  - cloth_movement_sfx
+  - metal_impact_sfx
+  - environmental_reverb
+  - no_dialogue
+
+constraints:
+  forbidden:
+    - unnatural_physics
+    - outfit_change
+    - multiple_characters
+    - text
+    - logo
+
+output_rules:
+  emphasis:
+    - cinematic_spectacle
+    - technical_parkour_accuracy
+    - character_consistency
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yaml-629d172a4820)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.zh.md)
