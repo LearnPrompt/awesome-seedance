@@ -352,14 +352,15 @@ test("renderTopTable ranks cases, links title to goodcase and prompt to the gall
   });
   assert.equal(header.length, 2);
   assert.equal(rows.length, 3);
-  assert.match(rows[0], /^\| 1\s+\| \[Neon Alley Chase\]\(https:\/\/goodcase\.ai\/cases\/neon-alley-chase-25\)/);
+  // 第二列是预览缩略图（封面链到 goodcase 记录页），第三列才是标题。
+  assert.match(rows[0], /^\| 1\s+\| \[<img src="https:\/\/example-cdn\.goodcase\.ai\/media\/neon-alley-chase-25-poster\.jpg" width="120" alt="Neon Alley Chase">\]\(https:\/\/goodcase\.ai\/cases\/neon-alley-chase-25\)\s+\| \[Neon Alley Chase\]\(https:\/\/goodcase\.ai\/cases\/neon-alley-chase-25\)/);
   assert.match(rows[0], /\| 2\.5\s+\| 98\s+\|/);
   assert.match(rows[0], /\[prompt\]\(\.\/docs\/gallery-seedance-2-5\.md#neon-alley-chase\)/);
   assert.match(rows[0], /\[source\]\(https:\/\/x\.com\/wenjie_frames/);
   assert.doesNotMatch(markdown, /\bnull\b|\bundefined\b/);
   const zh = renderTopTable(cases, "zh", { startRank: 7 });
   assert.match(zh.rows[0], /^\| 7\s+\|/);
-  assert.match(zh.header[0], /\| 案例\s+\| 版本\s+\| 热度\s+\| 复测\s+\| 链接\s+\|/);
+  assert.match(zh.header[0], /\| 预览\s+\| 案例\s+\| 版本\s+\| 热度\s+\| 复测\s+\| 链接\s+\|/);
 });
 
 test("fitToSizeBudget keeps everything when under budget", () => {

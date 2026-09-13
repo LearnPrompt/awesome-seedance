@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Awesome Seedance: 389 verified cases, 257 cross-model retests, 14 prompt templates, 1 agent skill">
+<rect width="1200" height="400" fill="#F4F1EA"/>
+<line x1="0" y1="0" x2="0" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="100" y1="0" x2="100" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="200" y1="0" x2="200" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="300" y1="0" x2="300" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="400" y1="0" x2="400" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="500" y1="0" x2="500" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="600" y1="0" x2="600" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="700" y1="0" x2="700" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="800" y1="0" x2="800" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="900" y1="0" x2="900" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="1000" y1="0" x2="1000" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<line x1="1100" y1="0" x2="1100" y2="400" stroke="#111111" stroke-opacity="0.05" stroke-width="1"/>
+<rect x="0.5" y="0.5" width="1199" height="399" fill="none" stroke="#111111" stroke-width="1"/>
+<rect x="40" y="36" width="12" height="12" fill="#E8541E"/>
+<text x="62" y="47" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#111111">GOODCASE.AI · OPEN DATA</text>
+<text x="1160" y="47" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="2" fill="#6B675F">SYNCED 2026-09-12 · DAILY</text>
+<line x1="40" y1="64" x2="1160" y2="64" stroke="#111111" stroke-width="1"/>
+<text x="40" y="150" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="84" font-weight="800" letter-spacing="-3" fill="#111111">Awesome <tspan fill="#E8541E">Seedance</tspan></text>
+<text x="40" y="196" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" fill="#111111">Verified Seedance 2.5 / 2.0 video prompts, each checked against its original post,</text>
+<text x="40" y="228" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="24" fill="#111111">then re-run on a second model so you can see which ones actually hold up.</text>
+<rect x="40" y="268" width="280" height="92" fill="#F4F1EA" stroke="#111111" stroke-width="1"/><text x="60" y="316" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#111111">389</text><text x="60" y="342" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6B675F">VERIFIED CASES</text><rect x="320" y="268" width="280" height="92" fill="#F4F1EA" stroke="#111111" stroke-width="1"/><text x="340" y="316" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#111111">257</text><text x="340" y="342" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6B675F">CROSS-MODEL RETESTS</text><rect x="600" y="268" width="280" height="92" fill="#F4F1EA" stroke="#111111" stroke-width="1"/><text x="620" y="316" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#111111">14</text><text x="620" y="342" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6B675F">PROMPT TEMPLATES</text><rect x="880" y="268" width="280" height="92" fill="#F4F1EA" stroke="#111111" stroke-width="1"/><text x="900" y="316" font-family="Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif" font-size="40" font-weight="700" fill="#111111">1</text><text x="900" y="342" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.5" fill="#6B675F">AGENT SKILL</text>
+<text x="40" y="382" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6B675F">github.com/LearnPrompt/awesome-seedance</text>
+<text x="1160" y="382" text-anchor="end" font-family="SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" letter-spacing="1.5" fill="#6B675F">npx seedance-prompt-library install</text>
+</svg>

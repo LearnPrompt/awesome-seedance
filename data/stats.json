@@ -1,0 +1,14 @@
+{
+  "cases": 389,
+  "seedance25": 43,
+  "seedance20": 130,
+  "unversioned": 216,
+  "authors": 156,
+  "retestRuns": 257,
+  "retestCases": 247,
+  "stabilityCases": 245,
+  "stabilityAvg": 78,
+  "templates": 14,
+  "templateCategories": 6,
+  "lastUpdated": "2026-09-12"
+}

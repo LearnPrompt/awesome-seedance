@@ -9,6 +9,8 @@ Thanks for wanting to help. This list works differently from most awesome lists:
 3. Name the model as precisely as the source does (`Seedance 2.5`, `Seedance 2.0`, or just `Seedance` if the post doesn't say). Do not guess a version.
 4. Once a case passes review and ranks on heat score, it is exported here automatically (daily) and appears in the next regenerated README.
 
+Prefer GitHub? Copy [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) to `submissions/<slug>.json`, fill every field, and open a pull request. A maintainer pushes it through the same review; see [`submissions/README.md`](./submissions/README.md).
+
 ## Source-verification standard
 
 Every entry must be checkable against a public primary source. Reviewers confirm, per the [goodcase.ai collection standards](https://goodcase.ai/standards) (in force since 2026-08-05):
@@ -31,16 +33,17 @@ Entries are additionally re-run on other video models where possible; verdicts, 
 ## Fixing something that is wrong
 
 - **Wrong attribution, broken source link, wrong model version, takedown request:** open a GitHub issue with the entry's slug (the last segment of its goodcase.ai URL) and the original source link. Fixes and removals land in `data/` on the next export and propagate to every generated file.
-- **Generator bugs, rendering issues, Skill improvements:** pull requests welcome. Change `scripts/` (and add or update a test in `scripts/lib/render.test.mjs`), run `npm test`, then `npm run generate`, and commit the regenerated files together with your change.
+- **Generator bugs, rendering issues, Skill improvements, template wording in `data/style-library.json`, English title or summary corrections:** pull requests welcome. Change the source (`scripts/`, `agents/`, or `data/style-library.json`; add or update a test in `scripts/lib/render.test.mjs` for renderer changes), run `npm test`, then `npm run generate`, and commit the regenerated files together with your change.
 
 ## How the README is generated
 
 ```bash
 npm test          # unit tests for scripts/lib/render.mjs
-npm run generate  # regenerates README.md, README_zh.md, docs/gallery-*.md and the Skill reference
+npm run generate  # regenerates README.md, README_zh.md, docs/gallery*.md, assets/hero.svg, data/stats.json and the Skill reference
 ```
 
-- `scripts/generate-readme.mjs` builds both READMEs (intro, statistics, featured entries, cross-model retests, templates, the Top 30 table, gallery links) and the sharded galleries under `docs/`. Galleries are split per Seedance version and kept under ~350KB per file so GitHub renders them.
+- `scripts/generate-readme.mjs` builds both READMEs (hero banner, badges, quick links, cross-model retest spotlight, featured entries, category overview, template tables, the Top 30 table, gallery links), the gallery index `docs/gallery.md` and the sharded galleries under `docs/`. Galleries are split per Seedance version and kept under ~350KB per file so GitHub renders them. It also writes `assets/hero.svg` (the banner, numbers baked in) and `data/stats.json` (read by the shields.io dynamic badges at the top of the README, so the counts update with every data sync).
+- `scripts/lib/render.mjs` holds the entry, table and gallery renderers; `scripts/lib/sections.mjs` holds the newer README sections (quick links, retest spotlight, category overview, template tables, hero SVG, gallery index). Both are pure functions over the data, covered by `scripts/lib/render.test.mjs`.
 - `scripts/generate-skill-reference.mjs` builds `agents/skills/seedance-prompt-library/references/style-library.md` from `data/style-library.json`.
 - `.github/workflows/update-readme.yml` runs the same two commands on every change to `data/` or `scripts/` and commits the result, so you never need to regenerate by hand on `main`.
 

@@ -7,6 +7,10 @@
 export const README_SIZE_BUDGET_BYTES = 120 * 1024;
 export const FEATURED_COUNT = 6;
 export const TOP_INLINE_COUNT = 30;
+/** prompt 超过这个行数就折叠进 <details>，README 和画廊里都生效（批注：超过五行的可以折叠展开）。 */
+export const PROMPT_COLLAPSE_LINES = 5;
+/** Top 榜和分类总览里的缩略图宽度。 */
+export const THUMB_WIDTH = 120;
 /** @deprecated 旧的 2.0 内联条数上限，README 已不再内联全量条目，仅为兼容保留。 */
 export const V20_INLINE_LIMIT = 60;
 
@@ -18,6 +22,8 @@ const LABELS = {
     heat: "Heat",
     original: "Original",
     viewOnGoodcase: "🔍 View on goodcase.ai (retest log / stability score) →",
+    fullPrompt: (n) => `Full prompt (${n} lines, click to expand)`,
+    preview: "Preview",
   },
   zh: {
     author: "作者",
@@ -26,6 +32,8 @@ const LABELS = {
     heat: "热度",
     original: "原帖",
     viewOnGoodcase: "🔍 在 goodcase.ai 查看（复测记录/稳定分）→",
+    fullPrompt: (n) => `完整 prompt（${n} 行，点开展开）`,
+    preview: "预览",
   },
 };
 
@@ -455,7 +463,6 @@ export function renderCaseEntry(caseObj, lang, opts = {}) {
   const level = opts.level || 3;
   const title = uniqueHeading(displayTitle(caseObj, lang), opts.usedHeadings);
   const summary = displaySummary(caseObj, lang);
-  const fence = fenceForPrompt(caseObj.promptFull || "");
   const lines = [];
   lines.push(`${"#".repeat(level)} ${title}`);
   lines.push("");
@@ -463,10 +470,8 @@ export function renderCaseEntry(caseObj, lang, opts = {}) {
     lines.push(`> ${summary}`);
     lines.push("");
   }
-  lines.push(`${fence}`);
-  lines.push((caseObj.promptFull || "").trim());
-  lines.push(`${fence}`);
-  lines.push("");
+  // 顺序：封面 → 署名行 → 稳定度/复测 → prompt（超长折叠）→ goodcase 链接。
+  // 封面先于 prompt，读者先看到效果再决定要不要展开几十行的 prompt。
   const imgSrc = caseObj.posterUrl || (caseObj.mediaType === "image" ? caseObj.mediaUrl : null);
   if (imgSrc) {
     lines.push(`[<img src="${imgSrc}" width="600" alt="${escapeAttr(title)}">](${caseObj.goodcaseUrl})`);
@@ -486,9 +491,32 @@ export function renderCaseEntry(caseObj, lang, opts = {}) {
     lines.push(...retestBlock);
   }
   lines.push("");
+  lines.push(...renderPromptBlock(caseObj.promptFull || "", lang));
+  lines.push("");
   lines.push(`**[${t.viewOnGoodcase}](${caseObj.goodcaseUrl})**`);
   lines.push("");
   return lines.join("\n");
+}
+
+/**
+ * prompt 代码块。超过 PROMPT_COLLAPSE_LINES 行的包进 <details>（summary 写明行数），
+ * 短 prompt 直接给围栏块。<details> 内外各留空行，GitHub 才会把里面的围栏当 Markdown 渲染。
+ */
+export function renderPromptBlock(prompt, lang) {
+  assertLang(lang);
+  const text = String(prompt || "").trim();
+  const fence = fenceForPrompt(text);
+  const lineCount = text ? text.split("\n").length : 0;
+  const block = [fence, text, fence];
+  if (lineCount <= PROMPT_COLLAPSE_LINES) return block;
+  return [
+    "<details>",
+    `<summary><b>${LABELS[lang].fullPrompt(lineCount)}</b></summary>`,
+    "",
+    ...block,
+    "",
+    "</details>",
+  ];
 }
 
 export function renderTemplateCard(template, lang, opts = {}) {
@@ -573,6 +601,13 @@ function dateOnly(iso) {
 // Top 榜（README 内联的紧凑排行表）
 // ---------------------------------------------------------------------------
 
+/** 表格里的缩略图单元：封面链到 goodcase 记录页；没有封面给 "-"。 */
+export function thumbCell(caseObj, alt = "", width = THUMB_WIDTH) {
+  const src = caseObj.posterUrl || (caseObj.mediaType === "image" ? caseObj.mediaUrl : null);
+  if (!src) return "-";
+  return `[<img src="${src}" width="${width}" alt="${escapeAttr(alt)}">](${caseObj.goodcaseUrl})`;
+}
+
 function retestCell(caseObj, lang) {
   const summary = caseObj.retestSummary;
   if (!summary || !summary.latest) return "-";
@@ -591,10 +626,11 @@ export function renderTopTable(cases, lang, opts = {}) {
   const startRank = opts.startRank || 1;
   const headers =
     lang === "en"
-      ? ["#", "Case", "Version", "Heat", "Retest", "Links"]
-      : ["#", "案例", "版本", "热度", "复测", "链接"];
+      ? ["#", "Preview", "Case", "Version", "Heat", "Retest", "Links"]
+      : ["#", "预览", "案例", "版本", "热度", "复测", "链接"];
   const rows = cases.map((c, i) => {
     const title = displayTitle(c, lang);
+    const thumb = thumbCell(c, title);
     const promptHref = promptLinkFor(c);
     const links = [
       promptHref ? `[${lang === "en" ? "prompt" : "完整 prompt"}](${promptHref})` : null,
@@ -604,6 +640,7 @@ export function renderTopTable(cases, lang, opts = {}) {
       .join(" · ");
     return [
       String(startRank + i),
+      thumb,
       `[${title}](${c.goodcaseUrl})`,
       bucketShortLabel(classifySeedance(c), lang),
       String(c.heatScore ?? "-"),
@@ -630,6 +667,12 @@ const GALLERY_FILE_BASE = {
   "2.0": "gallery-seedance-2-0",
   unspecified: "gallery-seedance-unversioned",
 };
+
+/** 画廊总览页文件名：docs/gallery.md / docs/gallery.zh.md。 */
+export function galleryIndexFileName(lang) {
+  assertLang(lang);
+  return lang === "en" ? "gallery.md" : "gallery.zh.md";
+}
 
 export function galleryFileBase(bucket) {
   return GALLERY_FILE_BASE[bucket] || GALLERY_FILE_BASE["2.0"];
@@ -676,8 +719,12 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
 
   const totalParts = chunks.length;
   const label = bucketLabel(bucket, lang);
+  let offset = 0;
   return chunks.map((items, index) => {
     const partNo = index + 1;
+    const rangeStart = offset + 1;
+    const rangeEnd = offset + items.length;
+    offset = rangeEnd;
     const pageTag =
       totalParts > 1
         ? lang === "en"
@@ -690,7 +737,11 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
         ? `All ${cases.length} ${label} prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.`
         : `${label} 全部 ${cases.length} 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。`;
     const readmeName = lang === "en" ? "README.md" : "README_zh.md";
-    const back = lang === "en" ? `← [Back to README](../${readmeName})` : `← [返回 README](../${readmeName})`;
+    const indexName = galleryIndexFileName(lang);
+    const back =
+      lang === "en"
+        ? `← [Back to README](../${readmeName}) · [Gallery index](./${indexName})`
+        : `← [返回 README](../${readmeName}) · [画廊总览](./${indexName})`;
     const nav =
       totalParts > 1
         ? Array.from({ length: totalParts }, (_, i) => {
@@ -700,12 +751,20 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
           }).join(" · ")
         : null;
     const navLine = nav ? `${back} · ${nav}` : back;
-    const lines = [title, "", intro, "", navLine, "", ...items.map((it) => it.markdown), "", navLine, ""];
+    const rangeLine =
+      totalParts > 1
+        ? lang === "en"
+          ? `This page: cases ${rangeStart}–${rangeEnd} of ${cases.length}.`
+          : `本页：第 ${rangeStart}–${rangeEnd} 条，共 ${cases.length} 条。`
+        : null;
+    const lines = [title, "", intro, ...(rangeLine ? ["", rangeLine] : []), "", navLine, "", ...items.map((it) => it.markdown), "", navLine, ""];
     return {
       markdown: lines.join("\n"),
       partNo,
       totalParts,
       caseCount: items.length,
+      rangeStart,
+      rangeEnd,
       fileName: galleryPartFileName(lang, partNo, totalParts, base),
       entries: items.map(({ slug, heading, anchor }) => ({ slug, heading, anchor })),
     };
