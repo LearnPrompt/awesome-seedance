@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library.** 427 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 24 installable AI-video Skills, drawn from goodcase.ai's 1071 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
+**Verified Seedance 2.5 / 2.0 prompt library.** 427 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 25 installable AI-video Skills, drawn from goodcase.ai's 1120 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#install) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -43,7 +43,7 @@ Jump straight to the assets. The Contents list below is the section map of this 
 - [Seedance (version unspecified), part 3/3](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.md) - Cases 190–252.
 - [Prompt templates](https://github.com/LearnPrompt/awesome-seedance/blob/main/README.md#-prompt-templates) - 14 reusable structures in 6 categories.
 - [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - Install with `npx seedance-prompt-library install` into Claude Code / Codex.
-- [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 23 installable Skills grown out of the video cases.
+- [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 24 installable Skills grown out of the video cases.
 - [Live site on goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) - Search, heat leaderboard, stability ranking, retest logs.
 ## Install
 
@@ -436,8 +436,8 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 | Re-run on other models         | 247 cases / 257 runs      |
 | Stability score (measured)     | 245 cases / avg 78.0      |
 | Last updated                   | 2026-09-14                |
-| goodcase.ai, all categories    | 1071 cases / 334 creators |
-| goodcase.ai, AI video          | 567 cases                 |
+| goodcase.ai, all categories    | 1120 cases / 336 creators |
+| goodcase.ai, AI video          | 581 cases                 |
 
 *Retest batch note: Retest runs carry two MiniMax labels on purpose. The 2026-08 batches (runIds video-minimax-h3-768p-20260809-phase1 / -20260811-top-heat) ran on Flova's MiniMax H3 768p; the 2026-09 batches (video-minimax-h3-768p-20260906-phase1 / -20260907-phase1) ran on fal.ai's minimax/h3-max/text-to-video endpoint, which only existed from 2026-09-03. They are different model tiers on different platforms, so the labels are kept distinct rather than merged. The 2026-08 entries show finalScore: null because a later human-review pass overwrote their structured evidence notes with a prose verdict; those rows carry a human-reviewed verdict instead, and the original judge scores remain in the private eval evidence manifest.*
 
