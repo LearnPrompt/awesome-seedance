@@ -1,17 +1,18 @@
 # Awesome Seedance — 画廊总览
 
-全部 427 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 434 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
 ## 分页
 
-- [Seedance 2.5](./gallery-seedance-2-5.zh.md) - 45 条.
-- [Seedance 2.0 · 第 1/2 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–97 条，共 130 条.
-- [Seedance 2.0 · 第 2/2 页](./gallery-seedance-2-0-part-2.zh.md) - 第 98–130 条，共 130 条.
-- [Seedance（未标版本） · 第 1/3 页](./gallery-seedance-unversioned-part-1.zh.md) - 第 1–94 条，共 252 条.
-- [Seedance（未标版本） · 第 2/3 页](./gallery-seedance-unversioned-part-2.zh.md) - 第 95–190 条，共 252 条.
-- [Seedance（未标版本） · 第 3/3 页](./gallery-seedance-unversioned-part-3.zh.md) - 第 191–252 条，共 252 条.
+- [Seedance 2.5](./gallery-seedance-2-5.zh.md) - 46 条.
+- [Seedance 2.0 · 第 1/2 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–96 条，共 130 条.
+- [Seedance 2.0 · 第 2/2 页](./gallery-seedance-2-0-part-2.zh.md) - 第 97–130 条，共 130 条.
+- [Seedance（未标版本） · 第 1/4 页](./gallery-seedance-unversioned-part-1.zh.md) - 第 1–94 条，共 258 条.
+- [Seedance（未标版本） · 第 2/4 页](./gallery-seedance-unversioned-part-2.zh.md) - 第 95–189 条，共 258 条.
+- [Seedance（未标版本） · 第 3/4 页](./gallery-seedance-unversioned-part-3.zh.md) - 第 190–256 条，共 258 条.
+- [Seedance（未标版本） · 第 4/4 页](./gallery-seedance-unversioned-part-4.zh.md) - 第 257–258 条，共 258 条.
 
 ## 仓库里的其他入口
 
@@ -33,6 +34,6 @@
 - [宝石蝎幻化为高跟鞋](./gallery-seedance-unversioned-part-1.zh.md#宝石蝎幻化为高跟鞋) - A magical transformation where dark luxury meets elegance The scorpion turns into a stunning jeweled stiletto creating a
 - [Seedance 原生 UGC 竖屏手机跟拍短片](./gallery-seedance-unversioned-part-1.zh.md#seedance-原生-ugc-竖屏手机跟拍短片) - Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
 - [Seedance 2.5 印尼女生日常写实短片](./gallery-seedance-unversioned-part-1.zh.md#seedance-25-印尼女生日常写实短片) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
-- [智能手机拍摄的海滩一日游回忆](./gallery-seedance-2-0-part-1.zh.md#智能手机拍摄的海滩一日游回忆) - 一段关于阳光明媚海滩一日游的随性智能手机家庭录像提示词，包含跳剪效果和真实的手机手持晃动感。
+- [金发少女在高中走廊释放超能力](./gallery-seedance-unversioned-part-1.zh.md#金发少女在高中走廊释放超能力) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 
 ← [返回 README](../README_zh.md)

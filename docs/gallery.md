@@ -1,17 +1,18 @@
 # Awesome Seedance — Gallery Index
 
-All 427 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 434 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
 ## Pages
 
-- [Seedance 2.5](./gallery-seedance-2-5.md) - 45 cases.
-- [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.md) - cases 1–97 of 130.
-- [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.md) - cases 98–130 of 130.
-- [Seedance (version unspecified) · Part 1/3](./gallery-seedance-unversioned-part-1.md) - cases 1–93 of 252.
-- [Seedance (version unspecified) · Part 2/3](./gallery-seedance-unversioned-part-2.md) - cases 94–189 of 252.
-- [Seedance (version unspecified) · Part 3/3](./gallery-seedance-unversioned-part-3.md) - cases 190–252 of 252.
+- [Seedance 2.5](./gallery-seedance-2-5.md) - 46 cases.
+- [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.md) - cases 1–96 of 130.
+- [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.md) - cases 97–130 of 130.
+- [Seedance (version unspecified) · Part 1/4](./gallery-seedance-unversioned-part-1.md) - cases 1–94 of 258.
+- [Seedance (version unspecified) · Part 2/4](./gallery-seedance-unversioned-part-2.md) - cases 95–188 of 258.
+- [Seedance (version unspecified) · Part 3/4](./gallery-seedance-unversioned-part-3.md) - cases 189–255 of 258.
+- [Seedance (version unspecified) · Part 4/4](./gallery-seedance-unversioned-part-4.md) - cases 256–258 of 258.
 
 ## Also in this repository
 
@@ -33,6 +34,6 @@ The ten hottest cases across all versions; each link opens the full entry on its
 - [Jeweled Scorpion Transforms into a High Heel](./gallery-seedance-unversioned-part-1.md#jeweled-scorpion-transforms-into-a-high-heel) - A magical transformation where dark luxury meets elegance The scorpion turns into a stunning jeweled stiletto creating a
 - [Seedance Native UGC Vertical Phone Follow-Cam Short](./gallery-seedance-unversioned-part-1.md#seedance-native-ugc-vertical-phone-follow-cam-short) - Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
 - [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](./gallery-seedance-unversioned-part-1.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
-- [Beach Day Memories Shot on a Smartphone](./gallery-seedance-2-0-part-1.md#beach-day-memories-shot-on-a-smartphone) - A casual smartphone-style family video prompt about a sunny beach day trip, featuring jump cuts and realistic handheld phone shake.
+- [Blonde Student Unleashes Superpowers in a High School Hallway](./gallery-seedance-unversioned-part-1.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 
 ← [Back to README](../README.md)

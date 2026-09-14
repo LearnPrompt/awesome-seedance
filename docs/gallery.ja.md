@@ -1,17 +1,18 @@
 # Awesome Seedance — ギャラリー索引
 
-全 427 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 434 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
 ## ページ
 
-- [Seedance 2.5](./gallery-seedance-2-5.ja.md) - 45 件.
-- [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.ja.md) - 130 件中 1–96 件目.
-- [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.ja.md) - 130 件中 97–130 件目.
-- [Seedance（バージョン未記載） · Part 1/3](./gallery-seedance-unversioned-part-1.ja.md) - 252 件中 1–91 件目.
-- [Seedance（バージョン未記載） · Part 2/3](./gallery-seedance-unversioned-part-2.ja.md) - 252 件中 92–186 件目.
-- [Seedance（バージョン未記載） · Part 3/3](./gallery-seedance-unversioned-part-3.ja.md) - 252 件中 187–252 件目.
+- [Seedance 2.5](./gallery-seedance-2-5.ja.md) - 46 件.
+- [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.ja.md) - 130 件中 1–95 件目.
+- [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.ja.md) - 130 件中 96–130 件目.
+- [Seedance（バージョン未記載） · Part 1/4](./gallery-seedance-unversioned-part-1.ja.md) - 258 件中 1–94 件目.
+- [Seedance（バージョン未記載） · Part 2/4](./gallery-seedance-unversioned-part-2.ja.md) - 258 件中 95–188 件目.
+- [Seedance（バージョン未記載） · Part 3/4](./gallery-seedance-unversioned-part-3.ja.md) - 258 件中 189–255 件目.
+- [Seedance（バージョン未記載） · Part 4/4](./gallery-seedance-unversioned-part-4.ja.md) - 258 件中 256–258 件目.
 
 ## このリポジトリのその他の入口
 
@@ -33,6 +34,6 @@
 - [Jeweled Scorpion Transforms into a High Heel](./gallery-seedance-unversioned-part-1.ja.md#jeweled-scorpion-transforms-into-a-high-heel) - A magical transformation where dark luxury meets elegance The scorpion turns into a stunning jeweled stiletto creating a
 - [Seedance Native UGC Vertical Phone Follow-Cam Short](./gallery-seedance-unversioned-part-1.ja.md#seedance-native-ugc-vertical-phone-follow-cam-short) - Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
 - [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](./gallery-seedance-unversioned-part-1.ja.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
-- [Beach Day Memories Shot on a Smartphone](./gallery-seedance-2-0-part-1.ja.md#beach-day-memories-shot-on-a-smartphone) - A casual smartphone-style family video prompt about a sunny beach day trip, featuring jump cuts and realistic handheld phone shake.
+- [Blonde Student Unleashes Superpowers in a High School Hallway](./gallery-seedance-unversioned-part-1.ja.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 
 ← [README に戻る](../README_ja.md)
