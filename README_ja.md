@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 434 ケースをすべて元投稿と照合、257 回のクロスモデル再テスト、14 個の再利用可能テンプレート、25 個のインストール可能な AI 動画 Skill。母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1138 件の検証済み AI ケース。毎日同期し、新しいケースが毎日追加されます。
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 455 ケースをすべて元投稿と照合、264 回のクロスモデル再テスト、14 個の再利用可能テンプレート、25 個のインストール可能な AI 動画 Skill。母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1138 件の検証済み AI ケース。毎日同期し、新しいケースが毎日追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-all-prompts) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-cross-model-retests) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-prompt-templates) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#install) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -34,14 +34,14 @@
 
 アセットへ直接ジャンプ。下の目次はこのページのセクション一覧です。
 
-- [ギャラリー索引](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.ja.md) - 全 434 ケースのプロンプト全文、全ページをここから。
-- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.ja.md) - 46 件.
+- [ギャラリー索引](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.ja.md) - 全 455 ケースのプロンプト全文、全ページをここから。
+- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.ja.md) - 56 件.
 - [Seedance 2.0、Part 1/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.ja.md) - 1–95 件目.
 - [Seedance 2.0、Part 2/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.ja.md) - 96–130 件目.
-- [Seedance（バージョン未記載）、Part 1/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.ja.md) - 1–94 件目.
-- [Seedance（バージョン未記載）、Part 2/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.ja.md) - 95–188 件目.
-- [Seedance（バージョン未記載）、Part 3/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.ja.md) - 189–255 件目.
-- [Seedance（バージョン未記載）、Part 4/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-4.ja.md) - 256–258 件目.
+- [Seedance（バージョン未記載）、Part 1/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.ja.md) - 1–90 件目.
+- [Seedance（バージョン未記載）、Part 2/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.ja.md) - 91–188 件目.
+- [Seedance（バージョン未記載）、Part 3/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.ja.md) - 189–259 件目.
+- [Seedance（バージョン未記載）、Part 4/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-4.ja.md) - 260–269 件目.
 - [プロンプトテンプレート](https://github.com/LearnPrompt/awesome-seedance/blob/main/README_ja.md#-prompt-templates) - 6 カテゴリ、14 個の再利用可能な構造。
 - [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - `npx seedance-prompt-library install` で Claude Code / Codex に導入。
 - [goodcase.ai の AI 動画 Skill](https://goodcase.ai/skills?category=video) - 動画ケースから育った 24 個のインストール可能な Skill。
@@ -68,14 +68,14 @@ Seedance テンプレートだけでなく goodcase.ai のライブラリ全体�
 
 ## 🔁 クロスモデル再テスト
 
-**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** ここに掲載された 247 ケースが再テスト済み（累計 257 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
+**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** ここに掲載された 254 ケースが再テスト済み（累計 264 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
 
 | モデル                 | 回数  | 再現率 |
 | ------------------- | --- | --- |
-| MiniMax H3 Max 768p | 246 | 73% |
+| MiniMax H3 Max 768p | 253 | 73% |
 | MiniMax H3 768p     | 11  | 82% |
 
-全実行の判定内訳: ✅ 188 再現 · ⚠️ 66 劣化 · ❌ 3 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
+全実行の判定内訳: ✅ 193 再現 · ⚠️ 68 劣化 · ❌ 3 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
 
 **同じプロンプト、別のモデル。** 3 つの例。うち 1 つは持ちこたえられなかったものです:
 
@@ -87,7 +87,7 @@ Seedance テンプレートだけでなく goodcase.ai のライブラリ全体�
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="goodcase.ai のケースページにある再テスト証拠ブロック">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-再テストは毎回、実費の推論コストがかかります。これまで 257 回で US$300 超（定価ベース、割引なし。誰が再現しても同じ金額です）。結果が良くても悪くてもそのまま公開します。 Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)、または [carl@goodcase.ai](mailto:carl@goodcase.ai) までご連絡ください。
+再テストは毎回、実費の推論コストがかかります。これまで 264 回で US$300 超（定価ベース、割引なし。誰が再現しても同じ金額です）。結果が良くても悪くてもそのまま公開します。 Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)、または [carl@goodcase.ai](mailto:carl@goodcase.ai) までご連絡ください。
 
 ## ⭐ 注目ケース
 
@@ -387,8 +387,8 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 | 5   | [<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="120" alt="Thirty-Second Emotional Live-Action Discovery Scene">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)                                                                   | [Thirty-Second Emotional Live-Action Discovery Scene](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)            | 未記載   | 95  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#thirty-second-emotional-live-action-discovery-scene) · [元投稿](https://x.com/AIwithSynthia/status/2096439253970395531)          |
 | 6   | [<img src="https://media.goodcase.ai/cases/cde7c7488c1e.jpg" width="120" alt="Jeweled Scorpion Transforms into a High Heel">](https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc)                                                                                                                                            | [Jeweled Scorpion Transforms into a High Heel](https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc)                                                                                     | 未記載   | 95  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#jeweled-scorpion-transforms-into-a-high-heel) · [元投稿](https://x.com/juliaevee/status/2092783528887083290)                     |
 | 7   | [<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="120" alt="Seedance Native UGC Vertical Phone Follow-Cam Short">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                                                      | [Seedance Native UGC Vertical Phone Follow-Cam Short](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                             | 未記載   | 95  | ⚠️ 劣化 (スコア 71.2) | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-native-ugc-vertical-phone-follow-cam-short) · [元投稿](https://x.com/mightyking/status/2089299068514148655)             |
-| 8   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                  | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                       | 未記載   | 95  | ✅ 再現 (スコア 77.5)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) · [元投稿](https://x.com/RishuaVR/status/2089204108175741157)        |
-| 9   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="Blonde Student Unleashes Superpowers in a High School Hallway">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                        | [Blonde Student Unleashes Superpowers in a High School Hallway](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                 | 未記載   | 94  | ✅ 再現 (スコア 81.6)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) · [元投稿](https://x.com/AiwithElisia/status/2092119695201837059) |
+| 8   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="Blonde Student Unleashes Superpowers in a High School Hallway">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                        | [Blonde Student Unleashes Superpowers in a High School Hallway](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                 | 未記載   | 94  | ✅ 再現 (スコア 81.6)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) · [元投稿](https://x.com/AiwithElisia/status/2092119695201837059) |
+| 9   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                  | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                       | 未記載   | 94  | ✅ 再現 (スコア 77.5)  | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) · [元投稿](https://x.com/RishuaVR/status/2089204108175741157)        |
 | 10  | [<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="120" alt="Beach Day Memories Shot on a Smartphone">](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                                                              | [Beach Day Memories Shot on a Smartphone](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                               | 2.0   | 93  | -                | [プロンプト](./docs/gallery-seedance-2-0-part-1.ja.md#beach-day-memories-shot-on-a-smartphone) · [元投稿](https://x.com/Goodmanprotocol/status/2079189509586260101)                            |
 | 11  | [<img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="120" alt="Woman Pulls Laughing Man Out Through a Shattered Subway Window">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1)                                                        | [Woman Pulls Laughing Man Out Through a Shattered Subway Window](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) | 未記載   | 93  | -                | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#woman-pulls-laughing-man-out-through-a-shattered-subway-window) · [元投稿](https://x.com/AIwithkhan/status/2097168171367338428)  |
 | 12  | [<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="120" alt="Seedance 2.5 Dance Clip Real Enough to Fool You">](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                                                                      | [Seedance 2.5 Dance Clip Real Enough to Fool You](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                               | 未記載   | 92  | ⚠️ 劣化 (スコア 50.9) | [プロンプト](./docs/gallery-seedance-unversioned-part-1.ja.md#seedance-25-dance-clip-real-enough-to-fool-you) · [元投稿](https://x.com/johnAGI168/status/2095025524586193105)                  |
@@ -413,11 +413,11 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 
 ## 🎬 全プロンプト
 
-全 434 ケースのプロンプト全文は `docs/` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:
+全 455 ケースのプロンプト全文は `docs/` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:
 
-- Seedance 2.5 - 46 件: [全ギャラリー](./docs/gallery-seedance-2-5.ja.md)。
+- Seedance 2.5 - 56 件: [全ギャラリー](./docs/gallery-seedance-2-5.ja.md)。
 - Seedance 2.0 - 130 件: [Part 1（1–95 件目）](./docs/gallery-seedance-2-0-part-1.ja.md) · [Part 2（96–130 件目）](./docs/gallery-seedance-2-0-part-2.ja.md)。
-- Seedance（バージョン未記載） - 258 件: [Part 1（1–94 件目）](./docs/gallery-seedance-unversioned-part-1.ja.md) · [Part 2（95–188 件目）](./docs/gallery-seedance-unversioned-part-2.ja.md) · [Part 3（189–255 件目）](./docs/gallery-seedance-unversioned-part-3.ja.md) · [Part 4（256–258 件目）](./docs/gallery-seedance-unversioned-part-4.ja.md)。
+- Seedance（バージョン未記載） - 269 件: [Part 1（1–90 件目）](./docs/gallery-seedance-unversioned-part-1.ja.md) · [Part 2（91–188 件目）](./docs/gallery-seedance-unversioned-part-2.ja.md) · [Part 3（189–259 件目）](./docs/gallery-seedance-unversioned-part-3.ja.md) · [Part 4（260–269 件目）](./docs/gallery-seedance-unversioned-part-4.ja.md)。
 
 ## 🌐 goodcase.ai で閲覧
 
@@ -429,14 +429,14 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 
 | 指標                    | 値                     |
 | --------------------- | --------------------- |
-| このリポジトリの Seedance ケース | 434                   |
-| Seedance 2.5          | 46                    |
+| このリポジトリの Seedance ケース | 455                   |
+| Seedance 2.5          | 56                    |
 | Seedance 2.0          | 130                   |
-| Seedance（バージョン未記載）    | 258                   |
-| 作者数                   | 159                   |
-| 他モデルでの再テスト            | 247 件 / 257 回         |
-| 安定度スコア（測定済み）          | 245 件 / 平均 78.0       |
-| 最終更新                  | 2026-09-15            |
+| Seedance（バージョン未記載）    | 269                   |
+| 作者数                   | 164                   |
+| 他モデルでの再テスト            | 254 件 / 264 回         |
+| 安定度スコア（測定済み）          | 252 件 / 平均 77.9       |
+| 最終更新                  | 2026-09-16            |
 | goodcase.ai 全カテゴリ     | 1138 件 / クリエイター 339 人 |
 | goodcase.ai AI 動画     | 596 件                 |
 
