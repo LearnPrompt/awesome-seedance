@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 434 条案例逐条核对过原帖，257 次跨模型复测，14 个可复用模板，25 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1138 条已验证 AI 案例。每天同步，每天都有新案例进来。
+**Seedance 2.5 / 2.0 提示词验证库。** 455 条案例逐条核对过原帖，264 次跨模型复测，14 个可复用模板，25 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1138 条已验证 AI 案例。每天同步，每天都有新案例进来。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-all-prompts) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-cross-model-retests) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-prompt-templates) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#install) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -34,14 +34,14 @@
 
 直接跳到资产。下面的目录是本页章节地图。
 
-- [画廊总览](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.zh.md) - 全部 434 条案例（含完整 prompt），所有分页一处可达。
-- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.zh.md) - 46 条.
+- [画廊总览](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.zh.md) - 全部 455 条案例（含完整 prompt），所有分页一处可达。
+- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.zh.md) - 56 条.
 - [Seedance 2.0，第 1/2 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.zh.md) - 第 1–96 条.
 - [Seedance 2.0，第 2/2 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.zh.md) - 第 97–130 条.
-- [Seedance（未标版本），第 1/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.zh.md) - 第 1–94 条.
-- [Seedance（未标版本），第 2/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.zh.md) - 第 95–189 条.
-- [Seedance（未标版本），第 3/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.zh.md) - 第 190–256 条.
-- [Seedance（未标版本），第 4/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-4.zh.md) - 第 257–258 条.
+- [Seedance（未标版本），第 1/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.zh.md) - 第 1–92 条.
+- [Seedance（未标版本），第 2/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.zh.md) - 第 93–193 条.
+- [Seedance（未标版本），第 3/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.zh.md) - 第 194–263 条.
+- [Seedance（未标版本），第 4/4 页](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-4.zh.md) - 第 264–269 条.
 - [Prompt 模板](https://github.com/LearnPrompt/awesome-seedance/blob/main/README_zh.md#-prompt-templates) - 6 类共 14 个可复用结构。
 - [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - `npx seedance-prompt-library install` 装进 Claude Code / Codex。
 - [goodcase.ai 上更多 AI 视频 Skill](https://goodcase.ai/skills?category=video) - 24 个从视频案例里长出来的可安装 Skill。
@@ -68,14 +68,14 @@ npx seedance-prompt-library install
 
 ## 🔁 跨模型复测
 
-**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 这里已有 247 条案例被重跑过（累计 257 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。
+**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 这里已有 254 条案例被重跑过（累计 264 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。
 
 | 模型                  | 次数  | 复现率 |
 | ------------------- | --- | --- |
-| MiniMax H3 Max 768p | 246 | 73% |
+| MiniMax H3 Max 768p | 253 | 73% |
 | MiniMax H3 768p     | 11  | 82% |
 
-全部复测的结论分布：✅ 188 复现 · ⚠️ 66 降级 · ❌ 3 失败。没有终评分的记录显示为“无评分”。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。
+全部复测的结论分布：✅ 193 复现 · ⚠️ 68 降级 · ❌ 3 失败。没有终评分的记录显示为“无评分”。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。
 
 **同一段 prompt，换一个模型。** 三个样例，其中一个没扛住：
 
@@ -87,7 +87,7 @@ npx seedance-prompt-library install
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="goodcase.ai 案例页上的复测证据区">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-每次复测都是真金白银的推理费：到目前为止 257 次复测已超过 300 美元，按公开牌价算、不含任何折扣，别人复现同样的实验也是这个价。结果好坏我们都照发。 想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)，或直接写邮件到 [carl@goodcase.ai](mailto:carl@goodcase.ai)。
+每次复测都是真金白银的推理费：到目前为止 264 次复测已超过 300 美元，按公开牌价算、不含任何折扣，别人复现同样的实验也是这个价。结果好坏我们都照发。 想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)，或直接写邮件到 [carl@goodcase.ai](mailto:carl@goodcase.ai)。
 
 ## ⭐ 精选
 
@@ -387,8 +387,8 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 | 5   | [<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="120" alt="雨夜咖啡馆撞见恋人背叛">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)                                                                      | [雨夜咖啡馆撞见恋人背叛](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)   | 未标版本 | 95  | -              | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#雨夜咖啡馆撞见恋人背叛) · [原帖](https://x.com/AIwithSynthia/status/2096439253970395531)              |
 | 6   | [<img src="https://media.goodcase.ai/cases/cde7c7488c1e.jpg" width="120" alt="宝石蝎幻化为高跟鞋">](https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc)                                                                                                                                          | [宝石蝎幻化为高跟鞋](https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc)                                                                       | 未标版本 | 95  | -              | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#宝石蝎幻化为高跟鞋) · [原帖](https://x.com/juliaevee/status/2092783528887083290)                    |
 | 7   | [<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="120" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                                            | [Seedance 原生 UGC 竖屏手机跟拍短片](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                       | 未标版本 | 95  | ⚠️ 降级 (71.2 分) | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#seedance-原生-ugc-竖屏手机跟拍短片) · [原帖](https://x.com/mightyking/status/2089299068514148655)    |
-| 8   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                 | [Seedance 2.5 印尼女生日常写实短片](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                          | 未标版本 | 95  | ✅ 复现 (77.5 分)  | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#seedance-25-印尼女生日常写实短片) · [原帖](https://x.com/RishuaVR/status/2089204108175741157)        |
-| 9   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                                  | [金发少女在高中走廊释放超能力](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                               | 未标版本 | 94  | ✅ 复现 (81.6 分)  | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#金发少女在高中走廊释放超能力) · [原帖](https://x.com/AiwithElisia/status/2092119695201837059)            |
+| 8   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                                  | [金发少女在高中走廊释放超能力](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                               | 未标版本 | 94  | ✅ 复现 (81.6 分)  | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#金发少女在高中走廊释放超能力) · [原帖](https://x.com/AiwithElisia/status/2092119695201837059)            |
+| 9   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                 | [Seedance 2.5 印尼女生日常写实短片](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                          | 未标版本 | 94  | ✅ 复现 (77.5 分)  | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#seedance-25-印尼女生日常写实短片) · [原帖](https://x.com/RishuaVR/status/2089204108175741157)        |
 | 10  | [<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="120" alt="智能手机拍摄的海滩一日游回忆">](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                                                  | [智能手机拍摄的海滩一日游回忆](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                       | 2.0  | 93  | -              | [完整 prompt](./docs/gallery-seedance-2-0-part-1.zh.md#智能手机拍摄的海滩一日游回忆) · [原帖](https://x.com/Goodmanprotocol/status/2079189509586260101)                 |
 | 11  | [<img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="120" alt="女子破窗反将嘲笑者拉出地铁">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1)                                                                    | [女子破窗反将嘲笑者拉出地铁](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) | 未标版本 | 93  | -              | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#女子破窗反将嘲笑者拉出地铁) · [原帖](https://x.com/AIwithkhan/status/2097168171367338428)               |
 | 12  | [<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="120" alt="不会有人认为这是真的吧？😄">](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                                                                  | [不会有人认为这是真的吧？😄](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                               | 未标版本 | 92  | ⚠️ 降级 (50.9 分) | [完整 prompt](./docs/gallery-seedance-unversioned-part-1.zh.md#不会有人认为这是真的吧) · [原帖](https://x.com/johnAGI168/status/2095025524586193105)                 |
@@ -413,11 +413,11 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 
 ## 🎬 全部案例
 
-全部 434 条案例（含完整 prompt）都在 `docs/` 下的画廊里，按版本分文件、超长自动分页以保证 GitHub 能渲染。从[画廊总览](./docs/gallery.zh.md)进，或直接跳到某个版本：
+全部 455 条案例（含完整 prompt）都在 `docs/` 下的画廊里，按版本分文件、超长自动分页以保证 GitHub 能渲染。从[画廊总览](./docs/gallery.zh.md)进，或直接跳到某个版本：
 
-- Seedance 2.5 - 46 条：[完整画廊](./docs/gallery-seedance-2-5.zh.md)。
+- Seedance 2.5 - 56 条：[完整画廊](./docs/gallery-seedance-2-5.zh.md)。
 - Seedance 2.0 - 130 条：[第 1 页（第 1–96 条）](./docs/gallery-seedance-2-0-part-1.zh.md) · [第 2 页（第 97–130 条）](./docs/gallery-seedance-2-0-part-2.zh.md)。
-- Seedance（未标版本） - 258 条：[第 1 页（第 1–94 条）](./docs/gallery-seedance-unversioned-part-1.zh.md) · [第 2 页（第 95–189 条）](./docs/gallery-seedance-unversioned-part-2.zh.md) · [第 3 页（第 190–256 条）](./docs/gallery-seedance-unversioned-part-3.zh.md) · [第 4 页（第 257–258 条）](./docs/gallery-seedance-unversioned-part-4.zh.md)。
+- Seedance（未标版本） - 269 条：[第 1 页（第 1–92 条）](./docs/gallery-seedance-unversioned-part-1.zh.md) · [第 2 页（第 93–193 条）](./docs/gallery-seedance-unversioned-part-2.zh.md) · [第 3 页（第 194–263 条）](./docs/gallery-seedance-unversioned-part-3.zh.md) · [第 4 页（第 264–269 条）](./docs/gallery-seedance-unversioned-part-4.zh.md)。
 
 ## 🌐 在 goodcase.ai 上浏览
 
@@ -429,14 +429,14 @@ A close-up vertical shot in 4K resolution depicting a magical transformation. A 
 
 | 指标                          | 数值                |
 | --------------------------- | ----------------- |
-| 本仓库 Seedance 案例             | 434               |
-| Seedance 2.5                | 46                |
+| 本仓库 Seedance 案例             | 455               |
+| Seedance 2.5                | 56                |
 | Seedance 2.0                | 130               |
-| Seedance（未标版本）              | 258               |
-| 作者数                         | 159               |
-| 跨模型复测                       | 247 条 / 257 次     |
-| 稳定度分（已测）                    | 245 条 / 均分 78.0   |
-| 最近更新                        | 2026-09-15        |
+| Seedance（未标版本）              | 269               |
+| 作者数                         | 164               |
+| 跨模型复测                       | 254 条 / 264 次     |
+| 稳定度分（已测）                    | 252 条 / 均分 77.9   |
+| 最近更新                        | 2026-09-16        |
 | goodcase.ai 全站（含非 Seedance） | 1138 条 / 339 位创作者 |
 | goodcase.ai AI 视频           | 596 条             |
 

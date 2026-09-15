@@ -1,18 +1,18 @@
 # Awesome Seedance — Gallery Index
 
-All 434 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 455 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
 ## Pages
 
-- [Seedance 2.5](./gallery-seedance-2-5.md) - 46 cases.
-- [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.md) - cases 1–96 of 130.
-- [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.md) - cases 97–130 of 130.
-- [Seedance (version unspecified) · Part 1/4](./gallery-seedance-unversioned-part-1.md) - cases 1–94 of 258.
-- [Seedance (version unspecified) · Part 2/4](./gallery-seedance-unversioned-part-2.md) - cases 95–188 of 258.
-- [Seedance (version unspecified) · Part 3/4](./gallery-seedance-unversioned-part-3.md) - cases 189–255 of 258.
-- [Seedance (version unspecified) · Part 4/4](./gallery-seedance-unversioned-part-4.md) - cases 256–258 of 258.
+- [Seedance 2.5](./gallery-seedance-2-5.md) - 56 cases.
+- [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.md) - cases 1–95 of 130.
+- [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.md) - cases 96–130 of 130.
+- [Seedance (version unspecified) · Part 1/4](./gallery-seedance-unversioned-part-1.md) - cases 1–91 of 269.
+- [Seedance (version unspecified) · Part 2/4](./gallery-seedance-unversioned-part-2.md) - cases 92–192 of 269.
+- [Seedance (version unspecified) · Part 3/4](./gallery-seedance-unversioned-part-3.md) - cases 193–262 of 269.
+- [Seedance (version unspecified) · Part 4/4](./gallery-seedance-unversioned-part-4.md) - cases 263–269 of 269.
 
 ## Also in this repository
 
@@ -33,7 +33,7 @@ The ten hottest cases across all versions; each link opens the full entry on its
 - [Thirty-Second Emotional Live-Action Discovery Scene](./gallery-seedance-unversioned-part-1.md#thirty-second-emotional-live-action-discovery-scene) - Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
 - [Jeweled Scorpion Transforms into a High Heel](./gallery-seedance-unversioned-part-1.md#jeweled-scorpion-transforms-into-a-high-heel) - A magical transformation where dark luxury meets elegance The scorpion turns into a stunning jeweled stiletto creating a
 - [Seedance Native UGC Vertical Phone Follow-Cam Short](./gallery-seedance-unversioned-part-1.md#seedance-native-ugc-vertical-phone-follow-cam-short) - Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
-- [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](./gallery-seedance-unversioned-part-1.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
 - [Blonde Student Unleashes Superpowers in a High School Hallway](./gallery-seedance-unversioned-part-1.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
+- [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](./gallery-seedance-unversioned-part-1.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
 
 ← [Back to README](../README.md)

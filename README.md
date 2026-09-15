@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library.** 434 cases checked against their original posts, 257 cross-model retests, 14 reusable templates and 25 installable AI-video Skills, drawn from goodcase.ai's 1138 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
+**Verified Seedance 2.5 / 2.0 prompt library.** 455 cases checked against their original posts, 264 cross-model retests, 14 reusable templates and 25 installable AI-video Skills, drawn from goodcase.ai's 1138 verified AI cases across video, image, UI and copy. Synced daily, new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#install) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -34,14 +34,14 @@ More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/c
 
 Jump straight to the assets. The Contents list below is the section map of this page.
 
-- [Gallery index](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.md) - All 434 cases with full prompts, every page in one place.
-- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.md) - 46 cases.
-- [Seedance 2.0, part 1/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.md) - Cases 1–96.
-- [Seedance 2.0, part 2/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.md) - Cases 97–130.
-- [Seedance (version unspecified), part 1/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.md) - Cases 1–94.
-- [Seedance (version unspecified), part 2/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.md) - Cases 95–188.
-- [Seedance (version unspecified), part 3/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.md) - Cases 189–255.
-- [Seedance (version unspecified), part 4/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-4.md) - Cases 256–258.
+- [Gallery index](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery.md) - All 455 cases with full prompts, every page in one place.
+- [Seedance 2.5](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-5.md) - 56 cases.
+- [Seedance 2.0, part 1/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-1.md) - Cases 1–95.
+- [Seedance 2.0, part 2/2](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-2-0-part-2.md) - Cases 96–130.
+- [Seedance (version unspecified), part 1/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-1.md) - Cases 1–91.
+- [Seedance (version unspecified), part 2/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-2.md) - Cases 92–192.
+- [Seedance (version unspecified), part 3/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-3.md) - Cases 193–262.
+- [Seedance (version unspecified), part 4/4](https://github.com/LearnPrompt/awesome-seedance/blob/main/docs/gallery-seedance-unversioned-part-4.md) - Cases 263–269.
 - [Prompt templates](https://github.com/LearnPrompt/awesome-seedance/blob/main/README.md#-prompt-templates) - 14 reusable structures in 6 categories.
 - [Agent Skill](https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library) - Install with `npx seedance-prompt-library install` into Claude Code / Codex.
 - [More AI-video Skills on goodcase.ai](https://goodcase.ai/skills?category=video) - 24 installable Skills grown out of the video cases.
@@ -68,14 +68,14 @@ Want your agent to query the whole goodcase.ai library (all models, live data, r
 
 ## 🔁 Cross-model retests
 
-**As far as we know, this is the first public prompt library that re-runs its video prompts on a second model at scale and publishes the result either way.** 247 of the cases here have been re-run (257 runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.
+**As far as we know, this is the first public prompt library that re-runs its video prompts on a second model at scale and publishes the result either way.** 254 of the cases here have been re-run (264 runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.
 
 | Model               | Runs | Reproduction rate |
 | ------------------- | ---- | ----------------- |
-| MiniMax H3 Max 768p | 246  | 73%               |
+| MiniMax H3 Max 768p | 253  | 73%               |
 | MiniMax H3 768p     | 11   | 82%               |
 
-Verdicts across all runs: ✅ 188 reproduced · ⚠️ 66 degraded · ❌ 3 failed. Runs without a final score show as `score n/a`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).
+Verdicts across all runs: ✅ 193 reproduced · ⚠️ 68 degraded · ❌ 3 failed. Runs without a final score show as `score n/a`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).
 
 **Same prompt, second model.** Three examples, including one that did not hold up:
 
@@ -87,7 +87,7 @@ Verdicts across all runs: ✅ 188 reproduced · ⚠️ 66 degraded · ❌ 3 fail
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="Retest evidence block on a goodcase.ai case page">](https://goodcase.ai/cases/vlog-c8171f712492)
 
-Every run costs real inference money: over US$300 across 257 runs so far, at list price with no discounts, which is what anyone else would pay to reproduce them. We publish the result whether or not it flatters the prompt. Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor) or write to [carl@goodcase.ai](mailto:carl@goodcase.ai).
+Every run costs real inference money: over US$300 across 264 runs so far, at list price with no discounts, which is what anyone else would pay to reproduce them. We publish the result whether or not it flatters the prompt. Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor) or write to [carl@goodcase.ai](mailto:carl@goodcase.ai).
 
 ## ⭐ Featured
 
@@ -387,8 +387,8 @@ The 30 hottest cases across all versions (ranks 1–6 are also shown in full und
 | 5   | [<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="120" alt="Thirty-Second Emotional Live-Action Discovery Scene">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)                                                                   | [Thirty-Second Emotional Live-Action Discovery Scene](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)            | unspecified | 95   | -                         | [prompt](./docs/gallery-seedance-unversioned-part-1.md#thirty-second-emotional-live-action-discovery-scene) · [source](https://x.com/AIwithSynthia/status/2096439253970395531)          |
 | 6   | [<img src="https://media.goodcase.ai/cases/cde7c7488c1e.jpg" width="120" alt="Jeweled Scorpion Transforms into a High Heel">](https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc)                                                                                                                                            | [Jeweled Scorpion Transforms into a High Heel](https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc)                                                                                     | unspecified | 95   | -                         | [prompt](./docs/gallery-seedance-unversioned-part-1.md#jeweled-scorpion-transforms-into-a-high-heel) · [source](https://x.com/juliaevee/status/2092783528887083290)                     |
 | 7   | [<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="120" alt="Seedance Native UGC Vertical Phone Follow-Cam Short">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                                                      | [Seedance Native UGC Vertical Phone Follow-Cam Short](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)                                                                             | unspecified | 95   | ⚠️ degraded (score 71.2)  | [prompt](./docs/gallery-seedance-unversioned-part-1.md#seedance-native-ugc-vertical-phone-follow-cam-short) · [source](https://x.com/mightyking/status/2089299068514148655)             |
-| 8   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                  | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                       | unspecified | 95   | ✅ reproduced (score 77.5) | [prompt](./docs/gallery-seedance-unversioned-part-1.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) · [source](https://x.com/RishuaVR/status/2089204108175741157)        |
-| 9   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="Blonde Student Unleashes Superpowers in a High School Hallway">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                        | [Blonde Student Unleashes Superpowers in a High School Hallway](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                 | unspecified | 94   | ✅ reproduced (score 81.6) | [prompt](./docs/gallery-seedance-unversioned-part-1.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) · [source](https://x.com/AiwithElisia/status/2092119695201837059) |
+| 8   | [<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="120" alt="Blonde Student Unleashes Superpowers in a High School Hallway">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                                        | [Blonde Student Unleashes Superpowers in a High School Hallway](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)                                                                 | unspecified | 94   | ✅ reproduced (score 81.6) | [prompt](./docs/gallery-seedance-unversioned-part-1.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) · [source](https://x.com/AiwithElisia/status/2092119695201837059) |
+| 9   | [<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="120" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                                                  | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)                                                                       | unspecified | 94   | ✅ reproduced (score 77.5) | [prompt](./docs/gallery-seedance-unversioned-part-1.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) · [source](https://x.com/RishuaVR/status/2089204108175741157)        |
 | 10  | [<img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="120" alt="Beach Day Memories Shot on a Smartphone">](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                                                              | [Beach Day Memories Shot on a Smartphone](https://goodcase.ai/cases/smartphone-beach-day-memories)                                                                                               | 2.0         | 93   | -                         | [prompt](./docs/gallery-seedance-2-0-part-1.md#beach-day-memories-shot-on-a-smartphone) · [source](https://x.com/Goodmanprotocol/status/2079189509586260101)                            |
 | 11  | [<img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="120" alt="Woman Pulls Laughing Man Out Through a Shattered Subway Window">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1)                                                        | [Woman Pulls Laughing Man Out Through a Shattered Subway Window](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) | unspecified | 93   | -                         | [prompt](./docs/gallery-seedance-unversioned-part-1.md#woman-pulls-laughing-man-out-through-a-shattered-subway-window) · [source](https://x.com/AIwithkhan/status/2097168171367338428)  |
 | 12  | [<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="120" alt="Seedance 2.5 Dance Clip Real Enough to Fool You">](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                                                                      | [Seedance 2.5 Dance Clip Real Enough to Fool You](https://goodcase.ai/cases/seedance-269d1fc95820)                                                                                               | unspecified | 92   | ⚠️ degraded (score 50.9)  | [prompt](./docs/gallery-seedance-unversioned-part-1.md#seedance-25-dance-clip-real-enough-to-fool-you) · [source](https://x.com/johnAGI168/status/2095025524586193105)                  |
@@ -413,11 +413,11 @@ The 30 hottest cases across all versions (ranks 1–6 are also shown in full und
 
 ## 🎬 All Prompts
 
-All 434 cases, with full prompts, live in the gallery under `docs/` (sharded so GitHub renders every page). Start from the [gallery index](./docs/gallery.md), or jump to a version:
+All 455 cases, with full prompts, live in the gallery under `docs/` (sharded so GitHub renders every page). Start from the [gallery index](./docs/gallery.md), or jump to a version:
 
-- Seedance 2.5 - 46 cases: [Full gallery](./docs/gallery-seedance-2-5.md).
-- Seedance 2.0 - 130 cases: [Part 1 (cases 1–96)](./docs/gallery-seedance-2-0-part-1.md) · [Part 2 (cases 97–130)](./docs/gallery-seedance-2-0-part-2.md).
-- Seedance (version unspecified) - 258 cases: [Part 1 (cases 1–94)](./docs/gallery-seedance-unversioned-part-1.md) · [Part 2 (cases 95–188)](./docs/gallery-seedance-unversioned-part-2.md) · [Part 3 (cases 189–255)](./docs/gallery-seedance-unversioned-part-3.md) · [Part 4 (cases 256–258)](./docs/gallery-seedance-unversioned-part-4.md).
+- Seedance 2.5 - 56 cases: [Full gallery](./docs/gallery-seedance-2-5.md).
+- Seedance 2.0 - 130 cases: [Part 1 (cases 1–95)](./docs/gallery-seedance-2-0-part-1.md) · [Part 2 (cases 96–130)](./docs/gallery-seedance-2-0-part-2.md).
+- Seedance (version unspecified) - 269 cases: [Part 1 (cases 1–91)](./docs/gallery-seedance-unversioned-part-1.md) · [Part 2 (cases 92–192)](./docs/gallery-seedance-unversioned-part-2.md) · [Part 3 (cases 193–262)](./docs/gallery-seedance-unversioned-part-3.md) · [Part 4 (cases 263–269)](./docs/gallery-seedance-unversioned-part-4.md).
 
 ## 🌐 Browse on goodcase.ai
 
@@ -429,14 +429,14 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 
 | Metric                         | Value                     |
 | ------------------------------ | ------------------------- |
-| Seedance cases in this repo    | 434                       |
-| Seedance 2.5                   | 46                        |
+| Seedance cases in this repo    | 455                       |
+| Seedance 2.5                   | 56                        |
 | Seedance 2.0                   | 130                       |
-| Seedance (version unspecified) | 258                       |
-| Unique authors                 | 159                       |
-| Re-run on other models         | 247 cases / 257 runs      |
-| Stability score (measured)     | 245 cases / avg 78.0      |
-| Last updated                   | 2026-09-15                |
+| Seedance (version unspecified) | 269                       |
+| Unique authors                 | 164                       |
+| Re-run on other models         | 254 cases / 264 runs      |
+| Stability score (measured)     | 252 cases / avg 77.9      |
+| Last updated                   | 2026-09-16                |
 | goodcase.ai, all categories    | 1138 cases / 339 creators |
 | goodcase.ai, AI video          | 596 cases                 |
 
