@@ -1,6 +1,6 @@
 # Awesome Seedance — ギャラリー索引
 
-全 455 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 462 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
@@ -9,10 +9,10 @@
 - [Seedance 2.5](./gallery-seedance-2-5.ja.md) - 56 件.
 - [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.ja.md) - 130 件中 1–95 件目.
 - [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.ja.md) - 130 件中 96–130 件目.
-- [Seedance（バージョン未記載） · Part 1/4](./gallery-seedance-unversioned-part-1.ja.md) - 269 件中 1–90 件目.
-- [Seedance（バージョン未記載） · Part 2/4](./gallery-seedance-unversioned-part-2.ja.md) - 269 件中 91–188 件目.
-- [Seedance（バージョン未記載） · Part 3/4](./gallery-seedance-unversioned-part-3.ja.md) - 269 件中 189–259 件目.
-- [Seedance（バージョン未記載） · Part 4/4](./gallery-seedance-unversioned-part-4.ja.md) - 269 件中 260–269 件目.
+- [Seedance（バージョン未記載） · Part 1/4](./gallery-seedance-unversioned-part-1.ja.md) - 276 件中 1–90 件目.
+- [Seedance（バージョン未記載） · Part 2/4](./gallery-seedance-unversioned-part-2.ja.md) - 276 件中 91–190 件目.
+- [Seedance（バージョン未記載） · Part 3/4](./gallery-seedance-unversioned-part-3.ja.md) - 276 件中 191–262 件目.
+- [Seedance（バージョン未記載） · Part 4/4](./gallery-seedance-unversioned-part-4.ja.md) - 276 件中 263–276 件目.
 
 ## このリポジトリのその他の入口
 
@@ -33,7 +33,7 @@
 - [Thirty-Second Emotional Live-Action Discovery Scene](./gallery-seedance-unversioned-part-1.ja.md#thirty-second-emotional-live-action-discovery-scene) - Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
 - [Jeweled Scorpion Transforms into a High Heel](./gallery-seedance-unversioned-part-1.ja.md#jeweled-scorpion-transforms-into-a-high-heel) - A magical transformation where dark luxury meets elegance The scorpion turns into a stunning jeweled stiletto creating a
 - [Seedance Native UGC Vertical Phone Follow-Cam Short](./gallery-seedance-unversioned-part-1.ja.md#seedance-native-ugc-vertical-phone-follow-cam-short) - Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
-- [Blonde Student Unleashes Superpowers in a High School Hallway](./gallery-seedance-unversioned-part-1.ja.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 - [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](./gallery-seedance-unversioned-part-1.ja.md#seedance-25-photoreal-everyday-short-of-an-indonesian-girl) - Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
+- [Blonde Student Unleashes Superpowers in a High School Hallway](./gallery-seedance-unversioned-part-1.ja.md#blonde-student-unleashes-superpowers-in-a-high-school-hallway) - Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 
 ← [README に戻る](../README_ja.md)
