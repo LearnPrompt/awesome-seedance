@@ -1,5 +1,5 @@
 {
-  "cases": 462,
+  "cases": 463,
   "siteTotalCases": 1226,
   "siteVideoCases": 619,
   "siteCreators": 350,
@@ -8,7 +8,7 @@
   "skills": 25,
   "seedance25": 56,
   "seedance20": 130,
-  "unversioned": 276,
+  "unversioned": 277,
   "authors": 166,
   "retestRuns": 264,
   "retestCases": 254,
@@ -16,5 +16,5 @@
   "stabilityAvg": 77.9,
   "templates": 14,
   "templateCategories": 6,
-  "lastUpdated": "2026-09-18"
+  "lastUpdated": "2026-09-19"
 }

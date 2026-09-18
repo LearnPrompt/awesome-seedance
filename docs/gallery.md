@@ -1,6 +1,6 @@
 # Awesome Seedance — Gallery Index
 
-All 462 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 463 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
@@ -9,10 +9,10 @@ All 462 cases with full prompts, split per Seedance version and paged so GitHub 
 - [Seedance 2.5](./gallery-seedance-2-5.md) - 56 cases.
 - [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.md) - cases 1–95 of 130.
 - [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.md) - cases 96–130 of 130.
-- [Seedance (version unspecified) · Part 1/4](./gallery-seedance-unversioned-part-1.md) - cases 1–91 of 276.
-- [Seedance (version unspecified) · Part 2/4](./gallery-seedance-unversioned-part-2.md) - cases 92–192 of 276.
-- [Seedance (version unspecified) · Part 3/4](./gallery-seedance-unversioned-part-3.md) - cases 193–264 of 276.
-- [Seedance (version unspecified) · Part 4/4](./gallery-seedance-unversioned-part-4.md) - cases 265–276 of 276.
+- [Seedance (version unspecified) · Part 1/4](./gallery-seedance-unversioned-part-1.md) - cases 1–91 of 277.
+- [Seedance (version unspecified) · Part 2/4](./gallery-seedance-unversioned-part-2.md) - cases 92–193 of 277.
+- [Seedance (version unspecified) · Part 3/4](./gallery-seedance-unversioned-part-3.md) - cases 194–265 of 277.
+- [Seedance (version unspecified) · Part 4/4](./gallery-seedance-unversioned-part-4.md) - cases 266–277 of 277.
 
 ## Also in this repository
 

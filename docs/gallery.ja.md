@@ -1,6 +1,6 @@
 # Awesome Seedance — ギャラリー索引
 
-全 462 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 463 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
@@ -9,10 +9,10 @@
 - [Seedance 2.5](./gallery-seedance-2-5.ja.md) - 56 件.
 - [Seedance 2.0 · Part 1/2](./gallery-seedance-2-0-part-1.ja.md) - 130 件中 1–95 件目.
 - [Seedance 2.0 · Part 2/2](./gallery-seedance-2-0-part-2.ja.md) - 130 件中 96–130 件目.
-- [Seedance（バージョン未記載） · Part 1/4](./gallery-seedance-unversioned-part-1.ja.md) - 276 件中 1–90 件目.
-- [Seedance（バージョン未記載） · Part 2/4](./gallery-seedance-unversioned-part-2.ja.md) - 276 件中 91–190 件目.
-- [Seedance（バージョン未記載） · Part 3/4](./gallery-seedance-unversioned-part-3.ja.md) - 276 件中 191–262 件目.
-- [Seedance（バージョン未記載） · Part 4/4](./gallery-seedance-unversioned-part-4.ja.md) - 276 件中 263–276 件目.
+- [Seedance（バージョン未記載） · Part 1/4](./gallery-seedance-unversioned-part-1.ja.md) - 277 件中 1–90 件目.
+- [Seedance（バージョン未記載） · Part 2/4](./gallery-seedance-unversioned-part-2.ja.md) - 277 件中 91–190 件目.
+- [Seedance（バージョン未記載） · Part 3/4](./gallery-seedance-unversioned-part-3.ja.md) - 277 件中 191–263 件目.
+- [Seedance（バージョン未記載） · Part 4/4](./gallery-seedance-unversioned-part-4.ja.md) - 277 件中 264–277 件目.
 
 ## このリポジトリのその他の入口
 
