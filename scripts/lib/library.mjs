@@ -50,7 +50,10 @@ export function mergeLibrary(styleData, local = {}) {
     if (upstreamIds.has(tp.id) || templates.some((x) => x.id === tp.id)) {
       throw new Error(`templates-local.json: template id "${tp.id}" already exists`);
     }
-    templates.push({ exampleCases: [], ...tp, local: true });
+    const exampleCases = tp.exampleCases || [];
+    // 上游模板自带 exampleCaseUrls；本地模板只写 slug，这里按 goodcase 的固定规则补出链接。
+    const exampleCaseUrls = tp.exampleCaseUrls || exampleCases.map((slug) => `https://goodcase.ai/cases/${slug}`);
+    templates.push({ ...tp, exampleCases, exampleCaseUrls, local: true });
   }
   for (const tp of templates) {
     if (!categoryIds.has(tp.category)) {

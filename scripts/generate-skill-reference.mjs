@@ -31,6 +31,10 @@ function renderFullTemplate(template) {
     lines.push(...pitfallsEn);
     lines.push("");
   }
+  if (template.copyPrompt?.en) {
+    lines.push(`**Copy-ready lead-in:** ${template.copyPrompt.en}`);
+    lines.push("");
+  }
   lines.push("### 中文");
   lines.push("");
   lines.push(renderTemplateCard(template, "zh"));
@@ -41,6 +45,10 @@ function renderFullTemplate(template) {
   if (pitfallsZh.length) {
     lines.push("**常见坑:**");
     lines.push(...pitfallsZh);
+    lines.push("");
+  }
+  if (template.copyPrompt?.zh) {
+    lines.push(`**可复制引导语:** ${template.copyPrompt.zh}`);
     lines.push("");
   }
   lines.push("---");
