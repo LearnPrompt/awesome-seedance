@@ -7,13 +7,12 @@ import {
   sortByHeat,
   isSeedance25,
   isSeedance20,
-  isSeedanceUnversioned,
+  seedanceVersionInText,
   classifySeedance,
   seedanceVersionOf,
   normalizeModelLabel,
   computeStats,
   dateInShanghai,
-  getFeatured,
   renderCaseEntry,
   renderTemplateCard,
   renderStatsTable,
@@ -34,7 +33,6 @@ import {
   githubSlug,
   formatRetestRun,
   renderRetestBlock,
-  FEATURED_COUNT,
   TOP_INLINE_COUNT,
   HEADING_MAX_LEN,
   README_SIZE_BUDGET_BYTES,
@@ -72,7 +70,7 @@ test("isSeedance25 detects the 2.5 line only", () => {
 });
 
 // ---------------------------------------------------------------------------
-// 版本三分类：2.5 / 2.0 / 未标版本。大小写、连字符不敏感；多版本取最高；每条只算一次。
+// 版本两档：2.5 / 2.0；裸标按原帖文案落档，兜底 2.0。大小写、连字符不敏感；多版本取最高；每条只算一次。
 // ---------------------------------------------------------------------------
 
 test("seedanceVersionOf is case-insensitive, tolerates hyphens, and returns null for non-Seedance models", () => {
@@ -93,17 +91,30 @@ test("normalizeModelLabel canonicalizes legacy labels", () => {
   assert.equal(normalizeModelLabel("Kling 2.1"), "Kling 2.1");
 });
 
-test("classifySeedance is three-way and picks the highest version when several are listed", () => {
+test("classifySeedance is two-way: explicit model version wins, highest when several are listed", () => {
   assert.equal(classifySeedance({ models: ["Seedance 2.5"] }), "2.5");
   assert.equal(classifySeedance({ models: ["Seedance 2.0"] }), "2.0");
-  assert.equal(classifySeedance({ models: ["Seedance"] }), "unspecified");
-  assert.equal(classifySeedance({ models: ["Kling", "Seedance"] }), "unspecified");
   assert.equal(classifySeedance({ models: ["Seedance", "Seedance 2.0"] }), "2.0");
   assert.equal(classifySeedance({ models: ["Seedance 2.0", "seedance-2.5"] }), "2.5");
-  assert.equal(classifySeedance({ models: [] }), "unspecified");
-  assert.equal(classifySeedance({}), "unspecified");
+  // 明确的模型标签优先于原帖文案
+  assert.equal(classifySeedance({ models: ["Seedance 2.0"], summary: "Made with Seedance 2.5" }), "2.0");
   const c = { models: ["Seedance", "Seedance 2.5"] };
-  assert.equal([isSeedance25(c), isSeedance20(c), isSeedanceUnversioned(c)].filter(Boolean).length, 1);
+  assert.equal([isSeedance25(c), isSeedance20(c)].filter(Boolean).length, 1);
+});
+
+test("classifySeedance resolves bare Seedance tags from title/summary and falls back to 2.0", () => {
+  assert.equal(classifySeedance({ models: ["Seedance"], summary: "Made with Seedance 2.5 1080p" }), "2.5");
+  assert.equal(classifySeedance({ models: ["Seedance"], title: "Seedance 2.5 印尼女生日常写实短片" }), "2.5");
+  assert.equal(classifySeedance({ models: ["Kling", "Seedance"], summary: "seedance-2.0 prompt below" }), "2.0");
+  // 同一段文案提到多个版本取最高
+  assert.equal(classifySeedance({ models: ["Seedance"], summary: "Seedance 2.0 vs Seedance 2.5" }), "2.5");
+  // prompt 正文不参与判断
+  assert.equal(classifySeedance({ models: ["Seedance"], promptFull: "Seedance 2.5 style" }), "2.0");
+  assert.equal(classifySeedance({ models: ["Seedance"] }), "2.0");
+  assert.equal(classifySeedance({ models: [] }), "2.0");
+  assert.equal(classifySeedance({}), "2.0");
+  assert.equal(seedanceVersionInText("no version here, just Seedance"), null);
+  assert.equal(seedanceVersionInText(null), null);
 });
 
 test("computeStats counts totals, authors, and last-updated correctly", () => {
@@ -112,12 +123,12 @@ test("computeStats counts totals, authors, and last-updated correctly", () => {
   assert.equal(stats.total, 4);
   assert.equal(stats.v25Count, 2);
   assert.equal(stats.v20Count, 2);
-  assert.equal(stats.unversionedCount, 0);
+  assert.equal(stats.unversionedCount, undefined);
   assert.equal(stats.authorCount, 3); // u1, u2, u3
   assert.equal(stats.lastUpdated, "2026-08-26");
 });
 
-test("computeStats three-way version counts add up to the total, each case counted once", () => {
+test("computeStats two-way version counts add up to the total, each case counted once", () => {
   const cases = [
     { models: ["Seedance 2.5"], creator: "a", heatScore: 1 },
     { models: ["seedance-2.5"], creator: "a", heatScore: 1 },
@@ -128,20 +139,20 @@ test("computeStats three-way version counts add up to the total, each case count
   ];
   const stats = computeStats({ cases, meta: {} });
   assert.equal(stats.v25Count, 2);
-  assert.equal(stats.v20Count, 2);
-  assert.equal(stats.unversionedCount, 2);
-  assert.equal(stats.v25Count + stats.v20Count + stats.unversionedCount, stats.total);
+  assert.equal(stats.v20Count, 4); // 两条裸标没有文案线索，兜底 2.0
+  assert.equal(stats.v25Count + stats.v20Count, stats.total);
 });
 
-test("renderStatsTable has three Seedance rows in both languages and no '2.0(+)' wording", () => {
+test("renderStatsTable has two Seedance rows, no unversioned row, and no '2.0(+)' wording", () => {
   const stats = computeStats(loadFixture("cases.fixture.json"));
   const en = renderStatsTable(stats, "en");
   assert.match(en, /\|\s*Seedance 2\.5\s*\|\s*6\s*\|/);
-  assert.match(en, /\|\s*Seedance 2\.0\s*\|\s*3\s*\|/);
-  assert.match(en, /\|\s*Seedance \(version unspecified\)\s*\|\s*1\s*\|/);
+  assert.match(en, /\|\s*Seedance 2\.0\s*\|\s*4\s*\|/);
+  assert.doesNotMatch(en, /unspecified/i);
   assert.doesNotMatch(en, /2\.0\(\+\)/);
   const zh = renderStatsTable(stats, "zh");
-  assert.match(zh, /\|\s*Seedance（未标版本）\s*\|\s*1\s*\|/);
+  assert.doesNotMatch(zh, /未标版本/);
+  assert.doesNotMatch(renderStatsTable(stats, "ja"), /未記載/);
   assert.doesNotMatch(zh, /2\.0\(\+\)/);
 });
 
@@ -280,16 +291,6 @@ test("computeStats returns null lastUpdated when meta.exportedAt is missing", ()
   assert.equal(stats.lastUpdated, null);
 });
 
-test("getFeatured returns top N across versions by heat, not per-version", () => {
-  const featured = getFeatured(fixtureCases, 3);
-  assert.equal(featured.length, 3);
-  assert.deepEqual(featured.map((c) => c.slug), ["b", "a", "c"]);
-});
-
-test("getFeatured defaults to FEATURED_COUNT (6)", () => {
-  assert.equal(FEATURED_COUNT, 6);
-});
-
 test("renderCaseEntry produces expected structure with a closed prompt fence", () => {
   const md = renderCaseEntry(fixtureCases[0], "en");
   assert.match(md, /^### A/);
@@ -335,10 +336,10 @@ test("renderTemplateCard includes only first two guidance points", () => {
 
 test("partitionAllPrompts splits by version bucket (heat-sorted) and exposes the overall top N", () => {
   const cases = [...fixtureCases, { ...fixtureCases[0], slug: "u", models: ["Seedance"], heatScore: 80 }];
-  const { v25, v20, unversioned, top, all } = partitionAllPrompts(cases, 3);
+  const { v25, v20, top, all, ...rest } = partitionAllPrompts(cases, 3);
   assert.deepEqual(v25.map((c) => c.slug), ["b", "a"]); // heat 95, 90
-  assert.deepEqual(v20.map((c) => c.slug), ["c", "d"]); // heat 70, 60
-  assert.deepEqual(unversioned.map((c) => c.slug), ["u"]);
+  assert.deepEqual(v20.map((c) => c.slug), ["u", "c", "d"]); // 裸标 u 兜底进 2.0；heat 80, 70, 60
+  assert.deepEqual(Object.keys(rest), []); // 不再有 unversioned 档
   assert.deepEqual(top.map((c) => c.slug), ["b", "a", "u"]); // overall top 3 across versions
   assert.equal(all.length, 5);
   assert.equal(TOP_INLINE_COUNT, 30);
@@ -404,7 +405,7 @@ test("renderGalleryParts renders every case, splits by budget, and names parts",
 
 test("renderGalleryParts names files per version bucket and reports heading anchors", () => {
   assert.equal(galleryFileBase("2.5"), "gallery-seedance-2-5");
-  assert.equal(galleryFileBase("unspecified"), "gallery-seedance-unversioned");
+  assert.equal(galleryFileBase("2.0"), "gallery-seedance-2-0");
   const data = loadFixture("cases.fixture.json");
   const v25 = data.cases.filter(isSeedance25);
   const [part] = renderGalleryParts(v25, "en", { bucket: "2.5" });
@@ -413,10 +414,11 @@ test("renderGalleryParts names files per version bucket and reports heading anch
   assert.ok(part.markdown.includes("[Back to README](../README.md)"));
   const neon = part.entries.find((e) => e.slug === "neon-alley-chase-25");
   assert.deepEqual(neon, { slug: "neon-alley-chase-25", heading: "Neon Alley Chase", anchor: "neon-alley-chase" });
-  const unversioned = data.cases.filter(isSeedanceUnversioned);
-  const [u] = renderGalleryParts(unversioned, "zh", { bucket: "unspecified" });
-  assert.equal(u.fileName, "gallery-seedance-unversioned.zh.md");
-  assert.ok(u.markdown.startsWith("# Seedance（未标版本） — 全量案例\n"));
+  const v20 = data.cases.filter(isSeedance20);
+  assert.ok(v20.some((c) => c.slug === "tokyo-crosswalk-unversioned")); // 裸标兜底进 2.0 档
+  const [u] = renderGalleryParts(v20, "zh", { bucket: "2.0" });
+  assert.equal(u.fileName, "gallery-seedance-2-0.zh.md");
+  assert.ok(u.markdown.startsWith("# Seedance 2.0 — 全量案例\n"));
 });
 
 // ---------------------------------------------------------------------------

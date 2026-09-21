@@ -14,7 +14,6 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 import {
   computeStats,
-  getFeatured,
   collapseSeries,
   renderCaseEntry,
   renderStatsTable,
@@ -29,7 +28,6 @@ import {
   LANGS,
   SEEDANCE_BUCKETS,
   README_SIZE_BUDGET_BYTES,
-  FEATURED_COUNT,
   TOP_INLINE_COUNT,
 } from "./lib/render.mjs";
 import {
@@ -82,15 +80,13 @@ const casesBySlug = new Map(cases.map((c) => [c.slug, c]));
 
 const stats = computeStats(casesData);
 const snapshot = buildStatsSnapshot(stats, templates, categories, site);
-// 精选和 Top 榜按“系列”折叠：同一作者反复发的同一套 prompt 只留原帖那条；画廊与统计仍是全量。
+// Top 榜按“系列”折叠：同一作者反复发的同一套 prompt 只留原帖那条；画廊与统计仍是全量。
 const series = collapseSeries(cases);
-const featured = getFeatured(series.kept, FEATURED_COUNT);
 const partition = partitionAllPrompts(cases, TOP_INLINE_COUNT);
 const topPartition = partitionAllPrompts(series.kept, TOP_INLINE_COUNT);
 const bucketCases = {
   "2.5": partition.v25,
   "2.0": partition.v20,
-  unspecified: partition.unversioned,
 };
 const categoryGroups = buildCategoryGroups(templates, categories, casesBySlug);
 const tiles = overviewTiles ? buildOverviewTiles(overviewTiles, templates, categories, casesBySlug) : null;
@@ -135,12 +131,10 @@ const COPY = {
       `**Full provenance on every entry.** Author, original post link, publish date, and a heat score, a relative percentile among published cases on the same platform. If it didn't rank, it isn't here.`,
       `**Ships as an installable Agent Skill.** \`npx seedance-prompt-library install\` drops a template library straight into Claude Code / Codex so your agent writes Seedance prompts from proven structures, not guesses.`,
     ],
-    featuredHeading: "## ⭐ Featured",
-    featuredIntro: `Top ${FEATURED_COUNT} prompts by heat score, across all Seedance versions. Long prompts are collapsed; click to expand.`,
     templatesHeading: "## 🧩 Prompt Templates",
     topHeading: `## 🔥 Top ${TOP_INLINE_COUNT} by heat`,
     topIntro: (shown) =>
-      `The ${shown} hottest cases across all versions (ranks 1–${FEATURED_COUNT} are also shown in full under ⭐ Featured). *prompt* opens the full entry in the gallery, *source* opens the creator's original post.`,
+      `The ${shown} hottest cases across all versions. *prompt* opens the full entry in the gallery, *source* opens the creator's original post.`,
     allHeading: "## 🎬 All Prompts",
     allIntro: (total) =>
       `All ${total} cases, with full prompts, live in the gallery under \`docs/\` (sharded so GitHub renders every page). Start from the [gallery index](./docs/gallery.md), or jump to a version:`,
@@ -162,7 +156,7 @@ const COPY = {
       "Each case is counted once; a case tagged with several Seedance versions counts under the highest one.",
     howToHeading: "## 🚀 How to use this repository",
     howToBody: [
-      "1. Start from [⭐ Featured](#-featured) or [🔥 Top 30](#-top-30-by-heat) and decide what kind of clip you want: vlog, ad, dialogue, action, stylized.",
+      "1. Start from [🔥 Top 30](#-top-30-by-heat) and decide what kind of clip you want: vlog, ad, dialogue, action, stylized.",
       "2. Open that category in the [🗂️ Category Overview](#%EF%B8%8F-category-overview) or the full [gallery](./docs/gallery.md), read two or three neighbouring cases, and copy the *structure* first (timeline, shot list, identity lock), then the style words.",
       "3. Install the Skill (`npx seedance-prompt-library install`) or open the [template tables](#-prompt-templates) and fill your own subject, setting and beats into the matching template. Check the case's retest verdict before you commit budget to it.",
     ].join("\n"),
@@ -224,12 +218,10 @@ const COPY = {
       "**每条都带完整溯源。** 作者、原帖链接、发布时间、热度分，热度是同平台已发布案例里的相对分位，上不了榜就不收。",
       "**自带可安装的 Agent Skill。** `npx seedance-prompt-library install` 一行装进 Claude Code / Codex，agent 用真实验证过的模板结构写 Seedance prompt，不是瞎编。",
     ],
-    featuredHeading: "## ⭐ 精选",
-    featuredIntro: `按热度分排序的前 ${FEATURED_COUNT} 条，覆盖全部 Seedance 版本。长 prompt 默认折叠，点开展开。`,
     templatesHeading: "## 🧩 Prompt 模板",
     topHeading: `## 🔥 热度 Top ${TOP_INLINE_COUNT}`,
     topIntro: (shown) =>
-      `全部版本里热度最高的 ${shown} 条（前 ${FEATURED_COUNT} 名同时在上方 ⭐ 精选里完整展示）。*完整 prompt* 跳到画廊里的完整条目，*原帖* 跳到创作者原帖。`,
+      `全部版本里热度最高的 ${shown} 条。*完整 prompt* 跳到画廊里的完整条目，*原帖* 跳到创作者原帖。`,
     allHeading: "## 🎬 全部案例",
     allIntro: (total) =>
       `全部 ${total} 条案例（含完整 prompt）都在 \`docs/\` 下的画廊里，按版本分文件、超长自动分页以保证 GitHub 能渲染。从[画廊总览](./docs/gallery.zh.md)进，或直接跳到某个版本：`,
@@ -250,7 +242,7 @@ const COPY = {
     statsNote: "每条案例只计一次；同时标了多个 Seedance 版本的案例按最高版本计。",
     howToHeading: "## 🚀 怎么用这个仓库",
     howToBody: [
-      "1. 从 [⭐ 精选](#-精选) 或 [🔥 热度 Top 30](#-热度-top-30) 开始，先定你要的片型：vlog、广告、对白、动作、风格化。",
+      "1. 从 [🔥 热度 Top 30](#-热度-top-30) 开始，先定你要的片型：vlog、广告、对白、动作、风格化。",
       "2. 在 [🗂️ 分类总览](#%EF%B8%8F-分类总览) 或完整[画廊](./docs/gallery.zh.md)里打开那一类，读两三条相邻案例，先抄*结构*（时间轴、分镜、身份锁定），再抄风格词。",
       "3. 装上 Skill（`npx seedance-prompt-library install`）或打开[模板表](#-prompt-模板)，把你的主体、场景和节拍填进对应模板。花预算之前先看一眼这条案例的复测结论。",
     ].join("\n"),
@@ -312,12 +304,10 @@ const COPY = {
       "**全エントリに完全な出典。** 作者、元投稿リンク、公開日、そして同一プラットフォーム上の公開ケースにおける相対パーセンタイルであるヒートスコア。ランクインしなかったものはここにありません。",
       "**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実証済みの構造から Seedance プロンプトを書きます。",
     ],
-    featuredHeading: "## ⭐ 注目ケース",
-    featuredIntro: `全 Seedance バージョンを通じたヒートスコア上位 ${FEATURED_COUNT} 件。長いプロンプトは折りたたんであります。クリックで展開。`,
     templatesHeading: "## 🧩 プロンプトテンプレート",
     topHeading: `## 🔥 ヒート Top ${TOP_INLINE_COUNT}`,
     topIntro: (shown) =>
-      `全バージョンでヒートが高い ${shown} 件（1–${FEATURED_COUNT} 位は上の ⭐ 注目ケースにも全文掲載）。*プロンプト* はギャラリーの完全なエントリ、*元投稿* は作者のオリジナル投稿を開きます。`,
+      `全バージョンでヒートが高い ${shown} 件。*プロンプト* はギャラリーの完全なエントリ、*元投稿* は作者のオリジナル投稿を開きます。`,
     allHeading: "## 🎬 全プロンプト",
     allIntro: (total) =>
       `全 ${total} ケースのプロンプト全文は \`docs/\` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:`,
@@ -338,7 +328,7 @@ const COPY = {
     statsNote: "各ケースは 1 回だけ数えます。複数の Seedance バージョンが付いたケースは最上位バージョンに計上します。",
     howToHeading: "## 🚀 このリポジトリの使い方",
     howToBody: [
-      "1. [⭐ 注目ケース](#-注目ケース) か [🔥 ヒート Top 30](#-ヒート-top-30) から始めて、作りたいクリップの種類を決めます: vlog、広告、対話、アクション、スタイライズ。",
+      "1. [🔥 ヒート Top 30](#-ヒート-top-30) から始めて、作りたいクリップの種類を決めます: vlog、広告、対話、アクション、スタイライズ。",
       "2. [🗂️ カテゴリ一覧](#%EF%B8%8F-カテゴリ一覧) か完全な[ギャラリー](./docs/gallery.ja.md)でそのカテゴリを開き、近いケースを 2、3 件読んで、まず *構造*（タイムライン、ショットリスト、アイデンティティ固定）を写し、次にスタイル語彙を写します。",
       "3. Skill をインストール（`npx seedance-prompt-library install`）するか、[テンプレート表](#-プロンプトテンプレート)を開き、自分の被写体・舞台・ビートを対応するテンプレートに流し込みます。予算を使う前にそのケースの再テスト判定を確認してください。",
     ].join("\n"),
@@ -425,11 +415,6 @@ function buildReadme(lang) {
     sections.push({ heading, body: rest.join("\n").trim().split("\n") });
   }
 
-  const featuredBody = [c.featuredIntro, ""];
-  for (const caseObj of featured) {
-    featuredBody.push(renderCaseEntry(caseObj, lang, { usedHeadings }));
-  }
-  sections.push({ heading: c.featuredHeading, body: featuredBody });
 
   const overview = renderCategoryOverview(categoryGroups, lang, { tiles });
   {
@@ -566,7 +551,7 @@ for (const bucket of SEEDANCE_BUCKETS) {
 }
 console.log(`Stats: ${JSON.stringify(snapshot)}`);
 if (series.collapsed.length) {
-  console.log(`Series collapsed in Featured/Top (${series.collapsed.length}): ${series.collapsed.map((x) => `${x.slug} → ${x.keptSlug}`).join("; ")}`);
+  console.log(`Series collapsed in Top (${series.collapsed.length}): ${series.collapsed.map((x) => `${x.slug} → ${x.keptSlug}`).join("; ")}`);
 }
 // fitToSizeBudget 仍导出给测试和其他调用方；README 主体已改为按行裁剪。
 void fitToSizeBudget;

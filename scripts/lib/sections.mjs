@@ -13,6 +13,7 @@ import {
   classifySeedance,
   bucketShortLabel,
   bucketLabel,
+  SEEDANCE_BUCKETS,
   galleryIndexFileName,
   readmeFileName,
   t,
@@ -67,7 +68,6 @@ export function buildStatsSnapshot(stats, templates, categories, site = null) {
     skills: videoSkills + 1,
     seedance25: stats.v25Count,
     seedance20: stats.v20Count,
-    unversioned: stats.unversionedCount,
     authors: stats.authorCount,
     retestRuns: stats.retestRuns,
     retestCases: stats.retestCases,
@@ -205,7 +205,7 @@ export function renderQuickLinks({ parts, bucketCases, templates, categories, st
       ja: `全 ${stats.total} ケースのプロンプト全文、全ページをここから。`,
     })}`
   );
-  for (const bucket of ["2.5", "2.0", "unspecified"]) {
+  for (const bucket of SEEDANCE_BUCKETS) {
     const list = bucketCases[bucket];
     if (!list || !list.length) continue;
     const label = bucketLabel(bucket, lang);
@@ -576,7 +576,7 @@ export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks }, l
   lines.push("");
   lines.push(t(lang, { en: "## Pages", zh: "## 分页", ja: "## ページ" }));
   lines.push("");
-  for (const bucket of ["2.5", "2.0", "unspecified"]) {
+  for (const bucket of SEEDANCE_BUCKETS) {
     const list = bucketCases[bucket];
     if (!list || !list.length) continue;
     const label = bucketLabel(bucket, lang);

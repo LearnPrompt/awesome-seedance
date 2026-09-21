@@ -61,11 +61,10 @@ function galleryContext(lang) {
   const bucketCases = {
     "2.5": sorted.filter((c) => classifySeedance(c) === "2.5"),
     "2.0": sorted.filter((c) => classifySeedance(c) === "2.0"),
-    unspecified: sorted.filter((c) => classifySeedance(c) === "unspecified"),
   };
   const parts = {};
   const promptLinks = new Map();
-  for (const bucket of ["2.5", "2.0", "unspecified"]) {
+  for (const bucket of ["2.5", "2.0"]) {
     parts[bucket] = bucketCases[bucket].length ? renderGalleryParts(bucketCases[bucket], lang, { bucket, budget: 6000 }) : [];
     for (const p of parts[bucket]) for (const e of p.entries) promptLinks.set(e.slug, `./docs/${p.fileName}#${e.anchor}`);
   }

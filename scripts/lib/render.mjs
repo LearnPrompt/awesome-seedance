@@ -5,7 +5,6 @@
 // README 体积目标：GitHub 超过 512KB 拒渲染，旧版 300KB 上限下 README 仍有 307KB，
 // 全球发布审计要求压到 ~120KB 以内。超预算时从 Top 榜表格尾部裁行（见 fitToSizeBudget）。
 export const README_SIZE_BUDGET_BYTES = 120 * 1024;
-export const FEATURED_COUNT = 6;
 export const TOP_INLINE_COUNT = 30;
 /** prompt 超过这个行数就折叠进 <details>，README 和画廊里都生效（批注：超过五行的可以折叠展开）。 */
 export const PROMPT_COLLAPSE_LINES = 5;
@@ -90,13 +89,14 @@ export function sortByHeat(cases) {
 // ---------------------------------------------------------------------------
 // Seedance 版本分类。数据里的模型标签既有规范形 "Seedance 2.5" / "Seedance 2.0"，
 // 也有不带版本的 "Seedance" 和历史遗留的 "seedance-2.5"。上游导出层正在改成规范标签，
-// 但这里必须大小写不敏感、容忍连字符，三档互斥：2.5 / 2.0 / 未标版本。
+// 但这里必须大小写不敏感、容忍连字符，两档互斥：2.5 / 2.0（裸标按原帖文案落档，兜底 2.0）。
 // 一条 case 同时列了多个 Seedance 版本时按最高版本计，保证每条只算一次。
 // ---------------------------------------------------------------------------
 
 const SEEDANCE_MODEL_RE = /^\s*seedance(?:[\s_-]*(\d+(?:\.\d+)?))?\s*(.*)$/i;
 
-export const SEEDANCE_BUCKETS = ["2.5", "2.0", "unspecified"];
+// case 级只有两档；标签级的 seedanceVersionOf 仍可能返回 "unspecified"（裸标），由 classifySeedance 落档。
+export const SEEDANCE_BUCKETS = ["2.5", "2.0"];
 const BUCKET_RANK = { "2.5": 2, "2.0": 1, unspecified: 0 };
 
 /** "seedance-2.5" → "Seedance 2.5"；非 Seedance 标签原样返回（去首尾空白）。 */
@@ -121,15 +121,36 @@ export function seedanceVersionOf(model) {
   return Number.parseFloat(version) >= 2.5 ? "2.5" : "2.0";
 }
 
-/** 整条 case 的版本档，多个 Seedance 版本取最高；没有任何 Seedance 标签也归 unspecified。 */
+// 原帖标题 / 文案里写的版本。只认紧跟在 Seedance 后面的版本号，不读 prompt 正文
+// （正文里常同时提到多个版本做对比，会误判）。
+const SEEDANCE_TEXT_VERSION_RE = /seedance[\s_-]*(\d+(?:\.\d+)?)/gi;
+
+/** 从一段文字里读 Seedance 版本档，多处提及取最高；没提到返回 null。 */
+export function seedanceVersionInText(text) {
+  if (typeof text !== "string" || !text) return null;
+  let best = null;
+  for (const m of text.matchAll(SEEDANCE_TEXT_VERSION_RE)) {
+    const v = Number.parseFloat(m[1]) >= 2.5 ? "2.5" : "2.0";
+    if (best == null || BUCKET_RANK[v] > BUCKET_RANK[best]) best = v;
+  }
+  return best;
+}
+
+/**
+ * 整条 case 的版本档，只有 "2.5" | "2.0" 两档，每条只算一次。
+ * 优先级：models 里的明确版本（多个取最高）> 标题与原帖文案里写的版本 > 兜底 2.0。
+ * 上游仍会导出不带版本的 "Seedance" 裸标，这里负责把它们落到具体版本，README 不再出现“未标版本”。
+ */
 export function classifySeedance(caseObj) {
   let best = null;
   for (const model of (caseObj && caseObj.models) || []) {
     const v = seedanceVersionOf(model);
-    if (v == null) continue;
+    if (v == null || v === "unspecified") continue;
     if (best == null || BUCKET_RANK[v] > BUCKET_RANK[best]) best = v;
   }
-  return best ?? "unspecified";
+  if (best) return best;
+  const c = caseObj || {};
+  return seedanceVersionInText(`${c.title || ""}\n${c.summary || ""}`) ?? "2.0";
 }
 
 /** True if a case belongs to the Seedance 2.5 line. */
@@ -141,15 +162,11 @@ export function isSeedance20(caseObj) {
   return classifySeedance(caseObj) === "2.0";
 }
 
-export function isSeedanceUnversioned(caseObj) {
-  return classifySeedance(caseObj) === "unspecified";
-}
-
 export function bucketLabel(bucket, lang) {
   assertLang(lang);
   if (bucket === "2.5") return "Seedance 2.5";
   if (bucket === "2.0") return "Seedance 2.0";
-  return t(lang, { en: "Seedance (version unspecified)", zh: "Seedance（未标版本）", ja: "Seedance（バージョン未記載）" });
+  throw new Error(`Unknown Seedance bucket: ${bucket}`);
 }
 
 /** 短版本标签，用于 Top 榜表格。 */
@@ -157,7 +174,7 @@ export function bucketShortLabel(bucket, lang) {
   assertLang(lang);
   if (bucket === "2.5") return "2.5";
   if (bucket === "2.0") return "2.0";
-  return t(lang, { en: "unspecified", zh: "未标版本", ja: "未記載" });
+  throw new Error(`Unknown Seedance bucket: ${bucket}`);
 }
 
 // ---------------------------------------------------------------------------
@@ -261,7 +278,7 @@ export function displaySummary(caseObj, lang) {
 
 /** GitHub 风格的标题锚点（近似 github-slugger）：小写、去标点、空格转连字符。 */
 export function githubSlug(text) {
-  // 与 github-slugger 一致：先 trim 再去标点/emoji，所以 "⭐ Featured" → "-featured"（保留前导连字符）。
+  // 与 github-slugger 一致：先 trim 再去标点/emoji，所以 "🔥 Top 30" → "-top-30"（保留前导连字符）。
   return collapseWhitespace(text)
     .toLowerCase()
     .replace(/[^\p{L}\p{N}\s_-]/gu, "")
@@ -291,7 +308,6 @@ export function computeStats(data) {
   const cases = data.cases || [];
   const v25 = cases.filter(isSeedance25);
   const v20 = cases.filter(isSeedance20);
-  const unversioned = cases.filter(isSeedanceUnversioned);
   const authors = new Set(cases.map((c) => c.creator));
   // "Last updated" 取数据导出时间（data/cases.json 顶层 meta.exportedAt），
   // 不再取案例里最新的 sourcePublishedAt——那只反映内容年代，不反映数据本身多久没刷新过。
@@ -319,7 +335,6 @@ export function computeStats(data) {
     total: cases.length,
     v25Count: v25.length,
     v20Count: v20.length,
-    unversionedCount: unversioned.length,
     authorCount: authors.size,
     lastUpdated,
     retestCases,
@@ -344,11 +359,10 @@ export function renderTable(headers, rows) {
   return [line(all[0]), sep, ...all.slice(1).map(line)].join("\n");
 }
 
-/** Statistics 表。三档 Seedance 版本互斥，加总等于案例总数；有 retestBatchNote 时表下加一行说明。 */
+/** Statistics 表。两档 Seedance 版本互斥，加总等于案例总数；有 retestBatchNote 时表下加一行说明。 */
 export function renderStatsTable(stats, lang, site = null) {
   assertLang(lang);
   const avg = stats.stabilityAvg != null ? stats.stabilityAvg.toFixed(1) : "-";
-  const unversioned = stats.unversionedCount ?? 0;
   const lastUpdated = stats.lastUpdated ?? "-";
   // goodcase.ai 站点全量（含非 Seedance 的图像/编程/文案案例）放在表尾，口径与 Seedance 行分开。
   const siteRows = site && site.totalCases
@@ -375,7 +389,6 @@ export function renderStatsTable(stats, lang, site = null) {
         ["Seedance cases in this repo", stats.total],
         ["Seedance 2.5", stats.v25Count],
         ["Seedance 2.0", stats.v20Count],
-        ["Seedance (version unspecified)", unversioned],
         ["Unique authors", stats.authorCount],
         ["Re-run on other models", `${stats.retestCases} cases / ${stats.retestRuns} runs`],
         ["Stability score (measured)", `${stats.stabilityCases} cases / avg ${avg}`],
@@ -390,7 +403,6 @@ export function renderStatsTable(stats, lang, site = null) {
         ["このリポジトリの Seedance ケース", stats.total],
         ["Seedance 2.5", stats.v25Count],
         ["Seedance 2.0", stats.v20Count],
-        ["Seedance（バージョン未記載）", unversioned],
         ["作者数", stats.authorCount],
         ["他モデルでの再テスト", `${stats.retestCases} 件 / ${stats.retestRuns} 回`],
         ["安定度スコア（測定済み）", `${stats.stabilityCases} 件 / 平均 ${avg}`],
@@ -405,7 +417,6 @@ export function renderStatsTable(stats, lang, site = null) {
         ["本仓库 Seedance 案例", stats.total],
         ["Seedance 2.5", stats.v25Count],
         ["Seedance 2.0", stats.v20Count],
-        ["Seedance（未标版本）", unversioned],
         ["作者数", stats.authorCount],
         ["跨模型复测", `${stats.retestCases} 条 / ${stats.retestRuns} 次`],
         ["稳定度分（已测）", `${stats.stabilityCases} 条 / 均分 ${avg}`],
@@ -424,9 +435,6 @@ export function renderStatsTable(stats, lang, site = null) {
   return `${table}\n\n${noteLine}`;
 }
 
-export function getFeatured(cases, count = FEATURED_COUNT) {
-  return sortByHeat(cases).slice(0, count);
-}
 
 const SERIES_PREFIX_LEN = 60;
 const SERIES_JACCARD_MIN = 0.2;
@@ -707,14 +715,13 @@ export function renderTemplateCard(template, lang, opts = {}) {
 
 /**
  * 按三档版本拆分并各自按热度排序。
- * 返回 { v25, v20, unversioned, top }：top 是全体按热度的前 topCount 条（含 featured）。
+ * 返回 { v25, v20, top, all }：top 是全体按热度的前 topCount 条。
  */
 export function partitionAllPrompts(cases, topCount = TOP_INLINE_COUNT) {
   const sorted = sortByHeat(cases);
   return {
     v25: sorted.filter(isSeedance25),
     v20: sorted.filter(isSeedance20),
-    unversioned: sorted.filter(isSeedanceUnversioned),
     top: sorted.slice(0, topCount),
     all: sorted,
   };
@@ -821,7 +828,6 @@ export const GALLERY_PART_BUDGET_BYTES = 350 * 1024;
 const GALLERY_FILE_BASE = {
   "2.5": "gallery-seedance-2-5",
   "2.0": "gallery-seedance-2-0",
-  unspecified: "gallery-seedance-unversioned",
 };
 
 /** 画廊总览页文件名：docs/gallery.md / docs/gallery.zh.md。 */
@@ -848,7 +854,7 @@ export function galleryPartFileName(lang, partNo, totalParts, base = GALLERY_FIL
 
 /**
  * 把某一档的全部案例渲染成分片画廊。
- * opts.bucket: "2.5" | "2.0" | "unspecified"（决定标题与文件名）；opts.budget: 单片字节上限。
+ * opts.bucket: "2.5" | "2.0"（决定标题与文件名）；opts.budget: 单片字节上限。
  * 返回每片 { markdown, partNo, totalParts, caseCount, fileName, entries:[{slug, heading, anchor}] }，
  * entries 供 README 的 Top 榜生成指向完整条目的锚点链接。
  */
