@@ -7,6 +7,7 @@
   "scripts": {
     "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs",
     "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs scripts/lib/submissions.test.mjs scripts/lib/templates.test.mjs",
+    "check:links": "node scripts/check-links.mjs",
     "taxonomy:todo": "node scripts/taxonomy-todo.mjs",
     "validate:submissions": "node scripts/validate-submissions.mjs",
     "refresh:site": "node scripts/fetch-site-stats.mjs && node scripts/fetch-retest-posters.mjs"
