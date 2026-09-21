@@ -54,4 +54,39 @@ const next = {
   },
 };
 writeFileSync(FILE, JSON.stringify(next, null, 2) + "\n", "utf8");
+
+// ---------------------------------------------------------------------------
+// data/skills.json：README 的 Skill 网格。这里只刷新带 siteSlug 的条目的 variants 和 cover，
+// 标题、简介、安装命令都是人工写的，原样保留。抓不到就保留旧值。
+// 列表页每张变体卡片的文字形如「作者名 · 基础款名」，href 形如 /skills/<base>-by-<id>。
+// ---------------------------------------------------------------------------
+const SKILLS_FILE = path.join(ROOT, "data/skills.json");
+const skillsData = JSON.parse(readFileSync(SKILLS_FILE, "utf8"));
+const decode = (str) => str.replace(/&amp;/g, "&").replace(/&#x27;|&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, "<").replace(/&gt;/g, ">");
+const cards = [...skillsHtml.matchAll(/<a[^>]+href="(\/skills\/[a-z0-9-]+)"[^>]*>([\s\S]*?)<\/a>/g)]
+  .map((m) => ({ href: m[1], text: decode(m[2].replace(/<[^>]+>/g, " ").replace(/\s+/g, " ").trim()) }))
+  .filter((c) => c.text);
+for (const skill of skillsData.skills) {
+  if (!skill.siteSlug) continue;
+  const prefix = `/skills/${skill.siteSlug}-by-`;
+  const seen = new Set();
+  const variants = [];
+  for (const c of cards) {
+    if (!c.href.startsWith(prefix) || seen.has(c.href)) continue;
+    seen.add(c.href);
+    variants.push({ creator: c.text.split(" · ")[0].trim(), url: `https://goodcase.ai${c.href}` });
+  }
+  if (variants.length) skill.variants = variants.sort((a, b) => a.creator.localeCompare(b.creator, "en", { sensitivity: "base" }));
+  try {
+    const res = await fetch(`https://goodcase.ai/skills/${skill.siteSlug}`, { headers: { "user-agent": "awesome-seedance/site-stats" } });
+    const page = res.ok ? await res.text() : "";
+    const poster = page.match(/https:\/\/media\.goodcase\.ai\/(?:media\/poster|cases)\/[^"\\ ?]+\.jpg/);
+    if (poster) skill.cover = { src: poster[0] };
+  } catch (err) {
+    console.log(`  ! ${skill.siteSlug}: ${err.message}, keeping old cover`);
+  }
+}
+writeFileSync(SKILLS_FILE, JSON.stringify(skillsData, null, 2) + "\n", "utf8");
+const variantTotal = skillsData.skills.reduce((n, sk) => n + (sk.variants || []).length, 0);
+console.log(`data/skills.json: ${skillsData.skills.length} skills, ${variantTotal} creator variants`);
 console.log(`data/site.json: cases ${next.totalCases}, video ${next.videoCases}, creators ${next.creators}, video skills ${next.videoSkills.base}+${next.videoSkills.creatorVariants}`);

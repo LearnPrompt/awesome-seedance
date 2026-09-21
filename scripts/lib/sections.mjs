@@ -38,7 +38,7 @@ function readmeUrl(lang) {
   return `${BLOB_URL}/${readmeFileName(lang)}`;
 }
 
-function escapeXml(str) {
+export function escapeXml(str) {
   return String(str)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
@@ -54,7 +54,7 @@ function escapeXml(str) {
  * data/stats.json 的内容：shields.io 的 dynamic/json 徽章直接读 raw.githubusercontent 上的这个文件，
  * 所以 README 顶部的数字随每天的数据同步自动变，不用重新生成徽章 URL。
  */
-export function buildStatsSnapshot(stats, templates, categories, site = null) {
+export function buildStatsSnapshot(stats, templates, categories, site = null, skillsCount = null) {
   const videoSkills = site?.videoSkills ? (site.videoSkills.base || 0) + (site.videoSkills.creatorVariants || 0) : 0;
   return {
     cases: stats.total,
@@ -65,7 +65,8 @@ export function buildStatsSnapshot(stats, templates, categories, site = null) {
     siteFetchedAt: site?.fetchedAt ?? null,
     // AI 视频 Skill 数：goodcase.ai 上的视频 Skill（基础 + 创作者变体）+ 本仓库自带的 1 个。
     videoSkillsOnSite: videoSkills,
-    skills: videoSkills + 1,
+    // skillsCount：README Skill 网格里的总数（data/skills.json 的 Skill + 创作者变体）；没传时退回旧口径。
+    skills: skillsCount ?? videoSkills + 1,
     seedance25: stats.v25Count,
     seedance20: stats.v20Count,
     authors: stats.authorCount,
@@ -87,7 +88,8 @@ function dynamicBadge(query, label, color, href) {
 }
 
 /** 顶部徽章行：案例数 / 复测次数 / 模板数 / 最近更新 走动态 JSON，Skill 版本走 npm，其余静态。 */
-export function renderBadges(lang) {
+/** anchors: { all, retests, templates, skills }，都是带 # 的页内锚点，由调用方按当前语言的标题算出。 */
+export function renderBadges(lang, anchors = {}) {
   const L = {
     cases: t(lang, { en: "cases", zh: "案例", ja: "ケース" }),
     retests: t(lang, { en: "cross-model retests", zh: "跨模型复测", ja: "クロスモデル再テスト" }),
@@ -96,10 +98,10 @@ export function renderBadges(lang) {
     skill: t(lang, { en: "agent skill", zh: "Agent Skill", ja: "Agent Skill" }),
   };
   return [
-    dynamicBadge("$.cases", L.cases, "e8541e", "#-all-prompts"),
-    dynamicBadge("$.retestRuns", L.retests, "111111", "#-cross-model-retests"),
-    dynamicBadge("$.templates", L.templates, "111111", "#-prompt-templates"),
-    dynamicBadge("$.skills", t(lang, { en: "AI video skills", zh: "AI 视频 Skill", ja: "AI 動画 Skill" }), "111111", "#install"),
+    dynamicBadge("$.cases", L.cases, "e8541e", anchors.all || LIVE_SITE_URL),
+    dynamicBadge("$.retestRuns", L.retests, "111111", anchors.retests || LIVE_SITE_URL),
+    dynamicBadge("$.templates", L.templates, "111111", anchors.templates || LIVE_SITE_URL),
+    dynamicBadge("$.skills", t(lang, { en: "AI video skills", zh: "AI 视频 Skill", ja: "AI 動画 Skill" }), "111111", anchors.skills || LIVE_SITE_URL),
     dynamicBadge("$.lastUpdated", L.updated, "555555", LIVE_SITE_URL),
     `[![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=${encodeURIComponent(L.skill)}&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library)`,
     "[![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE)",
@@ -186,67 +188,6 @@ function partTag(p, lang, style) {
 // Quick Links：和 Contents 的分工——Contents 是本页章节，Quick Links 是带数量的资产入口。
 // ---------------------------------------------------------------------------
 
-export function renderQuickLinks({ parts, bucketCases, templates, categories, stats }, lang) {
-  const lines = [];
-  lines.push(t(lang, { en: "## Quick Links", zh: "## 快速入口", ja: "## クイックリンク" }));
-  lines.push("");
-  lines.push(
-    t(lang, {
-      en: "Jump straight to the assets. The Contents list below is the section map of this page.",
-      zh: "直接跳到资产。下面的目录是本页章节地图。",
-      ja: "アセットへ直接ジャンプ。下の目次はこのページのセクション一覧です。",
-    })
-  );
-  lines.push("");
-  lines.push(
-    `- [${t(lang, { en: "Gallery index", zh: "画廊总览", ja: "ギャラリー索引" })}](${BLOB_URL}/docs/${galleryIndexFileName(lang)}) - ${t(lang, {
-      en: `All ${stats.total} cases with full prompts, every page in one place.`,
-      zh: `全部 ${stats.total} 条案例（含完整 prompt），所有分页一处可达。`,
-      ja: `全 ${stats.total} ケースのプロンプト全文、全ページをここから。`,
-    })}`
-  );
-  for (const bucket of SEEDANCE_BUCKETS) {
-    const list = bucketCases[bucket];
-    if (!list || !list.length) continue;
-    const label = bucketLabel(bucket, lang);
-    for (const p of parts[bucket]) {
-      lines.push(`- [${label}${partTag(p, lang, "inline")}](${BLOB_URL}/docs/${p.fileName}) - ${capitalize(pageRange(p, list.length, lang))}.`);
-    }
-  }
-  lines.push(
-    `- [${t(lang, { en: "Prompt templates", zh: "Prompt 模板", ja: "プロンプトテンプレート" })}](${readmeUrl(lang)}#-prompt-templates) - ${t(lang, {
-      en: `${templates.length} reusable structures in ${categories.length} categories.`,
-      zh: `${categories.length} 类共 ${templates.length} 个可复用结构。`,
-      ja: `${categories.length} カテゴリ、${templates.length} 個の再利用可能な構造。`,
-    })}`
-  );
-  lines.push(
-    `- [Agent Skill](${REPO_URL}/tree/main/agents/skills/seedance-prompt-library) - ${t(lang, {
-      en: "Install with `npx seedance-prompt-library install` into Claude Code / Codex.",
-      zh: "`npx seedance-prompt-library install` 装进 Claude Code / Codex。",
-      ja: "`npx seedance-prompt-library install` で Claude Code / Codex に導入。",
-    })}`
-  );
-  if (stats.videoSkillsOnSite) {
-    lines.push(
-      `- [${t(lang, { en: "More AI-video Skills on goodcase.ai", zh: "goodcase.ai 上更多 AI 视频 Skill", ja: "goodcase.ai の AI 動画 Skill" })}](${stats.videoSkillsUrl}) - ${t(lang, {
-        en: `${stats.videoSkillsOnSite} installable Skills grown out of the video cases.`,
-        zh: `${stats.videoSkillsOnSite} 个从视频案例里长出来的可安装 Skill。`,
-        ja: `動画ケースから育った ${stats.videoSkillsOnSite} 個のインストール可能な Skill。`,
-      })}`
-    );
-  }
-  lines.push(
-    `- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${LIVE_SITE_URL}) - ${t(lang, {
-      en: "Search, heat leaderboard, stability ranking, retest logs.",
-      zh: "搜索、热度榜、稳定度榜、复测记录。",
-      ja: "検索、ヒートランキング、安定度ランキング、再テスト記録。",
-    })}`
-  );
-  // Contributing / License 不放这里：Contents 已经有 How to Contribute 与 License，两处并列会重复。
-  return lines.join("\n");
-}
-
 // ---------------------------------------------------------------------------
 // 🔁 复测聚焦区：往前提到 Featured 之前。说明我们是谁、复测了什么、结果如何、钱和赞助。
 // ---------------------------------------------------------------------------
@@ -315,6 +256,10 @@ export function renderSpendLine(spend, runs, lang) {
 export const SPONSOR_EMAIL = "carl@goodcase.ai";
 
 /** 复测样例的产物封面：opts.retestPosterFor(caseObj) 返回相对路径（assets/retests/<slug>.jpg）或 null。 */
+export function retestHeading(lang) {
+  return t(lang, { en: "## 🔁 Cross-model retests", zh: "## 🔁 跨模型复测", ja: "## 🔁 クロスモデル再テスト" });
+}
+
 export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   const retestsMeta = meta && meta.retests;
   const retestPosterFor = opts.retestPosterFor || (() => null);
@@ -328,7 +273,7 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   const spend = opts.spend ?? meta.retestSpend ?? null;
 
   const lines = [];
-  lines.push(t(lang, { en: "## 🔁 Cross-model retests", zh: "## 🔁 跨模型复测", ja: "## 🔁 クロスモデル再テスト" }));
+  lines.push(retestHeading(lang));
   lines.push("");
   lines.push(
     t(lang, {
@@ -416,145 +361,16 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
 // 🗂 分类总览：Featured 之后的一屏，按模板分类给缩略图 + 数量 + 入口。
 // ---------------------------------------------------------------------------
 
-const CATEGORY_ICON = {
-  foundation: "🏗️",
+export const CATEGORY_ICON = {
+  foundation: "🧱",
   realism: "📱",
-  commercial: "🛍️",
+  commercial: "🛒",
   narrative: "🎭",
   stylized: "🎨",
   motion: "💥",
 };
 
-/**
- * 总览格子：data/overview-tiles.json 的 12 格，每格挂 1-2 个模板。
- * 返回 { tile, templates, cases, cover, category }，category 取第一个模板的分类（决定 "View templates" 锚点）。
- */
-export function buildOverviewTiles(tilesConfig, templates, categories, casesBySlug) {
-  const byId = new Map(templates.map((tp) => [tp.id, tp]));
-  const catById = new Map(categories.map((c) => [c.id, c]));
-  return (tilesConfig?.tiles || []).map((tile) => {
-    const tpls = (tile.templates || []).map((id) => byId.get(id)).filter(Boolean);
-    const slugs = new Set();
-    for (const tp of tpls) for (const s of tp.exampleCases || []) slugs.add(s);
-    const cases = sortByHeat(Array.from(slugs).map((s) => casesBySlug.get(s)).filter(Boolean));
-    const category = tpls[0] ? catById.get(tpls[0].category) || null : null;
-    return { tile, templates: tpls, cases, cover: cases[0] || null, category };
-  });
-}
-
-/** 每个分类：模板列表、去重后的示例案例（按热度）、封面案例。 */
-export function buildCategoryGroups(templates, categories, casesBySlug) {
-  return categories.map((cat) => {
-    const tpls = templates.filter((tp) => tp.category === cat.id);
-    const slugs = new Set();
-    for (const tp of tpls) for (const s of tp.exampleCases || []) slugs.add(s);
-    const cases = sortByHeat(Array.from(slugs).map((s) => casesBySlug.get(s)).filter(Boolean));
-    return { category: cat, templates: tpls, cases, cover: cases[0] || null };
-  });
-}
-
-export function categoryHeading(group, lang) {
-  const icon = CATEGORY_ICON[group.category.id] || "🧩";
-  const n = group.templates.length;
-  const title = pickLang(group.category.title, lang);
-  return t(lang, {
-    en: `### ${icon} ${title} (${n} ${n === 1 ? "template" : "templates"})`,
-    zh: `### ${icon} ${title}（${n} 个模板）`,
-    ja: `### ${icon} ${title}（テンプレート ${n} 件）`,
-  });
-}
-
-export function renderCategoryOverview(groups, lang, opts = {}) {
-  // tiles（12 格，每格 1-2 个模板）优先；没传 tiles 时退回按 6 个分类一格。
-  const items = (opts.tiles || null) ?? groups.map((g) => ({ tile: null, templates: g.templates, cases: g.cases, cover: g.cover, category: g.category, group: g }));
-  const cols = opts.cols || (opts.tiles ? 4 : 3);
-  const lines = [];
-  lines.push(t(lang, { en: "## 🗂️ Category Overview", zh: "## 🗂️ 分类总览", ja: "## 🗂️ カテゴリ一覧" }));
-  lines.push("");
-  lines.push(
-    t(lang, {
-      en: "Start from the look you want, then open that category's templates to turn it into a reusable structure. Each tile links to the templates below and to the verified cases behind them.",
-      zh: "先从想要的画面类型入手，再打开该分类的模板，把它变成可复用的结构。每格都链到下方的模板和它背后的已验证案例。",
-      ja: "作りたい絵柄から入り、そのカテゴリのテンプレートを開いて再利用可能な構造に落とし込みます。各タイルは下のテンプレートと、その裏付けとなる検証済みケースにリンクしています。",
-    })
-  );
-  lines.push("");
-  const width = Math.floor(100 / cols);
-  const imgWidth = cols >= 4 ? 200 : 260;
-  lines.push("<table>");
-  for (let i = 0; i < items.length; i += cols) {
-    lines.push("<tr>");
-    for (const it of items.slice(i, i + cols)) {
-      const icon = CATEGORY_ICON[it.category?.id] || "🧩";
-      const title = it.tile ? pickLang(it.tile.title, lang) : pickLang(it.category?.title, lang);
-      const anchorGroup = it.group || (it.category ? groups.find((g) => g.category.id === it.category.id) : null);
-      const anchor = anchorGroup ? `#${githubSlug(categoryHeading(anchorGroup, lang).replace(/^###\s+/, ""))}` : "#-prompt-templates";
-      const cover = it.cover;
-      const img = cover
-        ? `<a href="${cover.goodcaseUrl}"><img src="${cover.posterUrl}" width="${imgWidth}" alt="${escapeXml(displayTitle(cover, lang))}"></a>`
-        : "";
-      const nT = it.templates.length;
-      const nC = it.cases.length;
-      const countLine = t(lang, {
-        en: `${nT} ${nT === 1 ? "template" : "templates"} · ${nC} verified cases`,
-        zh: `${nT} 个模板 · ${nC} 条已验证案例`,
-        ja: `テンプレート ${nT} 件 · 検証済みケース ${nC} 件`,
-      });
-      const desc = it.tile
-        ? it.templates.map((tp) => pickLang(tp.title, lang)).join(" · ")
-        : pickLang(it.category?.description, lang);
-      const viewTpl = t(lang, { en: "View templates", zh: "查看模板", ja: "テンプレートを見る" });
-      const topCase = t(lang, { en: "Top case", zh: "热度最高案例", ja: "トップケース" });
-      const links = `<a href="${anchor}">${viewTpl}</a>${cover ? ` · <a href="${cover.goodcaseUrl}">${topCase}</a>` : ""}`;
-      lines.push(
-        `<td width="${width}%" valign="top" align="center"><b>${icon} ${escapeXml(title)}</b><br><sub>${escapeXml(countLine)}</sub><br><br>${img}<br><sub>${escapeXml(desc)}</sub><br>${links}</td>`
-      );
-    }
-    lines.push("</tr>");
-  }
-  lines.push("</table>");
-  return lines.join("\n");
-}
-
-// ---------------------------------------------------------------------------
-// 🧩 模板：按分类分组的紧凑表（模板 | 适用场景 | 示例），完整文本在 Skill 参考里。
-// ---------------------------------------------------------------------------
-
-export function renderTemplateTables(groups, lang, opts = {}) {
-  const refPath = opts.referencePath || "./agents/skills/seedance-prompt-library/references/style-library.md";
-  const lines = [];
-  lines.push(
-    t(lang, {
-      en: `Reusable prompt structures distilled from the highest-performing cases, grouped by category. Each row is one template; the full structure, guidance and pitfalls for every template live in the [Skill reference](${refPath}) and ship with \`npx seedance-prompt-library install\`.`,
-      zh: `从最高热度案例里提炼出来的可复用 prompt 结构，按分类分组。每行一个模板；每个模板的完整结构、要点和坑都在 [Skill 参考文档](${refPath}) 里，\`npx seedance-prompt-library install\` 会一起装上。`,
-      ja: `高パフォーマンスのケースから抽出した再利用可能なプロンプト構造を、カテゴリ別にまとめました。1 行が 1 テンプレートです。各テンプレートの完全な構造・ポイント・落とし穴は [Skill リファレンス](${refPath}) にあり、\`npx seedance-prompt-library install\` で一緒に導入されます。テンプレート本文は英語です。`,
-    })
-  );
-  lines.push("");
-  for (const g of groups) {
-    lines.push(categoryHeading(g, lang));
-    lines.push("");
-    lines.push(pickLang(g.category.description, lang));
-    lines.push("");
-    const headers = t(lang, { en: ["Template", "Use when", "Examples"], zh: ["模板", "适用场景", "示例"], ja: ["テンプレート", "使いどころ", "例"] });
-    const rows = g.templates.map((tp) => {
-      const title = pickLang(tp.title, lang);
-      const anchor = `${refPath}#${githubSlug(title)}`;
-      const useWhen = pickLang(tp.useWhen, lang);
-      const examples = (tp.exampleCaseUrls || []).map((u, i) => `[#${i + 1}](${u})`).join(" ");
-      return [`**[${title}](${anchor})**<br><sub>${pickLang(tp.description, lang)}</sub>`, useWhen, examples || "-"];
-    });
-    lines.push(renderTable(headers, rows));
-    lines.push("");
-  }
-  return lines.join("\n").replace(/\n+$/, "");
-}
-
-// ---------------------------------------------------------------------------
-// docs/gallery.md：画廊总览页（返回首页、每页区间、模板、声明、推荐入口）
-// ---------------------------------------------------------------------------
-
-export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks }, lang) {
+export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks, templatesAnchor = "", templateIndexHref = null }, lang) {
   const readmeName = readmeFileName(lang);
   const back = t(lang, {
     en: `← [Back to README](../${readmeName})`,
@@ -587,7 +403,10 @@ export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks }, l
   lines.push("");
   lines.push(t(lang, { en: "## Also in this repository", zh: "## 仓库里的其他入口", ja: "## このリポジトリのその他の入口" }));
   lines.push("");
-  lines.push(`- [${t(lang, { en: "Prompt templates", zh: "Prompt 模板", ja: "プロンプトテンプレート" })}](../${readmeName}#-prompt-templates)`);
+  lines.push(`- [${t(lang, { en: "Prompt templates by category", zh: "分类提示语模板", ja: "カテゴリ別プロンプトテンプレート" })}](../${readmeName}${templatesAnchor})`);
+  if (templateIndexHref) {
+    lines.push(`- [${t(lang, { en: "Template index (one file per template)", zh: "模板索引（一个模板一个文件）", ja: "テンプレート索引（1 テンプレート 1 ファイル、英語）" })}](${templateIndexHref})`);
+  }
   lines.push(
     `- [${t(lang, { en: "Agent Skill reference (full template text)", zh: "Agent Skill 参考（模板全文）", ja: "Agent Skill リファレンス（テンプレート全文）" })}](../agents/skills/seedance-prompt-library/references/style-library.md)`
   );

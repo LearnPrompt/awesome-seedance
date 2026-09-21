@@ -278,10 +278,12 @@ export function displaySummary(caseObj, lang) {
 
 /** GitHub 风格的标题锚点（近似 github-slugger）：小写、去标点、空格转连字符。 */
 export function githubSlug(text) {
-  // 与 github-slugger 一致：先 trim 再去标点/emoji，所以 "🔥 Top 30" → "-top-30"（保留前导连字符）。
+  // 与 GitHub 一致：先 trim 再去标点/emoji，所以 "🔥 Top 30" → "-top-30"（保留前导连字符）。
+  // \p{M}（组合记号，含 emoji 变体选择符 U+FE0F）GitHub 会保留，这里也必须保留，
+  // 否则 "🗂️ 标题" 这类带 FE0F 的 emoji 标题算出来的锚点跳不过去。标题本身另有测试保证不含 FE0F。
   return collapseWhitespace(text)
     .toLowerCase()
-    .replace(/[^\p{L}\p{N}\s_-]/gu, "")
+    .replace(/[^\p{L}\p{N}\p{M}\s_-]/gu, "")
     .replace(/ /g, "-");
 }
 
@@ -512,7 +514,7 @@ export function collapseSeries(cases) {
   return { kept: cases.filter((c) => keptSet.has(c.slug)), collapsed };
 }
 
-function fenceForPrompt(prompt) {
+export function fenceForPrompt(prompt) {
   // Bump fence length if the prompt itself contains a run of backticks.
   let longestRun = 0;
   let current = 0;

@@ -4,12 +4,14 @@
 import { readFileSync, writeFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
+import { loadLibrary } from "./lib/library.mjs";
 import { renderTemplateCard } from "./lib/render.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 
-const styleData = JSON.parse(readFileSync(path.join(ROOT, "data/style-library.json"), "utf8"));
+// 合并后的库：上游 data/style-library.json + 本仓 data/templates-local.json（新模板、copyPrompt）。
+const { library: styleData } = loadLibrary(ROOT);
 const templates = styleData.templates || [];
 
 function renderFullTemplate(template) {

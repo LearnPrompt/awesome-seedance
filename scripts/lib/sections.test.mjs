@@ -8,16 +8,10 @@ import {
   buildStatsSnapshot,
   renderBadges,
   renderHeroSvg,
-  renderQuickLinks,
   renderRetestSpotlight,
   pickRetestShowcase,
-  buildCategoryGroups,
-  buildOverviewTiles,
-  renderCategoryOverview,
   SPONSOR_EMAIL,
-  renderTemplateTables,
   renderGalleryIndex,
-  categoryHeading,
 } from "./sections.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -108,6 +102,8 @@ test("buildStatsSnapshot exposes the numbers the badges and hero read", () => {
   assert.equal(snapshot.videoSkillsOnSite, 24);
   assert.equal(snapshot.skills, 25);
   assert.equal(buildStatsSnapshot(stats, templates, categories, null).skills, 1);
+  // README 的 Skill 网格有自己的总数（data/skills.json），传进来时以它为准。
+  assert.equal(buildStatsSnapshot(stats, templates, categories, site, 26).skills, 26);
 });
 
 test("renderBadges uses shields dynamic-json badges that read data/stats.json from main", () => {
@@ -117,6 +113,12 @@ test("renderBadges uses shields dynamic-json badges that read data/stats.json fr
   assert.match(en, /query=%24\.templates/);
   assert.match(en, /npm\/v\/seedance-prompt-library/);
   assert.match(renderBadges("zh"), /label=%E6%A1%88%E4%BE%8B/); // "案例"
+  // 徽章的页内锚点由调用方按当前语言传入，不再硬编码英文锚点（中/日文 README 曾因此全部断链）。
+  const zh = renderBadges("zh", { all: "#-全部案例", retests: "#-跨模型复测", templates: "#-分类提示语模板", skills: "#-skill" });
+  assert.match(zh, /\]\(#-分类提示语模板\)/);
+  assert.match(zh, /\]\(#-skill\)/);
+  assert.doesNotMatch(zh, /#-prompt-templates|#-all-prompts|#install/);
+  assert.doesNotMatch(renderBadges("ja"), /\]\(#/); // 没传锚点就退回站点链接，绝不猜锚点
 });
 
 test("renderHeroSvg is a self-contained SVG with the four numbers and no external resources", () => {
@@ -130,29 +132,6 @@ test("renderHeroSvg is a self-contained SVG with the four numbers and no externa
   assert.match(svg, />25</);
   assert.doesNotMatch(svg, /<image|<style|http:\/\/[^w]|@import/);
   assert.match(svg, /#E8541E/); // 单一橙色强调
-});
-
-test("renderQuickLinks lists every gallery page with its case range, plus templates, skill, goodcase skills, live site; no Contributing/License (Contents has them)", () => {
-  const ctx = galleryContext("en");
-  const md = renderQuickLinks({ ...ctx, templates, categories, stats: { ...stats, videoSkillsOnSite: 24, videoSkillsUrl: site.videoSkills.url } }, "en");
-  assert.match(md, /^## Quick Links/);
-  // 绝对 URL：awesome-lint list-item 规则不接受相对链接和页内锚点。
-  assert.match(md, /\[Gallery index\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/blob\/main\/docs\/gallery\.md\) - All \d+ cases/);
-  const partCount = Object.values(ctx.parts).reduce((n, p) => n + p.length, 0);
-  const pageLines = md.split("\n").filter((l) => /^- \[Seedance/.test(l));
-  assert.equal(pageLines.length, partCount);
-  assert.match(md, /\[Prompt templates\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/blob\/main\/README\.md#-prompt-templates\) - 2 reusable structures in 2 categories\./);
-  assert.match(md, /\[Agent Skill\]\(https:\/\/github\.com\/LearnPrompt\/awesome-seedance\/tree\/main\/agents\/skills\/seedance-prompt-library\) - Install with `npx seedance-prompt-library install`/);
-  for (const line of md.split("\n").filter((l) => l.startsWith("- "))) {
-    assert.match(line, /^- \[[^\]]+\]\(https:\/\/[^)]+\) - [A-Z0-9`]/, `absolute link + capitalised description (awesome-lint list-item): ${line}`);
-  }
-  assert.match(md, /\[Live site on goodcase\.ai\]/);
-  assert.match(md, /\[More AI-video Skills on goodcase\.ai\]\(https:\/\/goodcase\.ai\/skills\?category=video\) - 24 installable Skills/);
-  assert.doesNotMatch(md, /\[License\]|\[Contributing\]/);
-  for (const line of md.split("\n").filter((l) => l.startsWith("- "))) {
-    assert.match(line, /^- \[/, `list items start with a link (awesome-lint): ${line}`);
-  }
-  assert.match(renderQuickLinks({ ...galleryContext("zh"), templates, categories, stats }, "zh"), /^## 快速入口/);
 });
 
 test("pickRetestShowcase returns reproduced cases first and includes one non-reproduced when available", () => {
@@ -193,41 +172,6 @@ test("renderRetestSpotlight returns null without meta.retests (old data)", () =>
   assert.equal(renderRetestSpotlight(cases, { retests: { totalRuns: 0 } }, "en"), null);
 });
 
-test("buildCategoryGroups resolves example slugs to cases, dedupes them, and picks the hottest as cover", () => {
-  const groups = buildCategoryGroups(templates, categories, casesBySlug);
-  assert.equal(groups.length, 2);
-  assert.equal(groups[0].templates.length, 1);
-  assert.equal(groups[0].cases.length, 2);
-  assert.equal(groups[0].cover.slug, sortByHeat(groups[0].cases)[0].slug);
-  assert.equal(groups[1].cases.length, 1);
-});
-
-test("renderCategoryOverview renders an HTML grid whose 'View templates' anchors match the template section headings", () => {
-  const groups = buildCategoryGroups(templates, categories, casesBySlug);
-  const md = renderCategoryOverview(groups, "en");
-  assert.match(md, /^## 🗂️ Category Overview/);
-  assert.equal((md.match(/<td /g) || []).length, 2);
-  assert.match(md, /2 verified cases/);
-  assert.match(md, /<img src="[^"]+" width="260"/);
-  const tables = renderTemplateTables(groups, "en");
-  for (const g of groups) {
-    const heading = categoryHeading(g, "en").replace(/^###\s+/, "");
-    assert.ok(tables.includes(`### ${heading}`), `template section has heading ${heading}`);
-  }
-  assert.match(md, /href="#-structural-foundations-1-template"/);
-  assert.match(renderCategoryOverview(groups, "zh"), /^## 🗂️ 分类总览/);
-});
-
-test("renderTemplateTables renders one table per category with a row per template linking into the Skill reference", () => {
-  const groups = buildCategoryGroups(templates, categories, casesBySlug);
-  const md = renderTemplateTables(groups, "en");
-  assert.match(md, /\[Skill reference\]\(\.\/agents\/skills\/seedance-prompt-library\/references\/style-library\.md\)/);
-  assert.match(md, /\| Template\s+\| Use when\s+\| Examples\s+\|/);
-  assert.match(md, /\*\*\[Timeline script\]\(\.\/agents\/skills\/seedance-prompt-library\/references\/style-library\.md#timeline-script\)\*\*/);
-  assert.match(md, /\[#1\]\(https:\/\/goodcase\.ai\/cases\/[^)]+\) \[#2\]/);
-  assert.doesNotMatch(md, /\n{3,}/);
-});
-
 test("renderGalleryIndex lists every page with ranges, the side links, and ten recommended entries linking to gallery anchors", () => {
   const ctx = galleryContext("en");
   const md = renderGalleryIndex({ ...ctx, cases }, "en");
@@ -240,6 +184,10 @@ test("renderGalleryIndex lists every page with ranges, the side links, and ten r
   assert.equal(recLines.length, Math.min(10, cases.length));
   for (const l of recLines) assert.match(l, /\]\(\.\/gallery-[^)]+#[^)]+\) - /);
   assert.match(renderGalleryIndex({ ...galleryContext("zh"), cases }, "zh"), /^# Awesome Seedance — 画廊总览/);
+  const zhIndex = renderGalleryIndex({ ...galleryContext("zh"), cases, templatesAnchor: "#-分类提示语模板", templateIndexHref: "./templates/zh/README.md" }, "zh");
+  assert.match(zhIndex, /\[分类提示语模板\]\(\.\.\/README_zh\.md#-分类提示语模板\)/);
+  assert.match(zhIndex, /\(\.\/templates\/zh\/README\.md\)/);
+  assert.doesNotMatch(zhIndex, /#-prompt-templates/);
 });
 
 test("renderGalleryParts reports contiguous case ranges and links to the gallery index", () => {
@@ -263,28 +211,6 @@ test("renderRetestSpotlight embeds a retest poster frame (linked to the goodcase
   assert.match(withPoster, new RegExp(`\\[<img src="\\./assets/retests/${first.slug}\\.jpg" width="160" alt="[^"]+">\\]\\(${first.goodcaseUrl.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\)<br>`));
   const without = renderRetestSpotlight(cases, casesData.meta, "en");
   assert.doesNotMatch(without, /assets\/retests\//);
-});
-
-test("buildOverviewTiles maps tiles onto templates and renderCategoryOverview renders one <td> per tile in 4 columns", () => {
-  const tilesConfig = {
-    tiles: [
-      { id: "a", templates: ["timeline"], title: { en: "Timeline", zh: "时间轴", ja: "タイムライン" } },
-      { id: "b", templates: ["ugc", "missing-id"], title: { en: "UGC", zh: "UGC", ja: "UGC" } },
-    ],
-  };
-  const tiles = buildOverviewTiles(tilesConfig, templates, categories, casesBySlug);
-  assert.equal(tiles.length, 2);
-  assert.equal(tiles[0].templates.length, 1);
-  assert.equal(tiles[1].templates.length, 1, "unknown template ids are ignored");
-  assert.equal(tiles[0].category.id, "foundation");
-  assert.equal(tiles[0].cover.slug, sortByHeat(tiles[0].cases)[0].slug);
-  const groups = buildCategoryGroups(templates, categories, casesBySlug);
-  const md = renderCategoryOverview(groups, "en", { tiles });
-  assert.equal((md.match(/<td /g) || []).length, 2);
-  assert.match(md, /<td width="25%"/);
-  assert.match(md, /<b>🏗️ Timeline<\/b>/);
-  assert.match(md, /href="#-structural-foundations-1-template"/);
-  assert.match(renderCategoryOverview(groups, "zh", { tiles }), /<b>🏗️ 时间轴<\/b>/);
 });
 
 test("collapseSeries folds same-creator prompt variants (same opening, ≥0.2 trigram overlap) to the earliest post and leaves unrelated cases alone", () => {

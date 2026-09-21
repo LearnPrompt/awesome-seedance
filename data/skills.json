@@ -1,0 +1,225 @@
+{
+  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
+  "moreUrl": "https://goodcase.ai/skills?category=video",
+  "skills": [
+    {
+      "id": "seedance-prompt-library",
+      "title": {
+        "en": "Seedance Prompt Library",
+        "zh": "Seedance 提示语模板库",
+        "ja": "Seedance プロンプトライブラリ"
+      },
+      "description": {
+        "en": "This repo's Skill. Every category template on this page plus the style library, so your agent writes structured Seedance prompts inside your editor.",
+        "zh": "本仓自带的 Skill。把这页所有分类模板和风格库装进 agent，让它在你的编辑器里直接写出结构化的 Seedance 提示语。",
+        "ja": "このリポジトリの Skill。このページの全カテゴリテンプレートとスタイルライブラリをエージェントに入れ、エディタ内で構造化された Seedance プロンプトを書かせます。"
+      },
+      "install": "npx seedance-prompt-library install",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library",
+      "coverCase": "seedance-25-diner-frozen-time-rewind",
+      "variants": []
+    },
+    {
+      "id": "goodcase",
+      "title": {
+        "en": "GoodCase Case Search",
+        "zh": "GoodCase 案例查询",
+        "ja": "GoodCase ケース検索"
+      },
+      "description": {
+        "en": "Lets your agent search the whole goodcase.ai library live: every model, full prompts, heat, stability scores and retest baselines.",
+        "zh": "让 agent 实时查整个 goodcase.ai 案例库：全部模型、完整提示语、热度、稳定分和复测基线。",
+        "ja": "エージェントが goodcase.ai のライブラリ全体をリアルタイム検索します。全モデル、完全なプロンプト、ヒート、安定度スコア、再テスト基準。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill goodcase",
+      "url": "https://github.com/LearnPrompt/goodcase-lite",
+      "coverCase": "seedance-25-kpop-mv-dual-idol",
+      "variants": []
+    },
+    {
+      "id": "pov-vlog-presence",
+      "siteSlug": "pov-vlog-presence",
+      "title": {
+        "en": "POV / Vlog Presence",
+        "zh": "POV / Vlog 临场感",
+        "ja": "POV / Vlog の臨場感"
+      },
+      "description": {
+        "en": "First-person framing, handheld motion and everyday detail that make a clip feel like someone was really there.",
+        "zh": "用第一视角、手持运动和生活化细节制造可信的在场感。",
+        "ja": "一人称の構図、手持ちの揺れ、生活感のあるディテールで、その場にいたような実在感を作ります。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence",
+      "url": "https://goodcase.ai/skills/pov-vlog-presence",
+      "variants": [
+        {
+          "creator": "aiwithaly",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1noa4gp"
+        },
+        {
+          "creator": "AIwithkhan",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8"
+        },
+        {
+          "creator": "doctorwasif",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1jqwyww"
+        },
+        {
+          "creator": "ElsaSofia__AI",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1yyrk1e"
+        },
+        {
+          "creator": "iamahmedfaraz66",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1798qo"
+        },
+        {
+          "creator": "johnAGI168",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1d090cw"
+        },
+        {
+          "creator": "saniaspeaks_",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-e2fac1"
+        },
+        {
+          "creator": "Strength04_X",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1sduwzc"
+        },
+        {
+          "creator": "techhalla",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-6moylp"
+        },
+        {
+          "creator": "ZaraIrahh",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-ha1tt9"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
+      },
+      "coverCase": "seedance-25-minidv-coffee-asmr-vlog"
+    },
+    {
+      "id": "product-ad-shot-design",
+      "siteSlug": "product-ad-shot-design",
+      "title": {
+        "en": "Product Ad Shot Design",
+        "zh": "产品广告镜头",
+        "ja": "プロダクト広告のショット設計"
+      },
+      "description": {
+        "en": "Starts from the selling point and lays out the opening hook, usage scenes and the closing brand shot.",
+        "zh": "从产品卖点出发，编排开场钩子、使用场景和品牌收束镜头。",
+        "ja": "商品の売りから出発し、冒頭のフック、使用シーン、ブランドの締めショットを組み立てます。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
+      "url": "https://goodcase.ai/skills/product-ad-shot-design",
+      "variants": [
+        {
+          "creator": "AIwithkhan",
+          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-wat8s8"
+        },
+        {
+          "creator": "AIwithSynthia",
+          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1ktgmlf"
+        },
+        {
+          "creator": "johnAGI168",
+          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1d090cw"
+        },
+        {
+          "creator": "Just_sharon7",
+          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1wr1qau"
+        },
+        {
+          "creator": "laviniavelle",
+          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr"
+        },
+        {
+          "creator": "卡尔",
+          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1cw2bs8"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
+      },
+      "coverCase": "luxury-skincare-commercial"
+    },
+    {
+      "id": "animation-style-consistency",
+      "siteSlug": "animation-style-consistency",
+      "title": {
+        "en": "Animation Style and Character Consistency",
+        "zh": "动画风格与角色一致性",
+        "ja": "アニメの画風とキャラクターの一貫性"
+      },
+      "description": {
+        "en": "Locks character design, movement language and material look across multi-shot animation.",
+        "zh": "在多镜头动画中固定角色造型、运动语言和材质画风。",
+        "ja": "複数ショットのアニメで、キャラクター造形、動きの語彙、質感と画風を固定します。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency",
+      "url": "https://goodcase.ai/skills/animation-style-consistency",
+      "variants": [
+        {
+          "creator": "Just_sharon7",
+          "url": "https://goodcase.ai/skills/animation-style-consistency-by-1wr1qau"
+        },
+        {
+          "creator": "noorwithwifi",
+          "url": "https://goodcase.ai/skills/animation-style-consistency-by-1diwzmp"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
+      },
+      "coverCase": "case-a9ab0266f96a"
+    },
+    {
+      "id": "action-continuity-choreography",
+      "siteSlug": "action-continuity-choreography",
+      "title": {
+        "en": "Action Continuity Choreography",
+        "zh": "动作连续性编排",
+        "ja": "アクションの連続性設計"
+      },
+      "description": {
+        "en": "Writes characters, direction of motion, rhythm and shot hand-offs as an action sequence you can reproduce.",
+        "zh": "把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。",
+        "ja": "キャラクター、動きの方向、リズム、ショットのつなぎを、再現可能なアクションシーケンスとして書き出します。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography",
+      "variants": [
+        {
+          "creator": "haruuraeadss",
+          "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/8cd8f1126ba3.jpg"
+      },
+      "coverCase": "just-sharon7-seedance-ai-8085c03efbb0"
+    },
+    {
+      "id": "process-transformation-story",
+      "siteSlug": "process-transformation-story",
+      "title": {
+        "en": "Process and Transformation Story",
+        "zh": "过程与变换叙事",
+        "ja": "プロセスと変化のストーリー"
+      },
+      "description": {
+        "en": "Tells a making-of, a makeover or a before-and-after as a sequence of clear, satisfying stages.",
+        "zh": "把制作过程、改造和前后对比讲成一段段清楚又解压的阶段。",
+        "ja": "制作過程、変身、ビフォーアフターを、明快で気持ちのよい段階の連なりとして語ります。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story",
+      "url": "https://goodcase.ai/skills/process-transformation-story",
+      "variants": [],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/4a16c60a0b25.jpg"
+      },
+      "coverCase": "case-429309e40d97"
+    }
+  ]
+}

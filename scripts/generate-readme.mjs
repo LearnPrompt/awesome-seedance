@@ -15,7 +15,6 @@ import path from "node:path";
 import {
   computeStats,
   collapseSeries,
-  renderCaseEntry,
   renderStatsTable,
   renderTopTable,
   partitionAllPrompts,
@@ -34,15 +33,26 @@ import {
   buildStatsSnapshot,
   renderBadges,
   renderHeroSvg,
-  renderQuickLinks,
   renderRetestSpotlight,
-  buildCategoryGroups,
-  buildOverviewTiles,
-  renderCategoryOverview,
-  renderTemplateTables,
+  retestHeading,
   renderGalleryIndex,
   LIVE_SITE_URL,
 } from "./lib/sections.mjs";
+import { loadLibrary, buildTemplateIndex } from "./lib/library.mjs";
+import {
+  TEMPLATE_DOC_LANGS,
+  anchorOf,
+  countSkills,
+  orderedTemplates,
+  renderSkillGrid,
+  renderStartHere,
+  renderTemplateDoc,
+  renderTemplateGrid,
+  renderTemplateIndex,
+  templateDocLang,
+  templatesHeading,
+  skillsHeading,
+} from "./lib/templates.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -52,7 +62,9 @@ function loadJson(relPath) {
 }
 
 const casesData = loadJson("data/cases.json");
-const styleData = loadJson("data/style-library.json");
+// 模板库 = data/style-library.json（上游蒸馏导出）叠加 data/templates-local.json（本仓手写），
+// 再配 data/case-taxonomy.json（全量 case → 模板 的归类）。
+const { library, taxonomy } = loadLibrary(ROOT);
 // 站点全量数字与复测花费（data/site.json，人工/脚本刷新）；文件缺失时相关行不渲染、花费只说“花真钱”。
 let site = null;
 try {
@@ -61,12 +73,12 @@ try {
   site = null;
 }
 const retestSpend = site?.retestSpend ?? null;
-// 分类总览的 12 格配置；缺失时退回按 6 个分类一格。
-let overviewTiles = null;
+// README 的 Skill 网格（data/skills.json）；文件缺失时整节不渲染。
+let skillsData = null;
 try {
-  overviewTiles = loadJson("data/overview-tiles.json");
+  skillsData = loadJson("data/skills.json");
 } catch {
-  overviewTiles = null;
+  skillsData = null;
 }
 // 复测样例的产物封面（scripts/fetch-retest-posters.mjs 抽帧），没有就退回纯链接。
 const retestPosterFor = (caseObj) => {
@@ -74,12 +86,13 @@ const retestPosterFor = (caseObj) => {
   return existsSync(path.join(ROOT, rel)) ? `./${rel}` : null;
 };
 const cases = casesData.cases || [];
-const templates = styleData.templates || [];
-const categories = styleData.categories || [];
+const templates = library.templates || [];
+const categories = library.categories || [];
 const casesBySlug = new Map(cases.map((c) => [c.slug, c]));
 
 const stats = computeStats(casesData);
-const snapshot = buildStatsSnapshot(stats, templates, categories, site);
+const templateIndex = buildTemplateIndex(templates, taxonomy, cases);
+const snapshot = buildStatsSnapshot(stats, templates, categories, site, skillsData ? countSkills(skillsData) : null);
 // Top 榜按“系列”折叠：同一作者反复发的同一套 prompt 只留原帖那条；画廊与统计仍是全量。
 const series = collapseSeries(cases);
 const partition = partitionAllPrompts(cases, TOP_INLINE_COUNT);
@@ -88,10 +101,6 @@ const bucketCases = {
   "2.5": partition.v25,
   "2.0": partition.v20,
 };
-const categoryGroups = buildCategoryGroups(templates, categories, casesBySlug);
-const tiles = overviewTiles ? buildOverviewTiles(overviewTiles, templates, categories, casesBySlug) : null;
-const quickLinkStats = { ...stats, videoSkillsOnSite: snapshot.videoSkillsOnSite, videoSkillsUrl: site?.videoSkills?.url || "https://goodcase.ai/skills?category=video" };
-
 const AWESOME_BADGE = "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)";
 
 const LANG_LABELS = { en: "English", zh: "中文", ja: "日本語" };
@@ -114,16 +123,6 @@ const COPY = {
     backlink:
       "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## Contents",
-    installHeading: "## Install",
-    installBody: [
-      "```bash",
-      "npx seedance-prompt-library install",
-      "```",
-      "",
-      "Installs the `seedance-prompt-library` Agent Skill into Claude Code and Codex, so your agent can pull structured prompt templates and write Seedance prompts directly in your editor. Prefer the [skills CLI](https://github.com/vercel-labs/skills)? `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` installs the same skill.",
-      "",
-      "Want your agent to query the whole goodcase.ai library (all models, live data, retest baselines) instead of just the Seedance templates? Install the `goodcase` Skill from the sister repo [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite): `npx skills add LearnPrompt/goodcase-lite --skill goodcase`.",
-    ].join("\n"),
     pillarsHeading: "## Why this list",
     pillars: [
       `**Human-verified against the source.** Every prompt here was checked against the creator's original post. Prompts reverse-engineered from the output video only, with no source and no submission, are rejected outright, per [goodcase.ai's collection standards](https://goodcase.ai/standards) (in force since 2026-08-05).`,
@@ -131,7 +130,6 @@ const COPY = {
       `**Full provenance on every entry.** Author, original post link, publish date, and a heat score, a relative percentile among published cases on the same platform. If it didn't rank, it isn't here.`,
       `**Ships as an installable Agent Skill.** \`npx seedance-prompt-library install\` drops a template library straight into Claude Code / Codex so your agent writes Seedance prompts from proven structures, not guesses.`,
     ],
-    templatesHeading: "## 🧩 Prompt Templates",
     topHeading: `## 🔥 Top ${TOP_INLINE_COUNT} by heat`,
     topIntro: (shown) =>
       `The ${shown} hottest cases across all versions. *prompt* opens the full entry in the gallery, *source* opens the creator's original post.`,
@@ -154,12 +152,6 @@ const COPY = {
     statsHeading: "## Statistics",
     statsNote:
       "Each case is counted once; a case tagged with several Seedance versions counts under the highest one.",
-    howToHeading: "## 🚀 How to use this repository",
-    howToBody: [
-      "1. Start from [🔥 Top 30](#-top-30-by-heat) and decide what kind of clip you want: vlog, ad, dialogue, action, stylized.",
-      "2. Open that category in the [🗂️ Category Overview](#%EF%B8%8F-category-overview) or the full [gallery](./docs/gallery.md), read two or three neighbouring cases, and copy the *structure* first (timeline, shot list, identity lock), then the style words.",
-      "3. Install the Skill (`npx seedance-prompt-library install`) or open the [template tables](#-prompt-templates) and fill your own subject, setting and beats into the matching template. Check the case's retest verdict before you commit budget to it.",
-    ].join("\n"),
     contributeHeading: "## How to Contribute",
     contributeBody: [
       "**New prompt cases** go through goodcase.ai's review pipeline so provenance and heat score stay verifiable: submit at [goodcase.ai/submit](https://goodcase.ai/submit) (collection standards: [goodcase.ai/standards](https://goodcase.ai/standards)). Prefer GitHub? Open a pull request that adds one JSON file under [`submissions/`](./submissions/) following [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json); a maintainer pushes it through the same review, and it lands in `data/` on the next export.",
@@ -201,16 +193,6 @@ const COPY = {
     backlink:
       "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目录",
-    installHeading: "## 安装",
-    installBody: [
-      "```bash",
-      "npx seedance-prompt-library install",
-      "```",
-      "",
-      "把 seedance-prompt-library 这个 Agent Skill 装进 Claude Code / Codex，让 agent 直接调结构化模板在你的编辑器里写 Seedance prompt。习惯用 [skills CLI](https://github.com/vercel-labs/skills) 的话，`npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` 装的是同一个 Skill。",
-      "",
-      "想让 agent 直接查整个 goodcase.ai 案例库（全部模型、实时数据、复测基线）而不只是 Seedance 模板？装姊妹仓 [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite) 里的 `goodcase` Skill：`npx skills add LearnPrompt/goodcase-lite --skill goodcase`。",
-    ].join("\n"),
     pillarsHeading: "## 为什么值得收藏这个仓库",
     pillars: [
       "**每条 prompt 都人工核对过与原帖一致。** 只靠成片视频反推出来的 prompt 一律不收，没有原帖来源不收，这是 [goodcase.ai 的收录标准](https://goodcase.ai/standards)（2026-08-05 起生效的红线）。",
@@ -218,7 +200,6 @@ const COPY = {
       "**每条都带完整溯源。** 作者、原帖链接、发布时间、热度分，热度是同平台已发布案例里的相对分位，上不了榜就不收。",
       "**自带可安装的 Agent Skill。** `npx seedance-prompt-library install` 一行装进 Claude Code / Codex，agent 用真实验证过的模板结构写 Seedance prompt，不是瞎编。",
     ],
-    templatesHeading: "## 🧩 Prompt 模板",
     topHeading: `## 🔥 热度 Top ${TOP_INLINE_COUNT}`,
     topIntro: (shown) =>
       `全部版本里热度最高的 ${shown} 条。*完整 prompt* 跳到画廊里的完整条目，*原帖* 跳到创作者原帖。`,
@@ -240,12 +221,6 @@ const COPY = {
     ].join("\n"),
     statsHeading: "## 统计",
     statsNote: "每条案例只计一次；同时标了多个 Seedance 版本的案例按最高版本计。",
-    howToHeading: "## 🚀 怎么用这个仓库",
-    howToBody: [
-      "1. 从 [🔥 热度 Top 30](#-热度-top-30) 开始，先定你要的片型：vlog、广告、对白、动作、风格化。",
-      "2. 在 [🗂️ 分类总览](#%EF%B8%8F-分类总览) 或完整[画廊](./docs/gallery.zh.md)里打开那一类，读两三条相邻案例，先抄*结构*（时间轴、分镜、身份锁定），再抄风格词。",
-      "3. 装上 Skill（`npx seedance-prompt-library install`）或打开[模板表](#-prompt-模板)，把你的主体、场景和节拍填进对应模板。花预算之前先看一眼这条案例的复测结论。",
-    ].join("\n"),
     contributeHeading: "## 如何投稿",
     contributeBody: [
       "**新案例**走 goodcase.ai 的审核管线，这样溯源和热度分才可核验：投稿入口 [goodcase.ai/submit](https://goodcase.ai/submit)，收录标准见 [goodcase.ai/standards](https://goodcase.ai/standards)。更习惯 GitHub 的话，提一个 PR，往 [`submissions/`](./submissions/) 下按 [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) 加一个 JSON 文件，维护者会把它推进同一套审核，通过后下次导出就进 `data/`。",
@@ -287,16 +262,6 @@ const COPY = {
     backlink:
       "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目次",
-    installHeading: "## インストール",
-    installBody: [
-      "```bash",
-      "npx seedance-prompt-library install",
-      "```",
-      "",
-      "`seedance-prompt-library` Agent Skill を Claude Code と Codex にインストールします。エージェントが構造化されたプロンプトテンプレートを引き、エディタ内で直接 Seedance プロンプトを書けるようになります。[skills CLI](https://github.com/vercel-labs/skills) 派なら `npx skills add LearnPrompt/awesome-seedance --skill seedance-prompt-library` で同じ Skill が入ります。",
-      "",
-      "Seedance テンプレートだけでなく goodcase.ai のライブラリ全体（全モデル、ライブデータ、再テストのベースライン）をエージェントから引きたい場合は、姉妹リポジトリ [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite) の `goodcase` Skill を: `npx skills add LearnPrompt/goodcase-lite --skill goodcase`。",
-    ].join("\n"),
     pillarsHeading: "## このリストの特徴",
     pillars: [
       "**元投稿と人手で照合済み。** ここにあるプロンプトはすべて作者の元投稿と突き合わせています。出力動画から逆算しただけで出典も投稿もないプロンプトは、[goodcase.ai の収録基準](https://goodcase.ai/standards)（2026-08-05 施行）に従い一律で却下します。",
@@ -304,7 +269,6 @@ const COPY = {
       "**全エントリに完全な出典。** 作者、元投稿リンク、公開日、そして同一プラットフォーム上の公開ケースにおける相対パーセンタイルであるヒートスコア。ランクインしなかったものはここにありません。",
       "**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実証済みの構造から Seedance プロンプトを書きます。",
     ],
-    templatesHeading: "## 🧩 プロンプトテンプレート",
     topHeading: `## 🔥 ヒート Top ${TOP_INLINE_COUNT}`,
     topIntro: (shown) =>
       `全バージョンでヒートが高い ${shown} 件。*プロンプト* はギャラリーの完全なエントリ、*元投稿* は作者のオリジナル投稿を開きます。`,
@@ -326,12 +290,6 @@ const COPY = {
     ].join("\n"),
     statsHeading: "## 統計",
     statsNote: "各ケースは 1 回だけ数えます。複数の Seedance バージョンが付いたケースは最上位バージョンに計上します。",
-    howToHeading: "## 🚀 このリポジトリの使い方",
-    howToBody: [
-      "1. [🔥 ヒート Top 30](#-ヒート-top-30) から始めて、作りたいクリップの種類を決めます: vlog、広告、対話、アクション、スタイライズ。",
-      "2. [🗂️ カテゴリ一覧](#%EF%B8%8F-カテゴリ一覧) か完全な[ギャラリー](./docs/gallery.ja.md)でそのカテゴリを開き、近いケースを 2、3 件読んで、まず *構造*（タイムライン、ショットリスト、アイデンティティ固定）を写し、次にスタイル語彙を写します。",
-      "3. Skill をインストール（`npx seedance-prompt-library install`）するか、[テンプレート表](#-プロンプトテンプレート)を開き、自分の被写体・舞台・ビートを対応するテンプレートに流し込みます。予算を使う前にそのケースの再テスト判定を確認してください。",
-    ].join("\n"),
     contributeHeading: "## コントリビュート",
     contributeBody: [
       "**新しいプロンプトケース**は出典とヒートスコアを検証可能に保つため goodcase.ai のレビューパイプラインを通します: [goodcase.ai/submit](https://goodcase.ai/submit) から投稿（収録基準: [goodcase.ai/standards](https://goodcase.ai/standards)）。GitHub 派なら、[`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) に従って [`submissions/`](./submissions/) に JSON を 1 件追加するプルリクエストを開いてください。メンテナが同じレビューに回し、次回のエクスポートで `data/` に入ります。",
@@ -402,27 +360,30 @@ function buildReadme(lang) {
   const { parts, promptLinks } = buildGalleries(lang);
   const usedHeadings = new Set();
 
-  // 每个 section: { heading, body: string[] }。
+  // 跨节锚点一律从当前语言的标题算出来，不硬编码（中/日文标题的锚点和英文不同）。
+  const anchors = {
+    templates: anchorOf(templatesHeading(lang)),
+    skills: anchorOf(skillsHeading(lang)),
+    top: anchorOf(c.topHeading),
+    all: anchorOf(c.allHeading),
+    retests: anchorOf(retestHeading(lang)),
+  };
+
+  // 每个 section: { heading, body: string[] }。目录之后第一节是新手路径，然后模板、Skill。
   const sections = [];
-  sections.push({ heading: c.installHeading, body: [c.installBody] });
-  // awesome-lint 的 list-item 规则要求列表项以链接开头，卖点改成段落而不是列表。
-  sections.push({ heading: c.pillarsHeading, body: c.pillars.flatMap((p) => [p, ""]).slice(0, -1) });
-
-  // 复测聚焦区前置：meta.retests 缺失或 totalRuns 为 0 时返回 null，整节不渲染。
-  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend, retestPosterFor });
-  if (spotlight) {
-    const [heading, ...rest] = spotlight.split("\n");
+  const pushRendered = (md) => {
+    const [heading, ...rest] = md.split("\n");
     sections.push({ heading, body: rest.join("\n").trim().split("\n") });
-  }
-
-
-  const overview = renderCategoryOverview(categoryGroups, lang, { tiles });
-  {
-    const [heading, ...rest] = overview.split("\n");
-    sections.push({ heading, body: rest.join("\n").trim().split("\n") });
-  }
-
-  sections.push({ heading: c.templatesHeading, body: renderTemplateTables(categoryGroups, lang).split("\n") });
+  };
+  pushRendered(
+    renderStartHere(lang, anchors, {
+      templates: orderedTemplates(library).length,
+      skills: skillsData ? countSkills(skillsData) : snapshot.skills,
+      cases: cases.length,
+    })
+  );
+  pushRendered(renderTemplateGrid(library, lang, templateIndex));
+  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug));
 
   // Top 榜是唯一可裁剪的部分：超预算时从表尾裁行，标题/说明按实际行数回填。
   const top = renderTopTable(topPartition.top, lang, {
@@ -437,11 +398,19 @@ function buildReadme(lang) {
     galleryBody.push(c.galleryLink(bucketLabel(bucket, lang), list.length, parts[bucket]));
   }
 
+  // 复测聚焦区：meta.retests 缺失或 totalRuns 为 0 时返回 null，整节不渲染。
+  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend, retestPosterFor });
+  const spotlightSection = spotlight
+    ? [{ heading: spotlight.split("\n")[0], body: spotlight.split("\n").slice(1).join("\n").trim().split("\n") }]
+    : [];
+
   const tailSections = [
+    ...spotlightSection,
     { heading: c.allHeading, body: galleryBody },
     { heading: c.browseHeading, body: [c.browseBody] },
+    // awesome-lint 的 list-item 规则要求列表项以链接开头，卖点写成段落而不是列表。
+    { heading: c.pillarsHeading, body: c.pillars.flatMap((p) => [p, ""]).slice(0, -1) },
     { heading: c.statsHeading, body: [renderStatsTable(stats, lang, site), "", c.statsNote] },
-    { heading: c.howToHeading, body: [c.howToBody] },
     { heading: c.contributeHeading, body: [c.contributeBody] },
     { heading: c.ackHeading, body: [c.ackBody] },
     { heading: c.copyrightHeading, body: [c.copyrightBody] },
@@ -449,13 +418,9 @@ function buildReadme(lang) {
     { heading: c.licenseHeading, body: [c.licenseBody] },
   ];
 
-  const quickLinks = renderQuickLinks({ parts, bucketCases, templates, categories, stats: quickLinkStats }, lang);
-  const quickLinksHeading = quickLinks.split("\n")[0];
-
-  // awesome-lint 的 awesome-toc 要求目录是第一个小节，所以 Contents 在前、Quick Links 在后。
+  // awesome-lint 的 awesome-toc 要求目录是第一个小节。
   const allHeadings = [
     c.contentsHeading,
-    quickLinksHeading,
     ...sections.map((s) => s.heading),
     c.topHeading,
     ...tailSections.map((s) => s.heading),
@@ -476,13 +441,11 @@ function buildReadme(lang) {
   head.push("");
   head.push(c.tagline(snapshot));
   head.push("");
-  head.push(renderBadges(lang));
+  head.push(renderBadges(lang, { all: anchors.all, retests: spotlight ? anchors.retests : null, templates: anchors.templates, skills: anchors.skills }));
   head.push("");
   head.push(c.backlink);
   head.push("");
   head.push(renderContents(allHeadings.slice(1), lang));
-  head.push(quickLinks);
-  head.push("");
   const headMd = head.join("\n") + sections.map(renderSection).join("\n") + "\n";
 
   const tailMd = tailSections.map(renderSection).join("\n");
@@ -497,7 +460,10 @@ function buildReadme(lang) {
     markdown = headMd + assembleTop(rows) + tailMd;
   }
   const bytes = Buffer.byteLength(markdown, "utf8");
-  const galleryIndex = renderGalleryIndex({ parts, bucketCases, cases, promptLinks }, lang);
+  const galleryIndex = renderGalleryIndex(
+    { parts, bucketCases, cases, promptLinks, templatesAnchor: anchors.templates, templateIndexHref: `./templates/${templateDocLang(lang)}/README.md` },
+    lang
+  );
   return {
     markdown,
     bytes,
@@ -506,6 +472,7 @@ function buildReadme(lang) {
     truncated: rows.length < top.rows.length,
     parts,
     galleryIndex,
+    templatesAnchor: anchors.templates,
   };
 }
 
@@ -541,6 +508,32 @@ for (const file of readdirSync(docsDir)) {
   }
 }
 
+// 模板文件：docs/templates/{zh,en}/<id>.md + 每种语言一个 README.md 索引；删掉库里已不存在的旧模板文件。
+const ordered = orderedTemplates(library);
+for (const lang of TEMPLATE_DOC_LANGS) {
+  const dir = path.join(docsDir, "templates", lang);
+  mkdirSync(dir, { recursive: true });
+  const readmeAnchor = results[lang].templatesAnchor;
+  const writtenDocs = new Set(["README.md"]);
+  writeFileSync(path.join(dir, "README.md"), renderTemplateIndex(library, lang, templateIndex, readmeAnchor), "utf8");
+  ordered.forEach((tp, i) => {
+    const md = renderTemplateDoc(tp, lang, {
+      cases: templateIndex.byTemplate.get(tp.id) || [],
+      prev: ordered[i - 1] || null,
+      next: ordered[i + 1] || null,
+      readmeAnchor,
+    });
+    writeFileSync(path.join(dir, `${tp.id}.md`), md, "utf8");
+    writtenDocs.add(`${tp.id}.md`);
+  });
+  for (const file of readdirSync(dir)) {
+    if (file.endsWith(".md") && !writtenDocs.has(file)) {
+      unlinkSync(path.join(dir, file));
+      console.log(`removed stale templates/${lang}/${file}`);
+    }
+  }
+}
+
 const describe = (r) =>
   `${r.bytes} bytes${r.truncated ? ` (top table truncated, dropped ${r.droppedCount} rows)` : ""}`;
 for (const lang of LANGS) console.log(`${readmeFileName(lang)}: ${describe(results[lang])}`);
@@ -550,6 +543,8 @@ for (const bucket of SEEDANCE_BUCKETS) {
   );
 }
 console.log(`Stats: ${JSON.stringify(snapshot)}`);
+const filedCount = cases.length - templateIndex.unassigned.length;
+console.log(`Templates: ${ordered.length} (${filedCount} cases filed, ${templateIndex.unassigned.length} not yet filed; run \`npm run taxonomy:todo\` to list them)`);
 if (series.collapsed.length) {
   console.log(`Series collapsed in Top (${series.collapsed.length}): ${series.collapsed.map((x) => `${x.slug} → ${x.keptSlug}`).join("; ")}`);
 }

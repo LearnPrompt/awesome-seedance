@@ -286,6 +286,11 @@ test("githubSlug matches GitHub heading anchors for ascii, emoji and CJK heading
   assert.equal(githubSlug("Neon Alley Chase (2)"), "neon-alley-chase-2");
 });
 
+test("githubSlug keeps combining marks like GitHub does (emoji variation selector U+FE0F)", () => {
+  assert.equal(githubSlug("🔥 Top 30"), "-top-30"); // 不带 FE0F 的 emoji 整个去掉
+  assert.equal(githubSlug("\u{1F5C2}\uFE0F 分类总览"), "\uFE0F-分类总览"); // 带 FE0F 的会留下 FE0F
+});
+
 test("computeStats returns null lastUpdated when meta.exportedAt is missing", () => {
   const stats = computeStats({ cases: fixtureCases });
   assert.equal(stats.lastUpdated, null);
