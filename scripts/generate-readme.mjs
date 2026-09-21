@@ -156,7 +156,7 @@ const COPY = {
     contributeBody: [
       "**New prompt cases** go through goodcase.ai's review pipeline so provenance and heat score stay verifiable: submit at [goodcase.ai/submit](https://goodcase.ai/submit) (collection standards: [goodcase.ai/standards](https://goodcase.ai/standards)). Prefer GitHub? Open a pull request that adds one JSON file under [`submissions/`](./submissions/) following [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json); a maintainer pushes it through the same review, and it lands in `data/` on the next export.",
       "",
-      "**Pull requests are welcome** for template fixes in `data/style-library.json`, generator and Skill code under `scripts/` and `agents/`, and corrections to English titles or summaries. `README.md`, `README_zh.md`, `docs/` and the Skill reference are generated from `data/`, so please don't hand-edit them: change the source, run `npm test && npm run generate`, and commit the regenerated files in the same PR. See [contributing.md](./contributing.md) for the submission standard, what gets rejected, and how the generator works. This project follows the [code of conduct](./code-of-conduct.md).",
+      "**Pull requests are welcome** for template fixes and new templates in `data/templates-local.json`, generator and Skill code under `scripts/` and `agents/`, and corrections to English titles or summaries. `README.md`, `README_zh.md`, `docs/` and the Skill reference are generated from `data/`, so please don't hand-edit them: change the source, run `npm test && npm run generate`, and commit the regenerated files in the same PR. See [contributing.md](./contributing.md) for the submission standard, what gets rejected, and how the generator works. This project follows the [code of conduct](./code-of-conduct.md).",
     ].join("\n"),
     ackHeading: "## 🙏 Acknowledgements",
     ackBody: [
@@ -225,7 +225,7 @@ const COPY = {
     contributeBody: [
       "**新案例**走 goodcase.ai 的审核管线，这样溯源和热度分才可核验：投稿入口 [goodcase.ai/submit](https://goodcase.ai/submit)，收录标准见 [goodcase.ai/standards](https://goodcase.ai/standards)。更习惯 GitHub 的话，提一个 PR，往 [`submissions/`](./submissions/) 下按 [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) 加一个 JSON 文件，维护者会把它推进同一套审核，通过后下次导出就进 `data/`。",
       "",
-      "**欢迎 PR** 修 `data/style-library.json` 里的模板、`scripts/` 与 `agents/` 下的生成器和 Skill 代码，以及英文标题和摘要的纠错。`README.md`、`README_zh.md`、`docs/` 和 Skill 参考文件都由 `data/` 生成，请不要手改：改源头，跑 `npm test && npm run generate`，把重新生成的文件放进同一个 PR。投稿标准、拒收规则和生成器说明见 [contributing.md](./contributing.md)，社区行为准则见 [code-of-conduct.md](./code-of-conduct.md)。",
+      "**欢迎 PR** 修 `data/templates-local.json` 里的模板或补新模板、`scripts/` 与 `agents/` 下的生成器和 Skill 代码，以及英文标题和摘要的纠错。`README.md`、`README_zh.md`、`docs/` 和 Skill 参考文件都由 `data/` 生成，请不要手改：改源头，跑 `npm test && npm run generate`，把重新生成的文件放进同一个 PR。投稿标准、拒收规则和生成器说明见 [contributing.md](./contributing.md)，社区行为准则见 [code-of-conduct.md](./code-of-conduct.md)。",
     ].join("\n"),
     ackHeading: "## 🙏 致谢",
     ackBody: [
@@ -294,7 +294,7 @@ const COPY = {
     contributeBody: [
       "**新しいプロンプトケース**は出典とヒートスコアを検証可能に保つため goodcase.ai のレビューパイプラインを通します: [goodcase.ai/submit](https://goodcase.ai/submit) から投稿（収録基準: [goodcase.ai/standards](https://goodcase.ai/standards)）。GitHub 派なら、[`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) に従って [`submissions/`](./submissions/) に JSON を 1 件追加するプルリクエストを開いてください。メンテナが同じレビューに回し、次回のエクスポートで `data/` に入ります。",
       "",
-      "**プルリクエスト歓迎**: `data/style-library.json` のテンプレート修正、`scripts/` と `agents/` のジェネレータ・Skill コード、英語タイトルや要約の訂正。`README.md`、`README_zh.md`、`README_ja.md`、`docs/`、Skill リファレンスは `data/` から生成されるので手で編集しないでください。ソースを直し、`npm test && npm run generate` を実行し、再生成されたファイルを同じ PR に含めます。投稿基準、却下されるもの、ジェネレータの仕組みは [contributing.md](./contributing.md) を参照。本プロジェクトは[行動規範](./code-of-conduct.md)に従います。",
+      "**プルリクエスト歓迎**: `data/templates-local.json` のテンプレート修正や追加、`scripts/` と `agents/` のジェネレータ・Skill コード、英語タイトルや要約の訂正。`README.md`、`README_zh.md`、`README_ja.md`、`docs/`、Skill リファレンスは `data/` から生成されるので手で編集しないでください。ソースを直し、`npm test && npm run generate` を実行し、再生成されたファイルを同じ PR に含めます。投稿基準、却下されるもの、ジェネレータの仕組みは [contributing.md](./contributing.md) を参照。本プロジェクトは[行動規範](./code-of-conduct.md)に従います。",
     ].join("\n"),
     ackHeading: "## 🙏 謝辞",
     ackBody: [

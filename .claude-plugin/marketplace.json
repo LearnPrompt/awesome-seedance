@@ -9,7 +9,7 @@
       "name": "seedance-prompt-library",
       "source": "./agents/skills/seedance-prompt-library",
       "description": "Verified Seedance 2.5 / 2.0 prompt templates, distilled from human-checked cases on goodcase.ai.",
-      "version": "0.1.0",
+      "version": "0.3.0",
       "license": "MIT"
     }
   ]

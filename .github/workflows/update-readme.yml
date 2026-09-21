@@ -28,12 +28,10 @@ jobs:
           node-version: "20"
 
       - name: Run tests
-        run: node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs
+        run: npm test
 
       - name: Generate README and Skill reference
-        run: |
-          node scripts/generate-readme.mjs
-          node scripts/generate-skill-reference.mjs
+        run: npm run generate
 
       - name: Commit regenerated files
         run: |

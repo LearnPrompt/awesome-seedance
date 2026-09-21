@@ -1,7 +1,7 @@
 {
   "name": "awesome-seedance",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Curated, human-verified Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
   "type": "module",
   "scripts": {

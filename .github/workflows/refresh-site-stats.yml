@@ -36,18 +36,16 @@ jobs:
         run: node scripts/fetch-retest-posters.mjs
 
       - name: Run tests
-        run: node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs
+        run: npm test
 
       - name: Regenerate README, galleries, banner and stats
-        run: |
-          node scripts/generate-readme.mjs
-          node scripts/generate-skill-reference.mjs
+        run: npm run generate
 
       - name: Commit refreshed files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/site.json assets/retests/ README.md README_zh.md README_ja.md docs/ agents/ assets/hero.svg data/stats.json
+          git add data/site.json data/skills.json assets/retests/ README.md README_zh.md README_ja.md docs/ agents/ assets/hero.svg data/stats.json
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else

@@ -1,0 +1,133 @@
+{
+  "$comment": "Repo-owned layer on top of data/style-library.json. That file is an export of the private distillation pipeline and gets rewritten by its sync script, so everything hand-written lives here: `overrides` patches an upstream template by id (language-keyed fields such as title.ja and copyPrompt are merged per language), `templates` holds complete templates that only exist in this repo, `categories` adds or patches categories. copyPrompt is the one-line lead-in with 【】 / [ ] placeholders that opens the copy-ready block in docs/templates/{zh,en}/<id>.md. Merged by scripts/lib/library.mjs.",
+  "categories": [],
+  "overrides": {
+    "timeline-shot-script": {
+      "title": {
+        "ja": "タイムラインとショット脚本"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条按时间轴分镜的视频，【内容是：一位骑手在雨夜的霓虹街头送最后一单】，【总时长 15 秒，竖屏 9:16】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want to make a clip scripted second by second. [It shows: a courier delivering the last order of the night through neon-lit rain.] [Total length 15 seconds, vertical 9:16.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "character-reference-lock": {
+      "title": {
+        "ja": "参照画像とアイデンティティ固定"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条需要人物前后长得一样的视频，【我会发给你 2 张人物参考图，她是一位短发、戴细框眼镜的年轻女性】，【她要做的事：在书店里找书、抬头对镜头笑】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a clip where the character looks the same from start to finish. [I am sending you 2 reference images: a young woman with short hair and thin-framed glasses.] [What she does: browses a bookshop, looks up and smiles at the camera.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "handheld-ugc-vlog": {
+      "title": {
+        "ja": "手持ち UGC vlog"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条手持感的生活 vlog，【出镜的人是：一位二十多岁的女生，穿宽松卫衣】，【场景是：周末早上在自家厨房做手冲咖啡】，有参考图我会一起发给你。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a handheld, everyday vlog. [On camera: a woman in her twenties wearing an oversized hoodie.] [Scene: making pour-over coffee in her own kitchen on a weekend morning.] I will attach reference images if I have them. Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "pov-continuous-take": {
+      "title": {
+        "ja": "一人称 POV ワンテイク"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条第一人称一镜到底的视频，【我的视角是：骑着山地车从林道冲下山】，【画面里要出现我的双手和车把】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a first-person clip in one continuous take. [My point of view: riding a mountain bike down a forest trail.] [My hands and the handlebars should stay in frame.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "ugc-creator-review": {
+      "title": {
+        "ja": "UGC クリエイターレビュー"
+      },
+      "copyPrompt": {
+        "zh": "我要做一个 UGC 口播测评带货视频，【我的产品是一瓶洗发水，产品图片我提供给你】，【出镜的人是一位长发女生，在浴室镜子前边用边讲】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a UGC creator review that sells a product. [My product is a bottle of shampoo; I am sending you the product photos.] [On camera: a woman with long hair, talking while she uses it in front of the bathroom mirror.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "product-commercial-shotlist": {
+      "title": {
+        "ja": "プロダクト CM のショットリスト"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条电影质感的产品广告，【我的产品是一款哑光黑的无线耳机，产品图片我提供给你】，【想要的调性是：冷峻、科技感、慢节奏】，【时长 10 秒，横屏 16:9】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a cinematic product commercial. [My product is a pair of matte black wireless earbuds; I am sending you the product photos.] [The tone I want: cool, technical, slow-paced.] [10 seconds, horizontal 16:9.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "process-transformation-montage": {
+      "title": {
+        "ja": "プロセスと変化のモンタージュ"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条过程与变换的蒙太奇，【要展示的过程是：一块面团从揉面到出炉变成牛角包】，【机位固定俯拍，时长 12 秒】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a process and transformation montage. [The process: dough going from kneading to a finished croissant out of the oven.] [Locked overhead camera, 12 seconds.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "dialogue-performance-beats": {
+      "title": {
+        "ja": "対話と演技のビート"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条有对白的表演戏，【人物是：一对在雨夜咖啡馆重逢的旧恋人】，【台词是：男，你还是老样子。女，你也是。】，【情绪从克制到松动】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want an acted scene with dialogue. [Characters: two former lovers meeting again in a cafe on a rainy night.] [Lines: He says, you have not changed. She says, neither have you.] [The mood moves from guarded to softening.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "cinematic-narrative-short": {
+      "title": {
+        "ja": "シネマティック短編"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条电影感的叙事短片，【故事是：宇航员在废弃空间站里收到一条来自 2100 年的讯息】，【想要的类型和气质：科幻悬疑，冷色调】，【时长 15 秒】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a cinematic narrative short. [The story: an astronaut in an abandoned space station receives a message from the year 2100.] [Genre and mood: sci-fi mystery, cold palette.] [15 seconds.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "anime-style-lock": {
+      "title": {
+        "ja": "アニメと様式化の画風固定"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条画风固定的动画短片，【画风是：九十年代赛璐璐日式动画，我会发给你风格参考图】，【内容是：少女骑着扫帚掠过黄昏的海边小镇】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want an animated clip whose art style stays locked. [Style: 1990s cel-shaded Japanese animation; I am sending you style references.] [Content: a girl on a broomstick gliding over a seaside town at dusk.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "stop-motion-cadence": {
+      "title": {
+        "ja": "ストップモーションとコマ撮りのリズム"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条定格动画质感的短片，【材质是：毛毡和黏土】，【内容是：一只毛毡小狐狸在森林里搭帐篷】，【要有明显的逐帧步进感】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a clip with a stop-motion feel. [Materials: felt and clay.] [Content: a little felt fox pitching a tent in the forest.] [The stepped, frame-by-frame cadence should be obvious.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "combat-choreography": {
+      "title": {
+        "ja": "格闘のコレオグラフィ"
+      },
+      "copyPrompt": {
+        "zh": "我要做一段打斗戏，【对打双方是：白衣剑客和戴斗笠的刀客】，【场地是：下着雪的竹林】，【想要的风格：武侠，动作干净利落，镜头跟得上】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a fight scene. [The two fighters: a swordsman in white and a blade-wielder in a bamboo hat.] [Location: a bamboo forest in falling snow.] [Style: wuxia, clean and sharp movement, a camera that keeps up.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "music-beat-sync-mv": {
+      "title": {
+        "ja": "ビート同期ミュージックビデオ"
+      },
+      "copyPrompt": {
+        "zh": "我要做一条卡点音乐 MV，【曲风是：K-pop 舞曲，节奏大约每分钟 120 拍】，【艺人形象是：银色短发的女 solo 歌手，未来感舞台服】，音频或歌词我会一起发给你。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a beat-synced music video. [Genre: K-pop dance track, around 120 BPM.] [The artist: a female soloist with short silver hair in a futuristic stage outfit.] I will send you the audio or lyrics as well. Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    },
+    "time-freeze-rewind": {
+      "title": {
+        "ja": "時間停止と巻き戻しの見せ場"
+      },
+      "copyPrompt": {
+        "zh": "我要做一段时间冻结或倒放的奇观镜头，【场景是：九十年代的美式餐厅，服务员手里的咖啡刚泼出去】，【我想要的效果是：全场定住，镜头绕场一圈，再整体倒放回原位】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：",
+        "en": "I want a time-freeze or rewind set piece. [Scene: a 1990s American diner, a waitress has just spilled her coffee.] [The effect I want: everything freezes, the camera circles the room, then the whole scene rewinds to where it started.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:"
+      }
+    }
+  },
+  "templates": []
+}
