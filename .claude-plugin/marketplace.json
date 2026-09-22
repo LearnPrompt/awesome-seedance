@@ -11,6 +11,34 @@
       "description": "Verified Seedance 2.5 / 2.0 prompt templates, distilled from human-checked cases on goodcase.ai.",
       "version": "0.3.0",
       "license": "MIT"
+    },
+    {
+      "name": "seedance-meme-comedy",
+      "source": "./agents/skills/seedance-meme-comedy",
+      "description": "Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-epic-fantasy-scifi",
+      "source": "./agents/skills/seedance-epic-fantasy-scifi",
+      "description": "Dragons, titans, world reveals: one definition block per entity, timecoded cuts, scale bought with low angles and reference objects.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-retro-dv-home-video",
+      "source": "./agents/skills/seedance-retro-dv-home-video",
+      "description": "Period feel bought with a camcorder-flaw list and one small everyday event; the clip plays like a real old tape.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-3d-cartoon",
+      "source": "./agents/skills/seedance-3d-cartoon",
+      "description": "One appealing character carries the clip: parts-list design lock, measurable render look, one action goal per timeline block.",
+      "version": "0.3.0",
+      "license": "MIT"
     }
   ]
 }

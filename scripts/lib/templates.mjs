@@ -354,9 +354,9 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   lines.push("");
   lines.push(
     t(lang, {
-      en: `Every install line works with the [skills CLI](https://github.com/vercel-labs/skills); \`npx seedance-prompt-library install\` also drops this repo's Skill straight into Claude Code and Codex. More Skills across image, coding and writing live on [goodcase.ai](${moreUrl}).`,
-      zh: `上面每条安装命令都走 [skills CLI](https://github.com/vercel-labs/skills)；本仓的 Skill 也可以用 \`npx seedance-prompt-library install\` 一步装进 Claude Code 和 Codex。图像、编程、文案方向的更多 Skill 在 [goodcase.ai](${moreUrl})。`,
-      ja: `各インストールコマンドは [skills CLI](https://github.com/vercel-labs/skills) で動きます。このリポジトリの Skill は \`npx seedance-prompt-library install\` でも Claude Code と Codex に直接入ります。画像、コーディング、ライティング向けの Skill は [goodcase.ai](${moreUrl}) にあります。`,
+      en: `Every install line works with the [skills CLI](https://github.com/vercel-labs/skills). Skills named \`seedance-…\` live in this repo under [agents/skills](./agents/skills): the library Skill carries every template, the single-kind Skills carry one template each with their own case evidence, all regenerated daily from the same data. \`npx seedance-prompt-library install\` also drops the library Skill straight into Claude Code and Codex. More Skills across image, coding and writing live on [goodcase.ai](${moreUrl}).`,
+      zh: `上面每条安装命令都走 [skills CLI](https://github.com/vercel-labs/skills)。名字以 \`seedance-\` 开头的 Skill 就放在本仓的 [agents/skills](./agents/skills) 下：模板库 Skill 带全部模板，单片型 Skill 各带一个模板和它自己的案例证据，每天随数据一起重新生成。模板库 Skill 也可以用 \`npx seedance-prompt-library install\` 一步装进 Claude Code 和 Codex。图像、编程、文案方向的更多 Skill 在 [goodcase.ai](${moreUrl})。`,
+      ja: `各インストールコマンドは [skills CLI](https://github.com/vercel-labs/skills) で動きます。\`seedance-…\` で始まる Skill はこのリポジトリの [agents/skills](./agents/skills) にあり、ライブラリ Skill は全テンプレートを、単一ジャンルの Skill はテンプレート 1 つとそのケース証拠を持ち、毎日同じデータから再生成されます。ライブラリ Skill は \`npx seedance-prompt-library install\` でも Claude Code と Codex に直接入ります。画像、コーディング、ライティング向けの Skill は [goodcase.ai](${moreUrl}) にあります。`,
     })
   );
   return lines.join("\n");

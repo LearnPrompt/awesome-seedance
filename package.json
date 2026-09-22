@@ -5,8 +5,8 @@
   "description": "Curated, human-verified Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs",
-    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs scripts/lib/submissions.test.mjs scripts/lib/templates.test.mjs",
+    "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs && node scripts/generate-standalone-skills.mjs",
+    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs scripts/lib/submissions.test.mjs scripts/lib/templates.test.mjs scripts/lib/standalone-skill.test.mjs",
     "check:links": "node scripts/check-links.mjs",
     "taxonomy:todo": "node scripts/taxonomy-todo.mjs",
     "validate:submissions": "node scripts/validate-submissions.mjs",
