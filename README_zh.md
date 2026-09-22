@@ -315,7 +315,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 
 **卡尔（@卡尔的AI沃茨）**，GoodCase 项目发起人，本仓库维护者。做过 6 年大模型算法研发，先后在字节、阿里、百度，后来转做 AI 视频，拍了几支上过电视的 AI 短片：央视《我是瓦猫》、湖南卫视《群星闪耀时 AI 番外》、浙江卫视《我好想你》、B 站《出身决定命运？我不服》，单片播放都过了百万。全平台粉丝 50 万+，WAIC、GDPS 等 AI 峰会演讲嘉宾，中国传媒大学 AI 专题特邀讲师。
 
-这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。
+这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。公众号 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)、X [@aiwarts](https://x.com/aiwarts)。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。
 
 <table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase 飞书群二维码"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>
 

@@ -183,7 +183,7 @@ const COPY = {
     authorBody: [
       "**Carl (@卡尔的AI沃茨)** started GoodCase and maintains this list. Six years of large-model R&D at ByteDance, Alibaba and Baidu before turning to AI video, then a run of AI shorts that made it onto Chinese TV: *I Am the Tile Cat* (CCTV), *When the Stars Shine: AI Bonus* (Hunan TV), *I Miss You So Much* (Zhejiang TV) and *Does Birth Decide Fate? I Refuse* (Bilibili), each past a million plays. 500k+ followers across platforms, speaker at WAIC and GDPS, guest lecturer on AI at the Communication University of China.",
       "",
-      "Every case here is something he or the GoodCase reviewers checked against the original post. Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).",
+      "Every case here is something he or the GoodCase reviewers checked against the original post. Follow along on [X @aiwarts](https://x.com/aiwarts) or the WeChat official account [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q) (Chinese). Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).",
       "",
       "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu group QR code\"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>",
     ].join("\n"),
@@ -260,7 +260,7 @@ const COPY = {
     authorBody: [
       "**卡尔（@卡尔的AI沃茨）**，GoodCase 项目发起人，本仓库维护者。做过 6 年大模型算法研发，先后在字节、阿里、百度，后来转做 AI 视频，拍了几支上过电视的 AI 短片：央视《我是瓦猫》、湖南卫视《群星闪耀时 AI 番外》、浙江卫视《我好想你》、B 站《出身决定命运？我不服》，单片播放都过了百万。全平台粉丝 50 万+，WAIC、GDPS 等 AI 峰会演讲嘉宾，中国传媒大学 AI 专题特邀讲师。",
       "",
-      "这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。",
+      "这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。公众号 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)、X [@aiwarts](https://x.com/aiwarts)。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。",
       "",
       "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase 飞书群二维码\"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>",
     ].join("\n"),
@@ -337,7 +337,7 @@ const COPY = {
     authorBody: [
       "**Carl（@卡尔的AI沃茨）**、GoodCase の発起人でこのリストのメンテナー。ByteDance、Alibaba、Baidu で 6 年間大規模モデルの研究開発に携わった後、AI 動画に転向。CCTV『我是瓦猫』、湖南テレビ『群星閃耀時 AI 番外』、浙江テレビ『我好想你』、Bilibili『出身決定命運？我不服』など、テレビで放送された AI 短編を制作し、いずれも再生 100 万回超。全プラットフォームで 50 万人以上のフォロワー、WAIC・GDPS などの AI サミットで登壇、中国伝媒大学 AI 特別講師。",
       "",
-      "ここにあるケースはすべて、本人と GoodCase のレビュアーが元投稿と照合したものです。質問、訂正、コラボレーション: [carl@goodcase.ai](mailto:carl@goodcase.ai)。",
+      "ここにあるケースはすべて、本人と GoodCase のレビュアーが元投稿と照合したものです。[X @aiwarts](https://x.com/aiwarts) と WeChat 公式アカウント [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)（中国語）で発信中。質問、訂正、コラボレーション: [carl@goodcase.ai](mailto:carl@goodcase.ai)。",
       "",
       "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu グループ QR コード\"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>",
     ].join("\n"),

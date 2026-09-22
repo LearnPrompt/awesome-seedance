@@ -315,7 +315,7 @@ This project's format and Skill-packaging approach were shaped by:
 
 **Carl (@卡尔的AI沃茨)** started GoodCase and maintains this list. Six years of large-model R&D at ByteDance, Alibaba and Baidu before turning to AI video, then a run of AI shorts that made it onto Chinese TV: *I Am the Tile Cat* (CCTV), *When the Stars Shine: AI Bonus* (Hunan TV), *I Miss You So Much* (Zhejiang TV) and *Does Birth Decide Fate? I Refuse* (Bilibili), each past a million plays. 500k+ followers across platforms, speaker at WAIC and GDPS, guest lecturer on AI at the Communication University of China.
 
-Every case here is something he or the GoodCase reviewers checked against the original post. Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).
+Every case here is something he or the GoodCase reviewers checked against the original post. Follow along on [X @aiwarts](https://x.com/aiwarts) or the WeChat official account [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q) (Chinese). Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).
 
 <table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase Feishu group QR code"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>
 
