@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 463 条案例逐条核对过原帖，264 次跨模型复测，25 个可复用模板，30 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1229 条已验证 AI 案例。每天同步，每天都有新案例进来。
+**Seedance 2.5 / 2.0 提示词验证库。** 463 条案例逐条核对过原帖，264 次跨模型复测，25 个可复用模板，34 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1234 条已验证 AI 案例。每天同步，每天都有新案例进来。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -44,7 +44,7 @@
 | --- | --- | --- |
 | **适合谁** | 新手，以及不想装任何东西的人 | 已经在用 Claude Code、Codex 这类 agent 的专业用户 |
 | **怎么用** | 复制，换掉【】，粘到任意 AI 对话 | 一行命令装好，之后直接跟 agent 说需求 |
-| **覆盖范围** | 25 个分类模板 | 同一套模板加风格库，共 30 个 Skill 与创作者变体 |
+| **覆盖范围** | 25 个分类模板 | 同一套模板加风格库，共 34 个 Skill 与创作者变体 |
 | **拿到什么** | 一次一条靠谱的提示语 | 一次一批、多种画风的提示语，模板和结构都替你选好填好 |
 
 只想看案例，去[热度 Top 30](#-热度-top-30) 或[全部案例](#-全部案例)。想知道一条提示语靠不靠谱，看[跨模型复测](#-跨模型复测)。
@@ -142,17 +142,17 @@
 
 ## 🧰 Skill
 
-Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后直接跟 agent 说你要什么，它自己选模板、填结构，还能调风格库一次给你出好几种画风。下面是 11 个 Skill，另有 19 个创作者变体，带着某位创作者的个人风格。
+Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后直接跟 agent 说你要什么，它自己选模板、填结构，还能调风格库一次给你出好几种画风。下面是 15 个 Skill，另有 19 个创作者变体，带着某位创作者的个人风格。
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="260" alt="Seedance 提示语模板库"></a><br><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library"><b>Seedance 提示语模板库</b></a><br><sub>本仓自带的 Skill。把这页所有分类模板和风格库装进 agent，让它在你的编辑器里直接写出结构化的 Seedance 提示语。</sub><br><br><code>npx seedance-prompt-library install</code></td>
-<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-meme-comedy"><b>反转搞笑短片</b></a><br><sub>所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-meme-comedy</code></td>
-<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-epic-fantasy-scifi"><b>奇幻科幻大场面</b></a><br><sub>巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-epic-fantasy-scifi</code></td>
+<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-meme-comedy"><img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="260" alt="反转搞笑短片"></a><br><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-meme-comedy"><b>反转搞笑短片</b></a><br><sub>所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-meme-comedy</code></td>
+<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-epic-fantasy-scifi"><img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="260" alt="奇幻科幻大场面"></a><br><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-epic-fantasy-scifi"><b>奇幻科幻大场面</b></a><br><sub>巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-epic-fantasy-scifi</code></td>
 </tr>
 <tr>
-<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-retro-dv-home-video"><b>早年 DV 家庭录像</b></a><br><sub>年代感靠机器缺陷清单和一件生活小事撑起来，整条像一盘真的旧带子。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-retro-dv-home-video</code></td>
-<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-3d-cartoon"><b>3D 卡通角色短片</b></a><br><sub>一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-3d-cartoon</code></td>
+<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-retro-dv-home-video"><img src="https://media.goodcase.ai/media/poster/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.jpg" width="260" alt="早年 DV 家庭录像"></a><br><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-retro-dv-home-video"><b>早年 DV 家庭录像</b></a><br><sub>年代感靠机器缺陷清单和一件生活小事撑起来，整条像一盘真的旧带子。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-retro-dv-home-video</code></td>
+<td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-3d-cartoon"><img src="https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg" width="260" alt="3D 卡通角色短片"></a><br><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-3d-cartoon"><b>3D 卡通角色短片</b></a><br><sub>一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。</sub><br><br><code>npx skills add LearnPrompt/awesome-seedance --skill seedance-3d-cartoon</code></td>
 <td width="33%" valign="top" align="center"><a href="https://github.com/LearnPrompt/goodcase-lite"><img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="260" alt="GoodCase 案例查询"></a><br><a href="https://github.com/LearnPrompt/goodcase-lite"><b>GoodCase 案例查询</b></a><br><sub>让 agent 实时查整个 goodcase.ai 案例库：全部模型、完整提示语、热度、稳定分和复测基线。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill goodcase</code></td>
 </tr>
 <tr>
@@ -163,6 +163,12 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 <tr>
 <td width="33%" valign="top" align="center"><a href="https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance"><img src="https://media.goodcase.ai/cases/8ca3ebd21bfe.jpg" width="260" alt="动作连续性编排"></a><br><a href="https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance"><b>动作连续性编排</b></a><br><sub>把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography</code><br><sub>创作者变体: <a href="https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance">haruuraeadss</a></sub></td>
 <td width="33%" valign="top" align="center"><a href="https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance"><img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="260" alt="过程与变换叙事"></a><br><a href="https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance"><b>过程与变换叙事</b></a><br><sub>把制作过程、改造和前后对比讲成一段段清楚又解压的阶段。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story</code></td>
+<td width="33%" valign="top" align="center"><a href="https://goodcase.ai/skills/retro-dv-home-video?utm_source=awesome-seedance"><img src="https://media.goodcase.ai/media/poster/seedance-prompt-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-a-f4036ce777fe.jpg" width="260" alt="早年 DV 家庭录像"></a><br><a href="https://goodcase.ai/skills/retro-dv-home-video?utm_source=awesome-seedance"><b>早年 DV 家庭录像</b></a><br><sub>年代感靠机器缺陷清单和一件生活小事撑起来，整条像一盘真的旧带子。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video</code></td>
+</tr>
+<tr>
+<td width="33%" valign="top" align="center"><a href="https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance"><img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="260" alt="奇幻科幻大场面"></a><br><a href="https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance"><b>奇幻科幻大场面</b></a><br><sub>巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle</code></td>
+<td width="33%" valign="top" align="center"><a href="https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance"><img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="260" alt="反转搞笑短片"></a><br><a href="https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance"><b>反转搞笑短片</b></a><br><sub>所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit</code></td>
+<td width="33%" valign="top" align="center"><a href="https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance"><img src="https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg" width="260" alt="3D 卡通角色短片"></a><br><a href="https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance"><b>3D 卡通角色短片</b></a><br><sub>一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short</code></td>
 </tr>
 </table>
 
@@ -262,8 +268,8 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 | 跨模型复测                       | 254 条 / 264 次     |
 | 稳定度分（已测）                    | 252 条 / 均分 77.9   |
 | 最近更新                        | 2026-09-19        |
-| goodcase.ai 全站（含非 Seedance） | 1229 条 / 350 位创作者 |
-| goodcase.ai AI 视频           | 620 条             |
+| goodcase.ai 全站（含非 Seedance） | 1234 条 / 352 位创作者 |
+| goodcase.ai AI 视频           | 625 条             |
 
 *复测批次说明：Retest runs carry two MiniMax labels on purpose. The 2026-08 batches (runIds video-minimax-h3-768p-20260809-phase1 / -20260811-top-heat) ran on Flova's MiniMax H3 768p; the 2026-09 batches (video-minimax-h3-768p-20260906-phase1 / -20260907-phase1) ran on fal.ai's minimax/h3-max/text-to-video endpoint, which only existed from 2026-09-03. They are different model tiers on different platforms, so the labels are kept distinct rather than merged. The 2026-08 entries show finalScore: null because a later human-review pass overwrote their structured evidence notes with a prose verdict; those rows carry a human-reviewed verdict instead, and the original judge scores remain in the private eval evidence manifest.*
 

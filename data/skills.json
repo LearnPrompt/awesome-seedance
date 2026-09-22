@@ -1,5 +1,5 @@
 {
-  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. Entries with a `templateId` are this repo's standalone Skills: scripts/generate-standalone-skills.mjs writes agents/skills/<id>/ from that template and the cases filed under it (`triggers` become extra Chinese trigger words in the SKILL.md description). coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
+  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. Entries with a `templateId` are this repo's standalone Skills: scripts/generate-standalone-skills.mjs writes agents/skills/<id>/ from that template and the cases filed under it (`triggers` become extra Chinese trigger words in the SKILL.md description). `coverTemplateId` only borrows a template's hottest case as the cover (for site Skills that mirror a template here); it does not make the entry a standalone Skill. coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
   "moreUrl": "https://goodcase.ai/skills?category=video",
   "skills": [
     {
@@ -314,6 +314,78 @@
         "src": "https://media.goodcase.ai/cases/4a16c60a0b25.jpg"
       },
       "coverCase": "case-429309e40d97"
+    },
+    {
+      "id": "retro-dv-home-video",
+      "siteSlug": "retro-dv-home-video",
+      "title": {
+        "en": "Early-2000s DV Home Video",
+        "zh": "早年 DV 家庭录像",
+        "ja": "2000年代初頭のDVホームビデオ"
+      },
+      "description": {
+        "en": "Period feel bought with a camcorder-flaw list and one small everyday event, so the clip plays like a real old tape.",
+        "zh": "年代感靠机器缺陷清单和一件生活小事撑起来，整条像一盘真的旧带子。",
+        "ja": "カムコーダーの欠点リストと日常の小さな出来事で時代感を作り、本物の古いテープのように見せます。"
+      },
+      "coverTemplateId": "retro-found-footage",
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video",
+      "url": "https://goodcase.ai/skills/retro-dv-home-video",
+      "variants": []
+    },
+    {
+      "id": "epic-fantasy-scifi-spectacle",
+      "siteSlug": "epic-fantasy-scifi-spectacle",
+      "title": {
+        "en": "Epic Fantasy and Sci-fi Spectacle",
+        "zh": "奇幻科幻大场面",
+        "ja": "壮大なファンタジー・SF大作"
+      },
+      "description": {
+        "en": "Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.",
+        "zh": "巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。",
+        "ja": "ドラゴン、巨人、世界観の提示。実体ごとに定義ブロック、タイムコードでカット、ローアングルと対比物でスケール感を作ります。"
+      },
+      "coverTemplateId": "epic-fantasy-scifi",
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
+      "variants": []
+    },
+    {
+      "id": "twist-comedy-skit",
+      "siteSlug": "twist-comedy-skit",
+      "title": {
+        "en": "Twist-ending Comedy Skit",
+        "zh": "反转搞笑短片",
+        "ja": "どんでん返しコメディ"
+      },
+      "description": {
+        "en": "Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.",
+        "zh": "所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。",
+        "ja": "すべてのビートが一つのオチに向かい、オチは目に見えるものに落ちる。荒唐な設定を真顔のカメラで撮ります。"
+      },
+      "coverTemplateId": "meme-comedy",
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
+      "url": "https://goodcase.ai/skills/twist-comedy-skit",
+      "variants": []
+    },
+    {
+      "id": "3d-cartoon-character-short",
+      "siteSlug": "3d-cartoon-character-short",
+      "title": {
+        "en": "3D Cartoon Character Short",
+        "zh": "3D 卡通角色短片",
+        "ja": "3Dカートゥーン短編"
+      },
+      "description": {
+        "en": "One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.",
+        "zh": "一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。",
+        "ja": "魅力的なキャラクター一人が一本を支える。造形をパーツ単位で固定し、画風は測れるレンダリング項目で書き、タイムラインは一区切り一動作。"
+      },
+      "coverTemplateId": "3d-cartoon",
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
+      "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
+      "variants": []
     }
   ]
 }
