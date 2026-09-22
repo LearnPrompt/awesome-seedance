@@ -313,13 +313,19 @@ export function renderTemplateGrid(library, lang, index, opts = {}) {
 // README：Skill 网格
 // ---------------------------------------------------------------------------
 
-/** skills: data/skills.json 的 skills 数组；casesBySlug 用来解析 coverCase。 */
+/**
+ * skills: data/skills.json 的 skills 数组。
+ * opts.coverCasesFor(skill) → 该 Skill 的封面案例数组（调用方按 coverCases / templateId / coverTemplateId 解析好），
+ * 取前 4 张有海报的拼成 2×2 小格，像 goodcase.ai 的 Skill 卡片那样一眼看到多种效果；不够 4 张就有几张放几张。
+ * 创作者变体不再逐个列名，只留一句数量，链到 Skill 页。
+ */
 export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts = {}) {
   const cols = opts.cols || 3;
   const width = Math.floor(100 / cols);
   const skills = (skillsData && skillsData.skills) || [];
   const variantCount = skills.reduce((n, s) => n + (s.variants || []).length, 0);
   const moreUrl = withUtm((skillsData && skillsData.moreUrl) || "https://goodcase.ai/skills?category=video");
+  const coverCasesFor = opts.coverCasesFor || ((s) => (s.coverCase && casesBySlug.get(s.coverCase) ? [casesBySlug.get(s.coverCase)] : []));
   const lines = [skillsHeading(lang), ""];
   lines.push(
     t(lang, {
@@ -333,16 +339,23 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   for (let i = 0; i < skills.length; i += cols) {
     lines.push("<tr>");
     for (const s of skills.slice(i, i + cols)) {
-      const coverCase = s.coverCase ? casesBySlug.get(s.coverCase) : null;
-      const src = (coverCase && coverCase.posterUrl) || (s.cover && s.cover.src) || null;
       const url = /goodcase\.ai/.test(s.url) ? withUtm(s.url) : s.url;
       const title = escapeXml(pickLang(s.title, lang));
-      const img = src ? `<a href="${url}"><img src="${src}" width="260" alt="${title}"></a><br>` : "";
-      const variants = (s.variants || [])
-        .map((v) => `<a href="${withUtm(v.url)}">${escapeXml(v.creator)}</a>`)
-        .join(" · ");
-      const variantLine = variants
-        ? `<br><sub>${t(lang, { en: "Creator variants", zh: "创作者变体", ja: "クリエイター版" })}: ${variants}</sub>`
+      const covers = coverCasesFor(s).filter((c) => c && c.posterUrl).slice(0, 4);
+      const fallback = s.cover && s.cover.src ? [{ posterUrl: s.cover.src, goodcaseUrl: url }] : [];
+      const shots = covers.length ? covers : fallback;
+      let img = "";
+      if (shots.length >= 2) {
+        const cell = (c) => `<td><a href="${c.goodcaseUrl}"><img src="${c.posterUrl}" width="128" alt=""></a></td>`;
+        const rows = [];
+        for (let r = 0; r < shots.length; r += 2) rows.push(`<tr>${shots.slice(r, r + 2).map(cell).join("")}</tr>`);
+        img = `<table><tbody>${rows.join("")}</tbody></table>`;
+      } else if (shots.length === 1) {
+        img = `<a href="${url}"><img src="${shots[0].posterUrl}" width="260" alt="${title}"></a><br>`;
+      }
+      const n = (s.variants || []).length;
+      const variantLine = n
+        ? `<br><sub><a href="${url}">${t(lang, { en: `${n} creator ${n === 1 ? "variant" : "variants"}`, zh: `另有 ${n} 个创作者变体`, ja: `クリエイター版 ${n} 件` })}</a></sub>`
         : "";
       lines.push(
         `<td width="${width}%" valign="top" align="center">${img}<a href="${url}"><b>${title}</b></a><br><sub>${escapeXml(pickLang(s.description, lang) || "")}</sub><br><br><code>${escapeXml(s.install)}</code>${variantLine}</td>`

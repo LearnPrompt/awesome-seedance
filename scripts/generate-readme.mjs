@@ -14,6 +14,7 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 import {
   computeStats,
+  sortByHeat,
   collapseSeries,
   renderStatsTable,
   renderTopTable,
@@ -101,18 +102,17 @@ const bucketCases = {
   "2.5": partition.v25,
   "2.0": partition.v20,
 };
-// 带 templateId / coverTemplateId 的 Skill 没手填封面时，用该模板名下热度最高且有海报的案例当封面，避免网格里出现空格子。
-const skillsWithCovers = skillsData
-  ? {
-      ...skillsData,
-      skills: skillsData.skills.map((skill) => {
-        const tplId = skill.templateId || skill.coverTemplateId;
-        if (skill.coverCase || skill.cover || !tplId) return skill;
-        const top = (templateIndex.byTemplate.get(tplId) || []).find((c) => c.posterUrl);
-        return top ? { ...skill, coverCase: top.slug } : skill;
-      }),
-    }
-  : null;
+// Skill 格子的封面：coverCases（手填 slug 列表）> 对应模板名下热度最高的案例 > 全库热度最高的案例，取前 4 张拼 2×2。
+const topByHeat = sortByHeat(cases);
+const skillCoverCases = (skill) => {
+  if (Array.isArray(skill.coverCases) && skill.coverCases.length) {
+    return skill.coverCases.map((slug) => casesBySlug.get(slug)).filter(Boolean);
+  }
+  const tplId = skill.templateId || skill.coverTemplateId;
+  if (tplId) return templateIndex.byTemplate.get(tplId) || [];
+  if (skill.coverCase && casesBySlug.get(skill.coverCase)) return [casesBySlug.get(skill.coverCase)];
+  return topByHeat;
+};
 
 const AWESOME_BADGE = "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)";
 
@@ -396,7 +396,7 @@ function buildReadme(lang) {
     })
   );
   pushRendered(renderTemplateGrid(library, lang, templateIndex));
-  if (skillsData) pushRendered(renderSkillGrid(skillsWithCovers, lang, casesBySlug));
+  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases }));
 
   // Top 榜是唯一可裁剪的部分：超预算时从表尾裁行，标题/说明按实际行数回填。
   const top = renderTopTable(topPartition.top, lang, {

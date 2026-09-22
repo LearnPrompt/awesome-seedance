@@ -188,14 +188,20 @@ const skillsData = {
   ],
 };
 
-test("renderSkillGrid: one Skill per cell, install line, creator variants hang under their base Skill, site links carry the UTM", () => {
-  const md = renderSkillGrid(skillsData, "zh", new Map(cases.map((c) => [c.slug, c])));
+test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, variant count instead of names, UTM on site links", () => {
+  const bySlug = new Map(cases.map((c) => [c.slug, c]));
+  const withPosters = cases.filter((c) => c.posterUrl);
+  const md = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: (s) => (s.id === "a" ? withPosters : []) });
   assert.ok(md.startsWith("## 🧰 Skill"));
-  assert.equal((md.match(/<td /g) || []).length, 2);
-  assert.ok(md.includes(`<img src="${cases[0].posterUrl}"`), "coverCase resolves to that case's poster");
+  assert.equal((md.match(/<td width/g) || []).length, 2);
+  const tileA = md.split("<td width")[1];
+  assert.match(tileA, /<table><tbody><tr><td><a href="[^"]+"><img src="[^"]+" width="128" alt=""><\/a><\/td>/, "collage of thumbnails");
+  assert.equal((tileA.match(/<img /g) || []).length, Math.min(4, withPosters.length));
+  const tileB = md.split("<td width")[2];
+  assert.ok(tileB.includes('<img src="https://media.goodcase.ai/cases/b.jpg" width="260"'), "single cover falls back to cover.src");
   assert.match(md, /<code>npx a install<\/code>/);
-  assert.match(md, /创作者变体: <a href="https:\/\/goodcase\.ai\/skills\/b-by-1\?utm_source=awesome-seedance">卡尔<\/a> · <a [^>]+>A&amp;B<\/a>/);
-  assert.ok(md.includes('href="https://goodcase.ai/skills/b?utm_source=awesome-seedance"'));
+  assert.doesNotMatch(md, /卡尔|A&amp;B/, "creator names are not listed");
+  assert.match(md, /<a href="https:\/\/goodcase\.ai\/skills\/b\?utm_source=awesome-seedance">另有 2 个创作者变体<\/a>/);
   assert.ok(md.includes('href="https://github.com/x/a"'), "non-goodcase links are left alone");
   assert.equal(countSkills(skillsData), 4);
   assert.equal(withUtm("https://goodcase.ai/skills?category=video"), "https://goodcase.ai/skills?category=video&utm_source=awesome-seedance");

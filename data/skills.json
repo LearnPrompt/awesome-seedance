@@ -1,5 +1,5 @@
 {
-  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. Entries with a `templateId` are this repo's standalone Skills: scripts/generate-standalone-skills.mjs writes agents/skills/<id>/ from that template and the cases filed under it (`triggers` become extra Chinese trigger words in the SKILL.md description). `coverTemplateId` only borrows a template's hottest case as the cover (for site Skills that mirror a template here); it does not make the entry a standalone Skill. coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
+  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. Entries with a `templateId` are this repo's standalone Skills: scripts/generate-standalone-skills.mjs writes agents/skills/<id>/ from that template and the cases filed under it (`triggers` become extra Chinese trigger words in the SKILL.md description). Covers are 2×2 collages of the hottest posters: `coverCases` (explicit slugs) > the template behind `templateId` / `coverTemplateId` > the whole library. `coverTemplateId` only borrows a template's hottest case as the cover (for site Skills that mirror a template here); it does not make the entry a standalone Skill. coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
   "moreUrl": "https://goodcase.ai/skills?category=video",
   "skills": [
     {
@@ -16,7 +16,6 @@
       },
       "install": "npx seedance-prompt-library install",
       "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library",
-      "coverCase": "seedance-25-diner-frozen-time-rewind",
       "variants": []
     },
     {
@@ -285,7 +284,6 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill goodcase",
       "url": "https://github.com/LearnPrompt/goodcase-lite",
-      "coverCase": "seedance-25-kpop-mv-dual-idol",
       "variants": []
     },
     {
@@ -348,7 +346,8 @@
       "cover": {
         "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
       },
-      "coverCase": "seedance-25-minidv-coffee-asmr-vlog"
+      "coverCase": "seedance-25-minidv-coffee-asmr-vlog",
+      "coverTemplateId": "handheld-ugc-vlog"
     },
     {
       "id": "product-ad-shot-design",
@@ -394,7 +393,8 @@
       "cover": {
         "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
       },
-      "coverCase": "luxury-skincare-commercial"
+      "coverCase": "luxury-skincare-commercial",
+      "coverTemplateId": "product-commercial-shotlist"
     },
     {
       "id": "animation-style-consistency",
@@ -424,7 +424,8 @@
       "cover": {
         "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
       },
-      "coverCase": "case-a9ab0266f96a"
+      "coverCase": "case-a9ab0266f96a",
+      "coverTemplateId": "anime-style-lock"
     },
     {
       "id": "action-continuity-choreography",
@@ -450,7 +451,8 @@
       "cover": {
         "src": "https://media.goodcase.ai/cases/8cd8f1126ba3.jpg"
       },
-      "coverCase": "just-sharon7-seedance-ai-8085c03efbb0"
+      "coverCase": "just-sharon7-seedance-ai-8085c03efbb0",
+      "coverTemplateId": "combat-choreography"
     },
     {
       "id": "process-transformation-story",
@@ -471,7 +473,8 @@
       "cover": {
         "src": "https://media.goodcase.ai/cases/4a16c60a0b25.jpg"
       },
-      "coverCase": "case-429309e40d97"
+      "coverCase": "case-429309e40d97",
+      "coverTemplateId": "process-transformation-montage"
     },
     {
       "id": "retro-dv-home-video",
