@@ -39,6 +39,55 @@
       "description": "One appealing character carries the clip: parts-list design lock, measurable render look, one action goal per timeline block.",
       "version": "0.3.0",
       "license": "MIT"
+    },
+    {
+      "name": "seedance-storyboard-grid-to-video",
+      "source": "./agents/skills/seedance-storyboard-grid-to-video",
+      "description": "Two stages: first a single-page sheet of numbered panels from an image model, then that sheet fed to Seedance as the reference. The sheet owns order, framing and timing, and the video prompt only has to connect the panels.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-travel-city-walk",
+      "source": "./agents/skills/seedance-travel-city-walk",
+      "description": "One traveller moves through a place scene by scene, each scene carrying its own timecode, its own location and one short line. The polish is bought with film grain and golden-hour light.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-pet-animal",
+      "source": "./agents/skills/seedance-pet-animal",
+      "description": "The animal is the lead and a phone is the only camera. Lock the count to exactly one, keep the animal behaving like an animal, and let the payoff come from it closing in on the lens.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-car-vehicle",
+      "source": "./agents/skills/seedance-car-vehicle",
+      "description": "The machine has to stay one machine while the camera does all the work. Lock the vehicle part by part, then fill the runtime with a numbered cut list that moves the camera every second.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-fashion-lookbook",
+      "source": "./agents/skills/seedance-fashion-lookbook",
+      "description": "One person, one look, a handful of places. A head-to-toe appearance lock carries the whole clip, and each scene gets one location, one gesture and one kind of light.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-horror-suspense",
+      "source": "./agents/skills/seedance-horror-suspense",
+      "description": "Every shot carries its own timecode and shows one visible change on a body. The dread comes from the chain — a look, veins, a bite, the next person — and the ending seals a door without settling anything.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-sports-extreme",
+      "source": "./agents/skills/seedance-sports-extreme",
+      "description": "The clip lives or dies on the action loop. Write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.",
+      "version": "0.3.0",
+      "license": "MIT"
     }
   ]
 }

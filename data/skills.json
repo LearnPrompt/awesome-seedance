@@ -114,6 +114,164 @@
       "variants": []
     },
     {
+      "id": "seedance-storyboard-grid-to-video",
+      "templateId": "storyboard-grid-to-video",
+      "triggers": [
+        "分镜图",
+        "九宫格",
+        "故事板"
+      ],
+      "title": {
+        "en": "Storyboard Grid to Video",
+        "zh": "分镜网格转视频",
+        "ja": "絵コンテグリッドから動画へ"
+      },
+      "description": {
+        "en": "Two stages: first a single-page sheet of numbered panels from an image model, then that sheet fed to Seedance as the reference. The sheet owns order, framing and timing, and the video prompt only has to connect the panels.",
+        "zh": "分两步走：先用图像模型出一张带编号格子的单页分镜图，再把这张图当参考喂给 Seedance。顺序、构图和时长由分镜图定死，视频提示语只负责把格子连起来。",
+        "ja": "画像モデルで番号付きコマの絵コンテを 1 枚作り、それを参照として Seedance に渡す 2 段階の作り方。順番、構図、尺は絵コンテが決め、動画プロンプトはコマをつなぐだけ。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-storyboard-grid-to-video",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-storyboard-grid-to-video",
+      "variants": []
+    },
+    {
+      "id": "seedance-travel-city-walk",
+      "templateId": "travel-city-walk",
+      "triggers": [
+        "旅拍",
+        "城市漫游",
+        "旅行"
+      ],
+      "title": {
+        "en": "Cinematic Travel Vlog Montage",
+        "zh": "电影感旅行漫游",
+        "ja": "シネマティック旅行モンタージュ"
+      },
+      "description": {
+        "en": "One traveller moves through a place scene by scene, each scene carrying its own timecode, its own location and one short line. The polish is bought with film grain and golden-hour light.",
+        "zh": "一个人按场次走过一个地方，每场有自己的时间码、自己的地点和一句短台词。质感靠胶片颗粒和黄金时刻的光撑起来，手机瑕疵那套在这里用不上。",
+        "ja": "一人の旅人がシーンごとに場所を歩き、各シーンにタイムコード、場所、短いひと言。質感はフィルムグレインとゴールデンアワーの光で作る。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-travel-city-walk",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-travel-city-walk",
+      "variants": []
+    },
+    {
+      "id": "seedance-pet-animal",
+      "templateId": "pet-animal",
+      "triggers": [
+        "宠物",
+        "猫",
+        "狗",
+        "动物"
+      ],
+      "title": {
+        "en": "Pets and Animals as the Lead",
+        "zh": "宠物动物当主角",
+        "ja": "ペット・動物が主役"
+      },
+      "description": {
+        "en": "The animal is the lead and a phone is the only camera. Lock the count to exactly one, keep the animal behaving like an animal, and let the payoff come from it closing in on the lens.",
+        "zh": "动物是真正的主角，镜头就交给一台手机。数量锁死成一只，动物只做动物做的事，包袱留给它一步步逼近镜头。",
+        "ja": "動物が主役で、カメラはスマホ 1 台。頭数は 1 匹に固定し、動物は動物らしく振る舞い、オチはレンズに迫ってくる動きで。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-pet-animal",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-pet-animal",
+      "variants": []
+    },
+    {
+      "id": "seedance-car-vehicle",
+      "templateId": "car-vehicle",
+      "triggers": [
+        "汽车",
+        "赛车",
+        "摩托",
+        "载具"
+      ],
+      "title": {
+        "en": "Cars and Vehicles at Speed",
+        "zh": "汽车与载具速度片",
+        "ja": "クルマと乗り物のスピード映像"
+      },
+      "description": {
+        "en": "The machine has to stay one machine while the camera does all the work. Lock the vehicle part by part, then fill the runtime with a numbered cut list that moves the camera every second.",
+        "zh": "机器从头到尾得是同一台机器，出力的是镜头。先把车按部件锁住，再用编号分镜表把时长排满，每一秒换一个机位。",
+        "ja": "車両は最初から最後まで同じ 1 台、働くのはカメラ。部品単位で固定し、毎秒カメラ位置が変わる番号付きカット表で尺を埋める。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-car-vehicle",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-car-vehicle",
+      "variants": []
+    },
+    {
+      "id": "seedance-fashion-lookbook",
+      "templateId": "fashion-lookbook",
+      "triggers": [
+        "时尚",
+        "穿搭",
+        "人像",
+        "写真"
+      ],
+      "title": {
+        "en": "Fashion Lookbook and Portrait Film",
+        "zh": "时尚 lookbook 与人像写真片",
+        "ja": "ファッション・ポートレート映像"
+      },
+      "description": {
+        "en": "One person, one look, a handful of places. A head-to-toe appearance lock carries the whole clip, and each scene gets one location, one gesture and one kind of light.",
+        "zh": "一个人、一身造型、几个地点。一段从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。",
+        "ja": "一人、一つのスタイル、いくつかの場所。頭からつま先までの外見ロックが全体を支え、各シーンは場所・仕草・光を一つずつ。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-fashion-lookbook",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-fashion-lookbook",
+      "variants": []
+    },
+    {
+      "id": "seedance-horror-suspense",
+      "templateId": "horror-suspense",
+      "triggers": [
+        "恐怖",
+        "悬疑",
+        "惊悚"
+      ],
+      "title": {
+        "en": "Horror and Suspense",
+        "zh": "恐怖悬疑短片",
+        "ja": "ホラー・サスペンス短編"
+      },
+      "description": {
+        "en": "Every shot carries its own timecode and shows one visible change on a body. The dread comes from the chain — a look, veins, a bite, the next person — and the ending seals a door without settling anything.",
+        "zh": "每一镜都带自己的时间码，身上只发生一个看得见的变化。吓人的地方在于这些变化一环扣一环：一个眼神、浮起的血管、一口咬下去、下一个人。结尾把门关上，事情不了结。",
+        "ja": "各ショットにタイムコード、体に起きる目に見える変化は一つ。恐怖は連鎖から生まれ、結末はドアを閉めて何も解決しない。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-horror-suspense",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-horror-suspense",
+      "variants": []
+    },
+    {
+      "id": "seedance-sports-extreme",
+      "templateId": "sports-extreme",
+      "triggers": [
+        "体育",
+        "极限运动",
+        "跑酷",
+        "滑板"
+      ],
+      "title": {
+        "en": "Sports and Extreme Stunts",
+        "zh": "体育与极限运动",
+        "ja": "スポーツ・エクストリーム映像"
+      },
+      "description": {
+        "en": "The clip lives or dies on the action loop. Write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.",
+        "zh": "这类片子全押在动作闭环上。从助跑到落地，每个环节按顺序写出来，要哪几项物理就点名哪几项，负面清单专门用来打掉飞行、悬浮和瞬移。",
+        "ja": "助走から着地までの動作の連鎖がすべて。物理は部位ごとに指定し、ネガティブリストで飛行・浮遊・瞬間移動を潰す。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-sports-extreme",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-sports-extreme",
+      "variants": []
+    },
+    {
       "id": "goodcase",
       "title": {
         "en": "GoodCase Case Search",
