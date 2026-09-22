@@ -179,6 +179,14 @@ const COPY = {
       "- [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README-as-gallery with per-entry attribution.",
       "- [goodcase.ai](https://goodcase.ai) - The source of every case, heat score and retest in this repository.",
     ].join("\n"),
+    authorHeading: "## 👤 Author",
+    authorBody: [
+      "**Carl (@卡尔的AI沃茨)** started GoodCase and maintains this list. Six years of large-model R&D at ByteDance, Alibaba and Baidu before turning to AI video, then a run of AI shorts that made it onto Chinese TV: *I Am the Tile Cat* (CCTV), *When the Stars Shine: AI Bonus* (Hunan TV), *I Miss You So Much* (Zhejiang TV) and *Does Birth Decide Fate? I Refuse* (Bilibili), each past a million plays. 500k+ followers across platforms, speaker at WAIC and GDPS, guest lecturer on AI at the Communication University of China.",
+      "",
+      "Every case here is something he or the GoodCase reviewers checked against the original post. Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).",
+      "",
+      "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu group QR code\"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>",
+    ].join("\n"),
     copyrightHeading: "## Copyright & Takedown Notice",
     copyrightBody: [
       "This repository carries three kinds of material under three different terms.",
@@ -248,6 +256,14 @@ const COPY = {
       "- [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README 即画廊、逐条署名的做法。",
       "- [goodcase.ai](https://goodcase.ai) - 本仓库全部案例、热度分和复测的数据来源。",
     ].join("\n"),
+    authorHeading: "## 👤 作者",
+    authorBody: [
+      "**卡尔（@卡尔的AI沃茨）**，GoodCase 项目发起人，本仓库维护者。做过 6 年大模型算法研发，先后在字节、阿里、百度，后来转做 AI 视频，拍了几支上过电视的 AI 短片：央视《我是瓦猫》、湖南卫视《群星闪耀时 AI 番外》、浙江卫视《我好想你》、B 站《出身决定命运？我不服》，单片播放都过了百万。全平台粉丝 50 万+，WAIC、GDPS 等 AI 峰会演讲嘉宾，中国传媒大学 AI 专题特邀讲师。",
+      "",
+      "这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。",
+      "",
+      "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase 飞书群二维码\"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>",
+    ].join("\n"),
     copyrightHeading: "## 版权与下架政策",
     copyrightBody: [
       "本仓库包含三类内容，分别适用三种条款。",
@@ -316,6 +332,14 @@ const COPY = {
       "- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - テンプレートライブラリ + インストール可能 Skill + マーケットプレイスのパターン。",
       "- [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README をギャラリーにし、エントリごとに出典を付ける方式。",
       "- [goodcase.ai](https://goodcase.ai) - 本リポジトリの全ケース、ヒートスコア、再テストの出所。",
+    ].join("\n"),
+    authorHeading: "## 👤 作者",
+    authorBody: [
+      "**Carl（@卡尔的AI沃茨）**、GoodCase の発起人でこのリストのメンテナー。ByteDance、Alibaba、Baidu で 6 年間大規模モデルの研究開発に携わった後、AI 動画に転向。CCTV『我是瓦猫』、湖南テレビ『群星閃耀時 AI 番外』、浙江テレビ『我好想你』、Bilibili『出身決定命運？我不服』など、テレビで放送された AI 短編を制作し、いずれも再生 100 万回超。全プラットフォームで 50 万人以上のフォロワー、WAIC・GDPS などの AI サミットで登壇、中国伝媒大学 AI 特別講師。",
+      "",
+      "ここにあるケースはすべて、本人と GoodCase のレビュアーが元投稿と照合したものです。質問、訂正、コラボレーション: [carl@goodcase.ai](mailto:carl@goodcase.ai)。",
+      "",
+      "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu グループ QR コード\"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>",
     ].join("\n"),
     copyrightHeading: "## 著作権と削除申請",
     copyrightBody: [
@@ -426,6 +450,7 @@ function buildReadme(lang) {
     { heading: c.statsHeading, body: [renderStatsTable(stats, lang, site), "", c.statsNote] },
     { heading: c.contributeHeading, body: [c.contributeBody] },
     { heading: c.ackHeading, body: [c.ackBody] },
+    { heading: c.authorHeading, body: [c.authorBody] },
     { heading: c.copyrightHeading, body: [c.copyrightBody] },
     { heading: c.starHistory, body: [renderStarHistory()] },
     { heading: c.licenseHeading, body: [c.licenseBody] },

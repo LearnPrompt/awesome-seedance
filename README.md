@@ -23,6 +23,7 @@ More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/c
 - [Statistics](#statistics)
 - [How to Contribute](#how-to-contribute)
 - [🙏 Acknowledgements](#-acknowledgements)
+- [👤 Author](#-author)
 ## 🚀 Start Here
 
 New to AI video? Follow these five steps and you will have your own clip. Nothing to install.
@@ -309,6 +310,14 @@ This project's format and Skill-packaging approach were shaped by:
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Template-library + installable-Skill + marketplace pattern.
 - [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README-as-gallery with per-entry attribution.
 - [goodcase.ai](https://goodcase.ai) - The source of every case, heat score and retest in this repository.
+
+## 👤 Author
+
+**Carl (@卡尔的AI沃茨)** started GoodCase and maintains this list. Six years of large-model R&D at ByteDance, Alibaba and Baidu before turning to AI video, then a run of AI shorts that made it onto Chinese TV: *I Am the Tile Cat* (CCTV), *When the Stars Shine: AI Bonus* (Hunan TV), *I Miss You So Much* (Zhejiang TV) and *Does Birth Decide Fate? I Refuse* (Bilibili), each past a million plays. 500k+ followers across platforms, speaker at WAIC and GDPS, guest lecturer on AI at the Communication University of China.
+
+Every case here is something he or the GoodCase reviewers checked against the original post. Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).
+
+<table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase Feishu group QR code"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>
 
 ## Copyright & Takedown Notice
 

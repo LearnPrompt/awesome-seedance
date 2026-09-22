@@ -23,6 +23,7 @@
 - [統計](#統計)
 - [コントリビュート](#コントリビュート)
 - [🙏 謝辞](#-謝辞)
+- [👤 作者](#-作者)
 ## 🚀 ここから始める
 
 AI 動画が初めてでも、この 5 ステップで自分のクリップが作れます。インストールは不要です。
@@ -309,6 +310,14 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - テンプレートライブラリ + インストール可能 Skill + マーケットプレイスのパターン。
 - [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README をギャラリーにし、エントリごとに出典を付ける方式。
 - [goodcase.ai](https://goodcase.ai) - 本リポジトリの全ケース、ヒートスコア、再テストの出所。
+
+## 👤 作者
+
+**Carl（@卡尔的AI沃茨）**、GoodCase の発起人でこのリストのメンテナー。ByteDance、Alibaba、Baidu で 6 年間大規模モデルの研究開発に携わった後、AI 動画に転向。CCTV『我是瓦猫』、湖南テレビ『群星閃耀時 AI 番外』、浙江テレビ『我好想你』、Bilibili『出身決定命運？我不服』など、テレビで放送された AI 短編を制作し、いずれも再生 100 万回超。全プラットフォームで 50 万人以上のフォロワー、WAIC・GDPS などの AI サミットで登壇、中国伝媒大学 AI 特別講師。
+
+ここにあるケースはすべて、本人と GoodCase のレビュアーが元投稿と照合したものです。質問、訂正、コラボレーション: [carl@goodcase.ai](mailto:carl@goodcase.ai)。
+
+<table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase Feishu グループ QR コード"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>
 
 ## 著作権と削除申請
 

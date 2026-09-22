@@ -23,6 +23,7 @@
 - [统计](#统计)
 - [如何投稿](#如何投稿)
 - [🙏 致谢](#-致谢)
+- [👤 作者](#-作者)
 ## 🚀 从这里开始
 
 第一次做 AI 视频？跟着这五步走，就能做出你自己的片段，什么都不用装。
@@ -309,6 +310,14 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - 模板库 + 可安装 Skill + marketplace 的路子。
 - [YouMind-OpenLab](https://github.com/YouMind-OpenLab) - README 即画廊、逐条署名的做法。
 - [goodcase.ai](https://goodcase.ai) - 本仓库全部案例、热度分和复测的数据来源。
+
+## 👤 作者
+
+**卡尔（@卡尔的AI沃茨）**，GoodCase 项目发起人，本仓库维护者。做过 6 年大模型算法研发，先后在字节、阿里、百度，后来转做 AI 视频，拍了几支上过电视的 AI 短片：央视《我是瓦猫》、湖南卫视《群星闪耀时 AI 番外》、浙江卫视《我好想你》、B 站《出身决定命运？我不服》，单片播放都过了百万。全平台粉丝 50 万+，WAIC、GDPS 等 AI 峰会演讲嘉宾，中国传媒大学 AI 专题特邀讲师。
+
+这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。
+
+<table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase 飞书群二维码"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>
 
 ## 版权与下架政策
 
