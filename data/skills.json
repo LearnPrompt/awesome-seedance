@@ -608,7 +608,19 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk",
       "url": "https://goodcase.ai/skills/travel-city-walk",
-      "variants": []
+      "variants": [
+        {
+          "creator": "CaliraVal",
+          "url": "https://goodcase.ai/skills/travel-city-walk-by-1uczxsi"
+        },
+        {
+          "creator": "nawalsehar",
+          "url": "https://goodcase.ai/skills/travel-city-walk-by-ewg9kn"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg"
+      }
     },
     {
       "id": "pets-and-animals-lead",
@@ -626,7 +638,15 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
-      "variants": []
+      "variants": [
+        {
+          "creator": "Zarnab_with_Ai",
+          "url": "https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg"
+      }
     },
     {
       "id": "vehicles-at-speed",
@@ -644,7 +664,10 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
       "url": "https://goodcase.ai/skills/vehicles-at-speed",
-      "variants": []
+      "variants": [],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/80df57bc40f6.jpg"
+      }
     },
     {
       "id": "fashion-lookbook-portrait",
@@ -662,7 +685,15 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait",
       "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
-      "variants": []
+      "variants": [
+        {
+          "creator": "noorlewisx",
+          "url": "https://goodcase.ai/skills/fashion-lookbook-portrait-by-1oyim0r"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/f16c9f956a8d.jpg"
+      }
     },
     {
       "id": "horror-suspense-short",
@@ -680,7 +711,15 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
-      "variants": []
+      "variants": [
+        {
+          "creator": "doctorwasif",
+          "url": "https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg"
+      }
     },
     {
       "id": "sports-extreme-stunts",
@@ -698,7 +737,10 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
-      "variants": []
+      "variants": [],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg"
+      }
     },
     {
       "id": "storyboard-grid-to-video",
@@ -716,7 +758,10 @@
       },
       "install": "npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video",
       "url": "https://goodcase.ai/skills/storyboard-grid-to-video",
-      "variants": []
+      "variants": [],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
+      }
     }
   ]
 }

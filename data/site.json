@@ -5,8 +5,8 @@
   "videoCases": 625,
   "creators": 352,
   "videoSkills": {
-    "base": 9,
-    "creatorVariants": 26,
+    "base": 16,
+    "creatorVariants": 30,
     "url": "https://goodcase.ai/skills?category=video"
   },
   "retestSpend": {
