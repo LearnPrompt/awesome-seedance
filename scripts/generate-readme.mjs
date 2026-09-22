@@ -432,11 +432,13 @@ function buildReadme(lang) {
   ];
 
   // awesome-lint 的 awesome-toc 要求目录是第一个小节。
+  // 版权、Star History、许可三节留在正文里，但不进目录：读者不需要这三项的快速跳转。
+  const tocExcluded = new Set([c.copyrightHeading, c.starHistory, c.licenseHeading]);
   const allHeadings = [
     c.contentsHeading,
     ...sections.map((s) => s.heading),
     c.topHeading,
-    ...tailSections.map((s) => s.heading),
+    ...tailSections.map((s) => s.heading).filter((h) => !tocExcluded.has(h)),
   ];
 
   // 每个 section 渲染成恰好以一个换行结尾的块，块之间用一个空行分隔。

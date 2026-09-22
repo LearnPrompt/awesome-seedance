@@ -366,10 +366,6 @@
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
       "variants": [
         {
-          "creator": "AIwithkhan",
-          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-wat8s8"
-        },
-        {
           "creator": "AIwithSynthia",
           "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1ktgmlf"
         },
@@ -492,7 +488,19 @@
       "coverTemplateId": "retro-found-footage",
       "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video",
       "url": "https://goodcase.ai/skills/retro-dv-home-video",
-      "variants": []
+      "variants": [
+        {
+          "creator": "AIwithkhan",
+          "url": "https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8"
+        },
+        {
+          "creator": "techhalla",
+          "url": "https://goodcase.ai/skills/retro-dv-home-video-by-6moylp"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg"
+      }
     },
     {
       "id": "epic-fantasy-scifi-spectacle",
@@ -510,7 +518,27 @@
       "coverTemplateId": "epic-fantasy-scifi",
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
-      "variants": []
+      "variants": [
+        {
+          "creator": "CharaspowerAI",
+          "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44"
+        },
+        {
+          "creator": "laviniavelle",
+          "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr"
+        },
+        {
+          "creator": "Strength04_X",
+          "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc"
+        },
+        {
+          "creator": "Zyrellix",
+          "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
+      }
     },
     {
       "id": "twist-comedy-skit",
@@ -528,7 +556,15 @@
       "coverTemplateId": "meme-comedy",
       "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
       "url": "https://goodcase.ai/skills/twist-comedy-skit",
-      "variants": []
+      "variants": [
+        {
+          "creator": "Ciri_ai",
+          "url": "https://goodcase.ai/skills/twist-comedy-skit-by-1en62on"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/c616e26c1d83.jpg"
+      }
     },
     {
       "id": "3d-cartoon-character-short",
@@ -546,6 +582,140 @@
       "coverTemplateId": "3d-cartoon",
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
+      "variants": [
+        {
+          "creator": "Zarnab_with_Ai",
+          "url": "https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf"
+        }
+      ],
+      "cover": {
+        "src": "https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg"
+      }
+    },
+    {
+      "id": "travel-city-walk",
+      "siteSlug": "travel-city-walk",
+      "coverTemplateId": "travel-city-walk",
+      "title": {
+        "en": "Cinematic Travel Montage",
+        "zh": "电影感旅行漫游",
+        "ja": "シネマティック旅行モンタージュ"
+      },
+      "description": {
+        "en": "One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.",
+        "zh": "一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。",
+        "ja": "一人の旅人がシーンごとに場所を歩き、各シーンにタイムコード、場所、短いひと言。質感はフィルムグレインとゴールデンアワーの光で作ります。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk",
+      "url": "https://goodcase.ai/skills/travel-city-walk",
+      "variants": []
+    },
+    {
+      "id": "pets-and-animals-lead",
+      "siteSlug": "pets-and-animals-lead",
+      "coverTemplateId": "pet-animal",
+      "title": {
+        "en": "Pets and Animals as the Lead",
+        "zh": "宠物动物当主角",
+        "ja": "ペット・動物が主役"
+      },
+      "description": {
+        "en": "The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.",
+        "zh": "动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。",
+        "ja": "動物が主役でカメラはスマホ 1 台。頭数は 1 匹に固定し、動物らしく振る舞わせ、オチはレンズに迫る動きで。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
+      "url": "https://goodcase.ai/skills/pets-and-animals-lead",
+      "variants": []
+    },
+    {
+      "id": "vehicles-at-speed",
+      "siteSlug": "vehicles-at-speed",
+      "coverTemplateId": "car-vehicle",
+      "title": {
+        "en": "Cars and Vehicles at Speed",
+        "zh": "汽车与载具速度片",
+        "ja": "クルマと乗り物のスピード映像"
+      },
+      "description": {
+        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
+        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。",
+        "ja": "車両は最初から最後まで同じ 1 台、働くのはカメラ。部品単位で固定し、毎秒カメラが動く番号付きカット表で尺を埋めます。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
+      "url": "https://goodcase.ai/skills/vehicles-at-speed",
+      "variants": []
+    },
+    {
+      "id": "fashion-lookbook-portrait",
+      "siteSlug": "fashion-lookbook-portrait",
+      "coverTemplateId": "fashion-lookbook",
+      "title": {
+        "en": "Fashion Lookbook and Portrait Film",
+        "zh": "时尚 lookbook 与人像写真片",
+        "ja": "ファッション・ポートレート映像"
+      },
+      "description": {
+        "en": "One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.",
+        "zh": "一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。",
+        "ja": "一人、一つのスタイル、いくつかの場所。頭からつま先までの外見ロックが全体を支え、各シーンは場所・仕草・光を一つずつ。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait",
+      "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
+      "variants": []
+    },
+    {
+      "id": "horror-suspense-short",
+      "siteSlug": "horror-suspense-short",
+      "coverTemplateId": "horror-suspense",
+      "title": {
+        "en": "Horror and Suspense Short",
+        "zh": "恐怖悬疑短片",
+        "ja": "ホラー・サスペンス短編"
+      },
+      "description": {
+        "en": "Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.",
+        "zh": "每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。",
+        "ja": "各ショットにタイムコード、体に起きる目に見える変化は一つ。恐怖は連鎖から生まれ、結末はドアを閉めて何も解決しません。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
+      "url": "https://goodcase.ai/skills/horror-suspense-short",
+      "variants": []
+    },
+    {
+      "id": "sports-extreme-stunts",
+      "siteSlug": "sports-extreme-stunts",
+      "coverTemplateId": "sports-extreme",
+      "title": {
+        "en": "Sports and Extreme Stunts",
+        "zh": "体育与极限运动",
+        "ja": "スポーツ・エクストリーム映像"
+      },
+      "description": {
+        "en": "It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.",
+        "zh": "全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。",
+        "ja": "助走から着地までの動作の連鎖がすべて。物理は部位ごとに指定し、ネガティブリストで飛行・浮遊・瞬間移動を潰します。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
+      "url": "https://goodcase.ai/skills/sports-extreme-stunts",
+      "variants": []
+    },
+    {
+      "id": "storyboard-grid-to-video",
+      "siteSlug": "storyboard-grid-to-video",
+      "coverTemplateId": "storyboard-grid-to-video",
+      "title": {
+        "en": "Storyboard Grid to Video",
+        "zh": "分镜网格转视频",
+        "ja": "絵コンテグリッドから動画へ"
+      },
+      "description": {
+        "en": "Two stages: first a single sheet of numbered panels from an image model, then that sheet fed to Seedance as the reference; order, framing and timing live on the sheet.",
+        "zh": "两步走：先用图像模型出一张带编号格子的分镜图，再把它当参考喂给 Seedance；顺序、构图和时长由分镜图定死。",
+        "ja": "画像モデルで番号付きコマの絵コンテを 1 枚作り、それを参照として Seedance に渡す 2 段階。順番、構図、尺は絵コンテが決めます。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video",
+      "url": "https://goodcase.ai/skills/storyboard-grid-to-video",
       "variants": []
     }
   ]
