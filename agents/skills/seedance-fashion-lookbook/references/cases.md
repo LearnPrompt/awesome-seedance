@@ -147,7 +147,7 @@ Moody cinematic lighting, wet reflections, sharp fashion photography style, high
 
 ## E5 · Dreamy Korean Countryside Summer Story
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 67
+- Seedance 2.0 · creator: @Lianaalane · heat: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9) · [finished media](https://media.goodcase.ai/media/video/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9.jpg) · [original source](https://x.com/Lianaalane/status/2096465196856340515)
 - Summary: A dreamy summer story filled with warmth and gentle moments. Golden sunlight, flowing water, and peaceful countryside vibes. Created on seedance 2.0 Prompt: A g…
 

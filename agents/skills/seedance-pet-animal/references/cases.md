@@ -147,7 +147,7 @@ Abso
 
 ## E3 · Cats Chasing via Red Mini Motorcycle
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 84 · stability: 89
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 83 · stability: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) · [finished media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) · [poster](https://media.goodcase.ai/cases/80df57bc40f6.jpg) · [original source](https://x.com/Just_sharon7/status/2084901309988425731)
 - Summary: A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
 
@@ -157,7 +157,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 ## E4 · Underwater Animal Orchestra
 
-- Seedance 2.5 · creator: @thisismariaa25 · heat: 80 · stability: 80
+- Seedance 2.5 · creator: @thisismariaa25 · heat: 79 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
 - Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
 
@@ -167,7 +167,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 ## E5 · Kitten Steals a Hair Tie and Pounces at the Camera
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 73
+- Seedance 2.5 · creator: @Strength04_X · heat: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
 - Summary: She thought it was going to be a peaceful rainy-day selfie But the kitten had other plans 😅 Seedance 2.5 Prompt - REFERENCE & SUBJECT Use "@<image1" as the exa…
 

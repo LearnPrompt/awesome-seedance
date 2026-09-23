@@ -68,8 +68,8 @@
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
-| <a href="https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989"><img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="160" alt="Seedance 网红风十五秒生活方式短片"></a> | [Seedance 网红风十五秒生活方式短片](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989) | 2.0 | 73 |
-| <a href="https://goodcase.ai/cases/ugc-f0cd0dd33284"><img src="https://media.goodcase.ai/media/poster/ugc-f0cd0dd33284.jpg" width="160" alt="带有动画效果的 UGC 肉类广告"></a> | [带有动画效果的 UGC 肉类广告](https://goodcase.ai/cases/ugc-f0cd0dd33284) | 2.0 | 61 |
+| <a href="https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989"><img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="160" alt="Seedance 网红风十五秒生活方式短片"></a> | [Seedance 网红风十五秒生活方式短片](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989) | 2.0 | 72 |
+| <a href="https://goodcase.ai/cases/ugc-f0cd0dd33284"><img src="https://media.goodcase.ai/media/poster/ugc-f0cd0dd33284.jpg" width="160" alt="带有动画效果的 UGC 肉类广告"></a> | [带有动画效果的 UGC 肉类广告](https://goodcase.ai/cases/ugc-f0cd0dd33284) | 2.0 | 60 |
 | <a href="https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26"><img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-2ee8c62c7d26.jpg" width="160" alt="Seedance 参考图角色的墨镜耳机 UGC 短片"></a> | [Seedance 参考图角色的墨镜耳机 UGC 短片](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | 2.5 | 57 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c"><img src="https://media.goodcase.ai/cases/df9bd1886b16.jpg" width="160" alt="韩国女孩的周一晨间相机分享"></a> | [韩国女孩的周一晨间相机分享](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c) | 2.5 | 50 |
 | <a href="https://goodcase.ai/cases/ugc-80d503f66caa"><img src="https://media.goodcase.ai/media/poster/ugc-80d503f66caa.jpg" width="160" alt="高端饮料 UGC 商业广告"></a> | [高端饮料 UGC 商业广告](https://goodcase.ai/cases/ugc-80d503f66caa) | 2.0 | 48 |

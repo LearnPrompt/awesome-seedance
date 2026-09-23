@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 83 · stability: 76
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 82 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) · [finished media](https://media.goodcase.ai/media/video/ruzainameer-seedance-ai-e6073ec318f1.mp4) · [poster](https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg) · [original source](https://x.com/RuzainaMeer/status/2089595902818398461)
 - Summary: Seedance 2.5 1080P is now available on @itsPolloAI — and it’s 50% off right now. I tested it with this cinematic motorcy
 
@@ -103,7 +103,7 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 
 ## E3 · Post-Apocalyptic Desert Buggy Air Battle
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 73 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 72 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
 - Summary: Post apocalyptic chaos at full speed A rocket powered dune buggy explosive dogfights and insane cinematic action straigh
 

@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
-- Seedance 2.5 · creator: @Zyrellix · heat: 87
+- Seedance 2.5 · creator: @Zyrellix · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
 - Summary: She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
 
@@ -56,7 +56,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 ## E4 · Apocalyptic Dragon-Rider Strikes the Armored Giant
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 80 · stability: 80
+- Seedance 2.0 · creator: @Zyrellix · heat: 79 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
 - Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
 
@@ -110,7 +110,7 @@ The camera continues rising smoothly along the skyscraper's reflective glass sur
 
 ## E8 · Red-Eyed Sorceress Shatters a Castle with a Colossal Boulder
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 60 · stability: 81
+- Seedance 2.5 · creator: @laviniavelle · heat: 59 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/laviniavelle-seedance-ai-2e945550d885) · [finished media](https://media.goodcase.ai/cases/2fa159db7ee5.mp4) · [poster](https://media.goodcase.ai/cases/2037ea91856a.jpg) · [original source](https://x.com/laviniavelle/status/2094262382478737792)
 - Summary: She controls the battlefield with the power of her mind One gesture and the fortress falls. Made With Seedance 2.5 on @i
 

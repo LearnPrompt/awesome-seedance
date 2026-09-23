@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · The Zombie Express, Cut to the Tenth of a Second
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 85
+- Seedance 2.5 · creator: @doctorwasif · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) · [finished media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg) · [original source](https://x.com/doctorwasif/status/2095373753983369666)
 - Summary: The Zombie Express. Made with Seedance 2.5 on @openart_ai Prompt: Shot 1 (0.0–1.2s): <<<image_1>>>, face and outfit matching reference, lying in upper bunk of a…
 
@@ -41,7 +41,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ## E2 · Zombie Outbreak on a Train
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 78 · stability: 64
+- Seedance 2.5 · creator: @doctorwasif · heat: 77 · stability: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-3b1796c66ab4) · [finished media](https://media.goodcase.ai/media/video/case-3b1796c66ab4.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg) · [original source](https://x.com/doctorwasif/status/2094285140247896553)
 - Summary: 一个复杂的、逐镜头视频 storyboard 提示词，描绘了列车上的恐怖丧尸爆发场景，重点展示变异细节和混乱的动作。
 
@@ -114,7 +114,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E4 · Zombie Infection Outbreak in a Train Carriage
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 71 · stability: 68
+- Seedance 2.5 · creator: @doctorwasif · heat: 70 · stability: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) · [finished media](https://media.goodcase.ai/cases/6af197589643.mp4) · [poster](https://media.goodcase.ai/cases/068a44904e52.jpg) · [original source](https://x.com/doctorwasif/status/2093550743945105687)
 - Summary: Apocalypse unleash in Train. Made with Seedance 2.5 Prompt: 0–1.2s: @ (Image) matching reference face/outfit, sits on a
 

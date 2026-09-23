@@ -104,9 +104,30 @@ Audio: Natural street ambience, footsteps, distant traffic, birds, casual conver
 Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
 ```
 
-## E4 · The Little Moments That Make AI Feel Real
+## E4 · Locked Character Sheet for a Korean Woman of 20
 
-- Seedance 2.5 · creator: @SimplyAnnisa · heat: 87
+- Seedance 2.5 · creator: @AIwithkhan · heat: 86
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) · [finished media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg) · [original source](https://x.com/AIwithkhan/status/2095485437821464808)
+- Summary: What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
+
+```text
+GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side ponytail, loose peach T-shirt, white pajama pants, black sneakers and simple necklace. Maintain exact identity and appearance.
+
+LOCATION: Small Korean apartment courtyard during a warm windy afternoon. Concrete walls, laundry lines, potted plants, bicycles and neighboring homes.
+
+CAMERA / LOOK: Early-2000s consumer DV camcorder. Strong handheld shake, autofocus hunting, exposure pumping, faded colors, soft contrast, motion blur and imperfect zooms.
+
+SEQUENCE:
+She hangs freshly washed clothes on a long outdoor clothesline. Everything looks calm until a sudden strong gust sends one shirt flying off the line. She runs after it while laughing. The camera operator follows shakily. The shirt lands on a parked bicycle. She grabs it, tries to hang it again, and another piece of laundry immediately blows away. She looks toward the camera in disbelief before chasing it down the lane.
+
+AUDIO: Wind, fabric flapping, birds, footsteps, distant scooters and neighborhood voices. No music.
+
+Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and believable everyday chaos.
+```
+
+## E5 · The Little Moments That Make AI Feel Real
+
+- Seedance 2.5 · creator: @SimplyAnnisa · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467) · [finished media](https://media.goodcase.ai/cases/9cf72a529a73.mp4) · [poster](https://media.goodcase.ai/cases/276528e2bcc8.jpg) · [original source](https://x.com/SimplyAnnisa/status/2096931238460178592)
 - Summary: It’s the little moments that make AI feel this real. Made with Seedance 2.5 PROMPT Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of …
 
@@ -204,27 +225,6 @@ Natural human reactions, imperfect timing, realistic physics, consistent objects
 16:9 aspect ratio.
 ```
 
-## E5 · Locked Character Sheet for a Korean Woman of 20
-
-- Seedance 2.5 · creator: @AIwithkhan · heat: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) · [finished media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg) · [original source](https://x.com/AIwithkhan/status/2095485437821464808)
-- Summary: What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
-
-```text
-GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side ponytail, loose peach T-shirt, white pajama pants, black sneakers and simple necklace. Maintain exact identity and appearance.
-
-LOCATION: Small Korean apartment courtyard during a warm windy afternoon. Concrete walls, laundry lines, potted plants, bicycles and neighboring homes.
-
-CAMERA / LOOK: Early-2000s consumer DV camcorder. Strong handheld shake, autofocus hunting, exposure pumping, faded colors, soft contrast, motion blur and imperfect zooms.
-
-SEQUENCE:
-She hangs freshly washed clothes on a long outdoor clothesline. Everything looks calm until a sudden strong gust sends one shirt flying off the line. She runs after it while laughing. The camera operator follows shakily. The shirt lands on a parked bicycle. She grabs it, tries to hang it again, and another piece of laundry immediately blows away. She looks toward the camera in disbelief before chasing it down the lane.
-
-AUDIO: Wind, fabric flapping, birds, footsteps, distant scooters and neighborhood voices. No music.
-
-Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and believable everyday chaos.
-```
-
 ## E6 · 韩国女生户外泳池 Vlog
 
 - Seedance 2.5 · creator: @Strength04_X · heat: 84
@@ -249,7 +249,7 @@ Goal: A playful, refreshing pool afternoon cheerful, light, authentic.
 
 ## E7 · A Summer Evening DV Walk Through a Seoul Neighborhood Market
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 82
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-real-life-has-never-looked-this-ai-64d1dedc739f) · [finished media](https://media.goodcase.ai/cases/96eb200fb068.mp4) · [poster](https://media.goodcase.ai/cases/db97afc7f01a.jpg) · [original source](https://x.com/Just_sharon7/status/2098373444010443011)
 - Summary: Real life has never looked this AI. Seedance 2.5 on @DomoAI_ Prompt Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean …
 
@@ -345,7 +345,7 @@ She sits down for a moment and drinks water from a bot
 
 ## E8 · Seaside Walk Turned Wholesome Korean Vlog
 
-- Seedance 2.5 · creator: @ShamiWeb3 · heat: 79
+- Seedance 2.5 · creator: @ShamiWeb3 · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52) · [finished media](https://media.goodcase.ai/media/video/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52.jpg) · [original source](https://x.com/ShamiWeb3/status/2096101448090267992)
 - Summary: A simple seaside walk turned into the most unexpectedly wholesome Korean vlog. Made with Seedance 2.5 on @TapNow_AI Prompt: Preserve the exact facial features, …
 

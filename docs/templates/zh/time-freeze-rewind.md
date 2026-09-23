@@ -70,8 +70,8 @@
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="160" alt="复古餐厅时间冻结与倒放"></a> | [复古餐厅时间冻结与倒放](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind) | 2.5 | 100 |
 | <a href="https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze"><img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="160" alt="过山车假发闹剧：冻结与倒放的第二次演练"></a> | [过山车假发闹剧：冻结与倒放的第二次演练](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze) | 2.5 | 84 |
-| <a href="https://goodcase.ai/cases/90s-diner-time-freeze-effect"><img src="https://media.goodcase.ai/media/poster/90s-diner-time-freeze-effect.jpg" width="160" alt="90s Diner Time Freeze Effect"></a> | [90s Diner Time Freeze Effect](https://goodcase.ai/cases/90s-diner-time-freeze-effect) | 2.5 | 64 |
-| <a href="https://goodcase.ai/cases/avelyrahnai-seedance-ai-a392e2711b0d"><img src="https://media.goodcase.ai/cases/a43eb812774d.jpg" width="160" alt="纽约街头咖啡跌落慢镜头"></a> | [纽约街头咖啡跌落慢镜头](https://goodcase.ai/cases/avelyrahnai-seedance-ai-a392e2711b0d) | 2.5 | 51 |
+| <a href="https://goodcase.ai/cases/90s-diner-time-freeze-effect"><img src="https://media.goodcase.ai/media/poster/90s-diner-time-freeze-effect.jpg" width="160" alt="90s Diner Time Freeze Effect"></a> | [90s Diner Time Freeze Effect](https://goodcase.ai/cases/90s-diner-time-freeze-effect) | 2.5 | 63 |
+| <a href="https://goodcase.ai/cases/avelyrahnai-seedance-ai-a392e2711b0d"><img src="https://media.goodcase.ai/cases/a43eb812774d.jpg" width="160" alt="纽约街头咖啡跌落慢镜头"></a> | [纽约街头咖啡跌落慢镜头](https://goodcase.ai/cases/avelyrahnai-seedance-ai-a392e2711b0d) | 2.5 | 50 |
 | <a href="https://goodcase.ai/cases/doc2-time-freeze-park"><img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-time-freeze-park.jpg" width="160" alt="游乐园时间静止：假牙恶作剧"></a> | [游乐园时间静止：假牙恶作剧](https://goodcase.ai/cases/doc2-time-freeze-park) | 2.5 | - |
 
 ---

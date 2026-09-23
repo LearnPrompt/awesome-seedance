@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 88
+- Seedance 2.5 · creator: @eshal__ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 76 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 75 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 
@@ -69,7 +69,7 @@ Style: realistic handheld selfie + aerial footage, night city lights, slight win
 
 ## E4 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 71 · stability: 84
+- Seedance 2.5 · creator: @nawalsehar · heat: 70 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
 - Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
 
@@ -93,7 +93,7 @@ Negative Prompt: No CGI look, teleportation, floating objects, weightless equipm
 
 ## E6 · Sunset Old Town Stroll and a Coffee Break
 
-- Seedance 2.5 · creator: @CaliraVal · heat: 61
+- Seedance 2.5 · creator: @CaliraVal · heat: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) · [finished media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) · [poster](https://media.goodcase.ai/cases/b6616f3bcc10.jpg) · [original source](https://x.com/CaliraVal/status/2097184908250845406)
 - Summary: A little adventure, one frame at a time Collecting moments, not just memories. Created with Seedance 2.5 Prompt: A cinematic AI travel vlog of a stylish young w…
 
@@ -119,7 +119,7 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 ## E7 · A Cozy Winter Getaway in a Snowy Alpine Village
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 60
+- Seedance 2.5 · creator: @eshal__ai · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-alpine-winter-vlog-montage-featuring-the-same-young-woman-cf96bc6f9a40) · [finished media](https://media.goodcase.ai/cases/fd594b1b268b.mp4) · [poster](https://media.goodcase.ai/cases/fb98a7289e21.jpg) · [original source](https://x.com/eshal__ai/status/2097564912851759244)
 - Summary: Snow on her lashes, fire in the window, thirty seconds of alpine calm. Made with Seedance 2.5 on @budgetpixel She skied before breakfast, got lost in a pine for…
 

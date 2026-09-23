@@ -204,7 +204,7 @@ Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female ride
 
 ## E6 · Over-Water Human Wall Crab Squat Challenge
 
-- Seedance 2.5 · creator: @johnAGI168 · heat: 60
+- Seedance 2.5 · creator: @johnAGI168 · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36) · [finished media](https://media.goodcase.ai/cases/e77dd4feeff5.mp4) · [poster](https://media.goodcase.ai/cases/41f55c86bd5d.jpg) · [original source](https://x.com/johnAGI168/status/2092536240436363328)
 - Summary: 最近这个螃蟹蹲也是挺火的🔥咱也整一个📺 还是来源日本老哥丰富多彩的玩法😂 只需上传一张自己图片输入下面提示词即可生成同款视频🎬 Seedance 2.5 prompt 👇 SEEDANCE 2.5｜水上人形墙挑战 【风格】真人水上
 
