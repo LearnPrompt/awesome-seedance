@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · The Zombie Express, Cut to the Tenth of a Second
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 84
+- Seedance 2.5 · creator: @doctorwasif · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) · [finished media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg) · [original source](https://x.com/doctorwasif/status/2095373753983369666)
 - Summary: The Zombie Express. Made with Seedance 2.5 on @openart_ai Prompt: Shot 1 (0.0–1.2s): <<<image_1>>>, face and outfit matching reference, lying in upper bunk of a…
 
@@ -41,7 +41,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ## E2 · Zombie Outbreak on a Train
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 77 · stability: 64
+- Seedance 2.5 · creator: @doctorwasif · heat: 76 · stability: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-3b1796c66ab4) · [finished media](https://media.goodcase.ai/media/video/case-3b1796c66ab4.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg) · [original source](https://x.com/doctorwasif/status/2094285140247896553)
 - Summary: 一个复杂的、逐镜头视频 storyboard 提示词，描绘了列车上的恐怖丧尸爆发场景，重点展示变异细节和混乱的动作。
 
@@ -93,7 +93,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E3 · Post-Apocalyptic Korean Rooftop Horror
 
-- Seedance 2.0 · creator: @doctorwasif · heat: 76 · stability: 76
+- Seedance 2.0 · creator: @doctorwasif · heat: 75 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) · [finished media](https://media.goodcase.ai/cases/f957750571e1.mp4) · [poster](https://media.goodcase.ai/cases/eaeddab55dea.jpg) · [original source](https://x.com/doctorwasif/status/2090305873373810874)
 - Summary: 一个多序列恐怖提示词，用于在韩国天台拍摄僵尸变异场景，包含激烈的动作和电影级运镜。
 
@@ -152,7 +152,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E5 · Candlelit Exorcism Ritual in a Traditional Korean House
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 70
+- Seedance 2.5 · creator: @doctorwasif · heat: 69
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) · [finished media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) · [poster](https://media.goodcase.ai/cases/52e979f23a9f.jpg) · [original source](https://x.com/doctorwasif/status/2097533759944090052)
 - Summary: 30 seconds of pure Korean folk horror. Made with Seedance 2.5 on @openart_ai Prompt: 30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face …
 
@@ -173,7 +173,7 @@ Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, dee
 
 ## E6 · Mysterious Energy Sweeps Through a High School Hallway
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 59
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-high-end-cinematic-live-action-scene-inside-a-modern-american-high-sch-5470a0729ac7) · [finished media](https://media.goodcase.ai/cases/e816d2f9e73c.mp4) · [poster](https://media.goodcase.ai/cases/59fd69f75b3d.jpg) · [original source](https://x.com/itsSaira_1/status/2098646751205019978)
 - Summary: She thought it was just another day… until the hallway changed forever. ⚡ Created with Seedance 2.5 Prompt: Create a high-end cinematic live-action scene inside…
 
@@ -198,7 +198,7 @@ No subtitles, no captions, no text, no logos, no watermark, no background music.
 
 ## E7 · Found Footage of an Outbreak on a Night Train
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 53
+- Seedance 2.5 · creator: @doctorwasif · heat: 51
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) · [finished media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) · [poster](https://media.goodcase.ai/cases/757c7a9f50b5.jpg) · [original source](https://x.com/doctorwasif/status/2098639106712784933)
 - Summary: Last Signal: Carriage 13 Made with Seedance 2.5 on @TapNow_AI Prompt: 0–4s: Character A, matching the reference image, livestreams herself on a dark night train…
 
@@ -218,7 +218,7 @@ No subtitles, no captions, no text, no logos, no watermark, no background music.
 
 ## E8 · Infected Attack Beyond the Train’s Glass Door
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 49
+- Seedance 2.5 · creator: @doctorwasif · heat: 47
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) · [finished media](https://media.goodcase.ai/cases/9027d010bc75.mp4) · [poster](https://media.goodcase.ai/cases/20e977da4dd0.jpg) · [original source](https://x.com/doctorwasif/status/2098081350205194721)
 - Summary: THE FINAL CARRIAGE From an idea to a cinematic nightmare. Made with Seedance 2.5 on @supercool_hq Prompt: Shot 1 (0.0–1.2s): Character A, face and outfit matchi…
 

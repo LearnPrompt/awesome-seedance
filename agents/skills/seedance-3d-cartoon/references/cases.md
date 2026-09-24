@@ -16,7 +16,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 ## E2 · The Tiny Frog Chef at a Moonlit Pond Restaurant
 
-- Seedance 2.5 · creator: @Caden_Flux · heat: 83 · stability: 83
+- Seedance 2.5 · creator: @Caden_Flux · heat: 82 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f) · [finished media](https://media.goodcase.ai/media/video/caden-flux-seedance-ai-473fedbbc75f.mp4) · [poster](https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg) · [original source](https://x.com/Caden_Flux/status/2091396961329131999)
 - Summary: Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
 
@@ -170,7 +170,7 @@ The tiny frog che
 
 ## E3 · Adorable Bunnies Kiss and Hug on a Cozy Sofa
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 80
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
 
@@ -215,7 +215,7 @@ Photorealistic fur detail combined with stylized 3D animation, cinematic composi
 
 ## E4 · Husband Mistakes a Laundry Request for a Romantic Invitation
 
-- Seedance 2.0 · creator: @im_shahid7 · heat: 65 · stability: 84
+- Seedance 2.0 · creator: @im_shahid7 · heat: 64 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750) · [finished media](https://media.goodcase.ai/cases/50120bb6176a.mp4) · [poster](https://media.goodcase.ai/cases/aa596f802fe1.jpg) · [original source](https://x.com/im_shahid7/status/2091754978348339299)
 - Summary: When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
 
@@ -248,7 +248,7 @@ Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pi
 
 ## E6 · Seedance 3D Animated Comedy: After Mom Cut the WiFi
 
-- Seedance 2.0 · creator: @JuliaClarky · heat: 53 · stability: 65
+- Seedance 2.0 · creator: @JuliaClarky · heat: 51 · stability: 65
 - Evidence: [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) · [finished media](https://media.goodcase.ai/cases/8a80979ee021.mp4) · [poster](https://media.goodcase.ai/cases/a13c537747bc.jpg) · [original source](https://x.com/JuliaClarky/status/2089592644725043368)
 - Summary: When Mom turned off the Wi-Fi… Grandma had other plans. 😂 A chaotic modern South Asian family, three phone-addicted kid
 
@@ -380,7 +380,7 @@ Mom gives Grandma an exhausted look and walks back
 
 ## E7 · The Blue-Scarved Baby Otter’s Flight Across the Mountains
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 51
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) · [finished media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) · [poster](https://media.goodcase.ai/cases/3bf9f7d54c88.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2096921381841813588)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a 40-second cinematic 3D animated fantasy adventure featuring an adorable chubby otter-like baby animal with soft brown …
 
@@ -457,7 +457,7 @@ Use a sweeping cinematic aerial shot, golden sunset lighting, volumetric clouds,
 
 ## E8 · Baby Otter Shares Ice Cream with a New Blue Friend
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 50
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) · [finished media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) · [poster](https://media.goodcase.ai/cases/dd1c2293bbc7.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097643808620196091)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a heartwarming cinematic 3D animated short film featuring an adorable chubby baby otter in a beautiful sunlit forest. Th…
 

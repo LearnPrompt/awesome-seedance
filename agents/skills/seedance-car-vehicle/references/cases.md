@@ -38,7 +38,7 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 ## E2 · Motorcycle Racing Through a Mountain Road
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 79
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
 - Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
 
@@ -113,7 +113,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E4 · First-Person Midair Assembly of a Black Lamborghini
 
-- Seedance 2.5 · creator: @MissDelulu9 · heat: 51
+- Seedance 2.5 · creator: @MissDelulu9 · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) · [finished media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) · [poster](https://media.goodcase.ai/cases/4da7c433c3b6.jpg) · [original source](https://x.com/MissDelulu9/status/2091423578197737772)
 - Summary: What if you could assemble a supercar with your mind? 👀 Made with Seedance 2.5 using @atlas_cloud_ai #AtlasCloud Prompt
 
@@ -152,7 +152,7 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 ## E5 · Karakoram Motorcycle Commercial
 
-- Seedance 2.5 · creator: @AI_with_Antonio · heat: 46 · stability: 87
+- Seedance 2.5 · creator: @AI_with_Antonio · heat: 44 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) · [finished media](https://media.goodcase.ai/cases/f702b148dbed.mp4) · [poster](https://media.goodcase.ai/cases/fe0b785db335.jpg) · [original source](https://x.com/AI_with_Antonio/status/2088599346908365227)
 - Summary: A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
 
@@ -162,7 +162,7 @@ Create a 10-second photorealistic cinematic motorcycle commercial featuring a yo
 
 ## E6 · Silver-Haired Rider's Neon Highway Escape
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 36 · stability: 87
+- Seedance 2.0 · creator: @Zyrellix · heat: 34 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-e2b9d262ff6b.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg) · [original source](https://x.com/Zyrellix/status/2093340253755232681)
 - Summary: Speed, neon and chaos collide A futuristic rider takes on a massive zombie horde in a high octane cinematic chase. Made
 
@@ -172,7 +172,7 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 
 ## E7 · Yellow Supercar Racing Through the Dubai Skyline
 
-- Seedance 2.0 · creator: @AIwithAliya · heat: 34
+- Seedance 2.0 · creator: @AIwithAliya · heat: 32
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) · [finished media](https://media.goodcase.ai/media/video/aiwithaliya-seedance-ai-cf398f743859.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaliya-seedance-ai-cf398f743859.jpg) · [original source](https://x.com/AIwithAliya/status/2093022598187954484)
 - Summary: What a ride! Made by using GPT Image 2 + Seedance 2.0 on @FishCreativeHQ Prompt reference_handling: "Image generation st
 
@@ -204,7 +204,7 @@ sports_car_yellow: identity: "Low, wide Italian wedge-shaped supercar + bright y
 
 ## E8 · Bamboo Toy Car Transformation Vlog
 
-- Seedance 2.5 · creator: @john87445528 · heat: 29 · stability: 55
+- Seedance 2.5 · creator: @john87445528 · heat: 27 · stability: 55
 - Evidence: [GoodCase](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) · [finished media](https://media.goodcase.ai/media/video/bamboo-toy-car-transformation-vlog.mp4) · [poster](https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg) · [original source](https://x.com/john87445528/status/2084644638724395138)
 - Summary: An incredibly detailed action prompt for a 30-second handheld POV video featuring a girl with a bamboo toy that triggers a car transforming into a giant robot.
 

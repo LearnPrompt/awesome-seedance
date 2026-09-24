@@ -79,7 +79,7 @@ A young traveler hikes through a lush mountain forest, crosses a wooden bridge o
 
 ## E5 · Summer Camping in the Korean Mountains
 
-- Seedance 2.0 · creator: @nawalsehar · heat: 68 · stability: 77
+- Seedance 2.0 · creator: @nawalsehar · heat: 67 · stability: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-531c19980c39.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-531c19980c39.jpg) · [original source](https://x.com/nawalsehar/status/2092482623490916552)
 - Summary: A summer escape through Korea’s mountains setting up camp, cooking outdoors, and unwinding beneath the evening sky. Crea
 
@@ -147,7 +147,7 @@ Scene 8 (27-30s) — Fireside Night Reflection: A cabin interior at night, firep
 
 ## E8 · Young Woman Films a Spring Mountain View in Japan
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 57 · stability: 88
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 56 · stability: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
 - Summary: A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea
 

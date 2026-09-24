@@ -104,28 +104,7 @@ Audio: Natural street ambience, footsteps, distant traffic, birds, casual conver
 Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
 ```
 
-## E4 · Locked Character Sheet for a Korean Woman of 20
-
-- Seedance 2.5 · creator: @AIwithkhan · heat: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) · [finished media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg) · [original source](https://x.com/AIwithkhan/status/2095485437821464808)
-- Summary: What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
-
-```text
-GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side ponytail, loose peach T-shirt, white pajama pants, black sneakers and simple necklace. Maintain exact identity and appearance.
-
-LOCATION: Small Korean apartment courtyard during a warm windy afternoon. Concrete walls, laundry lines, potted plants, bicycles and neighboring homes.
-
-CAMERA / LOOK: Early-2000s consumer DV camcorder. Strong handheld shake, autofocus hunting, exposure pumping, faded colors, soft contrast, motion blur and imperfect zooms.
-
-SEQUENCE:
-She hangs freshly washed clothes on a long outdoor clothesline. Everything looks calm until a sudden strong gust sends one shirt flying off the line. She runs after it while laughing. The camera operator follows shakily. The shirt lands on a parked bicycle. She grabs it, tries to hang it again, and another piece of laundry immediately blows away. She looks toward the camera in disbelief before chasing it down the lane.
-
-AUDIO: Wind, fabric flapping, birds, footsteps, distant scooters and neighborhood voices. No music.
-
-Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and believable everyday chaos.
-```
-
-## E5 · The Little Moments That Make AI Feel Real
+## E4 · The Little Moments That Make AI Feel Real
 
 - Seedance 2.5 · creator: @SimplyAnnisa · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467) · [finished media](https://media.goodcase.ai/cases/9cf72a529a73.mp4) · [poster](https://media.goodcase.ai/cases/276528e2bcc8.jpg) · [original source](https://x.com/SimplyAnnisa/status/2096931238460178592)
@@ -225,9 +204,30 @@ Natural human reactions, imperfect timing, realistic physics, consistent objects
 16:9 aspect ratio.
 ```
 
+## E5 · Locked Character Sheet for a Korean Woman of 20
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 85
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) · [finished media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg) · [original source](https://x.com/AIwithkhan/status/2095485437821464808)
+- Summary: What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
+
+```text
+GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side ponytail, loose peach T-shirt, white pajama pants, black sneakers and simple necklace. Maintain exact identity and appearance.
+
+LOCATION: Small Korean apartment courtyard during a warm windy afternoon. Concrete walls, laundry lines, potted plants, bicycles and neighboring homes.
+
+CAMERA / LOOK: Early-2000s consumer DV camcorder. Strong handheld shake, autofocus hunting, exposure pumping, faded colors, soft contrast, motion blur and imperfect zooms.
+
+SEQUENCE:
+She hangs freshly washed clothes on a long outdoor clothesline. Everything looks calm until a sudden strong gust sends one shirt flying off the line. She runs after it while laughing. The camera operator follows shakily. The shirt lands on a parked bicycle. She grabs it, tries to hang it again, and another piece of laundry immediately blows away. She looks toward the camera in disbelief before chasing it down the lane.
+
+AUDIO: Wind, fabric flapping, birds, footsteps, distant scooters and neighborhood voices. No music.
+
+Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and believable everyday chaos.
+```
+
 ## E6 · 韩国女生户外泳池 Vlog
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 84
+- Seedance 2.5 · creator: @Strength04_X · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) · [finished media](https://media.goodcase.ai/cases/1ce41bade077.mp4) · [poster](https://media.goodcase.ai/cases/68ae69f99fe4.jpg) · [original source](https://x.com/Strength04_X/status/2091737661061095648)
 - Summary: 一段充满 2000 年代怀旧 DV 摄像机风格的 Vlog，记录了一位年轻韩国女生在安静的社区泳池享受阳光午后的时光。
 

@@ -144,7 +144,7 @@ Negative:
 
 ## E2 · Woman Snowboarding and Catching Air at an Alpine Resort
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 83 · stability: 79
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 82 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg) · [original source](https://x.com/ayzalnooor24521/status/2094243156225315270)
 - Summary: Chasing the rush where snow meets the sky. Big jumps, fresh powder, and endless mountain energy. Created on seedance 2.0
 
@@ -188,7 +188,7 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 
 ## E5 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
-- Seedance 2.0 · creator: @aiwithaly · heat: 60 · stability: 79
+- Seedance 2.0 · creator: @aiwithaly · heat: 59 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
 - Summary: A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
 
@@ -384,7 +384,7 @@ SEEDANCE 2.5｜水上人形墙挑战
 
 ## E7 · Water Obstacle Contestant Falls Just Before Victory
 
-- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 51
+- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) · [finished media](https://media.goodcase.ai/cases/050883318d18.mp4) · [poster](https://media.goodcase.ai/cases/c24bcd06701e.jpg) · [original source](https://x.com/Inshrah_ali_/status/2098621065039647016)
 - Summary: She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
 
@@ -413,7 +413,7 @@ Visual style: photorealistic, authentic live game-show broadcast, realistic huma
 
 ## E8 · A Fierce Tennis Rally Under the Midday Sun
 
-- Seedance 2.5 · creator: @ShamiWeb3 · heat: 45
+- Seedance 2.5 · creator: @ShamiWeb3 · heat: 43
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-step-05-seedance-2-5-generation-baa99b03bc74) · [finished media](https://media.goodcase.ai/media/video/seedance-step-05-seedance-2-5-generation-baa99b03bc74.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-step-05-seedance-2-5-generation-baa99b03bc74.jpg) · [original source](https://x.com/ShamiWeb3/status/2094944675044245596)
 - Summary: She doesn’t play tennis. She hunts points. Every cut hits like a winner. Made with Seedance 2.5 on @FishCreativeHQ Try i
 

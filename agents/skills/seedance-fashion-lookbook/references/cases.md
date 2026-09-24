@@ -35,7 +35,7 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 
 ## E2 · Golden Hour Mountain Fashion Film, Low Angle
 
-- Seedance 2.5 · creator: @noorlewisx · heat: 82
+- Seedance 2.5 · creator: @noorlewisx · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) · [finished media](https://media.goodcase.ai/cases/ed05261f6296.mp4) · [poster](https://media.goodcase.ai/cases/9084b0f25038.jpg) · [original source](https://x.com/noorlewisx/status/2096826123330138410)
 - Summary: Golden hour. Frozen peaks. She walked like the mountain belonged to her. Made with seedance 2.5 Prompt: Cinematic fashion film still, low-angle shot of a beauti…
 
@@ -45,7 +45,7 @@ Cinematic fashion film still, low-angle shot of a beautiful young woman with wav
 
 ## E3 · Pink Handbag Fashion Editorial on Tokyo Streets
 
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 80
+- Seedance 2.0 · creator: @AIwithNatalia · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-12c56e79550f.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg) · [original source](https://x.com/AIwithNatalia/status/2094277759547875413)
 - Summary: Tokyo streets. Chrome attitude. Prada energy. ✨ A high-fashion story where the bag isn’t just an accessory, it’s the mai
 
@@ -135,7 +135,7 @@ Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosph
 
 ## E4 · Seedance Pinstripe Suit Power Presence at Work
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 77 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 76 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-4b6f8c8c977a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-4b6f8c8c977a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-4b6f8c8c977a.jpg) · [original source](https://x.com/noorlewisx/status/2089217062040453196)
 - Summary: Power moves in pinstripes.She doesn’t climb the city she owns it. Made with seedance 2.0 Prompt: A cinematic, stylish se
 
@@ -167,7 +167,7 @@ A beautiful young East Asian woman with long straight black hair, wearing a soft
 
 ## E7 · Blonde Girl Pouts After Being Poked on the Cheek
 
-- Seedance 2.5 · creator: @Chengzilhy · heat: 63
+- Seedance 2.5 · creator: @Chengzilhy · heat: 62
 - Evidence: [GoodCase](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5) · [finished media](https://media.goodcase.ai/cases/a8a2758f8a96.mp4) · [poster](https://media.goodcase.ai/cases/d8a275aaed82.jpg) · [original source](https://x.com/Chengzilhy/status/2091477403239596328)
 - Summary: 手机动态壁纸已经进化到这种程度了吗？ 每天点亮屏幕，心情都跟着变好了。😂 右边是原视频，喜欢拿去做动态壁纸 不只好玩，其实还能做成 AI 视频小副业！ Seedance 2.5制作 Prompt🔽 参考上传图片中的同一位成年女性角色，保
 
@@ -226,7 +226,7 @@ Prompt🔽
 
 ## E8 · Red-Haired Girl's Lip Oil Claw Machine Challenge
 
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 62
+- Seedance 2.0 · creator: @AIwithNatalia · heat: 61
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-7890280c705d.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg) · [original source](https://x.com/AIwithNatalia/status/2094428843214037102)
 - Summary: POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
 

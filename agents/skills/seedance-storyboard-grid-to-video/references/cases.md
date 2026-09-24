@@ -88,7 +88,7 @@ No timestamps. No dialogue. No singing. No extra characters. No enemies. N
 
 ## E2 · French Croissant-Making Process
 
-- Seedance 2.0 · creator: @TechieBySA · heat: 86 · stability: 85
+- Seedance 2.0 · creator: @TechieBySA · heat: 85 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/real-case-07-techiebysa) · [finished media](https://media.goodcase.ai/media/video/real-case-07-techiebysa.mp4) · [poster](https://media.goodcase.ai/media/poster/real-case-07-techiebysa.jpg) · [original source](https://x.com/TechieBySA/status/2053523775702925768)
 - Summary: 来自 X / 𝕏 的真实 视频 案例，由 @TechieBySA 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
 
@@ -133,7 +133,7 @@ Create a 12-second 16:9 animated croissant-making sequence that follows the 8-sh
 
 ## E3 · Survival Run Through a Collapsing Kuala Lumpur
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 79
+- Seedance 2.5 · creator: @Xaroon_x · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) · [finished media](https://media.goodcase.ai/cases/1634f009339b.mp4) · [poster](https://media.goodcase.ai/cases/a4fc7d20210a.jpg) · [original source](https://x.com/Xaroon_x/status/2097267405399396457)
 - Summary: When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
 
@@ -202,7 +202,7 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ## E4 · Apartment Arrival Storyboard Animation
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 68
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 67
 - Evidence: [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) · [finished media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) · [poster](https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg) · [original source](https://x.com/Just_sharon7/status/2083912532692001128)
 - Summary: A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
 
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · High-Energy Spicy Potato Chips Commercial Storyboard
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 36 · stability: 82
+- Seedance 2.5 · creator: @Strength04_X · heat: 35 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
 - Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
 
@@ -372,7 +372,7 @@ Ultra-realistic snack commercial, detailed crispy texture, realistic seasoning p
 
 ## E7 · 3D Baking Animation Sequence
 
-- Seedance 2.0 · creator: @HaniaAi12 · heat: 31
+- Seedance 2.0 · creator: @HaniaAi12 · heat: 29
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
 - Summary: 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
 
@@ -404,7 +404,7 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 ## E8 · Emotional Kyoto Travel Vlog Animation
 
-- Seedance 2.0 · creator: @MrDasOnX · heat: 5
+- Seedance 2.0 · creator: @MrDasOnX · heat: 4
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-4317b7fdff57) · [finished media](https://media.goodcase.ai/media/video/vlog-4317b7fdff57.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg) · [original source](https://x.com/MrDasOnX/status/2080908954079760476)
 - Summary: 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将一系列照片快照转化为连贯且富有情感的旅行 Vlog，并呈现自然的掌机拍摄效果。
 
