@@ -65,7 +65,7 @@ End text:
 
 ## E3 · Mother Takes Boy's Seat for Crepes
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 85
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58) · [finished media](https://media.goodcase.ai/cases/c7991e390250.mp4) · [poster](https://media.goodcase.ai/cases/670618f587b7.jpg) · [original source](https://x.com/Just_sharon7/status/2091529113425297759)
 - Summary: That's how I would be as a mother GPT Image 2 + Seedance 2.0 on @DomoAI_ prompt A realistic, cinematic short video (abou
 
@@ -134,7 +134,7 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 
 ## E6 · POV: The Turkish Ice Cream Guy Had Other Plans
 
-- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 76
+- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) · [finished media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) · [poster](https://media.goodcase.ai/cases/e9b53af60cec.jpg) · [original source](https://x.com/sophiaparkerr_/status/2096542775709692255)
 - Summary: POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
 
@@ -269,7 +269,7 @@ With the lamp saved but the camera now shaky and handheld, she tries to pick th
 
 ## E8 · One-Take Vlog of Bizarre Encounters on a New York Street
 
-- Seedance 2.5 · creator: @oggii_0 · heat: 65
+- Seedance 2.5 · creator: @oggii_0 · heat: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-137e0e907dfd) · [finished media](https://media.goodcase.ai/cases/c35679d1d0c6.mp4) · [poster](https://media.goodcase.ai/cases/6c85b5596419.jpg) · [original source](https://x.com/oggii_0/status/2093568957727064554)
 - Summary: Meme Vlog using Seedance 2.5 Prompt: Vertical 9:16 smartphone vlog, shot on iPhone 17 Pro. ONE SINGLE UNINTERRUPTED HAND
 

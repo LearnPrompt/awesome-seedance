@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 75 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 74 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 
@@ -46,7 +46,7 @@ Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden 
 
 ## E3 · Helicopter Night Tour Over Tokyo
 
-- Seedance 2.5 · creator: @noorlewisx · heat: 72 · stability: 86
+- Seedance 2.5 · creator: @noorlewisx · heat: 71 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg) · [original source](https://x.com/noorlewisx/status/2093567063357088065)
 - Summary: A Night to Remember in Tokyo From a Helicopter Ride to Shibuya After Dark Made with seedance 2.5 on @itsPolloAI Prompt:
 
@@ -93,7 +93,7 @@ Negative Prompt: No CGI look, teleportation, floating objects, weightless equipm
 
 ## E6 · Sunset Old Town Stroll and a Coffee Break
 
-- Seedance 2.5 · creator: @CaliraVal · heat: 60
+- Seedance 2.5 · creator: @CaliraVal · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) · [finished media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) · [poster](https://media.goodcase.ai/cases/b6616f3bcc10.jpg) · [original source](https://x.com/CaliraVal/status/2097184908250845406)
 - Summary: A little adventure, one frame at a time Collecting moments, not just memories. Created with Seedance 2.5 Prompt: A cinematic AI travel vlog of a stylish young w…
 
@@ -119,7 +119,7 @@ Natural facial expressions, accurate lip-sync, realistic female English voice, s
 
 ## E7 · A Cozy Winter Getaway in a Snowy Alpine Village
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 59
+- Seedance 2.5 · creator: @eshal__ai · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-alpine-winter-vlog-montage-featuring-the-same-young-woman-cf96bc6f9a40) · [finished media](https://media.goodcase.ai/cases/fd594b1b268b.mp4) · [poster](https://media.goodcase.ai/cases/fb98a7289e21.jpg) · [original source](https://x.com/eshal__ai/status/2097564912851759244)
 - Summary: Snow on her lashes, fire in the window, thirty seconds of alpine calm. Made with Seedance 2.5 on @budgetpixel She skied before breakfast, got lost in a pine for…
 
@@ -147,7 +147,7 @@ Scene 8 (27-30s) — Fireside Night Reflection: A cabin interior at night, firep
 
 ## E8 · Young Woman Films a Spring Mountain View in Japan
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 56 · stability: 88
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 55 · stability: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
 - Summary: A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea
 

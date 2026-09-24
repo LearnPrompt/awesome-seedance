@@ -147,7 +147,7 @@ Moody cinematic lighting, wet reflections, sharp fashion photography style, high
 
 ## E5 · Dreamy Korean Countryside Summer Story
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 66
+- Seedance 2.0 · creator: @Lianaalane · heat: 65
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9) · [finished media](https://media.goodcase.ai/media/video/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9.jpg) · [original source](https://x.com/Lianaalane/status/2096465196856340515)
 - Summary: A dreamy summer story filled with warmth and gentle moments. Golden sunlight, flowing water, and peaceful countryside vibes. Created on seedance 2.0 Prompt: A g…
 
@@ -157,7 +157,7 @@ A graceful young Korean woman with soft short wavy brown hair, delicate features
 
 ## E6 · Rainy Window, Coffee and Vinyl: A Quiet Afternoon
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 64
+- Seedance 2.0 · creator: @Lianaalane · heat: 63
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461) · [finished media](https://media.goodcase.ai/media/video/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461.jpg) · [original source](https://x.com/Lianaalane/status/2096105365419209139)
 - Summary: Soft rain against the window, the quiet pour of coffee, a book in the afternoon light, vinyl spinning under closed eyes, and late-night words written against th…
 
@@ -226,7 +226,7 @@ Prompt🔽
 
 ## E8 · Red-Haired Girl's Lip Oil Claw Machine Challenge
 
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 61
+- Seedance 2.0 · creator: @AIwithNatalia · heat: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-7890280c705d.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg) · [original source](https://x.com/AIwithNatalia/status/2094428843214037102)
 - Summary: POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
 

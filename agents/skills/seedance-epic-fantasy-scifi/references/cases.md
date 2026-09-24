@@ -17,7 +17,7 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 
 ## E2 · Warrior and White Dragon Shatter a Molten Celestial Orb
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 84 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 85 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-5fa856d9472a) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-5fa856d9472a.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-5fa856d9472a.jpg) · [original source](https://x.com/Zyrellix/status/2092121112746287527)
 - Summary: Darkness awakens A warrior an ancient dragon and a celestial power collide in an epic fantasy battle. Made with seedance
 
@@ -56,7 +56,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 ## E4 · Apocalyptic Dragon-Rider Strikes the Armored Giant
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 79 · stability: 80
+- Seedance 2.0 · creator: @Zyrellix · heat: 78 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
 - Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
 
@@ -110,7 +110,7 @@ The camera continues rising smoothly along the skyscraper's reflective glass sur
 
 ## E8 · Red-Eyed Sorceress Shatters a Castle with a Colossal Boulder
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 58 · stability: 81
+- Seedance 2.5 · creator: @laviniavelle · heat: 57 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/laviniavelle-seedance-ai-2e945550d885) · [finished media](https://media.goodcase.ai/cases/2fa159db7ee5.mp4) · [poster](https://media.goodcase.ai/cases/2037ea91856a.jpg) · [original source](https://x.com/laviniavelle/status/2094262382478737792)
 - Summary: She controls the battlefield with the power of her mind One gesture and the fortress falls. Made With Seedance 2.5 on @i
 

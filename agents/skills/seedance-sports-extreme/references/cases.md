@@ -158,7 +158,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 ## E3 · Female Rider Wins Mountain Bike Final by a Wheel
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 65 · stability: 76
+- Seedance 2.5 · creator: @nawalsehar · heat: 64 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
 - Summary: Two elite riders, one brutal final sprint, and a finish decided by inches. Created on seedance 2.5 Prompt: Ultra-photore
 
@@ -178,7 +178,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 ## E4 · Seedance Smooth Snowboard Run Through a Terrain Park
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 63 · stability: 73
+- Seedance 2.5 · creator: @nawalsehar · heat: 62 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
 - Summary: Some runs are all about the flow. Seedance 2.5 keeps every carve, jump, and landing feeling naturally smooth with seamle
 
@@ -188,7 +188,7 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 
 ## E5 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
-- Seedance 2.0 · creator: @aiwithaly · heat: 59 · stability: 79
+- Seedance 2.0 · creator: @aiwithaly · heat: 58 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
 - Summary: A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
 
@@ -204,7 +204,7 @@ Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female ride
 
 ## E6 · Over-Water Human Wall Crab Squat Challenge
 
-- Seedance 2.5 · creator: @johnAGI168 · heat: 59
+- Seedance 2.5 · creator: @johnAGI168 · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36) · [finished media](https://media.goodcase.ai/cases/e77dd4feeff5.mp4) · [poster](https://media.goodcase.ai/cases/41f55c86bd5d.jpg) · [original source](https://x.com/johnAGI168/status/2092536240436363328)
 - Summary: 最近这个螃蟹蹲也是挺火的🔥咱也整一个📺 还是来源日本老哥丰富多彩的玩法😂 只需上传一张自己图片输入下面提示词即可生成同款视频🎬 Seedance 2.5 prompt 👇 SEEDANCE 2.5｜水上人形墙挑战 【风格】真人水上
 
@@ -384,7 +384,7 @@ SEEDANCE 2.5｜水上人形墙挑战
 
 ## E7 · Water Obstacle Contestant Falls Just Before Victory
 
-- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 49
+- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 48
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) · [finished media](https://media.goodcase.ai/cases/050883318d18.mp4) · [poster](https://media.goodcase.ai/cases/c24bcd06701e.jpg) · [original source](https://x.com/Inshrah_ali_/status/2098621065039647016)
 - Summary: She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
 
@@ -413,7 +413,7 @@ Visual style: photorealistic, authentic live game-show broadcast, realistic huma
 
 ## E8 · A Fierce Tennis Rally Under the Midday Sun
 
-- Seedance 2.5 · creator: @ShamiWeb3 · heat: 43
+- Seedance 2.5 · creator: @ShamiWeb3 · heat: 42
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-step-05-seedance-2-5-generation-baa99b03bc74) · [finished media](https://media.goodcase.ai/media/video/seedance-step-05-seedance-2-5-generation-baa99b03bc74.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-step-05-seedance-2-5-generation-baa99b03bc74.jpg) · [original source](https://x.com/ShamiWeb3/status/2094944675044245596)
 - Summary: She doesn’t play tennis. She hunts points. Every cut hits like a winner. Made with Seedance 2.5 on @FishCreativeHQ Try i
 

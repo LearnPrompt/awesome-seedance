@@ -157,7 +157,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 ## E4 · Underwater Animal Orchestra
 
-- Seedance 2.5 · creator: @thisismariaa25 · heat: 79 · stability: 80
+- Seedance 2.5 · creator: @thisismariaa25 · heat: 78 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
 - Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
 
@@ -299,7 +299,7 @@ Her thumb instinctively continues rubbing the kitten's fur a
 
 ## E8 · From the Birth of the Universe to Humanity
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 60
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e) · [finished media](https://media.goodcase.ai/cases/605e2885b55c.mp4) · [poster](https://media.goodcase.ai/cases/abd3f250edd5.jpg) · [original source](https://x.com/RuzainaMeer/status/2096837494000308685)
 - Summary: 13.8 billion years of evolution, from the birth of the universe to modern humanity. A cinematic journey through time, created with Seedance 2.5. Full Prompt: Cr…
 
