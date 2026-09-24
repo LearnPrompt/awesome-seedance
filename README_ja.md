@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 466 ケースをすべて元投稿と照合、264 回のクロスモデル再テスト、25 個の再利用可能テンプレート、60 個のインストール可能な AI 動画 Skill。母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1234 件の検証済み AI ケース。毎日同期し、新しいケースが毎日追加されます。
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 466 ケースをすべて元投稿と照合、264 回のクロスモデル再テスト、25 個の再利用可能テンプレート、60 個のインストール可能な AI 動画 Skill。母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1237 件の検証済み AI ケース。毎日同期し、新しいケースが毎日追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -290,7 +290,7 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 | 他モデルでの再テスト            | 254 件 / 264 回         |
 | 安定度スコア（測定済み）          | 252 件 / 平均 77.9       |
 | 最終更新                  | 2026-09-24            |
-| goodcase.ai 全カテゴリ     | 1234 件 / クリエイター 352 人 |
+| goodcase.ai 全カテゴリ     | 1237 件 / クリエイター 354 人 |
 | goodcase.ai AI 動画     | 625 件                 |
 
 *再テストのバッチ注記: Retest runs carry two MiniMax labels on purpose. The 2026-08 batches (runIds video-minimax-h3-768p-20260809-phase1 / -20260811-top-heat) ran on Flova's MiniMax H3 768p; the 2026-09 batches (video-minimax-h3-768p-20260906-phase1 / -20260907-phase1) ran on fal.ai's minimax/h3-max/text-to-video endpoint, which only existed from 2026-09-03. They are different model tiers on different platforms, so the labels are kept distinct rather than merged. The 2026-08 entries show finalScore: null because a later human-review pass overwrote their structured evidence notes with a prose verdict; those rows carry a human-reviewed verdict instead, and the original judge scores remain in the private eval evidence manifest.*

@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 466 条案例逐条核对过原帖，264 次跨模型复测，25 个可复用模板，60 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1234 条已验证 AI 案例。每天同步，每天都有新案例进来。
+**Seedance 2.5 / 2.0 提示词验证库。** 466 条案例逐条核对过原帖，264 次跨模型复测，25 个可复用模板，60 个可安装的 AI 视频 Skill，背后是 goodcase.ai 横跨视频、图像、UI、文案的 1237 条已验证 AI 案例。每天同步，每天都有新案例进来。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -290,7 +290,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 | 跨模型复测                       | 254 条 / 264 次     |
 | 稳定度分（已测）                    | 252 条 / 均分 77.9   |
 | 最近更新                        | 2026-09-24        |
-| goodcase.ai 全站（含非 Seedance） | 1234 条 / 352 位创作者 |
+| goodcase.ai 全站（含非 Seedance） | 1237 条 / 354 位创作者 |
 | goodcase.ai AI 视频           | 625 条             |
 
 *复测批次说明：Retest runs carry two MiniMax labels on purpose. The 2026-08 batches (runIds video-minimax-h3-768p-20260809-phase1 / -20260811-top-heat) ran on Flova's MiniMax H3 768p; the 2026-09 batches (video-minimax-h3-768p-20260906-phase1 / -20260907-phase1) ran on fal.ai's minimax/h3-max/text-to-video endpoint, which only existed from 2026-09-03. They are different model tiers on different platforms, so the labels are kept distinct rather than merged. The 2026-08 entries show finalScore: null because a later human-review pass overwrote their structured evidence notes with a prose verdict; those rows carry a human-reviewed verdict instead, and the original judge scores remain in the private eval evidence manifest.*
