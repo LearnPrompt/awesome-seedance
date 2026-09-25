@@ -76,7 +76,7 @@ A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern ur
 
 ## E6 · Lighthouse Keeper and Sea Orbs in the Foggy Night
 
-- Seedance 2.5 · creator: @SyntheSarah · heat: 65
+- Seedance 2.5 · creator: @SyntheSarah · heat: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-weathered-old-lighthouse-keeper-stands-on-a-foggy-cliff-at-night-f581948aed80) · [finished media](https://media.goodcase.ai/cases/9f36a4bf8a47.mp4) · [poster](https://media.goodcase.ai/cases/69af52ca8c67.jpg) · [original source](https://x.com/SyntheSarah/status/2097182529564365135)
 - Summary: What if the ocean came alive after midnight? Created with Seedance 2.5, a cinematic journey into the unknown where glowing waters and mysterious lights guide th…
 
@@ -97,7 +97,7 @@ smooth continuous camera motion, no cuts.
 
 ## E7 · From Rainy Alley Ripples to the Aurora Eye
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 62 · stability: 83
+- Seedance 2.0 · creator: @Zyrellix · heat: 61 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b83a3b47ae61) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b83a3b47ae61.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b83a3b47ae61.jpg) · [original source](https://x.com/Zyrellix/status/2094267571943932216)
 - Summary: One continuous journey through rain dreams deserts oceans and the northern lights ending where everything began inside t
 

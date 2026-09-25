@@ -231,7 +231,7 @@ Comedy style: exaggerated facial expressions, fast misunderstanding setup, drama
 
 ## E5 · A Boy and Baby Dragon’s Tropical Adventure
 
-- Seedance 2.5 · creator: @aaassa120 · heat: 61
+- Seedance 2.5 · creator: @aaassa120 · heat: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-810bf41bfd44) · [finished media](https://media.goodcase.ai/cases/b3c71c683a6d.mp4) · [poster](https://media.goodcase.ai/cases/275cccb1d045.jpg) · [original source](https://x.com/aaassa120/status/2098468425421259070)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cinematic, high-quality 3D animated fantasy adventure scene in a lush tropical jungle near a beautiful tropical coastl…
 
@@ -248,7 +248,7 @@ Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pi
 
 ## E6 · Seedance 3D Animated Comedy: After Mom Cut the WiFi
 
-- Seedance 2.0 · creator: @JuliaClarky · heat: 50 · stability: 65
+- Seedance 2.0 · creator: @JuliaClarky · heat: 49 · stability: 65
 - Evidence: [GoodCase](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526) · [finished media](https://media.goodcase.ai/cases/8a80979ee021.mp4) · [poster](https://media.goodcase.ai/cases/a13c537747bc.jpg) · [original source](https://x.com/JuliaClarky/status/2089592644725043368)
 - Summary: When Mom turned off the Wi-Fi… Grandma had other plans. 😂 A chaotic modern South Asian family, three phone-addicted kid
 
@@ -380,7 +380,7 @@ Mom gives Grandma an exhausted look and walks back
 
 ## E7 · The Blue-Scarved Baby Otter’s Flight Across the Mountains
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 48
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 46
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e2f2af930d0e) · [finished media](https://media.goodcase.ai/cases/122b4aec6d75.mp4) · [poster](https://media.goodcase.ai/cases/3bf9f7d54c88.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2096921381841813588)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a 40-second cinematic 3D animated fantasy adventure featuring an adorable chubby otter-like baby animal with soft brown …
 
@@ -457,7 +457,7 @@ Use a sweeping cinematic aerial shot, golden sunset lighting, volumetric clouds,
 
 ## E8 · Baby Otter Shares Ice Cream with a New Blue Friend
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 47
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 46
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-e33e1ae7c498) · [finished media](https://media.goodcase.ai/cases/6d4b2488a2d9.mp4) · [poster](https://media.goodcase.ai/cases/dd1c2293bbc7.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2097643808620196091)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a heartwarming cinematic 3D animated short film featuring an adorable chubby baby otter in a beautiful sunlit forest. Th…
 

@@ -384,7 +384,7 @@ SEEDANCE 2.5｜水上人形墙挑战
 
 ## E7 · Water Obstacle Contestant Falls Just Before Victory
 
-- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 48
+- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 47
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) · [finished media](https://media.goodcase.ai/cases/050883318d18.mp4) · [poster](https://media.goodcase.ai/cases/c24bcd06701e.jpg) · [original source](https://x.com/Inshrah_ali_/status/2098621065039647016)
 - Summary: She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
 
@@ -413,7 +413,7 @@ Visual style: photorealistic, authentic live game-show broadcast, realistic huma
 
 ## E8 · A Fierce Tennis Rally Under the Midday Sun
 
-- Seedance 2.5 · creator: @ShamiWeb3 · heat: 42
+- Seedance 2.5 · creator: @ShamiWeb3 · heat: 41
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-step-05-seedance-2-5-generation-baa99b03bc74) · [finished media](https://media.goodcase.ai/media/video/seedance-step-05-seedance-2-5-generation-baa99b03bc74.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-step-05-seedance-2-5-generation-baa99b03bc74.jpg) · [original source](https://x.com/ShamiWeb3/status/2094944675044245596)
 - Summary: She doesn’t play tennis. She hunts points. Every cut hits like a winner. Made with Seedance 2.5 on @FishCreativeHQ Try i
 

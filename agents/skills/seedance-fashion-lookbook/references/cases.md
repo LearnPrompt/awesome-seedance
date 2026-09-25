@@ -167,7 +167,7 @@ A beautiful young East Asian woman with long straight black hair, wearing a soft
 
 ## E7 · Blonde Girl Pouts After Being Poked on the Cheek
 
-- Seedance 2.5 · creator: @Chengzilhy · heat: 62
+- Seedance 2.5 · creator: @Chengzilhy · heat: 61
 - Evidence: [GoodCase](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5) · [finished media](https://media.goodcase.ai/cases/a8a2758f8a96.mp4) · [poster](https://media.goodcase.ai/cases/d8a275aaed82.jpg) · [original source](https://x.com/Chengzilhy/status/2091477403239596328)
 - Summary: 手机动态壁纸已经进化到这种程度了吗？ 每天点亮屏幕，心情都跟着变好了。😂 右边是原视频，喜欢拿去做动态壁纸 不只好玩，其实还能做成 AI 视频小副业！ Seedance 2.5制作 Prompt🔽 参考上传图片中的同一位成年女性角色，保
 
@@ -226,7 +226,7 @@ Prompt🔽
 
 ## E8 · Red-Haired Girl's Lip Oil Claw Machine Challenge
 
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 60
+- Seedance 2.0 · creator: @AIwithNatalia · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-7890280c705d.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg) · [original source](https://x.com/AIwithNatalia/status/2094428843214037102)
 - Summary: POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
 
