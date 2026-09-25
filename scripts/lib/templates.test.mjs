@@ -206,6 +206,7 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
   assert.equal(countSkills(skillsData), 4);
   assert.equal(withUtm("https://goodcase.ai/skills?category=video"), "https://goodcase.ai/skills?category=video&utm_source=awesome-seedance");
   assert.equal(withUtm(withUtm("https://goodcase.ai/x")), "https://goodcase.ai/x?utm_source=awesome-seedance");
+  assert.match(md, /制作工作流 Skill 则单独维护/, "the hand-maintained workflow must not be described as regenerated from cases");
 });
 
 test("renderStartHere explains templates vs Skills with tables (no list items: awesome-lint treats lists after Contents as entries)", () => {
@@ -216,6 +217,10 @@ test("renderStartHere explains templates vs Skills with tables (no list items: a
     assert.doesNotMatch(md, /^\s*(?:[-*]|\d+\.)\s/m, `${lang}: no markdown lists`);
     assert.equal((md.match(/^\| \d \|/gm) || []).length, 5, `${lang}: five steps`);
     assert.ok(md.includes("](#t)") && md.includes("](#s)"));
+    if (lang === "zh") {
+      assert.match(md, /Skill 可以应用这些结构，也可以指导制作流程的其他环节/);
+      assert.doesNotMatch(md, /两者都来自同一批/, "the workflow is not a case-distilled template");
+    }
   }
 });
 
