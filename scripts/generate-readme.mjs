@@ -130,9 +130,9 @@ const COPY = {
     heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
     tagline: (s) =>
-      `**Verified Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates and ${s.skills} installable AI-video Skills${
-        s.siteTotalCases ? `, drawn from goodcase.ai's ${s.siteTotalCases} verified AI cases across video, image, UI and copy` : ""
-      }. Synced daily, new cases land every day.`,
+      `**Verified Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates, and ${s.skills} installable AI-video Skills.${
+        s.siteTotalCases ? ` The case library draws from goodcase.ai's ${s.siteTotalCases} verified AI cases across video, image, UI and copy.` : ""
+      } Case data syncs daily; new cases land every day.`,
     backlink:
       "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## Contents",
@@ -208,9 +208,9 @@ const COPY = {
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
     tagline: (s) =>
-      `**Seedance 2.5 / 2.0 提示词验证库。** ${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill${
-        s.siteTotalCases ? `，背后是 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例` : ""
-      }。每天同步，每天都有新案例进来。`,
+      `**Seedance 2.5 / 2.0 提示词验证库。** ${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill。${
+        s.siteTotalCases ? `案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例。` : ""
+      }案例数据每天同步，新案例每天入库。`,
     backlink:
       "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目录",
@@ -285,9 +285,9 @@ const COPY = {
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
     tagline: (s) =>
-      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill${
-        s.siteTotalCases ? `。母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケース` : ""
-      }。毎日同期し、新しいケースが毎日追加されます。`,
+      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill。${
+        s.siteTotalCases ? `ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケースです。` : ""
+      }ケースデータは毎日同期し、新しいケースが追加されます。`,
     backlink:
       "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
     contentsHeading: "## 目次",

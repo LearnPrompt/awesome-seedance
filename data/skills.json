@@ -19,6 +19,22 @@
       "variants": []
     },
     {
+      "id": "seedance-production-workflow",
+      "title": {
+        "en": "Seedance Production Workflow",
+        "zh": "Seedance 视频制作工作流",
+        "ja": "Seedance 映像制作ワークフロー"
+      },
+      "description": {
+        "en": "Plan reference assets and shots, check the handoff, then review and repair the generated video with a timestamped QA record.",
+        "zh": "规划参考素材与分镜，检查生成交接，再按时间点验收和修复实际成片。",
+        "ja": "参照素材とショットを計画し、生成への引き渡しを確認してから、タイムスタンプ付きの記録で完成映像を検証・修正します。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-production-workflow",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-production-workflow",
+      "variants": []
+    },
+    {
       "id": "seedance-meme-comedy",
       "templateId": "meme-comedy",
       "triggers": [
