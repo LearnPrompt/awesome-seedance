@@ -1,10 +1,537 @@
 # Seedance 2.0 — Full Gallery (Part 3/3)
 
-All 217 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 221 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 190–217 of 217.
+This page: cases 192–221 of 221.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · **Part 3**
+
+### YAML Cinematic Parkour Sequence
+
+> A structured YAML-format prompt for an elite modern urban parkour athlete, including cinematic camera movement and realistic physics.
+
+[<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML Cinematic Parkour Sequence">](https://goodcase.ai/cases/yaml-629d172a4820)
+
+**Author:** @yudotanaka | **Source:** [Original](https://x.com/yudotanaka/status/2079900274064490842) | **Published:** 2026-07-22 | **Heat:** 7
+
+**Stability:** 69/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 68.9) · [output](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (140 lines, click to expand)</b></summary>
+
+```
+meta:
+  task_type: video_generation
+  style:
+    camera: cinematic_dynamic
+    render: AAA_animation_unreal_engine_quality
+  reference_lock:
+    character_appearance: strict
+    style_and_art_direction: strict
+  priority: cinematic_impact
+
+cinematography:
+  shot_type: multi_shot_dynamic_sequence
+  framing:
+    - full_body_visible_during_key_actions
+  camera_height: variable
+  lens_look: 24mm_to_35mm
+  camera_motion:
+    - low_tracking_shot_following_behind
+    - side_tracking_shot
+    - drone_orbit
+    - fpv_drone_chase
+    - handheld_chase
+    - crane_pull_back
+    - speed_ramp
+    - slow_motion_on_key_flip
+
+subjects:
+  athlete:
+    type: parkour_runner
+    level: elite
+    attributes:
+      - athletic_build
+      - consistent_outfit_and_appearance_locked
+      - hair_and_cloth_physics_reactive
+
+environment:
+  location: modern_realistic_city
+  floor:
+    - paved_street
+    - rooftop_concrete
+    - metal_beams_and_pipes
+  background:
+    - glass_skyscrapers
+    - busy_traffic
+    - pedestrians
+    - street_signs
+    - bridges
+    - construction_zones
+  lighting:
+    - warm_sunset_transitioning_to_blue_hour
+    - volumetric_lighting
+    - realistic_reflections
+
+process:
+  - phase: sprint_launch
+    timing: 0s-3s
+    description:
+      - explosive_believable_acceleration
+      - dodge_pedestrians
+      - jump_over_obstacles
+      - slide_beneath_barriers
+  - phase: vault_and_wall_run
+    timing: 3s-6s
+    description:
+      - vault_over_railings
+      - wall_run_across_building
+      - leap_to_next_rooftop
+      - believable_momentum_and_impact_recovery
+  - phase: advanced_parkour_techniques
+    timing: 6s-9s
+    description:
+      - kong_vault
+      - precision_jump
+      - tic_tac_wall_jump
+      - front_flip
+      - perfect_balance_no_floating
+  - phase: rooftop_traversal
+    timing: 9s-12s
+    description:
+      - swing_from_metal_beam
+      - run_along_narrow_rooftop_edge
+      - slide_under_pipes
+      - long_rooftop_gap_jump
+  - phase: final_leap
+    timing: 12s-15s
+    description:
+      - reach_tallest_rooftop
+      - confident_smile
+      - final_cinematic_leap_toward_skyline
+      - freeze_frame_ending
+
+motion_rules:
+  pacing:
+    - natural_timing_with_dramatic_speed_ramps
+    - uninterrupted_flow_between_phases
+  physics:
+    - grounded_gravity_present
+    - accurate_center_of_gravity
+    - natural_inertia_and_weight_shift
+    - realistic_foot_placement
+    - proper_landing_compression
+    - cloth_simulation
+    - hair_simulation
+    - no_unearned_floating
+
+visual_rules:
+  style:
+    - anime_photorealistic_hybrid
+    - HDR_ray_tracing_reflections
+    - global_illumination
+    - soft_bloom
+    - shallow_depth_of_field
+    - filmic_color_grading
+    - shinkai_inspired_lighting
+  clarity:
+    - body_mechanics_readable_outside_slow_motion_beats
+
+audio:
+  - high_energy_cinematic_soundtrack
+  - synchronized_footsteps
+  - wind_rushing
+  - city_ambience
+  - cloth_movement_sfx
+  - metal_impact_sfx
+  - environmental_reverb
+  - no_dialogue
+
+constraints:
+  forbidden:
+    - unnatural_physics
+    - outfit_change
+    - multiple_characters
+    - text
+    - logo
+
+output_rules:
+  emphasis:
+    - cinematic_spectacle
+    - technical_parkour_accuracy
+    - character_consistency
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/yaml-629d172a4820)**
+
+### Dark-Fantasy Anime Summoning Ritual
+
+> A detailed dark-fantasy prompt for creating a high-budget anime scene featuring a female summoner and two mysterious beasts emerging from magic circles.
+
+[<img src="https://media.goodcase.ai/media/poster/case-5c6186d655a1.jpg" width="600" alt="Dark-Fantasy Anime Summoning Ritual">](https://goodcase.ai/cases/case-5c6186d655a1)
+
+**Author:** @ontm0422ai | **Source:** [Original](https://x.com/ontm0422ai/status/2080913136178397407) | **Published:** 2026-07-25 | **Heat:** 6
+
+<details>
+<summary><b>Full prompt (347 lines, click to expand)</b></summary>
+
+```
+【映像仕様】
+10秒、16:9、横長フルスクリーン。
+
+総制作費10億円規模の劇場版ダークファンタジーアニメ。
+音楽なし、効果音のみ。
+字幕なし、文字なし、ロゴなし。
+
+高品質な日本のダークファンタジーアニメ。2Dセルアニメーションを基調に、魔法エフェクト、発光、粒子、幽体表現のみ高密度なデジタルコンポジットを使用する。
+
+暗黒空間をベースに、青、蒼、シアン、青白、群青、紫、黒を中心とした限定配色。
+
+強い発光、硬い影、青色と紫色のリムライト、空気中を漂う微細な魔力粒子、薄い霧、空気遠近感。
+
+【キャラクター】
+
+生成時に添付する参照画像の女性キャラクターを忠実に再現する。
+
+顔、髪型、髪色、衣装、体格、年齢感を全カットで一貫して維持する。
+
+女性は冷静で感情を抑えた表情だが、瞳には敵へ立ち向かう明確な意志と緊張感がある。
+
+彼女は常に前方に存在する敵を見据えている。
+
+魔法を制御している間も、魔法陣だけを見続けるのではなく、その先にいる敵へ視線を向ける。
+
+全カットで左右の手指は正常な5本指。指、腕、顔、人体構造を崩さない。
+
+【敵の見せ方】
+
+彼女たちが対峙する強大な敵は、画面右奥方向または進行方向の先に存在している。
+
+敵の全身や正体は明確に映さない。
+
+彼女の視線、敵側から吹く強風、地面の微振動、空気の歪み、霧や粒子が押し返される現象、低い衝撃波、暗闇の奥から差し込む不穏な逆光によって、巨大な敵が存在することを表現する。
+
+女性と幻獣二体は、すべて同じ方向の敵を見据える。
+
+召喚後にその場で待機するのではなく、女性と幻獣二体が共に敵へ立ち向かおうとする流れを明確に描く。
+
+【魔法陣の重要指定】
+
+使用する魔法表現は円形の魔法陣のみ。
+
+魔法陣の数は必ず二つ。三つ以上に増やさない。
+
+二つの魔法陣は、すべてのカットで必ず女性の前方に配置する。
+
+頭上、真後ろ、女性を取り囲む位置には出現させない。
+
+女性の前方左側に青い魔法陣、前方右側に紫色の魔法陣を配置する。
+
+それぞれが独立した召喚術式として起動する。
+
+魔法陣は半透明の円環状または薄い円盤状。
+
+古代文字、幾何学模様、複数の同心円、紋章、回転する円環によって構成する。
+
+機械的なUIではなく、古代の召喚儀式のような神秘的で荘厳な印象にする。
+
+青い魔法陣は青、シアン、青白の光を放つ。
+
+紫色の魔法陣は紫、青紫、薄紫の光を放つ。
+
+【召喚演出の重要指定】
+
+幻獣は最初から完成した全身で突然出現させない。
+
+二つの魔法陣から、最初に幻獣の手、前脚、足、爪など、体の一部だけを幽体化した状態で出現させる。
+
+幽体化した部位は半透明で、内部に青または紫の光が流れている。
+
+魔法陣から勢いよく飛び出さない。
+
+水面の下から巨大な存在が浮上するように、静かに、重く、不気味に、じわりと前方へ浮き出る。
+
+短いカットの中でも、速い突進ではなく、ゆっくりした動きの一瞬を切り取ったように見せる。
+
+幽体化した部位が出現する動作は次の実体化カットへ連続し、カットをまたいで滑らかに全身の実体化へつながる。
+
+青い魔法陣から、青系の幻獣を一体召喚する。
+
+紫色の魔法陣から、紫系の幻獣を一体召喚する。
+
+幻獣は必ず二体のみ。
+
+二体は女性の前方左右に召喚される。
+
+召喚直後は幻獣二体が女性より前に立つ。
+
+その後、二体の幻獣の間から女性が堂々と歩いて前へ出て、三者の先頭に立つ。
+
+女性は守られて後ろに隠れるのではなく、自ら敵に立ち向かう指揮者として描く。
+
+【幻獣デザイン】
+
+幻獣は二体のみ。互いに明確に異なるシルエットを持つ。
+
+一体目は、青い魔法陣から召喚される青系の巨大幻獣。
+
+青黒、群青、シアンをベースカラーとした、獅子と竜を融合したような重量級の幻獣。
+
+鋭い牙、太い角、長いたてがみ、巨大な前脚、青く発光する眼を持つ。
+
+重量感のある四足歩行型。地面を踏みしめるたびに粉塵が舞う。
+
+二体目は、紫色の魔法陣から召喚される紫系の巨大幻獣。
+
+黒紫、青紫、薄紫をベースカラーとした、鳥獣と爬虫類を融合したような幻獣。
+
+長い首、鋭い顎または嘴、翼または大きな背の突起、紫色に発光する眼を持つ。
+
+青い幻獣よりも細長く鋭いシルエットにし、二体を視覚的に区別する。
+
+二体とも女性より圧倒的に巨大。
+
+置物のように静止させず、呼吸、たてがみ、翼端、尻尾、耳、爪、発光する眼を微妙に動かす。
+
+二体とも女性の支配下にあり、共通の敵に向けて臨戦態勢を取る。
+
+【演出方針】
+
+10秒の中でカットを多めに使用する。
+
+同じアングルを連続して使用しない。
+
+目元のクローズアップ、指先の極端な寄り、斜め横、煽り、魔法陣越しの主観風、地面すれすれのローアングル、斜め後方、横に近い斜めワイドを切り替える。
+
+前半は、敵を見据える緊張感と魔法操作の精密さ。
+
+中盤は、幽体化した一部が浮き出る不気味さと、巨大幻獣が実体化する迫力。
+
+後半は、二体の間から女性が前へ出る主導性と、三者が敵へ立ち向かう共闘感を見せる。
+
+髪、衣装、光、粒子、霧、魔法陣、幻獣の呼吸など、すべてのカットで何らかの動きを維持する。
+
+【0.0～10.0秒のカット構成】
+
+■カット1【0.0～0.5秒】
+
+女性の目元を捉えた極端なクローズアップ。
+
+女性は画面右奥方向にいる敵を鋭く見据える。
+
+瞳に青と紫の反射光が映り込む。
+
+敵側から吹く強い風によって前髪が揺れ、空気がわずかに震える。
+
+緊張感のある短い導入。
+
+■カット2【0.5～1.0秒】
+
+女性の手先を捉えた極端なクローズアップ。
+
+手先に青と紫の光が別々に集まる。
+
+女性の前方空中に、小さな青い円環と紫色の円環が発生し始める。
+
+手先から円形の紋様が波紋のように拡大する。
+
+背景は浅い被写界深度で暗くぼかす。
+
+■カット3【1.0～1.6秒】
+
+斜め横からのミディアムクローズアップ。
+
+女性の前方左側に青い魔法陣、前方右側に紫色の魔法陣が形成される。
+
+二つの魔法陣は彼女より前方にあり、魔法陣越しに敵側の暗闇が見える。
+
+女性は魔法陣だけではなく、その先にいる敵を見据えている。
+
+髪と衣装が敵側からの逆風で大きくなびく。
+
+■カット4【1.6～2.2秒】
+
+低い位置から女性を見上げる煽りのミディアムショット。
+
+女性が両手を操作し、前方左右の魔法陣が回転速度を上げる。
+
+青い魔法陣と紫色の魔法陣が、それぞれ独立して脈動する。
+
+古代文字、同心円、紋章が強く発光する。
+
+■カット5【2.2～2.8秒】
+
+魔法陣越しの主観風ショット。
+
+画面手前に巨大な円形紋様と回転する古代文字。
+
+彼女の前方の青い魔法陣と紫色の魔法陣を交互に短く見せる。
+
+女性は手を動かしながらも、視線は魔法陣の先にいる敵へ固定している。
+
+■カット6【2.8～3.0秒】
+
+召喚途中の幽体化カット。
+
+青い魔法陣から、青系幻獣の巨大な前脚と鉤爪の先端が半透明の霊体として、ゆっくりと浮き出始める。
+
+紫色の魔法陣から、紫系幻獣の巨大な手、足、または鋭い爪が半透明の霊体として、静かにせり出し始める。
+
+勢いよく飛び出さない。
+
+短い尺の中で、ゆっくりした出現動作の一瞬だけを切り取る。
+
+霊体の内部を青または紫の光がゆっくり流れる。
+
+この動きは次のカットへ連続する。
+
+■カット7【3.0～3.7秒】
+
+地面付近から見上げる超ローアングル。
+
+彼女の前方の魔法陣から浮き出ていた幽体の前脚や爪が、そのままゆっくり前方へせり出しながら実体化する。
+
+半透明の霊体から、毛、鱗、角、爪を持つ重厚な実体へ変化する。
+
+続いて頭部、胴体、翼、尻尾が魔法陣を通過し、二体の巨大幻獣が完全に姿を現す。
+
+青い幻獣には青白い発光。
+
+紫の幻獣には紫色の発光。
+
+実体化の完了と同時に光量が急激に高まる。
+
+■カット8【3.7～4.3秒】
+
+地面すれすれの超ローアングル。
+
+青い幻獣と紫の幻獣の巨大な前脚が、時間差で地面へ着地する。
+
+着地の衝撃で地面が振動し、粉塵と小石が跳ね上がる。
+
+青い衝撃波と紫色の衝撃波が別々に床面を走る。
+
+二体は着地直後に頭部を敵の方向へ向ける。
+
+■カット9【4.3～5.0秒】
+
+高速ウィップパンを使用した断片的なクローズアップ。
+
+青い幻獣の牙、角、たてがみ、青く発光する眼。
+
+紫の幻獣の鋭い顎、翼端、背の突起、紫色に発光する眼。
+
+二体の全身を一度に説明的に見せず、短い断片を連続させて巨大さと獰猛さを印象づける。
+
+二体は共通の敵をにらみ、身体を低く構える。
+
+■カット10【5.0～6.0秒】
+
+斜め後方からのワイドショット。
+
+画面前方左右に二体の巨大幻獣が並び、女性は二体の後ろ中央に立っている。
+
+青い幻獣と紫の幻獣の間には、女性一人が通れる広い空間がある。
+
+二体は前方の敵へ向けて前傾姿勢を取り、中央の進路を開くように左右へ立つ。
+魔法陣は消えている。
+
+■カット11【6.0～7.0秒】
+
+二体の幻獣の間から、女性が歩いて前へ出てくる。
+
+カメラはやや低い位置から女性を正面斜めに捉える。
+
+左右に巨大な青と紫の幻獣。
+
+中央奥から女性が堂々と歩き、二体の間を通過する。
+
+女性は敵から視線を外さない。
+
+髪と衣装が風でなびき、落ち着いた歩調の中に強い意志を感じさせる。
+
+女性は二体の前へ出て、そのまま先頭に立つ。
+
+守られる人物ではなく、幻獣を率いて戦う指揮者として描く。
+
+■カット12【7.0～7.9秒】
+
+青い幻獣を斜め下から見上げるクローズアップ。
+
+青黒から群青をベースとした巨大な獅子竜型幻獣。
+
+重厚な牙、角、長いたてがみ、巨大な前脚、青く光る眼。
+
+低く唸り、敵へ向かって前脚を一歩踏み出す。
+
+たてがみが敵側からの風で激しく揺れる。
+
+■カット13【7.9～8.6秒】
+
+紫の幻獣を斜め下から見上げるクローズアップ。
+
+黒紫から青紫をベースとした鳥獣・爬虫類型幻獣。
+
+長い首、鋭い顎、翼または大きな背の突起、紫色に光る眼。
+
+翼端や背の突起を広げ、敵へ向けて身体を低く構える。
+
+紫色のリムライトが鋭いシルエットを浮かび上がらせる。
+
+■カット14【8.6～10.0秒】
+
+最後の歩くワイドショット。
+
+横に近い斜め位置から撮影した壮大なワイドショット。
+
+画面左手前から右奥方向へ抜ける、強い奥行きのある構図。
+
+女性が三者の先頭に立ち、その少し後方左右に、青い幻獣と紫の幻獣が続く。
+
+女性と幻獣二体は、画面右奥に存在する敵へ向かってゆっくり歩き出す。
+
+女性は低めの重心を保ちながら堂々と前進し、腕は戦闘に移行できる自然な構え。
+
+青い幻獣は重い足取りで床を踏みしめる。
+
+紫の幻獣は鋭い姿勢で女性の歩調に合わせる。
+
+三者が同じ敵へ向かって進む、強い結束と共闘感を見せる。
+
+カメラは横に近い斜め位置を維持しながら、三者と並行するようにゆっくり横移動する。
+
+同時に、ごくわずかにプッシュインする。
+
+女性の歩行、幻獣の重い足運び、髪、たてがみ、翼端、尻尾、霧、魔力粒子を継続的に動かす。
+
+進行方向の暗闇では、敵の圧力によって空気が歪み、青紫の光が不規則に明滅する。
+
+最後は、先頭に立つ女性と、その背後左右を固める二体の巨大幻獣を横に近い斜めから捉えたまま、戦闘開始直前の力強いチームショットで締める。
+
+【カメラ演出】
+
+序盤は目元、指先、横顔などの短いクローズアップで緊張感を高める。
+
+魔法陣の起動は、斜め横、煽り、魔法陣越しの主観風ショットで立体的に見せる。
+
+召喚途中は、幽体の一部がゆっくり浮き出る不気味な動きと、その後の実体化の速度差を使う。
+
+幻獣の着地では、地面すれすれのローアングルと限定的なカメラ振動を使用する。
+
+幻獣の全身を説明的な固定画角だけで見せず、牙、眼、前脚、翼、たてがみなどの短い寄りを挟む。
+
+最終カットは横に近い斜めからのワイドショットを長く維持する。
+
+無意味な360度回転、過剰な手ブレ、頻繁すぎるズーム、同じ画角の反復は使用しない。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-5c6186d655a1)**
 
 ### Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video
 
@@ -94,66 +621,6 @@ NO UI ELEMENTS. NO SPEECH BUBBLES.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-5c4dcdbf9e99)**
 
-### Cinematic Anime Martial Arts Training Ground
-
-> A cinematic anime-style video prompt featuring a traditional Chinese martial arts training ground with a temple and bamboo.
-
-[<img src="https://media.goodcase.ai/media/poster/cinematic-anime-martial-arts-training-ground.jpg" width="600" alt="Cinematic Anime Martial Arts Training Ground">](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)
-
-**Author:** @TechieBySA | **Source:** [Original](https://x.com/TechieBySA/status/2081405410464972870) | **Published:** 2026-07-26 | **Heat:** 5
-
-**Stability:** 81/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.5) · [output](https://media.goodcase.ai/retests/cinematic-anime-martial-arts-training-ground/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (38 lines, click to expand)</b></summary>
-
-```
-Cinematic anime short film clip, 15 seconds. Outdoor Chinese martial arts training ground, ancient stone platform, traditional Chinese temple with curved red rooftops in background, sparse bamboo on sides, stone lanterns, clear bright blue sky, crisp daylight, beautiful strong colors of deep red green and stone grey.
-
-CHARACTER: Lee, Chinese male, light skin, sharp angular face, strong jawline, short clean black hair slicked back, dark intense focused eyes, very slim and lean muscular build, wearing iconic one-piece yellow jumpsuit with black stripes running down both sides, white shoes, holding nunchaku with black handles and silver chain.
-
-VIDEO STARTS MID-ACTION — no slow intro, no build up, viewer is thrown straight into it from frame one.
-
-[0:00-0:02] HOOK — Lee already in full motion. Nunchaku already spinning at full speed behind his back in a figure eight pattern. Camera starts at extreme close up of the blurring nunchaku then immediately pulls back to reveal Lee in full stance on the stone platform. High energy traditional Chinese instrument fused with modern hard hitting drum and bass beat drops instantly from frame one.
-
-[0:02-0:12] MONTAGE — Ultra fast cuts constantly switching between different movements AND different camera angles every half second synced hard to the beat. Lee never doing the same movement twice:
-
-MOVEMENTS rotating through constantly:
-- Nunchaku spinning behind his back
-- Figure eight patterns in front of his body
-- One handed spinning while switching stance
-- Low crouching strikes toward the ground
-- High spinning kicks combined with nunchaku mid-kick
-- Moving across the stone platform not staying in one spot
-- Nunchaku wrapping around his forearm and releasing
-- Double handed strikes forward
-- Spinning his whole body while nunchaku circles around him
-
-CAMERA ANGLES rotating through constantly:
-- Extreme close up of nunchaku blurring into a streak
-- Low angle looking up at Lee against blue sky
-- Wide shot showing full temple and platform behind him
-- Side profile shot showing full body movement
-- Overhead shot looking straight down at him spinning
-- Ground level shot looking up
-- Behind shot looking toward the temple
-- Close up of his cold focused eyes never breaking concentration
-- Close up of his feet pivoting fast on stone platform
-- Slow motion insert shot of nunchaku chain catching sunlight mid-spin
-
-Music building harder and harder throughout the montage, drums getting heavier, beat getting faster, traditional Chinese instruments layering in.
-
-[0:12-0:15] HERO MOMENT — Lee turns and faces the wooden training dummy directly. Music hits its hardest beat drop. He charges forward explosively. Unleashes an insane rapid fire combination — nunchaku strikes so fast they are completely invisible just a yellow and black blur around the dummy — strikes landing from every angle left right high low in under one second. Ends with one final devastating full power spinning strike directly into the center of the dummy. Dummy SPLITS clean in half from top to bottom in slow motion. Two halves fall away in opposite directions. Lee follows through the strike, lands perfectly in stance on the other side, never stops moving, nunchaku swinging back naturally into a spin at his side. Camera freezes on him for exactly one frame — yellow suit, blue sky, temple behind him — then cut to black. Text appears: LEE.
-
-Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, deep saturated colors, yellow suit popping against green bamboo and blue sky, ultra fast cutting rhythm throughout montage, traditional Chinese fusion modern beat music loud and dominant, nunchaku motion blur and chain light effects, film grain, premium anime film quality
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)**
-
 ### Retro Soda Ad Crimson Cola
 
 > An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
@@ -210,41 +677,65 @@ A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vox-d5c357d5e75d)**
 
-### Photorealistic Wireless Earbuds Commercial
+### Cinematic Anime Martial Arts Training Ground
 
-> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
+> A cinematic anime-style video prompt featuring a traditional Chinese martial arts training ground with a temple and bamboo.
 
-[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f)
+[<img src="https://media.goodcase.ai/media/poster/cinematic-anime-martial-arts-training-ground.jpg" width="600" alt="Cinematic Anime Martial Arts Training Ground">](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)
 
-**Author:** @hiapi_ai | **Source:** [Original](https://x.com/hiapi_ai/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 4
+**Author:** @TechieBySA | **Source:** [Original](https://x.com/TechieBySA/status/2081405410464972870) | **Published:** 2026-07-26 | **Heat:** 4
 
-**Stability:** 73/100
+**Stability:** 81/100
 
-**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.5) · [output](https://media.goodcase.ai/retests/cinematic-anime-martial-arts-training-ground/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 <details>
-<summary><b>Full prompt (14 lines, click to expand)</b></summary>
+<summary><b>Full prompt (38 lines, click to expand)</b></summary>
 
 ```
-生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
+Cinematic anime short film clip, 15 seconds. Outdoor Chinese martial arts training ground, ancient stone platform, traditional Chinese temple with curved red rooftops in background, sparse bamboo on sides, stone lanterns, clear bright blue sky, crisp daylight, beautiful strong colors of deep red green and stone grey.
 
-主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
+CHARACTER: Lee, Chinese male, light skin, sharp angular face, strong jawline, short clean black hair slicked back, dark intense focused eyes, very slim and lean muscular build, wearing iconic one-piece yellow jumpsuit with black stripes running down both sides, white shoes, holding nunchaku with black handles and silver chain.
 
-产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
+VIDEO STARTS MID-ACTION — no slow intro, no build up, viewer is thrown straight into it from frame one.
 
-0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
-3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
-6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
+[0:00-0:02] HOOK — Lee already in full motion. Nunchaku already spinning at full speed behind his back in a figure eight pattern. Camera starts at extreme close up of the blurring nunchaku then immediately pulls back to reveal Lee in full stance on the stone platform. High energy traditional Chinese instrument fused with modern hard hitting drum and bass beat drops instantly from frame one.
 
-9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
-12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
+[0:02-0:12] MONTAGE — Ultra fast cuts constantly switching between different movements AND different camera angles every half second synced hard to the beat. Lee never doing the same movement twice:
 
-声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
+MOVEMENTS rotating through constantly:
+- Nunchaku spinning behind his back
+- Figure eight patterns in front of his body
+- One handed spinning while switching stance
+- Low crouching strikes toward the ground
+- High spinning kicks combined with nunchaku mid-kick
+- Moving across the stone platform not staying in one spot
+- Nunchaku wrapping around his forearm and releasing
+- Double handed strikes forward
+- Spinning his whole body while nunchaku circles around him
+
+CAMERA ANGLES rotating through constantly:
+- Extreme close up of nunchaku blurring into a streak
+- Low angle looking up at Lee against blue sky
+- Wide shot showing full temple and platform behind him
+- Side profile shot showing full body movement
+- Overhead shot looking straight down at him spinning
+- Ground level shot looking up
+- Behind shot looking toward the temple
+- Close up of his cold focused eyes never breaking concentration
+- Close up of his feet pivoting fast on stone platform
+- Slow motion insert shot of nunchaku chain catching sunlight mid-spin
+
+Music building harder and harder throughout the montage, drums getting heavier, beat getting faster, traditional Chinese instruments layering in.
+
+[0:12-0:15] HERO MOMENT — Lee turns and faces the wooden training dummy directly. Music hits its hardest beat drop. He charges forward explosively. Unleashes an insane rapid fire combination — nunchaku strikes so fast they are completely invisible just a yellow and black blur around the dummy — strikes landing from every angle left right high low in under one second. Ends with one final devastating full power spinning strike directly into the center of the dummy. Dummy SPLITS clean in half from top to bottom in slow motion. Two halves fall away in opposite directions. Lee follows through the strike, lands perfectly in stance on the other side, never stops moving, nunchaku swinging back naturally into a spin at his side. Camera freezes on him for exactly one frame — yellow suit, blue sky, temple behind him — then cut to black. Text appears: LEE.
+
+Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, deep saturated colors, yellow suit popping against green bamboo and blue sky, ultra fast cutting rhythm throughout montage, traditional Chinese fusion modern beat music loud and dominant, nunchaku motion blur and chain light effects, film grain, premium anime film quality
 ```
 
 </details>
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f)**
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)**
 
 ### Emotional Kyoto Travel Vlog Animation
 
@@ -374,6 +865,42 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
+
+### Photorealistic Wireless Earbuds Commercial
+
+> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
+
+[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f)
+
+**Author:** @hiapi_ai | **Source:** [Original](https://x.com/hiapi_ai/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 3
+
+**Stability:** 73/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (14 lines, click to expand)</b></summary>
+
+```
+生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
+
+主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
+
+产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
+
+0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
+3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
+6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
+
+9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
+12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
+
+声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f)**
 
 ### Epic Ice Fantasy: Titan Awakening
 

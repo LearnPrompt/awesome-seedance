@@ -114,7 +114,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E4 · Zombie Infection Outbreak in a Train Carriage
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 70 · stability: 68
+- Seedance 2.5 · creator: @doctorwasif · heat: 69 · stability: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) · [finished media](https://media.goodcase.ai/cases/6af197589643.mp4) · [poster](https://media.goodcase.ai/cases/068a44904e52.jpg) · [original source](https://x.com/doctorwasif/status/2093550743945105687)
 - Summary: Apocalypse unleash in Train. Made with Seedance 2.5 Prompt: 0–1.2s: @ (Image) matching reference face/outfit, sits on a
 
@@ -152,7 +152,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E5 · Candlelit Exorcism Ritual in a Traditional Korean House
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 69
+- Seedance 2.5 · creator: @doctorwasif · heat: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) · [finished media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) · [poster](https://media.goodcase.ai/cases/52e979f23a9f.jpg) · [original source](https://x.com/doctorwasif/status/2097533759944090052)
 - Summary: 30 seconds of pure Korean folk horror. Made with Seedance 2.5 on @openart_ai Prompt: 30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face …
 
@@ -198,7 +198,7 @@ No subtitles, no captions, no text, no logos, no watermark, no background music.
 
 ## E7 · Found Footage of an Outbreak on a Night Train
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 50
+- Seedance 2.5 · creator: @doctorwasif · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) · [finished media](https://media.goodcase.ai/cases/8ee95ce14625.mp4) · [poster](https://media.goodcase.ai/cases/757c7a9f50b5.jpg) · [original source](https://x.com/doctorwasif/status/2098639106712784933)
 - Summary: Last Signal: Carriage 13 Made with Seedance 2.5 on @TapNow_AI Prompt: 0–4s: Character A, matching the reference image, livestreams herself on a dark night train…
 
@@ -218,7 +218,7 @@ No subtitles, no captions, no text, no logos, no watermark, no background music.
 
 ## E8 · Infected Attack Beyond the Train’s Glass Door
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 46
+- Seedance 2.5 · creator: @doctorwasif · heat: 44
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) · [finished media](https://media.goodcase.ai/cases/9027d010bc75.mp4) · [poster](https://media.goodcase.ai/cases/20e977da4dd0.jpg) · [original source](https://x.com/doctorwasif/status/2098081350205194721)
 - Summary: THE FINAL CARRIAGE From an idea to a cinematic nightmare. Made with Seedance 2.5 on @supercool_hq Prompt: Shot 1 (0.0–1.2s): Character A, face and outfit matchi…
 

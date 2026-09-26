@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Meilin-Element Kung Fu Performance
 
-- Seedance 2.0 · creator: @aimikoda · heat: 89 · stability: 86
+- Seedance 2.0 · creator: @aimikoda · heat: 88 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/real-case-06-aimikoda) · [finished media](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.mp4) · [poster](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg) · [original source](https://x.com/aimikoda/status/2054460932068200517)
 - Summary: 来自 X / 𝕏 的真实 视频 案例，由 @aimikoda 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
 
@@ -202,7 +202,7 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ## E4 · Apartment Arrival Storyboard Animation
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 67
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) · [finished media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) · [poster](https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg) · [original source](https://x.com/Just_sharon7/status/2083912532692001128)
 - Summary: A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
 
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · High-Energy Spicy Potato Chips Commercial Storyboard
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 33 · stability: 82
+- Seedance 2.5 · creator: @Strength04_X · heat: 32 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
 - Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
 
@@ -372,7 +372,7 @@ Ultra-realistic snack commercial, detailed crispy texture, realistic seasoning p
 
 ## E7 · 3D Baking Animation Sequence
 
-- Seedance 2.0 · creator: @HaniaAi12 · heat: 28
+- Seedance 2.0 · creator: @HaniaAi12 · heat: 27
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
 - Summary: 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
 

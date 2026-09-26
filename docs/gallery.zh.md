@@ -1,18 +1,18 @@
 # Awesome Seedance — 画廊总览
 
-全部 529 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 562 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
 ## 分页
 
-- [Seedance 2.5 · 第 1/4 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–79 条，共 312 条.
-- [Seedance 2.5 · 第 2/4 页](./gallery-seedance-2-5-part-2.zh.md) - 第 80–177 条，共 312 条.
-- [Seedance 2.5 · 第 3/4 页](./gallery-seedance-2-5-part-3.zh.md) - 第 178–261 条，共 312 条.
-- [Seedance 2.5 · 第 4/4 页](./gallery-seedance-2-5-part-4.zh.md) - 第 262–312 条，共 312 条.
-- [Seedance 2.0 · 第 1/3 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–101 条，共 217 条.
-- [Seedance 2.0 · 第 2/3 页](./gallery-seedance-2-0-part-2.zh.md) - 第 102–189 条，共 217 条.
-- [Seedance 2.0 · 第 3/3 页](./gallery-seedance-2-0-part-3.zh.md) - 第 190–217 条，共 217 条.
+- [Seedance 2.5 · 第 1/4 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–79 条，共 341 条.
+- [Seedance 2.5 · 第 2/4 页](./gallery-seedance-2-5-part-2.zh.md) - 第 80–178 条，共 341 条.
+- [Seedance 2.5 · 第 3/4 页](./gallery-seedance-2-5-part-3.zh.md) - 第 179–270 条，共 341 条.
+- [Seedance 2.5 · 第 4/4 页](./gallery-seedance-2-5-part-4.zh.md) - 第 271–341 条，共 341 条.
+- [Seedance 2.0 · 第 1/3 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–104 条，共 221 条.
+- [Seedance 2.0 · 第 2/3 页](./gallery-seedance-2-0-part-2.zh.md) - 第 105–192 条，共 221 条.
+- [Seedance 2.0 · 第 3/3 页](./gallery-seedance-2-0-part-3.zh.md) - 第 193–221 条，共 221 条.
 
 ## 仓库里的其他入口
 
