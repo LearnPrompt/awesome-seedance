@@ -1,24 +1,10 @@
 # Seedance 2.0 — 全ケース（Part 3/3）
 
-Seedance 2.0 の全 221 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 228 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 221 件中 191–221 件目。
+このページ: 228 件中 196–228 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3**
-
-### Dynamic Image-to-Video Music Visualizer
-
-> A prompt designed to turn a static image into a professional music video with dynamic visual effects.
-
-[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="Dynamic Image-to-Video Music Visualizer">](https://goodcase.ai/cases/case-bf2bedc93316)
-
-**作者:** @EchoraContinuum | **出典:** [元投稿](https://x.com/EchoraContinuum/status/2079917613149503813) | **公開日:** 2026-07-22 | **ヒート:** 7
-
-```
-generate an interesting music video using this image as first frame,be professional and use dynamic visuals
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-bf2bedc93316)**
 
 ### YAML Cinematic Parkour Sequence
 
@@ -181,6 +167,59 @@ output_rules:
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yaml-629d172a4820)**
+
+### Blueprint-to-House Timelapse Transformation
+
+> A complex architectural timelapse prompt that turns a 2D floor plan and exterior reference image into a fully rendered, fully furnished 3D house while maintaining exact dimensions and layout.
+
+[<img src="https://media.goodcase.ai/media/poster/case-778d0c927488.jpg" width="600" alt="Blueprint-to-House Timelapse Transformation">](https://goodcase.ai/cases/case-778d0c927488)
+
+**作者:** @craftian_keskin | **出典:** [元投稿](https://x.com/craftian_keskin/status/2075669026508853393) | **公開日:** 2026-07-10 | **ヒート:** 7
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
+
+The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
+
+As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
+
+The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, and television materialize exactly matching the furniture arrangement from the blueprint. The garage forms around the parked car in the correct position.
+
+The roof structure grows over the house while maintaining the exterior silhouette from the reference image. Red brick textures spread across the exterior walls. Windows become reflective glass. The front entrance, garage door, landscaping, pathway, and surrounding lawn emerge organically. Sunlight gradually fills every room as if the home is coming alive.
+
+The transformation is smooth, continuous, and realistic, like watching months of construction compressed into seconds. Dust particles, tiny construction details, framing, roofing, drywall, painting, flooring, furnishing, and landscaping all appear in rapid but elegant timelapse.
+
+The final shot reveals the completed fully rendered house from a three-quarter aerial angle. The camera slowly circles a few degrees while sunlight reflects off the windows. Warm interior lighting glows naturally through the windows, emphasizing that every room perfectly matches the original floor plan.
+
+Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
+
+Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-778d0c927488)**
+
+### 2D Sticker Capybara Kitchen Prank
+
+> A mixed-media video prompt for Seedance 2.0 combining a realistic 1st-person kitchen POV with a 2D animated capybara sticker character performing a salt-pouring prank.
+
+[<img src="https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg" width="600" alt="2D Sticker Capybara Kitchen Prank">](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)
+
+**作者:** @Soranlan | **出典:** [元投稿](https://x.com/Soranlan/status/2081386564525953050) | **公開日:** 2026-07-26 | **ヒート:** 6
+
+**安定度:** 78/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.6) · [出力](https://media.goodcase.ai/retests/2d-sticker-capybara-kitchen-prank/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+真人实拍 + 2D 动漫贴纸合成搞笑短视频 【风格】 真人实拍 + Flat 2D Sticker Composite 搞笑短视频。 第一人称做饭视角，写实厨房质感与扁平卡通贴纸风格形成强烈反差。 整体为 Live-Action + Flat 2D Cartoon Sticker 混搭效果。 画面是 真实厨房实拍，角色是 全程保持纯 2D 平面贴纸质感 的 Q 版卡通角色。 8K 超清，竖屏，手持轻微晃动，短视频节奏明快，笑点直接。 【时长】 10 秒 【画幅】 9:16 竖屏 一、场景设定 【场景】 真实居家厨房第一人称视角。 黑色铁锅放在灶台上，锅里正在翻炒牛肉和青菜，油光滋滋，蒸汽上冒。 背景包含： 白色瓷砖墙 墙面插座 靠墙排列的酱油瓶和油瓶 右侧不锈钢水槽 侧窗自然光照入 要求整体环境 真实生活化，厨房质感可信，不能变成卡通厨房。 相机为第一人称 POV，轻微手持晃动，但不要晃得太乱。 二、角色设定 【角色】Q 版动漫贴纸角色：水豚噜噜（Capybara Lulu） 设定要求： 圆润可爱的拟人卡通水豚 正面站在画面中央偏下位置 身高约为铁锅的一半 扁平 2D 贴纸质感 明显卡通描边 纸片感强 不能变成立体真实动物 不被真实环境光重新塑造成写实立体光影 外观统一锁定： 身体为淡黄色 穿橙色短裤 脖子系黄色小围裙 头顶顶着一个小橘子 四只小短爪圆润如豆 头部 and 脸部占比很大 整体像软萌纸片贴纸角色 角色气质： 平时佛系慵懒 但一搞事就特别熟练 表情贱兮兮，恶作剧感强 【真人部分】 真人的手为写实风格，从画面右侧入画。 要求皮肤细节真实，毛孔可见，与 2D 角色形成明确反差。 三、镜头设计 【镜头 1｜00:00–00:03】 倒盐捣乱（Salt Avalanche Opening） 【机位】 第一人称俯视 POV 【画面动作】 真人的手正用锅铲翻炒锅里的牛肉和青菜。 水豚噜噜坐在灶台旁的小木凳上，眯起豆豆眼，腮红加深，嘴角上扬露出贱兮兮的坏笑。 它两只小短爪高高举起一个比自己脑袋还大的玻璃调料罐，趁真人炒菜时，把整罐白盐哗哗倒进锅里。 盐要像真实瀑布一样倾泻而下，清楚落进锅中，并在菜上堆成一座夸张但可见的“小白盐山”。 【角色表情】 豆豆眼微眯 嘴角坏笑 恶作剧得意 【音效】 食物滋滋声 盐倒入锅中的密集沙沙声 【本镜头唯一主要动作】 水豚噜噜把整罐盐倒进锅里。 【镜头 2｜00:03–00:05】 夺瓶敲头（Spatula Bonk） 【机位】 继续保持第一人称近景 POV 【画面动作】 真人一只手迅速夺走它怀里的玻璃盐罐。 另一只手举起锅铲，用铲面朝下，轻轻敲在水豚噜噜头顶。 注意这一下是 卡通式轻敲，不是现实暴力感。 敲击后，它头顶立刻弹出一个明显的红色卡通肿包。 它整个圆滚滚的 2D 贴纸身体上下猛地一颤，两只小短爪立刻抱头，豆豆眼瞬间瞪圆。 【角色表情】 震惊 委屈 打懵一瞬间 【音效】 锅铲 “Duang” 一声 轻微金属敲击音 卡通弹簧音效 【本镜头唯一主要动作】 真人用锅铲轻敲它的头顶。 【镜头 3｜00:05–00:08】 敲哭张嘴・铲盐入嘴（Cry & Feed） 【机位】 第一人称近景 POV，聚焦角色面部与锅边 【画面动作】 水豚噜噜捂着头顶的红色肿包，豆豆眼瞬间变成旋转蚊香眼。 它张大嘴巴“嗷嗷”大哭，蓝色卡通泪水像喷泉一样从两侧夸张喷出。 头顶的小橘子也随着哭泣一颤一颤。 与此同时，真人的手立刻用锅铲从锅里那座盐山上铲起满满一铲“白盐咸菜混合物”，趁它张嘴大哭时，精准把这一铲送进它嘴里。 它的嘴瞬间被塞得鼓鼓囊囊，左右腮帮子像两个半球一样夸张鼓起。 【角色表情】 蚊香眼 大哭 嘴被塞满后的震惊呆滞 【音效】 夸张卡通爆哭声 铲盐沙沙声 塞进嘴里的“啵”一声 【本镜头唯一主要动作】 真人趁它张嘴大哭时把一铲盐菜塞进它嘴里。 【镜头 4｜00:08–00:10】 齁到倒地（Salt K.O. Ending） 【机位】 第一人称固定近景，结尾定格 【画面动作】 水豚噜噜两边腮帮子鼓得通红，被迫咽下嘴里的盐。 它的瞳孔骤然缩成两个小点，淡黄色身体瞬间刷白一个色调，整只角色僵直抖动半拍。 紧接着，它的豆豆眼变成两个 “X”，身体直挺挺地从小木凳上向后仰倒，四脚朝天摔平在灶台上。 一只小短爪在空中无力划一下后垂落。 它头顶红肿包旁边缓缓绕出一圈旋转小星星。 方形小鼻子前悠悠飘出一缕灵魂状白烟。 画面定格在它“齁到升天”的瞬间。 【音效】 僵直 “咯噔” 一声 向后倒地 “咚” 一声 轻微卡通升天音效收尾 【本镜头唯一主要动作】 水豚噜噜被咸到后仰倒地。 四、执行要求 【视觉要求】 厨房环境必须真实写实 水豚噜噜必须始终保持纯 2D 贴纸感 2D 角色与真实厨房、真实人手形成强烈反差 不要把水豚噜噜做成立体真实毛绒动物 不要让角色接受复杂写实打光 角色轮廓始终清楚，像贴在实拍画面上的卡通贴纸 【动作要求】 每个镜头只保留一个主要动作 动作节奏要短平快 角色表情夸张，但动作逻辑清楚 盐、锅铲、蒸汽、倒地要有明确物理反馈 【表演要求】 水豚噜噜的搞事感要强 真人不出全身，只出现手 真人的反应要利落，像熟练处理捣蛋鬼 整体是无台词喜剧，不需要人物说话 【镜头要求】 全片保持第一人称 POV 轻微手持晃动 不切换成第三人称 不增加无关人物 结尾定格要干脆 五、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, subtitles, text, logo, error; deformed, mutated, bad anatomy, extra limbs, broken hands, disfigured, bad composition, out of frame; realistic animal fur, 3D realistic capybara, over-rendered lighting on sticker character, inconsistent character, changing clothes, changing body color, changing head accessory; background shift, disappearing props, broken kitchen continuity, floating objects, incorrect POV, extra people, extra hands, glitching cuts
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)**
 
 ### Dark-Fantasy Anime Summoning Ritual
 
@@ -547,13 +586,110 @@ output_rules:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-5c6186d655a1)**
 
+### High-Quality Anime Swimsuit Video
+
+> A detailed cinematic prompt for creating a high-quality anime video sequence featuring a character in swimwear at a luxury resort. The prompt emphasizes character consistency, smooth camera movement, and a refined fashion PV aesthetic.
+
+[<img src="https://media.goodcase.ai/media/poster/case-79acf1a3e8a6.jpg" width="600" alt="High-Quality Anime Swimsuit Video">](https://goodcase.ai/cases/case-79acf1a3e8a6)
+
+**作者:** @haruuraeadss | **出典:** [元投稿](https://x.com/haruuraeadss/status/2080867332889399547) | **公開日:** 2026-07-25 | **ヒート:** 6
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+高品質アニメ映像。
+
+ソース参照画像のキャラクターを参照し、全編で同一人物として厳密に維持する。参照画像はキャラクターの顔、輪郭、目の形、虹彩色、髪型、髪色、髪量、衣装、装飾、体格、身体の比率、シルエット、雰囲気、キャラクターカラーの維持にのみ使用する。参照画像そのものの背景、部屋、家具、ポーズ、表情、画角、フレーミングは再現しない。表情、視線、口元、ポーズ、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴の混合、顔の平均化、髪型改変、髪色改変、衣装交換、装飾の消失、体型変更、別人化、クローン化、余計な人物の追加は禁止。
+
+全編で、参照画像のキャラクターに最も適した高品質なアニメ表現を一貫して維持する。繊細な手描きアニメ調を基本とし、線は細く、色は上品で透明感があり、肌、髪、布、装飾の塗りは柔らかく高級感のあるアニメルックにする。参照画像の雰囲気が明るいなら爽やかに、落ち着いているなら上品で静かな方向に寄せる。ただし画風自体は一貫させ、太線化、低予算TVアニメ化、半写実化、実写化、プラスチックCG化、過剰な3D感、画風混合をしない。
+
+場所は全編を通して、明るい屋外の高級リゾート空間に固定する。白い建築、青空、開放的なテラス、パラソル、遠景のヤシ、柔らかい昼の自然光を基本構成として維持する。背景は爽やかで明るく、人物が主役に見えるように軽いボケと奥行きを持たせる。場所の構造、屋外リゾートという設定、白い建築、青空、テラス、パラソル、ヤシは維持する。そのうえで、パラソル、クッション、花、テーブル小物、装飾布、反射光、背景の差し色のみを、参照画像のキャラクターカラー、衣装の配色、装飾モチーフ、性格的な雰囲気に合わせて自然に調整する。背景はキャラクターを引き立てる補助に徹し、人物より目立たせない。別の場所にはしない。
+
+この映像は、元動画の厳密再現ではなく、同じ爽やかな空気感を保ちながら、身体を魅力的に見せるSNS映えのカメラワークへ再設計する。表情の厳密再現は不要だが、顔は全編でしっかり読めるようにする。顔、瞳、頬、口元がきちんと見える顔報酬を複数回入れる。表情はキャラクター本来の雰囲気に合わせ、自然で柔らかい視線、軽い微笑み、少しの照れ、または控えめな落ち着きのある笑みを中心にする。
+
+映像は太ももまで見える中景から始まる。キャラクターはやや三分の四方向を向き、脚、ウエスト、胸元、肩、髪の流れ、主要な衣装装飾が一度に読める構図にする。カメラは最初から少し勢いのある滑らかな前進と斜め移動で入り、太もも、ウエスト、胸元、肩、顔へ視線が流れるように、下から上へ気持ちよくなぞる。ただし顔を置き去りにせず、顔と瞳がしっかり見える時間を確保する。
+
+キャラクターは両手を下から自然に持ち上げる。手は顔を隠さず、太もも前、ウエスト前、胸元前を通りながら上がる。指先はやわらかく開き、力ませない。カメラはその動きに合わせて、少し速めのスライド、軽いプッシュイン、浅い回り込みを組み合わせ、体のライン、衣装の構造、装飾、髪の流れを次々に見せる。手がレンズ近くを通る時は軽い前景ボケを作ってもよいが、顔、瞳、頬、口元は常に読めるようにする。手で顔を長く隠さない。
+
+カメラは正面固定ではなく、キャラクターの前をなめるように左右へ素早く浅く回り込み、太もも、腰のライン、胸元の意匠、肩、首筋、横顔、流れる髪、衣装装飾をテンポよく見せる。勢いはあるが荒すぎず、上品さを保つ。ときどき少し低めの視点から見上げ、脚の長さと太ももからウエストへつながるラインをきれいに見せる。必要に応じて、太ももまで見える中景から胸上近景まで一瞬で寄り、また太ももまで戻る。カメラの速度変化でSNS映えするリズムを作る。
+
+中盤では、胸元から手、手から髪、髪から顔へ視線が流れるように構成する。髪、スカート裾、コート裾、リボン、レース、アクセサリーなど、参照画像に存在する可動要素は、身体の動きより半拍遅れてやわらかく揺れる。キャラクターは肩を少しひねり、片脚へ軽く重心を乗せ、体型と衣装シルエットが自然に美しく見える立ち方を取る。大きな芝居ではなく、ファッション映像のように洗練された身体の見せ方を優先する。中盤のどこかで胸上寄りのショットを入れ、顔と瞳を正面寄りにしっかり見せる。
+
+終盤では両腕を上に上げる流れを使ってもよいが、カメラは引いて全身を見せない。太ももまで見える中景から胸上近景の間を維持しながら、少し速めの斜め上昇、軽い回り込み、短い寄りを使って、肩、腕、胸元、ウエスト、太もも、髪の広がり、主要装飾を美しく見せる。最後は顔報酬を最優先する。カメラは自然に胸上からバストアップまで寄り、キャラクターが正面寄りにカメラを見る。最後の瞬間、キャラクターはカメラ目線で、その人物らしい自然な小さな笑顔を見せる。瞳は明るく、頬はやわらかく緩み、口元は上品に微笑む。最後はそのカメラ目線の笑顔が最も魅力的に見えた瞬間で切る。
+
+全体として、カメラは観察的に遅く動くのではなく、人物を魅力的に切り取るために、少し速めに、滑らかに、テンポよく、気持ちよく追う。爽やかで上品、少しファッションPV的で、明るく洗練されたSNS映えする映像にする。
+
+文字なし、字幕なし、ロゴなし、透かしなし、余計な人物なし、クローンなし、顔崩れなし、目の形や虹彩色の変化なし、手や腕や指の増殖なし、衣装改変なし、装飾消失なし、髪型改変なし、髪色改変なし、体型変更なし、全身引き終わりなし、顔を長く隠す手の動きなし、急停止するカメラなし、硬い棒立ちポーズなし、背景の場所変更なし、画風混合なし。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-79acf1a3e8a6)**
+
+### Retro Soda Ad Crimson Cola
+
+> An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
+
+[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="Retro Soda Ad Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)
+
+**作者:** @DjajaYerry75 | **出典:** [元投稿](https://x.com/DjajaYerry75/status/2080666062690140315) | **公開日:** 2026-07-24 | **ヒート:** 5
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 84.3) · [出力](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)**
+
+### Vox-Style Historical Collage Animation
+
+> An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
+
+[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox-Style Historical Collage Animation">](https://goodcase.ai/cases/vox-d5c357d5e75d)
+
+**作者:** @MrLarus | **出典:** [元投稿](https://x.com/MrLarus/status/2076610529615831169) | **公開日:** 2026-07-13 | **ヒート:** 5
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
+
+动画要求：
+
+保持 paper cutout / scrapbook / stop-motion 拼贴风
+所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
+动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
+
+可以加入的小动作：
+
+箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
+
+注意：
+不要整张画面乱晃
+主构图和重要文字保持稳定
+每个画面有一个“明确的小事件”，而不是纯漂浮
+
+最后：
+把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
+整体节奏控制在每 4–5 秒切换一个知识点。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vox-d5c357d5e75d)**
+
 ### Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video
 
 > A highly detailed prompt for a Japanese anime-style cooking video featuring pork-wrapped asparagus. It covers visual consistency, kitchen physics, and a specific scene sequence to ensure the animation is both realistic and appetizing.
 
 [<img src="https://media.goodcase.ai/media/poster/case-5c4dcdbf9e99.jpg" width="600" alt="Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video">](https://goodcase.ai/cases/case-5c4dcdbf9e99)
 
-**作者:** @tanabe_fragm | **出典:** [元投稿](https://x.com/tanabe_fragm/status/2076508810190225846) | **公開日:** 2026-07-13 | **ヒート:** 6
+**作者:** @tanabe_fragm | **出典:** [元投稿](https://x.com/tanabe_fragm/status/2076508810190225846) | **公開日:** 2026-07-13 | **ヒート:** 5
 
 <details>
 <summary><b>プロンプト全文（70 行、クリックで展開）</b></summary>
@@ -634,62 +770,6 @@ NO UI ELEMENTS. NO SPEECH BUBBLES.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-5c4dcdbf9e99)**
-
-### Retro Soda Ad Crimson Cola
-
-> An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
-
-[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="Retro Soda Ad Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)
-
-**作者:** @DjajaYerry75 | **出典:** [元投稿](https://x.com/DjajaYerry75/status/2080666062690140315) | **公開日:** 2026-07-24 | **ヒート:** 5
-
-**安定度:** 84/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 84.3) · [出力](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)**
-
-### Vox-Style Historical Collage Animation
-
-> An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
-
-[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox-Style Historical Collage Animation">](https://goodcase.ai/cases/vox-d5c357d5e75d)
-
-**作者:** @MrLarus | **出典:** [元投稿](https://x.com/MrLarus/status/2076610529615831169) | **公開日:** 2026-07-13 | **ヒート:** 5
-
-<details>
-<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
-
-```
-参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
-
-动画要求：
-
-保持 paper cutout / scrapbook / stop-motion 拼贴风
-所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
-动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
-
-可以加入的小动作：
-
-箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
-
-注意：
-不要整张画面乱晃
-主构图和重要文字保持稳定
-每个画面有一个“明确的小事件”，而不是纯漂浮
-
-最后：
-把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
-整体节奏控制在每 4–5 秒切换一个知识点。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vox-d5c357d5e75d)**
 
 ### Cinematic Anime Martial Arts Training Ground
 

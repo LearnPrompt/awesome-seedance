@@ -134,7 +134,7 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 ## E6 · POV: The Turkish Ice Cream Guy Had Other Plans
 
-- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 75
+- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) · [finished media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) · [poster](https://media.goodcase.ai/cases/e9b53af60cec.jpg) · [original source](https://x.com/sophiaparkerr_/status/2096542775709692255)
 - Summary: POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
 

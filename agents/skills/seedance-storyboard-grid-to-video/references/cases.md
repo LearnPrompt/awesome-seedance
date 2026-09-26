@@ -133,7 +133,7 @@ Create a 12-second 16:9 animated croissant-making sequence that follows the 8-sh
 
 ## E3 · Survival Run Through a Collapsing Kuala Lumpur
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 78
+- Seedance 2.5 · creator: @Xaroon_x · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) · [finished media](https://media.goodcase.ai/cases/1634f009339b.mp4) · [poster](https://media.goodcase.ai/cases/a4fc7d20210a.jpg) · [original source](https://x.com/Xaroon_x/status/2097267405399396457)
 - Summary: When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
 
@@ -214,7 +214,7 @@ Use the storyboard grid Image1 as the exact visual reference for character desig
 
 ## E5 · Ultra-Real Summer Home Video From a Master Reference
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 65
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2) · [finished media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2096554912448659864)
 - Summary: Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…
 
@@ -372,7 +372,7 @@ Ultra-realistic snack commercial, detailed crispy texture, realistic seasoning p
 
 ## E7 · 3D Baking Animation Sequence
 
-- Seedance 2.0 · creator: @HaniaAi12 · heat: 27
+- Seedance 2.0 · creator: @HaniaAi12 · heat: 26
 - Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
 - Summary: 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
 

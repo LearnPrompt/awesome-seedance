@@ -27,7 +27,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 ## E3 · GPT Image 2 + Seedance From the Deep: One Jet, One Shot
 
-- Seedance 2.0 · creator: @Weeleey6 · heat: 83 · stability: 84
+- Seedance 2.0 · creator: @Weeleey6 · heat: 84 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168) · [finished media](https://media.goodcase.ai/media/video/weeleey6-seedance-ai-b03a5481e168.mp4) · [poster](https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg) · [original source](https://x.com/Weeleey6/status/2089244905960821226)
 - Summary: FROM THE DEEP - GPT Image 2 x Seedance 2.0 It rose from the bay to tear the city apart. One jet, one shot, one shot to s
 
@@ -56,7 +56,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 ## E4 · Apocalyptic Dragon-Rider Strikes the Armored Giant
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 78 · stability: 80
+- Seedance 2.0 · creator: @Zyrellix · heat: 79 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
 - Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
 
@@ -76,7 +76,7 @@ A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern ur
 
 ## E6 · Lighthouse Keeper and Sea Orbs in the Foggy Night
 
-- Seedance 2.5 · creator: @SyntheSarah · heat: 64
+- Seedance 2.5 · creator: @SyntheSarah · heat: 65
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-weathered-old-lighthouse-keeper-stands-on-a-foggy-cliff-at-night-f581948aed80) · [finished media](https://media.goodcase.ai/cases/9f36a4bf8a47.mp4) · [poster](https://media.goodcase.ai/cases/69af52ca8c67.jpg) · [original source](https://x.com/SyntheSarah/status/2097182529564365135)
 - Summary: What if the ocean came alive after midnight? Created with Seedance 2.5, a cinematic journey into the unknown where glowing waters and mysterious lights guide th…
 
