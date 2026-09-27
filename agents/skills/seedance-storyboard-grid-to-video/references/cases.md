@@ -133,7 +133,7 @@ Create a 12-second 16:9 animated croissant-making sequence that follows the 8-sh
 
 ## E3 · Survival Run Through a Collapsing Kuala Lumpur
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 79
+- Seedance 2.5 · creator: @Xaroon_x · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) · [finished media](https://media.goodcase.ai/cases/1634f009339b.mp4) · [poster](https://media.goodcase.ai/cases/a4fc7d20210a.jpg) · [original source](https://x.com/Xaroon_x/status/2097267405399396457)
 - Summary: When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
 
@@ -214,7 +214,7 @@ Use the storyboard grid Image1 as the exact visual reference for character desig
 
 ## E5 · Ultra-Real Summer Home Video From a Master Reference
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 66
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 65
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2) · [finished media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2096554912448659864)
 - Summary: Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…
 
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · High-Energy Spicy Potato Chips Commercial Storyboard
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 32 · stability: 82
+- Seedance 2.5 · creator: @Strength04_X · heat: 31 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
 - Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
 

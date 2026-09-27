@@ -113,7 +113,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E4 · First-Person Midair Assembly of a Black Lamborghini
 
-- Seedance 2.5 · creator: @MissDelulu9 · heat: 46
+- Seedance 2.5 · creator: @MissDelulu9 · heat: 45
 - Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) · [finished media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) · [poster](https://media.goodcase.ai/cases/4da7c433c3b6.jpg) · [original source](https://x.com/MissDelulu9/status/2091423578197737772)
 - Summary: What if you could assemble a supercar with your mind? 👀 Made with Seedance 2.5 using @atlas_cloud_ai #AtlasCloud Prompt
 
@@ -162,7 +162,7 @@ Create a 10-second photorealistic cinematic motorcycle commercial featuring a yo
 
 ## E6 · Silver-Haired Rider's Neon Highway Escape
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 32 · stability: 87
+- Seedance 2.0 · creator: @Zyrellix · heat: 31 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-e2b9d262ff6b.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg) · [original source](https://x.com/Zyrellix/status/2093340253755232681)
 - Summary: Speed, neon and chaos collide A futuristic rider takes on a massive zombie horde in a high octane cinematic chase. Made
 

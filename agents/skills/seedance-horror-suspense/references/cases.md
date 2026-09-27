@@ -93,7 +93,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E3 · Post-Apocalyptic Korean Rooftop Horror
 
-- Seedance 2.0 · creator: @doctorwasif · heat: 75 · stability: 76
+- Seedance 2.0 · creator: @doctorwasif · heat: 74 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-b529ffbdfd9a) · [finished media](https://media.goodcase.ai/cases/f957750571e1.mp4) · [poster](https://media.goodcase.ai/cases/eaeddab55dea.jpg) · [original source](https://x.com/doctorwasif/status/2090305873373810874)
 - Summary: 一个多序列恐怖提示词，用于在韩国天台拍摄僵尸变异场景，包含激烈的动作和电影级运镜。
 
@@ -152,7 +152,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E5 · Candlelit Exorcism Ritual in a Traditional Korean House
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 69
+- Seedance 2.5 · creator: @doctorwasif · heat: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) · [finished media](https://media.goodcase.ai/cases/0b45e6994cdf.mp4) · [poster](https://media.goodcase.ai/cases/52e979f23a9f.jpg) · [original source](https://x.com/doctorwasif/status/2097533759944090052)
 - Summary: 30 seconds of pure Korean folk horror. Made with Seedance 2.5 on @openart_ai Prompt: 30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face …
 

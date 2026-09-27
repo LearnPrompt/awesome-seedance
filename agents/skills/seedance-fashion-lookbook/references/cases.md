@@ -226,7 +226,7 @@ Prompt🔽
 
 ## E8 · Red-Haired Girl's Lip Oil Claw Machine Challenge
 
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 59
+- Seedance 2.0 · creator: @AIwithNatalia · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-7890280c705d.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg) · [original source](https://x.com/AIwithNatalia/status/2094428843214037102)
 - Summary: POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
 

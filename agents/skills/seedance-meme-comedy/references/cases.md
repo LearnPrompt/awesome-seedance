@@ -103,7 +103,7 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 
 ## E5 · Surreal Hotel Pool Scale Illusion
 
-- Seedance 2.0 · creator: @YourAlphaMom · heat: 84 · stability: 83
+- Seedance 2.0 · creator: @YourAlphaMom · heat: 83 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-142119be6421) · [finished media](https://media.goodcase.ai/media/video/case-142119be6421.mp4) · [poster](https://media.goodcase.ai/media/poster/case-142119be6421.jpg) · [original source](https://x.com/YourAlphaMom/status/2088749172543410403)
 - Summary: 一个荒诞的超现实喜剧场景提示词，描绘了比例失调的画面：一名普通男子进入泳池，踩在了一位沉在水中的巨型女性脸上。
 
@@ -134,7 +134,7 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 ## E6 · POV: The Turkish Ice Cream Guy Had Other Plans
 
-- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 76
+- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) · [finished media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) · [poster](https://media.goodcase.ai/cases/e9b53af60cec.jpg) · [original source](https://x.com/sophiaparkerr_/status/2096542775709692255)
 - Summary: POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
 

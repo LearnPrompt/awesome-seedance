@@ -27,7 +27,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 ## E3 · GPT Image 2 + Seedance From the Deep: One Jet, One Shot
 
-- Seedance 2.0 · creator: @Weeleey6 · heat: 84 · stability: 84
+- Seedance 2.0 · creator: @Weeleey6 · heat: 83 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168) · [finished media](https://media.goodcase.ai/media/video/weeleey6-seedance-ai-b03a5481e168.mp4) · [poster](https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg) · [original source](https://x.com/Weeleey6/status/2089244905960821226)
 - Summary: FROM THE DEEP - GPT Image 2 x Seedance 2.0 It rose from the bay to tear the city apart. One jet, one shot, one shot to s
 
@@ -110,7 +110,7 @@ The camera continues rising smoothly along the skyscraper's reflective glass sur
 
 ## E8 · Red-Eyed Sorceress Shatters a Castle with a Colossal Boulder
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 57 · stability: 81
+- Seedance 2.5 · creator: @laviniavelle · heat: 56 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/laviniavelle-seedance-ai-2e945550d885) · [finished media](https://media.goodcase.ai/cases/2fa159db7ee5.mp4) · [poster](https://media.goodcase.ai/cases/2037ea91856a.jpg) · [original source](https://x.com/laviniavelle/status/2094262382478737792)
 - Summary: She controls the battlefield with the power of her mind One gesture and the fortress falls. Made With Seedance 2.5 on @i
 

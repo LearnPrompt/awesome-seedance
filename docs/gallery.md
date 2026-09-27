@@ -8,9 +8,9 @@ All 593 cases with full prompts, split per Seedance version and paged so GitHub 
 
 - [Seedance 2.5 · Part 1/5](./gallery-seedance-2-5-part-1.md) - cases 1–79 of 365.
 - [Seedance 2.5 · Part 2/5](./gallery-seedance-2-5-part-2.md) - cases 80–181 of 365.
-- [Seedance 2.5 · Part 3/5](./gallery-seedance-2-5-part-3.md) - cases 182–276 of 365.
-- [Seedance 2.5 · Part 4/5](./gallery-seedance-2-5-part-4.md) - cases 277–345 of 365.
-- [Seedance 2.5 · Part 5/5](./gallery-seedance-2-5-part-5.md) - cases 346–365 of 365.
+- [Seedance 2.5 · Part 3/5](./gallery-seedance-2-5-part-3.md) - cases 182–275 of 365.
+- [Seedance 2.5 · Part 4/5](./gallery-seedance-2-5-part-4.md) - cases 276–344 of 365.
+- [Seedance 2.5 · Part 5/5](./gallery-seedance-2-5-part-5.md) - cases 345–365 of 365.
 - [Seedance 2.0 · Part 1/3](./gallery-seedance-2-0-part-1.md) - cases 1–109 of 228.
 - [Seedance 2.0 · Part 2/3](./gallery-seedance-2-0-part-2.md) - cases 110–197 of 228.
 - [Seedance 2.0 · Part 3/3](./gallery-seedance-2-0-part-3.md) - cases 198–228 of 228.

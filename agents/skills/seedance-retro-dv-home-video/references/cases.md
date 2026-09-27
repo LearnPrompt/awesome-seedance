@@ -82,7 +82,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 ## E3 · POV: Korean Baddie Meets Her Boyfriend in the US
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 93
+- Seedance 2.5 · creator: @AIwithkhan · heat: 92
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf) · [finished media](https://media.goodcase.ai/media/video/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg) · [original source](https://x.com/AIwithkhan/status/2094997895187673489)
 - Summary: POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
 
@@ -227,7 +227,7 @@ Natural human reactions, imperfect timing, realistic physics, consistent objects
 
 ## E6 · 韩国女生户外泳池 Vlog
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 83
+- Seedance 2.5 · creator: @Strength04_X · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/vlog-9decd38e99a4) · [finished media](https://media.goodcase.ai/cases/1ce41bade077.mp4) · [poster](https://media.goodcase.ai/cases/68ae69f99fe4.jpg) · [original source](https://x.com/Strength04_X/status/2091737661061095648)
 - Summary: 一段充满 2000 年代怀旧 DV 摄像机风格的 Vlog，记录了一位年轻韩国女生在安静的社区泳池享受阳光午后的时光。
 

@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 88
+- Seedance 2.5 · creator: @eshal__ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 75 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 74 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 
@@ -147,7 +147,7 @@ Scene 8 (27-30s) — Fireside Night Reflection: A cabin interior at night, firep
 
 ## E8 · Young Woman Films a Spring Mountain View in Japan
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 55 · stability: 88
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 54 · stability: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
 - Summary: A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea
 
