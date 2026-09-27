@@ -329,9 +329,9 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   const lines = [skillsHeading(lang), ""];
   lines.push(
     t(lang, {
-      en: `A Skill is an installable instruction pack for coding agents (Claude Code, Codex and friends). Install one and just tell your agent what you want: it picks the template, fills the structure, and pulls from the style library to give you several looks at once. ${skills.length} Skills below, plus ${variantCount} creator variants that carry one creator's signature style.`,
-      zh: `Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后直接跟 agent 说你要什么，它自己选模板、填结构，还能调风格库一次给你出好几种画风。下面是 ${skills.length} 个 Skill，另有 ${variantCount} 个创作者变体，带着某位创作者的个人风格。`,
-      ja: `Skill は Claude Code や Codex などのエージェントに入れる指示パックです。入れたあとは作りたいものを伝えるだけで、テンプレート選択、構造の埋め込み、スタイルライブラリからの複数ルック出しまでエージェントが行います。以下に ${skills.length} 個の Skill、さらにクリエイター個人のスタイルを持つ ${variantCount} 個のバリアントがあります。`,
+      en: `A Skill is an installable instruction pack for coding agents (Claude Code, Codex and friends). Template Skills help write case-backed prompts; the production workflow plans assets, generation handoff and video review. ${skills.length} Skills are below, plus ${variantCount} creator variants that carry one creator's signature style.`,
+      zh: `Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 ${skills.length} 个 Skill，另有 ${variantCount} 个创作者变体，带着某位创作者的个人风格。`,
+      ja: `Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に ${skills.length} 個の Skill と、クリエイター個人のスタイルを持つ ${variantCount} 個のバリアントがあります。`,
     })
   );
   lines.push("");
@@ -367,9 +367,9 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   lines.push("");
   lines.push(
     t(lang, {
-      en: `Every install line works with the [skills CLI](https://github.com/vercel-labs/skills). Skills named \`seedance-…\` live in this repo under [agents/skills](./agents/skills): the library Skill carries every template, the single-kind Skills carry one template each with their own case evidence, all regenerated daily from the same data. \`npx seedance-prompt-library install\` also drops the library Skill straight into Claude Code and Codex. More Skills across image, coding and writing live on [goodcase.ai](${moreUrl}).`,
-      zh: `上面每条安装命令都走 [skills CLI](https://github.com/vercel-labs/skills)。名字以 \`seedance-\` 开头的 Skill 就放在本仓的 [agents/skills](./agents/skills) 下：模板库 Skill 带全部模板，单片型 Skill 各带一个模板和它自己的案例证据，每天随数据一起重新生成。模板库 Skill 也可以用 \`npx seedance-prompt-library install\` 一步装进 Claude Code 和 Codex。图像、编程、文案方向的更多 Skill 在 [goodcase.ai](${moreUrl})。`,
-      ja: `各インストールコマンドは [skills CLI](https://github.com/vercel-labs/skills) で動きます。\`seedance-…\` で始まる Skill はこのリポジトリの [agents/skills](./agents/skills) にあり、ライブラリ Skill は全テンプレートを、単一ジャンルの Skill はテンプレート 1 つとそのケース証拠を持ち、毎日同じデータから再生成されます。ライブラリ Skill は \`npx seedance-prompt-library install\` でも Claude Code と Codex に直接入ります。画像、コーディング、ライティング向けの Skill は [goodcase.ai](${moreUrl}) にあります。`,
+      en: `Every install line works with the [skills CLI](https://github.com/vercel-labs/skills). Skills named \`seedance-…\` live in this repo under [agents/skills](./agents/skills): the library and single-kind template Skills are regenerated from case data, while the production workflow is maintained separately. \`npx seedance-prompt-library install\` also drops the library Skill straight into Claude Code and Codex. More Skills across image, coding and writing live on [goodcase.ai](${moreUrl}).`,
+      zh: `上面每条安装命令都走 [skills CLI](https://github.com/vercel-labs/skills)。名字以 \`seedance-\` 开头的 Skill 放在本仓的 [agents/skills](./agents/skills) 下：模板库和单片型 Skill 根据案例数据重新生成，制作工作流 Skill 则单独维护。模板库 Skill 也可以用 \`npx seedance-prompt-library install\` 一步装进 Claude Code 和 Codex。图像、编程、文案方向的更多 Skill 在 [goodcase.ai](${moreUrl})。`,
+      ja: `各インストールコマンドは [skills CLI](https://github.com/vercel-labs/skills) で動きます。\`seedance-…\` で始まる Skill はこのリポジトリの [agents/skills](./agents/skills) にあり、ライブラリと単一ジャンルのテンプレート Skill はケースデータから再生成され、制作ワークフロー Skill は別途保守されます。ライブラリ Skill は \`npx seedance-prompt-library install\` でも Claude Code と Codex に直接入ります。画像、コーディング、ライティング向けの Skill は [goodcase.ai](${moreUrl}) にあります。`,
     })
   );
   return lines.join("\n");
@@ -426,9 +426,9 @@ export function renderStartHere(lang, anchors, counts) {
   lines.push("");
   lines.push(
     t(lang, {
-      en: `**Templates or Skills?** Both are built from the same ${counts.cases} verified cases. They differ in who does the work.`,
-      zh: `**用模板还是用 Skill？** 两者都来自同一批 ${counts.cases} 条已验证案例，区别在于谁来干活。`,
-      ja: `**テンプレートと Skill、どちらを使う？** どちらも同じ ${counts.cases} 件の検証済みケースから作られています。違いは誰が作業するかです。`,
+      en: `**Templates or Skills?** Templates are distilled from ${counts.cases} verified cases. Skills can apply those structures or guide other parts of production.`,
+      zh: `**用模板还是用 Skill？** 模板从 ${counts.cases} 条已验证案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。`,
+      ja: `**テンプレートと Skill、どちらを使う？** テンプレートは ${counts.cases} 件の検証済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。`,
     })
   );
   lines.push("");
@@ -437,22 +437,22 @@ export function renderStartHere(lang, anchors, counts) {
       ["", `[Prompt templates](${anchors.templates})`, `[Skills](${anchors.skills})`],
       ["Who it is for", "Beginners, and anyone who does not want to install anything", "People already working in Claude Code, Codex or another coding agent"],
       ["How you use it", "Copy, replace the [brackets], paste into any AI chat", "One install command, then just tell your agent what you want"],
-      ["What it covers", `${counts.templates} category templates`, `The same templates plus a style library, across ${counts.skills} Skills and creator variants`],
-      ["What you get", "One solid prompt at a time", "Batches of prompts in several visual styles, picked and filled in for you"],
+      ["What it covers", `${counts.templates} category templates`, `Case-backed prompt structures and production workflows across ${counts.skills} Skills and creator variants`],
+      ["What you get", "One solid prompt at a time", "A prompt or a production plan and QA record, depending on the Skill"],
     ],
     zh: [
       ["", `[提示语模板](${anchors.templates})`, `[Skill](${anchors.skills})`],
       ["适合谁", "新手，以及不想装任何东西的人", "已经在用 Claude Code、Codex 这类 agent 的专业用户"],
       ["怎么用", "复制，换掉【】，粘到任意 AI 对话", "一行命令装好，之后直接跟 agent 说需求"],
-      ["覆盖范围", `${counts.templates} 个分类模板`, `同一套模板加风格库，共 ${counts.skills} 个 Skill 与创作者变体`],
-      ["拿到什么", "一次一条靠谱的提示语", "一次一批、多种画风的提示语，模板和结构都替你选好填好"],
+      ["覆盖范围", `${counts.templates} 个分类模板`, `有案例依据的提示语结构和制作工作流，共 ${counts.skills} 个 Skill 与创作者变体`],
+      ["拿到什么", "一次一条靠谱的提示语", "根据所选 Skill，得到提示语，或制作计划与验收记录"],
     ],
     ja: [
       ["", `[プロンプトテンプレート](${anchors.templates})`, `[Skill](${anchors.skills})`],
       ["向いている人", "初心者、何もインストールしたくない人", "すでに Claude Code や Codex などのエージェントを使っている人"],
       ["使い方", "コピーして [角括弧] を置き換え、任意の AI チャットに貼る", "コマンド 1 行で導入し、あとはエージェントに要望を伝えるだけ"],
-      ["カバー範囲", `カテゴリ別テンプレート ${counts.templates} 個`, `同じテンプレートにスタイルライブラリを加えた、${counts.skills} 個の Skill とクリエイター版`],
-      ["得られるもの", "確かなプロンプトを 1 本ずつ", "複数の画風のプロンプトをまとめて。選択と埋め込みはエージェントが代行"],
+      ["カバー範囲", `カテゴリ別テンプレート ${counts.templates} 個`, `ケースに基づくプロンプト構造と制作ワークフロー、計 ${counts.skills} 個の Skill とクリエイター版`],
+      ["得られるもの", "確かなプロンプトを 1 本ずつ", "Skill に応じて、プロンプトまたは制作計画と検証記録"],
     ],
   });
   lines.push(`| ${rows[0].join(" | ")} |`);
