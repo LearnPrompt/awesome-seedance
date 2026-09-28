@@ -261,7 +261,7 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 全 593 ケースのプロンプト全文は `docs/` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:
 
 - Seedance 2.5 - 365 件: [Part 1（1–78 件目）](./docs/gallery-seedance-2-5-part-1.ja.md) · [Part 2（79–178 件目）](./docs/gallery-seedance-2-5-part-2.ja.md) · [Part 3（179–274 件目）](./docs/gallery-seedance-2-5-part-3.ja.md) · [Part 4（275–344 件目）](./docs/gallery-seedance-2-5-part-4.ja.md) · [Part 5（345–365 件目）](./docs/gallery-seedance-2-5-part-5.ja.md)。
-- Seedance 2.0 - 228 件: [Part 1（1–108 件目）](./docs/gallery-seedance-2-0-part-1.ja.md) · [Part 2（109–195 件目）](./docs/gallery-seedance-2-0-part-2.ja.md) · [Part 3（196–228 件目）](./docs/gallery-seedance-2-0-part-3.ja.md)。
+- Seedance 2.0 - 228 件: [Part 1（1–108 件目）](./docs/gallery-seedance-2-0-part-1.ja.md) · [Part 2（109–196 件目）](./docs/gallery-seedance-2-0-part-2.ja.md) · [Part 3（197–228 件目）](./docs/gallery-seedance-2-0-part-3.ja.md)。
 
 ## 🌐 goodcase.ai で閲覧
 
@@ -289,7 +289,7 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 | 作者数                   | 179                   |
 | 他モデルでの再テスト            | 254 件 / 264 回         |
 | 安定度スコア（測定済み）          | 252 件 / 平均 77.9       |
-| 最終更新                  | 2026-09-28            |
+| 最終更新                  | 2026-09-29            |
 | goodcase.ai 全カテゴリ     | 1401 件 / クリエイター 374 人 |
 | goodcase.ai AI 動画     | 759 件                 |
 
