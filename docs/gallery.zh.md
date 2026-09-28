@@ -12,8 +12,8 @@
 - [Seedance 2.5 · 第 4/5 页](./gallery-seedance-2-5-part-4.zh.md) - 第 276–345 条，共 365 条.
 - [Seedance 2.5 · 第 5/5 页](./gallery-seedance-2-5-part-5.zh.md) - 第 346–365 条，共 365 条.
 - [Seedance 2.0 · 第 1/3 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–110 条，共 228 条.
-- [Seedance 2.0 · 第 2/3 页](./gallery-seedance-2-0-part-2.zh.md) - 第 111–198 条，共 228 条.
-- [Seedance 2.0 · 第 3/3 页](./gallery-seedance-2-0-part-3.zh.md) - 第 199–228 条，共 228 条.
+- [Seedance 2.0 · 第 2/3 页](./gallery-seedance-2-0-part-2.zh.md) - 第 111–197 条，共 228 条.
+- [Seedance 2.0 · 第 3/3 页](./gallery-seedance-2-0-part-3.zh.md) - 第 198–228 条，共 228 条.
 
 ## 仓库里的其他入口
 

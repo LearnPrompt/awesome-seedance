@@ -1,6 +1,6 @@
 {
   "meta": {
-    "exportedAt": "2026-09-27T22:04:48.544Z",
+    "exportedAt": "2026-09-28T22:00:54.009Z",
     "caseCount": 593,
     "sections": [
       {
@@ -1393,60 +1393,6 @@
       }
     },
     {
-      "slug": "case-9034732a24fe",
-      "title": "韩国社区夏季摄像机录像",
-      "summary": "旨在唤起韩国普通住宅区夏日下午那种怀旧、亲密家庭录像感的提示词。",
-      "titleEn": "Korean Neighborhood Summer Camcorder Footage",
-      "summaryEn": "A prompt built to evoke the nostalgic, intimate home-video feel of a summer afternoon in an ordinary Korean residential block.",
-      "promptFull": "MAIN SUBJECT\nYoung Korean woman in her early 20s, naturally attractive, realistic skin texture, minimal makeup, relaxed and approachable personality. Long dark hair loosely tied into a messy side ponytail, natural facial expressions. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers, and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions, and overall appearance throughout.\n\nLOCATION\nA quiet older Korean residential neighborhood during a warm summer afternoon. Narrow concrete lanes, low-rise homes, small gardens, bicycles, potted plants, utility poles, overhead wires, old staircases and a small neighborhood fruit stand. No tourist attractions, advertisements, recognizable brands, crowds, or commercial activity.\n\nCAMERA / VISUAL STYLE\nRaw personal footage casually recorded by a friend on an early-2000s consumer camcorder. Natural handheld shake, imperfect framing, autofocus hunting, exposure shifts, slight motion blur, faded colors, soft image detail, mild digital noise and occasional accidental zooms. No stabilization, gimbal movement, drone shots or polished commercial cinematography.\n\n— BALCONY\nShe steps onto a small balcony carrying a watering can. She waters several potted plants, notices a tiny cat near the doorway and smiles. She crouches down and gently pets it before heading downstairs.\n\n— NEIGHBORHOOD WALK\nShe walks through the narrow lane carrying a small reusable bag. A neighbor sitting outside calls her name. She stops, chats casually for a moment and laughs before continuing.\n\n— FRUIT STAND\nShe stops at a tiny roadside fruit stand and chooses a peach. She takes a bite immediately and smiles at the camera. She wipes her hand and continues walking.\n\n— UNEXPECTED MOMENT\nA little neighborhood dog runs past and bumps into her shopping bag. She catches it before anything falls, laughs and watches the dog run away. She looks toward the camcorder with an amused expression.\n\n00:20–00:25 — QUIET STREET\nShe continues walking beneath large trees. A gentle breeze moves her hair and clothes. She stops beside a low concrete wall, finishes the peach and quietly watches the street.\n\n00:25–00:30 — FINAL MOMENT\nShe gets up and starts walking home. After a few steps she turns toward the camera, smiles and says, “See you tomorrow.” She turns back and continues down the lane while the camera follows shakily. The recording suddenly cuts to black.\n\nAUDIO: Natural environmental audio only — birds, insects, footsteps, distant scooters, bicycle bells, wind through trees, neighborhood conversations, dog sounds, fruit stand sounds and subtle camera-handling noise. No music, narration or soundtrack.\n\nFINAL FEEL: A forgotten recording of an ordinary summer afternoon — warm, intimate, nostalgic, slightly imperfect and spontaneous. No posing, exaggerated reactions o",
-      "category": "video",
-      "models": [
-        "Seedance 2.5"
-      ],
-      "creator": "@AIwithkhan",
-      "sourceUrl": "https://x.com/AIwithkhan/status/2092599045248188760",
-      "sourcePublishedAt": "2026-08-26T13:04:25+00:00",
-      "heatScore": 46,
-      "weightedInteractions": 324,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/cases/714446ee611f.mp4",
-      "posterUrl": "https://media.goodcase.ai/cases/1cd78806b56c.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/case-9034732a24fe",
-      "evidenceLevel": "L2",
-      "stabilityScore": 79,
-      "tags": [
-        "youmind",
-        "Seedance 2.5",
-        "prompt-maybe-truncated",
-        "auto-approved",
-        "author-display:Smiling Khan"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [
-        {
-          "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
-          "testedAt": "2026-09-07T14:53:00.148+00:00",
-          "artifactUrl": "https://media.goodcase.ai/retests/case-9034732a24fe/video-minimax-h3-768p-20260907-phase1/generated.mp4",
-          "finalScore": 79.3
-        }
-      ],
-      "retestSummary": {
-        "runs": 1,
-        "models": [
-          "MiniMax H3 Max 768p"
-        ],
-        "latest": {
-          "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
-          "testedAt": "2026-09-07T14:53:00.148+00:00",
-          "artifactUrl": "https://media.goodcase.ai/retests/case-9034732a24fe/video-minimax-h3-768p-20260907-phase1/generated.mp4",
-          "finalScore": 79.3
-        }
-      }
-    },
-    {
       "slug": "case-365f2a3615b1",
       "title": "韩国城市公交站偶遇",
       "summary": "一个逼真的真人实拍提示词，描绘了一名男子在黄昏时分的韩国城市帮助一名女子赶上公交车的场景，画面呈现出手机拍摄的效果。",
@@ -1496,6 +1442,60 @@
           "testedAt": "2026-09-07T14:53:00.148+00:00",
           "artifactUrl": "https://media.goodcase.ai/retests/case-365f2a3615b1/video-minimax-h3-768p-20260907-phase1/generated.mp4",
           "finalScore": 70.4
+        }
+      }
+    },
+    {
+      "slug": "case-9034732a24fe",
+      "title": "韩国社区夏季摄像机录像",
+      "summary": "旨在唤起韩国普通住宅区夏日下午那种怀旧、亲密家庭录像感的提示词。",
+      "titleEn": "Korean Neighborhood Summer Camcorder Footage",
+      "summaryEn": "A prompt built to evoke the nostalgic, intimate home-video feel of a summer afternoon in an ordinary Korean residential block.",
+      "promptFull": "MAIN SUBJECT\nYoung Korean woman in her early 20s, naturally attractive, realistic skin texture, minimal makeup, relaxed and approachable personality. Long dark hair loosely tied into a messy side ponytail, natural facial expressions. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers, and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions, and overall appearance throughout.\n\nLOCATION\nA quiet older Korean residential neighborhood during a warm summer afternoon. Narrow concrete lanes, low-rise homes, small gardens, bicycles, potted plants, utility poles, overhead wires, old staircases and a small neighborhood fruit stand. No tourist attractions, advertisements, recognizable brands, crowds, or commercial activity.\n\nCAMERA / VISUAL STYLE\nRaw personal footage casually recorded by a friend on an early-2000s consumer camcorder. Natural handheld shake, imperfect framing, autofocus hunting, exposure shifts, slight motion blur, faded colors, soft image detail, mild digital noise and occasional accidental zooms. No stabilization, gimbal movement, drone shots or polished commercial cinematography.\n\n— BALCONY\nShe steps onto a small balcony carrying a watering can. She waters several potted plants, notices a tiny cat near the doorway and smiles. She crouches down and gently pets it before heading downstairs.\n\n— NEIGHBORHOOD WALK\nShe walks through the narrow lane carrying a small reusable bag. A neighbor sitting outside calls her name. She stops, chats casually for a moment and laughs before continuing.\n\n— FRUIT STAND\nShe stops at a tiny roadside fruit stand and chooses a peach. She takes a bite immediately and smiles at the camera. She wipes her hand and continues walking.\n\n— UNEXPECTED MOMENT\nA little neighborhood dog runs past and bumps into her shopping bag. She catches it before anything falls, laughs and watches the dog run away. She looks toward the camcorder with an amused expression.\n\n00:20–00:25 — QUIET STREET\nShe continues walking beneath large trees. A gentle breeze moves her hair and clothes. She stops beside a low concrete wall, finishes the peach and quietly watches the street.\n\n00:25–00:30 — FINAL MOMENT\nShe gets up and starts walking home. After a few steps she turns toward the camera, smiles and says, “See you tomorrow.” She turns back and continues down the lane while the camera follows shakily. The recording suddenly cuts to black.\n\nAUDIO: Natural environmental audio only — birds, insects, footsteps, distant scooters, bicycle bells, wind through trees, neighborhood conversations, dog sounds, fruit stand sounds and subtle camera-handling noise. No music, narration or soundtrack.\n\nFINAL FEEL: A forgotten recording of an ordinary summer afternoon — warm, intimate, nostalgic, slightly imperfect and spontaneous. No posing, exaggerated reactions o",
+      "category": "video",
+      "models": [
+        "Seedance 2.5"
+      ],
+      "creator": "@AIwithkhan",
+      "sourceUrl": "https://x.com/AIwithkhan/status/2092599045248188760",
+      "sourcePublishedAt": "2026-08-26T13:04:25+00:00",
+      "heatScore": 45,
+      "weightedInteractions": 324,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/cases/714446ee611f.mp4",
+      "posterUrl": "https://media.goodcase.ai/cases/1cd78806b56c.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/case-9034732a24fe",
+      "evidenceLevel": "L2",
+      "stabilityScore": 79,
+      "tags": [
+        "youmind",
+        "Seedance 2.5",
+        "prompt-maybe-truncated",
+        "auto-approved",
+        "author-display:Smiling Khan"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [
+        {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-07T14:53:00.148+00:00",
+          "artifactUrl": "https://media.goodcase.ai/retests/case-9034732a24fe/video-minimax-h3-768p-20260907-phase1/generated.mp4",
+          "finalScore": 79.3
+        }
+      ],
+      "retestSummary": {
+        "runs": 1,
+        "models": [
+          "MiniMax H3 Max 768p"
+        ],
+        "latest": {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-07T14:53:00.148+00:00",
+          "artifactUrl": "https://media.goodcase.ai/retests/case-9034732a24fe/video-minimax-h3-768p-20260907-phase1/generated.mp4",
+          "finalScore": 79.3
         }
       }
     },
@@ -7331,39 +7331,6 @@
       "retestSummary": null
     },
     {
-      "slug": "case-c32e6c3bb2c5",
-      "title": "电影级动漫魔法剑战",
-      "summary": "一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。",
-      "titleEn": "Cinematic Anime Magic-Sword Battle",
-      "summaryEn": "A highly detailed cinematic animation prompt for an intense 3D toon/cel-style action RPG sword duel featuring floating swords and precise character interactions.",
-      "promptFull": "高品質アニメ映像。高密度3Dトゥーン／セルルックによる映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。8秒の短尺で、浮遊刀の猛攻、防御、回避、反力、包囲、最大衝突を高密度に連結する。\n\n【参照画像と人物固定】\n@1は一人目、キャラクターAの参照画像。\n@2は二人目、キャラクターBの参照画像。\nソース参照画像のキャラクターを参照し、それぞれ同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、武器意匠だけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、分割レイアウトは再現しない。\n二人は全編でそれぞれsame person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴混合、顔の平均化、髪色交換、衣装交換、武器交換、体格変化、別人化、クローン化、分身、追加人物を発生させない。\n\n【世界観と舞台の自動調整】\n戦闘内容、位置関係、動作、力関係、刀数、カメラ構造は固定する。背景、小物、建築様式、床材、天候、照明、色味、粒子、環境エフェクトのみ、@1と@2のキャラクターデザインに合わせて再設計する。\n\n二人の衣装、装飾、武器、素材、模様、固有色、モチーフから、両者が自然に存在できる一つの映画的戦闘舞台を新規構築する。学園都市、宮殿、神殿、庭園、幻想都市、工業施設、近未来空間などから最適な舞台を選ぶ。ただし参照画像の背景は直接コピーしない。\n\n床には反射、水滴、砂塵、雪、花弁、火の粉、魔力粒子など、世界観に適した接触表現を配置する。欄干、柱、ガラス、樹木、機械構造、魔法装置、発光線などの小物は舞台に適したものだけを使う。背景は人物より一段暗くし、顔、シルエット、刀の軌道を明瞭にする。\nキャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。\n\n【画風固定】\n細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。\n\n布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。\n\n【武器固定】\nキャラクターAは手持ち刀一本と、身体の周囲に浮かぶ四本の浮遊刀を使用する。浮遊刀はAの上、下、左、右を囲むように配置する。キャラクターBは手持ち刀一本を使用する。映像全体の刀は合計六本に固定する。\n\n参照画像の武器が刀ではない場合も、その武器の色、素材、意匠、装飾、モチーフを継承した刀へ再設計する。\n浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。\n\n【浮遊刀エフェクト】\n四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面に密着した湾曲残光として発生する。\n\n【力関係】\nキャラクターAは冷静に主導権を握る格上。四本の浮遊刀を時間差で操りながら、自身も手持ち刀で前進する。キャラクターBは高い剣技で猛攻を弾き、避け、受け流し、反撃を試みるが、攻撃方向が連続して変化するため徐々に押される。Aだけが前進し、Bだけが後退する非対称な移動を維持する。\n【カメラ】\n固定横視点ではなく、浮遊刀越しの斜め低角度、Bの肩越し、接触点の近距離、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを使用する。浮遊刀のレンズ前通過、環境粒子、床から跳ねる飛沫、刀光を短い遮蔽ワイプに使う。カメラと背景が回り、人物を無意味に回転させない。\n\n【8秒の動作構成】\nCut 1：\n四本の浮遊刀がAの上下左右に静止した状態から開始。カメラは二本の浮遊刀の間を抜ける斜め低角度で、Aの顔、上半身、装飾、手持ち刀を見せる。Aは静かに前進し、視線だけでBを捉える。直後、右上の浮遊刀が加速し、Bの左肩口へ斜めに飛ぶ。\n\nCut 2：\nBの肩越し。Bは両手の刀で最初の浮遊刀を刀身中央同士の単一接触点で外側へ弾く。金属火花、両者の固有色の魔力火花、環境粒子、反力が発生する。弾かれた刀は弧を描いてAの周囲へ戻る。続いて左下の二本目が床すれすれを走り、Bは低く沈んで紙一重で回避。左上の三本目が斜め上から降下し、Bは刀を返して受け流す。\n\nCut 3：\n環境粒子の遮蔽からAを斜め前方で映す。Aは止まらず踏み込み、手持ち刀で右下から左上へ斬り上げる。Bは後退しながら受け止める。二本の手持ち刀が一点で接触した瞬間、右下の浮遊刀がBの側面から侵入する。Bは肩を引いて避けるが、姿勢が横へ流れる。Aは接触を滑らせて解除し、さらに懐へ入る。\nCut 4：\n接触点を中心にカメラが約60度回り込む。Bは反力を利用して返し斬りを放つが、Aの浮遊刀一本が側面から接触し、Bの刀を上へ逸らす。Aは手持ち刀を左上から右下へ振り下ろす。Bは急いで受け止めるが、足元が滑り後方へ押される。残る三本の浮遊刀がBの左右と上方へ散開し、退路を狭める包囲構図を作る。\n\nCut 5：\n斜め低空カメラ。左手前に前進するA、右奥に押し込まれるB。Bは最後の反撃として踏み込む。Aも前進を止めず、左下から右上へ上昇斬りを放つ。二本の手持ち刀が中央の単一接触点で明瞭なX字を形成する。浮遊刀一本がBの刀身へ側面から追加圧力を加え、残る三本は周囲で次の斬撃姿勢を取る。\nAの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱核の外側に巨大な二色のX字色面を形成する。放射状の衝撃波、環境粒子、蒸気、火花が広がる。Bの後ろ足が滑り、膝が沈み、両腕と肩の防御線が崩れ始める。Aは低い重心のまま前へ力を通す。X字の発光が最大まで拡大し、Bの防御崩壊が始まった瞬間に即カット。戦闘継続。\n\n【重大NG】\n固定横の格闘ゲーム視点、左右対称の全身構図、鏡写しの同時ダッシュ、長い助走、長い鍔迫り合い、無意味な連続回転は禁止。刀はAの手持ち一本＋浮遊四本、Bの一本、合計六本を固定。浮遊刀の増殖、消失、融合、変形、身体への貫通、切っ先だけの独立回転は禁止。手で刀身を握らない。独立レーザー、第三の光線、二色融合、全画面白飛びなし。追加人物、文字、字幕、ロゴ、透かし、UI、音響生成なし。",
-      "category": "video",
-      "models": [
-        "Seedance 2.0"
-      ],
-      "creator": "@haruuraeadss",
-      "sourceUrl": "https://x.com/haruuraeadss/status/2080539077603172597",
-      "sourcePublishedAt": "2026-07-24T06:22:25+00:00",
-      "heatScore": 7,
-      "weightedInteractions": 15,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4",
-      "posterUrl": "https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/case-c32e6c3bb2c5",
-      "evidenceLevel": "L1",
-      "stabilityScore": 0,
-      "tags": [
-        "youmind",
-        "Seedance 2.0",
-        "human-reviewed",
-        "author-display:mayv@簡単プロ級プロンプト公開中！"
-      ],
-      "contentLocale": "zh-CN",
-      "provenanceVerified": true,
-      "retests": [],
-      "retestSummary": null
-    },
-    {
       "slug": "case-24775a8dc979",
       "title": "音乐视频编舞与身份设定",
       "summary": "一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。",
@@ -7641,6 +7608,39 @@
       "mediaUrl": "https://media.goodcase.ai/media/video/case-79acf1a3e8a6.mp4",
       "posterUrl": "https://media.goodcase.ai/media/poster/case-79acf1a3e8a6.jpg",
       "goodcaseUrl": "https://goodcase.ai/cases/case-79acf1a3e8a6",
+      "evidenceLevel": "L1",
+      "stabilityScore": 0,
+      "tags": [
+        "youmind",
+        "Seedance 2.0",
+        "human-reviewed",
+        "author-display:mayv@簡単プロ級プロンプト公開中！"
+      ],
+      "contentLocale": "zh-CN",
+      "provenanceVerified": true,
+      "retests": [],
+      "retestSummary": null
+    },
+    {
+      "slug": "case-c32e6c3bb2c5",
+      "title": "电影级动漫魔法剑战",
+      "summary": "一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。",
+      "titleEn": "Cinematic Anime Magic-Sword Battle",
+      "summaryEn": "A highly detailed cinematic animation prompt for an intense 3D toon/cel-style action RPG sword duel featuring floating swords and precise character interactions.",
+      "promptFull": "高品質アニメ映像。高密度3Dトゥーン／セルルックによる映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。8秒の短尺で、浮遊刀の猛攻、防御、回避、反力、包囲、最大衝突を高密度に連結する。\n\n【参照画像と人物固定】\n@1は一人目、キャラクターAの参照画像。\n@2は二人目、キャラクターBの参照画像。\nソース参照画像のキャラクターを参照し、それぞれ同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、武器意匠だけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、分割レイアウトは再現しない。\n二人は全編でそれぞれsame person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴混合、顔の平均化、髪色交換、衣装交換、武器交換、体格変化、別人化、クローン化、分身、追加人物を発生させない。\n\n【世界観と舞台の自動調整】\n戦闘内容、位置関係、動作、力関係、刀数、カメラ構造は固定する。背景、小物、建築様式、床材、天候、照明、色味、粒子、環境エフェクトのみ、@1と@2のキャラクターデザインに合わせて再設計する。\n\n二人の衣装、装飾、武器、素材、模様、固有色、モチーフから、両者が自然に存在できる一つの映画的戦闘舞台を新規構築する。学園都市、宮殿、神殿、庭園、幻想都市、工業施設、近未来空間などから最適な舞台を選ぶ。ただし参照画像の背景は直接コピーしない。\n\n床には反射、水滴、砂塵、雪、花弁、火の粉、魔力粒子など、世界観に適した接触表現を配置する。欄干、柱、ガラス、樹木、機械構造、魔法装置、発光線などの小物は舞台に適したものだけを使う。背景は人物より一段暗くし、顔、シルエット、刀の軌道を明瞭にする。\nキャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。\n\n【画風固定】\n細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。\n\n布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。\n\n【武器固定】\nキャラクターAは手持ち刀一本と、身体の周囲に浮かぶ四本の浮遊刀を使用する。浮遊刀はAの上、下、左、右を囲むように配置する。キャラクターBは手持ち刀一本を使用する。映像全体の刀は合計六本に固定する。\n\n参照画像の武器が刀ではない場合も、その武器の色、素材、意匠、装飾、モチーフを継承した刀へ再設計する。\n浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。\n\n【浮遊刀エフェクト】\n四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面に密着した湾曲残光として発生する。\n\n【力関係】\nキャラクターAは冷静に主導権を握る格上。四本の浮遊刀を時間差で操りながら、自身も手持ち刀で前進する。キャラクターBは高い剣技で猛攻を弾き、避け、受け流し、反撃を試みるが、攻撃方向が連続して変化するため徐々に押される。Aだけが前進し、Bだけが後退する非対称な移動を維持する。\n【カメラ】\n固定横視点ではなく、浮遊刀越しの斜め低角度、Bの肩越し、接触点の近距離、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを使用する。浮遊刀のレンズ前通過、環境粒子、床から跳ねる飛沫、刀光を短い遮蔽ワイプに使う。カメラと背景が回り、人物を無意味に回転させない。\n\n【8秒の動作構成】\nCut 1：\n四本の浮遊刀がAの上下左右に静止した状態から開始。カメラは二本の浮遊刀の間を抜ける斜め低角度で、Aの顔、上半身、装飾、手持ち刀を見せる。Aは静かに前進し、視線だけでBを捉える。直後、右上の浮遊刀が加速し、Bの左肩口へ斜めに飛ぶ。\n\nCut 2：\nBの肩越し。Bは両手の刀で最初の浮遊刀を刀身中央同士の単一接触点で外側へ弾く。金属火花、両者の固有色の魔力火花、環境粒子、反力が発生する。弾かれた刀は弧を描いてAの周囲へ戻る。続いて左下の二本目が床すれすれを走り、Bは低く沈んで紙一重で回避。左上の三本目が斜め上から降下し、Bは刀を返して受け流す。\n\nCut 3：\n環境粒子の遮蔽からAを斜め前方で映す。Aは止まらず踏み込み、手持ち刀で右下から左上へ斬り上げる。Bは後退しながら受け止める。二本の手持ち刀が一点で接触した瞬間、右下の浮遊刀がBの側面から侵入する。Bは肩を引いて避けるが、姿勢が横へ流れる。Aは接触を滑らせて解除し、さらに懐へ入る。\nCut 4：\n接触点を中心にカメラが約60度回り込む。Bは反力を利用して返し斬りを放つが、Aの浮遊刀一本が側面から接触し、Bの刀を上へ逸らす。Aは手持ち刀を左上から右下へ振り下ろす。Bは急いで受け止めるが、足元が滑り後方へ押される。残る三本の浮遊刀がBの左右と上方へ散開し、退路を狭める包囲構図を作る。\n\nCut 5：\n斜め低空カメラ。左手前に前進するA、右奥に押し込まれるB。Bは最後の反撃として踏み込む。Aも前進を止めず、左下から右上へ上昇斬りを放つ。二本の手持ち刀が中央の単一接触点で明瞭なX字を形成する。浮遊刀一本がBの刀身へ側面から追加圧力を加え、残る三本は周囲で次の斬撃姿勢を取る。\nAの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱核の外側に巨大な二色のX字色面を形成する。放射状の衝撃波、環境粒子、蒸気、火花が広がる。Bの後ろ足が滑り、膝が沈み、両腕と肩の防御線が崩れ始める。Aは低い重心のまま前へ力を通す。X字の発光が最大まで拡大し、Bの防御崩壊が始まった瞬間に即カット。戦闘継続。\n\n【重大NG】\n固定横の格闘ゲーム視点、左右対称の全身構図、鏡写しの同時ダッシュ、長い助走、長い鍔迫り合い、無意味な連続回転は禁止。刀はAの手持ち一本＋浮遊四本、Bの一本、合計六本を固定。浮遊刀の増殖、消失、融合、変形、身体への貫通、切っ先だけの独立回転は禁止。手で刀身を握らない。独立レーザー、第三の光線、二色融合、全画面白飛びなし。追加人物、文字、字幕、ロゴ、透かし、UI、音響生成なし。",
+      "category": "video",
+      "models": [
+        "Seedance 2.0"
+      ],
+      "creator": "@haruuraeadss",
+      "sourceUrl": "https://x.com/haruuraeadss/status/2080539077603172597",
+      "sourcePublishedAt": "2026-07-24T06:22:25+00:00",
+      "heatScore": 6,
+      "weightedInteractions": 15,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/media/video/case-c32e6c3bb2c5.mp4",
+      "posterUrl": "https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/case-c32e6c3bb2c5",
       "evidenceLevel": "L1",
       "stabilityScore": 0,
       "tags": [
@@ -11815,6 +11815,60 @@
       }
     },
     {
+      "slug": "aiwithkhan-seedance-ai-f1a5db78823b",
+      "title": "夏日巷弄追气球",
+      "summary": "Unexpected things do happen 😄 Babe this is Seedance 2.5 not a slop Hollywood scene Prompt : Young Korean woman, early 2",
+      "titleEn": "Chasing a Balloon Through a Summer Alley",
+      "summaryEn": "Unexpected things do happen 😄 Babe this is Seedance 2.5 not a slop Hollywood scene Prompt : Young Korean woman, early 2",
+      "promptFull": "Young Korean woman, early 20s, natural appearance, fitted pastel-pink crop top, loose white pajama pants, black sneakers, simple silver necklace, black wavy hair tied into a messy side ponytail. Realistic skin, minimal makeup and completely consistent identity.\n\nOlder Korean residential neighborhood during a bright summer afternoon. Narrow alleys, small gardens, bicycles, concrete houses, utility poles and leafy trees.\n\nEarly-2000s handheld DV camcorder operated by a friend. Strong camera shake, drifting composition, autofocus hunting, faded colors, exposure shifts, motion blur and accidental zooms.\n\nShe leaves a tiny neighborhood shop holding a colorful balloon.\n\nShe walks happily down the lane while casually talking to her friend behind the camera.\n\nA sudden gust pulls the balloon string from her hand.\n\nShe looks up in surprise as the balloon floats away.\n\nShe starts running after it while laughing.\n\nThe balloon gets caught on a low tree branch.\n\nShe reaches up, jumps once and manages to pull it free.\n\nShe holds it tightly this time and laughs at herself.\n\nShe looks directly into the camera and says, “Not losing this one.”\n\nShe continues walking home while holding the balloon as the camera follows shakily behind.\n\nAudio: Wind, balloon movement, footsteps, birds, distant children, bicycles and natural neighborhood sounds. No music, no narration.\n\nBright summer sunlight, nostalgic early-2000s DV colors, realistic wind and balloon physics, spontaneous humor and authentic home-video energy.",
+      "category": "video",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "@AIwithkhan",
+      "sourceUrl": "https://x.com/AIwithkhan/status/2092832135266922778",
+      "sourcePublishedAt": "2026-08-27T04:30:38+00:00",
+      "heatScore": 80,
+      "weightedInteractions": 483,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-f1a5db78823b.mp4",
+      "posterUrl": "https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-f1a5db78823b.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/aiwithkhan-seedance-ai-f1a5db78823b",
+      "evidenceLevel": "L2",
+      "stabilityScore": 84,
+      "tags": [
+        "source-x-socialdata",
+        "query-keyword-en",
+        "prompt-public",
+        "trial-x-socialdata",
+        "auto-approved"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [
+        {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-07T14:53:00.148+00:00",
+          "artifactUrl": "https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-f1a5db78823b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
+          "finalScore": 83.6
+        }
+      ],
+      "retestSummary": {
+        "runs": 1,
+        "models": [
+          "MiniMax H3 Max 768p"
+        ],
+        "latest": {
+          "model": "MiniMax H3 Max 768p",
+          "verdict": "reproduced",
+          "testedAt": "2026-09-07T14:53:00.148+00:00",
+          "artifactUrl": "https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-f1a5db78823b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
+          "finalScore": 83.6
+        }
+      }
+    },
+    {
       "slug": "seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e",
       "title": "模特与穿搭单品同步旋转展示",
       "summary": "Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…",
@@ -12056,60 +12110,6 @@
       "provenanceVerified": true,
       "retests": [],
       "retestSummary": null
-    },
-    {
-      "slug": "aiwithkhan-seedance-ai-f1a5db78823b",
-      "title": "夏日巷弄追气球",
-      "summary": "Unexpected things do happen 😄 Babe this is Seedance 2.5 not a slop Hollywood scene Prompt : Young Korean woman, early 2",
-      "titleEn": "Chasing a Balloon Through a Summer Alley",
-      "summaryEn": "Unexpected things do happen 😄 Babe this is Seedance 2.5 not a slop Hollywood scene Prompt : Young Korean woman, early 2",
-      "promptFull": "Young Korean woman, early 20s, natural appearance, fitted pastel-pink crop top, loose white pajama pants, black sneakers, simple silver necklace, black wavy hair tied into a messy side ponytail. Realistic skin, minimal makeup and completely consistent identity.\n\nOlder Korean residential neighborhood during a bright summer afternoon. Narrow alleys, small gardens, bicycles, concrete houses, utility poles and leafy trees.\n\nEarly-2000s handheld DV camcorder operated by a friend. Strong camera shake, drifting composition, autofocus hunting, faded colors, exposure shifts, motion blur and accidental zooms.\n\nShe leaves a tiny neighborhood shop holding a colorful balloon.\n\nShe walks happily down the lane while casually talking to her friend behind the camera.\n\nA sudden gust pulls the balloon string from her hand.\n\nShe looks up in surprise as the balloon floats away.\n\nShe starts running after it while laughing.\n\nThe balloon gets caught on a low tree branch.\n\nShe reaches up, jumps once and manages to pull it free.\n\nShe holds it tightly this time and laughs at herself.\n\nShe looks directly into the camera and says, “Not losing this one.”\n\nShe continues walking home while holding the balloon as the camera follows shakily behind.\n\nAudio: Wind, balloon movement, footsteps, birds, distant children, bicycles and natural neighborhood sounds. No music, no narration.\n\nBright summer sunlight, nostalgic early-2000s DV colors, realistic wind and balloon physics, spontaneous humor and authentic home-video energy.",
-      "category": "video",
-      "models": [
-        "Seedance"
-      ],
-      "creator": "@AIwithkhan",
-      "sourceUrl": "https://x.com/AIwithkhan/status/2092832135266922778",
-      "sourcePublishedAt": "2026-08-27T04:30:38+00:00",
-      "heatScore": 79,
-      "weightedInteractions": 483,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/media/video/aiwithkhan-seedance-ai-f1a5db78823b.mp4",
-      "posterUrl": "https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-f1a5db78823b.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/aiwithkhan-seedance-ai-f1a5db78823b",
-      "evidenceLevel": "L2",
-      "stabilityScore": 84,
-      "tags": [
-        "source-x-socialdata",
-        "query-keyword-en",
-        "prompt-public",
-        "trial-x-socialdata",
-        "auto-approved"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [
-        {
-          "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
-          "testedAt": "2026-09-07T14:53:00.148+00:00",
-          "artifactUrl": "https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-f1a5db78823b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
-          "finalScore": 83.6
-        }
-      ],
-      "retestSummary": {
-        "runs": 1,
-        "models": [
-          "MiniMax H3 Max 768p"
-        ],
-        "latest": {
-          "model": "MiniMax H3 Max 768p",
-          "verdict": "reproduced",
-          "testedAt": "2026-09-07T14:53:00.148+00:00",
-          "artifactUrl": "https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-f1a5db78823b/video-minimax-h3-768p-20260907-phase1/generated.mp4",
-          "finalScore": 83.6
-        }
-      }
     },
     {
       "slug": "zyrellix-seedance-ai-987c5819beca",
@@ -15407,6 +15407,40 @@
       "retestSummary": null
     },
     {
+      "slug": "seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2",
+      "title": "艾莎的欧洲城市夏日漫步",
+      "summary": "Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…",
+      "titleEn": "Ultra-Real Summer Home Video From a Master Reference",
+      "summaryEn": "Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…",
+      "promptFull": "Made with Seedance 2.5 in 1080p\n\nDuration: 30 seconds\nAspect Ratio: 16:9\n\nPrompt \nUltra realistic personal summer home-video featuring Elsa.\n\nUse the provided Master Character Set ONLY for Elsa's identity and physical consistency. Use the provided 7-panel storyboard as the exact visual and chronological guide for the scenes.\n\nDo not copy any pose or layout from the Master Character Set. The storyboard controls the locations, actions, compositions and sequence.\n\nCHARACTER:\nKeep Elsa's exact facial identity, skin tone, hairstyle, body proportions and recognizable appearance consistent throughout the entire video.\n\nShe wears a simple fitted light-colored summer T-shirt, light blue relaxed jeans, casual everyday shoes and a delicate necklace. Keep the wardrobe identical throughout all seven scenes.\n\nThe performance should feel natural and spontaneous, like a real person casually enjoying an ordinary summer afternoon.\n\nVISUAL STYLE:\nUltra-realistic personal home-video footage recorded by a friend.\n\nUse subtle handheld camera movement, imperfect framing, occasional autofocus adjustment, natural exposure variation, mild motion blur, soft digital detail and realistic environmental imperfections.\n\nThe footage should feel intimate and authentic rather than like a commercial or music video.\n\nMaintain natural summer daylight throughout the first scenes, gradually transitioning into warm golden-hour light toward the end.\n\nSHOT 1 — LOCAL BAKERY | 0:00–0:04\n\nElsa steps out of a small charming neighborhood bakery carrying a simple paper bag.\n\nThe bakery has large glass windows, warm interior light, small outdoor plants and a quiet sidewalk.\n\nThe camera is positioned slightly across the street and casually follows her as she exits.\n\nShe gives a subtle natural smile and begins walking.\n\nSHOT 2 — PEDESTRIAN BRIDGE | 0:04–0:08\n\nElsa walks onto an old pedestrian bridge crossing a wide river.\n\nUse a medium-wide handheld tracking perspective.\n\nThe bridge has weathered metal railings, pedestrians in the distance and a calm river flowing below.\n\nTrees, historic residential buildings and an urban skyline appear beyond the river.\n\nA gentle summer breeze moves Elsa's hair naturally.\n\nSHOT 3 — RIVER VIEW PAUSE | 0:08–0:13\n\nElsa stops beside the bridge railing and looks peacefully across the river.\n\nMove into a slower, more intimate composition from slightly behind and to her side.\n\nCapture her relaxed expression, loose hair moving in the breeze and the river stretching into the distance.\n\nLet the moment breathe naturally rather than rushing the shot.\n\nSHOT 4 — SIDEWALK CAFÉ | 0:13–0:17\n\nTransition naturally to a small sidewalk café.\n\nElsa sits at a simple outdoor café table and enjoys a cold drink.\n\nUse a close handheld perspective showing her natural expression, glass, table and surrounding café details.\n\nShe takes a relaxed sip and looks around casually.\n\nThe atmosphere should feel like an ordinary summer afternoon in a charming European city neighborhood.\n\nSHOT 5 — BOOKSTORE | 0:17–0:21\n\nElsa enters a small independent bookstore.\n\nThe camera follows her between tall shelves filled with books.\n\nShe slowly browses the shelves, picks up one book and flips through several pages.\n\nUse a gentle handheld side angle followed by a closer shot of her hands and the open pages.\n\nWarm natural light enters through the bookstore window.\n\nSHOT 6 — GOLDEN-HOUR STREET | 0:21–0:25\n\nElsa leaves the bookstore and continues walking home.\n\nThe afternoon has transitioned into golden hour.\n\nThe camera tracks her from a slightly elevated three-quarter angle as she walks along a tree-lined city boulevard.\n\nWarm sunlight shines through the trees behind her, creating natural lens flare and long shadows.\n\nShe briefly turns her head toward the camera with a relaxed smile before continuing.\n\nSHOT 7 — HOME BALCONY | 0:25–0:30\n\nElsa arrives home and steps onto a quiet balcony overlooking the city.\n\nThe sun is low on the horizon.\n\nShe rests casually against the balcony railing while holding a warm drink.\n\nUse a slow, intimate side-profile composition.\n\nHer hair moves gently in the evening breeze.\n\nBehind her, reveal the beautiful city skyline and rooftops glowing under the fading summer light.\n\nEnd on a peaceful natural moment as Elsa quietly looks across the city.\n\nThe recording ends naturally with a brief hold on the sunset atmosphere.\n\nCAMERA LANGUAGE:\nUse different compositions throughout the seven scenes:\nwide establishing shots, handheld tracking, over-the-shoulder framing, side profile, intimate close-ups and a final scenic reveal.\n\nCamera movement must always feel physically motivated and handheld rather than artificially smooth.\n\nCONTINUITY:\nElsa must remain the exact same person throughout the entire video.\n\nKeep her face, hairstyle, body proportions, clothing, necklace and overall appearance consistent.\n\nMaintain believable geographic and temporal continuity between locations.\n\nAll environmental interactions must follow realistic physics. Hair, clothing, paper bag, drink and surrounding objects should move naturally.\n\nAUDIO:\nUse authentic location sound only.\n\nInclude footsteps, distant conversations, bicycle sounds, light traffic, river ambience, café sounds, subtle bookstore ambience, pages turning, birds, wind through trees and natural city sounds.\n\nNo background music.\nNo narration.\nNo subtitles.\nNo captions.\nNo logos.\nNo watermarks.\n\nFINAL AESTHETIC:\nThe finished video should feel like a genuine personal summer memory captured by a friend—warm, intimate, imperfect and completely believable.\n\nPrioritize realistic human movement, natural expressions, authentic environments, strong visual continuity and the exact seven-scene progression shown in the storyboard.",
+      "category": "video",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "@ElsaSofia__AI",
+      "sourceUrl": "https://x.com/ElsaSofia__AI/status/2096554912448659864",
+      "sourcePublishedAt": "2026-09-06T11:03:37+00:00",
+      "heatScore": 66,
+      "weightedInteractions": 393,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.mp4",
+      "posterUrl": "https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2",
+      "evidenceLevel": "L1",
+      "stabilityScore": 0,
+      "tags": [
+        "source-x-socialdata",
+        "query-keyword-cn",
+        "prompt-public",
+        "trial-x-socialdata",
+        "auto-approved"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [],
+      "retestSummary": null
+    },
+    {
       "slug": "seedance-create-a-15-second-photorealistic-skincare-video-featuring-a-young-korean-woman-202c9f1e5d6e",
       "title": "韩系女子晨光护肤时刻",
       "summary": "Soft skincare, natural beauty, and peaceful vibes. A simple routine captured with a cinematic touch. Created on seedance 2.0 Prompt: Create a 15-second photorea…",
@@ -15534,40 +15568,6 @@
       "tags": [
         "source-x-socialdata",
         "query-keyword-en",
-        "prompt-public",
-        "trial-x-socialdata",
-        "auto-approved"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [],
-      "retestSummary": null
-    },
-    {
-      "slug": "seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2",
-      "title": "艾莎的欧洲城市夏日漫步",
-      "summary": "Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…",
-      "titleEn": "Ultra-Real Summer Home Video From a Master Reference",
-      "summaryEn": "Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…",
-      "promptFull": "Made with Seedance 2.5 in 1080p\n\nDuration: 30 seconds\nAspect Ratio: 16:9\n\nPrompt \nUltra realistic personal summer home-video featuring Elsa.\n\nUse the provided Master Character Set ONLY for Elsa's identity and physical consistency. Use the provided 7-panel storyboard as the exact visual and chronological guide for the scenes.\n\nDo not copy any pose or layout from the Master Character Set. The storyboard controls the locations, actions, compositions and sequence.\n\nCHARACTER:\nKeep Elsa's exact facial identity, skin tone, hairstyle, body proportions and recognizable appearance consistent throughout the entire video.\n\nShe wears a simple fitted light-colored summer T-shirt, light blue relaxed jeans, casual everyday shoes and a delicate necklace. Keep the wardrobe identical throughout all seven scenes.\n\nThe performance should feel natural and spontaneous, like a real person casually enjoying an ordinary summer afternoon.\n\nVISUAL STYLE:\nUltra-realistic personal home-video footage recorded by a friend.\n\nUse subtle handheld camera movement, imperfect framing, occasional autofocus adjustment, natural exposure variation, mild motion blur, soft digital detail and realistic environmental imperfections.\n\nThe footage should feel intimate and authentic rather than like a commercial or music video.\n\nMaintain natural summer daylight throughout the first scenes, gradually transitioning into warm golden-hour light toward the end.\n\nSHOT 1 — LOCAL BAKERY | 0:00–0:04\n\nElsa steps out of a small charming neighborhood bakery carrying a simple paper bag.\n\nThe bakery has large glass windows, warm interior light, small outdoor plants and a quiet sidewalk.\n\nThe camera is positioned slightly across the street and casually follows her as she exits.\n\nShe gives a subtle natural smile and begins walking.\n\nSHOT 2 — PEDESTRIAN BRIDGE | 0:04–0:08\n\nElsa walks onto an old pedestrian bridge crossing a wide river.\n\nUse a medium-wide handheld tracking perspective.\n\nThe bridge has weathered metal railings, pedestrians in the distance and a calm river flowing below.\n\nTrees, historic residential buildings and an urban skyline appear beyond the river.\n\nA gentle summer breeze moves Elsa's hair naturally.\n\nSHOT 3 — RIVER VIEW PAUSE | 0:08–0:13\n\nElsa stops beside the bridge railing and looks peacefully across the river.\n\nMove into a slower, more intimate composition from slightly behind and to her side.\n\nCapture her relaxed expression, loose hair moving in the breeze and the river stretching into the distance.\n\nLet the moment breathe naturally rather than rushing the shot.\n\nSHOT 4 — SIDEWALK CAFÉ | 0:13–0:17\n\nTransition naturally to a small sidewalk café.\n\nElsa sits at a simple outdoor café table and enjoys a cold drink.\n\nUse a close handheld perspective showing her natural expression, glass, table and surrounding café details.\n\nShe takes a relaxed sip and looks around casually.\n\nThe atmosphere should feel like an ordinary summer afternoon in a charming European city neighborhood.\n\nSHOT 5 — BOOKSTORE | 0:17–0:21\n\nElsa enters a small independent bookstore.\n\nThe camera follows her between tall shelves filled with books.\n\nShe slowly browses the shelves, picks up one book and flips through several pages.\n\nUse a gentle handheld side angle followed by a closer shot of her hands and the open pages.\n\nWarm natural light enters through the bookstore window.\n\nSHOT 6 — GOLDEN-HOUR STREET | 0:21–0:25\n\nElsa leaves the bookstore and continues walking home.\n\nThe afternoon has transitioned into golden hour.\n\nThe camera tracks her from a slightly elevated three-quarter angle as she walks along a tree-lined city boulevard.\n\nWarm sunlight shines through the trees behind her, creating natural lens flare and long shadows.\n\nShe briefly turns her head toward the camera with a relaxed smile before continuing.\n\nSHOT 7 — HOME BALCONY | 0:25–0:30\n\nElsa arrives home and steps onto a quiet balcony overlooking the city.\n\nThe sun is low on the horizon.\n\nShe rests casually against the balcony railing while holding a warm drink.\n\nUse a slow, intimate side-profile composition.\n\nHer hair moves gently in the evening breeze.\n\nBehind her, reveal the beautiful city skyline and rooftops glowing under the fading summer light.\n\nEnd on a peaceful natural moment as Elsa quietly looks across the city.\n\nThe recording ends naturally with a brief hold on the sunset atmosphere.\n\nCAMERA LANGUAGE:\nUse different compositions throughout the seven scenes:\nwide establishing shots, handheld tracking, over-the-shoulder framing, side profile, intimate close-ups and a final scenic reveal.\n\nCamera movement must always feel physically motivated and handheld rather than artificially smooth.\n\nCONTINUITY:\nElsa must remain the exact same person throughout the entire video.\n\nKeep her face, hairstyle, body proportions, clothing, necklace and overall appearance consistent.\n\nMaintain believable geographic and temporal continuity between locations.\n\nAll environmental interactions must follow realistic physics. Hair, clothing, paper bag, drink and surrounding objects should move naturally.\n\nAUDIO:\nUse authentic location sound only.\n\nInclude footsteps, distant conversations, bicycle sounds, light traffic, river ambience, café sounds, subtle bookstore ambience, pages turning, birds, wind through trees and natural city sounds.\n\nNo background music.\nNo narration.\nNo subtitles.\nNo captions.\nNo logos.\nNo watermarks.\n\nFINAL AESTHETIC:\nThe finished video should feel like a genuine personal summer memory captured by a friend—warm, intimate, imperfect and completely believable.\n\nPrioritize realistic human movement, natural expressions, authentic environments, strong visual continuity and the exact seven-scene progression shown in the storyboard.",
-      "category": "video",
-      "models": [
-        "Seedance"
-      ],
-      "creator": "@ElsaSofia__AI",
-      "sourceUrl": "https://x.com/ElsaSofia__AI/status/2096554912448659864",
-      "sourcePublishedAt": "2026-09-06T11:03:37+00:00",
-      "heatScore": 65,
-      "weightedInteractions": 393,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.mp4",
-      "posterUrl": "https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2",
-      "evidenceLevel": "L1",
-      "stabilityScore": 0,
-      "tags": [
-        "source-x-socialdata",
-        "query-keyword-cn",
         "prompt-public",
         "trial-x-socialdata",
         "auto-approved"
@@ -18095,6 +18095,40 @@
       }
     },
     {
+      "slug": "seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e",
+      "title": "定格人群中的神秘微笑",
+      "summary": "My STORM is here to give chills Seedance 2.5 on @itsPolloAI Prompt : Create an ultra-realistic cinematic live-action video using the uploaded reference image as…",
+      "titleEn": "A Mysterious Smile in a Frozen Crowd",
+      "summaryEn": "My STORM is here to give chills Seedance 2.5 on @itsPolloAI Prompt : Create an ultra-realistic cinematic live-action video using the uploaded reference image as…",
+      "promptFull": "Create an ultra-realistic cinematic live-action video using the uploaded reference image as the exact visual reference for the woman, her face, hairstyle, outfit, proportions, crowd, environment, lighting, and composition. A young woman with a sleek short dark bob, fitted black turtleneck, black trousers, black shoes, and minimal jewelry walks calmly through a dense crowd. She reaches the center and stops completely still while the surrounding people suddenly begin moving in rapid, perfectly synchronized motion—turning their heads, shifting positions, raising their arms, and stepping in unison. The woman remains completely motionless and expressionless as the chaotic movement suddenly stops, leaving the entire crowd frozen mid-action.\n\nThe woman remains standing perfectly still at the center of the frozen crowd, calmly looking around while every person remains locked in their exact position. The camera slowly pushes closer toward her as the silent crowd stays completely motionless in the background. She then looks directly into the lens and gives a subtle mysterious smile. Photorealistic skin, realistic anatomy, natural lighting, believable physics, shallow depth of field, authentic handheld camera movement, and natural ambient sound. No anime, cartoon, illustration, CGI look, morphing, duplicated people, distorted faces, teleportation, floating objects, exaggerated effects, subtitles, logos, or watermark.",
+      "category": "video",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "@AIwithSynthia",
+      "sourceUrl": "https://x.com/AIwithSynthia/status/2100414408069669001",
+      "sourcePublishedAt": "2026-09-17T02:39:53+00:00",
+      "heatScore": 56,
+      "weightedInteractions": 360,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/cases/0e37d278ba43.mp4",
+      "posterUrl": "https://media.goodcase.ai/cases/15605829a601.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e",
+      "evidenceLevel": "L1",
+      "stabilityScore": 0,
+      "tags": [
+        "source-x-socialdata",
+        "query-keyword-en-videos",
+        "prompt-public",
+        "trial-x-socialdata",
+        "auto-approved"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [],
+      "retestSummary": null
+    },
+    {
       "slug": "seedance-create-a-30-second-ultra-photorealistic-live-action-korean-countryside-lifestyl-46d44b9fcd35",
       "title": "韩国乡村夏日水枪追逐战",
       "summary": "Summer heat, village streets, and a little splash of chaos. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action Korean countrysi…",
@@ -18321,25 +18355,25 @@
       "retestSummary": null
     },
     {
-      "slug": "seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e",
-      "title": "定格人群中的神秘微笑",
-      "summary": "My STORM is here to give chills Seedance 2.5 on @itsPolloAI Prompt : Create an ultra-realistic cinematic live-action video using the uploaded reference image as…",
-      "titleEn": "A Mysterious Smile in a Frozen Crowd",
-      "summaryEn": "My STORM is here to give chills Seedance 2.5 on @itsPolloAI Prompt : Create an ultra-realistic cinematic live-action video using the uploaded reference image as…",
-      "promptFull": "Create an ultra-realistic cinematic live-action video using the uploaded reference image as the exact visual reference for the woman, her face, hairstyle, outfit, proportions, crowd, environment, lighting, and composition. A young woman with a sleek short dark bob, fitted black turtleneck, black trousers, black shoes, and minimal jewelry walks calmly through a dense crowd. She reaches the center and stops completely still while the surrounding people suddenly begin moving in rapid, perfectly synchronized motion—turning their heads, shifting positions, raising their arms, and stepping in unison. The woman remains completely motionless and expressionless as the chaotic movement suddenly stops, leaving the entire crowd frozen mid-action.\n\nThe woman remains standing perfectly still at the center of the frozen crowd, calmly looking around while every person remains locked in their exact position. The camera slowly pushes closer toward her as the silent crowd stays completely motionless in the background. She then looks directly into the lens and gives a subtle mysterious smile. Photorealistic skin, realistic anatomy, natural lighting, believable physics, shallow depth of field, authentic handheld camera movement, and natural ambient sound. No anime, cartoon, illustration, CGI look, morphing, duplicated people, distorted faces, teleportation, floating objects, exaggerated effects, subtitles, logos, or watermark.",
+      "slug": "seedance-create-a-30-second-ultra-realistic-slice-of-life-video-about-a-young-woman-spen-99acdb41e54d",
+      "title": "天台落日前修好旧收音机",
+      "summary": "Made with Seedance 2.5 Prompt: CONCEPT: Create a 30-second ultra-realistic slice-of-life video about a young woman spending a quiet evening on an apartment roof…",
+      "titleEn": "Fixing an Old Radio Before Sunset on the Rooftop",
+      "summaryEn": "Made with Seedance 2.5 Prompt: CONCEPT: Create a 30-second ultra-realistic slice-of-life video about a young woman spending a quiet evening on an apartment roof…",
+      "promptFull": "CONCEPT:\nCreate a 30-second ultra-realistic slice-of-life video about a young woman spending a quiet evening on an apartment rooftop, trying to get an old battery-powered radio working before sunset.\n\nThe entire story happens in one location. No shopping, no café, no market, no journey, and no walking-home sequence.\n\nThe charm comes from tiny realistic actions, environmental sounds, and her reaction when the radio suddenly works.\n\nFORMAT:\n30 seconds • 16:9 • 1080p • photorealistic live-action • authentic handheld consumer-camera footage\n\nMAIN CHARACTER\n\nA young Moroccan woman in her early 20s with naturally curly dark hair tied loosely with a fabric band.\n\nShe wears a faded mustard sweatshirt, relaxed dark jeans, white canvas sneakers, and a thin silver necklace.\n\nKeep her face, hair, clothing, necklace, age, body proportions, and identity completely consistent.\n\nLOCATION\n\nAn ordinary apartment rooftop in Casablanca, Morocco, shortly before sunset.\n\nThe rooftop contains:\n\n- Concrete walls\n- Old plastic chairs\n- Several potted plants\n- Water tanks\n- Laundry lines\n- A small wooden table\n- A dusty portable radio\n- Neighboring apartment buildings\n- Satellite dishes\n- Laundry moving gently in the breeze\n\nWarm late-afternoon sunlight gradually changes as the scene progresses.\n\nNo famous landmarks or recognizable brands.\n\nCAMERA STYLE\n\nRecorded by a friend using an older consumer camcorder.\n\nThe camera should feel physically present on the rooftop.\n\n- Handheld movement\n- Slight natural shake\n- Imperfect framing\n- Occasional autofocus hunting\n- Exposure shifts when pointed toward the sunset\n- Mild digital noise\n- Slight compression\n- Natural motion blur\n- Ordinary color reproduction\n- No stabilization\n- No artificial bokeh\n- No commercial cinematography\n\nSHOT BREAKDOWN\n\n0–5 SECONDS — THE RADIO\n\nStart with a close shot of an old dusty portable radio sitting on a small wooden table.\n\nThe woman enters the frame and picks it up.\n\nShe turns the power knob.\n\nNothing happens.\n\nShe taps the side of the radio.\n\nShe looks at the camera.\n\n“Come on…”\n\n---\n\n5–10 SECONDS — TRYING AGAIN\n\nShe opens the battery compartment.\n\nThe camera moves closer over her shoulder.\n\nShe removes the batteries and checks them.\n\nOne battery is slightly loose.\n\nShe adjusts it and puts everything back together.\n\nA small click.\n\nStill nothing.\n\nShe gives the radio an annoyed look.\n\n---\n\n10–15 SECONDS — THE ANTENNA\n\nShe pulls the antenna upward.\n\nThe antenna makes a tiny metallic clicking sound.\n\nShe rotates the radio toward different directions.\n\nThe camera follows her movement.\n\nSuddenly, a burst of static comes through the speaker.\n\nShe immediately stops moving.\n\n---\n\n15–21 SECONDS — FOUND IT\n\nShe slowly turns the tuning dial.\n\nStatic.\n\nMore static.\n\nThen a faint, completely original radio melody comes through.\n\nHer expression changes into a genuine smile.\n\nShe looks toward the camera.\n\n“There.”\n\n---\n\n21–26 SECONDS — SUNSET\n\nShe places the radio on the table.\n\nShe pulls a plastic chair closer and sits down.\n\nThe camera slowly shifts away from her toward the rooftop horizon.\n\nThe radio continues playing softly.\n\nWind moves the laundry behind her.\n\nShe quietly listens.\n\n---\n\n26–30 SECONDS — LITTLE ENDING\n\nShe suddenly reaches over and lowers the radio volume.\n\nShe looks at the sunset.\n\nThe camera moves slightly closer from behind.\n\nShe doesn't say anything.\n\nThe shot ends naturally on her sitting beside the radio as the sunlight fades.\n\nAUDIO\n\nAuthentic rooftop ambience only:\n\n- Wind\n- Distant traffic\n- Birds\n- Laundry fabric moving\n- Radio static\n- Dial clicks\n- Battery compartment clicks\n- Plastic chair scraping concrete\n- Quiet original radio melody\n- Natural breathing\n\nNO ADDED BACKGROUND MUSIC.\n\nThe radio melody must be original and not imitate a recognizable copyrighted song.\n\nREALISM / PHYSICS\n\nThe radio must behave like a real old battery-powered device.\n\nThe tuning dial should physically rotate.\n\nThe antenna should extend realistically.\n\nThe static should change naturally as the radio is rotated.\n\nThe laundry should respond subtly to the wind.\n\nThe chair should scrape slightly when moved.\n\nSunlight and shadows should remain physically consistent throughout.\n\nHands must interact naturally with the radio and battery compartment.\n\nNEGATIVE PROMPT\n\nCGI, 3D render, animation, plastic skin, beauty filter, artificial face, face morphing, identity drift, extra fingers, malformed hands, duplicated people, floating objects, impossible radio mechanics, fake static, unrealistic antenna movement, teleportation, object duplication, excessive HDR, oversaturated colors, heavy cinematic grading, artificial bokeh, fake film grain, studio lighting, perfect stabilization, drone footage, commercial advertisement aesthetic, exaggerated acting, subtitles, captions, logos, watermarks, recognizable brands, copyrighted music, wardrobe changes, hairstyle changes, continuity errors.\n\nFINAL LOOK\n\nThe final footage should feel like someone casually filmed a quiet evening on a rooftop and happened to capture a small moment that felt worth remembering.\n\nDon't force emotion.\n\nDon't make the sunset overly dramatic.\n\nKeep the imperfect camera movement, ordinary rooftop clutter, realistic wind, slight autofocus mistakes, and natural pauses.\n\nSimple moment. Real environment. Genuine reaction.",
       "category": "video",
       "models": [
         "Seedance"
       ],
-      "creator": "@AIwithSynthia",
-      "sourceUrl": "https://x.com/AIwithSynthia/status/2100414408069669001",
-      "sourcePublishedAt": "2026-09-17T02:39:53+00:00",
+      "creator": "@ChillaiKalan__",
+      "sourceUrl": "https://x.com/ChillaiKalan__/status/2099707127267049912",
+      "sourcePublishedAt": "2026-09-15T03:49:24+00:00",
       "heatScore": 55,
-      "weightedInteractions": 360,
+      "weightedInteractions": 353,
       "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/cases/0e37d278ba43.mp4",
-      "posterUrl": "https://media.goodcase.ai/cases/15605829a601.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e",
+      "mediaUrl": "https://media.goodcase.ai/cases/a92aa69a3ead.mp4",
+      "posterUrl": "https://media.goodcase.ai/cases/836da0926bec.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-slice-of-life-video-about-a-young-woman-spen-99acdb41e54d",
       "evidenceLevel": "L1",
       "stabilityScore": 0,
       "tags": [
@@ -18458,40 +18492,6 @@
       "retestSummary": null
     },
     {
-      "slug": "seedance-create-a-30-second-ultra-realistic-slice-of-life-video-about-a-young-woman-spen-99acdb41e54d",
-      "title": "天台落日前修好旧收音机",
-      "summary": "Made with Seedance 2.5 Prompt: CONCEPT: Create a 30-second ultra-realistic slice-of-life video about a young woman spending a quiet evening on an apartment roof…",
-      "titleEn": "Fixing an Old Radio Before Sunset on the Rooftop",
-      "summaryEn": "Made with Seedance 2.5 Prompt: CONCEPT: Create a 30-second ultra-realistic slice-of-life video about a young woman spending a quiet evening on an apartment roof…",
-      "promptFull": "CONCEPT:\nCreate a 30-second ultra-realistic slice-of-life video about a young woman spending a quiet evening on an apartment rooftop, trying to get an old battery-powered radio working before sunset.\n\nThe entire story happens in one location. No shopping, no café, no market, no journey, and no walking-home sequence.\n\nThe charm comes from tiny realistic actions, environmental sounds, and her reaction when the radio suddenly works.\n\nFORMAT:\n30 seconds • 16:9 • 1080p • photorealistic live-action • authentic handheld consumer-camera footage\n\nMAIN CHARACTER\n\nA young Moroccan woman in her early 20s with naturally curly dark hair tied loosely with a fabric band.\n\nShe wears a faded mustard sweatshirt, relaxed dark jeans, white canvas sneakers, and a thin silver necklace.\n\nKeep her face, hair, clothing, necklace, age, body proportions, and identity completely consistent.\n\nLOCATION\n\nAn ordinary apartment rooftop in Casablanca, Morocco, shortly before sunset.\n\nThe rooftop contains:\n\n- Concrete walls\n- Old plastic chairs\n- Several potted plants\n- Water tanks\n- Laundry lines\n- A small wooden table\n- A dusty portable radio\n- Neighboring apartment buildings\n- Satellite dishes\n- Laundry moving gently in the breeze\n\nWarm late-afternoon sunlight gradually changes as the scene progresses.\n\nNo famous landmarks or recognizable brands.\n\nCAMERA STYLE\n\nRecorded by a friend using an older consumer camcorder.\n\nThe camera should feel physically present on the rooftop.\n\n- Handheld movement\n- Slight natural shake\n- Imperfect framing\n- Occasional autofocus hunting\n- Exposure shifts when pointed toward the sunset\n- Mild digital noise\n- Slight compression\n- Natural motion blur\n- Ordinary color reproduction\n- No stabilization\n- No artificial bokeh\n- No commercial cinematography\n\nSHOT BREAKDOWN\n\n0–5 SECONDS — THE RADIO\n\nStart with a close shot of an old dusty portable radio sitting on a small wooden table.\n\nThe woman enters the frame and picks it up.\n\nShe turns the power knob.\n\nNothing happens.\n\nShe taps the side of the radio.\n\nShe looks at the camera.\n\n“Come on…”\n\n---\n\n5–10 SECONDS — TRYING AGAIN\n\nShe opens the battery compartment.\n\nThe camera moves closer over her shoulder.\n\nShe removes the batteries and checks them.\n\nOne battery is slightly loose.\n\nShe adjusts it and puts everything back together.\n\nA small click.\n\nStill nothing.\n\nShe gives the radio an annoyed look.\n\n---\n\n10–15 SECONDS — THE ANTENNA\n\nShe pulls the antenna upward.\n\nThe antenna makes a tiny metallic clicking sound.\n\nShe rotates the radio toward different directions.\n\nThe camera follows her movement.\n\nSuddenly, a burst of static comes through the speaker.\n\nShe immediately stops moving.\n\n---\n\n15–21 SECONDS — FOUND IT\n\nShe slowly turns the tuning dial.\n\nStatic.\n\nMore static.\n\nThen a faint, completely original radio melody comes through.\n\nHer expression changes into a genuine smile.\n\nShe looks toward the camera.\n\n“There.”\n\n---\n\n21–26 SECONDS — SUNSET\n\nShe places the radio on the table.\n\nShe pulls a plastic chair closer and sits down.\n\nThe camera slowly shifts away from her toward the rooftop horizon.\n\nThe radio continues playing softly.\n\nWind moves the laundry behind her.\n\nShe quietly listens.\n\n---\n\n26–30 SECONDS — LITTLE ENDING\n\nShe suddenly reaches over and lowers the radio volume.\n\nShe looks at the sunset.\n\nThe camera moves slightly closer from behind.\n\nShe doesn't say anything.\n\nThe shot ends naturally on her sitting beside the radio as the sunlight fades.\n\nAUDIO\n\nAuthentic rooftop ambience only:\n\n- Wind\n- Distant traffic\n- Birds\n- Laundry fabric moving\n- Radio static\n- Dial clicks\n- Battery compartment clicks\n- Plastic chair scraping concrete\n- Quiet original radio melody\n- Natural breathing\n\nNO ADDED BACKGROUND MUSIC.\n\nThe radio melody must be original and not imitate a recognizable copyrighted song.\n\nREALISM / PHYSICS\n\nThe radio must behave like a real old battery-powered device.\n\nThe tuning dial should physically rotate.\n\nThe antenna should extend realistically.\n\nThe static should change naturally as the radio is rotated.\n\nThe laundry should respond subtly to the wind.\n\nThe chair should scrape slightly when moved.\n\nSunlight and shadows should remain physically consistent throughout.\n\nHands must interact naturally with the radio and battery compartment.\n\nNEGATIVE PROMPT\n\nCGI, 3D render, animation, plastic skin, beauty filter, artificial face, face morphing, identity drift, extra fingers, malformed hands, duplicated people, floating objects, impossible radio mechanics, fake static, unrealistic antenna movement, teleportation, object duplication, excessive HDR, oversaturated colors, heavy cinematic grading, artificial bokeh, fake film grain, studio lighting, perfect stabilization, drone footage, commercial advertisement aesthetic, exaggerated acting, subtitles, captions, logos, watermarks, recognizable brands, copyrighted music, wardrobe changes, hairstyle changes, continuity errors.\n\nFINAL LOOK\n\nThe final footage should feel like someone casually filmed a quiet evening on a rooftop and happened to capture a small moment that felt worth remembering.\n\nDon't force emotion.\n\nDon't make the sunset overly dramatic.\n\nKeep the imperfect camera movement, ordinary rooftop clutter, realistic wind, slight autofocus mistakes, and natural pauses.\n\nSimple moment. Real environment. Genuine reaction.",
-      "category": "video",
-      "models": [
-        "Seedance"
-      ],
-      "creator": "@ChillaiKalan__",
-      "sourceUrl": "https://x.com/ChillaiKalan__/status/2099707127267049912",
-      "sourcePublishedAt": "2026-09-15T03:49:24+00:00",
-      "heatScore": 54,
-      "weightedInteractions": 353,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/cases/a92aa69a3ead.mp4",
-      "posterUrl": "https://media.goodcase.ai/cases/836da0926bec.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-slice-of-life-video-about-a-young-woman-spen-99acdb41e54d",
-      "evidenceLevel": "L1",
-      "stabilityScore": 0,
-      "tags": [
-        "source-x-socialdata",
-        "query-keyword-en-videos",
-        "prompt-public",
-        "trial-x-socialdata",
-        "auto-approved"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [],
-      "retestSummary": null
-    },
-    {
       "slug": "ayzalnooor24521-seedance-ai-890aad58385a",
       "title": "少女在日本山巅记录春日风光",
       "summary": "A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea",
@@ -18544,40 +18544,6 @@
           "finalScore": 88.3
         }
       }
-    },
-    {
-      "slug": "oggii-0-seedance-ai-8f11307a9239",
-      "title": "全州韩屋村韩服茶旅日记",
-      "summary": "Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati",
-      "titleEn": "Hanbok and Tea Diary in Jeonju Hanok Village",
-      "summaryEn": "Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati",
-      "promptFull": "FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog\n\nPreserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from <<<image_1>>> throughout the entire video. The same woman must appear consistently in every shot.\n\nVISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.\n\nOutfit: rented pastel pink hanbok with a cream jeogori top, hair styled in a traditional low braid with a small ribbon, white cotton socks, black traditional flat shoes. The entire video must feel like one genuine recording captured by a friend on a daytime trip through Jeonju Hanok Village, South Korea, not a staged commercial or cinematic recreation.\n\n00:00–00:04 — DAYTIME ARRIVAL\nThe woman walks down a sunny stone-paved lane lined with traditional hanok houses, tourists strolling nearby in colorful hanbok.\nThe camera bounces gently behind her, then swings around to her smiling face.\nShe says:\n\"Look at me, I finally get to wear a hanbok!\"\n\n00:04–00:08 — TRADITIONAL TEA HOUSE\nShe steps into a small traditional tea house courtyard with wooden benches and hanging paper lanterns.\nThe camera focus hunts between a steaming teapot and her face as she sits down.\nShe watches an elderly tea master pour tea with careful, practiced movements.\n\n00:08–00:12 — FIRST SIP\nShe picks up the small ceramic cup, blows on it, takes a sip.\nHer expression shows pleasant surprise.\nShe turns to the camera and says:\n\"It's so fragrant, I love it already.\"\nThe camera operator chuckles softly off-screen.\n\n00:12–00:16 — CHATTING WITH THE TEA MASTER\nShe sits cross-legged at the low table, chatting with the tea master, who explains something while gesturing at the teapot.\nShe nods, laughs at a joke, and awkwardly attempts to pour tea herself, spilling a little.\nEveryone at the table laughs naturally, no exaggerated acting.\n\n00:16–00:20 — HANJI CRAFT ATTEMPT\nA nearby craft table has traditional hanji paper fans being decorated.\nShe sits down and tries painting a simple pattern on a fan, her lines coming out slightly crooked.\nShe holds it up to the camera, laughing, and says:\n\"Okay, I'm definitely not an artist.\"\n\n00:20–00:24 — WALKING THE VILLAGE\nShe walks along the hanok streets, fan in hand, passing shops, rooftops, and other tourists in hanbok.\nA group of children in hanbok run past giggling; she waves and laughs.\nThe camera swings briefly toward the rooftops before returning to her.\n\n00:24–00:27 — QUIET MOMENT\nShe stops at a scenic overlook where rows of curved hanok roofs stretch into the distance under the afternoon sun.\nFor a moment there's no dialogue — just wind, distant chatter, and birds.\nShe smiles and says:\n\"This view is unreal.\"\n\n00:27–00:30 — NATURAL ENDING\nShe starts walking again, then turns back toward the camera with a playful grin, fan waving gently.\n\"Okay, hanbok day complete. See you next time!\"\nShe laughs, spins slightly in her hanbok, and keeps walking.\nThe camera lingers a moment longer before the footage naturally ends with a slight shake and imperfect cut.\n\nAUDIO\nNatural location sound only:\n- wind rustling paper lanterns\n- distant tourist chatter\n- footsteps on stone pavement\n- teapot pouring sounds\n- birds\n- children laughing and playing\n- fabric rustling from hanbok movement\n- faint distant street vendor calls\n- subtle camera handling sounds\n\nNo intentional background music track — only naturally occurring ambient sound from the environment.",
-      "category": "video",
-      "models": [
-        "Seedance"
-      ],
-      "creator": "@oggii_0",
-      "sourceUrl": "https://x.com/oggii_0/status/2091820691100496381",
-      "sourcePublishedAt": "2026-08-24T09:31:31+00:00",
-      "heatScore": 54,
-      "weightedInteractions": 326,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/media/video/oggii-0-seedance-ai-8f11307a9239.mp4",
-      "posterUrl": "https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-8f11307a9239.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/oggii-0-seedance-ai-8f11307a9239",
-      "evidenceLevel": "L1",
-      "stabilityScore": 0,
-      "tags": [
-        "source-x-socialdata",
-        "query-keyword-en",
-        "prompt-public",
-        "trial-x-socialdata",
-        "auto-approved"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [],
-      "retestSummary": null
     },
     {
       "slug": "seedance-use-the-uploaded-reference-image-as-the-visual-base-c3d793ce4d91",
@@ -18854,6 +18820,40 @@
       "retestSummary": null
     },
     {
+      "slug": "oggii-0-seedance-ai-8f11307a9239",
+      "title": "全州韩屋村韩服茶旅日记",
+      "summary": "Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati",
+      "titleEn": "Hanbok and Tea Diary in Jeonju Hanok Village",
+      "summaryEn": "Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati",
+      "promptFull": "FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog\n\nPreserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from <<<image_1>>> throughout the entire video. The same woman must appear consistently in every shot.\n\nVISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.\n\nOutfit: rented pastel pink hanbok with a cream jeogori top, hair styled in a traditional low braid with a small ribbon, white cotton socks, black traditional flat shoes. The entire video must feel like one genuine recording captured by a friend on a daytime trip through Jeonju Hanok Village, South Korea, not a staged commercial or cinematic recreation.\n\n00:00–00:04 — DAYTIME ARRIVAL\nThe woman walks down a sunny stone-paved lane lined with traditional hanok houses, tourists strolling nearby in colorful hanbok.\nThe camera bounces gently behind her, then swings around to her smiling face.\nShe says:\n\"Look at me, I finally get to wear a hanbok!\"\n\n00:04–00:08 — TRADITIONAL TEA HOUSE\nShe steps into a small traditional tea house courtyard with wooden benches and hanging paper lanterns.\nThe camera focus hunts between a steaming teapot and her face as she sits down.\nShe watches an elderly tea master pour tea with careful, practiced movements.\n\n00:08–00:12 — FIRST SIP\nShe picks up the small ceramic cup, blows on it, takes a sip.\nHer expression shows pleasant surprise.\nShe turns to the camera and says:\n\"It's so fragrant, I love it already.\"\nThe camera operator chuckles softly off-screen.\n\n00:12–00:16 — CHATTING WITH THE TEA MASTER\nShe sits cross-legged at the low table, chatting with the tea master, who explains something while gesturing at the teapot.\nShe nods, laughs at a joke, and awkwardly attempts to pour tea herself, spilling a little.\nEveryone at the table laughs naturally, no exaggerated acting.\n\n00:16–00:20 — HANJI CRAFT ATTEMPT\nA nearby craft table has traditional hanji paper fans being decorated.\nShe sits down and tries painting a simple pattern on a fan, her lines coming out slightly crooked.\nShe holds it up to the camera, laughing, and says:\n\"Okay, I'm definitely not an artist.\"\n\n00:20–00:24 — WALKING THE VILLAGE\nShe walks along the hanok streets, fan in hand, passing shops, rooftops, and other tourists in hanbok.\nA group of children in hanbok run past giggling; she waves and laughs.\nThe camera swings briefly toward the rooftops before returning to her.\n\n00:24–00:27 — QUIET MOMENT\nShe stops at a scenic overlook where rows of curved hanok roofs stretch into the distance under the afternoon sun.\nFor a moment there's no dialogue — just wind, distant chatter, and birds.\nShe smiles and says:\n\"This view is unreal.\"\n\n00:27–00:30 — NATURAL ENDING\nShe starts walking again, then turns back toward the camera with a playful grin, fan waving gently.\n\"Okay, hanbok day complete. See you next time!\"\nShe laughs, spins slightly in her hanbok, and keeps walking.\nThe camera lingers a moment longer before the footage naturally ends with a slight shake and imperfect cut.\n\nAUDIO\nNatural location sound only:\n- wind rustling paper lanterns\n- distant tourist chatter\n- footsteps on stone pavement\n- teapot pouring sounds\n- birds\n- children laughing and playing\n- fabric rustling from hanbok movement\n- faint distant street vendor calls\n- subtle camera handling sounds\n\nNo intentional background music track — only naturally occurring ambient sound from the environment.",
+      "category": "video",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "@oggii_0",
+      "sourceUrl": "https://x.com/oggii_0/status/2091820691100496381",
+      "sourcePublishedAt": "2026-08-24T09:31:31+00:00",
+      "heatScore": 53,
+      "weightedInteractions": 326,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/media/video/oggii-0-seedance-ai-8f11307a9239.mp4",
+      "posterUrl": "https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-8f11307a9239.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/oggii-0-seedance-ai-8f11307a9239",
+      "evidenceLevel": "L1",
+      "stabilityScore": 0,
+      "tags": [
+        "source-x-socialdata",
+        "query-keyword-en",
+        "prompt-public",
+        "trial-x-socialdata",
+        "auto-approved"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [],
+      "retestSummary": null
+    },
+    {
       "slug": "seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018",
       "title": "Pixar 风格海盗厨师 ASMR 喜剧短片：Seedance 2.5 逐秒分镜 Prompt",
       "summary": "AI & tech content creator Nomi AI 分享的 Seedance 2.5 完整 prompt，用于生成一段 30 秒 Pixar 品质 3D 动画 ASMR 喜剧短片。场景设定在温暖的海盗船厨房中，主角是一位壮硕的海盗厨师和一只偷食材的捣蛋鹦鹉。Prompt 包含详细的逐秒分镜（0-30s），风格指示（暖色琥珀灯光、电影景深、食物 ASMR 音效）、角色一致性要求和滑稽动作编排，最终以海盗与鹦鹉分享食物的温馨结尾收场。",
@@ -18985,40 +18985,6 @@
         "prompt-public",
         "trial-x-socialdata",
         "low-fans-hit",
-        "auto-approved"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [],
-      "retestSummary": null
-    },
-    {
-      "slug": "seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9",
-      "title": "1989年西柏林街头日常",
-      "summary": "If AI can create THIS… Hollywood is definitely cooked. 💀 Berlin street filmed on an HD camera in 1989. Made with seedance 2.5 Prompt: Create a 30-second, 16:9,…",
-      "titleEn": "Everyday Street Life in West Berlin, 1989",
-      "summaryEn": "If AI can create THIS… Hollywood is definitely cooked. 💀 Berlin street filmed on an HD camera in 1989. Made with seedance 2.5 Prompt: Create a 30-second, 16:9,…",
-      "promptFull": "Create a 30-second, 16:9, 1080p ultra-photorealistic archival video of everyday Berlin street life in 1989.\n\nThe entire video must look like genuine footage recorded in 1989 with an unusually good professional video camera. It should feel like a real archival recording that has been digitized in HD, not a modern recreation, not a movie, and not an AI-generated vintage filter.\n\n**MAIN FOCUS:**\nThe video is primarily about ordinary daily life on the streets of West Berlin in 1989. Crowded sidewalks, people walking in different directions, period-correct taxis (Mercedes W123s), Trabants and Wartburgs passing through traffic, buses, storefronts, street vendors, newspaper kiosks, and the constant movement of the city. The camera should feel like someone documenting the everyday routine of Berlin, not showcasing its architecture or politics.\n\n**SCENE SEQUENCE:**\n- **0–5s:** Street-level view from a busy West Berlin sidewalk (e.g. near Kurfürstendamm). A crowd of pedestrians walks past the camera in both directions. Mercedes taxis, Trabants, and older European cars move through the street. Natural handheld camera movement.\n- **5–10s:** A crowded avenue intersection. People wait at the crosswalk, then begin crossing. Buses, taxis, and traffic move through the frame. The camera slowly pans with the street activity.\n- **10–15s:** A closer street-level view of everyday pedestrians, storefronts with German signage, newspaper kiosks, and passing cars. People carry shopping bags, talk to each other, and go about their normal routines. Natural, unscripted-looking movement.\n- **15–20s:** A slightly wider street view showing a busy Berlin avenue filled with pedestrians and traffic. Buildings are visible only as part of the background. A section of the Berlin Wall or period signage may appear naturally in the distance, but the street activity remains the focus.\n- **20–25s:** Another crowded sidewalk and intersection. Trabants, taxis, buses, pedestrians, and storefronts create a constantly moving urban scene. The camera gently follows the flow of people.\n- **25–30s:** Final street-level view of a busy avenue, with pedestrians crossing, cars passing, and traffic continuing naturally. End like a real archival recording, without a dramatic cinematic conclusion.\n\n**CAMERA & CINEMATOGRAPHY:**\nReal 1989 professional video-camera footage. Mostly street-level, eye-level, and slightly elevated sidewalk viewpoints. Natural handheld and vehicle-mounted camera movement, slow pans, gentle zooms, slight camera vibration, occasional imperfect framing, and realistic motion blur. The camera should feel operated by a real person filming the city, with small imperfections and natural timing. No modern drone footage, no gimbal-smooth movement, no impossible camera angles, and no dramatic cinematic camera moves.\n\n**IMAGE QUALITY:**\nSurprisingly sharp and detailed for 1989, with clear pedestrians, cars, storefronts, and street details. Slightly soft image edges, natural lens rendering, mild analog video noise, subtle highlight bloom, gentle chromatic aberration, and a very subtle late-1980s video texture. The footage should look like an unusually good archival camera recording, not degraded VHS.\n\n**COLOR & LIGHTING:**\nOvercast or soft natural daylight typical of Berlin, realistic diffuse sunlight, slightly muted highlights, natural shadows, and authentic 1989 color reproduction. Colors should be realistic and slightly desaturated compared with modern digital footage, but still natural. No modern cinematic teal-and-orange grading, no excessive contrast, no fake film look, and no heavy retro effects.\n\n**HISTORICAL AUTHENTICITY:**\nEverything must look correct for West Berlin in 1989: period-correct Mercedes taxis, Trabants, Wartburgs, buses, storefronts, German-language advertisements and signage, period clothing, and architecture of the era. No modern vehicles, smartphones, LED billboards, contemporary advertisements, or post-reunification skyline elements.\n\n**REALISM:**\nNatural traffic movement, believable pedestrians, realistic reflections, accurate building geometry, and physically correct lighting. People should move naturally and independently, with varied walking speeds, gestures, and directions. Cars must have realistic proportions, wheels, reflections, and motion, including the distinct boxy shape and two-stroke-engine character of Trabants. Buildings must remain stable and geometrically accurate.\n\n**EDITING:**\nUse several connected street-level shots with natural archival-video pacing. Most shots should be crowded sidewalks, intersections, and busy avenues. Keep building, Wall, and skyline shots to a minimum. Buildings should mainly appear as background elements behind the people and traffic. Use simple cuts between shots, like genuine archival footage from one recording session. No flashy editing, no music-video style, no artificial cinematic transitions, and no text or subtitles.\n\n**FINAL RESULT:**\nThe viewer should genuinely feel that they are watching real Berlin footage filmed in 1989 with an unusually good HD camera. It should feel like an ordinary day in the city, full of people, cars, traffic, and natural street activity. The realism of the pedestrians, cars, lighting, and camera behavior is more important than cinematic beauty.\n\n**NEGATIVE PROMPT:**\nAI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern cars, smartphones, LED screens, contemporary clothing, non-period signage, fake vintage filter, excessive film grain, VHS scanlines, heavy VHS distortion, oversaturated colors, teal-orange grading, cinematic movie look, drone footage, gimbal smoothness, impossible camera movement, empty streets, deserted sidewalks, excessive building shots, architectural showcase, warped buildings, duplicated pedestrians, distorted cars, flickering architecture, text, subtitles, logos, watermarks.",
-      "category": "video",
-      "models": [
-        "Seedance"
-      ],
-      "creator": "@oggii_0",
-      "sourceUrl": "https://x.com/oggii_0/status/2097563915354063328",
-      "sourcePublishedAt": "2026-09-09T05:53:02+00:00",
-      "heatScore": 52,
-      "weightedInteractions": 334,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/cases/dc6e0413a807.mp4",
-      "posterUrl": "https://media.goodcase.ai/cases/e2155c7772af.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9",
-      "evidenceLevel": "L1",
-      "stabilityScore": 0,
-      "tags": [
-        "source-x-socialdata",
-        "query-keyword-en",
-        "prompt-public",
-        "trial-x-socialdata",
         "auto-approved"
       ],
       "contentLocale": "en",
@@ -19210,6 +19176,40 @@
         "prompt-public",
         "trial-x-socialdata",
         "low-fans-hit",
+        "auto-approved"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [],
+      "retestSummary": null
+    },
+    {
+      "slug": "seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9",
+      "title": "1989年西柏林街头日常",
+      "summary": "If AI can create THIS… Hollywood is definitely cooked. 💀 Berlin street filmed on an HD camera in 1989. Made with seedance 2.5 Prompt: Create a 30-second, 16:9,…",
+      "titleEn": "Everyday Street Life in West Berlin, 1989",
+      "summaryEn": "If AI can create THIS… Hollywood is definitely cooked. 💀 Berlin street filmed on an HD camera in 1989. Made with seedance 2.5 Prompt: Create a 30-second, 16:9,…",
+      "promptFull": "Create a 30-second, 16:9, 1080p ultra-photorealistic archival video of everyday Berlin street life in 1989.\n\nThe entire video must look like genuine footage recorded in 1989 with an unusually good professional video camera. It should feel like a real archival recording that has been digitized in HD, not a modern recreation, not a movie, and not an AI-generated vintage filter.\n\n**MAIN FOCUS:**\nThe video is primarily about ordinary daily life on the streets of West Berlin in 1989. Crowded sidewalks, people walking in different directions, period-correct taxis (Mercedes W123s), Trabants and Wartburgs passing through traffic, buses, storefronts, street vendors, newspaper kiosks, and the constant movement of the city. The camera should feel like someone documenting the everyday routine of Berlin, not showcasing its architecture or politics.\n\n**SCENE SEQUENCE:**\n- **0–5s:** Street-level view from a busy West Berlin sidewalk (e.g. near Kurfürstendamm). A crowd of pedestrians walks past the camera in both directions. Mercedes taxis, Trabants, and older European cars move through the street. Natural handheld camera movement.\n- **5–10s:** A crowded avenue intersection. People wait at the crosswalk, then begin crossing. Buses, taxis, and traffic move through the frame. The camera slowly pans with the street activity.\n- **10–15s:** A closer street-level view of everyday pedestrians, storefronts with German signage, newspaper kiosks, and passing cars. People carry shopping bags, talk to each other, and go about their normal routines. Natural, unscripted-looking movement.\n- **15–20s:** A slightly wider street view showing a busy Berlin avenue filled with pedestrians and traffic. Buildings are visible only as part of the background. A section of the Berlin Wall or period signage may appear naturally in the distance, but the street activity remains the focus.\n- **20–25s:** Another crowded sidewalk and intersection. Trabants, taxis, buses, pedestrians, and storefronts create a constantly moving urban scene. The camera gently follows the flow of people.\n- **25–30s:** Final street-level view of a busy avenue, with pedestrians crossing, cars passing, and traffic continuing naturally. End like a real archival recording, without a dramatic cinematic conclusion.\n\n**CAMERA & CINEMATOGRAPHY:**\nReal 1989 professional video-camera footage. Mostly street-level, eye-level, and slightly elevated sidewalk viewpoints. Natural handheld and vehicle-mounted camera movement, slow pans, gentle zooms, slight camera vibration, occasional imperfect framing, and realistic motion blur. The camera should feel operated by a real person filming the city, with small imperfections and natural timing. No modern drone footage, no gimbal-smooth movement, no impossible camera angles, and no dramatic cinematic camera moves.\n\n**IMAGE QUALITY:**\nSurprisingly sharp and detailed for 1989, with clear pedestrians, cars, storefronts, and street details. Slightly soft image edges, natural lens rendering, mild analog video noise, subtle highlight bloom, gentle chromatic aberration, and a very subtle late-1980s video texture. The footage should look like an unusually good archival camera recording, not degraded VHS.\n\n**COLOR & LIGHTING:**\nOvercast or soft natural daylight typical of Berlin, realistic diffuse sunlight, slightly muted highlights, natural shadows, and authentic 1989 color reproduction. Colors should be realistic and slightly desaturated compared with modern digital footage, but still natural. No modern cinematic teal-and-orange grading, no excessive contrast, no fake film look, and no heavy retro effects.\n\n**HISTORICAL AUTHENTICITY:**\nEverything must look correct for West Berlin in 1989: period-correct Mercedes taxis, Trabants, Wartburgs, buses, storefronts, German-language advertisements and signage, period clothing, and architecture of the era. No modern vehicles, smartphones, LED billboards, contemporary advertisements, or post-reunification skyline elements.\n\n**REALISM:**\nNatural traffic movement, believable pedestrians, realistic reflections, accurate building geometry, and physically correct lighting. People should move naturally and independently, with varied walking speeds, gestures, and directions. Cars must have realistic proportions, wheels, reflections, and motion, including the distinct boxy shape and two-stroke-engine character of Trabants. Buildings must remain stable and geometrically accurate.\n\n**EDITING:**\nUse several connected street-level shots with natural archival-video pacing. Most shots should be crowded sidewalks, intersections, and busy avenues. Keep building, Wall, and skyline shots to a minimum. Buildings should mainly appear as background elements behind the people and traffic. Use simple cuts between shots, like genuine archival footage from one recording session. No flashy editing, no music-video style, no artificial cinematic transitions, and no text or subtitles.\n\n**FINAL RESULT:**\nThe viewer should genuinely feel that they are watching real Berlin footage filmed in 1989 with an unusually good HD camera. It should feel like an ordinary day in the city, full of people, cars, traffic, and natural street activity. The realism of the pedestrians, cars, lighting, and camera behavior is more important than cinematic beauty.\n\n**NEGATIVE PROMPT:**\nAI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern cars, smartphones, LED screens, contemporary clothing, non-period signage, fake vintage filter, excessive film grain, VHS scanlines, heavy VHS distortion, oversaturated colors, teal-orange grading, cinematic movie look, drone footage, gimbal smoothness, impossible camera movement, empty streets, deserted sidewalks, excessive building shots, architectural showcase, warped buildings, duplicated pedestrians, distorted cars, flickering architecture, text, subtitles, logos, watermarks.",
+      "category": "video",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "@oggii_0",
+      "sourceUrl": "https://x.com/oggii_0/status/2097563915354063328",
+      "sourcePublishedAt": "2026-09-09T05:53:02+00:00",
+      "heatScore": 51,
+      "weightedInteractions": 334,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/cases/dc6e0413a807.mp4",
+      "posterUrl": "https://media.goodcase.ai/cases/e2155c7772af.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9",
+      "evidenceLevel": "L1",
+      "stabilityScore": 0,
+      "tags": [
+        "source-x-socialdata",
+        "query-keyword-en",
+        "prompt-public",
+        "trial-x-socialdata",
         "auto-approved"
       ],
       "contentLocale": "en",
@@ -21211,40 +21211,6 @@
       "retestSummary": null
     },
     {
-      "slug": "seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15",
-      "title": "雨中新西兰海岸旅程",
-      "summary": "Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand Made with Seedance 2.5 Prompt ↓ [GENERATION GOAL] 30-second cinematic …",
-      "titleEn": "A Rainy Journey Across New Zealand’s Coast",
-      "summaryEn": "Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand Made with Seedance 2.5 Prompt ↓ [GENERATION GOAL] 30-second cinematic …",
-      "promptFull": "Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand\n\nMade with Seedance 2.5\n\nPrompt ↓ \n\n[GENERATION GOAL]\n30-second cinematic fashion-travel music video following one beautiful sweet slim young woman across New Zealand — starting on a rainy Auckland street, moving through a coastal train journey, green countryside and finally a dramatic black-sand beach where she dances with a friend. She listens to music through white wired earphones and carries a Sony compact camera. Photoreal live-action, energetic editorial pacing, hard cuts only.\n\n[CORE LOOK]\nPremium outdoor fashion commercial meets cinematic road-trip film.\nCool blue rain, emerald greens, volcanic black sand, warm sunset skin tones.\nNatural film grain, subtle lens bloom, realistic moisture and atmospheric perspective.\n24fps, 180-degree shutter.\nNo artificial CGI look, no beauty smoothing, no warped faces, no duplicated people, no random text, no watermarks.\n\n[LEAD]\nGenerate a new original beautiful sweet slim woman in her early 20s.\nHeart-shaped face, bright hazel-brown eyes, long dark wavy hair, soft straight brows, subtle brown eyeliner, naturally glossy peach lips, fair warm skin with realistic freckles across nose and cheeks, slim athletic figure, delicate hands, short glossy pale-pink nails.\nShe has an innocent sweet smile and playful personality.\nNo glasses.\nShe never speaks.\n\nWhite wired earphones in both ears whenever she appears. Cable remains visible.\n\n[FRIEND]\nAppears from 22s onward.\nYoung East-Asian woman, early 20s, short dark bob haircut, oversized pale-yellow sweatshirt, loose denim trousers, white sneakers.\nNo earphones.\n\n[FASHION / PRODUCT]\nLOOK A 0–6.5s:\nRoyal-blue Nike windbreaker, black straight-leg pants, white sneakers, small black shoulder bag. Sony RX100-style compact camera in hand.\n\nLOOK B 6.5–15.5s:\nCream Nike cropped fleece jacket, forest-green cargo skirt over black leggings, silver watch, cream mini backpack.\n\nLOOK C 15.5–30s:\nGraphite Nike lightweight track jacket, loose black trousers, white sneakers, small silver hoop earrings.\n\nNo Adidas. No Puma. Nike branding stays physically correct and understated.\n\n[LOCATIONS]\nLOC 1 — Auckland rainy street:\nGlass towers, wet pavement, neon reflections, green trees, moving pedestrians and buses.\n\nLOC 2 — Historic railway platform:\nDark green station canopy, old benches, rain droplets, passengers waiting naturally.\n\nLOC 3 — Coastal train:\nLarge window, ocean cliffs outside, woman seated beside window.\n\nLOC 4 — Train reflection:\nClose-up of her face reflected in rain-covered glass, city disappearing behind.\n\nLOC 5 — Countryside station:\nWooden platform, green hills, sheep pasture in distance.\n\nLOC 6 — Mountain road:\nLong winding road through emerald hills.\n\nLOC 7 — Waterfall trail:\nWet wooden walkway, huge waterfall behind mist.\n\nLOC 8 — Black-sand beach:\nWide volcanic beach, dark rocks, crashing turquoise-grey ocean.\n\nLOC 9 — Cliff path:\nGrass-covered cliff edge, strong ocean wind.\n\nLOC 10 — Beach café:\nSmall wooden café, surfboards, warm interior lights.\n\nLOC 11 — Coastal overlook:\nTwo wooden benches facing ocean.\n\nLOC 12 — Final beach plaza:\nOpen black-sand area with distant cliffs and sea.\n\n[30-SECOND TIMELINE]\n\n0.0–2.2s\nSHOT 1 — RAIN OPEN\n50mm handheld close-up. Woman walks beneath light rain in LOOK A. Drops collect on blue jacket. She smiles while listening to music.\n\n2.2–3.8s\nSHOT 2 — CAMERA DETAIL\n85mm ECU. Her fingers switch Sony camera mode. White earphone cable crosses jacket naturally.\n\n3.8–6.5s\nSHOT 3 — STREET CROSS\n35mm tracking shot. She crosses wet street, turns toward camera with a small smile. Bus passes behind, creating natural foreground wipe.\n\n6.5–8.6s\nSHOT 4 — PLATFORM CUT\nHard cut on bus wipe. LOOK B. She walks onto railway platform holding camera and cream backpack.\n\n8.6–10.4s\nSHOT 5 — TRAIN ARRIVAL\n24mm. Train enters frame, wind moves her hair and fleece. She looks toward it.\n\n10.4–12.6s\nSHOT 6 — WINDOW\n50mm inside train. She sits beside window, earphones visible, cheek against glass, watching countryside.\n\n12.6–14.2s\nSHOT 7 — REFLECTION\n85mm close. Her face reflected in rain-streaked window. She closes eyes for a second and smiles.\n\n14.2–16.0s\nSHOT 8 — TITLE\nHard cut to countryside station.\nShe steps down from train.\nHuge yellow condensed text:\n【NEW ZEALAND】\nappears vertically beside her as she walks forward.\n\n16.0–18.0s\nSHOT 9 — GREEN HILLS\n24mm wide. LOOK C begins. She walks through a grassy mountain road, camera tracking sideways. Clouds move across distant hills.\n\n18.0–19.8s\nSHOT 10 — WATERFALL\nWide 24mm. She stands near wet wooden trail, turns toward massive waterfall and laughs.\n\n19.8–21.6s\nSHOT 11 — OCEAN REVEAL\nHard cut. She walks over grassy cliff path. Camera starts behind her and gently moves beside her, revealing black-sand beach below.\n\n21.6–23.2s\nSHOT 12 — FRIEND ARRIVAL\nFriend enters from frame right holding two takeaway drinks. Lead turns and laughs.\n\n23.2–25.0s\nSHOT 13 — BEACH WALK\n35mm two-shot. Both walk barefoot along black sand, shoes in hands, laughing naturally. Wind moves their clothes.\n\n25.0–26.4s\nSHOT 14 — CAMERA SNAP\n85mm. Friend takes Sony camera from lead and quickly photographs her. Lead laughs and covers face playfully.\n\n26.4–28.0s\nSHOT 15 — RUN TO WATER\nWide 24mm. Both run toward shallow waves, jackets and hair moving naturally.\n\n28.0–30.0s\nSHOT 16 — DANCE + TITLE\nWide-to-medium. They stop near beach café and dance freely to music, no choreography.\nAt 28.6s bold yellow condensed text hits:\n【KEEP MOVING】\nThen at 29.3s:\n【KEEP DREAMING】\nBoth stacked over the dancing pair.\nLead throws one arm upward and laughs.\nHard cut to black.\n\n[CAMERA / MOVEMENT]\nRain shots: handheld 50mm.\nTrain: locked and intimate 50–85mm.\nLandscape: 24mm with natural atmospheric depth.\nBeach: low 24mm and gentle lateral tracking.\nNo drone orbit.\nNo crash zoom.\nNo artificial slow motion.\nHard cuts motivated by movement.\n\n[PHYSICS]\nRain beads remain physically attached to fabric.\nWet pavement reflects real light.\nHair reacts to wind and moisture.\nEarphone cable never vanishes.\nCamera has realistic weight.\nFleece and nylon wrinkle naturally.\nOcean spray moves independently.\nFootsteps disturb wet sand realistically.\n\n[LIGHTING]\nAuckland: cool cloudy daylight and practical city reflections.\nTrain: soft window light.\nCountryside: diffused cloud light.\nWaterfall: cool mist bounce.\nBeach: overcast coastal light transitioning into warm late-day glow.\nFaces retain realistic skin texture and eye catchlights.\n\n[AUDIO]\nRain hitting jacket.\nStreet traffic.\nTrain brakes and rail vibration.\nCamera shutter.\nDistant waterfall.\nOcean wind.\nFootsteps on wet sand.\nSmall natural laughs.\nNo dialogue.\nNo voiceover.\nNo lyrics.\nOnly two specified English title cards.\n\n[FINAL CONSISTENCY]\nOne original lead throughout.\nFriend only from 21.6s.\nWhite wired earphones remain visible.\nNike is the only fashion-sports brand.\nSony compact camera remains consistent.\nPhotoreal premium live-action.\nNo anime, no 3D, no plastic skin.",
-      "category": "video",
-      "models": [
-        "Seedance"
-      ],
-      "creator": "@Strength04_X",
-      "sourceUrl": "https://x.com/Strength04_X/status/2097303258171949530",
-      "sourcePublishedAt": "2026-09-08T12:37:17+00:00",
-      "heatScore": 44,
-      "weightedInteractions": 291,
-      "mediaType": "video",
-      "mediaUrl": "https://media.goodcase.ai/cases/cddfbd65bf0e.mp4",
-      "posterUrl": "https://media.goodcase.ai/cases/05aa6999193f.jpg",
-      "goodcaseUrl": "https://goodcase.ai/cases/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15",
-      "evidenceLevel": "L1",
-      "stabilityScore": 0,
-      "tags": [
-        "source-x-socialdata",
-        "query-keyword-cn",
-        "prompt-public",
-        "trial-x-socialdata",
-        "auto-approved"
-      ],
-      "contentLocale": "en",
-      "provenanceVerified": true,
-      "retests": [],
-      "retestSummary": null
-    },
-    {
       "slug": "avelyrahnai-seedance-ai-a392e2711b0d",
       "title": "纽约街头咖啡跌落慢镜头",
       "summary": "Catch calls, sip coffee, and own every street like a boss, Created with Seedance 2.5 Prompt: A stylish young woman walki",
@@ -21508,6 +21474,40 @@
       "mediaUrl": "https://media.goodcase.ai/cases/9027d010bc75.mp4",
       "posterUrl": "https://media.goodcase.ai/cases/20e977da4dd0.jpg",
       "goodcaseUrl": "https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5",
+      "evidenceLevel": "L1",
+      "stabilityScore": 0,
+      "tags": [
+        "source-x-socialdata",
+        "query-keyword-cn",
+        "prompt-public",
+        "trial-x-socialdata",
+        "auto-approved"
+      ],
+      "contentLocale": "en",
+      "provenanceVerified": true,
+      "retests": [],
+      "retestSummary": null
+    },
+    {
+      "slug": "seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15",
+      "title": "雨中新西兰海岸旅程",
+      "summary": "Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand Made with Seedance 2.5 Prompt ↓ [GENERATION GOAL] 30-second cinematic …",
+      "titleEn": "A Rainy Journey Across New Zealand’s Coast",
+      "summaryEn": "Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand Made with Seedance 2.5 Prompt ↓ [GENERATION GOAL] 30-second cinematic …",
+      "promptFull": "Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand\n\nMade with Seedance 2.5\n\nPrompt ↓ \n\n[GENERATION GOAL]\n30-second cinematic fashion-travel music video following one beautiful sweet slim young woman across New Zealand — starting on a rainy Auckland street, moving through a coastal train journey, green countryside and finally a dramatic black-sand beach where she dances with a friend. She listens to music through white wired earphones and carries a Sony compact camera. Photoreal live-action, energetic editorial pacing, hard cuts only.\n\n[CORE LOOK]\nPremium outdoor fashion commercial meets cinematic road-trip film.\nCool blue rain, emerald greens, volcanic black sand, warm sunset skin tones.\nNatural film grain, subtle lens bloom, realistic moisture and atmospheric perspective.\n24fps, 180-degree shutter.\nNo artificial CGI look, no beauty smoothing, no warped faces, no duplicated people, no random text, no watermarks.\n\n[LEAD]\nGenerate a new original beautiful sweet slim woman in her early 20s.\nHeart-shaped face, bright hazel-brown eyes, long dark wavy hair, soft straight brows, subtle brown eyeliner, naturally glossy peach lips, fair warm skin with realistic freckles across nose and cheeks, slim athletic figure, delicate hands, short glossy pale-pink nails.\nShe has an innocent sweet smile and playful personality.\nNo glasses.\nShe never speaks.\n\nWhite wired earphones in both ears whenever she appears. Cable remains visible.\n\n[FRIEND]\nAppears from 22s onward.\nYoung East-Asian woman, early 20s, short dark bob haircut, oversized pale-yellow sweatshirt, loose denim trousers, white sneakers.\nNo earphones.\n\n[FASHION / PRODUCT]\nLOOK A 0–6.5s:\nRoyal-blue Nike windbreaker, black straight-leg pants, white sneakers, small black shoulder bag. Sony RX100-style compact camera in hand.\n\nLOOK B 6.5–15.5s:\nCream Nike cropped fleece jacket, forest-green cargo skirt over black leggings, silver watch, cream mini backpack.\n\nLOOK C 15.5–30s:\nGraphite Nike lightweight track jacket, loose black trousers, white sneakers, small silver hoop earrings.\n\nNo Adidas. No Puma. Nike branding stays physically correct and understated.\n\n[LOCATIONS]\nLOC 1 — Auckland rainy street:\nGlass towers, wet pavement, neon reflections, green trees, moving pedestrians and buses.\n\nLOC 2 — Historic railway platform:\nDark green station canopy, old benches, rain droplets, passengers waiting naturally.\n\nLOC 3 — Coastal train:\nLarge window, ocean cliffs outside, woman seated beside window.\n\nLOC 4 — Train reflection:\nClose-up of her face reflected in rain-covered glass, city disappearing behind.\n\nLOC 5 — Countryside station:\nWooden platform, green hills, sheep pasture in distance.\n\nLOC 6 — Mountain road:\nLong winding road through emerald hills.\n\nLOC 7 — Waterfall trail:\nWet wooden walkway, huge waterfall behind mist.\n\nLOC 8 — Black-sand beach:\nWide volcanic beach, dark rocks, crashing turquoise-grey ocean.\n\nLOC 9 — Cliff path:\nGrass-covered cliff edge, strong ocean wind.\n\nLOC 10 — Beach café:\nSmall wooden café, surfboards, warm interior lights.\n\nLOC 11 — Coastal overlook:\nTwo wooden benches facing ocean.\n\nLOC 12 — Final beach plaza:\nOpen black-sand area with distant cliffs and sea.\n\n[30-SECOND TIMELINE]\n\n0.0–2.2s\nSHOT 1 — RAIN OPEN\n50mm handheld close-up. Woman walks beneath light rain in LOOK A. Drops collect on blue jacket. She smiles while listening to music.\n\n2.2–3.8s\nSHOT 2 — CAMERA DETAIL\n85mm ECU. Her fingers switch Sony camera mode. White earphone cable crosses jacket naturally.\n\n3.8–6.5s\nSHOT 3 — STREET CROSS\n35mm tracking shot. She crosses wet street, turns toward camera with a small smile. Bus passes behind, creating natural foreground wipe.\n\n6.5–8.6s\nSHOT 4 — PLATFORM CUT\nHard cut on bus wipe. LOOK B. She walks onto railway platform holding camera and cream backpack.\n\n8.6–10.4s\nSHOT 5 — TRAIN ARRIVAL\n24mm. Train enters frame, wind moves her hair and fleece. She looks toward it.\n\n10.4–12.6s\nSHOT 6 — WINDOW\n50mm inside train. She sits beside window, earphones visible, cheek against glass, watching countryside.\n\n12.6–14.2s\nSHOT 7 — REFLECTION\n85mm close. Her face reflected in rain-streaked window. She closes eyes for a second and smiles.\n\n14.2–16.0s\nSHOT 8 — TITLE\nHard cut to countryside station.\nShe steps down from train.\nHuge yellow condensed text:\n【NEW ZEALAND】\nappears vertically beside her as she walks forward.\n\n16.0–18.0s\nSHOT 9 — GREEN HILLS\n24mm wide. LOOK C begins. She walks through a grassy mountain road, camera tracking sideways. Clouds move across distant hills.\n\n18.0–19.8s\nSHOT 10 — WATERFALL\nWide 24mm. She stands near wet wooden trail, turns toward massive waterfall and laughs.\n\n19.8–21.6s\nSHOT 11 — OCEAN REVEAL\nHard cut. She walks over grassy cliff path. Camera starts behind her and gently moves beside her, revealing black-sand beach below.\n\n21.6–23.2s\nSHOT 12 — FRIEND ARRIVAL\nFriend enters from frame right holding two takeaway drinks. Lead turns and laughs.\n\n23.2–25.0s\nSHOT 13 — BEACH WALK\n35mm two-shot. Both walk barefoot along black sand, shoes in hands, laughing naturally. Wind moves their clothes.\n\n25.0–26.4s\nSHOT 14 — CAMERA SNAP\n85mm. Friend takes Sony camera from lead and quickly photographs her. Lead laughs and covers face playfully.\n\n26.4–28.0s\nSHOT 15 — RUN TO WATER\nWide 24mm. Both run toward shallow waves, jackets and hair moving naturally.\n\n28.0–30.0s\nSHOT 16 — DANCE + TITLE\nWide-to-medium. They stop near beach café and dance freely to music, no choreography.\nAt 28.6s bold yellow condensed text hits:\n【KEEP MOVING】\nThen at 29.3s:\n【KEEP DREAMING】\nBoth stacked over the dancing pair.\nLead throws one arm upward and laughs.\nHard cut to black.\n\n[CAMERA / MOVEMENT]\nRain shots: handheld 50mm.\nTrain: locked and intimate 50–85mm.\nLandscape: 24mm with natural atmospheric depth.\nBeach: low 24mm and gentle lateral tracking.\nNo drone orbit.\nNo crash zoom.\nNo artificial slow motion.\nHard cuts motivated by movement.\n\n[PHYSICS]\nRain beads remain physically attached to fabric.\nWet pavement reflects real light.\nHair reacts to wind and moisture.\nEarphone cable never vanishes.\nCamera has realistic weight.\nFleece and nylon wrinkle naturally.\nOcean spray moves independently.\nFootsteps disturb wet sand realistically.\n\n[LIGHTING]\nAuckland: cool cloudy daylight and practical city reflections.\nTrain: soft window light.\nCountryside: diffused cloud light.\nWaterfall: cool mist bounce.\nBeach: overcast coastal light transitioning into warm late-day glow.\nFaces retain realistic skin texture and eye catchlights.\n\n[AUDIO]\nRain hitting jacket.\nStreet traffic.\nTrain brakes and rail vibration.\nCamera shutter.\nDistant waterfall.\nOcean wind.\nFootsteps on wet sand.\nSmall natural laughs.\nNo dialogue.\nNo voiceover.\nNo lyrics.\nOnly two specified English title cards.\n\n[FINAL CONSISTENCY]\nOne original lead throughout.\nFriend only from 21.6s.\nWhite wired earphones remain visible.\nNike is the only fashion-sports brand.\nSony compact camera remains consistent.\nPhotoreal premium live-action.\nNo anime, no 3D, no plastic skin.",
+      "category": "video",
+      "models": [
+        "Seedance"
+      ],
+      "creator": "@Strength04_X",
+      "sourceUrl": "https://x.com/Strength04_X/status/2097303258171949530",
+      "sourcePublishedAt": "2026-09-08T12:37:17+00:00",
+      "heatScore": 43,
+      "weightedInteractions": 291,
+      "mediaType": "video",
+      "mediaUrl": "https://media.goodcase.ai/cases/cddfbd65bf0e.mp4",
+      "posterUrl": "https://media.goodcase.ai/cases/05aa6999193f.jpg",
+      "goodcaseUrl": "https://goodcase.ai/cases/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15",
       "evidenceLevel": "L1",
       "stabilityScore": 0,
       "tags": [

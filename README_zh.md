@@ -261,7 +261,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 全部 593 条案例（含完整 prompt）都在 `docs/` 下的画廊里，按版本分文件、超长自动分页以保证 GitHub 能渲染。从[画廊总览](./docs/gallery.zh.md)进，或直接跳到某个版本：
 
 - Seedance 2.5 - 365 条：[第 1 页（第 1–80 条）](./docs/gallery-seedance-2-5-part-1.zh.md) · [第 2 页（第 81–182 条）](./docs/gallery-seedance-2-5-part-2.zh.md) · [第 3 页（第 183–275 条）](./docs/gallery-seedance-2-5-part-3.zh.md) · [第 4 页（第 276–345 条）](./docs/gallery-seedance-2-5-part-4.zh.md) · [第 5 页（第 346–365 条）](./docs/gallery-seedance-2-5-part-5.zh.md)。
-- Seedance 2.0 - 228 条：[第 1 页（第 1–110 条）](./docs/gallery-seedance-2-0-part-1.zh.md) · [第 2 页（第 111–198 条）](./docs/gallery-seedance-2-0-part-2.zh.md) · [第 3 页（第 199–228 条）](./docs/gallery-seedance-2-0-part-3.zh.md)。
+- Seedance 2.0 - 228 条：[第 1 页（第 1–110 条）](./docs/gallery-seedance-2-0-part-1.zh.md) · [第 2 页（第 111–197 条）](./docs/gallery-seedance-2-0-part-2.zh.md) · [第 3 页（第 198–228 条）](./docs/gallery-seedance-2-0-part-3.zh.md)。
 
 ## 🌐 在 goodcase.ai 上浏览
 
@@ -289,7 +289,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。装好以后�
 | 作者数                         | 179               |
 | 跨模型复测                       | 254 条 / 264 次     |
 | 稳定度分（已测）                    | 252 条 / 均分 77.9   |
-| 最近更新                        | 2026-09-28        |
+| 最近更新                        | 2026-09-29        |
 | goodcase.ai 全站（含非 Seedance） | 1401 条 / 374 位创作者 |
 | goodcase.ai AI 视频           | 759 条             |
 

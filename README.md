@@ -289,7 +289,7 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 | Unique authors              | 179                       |
 | Re-run on other models      | 254 cases / 264 runs      |
 | Stability score (measured)  | 252 cases / avg 77.9      |
-| Last updated                | 2026-09-28                |
+| Last updated                | 2026-09-29                |
 | goodcase.ai, all categories | 1401 cases / 374 creators |
 | goodcase.ai, AI video       | 759 cases                 |
 
