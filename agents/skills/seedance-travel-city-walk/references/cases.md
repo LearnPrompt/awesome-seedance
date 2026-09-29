@@ -69,7 +69,7 @@ Style: realistic handheld selfie + aerial footage, night city lights, slight win
 
 ## E4 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 70 · stability: 84
+- Seedance 2.5 · creator: @nawalsehar · heat: 69 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
 - Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
 

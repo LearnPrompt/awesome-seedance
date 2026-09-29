@@ -6,55 +6,6 @@ Seedance 2.5 の全 365 ケースをヒートスコア順に掲載。data/cases.
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.ja.md)
 
-### Lavender-Haired Girl’s Supernatural Gym Showdown
-
-> Made with seedance 2.5 Prompt: Create a highly cinematic, realistic anime-style action video set inside a large Japanese
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-45d48a1479db.jpg" width="600" alt="Lavender-Haired Girl’s Supernatural Gym Showdown">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-45d48a1479db)
-
-**作者:** @AiwithElisia | **出典:** [元投稿](https://x.com/AiwithElisia/status/2092484929523482818) | **公開日:** 2026-08-26 | **ヒート:** 43
-
-**安定度:** 65/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 65) · [出力](https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-45d48a1479db/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
-
-```
-Create a highly cinematic, realistic anime-style action video set inside a large Japanese high-school basketball gymnasium with polished wooden flooring, basketball hoops, court markings, and several female students in matching school uniforms.
-
-The main character is a young Japanese schoolgirl with short lavender-purple bob hair, pale skin, and a small blue-and-white flower hair clip. She wears a light gray school blazer, white shirt with a pale blue ribbon tie, dark navy pleated skirt, white knee-high socks, and black school loafers.
-
-Start with a medium-wide shot of the lavender-haired girl standing calmly in the center of the gym while several other female students in identical uniforms surround her. The atmosphere is tense and dramatic. She looks focused and emotionless while the other girls appear aggressive and ready to attack.
-
-One girl suddenly attacks her. The main character reacts quickly, gets knocked down onto the polished wooden floor, and struggles to get back up. Show realistic body movement, impact, sliding across the floor, hair movement, clothing physics, and facial expressions.
-
-The fight escalates into a fast-paced supernatural action sequence. The lavender-haired girl suddenly demonstrates extraordinary strength and speed, dodging and attacking multiple girls around her. Show dynamic martial-arts-style movements, powerful impacts, fast camera tracking, low-angle shots, handheld cinematic camera motion, realistic motion blur, and dramatic close-ups.
-
-At one point, the main character confronts another girl at extremely close range and creates a powerful supernatural energy/water-like impact between them. A huge translucent burst erupts from the collision, sending water-like particles and splashes through the air. The impact pushes the opposing girl backward dramatically.
-
-Continue with several fast action shots showing the main character fighting multiple opponents across the basketball court. Other students fall to the floor in the background while she remains composed and powerful.
-
-End with the lavender-haired girl standing alone in the center of the gym after the fight. The other students are scattered or lying on the floor behind her. She slowly turns her head toward the camera with a calm, confident expression.
-
-Visual style: ultra-realistic live-action anime adaptation, cinematic Japanese school drama, high-detail faces, realistic skin texture, natural hair physics, realistic school uniforms, physically accurate movement, dramatic action choreography, detailed wooden gym floor reflections, volumetric indoor lighting, subtle film grain, shallow depth of field, realistic shadows, high dynamic range, cinematic color grading.
-
-Camera: cinematic handheld tracking shots, medium shots, wide establishing shots, low-angle action shots, close-ups during impacts, smooth camera transitions, realistic lens perspective, dynamic camera shake during heavy impacts.
-
-Lighting: indoor gymnasium lighting with soft overhead lights, realistic reflections on the polished floor, slightly dramatic contrast, natural shadows, cinematic atmosphere.
-
-Quality: photorealistic, extremely detailed, high-end cinematic production, realistic physics, realistic facial expressions, consistent character appearance, smooth motion, natural anatomy, no distortion.
-
-Aspect ratio: 16:9.
-Duration: approximately 29 seconds.
-No subtitles, no text, no logos, no watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-45d48a1479db)**
-
 ### Commuter Train Descends into the Depths of Hell
 
 > Journey through Hell made with seedance 2.5 prompt :One continuous 30-second chaotic amateur first-person smartphone vid
@@ -111,6 +62,48 @@ ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ciri-ai-seedance-ai-5ce4a010eef9)**
+
+### Seedance 2.5 Fifteen-Second Five-Shot Character Short
+
+> Seedance 2.5 Prompt 15-sec Seedance prompt — 5 shots Character/style: Young Korean woman, 24, naturally attractive, real
+
+[<img src="https://media.goodcase.ai/cases/b122548113a6.jpg" width="600" alt="Seedance 2.5 Fifteen-Second Five-Shot Character Short">](https://goodcase.ai/cases/iamahmedfaraz66-seedance-ai-c5e754c28fb7)
+
+**作者:** @iamahmedfaraz66 | **出典:** [元投稿](https://x.com/iamahmedfaraz66/status/2089683226696577531) | **公開日:** 2026-08-18 | **ヒート:** 43
+
+**安定度:** 81/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.9) · [出力](https://media.goodcase.ai/retests/iamahmedfaraz66-seedance-ai-c5e754c28fb7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+Seedance 2.5 
+
+Prompt
+15-sec Seedance prompt — 5 shots
+
+Character/style: Young Korean woman, 24, naturally attractive, realistic skin, long dark hair loosely tied back, minimal makeup. Loose cream cardigan, white T-shirt, blue jeans, and silver necklace. Cozy Seoul apartment, warm natural light. Preserve exact identity, outfit, hairstyle, and facial features across all shots. Authentic early-2000s MiniDV: 4:3, handheld shake, slight autofocus hunting, tape grain/compression, imperfect exposure, natural motion. No cinematic polish.
+
+SHOT 1 — 0:00–0:03
+Wide MiniDV shot. She walks into frame, notices the camera, fixes her hair and cardigan, then looks into the lens with a shy smile and prepares to pose.
+SHOT 2 — 0:03–0:06
+Cut closer. She poses deliberately for a photo, tilting her head and smiling sweetly. After a moment, she struggles to keep a straight face and looks away.
+
+SHOT 3 — 0:06–0:09
+Different handheld angle. She tries to compose herself, presses her lips together, then accidentally lets out a tiny laugh. She looks down, embarrassed.
+SHOT 4 — 0:09–0:12
+Cut back wider. She makes one final serious pose, holds it for half a second, then completely bursts out laughing. She covers her mouth and bends forward slightly.
+
+SHOT 5 — 0:12–0:15
+Closer shot. Still laughing, she shakes her head and gives up posing. She smiles directly at the camera, walks toward it, and reaches for the lens. Her hand covers the camera.
+CUT TO BLACK at 15 seconds. Keep the laughter spontaneous and natural, with consistent character appearance throughout.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/iamahmedfaraz66-seedance-ai-c5e754c28fb7)**
 
 ### Seedance 2.5 Thirty-Second Short in Lost Early-Video Texture
 
@@ -664,28 +657,6 @@ SETTING: Evening gym open floor, mats, mirrors, small speaker/phone, water bottl
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/doctorwasif-seedance-ai-653b4911153b)**
 
-### Young Woman Buying a Street Snack in an Old Korean Neighborhood
-
-> Haters will say this is slop Used Seedance 2.5 Prompt : Main subject: Young Korean woman, early 20s, wearing a faded gre
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-8c31560654cb.jpg" width="600" alt="Young Woman Buying a Street Snack in an Old Korean Neighborhood">](https://goodcase.ai/cases/aiwithkhan-seedance-ai-8c31560654cb)
-
-**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2091537613044039925) | **公開日:** 2026-08-23 | **ヒート:** 42
-
-**安定度:** 79/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.7) · [出力](https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-8c31560654cb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Main subject: Young Korean woman, early 20s, wearing a faded green T-shirt, loose white pajama pants, black sneakers and a simple necklace. Messy black hair tied back, natural appearance and consistent identity.
-Location: Small local street in an older Korean neighborhood during a warm afternoon. Narrow lane, tiny food stall, parked bicycles, concrete houses and leafy trees.
-Early-2000s MiniDV home-video aesthetic with shaky handheld movement, autofocus hunting, faded colors, exposure shifts, motion blur and accidental zooms.
-She walks down the lane and stops at a tiny street food stall. She orders a hot snack, watches it being prepared and laughs with the vendor. She takes the first bite, reacts happily, then notices the camera and offers a bite toward the lens before walking away.
-Audio: Street ambience, cooking sounds, footsteps, distant scooters, birds and casual conversation. No music.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-8c31560654cb)**
-
 ### Adventurer Escapes the Ruins Beneath a Mountain Village
 
 > Adventure gameplay with AI Seedance 2.5 on @wavespeed_ai Prompt : Create a 30-second photorealistic AAA third-person open-world action-adventure gameplay video,…
@@ -837,6 +808,28 @@ Audio: cabin interior of the filming car — engine idle, faint radio murmur, a 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-granny-funny-moment-2c26bc1ac563)**
+
+### Young Woman Buying a Street Snack in an Old Korean Neighborhood
+
+> Haters will say this is slop Used Seedance 2.5 Prompt : Main subject: Young Korean woman, early 20s, wearing a faded gre
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-8c31560654cb.jpg" width="600" alt="Young Woman Buying a Street Snack in an Old Korean Neighborhood">](https://goodcase.ai/cases/aiwithkhan-seedance-ai-8c31560654cb)
+
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2091537613044039925) | **公開日:** 2026-08-23 | **ヒート:** 41
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.7) · [出力](https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-8c31560654cb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Main subject: Young Korean woman, early 20s, wearing a faded green T-shirt, loose white pajama pants, black sneakers and a simple necklace. Messy black hair tied back, natural appearance and consistent identity.
+Location: Small local street in an older Korean neighborhood during a warm afternoon. Narrow lane, tiny food stall, parked bicycles, concrete houses and leafy trees.
+Early-2000s MiniDV home-video aesthetic with shaky handheld movement, autofocus hunting, faded colors, exposure shifts, motion blur and accidental zooms.
+She walks down the lane and stops at a tiny street food stall. She orders a hot snack, watches it being prepared and laughs with the vendor. She takes the first bite, reacts happily, then notices the camera and offers a bite toward the lens before walking away.
+Audio: Street ambience, cooking sounds, footsteps, distant scooters, birds and casual conversation. No music.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-8c31560654cb)**
 
 ### Seedance 2.5 Thirty-Second Story From Two Stitched Prompts
 
@@ -1275,300 +1268,6 @@ Cinematic 8K sci-fi action sequence, an athletic female warrior in advanced tact
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/avelyrahnai-seedance-ai-2356640051c4)**
 
-### Nighttime Gymnasium Water Battle
-
-> Seedance 2.5 Prompt Sharing / 30s Prompt: SEEDANCE 2.5 — PYONA Water Battle / Final School Gymnasium Version Use exactly 1 uploaded image asset. imag
-
-[<img src="https://media.goodcase.ai/media/poster/pyona-ai-seedance-ai-47b0906eef64.jpg" width="600" alt="Nighttime Gymnasium Water Battle">](https://goodcase.ai/cases/pyona-ai-seedance-ai-47b0906eef64)
-
-**作者:** @pyona_ai | **出典:** [元投稿](https://x.com/pyona_ai/status/2091862645720879213) | **公開日:** 2026-08-24 | **ヒート:** 40
-
-<details>
-<summary><b>プロンプト全文（276 行、クリックで展開）</b></summary>
-
-```
-SEEDANCE 2.5 — PYONA 水系战斗 / 学校体育馆最终版
-
-Use exactly 1 uploaded image asset.
-image1 = PYONA唯一且最高优先级人物身份与外观参考。严格保持她可辨识的脸部身份、五官比例、肤色、体型，以及image1中实际存在的服装造型与所有可见配件一致。PYONA的服装、服装颜色、款式、层次、鞋子及所有可见配件必须完全以image1为准，不得额外指定、替换或重新设计成其他服装。PYONA必须始终保持浅粉蓝色短发、自然刘海、白色云朵发夹、蓝色小鱼发夹。浅粉蓝发色绝对固定，禁止黑发、棕发、纯蓝发或其他颜色。人物必须像同一个真实韩国女性自然重新拍摄，禁止换脸感、贴图感、AI塑料皮肤、3D、游戏CG。
-生成严格30秒、16:9横屏、原生4K、24fps、超写实真人韩国超自然校园动作短片。REAL LIVE-ACTION + real Korean school gymnasium + premium transparent-water VFX。无BGM、无字幕、无旁白。
-
-【核心设定】
-PYONA早已完成水系觉醒并熟练掌握能力。本片不是再次觉醒。禁止研究手掌、惊讶自己会控水、停下来欣赏水。
-敌人共5名，全部为成年年轻韩国女性，全部不同脸、不同发型、不同气质。穿同一学校体系女校制服，但领带松散、衬衫略乱、部分加深色开衫或短外套，呈现危险、嚣张、压迫感很强的不良女生气质。禁止甜美偶像感。
-敌人必须真正主动进攻，不排队、不等待、不围着PYONA看她表演。
-
-【场景】
-夜间韩国学校体育馆。中央篮球场、真实木地板、篮球架、边线、墙边折叠垫、球车、器材架、舞台前开阔区域。冷白顶灯，木地板有真实反光。晚间清洁后局部存在薄水痕，饮水区有少量残水，PYONA也可快速凝聚空气湿气。
-空间连续：中央球场 → 边线附近 → 舞台前开阔区域。禁止突然换位置。
-【台词】
-领头者：“어디 가려고?”
-另一名女生：“잡아!”
-PYONA全程无台词。
-【最高优先级动作原则】
-FIGHT AGGRESSIVELY. ZERO CAUTIOUS CHOREOGRAPHY.
-所有动作必须快速、突然、强硬、毫不犹豫。绝对不要温柔推人、轻轻挡开、慢慢滑行、等待对方配合。
-Every major attack uses committed full-body momentum, visible acceleration, hard physical contact, body compression, immediate loss of balance and believable recovery delay.
-PYONA可以被拳头擦到、被撞到、被抓住，绝不是完美无伤闪避。
-敌人也持续攻击，即使PYONA正在打另一个人，其他人仍然寻找角度冲上来。
-动作必须像真实电影危险打斗，而不是谨慎武术教学。
-【00:00–00:07 — 正面重击 / 完整倒地 / 嘲笑】
-第一镜头必须直接看见PYONA正脸或3/4正面脸，绝对禁止从PYONA背后开始。
-中央篮球场，5名不良女生近距离包围PYONA。PYONA明显紧张、警戒，但没有提前摆英雄战斗姿势。
-
-领头者从正面走近，看着她说：“어디 가려고?”
-下一瞬间没有缓慢蓄力，领头者突然朝PYONA腹部打出一记短、重、直接的拳击。
-必须清楚看见：
-FIST → REAL ABDOMEN CONTACT → CLOTHING COMPRESSION → BODY FOLD.
-
-PYONA眼神瞬间失焦，眉头紧皱，嘴唇微张，呼吸被硬生生打断。上身猛地折起，踉跄后退1–2步，鞋底摩擦木地板，然后真正失去平衡。
-侧臀先落地，一只手随后重重撑住木地板。
-必须完整表现：
-HIT → BODY FOLD → STUMBLE → LOSS OF BALANCE → HARD FALL.
-禁止被打后马上恢复。
-周围女生立刻爆发真实嘲笑。有人捂嘴笑，有人和同伴交换眼神后大笑，有人低头指着她笑，领头者站着轻蔑看她。不要5人机械同步笑。
-
-低机位清楚拍到PYONA的脸。她一手按住腹部，一手撑地，急促喘息。
-表情自然变化：
-疼痛 → 狼狈 → 屈辱 → 压住愤怒 → 眼神逐渐变冷。
-她没有挥手施法。
-她撑地的手掌突然压紧，一条腿收回，肩、腰、髋同时准备低位旋转。
-周围薄水痕快速贴向她的支撑手、腿和鞋底。
-【00:07–00:11 — LOW WATER SPIN SWEEP / 超高速原地圆形扫腿】
-这是第一反击，也是本片最重要动作之一。
-两名仍在嘲笑PYONA的不良女生已经站到她近距离，一名位于正前偏左，一名位于正前偏右。第三名正在稍后位置靠近。两名近身敌人的脚踝与小腿必须明确处于PYONA真实扫腿范围内。
-镜头必须先清楚建立：
-倒在地上的PYONA正脸或3/4正面脸 + 她撑地的一只手 + 准备伸直的扫腿 + 两名敌人的腿部位置。
-PYONA仍处于刚刚摔倒的低位姿势。
-她绝对不要向前移动、不要扑向敌人、不要滑行。
-她一只手猛地、牢牢撑住木地板，支撑手的位置基本固定。
-身体重心压得极低，髋部接近木地板。
-一条腿收紧辅助身体形成转轴，另一条腿迅速完全伸直，保持在脚踝至小腿高度。
-
-下一瞬间：
-EXPLOSIVE LOW CIRCULAR LEG SWEEP.
-PYONA以固定的撑地手和低位髋部为旋转中心，肩、腰、髋同时猛烈爆发发力，在原来的倒地位置突然完成一次极快、极凶狠的低位圆形扫腿。
-
-NO FORWARD TRAVEL.
-NO SLIDING FORWARD.
-NO TACKLE.
-NO CHARGING INTO THE ENEMY.
-BODY CENTER REMAINS ALMOST IN PLACE.
-
-她伸直的腿像一根高速旋转的横杆一样，紧贴木地板上方，以极快圆弧扫过周围敌人的脚踝和小腿。
-
-透明水流紧紧贴着PYONA的扫腿、鞋底与腿部圆形运动轨迹同步高速旋转，只用于增强她的旋转速度、横向冲击力和扫腿力量。
-真正让敌人倒下的必须首先是PYONA自己的腿部直接接触。
-
-第一名敌人：
-PYONA伸直的腿高速、结实地撞中她的脚踝与小腿。
-支撑腿立即被强行横向扫走。
-敌人没有时间慢慢反应，身体轴线瞬间崩溃，整个人立刻重重向侧面摔到木地板。
-PYONA完全不停顿。
-
-利用同一次高速原地旋转，她伸直的腿继续横扫第二名敌人的小腿下段。
-扫腿真实命中，同时紧贴PYONA腿部旋转的透明水流猛烈掠过第二名敌人的另一只支撑脚。
-她的双脚迅速失去稳定，身体被强力掀离原来的直立轴线，紧接着重重摔倒。
-第三名靠后的敌人正在逼近，但没有处于PYONA腿部直接攻击距离。
-她受到高速扩散的低位水流、前方两名同伴突然摔倒以及空间变化影响，被迫急退并踉跄，但禁止无缘无故自动摔倒。
-
-核心扫腿动作必须极快。
-
-从PYONA髋部开始爆发旋转，到连续扫中两名敌人，真正的圆形扫腿核心动作必须在约0.8–1.0秒内完成。
-
-剩余时间只用于：
-敌人靠近 → PYONA建立低位支撑姿势 → 两次真实命中后的快速摔地反应。
-必须明确表现：
-FALLEN LOW POSITION
-→ ONE HAND HARD PLANT
-→ ONE LEG FULLY EXTENDED
-→ EXPLOSIVE HIP ROTATION
-→ FAST IN-PLACE CIRCULAR SWEEP
-→ FIRST REAL LEG CONTACT
-→ IMMEDIATE HARD FALL
-→ CONTINUOUS ROTATION
-→ SECOND REAL LEG CONTACT
-→ SECOND HARD FALL.
-The sweep is sudden, violent, explosive and fully committed.
-The enemies are not gently pushed.
-Their support legs are forcefully swept out from under them.
-They fall immediately because their physical base is removed.
-
-绝对禁止：
-slow sliding,
-slide tackle,
-forward crawling,
-forward body travel,
-slow spinning,
-breakdance performance,
-dance-like rotation,
-careful sweep,
-soft contact,
-enemies falling before leg contact,
-enemies gently sitting down,
-PYONA traveling across the floor during the sweep.
-周围笑声瞬间全部停止。
-【00:11–00:15 — HYDRO STEP / 强攻第三人】
-另一名敌人惊怒大喊：“잡아!” 并直接冲上来挥拳。
-
-PYONA没有慢慢起身。她支撑手和脚底水分瞬间向后爆开，HYDRO STEP把她从低位快速推起并直接向敌人切入。
-对方拳头擦过PYONA脸侧，PYONA头部有真实小幅偏转，但不后退。
-
-她把水压推进产生的速度直接转化为强力 SHOULDER CRASH，肩部结实撞中对方上身，使其明显后退。
-
-紧跟一记短而重的BODY KNEE准确击中腹部。
-HYDRO STEP → SHOULDER CRASH → KNEE.
-动作连续、快速、凶狠，无等待。
-
-【00:15–00:18 — WATER GUARD / 硬接反击】
-另一名敌人立刻从正面打出重拳，同时旁边还有人逼近。
-PYONA抬起前臂，WATER GUARD瞬间形成高速旋转的透明厚水膜。
-
-拳头必须真实撞入水膜。
-SPLASH.
-水猛烈炸开，PYONA的前臂也因冲击向后震动半拍，但水膜把拳路强行推偏。
-PYONA马上贴入空档，一记短而重的肘击准确撞中敌人上身。
-不要漂亮停顿。
-不要摆Pose。
-马上进入下一威胁。
-
-【00:18–00:23 — FACE WATER CANNON】
-一名敌人从正面高速逼近，准备再次攻击。
-
-不要让PYONA站着慢慢聚水。
-不要长时间蓄力。
-
-PYONA快速抬掌。地板水痕、散落水滴和空气湿气几乎瞬间汇聚到掌前。
-
-FACE WATER CANNON.
-一股短促、猛烈、集中的透明高压水柱直接正面轰向敌人脸部与上胸。
-必须看清：
-INSTANT WATER GATHER → VIOLENT FORWARD WATER JET → DIRECT FACE / HEAD / UPPER-CHEST IMPACT.
-水炮强力撞中脸部，对方头部猛然后仰，眼睛本能闭紧，头发与校服瞬间被冲向后方，身体连续后退并短暂失去方向感。
-不是漂亮喷泉。
-不是轻轻泼水。
-必须像强力高压水流突然正面轰中。
-
-PYONA立即向前压迫，不站着看结果。
-
-【00:23–00:26 — RING WATER SHOCKWAVE / 环形水波震退】
-剩余几名女生从不同方向同时重新逼近PYONA。
-
-禁止生成静态水结界。
-禁止透明球形护盾。
-
-敌人真正快速进入近距离时，PYONA猛地压低重心并将力量向地面释放。
-周围水分瞬间被拉向她脚下，随后：
-RING WATER SHOCKWAVE.
-以PYONA为中心，一圈强烈、透明、具有重量的环形水压波突然沿木地板和低位空间向四周爆炸式扩散。
-
-不是防护罩。
-这是向外猛烈释放的水压冲击。
-
-正在逼近的敌人必须发生强烈物理反应：
-一人上身被水压正面推退数步；
-一人重心被掀向后方；
-一人与侧面的同伴猛烈撞在一起；
-另一人脚下打滑、膝盖几乎着地。
-所有反应必须发生在水波真正接触身体之后。
-领头者没有完全倒下。她强行顶住第一波冲击，调整脚步后继续正面扑向PYONA。
-
-这自然建立最终1对1攻击线。
-【00:26–00:30 — HYDRAULIC PALM / 最终高潮】
-领头者强行冲过残余水流，正面高速接近并挥出强力拳击。
-
-PYONA不从远距离发射魔法。
-
-她主动向前踏入真正攻击距离，身体偏转，让领头者拳头从脸侧擦过。
-
-同时右手周围水分高速压缩。
-PYONA右掌必须先真实、重重地撞入领头者上身中央。
-
-先看见：
-PALM PHYSICAL CONTACT → CLOTHING / BODY COMPRESSION.
-0.1–0.2秒 micro slow motion：
-WATER COMPRESSION
-→ dense cavitation bubbles
-→ HYDRAULIC COLLAPSE.
-TIME SNAP.
-HYDRAULIC PALM爆发。
-强烈透明水压从实际掌部接触点瞬间向前爆开。领头者整个上身被猛烈震退，双脚失去稳定，在体育馆木地板上高速向后滑出，大片水雾和碎裂水滴向外爆散，沉重冲击声在体育馆内形成强烈回音。
-最后一名敌人立刻从侧后方扑向PYONA，不给她休息。
-PYONA利用地面水流瞬间干扰她的前脚，使冲刺节奏短暂断裂。紧接极短HYDRO STEP转身贴入。
-另一只手掌重重按中对方肩胸线。
-SHORT HYDRAULIC PRESSURE PALM.
-短距离水压再次从接触点爆开，对方立即被推倒并沿木地板滑出。
-PYONA不庆祝、不欣赏水、不摆英雄Pose。
-她仍然急促喘息，浅粉蓝短发明显因战斗变得稍微凌乱，脸侧和image1中的服装表面残留真实水滴。
-她立即转身保持战斗姿态，快速扫描体育馆。
-
-CUT WHILE TENSION IS STILL ACTIVE.
-【TARGET LOCK】
-所有攻击必须先存在明确目标和正确距离：
-VISIBLE ENEMY → CORRECT RANGE → ATTACK → PHYSICAL CONTACT / WATER CONTACT → IMMEDIATE REACTION.
-LOW WATER SPIN SWEEP必须看见PYONA的真实腿扫中敌人下盘。
-敌人绝不能在没有受力原因时自己跌倒。
-SHOULDER CRASH、KNEE、ELBOW必须真实接触。
-FACE WATER CANNON必须清楚正面击中敌人脸部/上胸。
-RING WATER SHOCKWAVE必须先接触靠近的敌人，再把她们强力震退。
-HYDRAULIC PALM必须先真实掌部接触，之后才发生水压爆发。
-【摄影】
-第一镜头必须正面或3/4正面看清PYONA的脸和5人包围关系，禁止背影开场。
-PYONA倒地后摄影机立刻降低到接近木地板的高度，同时捕捉她的疼痛表情、周围女生嘲笑和敌人的腿部位置。
-
-LOW WATER SPIN SWEEP这一个动作的摄影机不要高速绕着PYONA旋转，也不要跟着她向前移动。使用低机位、稍宽的侧前方视角，在PYONA扫腿核心动作的0.8–1.0秒内保持稳定清晰，让同一画面能够读到：
-PYONA固定撑地手 + 低位髋部旋转 + 伸直扫腿 + 第一名敌人腿部被命中 + 第二名敌人随后被扫中。
-不要用慢动作表现这次扫腿。
-HYDRO STEP使用快速跟拍。
-WATER GUARD中近景拍清拳头撞入水膜。
-FACE WATER CANNON必须看见水从PYONA掌前直接轰中敌人脸部。
-RING WATER SHOCKWAVE使用稍宽镜头，同时看见PYONA、围攻者和环形水压向外爆开。
-最后HYDRAULIC PALM进入强烈中近景，优先展示身体接触、衣料压缩、水压爆发和敌人反应。
-ACTION READABILITY > PHYSICAL IMPACT > WATER POWER > CAMERA CHAOS.
-【绝对禁止】
-禁止第一镜头只拍PYONA背影。
-禁止重新觉醒。
-禁止PYONA研究自己的水能力。
-禁止开场未完整摔倒就反击。
-禁止LOW WATER SPIN SWEEP变成：
-slow slide、
-slide tackle、
-forward crawl、
-forward travel、
-slow spin、
-breakdance、
-dance move、
-slow-motion spinning attack。
-禁止PYONA在扫腿时向敌人方向滑过去。
-禁止PYONA身体中心在扫腿过程中明显向前移动。
-禁止轻轻碰腿后敌人才慢慢倒下。
-禁止敌人在没有明确腿部接触的情况下自动摔倒。
-禁止PYONA轻轻挥手后敌人自动摔倒。
-禁止任何谨慎、轻柔、慢吞吞的格斗。
-禁止敌人排队。
-禁止敌人受击后没有明显身体反应。
-禁止18秒站着长时间聚水。
-禁止FACE WATER CANNON像轻柔喷水。
-禁止23秒生成静态水结界或保护罩。
-禁止巨大海啸、水龙、魔法阵、激光、能量球、瞬移。
-禁止攻击篮球架、器材或空气。
-禁止游戏CG人物、廉价动漫特效、AI塑料皮肤。
-禁止英雄Pose收尾。
-核心目标：
-开场必须清楚看见PYONA的脸。她被正面重拳击中腹部后真实、完整地摔倒，并被周围女生大声嘲笑。
-第一反击必须严格表现为原地低位圆形扫腿，而不是任何形式的滑行或冲刺。
-PYONA仍然倒在原来的位置，一只手牢牢撑地，以该支撑点和低位髋部为轴，一条腿完全伸直，在约0.8–1.0秒内完成爆发式高速圆形横扫。她的身体中心基本保持原位，真正移动的是高速旋转的腿。腿先真实扫中第一名敌人的脚踝/小腿，使其支撑腿瞬间失效并重重摔倒；同一次旋转立即继续扫中第二名敌人，使其同样失去下盘并重摔。
-水只能贴着PYONA真实扫腿轨迹增强速度、冲击和横向力量，绝不能代替腿部接触自动把人打倒。
-除此之外，后续动作保持原有结构不变：
-Hydro Step高速突进 → Water Guard硬接攻击 → Face Water Cannon正面强力轰击 → Ring Water Shockwave把多人向外猛烈震退 → Hydraulic Palm以真实掌部接触结合极高水压完成高潮。
-
-整场动作必须强硬、快速、危险、毫不克制，绝不能呈现谨慎、温柔或慢吞吞的动作感觉。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/pyona-ai-seedance-ai-47b0906eef64)**
-
 ### Hardcore Cartel Hideout Action Scene
 
 > A heavily cinematic lone-hero action sequence in which a battle-worn tough guy shoots his way out of a cartel hideout.
@@ -1612,24 +1311,6 @@ RULES: References are appearance only, do not recreate. Keep the hero's face and
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-f6a1af7d22b1)**
-
-### Karakoram Motorcycle Commercial
-
-> A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
-
-[<img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="600" alt="Karakoram Motorcycle Commercial">](https://goodcase.ai/cases/karakoram-motorcycle-commercial)
-
-**作者:** @AI_with_Antonio | **出典:** [元投稿](https://x.com/AI_with_Antonio/status/2088599346908365227) | **公開日:** 2026-08-15 | **ヒート:** 39
-
-**安定度:** 87/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.8) · [出力](https://media.goodcase.ai/retests/karakoram-motorcycle-commercial/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h. The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip. The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details. The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting. Cinematic Direction: Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks. Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur. Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains. Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere. Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested. Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/karakoram-motorcycle-commercial)**
 
 ### Kansai MiniDV Travel Memories Through Her Boyfriend’s Eyes
 
@@ -1732,50 +1413,6 @@ Exactly one stable adult heroine, full modest coverage, consistent hijab and gla
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-exactly-30-seconds-of-photorealistic-live-action-japanese-travel-memorie-4c285efc3fa2)**
-
-### Sixty-Second 3D Fantasy Short in a Magical Forest
-
-> Made with seedance 2.5 Prompt 👇 Create a 60-second cinematic 3D animated fantasy short film set in a lush, magical forest beside a powerful waterfall. Opening …
-
-[<img src="https://media.goodcase.ai/cases/af3b3dd1180b.jpg" width="600" alt="Sixty-Second 3D Fantasy Short in a Magical Forest">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc)
-
-**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2096566193058693197) | **公開日:** 2026-09-06 | **ヒート:** 39
-
-<details>
-<summary><b>プロンプト全文（26 行、クリックで展開）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a 60-second cinematic 3D animated fantasy short film set in a lush, magical forest beside a powerful waterfall.
-
-Opening shot: A large, strange but adorable bird-like fantasy creature with a rounded body, long reddish-brown wings, a small expressive face, and a funny beak-like mouth rests near a shallow stream. The creature looks alert and slightly confused. Warm morning sunlight filters through the trees, creating soft golden rays and atmospheric mist.
-
-Cut to the waterfall: several tiny fluffy golden baby creatures are carried playfully through the rushing water. Show dynamic water splashes, mist, droplets, and dramatic cinematic camera movement as they tumble safely through the stream.
-
-The large winged creature notices them and moves toward the water, spreading its enormous wings. Use a low-angle cinematic shot to emphasize its size and expressive body language.
-
-Transition into a peaceful forest floor covered with wet leaves, moss, small branches, and shallow flowing water. A group of tiny fluffy yellow baby creatures run, stumble, tumble, and play together. Their movements are cute, energetic, innocent, and comedic. Include close-up shots of their curious faces, tiny feet, fluffy feathers, and exaggerated expressions.
-
-One baby creature crawls through a hollow log while another follows behind. The others gather around and playfully interact with each other. Use smooth tracking shots, low camera angles, macro close-ups, and shallow depth of field.
-
-The large winged creature flies low through the forest, wings spread wide, then lands dramatically near the babies. The landing creates a gentle burst of leaves and water droplets. The babies look up at it with surprised and curious expressions.
-
-Suddenly, a large wild gray wolf appears from the forest. The atmosphere becomes tense. The wolf slowly approaches the group of tiny creatures, growling and showing its teeth. The babies become frightened and gather together.
-
-The large winged guardian creature immediately steps between the wolf and the babies, spreading its huge wings protectively. Create a dramatic face-off between the guardian and the wolf. Use cinematic close-ups, intense eye contact, slow camera movement, atmospheric fog, flying leaves, and dramatic natural lighting.
-
-The wolf lunges forward, but the guardian protects the babies and forces the wolf back. The babies stay close together behind the guardian. After a tense confrontation, the wolf retreats into the forest.
-
-End with a wide cinematic shot of the peaceful forest, waterfall, stream, and warm sunlight. The guardian stands protectively beside the tiny creatures while they gather around it. The mood changes from suspenseful to warm, emotional, and heartwarming.
-
-Visual style: high-end cinematic 3D animation, ultra-detailed fluffy characters, realistic fur and feather textures, expressive faces, natural environmental lighting, volumetric sun rays, realistic water physics, atmospheric mist, soft depth of field, cinematic color grading, smooth character animation, dynamic camera movement, dramatic storytelling, realistic shadows, subtle film grain, premium animated-movie quality, 4K, widescreen composition, emotionally expressive and visually immersive.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc)**
 
 ### POV: Your Favorite Song Starts Playing in Public
 
@@ -2106,6 +1743,318 @@ The realism should come from tiny imperfections, casual body language, natural e
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aqib-786ai-seedance-ai-9fcb27bab8b2)**
 
+### Nighttime Gymnasium Water Battle
+
+> Seedance 2.5 Prompt Sharing / 30s Prompt: SEEDANCE 2.5 — PYONA Water Battle / Final School Gymnasium Version Use exactly 1 uploaded image asset. imag
+
+[<img src="https://media.goodcase.ai/media/poster/pyona-ai-seedance-ai-47b0906eef64.jpg" width="600" alt="Nighttime Gymnasium Water Battle">](https://goodcase.ai/cases/pyona-ai-seedance-ai-47b0906eef64)
+
+**作者:** @pyona_ai | **出典:** [元投稿](https://x.com/pyona_ai/status/2091862645720879213) | **公開日:** 2026-08-24 | **ヒート:** 39
+
+<details>
+<summary><b>プロンプト全文（276 行、クリックで展開）</b></summary>
+
+```
+SEEDANCE 2.5 — PYONA 水系战斗 / 学校体育馆最终版
+
+Use exactly 1 uploaded image asset.
+image1 = PYONA唯一且最高优先级人物身份与外观参考。严格保持她可辨识的脸部身份、五官比例、肤色、体型，以及image1中实际存在的服装造型与所有可见配件一致。PYONA的服装、服装颜色、款式、层次、鞋子及所有可见配件必须完全以image1为准，不得额外指定、替换或重新设计成其他服装。PYONA必须始终保持浅粉蓝色短发、自然刘海、白色云朵发夹、蓝色小鱼发夹。浅粉蓝发色绝对固定，禁止黑发、棕发、纯蓝发或其他颜色。人物必须像同一个真实韩国女性自然重新拍摄，禁止换脸感、贴图感、AI塑料皮肤、3D、游戏CG。
+生成严格30秒、16:9横屏、原生4K、24fps、超写实真人韩国超自然校园动作短片。REAL LIVE-ACTION + real Korean school gymnasium + premium transparent-water VFX。无BGM、无字幕、无旁白。
+
+【核心设定】
+PYONA早已完成水系觉醒并熟练掌握能力。本片不是再次觉醒。禁止研究手掌、惊讶自己会控水、停下来欣赏水。
+敌人共5名，全部为成年年轻韩国女性，全部不同脸、不同发型、不同气质。穿同一学校体系女校制服，但领带松散、衬衫略乱、部分加深色开衫或短外套，呈现危险、嚣张、压迫感很强的不良女生气质。禁止甜美偶像感。
+敌人必须真正主动进攻，不排队、不等待、不围着PYONA看她表演。
+
+【场景】
+夜间韩国学校体育馆。中央篮球场、真实木地板、篮球架、边线、墙边折叠垫、球车、器材架、舞台前开阔区域。冷白顶灯，木地板有真实反光。晚间清洁后局部存在薄水痕，饮水区有少量残水，PYONA也可快速凝聚空气湿气。
+空间连续：中央球场 → 边线附近 → 舞台前开阔区域。禁止突然换位置。
+【台词】
+领头者：“어디 가려고?”
+另一名女生：“잡아!”
+PYONA全程无台词。
+【最高优先级动作原则】
+FIGHT AGGRESSIVELY. ZERO CAUTIOUS CHOREOGRAPHY.
+所有动作必须快速、突然、强硬、毫不犹豫。绝对不要温柔推人、轻轻挡开、慢慢滑行、等待对方配合。
+Every major attack uses committed full-body momentum, visible acceleration, hard physical contact, body compression, immediate loss of balance and believable recovery delay.
+PYONA可以被拳头擦到、被撞到、被抓住，绝不是完美无伤闪避。
+敌人也持续攻击，即使PYONA正在打另一个人，其他人仍然寻找角度冲上来。
+动作必须像真实电影危险打斗，而不是谨慎武术教学。
+【00:00–00:07 — 正面重击 / 完整倒地 / 嘲笑】
+第一镜头必须直接看见PYONA正脸或3/4正面脸，绝对禁止从PYONA背后开始。
+中央篮球场，5名不良女生近距离包围PYONA。PYONA明显紧张、警戒，但没有提前摆英雄战斗姿势。
+
+领头者从正面走近，看着她说：“어디 가려고?”
+下一瞬间没有缓慢蓄力，领头者突然朝PYONA腹部打出一记短、重、直接的拳击。
+必须清楚看见：
+FIST → REAL ABDOMEN CONTACT → CLOTHING COMPRESSION → BODY FOLD.
+
+PYONA眼神瞬间失焦，眉头紧皱，嘴唇微张，呼吸被硬生生打断。上身猛地折起，踉跄后退1–2步，鞋底摩擦木地板，然后真正失去平衡。
+侧臀先落地，一只手随后重重撑住木地板。
+必须完整表现：
+HIT → BODY FOLD → STUMBLE → LOSS OF BALANCE → HARD FALL.
+禁止被打后马上恢复。
+周围女生立刻爆发真实嘲笑。有人捂嘴笑，有人和同伴交换眼神后大笑，有人低头指着她笑，领头者站着轻蔑看她。不要5人机械同步笑。
+
+低机位清楚拍到PYONA的脸。她一手按住腹部，一手撑地，急促喘息。
+表情自然变化：
+疼痛 → 狼狈 → 屈辱 → 压住愤怒 → 眼神逐渐变冷。
+她没有挥手施法。
+她撑地的手掌突然压紧，一条腿收回，肩、腰、髋同时准备低位旋转。
+周围薄水痕快速贴向她的支撑手、腿和鞋底。
+【00:07–00:11 — LOW WATER SPIN SWEEP / 超高速原地圆形扫腿】
+这是第一反击，也是本片最重要动作之一。
+两名仍在嘲笑PYONA的不良女生已经站到她近距离，一名位于正前偏左，一名位于正前偏右。第三名正在稍后位置靠近。两名近身敌人的脚踝与小腿必须明确处于PYONA真实扫腿范围内。
+镜头必须先清楚建立：
+倒在地上的PYONA正脸或3/4正面脸 + 她撑地的一只手 + 准备伸直的扫腿 + 两名敌人的腿部位置。
+PYONA仍处于刚刚摔倒的低位姿势。
+她绝对不要向前移动、不要扑向敌人、不要滑行。
+她一只手猛地、牢牢撑住木地板，支撑手的位置基本固定。
+身体重心压得极低，髋部接近木地板。
+一条腿收紧辅助身体形成转轴，另一条腿迅速完全伸直，保持在脚踝至小腿高度。
+
+下一瞬间：
+EXPLOSIVE LOW CIRCULAR LEG SWEEP.
+PYONA以固定的撑地手和低位髋部为旋转中心，肩、腰、髋同时猛烈爆发发力，在原来的倒地位置突然完成一次极快、极凶狠的低位圆形扫腿。
+
+NO FORWARD TRAVEL.
+NO SLIDING FORWARD.
+NO TACKLE.
+NO CHARGING INTO THE ENEMY.
+BODY CENTER REMAINS ALMOST IN PLACE.
+
+她伸直的腿像一根高速旋转的横杆一样，紧贴木地板上方，以极快圆弧扫过周围敌人的脚踝和小腿。
+
+透明水流紧紧贴着PYONA的扫腿、鞋底与腿部圆形运动轨迹同步高速旋转，只用于增强她的旋转速度、横向冲击力和扫腿力量。
+真正让敌人倒下的必须首先是PYONA自己的腿部直接接触。
+
+第一名敌人：
+PYONA伸直的腿高速、结实地撞中她的脚踝与小腿。
+支撑腿立即被强行横向扫走。
+敌人没有时间慢慢反应，身体轴线瞬间崩溃，整个人立刻重重向侧面摔到木地板。
+PYONA完全不停顿。
+
+利用同一次高速原地旋转，她伸直的腿继续横扫第二名敌人的小腿下段。
+扫腿真实命中，同时紧贴PYONA腿部旋转的透明水流猛烈掠过第二名敌人的另一只支撑脚。
+她的双脚迅速失去稳定，身体被强力掀离原来的直立轴线，紧接着重重摔倒。
+第三名靠后的敌人正在逼近，但没有处于PYONA腿部直接攻击距离。
+她受到高速扩散的低位水流、前方两名同伴突然摔倒以及空间变化影响，被迫急退并踉跄，但禁止无缘无故自动摔倒。
+
+核心扫腿动作必须极快。
+
+从PYONA髋部开始爆发旋转，到连续扫中两名敌人，真正的圆形扫腿核心动作必须在约0.8–1.0秒内完成。
+
+剩余时间只用于：
+敌人靠近 → PYONA建立低位支撑姿势 → 两次真实命中后的快速摔地反应。
+必须明确表现：
+FALLEN LOW POSITION
+→ ONE HAND HARD PLANT
+→ ONE LEG FULLY EXTENDED
+→ EXPLOSIVE HIP ROTATION
+→ FAST IN-PLACE CIRCULAR SWEEP
+→ FIRST REAL LEG CONTACT
+→ IMMEDIATE HARD FALL
+→ CONTINUOUS ROTATION
+→ SECOND REAL LEG CONTACT
+→ SECOND HARD FALL.
+The sweep is sudden, violent, explosive and fully committed.
+The enemies are not gently pushed.
+Their support legs are forcefully swept out from under them.
+They fall immediately because their physical base is removed.
+
+绝对禁止：
+slow sliding,
+slide tackle,
+forward crawling,
+forward body travel,
+slow spinning,
+breakdance performance,
+dance-like rotation,
+careful sweep,
+soft contact,
+enemies falling before leg contact,
+enemies gently sitting down,
+PYONA traveling across the floor during the sweep.
+周围笑声瞬间全部停止。
+【00:11–00:15 — HYDRO STEP / 强攻第三人】
+另一名敌人惊怒大喊：“잡아!” 并直接冲上来挥拳。
+
+PYONA没有慢慢起身。她支撑手和脚底水分瞬间向后爆开，HYDRO STEP把她从低位快速推起并直接向敌人切入。
+对方拳头擦过PYONA脸侧，PYONA头部有真实小幅偏转，但不后退。
+
+她把水压推进产生的速度直接转化为强力 SHOULDER CRASH，肩部结实撞中对方上身，使其明显后退。
+
+紧跟一记短而重的BODY KNEE准确击中腹部。
+HYDRO STEP → SHOULDER CRASH → KNEE.
+动作连续、快速、凶狠，无等待。
+
+【00:15–00:18 — WATER GUARD / 硬接反击】
+另一名敌人立刻从正面打出重拳，同时旁边还有人逼近。
+PYONA抬起前臂，WATER GUARD瞬间形成高速旋转的透明厚水膜。
+
+拳头必须真实撞入水膜。
+SPLASH.
+水猛烈炸开，PYONA的前臂也因冲击向后震动半拍，但水膜把拳路强行推偏。
+PYONA马上贴入空档，一记短而重的肘击准确撞中敌人上身。
+不要漂亮停顿。
+不要摆Pose。
+马上进入下一威胁。
+
+【00:18–00:23 — FACE WATER CANNON】
+一名敌人从正面高速逼近，准备再次攻击。
+
+不要让PYONA站着慢慢聚水。
+不要长时间蓄力。
+
+PYONA快速抬掌。地板水痕、散落水滴和空气湿气几乎瞬间汇聚到掌前。
+
+FACE WATER CANNON.
+一股短促、猛烈、集中的透明高压水柱直接正面轰向敌人脸部与上胸。
+必须看清：
+INSTANT WATER GATHER → VIOLENT FORWARD WATER JET → DIRECT FACE / HEAD / UPPER-CHEST IMPACT.
+水炮强力撞中脸部，对方头部猛然后仰，眼睛本能闭紧，头发与校服瞬间被冲向后方，身体连续后退并短暂失去方向感。
+不是漂亮喷泉。
+不是轻轻泼水。
+必须像强力高压水流突然正面轰中。
+
+PYONA立即向前压迫，不站着看结果。
+
+【00:23–00:26 — RING WATER SHOCKWAVE / 环形水波震退】
+剩余几名女生从不同方向同时重新逼近PYONA。
+
+禁止生成静态水结界。
+禁止透明球形护盾。
+
+敌人真正快速进入近距离时，PYONA猛地压低重心并将力量向地面释放。
+周围水分瞬间被拉向她脚下，随后：
+RING WATER SHOCKWAVE.
+以PYONA为中心，一圈强烈、透明、具有重量的环形水压波突然沿木地板和低位空间向四周爆炸式扩散。
+
+不是防护罩。
+这是向外猛烈释放的水压冲击。
+
+正在逼近的敌人必须发生强烈物理反应：
+一人上身被水压正面推退数步；
+一人重心被掀向后方；
+一人与侧面的同伴猛烈撞在一起；
+另一人脚下打滑、膝盖几乎着地。
+所有反应必须发生在水波真正接触身体之后。
+领头者没有完全倒下。她强行顶住第一波冲击，调整脚步后继续正面扑向PYONA。
+
+这自然建立最终1对1攻击线。
+【00:26–00:30 — HYDRAULIC PALM / 最终高潮】
+领头者强行冲过残余水流，正面高速接近并挥出强力拳击。
+
+PYONA不从远距离发射魔法。
+
+她主动向前踏入真正攻击距离，身体偏转，让领头者拳头从脸侧擦过。
+
+同时右手周围水分高速压缩。
+PYONA右掌必须先真实、重重地撞入领头者上身中央。
+
+先看见：
+PALM PHYSICAL CONTACT → CLOTHING / BODY COMPRESSION.
+0.1–0.2秒 micro slow motion：
+WATER COMPRESSION
+→ dense cavitation bubbles
+→ HYDRAULIC COLLAPSE.
+TIME SNAP.
+HYDRAULIC PALM爆发。
+强烈透明水压从实际掌部接触点瞬间向前爆开。领头者整个上身被猛烈震退，双脚失去稳定，在体育馆木地板上高速向后滑出，大片水雾和碎裂水滴向外爆散，沉重冲击声在体育馆内形成强烈回音。
+最后一名敌人立刻从侧后方扑向PYONA，不给她休息。
+PYONA利用地面水流瞬间干扰她的前脚，使冲刺节奏短暂断裂。紧接极短HYDRO STEP转身贴入。
+另一只手掌重重按中对方肩胸线。
+SHORT HYDRAULIC PRESSURE PALM.
+短距离水压再次从接触点爆开，对方立即被推倒并沿木地板滑出。
+PYONA不庆祝、不欣赏水、不摆英雄Pose。
+她仍然急促喘息，浅粉蓝短发明显因战斗变得稍微凌乱，脸侧和image1中的服装表面残留真实水滴。
+她立即转身保持战斗姿态，快速扫描体育馆。
+
+CUT WHILE TENSION IS STILL ACTIVE.
+【TARGET LOCK】
+所有攻击必须先存在明确目标和正确距离：
+VISIBLE ENEMY → CORRECT RANGE → ATTACK → PHYSICAL CONTACT / WATER CONTACT → IMMEDIATE REACTION.
+LOW WATER SPIN SWEEP必须看见PYONA的真实腿扫中敌人下盘。
+敌人绝不能在没有受力原因时自己跌倒。
+SHOULDER CRASH、KNEE、ELBOW必须真实接触。
+FACE WATER CANNON必须清楚正面击中敌人脸部/上胸。
+RING WATER SHOCKWAVE必须先接触靠近的敌人，再把她们强力震退。
+HYDRAULIC PALM必须先真实掌部接触，之后才发生水压爆发。
+【摄影】
+第一镜头必须正面或3/4正面看清PYONA的脸和5人包围关系，禁止背影开场。
+PYONA倒地后摄影机立刻降低到接近木地板的高度，同时捕捉她的疼痛表情、周围女生嘲笑和敌人的腿部位置。
+
+LOW WATER SPIN SWEEP这一个动作的摄影机不要高速绕着PYONA旋转，也不要跟着她向前移动。使用低机位、稍宽的侧前方视角，在PYONA扫腿核心动作的0.8–1.0秒内保持稳定清晰，让同一画面能够读到：
+PYONA固定撑地手 + 低位髋部旋转 + 伸直扫腿 + 第一名敌人腿部被命中 + 第二名敌人随后被扫中。
+不要用慢动作表现这次扫腿。
+HYDRO STEP使用快速跟拍。
+WATER GUARD中近景拍清拳头撞入水膜。
+FACE WATER CANNON必须看见水从PYONA掌前直接轰中敌人脸部。
+RING WATER SHOCKWAVE使用稍宽镜头，同时看见PYONA、围攻者和环形水压向外爆开。
+最后HYDRAULIC PALM进入强烈中近景，优先展示身体接触、衣料压缩、水压爆发和敌人反应。
+ACTION READABILITY > PHYSICAL IMPACT > WATER POWER > CAMERA CHAOS.
+【绝对禁止】
+禁止第一镜头只拍PYONA背影。
+禁止重新觉醒。
+禁止PYONA研究自己的水能力。
+禁止开场未完整摔倒就反击。
+禁止LOW WATER SPIN SWEEP变成：
+slow slide、
+slide tackle、
+forward crawl、
+forward travel、
+slow spin、
+breakdance、
+dance move、
+slow-motion spinning attack。
+禁止PYONA在扫腿时向敌人方向滑过去。
+禁止PYONA身体中心在扫腿过程中明显向前移动。
+禁止轻轻碰腿后敌人才慢慢倒下。
+禁止敌人在没有明确腿部接触的情况下自动摔倒。
+禁止PYONA轻轻挥手后敌人自动摔倒。
+禁止任何谨慎、轻柔、慢吞吞的格斗。
+禁止敌人排队。
+禁止敌人受击后没有明显身体反应。
+禁止18秒站着长时间聚水。
+禁止FACE WATER CANNON像轻柔喷水。
+禁止23秒生成静态水结界或保护罩。
+禁止巨大海啸、水龙、魔法阵、激光、能量球、瞬移。
+禁止攻击篮球架、器材或空气。
+禁止游戏CG人物、廉价动漫特效、AI塑料皮肤。
+禁止英雄Pose收尾。
+核心目标：
+开场必须清楚看见PYONA的脸。她被正面重拳击中腹部后真实、完整地摔倒，并被周围女生大声嘲笑。
+第一反击必须严格表现为原地低位圆形扫腿，而不是任何形式的滑行或冲刺。
+PYONA仍然倒在原来的位置，一只手牢牢撑地，以该支撑点和低位髋部为轴，一条腿完全伸直，在约0.8–1.0秒内完成爆发式高速圆形横扫。她的身体中心基本保持原位，真正移动的是高速旋转的腿。腿先真实扫中第一名敌人的脚踝/小腿，使其支撑腿瞬间失效并重重摔倒；同一次旋转立即继续扫中第二名敌人，使其同样失去下盘并重摔。
+水只能贴着PYONA真实扫腿轨迹增强速度、冲击和横向力量，绝不能代替腿部接触自动把人打倒。
+除此之外，后续动作保持原有结构不变：
+Hydro Step高速突进 → Water Guard硬接攻击 → Face Water Cannon正面强力轰击 → Ring Water Shockwave把多人向外猛烈震退 → Hydraulic Palm以真实掌部接触结合极高水压完成高潮。
+
+整场动作必须强硬、快速、危险、毫不克制，绝不能呈现谨慎、温柔或慢吞吞的动作感觉。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/pyona-ai-seedance-ai-47b0906eef64)**
+
+### Karakoram Motorcycle Commercial
+
+> A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
+
+[<img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="600" alt="Karakoram Motorcycle Commercial">](https://goodcase.ai/cases/karakoram-motorcycle-commercial)
+
+**作者:** @AI_with_Antonio | **出典:** [元投稿](https://x.com/AI_with_Antonio/status/2088599346908365227) | **公開日:** 2026-08-15 | **ヒート:** 38
+
+**安定度:** 87/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.8) · [出力](https://media.goodcase.ai/retests/karakoram-motorcycle-commercial/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h. The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip. The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details. The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting. Cinematic Direction: Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks. Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur. Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains. Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere. Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested. Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/karakoram-motorcycle-commercial)**
+
 ### A Couple’s Summer Evening Walk Through Seoul
 
 > Cousin of that Baddie 🤯 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic early-2000s MiniDV home video of a young Korean woman and her boyfriend…
@@ -2279,6 +2228,50 @@ NEGATIVE: plastic skin, fake tears, exaggerated acting, cartoon expressions, mel
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-the-drama-continued-and-the-tension-kept-rising-1952e2660beb)**
+
+### Sixty-Second 3D Fantasy Short in a Magical Forest
+
+> Made with seedance 2.5 Prompt 👇 Create a 60-second cinematic 3D animated fantasy short film set in a lush, magical forest beside a powerful waterfall. Opening …
+
+[<img src="https://media.goodcase.ai/cases/af3b3dd1180b.jpg" width="600" alt="Sixty-Second 3D Fantasy Short in a Magical Forest">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc)
+
+**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2096566193058693197) | **公開日:** 2026-09-06 | **ヒート:** 38
+
+<details>
+<summary><b>プロンプト全文（26 行、クリックで展開）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 60-second cinematic 3D animated fantasy short film set in a lush, magical forest beside a powerful waterfall.
+
+Opening shot: A large, strange but adorable bird-like fantasy creature with a rounded body, long reddish-brown wings, a small expressive face, and a funny beak-like mouth rests near a shallow stream. The creature looks alert and slightly confused. Warm morning sunlight filters through the trees, creating soft golden rays and atmospheric mist.
+
+Cut to the waterfall: several tiny fluffy golden baby creatures are carried playfully through the rushing water. Show dynamic water splashes, mist, droplets, and dramatic cinematic camera movement as they tumble safely through the stream.
+
+The large winged creature notices them and moves toward the water, spreading its enormous wings. Use a low-angle cinematic shot to emphasize its size and expressive body language.
+
+Transition into a peaceful forest floor covered with wet leaves, moss, small branches, and shallow flowing water. A group of tiny fluffy yellow baby creatures run, stumble, tumble, and play together. Their movements are cute, energetic, innocent, and comedic. Include close-up shots of their curious faces, tiny feet, fluffy feathers, and exaggerated expressions.
+
+One baby creature crawls through a hollow log while another follows behind. The others gather around and playfully interact with each other. Use smooth tracking shots, low camera angles, macro close-ups, and shallow depth of field.
+
+The large winged creature flies low through the forest, wings spread wide, then lands dramatically near the babies. The landing creates a gentle burst of leaves and water droplets. The babies look up at it with surprised and curious expressions.
+
+Suddenly, a large wild gray wolf appears from the forest. The atmosphere becomes tense. The wolf slowly approaches the group of tiny creatures, growling and showing its teeth. The babies become frightened and gather together.
+
+The large winged guardian creature immediately steps between the wolf and the babies, spreading its huge wings protectively. Create a dramatic face-off between the guardian and the wolf. Use cinematic close-ups, intense eye contact, slow camera movement, atmospheric fog, flying leaves, and dramatic natural lighting.
+
+The wolf lunges forward, but the guardian protects the babies and forces the wolf back. The babies stay close together behind the guardian. After a tense confrontation, the wolf retreats into the forest.
+
+End with a wide cinematic shot of the peaceful forest, waterfall, stream, and warm sunlight. The guardian stands protectively beside the tiny creatures while they gather around it. The mood changes from suspenseful to warm, emotional, and heartwarming.
+
+Visual style: high-end cinematic 3D animation, ultra-detailed fluffy characters, realistic fur and feather textures, expressive faces, natural environmental lighting, volumetric sun rays, realistic water physics, atmospheric mist, soft depth of field, cinematic color grading, smooth character animation, dynamic camera movement, dramatic storytelling, realistic shadows, subtle film grain, premium animated-movie quality, 4K, widescreen composition, emotionally expressive and visually immersive.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc)**
 
 ### Aesthetic Café Vlog Goes Wrong in Autumn Seoul
 
@@ -2900,20 +2893,6 @@ Audio: heavy continuous helicopter rotor from both aircraft, rocket launch whoos
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e)**
-
-### Anime Food Video: Grilled Skewers and Pomegranate
-
-> Seedance 2.5 Prompt: Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef sl…
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778.jpg" width="600" alt="Anime Food Video: Grilled Skewers and Pomegranate">](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778)
-
-**作者:** @aiwithlumi | **出典:** [元投稿](https://x.com/aiwithlumi/status/2095496077764100446) | **公開日:** 2026-09-03 | **ヒート:** 35
-
-```
-Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef slices raw red meat into uniform cubes, seasons them with spices, then opens a ripe pomegranate and squeezes its juice and seeds into a bowl. Pour the juice into a tall glass with ice and sparkling mixer, then garnish with mint. Grill the seasoned meat cubes on skewers with peppers and onions, plate the juicy kebabs with fresh parsley, and present them beautifully beside the chilled pomegranate drink.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778)**
 
 ### A Young Woman’s Musical Journey Through Japan
 
@@ -3559,6 +3538,20 @@ She stops outside near the zoo exit in late-afternoon light. In selfie mode, she
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42)**
 
+### Anime Food Video: Grilled Skewers and Pomegranate
+
+> Seedance 2.5 Prompt: Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef sl…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778.jpg" width="600" alt="Anime Food Video: Grilled Skewers and Pomegranate">](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778)
+
+**作者:** @aiwithlumi | **出典:** [元投稿](https://x.com/aiwithlumi/status/2095496077764100446) | **公開日:** 2026-09-03 | **ヒート:** 34
+
+```
+Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef slices raw red meat into uniform cubes, seasons them with spices, then opens a ripe pomegranate and squeezes its juice and seeds into a bowl. Pour the juice into a tall glass with ice and sparkling mixer, then garnish with mint. Grill the seasoned meat cubes on skewers with peppers and onions, plate the juicy kebabs with fresh parsley, and present them beautifully beside the chilled pomegranate drink.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778)**
+
 ### A Girl by the Railway at Dawn in Seoul
 
 > Made with seedance 2.5 Prompt: Main Subject: young korean woman <<<image_1>>>, naturally attractive, realistic skin, min
@@ -4052,53 +4045,6 @@ Use karakter sheet - location 1 - location 2 (image)
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2)**
 
-### Seedance 2.5 Maldives Cycling Documentary in One Long Take
-
-> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b)
-
-**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088099038839316601) | **公開日:** 2026-08-14 | **ヒート:** 28
-
-**安定度:** 80/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80) · [出力](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
-
-shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
-
-TIMELINE
-
-0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
-
-2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
-
-4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
-
-6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
-
-8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
-
-10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
-
-12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
-
-14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
-
-16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
-
-Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b)**
-
 ### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
 
 > A 30-second vertical cycling vlog cutting between action cam, phone front camera and a chase bike. 4K photoreal, overcast light, sweat and pores, no beauty filter, every cut hard-coded.
@@ -4238,6 +4184,53 @@ Seedance 2.5 prompt 👇
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20)**
+
+### Seedance 2.5 Maldives Cycling Documentary in One Long Take
+
+> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088099038839316601) | **公開日:** 2026-08-14 | **ヒート:** 27
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80) · [出力](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b)**
 
 ### Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take
 

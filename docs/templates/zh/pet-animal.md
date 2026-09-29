@@ -70,8 +70,8 @@
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
-| <a href="https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259"><img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="160" alt="狐狸在森林溪流边自拍漫游"></a> | [狐狸在森林溪流边自拍漫游](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | 2.5 | 93 |
-| <a href="https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867"><img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="160" alt="猫咪自拍记录温馨的一天"></a> | [猫咪自拍记录温馨的一天](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) | 2.5 | 89 |
+| <a href="https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259"><img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="160" alt="狐狸在森林溪流边自拍漫游"></a> | [狐狸在森林溪流边自拍漫游](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) | 2.5 | 92 |
+| <a href="https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867"><img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="160" alt="猫咪自拍记录温馨的一天"></a> | [猫咪自拍记录温馨的一天](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) | 2.5 | 88 |
 | <a href="https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle"><img src="https://media.goodcase.ai/cases/80df57bc40f6.jpg" width="160" alt="Cats Chasing via Red Mini Motorcycle"></a> | [Cats Chasing via Red Mini Motorcycle](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) | 2.0 | 82 |
 | <a href="https://goodcase.ai/cases/underwater-animal-orchestra"><img src="https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg" width="160" alt="Underwater Animal Orchestra"></a> | [Underwater Animal Orchestra](https://goodcase.ai/cases/underwater-animal-orchestra) | 2.5 | 78 |
 | <a href="https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd"><img src="https://media.goodcase.ai/cases/71d7b3358a28.jpg" width="160" alt="雨天自拍中抢发圈扑镜头的小猫"></a> | [雨天自拍中抢发圈扑镜头的小猫](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) | 2.5 | 71 |

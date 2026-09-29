@@ -8,8 +8,8 @@ All 593 cases with full prompts, split per Seedance version and paged so GitHub 
 
 - [Seedance 2.5 · Part 1/5](./gallery-seedance-2-5-part-1.md) - cases 1–79 of 365.
 - [Seedance 2.5 · Part 2/5](./gallery-seedance-2-5-part-2.md) - cases 80–181 of 365.
-- [Seedance 2.5 · Part 3/5](./gallery-seedance-2-5-part-3.md) - cases 182–275 of 365.
-- [Seedance 2.5 · Part 4/5](./gallery-seedance-2-5-part-4.md) - cases 276–344 of 365.
+- [Seedance 2.5 · Part 3/5](./gallery-seedance-2-5-part-3.md) - cases 182–274 of 365.
+- [Seedance 2.5 · Part 4/5](./gallery-seedance-2-5-part-4.md) - cases 275–344 of 365.
 - [Seedance 2.5 · Part 5/5](./gallery-seedance-2-5-part-5.md) - cases 345–365 of 365.
 - [Seedance 2.0 · Part 1/3](./gallery-seedance-2-0-part-1.md) - cases 1–109 of 228.
 - [Seedance 2.0 · Part 2/3](./gallery-seedance-2-0-part-2.md) - cases 110–197 of 228.
@@ -29,9 +29,9 @@ The ten hottest cases across all versions; each link opens the full entry on its
 
 - [Frozen Time and Rewind in a 1950s Diner](./gallery-seedance-2-5-part-1.md#frozen-time-and-rewind-in-a-1950s-diner) - A 30-second Seedance 2.5 script that locks a diner spill at its peak, orbits the suspended coffee ribbons for a full circle, rewinds every person and droplet back to the exact starting positions, then erases the accident with a single casual wave.
 - [Seoul Summer Night Vlog](./gallery-seedance-2-5-part-1.md#seoul-summer-night-vlog) - A thorough scripted prompt for a nostalgic home-video-style clip of a summer night in Seoul.
-- [Two-Idol K-pop MV, Shot by Shot](./gallery-seedance-2-5-part-1.md#two-idol-k-pop-mv-shot-by-shot) - A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
 - [Mini DV Coffee ASMR Vlog](./gallery-seedance-2-5-part-1.md#mini-dv-coffee-asmr-vlog) - A cozy espresso-making vlog that manufactures authenticity out of consumer camcorder flaws — hand shake, focus hunting, auto-exposure shifts and tape grain — paired with an ASMR sound list, a three-second-per-beat storyboard and an explicit rule against looking commercial or AI-generated.
 - [Ordinary Day, Shot as an Ultra-Real Home Video](./gallery-seedance-2-5-part-1.md#ordinary-day-shot-as-an-ultra-real-home-video) - That Baddie again Say NO to Hollywood and YES to AI Seedance 2.5 Prompt : Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordin…
+- [Two-Idol K-pop MV, Shot by Shot](./gallery-seedance-2-5-part-1.md#two-idol-k-pop-mv-shot-by-shot) - A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
 - [Woman in Black Stands Still Amid a Synchronized Crowd](./gallery-seedance-2-5-part-1.md#woman-in-black-stands-still-amid-a-synchronized-crowd) - I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 - [Katsudon in a Sunlit Japanese Kitchen](./gallery-seedance-2-5-part-1.md#katsudon-in-a-sunlit-japanese-kitchen) - So delicious 😋 Seedance 2.5 Prompt: Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirel…
 - [An Afternoon in a Hammock and Washing a Motorcycle](./gallery-seedance-2-5-part-1.md#an-afternoon-in-a-hammock-and-washing-a-motorcycle) - Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…

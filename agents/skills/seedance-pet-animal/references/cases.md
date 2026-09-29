@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Fox’s Self-Filmed Walk Along a Forest Stream
 
-- Seedance 2.5 · creator: @MrDasOnX · heat: 93 · stability: 75
+- Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
 - Summary: Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
@@ -36,7 +36,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 ## E2 · A Cat's Cozy Day Filmed as a Selfie Vlog
 
-- Seedance 2.5 · creator: @ZaraIrahh · heat: 89 · stability: 70
+- Seedance 2.5 · creator: @ZaraIrahh · heat: 88 · stability: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg) · [original source](https://x.com/ZaraIrahh/status/2091385137133219971)
 - Summary: Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
 

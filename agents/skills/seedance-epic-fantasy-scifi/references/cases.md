@@ -56,7 +56,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 ## E4 · Apocalyptic Dragon-Rider Strikes the Armored Giant
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 79 · stability: 80
+- Seedance 2.0 · creator: @Zyrellix · heat: 78 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
 - Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
 

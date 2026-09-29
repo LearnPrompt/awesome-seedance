@@ -152,7 +152,7 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 ## E5 · Karakoram Motorcycle Commercial
 
-- Seedance 2.5 · creator: @AI_with_Antonio · heat: 39 · stability: 87
+- Seedance 2.5 · creator: @AI_with_Antonio · heat: 38 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) · [finished media](https://media.goodcase.ai/cases/f702b148dbed.mp4) · [poster](https://media.goodcase.ai/cases/fe0b785db335.jpg) · [original source](https://x.com/AI_with_Antonio/status/2088599346908365227)
 - Summary: A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
 

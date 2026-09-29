@@ -28,7 +28,7 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 ## E2 · A Wizard's Ten-Second Escape Plan: Become a Duck
 
-- Seedance 2.5 · creator: @AIwithNatalia · heat: 89
+- Seedance 2.5 · creator: @AIwithNatalia · heat: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f) · [finished media](https://media.goodcase.ai/cases/4cabc64762f9.mp4) · [poster](https://media.goodcase.ai/cases/15792e0fa5ef.jpg) · [original source](https://x.com/AIwithNatalia/status/2089170554725265625)
 - Summary: 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
 
@@ -93,7 +93,7 @@ Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting,
 
 ## E4 · Modern Action Comedy Video Prompt
 
-- Seedance 2.0 · creator: @pyona_ai · heat: 85
+- Seedance 2.0 · creator: @pyona_ai · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/modern-action-comedy-video-prompt) · [finished media](https://media.goodcase.ai/media/video/modern-action-comedy-video-prompt.mp4) · [poster](https://media.goodcase.ai/media/poster/modern-action-comedy-video-prompt.jpg) · [original source](https://x.com/pyona_ai/status/2088605198973583799)
 - Summary: A detailed action-comedy video prompt for Seedance 2.5 featuring a female character's persistent attacks and a male character's playful evasions involving quick cheek kisses.
 

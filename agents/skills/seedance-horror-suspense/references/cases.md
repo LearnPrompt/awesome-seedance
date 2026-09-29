@@ -114,7 +114,7 @@ Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and 
 
 ## E4 · Zombie Infection Outbreak in a Train Carriage
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 70 · stability: 68
+- Seedance 2.5 · creator: @doctorwasif · heat: 69 · stability: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) · [finished media](https://media.goodcase.ai/cases/6af197589643.mp4) · [poster](https://media.goodcase.ai/cases/068a44904e52.jpg) · [original source](https://x.com/doctorwasif/status/2093550743945105687)
 - Summary: Apocalypse unleash in Train. Made with Seedance 2.5 Prompt: 0–1.2s: @ (Image) matching reference face/outfit, sits on a
 
