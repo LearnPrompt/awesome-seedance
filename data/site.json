@@ -1,9 +1,9 @@
 {
   "$comment": "Site-wide numbers from goodcase.ai that the public API does not expose (list endpoint caps at 50). Refresh with `node scripts/fetch-site-stats.mjs` or by hand; fetchedAt is the snapshot date. retestSpend is list price with no discounts, what anyone else would pay to reproduce the same runs.",
-  "fetchedAt": "2026-09-29",
-  "totalCases": 1402,
-  "videoCases": 759,
-  "creators": 374,
+  "fetchedAt": "2026-09-30",
+  "totalCases": 1404,
+  "videoCases": 760,
+  "creators": 376,
   "videoSkills": {
     "base": 16,
     "creatorVariants": 29,
