@@ -201,7 +201,7 @@ REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for
 
 ## E7 · POV: Your Kitten Vlog, but the Kitten Chooses Violence
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 63
+- Seedance 2.5 · creator: @Strength04_X · heat: 62
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) · [finished media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg) · [original source](https://x.com/Strength04_X/status/2096540586866270337)
 - Summary: POV: you try to make a cute kitten vlog and your kitten chooses violence Seedance 2.5 on @PixVerse Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@image1" as the…
 

@@ -1,10 +1,207 @@
 # Seedance 2.0 — 全ケース（Part 3/3）
 
-Seedance 2.0 の全 228 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 236 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 228 件中 197–228 件目。
+このページ: 236 件中 201–236 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3**
+
+### YAML Cinematic Parkour Sequence
+
+> A structured YAML-format prompt for an elite modern urban parkour athlete, including cinematic camera movement and realistic physics.
+
+[<img src="https://media.goodcase.ai/media/poster/yaml-629d172a4820.jpg" width="600" alt="YAML Cinematic Parkour Sequence">](https://goodcase.ai/cases/yaml-629d172a4820)
+
+**作者:** @yudotanaka | **出典:** [元投稿](https://x.com/yudotanaka/status/2079900274064490842) | **公開日:** 2026-07-22 | **ヒート:** 7
+
+**安定度:** 69/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 68.9) · [出力](https://media.goodcase.ai/retests/yaml-629d172a4820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（140 行、クリックで展開）</b></summary>
+
+```
+meta:
+  task_type: video_generation
+  style:
+    camera: cinematic_dynamic
+    render: AAA_animation_unreal_engine_quality
+  reference_lock:
+    character_appearance: strict
+    style_and_art_direction: strict
+  priority: cinematic_impact
+
+cinematography:
+  shot_type: multi_shot_dynamic_sequence
+  framing:
+    - full_body_visible_during_key_actions
+  camera_height: variable
+  lens_look: 24mm_to_35mm
+  camera_motion:
+    - low_tracking_shot_following_behind
+    - side_tracking_shot
+    - drone_orbit
+    - fpv_drone_chase
+    - handheld_chase
+    - crane_pull_back
+    - speed_ramp
+    - slow_motion_on_key_flip
+
+subjects:
+  athlete:
+    type: parkour_runner
+    level: elite
+    attributes:
+      - athletic_build
+      - consistent_outfit_and_appearance_locked
+      - hair_and_cloth_physics_reactive
+
+environment:
+  location: modern_realistic_city
+  floor:
+    - paved_street
+    - rooftop_concrete
+    - metal_beams_and_pipes
+  background:
+    - glass_skyscrapers
+    - busy_traffic
+    - pedestrians
+    - street_signs
+    - bridges
+    - construction_zones
+  lighting:
+    - warm_sunset_transitioning_to_blue_hour
+    - volumetric_lighting
+    - realistic_reflections
+
+process:
+  - phase: sprint_launch
+    timing: 0s-3s
+    description:
+      - explosive_believable_acceleration
+      - dodge_pedestrians
+      - jump_over_obstacles
+      - slide_beneath_barriers
+  - phase: vault_and_wall_run
+    timing: 3s-6s
+    description:
+      - vault_over_railings
+      - wall_run_across_building
+      - leap_to_next_rooftop
+      - believable_momentum_and_impact_recovery
+  - phase: advanced_parkour_techniques
+    timing: 6s-9s
+    description:
+      - kong_vault
+      - precision_jump
+      - tic_tac_wall_jump
+      - front_flip
+      - perfect_balance_no_floating
+  - phase: rooftop_traversal
+    timing: 9s-12s
+    description:
+      - swing_from_metal_beam
+      - run_along_narrow_rooftop_edge
+      - slide_under_pipes
+      - long_rooftop_gap_jump
+  - phase: final_leap
+    timing: 12s-15s
+    description:
+      - reach_tallest_rooftop
+      - confident_smile
+      - final_cinematic_leap_toward_skyline
+      - freeze_frame_ending
+
+motion_rules:
+  pacing:
+    - natural_timing_with_dramatic_speed_ramps
+    - uninterrupted_flow_between_phases
+  physics:
+    - grounded_gravity_present
+    - accurate_center_of_gravity
+    - natural_inertia_and_weight_shift
+    - realistic_foot_placement
+    - proper_landing_compression
+    - cloth_simulation
+    - hair_simulation
+    - no_unearned_floating
+
+visual_rules:
+  style:
+    - anime_photorealistic_hybrid
+    - HDR_ray_tracing_reflections
+    - global_illumination
+    - soft_bloom
+    - shallow_depth_of_field
+    - filmic_color_grading
+    - shinkai_inspired_lighting
+  clarity:
+    - body_mechanics_readable_outside_slow_motion_beats
+
+audio:
+  - high_energy_cinematic_soundtrack
+  - synchronized_footsteps
+  - wind_rushing
+  - city_ambience
+  - cloth_movement_sfx
+  - metal_impact_sfx
+  - environmental_reverb
+  - no_dialogue
+
+constraints:
+  forbidden:
+    - unnatural_physics
+    - outfit_change
+    - multiple_characters
+    - text
+    - logo
+
+output_rules:
+  emphasis:
+    - cinematic_spectacle
+    - technical_parkour_accuracy
+    - character_consistency
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yaml-629d172a4820)**
+
+### Blueprint-to-House Timelapse Transformation
+
+> A complex architectural timelapse prompt that turns a 2D floor plan and exterior reference image into a fully rendered, fully furnished 3D house while maintaining exact dimensions and layout.
+
+[<img src="https://media.goodcase.ai/media/poster/case-778d0c927488.jpg" width="600" alt="Blueprint-to-House Timelapse Transformation">](https://goodcase.ai/cases/case-778d0c927488)
+
+**作者:** @craftian_keskin | **出典:** [元投稿](https://x.com/craftian_keskin/status/2075669026508853393) | **公開日:** 2026-07-10 | **ヒート:** 7
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
+
+The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
+
+As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
+
+The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, and television materialize exactly matching the furniture arrangement from the blueprint. The garage forms around the parked car in the correct position.
+
+The roof structure grows over the house while maintaining the exterior silhouette from the reference image. Red brick textures spread across the exterior walls. Windows become reflective glass. The front entrance, garage door, landscaping, pathway, and surrounding lawn emerge organically. Sunlight gradually fills every room as if the home is coming alive.
+
+The transformation is smooth, continuous, and realistic, like watching months of construction compressed into seconds. Dust particles, tiny construction details, framing, roofing, drywall, painting, flooring, furnishing, and landscaping all appear in rapid but elegant timelapse.
+
+The final shot reveals the completed fully rendered house from a three-quarter aerial angle. The camera slowly circles a few degrees while sunlight reflects off the windows. Warm interior lighting glows naturally through the windows, emphasizing that every room perfectly matches the original floor plan.
+
+Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
+
+Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-778d0c927488)**
 
 ### 2D Sticker Capybara Kitchen Prank
 
@@ -23,6 +220,43 @@ Seedance 2.0 の全 228 ケースをヒートスコア順に掲載。data/cases.
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)**
+
+### Nighttime Anime-Style Graffiti Tunnel Scene
+
+> An atmospheric anime-style video prompt depicting a dark underground street tunnel covered in vivid graffiti, with wet asphalt and reflections from dim lighting.
+
+[<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="Nighttime Anime-Style Graffiti Tunnel Scene">](https://goodcase.ai/cases/case-779580528a24)
+
+**作者:** @TechieBySA | **出典:** [元投稿](https://x.com/TechieBySA/status/2081354591925305667) | **公開日:** 2026-07-26 | **ヒート:** 6
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（15 行、クリックで展開）</b></summary>
+
+```
+Cinematic anime short film clip, 15 seconds. Underground street tunnel at night, long dark corridor, walls completely covered in colorful graffiti tags, wet glistening asphalt reflecting dim tunnel lights, raw illegal underground energy, nobody around.
+
+CHARACTER: Rex, light brown skin, sharp angular face, short messy black Caesar cut with fade, dark cold intense eyes, black leather jacket, white tee, dark joggers, gold chain.
+
+CAR: Nissan Skyline R34, wide body kit, lowered, matte finish covered in layers of graffiti tags in white red and green spray paint, worn and chipped, aggressive and raw.
+
+[0:00-0:01] HOOK — Extreme close up ignition key turning. Engine roars to life instantly.
+
+[0:01-0:02] Rex's cold eyes in rearview mirror. Gear shift grabbed. Slams into first.
+
+[0:02-0:13] MONTAGE — Ultra fast cuts every half second synced hard to heavy bass beat. Rotate constantly between: front wide shot of car launching forward — low angle tires screeching wet asphalt water spraying — speedometer needle jumping — side angle car flying through tunnel — graffiti walls blurring — exhaust flames shooting out — overhead angle car from above — close up Rex jaw tight stone cold — gear shift slamming — headlights cutting darkness — rear angle tail lights — close up Rex eyes never blinking — inside car dashboard shaking — bumper level shot tunnel rushing past — speedometer maxed out — every angle every second something different never the same shot twice.
+
+[0:13-0:15] Car vanishes into darkness. Tail lights fade. Silence. Cut to black. Text: ZERO TO SIXTY.
+
+Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, dark moody tunnel lighting, neon reflections on wet asphalt, film grain, heavy bass music with engine roar and tire screech layered throughout, ultra fast cutting rhythm, premium anime film quality
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-779580528a24)**
 
 ### Dark-Fantasy Anime Summoning Ritual
 
@@ -501,6 +735,20 @@ Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-c32e6c3bb2c5)**
 
+### Dynamic Image-to-Video Music Visualizer
+
+> A prompt designed to turn a static image into a professional music video with dynamic visual effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="Dynamic Image-to-Video Music Visualizer">](https://goodcase.ai/cases/case-bf2bedc93316)
+
+**作者:** @EchoraContinuum | **出典:** [元投稿](https://x.com/EchoraContinuum/status/2079917613149503813) | **公開日:** 2026-07-22 | **ヒート:** 6
+
+```
+generate an interesting music video using this image as first frame,be professional and use dynamic visuals
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-bf2bedc93316)**
+
 ### Vox-Style Historical Collage Animation
 
 > An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
@@ -747,75 +995,6 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-7aea1313f63b)**
 
-### Rooftop Chase Action Phrase
-
-> A detailed action phrase for Seedance 2.0, describing a chase scene in which a character crouches on the edge of a rooftop under a spotlight and leaps across a gap.
-
-[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="Rooftop Chase Action Phrase">](https://goodcase.ai/cases/case-8f7479c32251)
-
-**作者:** @LANDCASTER_92 | **出典:** [元投稿](https://x.com/LANDCASTER_92/status/2081432738683314614) | **公開日:** 2026-07-26 | **ヒート:** 3
-
-**安定度:** 70/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 69.8) · [出力](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（47 行、クリックで展開）</b></summary>
-
-```
-Urban Escape Scene
-
-Models ( GPT Image-2 + Seedance 2.0)
-
-Seedance Prompts 2/3
-
-MOTION PHRASES:
-
-P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
-
-P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
-
-P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
-
-P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
-
-P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
-
-P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
-
-P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
-
-P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
-
-P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
-
-Seedance Prompts 3/3
-
-MOTION PHRASES:
-
-P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
-
-P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
-
-P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
-
-P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
-
-P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
-
-P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
-
-P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
-
-P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
-
-P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-8f7479c32251)**
-
 ### Photorealistic Wireless Earbuds Commercial
 
 > A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
@@ -1002,6 +1181,75 @@ Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, h
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-3ab1709b8447)**
+
+### Rooftop Chase Action Phrase
+
+> A detailed action phrase for Seedance 2.0, describing a chase scene in which a character crouches on the edge of a rooftop under a spotlight and leaps across a gap.
+
+[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="Rooftop Chase Action Phrase">](https://goodcase.ai/cases/case-8f7479c32251)
+
+**作者:** @LANDCASTER_92 | **出典:** [元投稿](https://x.com/LANDCASTER_92/status/2081432738683314614) | **公開日:** 2026-07-26 | **ヒート:** 2
+
+**安定度:** 70/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 69.8) · [出力](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（47 行、クリックで展開）</b></summary>
+
+```
+Urban Escape Scene
+
+Models ( GPT Image-2 + Seedance 2.0)
+
+Seedance Prompts 2/3
+
+MOTION PHRASES:
+
+P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
+
+P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
+
+P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+
+P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+
+P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+
+P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+
+P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+
+P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+
+P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+
+Seedance Prompts 3/3
+
+MOTION PHRASES:
+
+P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+
+P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+
+P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
+
+P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
+
+P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
+
+P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
+
+P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
+
+P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
+
+P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-8f7479c32251)**
 
 ### FPV Drone Flight in New York
 
