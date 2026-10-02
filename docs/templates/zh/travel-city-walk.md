@@ -66,22 +66,24 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 12 条，按热度）
+## 这一类的案例（已归类 21 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806"><img src="https://media.goodcase.ai/cases/39b33ab9f88e.jpg" width="160" alt="巴厘岛梦幻夏日旅行日记"></a> | [巴厘岛梦幻夏日旅行日记](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) | 2.5 | 87 |
+| <a href="https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4"><img src="https://media.goodcase.ai/cases/d031a8c7bd1d.jpg" width="160" alt="粉发女孩的慵懒游乐场漫游"></a> | [粉发女孩的慵懒游乐场漫游](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) | 2.5 | 83 |
+| <a href="https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11"><img src="https://media.goodcase.ai/cases/b3972f1a8b26.jpg" width="160" alt="她的秋日都市漫游"></a> | [她的秋日都市漫游](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) | 2.5 | 79 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda"><img src="https://media.goodcase.ai/cases/587b89f01743.jpg" width="160" alt="京都秋日慢游旅行日志"></a> | [京都秋日慢游旅行日志](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) | 2.5 | 79 |
+| <a href="https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e"><img src="https://media.goodcase.ai/cases/4d344a6d9409.jpg" width="160" alt="韩国女孩的台湾旅行三十秒"></a> | [韩国女孩的台湾旅行三十秒](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) | 2.5 | 78 |
 | <a href="https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451"><img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg" width="160" alt="地中海山景别墅内外巡游"></a> | [地中海山景别墅内外巡游](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) | 2.0 | 74 |
 | <a href="https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a"><img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg" width="160" alt="东京夜空直升机之旅"></a> | [东京夜空直升机之旅](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) | 2.5 | 71 |
 | <a href="https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d"><img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg" width="160" alt="Seedance 2.5 山林徒步电影感跟拍短片"></a> | [Seedance 2.5 山林徒步电影感跟拍短片](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) | 2.5 | 69 |
 | <a href="https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39"><img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-531c19980c39.jpg" width="160" alt="韩国山间夏日露营"></a> | [韩国山间夏日露营](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39) | 2.0 | 67 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-highly-realistic-cinematic-winter-video-of-a-peaceful-woman-staying-in-d5e93fbf164d"><img src="https://media.goodcase.ai/cases/ffa31eb53735.jpg" width="160" alt="雪山木屋里的冬日慢生活"></a> | [雪山木屋里的冬日慢生活](https://goodcase.ai/cases/seedance-create-a-highly-realistic-cinematic-winter-video-of-a-peaceful-woman-staying-in-d5e93fbf164d) | 2.0 | 63 |
 | <a href="https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3"><img src="https://media.goodcase.ai/cases/b6616f3bcc10.jpg" width="160" alt="落日古城漫游与街角咖啡"></a> | [落日古城漫游与街角咖啡](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) | 2.5 | 58 |
 | <a href="https://goodcase.ai/cases/seedance-a-cinematic-30-second-alpine-winter-vlog-montage-featuring-the-same-young-woman-cf96bc6f9a40"><img src="https://media.goodcase.ai/cases/fb98a7289e21.jpg" width="160" alt="雪山村庄冬日度假之旅"></a> | [雪山村庄冬日度假之旅](https://goodcase.ai/cases/seedance-a-cinematic-30-second-alpine-winter-vlog-montage-featuring-the-same-young-woman-cf96bc6f9a40) | 2.5 | 57 |
-| <a href="https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a"><img src="https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg" width="160" alt="少女在日本山巅记录春日风光"></a> | [少女在日本山巅记录春日风光](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) | 2.0 | 54 |
-| <a href="https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0"><img src="https://media.goodcase.ai/cases/69785ecda416.jpg" width="160" alt="年轻女子抵达机场登机启程"></a> | [年轻女子抵达机场登机启程](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0) | 2.5 | 47 |
-| <a href="https://goodcase.ai/cases/aiwithelisia-seedance-ai-4880539d8030"><img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-4880539d8030.jpg" width="160" alt="韩屋雨巷里的少女与猫"></a> | [韩屋雨巷里的少女与猫](https://goodcase.ai/cases/aiwithelisia-seedance-ai-4880539d8030) | 2.0 | 42 |
-| <a href="https://goodcase.ai/cases/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15"><img src="https://media.goodcase.ai/cases/05aa6999193f.jpg" width="160" alt="雨中新西兰海岸旅程"></a> | [雨中新西兰海岸旅程](https://goodcase.ai/cases/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15) | 2.5 | 42 |
-| <a href="https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473"><img src="https://media.goodcase.ai/cases/4f40686a84a0.jpg" width="160" alt="耳机少女的日本漫游"></a> | [耳机少女的日本漫游](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473) | 2.5 | 33 |
+
+其余 9 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

@@ -66,7 +66,7 @@ The animal is the lead and a phone is the only camera. Lock the count to exactly
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (13 filed, by heat)
+## Cases in this category (15 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
@@ -79,11 +79,11 @@ The animal is the lead and a phone is the only camera. Lock the count to exactly
 | <a href="https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d"><img src="https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg" width="160" alt="POV: Your Kitten Vlog, but the Kitten Chooses Violence"></a> | [POV: Your Kitten Vlog, but the Kitten Chooses Violence](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | 2.5 | 62 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e"><img src="https://media.goodcase.ai/cases/abd3f250edd5.jpg" width="160" alt="From the Birth of the Universe to Humanity"></a> | [From the Birth of the Universe to Humanity](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e) | 2.5 | 58 |
 | <a href="https://goodcase.ai/cases/synthesarah-seedance-ai-636eef3e35c4"><img src="https://media.goodcase.ai/media/poster/synthesarah-seedance-ai-636eef3e35c4.jpg" width="160" alt="Hiker and Macaque in a Head-Tilt Battle"></a> | [Hiker and Macaque in a Head-Tilt Battle](https://goodcase.ai/cases/synthesarah-seedance-ai-636eef3e35c4) | 2.5 | 57 |
+| <a href="https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5"><img src="https://media.goodcase.ai/cases/b215059fa39f.jpg" width="160" alt="Brown Bear Cub Drives a Vintage Blue Car Through a Farm"></a> | [Brown Bear Cub Drives a Vintage Blue Car Through a Farm](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5) | 2.0 | 48 |
+| <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69"><img src="https://media.goodcase.ai/cases/f9fd265ba6c5.jpg" width="160" alt="Kittens Share a Rose and Cuddle on a Sunset Beach"></a> | [Kittens Share a Rose and Cuddle on a Sunset Beach](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69) | 2.5 | 43 |
 | <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898"><img src="https://media.goodcase.ai/cases/deaf63c43f9d.jpg" width="160" alt="Brave Rooster Rescues Three Chicks from a Raging River"></a> | [Brave Rooster Rescues Three Chicks from a Raging River](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | 2.5 | 37 |
-| <a href="https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942"><img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="160" alt="A Pet Owner's Day with Their Dog"></a> | [A Pet Owner's Day with Their Dog](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942) | 2.0 | 33 |
-| <a href="https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923"><img src="https://media.goodcase.ai/media/poster/asmr-vlog-db7f7a2ad923.jpg" width="160" alt="Ultra-Soothing ASMR Vlog"></a> | [Ultra-Soothing ASMR Vlog](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923) | 2.0 | 2 |
 
-The other 1 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
+The other 3 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
 
 ---
 

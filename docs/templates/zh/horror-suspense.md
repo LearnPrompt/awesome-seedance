@@ -66,22 +66,25 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 11 条，按热度）
+## 这一类的案例（已归类 23 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d"><img src="https://media.goodcase.ai/cases/5929c428cd08.jpg" width="160" alt="实验室寄生体感染突袭"></a> | [实验室寄生体感染突袭](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) | 2.5 | 96 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff"><img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="160" alt="商场丧尸爆发中的保安与幸存者"></a> | [商场丧尸爆发中的保安与幸存者](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) | 2.5 | 95 |
+| <a href="https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8"><img src="https://media.goodcase.ai/cases/f5434503545d.jpg" width="160" alt="日本公路巴士感染者突袭"></a> | [日本公路巴士感染者突袭](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) | 2.5 | 93 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a"><img src="https://media.goodcase.ai/cases/bd58f9078734.jpg" width="160" alt="日本教室里的丧尸突袭"></a> | [日本教室里的丧尸突袭](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) | 2.5 | 85 |
 | <a href="https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e"><img src="https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg" width="160" alt="夜行卧铺列车感染爆发"></a> | [夜行卧铺列车感染爆发](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) | 2.5 | 84 |
+| <a href="https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e"><img src="https://media.goodcase.ai/cases/86a341e46f5f.jpg" width="160" alt="夜行卧铺列车感染惊魂"></a> | [夜行卧铺列车感染惊魂](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) | 2.5 | 80 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459"><img src="https://media.goodcase.ai/cases/a0d17a9bf535.jpg" width="160" alt="实验室寄生感染危机"></a> | [实验室寄生感染危机](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) | 2.5 | 76 |
 | <a href="https://goodcase.ai/cases/case-3b1796c66ab4"><img src="https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg" width="160" alt="丧尸列车爆发"></a> | [丧尸列车爆发](https://goodcase.ai/cases/case-3b1796c66ab4) | 2.5 | 75 |
 | <a href="https://goodcase.ai/cases/case-b529ffbdfd9a"><img src="https://media.goodcase.ai/cases/eaeddab55dea.jpg" width="160" alt="末日韩式天台恐怖片"></a> | [末日韩式天台恐怖片](https://goodcase.ai/cases/case-b529ffbdfd9a) | 2.0 | 74 |
 | <a href="https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6"><img src="https://media.goodcase.ai/cases/068a44904e52.jpg" width="160" alt="列车车厢丧尸感染爆发"></a> | [列车车厢丧尸感染爆发](https://goodcase.ai/cases/doctorwasif-seedance-ai-117496b404a6) | 2.5 | 69 |
 | <a href="https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479"><img src="https://media.goodcase.ai/cases/52e979f23a9f.jpg" width="160" alt="韩屋烛影驱邪仪式"></a> | [韩屋烛影驱邪仪式](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479) | 2.5 | 68 |
-| <a href="https://goodcase.ai/cases/seedance-create-a-high-end-cinematic-live-action-scene-inside-a-modern-american-high-sch-5470a0729ac7"><img src="https://media.goodcase.ai/cases/59fd69f75b3d.jpg" width="160" alt="神秘能量席卷高中走廊"></a> | [神秘能量席卷高中走廊](https://goodcase.ai/cases/seedance-create-a-high-end-cinematic-live-action-scene-inside-a-modern-american-high-sch-5470a0729ac7) | 2.5 | 56 |
-| <a href="https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b"><img src="https://media.goodcase.ai/cases/757c7a9f50b5.jpg" width="160" alt="夜班列车感染爆发实录"></a> | [夜班列车感染爆发实录](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b) | 2.5 | 46 |
-| <a href="https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5"><img src="https://media.goodcase.ai/cases/20e977da4dd0.jpg" width="160" alt="列车玻璃门后的感染者突袭"></a> | [列车玻璃门后的感染者突袭](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5) | 2.5 | 42 |
-| <a href="https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136"><img src="https://media.goodcase.ai/media/poster/saniaspeaks-seedance-ai-575658372136.jpg" width="160" alt="午夜电梯里的镜像追猎"></a> | [午夜电梯里的镜像追猎](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136) | 2.5 | 36 |
-| <a href="https://goodcase.ai/cases/case-f46706b10233"><img src="https://media.goodcase.ai/media/poster/case-f46706b10233.jpg" width="160" alt="消散的绳索吊桥峡谷"></a> | [消散的绳索吊桥峡谷](https://goodcase.ai/cases/case-f46706b10233) | 2.0 | 10 |
-| <a href="https://goodcase.ai/cases/case-50692082320d"><img src="https://media.goodcase.ai/media/poster/case-50692082320d.jpg" width="160" alt="暗黑超现实镜面反射恐怖短片"></a> | [暗黑超现实镜面反射恐怖短片](https://goodcase.ai/cases/case-50692082320d) | 2.0 | - |
+| <a href="https://goodcase.ai/cases/seedance-create-an-ultra-realistic-japanese-high-school-horror-action-sequence-following-b14f705bc895"><img src="https://media.goodcase.ai/cases/a6d7aa30e499.jpg" width="160" alt="日本高中感染者围困逃生"></a> | [日本高中感染者围困逃生](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-japanese-high-school-horror-action-sequence-following-b14f705bc895) | 2.5 | 67 |
+
+其余 11 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 
-[← 上一个：反转结尾搞笑短片](./meme-comedy.md) · [下一个：动漫与风格化画风固定 →](./anime-style-lock.md)
+[← 上一个：反转结尾搞笑短片](./meme-comedy.md) · [下一个：游戏实机录屏与直播叠层 →](./game-ui-livestream.md)

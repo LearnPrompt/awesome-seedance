@@ -65,11 +65,12 @@ Buy believability with camera defects. Name a specific consumer camera era, list
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (92 filed, by heat)
+## Cases in this category (112 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="160" alt="Mini DV Coffee ASMR Vlog"></a> | [Mini DV Coffee ASMR Vlog](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog) | 2.5 | 99 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888"><img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="160" alt="Rainy Morning Coffee and a Walk to University"></a> | [Rainy Morning Coffee and a Walk to University](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888) | 2.5 | 99 |
 | <a href="https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9"><img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="160" alt="Seedance Native UGC Vertical Phone Follow-Cam Short"></a> | [Seedance Native UGC Vertical Phone Follow-Cam Short](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9) | 2.5 | 95 |
 | <a href="https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d"><img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="160" alt="Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl"></a> | [Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d) | 2.5 | 94 |
 | <a href="https://goodcase.ai/cases/smartphone-beach-day-memories"><img src="https://media.goodcase.ai/media/poster/smartphone-beach-day-memories.jpg" width="160" alt="Beach Day Memories Shot on a Smartphone"></a> | [Beach Day Memories Shot on a Smartphone](https://goodcase.ai/cases/smartphone-beach-day-memories) | 2.0 | 93 |
@@ -80,9 +81,8 @@ Buy believability with camera defects. Name a specific consumer camera era, list
 | <a href="https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach"><img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="160" alt="Handheld Travel Vlog From Apartment to Beach"></a> | [Handheld Travel Vlog From Apartment to Beach](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach) | 2.5 | 86 |
 | <a href="https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b"><img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="160" alt="Seedance Sixty-Second Gym Day-in-the-Life Vlog"></a> | [Seedance Sixty-Second Gym Day-in-the-Life Vlog](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b) | 2.5 | 86 |
 | <a href="https://goodcase.ai/cases/seedance-pov-korean-couple-spends-a-lazy-summer-morning-wandering-their-neighborhood-0d246cd8363d"><img src="https://media.goodcase.ai/cases/c39ee14f9f1b.jpg" width="160" alt="POV: A Lazy Summer Morning With Him in Seoul"></a> | [POV: A Lazy Summer Morning With Him in Seoul](https://goodcase.ai/cases/seedance-pov-korean-couple-spends-a-lazy-summer-morning-wandering-their-neighborhood-0d246cd8363d) | 2.5 | 84 |
-| <a href="https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7"><img src="https://media.goodcase.ai/cases/fd35d97ac629.jpg" width="160" alt="Finding Old Earphones While Tidying the Kitchen"></a> | [Finding Old Earphones While Tidying the Kitchen](https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7) | 2.5 | 84 |
 
-The other 80 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
+The other 100 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
 
 ---
 

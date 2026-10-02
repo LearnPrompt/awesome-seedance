@@ -66,7 +66,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 9 条，按热度）
+## 这一类的案例（已归类 11 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -75,6 +75,8 @@
 | <a href="https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c"><img src="https://media.goodcase.ai/cases/a4fc7d20210a.jpg" width="160" alt="吉隆坡崩塌都市极限逃生"></a> | [吉隆坡崩塌都市极限逃生](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) | 2.5 | 78 |
 | <a href="https://goodcase.ai/cases/apartment-arrival-storyboard-animation"><img src="https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg" width="160" alt="Apartment Arrival Storyboard Animation"></a> | [Apartment Arrival Storyboard Animation](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) | 2.0 | 66 |
 | <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2"><img src="https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg" width="160" alt="艾莎的欧洲城市夏日漫步"></a> | [艾莎的欧洲城市夏日漫步](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2) | 2.5 | 65 |
+| <a href="https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4"><img src="https://media.goodcase.ai/cases/4f05b16f382b.jpg" width="160" alt="火焰长矛英雄决战石巨像"></a> | [火焰长矛英雄决战石巨像](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) | 2.5 | 48 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5"><img src="https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg" width="160" alt="云海坠落宇航员唤醒巨型飞船"></a> | [云海坠落宇航员唤醒巨型飞船](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) | 2.5 | 41 |
 | <a href="https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375"><img src="https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg" width="160" alt="香辣薯片高能产品广告分镜"></a> | [香辣薯片高能产品广告分镜](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) | 2.5 | 30 |
 | <a href="https://goodcase.ai/cases/3d-f194855e4246"><img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="160" alt="3D 烘焙动画序列"></a> | [3D 烘焙动画序列](https://goodcase.ai/cases/3d-f194855e4246) | 2.0 | 25 |
 | <a href="https://goodcase.ai/cases/vlog-4317b7fdff57"><img src="https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg" width="160" alt="京都情感旅行 Vlog 动画"></a> | [京都情感旅行 Vlog 动画](https://goodcase.ai/cases/vlog-4317b7fdff57) | 2.0 | 4 |

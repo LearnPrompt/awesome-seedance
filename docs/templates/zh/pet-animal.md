@@ -66,7 +66,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 13 条，按热度）
+## 这一类的案例（已归类 15 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -79,11 +79,11 @@
 | <a href="https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d"><img src="https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg" width="160" alt="萌宠自拍变小猫突袭现场"></a> | [萌宠自拍变小猫突袭现场](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) | 2.5 | 62 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e"><img src="https://media.goodcase.ai/cases/abd3f250edd5.jpg" width="160" alt="从宇宙诞生到人类文明"></a> | [从宇宙诞生到人类文明](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e) | 2.5 | 58 |
 | <a href="https://goodcase.ai/cases/synthesarah-seedance-ai-636eef3e35c4"><img src="https://media.goodcase.ai/media/poster/synthesarah-seedance-ai-636eef3e35c4.jpg" width="160" alt="徒步者与猕猴的歪头较量"></a> | [徒步者与猕猴的歪头较量](https://goodcase.ai/cases/synthesarah-seedance-ai-636eef3e35c4) | 2.5 | 57 |
+| <a href="https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5"><img src="https://media.goodcase.ai/cases/b215059fa39f.jpg" width="160" alt="棕熊幼崽驾驶复古蓝车穿越农场"></a> | [棕熊幼崽驾驶复古蓝车穿越农场](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5) | 2.0 | 48 |
+| <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69"><img src="https://media.goodcase.ai/cases/f9fd265ba6c5.jpg" width="160" alt="夕阳海滩上小猫赠玫瑰相拥"></a> | [夕阳海滩上小猫赠玫瑰相拥](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69) | 2.5 | 43 |
 | <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898"><img src="https://media.goodcase.ai/cases/deaf63c43f9d.jpg" width="160" alt="公鸡激流营救三只小鸡"></a> | [公鸡激流营救三只小鸡](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | 2.5 | 37 |
-| <a href="https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942"><img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="160" alt="宠物主与爱犬的一日陪伴"></a> | [宠物主与爱犬的一日陪伴](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942) | 2.0 | 33 |
-| <a href="https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923"><img src="https://media.goodcase.ai/media/poster/asmr-vlog-db7f7a2ad923.jpg" width="160" alt="超治愈 ASMR Vlog"></a> | [超治愈 ASMR Vlog](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923) | 2.0 | 2 |
 
-其余 1 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
+其余 3 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

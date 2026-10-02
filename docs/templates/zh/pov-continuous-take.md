@@ -66,13 +66,14 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 11 条，按热度）
+## 这一类的案例（已归类 12 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-gopro-94a73eef1dbf.jpg" width="160" alt="Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程"></a> | [Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda"><img src="https://media.goodcase.ai/media/poster/seedance-magic-pen-street-transport-vlog-28d80bd05eda.jpg" width="160" alt="魔法画笔将城市交通变成动漫"></a> | [魔法画笔将城市交通变成动漫](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda) | 2.5 | 80 |
 | <a href="https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic"><img src="https://media.goodcase.ai/cases/464939ccd5ab.jpg" width="160" alt="First-Person POV Dragon Rider Cinematic"></a> | [First-Person POV Dragon Rider Cinematic](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic) | 2.5 | 73 |
+| <a href="https://goodcase.ai/cases/seedance-a-dark-figure-leaps-from-a-skyscraper-ledge-and-free-falls-through-a-neon-drenc-39d445cbaaf7"><img src="https://media.goodcase.ai/cases/701eb871e9a1.jpg" width="160" alt="霓虹赛博都市高空坠落"></a> | [霓虹赛博都市高空坠落](https://goodcase.ai/cases/seedance-a-dark-figure-leaps-from-a-skyscraper-ledge-and-free-falls-through-a-neon-drenc-39d445cbaaf7) | 2.5 | 71 |
 | <a href="https://goodcase.ai/cases/oggii-0-seedance-ai-a473e1b2b456"><img src="https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-a473e1b2b456.jpg" width="160" alt="穿越历史的磁悬浮列车"></a> | [穿越历史的磁悬浮列车](https://goodcase.ai/cases/oggii-0-seedance-ai-a473e1b2b456) | 2.5 | 67 |
 | <a href="https://goodcase.ai/cases/seedance-magic-pen-beach-boardwalk-vlog-15-seconds-vertical-9-16-ea4714e1706f"><img src="https://media.goodcase.ai/media/poster/seedance-magic-pen-beach-boardwalk-vlog-15-seconds-vertical-9-16-ea4714e1706f.jpg" width="160" alt="魔法笔点化夜间海滨栈道"></a> | [魔法笔点化夜间海滨栈道](https://goodcase.ai/cases/seedance-magic-pen-beach-boardwalk-vlog-15-seconds-vertical-9-16-ea4714e1706f) | 2.5 | 45 |
 | <a href="https://goodcase.ai/cases/ciri-ai-seedance-ai-5ce4a010eef9"><img src="https://media.goodcase.ai/cases/4b0adb519318.jpg" width="160" alt="通勤列车直达地狱深处"></a> | [通勤列车直达地狱深处](https://goodcase.ai/cases/ciri-ai-seedance-ai-5ce4a010eef9) | 2.5 | 42 |

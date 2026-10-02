@@ -64,13 +64,14 @@ A creator unboxes, handles and endorses a product on camera. Two independent loc
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (11 filed, by heat)
+## Cases in this category (12 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989"><img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="160" alt="Seedance Fifteen-Second Influencer Lifestyle Short"></a> | [Seedance Fifteen-Second Influencer Lifestyle Short](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989) | 2.0 | 71 |
 | <a href="https://goodcase.ai/cases/ugc-f0cd0dd33284"><img src="https://media.goodcase.ai/media/poster/ugc-f0cd0dd33284.jpg" width="160" alt="UGC Meat Ad with Animated Effects"></a> | [UGC Meat Ad with Animated Effects](https://goodcase.ai/cases/ugc-f0cd0dd33284) | 2.0 | 58 |
 | <a href="https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26"><img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-2ee8c62c7d26.jpg" width="160" alt="Seedance Sunglasses and Headphones UGC Short"></a> | [Seedance Sunglasses and Headphones UGC Short](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | 2.5 | 51 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630"><img src="https://media.goodcase.ai/cases/5e4823b6d035.jpg" width="160" alt="Pink Lip Gloss Unboxing, Swatch, and Café Table Display"></a> | [Pink Lip Gloss Unboxing, Swatch, and Café Table Display](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630) | 2.0 | 47 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c"><img src="https://media.goodcase.ai/cases/df9bd1886b16.jpg" width="160" alt="Korean Woman Shares Her New Camera on Monday Morning"></a> | [Korean Woman Shares Her New Camera on Monday Morning](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c) | 2.5 | 42 |
 | <a href="https://goodcase.ai/cases/ugc-80d503f66caa"><img src="https://media.goodcase.ai/media/poster/ugc-80d503f66caa.jpg" width="160" alt="Premium Beverage UGC Commercial"></a> | [Premium Beverage UGC Commercial](https://goodcase.ai/cases/ugc-80d503f66caa) | 2.0 | 42 |
 | <a href="https://goodcase.ai/cases/ugc-34764467dea1"><img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="160" alt="Premium Tropical Drink UGC Ad"></a> | [Premium Tropical Drink UGC Ad](https://goodcase.ai/cases/ugc-34764467dea1) | 2.0 | 24 |

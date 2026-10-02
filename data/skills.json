@@ -271,6 +271,53 @@
       "variants": []
     },
     {
+      "id": "seedance-game-ui-livestream",
+      "templateId": "game-ui-livestream",
+      "triggers": [
+        "游戏录屏",
+        "实机",
+        "直播",
+        "HUD",
+        "UI 动效"
+      ],
+      "title": {
+        "en": "Gameplay capture with HUD and stream overlay",
+        "zh": "游戏实机录屏与直播叠层",
+        "ja": "HUD付きゲーム実況キャプチャ"
+      },
+      "description": {
+        "en": "The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action.",
+        "zh": "屏幕本身就是画面，假装是一段游戏实机、直播或桌面录屏。成立的关键是叠层钉死在固定位置，上面的数字和横幅跟着剧情一格一格变。",
+        "ja": "ゲーム画面の HUD、配信ウィンドウ、弾幕を固定位置に釘付けし、各シーンでは HUD の数値とバナーだけを更新する。実写ではなく録画であることを明記。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-game-ui-livestream",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-game-ui-livestream",
+      "variants": []
+    },
+    {
+      "id": "seedance-food-asmr",
+      "templateId": "food-asmr",
+      "triggers": [
+        "美食",
+        "吃播",
+        "ASMR",
+        "烹饪"
+      ],
+      "title": {
+        "en": "Food close-ups and eating ASMR",
+        "zh": "美食特写与吃播 ASMR",
+        "ja": "料理クローズアップと咀嚼ASMR"
+      },
+      "description": {
+        "en": "Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.",
+        "zh": "烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。",
+        "ja": "料理をタイムコード付きの短いステップに切り、各ステップで目に見える食材の変化を一つ書く。音は動作の順に並べ、食べる動きは吹く・噛む・噛みしめるに分ける。"
+      },
+      "install": "npx skills add LearnPrompt/awesome-seedance --skill seedance-food-asmr",
+      "url": "https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-food-asmr",
+      "variants": []
+    },
+    {
       "id": "goodcase",
       "title": {
         "en": "GoodCase Case Search",

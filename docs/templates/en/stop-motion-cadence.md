@@ -64,12 +64,13 @@ Stop motion is a timing spec before it is a look. Pin the frame rate and the hol
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (9 filed, by heat)
+## Cases in this category (10 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/erling-haaland-525acabe78da"><img src="https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg" width="160" alt="Erling Haaland Claymation Gardening"></a> | [Erling Haaland Claymation Gardening](https://goodcase.ai/cases/erling-haaland-525acabe78da) | 2.0 | 86 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-21-second-vertical-9-16-cinematic-stop-motion-animation-557fa2797476"><img src="https://media.goodcase.ai/cases/89da8d0df670.jpg" width="160" alt="Twenty-One-Second Vertical Stop-Motion Nature Figure"></a> | [Twenty-One-Second Vertical Stop-Motion Nature Figure](https://goodcase.ai/cases/seedance-create-a-21-second-vertical-9-16-cinematic-stop-motion-animation-557fa2797476) | 2.0 | 86 |
+| <a href="https://goodcase.ai/cases/seedance-using-the-reference-image-as-the-exact-final-frame-create-a-10-second-stop-mot-eb31041e1c1d"><img src="https://media.goodcase.ai/cases/d331b0b4f759.jpg" width="160" alt="Miniature Workers Weave “Smiling” from Red Rope"></a> | [Miniature Workers Weave “Smiling” from Red Rope](https://goodcase.ai/cases/seedance-using-the-reference-image-as-the-exact-final-frame-create-a-10-second-stop-mot-eb31041e1c1d) | 2.5 | 66 |
 | <a href="https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8"><img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="160" alt="Stop-Motion Clay Miniature Nutella Cafe"></a> | [Stop-Motion Clay Miniature Nutella Cafe](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8) | 2.0 | 25 |
 | <a href="https://goodcase.ai/cases/case-69e5879cc5a7"><img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="160" alt="Stop-Motion Animation: Wolf Pack Attack Sequence"></a> | [Stop-Motion Animation: Wolf Pack Attack Sequence](https://goodcase.ai/cases/case-69e5879cc5a7) | 2.0 | 17 |
 | <a href="https://goodcase.ai/cases/case-0287a838e662"><img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="160" alt="Hand-Drawn Stop Motion: Blizzard Scene"></a> | [Hand-Drawn Stop Motion: Blizzard Scene](https://goodcase.ai/cases/case-0287a838e662) | 2.0 | 16 |

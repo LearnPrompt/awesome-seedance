@@ -64,7 +64,7 @@ A polished 8 to 20 second ad: a stated commercial aesthetic up front, a numbered
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (27 filed, by heat)
+## Cases in this category (31 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
@@ -76,12 +76,12 @@ A polished 8 to 20 second ad: a stated commercial aesthetic up front, a numbered
 | <a href="https://goodcase.ai/cases/luxury-skincare-commercial"><img src="https://media.goodcase.ai/media/poster/luxury-skincare-commercial.jpg" width="160" alt="Luxury Skincare Commercial"></a> | [Luxury Skincare Commercial](https://goodcase.ai/cases/luxury-skincare-commercial) | 2.0 | 74 |
 | <a href="https://goodcase.ai/cases/case-f62d402ccdf6"><img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="160" alt="Cinematic Commercial for an Artisan Bakery"></a> | [Cinematic Commercial for an Artisan Bakery](https://goodcase.ai/cases/case-f62d402ccdf6) | 2.5 | 73 |
 | <a href="https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b"><img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="160" alt="A Fresh Laundry Day in the Sun"></a> | [A Fresh Laundry Day in the Sun](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b) | 2.5 | 72 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-skincare-video-featuring-a-young-korean-woman-202c9f1e5d6e"><img src="https://media.goodcase.ai/cases/5f156f26b598.jpg" width="160" alt="Korean Woman’s Sunlit Skincare Ritual"></a> | [Korean Woman’s Sunlit Skincare Ritual](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-skincare-video-featuring-a-young-korean-woman-202c9f1e5d6e) | 2.0 | 65 |
 | <a href="https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-luxury-jewelry-advertisement-video-in-a-warm-and-8d47861d9581"><img src="https://media.goodcase.ai/cases/bd48ebbd5b7e.jpg" width="160" alt="Blue Gemstone Necklace in Morning Light"></a> | [Blue Gemstone Necklace in Morning Light](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-luxury-jewelry-advertisement-video-in-a-warm-and-8d47861d9581) | 2.0 | 63 |
 | <a href="https://goodcase.ai/cases/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b"><img src="https://media.goodcase.ai/media/poster/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b.jpg" width="160" alt="High-End 8K Cosmetic Product Commercial"></a> | [High-End 8K Cosmetic Product Commercial](https://goodcase.ai/cases/seedance-high-end-cosmetic-product-commercial-8k-resolution-cinematic-lighting-studio-88b6d439e00b) | 2.5 | 61 |
 | <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-cd1e800467b5.jpg" width="160" alt="Jasmine and Olive Fragrance on a Mediterranean Cliff"></a> | [Jasmine and Olive Fragrance on a Mediterranean Cliff](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5) | 2.0 | 60 |
-| <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-e5b8b3460bc0"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e5b8b3460bc0.jpg" width="160" alt="Luxury Serum Skincare Ad on a Dark Reflective Surface"></a> | [Luxury Serum Skincare Ad on a Dark Reflective Surface](https://goodcase.ai/cases/zyrellix-seedance-ai-e5b8b3460bc0) | 2.0 | 49 |
 
-The other 15 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
+The other 19 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
 
 ---
 

@@ -79,4 +79,4 @@
 
 ---
 
-[← 上一个：时尚 lookbook 与人像写真片](./fashion-lookbook.md) · [下一个：电影级叙事短片 →](./cinematic-narrative-short.md)
+[← 上一个：美食特写与吃播 ASMR](./food-asmr.md) · [下一个：电影级叙事短片 →](./cinematic-narrative-short.md)

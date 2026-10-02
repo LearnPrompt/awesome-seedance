@@ -64,24 +64,24 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 40 条，按热度）
+## 这一类的案例（已归类 51 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac"><img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="160" alt="金发少女在高中走廊释放超能力"></a> | [金发少女在高中走廊释放超能力](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac) | 2.5 | 94 |
+| <a href="https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9"><img src="https://media.goodcase.ai/cases/6304957c914f.jpg" width="160" alt="黑衣剑客烈焰横扫暗影兽群"></a> | [黑衣剑客烈焰横扫暗影兽群](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9) | 2.5 | 91 |
+| <a href="https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a"><img src="https://media.goodcase.ai/cases/9191e59a045c.jpg" width="160" alt="丛林神庙水御伏击战"></a> | [丛林神庙水御伏击战](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a) | 2.5 | 86 |
 | <a href="https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9"><img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="160" alt="静电觉醒少女的体育馆反击"></a> | [静电觉醒少女的体育馆反击](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9) | 2.5 | 82 |
+| <a href="https://goodcase.ai/cases/seedance-vs-19b2bf262500"><img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="160" alt="缘一 VS 百鬼 ⚔️💥"></a> | [缘一 VS 百鬼 ⚔️💥](https://goodcase.ai/cases/seedance-vs-19b2bf262500) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0"><img src="https://media.goodcase.ai/cases/8ca3ebd21bfe.jpg" width="160" alt="Seedance 2.5 同人对打：Sharon 大战 Sharon"></a> | [Seedance 2.5 同人对打：Sharon 大战 Sharon](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0) | 2.5 | 81 |
+| <a href="https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1"><img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="160" alt="地铁站破墙现身的武打女主"></a> | [地铁站破墙现身的武打女主](https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1) | 2.0 | 79 |
 | <a href="https://goodcase.ai/cases/yourplugai-seedance-ai-17a1f9de8843"><img src="https://media.goodcase.ai/media/poster/yourplugai-seedance-ai-17a1f9de8843.jpg" width="160" alt="雪中神社的浪人与纸鹤决斗"></a> | [雪中神社的浪人与纸鹤决斗](https://goodcase.ai/cases/yourplugai-seedance-ai-17a1f9de8843) | 2.0 | 77 |
 | <a href="https://goodcase.ai/cases/laviniavelle-seedance-ai-bac382f08a18"><img src="https://media.goodcase.ai/cases/14df186af771.jpg" width="160" alt="粉发盲女跃落霓虹都市"></a> | [粉发盲女跃落霓虹都市](https://goodcase.ai/cases/laviniavelle-seedance-ai-bac382f08a18) | 2.0 | 76 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e"><img src="https://media.goodcase.ai/cases/6f39bca3bfd6.jpg" width="160" alt="金色夕阳下的工业区双女激战"></a> | [金色夕阳下的工业区双女激战](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e) | 2.5 | 76 |
 | <a href="https://goodcase.ai/cases/avelyrahnai-seedance-ai-50f8f8d3144f"><img src="https://media.goodcase.ai/media/poster/avelyrahnai-seedance-ai-50f8f8d3144f.jpg" width="160" alt="蓝发少女持枪挥刀激战双匕首对手"></a> | [蓝发少女持枪挥刀激战双匕首对手](https://goodcase.ai/cases/avelyrahnai-seedance-ai-50f8f8d3144f) | 2.5 | 74 |
 | <a href="https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010"><img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="160" alt="地铁站柱前近身格斗"></a> | [地铁站柱前近身格斗](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010) | 2.0 | 74 |
-| <a href="https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance"><img src="https://media.goodcase.ai/media/poster/youmind-wuxia-temple-energy-dance.jpg" width="160" alt="电影级武侠古殿金色能量战斗之舞"></a> | [电影级武侠古殿金色能量战斗之舞](https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance) | 2.0 | 73 |
-| <a href="https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a"><img src="https://media.goodcase.ai/media/poster/xaroon-x-seedance-ai-7d4e6854009a.jpg" width="160" alt="工业工厂中的间谍激战"></a> | [工业工厂中的间谍激战](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a) | 2.5 | 72 |
-| <a href="https://goodcase.ai/cases/seedance-cinematic-high-action-sequence-set-on-an-icy-school-rooftop-at-night-ef6584386b8e"><img src="https://media.goodcase.ai/cases/f110657f948e.jpg" width="160" alt="冰夜屋顶魔法少女激战"></a> | [冰夜屋顶魔法少女激战](https://goodcase.ai/cases/seedance-cinematic-high-action-sequence-set-on-an-icy-school-rooftop-at-night-ef6584386b8e) | 2.5 | 71 |
-| <a href="https://goodcase.ai/cases/yourplugai-seedance-ai-fb797edfc8e4"><img src="https://media.goodcase.ai/media/poster/yourplugai-seedance-ai-fb797edfc8e4.jpg" width="160" alt="Seedance 涩谷黄金时刻近身格斗短片"></a> | [Seedance 涩谷黄金时刻近身格斗短片](https://goodcase.ai/cases/yourplugai-seedance-ai-fb797edfc8e4) | 2.0 | 71 |
-| <a href="https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4"><img src="https://media.goodcase.ai/media/poster/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4.jpg" width="160" alt="女跆拳道高手激战仓库群敌"></a> | [女跆拳道高手激战仓库群敌](https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4) | 2.0 | 68 |
 
-其余 28 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
+其余 39 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

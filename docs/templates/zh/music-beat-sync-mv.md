@@ -65,7 +65,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 12 条，按热度）
+## 这一类的案例（已归类 16 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -73,14 +73,16 @@
 | <a href="https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop"><img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="160" alt="单人 K-POP MV · Y2K 糖果世界逐秒分镜"></a> | [单人 K-POP MV · Y2K 糖果世界逐秒分镜](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop) | 2.5 | 84 |
 | <a href="https://goodcase.ai/cases/cyberpunk-holographic-dance-performance"><img src="https://media.goodcase.ai/cases/5ee3737281f4.jpg" width="160" alt="Cyberpunk Holographic Dance Performance"></a> | [Cyberpunk Holographic Dance Performance](https://goodcase.ai/cases/cyberpunk-holographic-dance-performance) | 2.5 | 83 |
 | <a href="https://goodcase.ai/cases/vibrant-k-pop-stage-performance"><img src="https://media.goodcase.ai/media/poster/vibrant-k-pop-stage-performance.jpg" width="160" alt="Vibrant K-pop Stage Performance"></a> | [Vibrant K-pop Stage Performance](https://goodcase.ai/cases/vibrant-k-pop-stage-performance) | 2.0 | 82 |
+| <a href="https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd"><img src="https://media.goodcase.ai/cases/506d85ad9946.jpg" width="160" alt="聚光灯下的偶像舞台秀"></a> | [聚光灯下的偶像舞台秀](https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd) | 2.5 | 68 |
 | <a href="https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6"><img src="https://media.goodcase.ai/media/poster/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6.jpg" width="160" alt="霓虹未来舞台K-pop劲舞"></a> | [霓虹未来舞台K-pop劲舞](https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6) | 2.0 | 65 |
+| <a href="https://goodcase.ai/cases/seedance-get-ready-for-a-pure-adrenaline-rush-a8a9f11d2ea3"><img src="https://media.goodcase.ai/cases/8f97dab045b0.jpg" width="160" alt="白西装绅士的霓虹节拍漫步"></a> | [白西装绅士的霓虹节拍漫步](https://goodcase.ai/cases/seedance-get-ready-for-a-pure-adrenaline-rush-a8a9f11d2ea3) | 2.5 | 56 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe"><img src="https://media.goodcase.ai/cases/ab8461f87268.jpg" width="160" alt="雨夜霓虹中走向黎明的女歌手"></a> | [雨夜霓虹中走向黎明的女歌手](https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe) | 2.0 | 48 |
 | <a href="https://goodcase.ai/cases/iphone-shot-street-dance-music-video"><img src="https://media.goodcase.ai/cases/16039c423213.jpg" width="160" alt="iPhone-shot Street Dance Music Video"></a> | [iPhone-shot Street Dance Music Video](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | 2.0 | 27 |
 | <a href="https://goodcase.ai/cases/case-887d0484c2ce"><img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="160" alt="可口可乐时尚转场广告"></a> | [可口可乐时尚转场广告](https://goodcase.ai/cases/case-887d0484c2ce) | 2.0 | 22 |
 | <a href="https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="160" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕"></a> | [Seedance 2.5 涩谷街头K-pop舞蹈同步字幕](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8) | 2.5 | 19 |
 | <a href="https://goodcase.ai/cases/case-24775a8dc979"><img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="160" alt="音乐视频编舞与身份设定"></a> | [音乐视频编舞与身份设定](https://goodcase.ai/cases/case-24775a8dc979) | 2.0 | 7 |
-| <a href="https://goodcase.ai/cases/case-3ab1709b8447"><img src="https://media.goodcase.ai/media/poster/case-3ab1709b8447.jpg" width="160" alt="现代舞室音乐视频"></a> | [现代舞室音乐视频](https://goodcase.ai/cases/case-3ab1709b8447) | 2.0 | 3 |
-| <a href="https://goodcase.ai/cases/dj-0f7bed87d7ec"><img src="https://media.goodcase.ai/media/poster/dj-0f7bed87d7ec.jpg" width="160" alt="动漫 DJ 女孩俱乐部表演"></a> | [动漫 DJ 女孩俱乐部表演](https://goodcase.ai/cases/dj-0f7bed87d7ec) | 2.0 | 1 |
-| <a href="https://goodcase.ai/cases/doc3-kpop-mv-real-person"><img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-kpop-mv-real-person.jpg" width="160" alt="真人拼贴杂志风 K-pop 女团 MV"></a> | [真人拼贴杂志风 K-pop 女团 MV](https://goodcase.ai/cases/doc3-kpop-mv-real-person) | 2.5 | - |
+
+其余 4 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

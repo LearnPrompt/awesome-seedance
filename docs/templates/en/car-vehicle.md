@@ -66,13 +66,14 @@ The machine has to stay one machine while the camera does all the work. Lock the
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (10 filed, by heat)
+## Cases in this category (11 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1"><img src="https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg" width="160" alt="Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic"></a> | [Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88"><img src="https://media.goodcase.ai/cases/d2b34cc66de6.jpg" width="160" alt="Motorcycle Racing Through a Mountain Road"></a> | [Motorcycle Racing Through a Mountain Road](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | 2.0 | 78 |
 | <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg" width="160" alt="Post-Apocalyptic Desert Buggy Air Battle"></a> | [Post-Apocalyptic Desert Buggy Air Battle](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) | 2.0 | 71 |
+| <a href="https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a"><img src="https://media.goodcase.ai/cases/17d1ccde38df.jpg" width="160" alt="Pink Jet Tractor Races Supercars on a Tokyo Expressway"></a> | [Pink Jet Tractor Races Supercars on a Tokyo Expressway](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) | 2.5 | 47 |
 | <a href="https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf"><img src="https://media.goodcase.ai/cases/4da7c433c3b6.jpg" width="160" alt="First-Person Midair Assembly of a Black Lamborghini"></a> | [First-Person Midair Assembly of a Black Lamborghini](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | 2.5 | 44 |
 | <a href="https://goodcase.ai/cases/karakoram-motorcycle-commercial"><img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="160" alt="Karakoram Motorcycle Commercial"></a> | [Karakoram Motorcycle Commercial](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | 2.5 | 37 |
 | <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg" width="160" alt="Silver-Haired Rider's Neon Highway Escape"></a> | [Silver-Haired Rider's Neon Highway Escape](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) | 2.0 | 30 |

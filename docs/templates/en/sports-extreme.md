@@ -66,12 +66,13 @@ The clip lives or dies on the action loop. Write every link from run-up to landi
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (10 filed, by heat)
+## Cases in this category (11 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-269d1fc95820"><img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="160" alt="Seedance 2.5 Dance Clip Real Enough to Fool You"></a> | [Seedance 2.5 Dance Clip Real Enough to Fool You](https://goodcase.ai/cases/seedance-269d1fc95820) | 2.5 | 92 |
 | <a href="https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb"><img src="https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg" width="160" alt="Woman Snowboarding and Catching Air at an Alpine Resort"></a> | [Woman Snowboarding and Catching Air at an Alpine Resort](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | 2.0 | 82 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5"><img src="https://media.goodcase.ai/cases/d9e8d052ad57.jpg" width="160" alt="Bicycle Courier Racing Through the City"></a> | [Bicycle Courier Racing Through the City](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) | 2.5 | 67 |
 | <a href="https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229"><img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg" width="160" alt="Female Rider Wins Mountain Bike Final by a Wheel"></a> | [Female Rider Wins Mountain Bike Final by a Wheel](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) | 2.5 | 63 |
 | <a href="https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e"><img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg" width="160" alt="Seedance Smooth Snowboard Run Through a Terrain Park"></a> | [Seedance Smooth Snowboard Run Through a Terrain Park](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | 2.5 | 62 |
 | <a href="https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13"><img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg" width="160" alt="Female Mountain Biker Conquers Rugged Trails to Reach a Valley View"></a> | [Female Mountain Biker Conquers Rugged Trails to Reach a Valley View](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) | 2.0 | 57 |

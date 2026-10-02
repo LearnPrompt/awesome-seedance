@@ -66,13 +66,14 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 10 条，按热度）
+## 这一类的案例（已归类 11 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1"><img src="https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg" width="160" alt="Seedance 2.5 1080P 三十秒超写实奇幻大片"></a> | [Seedance 2.5 1080P 三十秒超写实奇幻大片](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88"><img src="https://media.goodcase.ai/cases/d2b34cc66de6.jpg" width="160" alt="摩托车疾驰山间公路"></a> | [摩托车疾驰山间公路](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | 2.0 | 78 |
 | <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg" width="160" alt="末日沙漠战车空中激战"></a> | [末日沙漠战车空中激战](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) | 2.0 | 71 |
+| <a href="https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a"><img src="https://media.goodcase.ai/cases/17d1ccde38df.jpg" width="160" alt="东京高速粉色喷气拖拉机狂飙"></a> | [东京高速粉色喷气拖拉机狂飙](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) | 2.5 | 47 |
 | <a href="https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf"><img src="https://media.goodcase.ai/cases/4da7c433c3b6.jpg" width="160" alt="第一视角凌空组装黑色兰博基尼"></a> | [第一视角凌空组装黑色兰博基尼](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | 2.5 | 44 |
 | <a href="https://goodcase.ai/cases/karakoram-motorcycle-commercial"><img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="160" alt="Karakoram Motorcycle Commercial"></a> | [Karakoram Motorcycle Commercial](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | 2.5 | 37 |
 | <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg" width="160" alt="银发骑手霓虹公路突围"></a> | [银发骑手霓虹公路突围](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) | 2.0 | 30 |

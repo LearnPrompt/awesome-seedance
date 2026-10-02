@@ -60,6 +60,8 @@ for (const file of files) {
     const targets = [...line.matchAll(/\]\(([^)\s]+)\)/g), ...line.matchAll(/href="([^"]+)"/g)].map((m) => m[1]);
     for (const raw of targets) {
       if (/^(https?:|mailto:)/.test(raw)) continue;
+      // 案例提示语原文里偶尔有 `](image_1)` 这种占位写法，不是仓库链接：没有路径分隔、扩展名或锚点的裸词跳过
+      if (!/[\/.#]/.test(raw)) continue;
       checked += 1;
       const [rel, frag] = raw.split("#");
       const target = rel ? path.resolve(path.dirname(file), rel) : file;

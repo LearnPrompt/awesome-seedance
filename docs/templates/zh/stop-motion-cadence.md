@@ -64,12 +64,13 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 9 条，按热度）
+## 这一类的案例（已归类 10 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/erling-haaland-525acabe78da"><img src="https://media.goodcase.ai/media/poster/erling-haaland-525acabe78da.jpg" width="160" alt="Erling Haaland 黏土动画园艺"></a> | [Erling Haaland 黏土动画园艺](https://goodcase.ai/cases/erling-haaland-525acabe78da) | 2.0 | 86 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-21-second-vertical-9-16-cinematic-stop-motion-animation-557fa2797476"><img src="https://media.goodcase.ai/cases/89da8d0df670.jpg" width="160" alt="潮池石头人的笨拙舞蹈"></a> | [潮池石头人的笨拙舞蹈](https://goodcase.ai/cases/seedance-create-a-21-second-vertical-9-16-cinematic-stop-motion-animation-557fa2797476) | 2.0 | 86 |
+| <a href="https://goodcase.ai/cases/seedance-using-the-reference-image-as-the-exact-final-frame-create-a-10-second-stop-mot-eb31041e1c1d"><img src="https://media.goodcase.ai/cases/d331b0b4f759.jpg" width="160" alt="微型工人编织红绳“Smiling”"></a> | [微型工人编织红绳“Smiling”](https://goodcase.ai/cases/seedance-using-the-reference-image-as-the-exact-final-frame-create-a-10-second-stop-mot-eb31041e1c1d) | 2.5 | 66 |
 | <a href="https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8"><img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="160" alt="黏土定格迷你能多益咖啡馆"></a> | [黏土定格迷你能多益咖啡馆](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8) | 2.0 | 25 |
 | <a href="https://goodcase.ai/cases/case-69e5879cc5a7"><img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="160" alt="定格动画：狼群袭击序列"></a> | [定格动画：狼群袭击序列](https://goodcase.ai/cases/case-69e5879cc5a7) | 2.0 | 17 |
 | <a href="https://goodcase.ai/cases/case-0287a838e662"><img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="160" alt="手绘定格动画：暴风雪场景"></a> | [手绘定格动画：暴风雪场景](https://goodcase.ai/cases/case-0287a838e662) | 2.0 | 16 |

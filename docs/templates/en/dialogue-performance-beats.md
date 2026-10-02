@@ -79,4 +79,4 @@ Declare the spoken language, tag the speaker, write the reaction as a causal cha
 
 ---
 
-[← Previous: Fashion lookbook and portrait film](./fashion-lookbook.md) · [Next: Cinematic narrative short →](./cinematic-narrative-short.md)
+[← Previous: Food close-ups and eating ASMR](./food-asmr.md) · [Next: Cinematic narrative short →](./cinematic-narrative-short.md)
