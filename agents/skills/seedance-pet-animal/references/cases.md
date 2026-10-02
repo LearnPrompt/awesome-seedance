@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Fox’s Self-Filmed Walk Along a Forest Stream
 
-- Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
+- Seedance 2.5 · creator: @MrDasOnX · heat: 93 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
 - Summary: Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
@@ -299,7 +299,7 @@ Her thumb instinctively continues rubbing the kitten's fur a
 
 ## E8 · From the Birth of the Universe to Humanity
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 58
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e) · [finished media](https://media.goodcase.ai/cases/605e2885b55c.mp4) · [poster](https://media.goodcase.ai/cases/abd3f250edd5.jpg) · [original source](https://x.com/RuzainaMeer/status/2096837494000308685)
 - Summary: 13.8 billion years of evolution, from the birth of the universe to modern humanity. A cinematic journey through time, created with Seedance 2.5. Full Prompt: Cr…
 

@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 83
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
 - Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
 

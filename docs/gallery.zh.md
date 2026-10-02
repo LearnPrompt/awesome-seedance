@@ -1,19 +1,19 @@
 # Awesome Seedance — 画廊总览
 
-全部 624 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 670 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
 ## 分页
 
-- [Seedance 2.5 · 第 1/5 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–80 条，共 388 条.
-- [Seedance 2.5 · 第 2/5 页](./gallery-seedance-2-5-part-2.zh.md) - 第 81–181 条，共 388 条.
-- [Seedance 2.5 · 第 3/5 页](./gallery-seedance-2-5-part-3.zh.md) - 第 182–277 条，共 388 条.
-- [Seedance 2.5 · 第 4/5 页](./gallery-seedance-2-5-part-4.zh.md) - 第 278–358 条，共 388 条.
-- [Seedance 2.5 · 第 5/5 页](./gallery-seedance-2-5-part-5.zh.md) - 第 359–388 条，共 388 条.
-- [Seedance 2.0 · 第 1/3 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–113 条，共 236 条.
-- [Seedance 2.0 · 第 2/3 页](./gallery-seedance-2-0-part-2.zh.md) - 第 114–202 条，共 236 条.
-- [Seedance 2.0 · 第 3/3 页](./gallery-seedance-2-0-part-3.zh.md) - 第 203–236 条，共 236 条.
+- [Seedance 2.5 · 第 1/5 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–79 条，共 429 条.
+- [Seedance 2.5 · 第 2/5 页](./gallery-seedance-2-5-part-2.zh.md) - 第 80–178 条，共 429 条.
+- [Seedance 2.5 · 第 3/5 页](./gallery-seedance-2-5-part-3.zh.md) - 第 179–275 条，共 429 条.
+- [Seedance 2.5 · 第 4/5 页](./gallery-seedance-2-5-part-4.zh.md) - 第 276–365 条，共 429 条.
+- [Seedance 2.5 · 第 5/5 页](./gallery-seedance-2-5-part-5.zh.md) - 第 366–429 条，共 429 条.
+- [Seedance 2.0 · 第 1/3 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–114 条，共 241 条.
+- [Seedance 2.0 · 第 2/3 页](./gallery-seedance-2-0-part-2.zh.md) - 第 115–205 条，共 241 条.
+- [Seedance 2.0 · 第 3/3 页](./gallery-seedance-2-0-part-3.zh.md) - 第 206–241 条，共 241 条.
 
 ## 仓库里的其他入口
 
@@ -33,9 +33,9 @@
 - [mini DV 咖啡 ASMR vlog](./gallery-seedance-2-5-part-1.zh.md#mini-dv-咖啡-asmr-vlog) - 用家用摄像机的缺陷反向做真实感：手抖、来回找焦、曝光漂移、磁带颗粒全写进提示词，再配一份 ASMR 声音清单和每段三秒的分镜节奏。
 - [雨天清晨赶往大学的咖啡日常](./gallery-seedance-2-5-part-1.zh.md#雨天清晨赶往大学的咖啡日常) - Some mornings begin with sunshine. Hers began with rain. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action university vlog of …
 - [首尔夏日街巷里的悠闲午后](./gallery-seedance-2-5-part-1.zh.md#首尔夏日街巷里的悠闲午后) - That Baddie again Say NO to Hollywood and YES to AI Seedance 2.5 Prompt : Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordin…
+- [幼儿开门学字母与单词](./gallery-seedance-2-5-part-1.zh.md#幼儿开门学字母与单词) - Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 - [黑衣女子静立于同步人群中央](./gallery-seedance-2-5-part-1.zh.md#黑衣女子静立于同步人群中央) - I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 - [夏日厨房里的日式猪排盖饭](./gallery-seedance-2-5-part-1.zh.md#夏日厨房里的日式猪排盖饭) - So delicious 😋 Seedance 2.5 Prompt: Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirel…
 - [庭院吊床与清洗摩托的午后](./gallery-seedance-2-5-part-1.zh.md#庭院吊床与清洗摩托的午后) - Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
-- [实验室寄生体感染突袭](./gallery-seedance-2-5-part-1.zh.md#实验室寄生体感染突袭) - A containment breach in the lab sent things wrong fast. Seedance 2.5 Prompt: Cinematic sci-fi horror-action short film set in a research laboratory, opens with …
 
 ← [返回 README](../README_zh.md)

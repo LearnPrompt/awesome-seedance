@@ -200,7 +200,7 @@ She continues walking past traditional houses. A small
 
 ## E4 · Restaurant Chef’s Flaming Wok Performance
 
-- Seedance 2.5 · creator: @AynahhX · heat: 63
+- Seedance 2.5 · creator: @AynahhX · heat: 62
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e) · [finished media](https://media.goodcase.ai/cases/5d8839944958.mp4) · [poster](https://media.goodcase.ai/cases/23cf7e177f01.jpg) · [original source](https://x.com/AynahhX/status/2102946546035945875)
 - Summary: When the chef turns dinner into a whole performance. 🔥👨‍🍳🥘 Created with Seedance 2.5 Prompt Create a 15-second cinematic 3D animated cooking sequence inside…
 
@@ -215,7 +215,7 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 
 ## E5 · Korean Woman Melts Down During a Spicy Food Challenge
 
-- Seedance 2.5 · creator: @oggii_0 · heat: 56 · stability: 82
+- Seedance 2.5 · creator: @oggii_0 · heat: 55 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) · [finished media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) · [poster](https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg) · [original source](https://x.com/oggii_0/status/2094267751477232053)
 - Summary: When AI starts making fake memories that feel this real… things get interesting. Made with Seedance 2.5. Prompt: Create
 
@@ -262,7 +262,7 @@ She shoots a watery-eyed glare at the camera without being able to respond, stil
 
 ## E6 · Juicy Pan-Fried Bao with a Crisp Golden Crust
 
-- Seedance 2.5 · creator: @Lianaalane · heat: 45
+- Seedance 2.5 · creator: @Lianaalane · heat: 44
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6) · [finished media](https://media.goodcase.ai/cases/0ecfc9686dfd.mp4) · [poster](https://media.goodcase.ai/cases/b7e548a0f7a9.jpg) · [original source](https://x.com/Lianaalane/status/2096903888813330826)
 - Summary: Crispy on the outside, juicy on the inside. Every bite is packed with rich flavors, golden broth, and irresistible textures. Created on seedance 2.5 Prompt: Cre…
 

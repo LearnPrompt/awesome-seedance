@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · Flaming Spear Hero Battles the Stone Colossi
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 48
+- Seedance 2.5 · creator: @Xaroon_x · heat: 46
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) · [finished media](https://media.goodcase.ai/cases/3213936a04bc.mp4) · [poster](https://media.goodcase.ai/cases/4f05b16f382b.jpg) · [original source](https://x.com/Xaroon_x/status/2100595334833422793)
 - Summary: From ruins to a giant showdown. Created with Seedance 2.5 on @WizstarAI AEpic fantasy action, dynamic combat, and cinematic visuals brought to life with AI. Try…
 
@@ -347,7 +347,7 @@ PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2
 
 ## E7 · Falling Astronaut Awakens a Giant Spacecraft Above the Clouds
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 41
+- Seedance 2.5 · creator: @Xaroon_x · heat: 39
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
 - Summary: From the clouds to the unknown . A cinematic sci-fi journey created with Seedance 2.5. Exploring cinematic AI video creation with @ImagineArt_X Prompt: REFERENC…
 
@@ -417,7 +417,7 @@ Spacecraft becomes fully deployed: dark gunmetal body, angular wings, centr
 
 ## E8 · High-Energy Spicy Potato Chips Commercial Storyboard
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 30 · stability: 82
+- Seedance 2.5 · creator: @Strength04_X · heat: 29 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
 - Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
 
