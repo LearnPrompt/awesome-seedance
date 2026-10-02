@@ -13,6 +13,13 @@
       "license": "MIT"
     },
     {
+      "name": "seedance-production-workflow",
+      "source": "./agents/skills/seedance-production-workflow",
+      "description": "Plan reference assets and shots, check the handoff, then review and repair the generated video with a timestamped QA record.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
       "name": "seedance-meme-comedy",
       "source": "./agents/skills/seedance-meme-comedy",
       "description": "Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.",

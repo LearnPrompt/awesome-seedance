@@ -7,6 +7,8 @@ import { pickLang, displayTitle, fenceForPrompt, classifySeedance } from "./rend
 
 export const STANDALONE_CASE_LIMIT = 8;
 export const STANDALONE_PROMPT_MAX_CHARS = 3500;
+// 生成的 SKILL.md 里固定出现的一句话；生成器靠它判断一个 SKILL.md 是不是自己写的。
+export const STANDALONE_SKILL_MARKER = "`references/cases.md` is generated from `data/`";
 
 function listOf(value, lang) {
   const v = value && (value[lang] ?? value.en);
@@ -98,7 +100,7 @@ export function renderStandaloneSkillMd(template, skill, cases) {
   }
   lines.push("## Notes");
   lines.push("");
-  lines.push("- `references/cases.md` is generated from `data/` in [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) and refreshed daily; do not hand-edit an installed copy.");
+  lines.push(`- ${STANDALONE_SKILL_MARKER} in [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) and refreshed daily; do not hand-edit an installed copy.`);
   lines.push("- Prompts in the reference file belong to their creators (linked on every card). Transfer the structure; do not present a close copy as original work.");
   lines.push("- For the full library across every model, install the `goodcase` Skill from [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite).");
   return lines.join("\n") + "\n";

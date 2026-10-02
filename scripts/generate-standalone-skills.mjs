@@ -7,7 +7,7 @@ import { readFileSync, writeFileSync, mkdirSync, readdirSync, rmSync, existsSync
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { loadLibrary, buildTemplateIndex } from "./lib/library.mjs";
-import { renderStandaloneSkillMd, renderStandaloneCasesMd } from "./lib/standalone-skill.mjs";
+import { renderStandaloneSkillMd, renderStandaloneCasesMd, STANDALONE_SKILL_MARKER } from "./lib/standalone-skill.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SKILLS_DIR = path.join(ROOT, "agents/skills");
@@ -17,24 +17,33 @@ const index = buildTemplateIndex(library.templates, taxonomy, cases);
 const skillsData = JSON.parse(readFileSync(path.join(ROOT, "data/skills.json"), "utf8"));
 const standalone = (skillsData.skills || []).filter((s) => s.templateId);
 
-const written = new Set();
+// 生成的 SKILL.md 带固定标记句；有标记才算本脚本的产物，手写的 SKILL.md 没有。
+const isGeneratedSkillMd = (dir) => {
+  const p = path.join(dir, "SKILL.md");
+  return existsSync(p) && readFileSync(p, "utf8").includes(STANDALONE_SKILL_MARKER);
+};
+
+const listed = new Set((skillsData.skills || []).map((s) => s.id));
 for (const skill of standalone) {
   const template = library.templates.find((tp) => tp.id === skill.templateId);
   if (!template) throw new Error(`skills.json: "${skill.id}" points at unknown template "${skill.templateId}"`);
   if (!/^[a-z0-9][a-z0-9-]*$/.test(skill.id)) throw new Error(`skills.json: bad skill id "${skill.id}"`);
   const filed = index.byTemplate.get(template.id) || [];
   const dir = path.join(SKILLS_DIR, skill.id);
+  // 手写 Skill（有 SKILL.md 但没有生成标记）不许被模板覆盖。
+  if (existsSync(path.join(dir, "SKILL.md")) && !isGeneratedSkillMd(dir)) {
+    throw new Error(`agents/skills/${skill.id}/SKILL.md is hand-written (no generator marker); refusing to overwrite it with template "${skill.templateId}". Remove the templateId from data/skills.json or delete the directory to regenerate.`);
+  }
   mkdirSync(path.join(dir, "references"), { recursive: true });
-  writeFileSync(path.join(dir, "SKILL.md"), renderStandaloneSkillMd(template, skill, filed), "utf8");
+  // 先写 cases.md 再写 SKILL.md：中途崩溃也不会留下没有标记的 SKILL.md。
   writeFileSync(path.join(dir, "references/cases.md"), renderStandaloneCasesMd(template, skill, filed), "utf8");
-  written.add(skill.id);
+  writeFileSync(path.join(dir, "SKILL.md"), renderStandaloneSkillMd(template, skill, filed), "utf8");
   console.log(`agents/skills/${skill.id}: ${filed.length} cases`);
 }
-// 清理已从 skills.json 撤掉的独立 Skill（只删本脚本生成过的：目录里有 references/cases.md 且没有 package.json）。
+// 清理已从 skills.json 撤掉的独立 Skill。只删本脚本生成过的目录：id 不再登记在 skills.json、没有 package.json、且 SKILL.md 含生成标记。
 for (const name of readdirSync(SKILLS_DIR)) {
   const dir = path.join(SKILLS_DIR, name);
-  if (written.has(name) || existsSync(path.join(dir, "package.json"))) continue;
-  if (existsSync(path.join(dir, "references/cases.md"))) {
+  if (!listed.has(name) && !existsSync(path.join(dir, "package.json")) && isGeneratedSkillMd(dir)) {
     rmSync(dir, { recursive: true, force: true });
     console.log(`removed stale agents/skills/${name}`);
   }

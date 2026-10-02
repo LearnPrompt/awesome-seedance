@@ -1,9 +1,9 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { readFileSync } from "node:fs";
+import { readFileSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
-import { renderStandaloneSkillMd, renderStandaloneCasesMd, skillDescription, STANDALONE_CASE_LIMIT } from "./standalone-skill.mjs";
+import { renderStandaloneSkillMd, renderStandaloneCasesMd, skillDescription, STANDALONE_CASE_LIMIT, STANDALONE_SKILL_MARKER } from "./standalone-skill.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const { cases } = JSON.parse(readFileSync(path.join(__dirname, "../../data/fixtures/cases.fixture.json"), "utf8"));
@@ -41,4 +41,38 @@ test("references/cases.md lists the hottest cases first, capped, with attributio
   assert.match(md, /\[original source\]\(/);
   assert.match(md, /^````text\nline `x`\n```\nnested fence\n```\n````$/m, "fence is longer than any backtick run inside the prompt");
   assert.match(md, new RegExp(`${many.length} verified cases are filed`));
+});
+
+test("rendered SKILL.md carries the generator marker the generator uses to recognise its own output", () => {
+  assert.ok(renderStandaloneSkillMd(template, skill, cases).includes(STANDALONE_SKILL_MARKER));
+});
+
+// Filesystem checks cover hand-maintained entries only: generated dirs are created and pruned by
+// `npm run generate`, which CI runs after `npm test`, so asserting on them would depend on run order.
+test("hand-maintained seedance-* Skills (no templateId) have a SKILL.md without the generator marker and no generated cases.md", () => {
+  const root = path.join(__dirname, "../..");
+  const { skills } = JSON.parse(readFileSync(path.join(root, "data/skills.json"), "utf8"));
+  const handMaintained = skills.filter((s) => s.id.startsWith("seedance-") && !s.templateId);
+  assert.ok(handMaintained.length > 0);
+  for (const s of handMaintained) {
+    const skillMd = path.join(root, "agents/skills", s.id, "SKILL.md");
+    assert.ok(existsSync(skillMd), `${s.id}: missing SKILL.md`);
+    assert.ok(!existsSync(path.join(root, "agents/skills", s.id, "references/cases.md")), `${s.id}: hand-maintained Skill must not look generated`);
+    assert.ok(!readFileSync(skillMd, "utf8").includes(STANDALONE_SKILL_MARKER), `${s.id}: hand-maintained SKILL.md contains the generator marker`);
+  }
+});
+
+test("marketplace.json and data/skills.json list exactly the same seedance-* Skills", () => {
+  const root = path.join(__dirname, "../..");
+  const { skills } = JSON.parse(readFileSync(path.join(root, "data/skills.json"), "utf8"));
+  const ids = new Set(skills.filter((s) => s.id.startsWith("seedance-")).map((s) => s.id));
+  const { plugins } = JSON.parse(readFileSync(path.join(root, ".claude-plugin/marketplace.json"), "utf8"));
+  for (const id of ids) {
+    const plugin = plugins.find((p) => p.name === id);
+    assert.ok(plugin, `${id}: no plugin entry in marketplace.json`);
+    assert.equal(plugin.source, `./agents/skills/${id}`, `${id}: wrong marketplace source`);
+  }
+  for (const plugin of plugins) {
+    assert.ok(ids.has(plugin.name), `${plugin.name}: marketplace plugin is not a seedance-* id in data/skills.json`);
+  }
 });
