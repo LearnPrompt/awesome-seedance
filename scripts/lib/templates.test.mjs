@@ -207,6 +207,20 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
   assert.equal(withUtm("https://goodcase.ai/skills?category=video"), "https://goodcase.ai/skills?category=video&utm_source=awesome-seedance");
   assert.equal(withUtm(withUtm("https://goodcase.ai/x")), "https://goodcase.ai/x?utm_source=awesome-seedance");
   assert.match(md, /制作工作流 Skill 则单独维护/, "the hand-maintained workflow must not be described as regenerated from cases");
+  const en = renderSkillGrid(skillsData, "en", bySlug, { coverCasesFor: () => [] });
+  assert.match(en, /the production workflow is maintained separately/);
+  const ja = renderSkillGrid(skillsData, "ja", bySlug, { coverCasesFor: () => [] });
+  assert.match(ja, /制作ワークフロー Skill は別途保守されます/);
+});
+
+test("renderSkillGrid: Skill without any cover renders title and install line but no image", () => {
+  const data = {
+    skills: [{ id: "bare", title: { en: "Bare Skill", zh: "裸 Skill", ja: "Bare Skill" }, description: { en: "d", zh: "d", ja: "d" }, install: "npx skills add x --skill bare", url: "https://github.com/x/bare", variants: [] }],
+  };
+  const md = renderSkillGrid(data, "en", new Map(), { coverCasesFor: () => [] });
+  assert.match(md, /<b>Bare Skill<\/b>/);
+  assert.match(md, /<code>npx skills add x --skill bare<\/code>/);
+  assert.doesNotMatch(md, /<img /);
 });
 
 test("renderStartHere explains templates vs Skills with tables (no list items: awesome-lint treats lists after Contents as entries)", () => {
@@ -217,10 +231,14 @@ test("renderStartHere explains templates vs Skills with tables (no list items: a
     assert.doesNotMatch(md, /^\s*(?:[-*]|\d+\.)\s/m, `${lang}: no markdown lists`);
     assert.equal((md.match(/^\| \d \|/gm) || []).length, 5, `${lang}: five steps`);
     assert.ok(md.includes("](#t)") && md.includes("](#s)"));
-    if (lang === "zh") {
-      assert.match(md, /Skill 可以应用这些结构，也可以指导制作流程的其他环节/);
-      assert.doesNotMatch(md, /两者都来自同一批/, "the workflow is not a case-distilled template");
-    }
+    const stale = { en: /Both are built from the same/, zh: /两者都来自同一批/, ja: /どちらも同じ/ }[lang];
+    const fresh = {
+      en: /Skills can apply those structures or guide other parts of production/,
+      zh: /Skill 可以应用这些结构，也可以指导制作流程的其他环节/,
+      ja: /Skill はその構造の活用や制作の別工程を支援します/,
+    }[lang];
+    assert.doesNotMatch(md, stale, `${lang}: the workflow is not a case-distilled template`);
+    assert.match(md, fresh, `${lang}: Skills described as applying templates or guiding other steps`);
   }
 });
 

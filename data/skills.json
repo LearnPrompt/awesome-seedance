@@ -1,5 +1,5 @@
 {
-  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. Entries with a `templateId` are this repo's standalone Skills: scripts/generate-standalone-skills.mjs writes agents/skills/<id>/ from that template and the cases filed under it (`triggers` become extra Chinese trigger words in the SKILL.md description). Covers are 2×2 collages of the hottest posters: `coverCases` (explicit slugs) > the template behind `templateId` / `coverTemplateId` > the whole library. `coverTemplateId` only borrows a template's hottest case as the cover (for site Skills that mirror a template here); it does not make the entry a standalone Skill. coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
+  "$comment": "Skills shown in the README grid. Titles, descriptions, install lines and coverCase are hand-written here. `variants` and `cover` on entries with a `siteSlug` are refreshed from goodcase.ai by `node scripts/fetch-site-stats.mjs`; everything else is left alone. Entries with a `templateId` are this repo's standalone Skills: scripts/generate-standalone-skills.mjs writes agents/skills/<id>/ from that template and the cases filed under it (`triggers` become extra Chinese trigger words in the SKILL.md description). Hand-maintained Skills such as `seedance-production-workflow` live under agents/skills/<id>/ with a hand-written SKILL.md and no `references/cases.md`; scripts/generate-standalone-skills.mjs never prunes a directory whose id is still listed here and refuses to overwrite a hand-written SKILL.md, so register them here and in .claude-plugin/marketplace.json by hand, and give them `coverCases` or `coverTemplateId` if their tile should not fall back to the whole library's hottest cases. Covers are 2×2 collages of the hottest posters: `coverCases` (explicit slugs) > the template behind `templateId` / `coverTemplateId` > the whole library. `coverTemplateId` only borrows a template's hottest case as the cover (for site Skills that mirror a template here); it does not make the entry a standalone Skill. coverCase is a case slug from data/cases.json whose poster is used as the tile image (takes priority over cover).",
   "moreUrl": "https://goodcase.ai/skills?category=video",
   "skills": [
     {
@@ -20,6 +20,7 @@
     },
     {
       "id": "seedance-production-workflow",
+      "coverTemplateId": "storyboard-grid-to-video",
       "title": {
         "en": "Seedance Production Workflow",
         "zh": "Seedance 视频制作工作流",

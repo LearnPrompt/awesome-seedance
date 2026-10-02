@@ -34,6 +34,7 @@ Entries are additionally re-run on other video models where possible; verdicts, 
 
 - **Wrong attribution, broken source link, wrong model version, takedown request:** open a GitHub issue with the entry's slug (the last segment of its goodcase.ai URL) and the original source link. Fixes and removals land in `data/` on the next export and propagate to every generated file.
 - **Generator bugs, rendering issues, Skill improvements, template wording, a new category template, a better copy-ready lead-in, English title or summary corrections:** pull requests welcome. Change the source (`scripts/`, `agents/`, or `data/templates-local.json`; add or update a test under `scripts/lib/*.test.mjs` for renderer changes), run `npm test`, then `npm run generate`, and commit the regenerated files together with your change.
+- **Hand-maintained Skills** (for example `seedance-production-workflow`): they live under `agents/skills/<id>/`, have no `templateId` in `data/skills.json` and no `references/cases.md`, and are never regenerated or pruned by the generator. Edit them directly, keep their `data/skills.json` entry and their `.claude-plugin/marketplace.json` entry in sync, and run `npm test` (needs `python3` on PATH; it also runs the Python validator tests for `seedance-production-workflow`).
 
 ## How the README is generated
 
