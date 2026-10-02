@@ -1,12 +1,12 @@
 # Case evidence · Cinematic travel vlog montage
 
-12 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+21 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 88
+- Seedance 2.5 · creator: @eshal__ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -32,9 +32,148 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E2 · Mediterranean Hillside Villa Interior and Aerial Tour
+## E2 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 75 · stability: 86
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 83
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
+- Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
+
+```text
+That's me all the time at home, lazy ass
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high detail, natural outdoor lighting, slightly melancholic and dreamy atmosphere, soft color grade with muted greens, concrete greys, and pastel pinks. Consistent single female character throughout every shot. 
+Character (lock this identity):
+Young East-Asian woman @[Image 1](image_1), mid-20s, long straight pastel-pink hair with darker roots and lighter tips, fair skin, delicate makeup with reddish lips, slightly tired or distant expression. Wearing a light-green denim baseball cap decorated with a row of white pearls along the brim. Light-green cropped ribbed knit sweater with black ribbon bows tied along both sleeves. pink-and-white plaid flannel shirt tied around her waist. Baggy light-wash distressed jeans. Small silver necklace. Occasional black backpack in later shots. Same face, hair length, outfit, and body proportions in every scene.
+Shot sequence (smooth cuts, slow camera moves, 2–4 seconds each):
+Medium-wide: She lies on her side on weathered grey concrete stadium steps, head resting against the riser, one arm along the step, looking softly at camera. Background: empty sandy sports field and distant people.
+Medium: She hangs from the top white crossbar of a soccer goal, both hands gripping the bar, body dangling in front of the net, looking straight at camera. Green hills and a second goal in the background.
+Medium: She is inside a stainless-steel cage packed with orange basketballs, eyes closed, cheek resting on a basketball as if sleeping. Soft natural light.
+Medium: She reclines against a colorful red-yellow-green playground tube slide, eyes half-closed or looking down, same outfit, playground equipment and trees behind.
+Medium-wide: She sits still on a chain swing in a playground, looking down, legs hanging, empty swing beside her. Blue rubber flooring, red and blue poles.
+Medium-wide: She sits on a low concrete wall in the playground, an orange traffic cone placed on her head like a hat, staring forward with a blank expression. Colorful play structures and trees behind.
+Medium: Outdoor ping-pong table. She stands holding a red-and-black paddle, then leans forward and rests her head and arms on the blue table surface, paddle still in hand, looking sideways at camera.
+Medium close: She stands at a stainless-steel outdoor drinking fountain, presses the button, water arcs up; she leans in as if to drink, then looks down at the basin.
+Wide then medium: Large concrete stadium steps with metal railings and trees. She walks slowly past a black backpack on a step, stops, looks up at the sky, then sits and leans back against the steps, eyes closed or looking upward, legs extended.
+Camera & motion:
+Slow pans and gentle dollies, shallow-to-medium depth of field, natural handheld-but-stable feel. Soft overcast or late-afternoon light. Subtle wind in hair and clothes. No fast cuts, no zooms that break character consistency.
+Mood & audio suggestion:
+Quiet, introspective, slightly surreal “lost in thought” feeling. Pair with the Indonesian song snippet “Pikiranku tak dapat ku mengerti / kaki di kepala kepala di kaki…” (Peterpan / Noah – Di Atas Normal) or a similar melancholic indie track. Soft ambient outdoor sound (distant voices, wind, faint playground noise).
+Quality tags:
+Photorealistic, 4K, cinematic lighting, consistent character, natural skin texture, fabric detail on s
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E3 · Her Autumn Day in the City
+
+- Seedance 2.5 · creator: @Chaemate_ · heat: 79
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
+- Summary: city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
+
+```text
+SCENE CONTEXT
+A 20-year-old East Asian woman spends an autumn day moving through a big city — leaving her apartment, riding the subway, grabbing coffee from a cart, cutting through a park in falling leaves, browsing a bookstore, catching golden hour on a rooftop, and riding home at night — filmed as a candid, mixed-format day-in-the-city vlog, 30 seconds total.
+
+ACTIVE REFERENCES
+@image1: 20-year-old East Asian woman, soft round face, warm ivory skin, dark brown hair in a loose high bun with face-framing strands, natural dewy makeup, gentle expressive eyes, wearing a wine-burgundy ribbed knit off-shoulder sweater and a small silver flower pendant necklace. 100% matches the reference throughout every shot.
+
+FORMAT MODE
+Timed multishot. HARD CUTs only at the stated seconds; camera does not cut on its own between them. Mixed scene styles — not every shot has dialogue; some are silent candid b-roll.
+
+0.0s–4.0s — HARD CUT
+4.0s–8.0s — HARD CUT
+8.0s–12.0s — HARD CUT
+12.0s–17.0s — HARD CUT
+17.0s–21.0s — HARD CUT
+21.0s–26.0s — HARD CUT
+26.0s–30.0s — end
+
+OPTICS
+Shot 1: 63° wide, POV-adjacent handheld. Shot 2: 47° neutral, static-ish lean. Shot 3: 29° portrait-compression, quick transactional. Shot 4: 18° natural-portrait, slow-mo detail. Shot 5: 29° portrait-compression, candid unaware angle. Shot 6: 47° neutral, two-shot-adjacent solo toast. Shot 7: 18° natural-portrait, close reflective. No drift mid-segment.
+
+CAMERA
+Handheld throughout with natural 1–2cm tremor. Shot 1: phone-height POV-style, walking at 4 km/h. Shot 2: camera rests low against a pole, minimal movement, observational. Shot 3: quick whip from hand to face and back. Shot 4: slowed to half real-time, camera drifts sideways at 1 km/h following falling leaves. Shot 5: camera appears to catch her off-guard, slight delay before she notices it. Shot 6: static-ish, propped, she moves into frame. Shot 7: static through car window glass, reflections passing over her face.
+
+ACTION
+0.0s–4.0s: She steps out of an apartment building onto a leaf-scattered sidewalk, adjusting her bag strap, glancing at her phone, morning light low and warm through bare branches. She looks up at the camera briefly, half-smiles: "Okay — let's do this."
+
+4.0s–8.0s: Inside a subway car, she leans against a pole, earbuds in, watching the platform lights blur past the window, city sounds muffled and rhythmic. No dialogue — just her quiet, unbothered expression, occasional sway with the train's motion.
+
+8.0s–12.0s: At a small street coffee cart, steam rising from the machine, she hands over cash, receives a paper cup, wraps both hands around it immediately for warmth. Brief exchange, she says only: "Thanks, you're the best."
+
+12.0s–17.0s: Slow-motion through a park path thick with falling amber leaves, she tips her head back mid-step and turns once, leaves catching in her hair and sweater, genuine unguarded laugh, no spoken line — just breath and laughter audible.
+
+17.0s–21.0s: Inside a small bookstore, she runs a finger along a shelf, pulls a book halfway out, flips a few pages, unaware of the camera, soft window light across her face, ambient store quiet. No dialogue.
+
+21.0s–26.0s: On a rooftop at golden hour, city skyline hazy behind her, she raises a takeaway coffee cup slightly toward the lens like a small toast, warm low sun rim-lighting her hair, says only: "To days like this."
+
+26.0s–30.0s: Inside a taxi at night, warm amber streetlights sliding across the window glass and over her face in soft passing bands
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E4 · A Slow Autumn Travel Vlog in Kyoto
+
+- Seedance 2.5 · creator: @Chaemate_ · heat: 79
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) · [finished media](https://media.goodcase.ai/cases/784165cb489a.mp4) · [poster](https://media.goodcase.ai/cases/587b89f01743.jpg) · [original source](https://x.com/Chaemate_/status/2099439262106083704)
+- Summary: A quiet day in Kyoto, captured like a memory you almost forgot you had. 🍂 Created with Seedance 2.5 on @FishCreativeHQ Prompt: Create a photorealistic 30-secon…
+
+```text
+Create a photorealistic 30-second personal travel vlog featuring the exact same woman from the reference image. Keep her face, hairstyle, physical appearance, makeup, outfit and necklace consistent throughout the entire video.
+
+Make it feel like a real young woman casually documenting her autumn trip to Kyoto with a friend behind the camera. No commercial travel-ad look, no fast montage and no overly cinematic movements.
+
+Keep the pacing slow and natural. Each scene should focus on one simple action. Let shots breathe and allow natural pauses. She should walk, look around and react at normal human speed. Never speed up her movement or speech to fit more into the scene.
+
+Show quiet everyday moments around Kyoto: riding a local train in the morning, walking through a residential street, discovering a small bakery, sitting by the river, browsing a tiny stationery shop, getting caught in light rain and grabbing a warm drink from a vending machine at night.
+
+Keep the dialogue extremely short and casual, with natural pauses. Things like “Cute…”, “So pretty”, “Mmm… good”, “Look…”, “This one?”, “Oh… rain”, “Nice…” and “One more stop.” She should never sound like she's reading a script or rushing through lines.
+
+Use realistic handheld camera movement, subtle autofocus, natural exposure changes, real ambient sounds, natural skin texture, realistic lighting and subtle 35mm film grain. Some moments should have no dialogue at all.
+
+The goal is simple: make it feel like an actual travel vlog someone happened to capture during a real day in Kyoto, not an AI-generated commercial.
+```
+
+## E5 · A Korean Woman’s 30-Second Taiwan Travel Vlog
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 78
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
+- Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
+
+```text
+Seedance 2.5 on @DomoAI_ 
+
+Prompt
+
+AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT
+
+SUBJECT: one fictional adult Korean woman in her early twenties, with large round dark eyes, a small nose, coral-red lips, long side-parted black waves and small cubic-zirconia stud earrings. Keep the face established in the first shot consistent throughout. Visible pores and natural skin texture, without doll-like smoothness or a beauty filter.
+
+OUTFIT: throughout all 30 seconds, she wears an indigo denim one-shoulder crop top and asymmetric-hem skirt, burgundy leather belt and pointed burgundy ankle boots. Keep the exposed shoulder, stitching and direction of the longer skirt panel consistent with their appearance in the first shot. Her outfit and hair do not change between locations.
+
+CAMERA: the texture of a personally filmed phone travel video. She films the selfies. An off-screen travel companion films the two-handed chicken-cutlet handoff, her back in the market, and the restaurant food and eating shots. Changing operators does not introduce filming equipment or device UI into the image. Landscape 16:9, no black padding. Ordinary travel shots use a 26mm-equivalent phone wide angle, enough depth of field to read the surroundings, and natural iPhone colour. Handheld movement follows real footsteps; exposure and focus catch up slightly late. A fingerprint on the lens causes local light smearing beside strong light sources. No cinematic colour grade, studio lighting or added post-production glow. People in the surroundings move independently and do not stare into the lens for long.
+EXCEPTIONS: only the three restaurant shots from 17 to 23 seconds use a DV-tape texture, light noise and slightly delayed focus. This deliberately differs from the travel footage; phone texture returns at 23 seconds. The food close-up at 19–21 seconds and the sunset focus change at 23–26.5 seconds follow their own shot-specific depth-of-field directions.
+
+MUSIC: upbeat BGM carries the excitement and rhythm across the travel montage. Location sounds do not repeatedly interrupt the music. Only the gondola section has a one-beat drop. Dialogue is brief and relaxed, with audible breaths and complete word endings. Mandarin is limited to the opening and closing greetings, delivered as newly learned phrases. The ㅋㅋㅋ in the dialogue means laughter, not spoken letters.
+
+PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet stall owner directly hands her the fried-chicken bag. In the xiaolongbao restaurant, the waiter sets the steamer with its lid on the table and she eats with chopsticks in her right hand and a spoon in her left. Food and containers are used only in their respective food scenes.
+
+(0:00–0:02) — Guesthouse window, Taipei morning. She films a selfie from a low angle on her phone, smiling broadly. Tilt Up extends the frame above her face to the view through the window. Taipei 101's green-glass tower rises beyond low grey buildings, rooftop water tanks and air-con units. Exposure catches up with the bright sky. Dialogue: "你好~ 대만 왔다!" Transition: Hard cut on beat.
+
+(0:02–0:04) — Main-road junction. At the crossing, she turns the phone into selfie position. A packed queue of helmeted scooter riders leaves the white stop line as the light turns green, passing behind her. Overcast daylight, Handheld Selfie and deep focus. Dialogue: "스쿠터 뭐야 미쳤어ㅋㅋㅋ" Transition: Fast cut on beat.
+
+(0:04–0:06) — Bubble-tea counter. She points the phone in her left hand
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E6 · Mediterranean Hillside Villa Interior and Aerial Tour
+
+- Seedance 2.0 · creator: @noorlewisx · heat: 74 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 
@@ -44,7 +183,7 @@ Soft natural sunlight filtering through large multi-pane windows, golden hour an
 Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.
 ```
 
-## E3 · Helicopter Night Tour Over Tokyo
+## E7 · Helicopter Night Tour Over Tokyo
 
 - Seedance 2.5 · creator: @noorlewisx · heat: 71 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg) · [original source](https://x.com/noorlewisx/status/2093567063357088065)
@@ -67,90 +206,12 @@ Style: realistic handheld selfie + aerial footage, night city lights, slight win
 #polloai
 ```
 
-## E4 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
+## E8 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 70 · stability: 84
+- Seedance 2.5 · creator: @nawalsehar · heat: 69 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
 - Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
 
 ```text
 A young traveler hikes through a lush mountain forest, crosses a wooden bridge over a flowing stream, and reaches a stunning waterfall hidden among moss-covered rocks. Ultra-realistic travel documentary, authentic hiking movement, realistic environmental physics, natural English lip-sync, bright daytime lighting, immersive forest ambience, and seamless story continuity throughout.
-```
-
-## E5 · Summer Camping in the Korean Mountains
-
-- Seedance 2.0 · creator: @nawalsehar · heat: 67 · stability: 77
-- Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-531c19980c39.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-531c19980c39.jpg) · [original source](https://x.com/nawalsehar/status/2092482623490916552)
-- Summary: A summer escape through Korea’s mountains setting up camp, cooking outdoors, and unwinding beneath the evening sky. Crea
-
-```text
-Create a 30-second 16:9 ultra-photorealistic Korean summer camping video. A young Korean woman arrives at a peaceful mountain campsite in a compact SUV, parks on a gravel path, unloads her camping gear, and physically sets up a tent on the grass.
-Show realistic tent fabric, flexible poles, stakes, natural wind, and believable body movement. She then prepares a simple outdoor meal on a portable stove, stirring vegetables in a pan as gentle steam rises naturally.
-As afternoon transitions into a soft evening, she turns off the stove, sits in a folding camping chair, takes a sip of her drink, and peacefully admires the surrounding Korean mountains and forest.
-Use smooth documentary-style camera movement, natural lighting, realistic human physics, authentic campsite ambience, cooking sounds, birds, insects, wind, and gravel footsteps. Maintain the same woman, outfit, SUV, tent, campsite, and equipment throughout.
-Negative Prompt: No CGI look, teleportation, floating objects, weightless equipment, distorted hands, extra fingers, robotic movement, instant tent setup, unrealistic fire or food physics, excessive wind, artificial lighting, changing characters, text, logos, or watermark.
-```
-
-## E6 · Sunset Old Town Stroll and a Coffee Break
-
-- Seedance 2.5 · creator: @CaliraVal · heat: 58
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-ai-travel-vlog-of-a-stylish-young-woman-exploring-a-vibrant-europea-0eaef30bc5e3) · [finished media](https://media.goodcase.ai/cases/53b3da3e9d4f.mp4) · [poster](https://media.goodcase.ai/cases/b6616f3bcc10.jpg) · [original source](https://x.com/CaliraVal/status/2097184908250845406)
-- Summary: A little adventure, one frame at a time Collecting moments, not just memories. Created with Seedance 2.5 Prompt: A cinematic AI travel vlog of a stylish young w…
-
-```text
-A cinematic AI travel vlog of a stylish young woman exploring a vibrant European old town at sunset. She has long flowing dark hair and wears a white cropped top, lightweight oversized jacket and beige shorts. She walks confidently through narrow cobblestone streets surrounded by colorful historic buildings, cozy cafés, local shops and warm glowing street lights.
-
-She looks naturally into the camera and speaks directly to the audience with a friendly, energetic personality. Add a natural young female English voiceover with clear pronunciation, realistic conversational tone and subtle emotion. Make her speech perfectly synchronized with her lip movements.
-
-Voiceover dialogue:
-“Hey everyone! I’m exploring this beautiful city today, and honestly, every street feels like a movie. The atmosphere here is incredible, and I can’t wait to show you what I find!”
-
-Cut to her buying a local pastry from a small street bakery. She smiles and says:
-“This looks absolutely delicious. I had to try it!”
-
-Then she sits at an outdoor café enjoying coffee while watching people pass by:
-“Sometimes the best part of traveling is simply slowing down and enjoying the moment.”
-
-Final shot: she walks toward a beautiful viewpoint overlooking the city as the sun sets. She turns toward the camera and says:
-“Okay, this view is definitely the highlight of my day. Would you come here?”
-
-Natural facial expressions, accurate lip-sync, realistic female English voice, subtle breathing and pauses, natural hand gestures, realistic skin texture, subtle hair movement, authentic handheld vlog camera, smooth camera tracking, shallow depth of field, realistic background people, cinematic golden-hour lighting, soft lens flare, photorealistic, 4K, highly detailed, natural motion, premium travel-film aesthetic.
-```
-
-## E7 · A Cozy Winter Getaway in a Snowy Alpine Village
-
-- Seedance 2.5 · creator: @eshal__ai · heat: 57
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-alpine-winter-vlog-montage-featuring-the-same-young-woman-cf96bc6f9a40) · [finished media](https://media.goodcase.ai/cases/fd594b1b268b.mp4) · [poster](https://media.goodcase.ai/cases/fb98a7289e21.jpg) · [original source](https://x.com/eshal__ai/status/2097564912851759244)
-- Summary: Snow on her lashes, fire in the window, thirty seconds of alpine calm. Made with Seedance 2.5 on @budgetpixel She skied before breakfast, got lost in a pine for…
-
-```text
-A cinematic 30-second alpine winter vlog montage featuring the same young woman exploring a snow-covered mountain village during a cozy winter getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft overcast daylight transitioning to warm firelight, dreamy 35mm film aesthetics, cool-toned color grading with warm amber accents, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, relaxed happy expression — identity locked to the reference image. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, cool-warm contrast palette, travel documentary style.
-
-Scene 1 (0-4s) — Arrival at the Chalet Village: A crisp winter morning, light snow falling. She steps out of a wooden chalet doorway wearing a cream cable-knit sweater, faux-fur-trimmed parka, and a knit beanie, breath visible in the cold air. Camera trails her from behind down a snowy cobblestone lane lined with timber cottages, then swings into a close-up as she turns and smiles, saying softly, "Okay, this already feels like a movie."
-
-Scene 2 (4-8s) — First Ski Run: She glides down a gentle beginner slope, snow spraying softly at her skis, pine trees blurred past on either side. Low chase shots from behind, then a front-facing GoPro-style angle catching her laughing as she wobbles slightly and steadies herself.
-
-Scene 3 (8-12s) — Snow-Covered Pine Forest Walk: A worm's-eye view looking up through frosted pine branches, pale sunlight filtering through with soft lens flares on ice crystals. Cut to a close-up of her walking through untouched snow, mittened hand trailing along a low branch, murmuring, "It's so quiet here it feels unreal."
-
-Scene 4 (12-16s) — Cozy Café Break: She sits by a frosted window inside a small timber café, wrapped hands around a steaming mug of hot chocolate topped with whipped cream. Warm interior light contrasts the blue-white world outside. Close-up on the marshmallows melting, her contented half-smile as she watches snow drift past the glass.
-
-Scene 5 (16-20s) — Sledding Adventure: She sits on a wooden sled at the top of a gentle hill, pushes off, and speeds down laughing, hair flying loose from under her beanie. Camera tracks alongside at sled height. She tumbles softly into a snowbank at the bottom, laughing, and calls toward the camera, "Don't film this part — okay, keep filming it."
-
-Scene 6 (20-24s) — Christmas Market Exploration: A glowing evening market strung with warm fairy lights, snow settling on wooden stalls, the smell of roasted chestnuts implied through steam rising from vendor carts. She weaves through the crowd sampling mulled cider and gingerbread, face lit by string lights and lantern glow. Cinematic close-ups of her eyes widening at the taste, lights blurred into soft bokeh behind her.
-
-Scene 7 (24-27s) — Golden Sunset Over the Peaks: A wide silhouette shot of her standing on a snowy overlook as the sun dips behind the mountain range, sky shifting from pale gold to soft violet, her scarf drifting in the wind. She tilts her face toward the fading light, one hand holding her beanie in place.
-
-Scene 8 (27-30s) — Fireside Night Reflection: A cabin interior at night, fireplace glowing, snow visible through a frosted window behind her. She sits curled up on a wool blanket, mug in hand, firelight flickering across her face. Final
-
-[… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · Young Woman Films a Spring Mountain View in Japan
-
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 55 · stability: 88
-- Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-890aad58385a.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-890aad58385a.jpg) · [original source](https://x.com/ayzalnooor24521/status/2093192618599755890)
-- Summary: A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea
-
-```text
-Create a credited 14-second cinematic video on Japanese mountain view, featuring a consistent young East-Asian woman with long dark hair, a beige sweater, and a backpack arriving at a breathtaking mountain viewpoint. She calmly raises her smartphone and starts recording the stunning scenery around her. The camera smoothly follows her movement and transitions into a beautiful panoramic view of the lush green valley. A red cable car glides naturally across the mountainside while soft pink cherry blossoms move gently in the breeze. The camera reveals a traditional Japanese multi-tiered pagoda surrounded by peaceful mountain scenery. Wide cinematic shots capture majestic snow-capped peaks under soft natural daylight. End with the woman smiling peacefully while filming the expansive landscape on her phone, creating a refreshing and adventurous travel moment.
 ```

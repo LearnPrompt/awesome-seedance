@@ -1,10 +1,39 @@
 # Case evidence · Fashion lookbook and portrait film
 
-13 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+30 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
-## E1 · Cinematic Paris Fashion Campaign, Five Shots
+## E1 · Woman in Black Stands Still Amid a Synchronized Crowd
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 98
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248) · [finished media](https://media.goodcase.ai/cases/2792b7b678a6.mp4) · [poster](https://media.goodcase.ai/cases/8ca97a85493c.jpg) · [original source](https://x.com/AIwithkhan/status/2099707375943066094)
+- Summary: I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
+
+```text
+I came like a STORM  
+
+Seedance 2.5
+
+Prompt  👇:
+
+Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman, crowd, wardrobe, framing, and atmosphere.
+A young woman with the same short dark bob wears a fitted black turtleneck, black trousers, and black shoes, standing confidently at the center of a large crowd.
+Start with her walking slowly toward the middle of the crowd, calm and expressionless, with a lit cigarette naturally held between her lips.
+She reaches the center, stops, and faces directly into the camera.
+She takes one slow drag from the cigarette, then removes it from her mouth.
+She slowly exhales a visible stream of smoke toward the camera, with the smoke naturally drifting across her face.
+She lowers her hand and becomes completely still, staring directly into the lens.
+The entire crowd behind her remains frozen for a brief moment.
+Suddenly, everyone behind her begins moving in perfect synchronization — sharp head turns, shoulder jerks, folding forward and snapping upright.
+The movement should feel rhythmic, strange, powerful, and physically realistic.
+The woman does not move at all while the entire crowd moves behind her.
+Slowly push the camera closer to her, keeping her sharply focused while the crowd has subtle depth-of-field blur.
+Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothing, cigarette ember, and physically accurate smoke.
+Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
+```
+
+## E2 · Cinematic Paris Fashion Campaign, Five Shots
 
 - Seedance 2.0 · creator: @Just_sharon7 · heat: 90 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) · [finished media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) · [poster](https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg) · [original source](https://x.com/Just_sharon7/status/2083793251132186998)
@@ -33,7 +62,33 @@ camera movement, real people in background every scene, hyper-realistic photogra
 AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, overexposed, watermark, text overlay, logo, AI generated look, jerky motion, empty streets, studio background, fake crowd, extra fingers, deformed
 ```
 
-## E2 · Golden Hour Mountain Fashion Film, Low Angle
+## E3 · Model and Fashion Items in Synchronized 360° Rotation
+
+- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 82
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) · [finished media](https://media.goodcase.ai/cases/0d093f32d701.mp4) · [poster](https://media.goodcase.ai/cases/04e386463d97.jpg) · [original source](https://x.com/AI__TSUBAKI/status/2102459655700287648)
+- Summary: Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
+
+```text
+A clean, premium 4-second fashion lookbook animation starting from the first frame. The entire layout stays exactly as shown: same background, same cream item panel, same captions, same crown icons, same wordmark, same framing.
+
+The model on the right turns a full 360° on the spot the way a real fashion model does on set: she steps her feet around naturally, shifting her weight from one leg to the other as she turns, her arms moving freely and her shoulders relaxed. As she comes around to the back she glances over her shoulder, and as she returns to face the camera she settles into a new, different confident model pose. Natural posture, realistic cloth physics; hair, hems and accessories swing and settle with the motion. She stays in the same spot and at the same size in frame throughout.
+
+At the same time, every product cutout inside the item panel rotates in place on its own vertical axis, like a luxury product display render, revealing front, side and back. Each item stays centered in its own slot, keeps its size, and completes exactly one full rotation in sync with the model's turn, ending in its original orientation.
+
+The panel, divider lines, captions, crown icons and wordmark stay perfectly fixed; only the model moves and the products rotate. Camera locked off, no zoom, no pan. Soft studio lighting with realistic shadows under the model and the products. Smooth, natural motion, clean commercial fashion-ad aesthetic, ultra-sharp details, luxury catalog presentation.
+```
+
+## E4 · Red Dress Transformation on the Streets of Paris
+
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 82
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707) · [finished media](https://media.goodcase.ai/cases/bbba04e9636b.mp4) · [poster](https://media.goodcase.ai/cases/6fd799c4ee96.jpg) · [original source](https://x.com/ayzalnooor24521/status/2100456445900710158)
+- Summary: From elegant white to bold red A little magic, a lot of Parisian style. Created on seedance 2.0 Prompt: Created a cinematic fashion transformation video featuri…
+
+```text
+Created a cinematic fashion transformation video featuring a beautiful young woman walking through elegant Parisian streets. She begins in a clean white summer dress, walking naturally along a stylish city sidewalk surrounded by classic architecture, cafés, shops, and pedestrians. The camera smoothly follows her with realistic cinematic movement and shallow depth of field. As she passes a storefront, glowing red light trails swirl around her body, creating a magical fashion-transition effect. Her outfit transforms seamlessly from white into a sophisticated red sleeveless dress. Continue with dynamic street-level shots as she confidently walks through a busy Paris intersection. Finish with a beautiful close-up of her in the red dress, gently holding and eating an ice cream while looking naturally toward the camera. Photorealistic details, elegant fashion-film aesthetic, natural daylight, smooth transitions, realistic skin texture, cinematic lens, subtle background motion, premium commercial look.
+```
+
+## E5 · Golden Hour Mountain Fashion Film, Low Angle
 
 - Seedance 2.5 · creator: @noorlewisx · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) · [finished media](https://media.goodcase.ai/cases/ed05261f6296.mp4) · [poster](https://media.goodcase.ai/cases/9084b0f25038.jpg) · [original source](https://x.com/noorlewisx/status/2096826123330138410)
@@ -43,7 +98,7 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k
 ```
 
-## E3 · Pink Handbag Fashion Editorial on Tokyo Streets
+## E6 · Pink Handbag Fashion Editorial on Tokyo Streets
 
 - Seedance 2.0 · creator: @AIwithNatalia · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-12c56e79550f.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg) · [original source](https://x.com/AIwithNatalia/status/2094277759547875413)
@@ -133,187 +188,107 @@ The city is your runway.
 Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosphere, premium fashion photography, fisheye low-angle perspective, dynamic handheld camera, cinematic lens flares, subtle film grain, Vogue editorial aesthetic, sophisticated typography, no cheesy commercial look.
 ```
 
-## E4 · Seedance Pinstripe Suit Power Presence at Work
+## E7 · Synchronized Rotation of Model and Outfit Items
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 76 · stability: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-4b6f8c8c977a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-4b6f8c8c977a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-4b6f8c8c977a.jpg) · [original source](https://x.com/noorlewisx/status/2089217062040453196)
-- Summary: Power moves in pinstripes.She doesn’t climb the city she owns it. Made with seedance 2.0 Prompt: A cinematic, stylish se
+- Seedance 2.5 · creator: @AIwithkhan · heat: 79
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e) · [finished media](https://media.goodcase.ai/cases/20a7e5c36c11.mp4) · [poster](https://media.goodcase.ai/cases/725dd3117245.jpg) · [original source](https://x.com/AIwithkhan/status/2101148067458347258)
+- Summary: Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…
 
 ```text
-A cinematic, stylish sequence of a confident young woman with short curly brown hair, bold red lipstick, and a statement necklace. She wears a sharp grey pinstripe oversized blazer and matching trousers with bright red pointed high heels.
-Starts with a close-up of her red heels stepping out of a black luxury car onto a wet city street at dusk. She walks confidently through revolving glass doors into a modern office building, presses the elevator button, checks her tablet in the mirrored elevator, then enters a boardroom. She presents charts and graphs on a large screen to a group of executives in suits, gestures confidently while speaking, signs a document, shakes hands with a senior executive, checks her elegant wristwatch with a burgundy leather strap, and finally walks across a glass-walled rooftop terrace overlooking the New York City skyline at golden hour, wind lightly moving her hair, powerful and composed expression.
-Moody cinematic lighting, wet reflections, sharp fashion photography style, high-end commercial aesthetic, 16:9.
+Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.
 ```
 
-## E5 · Dreamy Korean Countryside Summer Story
+## E8 · Fashion Suspect Wanted for Beauty
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 65
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9) · [finished media](https://media.goodcase.ai/media/video/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9.jpg) · [original source](https://x.com/Lianaalane/status/2096465196856340515)
-- Summary: A dreamy summer story filled with warmth and gentle moments. Golden sunlight, flowing water, and peaceful countryside vibes. Created on seedance 2.0 Prompt: A g…
-
-```text
-A graceful young Korean woman with soft short wavy brown hair, delicate features, gentle smiling eyes and a warm serene expression, wearing a light straw hat with frayed edges and a sleeveless white floral summer dress with subtle small patterns that flows lightly around her body, holding a juicy red watermelon slice near her face in soft golden sunlight by a wooden window, then walking carefully across smooth river stones in white flat shoes while carrying a woven basket filled with watermelon pieces, crouching by the clear shallow stream to gently place and cool a whole striped watermelon in the water with both hands while smiling, standing on a wooden balcony railing adjusting her straw hat with a soft smile, walking along a sunlit riverside path among tall bright yellow sunflowers while turning to look at them and then smiling at the camera, and finally standing on a traditional wooden porch with a hanging glass wind chime, holding a glass milk bottle, adjusting her hat and hair, looking up peacefully then turning to face the camera with a gentle radiant smile, all in a soft cinematic summer countryside atmosphere with warm natural light, green leaves, flowing water, and peaceful nostalgic mood.
-```
-
-## E6 · Rainy Window, Coffee and Vinyl: A Quiet Afternoon
-
-- Seedance 2.0 · creator: @Lianaalane · heat: 63
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461) · [finished media](https://media.goodcase.ai/media/video/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461.jpg) · [original source](https://x.com/Lianaalane/status/2096105365419209139)
-- Summary: Soft rain against the window, the quiet pour of coffee, a book in the afternoon light, vinyl spinning under closed eyes, and late-night words written against th…
+- Seedance 2.0 · creator: @Caden_Flux · heat: 78
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-smooth-luxury-fashion-editorial-video-using-the-86b7f97bc9d3) · [finished media](https://media.goodcase.ai/cases/fcad5c5062ad.mp4) · [poster](https://media.goodcase.ai/cases/b0f02d1854e3.jpg) · [original source](https://x.com/Caden_Flux/status/2103788406392213575)
+- Summary: Wanted for beauty. Guilty of stealing every frame. 🖤🍒 A little attitude, a little trouble, and a whole lot of fashion energy. This mugshot was never going to …
 
 ```text
-A beautiful young East Asian woman with long straight black hair, wearing a soft off-white oversized sweater and matching loose pants, spends a quiet day alone in a high-rise apartment. Her mood is calm, slightly melancholic, and contemplative. She first gazes out a rain-streaked window at the city below, chin resting on her hand. Then she pours steaming coffee from a glass carafe into a mug in a bright kitchen. Next she sits on a couch reading a book in warm afternoon light. Later she sits cross-legged on the wooden floor wearing large headphones, eyes closed, surrounded by scattered vinyl records and an open book. Finally, at night, she writes in a notebook by the window with the glowing city skyline behind her. Soft natural lighting, cinematic, peaceful, minimalist aesthetic, smooth transitions.
-```
+Create a 15-second fast-paced, smooth luxury fashion editorial video using the character sheet as the visual reference.
 
-## E7 · Blonde Girl Pouts After Being Poked on the Cheek
+Keep the same woman, face, brunette hair, fur jacket, red crop top, distressed denim, chains, makeup, and overall styling consistent throughout. Preserve her playful, confident, slightly mischievous personality.
 
-- Seedance 2.5 · creator: @Chengzilhy · heat: 61
-- Evidence: [GoodCase](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5) · [finished media](https://media.goodcase.ai/cases/a8a2758f8a96.mp4) · [poster](https://media.goodcase.ai/cases/d8a275aaed82.jpg) · [original source](https://x.com/Chengzilhy/status/2091477403239596328)
-- Summary: 手机动态壁纸已经进化到这种程度了吗？ 每天点亮屏幕，心情都跟着变好了。😂 右边是原视频，喜欢拿去做动态壁纸 不只好玩，其实还能做成 AI 视频小副业！ Seedance 2.5制作 Prompt🔽 参考上传图片中的同一位成年女性角色，保
+The video should feel like a fashion mugshot mixed with a playful “wanted for beauty” campaign.
 
-```text
-手机动态壁纸已经进化到这种程度了吗？
-每天点亮屏幕，心情都跟着变好了。😂
+0–3s — THE MUGSHOT
 
-右边是原视频，喜欢拿去做动态壁纸
-不只好玩，其实还能做成 AI 视频小副业！
+Start with a sharp full-body mugshot composition in front of the height chart.
 
-Seedance 2.5制作    
-Prompt🔽
+She looks directly into camera.
 
-参考上传图片中的同一位成年女性角色，保持脸型、五官、浅金色长发、空气刘海、深蓝色花朵发夹、妆容与整体造型一致。
+Quick smooth push-in → she gives a playful wink → instantly cuts to her holding the “WANTED FOR BEAUTY” board.
 
-生成一段 8 秒、9:16 竖屏、固定机位、一镜到底的正面超近景人物视频。
+She slowly tilts the board toward camera with attitude.
 
-整体表演：软萌、调皮、可爱、娇俏，带一点自然撒娇和假装委屈感。
-重点表现眼神、嘴唇、眉毛、脸颊和轻微头部跟随产生的真实微表情。
-0–1.5 秒
+3–6s — BEAUTY DETAILS
 
-女主正视镜头，神态柔和可爱，嘴唇自然微张后轻轻合拢。
-伴随呼吸，头部和下巴产生极小幅自然移动。
+Move into a rapid but smooth beauty montage:
 
-1.5–3.7 秒
-眼睛先慢慢向画面左侧移动，偷偷侧瞄旁边。
-头部稍晚才向同方向轻微跟随，移动幅度明显小于眼神，形成调皮、偷偷观察的感觉。
+wink → glossy lips → red nails → lollipop → fur jacket texture → chain details → sunglasses → playful smile.
 
-3.7–4.6 秒
+Use smooth snap zooms and seamless whip transitions.
 
-自然完成一次双眼眨眼。
-视线重新回到镜头，头部同时轻轻回正，恢复软萌自然的表情。
-4.6–5.2 秒
+Each shot should be very short, around 0.3–0.6 seconds, but transitions should remain fluid and polished.
 
-眼睛先向下看，下巴随后轻微降低。
-一只手从画面右下方自然进入，食指缓慢靠近画面右侧脸颊。
-女主观察手指，嘴唇开始轻轻向前收拢。
+6–9s — PLAYFUL TROUBLEMAKER
 
-5.2–6.6 秒
-食指轻轻按压脸颊，脸颊产生真实柔软的轻微凹陷。
-接触瞬间女主双眼短暂眯起，头部顺着触碰产生极轻微的受力让位和侧倾。
+Return to the full mugshot.
 
-随后重新睁眼看向镜头：
+She casually leans toward one side while maintaining her confident stance.
 
-眉头轻轻收拢 + 下唇微微鼓起 + 嘴角轻微向下
-形成调皮可爱、撒娇式的假装委屈表情。
-6.6–8 秒
+Quick smooth camera orbit around her → she puts on sunglasses → looks over the sunglasses directly at camera → gives a mischievous smile.
 
-食指离开脸颊，脸颊自然回弹，头部轻轻回正。
+Add subtle camera flash bursts like paparazzi photographers are surrounding her.
 
-委屈表情连续释放：
-嘴唇放松 → 眉头舒展 → 自然快速眨一次双眼。
+9–12s — FAST FASHION MONTAGE
 
-最后重新正视镜头，嘴唇轻轻微张，恢复甜甜、软萌、略带调皮感的自然表情。
-```
+Rapidly showcase:
 
-## E8 · Red-Haired Girl's Lip Oil Claw Machine Challenge
+fur coat → red top → belt and chains → distressed jeans → lollipop → lips → eyes → sunglasses.
 
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 59
-- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-7890280c705d.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg) · [original source](https://x.com/AIwithNatalia/status/2094428843214037102)
-- Summary: POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
+Use smooth continuous camera movement between each detail, with quick editorial cuts.
 
-```text
-TITLE: “SHE WANTED IT. SHE GOT IT.”
+Newspaper pages briefly fly across the frame, creating transitions.
 
-Create an exactly 15-second, 9:16 vertical cinematic fashion video featuring the uploaded red-haired girl as the single main character. Use her uploaded photo as the exact facial and identity reference. Do not change her face, facial features, skin tone, body proportions, or red hairstyle across any shot.
+12–15s — FINAL SHOT
 
-VISUAL STYLE
+Return to the mugshot setup.
 
-Glossy RED + CHROME SILVER Y2K BADDIE aesthetic, futuristic makeup fantasy world, high-fashion commercial, ultra-polished beauty campaign, dramatic studio lighting, glossy reflections, sparkling particles, fast camera movements, energetic editing, luxurious and playful atmosphere.
+She holds the board toward camera.
 
-CHARACTER / OUTFIT
+The board now reads:
 
-She wears a full Y2K baddie outfit:
+“WANTED
+FOR BEING TOO BEAUTIFUL”
+She raises one eyebrow and smiles.
 
-Metallic silver cropped halter baby tee with red rhinestone details
-Ultra-low-rise red baggy cargo pants with silver zippers and hardware
-Cropped shiny silver moto jacket worn slightly off one shoulder
-Silver platform sneakers with red accents
-Tiny glossy red shoulder bag with silver chain
-Chunky silver hoop earrings, layered silver necklaces, rings and silver belly chain
-Tiny red-tinted futuristic sunglasses with silver frames
-Long chrome-silver nails with red French tips
-Sharp black winged eyeliner, icy silver eyeshadow, glossy red lips
+Camera rapidly pushes toward her face.
 
-0–3 SEC — ENTER THE MAKEUP WORLD
+A newspaper suddenly sweeps across the lens.
 
-Start with an extreme close-up of her red-tinted Y2K sunglasses. Quick camera pullback reveals her walking confidently through a surreal oversized makeup world.
+CUT TO BLACK.
 
-Giant lipstick tubes, enormous blush palettes, floating makeup brushes, glossy cosmetic bottles and sparkling beauty particles surround her. Everything is dominated by red, chrome silver and reflective surfaces.
+Motion & Editing
 
-She walks toward camera with a confident baddie attitude, red hair moving dramatically, then gives a subtle smirk.
+FAST-PACED but SMOOTH.
 
-3–6 SEC — SHE SPOTS THE CLAW MACHINE
+Use:
 
-Fast whip-pan to a huge futuristic transparent claw machine glowing with red and silver neon.
+0.3–0.6 second cuts
 
-Inside are dozens of Rhode lip oils displayed like luxury prizes, surrounded by floating hearts, rhinestones, glossy cosmetic charms and silver sparkles.
+smooth snap zooms
+seamless whip transitions
+controlled camera orbit
+quick push-ins and pullbacks
+subtle speed ramps
+fashion-editorial motion blur
+paparazzi flash effects
+flowing newspaper transitions
+beat-synced editing
+Do NOT make it slow, dreamy, jittery, or chaotic.
 
-She stops, removes her sunglasses, looks directly at the prize and gives a confident “I need that” expression.
+The camera should always feel controlled and fluid, while the editing stays fast.
 
-6–11 SEC — THE CLAW BATTLE
-
-Rapid-fire montage with energetic cuts:
-
-Close-up of her chrome nails grabbing the joystick.
-
-She aggressively moves the claw left and right.
-
-Extreme close-up of her focused eyes.
-
-Her red hair whips across the frame.
-
-The claw moves directly above a Rhode lip oil.
-
-She presses the button.
-
-CLAW DROPS — MISS.
-
-She slowly looks at the machine with an unimpressed baddie stare.
-
-She tries again, carefully positioning the claw.
-
-CLICK.
-
-The claw locks perfectly onto the lip oil.
-
-11–15 SEC — SHE WINS
-
-The claw lifts the Rhode lip oil into the air.
-
-The entire machine flashes with red and chrome lights.
-
-The prize drops into the collection slot.
-
-She grabs it confidently, holds it beside her face and gives the camera a victorious smirk.
-
-Camera rapidly circles around her as the makeup world erupts with red hearts, silver stars, rhinestones, lipstick doodles and sparkling particles.
-
-End on a dramatic beauty close-up of her holding the lip oil.
-
-FINAL TYPOGRAPHY
-
-Large glossy chrome typography appears:
-
-SHE WANTED IT.
-SHE GOT IT.
-Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic transitions throughout. Keep the video fashion-forward, playful, confident, luxurious and intensely Y2K, with red and chrome silver dominating every frame.
+Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugshot + glossy magazine editorial.
 ```

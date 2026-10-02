@@ -88,6 +88,20 @@
       "description": "The clip lives or dies on the action loop. Write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.",
       "version": "0.3.0",
       "license": "MIT"
+    },
+    {
+      "name": "seedance-game-ui-livestream",
+      "source": "./agents/skills/seedance-game-ui-livestream",
+      "description": "The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action.",
+      "version": "0.3.0",
+      "license": "MIT"
+    },
+    {
+      "name": "seedance-food-asmr",
+      "source": "./agents/skills/seedance-food-asmr",
+      "description": "Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.",
+      "version": "0.3.0",
+      "license": "MIT"
     }
   ]
 }

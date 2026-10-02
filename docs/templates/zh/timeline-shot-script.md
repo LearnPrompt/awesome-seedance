@@ -63,14 +63,15 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 4 条，按热度）
+## 这一类的案例（已归类 5 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt"><img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="160" alt="Boa Hancock Water Obstacle Race Prompt"></a> | [Boa Hancock Water Obstacle Race Prompt](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt) | 2.5 | 89 |
-| <a href="https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="160" alt="Seedance 2.5 生成暴雨港口灾难电影序列"></a> | [Seedance 2.5 生成暴雨港口灾难电影序列](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22) | 2.5 | 31 |
-| <a href="https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="160" alt="Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒"></a> | [Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08) | 2.5 | 29 |
-| <a href="https://goodcase.ai/cases/seedance-2-5-f3651857750b"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="160" alt="Seedance 2.5 生成马尔代夫骑行纪录片长镜头"></a> | [Seedance 2.5 生成马尔代夫骑行纪录片长镜头](https://goodcase.ai/cases/seedance-2-5-f3651857750b) | 2.5 | 28 |
+| <a href="https://goodcase.ai/cases/seedance-35-shot-30-second-cinematic-noir-rooftop-heist-9e1bb095d4c4"><img src="https://media.goodcase.ai/cases/8424b8d29652.jpg" width="160" alt="霓虹夜幕下的屋顶金库劫案"></a> | [霓虹夜幕下的屋顶金库劫案](https://goodcase.ai/cases/seedance-35-shot-30-second-cinematic-noir-rooftop-heist-9e1bb095d4c4) | 2.5 | 71 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="160" alt="Seedance 2.5 生成暴雨港口灾难电影序列"></a> | [Seedance 2.5 生成暴雨港口灾难电影序列](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22) | 2.5 | 30 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="160" alt="Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒"></a> | [Seedance 2.5 真实骑行 Vlog:运动相机+前摄+跟拍混剪 30 秒](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08) | 2.5 | 27 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-f3651857750b"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="160" alt="Seedance 2.5 生成马尔代夫骑行纪录片长镜头"></a> | [Seedance 2.5 生成马尔代夫骑行纪录片长镜头](https://goodcase.ai/cases/seedance-2-5-f3651857750b) | 2.5 | 26 |
 
 ---
 

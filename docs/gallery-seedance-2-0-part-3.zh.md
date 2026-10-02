@@ -1,10 +1,65 @@
 # Seedance 2.0 — 全量案例（第 3/3 页）
 
-Seedance 2.0 全部 228 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 236 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 199–228 条，共 228 条。
+本页：第 203–236 条，共 236 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3**
+
+### 2D Sticker Capybara Kitchen Prank
+
+> A mixed-media video prompt for Seedance 2.0 combining a realistic 1st-person kitchen POV with a 2D animated capybara sticker character performing a salt-pouring prank.
+
+[<img src="https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg" width="600" alt="2D Sticker Capybara Kitchen Prank">](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)
+
+**作者:** @Soranlan | **来源:** [原帖](https://x.com/Soranlan/status/2081386564525953050) | **发布:** 2026-07-26 | **热度:** 6
+
+**稳定度：** 78/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.6 分) · [产物](https://media.goodcase.ai/retests/2d-sticker-capybara-kitchen-prank/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+真人实拍 + 2D 动漫贴纸合成搞笑短视频 【风格】 真人实拍 + Flat 2D Sticker Composite 搞笑短视频。 第一人称做饭视角，写实厨房质感与扁平卡通贴纸风格形成强烈反差。 整体为 Live-Action + Flat 2D Cartoon Sticker 混搭效果。 画面是 真实厨房实拍，角色是 全程保持纯 2D 平面贴纸质感 的 Q 版卡通角色。 8K 超清，竖屏，手持轻微晃动，短视频节奏明快，笑点直接。 【时长】 10 秒 【画幅】 9:16 竖屏 一、场景设定 【场景】 真实居家厨房第一人称视角。 黑色铁锅放在灶台上，锅里正在翻炒牛肉和青菜，油光滋滋，蒸汽上冒。 背景包含： 白色瓷砖墙 墙面插座 靠墙排列的酱油瓶和油瓶 右侧不锈钢水槽 侧窗自然光照入 要求整体环境 真实生活化，厨房质感可信，不能变成卡通厨房。 相机为第一人称 POV，轻微手持晃动，但不要晃得太乱。 二、角色设定 【角色】Q 版动漫贴纸角色：水豚噜噜（Capybara Lulu） 设定要求： 圆润可爱的拟人卡通水豚 正面站在画面中央偏下位置 身高约为铁锅的一半 扁平 2D 贴纸质感 明显卡通描边 纸片感强 不能变成立体真实动物 不被真实环境光重新塑造成写实立体光影 外观统一锁定： 身体为淡黄色 穿橙色短裤 脖子系黄色小围裙 头顶顶着一个小橘子 四只小短爪圆润如豆 头部 and 脸部占比很大 整体像软萌纸片贴纸角色 角色气质： 平时佛系慵懒 但一搞事就特别熟练 表情贱兮兮，恶作剧感强 【真人部分】 真人的手为写实风格，从画面右侧入画。 要求皮肤细节真实，毛孔可见，与 2D 角色形成明确反差。 三、镜头设计 【镜头 1｜00:00–00:03】 倒盐捣乱（Salt Avalanche Opening） 【机位】 第一人称俯视 POV 【画面动作】 真人的手正用锅铲翻炒锅里的牛肉和青菜。 水豚噜噜坐在灶台旁的小木凳上，眯起豆豆眼，腮红加深，嘴角上扬露出贱兮兮的坏笑。 它两只小短爪高高举起一个比自己脑袋还大的玻璃调料罐，趁真人炒菜时，把整罐白盐哗哗倒进锅里。 盐要像真实瀑布一样倾泻而下，清楚落进锅中，并在菜上堆成一座夸张但可见的“小白盐山”。 【角色表情】 豆豆眼微眯 嘴角坏笑 恶作剧得意 【音效】 食物滋滋声 盐倒入锅中的密集沙沙声 【本镜头唯一主要动作】 水豚噜噜把整罐盐倒进锅里。 【镜头 2｜00:03–00:05】 夺瓶敲头（Spatula Bonk） 【机位】 继续保持第一人称近景 POV 【画面动作】 真人一只手迅速夺走它怀里的玻璃盐罐。 另一只手举起锅铲，用铲面朝下，轻轻敲在水豚噜噜头顶。 注意这一下是 卡通式轻敲，不是现实暴力感。 敲击后，它头顶立刻弹出一个明显的红色卡通肿包。 它整个圆滚滚的 2D 贴纸身体上下猛地一颤，两只小短爪立刻抱头，豆豆眼瞬间瞪圆。 【角色表情】 震惊 委屈 打懵一瞬间 【音效】 锅铲 “Duang” 一声 轻微金属敲击音 卡通弹簧音效 【本镜头唯一主要动作】 真人用锅铲轻敲它的头顶。 【镜头 3｜00:05–00:08】 敲哭张嘴・铲盐入嘴（Cry & Feed） 【机位】 第一人称近景 POV，聚焦角色面部与锅边 【画面动作】 水豚噜噜捂着头顶的红色肿包，豆豆眼瞬间变成旋转蚊香眼。 它张大嘴巴“嗷嗷”大哭，蓝色卡通泪水像喷泉一样从两侧夸张喷出。 头顶的小橘子也随着哭泣一颤一颤。 与此同时，真人的手立刻用锅铲从锅里那座盐山上铲起满满一铲“白盐咸菜混合物”，趁它张嘴大哭时，精准把这一铲送进它嘴里。 它的嘴瞬间被塞得鼓鼓囊囊，左右腮帮子像两个半球一样夸张鼓起。 【角色表情】 蚊香眼 大哭 嘴被塞满后的震惊呆滞 【音效】 夸张卡通爆哭声 铲盐沙沙声 塞进嘴里的“啵”一声 【本镜头唯一主要动作】 真人趁它张嘴大哭时把一铲盐菜塞进它嘴里。 【镜头 4｜00:08–00:10】 齁到倒地（Salt K.O. Ending） 【机位】 第一人称固定近景，结尾定格 【画面动作】 水豚噜噜两边腮帮子鼓得通红，被迫咽下嘴里的盐。 它的瞳孔骤然缩成两个小点，淡黄色身体瞬间刷白一个色调，整只角色僵直抖动半拍。 紧接着，它的豆豆眼变成两个 “X”，身体直挺挺地从小木凳上向后仰倒，四脚朝天摔平在灶台上。 一只小短爪在空中无力划一下后垂落。 它头顶红肿包旁边缓缓绕出一圈旋转小星星。 方形小鼻子前悠悠飘出一缕灵魂状白烟。 画面定格在它“齁到升天”的瞬间。 【音效】 僵直 “咯噔” 一声 向后倒地 “咚” 一声 轻微卡通升天音效收尾 【本镜头唯一主要动作】 水豚噜噜被咸到后仰倒地。 四、执行要求 【视觉要求】 厨房环境必须真实写实 水豚噜噜必须始终保持纯 2D 贴纸感 2D 角色与真实厨房、真实人手形成强烈反差 不要把水豚噜噜做成立体真实毛绒动物 不要让角色接受复杂写实打光 角色轮廓始终清楚，像贴在实拍画面上的卡通贴纸 【动作要求】 每个镜头只保留一个主要动作 动作节奏要短平快 角色表情夸张，但动作逻辑清楚 盐、锅铲、蒸汽、倒地要有明确物理反馈 【表演要求】 水豚噜噜的搞事感要强 真人不出全身，只出现手 真人的反应要利落，像熟练处理捣蛋鬼 整体是无台词喜剧，不需要人物说话 【镜头要求】 全片保持第一人称 POV 轻微手持晃动 不切换成第三人称 不增加无关人物 结尾定格要干脆 五、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, subtitles, text, logo, error; deformed, mutated, bad anatomy, extra limbs, broken hands, disfigured, bad composition, out of frame; realistic animal fur, 3D realistic capybara, over-rendered lighting on sticker character, inconsistent character, changing clothes, changing body color, changing head accessory; background shift, disappearing props, broken kitchen continuity, floating objects, incorrect POV, extra people, extra hands, glitching cuts
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/2d-sticker-capybara-kitchen-prank)**
+
+### 夜间动漫风格涂鸦隧道场景
+
+> 一个充满氛围感的动漫风格视频提示词，描绘了布满鲜艳涂鸦的黑暗地下街道隧道，呈现出湿润的沥青路面和昏暗的灯光反射效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="600" alt="夜间动漫风格涂鸦隧道场景">](https://goodcase.ai/cases/case-779580528a24)
+
+**作者:** @TechieBySA | **来源:** [原帖](https://x.com/TechieBySA/status/2081354591925305667) | **发布:** 2026-07-26 | **热度:** 6
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.4 分) · [产物](https://media.goodcase.ai/retests/case-779580528a24/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+
+```
+Cinematic anime short film clip, 15 seconds. Underground street tunnel at night, long dark corridor, walls completely covered in colorful graffiti tags, wet glistening asphalt reflecting dim tunnel lights, raw illegal underground energy, nobody around.
+
+CHARACTER: Rex, light brown skin, sharp angular face, short messy black Caesar cut with fade, dark cold intense eyes, black leather jacket, white tee, dark joggers, gold chain.
+
+CAR: Nissan Skyline R34, wide body kit, lowered, matte finish covered in layers of graffiti tags in white red and green spray paint, worn and chipped, aggressive and raw.
+
+[0:00-0:01] HOOK — Extreme close up ignition key turning. Engine roars to life instantly.
+
+[0:01-0:02] Rex's cold eyes in rearview mirror. Gear shift grabbed. Slams into first.
+
+[0:02-0:13] MONTAGE — Ultra fast cuts every half second synced hard to heavy bass beat. Rotate constantly between: front wide shot of car launching forward — low angle tires screeching wet asphalt water spraying — speedometer needle jumping — side angle car flying through tunnel — graffiti walls blurring — exhaust flames shooting out — overhead angle car from above — close up Rex jaw tight stone cold — gear shift slamming — headlights cutting darkness — rear angle tail lights — close up Rex eyes never blinking — inside car dashboard shaking — bumper level shot tunnel rushing past — speedometer maxed out — every angle every second something different never the same shot twice.
+
+[0:13-0:15] Car vanishes into darkness. Tail lights fade. Silence. Cut to black. Text: ZERO TO SIXTY.
+
+Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, dark moody tunnel lighting, neon reflections on wet asphalt, film grain, heavy bass music with engine roar and tire screech layered throughout, ultra fast cutting rhythm, premium anime film quality
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-779580528a24)**
 
 ### 暗黑奇幻动漫召唤仪式
 
@@ -412,23 +467,90 @@ Seedance 2.0 全部 228 条案例，按热度分排序。由 data/cases.json 生
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-79acf1a3e8a6)**
 
-### 复古汽水广告 Crimson Cola
+### 电影级动漫魔法剑战
 
-> 一个用于复古汽水品牌的 8K 电影级广告提示词，场景从沙漠日出过渡到充满未来感的 1950 年代城市。
+> 一个高细节的电影级动画提示词，用于高强度的 3D 卡通/赛璐珞风格动作 RPG 剑术对决，包含浮游剑和精准的角色互动。
 
-[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="复古汽水广告 Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)
+[<img src="https://media.goodcase.ai/media/poster/case-c32e6c3bb2c5.jpg" width="600" alt="电影级动漫魔法剑战">](https://goodcase.ai/cases/case-c32e6c3bb2c5)
 
-**作者:** @DjajaYerry75 | **来源:** [原帖](https://x.com/DjajaYerry75/status/2080666062690140315) | **发布:** 2026-07-24 | **热度:** 5
+**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080539077603172597) | **发布:** 2026-07-24 | **热度:** 6
 
-**稳定度：** 84/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.3 分) · [产物](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+<details>
+<summary><b>完整 prompt（53 行，点开展开）</b></summary>
 
 ```
-A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+高品質アニメ映像。高密度3Dトゥーン／セルルックによる映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。8秒の短尺で、浮遊刀の猛攻、防御、回避、反力、包囲、最大衝突を高密度に連結する。
+
+【参照画像と人物固定】
+@1は一人目、キャラクターAの参照画像。
+@2は二人目、キャラクターBの参照画像。
+ソース参照画像のキャラクターを参照し、それぞれ同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、武器意匠だけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミング、文字、分割レイアウトは再現しない。
+二人は全編でそれぞれsame person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴混合、顔の平均化、髪色交換、衣装交換、武器交換、体格変化、別人化、クローン化、分身、追加人物を発生させない。
+
+【世界観と舞台の自動調整】
+戦闘内容、位置関係、動作、力関係、刀数、カメラ構造は固定する。背景、小物、建築様式、床材、天候、照明、色味、粒子、環境エフェクトのみ、@1と@2のキャラクターデザインに合わせて再設計する。
+
+二人の衣装、装飾、武器、素材、模様、固有色、モチーフから、両者が自然に存在できる一つの映画的戦闘舞台を新規構築する。学園都市、宮殿、神殿、庭園、幻想都市、工業施設、近未来空間などから最適な舞台を選ぶ。ただし参照画像の背景は直接コピーしない。
+
+床には反射、水滴、砂塵、雪、花弁、火の粉、魔力粒子など、世界観に適した接触表現を配置する。欄干、柱、ガラス、樹木、機械構造、魔法装置、発光線などの小物は舞台に適したものだけを使う。背景は人物より一段暗くし、顔、シルエット、刀の軌道を明瞭にする。
+キャラクターAの固有色を攻撃側のキーライト、浮遊刀のオーラ、斬撃残光へ使用する。キャラクターBの固有色を防御光、反撃残光、補助光へ使用する。両者の色は混ぜず、明確に識別できる状態を保つ。
+
+【画風固定】
+細く繊細な色付き輪郭線。顔、髪、衣装、武器に明快な二段から三段のセルシェーディングと透明感のある中間影。瞳は多層ハイライト、髪は繊細な束感、衣装は刺繍、レース、装甲、鎖、宝石、金具など、参照画像に存在するディテールを高密度に描く。
+
+布、革、金属、宝石、ガラス、床を異なる反射率と粗さで描き分ける。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、プラスチックCG、低密度背景、半写実、実写、くすんだ色、画風混合にしない。参照画像の画風はコピーせず、高密度3Dトゥーン／セルルックへ統一する。
+
+【武器固定】
+キャラクターAは手持ち刀一本と、身体の周囲に浮かぶ四本の浮遊刀を使用する。浮遊刀はAの上、下、左、右を囲むように配置する。キャラクターBは手持ち刀一本を使用する。映像全体の刀は合計六本に固定する。
+
+参照画像の武器が刀ではない場合も、その武器の色、素材、意匠、装飾、モチーフを継承した刀へ再設計する。
+浮遊刀は刀身、鍔、柄が接続された完全な一本の刀。攻撃時のみ明確な飛翔軌道で動き、接触または回避後はAの周囲へ戻る。増殖、消失、融合、変形、余分な刀の追加を行わない。切っ先や刀身だけを独立回転させない。手持ち刀は柄だけを握り、刀身を手で掴まない。
+
+【浮遊刀エフェクト】
+四本の浮遊刀はキャラクターAの固有色を中心とした薄い炎状、霧状、粒子状、電光状のオーラを纏う。表現形式はAの世界観に合わせるが、必ず刀身へ密着させる。移動方向へ短い尾を引き、巨大な独立レーザーや別個の光線にしない。斬撃残光は刀の掃引面に密着した湾曲残光として発生する。
+
+【力関係】
+キャラクターAは冷静に主導権を握る格上。四本の浮遊刀を時間差で操りながら、自身も手持ち刀で前進する。キャラクターBは高い剣技で猛攻を弾き、避け、受け流し、反撃を試みるが、攻撃方向が連続して変化するため徐々に押される。Aだけが前進し、Bだけが後退する非対称な移動を維持する。
+【カメラ】
+固定横視点ではなく、浮遊刀越しの斜め低角度、Bの肩越し、接触点の近距離、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを使用する。浮遊刀のレンズ前通過、環境粒子、床から跳ねる飛沫、刀光を短い遮蔽ワイプに使う。カメラと背景が回り、人物を無意味に回転させない。
+
+【8秒の動作構成】
+Cut 1：
+四本の浮遊刀がAの上下左右に静止した状態から開始。カメラは二本の浮遊刀の間を抜ける斜め低角度で、Aの顔、上半身、装飾、手持ち刀を見せる。Aは静かに前進し、視線だけでBを捉える。直後、右上の浮遊刀が加速し、Bの左肩口へ斜めに飛ぶ。
+
+Cut 2：
+Bの肩越し。Bは両手の刀で最初の浮遊刀を刀身中央同士の単一接触点で外側へ弾く。金属火花、両者の固有色の魔力火花、環境粒子、反力が発生する。弾かれた刀は弧を描いてAの周囲へ戻る。続いて左下の二本目が床すれすれを走り、Bは低く沈んで紙一重で回避。左上の三本目が斜め上から降下し、Bは刀を返して受け流す。
+
+Cut 3：
+環境粒子の遮蔽からAを斜め前方で映す。Aは止まらず踏み込み、手持ち刀で右下から左上へ斬り上げる。Bは後退しながら受け止める。二本の手持ち刀が一点で接触した瞬間、右下の浮遊刀がBの側面から侵入する。Bは肩を引いて避けるが、姿勢が横へ流れる。Aは接触を滑らせて解除し、さらに懐へ入る。
+Cut 4：
+接触点を中心にカメラが約60度回り込む。Bは反力を利用して返し斬りを放つが、Aの浮遊刀一本が側面から接触し、Bの刀を上へ逸らす。Aは手持ち刀を左上から右下へ振り下ろす。Bは急いで受け止めるが、足元が滑り後方へ押される。残る三本の浮遊刀がBの左右と上方へ散開し、退路を狭める包囲構図を作る。
+
+Cut 5：
+斜め低空カメラ。左手前に前進するA、右奥に押し込まれるB。Bは最後の反撃として踏み込む。Aも前進を止めず、左下から右上へ上昇斬りを放つ。二本の手持ち刀が中央の単一接触点で明瞭なX字を形成する。浮遊刀一本がBの刀身へ側面から追加圧力を加え、残る三本は周囲で次の斬撃姿勢を取る。
+Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱核の外側に巨大な二色のX字色面を形成する。放射状の衝撃波、環境粒子、蒸気、火花が広がる。Bの後ろ足が滑り、膝が沈み、両腕と肩の防御線が崩れ始める。Aは低い重心のまま前へ力を通す。X字の発光が最大まで拡大し、Bの防御崩壊が始まった瞬間に即カット。戦闘継続。
+
+【重大NG】
+固定横の格闘ゲーム視点、左右対称の全身構図、鏡写しの同時ダッシュ、長い助走、長い鍔迫り合い、無意味な連続回転は禁止。刀はAの手持ち一本＋浮遊四本、Bの一本、合計六本を固定。浮遊刀の増殖、消失、融合、変形、身体への貫通、切っ先だけの独立回転は禁止。手で刀身を握らない。独立レーザー、第三の光線、二色融合、全画面白飛びなし。追加人物、文字、字幕、ロゴ、透かし、UI、音響生成なし。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)**
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c32e6c3bb2c5)**
+
+### 动态图生视频音乐可视化工具
+
+> 一个旨在将静态图像转换为具有动态视觉效果的专业音乐视频的提示词。
+
+[<img src="https://media.goodcase.ai/media/poster/case-bf2bedc93316.jpg" width="600" alt="动态图生视频音乐可视化工具">](https://goodcase.ai/cases/case-bf2bedc93316)
+
+**作者:** @EchoraContinuum | **来源:** [原帖](https://x.com/EchoraContinuum/status/2079917613149503813) | **发布:** 2026-07-22 | **热度:** 6
+
+```
+generate an interesting music video using this image as first frame,be professional and use dynamic visuals
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-bf2bedc93316)**
 
 ### Vox 风格历史拼贴动画
 
@@ -630,6 +752,24 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-4317b7fdff57)**
 
+### 复古汽水广告 Crimson Cola
+
+> 一个用于复古汽水品牌的 8K 电影级广告提示词，场景从沙漠日出过渡到充满未来感的 1950 年代城市。
+
+[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="复古汽水广告 Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)
+
+**作者:** @DjajaYerry75 | **来源:** [原帖](https://x.com/DjajaYerry75/status/2080666062690140315) | **发布:** 2026-07-24 | **热度:** 4
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.3 分) · [产物](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937)**
+
 ### 触感剪纸风格产品展示
 
 > 一个为 Seedance 2.0 设计的奢华香水产品展示提示词，采用触感剪纸定格动画风格。
@@ -657,93 +797,6 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-7aea1313f63b)**
-
-### 屋顶追逐动作短语
-
-> 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
-
-[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="屋顶追逐动作短语">](https://goodcase.ai/cases/case-8f7479c32251)
-
-**作者:** @LANDCASTER_92 | **来源:** [原帖](https://x.com/LANDCASTER_92/status/2081432738683314614) | **发布:** 2026-07-26 | **热度:** 3
-
-**稳定度：** 70/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（47 行，点开展开）</b></summary>
-
-```
-Urban Escape Scene
-
-Models ( GPT Image-2 + Seedance 2.0)
-
-Seedance Prompts 2/3
-
-MOTION PHRASES:
-
-P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
-
-P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
-
-P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
-
-P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
-
-P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
-
-P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
-
-P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
-
-P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
-
-P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
-
-Seedance Prompts 3/3
-
-MOTION PHRASES:
-
-P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
-
-P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
-
-P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
-
-P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
-
-P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
-
-P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
-
-P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
-
-P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
-
-P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8f7479c32251)**
-
-### 纽约 FPV 无人机飞行
-
-> 一段关于纽约市超写实、极具电影感的无人机飞行提示词，包含复杂的 FPV 操控技巧和黄金时刻的灯光效果。
-
-[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="纽约 FPV 无人机飞行">](https://goodcase.ai/cases/fpv-cd4a852a53ba)
-
-**作者:** @KrevixAi | **来源:** [原帖](https://x.com/KrevixAi/status/2081427105435255093) | **发布:** 2026-07-26 | **热度:** 3
-
-**稳定度：** 77/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
 
 ### 写实风格无线耳机广告
 
@@ -931,6 +984,93 @@ Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, h
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3ab1709b8447)**
+
+### 屋顶追逐动作短语
+
+> 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
+
+[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="屋顶追逐动作短语">](https://goodcase.ai/cases/case-8f7479c32251)
+
+**作者:** @LANDCASTER_92 | **来源:** [原帖](https://x.com/LANDCASTER_92/status/2081432738683314614) | **发布:** 2026-07-26 | **热度:** 2
+
+**稳定度：** 70/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（47 行，点开展开）</b></summary>
+
+```
+Urban Escape Scene
+
+Models ( GPT Image-2 + Seedance 2.0)
+
+Seedance Prompts 2/3
+
+MOTION PHRASES:
+
+P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
+
+P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
+
+P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+
+P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+
+P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+
+P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+
+P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+
+P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+
+P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+
+Seedance Prompts 3/3
+
+MOTION PHRASES:
+
+P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+
+P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+
+P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
+
+P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
+
+P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
+
+P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
+
+P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
+
+P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
+
+P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8f7479c32251)**
+
+### 纽约 FPV 无人机飞行
+
+> 一段关于纽约市超写实、极具电影感的无人机飞行提示词，包含复杂的 FPV 操控技巧和黄金时刻的灯光效果。
+
+[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="纽约 FPV 无人机飞行">](https://goodcase.ai/cases/fpv-cd4a852a53ba)
+
+**作者:** @KrevixAi | **来源:** [原帖](https://x.com/KrevixAi/status/2081427105435255093) | **发布:** 2026-07-26 | **热度:** 2
+
+**稳定度：** 77/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
 
 ### 角斗场决斗动作
 

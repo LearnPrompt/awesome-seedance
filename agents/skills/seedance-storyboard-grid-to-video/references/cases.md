@@ -1,6 +1,6 @@
 # Case evidence · Storyboard grid to video
 
-9 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+11 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -133,7 +133,7 @@ Create a 12-second 16:9 animated croissant-making sequence that follows the 8-sh
 
 ## E3 · Survival Run Through a Collapsing Kuala Lumpur
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 79
+- Seedance 2.5 · creator: @Xaroon_x · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) · [finished media](https://media.goodcase.ai/cases/1634f009339b.mp4) · [poster](https://media.goodcase.ai/cases/a4fc7d20210a.jpg) · [original source](https://x.com/Xaroon_x/status/2097267405399396457)
 - Summary: When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
 
@@ -214,7 +214,7 @@ Use the storyboard grid Image1 as the exact visual reference for character desig
 
 ## E5 · Ultra-Real Summer Home Video From a Master Reference
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 66
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 65
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2) · [finished media](https://media.goodcase.ai/media/video/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2096554912448659864)
 - Summary: Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…
 
@@ -312,9 +312,112 @@ The afternoon has transitioned into golden ho
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E6 · High-Energy Spicy Potato Chips Commercial Storyboard
+## E6 · Flaming Spear Hero Battles the Stone Colossi
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 32 · stability: 82
+- Seedance 2.5 · creator: @Xaroon_x · heat: 48
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) · [finished media](https://media.goodcase.ai/cases/3213936a04bc.mp4) · [poster](https://media.goodcase.ai/cases/4f05b16f382b.jpg) · [original source](https://x.com/Xaroon_x/status/2100595334833422793)
+- Summary: From ruins to a giant showdown. Created with Seedance 2.5 on @WizstarAI AEpic fantasy action, dynamic combat, and cinematic visuals brought to life with AI. Try…
+
+```text
+15s cinematic fantasy action. REFERENCE IMAGE 1 is the EXACT STORYBOARD. Follow its 20 frames, timing, shot order, camera angles, poses, actions, composition and transitions exactly. REFERENCE IMAGE 2 is ONLY the male character identity. Replace the female warrior in Image 1 with the exact male from Image 2. Preserve his face, wavy dark hair, full beard, skin tone, body proportions and black outfit. Keep the flaming spear, ruined fortress, cracked stone floor, fog and grey-blue cinematic lighting.
+
+00:00–00:00.6 F1: Hero jumps from above with flaming spear.
+00:00.6–00:01.2 F2: Hero lands in deep crouch, dust bursts.
+00:01.2–00:01.8 F3: Hero stands as stone golems appear.
+00:01.8–00:02.4 F4: Golems surround him; spear ready.
+00:02.4–00:03.0 F5: Hero makes first powerful spear swing.
+00:03.0–00:03.6 F6: Spear hits golem; sparks and rocks explode.
+00:03.6–00:04.2 F7: Hero spins, flaming trail, hits multiple golems.
+00:04.2–00:05.0 F8: Another golem falls among debris.
+00:05.0–00:05.8 F9: Hero pauses and sees larger threat.
+00:05.8–00:06.6 F10: Massive stone golem rises through fog.
+00:06.6–00:07.4 F11: Giant close-up, blue-white eyes glowing.
+00:07.4–00:08.2 F12: Hero faces giant, spear diagonal.
+00:08.2–00:09.0 F13: Giant steps toward hero.
+00:09.0–00:09.8 F14: Hero charges with spear raised.
+00:09.8–00:10.6 F15: Spear hits giant; huge orange explosion.
+00:10.6–00:11.4 F16: Giant staggers; rocks fly.
+00:11.4–00:12.2 F17: Giant collapses; dust spreads.
+00:12.2–00:13.0 F18: Hero stands in dust with burning spear.
+00:13.0–00:14.0 F19: ENORMOUS stone face emerges behind ruins; blue eyes ignite.
+00:14.0–00:15.0 F20: Final wide shot; hero faces colossal face.
+
+PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2 controls ONLY male identity. Maintain exact identity, costume, weapon, environment, scale, lighting and geography. No female, extra heroes, modern objects, cartoon style, text, subtitles or watermark.
+```
+
+## E7 · Falling Astronaut Awakens a Giant Spacecraft Above the Clouds
+
+- Seedance 2.5 · creator: @Xaroon_x · heat: 41
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
+- Summary: From the clouds to the unknown . A cinematic sci-fi journey created with Seedance 2.5. Exploring cinematic AI video creation with @ImagineArt_X Prompt: REFERENC…
+
+```text
+REFERENCE IMAGE 1 = EXACT MALE CHARACTER
+REFERENCE IMAGE 2 = EXACT 30-PANEL STORYBOARD
+
+Create a 30-second ultra-realistic Hollywood sci-fi cinematic video following REFERENCE IMAGE 2 exactly in sequence, composition, camera movement, action and visual progression.
+
+CHARACTER:
+Use the male character from REFERENCE IMAGE 1 as the ONLY main character. Preserve his exact identity, facial structure, eyes, eyebrows, nose, lips, jawline, beard, moustache, hairstyle, hairline, skin tone, apparent age and body proportions. Never change his face or make him look like another actor. Keep his identity perfectly consistent whenever his face is visible.
+
+Transform his clothing into a realistic futuristic white EVA astronaut suit while keeping his exact face, hair characteristics and body proportions. Suit: white armored panels, dark gray/black technical sections, black gloves, transparent helmet visor, chest controls, life-support backpack, hoses and realistic mechanical joints. Keep the same suit throughout.
+
+SPACECRAFT:
+Use ONE identical futuristic spacecraft throughout. Dark gunmetal/graphite body, large angular armored fuselage, broad swept wings, central cockpit, detailed mechanical structures and large twin rear engines with amber/orange lights. Never redesign, reshape or duplicate the spacecraft.
+
+STYLE:
+Photorealistic high-budget Hollywood science-fiction film. ARRI Alexa cinematic look, realistic skin and metal textures, physically accurate reflections, volumetric clouds, atmospheric haze, HDR, cinematic depth of field, subtle film grain, realistic motion blur and natural lighting. 16:9 widescreen. No cartoon/anime/illustration/cheap CGI appearance.
+
+30-SECOND SHOT SEQUENCE:
+
+01 | 00:00–00:01
+Extreme wide aerial view above a gigantic ocean of clouds. Deep blue sky, massive white/gray clouds, warm sunrise in upper-right. Camera slowly moves forward.
+
+02 | 00:01–00:02
+Camera travels through thick volumetric clouds. Golden sunlight breaks through. Tiny distant figure begins appearing in center.
+
+03 | 00:02–00:03
+Reveal the male astronaut falling through the clouds, very small in frame, arms and legs extended.
+
+04 | 00:03–00:04
+Astronaut rapidly approaches camera. White EVA suit becomes clearly visible. Dramatic perspective and atmospheric depth.
+
+05 | 00:04–00:05
+Astronaut rotates naturally during free fall. Camera follows him. Face becomes visible through visor.
+
+06 | 00:05–00:06
+Medium close-up. Astronaut stabilizes himself and looks ahead. Clouds softly blurred behind him. Preserve exact face from Reference Image 1.
+
+07 | 00:06–00:07
+He brings both hands toward his chest and looks down at a small futuristic mechanical device.
+
+08 | 00:07–00:08
+Closer shot. He carefully inspects the metallic gold/bronze device with both black-gloved hands.
+
+09 | 00:08–00:09
+Extreme close-up of hands and device. He activates a mechanism. Small amber light begins glowing.
+
+10 | 00:09–00:10
+Macro device shot. Intricate mechanical components move while the central core glows brighter golden-orange.
+
+11 | 00:10–00:11
+Close-up of astronaut's face. Golden device light reflects naturally across his face and helmet. Focused expression.
+
+12 | 00:11–00:12
+A gigantic spacecraft begins deploying behind him. Large mechanical structures unfold and amber lights appear.
+
+13 | 00:12–00:13
+Frontal reveal. Wide spacecraft wings extend left and right behind the astronaut. Massive scale.
+
+14 | 00:13–00:14
+Spacecraft becomes fully deployed: dark gunmetal body, angular wings, centr
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E8 · High-Energy Spicy Potato Chips Commercial Storyboard
+
+- Seedance 2.5 · creator: @Strength04_X · heat: 30 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
 - Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
 
@@ -368,46 +471,4 @@ STYLE:
 Ultra-realistic snack commercial, detailed crispy texture, realistic seasoning particles, sharp packaging details, dramatic studio lighting, premium food photography, 8K.
 
 @itsPolloAI #PolloAl #Pollomarketingstudio
-```
-
-## E7 · 3D Baking Animation Sequence
-
-- Seedance 2.0 · creator: @HaniaAi12 · heat: 26
-- Evidence: [GoodCase](https://goodcase.ai/cases/3d-f194855e4246) · [finished media](https://media.goodcase.ai/media/video/3d-f194855e4246.mp4) · [poster](https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg) · [original source](https://x.com/HaniaAi12/status/2076979039747920309)
-- Summary: 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
-
-```text
-Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
-
-0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
-
-1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
-
-2.50–3.75s: She gently whisks the cupcake batter while smiling.
-
-3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
-
-5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
-
-6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
-
-7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
-
-8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
-
-Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
-
-Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
-
-Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
-```
-
-## E8 · Emotional Kyoto Travel Vlog Animation
-
-- Seedance 2.0 · creator: @MrDasOnX · heat: 4
-- Evidence: [GoodCase](https://goodcase.ai/cases/vlog-4317b7fdff57) · [finished media](https://media.goodcase.ai/media/video/vlog-4317b7fdff57.mp4) · [poster](https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg) · [original source](https://x.com/MrDasOnX/status/2080908954079760476)
-- Summary: 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将一系列照片快照转化为连贯且富有情感的旅行 Vlog，并呈现自然的掌机拍摄效果。
-
-```text
-<<<image_1>>> Animate each of the 12 frames into a smooth, connected emotional vlog. Natural handheld camera movement with gentle shake. Flow the scenes naturally: sakura walk → teahouse → Philosopher’s Path → torii gate → bamboo grove → street food → temple → bicycle ride → ryokan rest → rainy umbrella → Kamo River sunset → zen garden moment. Keep the woman’s graceful presence, flowing hair, and soft expressions. Add subtle cherry blossom petals drifting, gentle wind, and authentic ambient sounds. Cinematic color grading, nostalgic film look, 24fps, vertical phone-style aspect with slight letterboxing if needed. Emotional, peaceful travel vlog atmosphere.
 ```

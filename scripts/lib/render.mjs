@@ -4,7 +4,9 @@
 
 // README 体积目标：GitHub 超过 512KB 拒渲染，旧版 300KB 上限下 README 仍有 307KB，
 // 全球发布审计要求压到 ~120KB 以内。超预算时从 Top 榜表格尾部裁行（见 fitToSizeBudget）。
-export const README_SIZE_BUDGET_BYTES = 120 * 1024;
+// GitHub 完整渲染 markdown 的上限是 512KB；这里是自设的裁行阈值（超了从 Top 30 表尾砍行）。
+// 2026-10-02 从 120KB 提到 160KB：Skill 网格 31 格四宫格封面约 43KB，120KB 已不够放。
+export const README_SIZE_BUDGET_BYTES = 160 * 1024;
 export const TOP_INLINE_COUNT = 30;
 /** prompt 超过这个行数就折叠进 <details>，README 和画廊里都生效（批注：超过五行的可以折叠展开）。 */
 export const PROMPT_COLLAPSE_LINES = 5;

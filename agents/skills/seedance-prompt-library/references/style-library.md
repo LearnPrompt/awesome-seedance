@@ -1657,3 +1657,139 @@ The clip lives or dies on the action loop. Write every link from run-up to landi
 **可复制引导语:** 我要做一条极限运动短片，【项目是滑板，场地是傍晚城市高架桥下的水泥碗池】，【我提供自己的照片当主角，全程锁脸和造型】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：
 
 ---
+
+## game-ui-livestream
+
+### English
+
+#### Gameplay capture with HUD and stream overlay
+
+The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action.
+
+**Use when:** GTA-style mission clips, streamer facecam plus game footage, and interactive desktop or UI recordings where the HUD has to read as a real interface.
+
+**Guidance:**
+
+- Pin every overlay to a named screen position before the timeline starts. GTA 6 Simulation opens with `Fixed full-screen game HUD throughout` and puts the streamer in a `bottom-right square pink-blue neon facecam`; the snow-station trailer assigns one element to each corner, stamina bars top-left, objective banner top-center, date top-right, minimap bottom-left, button prompts bottom-right.
+- Treat the HUD as a scoreboard that changes with each beat. GTA 6 Simulation tracks ammo `from 24/120 to 14/120` and wanted level from two stars to three; the diamond escape gives every segment its own HUD block, going from `MISSION: STEAL VIP NECKLACE` to `TARGET ACQUIRED` to `ESCAPE SUCCESSFUL`.
+
+**Examples:** [#1](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58) [#2](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da) [#3](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) [#4](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e)
+
+**Structure:**
+1. Format header: duration, aspect ratio, how the take is cut, and a plain statement that this is game capture
+1. Character lock: Image1 for face and identity only, outfit written out in text
+1. Screen layer spec: where each HUD element, facecam, chat or subtitle sits, and what language it uses, fixed throughout
+1. Camera rig: third-person follow distance and FOV, or one locked camera for desktop recordings
+1. Timeline segments: each one carries the action, the HUD state change and any spoken line
+1. Audio: engine, footsteps, keyboard and mouse, ambience, voice language
+1. Strict rules tail: exact character counts, no extra cuts, HUD stays put, how the clip may and may not end
+
+**Pitfalls:**
+- The HUD slides around or changes layout between beats. Write `HUD fixed in the same screen positions` as a hard rule and only let the values change, never the layout.
+- Long HUD sentences come out as garbled text. Keep banners to two to four capitalised words like the diamond escape does, and keep numbers in a simple pattern like 38/120.
+- The streamer or hero shows up twice, once in the facecam and once in the game world, or in a reflection. GTA 6 Simulation states HANEUL appears only in the facecam; the office case removes any mirror that could create a second NAGI.
+- The model edits it like a cinematic trailer, with cuts and a tidy ending. Write no cuts and no transitions; if you need a closing shot, declare one hard cut at an exact second, as in `Exactly one hard cut at 27s`, and rule out a black screen or end card.
+
+**Copy-ready lead-in:** I want a video that looks like real gameplay capture. [The hero is a short-haired girl in a school uniform; I am sending you her photo.] [The mission: steal the last rice ball from a convenience store late at night and escape into the street.] [A streamer facecam sits in the bottom-right corner, with scrolling live chat on the left.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:
+
+### 中文
+
+#### 游戏实机录屏与直播叠层
+
+屏幕本身就是画面，假装是一段游戏实机、直播或桌面录屏。成立的关键是叠层钉死在固定位置，上面的数字和横幅跟着剧情一格一格变。
+
+**适用场景:** GTA 风格的任务片段、主播小窗加游戏画面、互动桌面或界面录屏这类片子，HUD 要看起来像真的界面。
+
+**要点:**
+
+- 时间轴开始之前，先把每个叠层钉到一个具体位置。GTA 6 Simulation 开头就写 `Fixed full-screen game HUD throughout`，主播放在 `bottom-right square pink-blue neon facecam`；雪下车站那条一个角放一样东西，左上体力条，顶部中间任务横幅，右上日期，左下小地图，右下按键提示。
+- 把 HUD 当记分牌写，每一段都让它变一次。GTA 6 Simulation 写了弹药 `from 24/120 to 14/120`，通缉星从两颗涨到三颗；钻石逃亡那条每段单独一个 HUD 块，从 `MISSION: STEAL VIP NECKLACE` 到 `TARGET ACQUIRED` 再到 `ESCAPE SUCCESSFUL`。
+
+**示例:** [#1](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58) [#2](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da) [#3](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) [#4](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e)
+
+**结构:**
+1. 格式开头：时长、画幅、镜头怎么切，再直说这是一段游戏录屏
+1. 人物锁定：Image1 只管脸和身份，服装用文字写全
+1. 屏幕叠层说明：HUD 各元素、主播小窗、弹幕或字幕各放哪、用什么语言，全程固定
+1. 机位设定：第三人称跟随的距离和视角，桌面录屏就写一个固定机位
+1. 时间轴分段：每段写清动作、HUD 状态变化、这一段说的台词
+1. 音频：引擎、脚步、键盘鼠标、环境声、人声语言
+1. 硬规则收尾：人数写死、不许多切、HUD 不动、结尾能怎么收不能怎么收
+
+**常见坑:**
+- HUD 在段与段之间漂移或者换布局。硬规则里写上 `HUD fixed in the same screen positions`，只让数值变，布局一律不动。
+- HUD 上的长句子出来是乱码。横幅控制在两到四个大写词，像钻石逃亡那样，数字也用 38/120 这种简单格式。
+- 主播或主角出现两次，小窗里一个，游戏世界里又一个，或者镜子里多出一个。GTA 6 Simulation 写明 HANEUL 只出现在右下小窗；五点下班那条干脆规定电梯里没有镜子。
+- 模型把它剪成了电影预告片，有剪切还有一个圆满结尾。写明不切镜不转场；真要一个收尾镜头，就像 `Exactly one hard cut at 27s` 那样把唯一一刀钉在具体秒数，再排除黑屏和片尾卡。
+
+**可复制引导语:** 我要做一段看起来像游戏实机录屏的视频，【主角是一个穿校服的短发女生，人物照片我提供给你】，【任务是深夜从便利店偷走最后一个饭团再逃到街上】，【画面右下角有主播摄像头小窗，左边是滚动弹幕】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：
+
+---
+
+## food-asmr
+
+### English
+
+#### Food close-ups and eating ASMR
+
+Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
+
+**Use when:** Step-by-step cooking clips, glossy food ads with juice and steam, and handheld eating vlogs or spicy challenges where a person reacts to the food.
+
+**Guidance:**
+
+- Cut the cooking into short named steps with timecodes. The katsudon case runs twelve segments of about two to three seconds each, titled `Prepare Pork`, `Bread the Pork`, `Fry`, `Slice` and so on, each with one action.
+- Write the food's physical state, not just its name. The katsudon egg is set at the edges while the center `remains glossy, slightly runny, and trembling`, and the cut crust `cracks naturally, revealing juicy white pork`; the shengjianbao case has broth falling `in long glossy strands` and bottoms crisping into `golden lace-like crusts`.
+
+**Examples:** [#1](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1) [#2](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) [#3](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) [#4](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6)
+
+**Structure:**
+1. Opening line: duration, look (anime film, glossy commercial or handheld vlog) and the exact dish
+1. Style and light paragraph: macro close-ups, shallow depth of field, steam, warm light; for vlogs, the camera device and its flaws
+1. If a person is in it: identity lock, outfit and the room or street
+1. Timeline by step, raw ingredient to finished dish, one action and one texture change per segment
+1. Hero ending: the finished dish alone, slow push-in or arc, steam rising
+1. Audio: music style and tempo, then the cooking or eating sounds listed in the order they happen
+1. Negative tail: no text, UI or logos, this dish only, food and hands and utensils consistent
+
+**Pitfalls:**
+- Hands and utensils warp in close-up, chopsticks multiply or the knife bends. Give each beat one utensil, keep the macro on the food, and add a line that hands and utensils stay consistent.
+- The dish drifts halfway through, ingredients swap or a new dish appears. Name the dish, list its ingredients, and exclude unrelated food the way the katsudon case does.
+- Too many shots squeezed into one paragraph. The shengjianbao case packs six shots into 15 seconds with no timecodes and jumps from eating back to cooking, so the model picks its own order; give each step at least two seconds and a timecode.
+- Talking with a full mouth breaks the lip sync and the chewing. Let her bite, chew and swallow first, then say the line, the way the oden vlog spaces each bite and sentence.
+
+**Copy-ready lead-in:** I want a short food close-up video. [The dish is a bowl of tomato beef brisket noodles, filmed from slicing the tomatoes to serving.] [End on a steaming close-up of the finished bowl, with the sound of it bubbling on the stove.] Using the prompt template below, rewrite it into one ready-to-use Seedance video prompt for me:
+
+### 中文
+
+#### 美食特写与吃播 ASMR
+
+烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。
+
+**适用场景:** 一步一步的做菜短片、拉丝爆汁冒热气的美食广告，还有手持吃播、辣味挑战这种人对着食物出反应的片子。
+
+**要点:**
+
+- 把做菜切成带时间码的短步骤，每步起个名字。猪排盖饭那条一共十二段，每段两到三秒，标题是 `Prepare Pork`、`Bread the Pork`、`Fry`、`Slice` 这样，一段只做一件事。
+- 写食物的物理状态，光写菜名没用。猪排盖饭里的蛋边缘凝固，中间 `remains glossy, slightly runny, and trembling`，切开的外壳 `cracks naturally, revealing juicy white pork`；生煎包那条写汤汁 `in long glossy strands` 往下淌，底部煎成 `golden lace-like crusts`。
+
+**示例:** [#1](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1) [#2](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) [#3](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) [#4](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6)
+
+**结构:**
+1. 开头一句：时长、画风（动画电影、油亮广告或手持 vlog）、具体是哪道菜
+1. 风格与光线段：微距特写、浅景深、蒸汽、暖光；vlog 就写拍摄设备和它的毛病
+1. 有人出镜时：人物锁定、服装、房间或街道
+1. 按步骤写时间轴，从生食材到成品，每段一个动作加一个质地变化
+1. 英雄收尾：成品单独入画，缓慢推近或环绕，热气往上走
+1. 音频：音乐风格和速度，再按发生顺序列出做菜或吃东西的声音
+1. 排除收尾：不要文字、界面、logo，只有这一道菜，食物、手、餐具前后一致
+
+**常见坑:**
+- 特写里手和餐具变形，筷子多出一根，刀弯了。每一拍只给一件餐具，微距对准食物，再补一句手和餐具前后一致。
+- 菜做到一半变了，食材换了或者冒出另一道菜。点名菜名、列出食材，再像猪排盖饭那条一样把无关食物排除掉。
+- 一段话里塞太多镜头。生煎包那条 15 秒塞了六个镜头，没有时间码，还从吃跳回做，顺序只能让模型自己排；每一步至少给两秒，并标上时间码。
+- 嘴里有东西还在说话，口型和咀嚼一起崩。先让她咬、嚼、咽下去，再说台词，像关东煮那条那样一口一句隔开。
+
+**可复制引导语:** 我要做一条美食特写短视频，【做的是一碗番茄牛腩面，从切番茄一直拍到出锅】，【最后停在热气腾腾的成品特写上，配咕嘟咕嘟的炖煮声】。请根据下面这个提示语模板，帮我改写成一条可以直接用的 Seedance 视频提示语：
+
+---
