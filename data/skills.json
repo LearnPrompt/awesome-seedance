@@ -391,6 +391,10 @@
           "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1d090cw"
         },
         {
+          "creator": "nawalsehar",
+          "url": "https://goodcase.ai/skills/pov-vlog-presence-by-ewg9kn"
+        },
+        {
           "creator": "saniaspeaks_",
           "url": "https://goodcase.ai/skills/pov-vlog-presence-by-e2fac1"
         },
@@ -429,10 +433,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
       "variants": [
-        {
-          "creator": "AIwithSynthia",
-          "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1ktgmlf"
-        },
         {
           "creator": "johnAGI168",
           "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1d090cw"
@@ -505,7 +505,7 @@
         }
       ],
       "cover": {
-        "src": "https://media.goodcase.ai/cases/6304957c914f.jpg"
+        "src": "https://media.goodcase.ai/cases/1917351d85cd.jpg"
       },
       "coverCase": "just-sharon7-seedance-ai-8085c03efbb0",
       "coverTemplateId": "combat-choreography"
@@ -552,6 +552,10 @@
         {
           "creator": "AIwithkhan",
           "url": "https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8"
+        },
+        {
+          "creator": "oggii_0",
+          "url": "https://goodcase.ai/skills/retro-dv-home-video-by-2zdsi5"
         },
         {
           "creator": "techhalla",
@@ -674,6 +678,10 @@
           "url": "https://goodcase.ai/skills/travel-city-walk-by-1uczxsi"
         },
         {
+          "creator": "Just_sharon7",
+          "url": "https://goodcase.ai/skills/travel-city-walk-by-1wr1qau"
+        },
+        {
           "creator": "nawalsehar",
           "url": "https://goodcase.ai/skills/travel-city-walk-by-ewg9kn"
         }
@@ -772,6 +780,14 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
       "variants": [
+        {
+          "creator": "AIwithSynthia",
+          "url": "https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf"
+        },
+        {
+          "creator": "auqibhabib",
+          "url": "https://goodcase.ai/skills/horror-suspense-short-by-43hd7f"
+        },
         {
           "creator": "doctorwasif",
           "url": "https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww"
