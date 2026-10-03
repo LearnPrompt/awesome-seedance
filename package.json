@@ -6,9 +6,10 @@
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs && node scripts/generate-standalone-skills.mjs",
-    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs scripts/lib/submissions.test.mjs scripts/lib/templates.test.mjs scripts/lib/standalone-skill.test.mjs && npm run test:py",
+    "test": "node --test scripts/lib/render.test.mjs scripts/lib/sections.test.mjs scripts/lib/submissions.test.mjs scripts/lib/templates.test.mjs scripts/lib/standalone-skill.test.mjs scripts/lib/weekly-taxonomy.test.mjs && npm run test:py",
     "test:py": "python3 -m unittest discover -s agents/skills/seedance-production-workflow/scripts",
     "check:links": "node scripts/check-links.mjs",
+    "taxonomy:weekly": "node scripts/weekly-taxonomy.mjs",
     "taxonomy:todo": "node scripts/taxonomy-todo.mjs",
     "validate:submissions": "node scripts/validate-submissions.mjs",
     "refresh:site": "node scripts/fetch-site-stats.mjs && node scripts/fetch-retest-posters.mjs"
