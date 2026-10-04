@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 90
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy…
 
@@ -23,7 +23,7 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 ## E2 · Seedance Two-Character 3D Cartoon: Little Butterfly
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 86 · stability: 86
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 84 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg) · [original source](https://x.com/ayzalnooor24521/status/2089559741718548578)
 - Summary: A little butterfly, a sweet flower, and a beautiful moment. Sometimes the smallest moments make the cutest memories. Cre
 
@@ -33,7 +33,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 ## E3 · The Tiny Frog Chef at a Moonlit Pond Restaurant
 
-- Seedance 2.5 · creator: @Caden_Flux · heat: 82 · stability: 83
+- Seedance 2.5 · creator: @Caden_Flux · heat: 81 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f) · [finished media](https://media.goodcase.ai/media/video/caden-flux-seedance-ai-473fedbbc75f.mp4) · [poster](https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg) · [original source](https://x.com/Caden_Flux/status/2091396961329131999)
 - Summary: Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
 
@@ -187,7 +187,7 @@ The tiny frog che
 
 ## E4 · Adorable Bunnies Kiss and Hug on a Cozy Sofa
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 79
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
 
@@ -232,7 +232,7 @@ Photorealistic fur detail combined with stylized 3D animation, cinematic composi
 
 ## E5 · Playful Cream Bunny Winking Under a Blue Sky
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 74
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) · [finished media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) · [poster](https://media.goodcase.ai/cases/90afb6103701.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099809558894112907)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy …
 
@@ -265,7 +265,7 @@ Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs
 
 ## E6 · A Girl and Her White Wolf’s Journey Through a Magical Wilderness
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 69
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-3d-animated-video-in-a-premium-fantasy-adventure-e7a3e6134c65) · [finished media](https://media.goodcase.ai/cases/5eac6564eca8.mp4) · [poster](https://media.goodcase.ai/cases/5ad00890362b.jpg) · [original source](https://x.com/ayzalnooor24521/status/2100036712873488488)
 - Summary: A little adventure, a loyal friend, and a whole world to discover. Sometimes, the smallest friendships lead to the biggest adventures. Created on seedance 2.0 P…
 
@@ -275,7 +275,7 @@ Created a 30-second cinematic 3D animated video in a premium fantasy-adventure s
 
 ## E7 · Shy Hamster Offers a Rose
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 68
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 67
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) · [finished media](https://media.goodcase.ai/cases/79470af69d95.mp4) · [poster](https://media.goodcase.ai/cases/683212be0052.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101493389115953586)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy war…
 
@@ -310,7 +310,7 @@ No text, no subtitles, no watermark, no extra characters, no distorted anatomy, 
 
 ## E8 · Husband Mistakes a Laundry Request for a Romantic Invitation
 
-- Seedance 2.0 · creator: @im_shahid7 · heat: 63 · stability: 84
+- Seedance 2.0 · creator: @im_shahid7 · heat: 61 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750) · [finished media](https://media.goodcase.ai/cases/50120bb6176a.mp4) · [poster](https://media.goodcase.ai/cases/aa596f802fe1.jpg) · [original source](https://x.com/im_shahid7/status/2091754978348339299)
 - Summary: When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
 

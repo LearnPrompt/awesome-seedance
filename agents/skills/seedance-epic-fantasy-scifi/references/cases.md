@@ -35,7 +35,7 @@ Prompt
 
 ## E2 · Lavender-Haired Girl Leaps Through a Pool Wave
 
-- Seedance 2.5 · creator: @Zoyavelle · heat: 88
+- Seedance 2.5 · creator: @Zoyavelle · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1) · [finished media](https://media.goodcase.ai/cases/65eb83d5a0fd.mp4) · [poster](https://media.goodcase.ai/cases/5b534bd92cd2.jpg) · [original source](https://x.com/Zoyavelle/status/2100089287345951159)
 - Summary: Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
 
@@ -51,7 +51,7 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 
 ## E3 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
-- Seedance 2.5 · creator: @Zyrellix · heat: 86
+- Seedance 2.5 · creator: @Zyrellix · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
 - Summary: She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
 
@@ -62,7 +62,7 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 
 ## E4 · Warrior and White Dragon Shatter a Molten Celestial Orb
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 85 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 83 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-5fa856d9472a) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-5fa856d9472a.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-5fa856d9472a.jpg) · [original source](https://x.com/Zyrellix/status/2092121112746287527)
 - Summary: Darkness awakens A warrior an ancient dragon and a celestial power collide in an epic fantasy battle. Made with seedance
 
@@ -72,7 +72,7 @@ A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of 
 
 ## E5 · GPT Image 2 + Seedance From the Deep: One Jet, One Shot
 
-- Seedance 2.0 · creator: @Weeleey6 · heat: 83 · stability: 84
+- Seedance 2.0 · creator: @Weeleey6 · heat: 81 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168) · [finished media](https://media.goodcase.ai/media/video/weeleey6-seedance-ai-b03a5481e168.mp4) · [poster](https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg) · [original source](https://x.com/Weeleey6/status/2089244905960821226)
 - Summary: FROM THE DEEP - GPT Image 2 x Seedance 2.0 It rose from the bay to tear the city apart. One jet, one shot, one shot to s
 
@@ -101,7 +101,7 @@ RULES: References are appearance only, do not recreate. The monster is a stylize
 
 ## E6 · Flame Ritual Detonates a City in Ruins
 
-- Seedance 2.5 · creator: @itxabdullaa · heat: 81
+- Seedance 2.5 · creator: @itxabdullaa · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) · [finished media](https://media.goodcase.ai/cases/381b6848a667.mp4) · [poster](https://media.goodcase.ai/cases/5e41917cd901.jpg) · [original source](https://x.com/itxabdullaa/status/2103698890516308313)
 - Summary: AI just cooked with this one 🔥 Seedance 2.5 on @higgsfield Prompt : SUZUKA — FUGA DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-photorealistic live-ac…
 
@@ -171,19 +171,9 @@ NO MUSIC. #higgsf
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E7 · Apocalyptic Dragon-Rider Strikes the Armored Giant
+## E7 · Schoolgirl Destroys a Tank Assault with Supernatural Power
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 79 · stability: 80
-- Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
-- Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
-
-```text
-A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern urban setting at night with smoke, fire, and glowing searchlights. A massive dark dragon with glowing neon blue dorsal spines flies low over city streets. A giant armor-clad giant warrior stands amidst burning skyscrapers. A young man dressed in black leaps along the spine of the flying dragon, wielding a glowing red energy blade and a giant curved glowing blue magic scythe. The man leaps high off the dragon's back into mid-air, spinning dramatically and striking down onto the giant enemy with a massive glowing electric slash, resulting in an explosive fiery blast over the burning city skyline filled with military helicopters. Cinematic 3D animation, hyper-realistic lighting, intense VFX, dark fantasy anime style, fast-paced cinematic camera motion, 8K resolution.
-```
-
-## E8 · Schoolgirl Destroys a Tank Assault with Supernatural Power
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 78
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) · [finished media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) · [poster](https://media.goodcase.ai/cases/e28bdc9038b1.jpg) · [original source](https://x.com/itsSaira_1/status/2101205826895827053)
 - Summary: ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
 
@@ -230,4 +220,14 @@ NEGATIVE: No character change, face change, hairstyle change, outfit change, age
 
 #Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
 @Flovaai @itsPolloAI
+```
+
+## E8 · Apocalyptic Dragon-Rider Strikes the Armored Giant
+
+- Seedance 2.0 · creator: @Zyrellix · heat: 77 · stability: 80
+- Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
+- Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
+
+```text
+A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern urban setting at night with smoke, fire, and glowing searchlights. A massive dark dragon with glowing neon blue dorsal spines flies low over city streets. A giant armor-clad giant warrior stands amidst burning skyscrapers. A young man dressed in black leaps along the spine of the flying dragon, wielding a glowing red energy blade and a giant curved glowing blue magic scythe. The man leaps high off the dragon's back into mid-air, spinning dramatically and striking down onto the giant enemy with a massive glowing electric slash, resulting in an explosive fiery blast over the burning city skyline filled with military helicopters. Cinematic 3D animation, hyper-realistic lighting, intense VFX, dark fantasy anime style, fast-paced cinematic camera motion, 8K resolution.
 ```

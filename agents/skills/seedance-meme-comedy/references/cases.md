@@ -28,7 +28,7 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 ## E2 · A Wizard's Ten-Second Escape Plan: Become a Duck
 
-- Seedance 2.5 · creator: @AIwithNatalia · heat: 88
+- Seedance 2.5 · creator: @AIwithNatalia · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f) · [finished media](https://media.goodcase.ai/cases/4cabc64762f9.mp4) · [poster](https://media.goodcase.ai/cases/15792e0fa5ef.jpg) · [original source](https://x.com/AIwithNatalia/status/2089170554725265625)
 - Summary: 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
 
@@ -65,7 +65,7 @@ End text:
 
 ## E3 · A Hilarious Payback After the Subway Doors Close
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 88
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66) · [finished media](https://media.goodcase.ai/cases/d26ae0e3eb73.mp4) · [poster](https://media.goodcase.ai/cases/101f63c774b7.jpg) · [original source](https://x.com/AIwithSynthia/status/2098988104418050349)
 - Summary: Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
 
@@ -87,7 +87,7 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 ## E4 · Mother Takes Boy's Seat for Crepes
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 86
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58) · [finished media](https://media.goodcase.ai/cases/c7991e390250.mp4) · [poster](https://media.goodcase.ai/cases/670618f587b7.jpg) · [original source](https://x.com/Just_sharon7/status/2091529113425297759)
 - Summary: That's how I would be as a mother GPT Image 2 + Seedance 2.0 on @DomoAI_ prompt A realistic, cinematic short video (abou
 
@@ -115,7 +115,7 @@ Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting,
 
 ## E5 · Modern Action Comedy Video Prompt
 
-- Seedance 2.0 · creator: @pyona_ai · heat: 84
+- Seedance 2.0 · creator: @pyona_ai · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/modern-action-comedy-video-prompt) · [finished media](https://media.goodcase.ai/media/video/modern-action-comedy-video-prompt.mp4) · [poster](https://media.goodcase.ai/media/poster/modern-action-comedy-video-prompt.jpg) · [original source](https://x.com/pyona_ai/status/2088605198973583799)
 - Summary: A detailed action-comedy video prompt for Seedance 2.5 featuring a female character's persistent attacks and a male character's playful evasions involving quick cheek kisses.
 
@@ -125,7 +125,7 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 
 ## E6 · Surreal Hotel Pool Scale Illusion
 
-- Seedance 2.0 · creator: @YourAlphaMom · heat: 83 · stability: 83
+- Seedance 2.0 · creator: @YourAlphaMom · heat: 82 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-142119be6421) · [finished media](https://media.goodcase.ai/media/video/case-142119be6421.mp4) · [poster](https://media.goodcase.ai/media/poster/case-142119be6421.jpg) · [original source](https://x.com/YourAlphaMom/status/2088749172543410403)
 - Summary: 一个荒诞的超现实喜剧场景提示词，描绘了比例失调的画面：一名普通男子进入泳池，踩在了一位沉在水中的巨型女性脸上。
 
@@ -156,7 +156,7 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 ## E7 · POV: The Turkish Ice Cream Guy Had Other Plans
 
-- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 75
+- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) · [finished media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) · [poster](https://media.goodcase.ai/cases/e9b53af60cec.jpg) · [original source](https://x.com/sophiaparkerr_/status/2096542775709692255)
 - Summary: POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
 
@@ -217,7 +217,7 @@ Keep the Mickey Mouse ears headband clearly visible and consistent throughout th
 
 ## E8 · Ultra-Real Personal Home Video of a Korean Woman
 
-- Seedance 2.5 · creator: @Ciri_ai · heat: 71 · stability: 76
+- Seedance 2.5 · creator: @Ciri_ai · heat: 69 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347) · [finished media](https://media.goodcase.ai/media/video/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347.jpg) · [original source](https://x.com/Ciri_ai/status/2095026480552271884)
 - Summary: Made with seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman con
 

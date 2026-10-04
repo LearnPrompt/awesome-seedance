@@ -18,9 +18,9 @@ One file per template. Each holds a copy-ready block: replace the [bracketed] pa
 
 | Template | Use it for | Cases filed |
 | --- | --- | --- |
-| [Handheld UGC vlog](./handheld-ugc-vlog.md) | Buy believability with camera defects. Name a specific consumer camera era, list its flaws as requirements, and switch cinematic polish off by hand. | 112 |
+| [Handheld UGC vlog](./handheld-ugc-vlog.md) | Buy believability with camera defects. Name a specific consumer camera era, list its flaws as requirements, and switch cinematic polish off by hand. | 106 |
 | [First-person continuous take](./pov-continuous-take.md) | Bodycam, GoPro, FPV and handlebar POV. The camera is mounted on a body, so its motion has to be derived from that body, and every cut has to be declared by hand. | 12 |
-| [Early-2000s DV home video](./retro-found-footage.md) | The period feel comes from camera defects and one tiny everyday incident. Write the camcorder's autofocus hunting, exposure shifts and handheld shake as an explicit list, keep the story small, and the clip reads as a real old tape. | 29 |
+| [Early-2000s DV home video](./retro-found-footage.md) | The period feel comes from camera defects and one tiny everyday incident. Write the camcorder's autofocus hunting, exposure shifts and handheld shake as an explicit list, keep the story small, and the clip reads as a real old tape. | 22 |
 | [Pets and animals as the lead](./pet-animal.md) | The animal is the lead and a phone is the only camera. Lock the count to exactly one, keep the animal behaving like an animal, and let the payoff come from it closing in on the lens. | 15 |
 
 ## 🛒 Commercial and product

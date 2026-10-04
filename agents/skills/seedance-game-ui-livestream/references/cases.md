@@ -4,7 +4,7 @@
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
-## E1 · Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底
+## E1 · Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
 
 - Seedance 2.5 · creator: 木马人 · heat: 94
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) · [finished media](https://media.goodcase.ai/cases/4ce232c0fbe6.mp4) · [poster](https://media.goodcase.ai/cases/f16c9f956a8d.jpg) · [original source](https://x.com/cnyzgkc/status/2099029556434985065)
@@ -148,7 +148,7 @@ Inside the elevator: brushed-metal rear wall, side handrails, softly illuminated
 
 ## E3 · Neon Coastal City Gunfight and Police Chase Livestream
 
-- Seedance 2.5 · creator: @QAiStudio · heat: 85
+- Seedance 2.5 · creator: @QAiStudio · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58) · [finished media](https://media.goodcase.ai/cases/afc80b70fcbb.mp4) · [poster](https://media.goodcase.ai/cases/f81388cc5f57.jpg) · [original source](https://x.com/QAiStudio/status/2099363620325048805)
 - Summary: GTA 6 Simulation Made with Seedance 2.5 on @Flovaai @Flovaai_Japan prompt Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, on…
 
@@ -178,7 +178,7 @@ Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one
 
 ## E4 · Schoolgirl Steals a Diamond Necklace and Escapes by Train
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 83
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da) · [finished media](https://media.goodcase.ai/cases/6384d52eb319.mp4) · [poster](https://media.goodcase.ai/cases/381369ef731a.jpg) · [original source](https://x.com/saniaspeaks_/status/2099700182388801793)
 - Summary: Mission: The Great Diamond Escape Seedance 2.5 on @openart_ai Prompt 16:9 landscape, ultra-realistic AAA third-person gameplay, bright afternoon at a luxurious …
 
@@ -281,7 +281,7 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 
 ## E5 · Three Children Search for a Mysterious Station Beneath the Snow
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 81
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e) · [finished media](https://media.goodcase.ai/cases/9007759eac57.mp4) · [poster](https://media.goodcase.ai/cases/79e519115cd2.jpg) · [original source](https://x.com/Just_sharon7/status/2099820658880548879)
 - Summary: A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
 
@@ -315,7 +315,7 @@ Sequence:
 
 ## E6 · Rio Street Chase Over a Misplaced Package
 
-- Seedance 2.5 · creator: @john_my07 · heat: 61
+- Seedance 2.5 · creator: @john_my07 · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-sequenc-70896856a838) · [finished media](https://media.goodcase.ai/cases/3d47a3342470.mp4) · [poster](https://media.goodcase.ai/cases/a766a24fcbfe.jpg) · [original source](https://x.com/john_my07/status/2099832403305079015)
 - Summary: GTA in Brazil 🇧🇷 All this chaos just to deliver the package to the right house! Created using Seedance 2.5 on Pollo AI Prompt: Create a 30-second ultra-realis…
 
@@ -435,7 +435,7 @@ She finally reaches a small Brazilian house matching the address printed on the
 
 ## E7 · Female Surgeon's Hospital Rescue Mission
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 58
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 56
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) · [finished media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) · [poster](https://media.goodcase.ai/cases/9377bc7b94f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2100429151719075851)
 - Summary: Okay this feels straight out of GTA Seedance 2.5 on @itsPolloAI Prompt Create a 30-second ultra-realistic AAA third-person medical action game mission set insid…
 
@@ -492,7 +492,7 @@ AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency 
 
 ## E8 · Theft and Escape at a Rural Japanese Station
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 55
+- Seedance 2.5 · creator: @AIwithkhan · heat: 53
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-video-s-405ad1ebb338) · [finished media](https://media.goodcase.ai/cases/890304e94a79.mp4) · [poster](https://media.goodcase.ai/cases/5864458476ef.jpg) · [original source](https://x.com/AIwithkhan/status/2099464101525393596)
 - Summary: She really woke up and chose GTA-style chaos. 🔥 No hesitation, just straight into the mission. Created with Seedance 2.5 on @itsPolloAI Prompt : Create a 30-se…
 

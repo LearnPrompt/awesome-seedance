@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 82 · stability: 76
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 80 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) · [finished media](https://media.goodcase.ai/media/video/ruzainameer-seedance-ai-e6073ec318f1.mp4) · [poster](https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg) · [original source](https://x.com/RuzainaMeer/status/2089595902818398461)
 - Summary: Seedance 2.5 1080P is now available on @itsPolloAI — and it’s 50% off right now. I tested it with this cinematic motorcy
 
@@ -38,7 +38,7 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 ## E2 · Motorcycle Racing Through a Mountain Road
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 78
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
 - Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
 
@@ -103,7 +103,7 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 
 ## E3 · Post-Apocalyptic Desert Buggy Air Battle
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 71 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 70 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
 - Summary: Post apocalyptic chaos at full speed A rocket powered dune buggy explosive dogfights and insane cinematic action straigh
 
@@ -113,7 +113,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E4 · Pink Jet Tractor Races Supercars on a Tokyo Expressway
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 45
+- Seedance 2.5 · creator: @laviniavelle · heat: 42
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) · [finished media](https://media.goodcase.ai/cases/83c13fe0b2e2.mp4) · [poster](https://media.goodcase.ai/cases/17d1ccde38df.jpg) · [original source](https://x.com/laviniavelle/status/2100806296949903511)
 - Summary: A pink tractor with a jet engine hits the highway Supercars can’t keep up with this crazy speed. Made With Seedance 2.5 on @flovaai Prompt: A high octane cinema…
 
@@ -124,7 +124,7 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 
 ## E5 · First-Person Midair Assembly of a Black Lamborghini
 
-- Seedance 2.5 · creator: @MissDelulu9 · heat: 42
+- Seedance 2.5 · creator: @MissDelulu9 · heat: 39
 - Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) · [finished media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) · [poster](https://media.goodcase.ai/cases/4da7c433c3b6.jpg) · [original source](https://x.com/MissDelulu9/status/2091423578197737772)
 - Summary: What if you could assemble a supercar with your mind? 👀 Made with Seedance 2.5 using @atlas_cloud_ai #AtlasCloud Prompt
 
@@ -163,7 +163,7 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 ## E6 · Karakoram Motorcycle Commercial
 
-- Seedance 2.5 · creator: @AI_with_Antonio · heat: 35 · stability: 87
+- Seedance 2.5 · creator: @AI_with_Antonio · heat: 32 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) · [finished media](https://media.goodcase.ai/cases/f702b148dbed.mp4) · [poster](https://media.goodcase.ai/cases/fe0b785db335.jpg) · [original source](https://x.com/AI_with_Antonio/status/2088599346908365227)
 - Summary: A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
 
@@ -173,7 +173,7 @@ Create a 10-second photorealistic cinematic motorcycle commercial featuring a yo
 
 ## E7 · Silver-Haired Rider's Neon Highway Escape
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 30 · stability: 87
+- Seedance 2.0 · creator: @Zyrellix · heat: 27 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-e2b9d262ff6b.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg) · [original source](https://x.com/Zyrellix/status/2093340253755232681)
 - Summary: Speed, neon and chaos collide A futuristic rider takes on a massive zombie horde in a high octane cinematic chase. Made
 
@@ -183,7 +183,7 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 
 ## E8 · Yellow Supercar Racing Through the Dubai Skyline
 
-- Seedance 2.0 · creator: @AIwithAliya · heat: 28
+- Seedance 2.0 · creator: @AIwithAliya · heat: 26
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) · [finished media](https://media.goodcase.ai/media/video/aiwithaliya-seedance-ai-cf398f743859.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaliya-seedance-ai-cf398f743859.jpg) · [original source](https://x.com/AIwithAliya/status/2093022598187954484)
 - Summary: What a ride! Made by using GPT Image 2 + Seedance 2.0 on @FishCreativeHQ Prompt reference_handling: "Image generation st
 

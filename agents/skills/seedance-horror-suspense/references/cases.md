@@ -72,7 +72,7 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 ## E2 · Security Guard and Survivors in a Mall Zombie Outbreak
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 95
+- Seedance 2.5 · creator: @auqibhabib · heat: 94
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) · [finished media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) · [poster](https://media.goodcase.ai/cases/be466ebf5501.jpg) · [original source](https://x.com/auqibhabib/status/2104107269206237325)
 - Summary: A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
 
@@ -178,7 +178,7 @@ Natural diegetic sound throughout — gasping, screaming, bus brakes screeching,
 
 ## E4 · Zombie Attack in a Japanese Classroom
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 84
+- Seedance 2.5 · creator: @AIwithkhan · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) · [finished media](https://media.goodcase.ai/cases/679f1e6b50a2.mp4) · [poster](https://media.goodcase.ai/cases/bd58f9078734.jpg) · [original source](https://x.com/AIwithkhan/status/2100575957451153626)
 - Summary: One drop, one bite, and the safest place in school became a nightmare. 😳 Seedance 2.5 Prompt : Create a short, ultra-realistic Japanese high-school horror-acti…
 
@@ -190,7 +190,7 @@ Photorealistic live-action, practical-effects horror, realistic Japanese classro
 
 ## E5 · The Zombie Express, Cut to the Tenth of a Second
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 84
+- Seedance 2.5 · creator: @doctorwasif · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) · [finished media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg) · [original source](https://x.com/doctorwasif/status/2095373753983369666)
 - Summary: The Zombie Express. Made with Seedance 2.5 on @openart_ai Prompt: Shot 1 (0.0–1.2s): <<<image_1>>>, face and outfit matching reference, lying in upper bunk of a…
 
@@ -225,7 +225,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ## E6 · Infection Terror Aboard a Night Sleeper Train
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 80
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
 - Summary: One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
 
@@ -239,7 +239,7 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 
 ## E7 · Parasite Outbreak in a High-Security Laboratory
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 76
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) · [finished media](https://media.goodcase.ai/cases/55154fddc144.mp4) · [poster](https://media.goodcase.ai/cases/a0d17a9bf535.jpg) · [original source](https://x.com/AIwithSynthia/status/2101161634022474024)
 - Summary: One lab. One infection. And suddenly, she wasn’t human anymore. 🧟‍♀️ Seedance 2.5 on @wavespeed_ai Prompt : Create a photorealistic zombie-horror sequence insi…
 
@@ -257,7 +257,7 @@ Visual and audio direction: Ultra-realistic sci-fi zombie horror with detailed n
 
 ## E8 · Zombie Outbreak on a Train
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 75 · stability: 64
+- Seedance 2.5 · creator: @doctorwasif · heat: 73 · stability: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-3b1796c66ab4) · [finished media](https://media.goodcase.ai/media/video/case-3b1796c66ab4.mp4) · [poster](https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg) · [original source](https://x.com/doctorwasif/status/2094285140247896553)
 - Summary: 一个复杂的、逐镜头视频 storyboard 提示词，描绘了列车上的恐怖丧尸爆发场景，重点展示变异细节和混乱的动作。
 

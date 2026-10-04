@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 87
+- Seedance 2.5 · creator: @eshal__ai · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 82
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
 - Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
 
@@ -70,7 +70,7 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 
 ## E3 · Her Autumn Day in the City
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 79
+- Seedance 2.5 · creator: @Chaemate_ · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
 - Summary: city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
 
@@ -118,7 +118,7 @@ ACTION
 
 ## E4 · A Slow Autumn Travel Vlog in Kyoto
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 79
+- Seedance 2.5 · creator: @Chaemate_ · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) · [finished media](https://media.goodcase.ai/cases/784165cb489a.mp4) · [poster](https://media.goodcase.ai/cases/587b89f01743.jpg) · [original source](https://x.com/Chaemate_/status/2099439262106083704)
 - Summary: A quiet day in Kyoto, captured like a memory you almost forgot you had. 🍂 Created with Seedance 2.5 on @FishCreativeHQ Prompt: Create a photorealistic 30-secon…
 
@@ -140,7 +140,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ## E5 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 78
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
 
@@ -173,7 +173,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 
 ## E6 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 74 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 73 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 
@@ -185,7 +185,7 @@ Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden 
 
 ## E7 · Helicopter Night Tour Over Tokyo
 
-- Seedance 2.5 · creator: @noorlewisx · heat: 71 · stability: 86
+- Seedance 2.5 · creator: @noorlewisx · heat: 70 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg) · [original source](https://x.com/noorlewisx/status/2093567063357088065)
 - Summary: A Night to Remember in Tokyo From a Helicopter Ride to Shibuya After Dark Made with seedance 2.5 on @itsPolloAI Prompt:
 
@@ -208,7 +208,7 @@ Style: realistic handheld selfie + aerial footage, night city lights, slight win
 
 ## E8 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 69 · stability: 84
+- Seedance 2.5 · creator: @nawalsehar · heat: 68 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
 - Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
 

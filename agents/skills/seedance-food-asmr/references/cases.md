@@ -72,7 +72,7 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 ## E2 · Late-Night Oden Tasting in a Hotel Room
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 85 · stability: 74
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 83 · stability: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) · [finished media](https://media.goodcase.ai/cases/8294a68bb1e4.mp4) · [poster](https://media.goodcase.ai/cases/5cd3bc416625.jpg) · [original source](https://x.com/Just_sharon7/status/2089919950161113353)
 - Summary: Have you ever tasted this broth? Nano Banana 2 + Seedance 2.5 on @DomoAI_ prompt Image1 : SHARON'S REAL FACE — sole sour
 
@@ -122,7 +122,7 @@ Maintain consistent facial features, hairstyle, outfit, body proportions, and en
 
 ## E3 · GPT Image 2 + Seedance Mouth-Watering Mukbang Short
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 70
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) · [finished media](https://media.goodcase.ai/cases/f0a5f53703c2.mp4) · [poster](https://media.goodcase.ai/cases/b3cd9e34db34.jpg) · [original source](https://x.com/Just_sharon7/status/2089737554061148465)
 - Summary: I was already starving and then I wattched this video of her eating. GPT Image 2 + Seedance 2.5 on @TapNow_AI prompt Ima
 
@@ -200,7 +200,7 @@ She continues walking past traditional houses. A small
 
 ## E4 · Restaurant Chef’s Flaming Wok Performance
 
-- Seedance 2.5 · creator: @AynahhX · heat: 62
+- Seedance 2.5 · creator: @AynahhX · heat: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e) · [finished media](https://media.goodcase.ai/cases/5d8839944958.mp4) · [poster](https://media.goodcase.ai/cases/23cf7e177f01.jpg) · [original source](https://x.com/AynahhX/status/2102946546035945875)
 - Summary: When the chef turns dinner into a whole performance. 🔥👨‍🍳🥘 Created with Seedance 2.5 Prompt Create a 15-second cinematic 3D animated cooking sequence inside…
 
@@ -215,7 +215,7 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 
 ## E5 · Korean Woman Melts Down During a Spicy Food Challenge
 
-- Seedance 2.5 · creator: @oggii_0 · heat: 55 · stability: 82
+- Seedance 2.5 · creator: @oggii_0 · heat: 52 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) · [finished media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) · [poster](https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg) · [original source](https://x.com/oggii_0/status/2094267751477232053)
 - Summary: When AI starts making fake memories that feel this real… things get interesting. Made with Seedance 2.5. Prompt: Create
 
@@ -262,7 +262,7 @@ She shoots a watery-eyed glare at the camera without being able to respond, stil
 
 ## E6 · Juicy Pan-Fried Bao with a Crisp Golden Crust
 
-- Seedance 2.5 · creator: @Lianaalane · heat: 44
+- Seedance 2.5 · creator: @Lianaalane · heat: 41
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6) · [finished media](https://media.goodcase.ai/cases/0ecfc9686dfd.mp4) · [poster](https://media.goodcase.ai/cases/b7e548a0f7a9.jpg) · [original source](https://x.com/Lianaalane/status/2096903888813330826)
 - Summary: Crispy on the outside, juicy on the inside. Every bite is packed with rich flavors, golden broth, and irresistible textures. Created on seedance 2.5 Prompt: Cre…
 
