@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 760 条案例逐条核对过原帖，367 次跨模型复测，27 个可复用模板，67 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 1649 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
+**Seedance 2.5 / 2.0 提示词验证库。** 760 条案例逐条核对过原帖，367 次跨模型复测，27 个可复用模板，69 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 1649 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -42,7 +42,7 @@
 | --- | --- | --- |
 | **适合谁** | 新手，以及不想装任何东西的人 | 已经在用 Claude Code、Codex 这类 agent 的专业用户 |
 | **怎么用** | 复制，换掉【】，粘到任意 AI 对话 | 一行命令装好，之后直接跟 agent 说需求 |
-| **覆盖范围** | 27 个分类模板 | 有案例依据的提示语结构和制作工作流，共 67 个 Skill 与创作者变体 |
+| **覆盖范围** | 27 个分类模板 | 有案例依据的提示语结构和制作工作流，共 69 个 Skill 与创作者变体 |
 | **拿到什么** | 一次一条靠谱的提示语 | 根据所选 Skill，得到提示语，或制作计划与验收记录 |
 
 只想看案例，去[热度 Top 30](#-热度-top-30) 或[全部案例](#-全部案例)。想知道一条提示语靠不靠谱，看[跨模型复测](#-跨模型复测)。
@@ -142,7 +142,7 @@
 
 ## 🧰 Skill
 
-Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 34 个 Skill，另有 33 个创作者变体，带着某位创作者的个人风格。
+Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 36 个 Skill，另有 33 个创作者变体，带着某位创作者的个人风格。
 
 <table>
 <tr>
@@ -202,6 +202,8 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1"><img src="https://media.goodcase.ai/cases/785fe38465cc.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e"><img src="https://media.goodcase.ai/cases/5cd3bc416625.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698"><img src="https://media.goodcase.ai/cases/b3cd9e34db34.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e"><img src="https://media.goodcase.ai/cases/23cf7e177f01.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance"><b>美食特写与吃播 ASMR</b></a><br><sub>烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill food-asmr</code></td>
+<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b"><img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d"><img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/korean-fantasy-romance-drama"><img src="https://media.goodcase.ai/media/poster/korean-fantasy-romance-drama.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39"><img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/cinematic-drama-scene?utm_source=awesome-seedance"><b>电影感剧情短片</b></a><br><sub>把一段剧情压进十几秒到半分钟。先说清人物关系和情绪在哪一刻转折，再逐镜写景别、表演和停顿，情绪交给光线、天气和声音去托。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill cinematic-drama-scene</code></td>
+<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol"><img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop"><img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/cyberpunk-holographic-dance-performance"><img src="https://media.goodcase.ai/cases/5ee3737281f4.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/vibrant-k-pop-stage-performance"><img src="https://media.goodcase.ai/media/poster/vibrant-k-pop-stage-performance.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/stage-dance-music-video?utm_source=awesome-seedance"><b>舞台表演与舞蹈 MV</b></a><br><sub>偶像舞台、翻跳和音乐短片。先定曲风、速度和段落，再把动作、站位和剪辑点卡在节拍上，段落之间靠灯光、服装和布景的变化来分开。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video</code></td>
 </tr>
 </table>
 

@@ -876,6 +876,48 @@
       "cover": {
         "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
       }
+    },
+    {
+      "id": "cinematic-drama-scene",
+      "siteSlug": "cinematic-drama-scene",
+      "coverTemplateId": "cinematic-narrative-short",
+      "title": {
+        "en": "Cinematic drama scene",
+        "zh": "电影感剧情短片",
+        "ja": "シネマティックなドラマシーン"
+      },
+      "description": {
+        "en": "One dramatic beat squeezed into 15 to 30 seconds. It holds up when the relationship and the emotional turn are named first, then each shot gets a size, an acting beat and a pause, with light, weather and sound carrying the mood.",
+        "zh": "把一段剧情压进十几秒到半分钟。先说清人物关系和情绪在哪一刻转折，再逐镜写景别、表演和停顿，情绪交给光线、天气和声音去托。",
+        "ja": "一つのドラマを15〜30秒に凝縮します。まず人物関係と感情の転換点を決め、ショットごとに景別・芝居・間を書き、光と天気と音で情感を支えます。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill cinematic-drama-scene",
+      "url": "https://goodcase.ai/skills/cinematic-drama-scene",
+      "variants": [],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/f3dacc0c0b9f.jpg"
+      }
+    },
+    {
+      "id": "stage-dance-music-video",
+      "siteSlug": "stage-dance-music-video",
+      "coverTemplateId": "music-beat-sync-mv",
+      "title": {
+        "en": "Stage and dance music video",
+        "zh": "舞台表演与舞蹈 MV",
+        "ja": "ステージとダンスのMV"
+      },
+      "description": {
+        "en": "Idol stages, dance covers and music shorts. Set the genre, tempo and sections first, lock moves, positions and cuts to the beat, then let stage light, wardrobe and set changes mark each section.",
+        "zh": "偶像舞台、翻跳和音乐短片。先定曲风、速度和段落，再把动作、站位和剪辑点卡在节拍上，段落之间靠灯光、服装和布景的变化来分开。",
+        "ja": "アイドルステージ、ダンスカバー、音楽ショート。ジャンル・テンポ・構成を先に決め、振り付け・立ち位置・カットを拍に合わせ、照明・衣装・セットの変化でセクションを区切ります。"
+      },
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video",
+      "url": "https://goodcase.ai/skills/stage-dance-music-video",
+      "variants": [],
+      "cover": {
+        "src": "https://media.goodcase.ai/cases/a682179bc0fa.jpg"
+      }
     }
   ]
 }

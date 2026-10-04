@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 760 ケースをすべて元投稿と照合、367 回のクロスモデル再テスト、27 個の再利用可能テンプレート、67 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1649 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 760 ケースをすべて元投稿と照合、367 回のクロスモデル再テスト、27 個の再利用可能テンプレート、69 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1649 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -42,7 +42,7 @@ AI 動画が初めてでも、この 5 ステップで自分のクリップが�
 | --- | --- | --- |
 | **向いている人** | 初心者、何もインストールしたくない人 | すでに Claude Code や Codex などのエージェントを使っている人 |
 | **使い方** | コピーして [角括弧] を置き換え、任意の AI チャットに貼る | コマンド 1 行で導入し、あとはエージェントに要望を伝えるだけ |
-| **カバー範囲** | カテゴリ別テンプレート 27 個 | ケースに基づくプロンプト構造と制作ワークフロー、計 67 個の Skill とクリエイター版 |
+| **カバー範囲** | カテゴリ別テンプレート 27 個 | ケースに基づくプロンプト構造と制作ワークフロー、計 69 個の Skill とクリエイター版 |
 | **得られるもの** | 確かなプロンプトを 1 本ずつ | Skill に応じて、プロンプトまたは制作計画と検証記録 |
 
 ケースを眺めたいだけなら[ヒート Top 30](#-ヒート-top-30) か[全ケース](#-全プロンプト)へ。プロンプトの再現性を確かめたいなら[クロスモデル再テスト](#-クロスモデル再テスト)をどうぞ。
@@ -142,7 +142,7 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 
 ## 🧰 Skill
 
-Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に 34 個の Skill と、クリエイター個人のスタイルを持つ 33 個のバリアントがあります。
+Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に 36 個の Skill と、クリエイター個人のスタイルを持つ 33 個のバリアントがあります。
 
 <table>
 <tr>
@@ -202,6 +202,8 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1"><img src="https://media.goodcase.ai/cases/785fe38465cc.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e"><img src="https://media.goodcase.ai/cases/5cd3bc416625.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698"><img src="https://media.goodcase.ai/cases/b3cd9e34db34.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e"><img src="https://media.goodcase.ai/cases/23cf7e177f01.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance"><b>料理クローズアップと咀嚼ASMR</b></a><br><sub>料理をタイムコード付きの短いステップに切り、各ステップで食材の目に見える変化を一つ。音は動作の順に並べます。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill food-asmr</code></td>
+<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b"><img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d"><img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/korean-fantasy-romance-drama"><img src="https://media.goodcase.ai/media/poster/korean-fantasy-romance-drama.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39"><img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/cinematic-drama-scene?utm_source=awesome-seedance"><b>シネマティックなドラマシーン</b></a><br><sub>一つのドラマを15〜30秒に凝縮します。まず人物関係と感情の転換点を決め、ショットごとに景別・芝居・間を書き、光と天気と音で情感を支えます。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill cinematic-drama-scene</code></td>
+<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol"><img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop"><img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/cyberpunk-holographic-dance-performance"><img src="https://media.goodcase.ai/cases/5ee3737281f4.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/vibrant-k-pop-stage-performance"><img src="https://media.goodcase.ai/media/poster/vibrant-k-pop-stage-performance.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/stage-dance-music-video?utm_source=awesome-seedance"><b>ステージとダンスのMV</b></a><br><sub>アイドルステージ、ダンスカバー、音楽ショート。ジャンル・テンポ・構成を先に決め、振り付け・立ち位置・カットを拍に合わせ、照明・衣装・セットの変化でセクションを区切ります。</sub><br><br><code>npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video</code></td>
 </tr>
 </table>
 
