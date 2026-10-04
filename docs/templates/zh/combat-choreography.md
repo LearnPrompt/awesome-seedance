@@ -78,8 +78,8 @@
 | <a href="https://goodcase.ai/cases/yourplugai-seedance-ai-17a1f9de8843"><img src="https://media.goodcase.ai/media/poster/yourplugai-seedance-ai-17a1f9de8843.jpg" width="160" alt="雪中神社的浪人与纸鹤决斗"></a> | [雪中神社的浪人与纸鹤决斗](https://goodcase.ai/cases/yourplugai-seedance-ai-17a1f9de8843) | 2.0 | 75 |
 | <a href="https://goodcase.ai/cases/laviniavelle-seedance-ai-bac382f08a18"><img src="https://media.goodcase.ai/cases/14df186af771.jpg" width="160" alt="粉发盲女跃落霓虹都市"></a> | [粉发盲女跃落霓虹都市](https://goodcase.ai/cases/laviniavelle-seedance-ai-bac382f08a18) | 2.0 | 74 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e"><img src="https://media.goodcase.ai/cases/6f39bca3bfd6.jpg" width="160" alt="金色夕阳下的工业区双女激战"></a> | [金色夕阳下的工业区双女激战](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e) | 2.5 | 74 |
-| <a href="https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010"><img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="160" alt="地铁站柱前近身格斗"></a> | [地铁站柱前近身格斗](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010) | 2.0 | 73 |
 | <a href="https://goodcase.ai/cases/avelyrahnai-seedance-ai-50f8f8d3144f"><img src="https://media.goodcase.ai/media/poster/avelyrahnai-seedance-ai-50f8f8d3144f.jpg" width="160" alt="蓝发少女持枪挥刀激战双匕首对手"></a> | [蓝发少女持枪挥刀激战双匕首对手](https://goodcase.ai/cases/avelyrahnai-seedance-ai-50f8f8d3144f) | 2.5 | 72 |
+| <a href="https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010"><img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="160" alt="地铁站柱前近身格斗"></a> | [地铁站柱前近身格斗](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010) | 2.0 | 72 |
 
 其余 39 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 

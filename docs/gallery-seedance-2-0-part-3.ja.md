@@ -2,7 +2,7 @@
 
 Seedance 2.0 の全 275 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 275 件中 191–273 件目。
+このページ: 275 件中 190–272 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
 
@@ -177,51 +177,35 @@ POSITIVE LOCKS Faces, hands, hair and jewellery identical across all seven shots
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12)**
 
-### Fashion UGC Ad
+### Stop-Motion Clay Miniature Nutella Cafe
 
-> A user-generated content (UGC) style fashion ad prompt for showcasing an elegant dress, requiring natural motion effects and a realistic smartphone-shot aesthetic.
+> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
 
-[<img src="https://media.goodcase.ai/media/poster/ugc-f1f4b662e370.jpg" width="600" alt="Fashion UGC Ad">](https://goodcase.ai/cases/ugc-f1f4b662e370)
+[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="Stop-Motion Clay Miniature Nutella Cafe">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)
 
-**作者:** @Diplomeme | **出典:** [元投稿](https://x.com/Diplomeme/status/2079455816772649210) | **公開日:** 2026-07-21 | **ヒート:** 20
+**作者:** @MayaAiCreator | **出典:** [元投稿](https://x.com/MayaAiCreator/status/2091397686104588650) | **公開日:** 2026-08-23 | **ヒート:** 21
 
 <details>
-<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
 
 ```
-Create a 15-second vertical (9:16) UGC-style fashion advertisement that feels authentic, premium, and social-media ready.
-
-The model is wearing the EXACT dress shown in the attached reference image. Do not redesign, modify, recolor, simplify, or reinterpret the dress in any way. Maintain identical embroidery, fabric, silhouette, neckline, sleeves, dupatta, borders, patterns, proportions, textures, embellishments, and overall craftsmanship throughout the entire video.
-
-A confident young woman stands in a bright, modern home with soft natural morning light. She gently showcases the dress while smiling warmly as if recommending it to a friend. Her hair is long, healthy, shiny, and naturally bouncy.
-
-She speaks directly to the camera:
-"I've finally found a dress that feels as beautiful as it looks. The craftsmanship is stunning, the fabric feels luxurious, and every detail looks incredibly premium. It's elegant, comfortable, and honestly makes me feel confident every time I wear it. If you're looking for a timeless outfit, you have to try this!"
-
-Storyboard:
-
-Scene 1:
-Close-up of the dress in her hand as she introduces it by gently showcasing the embroidery, fabric texture, and premium craftsmanship.
-
-Scene 2:
-She gently spreads the dupatta and lightly runs her hand across the embroidery, showing the intricate detailing and luxurious fabric movement.
-
-Scene 3:
-Beauty shots of her wearing the dress while walking naturally, adjusting the dupatta, lightly twirling, and showcasing realistic fabric flow, elegant movement, and premium embroidery from different angles.
-
-Scene 4:
-After styling herself, she confidently flips her silky, glossy hair while smiling at the camera, allowing the dress to flow naturally as she turns.
-
-Scene 5:
-Final hero shot holding the dupatta beside her while showcasing the complete outfit against a clean, premium interior background. She smiles and says,
-"Highly recommend!"
-
-The video should have realistic smartphone camera quality, natural handheld movement, genuine facial expressions, smooth transitions, accurate lip sync, premium visibility of the dress throughout, and a polished yet authentic UGC aesthetic. The dress remains perfectly identical to the attached reference image, with every embroidery detail, color, fabric texture, silhouette, and design element consistently visible in every shot.
+A prompt to recreate this stop-motion claymation style AI video:
+Seedance 2.0. 
+​Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence & Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-f1f4b662e370)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)**
 
 ### Premium Tropical Drink UGC Ad
 
@@ -265,6 +249,52 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no product labels
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-34764467dea1)**
+
+### Fashion UGC Ad
+
+> A user-generated content (UGC) style fashion ad prompt for showcasing an elegant dress, requiring natural motion effects and a realistic smartphone-shot aesthetic.
+
+[<img src="https://media.goodcase.ai/media/poster/ugc-f1f4b662e370.jpg" width="600" alt="Fashion UGC Ad">](https://goodcase.ai/cases/ugc-f1f4b662e370)
+
+**作者:** @Diplomeme | **出典:** [元投稿](https://x.com/Diplomeme/status/2079455816772649210) | **公開日:** 2026-07-21 | **ヒート:** 19
+
+<details>
+<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+
+```
+Create a 15-second vertical (9:16) UGC-style fashion advertisement that feels authentic, premium, and social-media ready.
+
+The model is wearing the EXACT dress shown in the attached reference image. Do not redesign, modify, recolor, simplify, or reinterpret the dress in any way. Maintain identical embroidery, fabric, silhouette, neckline, sleeves, dupatta, borders, patterns, proportions, textures, embellishments, and overall craftsmanship throughout the entire video.
+
+A confident young woman stands in a bright, modern home with soft natural morning light. She gently showcases the dress while smiling warmly as if recommending it to a friend. Her hair is long, healthy, shiny, and naturally bouncy.
+
+She speaks directly to the camera:
+"I've finally found a dress that feels as beautiful as it looks. The craftsmanship is stunning, the fabric feels luxurious, and every detail looks incredibly premium. It's elegant, comfortable, and honestly makes me feel confident every time I wear it. If you're looking for a timeless outfit, you have to try this!"
+
+Storyboard:
+
+Scene 1:
+Close-up of the dress in her hand as she introduces it by gently showcasing the embroidery, fabric texture, and premium craftsmanship.
+
+Scene 2:
+She gently spreads the dupatta and lightly runs her hand across the embroidery, showing the intricate detailing and luxurious fabric movement.
+
+Scene 3:
+Beauty shots of her wearing the dress while walking naturally, adjusting the dupatta, lightly twirling, and showcasing realistic fabric flow, elegant movement, and premium embroidery from different angles.
+
+Scene 4:
+After styling herself, she confidently flips her silky, glossy hair while smiling at the camera, allowing the dress to flow naturally as she turns.
+
+Scene 5:
+Final hero shot holding the dupatta beside her while showcasing the complete outfit against a clean, premium interior background. She smiles and says,
+"Highly recommend!"
+
+The video should have realistic smartphone camera quality, natural handheld movement, genuine facial expressions, smooth transitions, accurate lip sync, premium visibility of the dress throughout, and a polished yet authentic UGC aesthetic. The dress remains perfectly identical to the attached reference image, with every embroidery detail, color, fabric texture, silhouette, and design element consistently visible in every shot.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-f1f4b662e370)**
 
 ### Claymation Cat World Transformation
 
@@ -677,20 +707,6 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-de248f679b06)**
 
-### Stop-Motion Animation: Wolf Pack Attack Sequence
-
-> This is a realistic stop-motion animation prompt designed for Seedance 2.0, describing a brutal wolf pack attack during a blizzard, with a strong emphasis on physics effects and camera movement.
-
-[<img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="600" alt="Stop-Motion Animation: Wolf Pack Attack Sequence">](https://goodcase.ai/cases/case-69e5879cc5a7)
-
-**作者:** @eyishazyer | **出典:** [元投稿](https://x.com/eyishazyer/status/2078437832604123625) | **公開日:** 2026-07-18 | **ヒート:** 15
-
-```
-Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D look, a moving oil painting, NOT clay, NOT puppets, NOT 3D. True 12fps, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding — even at full gallop the action steps pose to pose with the strobing cadence of hand-drawn animation. Constant painterly BOIL. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the wolves from <<<image_2>>>, RIDER 1 from <<<image_3>>> riding HIS horse from <<<image_4>>> — the same lead rider and the same horse as one consistent pair throughout, never another horse, never another man. The dusk snowfield from <<<image_5>>>. Blizzard haze and blowing snow drift SMOOTHLY; figures, horses, wolves and drawn snow-spray effects step on twos with secondary action. DIRECTOR'S NOTES: 1/ THE SCENE — full-gallop chase in the dusk blizzard, brutal and fast. RIDER 1, the lead rider, chases a sprinting wolf, leans low off the saddle in the manner of a kok-boru player reaching for the ulak, seizes the wolf by the scruff — and the wolf twists and savages his arm. A second wolf hits him from his blind side. He is torn from the saddle at full speed and the pack swarms him. Savage, dynamic, with REAL PHYSICS and a visible causal chain — every wound has its on-screen cause. 2/ REAL PHYSICS AND CAUSALITY — the horse (<<<image_4>>>) gallops with true four-beat weight; RIDER 1 hangs low off the side of the saddle, one hand braced, reaching down; the wolf is a heavy animal — when seized it twists its WHOLE body mid-stride, and that twisting weight plus the clamping bite WRENCHES the rider off balance; the bite is shown on screen: jaws clamp and crush onto his forearm, tearing sleeve and flesh, dark blood — cause before effect, always; the second wolf launches from his blind side and slams full-body into his chest like a missile; torn from the saddle at gallop speed he hits the snow HARD and TUMBLES with momentum, rolling over and over, loose powder snow bursting around each impact (drawn snow-spray effects on twos), the riderless horse galloping on; the pack converges as a fast dark stream and swarms over him, a savage thrashing dark mass. 3/ BRUTALITY STAGED, NOT LINGERED — the violence is fast, hard and physical: the crunching bite, the dark blood across the snow, the swarming pack. Show the savagery through motion, dark mass and sound, not slow anatomical detail. 4/ AGGRESSIVE HANDHELD CHASE CAMERA — racing alongside at gallop, violently jolting with the speed, whipped by wind, jerky corrections, the horizon tilting and never level; on the fall a hard DUTCH TILT as the world goes over with him. Never gimbal-smooth, never tripod-locked. 5/ SECONDARY ACTION on twos — RIDER 1's chapan skirts and fur hat whipping with follow-through, the horse's mane and tail streaming, the wolves' fur rippling along their backs, harness swinging, breath-vapor of horse and man tearing off in the wind, snow bursting from hooves as drawn powder on twos. 6/ LIGHT — deep dusk in a blizzard, dim cold blue-grey storm light, soft, no rays, no beams, no god rays, the figures dark masses against the pale snow. Correct neutral white balance, NOT a blue filter, muted desaturated; the blood a dark muted red, stark on the snow but never glossy, never bright. SHOT 1 — FULL-GALLOP TRACKING, ~35mm, aggressive handheld racing alongside. COMPOSITION: RIDER 1 on his horse a large dark mass driving in from the RIGHT third, the sprinting wolf low ahead of him on the LEFT third, both tearing diagonally through the frame left-and-deeper — the diagonal of the chase as the line of dynamics; the pale storm-lit snowfield from <<<image_5>>> streaking past as negative space. RIDER 1 drops LOW off the side of the saddle in a kok-boru lean, one hand braced on the saddle, the other arm stretching down for the wolf's scruff, his chapan and the horse's mane whipping on twos, hooves throwing bursts of powder. He bares his teeth, hoarse over the wind, lips on twos: "Ustadym!.." His fist closes on the wolf's scruff — HARD CUT to SHOT 2 — CLOSE DYNAMIC, ~50mm, aggressive handheld slammed in tight: the wolf, seized, TWISTS its whole heavy body mid-stride in one violent stepped motion — and its jaws clamp CRUSHING onto RIDER 1's forearm, on screen, tearing through sleeve and flesh, dark blood whipping across the snow and the wolf's muzzle. His raw scream tears over the wind. The wolf's twisting weight and the bite WRENCH him sideways off his balance, his body dragged half out of the saddle, his fur hat ripping away with follow-through. Cause and effect brutal and readable, all stepping on twos. HARD CUT to SHOT 3 — MEDIUM WIDE with a hard DUTCH TILT, ~35mm, aggressive handheld: from his blind side a SECOND wolf launches — a dark missile — and slams full-body into his chest. Torn from the saddle at gallop speed RIDER 1 hits the snow HARD and TUMBLES, rolling over and over with real momentum, powder snow bursting at each impact as drawn effects on twos, the horizon tilted and reeling, his riderless horse (<<<image_4>>>) galloping on into the storm. And then the pack pours in — a fast dark stream of wolves from <<<image_2>>> out of the storm, varied coats, converging from all sides and SWARMING over him, a savage thrashing dark mass on the pale snow, dark blood spreading, snow scattering, his cries swallowed by the blizzard and the snarling. The dark mass of the pack traps and frames him. Hold one brutal beat in the howling wind. End. Audio: NO MUSIC — the roar of the blizzard, pounding gallop, the wolf's snarl and the wet crunch of the bite, the rider's raw scream, the heavy tumbling impacts, the converging snarls of the pack, the wind swallowing everything. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil even at full gallop, every action stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze smooth while all figures animals and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_1>>> not photoreal not 3D not glossy, three shots with hard cuts — full-gallop tracking with the kok-boru lean and the grab "Ustadym!..", close dynamic of the twisting wolf and the crushing on-screen bite with dark blood and the scream, dutch-tilted wide of the second wolf's full-body slam the hard tumbling fall at speed and the pack swarming him as a savage dark mass — RIDER 1 from <<<image_3>>> and his horse from <<<image_4>>> the SAME consistent pair in every shot never swapped, REAL PHYSICS AND VISIBLE CAUSALITY every wound caused on screen the wolf's twisting weight wrenching the rider the bite before the blood the slam before the fall the momentum carrying the tumble, AGGRESSIVE HANDHELD racing jolting wind-whipped horizon never level hard dutch tilt on the fall never gimbal-smooth, SECONDARY ACTION on twos chapan hat mane tail wolf fur harness breath-vapor all whipping with follow-through, wolves from <<<image_2>>> varied in coat tone size and stride never mirrored never cloned, deep dusk blizzard dim cold storm light soft no rays no beams, correct neutral white balance not a blue filter muted desaturated dark muted blood never bright never glossy, brutality fast hard and physical staged through motion dark mass and sound not lingering gore, spoken Kazakh in Latin transliteration pronounced as written, NO MUSIC only storm hooves snarls and screams.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-69e5879cc5a7)**
-
 ### Island Miniature Model Harbor City Montage
 
 > A professional video generation prompt for creating a high-end, richly detailed miniature model of an island harbor city, with cinematic lighting and complex assembly animation.
@@ -735,24 +751,6 @@ BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあ�
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-8bdac964f9d4)**
-
-### Stylized 3D Animation: Old Man and Pigeon
-
-> A charming 3D animation prompt about an eccentric elderly man and a mischievous pigeon sharing a comedic and sweet moment on a balcony.
-
-[<img src="https://media.goodcase.ai/media/poster/stylized-3d-animation-old-man-and-pigeon.jpg" width="600" alt="Stylized 3D Animation: Old Man and Pigeon">](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)
-
-**作者:** @AIwithJames | **出典:** [元投稿](https://x.com/AIwithJames/status/2087756963258278211) | **公開日:** 2026-08-13 | **ヒート:** 14
-
-**安定度:** 87/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/stylized-3d-animation-old-man-and-pigeon/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-[Global Setting] Cozy old apartment balcony in warm golden morning light, colorful flower pots, wooden chair, hanging laundry, small table with bird seeds. 3D stylized animation with rounded appealing characters, expressive faces, playful physical comedy and sincere warmth. [Character 1: The Eccentric Old Man] Age 75+, round belly, wispy white hair, faded cardigan, loose trousers, worn slippers, spectacles sliding down his nose. Speaks rarely, mostly communicates through facial expressions and body language. Same appearance and cardigan throughout. [Character 2: The Mischievous Pigeon] One plump gray pigeon with shiny feathers, curious expressive eyes and a smug personality. Mostly silent, communicates through head movements, expressions and body language. [Opening, 0–6s] Old man sits on his balcony chair and places a small pile of sunflower seeds on his palm. He smiles at the pigeon and warmly says: “Come on, little friend.” The pigeon slowly approaches and stares at him suspiciously. [Funny Moment, 6–14s] The pigeon suddenly grabs the seed and jumps onto the old man's head. The old man freezes completely, eyes wide. He slowly looks upward while the pigeon casually looks down at him with a smug expression. The old man sighs and shakes his head. [Sweet Moment, 14–23s] The old man carefully lifts the pigeon from his head and holds it gently against his chest. The pigeon relaxes and nuzzles into him. The old man smiles and softly says: “You win, little friend.” He gently strokes its feathers. [Closing, 23–30s] The old man sits peacefully in the golden sunlight with the pigeon resting beside him. The pigeon closes its eyes comfortably. The old man smiles, closes his eyes and quietly laughs. Camera slowly pulls back, revealing the cozy balcony. [CONSISTENCY] One old man, one gray pigeon, same clothing, same balcony and same lighting throughout. No cuts, no scene changes, no character duplication. No subtitles or text. [Voice & Audio] Warm natural elderly male voice, gentle and slightly humorous. Only 2 short dialogue lines. Natural pigeon coos, soft wing flaps, morning birds, gentle wind, subtle comedic music during the funny moment, warm nostalgic during the ending.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)**
 
 ### K-Pop Idol Backstage Vlog
 
@@ -824,6 +822,20 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-0287a838e662)**
 
+### Stop-Motion Animation: Wolf Pack Attack Sequence
+
+> This is a realistic stop-motion animation prompt designed for Seedance 2.0, describing a brutal wolf pack attack during a blizzard, with a strong emphasis on physics effects and camera movement.
+
+[<img src="https://media.goodcase.ai/media/poster/case-69e5879cc5a7.jpg" width="600" alt="Stop-Motion Animation: Wolf Pack Attack Sequence">](https://goodcase.ai/cases/case-69e5879cc5a7)
+
+**作者:** @eyishazyer | **出典:** [元投稿](https://x.com/eyishazyer/status/2078437832604123625) | **公開日:** 2026-07-18 | **ヒート:** 14
+
+```
+Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D look, a moving oil painting, NOT clay, NOT puppets, NOT 3D. True 12fps, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding — even at full gallop the action steps pose to pose with the strobing cadence of hand-drawn animation. Constant painterly BOIL. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the wolves from <<<image_2>>>, RIDER 1 from <<<image_3>>> riding HIS horse from <<<image_4>>> — the same lead rider and the same horse as one consistent pair throughout, never another horse, never another man. The dusk snowfield from <<<image_5>>>. Blizzard haze and blowing snow drift SMOOTHLY; figures, horses, wolves and drawn snow-spray effects step on twos with secondary action. DIRECTOR'S NOTES: 1/ THE SCENE — full-gallop chase in the dusk blizzard, brutal and fast. RIDER 1, the lead rider, chases a sprinting wolf, leans low off the saddle in the manner of a kok-boru player reaching for the ulak, seizes the wolf by the scruff — and the wolf twists and savages his arm. A second wolf hits him from his blind side. He is torn from the saddle at full speed and the pack swarms him. Savage, dynamic, with REAL PHYSICS and a visible causal chain — every wound has its on-screen cause. 2/ REAL PHYSICS AND CAUSALITY — the horse (<<<image_4>>>) gallops with true four-beat weight; RIDER 1 hangs low off the side of the saddle, one hand braced, reaching down; the wolf is a heavy animal — when seized it twists its WHOLE body mid-stride, and that twisting weight plus the clamping bite WRENCHES the rider off balance; the bite is shown on screen: jaws clamp and crush onto his forearm, tearing sleeve and flesh, dark blood — cause before effect, always; the second wolf launches from his blind side and slams full-body into his chest like a missile; torn from the saddle at gallop speed he hits the snow HARD and TUMBLES with momentum, rolling over and over, loose powder snow bursting around each impact (drawn snow-spray effects on twos), the riderless horse galloping on; the pack converges as a fast dark stream and swarms over him, a savage thrashing dark mass. 3/ BRUTALITY STAGED, NOT LINGERED — the violence is fast, hard and physical: the crunching bite, the dark blood across the snow, the swarming pack. Show the savagery through motion, dark mass and sound, not slow anatomical detail. 4/ AGGRESSIVE HANDHELD CHASE CAMERA — racing alongside at gallop, violently jolting with the speed, whipped by wind, jerky corrections, the horizon tilting and never level; on the fall a hard DUTCH TILT as the world goes over with him. Never gimbal-smooth, never tripod-locked. 5/ SECONDARY ACTION on twos — RIDER 1's chapan skirts and fur hat whipping with follow-through, the horse's mane and tail streaming, the wolves' fur rippling along their backs, harness swinging, breath-vapor of horse and man tearing off in the wind, snow bursting from hooves as drawn powder on twos. 6/ LIGHT — deep dusk in a blizzard, dim cold blue-grey storm light, soft, no rays, no beams, no god rays, the figures dark masses against the pale snow. Correct neutral white balance, NOT a blue filter, muted desaturated; the blood a dark muted red, stark on the snow but never glossy, never bright. SHOT 1 — FULL-GALLOP TRACKING, ~35mm, aggressive handheld racing alongside. COMPOSITION: RIDER 1 on his horse a large dark mass driving in from the RIGHT third, the sprinting wolf low ahead of him on the LEFT third, both tearing diagonally through the frame left-and-deeper — the diagonal of the chase as the line of dynamics; the pale storm-lit snowfield from <<<image_5>>> streaking past as negative space. RIDER 1 drops LOW off the side of the saddle in a kok-boru lean, one hand braced on the saddle, the other arm stretching down for the wolf's scruff, his chapan and the horse's mane whipping on twos, hooves throwing bursts of powder. He bares his teeth, hoarse over the wind, lips on twos: "Ustadym!.." His fist closes on the wolf's scruff — HARD CUT to SHOT 2 — CLOSE DYNAMIC, ~50mm, aggressive handheld slammed in tight: the wolf, seized, TWISTS its whole heavy body mid-stride in one violent stepped motion — and its jaws clamp CRUSHING onto RIDER 1's forearm, on screen, tearing through sleeve and flesh, dark blood whipping across the snow and the wolf's muzzle. His raw scream tears over the wind. The wolf's twisting weight and the bite WRENCH him sideways off his balance, his body dragged half out of the saddle, his fur hat ripping away with follow-through. Cause and effect brutal and readable, all stepping on twos. HARD CUT to SHOT 3 — MEDIUM WIDE with a hard DUTCH TILT, ~35mm, aggressive handheld: from his blind side a SECOND wolf launches — a dark missile — and slams full-body into his chest. Torn from the saddle at gallop speed RIDER 1 hits the snow HARD and TUMBLES, rolling over and over with real momentum, powder snow bursting at each impact as drawn effects on twos, the horizon tilted and reeling, his riderless horse (<<<image_4>>>) galloping on into the storm. And then the pack pours in — a fast dark stream of wolves from <<<image_2>>> out of the storm, varied coats, converging from all sides and SWARMING over him, a savage thrashing dark mass on the pale snow, dark blood spreading, snow scattering, his cries swallowed by the blizzard and the snarling. The dark mass of the pack traps and frames him. Hold one brutal beat in the howling wind. End. Audio: NO MUSIC — the roar of the blizzard, pounding gallop, the wolf's snarl and the wet crunch of the bite, the rider's raw scream, the heavy tumbling impacts, the converging snarls of the pack, the wind swallowing everything. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil even at full gallop, every action stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze smooth while all figures animals and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_1>>> not photoreal not 3D not glossy, three shots with hard cuts — full-gallop tracking with the kok-boru lean and the grab "Ustadym!..", close dynamic of the twisting wolf and the crushing on-screen bite with dark blood and the scream, dutch-tilted wide of the second wolf's full-body slam the hard tumbling fall at speed and the pack swarming him as a savage dark mass — RIDER 1 from <<<image_3>>> and his horse from <<<image_4>>> the SAME consistent pair in every shot never swapped, REAL PHYSICS AND VISIBLE CAUSALITY every wound caused on screen the wolf's twisting weight wrenching the rider the bite before the blood the slam before the fall the momentum carrying the tumble, AGGRESSIVE HANDHELD racing jolting wind-whipped horizon never level hard dutch tilt on the fall never gimbal-smooth, SECONDARY ACTION on twos chapan hat mane tail wolf fur harness breath-vapor all whipping with follow-through, wolves from <<<image_2>>> varied in coat tone size and stride never mirrored never cloned, deep dusk blizzard dim cold storm light soft no rays no beams, correct neutral white balance not a blue filter muted desaturated dark muted blood never bright never glossy, brutality fast hard and physical staged through motion dark mass and sound not lingering gore, spoken Kazakh in Latin transliteration pronounced as written, NO MUSIC only storm hooves snarls and screams.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-69e5879cc5a7)**
+
 ### Handheld Skincare Vlog Camera Aesthetic
 
 > A detailed storyboard prompt designed for Seedance 2.0, intended to generate a realistic evening skincare routine vlog with a handheld mini DV camera style and ASMR details.
@@ -862,6 +874,24 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-8a3e0b49e77b)**
+
+### Stylized 3D Animation: Old Man and Pigeon
+
+> A charming 3D animation prompt about an eccentric elderly man and a mischievous pigeon sharing a comedic and sweet moment on a balcony.
+
+[<img src="https://media.goodcase.ai/media/poster/stylized-3d-animation-old-man-and-pigeon.jpg" width="600" alt="Stylized 3D Animation: Old Man and Pigeon">](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)
+
+**作者:** @AIwithJames | **出典:** [元投稿](https://x.com/AIwithJames/status/2087756963258278211) | **公開日:** 2026-08-13 | **ヒート:** 13
+
+**安定度:** 87/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/stylized-3d-animation-old-man-and-pigeon/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+[Global Setting] Cozy old apartment balcony in warm golden morning light, colorful flower pots, wooden chair, hanging laundry, small table with bird seeds. 3D stylized animation with rounded appealing characters, expressive faces, playful physical comedy and sincere warmth. [Character 1: The Eccentric Old Man] Age 75+, round belly, wispy white hair, faded cardigan, loose trousers, worn slippers, spectacles sliding down his nose. Speaks rarely, mostly communicates through facial expressions and body language. Same appearance and cardigan throughout. [Character 2: The Mischievous Pigeon] One plump gray pigeon with shiny feathers, curious expressive eyes and a smug personality. Mostly silent, communicates through head movements, expressions and body language. [Opening, 0–6s] Old man sits on his balcony chair and places a small pile of sunflower seeds on his palm. He smiles at the pigeon and warmly says: “Come on, little friend.” The pigeon slowly approaches and stares at him suspiciously. [Funny Moment, 6–14s] The pigeon suddenly grabs the seed and jumps onto the old man's head. The old man freezes completely, eyes wide. He slowly looks upward while the pigeon casually looks down at him with a smug expression. The old man sighs and shakes his head. [Sweet Moment, 14–23s] The old man carefully lifts the pigeon from his head and holds it gently against his chest. The pigeon relaxes and nuzzles into him. The old man smiles and softly says: “You win, little friend.” He gently strokes its feathers. [Closing, 23–30s] The old man sits peacefully in the golden sunlight with the pigeon resting beside him. The pigeon closes its eyes comfortably. The old man smiles, closes his eyes and quietly laughs. Camera slowly pulls back, revealing the cozy balcony. [CONSISTENCY] One old man, one gray pigeon, same clothing, same balcony and same lighting throughout. No cuts, no scene changes, no character duplication. No subtitles or text. [Voice & Audio] Warm natural elderly male voice, gentle and slightly humorous. Only 2 short dialogue lines. Natural pigeon coos, soft wing flaps, morning birds, gentle wind, subtle comedic music during the funny moment, warm nostalgic during the ending.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)**
 
 ### Battle of the Frozen Planet Fortress
 
@@ -943,24 +973,6 @@ M-01. Hongdae Busking Street & Tattoo Shop Tour
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-58e736edb65c)**
-
-### Wireless Earbuds Product Review
-
-> A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
-
-[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="Wireless Earbuds Product Review">](https://goodcase.ai/cases/case-b157d9c072bc)
-
-**作者:** @Goodmanprotocol | **出典:** [元投稿](https://x.com/Goodmanprotocol/status/2078490755958780363) | **公開日:** 2026-07-18 | **ヒート:** 13
-
-**安定度:** 84/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.9) · [出力](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A young creator walks into a bright living room holding a pair of sleek wireless earbuds still inside their charging case. Looking directly into the camera, they smile and say, 'These have honestly become my everyday essential.' They open the case, put the earbuds in, and instantly transition into a quick montage of working on a laptop, making coffee, and taking a short walk outside while music plays. Close-up shots highlight the earbuds' premium design and secure fit. The creator finishes by holding the charging case toward the camera and says, 'Great sound, all-day comfort, and I barely need to recharge them.' End with a clean product hero shot on a table and on-screen text: 'Upgrade your everyday audio.' Natural facial expressions, smooth handheld camera movement, cinematic depth of field, authentic UGC feel, high-quality audio, realistic lighting, premium commercial quality.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b157d9c072bc)**
 
 ### Cinematic Sourdough Bread Baking Timelapse
 
@@ -1062,6 +1074,24 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-6f13437e4b40)**
+
+### Wireless Earbuds Product Review
+
+> A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
+
+[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="Wireless Earbuds Product Review">](https://goodcase.ai/cases/case-b157d9c072bc)
+
+**作者:** @Goodmanprotocol | **出典:** [元投稿](https://x.com/Goodmanprotocol/status/2078490755958780363) | **公開日:** 2026-07-18 | **ヒート:** 12
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.9) · [出力](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A young creator walks into a bright living room holding a pair of sleek wireless earbuds still inside their charging case. Looking directly into the camera, they smile and say, 'These have honestly become my everyday essential.' They open the case, put the earbuds in, and instantly transition into a quick montage of working on a laptop, making coffee, and taking a short walk outside while music plays. Close-up shots highlight the earbuds' premium design and secure fit. The creator finishes by holding the charging case toward the camera and says, 'Great sound, all-day comfort, and I barely need to recharge them.' End with a clean product hero shot on a table and on-screen text: 'Upgrade your everyday audio.' Natural facial expressions, smooth handheld camera movement, cinematic depth of field, authentic UGC feel, high-quality audio, realistic lighting, premium commercial quality.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b157d9c072bc)**
 
 ### Clay-Style Pirate Duck Adventure
 
@@ -1206,49 +1236,6 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1a9a2c659866)**
 
-### Japanese Anime-Style Mapo Tofu Cooking Process
-
-> A detailed prompt for creating a 15-second 2D hand-drawn animated video showing the steps of cooking mapo tofu with professional animation quality.
-
-[<img src="https://media.goodcase.ai/media/poster/case-ce63bf146d4e.jpg" width="600" alt="Japanese Anime-Style Mapo Tofu Cooking Process">](https://goodcase.ai/cases/case-ce63bf146d4e)
-
-**作者:** @ozuozuai99 | **出典:** [元投稿](https://x.com/ozuozuai99/status/2078854293818622124) | **公開日:** 2026-07-19 | **ヒート:** 10
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-15秒の日本製2D手描きアニメ料理動画、12シーン、テキストのみで生成（参照画像・絵コンテ画像なし）。
-
-画風：クリーンなフルカラーの日本製2D手描きアニメ料理アニメーション。柔らかい鉛筆風の線、優しいセル塗り、温かい手描き背景、コンロの炎の温かい光を感じる居心地のよい家庭のキッチン、料理が読み取りやすい温かい光、道具と食材の下に見える影、豊かな湯気のアニメーション、赤いラー油ととろみのついたソースのツヤのあるハイライト、自然な手の動きのタイミング、安定した手と器具。
-
-主役：中華鍋で作る麻婆豆腐の調理工程。色の物語は一方向のみ——白い豆腐から、ツヤのある赤褐色の煮えるソースへ。映るのは手・食材・道具のみ。顔、食事シーン、人物のリアクションは出さない。
-
-シーン構成（各シーンの主アクションは1つ。豆腐の角は最後まで鋭いまま、崩れたり元に戻ったりしない）：
-1（0.00–1.25）クローズアップ：開いた手のひらに絹豆腐をのせ、包丁が慎重に均等なさいの目に切っていく。刃はゆっくり、手は安定して安全に。静かで精密な工程カット。
-2（1.25–2.50）俯瞰：手のひらから豆腐がそっとまな板へ滑り、白いきれいな列に整う。
-3（2.50–3.75）横からのミディアム：熱した中華鍋で豚ひき肉がジュウジュウと炒められ、お玉でほぐされてパラパラになり、脂が透明になる。
-4（3.75–5.00）クローズアップの見せ場：豆板醤と豆鼓がひき肉に触れた瞬間、深い赤の辣油が鍋全体に花開くように広がる。一方向の鮮烈な色の爆発。
-5（5.00–6.25）斜め45度：みじん切りのにんにく・生姜・刻みねぎを混ぜ込む。すべてが赤い油の中で光る。
-6（6.25–7.50）横から：ボウルからスープを注ぐと赤褐色の液面が上がり、小さな泡を立てて煮え始める。
-7（7.50–8.75）俯瞰：白い豆腐がまな板から煮える赤いソースへそっと滑り込む。角は無傷のまま、柔らかく浮かぶ。
-8（8.75–10.00）クローズアップ：お玉の背が豆腐をゆっくり丁寧に押し、ひとつも崩さずにソースを絡めていく。
-9（10.00–11.25）クローズアップの見せ場：水溶き片栗粉を回し入れると、ソースが目に見えてとろみを増し、ツヤを帯びて豆腐一つ一つを包む。質感が変わる気持ちいい瞬間。
-10（11.25–12.50）横からのクローズアップの見せ場：とろみのついたツヤのある表面で、大きくゆったりした泡がふくらんではゆっくり弾け、湯気が揺らめきながら立ちのぼる。無音でも「グツグツ」が聞こえる画。
-11（12.50–13.75）斜め45度：仕上げにラー油を輪を描くように回しかけ、挽いた花椒をひとつまみ散らす。粒がツヤのあるソースの上に落ち着く。
-12（13.75–15.00）俯瞰：完成した麻婆豆腐が中華鍋の中で静かに煮えている——ツヤのある赤褐色のソースの中に白い角の立った豆腐が透け、湯気が立ち、刻みねぎの緑が映える。劇的なスローモーションや過剰なズームはなしの、短く美しく温かい自然なテンポの最終カット。
-
-カメラ：人がコンロの周りを動くように、シーンごとに距離・角度・高さを変える——豆腐カットは寄り、鍋仕事は横から、仕上げは俯瞰。1シーン内ではカメラは落ち着いたまま。完成品はシーン12まで見せない。
-
-物理的連続性：中華鍋・お玉・まな板・豆腐の大きさをシーン間で一貫させる。食材の連続性を保つ。豆腐は煮ても崩れず、増えず、元に戻らない。ソースの色は濃くなる一方向のみで薄く戻らない。湯気は常に上へ。重力と液体の流れを現実的に。レシピとして自然な順序。突然の状態変化なし。
-
-禁止事項：冒頭の完成品、完成皿の繰り返し、タイトル文字、キャプション、字幕、ロゴ、透かし、読めるラベル、実写、フォトリアル、3DCG、クレイアニメ、プラスチック玩具風、ゲームレンダー、超リアル料理写真、AIモーフィング、ちらつき、歪んだ手、余分な指、浮いた器具、浮いた食材、崩れた豆腐の復元、不可能な包丁の動き、逆方向の切断、消える中華鍋、形の変わる鍋、脈絡のない食材、加熱後に現れる生の食材、逆行する調理順、薄く戻るソースの色、最終シーン前の完成品公開、散らかった背景、顔、食べるキャラクター、人物のリアクション、ひと口食べる人物、会話、ナレーション、BGM。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-ce63bf146d4e)**
-
 ### Dissolving Rope Suspension Bridge Canyon
 
 > A surreal scene: a traveler crosses a bottomless canyon while the rope suspension bridge behind them dissolves away.
@@ -1341,6 +1328,49 @@ A battle-worn knight in blackened plate armor stands alone on a ruined stone bri
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b1405ee458d3)**
+
+### Japanese Anime-Style Mapo Tofu Cooking Process
+
+> A detailed prompt for creating a 15-second 2D hand-drawn animated video showing the steps of cooking mapo tofu with professional animation quality.
+
+[<img src="https://media.goodcase.ai/media/poster/case-ce63bf146d4e.jpg" width="600" alt="Japanese Anime-Style Mapo Tofu Cooking Process">](https://goodcase.ai/cases/case-ce63bf146d4e)
+
+**作者:** @ozuozuai99 | **出典:** [元投稿](https://x.com/ozuozuai99/status/2078854293818622124) | **公開日:** 2026-07-19 | **ヒート:** 9
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+15秒の日本製2D手描きアニメ料理動画、12シーン、テキストのみで生成（参照画像・絵コンテ画像なし）。
+
+画風：クリーンなフルカラーの日本製2D手描きアニメ料理アニメーション。柔らかい鉛筆風の線、優しいセル塗り、温かい手描き背景、コンロの炎の温かい光を感じる居心地のよい家庭のキッチン、料理が読み取りやすい温かい光、道具と食材の下に見える影、豊かな湯気のアニメーション、赤いラー油ととろみのついたソースのツヤのあるハイライト、自然な手の動きのタイミング、安定した手と器具。
+
+主役：中華鍋で作る麻婆豆腐の調理工程。色の物語は一方向のみ——白い豆腐から、ツヤのある赤褐色の煮えるソースへ。映るのは手・食材・道具のみ。顔、食事シーン、人物のリアクションは出さない。
+
+シーン構成（各シーンの主アクションは1つ。豆腐の角は最後まで鋭いまま、崩れたり元に戻ったりしない）：
+1（0.00–1.25）クローズアップ：開いた手のひらに絹豆腐をのせ、包丁が慎重に均等なさいの目に切っていく。刃はゆっくり、手は安定して安全に。静かで精密な工程カット。
+2（1.25–2.50）俯瞰：手のひらから豆腐がそっとまな板へ滑り、白いきれいな列に整う。
+3（2.50–3.75）横からのミディアム：熱した中華鍋で豚ひき肉がジュウジュウと炒められ、お玉でほぐされてパラパラになり、脂が透明になる。
+4（3.75–5.00）クローズアップの見せ場：豆板醤と豆鼓がひき肉に触れた瞬間、深い赤の辣油が鍋全体に花開くように広がる。一方向の鮮烈な色の爆発。
+5（5.00–6.25）斜め45度：みじん切りのにんにく・生姜・刻みねぎを混ぜ込む。すべてが赤い油の中で光る。
+6（6.25–7.50）横から：ボウルからスープを注ぐと赤褐色の液面が上がり、小さな泡を立てて煮え始める。
+7（7.50–8.75）俯瞰：白い豆腐がまな板から煮える赤いソースへそっと滑り込む。角は無傷のまま、柔らかく浮かぶ。
+8（8.75–10.00）クローズアップ：お玉の背が豆腐をゆっくり丁寧に押し、ひとつも崩さずにソースを絡めていく。
+9（10.00–11.25）クローズアップの見せ場：水溶き片栗粉を回し入れると、ソースが目に見えてとろみを増し、ツヤを帯びて豆腐一つ一つを包む。質感が変わる気持ちいい瞬間。
+10（11.25–12.50）横からのクローズアップの見せ場：とろみのついたツヤのある表面で、大きくゆったりした泡がふくらんではゆっくり弾け、湯気が揺らめきながら立ちのぼる。無音でも「グツグツ」が聞こえる画。
+11（12.50–13.75）斜め45度：仕上げにラー油を輪を描くように回しかけ、挽いた花椒をひとつまみ散らす。粒がツヤのあるソースの上に落ち着く。
+12（13.75–15.00）俯瞰：完成した麻婆豆腐が中華鍋の中で静かに煮えている——ツヤのある赤褐色のソースの中に白い角の立った豆腐が透け、湯気が立ち、刻みねぎの緑が映える。劇的なスローモーションや過剰なズームはなしの、短く美しく温かい自然なテンポの最終カット。
+
+カメラ：人がコンロの周りを動くように、シーンごとに距離・角度・高さを変える——豆腐カットは寄り、鍋仕事は横から、仕上げは俯瞰。1シーン内ではカメラは落ち着いたまま。完成品はシーン12まで見せない。
+
+物理的連続性：中華鍋・お玉・まな板・豆腐の大きさをシーン間で一貫させる。食材の連続性を保つ。豆腐は煮ても崩れず、増えず、元に戻らない。ソースの色は濃くなる一方向のみで薄く戻らない。湯気は常に上へ。重力と液体の流れを現実的に。レシピとして自然な順序。突然の状態変化なし。
+
+禁止事項：冒頭の完成品、完成皿の繰り返し、タイトル文字、キャプション、字幕、ロゴ、透かし、読めるラベル、実写、フォトリアル、3DCG、クレイアニメ、プラスチック玩具風、ゲームレンダー、超リアル料理写真、AIモーフィング、ちらつき、歪んだ手、余分な指、浮いた器具、浮いた食材、崩れた豆腐の復元、不可能な包丁の動き、逆方向の切断、消える中華鍋、形の変わる鍋、脈絡のない食材、加熱後に現れる生の食材、逆行する調理順、薄く戻るソースの色、最終シーン前の完成品公開、散らかった背景、顔、食べるキャラクター、人物のリアクション、ひと口食べる人物、会話、ナレーション、BGM。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-ce63bf146d4e)**
 
 ### Stop-Motion Oil Painting Animation
 
@@ -2610,97 +2640,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-96017ad7706f)**
 
-### Epic Ice Fantasy: Titan Awakening
-
-> A grand cinematic prompt depicting a stunning scene of an ice titan breaking free from a glacier in a frozen valley.
-
-[<img src="https://media.goodcase.ai/media/poster/case-579dd9bdd240.jpg" width="600" alt="Epic Ice Fantasy: Titan Awakening">](https://goodcase.ai/cases/case-579dd9bdd240)
-
-**作者:** @abxxai | **出典:** [元投稿](https://x.com/abxxai/status/2081023473305162165) | **公開日:** 2026-07-25 | **ヒート:** 3
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
-
-```
-SCENE CONTEXT
-RIMEBORN. In a frozen valley of an original ice-fantasy world, a mountain-sized titan of layered ice and stone tears itself free from a millennia-old glacier as an army of armored wardens scrambles across the frozen field below, a war-horn ripping across the plain. Timed multishot, five hard cuts across 10 seconds, one shared valley, one titan, one army throughout.
-
-ACTIVE REFERENCES
-@titan: mountain-sized ice-and-stone colossus, humanoid silhouette, body built of fractured basalt slabs seamed by ancient blue ice, ice-plated shoulders and back crusted a meter thick with hoarfrost, joints and eye-sockets and rib-seams glowing with pale-cyan runes carved deep into the stone. Original design. 100% matches the reference.
-@wardens: armored foot-soldiers in weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, long spears and rimed shields, no faction crest or logo. Original design. 100% matches the reference.
-@warhorn: a curled black bone horn as long as a warden is tall, bound in leather and iron rings, held at chest height by a single horn-bearer.
-STYLE REFERENCE ONLY, not a fixed keyframe; model extends the world freely, never reproduced 1:1.
-
-LOCATION MAP
-Foreground: fractured glacier surface, blue-ice slabs shot through with dark grit, powder snow drifting sideways at 20 km/h. Midground: the wardens crossing the field 200 meters below the titan, tiny against the scale, spears and shields catching the flat light. Background: the glacier wall itself, kilometers of vertical ice cracking apart around the emerging titan, snow plumes rising several hundred meters into a leaden overcast sky. Camera moves along a chest-height and then rising line down the valley floor, always with the titan camera-right or dead-center.
-
-SCALE LOCK
-@titan stands as tall as roughly two hundred wardens stacked head to toe. A single warden reads as a fingernail against the titan's shin in the establishing wide. Ice slabs shearing off the titan's shoulder each read as wide as ten wardens laid head to toe. The size gap holds identical every frame.
-
-FIRST FRAME / BLOCKING
-Non-empty opening frame: @titan is already mid-tear-out, right arm already ripping free from the glacier wall with a sheet of ice already fracturing off the shoulder, @wardens already running across the ice below, the horn-bearer already lifting @warhorn. Nothing is frozen, everything is already in motion. Rule of thirds: the titan held on the right two-thirds vertical, the horizon line on the lower third, wardens on the lower left third.
-
-FORMAT MODE
-Timed multishot, exactly FOUR HARD CUTS at 2.5s, 4.5s, 6.5s, 8.0s. The camera does not cut on its own; cuts only at the specified points.
-0.0s to 2.5s — CUT 1, real time
-2.5s HARD CUT
-2.5s to 4.5s — CUT 2, real time
-4.5s HARD CUT
-4.5s to 6.5s — CUT 3, real time
-6.5s HARD CUT
-6.5s to 8.0s — CUT 4, real time
-8.0s HARD CUT
-8.0s to 10.0s — CUT 5, real time
-
-OPTICS
-CUT 1: EWS at 84° FOV sweeping wide establishing the full valley and titan. CUT 2: MS at 29° FOV portrait compression on the titan's shoulder as ice sheets shear off. CUT 3: WS at 63° FOV low across the crevasse rim as wardens dive clear. CUT 4: MCU at 29° FOV on the horn-bearer, horn lifted to lips. CUT 5: EWS at 107° FOV super-wide rectilinear on the full glacier splintering with runes flaring. Rectilinear with anamorphic optical flares, 180° shutter motion blur, prime-lens character, no drift mid-segment.
-
-CAMERA
-Handheld throughout with 3 to 5 cm of shake, shake spiking hard on every cracking impact from the titan. CUT 1: chest-height sweep at 15 km/h left-to-right across the valley floor, catching the full scale. CUT 2: whip-in and hold at 20 meters from the shoulder, camera flinching as slabs shear past. CUT 3: low-angle at knee-height on the crevasse edge, wardens diving over the lens. CUT 4: tight on the horn-bearer, camera pressing in 30 cm as the horn sounds. CUT 5: pulled back and rising crane to 80 meters above the valley floor, wide vantage, gimbal weighty. Wide tonal latitude, soft highlight roll-off, whites hold detail without clipping.
-
-ACTION
-CUT 1 — Subject: @titan tears its right arm and shoulder free from the glacier wall, basalt-and-ice mass grinding against ice, a wall of powder snow erupting behind it hundreds of meters high; @wardens sprint across the frozen field in a scattered line, spears and shields flashing. Camera: sweeping wide dolly along the valley floor at 15 km/h, shake spiking as the titan's arm lands its first step-load.
-CUT 2 — Subject: massive sheets of blue ice shear off @titan's shoulder and back, tumbling in slabs the size of buildings, hoarfrost crust exploding into powder mid-fall, runes along the shoulder flaring pale-cyan as the plates shed. Camera: whip-in, holds on the shoulder as three slabs fall past the frame, shake hard.
-CUT 3 — Subject: @wardens dive clear as a crevasse collapses under them, two soldiers throwing themselves flat and rolling as the ice gives way, spears skittering across the surface, powder snow plumes rising vertical. Camera: low-angle handheld, wardens leaping over the lens, shake violent on the collapse.
-CUT 4 — Subject: the horn-bearer lifts @warhorn to their lips and blows one long note, chest visibly expanding, breath fogging in the cold, the sound carrying across the field as other wardens turn their heads toward it. Camera: tight handheld, presses in 30 cm as the note sounds.
-CUT 5 — Subject: @titan pulls its full torso free of the glacier wall, the whole glacier splintering apart around it in a cascade of fracturing ice, runes along both arms and the ribcage flaring bright cyan at once, snow erupting in vast vertical plumes across the entire valley. Camera: pulled back to a vast super-wide, rising crane, catching the primordial scale in one held frame, HARD CUT at 10.0s.
-
-PERFORMANCE
-@titan performs with geological slowness and crushing weight — every movement loaded before it lands, joints grinding stone on stone, no theatrical flourish. @wardens read as terrified working soldiers, not heroes: eyes wide, mouths open, breath fogging hard, one soldier stumbling and being pulled up by another mid-cut. The horn-bearer reads as steady and old, jaw set, eyes tracking the titan. Pore-level realism on the horn-bearer's face: vellus hair, asymmetric moles, capillary flush from the cold, wet living eyes with catch-lights, visible breath and chest rise. Restrained and human across the army, never cartoonish. Top-tier cinematic restraint.
-
-PHYSICS
-Mass and inertia carry through every movement of @titan — the arm loads before it tears free and drags the whole torso with it. Ice slabs fall with real weight, not lightweight fragments; they shatter on impact with the glacier floor, not float. Snow plumes obey the crosswind vector at 20 km/h and shear leftward across the valley. Wardens have real body weight — diving bodies land hard, not softly, and slide on the ice with correct friction. The horn's vibration reads faintly in loose snow at the horn-bearer's feet. Nothing floats. Correct contact shadows read clearly where titan meets glacier and warden meets ice.
-
-LIGHTING
-WB locked 6500K cold overcast daylight, flat and even, sun fully occluded by leaden cloud. Key is a broad diffuse top-light with no direct sun. The only emitted light in the world is the pale-cyan 5500K rune glow along @titan's joints, eye-sockets, and rib-seams, which spills onto the surrounding hoarfrost and briefly reflects in the wardens' plate on close cuts. Camera on the shadow side of the titan across all wide cuts. Faint atmospheric haze at 30% at the glacier wall, thickening into the snow plumes.
-
-COLOR GRADE
-Stark white in the snow and powder, frozen blue in the deep ice seams, near-black in the fractured basalt of the titan's core, leaden grey in the sky; every cold tone comes from real material and light bounce, not a filter. Rune cyan lives only in the carved channels — joints, eye-sockets, ribcage seams — and its spill onto immediate hoarfrost. Warden plate reads as dark weathered steel with cold reflections. Blacks stay open with detail in the basalt, highlights roll off in the snow. Color tied to source and surface, not a flat list.
-
-WARDROBE
-@wardens wear weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, iron-rimmed shields, cold-numbed hands in gloves. Fur crusted with ice at the seams. No faction crest, no logo. The horn-bearer wears the same but with a heavier fur mantle and a leather baldric holding @warhorn.
-
-AUDIO
-NO MUSIC. SFX ONLY — diegetic sound and live audio throughout. No score, no soundtrack, no background music of any kind. CUT 1: sub-bass glacier groaning, ice cracking in long tearing sheets, wardens' plate rattling and boots crunching on ice, wind at 20 km/h. CUT 2: massive stone-on-ice grind, slabs shattering as they hit the glacier floor, rune flare with a low harmonic hum. CUT 3: sharp ice crack, powder snow whumphs, wardens' shouts and grunts, one spear clattering on ice. CUT 4: the horn's long low note, one held bass tone spreading across the valley, warden breath fogging audibly. CUT 5: a full-body glacier splintering roar, layered ice-shear, one titanic bass groan from @titan itself. No dialogue, no subtitles.
-
-STYLE
-8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, 35mm film character, crushing primordial-scale epic look, hyperdetailed ice, snow, hoarfrost, basalt, weathered steel.
-
-OUTPUT SETTINGS
-10 seconds, five cuts, 16:9, 8K ultra-high-definition, 24 fps, real-time throughout, anamorphic flare character on rune spill.
-
-POSITIVE LOCKS
-One shared valley, one @titan, same @wardens and @warhorn across all five cuts, identical every frame, no morphing, no drift. @titan stays mountain-sized against the wardens throughout — the scale relationship holds exactly: 200 wardens tall in every wide, one warden a fingernail against the shin. Runes stay pale cyan and stay carved into the stone, they do not migrate. Handheld shake spikes on every titan movement and every ice collapse, never smooths out. Camera stays third-person outside the army throughout the 10 seconds. Warden eyes stay natural — no eye glow; the only emitted light in the world is @titan's runes. Contact shadows read clearly where titan meets glacier and warden meets ice. Ice slabs fall with mass, never floating. Snow travels on one consistent wind vector. Clean frame throughout — no logos, no UI, no text overlays, no subtitles, no watermark, no dragons or unrelated creatures in shot.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-579dd9bdd240)**
-
 ### Emotional Kyoto Travel Vlog Animation
 
 > A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
@@ -3066,6 +3005,97 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-c0cf557563b7)**
+
+### Epic Ice Fantasy: Titan Awakening
+
+> A grand cinematic prompt depicting a stunning scene of an ice titan breaking free from a glacier in a frozen valley.
+
+[<img src="https://media.goodcase.ai/media/poster/case-579dd9bdd240.jpg" width="600" alt="Epic Ice Fantasy: Titan Awakening">](https://goodcase.ai/cases/case-579dd9bdd240)
+
+**作者:** @abxxai | **出典:** [元投稿](https://x.com/abxxai/status/2081023473305162165) | **公開日:** 2026-07-25 | **ヒート:** 2
+
+**安定度:** 77/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
+
+```
+SCENE CONTEXT
+RIMEBORN. In a frozen valley of an original ice-fantasy world, a mountain-sized titan of layered ice and stone tears itself free from a millennia-old glacier as an army of armored wardens scrambles across the frozen field below, a war-horn ripping across the plain. Timed multishot, five hard cuts across 10 seconds, one shared valley, one titan, one army throughout.
+
+ACTIVE REFERENCES
+@titan: mountain-sized ice-and-stone colossus, humanoid silhouette, body built of fractured basalt slabs seamed by ancient blue ice, ice-plated shoulders and back crusted a meter thick with hoarfrost, joints and eye-sockets and rib-seams glowing with pale-cyan runes carved deep into the stone. Original design. 100% matches the reference.
+@wardens: armored foot-soldiers in weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, long spears and rimed shields, no faction crest or logo. Original design. 100% matches the reference.
+@warhorn: a curled black bone horn as long as a warden is tall, bound in leather and iron rings, held at chest height by a single horn-bearer.
+STYLE REFERENCE ONLY, not a fixed keyframe; model extends the world freely, never reproduced 1:1.
+
+LOCATION MAP
+Foreground: fractured glacier surface, blue-ice slabs shot through with dark grit, powder snow drifting sideways at 20 km/h. Midground: the wardens crossing the field 200 meters below the titan, tiny against the scale, spears and shields catching the flat light. Background: the glacier wall itself, kilometers of vertical ice cracking apart around the emerging titan, snow plumes rising several hundred meters into a leaden overcast sky. Camera moves along a chest-height and then rising line down the valley floor, always with the titan camera-right or dead-center.
+
+SCALE LOCK
+@titan stands as tall as roughly two hundred wardens stacked head to toe. A single warden reads as a fingernail against the titan's shin in the establishing wide. Ice slabs shearing off the titan's shoulder each read as wide as ten wardens laid head to toe. The size gap holds identical every frame.
+
+FIRST FRAME / BLOCKING
+Non-empty opening frame: @titan is already mid-tear-out, right arm already ripping free from the glacier wall with a sheet of ice already fracturing off the shoulder, @wardens already running across the ice below, the horn-bearer already lifting @warhorn. Nothing is frozen, everything is already in motion. Rule of thirds: the titan held on the right two-thirds vertical, the horizon line on the lower third, wardens on the lower left third.
+
+FORMAT MODE
+Timed multishot, exactly FOUR HARD CUTS at 2.5s, 4.5s, 6.5s, 8.0s. The camera does not cut on its own; cuts only at the specified points.
+0.0s to 2.5s — CUT 1, real time
+2.5s HARD CUT
+2.5s to 4.5s — CUT 2, real time
+4.5s HARD CUT
+4.5s to 6.5s — CUT 3, real time
+6.5s HARD CUT
+6.5s to 8.0s — CUT 4, real time
+8.0s HARD CUT
+8.0s to 10.0s — CUT 5, real time
+
+OPTICS
+CUT 1: EWS at 84° FOV sweeping wide establishing the full valley and titan. CUT 2: MS at 29° FOV portrait compression on the titan's shoulder as ice sheets shear off. CUT 3: WS at 63° FOV low across the crevasse rim as wardens dive clear. CUT 4: MCU at 29° FOV on the horn-bearer, horn lifted to lips. CUT 5: EWS at 107° FOV super-wide rectilinear on the full glacier splintering with runes flaring. Rectilinear with anamorphic optical flares, 180° shutter motion blur, prime-lens character, no drift mid-segment.
+
+CAMERA
+Handheld throughout with 3 to 5 cm of shake, shake spiking hard on every cracking impact from the titan. CUT 1: chest-height sweep at 15 km/h left-to-right across the valley floor, catching the full scale. CUT 2: whip-in and hold at 20 meters from the shoulder, camera flinching as slabs shear past. CUT 3: low-angle at knee-height on the crevasse edge, wardens diving over the lens. CUT 4: tight on the horn-bearer, camera pressing in 30 cm as the horn sounds. CUT 5: pulled back and rising crane to 80 meters above the valley floor, wide vantage, gimbal weighty. Wide tonal latitude, soft highlight roll-off, whites hold detail without clipping.
+
+ACTION
+CUT 1 — Subject: @titan tears its right arm and shoulder free from the glacier wall, basalt-and-ice mass grinding against ice, a wall of powder snow erupting behind it hundreds of meters high; @wardens sprint across the frozen field in a scattered line, spears and shields flashing. Camera: sweeping wide dolly along the valley floor at 15 km/h, shake spiking as the titan's arm lands its first step-load.
+CUT 2 — Subject: massive sheets of blue ice shear off @titan's shoulder and back, tumbling in slabs the size of buildings, hoarfrost crust exploding into powder mid-fall, runes along the shoulder flaring pale-cyan as the plates shed. Camera: whip-in, holds on the shoulder as three slabs fall past the frame, shake hard.
+CUT 3 — Subject: @wardens dive clear as a crevasse collapses under them, two soldiers throwing themselves flat and rolling as the ice gives way, spears skittering across the surface, powder snow plumes rising vertical. Camera: low-angle handheld, wardens leaping over the lens, shake violent on the collapse.
+CUT 4 — Subject: the horn-bearer lifts @warhorn to their lips and blows one long note, chest visibly expanding, breath fogging in the cold, the sound carrying across the field as other wardens turn their heads toward it. Camera: tight handheld, presses in 30 cm as the note sounds.
+CUT 5 — Subject: @titan pulls its full torso free of the glacier wall, the whole glacier splintering apart around it in a cascade of fracturing ice, runes along both arms and the ribcage flaring bright cyan at once, snow erupting in vast vertical plumes across the entire valley. Camera: pulled back to a vast super-wide, rising crane, catching the primordial scale in one held frame, HARD CUT at 10.0s.
+
+PERFORMANCE
+@titan performs with geological slowness and crushing weight — every movement loaded before it lands, joints grinding stone on stone, no theatrical flourish. @wardens read as terrified working soldiers, not heroes: eyes wide, mouths open, breath fogging hard, one soldier stumbling and being pulled up by another mid-cut. The horn-bearer reads as steady and old, jaw set, eyes tracking the titan. Pore-level realism on the horn-bearer's face: vellus hair, asymmetric moles, capillary flush from the cold, wet living eyes with catch-lights, visible breath and chest rise. Restrained and human across the army, never cartoonish. Top-tier cinematic restraint.
+
+PHYSICS
+Mass and inertia carry through every movement of @titan — the arm loads before it tears free and drags the whole torso with it. Ice slabs fall with real weight, not lightweight fragments; they shatter on impact with the glacier floor, not float. Snow plumes obey the crosswind vector at 20 km/h and shear leftward across the valley. Wardens have real body weight — diving bodies land hard, not softly, and slide on the ice with correct friction. The horn's vibration reads faintly in loose snow at the horn-bearer's feet. Nothing floats. Correct contact shadows read clearly where titan meets glacier and warden meets ice.
+
+LIGHTING
+WB locked 6500K cold overcast daylight, flat and even, sun fully occluded by leaden cloud. Key is a broad diffuse top-light with no direct sun. The only emitted light in the world is the pale-cyan 5500K rune glow along @titan's joints, eye-sockets, and rib-seams, which spills onto the surrounding hoarfrost and briefly reflects in the wardens' plate on close cuts. Camera on the shadow side of the titan across all wide cuts. Faint atmospheric haze at 30% at the glacier wall, thickening into the snow plumes.
+
+COLOR GRADE
+Stark white in the snow and powder, frozen blue in the deep ice seams, near-black in the fractured basalt of the titan's core, leaden grey in the sky; every cold tone comes from real material and light bounce, not a filter. Rune cyan lives only in the carved channels — joints, eye-sockets, ribcage seams — and its spill onto immediate hoarfrost. Warden plate reads as dark weathered steel with cold reflections. Blacks stay open with detail in the basalt, highlights roll off in the snow. Color tied to source and surface, not a flat list.
+
+WARDROBE
+@wardens wear weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, iron-rimmed shields, cold-numbed hands in gloves. Fur crusted with ice at the seams. No faction crest, no logo. The horn-bearer wears the same but with a heavier fur mantle and a leather baldric holding @warhorn.
+
+AUDIO
+NO MUSIC. SFX ONLY — diegetic sound and live audio throughout. No score, no soundtrack, no background music of any kind. CUT 1: sub-bass glacier groaning, ice cracking in long tearing sheets, wardens' plate rattling and boots crunching on ice, wind at 20 km/h. CUT 2: massive stone-on-ice grind, slabs shattering as they hit the glacier floor, rune flare with a low harmonic hum. CUT 3: sharp ice crack, powder snow whumphs, wardens' shouts and grunts, one spear clattering on ice. CUT 4: the horn's long low note, one held bass tone spreading across the valley, warden breath fogging audibly. CUT 5: a full-body glacier splintering roar, layered ice-shear, one titanic bass groan from @titan itself. No dialogue, no subtitles.
+
+STYLE
+8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, 35mm film character, crushing primordial-scale epic look, hyperdetailed ice, snow, hoarfrost, basalt, weathered steel.
+
+OUTPUT SETTINGS
+10 seconds, five cuts, 16:9, 8K ultra-high-definition, 24 fps, real-time throughout, anamorphic flare character on rune spill.
+
+POSITIVE LOCKS
+One shared valley, one @titan, same @wardens and @warhorn across all five cuts, identical every frame, no morphing, no drift. @titan stays mountain-sized against the wardens throughout — the scale relationship holds exactly: 200 wardens tall in every wide, one warden a fingernail against the shin. Runes stay pale cyan and stay carved into the stone, they do not migrate. Handheld shake spikes on every titan movement and every ice collapse, never smooths out. Camera stays third-person outside the army throughout the 10 seconds. Warden eyes stay natural — no eye glow; the only emitted light in the world is @titan's runes. Contact shadows read clearly where titan meets glacier and warden meets ice. Ice slabs fall with mass, never floating. Snow travels on one consistent wind vector. Clean frame throughout — no logos, no UI, no text overlays, no subtitles, no watermark, no dragons or unrelated creatures in shot.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-579dd9bdd240)**
 
 ### Luxury Salon Beauty Transformation
 
@@ -3493,24 +3523,6 @@ No face, no full body, no realistic human, no scary bunny, no dark mood, no burn
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-3d49f00e65c0)**
-
-### 1990s Disney-Style Forest Animation
-
-> A multi-scene video prompt for creating a 1990s Disney-style hand-drawn animation starring a raccoon and a turtle in the forest.
-
-[<img src="https://media.goodcase.ai/media/poster/90-f704a9d8555b.jpg" width="600" alt="1990s Disney-Style Forest Animation">](https://goodcase.ai/cases/90-f704a9d8555b)
-
-**作者:** @samaote | **出典:** [元投稿](https://x.com/samaote/status/2080638821557731785) | **公開日:** 2026-07-24 | **ヒート:** -
-
-**安定度:** 87/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/90-f704a9d8555b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Classic 1990s Disney-style hand-drawn animation, colorful forest, expressive animal faces, exaggerated physical comedy, smooth cinematic motion, family-friendly humor. Scene 1 — 0–3s: A mischievous raccoon spots a picnic basket hanging from a tree. He stands on a sleepy turtle’s curved shell, stretching upward and saying, “Stay still!” Scene 2 — 3–6s: A tiny butterfly lands on the turtle’s nose. The turtle’s eyes cross, his cheeks puff up, and he desperately tries not to sneeze. The raccoon wobbles above him. Scene 3 — 6–10s: The turtle releases a huge sneeze and pulls into his shell. The shell suddenly rolls forward like a wheel, carrying the terrified raccoon around the pond as he shouts, “Wrong way!” Scene 4 — 10–13s: The shell hits a tree root, launching the raccoon through the air and directly into the hanging picnic basket. Food and fruit explode everywhere. Scene 5 — 13–15s: The raccoon lands face-first in a cream pie. The turtle calmly catches a falling sandwich, takes a bite, and asks, “Did we get it?” The raccoon silently gives him a cream-covered thumbs-up. Fast pacing, clear visual storytelling, natural character motion, playful sound effects, no subtitles, no watermark.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/90-f704a9d8555b)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

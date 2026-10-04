@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 1/6)
 
-All 479 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 485 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 1–80 of 479.
+This page: cases 1–80 of 485.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md)
 
@@ -398,7 +398,7 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 [<img src="https://media.goodcase.ai/cases/d3f9b6377ec3.jpg" width="600" alt="An Afternoon in a Hammock and Washing a Motorcycle">](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00)
 
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2099836703729172540) | **Published:** 2026-09-15 | **Heat:** 96
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2099836703729172540) | **Published:** 2026-09-15 | **Heat:** 97
 
 <details>
 <summary><b>Full prompt (21 lines, click to expand)</b></summary>
@@ -840,6 +840,57 @@ NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, mel
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)**
 
+### Seedance Native UGC Vertical Phone Follow-Cam Short
+
+> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
+
+[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance Native UGC Vertical Phone Follow-Cam Short">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)
+
+**Author:** @mightyking | **Source:** [Original](https://x.com/mightyking/status/2089299068514148655) | **Published:** 2026-08-17 | **Heat:** 95
+
+**Stability:** 71/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.2) · [output](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (29 lines, click to expand)</b></summary>
+
+```
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
+
 ### Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
 
 > @cnyzgkc reveals that an AI live wallpaper video with 290K views was made with Seedance 2.5, improving on a prompt from @johnAGI168. A 29-second fixed-camera scene: a woman on a black leather sofa changes into three campus outfits on off-screen male voice commands in one take.
@@ -1056,57 +1107,6 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)**
-
-### Seedance Native UGC Vertical Phone Follow-Cam Short
-
-> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
-
-[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance Native UGC Vertical Phone Follow-Cam Short">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)
-
-**Author:** @mightyking | **Source:** [Original](https://x.com/mightyking/status/2089299068514148655) | **Published:** 2026-08-17 | **Heat:** 94
-
-**Stability:** 71/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 71.2) · [output](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (29 lines, click to expand)</b></summary>
-
-```
-Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
-
-Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
-
-Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
-
-[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
-
-[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
-
-[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
-
-[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
-
-[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
-
-[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
-
-[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
-
-[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
-
-[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
-
-[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
-
-Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
-
-Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
 
 ### Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl
 
@@ -1823,6 +1823,43 @@ Prompt
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b)**
 
+### Crowd Turns in Unison to Stare at the Woman in Black
+
+> STORM with a twist Seedance 2.5 Prompt : Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual referenc…
+
+[<img src="https://media.goodcase.ai/cases/15e425fa8f93.jpg" width="600" alt="Crowd Turns in Unison to Stare at the Woman in Black">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2100067816162636164) | **Published:** 2026-09-16 | **Heat:** 91
+
+<details>
+<summary><b>Full prompt (19 lines, click to expand)</b></summary>
+
+```
+Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual reference for the woman, crowd, wardrobe, composition, lighting, and atmosphere.
+
+A young woman with a short sleek dark bob, realistic facial features, natural skin texture, and subtle makeup wears a fitted black turtleneck, black trousers, black shoes, and minimal jewelry. Keep her face, hairstyle, outfit, and proportions perfectly consistent.
+
+She walks slowly and confidently toward a large, tightly packed crowd, maintaining a calm and emotionless expression while the camera smoothly tracks backward and keeps her centered.
+
+She reaches the exact center of the crowd and stops completely, standing perfectly still with her arms naturally at her sides and looking directly into the camera.
+
+The crowd remains completely frozen for a brief moment.
+
+Then, without the woman moving, the people behind her slowly begin turning toward her. The head turns start subtly and spread through the entire crowd until everyone is facing and looking directly at her.
+
+The woman remains completely motionless and expressionless, never reacting to the crowd.
+
+The camera slowly pushes closer while the crowd stays turned toward her, creating an unsettling synchronized effect. Their final movement is one sharp, simultaneous turn toward her while she continues staring into the lens.
+
+Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
+
+No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)**
+
 ### The 5 PM Office Escape
 
 > Leaving work at five shouldn’t require stealth mode, but her boss made it a mission. Seedance 2.5 0n @SJinn_Agent Prompt SCENE CONTEXT A 30-second realistic AAA…
@@ -2153,43 +2190,6 @@ Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with l
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5)**
-
-### Crowd Turns in Unison to Stare at the Woman in Black
-
-> STORM with a twist Seedance 2.5 Prompt : Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual referenc…
-
-[<img src="https://media.goodcase.ai/cases/15e425fa8f93.jpg" width="600" alt="Crowd Turns in Unison to Stare at the Woman in Black">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2100067816162636164) | **Published:** 2026-09-16 | **Heat:** 90
-
-<details>
-<summary><b>Full prompt (19 lines, click to expand)</b></summary>
-
-```
-Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual reference for the woman, crowd, wardrobe, composition, lighting, and atmosphere.
-
-A young woman with a short sleek dark bob, realistic facial features, natural skin texture, and subtle makeup wears a fitted black turtleneck, black trousers, black shoes, and minimal jewelry. Keep her face, hairstyle, outfit, and proportions perfectly consistent.
-
-She walks slowly and confidently toward a large, tightly packed crowd, maintaining a calm and emotionless expression while the camera smoothly tracks backward and keeps her centered.
-
-She reaches the exact center of the crowd and stops completely, standing perfectly still with her arms naturally at her sides and looking directly into the camera.
-
-The crowd remains completely frozen for a brief moment.
-
-Then, without the woman moving, the people behind her slowly begin turning toward her. The head turns start subtly and spread through the entire crowd until everyone is facing and looking directly at her.
-
-The woman remains completely motionless and expressionless, never reacting to the crowd.
-
-The camera slowly pushes closer while the crowd stays turned toward her, creating an unsettling synchronized effect. Their final movement is one sharp, simultaneous turn toward her while she continues staring into the lens.
-
-Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
-
-No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)**
 
 ### Black-Robed Swordsman Sweeps Through Shadow Beasts
 
@@ -2801,6 +2801,37 @@ VISUAL RULES
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962)**
 
+### A Hilarious Payback After the Subway Doors Close
+
+> Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
+
+[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="A Hilarious Payback After the Subway Doors Close">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2098988104418050349) | **Published:** 2026-09-13 | **Heat:** 88
+
+<details>
+<summary><b>Full prompt (13 lines, click to expand)</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
+Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
+Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
+She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
+The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
+He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
+She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
+She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
+The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
+One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
+She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
+Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
+No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)**
+
 ### Lavender-Haired Girl Leaps Through a Pool Wave
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
@@ -2827,37 +2858,6 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1)**
-
-### A Hilarious Payback After the Subway Doors Close
-
-> Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
-
-[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="A Hilarious Payback After the Subway Doors Close">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2098988104418050349) | **Published:** 2026-09-13 | **Heat:** 87
-
-<details>
-<summary><b>Full prompt (13 lines, click to expand)</b></summary>
-
-```
-Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
-Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
-Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
-She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
-The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
-He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
-She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
-She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
-The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
-One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
-She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
-Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
-No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)**
 
 ### A Cat's Cozy Day Filmed as a Selfie Vlog
 
@@ -3078,6 +3078,52 @@ Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌,
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85)**
 
+### Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
+
+> Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
+
+[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25)
+
+**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | **Published:** 2026-10-03 | **Heat:** 86
+
+<details>
+<summary><b>Full prompt (28 lines, click to expand)</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
+
+Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
+
+Action Sequence:
+
+The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
+
+As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
+
+The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
+
+Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
+
+Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
+
+Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
+
+Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
+
+Duration: 20 seconds.
+
+Aspect Ratio: 16:9.
+
+Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25)**
+
 ### Handheld Travel Vlog From Apartment to Beach
 
 > A 30-second handheld travel vlog that locks one woman's face and body across five everyday scenes, using camera-imperfection language instead of a cast or a plot to sell the friend-filmed feeling.
@@ -3091,6 +3137,45 @@ A realistic handheld travel vlog filmed by a friend following the main character
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)**
+
+### A Korean Woman's Workout at Her Local Gym
+
+> Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
+
+[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="A Korean Woman's Workout at Her Local Gym">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2104408252670939438) | **Published:** 2026-09-28 | **Heat:** 86
+
+<details>
+<summary><b>Full prompt (21 lines, click to expand)</b></summary>
+
+```
+Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
+
+She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
+
+Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
+
+She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
+
+She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
+
+She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
+
+Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
+
+Camera: Raw early-2000s consumer DV-camera footage — handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Casual friend-filmed feeling, not a polished fitness commercial.
+
+Audio: Natural gym ambience only — footsteps, treadmill motor, weights gently hitting the floor, breathing, water bottle opening, towel movement, distant conversations, occasional laughter and air-conditioning hum. No music, no narration, no subtitles.
+
+Consistency & realism: Keep the same woman, face, hairstyle, body proportions, gym outfit, shoes, towel, water bottle and gym bag consistent. Realistic sweat, skin texture, hair movement, breathing, exercise form and clothing physics. Natural expressions and genuine laughter.
+
+Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossible exercise movements, distorted hands, extra fingers, duplicated people, identity drift, outfit changes, floating objects, teleportation, unrealistic sweat, subtitles, logos, watermark, polished commercial cinematography.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)**
 
 ### A Golden Love Remembered at Gunpoint
 
@@ -3817,45 +3902,6 @@ OUTPUT:
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)**
-
-### A Korean Woman's Workout at Her Local Gym
-
-> Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
-
-[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="A Korean Woman's Workout at Her Local Gym">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2104408252670939438) | **Published:** 2026-09-28 | **Heat:** 85
-
-<details>
-<summary><b>Full prompt (21 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
-
-She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
-
-Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
-
-She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
-
-She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
-
-She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
-
-Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
-
-Camera: Raw early-2000s consumer DV-camera footage — handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Casual friend-filmed feeling, not a polished fitness commercial.
-
-Audio: Natural gym ambience only — footsteps, treadmill motor, weights gently hitting the floor, breathing, water bottle opening, towel movement, distant conversations, occasional laughter and air-conditioning hum. No music, no narration, no subtitles.
-
-Consistency & realism: Keep the same woman, face, hairstyle, body proportions, gym outfit, shoes, towel, water bottle and gym bag consistent. Realistic sweat, skin texture, hair movement, breathing, exercise form and clothing physics. Natural expressions and genuine laughter.
-
-Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossible exercise movements, distorted hands, extra fingers, duplicated people, identity drift, outfit changes, floating objects, teleportation, unrealistic sweat, subtitles, logos, watermark, polished commercial cinematography.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)**
 
 ### White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
@@ -5649,51 +5695,6 @@ The final moment should feel completely ordinary, as though the recording simply
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7)**
-
-### POV: A Lazy Summer Morning With Him in Seoul
-
-> A lazy summer morning with him > any perfectly planned date 📍 Seoul, early morning Made with Seedance 2.5 Prompt: POV: Korean couple spends a lazy summer morni…
-
-[<img src="https://media.goodcase.ai/cases/c39ee14f9f1b.jpg" width="600" alt="POV: A Lazy Summer Morning With Him in Seoul">](https://goodcase.ai/cases/seedance-pov-korean-couple-spends-a-lazy-summer-morning-wandering-their-neighborhood-0d246cd8363d)
-
-**Author:** @AIwithJessica | **Source:** [Original](https://x.com/AIwithJessica/status/2096779054720639258) | **Published:** 2026-09-07 | **Heat:** 82
-
-<details>
-<summary><b>Full prompt (27 lines, click to expand)</b></summary>
-
-```
-POV: Korean couple spends a lazy summer morning wandering their neighborhood 🇰🇷 Create a 30-second, 16:9 ultra-realistic live-action POV vlog using the uploaded reference images as the exact character references. Girl: preserve her face, long straight dark hair, eye color, skin tone, soft natural makeup, delicate drop earrings, and body proportions exactly as in reference image 2, wearing her sage-green sleeveless ribbed knit vest and white wide-leg trousers throughout. Boy: preserve his face, tousled dark wavy hair, earrings, layered silver chain necklace, chain bracelet and wristwatch exactly as in reference image 1, wearing his oversized dusty-pink smiley-face tee and white sweatshorts throughout.
-
-Style: Authentic Korean lifestyle vlog, early-2000s MiniDV/home-video aesthetic, handheld POV, imperfect framing, slight autofocus breathing, natural motion blur and exposure changes, soft overcast morning light. Spontaneous, unstaged chemistry.
-
-0–3s: She leans against a textured green courtyard wall, laughing as she films him approaching down the lane with two iced coffees.
-
-3–6s: They walk side by side down the narrow concrete alley, camera swinging naturally; he hands her a coffee and she takes a sip, smiling at the lens.
-
-6–9s: She spins slowly in front of an old wall covered in dappled tree-shadow, showing off her outfit; he claps and whistles playfully off-camera.
-
-9–12s: They pause by a row of parked bicycles; he pretends to ride one and she films, giggling, telling him to stop.
-
-12–15s: Inside the small convenience store, she picks a snack from the shelf while he sneaks a second item into her basket; she catches him and narrows her eyes.
-
-15–18s: Outside the store, they sit on a low step sharing the snack, passing it back and forth, natural laughter between bites.
-
-18–21s: Walking again, she films their shadows stretching across the pavement; he reaches over and gently tucks a strand of her hair back.
-
-21–24s: They stop by a wall of hanging laundry and potted plants; she pretends to interview him with the coffee cup as a microphone.
-
-24–27s: He points out something off-camera; she turns to look, laughing, then bumps his shoulder with hers.
-
-27–30s: They continue walking down the sunlit lane, hand in hand, camera trailing behind as they shrink into the distance; she glances back once, smiling, before the frame settles into a soft handheld sway.
-
-Audio: Natural location sound only—quiet residential ambience, birds, distant traffic, footsteps, rustling laundry, convenience store door chime, soft conversation and laughter. No music, narration or artificial SFX.
-
-Continuity/realism: Same woman and boyfriend throughout; consistent wardrobe and appearance matching the reference images exactly, believable Korean neighborhood environment, realistic physics and movement, natural couple chemistry. No teleportation, duplicates, distorted faces/hands, exaggerated acting, subtitles, captions, logos or watermarks.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-pov-korean-couple-spends-a-lazy-summer-morning-wandering-their-neighborhood-0d246cd8363d)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md)

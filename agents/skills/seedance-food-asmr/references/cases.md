@@ -262,7 +262,7 @@ She shoots a watery-eyed glare at the camera without being able to respond, stil
 
 ## E6 · Juicy Pan-Fried Bao with a Crisp Golden Crust
 
-- Seedance 2.5 · creator: @Lianaalane · heat: 41
+- Seedance 2.5 · creator: @Lianaalane · heat: 40
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6) · [finished media](https://media.goodcase.ai/cases/0ecfc9686dfd.mp4) · [poster](https://media.goodcase.ai/cases/b7e548a0f7a9.jpg) · [original source](https://x.com/Lianaalane/status/2096903888813330826)
 - Summary: Crispy on the outside, juicy on the inside. Every bite is packed with rich flavors, golden broth, and irresistible textures. Created on seedance 2.5 Prompt: Cre…
 

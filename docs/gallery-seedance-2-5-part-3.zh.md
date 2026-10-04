@@ -1,10 +1,169 @@
 # Seedance 2.5 — 全量案例（第 3/6 页）
 
-Seedance 2.5 全部 479 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 485 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 169–263 条，共 479 条。
+本页：第 170–265 条，共 485 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md)
+
+### 银发双刀女剑士突袭日式城堡
+
+> Five elite samurai surrounded her. The whole castle is coming next. ⚔️🍃 Created with Seedance 2.5 on @TapNow_AI Prompt: KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE…
+
+[<img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="600" alt="银发双刀女剑士突袭日式城堡">](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0)
+
+**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105958420088328486) | **发布:** 2026-10-02 | **热度:** 66
+
+<details>
+<summary><b>完整 prompt（141 行，点开展开）</b></summary>
+
+```
+KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
+Duration: 30 seconds | Aspect Ratio: 16:9 | No music
+
+ONE-TAKE LOCK:
+This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
+ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
+ZERO scene resets. The camera never leaves the action and every location
+change happens physically inside the shot: the camera passes through torn
+doors, over railings and up the roof with Kazemiru. Time runs in real time.
+
+STYLE:
+Ultra-photorealistic live-action Japanese dark-action cinema with restrained
+subtle VFX. Impossible anime-inspired dual-sword choreography performed by
+real human bodies. Large-format cinema look, natural daylight, muted earthy
+color palette, soft realistic shadows, no oversaturated colors.
+
+@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
+ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
+earrings in every frame.
+@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
+
+POSITIVE LOCKS (true for all 30 seconds):
+- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
+  hand, both always visible and independently controlled.
+- Her face always matches @Image1.
+- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
+- Her body physically crosses every distance, with no teleportation.
+- It is always daytime with bright natural light.
+
+PERSONALITY:
+Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
+eyes. Her hunger shows through relentless speed and escalating ferocity,
+never through grinning or shouting.
+
+JADE-WIND EFFECT:
+Every fast movement leaves a thin, soft jade-green wind trace that follows
+her exact physical path and fades almost instantly: sword arcs leave fine
+blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
+bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
+No aura, no smoke, no glowing body, no effects moving on their own.
+
+CAMERA (one continuous handheld-style pursuit):
+Constant dutch angle of 25–35°. Wide field of view around 75° in the
+interior and courtyard, tightening to about 50° for the rooftop duel.
+Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
+overshoot, correct, reacquire at the moment of contact. The camera flows
+through rear over-the-shoulder, low-angle pursuit, side tracking,
+ground-level chase and front three-quarter retreat, always in one connected
+movement. Never static, never perfectly smooth.
+
+══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
+Setting: bright daylight through large shoji panels, gold folding screens,
+tall dark timber pillars, tatami sections, raised platform, armor displays,
+low lacquer tables, silk curtains.
+
+0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
+on both hilts. BURST: a thin jade streak snaps across the hall and the silk
+curtains whip. The camera loses her, whip-pans, and finds her inside
+Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
+a reverse cut. He drops.
+
+0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
+a pillar and pushes off, dust bursting from the wood. Mid-air her left
+sword deflects Guard 2 and her right sword cuts down. She lands on the edge
+of a lacquer table, which slides back, and rebounds straight toward Guard 3.
+
+0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
+separate jade trails. She lands low and bursts across the floor. Guard 4's
+spear thrusts: she runs two steps up a wall, flips off, and cuts him down
+through a folding screen. Guard 5 charges: she catches his blade with one
+sword, vaults the railing above him, and finishes with a cross-slash as she
+lands behind him.
+
+══ 0:10–0:20: THE PALACE COURTYARD ══
+Transition inside the same shot: she does not pose. Both swords still in
+hand, she drives straight through the paper doors in one burst. The torn
+paper flutters past the lens as the camera follows her through the doorway
+onto the wooden veranda and out into a stone courtyard with lanterns, a koi
+pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
+below and archers on the roofs.
+
+0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
+double slash and a third grazes her sleeve. She sprints along the veranda,
+pivoting off each post, a jade ripple following her feet.
+
+0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
+bridge railing. Three swordsmen charge. She runs along the rail, slashes the
+first, flips over the second, and lands in the koi pond with a huge splash.
+In the water she parries two blades and cuts both guards. Droplets scatter
+across the lens.
+
+0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
+steps. The camera tilts up with her. She launches onto the roof among the
+archers: left sword disarms, right sword strikes, roof tiles scatter. Two
+archers fall.
+
+══ 0:20–0:30: THE ROOFTOP DUEL ══
+Transition inside the same shot: she keeps climbing over the roof ridge and
+the camera rises with her, tightening to a 50° field of view. The tiled
+castle rooftop opens up with wind in her ponytail and the town far below.
+Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
+
+0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
+down the sloping tiles, and crosses both swords to stop the blade. Sharp
+metal sound as his strength pushes her back a step. Her expression stays
+cold.
+
+0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
+his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
+off the shaft, and flips over him. Mid-air she cuts both swords across his
+back armor. Tiles crack under their feet and a faint jade wake curves around
+her path. He staggers, strikes back, and she narrowly dodges as the blade
+cuts a roof beam.
+
+0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
+brighter but still thin. She slides under the naginata, and as she rises
+both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
+one knee, defeated but alive. Kazemiru stands, both swords still in hand,
+and the last jade filaments disappear. She turns her cold eyes toward the
+courtyard far below, where dozens more guards pour in. The camera slowly
+pulls back and up to a wide shot of the whole castle. She lowers her body for
+the next burst. THE FIGHT CONTINUES.
+
+AUDIO:
+Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
+and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
+wind over the rooftops. No dialogue, no music.
+
+HUMAN-FIRST LOCK:
+Kazemiru is always a real human: natural skin pores, real eyes, individual
+hair strands, believable anatomy and cloth physics. Only her choreography is
+anime-level impossible.
+
+NEGATIVE:
+cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
+shots, single-sword fighting, missing or duplicate sword, duplicate
+Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
+oversaturated colors, detached VFX, random flips, decorative acrobatics,
+idle pose, static camera, perfectly smooth tracking, slow combat, floating,
+broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
+logos, watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0)**
 
 ### Sci-Fi Mystery Message from 2100
 
@@ -299,70 +458,50 @@ No extra characters appearing or disappearing.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-image-as-the-exact-visual-reference-for-the-characters-wardro-9c0e5931cab5)**
 
-### 武士挥刀撕裂空间
+### 白衣忍者斩破烟雾天龙
 
-> A cinematic warrior rises against impossible odds. Experience powerful action and stunning visuals with Seedance 2.5 by @ImagineArt_X . Dynamic choreography, ci…
+> The Dragon Awakens 🐉⚡ Created with Seedance 2.5 for @WizstarAI bringing cinematic AI storytelling, powerful action, and stunning fantasy visuals to life. #Wizs…
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.jpg" width="600" alt="武士挥刀撕裂空间">](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62)
+[<img src="https://media.goodcase.ai/media/poster/seedance-white-dragon-ascension-10s-16-9-7b649210fd48.jpg" width="600" alt="白衣忍者斩破烟雾天龙">](https://goodcase.ai/cases/seedance-white-dragon-ascension-10s-16-9-7b649210fd48)
 
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2096602048556900579) | **发布:** 2026-09-06 | **热度:** 66
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2095458733136462234) | **发布:** 2026-09-03 | **热度:** 66
 
-**复测：** Grok Imagine · 2026-10-02 · ⚠️ 降级 (59.7 分) · [产物](https://media.goodcase.ai/retests/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62/video-grok-imagine-20261002-phase1/generated.mp4)
+**稳定度：** 81/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.3 分) · [产物](https://media.goodcase.ai/retests/seedance-white-dragon-ascension-10s-16-9-7b649210fd48/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 <details>
-<summary><b>完整 prompt（45 行，点开展开）</b></summary>
+<summary><b>完整 prompt（23 行，点开展开）</b></summary>
 
 ```
-@[Image1](image-0442b9e3-3e54-49fa-95ab-1dd25868733f) HYPERSONIC SONÍDO — SPACE-SPLITTING KATANA
+WHITE DRAGON ASCENSION | 10s | 16:9
 
-15 SECONDS | 16:9 | SEEDANCE 2.5
+Use image1 as SANZO. Keep his exact face, hair, skin tone, physique, tattoos and outfit.
 
-STYLE
+Ultra-realistic live-action Hollywood action. Practical stunts, real katana combat, realistic physics, natural smoke and cinematic lighting. No CGI, anime, cartoon or game look.
 
-Ultra-photorealistic live-action AAA Hollywood samurai action, cinematic fantasy realism, ARRI Alexa 65, anamorphic lens, 8K HDR, PBR materials, realistic human anatomy, physically detailed environment, dramatic volumetric lighting, high-contrast cinematic grading. Extreme hypersonic energy with controlled visual clarity. No anime/game-CGI appearance.
+LOCATION: Infinite white cyclorama with glossy reflective floor, soft diffused light, no horizon or props.
 
-CHARACTER LOCK
+OUTFIT: All-white tactical shinobi outfit with hood, half-mask, layered robes, armor, belt, tabi boots and flowing fabric.
 
-Use image1 as the ONLY character reference. STRICT FACE LOCK: preserve exact facial structure, eyes, nose, jawline, skin tone, hairstyle, body proportions and clothing design throughout. Identity never changes. ONE character, ONE katana only. Katana remains physically connected to the character and saya stays at the hip until drawn. No transformation, duplication or weapon morphing.
+WEAPON: ONE white-handled katana on LEFT WAIST, fully sheathed. SANZO draws it once. Blade and handle leave the saya together. Saya becomes EMPTY and remains visible. No duplicate weapon or handle. Katana never returns.
 
-ACTION PHYSICS
+CREATURE: Giant aggressive celestial dragon made of dense swirling white smoke, with horns, whiskers, mane and bright white eyes.
 
-Supernatural Sonído-level movement: near-instant acceleration, air-stepping, gravity-direction changes and explosive directional changes. Every physical interaction must have visible cause-and-effect: foot impact → compression → shockwave → debris; blade contact → spatial distortion → delayed rift. Use 3–5 dense, solid glowing afterimages at major direction changes; afterimages briefly hold human form, then fracture into spatial glass shards. Environment reacts dynamically to speed.
+0–2s: SANZO runs through the white void as the smoke dragon chases him. FPV and low tracking shots. Jaws snap behind him. He combat-slides beneath the jaws. Slow motion, eye close-up, 2-frame freeze.
 
-CAMERA
+2–3.5s: During the slide, SANZO draws the katana. Empty saya stays visible. He performs cartwheel → butterfly twist → forward somersault and lands low.
 
-One continuous cinematic take, no hard cuts. Camera movement is motivated by the action: aggressive whip-pans, low tracking, orbital pursuit, barrel-roll and rapid push/pull. Extreme angles but smooth and readable. Keep the character's face and katana blade sharp whenever visible. Background and peripheral movement become directional streaks. Dynamic FOV: wide during acceleration, tighter during impact. Controlled camera shake only on major impacts.
+3.5–8.8s: SANZO unleashes KAGE RYUJIN GIRI — CELESTIAL EXECUTION. The dragon coils, dives, bites and tail-whips. SANZO counters with flash steps, flips, twists and aerial slashes. Each slash tears through the smoke; the dragon instantly reforms. Use fast camera moves, crash zooms, speed ramps and heavy impacts.
 
-SPEED RAMP
+8.8–10s: Final dive. SANZO performs an aerial corkscrew, somersault and butterfly motion, then delivers a powerful upward diagonal slash. 2-frame freeze. Dragon breaks into white smoke ribbons and disappears. SANZO lands in a strong ninja stance, katana in RIGHT hand, blade down. EMPTY saya visible on LEFT WAIST. Fade white.
 
-Use precise ramping rather than constant slow motion.
-
-ULTRA FAST: 1000% during traversal and directional movement.
-
-IMPACT MOMENT: 5–10% for only 0.1s at critical blade/foot contact.
-
-Immediately return to 1000% acceleration.
-
-No unnecessary slow motion. Speed changes must visibly enhance the perception of distance, acceleration and impact.
-
-15-SECOND ACTION
-
-0–3s — SONÍDO BURST
-
-Character holds completely still for 0.1s. Instant acceleration creates a circular dust-pressure explosion. Vanishes and reappears above Enemy 1, stomping downward. 0.1s impact slow-motion reveals compressed air and a radial shockwave. Immediately launches to Enemy 2, delivers one ultra-fast katana slash, then rebounds from Enemy 3's shoulder. Solid afterimages remain at each transition. Camera performs an extreme but smooth whip-pan.
-
-3–6s — AIR STEPPING
-
-Character launches upward, then steps on empty air. Each airborne step visibly compresses the atmosphere into circular distortion ripples. Changes gravity direction mid-air without losing momentum. Dives downward, strikes an enemy's raised blade, rebounds upward, rotates 360° and performs a rapid multi-target slash through four enemies. Camera barrel-rolls with the rotation while maintaining readable subject orientation.
-
-6–9s — AFTERIMAGE SWARM
-
-Character accelerates around the enemy group in a hypersonic circular path. Five solid afterimages materialize around the real character. Six attack positions converge simultaneously from different directions. Every katana strike creates a delayed cyan-white spatial rift that remains suspended for a moment before sealing. 0.1s slow-motion at simultaneous impact, then immediate explosive acceleration. Enemies disintegrate into light particles and spatial shards, never blood.
+NEGATIVE: CGI, anime, cartoon, game graphics, glow, beams, duplicate katana, duplicate handle, sheathing, clipping, floating weapon, blur, plastic skin, watermark, logo, subtitles, text.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-white-dragon-ascension-10s-16-9-7b649210fd48)**
 
 ### 末日撤离信号下的外星真相
 
@@ -770,6 +909,71 @@ Visual style: ultra-realistic cinematic photography, pastel pink tones, warm nat
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cinematic-25-second-dreamy-retro-pink-fashion-commercial-set-inside-a-e3eaf841edec)**
+
+### 武士挥刀撕裂空间
+
+> A cinematic warrior rises against impossible odds. Experience powerful action and stunning visuals with Seedance 2.5 by @ImagineArt_X . Dynamic choreography, ci…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62.jpg" width="600" alt="武士挥刀撕裂空间">](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62)
+
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2096602048556900579) | **发布:** 2026-09-06 | **热度:** 65
+
+**复测：** Grok Imagine · 2026-10-02 · ⚠️ 降级 (59.7 分) · [产物](https://media.goodcase.ai/retests/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（45 行，点开展开）</b></summary>
+
+```
+@[Image1](image-0442b9e3-3e54-49fa-95ab-1dd25868733f) HYPERSONIC SONÍDO — SPACE-SPLITTING KATANA
+
+15 SECONDS | 16:9 | SEEDANCE 2.5
+
+STYLE
+
+Ultra-photorealistic live-action AAA Hollywood samurai action, cinematic fantasy realism, ARRI Alexa 65, anamorphic lens, 8K HDR, PBR materials, realistic human anatomy, physically detailed environment, dramatic volumetric lighting, high-contrast cinematic grading. Extreme hypersonic energy with controlled visual clarity. No anime/game-CGI appearance.
+
+CHARACTER LOCK
+
+Use image1 as the ONLY character reference. STRICT FACE LOCK: preserve exact facial structure, eyes, nose, jawline, skin tone, hairstyle, body proportions and clothing design throughout. Identity never changes. ONE character, ONE katana only. Katana remains physically connected to the character and saya stays at the hip until drawn. No transformation, duplication or weapon morphing.
+
+ACTION PHYSICS
+
+Supernatural Sonído-level movement: near-instant acceleration, air-stepping, gravity-direction changes and explosive directional changes. Every physical interaction must have visible cause-and-effect: foot impact → compression → shockwave → debris; blade contact → spatial distortion → delayed rift. Use 3–5 dense, solid glowing afterimages at major direction changes; afterimages briefly hold human form, then fracture into spatial glass shards. Environment reacts dynamically to speed.
+
+CAMERA
+
+One continuous cinematic take, no hard cuts. Camera movement is motivated by the action: aggressive whip-pans, low tracking, orbital pursuit, barrel-roll and rapid push/pull. Extreme angles but smooth and readable. Keep the character's face and katana blade sharp whenever visible. Background and peripheral movement become directional streaks. Dynamic FOV: wide during acceleration, tighter during impact. Controlled camera shake only on major impacts.
+
+SPEED RAMP
+
+Use precise ramping rather than constant slow motion.
+
+ULTRA FAST: 1000% during traversal and directional movement.
+
+IMPACT MOMENT: 5–10% for only 0.1s at critical blade/foot contact.
+
+Immediately return to 1000% acceleration.
+
+No unnecessary slow motion. Speed changes must visibly enhance the perception of distance, acceleration and impact.
+
+15-SECOND ACTION
+
+0–3s — SONÍDO BURST
+
+Character holds completely still for 0.1s. Instant acceleration creates a circular dust-pressure explosion. Vanishes and reappears above Enemy 1, stomping downward. 0.1s impact slow-motion reveals compressed air and a radial shockwave. Immediately launches to Enemy 2, delivers one ultra-fast katana slash, then rebounds from Enemy 3's shoulder. Solid afterimages remain at each transition. Camera performs an extreme but smooth whip-pan.
+
+3–6s — AIR STEPPING
+
+Character launches upward, then steps on empty air. Each airborne step visibly compresses the atmosphere into circular distortion ripples. Changes gravity direction mid-air without losing momentum. Dives downward, strikes an enemy's raised blade, rebounds upward, rotates 360° and performs a rapid multi-target slash through four enemies. Camera barrel-rolls with the rotation while maintaining readable subject orientation.
+
+6–9s — AFTERIMAGE SWARM
+
+Character accelerates around the enemy group in a hypersonic circular path. Five solid afterimages materialize around the real character. Six attack positions converge simultaneously from different directions. Every katana strike creates a delayed cyan-white spatial rift that remains suspended for a moment before sealing. 0.1s slow-motion at simultaneous impact, then immediate explosive acceleration. Enemies disintegrate into light particles and spatial shards, never blood.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-image1-image-0442b9e3-3e54-49fa-95ab-1dd25868733f-hypersonic-soni-do-space-802acc820b62)**
 
 ### 穿越历史的磁悬浮列车
 
@@ -1428,35 +1632,6 @@ SFX: lighter flick, inhale, faint city hum, refrigerator buzz, soft bare footste
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-tired-woman-in-image1-in-a-loose-tank-top-and-sleep-shorts-slow-habitual-m-bc7637022788)**
 
-### 昏暗公厕里的双感染者追袭
-
-> The Washroom Attack 🧟‍♀️ Made with Seedance 2.5 Prompt: Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>…
-
-[<img src="https://media.goodcase.ai/cases/4b9a684c1b94.jpg" width="600" alt="昏暗公厕里的双感染者追袭">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2103091393145282775) | **发布:** 2026-09-24 | **热度:** 61
-
-**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (65.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
-
-```
-Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>> as the exact reference for the zombie woman and keep her face, hair, body proportions and outfit consistent.
-
-A young woman enters the washroom and washes her hands, unaware that the zombie woman is watching her through the mirror. The zombie slowly reveals pale skin, dark veins, twitching fingers and completely black eyes before suddenly attacking her. She grabs the victim, pins her against the tiled wall, and chases her when she escapes toward the exit.
-
-The victim struggles to escape, but the zombie catches her again. Dark veins spread across the victim's neck and face as she convulses and collapses. Her eyes turn milky white and then black as she rises, now infected. The two infected women turn toward another person entering the washroom and suddenly charge at them.
-
-End with the washroom lights flickering as the infected women stand motionless beneath the fluorescent lights, staring directly into the camera.
-
-Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921)**
-
 ### 都市公寓里的近身格斗
 
 > He picked the wrong baddie to mess with. Made with seedance 2.5 Prompt : Create a 13-second ultra-realistic cinematic action sequence set inside a messy, atmosp…
@@ -1779,6 +1954,35 @@ Overall: photorealistic, cinematic 4K, natural movement, realistic London enviro
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0)**
+
+### 昏暗公厕里的双感染者追袭
+
+> The Washroom Attack 🧟‍♀️ Made with Seedance 2.5 Prompt: Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>…
+
+[<img src="https://media.goodcase.ai/cases/4b9a684c1b94.jpg" width="600" alt="昏暗公厕里的双感染者追袭">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2103091393145282775) | **发布:** 2026-09-24 | **热度:** 60
+
+**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (65.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>> as the exact reference for the zombie woman and keep her face, hair, body proportions and outfit consistent.
+
+A young woman enters the washroom and washes her hands, unaware that the zombie woman is watching her through the mirror. The zombie slowly reveals pale skin, dark veins, twitching fingers and completely black eyes before suddenly attacking her. She grabs the victim, pins her against the tiled wall, and chases her when she escapes toward the exit.
+
+The victim struggles to escape, but the zombie catches her again. Dark veins spread across the victim's neck and face as she convulses and collapses. Her eyes turn milky white and then black as she rises, now infected. The two infected women turn toward another person entering the washroom and suddenly charge at them.
+
+End with the washroom lights flickering as the infected women stand motionless beneath the fluorescent lights, staring directly into the camera.
+
+Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921)**
 
 ### 烈焰翻锅的餐厅主厨
 
@@ -3180,74 +3384,6 @@ Live-action anime-style hybrid fox girl Kitsune Gumiho warrior with long blonde 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/laviniavelle-seedance-ai-760bfc70f748)**
 
-### 金发女孩被戳脸后撒娇委屈
-
-> 手机动态壁纸已经进化到这种程度了吗？ 每天点亮屏幕，心情都跟着变好了。😂 右边是原视频，喜欢拿去做动态壁纸 不只好玩，其实还能做成 AI 视频小副业！ Seedance 2.5制作 Prompt🔽 参考上传图片中的同一位成年女性角色，保
-
-[<img src="https://media.goodcase.ai/cases/d8a275aaed82.jpg" width="600" alt="金发女孩被戳脸后撒娇委屈">](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5)
-
-**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2091477403239596328) | **发布:** 2026-08-23 | **热度:** 58
-
-<details>
-<summary><b>完整 prompt（50 行，点开展开）</b></summary>
-
-```
-手机动态壁纸已经进化到这种程度了吗？
-每天点亮屏幕，心情都跟着变好了。😂
-
-右边是原视频，喜欢拿去做动态壁纸
-不只好玩，其实还能做成 AI 视频小副业！
-
-Seedance 2.5制作    
-Prompt🔽
-
-参考上传图片中的同一位成年女性角色，保持脸型、五官、浅金色长发、空气刘海、深蓝色花朵发夹、妆容与整体造型一致。
-
-生成一段 8 秒、9:16 竖屏、固定机位、一镜到底的正面超近景人物视频。
-
-整体表演：软萌、调皮、可爱、娇俏，带一点自然撒娇和假装委屈感。
-重点表现眼神、嘴唇、眉毛、脸颊和轻微头部跟随产生的真实微表情。
-0–1.5 秒
-
-女主正视镜头，神态柔和可爱，嘴唇自然微张后轻轻合拢。
-伴随呼吸，头部和下巴产生极小幅自然移动。
-
-1.5–3.7 秒
-眼睛先慢慢向画面左侧移动，偷偷侧瞄旁边。
-头部稍晚才向同方向轻微跟随，移动幅度明显小于眼神，形成调皮、偷偷观察的感觉。
-
-3.7–4.6 秒
-
-自然完成一次双眼眨眼。
-视线重新回到镜头，头部同时轻轻回正，恢复软萌自然的表情。
-4.6–5.2 秒
-
-眼睛先向下看，下巴随后轻微降低。
-一只手从画面右下方自然进入，食指缓慢靠近画面右侧脸颊。
-女主观察手指，嘴唇开始轻轻向前收拢。
-
-5.2–6.6 秒
-食指轻轻按压脸颊，脸颊产生真实柔软的轻微凹陷。
-接触瞬间女主双眼短暂眯起，头部顺着触碰产生极轻微的受力让位和侧倾。
-
-随后重新睁眼看向镜头：
-
-眉头轻轻收拢 + 下唇微微鼓起 + 嘴角轻微向下
-形成调皮可爱、撒娇式的假装委屈表情。
-6.6–8 秒
-
-食指离开脸颊，脸颊自然回弹，头部轻轻回正。
-
-委屈表情连续释放：
-嘴唇放松 → 眉头舒展 → 自然快速眨一次双眼。
-
-最后重新正视镜头，嘴唇轻轻微张，恢复甜甜、软萌、略带调皮感的自然表情。
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5)**
-
 ### 餐桌甜点世界里的迷你女子
 
 > Made with GPT image 2.5 + seedance 2.5 Prompt: 16:9 widescreen, 30 seconds, Dola Continuous Engine. STYLE LOCK: Inspired by classic late-1960s Irwin Allen telev…
@@ -3481,6 +3617,74 @@ AUDIO: authentic rain, footsteps, traffic, café ambience, food-stall sounds, wi
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/hustlexr-seedance-ai-23a0d0b1e1ff)**
+
+### 金发女孩被戳脸后撒娇委屈
+
+> 手机动态壁纸已经进化到这种程度了吗？ 每天点亮屏幕，心情都跟着变好了。😂 右边是原视频，喜欢拿去做动态壁纸 不只好玩，其实还能做成 AI 视频小副业！ Seedance 2.5制作 Prompt🔽 参考上传图片中的同一位成年女性角色，保
+
+[<img src="https://media.goodcase.ai/cases/d8a275aaed82.jpg" width="600" alt="金发女孩被戳脸后撒娇委屈">](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5)
+
+**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2091477403239596328) | **发布:** 2026-08-23 | **热度:** 57
+
+<details>
+<summary><b>完整 prompt（50 行，点开展开）</b></summary>
+
+```
+手机动态壁纸已经进化到这种程度了吗？
+每天点亮屏幕，心情都跟着变好了。😂
+
+右边是原视频，喜欢拿去做动态壁纸
+不只好玩，其实还能做成 AI 视频小副业！
+
+Seedance 2.5制作    
+Prompt🔽
+
+参考上传图片中的同一位成年女性角色，保持脸型、五官、浅金色长发、空气刘海、深蓝色花朵发夹、妆容与整体造型一致。
+
+生成一段 8 秒、9:16 竖屏、固定机位、一镜到底的正面超近景人物视频。
+
+整体表演：软萌、调皮、可爱、娇俏，带一点自然撒娇和假装委屈感。
+重点表现眼神、嘴唇、眉毛、脸颊和轻微头部跟随产生的真实微表情。
+0–1.5 秒
+
+女主正视镜头，神态柔和可爱，嘴唇自然微张后轻轻合拢。
+伴随呼吸，头部和下巴产生极小幅自然移动。
+
+1.5–3.7 秒
+眼睛先慢慢向画面左侧移动，偷偷侧瞄旁边。
+头部稍晚才向同方向轻微跟随，移动幅度明显小于眼神，形成调皮、偷偷观察的感觉。
+
+3.7–4.6 秒
+
+自然完成一次双眼眨眼。
+视线重新回到镜头，头部同时轻轻回正，恢复软萌自然的表情。
+4.6–5.2 秒
+
+眼睛先向下看，下巴随后轻微降低。
+一只手从画面右下方自然进入，食指缓慢靠近画面右侧脸颊。
+女主观察手指，嘴唇开始轻轻向前收拢。
+
+5.2–6.6 秒
+食指轻轻按压脸颊，脸颊产生真实柔软的轻微凹陷。
+接触瞬间女主双眼短暂眯起，头部顺着触碰产生极轻微的受力让位和侧倾。
+
+随后重新睁眼看向镜头：
+
+眉头轻轻收拢 + 下唇微微鼓起 + 嘴角轻微向下
+形成调皮可爱、撒娇式的假装委屈表情。
+6.6–8 秒
+
+食指离开脸颊，脸颊自然回弹，头部轻轻回正。
+
+委屈表情连续释放：
+嘴唇放松 → 眉头舒展 → 自然快速眨一次双眼。
+
+最后重新正视镜头，嘴唇轻轻微张，恢复甜甜、软萌、略带调皮感的自然表情。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/chengzilhy-seedance-ai-a4dce9879ac5)**
 
 ### GPT Image 2 + Seedance 2.5 三十秒电影级短片
 
@@ -4279,6 +4483,48 @@ Accurate human biomechanics, grounded feet, continuous objects, realistic walkin
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-12c7aabe6be5)**
 
+### 穿越土耳其霓虹古城、碧海与热气球天空
+
+> Seedance 2.5 Prompt: Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TU…
+
+[<img src="https://media.goodcase.ai/cases/313dd39b0f8a.jpg" width="600" alt="穿越土耳其霓虹古城、碧海与热气球天空">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-fpv-travel-film-showcasing-the-fut-10f862c76c6a)
+
+**作者:** @Naiknelofar788 | **来源:** [原帖](https://x.com/Naiknelofar788/status/2106439652278411435) | **发布:** 2026-10-03 | **热度:** 53
+
+<details>
+<summary><b>完整 prompt（24 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TURKEY. Blend cyberpunk technology with Istanbul’s historic architecture, vibrant streets, Mediterranean and Aegean coastlines, and spectacular night imagery. Use extreme-speed FPV drone movement, hyperlapse, seamless spatial transitions, and dense but controlled flash-cut editing. 8K cinematic realism, photorealistic environments, realistic crowds and vehicles, dramatic lighting, smooth motion blur only during rapid transitions, premium commercial cinematography. No text, logos, subtitles, or watermarks.
+
+[0–6s] — CITY FROM THE SKY
+Begin above Istanbul at sunrise, surrounded by mist and clouds. An FPV drone dives rapidly between modern skyscrapers before sweeping toward the Bosphorus. The scene transitions from warm daylight into blue-hour neon as the city below comes alive. Cars create flowing light trails while the camera races through vibrant streets, revealing Istanbul’s futuristic energy beside historic architecture.
+
+[6–12s] — TECHNOLOGY & HISTORY
+Use rapid cinematic match cuts: a modern tram glides through the city, instantly transitioning into a close-up of a traditional Turkish coffee being prepared; a speeding ferry cuts across the Bosphorus, followed by a dramatic aerial reveal of the Hagia Sophia and Blue Mosque. Turkish street life, glowing shopfronts, crowded avenues, and modern architecture flash together in rhythmic visual transitions.
+
+[12–18s] — SPATIAL FOLD TO THE COAST
+A moving object passes directly across the lens and becomes a seamless transition into the Turkish coastline. The camera bursts over crystal-clear turquoise water near Antalya and races along dramatic Mediterranean cliffs. Speedboats cut through the sea, white spray exploding behind them. Transition toward Cappadocia as hot-air balloons suddenly fill the sky above the surreal rock formations.
+
+[18–24s] — TURKEY IN MOTION
+The camera dives between Cappadocia’s towering rock formations and rapidly transitions to a bustling Istanbul street at golden hour. Match-cut between a Turkish flag waving in the wind, a crowded bazaar, traditional architecture, modern city traffic, and people enjoying the coastline. Use fast but visually coherent transitions that emphasize Turkey’s contrast between ancient heritage and modern life.
+
+[24–30s] — THE GRAND FINALE
+Night falls instantly. The camera rises above Istanbul and reveals the Bosphorus illuminated by thousands of city lights. A massive coordinated drone light show forms elegant abstract shapes above the skyline while boats move across the glowing water below. The camera pulls rapidly backward and upward into an enormous aerial panorama, revealing Istanbul stretching across both sides of the Bosphorus.
+
+End with a powerful wide cinematic shot of the illuminated city, water, bridges, historic landmarks, and night sky.
+
+STYLE: ultra-realistic 8K cinematic travel film, photorealistic Turkey, extreme FPV drone cinematography, high-speed hyperlapse, seamless spatial transitions, dynamic match cuts, realistic crowds and vehicles, detailed architecture, natural atmospheric haze, volumetric light, cinematic depth of field, realistic reflections, subtle motion blur only during fast transitions, HDR, premium tourism-commercial quality.
+
+COLOR: begin with warm natural daylight, transition into cool blue and cyan tones during futuristic city sequences, use rich turquoise and golden tones along the coast, then finish with deep blue night and warm city lights.
+
+AUDIO: cinematic electronic pulse building with the speed of the visuals, Istanbul street ambience, ferry horns, traffic, waves, wind, subtle traditional Turkish instrumental textures, then a powerful musical rise for the final aerial reveal. No spoken dialogue.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-fpv-travel-film-showcasing-the-fut-10f862c76c6a)**
+
 ### 韩式脆皮辣酱炸鸡制作
 
 > A simple kitchen recipe turns into the crispiest, most satisfying Korean-style chicken. 🍗🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic…
@@ -4783,76 +5029,6 @@ No text, no subtitles, no watermark, no distorted faces, no extra fingers, no du
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557)**
-
-### 报纸丛中的勃艮第红时尚女郎
-
-> Caught between headlines and high fashion. 📰💄 Made with Seedance 2.5 on @FishCreativeHQ Prompt : Create a 15-second extremely fast-paced luxury fashion editor…
-
-[<img src="https://media.goodcase.ai/cases/119dc36001b8.jpg" width="600" alt="报纸丛中的勃艮第红时尚女郎">](https://goodcase.ai/cases/seedance-create-a-15-second-extremely-fast-paced-luxury-fashion-editorial-video-using-th-83bef02d5153)
-
-**作者:** @AIwithNatalia | **来源:** [原帖](https://x.com/AIwithNatalia/status/2103481825096278257) | **发布:** 2026-09-25 | **热度:** 52
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a 15-second extremely fast-paced luxury fashion editorial video using the reference image. The woman must remain lying in the exact same pose throughout the entire video — no standing, walking, sitting up, or pose changes. Keep her exact facial features, burgundy hair, identity, and styling consistent.
-
-The video should feel like a rapid fashion campaign, with constant visual movement and very quick cuts every 0.3–1 second, synced tightly to a punchy fashion beat.
-
-0–2s: Start with the overhead shot of her lying among newspapers. Rapid push-in → immediate cut to her applying red lipstick.
-
-2–4s: Ultra-fast beauty cuts:
-lips → lipstick swipe → sunglasses → red nails → pearl earrings → eyes.
-Each shot lasts only a fraction of a second, with quick snap zooms and whip transitions.
-
-4–6s: Back to the full overhead composition. She adjusts her sunglasses while newspapers rapidly fly across the frame. Camera makes a quick circular move around her.
-
-6–9s: Faster macro montage:
-lipstick closing → glossy lips → sunglasses catching light → nails gripping newspaper → earrings swinging → burgundy hair moving.
-Use aggressive editorial cuts, speed ramps, and flash-like transitions.
-
-9–12s: Return to her lying pose. She casually applies lipstick again as newspapers swirl rapidly around her and red rose petals fall from above, creating layered motion around the completely still fashion pose.
-
-12–15s: Rapid sequence of eyes → lips → sunglasses → nails → earrings, then a sudden overhead pullback revealing the entire newspaper-covered composition. Newspapers fly directly across the lens and create the final transition.
-
-Visual style: high-fashion magazine campaign, cinematic overhead photography, dramatic hard sunlight, deep shadows, glossy beauty lighting, realistic skin and hair, rich burgundy/red accents, luxury editorial aesthetic, energetic camera movement, very fast cutting, speed ramps, whip transitions, snap zooms, motion blur, beat-synced editing.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-15-second-extremely-fast-paced-luxury-fashion-editorial-video-using-th-83bef02d5153)**
-
-### 都市女性从晨起到入眠的一天
-
-> Cinematic Life Routine AI Video Prompts Detailed Prompts for Generating Aesthetic Daily Vlog Scenes Made with seedance 2.5 Prompt: CHARACTER REFERENCE: @image1 …
-
-[<img src="https://media.goodcase.ai/cases/6eaa8e31f359.jpg" width="600" alt="都市女性从晨起到入眠的一天">](https://goodcase.ai/cases/seedance-character-reference-main-character-identity-aab5b85707ca)
-
-**作者:** @noorlewisx | **来源:** [原帖](https://x.com/noorlewisx/status/2102628377463275651) | **发布:** 2026-09-23 | **热度:** 52
-
-<details>
-<summary><b>完整 prompt（13 行，点开展开）</b></summary>
-
-```
-CHARACTER REFERENCE: @image1 = main character identity. Preserve exact face, eyes, nose, lips, skin tone, hairstyle, and body proportions across all scenes. Cinematic 4K, 35mm lens, soft natural lighting, realistic skin texture, subtle film grain.
-
-SCENES SEQUENCE:
-1. MORNING: @image1 opens eyes under soft white bed linens in warm sunlight.
-2. COFFEE: @image1 walks outside sipping coffee, blurred street background.
-3. GETTING READY: @image1 splashes water on face and applies mascara in bathroom mirror.
-4. LEAVING HOME: @image1 steps out of classic building in oversized brown blazer, walks down tree-lined street.
-5. CITY WALK: @image1 walks busy street in a leather jacket while checking smartphone.
-6. CAFE: @image1 reads a book beside a latte, then eats a fresh salad in a brick-walled cafe.
-7. EVENING: @image1 returns home, takes off jacket, washes face, dries with towel, gets into bed, and falls asleep.
-
-STYLE: photorealistic, shallow depth of field, gentle tracking camera, lifestyle vlog aesthetic.
-NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anime, beauty filter. --ar 9:16
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-character-reference-main-character-identity-aab5b85707ca)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md)

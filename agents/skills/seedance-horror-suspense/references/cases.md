@@ -225,7 +225,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ## E6 · Infection Terror Aboard a Night Sleeper Train
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 79
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
 - Summary: One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
 

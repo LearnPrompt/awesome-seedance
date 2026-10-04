@@ -769,7 +769,7 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 
 [<img src="https://media.goodcase.ai/cases/dcc163d4e56d.jpg" width="600" alt="Urban Police Chase and Explosive Getaway">](https://goodcase.ai/cases/seedance-police-chase-621254905333)
 
-**作者:** @Aria_Nawi | **出典:** [元投稿](https://x.com/Aria_Nawi/status/2098461817555374451) | **公開日:** 2026-09-11 | **ヒート:** 88
+**作者:** @Aria_Nawi | **出典:** [元投稿](https://x.com/Aria_Nawi/status/2098461817555374451) | **公開日:** 2026-09-11 | **ヒート:** 89
 
 <details>
 <summary><b>プロンプト全文（6 行、クリックで展開）</b></summary>
@@ -2328,13 +2328,31 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-142119be6421)**
 
+### Cats Chasing via Red Mini Motorcycle
+
+> A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
+
+[<img src="https://media.goodcase.ai/cases/80df57bc40f6.jpg" width="600" alt="Cats Chasing via Red Mini Motorcycle">](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2084901309988425731) | **公開日:** 2026-08-05 | **ヒート:** 81
+
+**安定度:** 89/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 88.8) · [出力](https://media.goodcase.ai/retests/cats-chasing-via-red-mini-motorcycle/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle)**
+
 ### Schoolgirl Fights Back Against Pranking Upperclassmen
 
 > festival committee by day, undefeated by literally always POV: you interrupt Yuki mid-decorating "do try to help next time, senpai" — the most polite threat eve…
 
 [<img src="https://media.goodcase.ai/cases/8eb2b56f694a.jpg" width="600" alt="Schoolgirl Fights Back Against Pranking Upperclassmen">](https://goodcase.ai/cases/seedance-an-old-wooden-japanese-school-corridor-during-festival-prep-week-c86f23f6acfa)
 
-**作者:** @Chaemate_ | **出典:** [元投稿](https://x.com/Chaemate_/status/2100489249665740964) | **公開日:** 2026-09-17 | **ヒート:** 82
+**作者:** @Chaemate_ | **出典:** [元投稿](https://x.com/Chaemate_/status/2100489249665740964) | **公開日:** 2026-09-17 | **ヒート:** 81
 
 <details>
 <summary><b>プロンプト全文（61 行、クリックで展開）</b></summary>
@@ -2406,24 +2424,6 @@ POSITIVE LOCKS
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-an-old-wooden-japanese-school-corridor-during-festival-prep-week-c86f23f6acfa)**
-
-### Cats Chasing via Red Mini Motorcycle
-
-> A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
-
-[<img src="https://media.goodcase.ai/cases/80df57bc40f6.jpg" width="600" alt="Cats Chasing via Red Mini Motorcycle">](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2084901309988425731) | **公開日:** 2026-08-05 | **ヒート:** 81
-
-**安定度:** 89/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 88.8) · [出力](https://media.goodcase.ai/retests/cats-chasing-via-red-mini-motorcycle/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle)**
 
 ### GPT Image 2 + Seedance From the Deep: One Jet, One Shot
 
@@ -3490,24 +3490,6 @@ Her face and identity stay consistent with the reference in every cut. Lighting 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-young-japanese-woman-films-a-handheld-selfie-vlog-at-a-riverside-shrine-summe-1c4b78c5841a)**
 
-### Subway Station Hand-to-Hand Combat
-
-> Cinematic action at its finest Raw power speed and intensity. Made With Seedance 2.0 Prompt: A dynamic, cinematic action
-
-[<img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="600" alt="Subway Station Hand-to-Hand Combat">](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010)
-
-**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2093162800747282739) | **公開日:** 2026-08-28 | **ヒート:** 73
-
-**安定度:** 86/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86) · [出力](https://media.goodcase.ai/retests/laviniavelle-seedance-ai-c5f328d19010/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010)**
-
 ### Mediterranean Hillside Villa Interior and Aerial Tour
 
 > A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
@@ -3693,6 +3675,24 @@ Audio: natural park ambience, distant voices, ball impact, footsteps
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c)**
 
+### Subway Station Hand-to-Hand Combat
+
+> Cinematic action at its finest Raw power speed and intensity. Made With Seedance 2.0 Prompt: A dynamic, cinematic action
+
+[<img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="600" alt="Subway Station Hand-to-Hand Combat">](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010)
+
+**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2093162800747282739) | **公開日:** 2026-08-28 | **ヒート:** 72
+
+**安定度:** 86/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86) · [出力](https://media.goodcase.ai/retests/laviniavelle-seedance-ai-c5f328d19010/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010)**
+
 ### From Waking Up to a Morning Walk with His Dog
 
 > POV: turning a simple morning routine into a cinematic little story ☕🐶✨ From waking up and making coffee to taking the
@@ -3819,59 +3819,6 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13)**
-
-### Seedance Fifteen-Second Influencer Lifestyle Short
-
-> A few things making life a little more fun lately ✨🤍 Definitely can’t pick a favorite. Created with Seedance 2.0 on @bu
-
-[<img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="600" alt="Seedance Fifteen-Second Influencer Lifestyle Short">](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989)
-
-**作者:** @sophiaparkerr_ | **出典:** [元投稿](https://x.com/sophiaparkerr_/status/2088966649659764899) | **公開日:** 2026-08-16 | **ヒート:** 70
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/sophiaparkerr-seedance-ai-51ad3cc85989/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（31 行、クリックで展開）</b></summary>
-
-```
-FORMAT:16:9 widescreen, 15 seconds, realistic influencer-style lifestyle video, cinematic 4K, natural lighting, premium fashion aesthetic, fast-paced editing, authentic creator energy.
-
-0:00–0:03 — HOOK
-Influencer looks into the camera while holding her bag.
-Dialogue: “Okay, these are the things I’m obsessed with right now.”
-
-0:03–0:05 — BAG
-Close-up of the bag as she picks it up.
-Dialogue: “First, this bag. I literally take it everywhere.”
-
-0:05–0:07 — PERFUME
-Macro shot of perfume as she sprays it on her wrist.
-Dialogue: “And this perfume? My current favorite.”
-
-0:07–0:09 — SUNGLASSES
-She puts on her sunglasses and looks confidently at the camera.
-Dialogue: “These sunglasses make every outfit better.”
-
-0:09–0:11 — SHOES
-Close-up of her shoes as she starts walking.
-Dialogue: “And these shoes are way too good.”
-
-0:11–0:13 — PHONE
-She checks her phone while walking through a stylish café or city street.
-Dialogue: “Obviously, my phone never leaves my hand.”
-
-0:13–0:15 — FINAL SHOT
-Quick montage of all five items. She smiles and walks away.
-Dialogue: “Yeah… I’m obsessed with all of them.”
-
-STYLE: Natural influencer delivery, conversational tone, subtle facial expressions, accurate lip-sync, clean dialogue audio, upbeat background music underneath, quick 1–2 second cuts, smooth whip transitions, handheld camera movement, shallow depth of field, realistic product textures, premium but authentic social-media aesthetic.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989)**
 
 ### Woman Gets Ready, Puts On Pink Sunglasses and Looks Back
 
@@ -4033,6 +3980,59 @@ Flow: rapid circular redirects (Tai Chi) into lightning-fast hard strikes (Muay 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yourplugai-seedance-ai-fb797edfc8e4)**
+
+### Seedance Fifteen-Second Influencer Lifestyle Short
+
+> A few things making life a little more fun lately ✨🤍 Definitely can’t pick a favorite. Created with Seedance 2.0 on @bu
+
+[<img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="600" alt="Seedance Fifteen-Second Influencer Lifestyle Short">](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989)
+
+**作者:** @sophiaparkerr_ | **出典:** [元投稿](https://x.com/sophiaparkerr_/status/2088966649659764899) | **公開日:** 2026-08-16 | **ヒート:** 69
+
+**安定度:** 77/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/sophiaparkerr-seedance-ai-51ad3cc85989/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（31 行、クリックで展開）</b></summary>
+
+```
+FORMAT:16:9 widescreen, 15 seconds, realistic influencer-style lifestyle video, cinematic 4K, natural lighting, premium fashion aesthetic, fast-paced editing, authentic creator energy.
+
+0:00–0:03 — HOOK
+Influencer looks into the camera while holding her bag.
+Dialogue: “Okay, these are the things I’m obsessed with right now.”
+
+0:03–0:05 — BAG
+Close-up of the bag as she picks it up.
+Dialogue: “First, this bag. I literally take it everywhere.”
+
+0:05–0:07 — PERFUME
+Macro shot of perfume as she sprays it on her wrist.
+Dialogue: “And this perfume? My current favorite.”
+
+0:07–0:09 — SUNGLASSES
+She puts on her sunglasses and looks confidently at the camera.
+Dialogue: “These sunglasses make every outfit better.”
+
+0:09–0:11 — SHOES
+Close-up of her shoes as she starts walking.
+Dialogue: “And these shoes are way too good.”
+
+0:11–0:13 — PHONE
+She checks her phone while walking through a stylish café or city street.
+Dialogue: “Obviously, my phone never leaves my hand.”
+
+0:13–0:15 — FINAL SHOT
+Quick montage of all five items. She smiles and walks away.
+Dialogue: “Yeah… I’m obsessed with all of them.”
+
+STYLE: Natural influencer delivery, conversational tone, subtle facial expressions, accurate lip-sync, clean dialogue audio, upbeat background music underneath, quick 1–2 second cuts, smooth whip transitions, handheld camera movement, shallow depth of field, realistic product textures, premium but authentic social-media aesthetic.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989)**
 
 ### Seedance Ghibli-Style Comfort Cooking Animation
 

@@ -2,9 +2,27 @@
 
 Seedance 2.0 の全 275 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 275 件中 274–275 件目。
+このページ: 275 件中 273–275 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · **Part 4**
+
+### 1990s Disney-Style Forest Animation
+
+> A multi-scene video prompt for creating a 1990s Disney-style hand-drawn animation starring a raccoon and a turtle in the forest.
+
+[<img src="https://media.goodcase.ai/media/poster/90-f704a9d8555b.jpg" width="600" alt="1990s Disney-Style Forest Animation">](https://goodcase.ai/cases/90-f704a9d8555b)
+
+**作者:** @samaote | **出典:** [元投稿](https://x.com/samaote/status/2080638821557731785) | **公開日:** 2026-07-24 | **ヒート:** -
+
+**安定度:** 87/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/90-f704a9d8555b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Classic 1990s Disney-style hand-drawn animation, colorful forest, expressive animal faces, exaggerated physical comedy, smooth cinematic motion, family-friendly humor. Scene 1 — 0–3s: A mischievous raccoon spots a picnic basket hanging from a tree. He stands on a sleepy turtle’s curved shell, stretching upward and saying, “Stay still!” Scene 2 — 3–6s: A tiny butterfly lands on the turtle’s nose. The turtle’s eyes cross, his cheeks puff up, and he desperately tries not to sneeze. The raccoon wobbles above him. Scene 3 — 6–10s: The turtle releases a huge sneeze and pulls into his shell. The shell suddenly rolls forward like a wheel, carrying the terrified raccoon around the pond as he shouts, “Wrong way!” Scene 4 — 10–13s: The shell hits a tree root, launching the raccoon through the air and directly into the hanging picnic basket. Food and fruit explode everywhere. Scene 5 — 13–15s: The raccoon lands face-first in a cream pie. The turtle calmly catches a falling sandwich, takes a bite, and asks, “Did we get it?” The raccoon silently gives him a cream-covered thumbs-up. Fast pacing, clear visual storytelling, natural character motion, playful sound effects, no subtitles, no watermark.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/90-f704a9d8555b)**
 
 ### Japanese Summer Festival Selfie Vlog
 

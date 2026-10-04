@@ -33,7 +33,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 ## E3 · The Tiny Frog Chef at a Moonlit Pond Restaurant
 
-- Seedance 2.5 · creator: @Caden_Flux · heat: 81 · stability: 83
+- Seedance 2.5 · creator: @Caden_Flux · heat: 80 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f) · [finished media](https://media.goodcase.ai/media/video/caden-flux-seedance-ai-473fedbbc75f.mp4) · [poster](https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg) · [original source](https://x.com/Caden_Flux/status/2091396961329131999)
 - Summary: Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
 
@@ -187,7 +187,7 @@ The tiny frog che
 
 ## E4 · Adorable Bunnies Kiss and Hug on a Cozy Sofa
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 78
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
 

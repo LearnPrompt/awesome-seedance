@@ -16,7 +16,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 ## E2 · An Afternoon in a Hammock and Washing a Motorcycle
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 96
+- Seedance 2.5 · creator: @doctorwasif · heat: 97
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00) · [finished media](https://media.goodcase.ai/cases/5a19fec06723.mp4) · [poster](https://media.goodcase.ai/cases/d3f9b6377ec3.jpg) · [original source](https://x.com/doctorwasif/status/2099836703729172540)
 - Summary: Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
 

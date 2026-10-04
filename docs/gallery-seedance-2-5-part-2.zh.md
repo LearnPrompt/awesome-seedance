@@ -1,10 +1,55 @@
 # Seedance 2.5 — 全量案例（第 2/6 页）
 
-Seedance 2.5 全部 479 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 485 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 81–168 条，共 479 条。
+本页：第 81–169 条，共 485 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md)
+
+### 韩国情侣的慵懒夏日街区漫步
+
+> A lazy summer morning with him > any perfectly planned date 📍 Seoul, early morning Made with Seedance 2.5 Prompt: POV: Korean couple spends a lazy summer morni…
+
+[<img src="https://media.goodcase.ai/cases/c39ee14f9f1b.jpg" width="600" alt="韩国情侣的慵懒夏日街区漫步">](https://goodcase.ai/cases/seedance-pov-korean-couple-spends-a-lazy-summer-morning-wandering-their-neighborhood-0d246cd8363d)
+
+**作者:** @AIwithJessica | **来源:** [原帖](https://x.com/AIwithJessica/status/2096779054720639258) | **发布:** 2026-09-07 | **热度:** 82
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+POV: Korean couple spends a lazy summer morning wandering their neighborhood 🇰🇷 Create a 30-second, 16:9 ultra-realistic live-action POV vlog using the uploaded reference images as the exact character references. Girl: preserve her face, long straight dark hair, eye color, skin tone, soft natural makeup, delicate drop earrings, and body proportions exactly as in reference image 2, wearing her sage-green sleeveless ribbed knit vest and white wide-leg trousers throughout. Boy: preserve his face, tousled dark wavy hair, earrings, layered silver chain necklace, chain bracelet and wristwatch exactly as in reference image 1, wearing his oversized dusty-pink smiley-face tee and white sweatshorts throughout.
+
+Style: Authentic Korean lifestyle vlog, early-2000s MiniDV/home-video aesthetic, handheld POV, imperfect framing, slight autofocus breathing, natural motion blur and exposure changes, soft overcast morning light. Spontaneous, unstaged chemistry.
+
+0–3s: She leans against a textured green courtyard wall, laughing as she films him approaching down the lane with two iced coffees.
+
+3–6s: They walk side by side down the narrow concrete alley, camera swinging naturally; he hands her a coffee and she takes a sip, smiling at the lens.
+
+6–9s: She spins slowly in front of an old wall covered in dappled tree-shadow, showing off her outfit; he claps and whistles playfully off-camera.
+
+9–12s: They pause by a row of parked bicycles; he pretends to ride one and she films, giggling, telling him to stop.
+
+12–15s: Inside the small convenience store, she picks a snack from the shelf while he sneaks a second item into her basket; she catches him and narrows her eyes.
+
+15–18s: Outside the store, they sit on a low step sharing the snack, passing it back and forth, natural laughter between bites.
+
+18–21s: Walking again, she films their shadows stretching across the pavement; he reaches over and gently tucks a strand of her hair back.
+
+21–24s: They stop by a wall of hanging laundry and potted plants; she pretends to interview him with the coffee cup as a microphone.
+
+24–27s: He points out something off-camera; she turns to look, laughing, then bumps his shoulder with hers.
+
+27–30s: They continue walking down the sunlit lane, hand in hand, camera trailing behind as they shrink into the distance; she glances back once, smiling, before the frame settles into a soft handheld sway.
+
+Audio: Natural location sound only—quiet residential ambience, birds, distant traffic, footsteps, rustling laundry, convenience store door chime, soft conversation and laughter. No music, narration or artificial SFX.
+
+Continuity/realism: Same woman and boyfriend throughout; consistent wardrobe and appearance matching the reference images exactly, believable Korean neighborhood environment, realistic physics and movement, natural couple chemistry. No teleportation, duplicates, distorted faces/hands, exaggerated acting, subtitles, captions, logos or watermarks.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pov-korean-couple-spends-a-lazy-summer-morning-wandering-their-neighborhood-0d246cd8363d)**
 
 ### 夜行卧铺列车感染爆发
 
@@ -49,6 +94,37 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e)**
+
+### 韩国女孩在首尔老街迎接冬日初雪
+
+> First snow. Instant happiness. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Kor…
+
+[<img src="https://media.goodcase.ai/cases/6996e38a6eb3.jpg" width="600" alt="韩国女孩在首尔老街迎接冬日初雪">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-af75581b34cc)
+
+**作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2106251329085874184) | **发布:** 2026-10-03 | **热度:** 81
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman experiencing Seoul’s first snowfall of winter. Use the attached image as the character reference and keep her face, hairstyle, body proportions, outfit and identity consistent throughout.
+
+She notices the first snow from her window, excitedly grabs her coat and scarf, rushes outside and catches snowflakes in her hand. She runs briefly through the residential lane, crouches to make a tiny snowball, shows it proudly to the camera and tosses it. The snowball follows realistic gravity and breaks apart naturally on impact.
+
+She continues walking through the snowy older Seoul neighborhood, leaving believable footprints as snow gradually settles on bicycles, cars, rooftops and bushes. Her hair, scarf and coat move naturally in the winter breeze, with subtle visible breath in the cold air.
+
+At the end, she stops beneath a streetlight, looks into the camera, catches a snowflake in her palm and softly says, “First snow.” She smiles and walks away as the handheld camera follows.
+
+Authentic early-2000s consumer DV look: shaky handheld framing, autofocus hunting, slight exposure/white-balance shifts, soft digital detail, CCD noise, subtle interlacing, cool white balance, natural motion blur, limited dynamic range and occasional awkward zooms. The camera operator reacts imperfectly like a real home-video recording.
+
+Natural diegetic audio only: wind, footsteps crunching snow, breathing, doors, fabric movement, distant traffic, birds and neighborhood ambience. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.
+
+Negative prompt: inconsistent face, changing clothes, morphing, distorted hands, extra fingers, unnatural physics, floating snow, instant snowballs, impossible trajectories, teleportation, clipping, plastic skin, cinematic camera, excessive stabilization, commercial look, logos, watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-af75581b34cc)**
 
 ### 韩国女生户外泳池 Vlog
 
@@ -414,221 +490,6 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da)**
-
-### 月光池塘里的迷你青蛙大厨
-
-> Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
-
-[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg" width="600" alt="月光池塘里的迷你青蛙大厨">](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)
-
-**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2091396961329131999) | **发布:** 2026-08-23 | **热度:** 81
-
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/caden-flux-seedance-ai-473fedbbc75f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（193 行，点开展开）</b></summary>
-
-```
-The Tiny Frog Michelin Chef — 30-Second Animated Short
-
-Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
-
-The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
-
-MAIN CHARACTER
-
-A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
-
-He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
-
-Despite being tiny and adorable, he behaves like an extremely serious professional chef.
-
-His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
-
-Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
-
-0–5 SEC — THE RESTAURANT
-
-Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
-
-Fireflies glow like miniature chandeliers.
-
-Lily pads become elegant dining tables.
-
-Tiny candles illuminate the water.
-
-The frog chef stands inside his miniature outdoor kitchen.
-
-He adjusts his chef hat with complete seriousness.
-
-He looks directly at the dish he is about to prepare.
-
-Dramatic cinematic push-in toward his determined face.
-
-5–10 SEC — THE PREPARATION
-
-Rapid cinematic cooking montage.
-
-The tiny frog dramatically chops miniature vegetables.
-
-He slices mushrooms with incredible precision.
-
-He tosses herbs into a tiny copper pan.
-
-Butter melts.
-
-Steam rises.
-
-He tastes the sauce with a tiny spoon.
-
-His eyes narrow.
-
-He adds exactly one more tiny pinch of seasoning.
-
-He tastes it again.
-
-His expression finally shows approval.
-
-Use exaggerated but believable animated physical comedy.
-
-10–17 SEC — THE MASTERPIECE
-
-The frog chef begins assembling his signature dish.
-
-He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
-
-He uses tweezers to position a single delicate herb.
-
-He steps back.
-
-Something looks wrong.
-
-His eyes widen.
-
-He rushes back to the plate.
-
-He moves one tiny vegetable approximately one millimeter.
-
-He steps back again.
-
-Perfect.
-
-His face lights up with pride.
-
-17–22 SEC — THE BIG PRESENTATION
-
-The frog dramatically carries the tiny plate across a lily-pad dining area.
-
-Several adorable woodland animals sit at tiny tables watching him.
-
-A rabbit.
-
-A hedgehog.
-
-A duckling.
-
-A small turtle.
-
-They all stare at the dish with exaggerated anticipation.
-
-The frog carefully places the plate in the center.
-
-Everyone leans forward.
-
-22–27 SEC — THE TASTE
-
-The animals take one bite.
-
-Silence.
-
-Their eyes suddenly become enormous.
-
-The rabbit gasps.
-
-The hedgehog's ears shoot upward.
-
-The duckling freezes in amazement.
-
-The turtle slowly raises both tiny flippers.
-
-Then everyone starts happily celebrating.
-
-The frog chef stands completely still, trying desperately to maintain his serious professional expression.
-
-A tiny smile slowly appears.
-
-27–30 SEC — THE PAYOFF
-
-Suddenly, the frog's miniature restaurant becomes completely chaotic.
-
-The animals cheer.
-
-Fireflies swirl around the restaurant like sparkling lights.
-
-The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
-
-Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
-
-Final shot:
-
-The tiny frog chef stands proudly beneath his oversized chef hat.
-
-Adorable. Dramatic. Completely ridiculous.
-
-VISUAL & ANIMATION STYLE
-
-Premium cinematic 3D animated feature-film quality.
-
-Extremely expressive character animation.
-
-Cute stylized proportions.
-
-Detailed frog skin.
-
-Soft natural reflections in the eyes.
-
-Realistic miniature food textures.
-
-Tiny believable kitchen props.
-
-Beautiful moonlit pond environment.
-
-Warm candlelight contrasting with cool nighttime atmosphere.
-
-Detailed lily pads, flowers, fireflies, water reflections, and vegetation.
-
-Playful cartoon physics.
-
-Subtle squash-and-stretch.
-
-Excellent comedic timing.
-
-Smooth cinematic camera movements.
-
-Dynamic food close-ups.
-
-Macro photography feeling for the tiny world.
-
-Shallow depth of field.
-
-Soft volumetric lighting.
-
-Natural motion blur.
-
-Polished theatrical rendering.
-
-The entire sequence should feel like one continuous animated movie scene, with consistent character design, environment, lighting, proportions, and animation quality.
-
-16:9 LANDSCAPE — 4K — premium cinematic 3D animation.
-
-No text, no subtitles, no logos, no watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)**
 
 ### Nano Banana 2 + Seedance 镜中拉人入水创意短片
 
@@ -1066,6 +927,221 @@ Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e)**
 
+### 月光池塘里的迷你青蛙大厨
+
+> Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
+
+[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg" width="600" alt="月光池塘里的迷你青蛙大厨">](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)
+
+**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2091396961329131999) | **发布:** 2026-08-23 | **热度:** 80
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/caden-flux-seedance-ai-473fedbbc75f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（193 行，点开展开）</b></summary>
+
+```
+The Tiny Frog Michelin Chef — 30-Second Animated Short
+
+Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
+
+The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
+
+MAIN CHARACTER
+
+A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
+
+He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
+
+Despite being tiny and adorable, he behaves like an extremely serious professional chef.
+
+His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
+
+Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
+
+0–5 SEC — THE RESTAURANT
+
+Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
+
+Fireflies glow like miniature chandeliers.
+
+Lily pads become elegant dining tables.
+
+Tiny candles illuminate the water.
+
+The frog chef stands inside his miniature outdoor kitchen.
+
+He adjusts his chef hat with complete seriousness.
+
+He looks directly at the dish he is about to prepare.
+
+Dramatic cinematic push-in toward his determined face.
+
+5–10 SEC — THE PREPARATION
+
+Rapid cinematic cooking montage.
+
+The tiny frog dramatically chops miniature vegetables.
+
+He slices mushrooms with incredible precision.
+
+He tosses herbs into a tiny copper pan.
+
+Butter melts.
+
+Steam rises.
+
+He tastes the sauce with a tiny spoon.
+
+His eyes narrow.
+
+He adds exactly one more tiny pinch of seasoning.
+
+He tastes it again.
+
+His expression finally shows approval.
+
+Use exaggerated but believable animated physical comedy.
+
+10–17 SEC — THE MASTERPIECE
+
+The frog chef begins assembling his signature dish.
+
+He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
+
+He uses tweezers to position a single delicate herb.
+
+He steps back.
+
+Something looks wrong.
+
+His eyes widen.
+
+He rushes back to the plate.
+
+He moves one tiny vegetable approximately one millimeter.
+
+He steps back again.
+
+Perfect.
+
+His face lights up with pride.
+
+17–22 SEC — THE BIG PRESENTATION
+
+The frog dramatically carries the tiny plate across a lily-pad dining area.
+
+Several adorable woodland animals sit at tiny tables watching him.
+
+A rabbit.
+
+A hedgehog.
+
+A duckling.
+
+A small turtle.
+
+They all stare at the dish with exaggerated anticipation.
+
+The frog carefully places the plate in the center.
+
+Everyone leans forward.
+
+22–27 SEC — THE TASTE
+
+The animals take one bite.
+
+Silence.
+
+Their eyes suddenly become enormous.
+
+The rabbit gasps.
+
+The hedgehog's ears shoot upward.
+
+The duckling freezes in amazement.
+
+The turtle slowly raises both tiny flippers.
+
+Then everyone starts happily celebrating.
+
+The frog chef stands completely still, trying desperately to maintain his serious professional expression.
+
+A tiny smile slowly appears.
+
+27–30 SEC — THE PAYOFF
+
+Suddenly, the frog's miniature restaurant becomes completely chaotic.
+
+The animals cheer.
+
+Fireflies swirl around the restaurant like sparkling lights.
+
+The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
+
+Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
+
+Final shot:
+
+The tiny frog chef stands proudly beneath his oversized chef hat.
+
+Adorable. Dramatic. Completely ridiculous.
+
+VISUAL & ANIMATION STYLE
+
+Premium cinematic 3D animated feature-film quality.
+
+Extremely expressive character animation.
+
+Cute stylized proportions.
+
+Detailed frog skin.
+
+Soft natural reflections in the eyes.
+
+Realistic miniature food textures.
+
+Tiny believable kitchen props.
+
+Beautiful moonlit pond environment.
+
+Warm candlelight contrasting with cool nighttime atmosphere.
+
+Detailed lily pads, flowers, fireflies, water reflections, and vegetation.
+
+Playful cartoon physics.
+
+Subtle squash-and-stretch.
+
+Excellent comedic timing.
+
+Smooth cinematic camera movements.
+
+Dynamic food close-ups.
+
+Macro photography feeling for the tiny world.
+
+Shallow depth of field.
+
+Soft volumetric lighting.
+
+Natural motion blur.
+
+Polished theatrical rendering.
+
+The entire sequence should feel like one continuous animated movie scene, with consistent character design, environment, lighting, proportions, and animation quality.
+
+16:9 LANDSCAPE — 4K — premium cinematic 3D animation.
+
+No text, no subtitles, no logos, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)**
+
 ### 静电觉醒少女的体育馆反击
 
 > Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
@@ -1275,24 +1351,6 @@ NO MUSIC. #higgsfield
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f)**
-
-### 夜行卧铺列车感染惊魂
-
-> One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
-
-[<img src="https://media.goodcase.ai/cases/86a341e46f5f.jpg" width="600" alt="夜行卧铺列车感染惊魂">](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2100803982197502368) | **发布:** 2026-09-18 | **热度:** 79
-
-```
-Preserve the exact face, hairstyle, golden-cream dress, tattoos, necklace, and overall appearance. She lies feverish and restless in the upper bunk of a dark sleeper train, slowly waking as her fingers tremble and dark veins appear. Her eyes turn cloudy white, her expression becomes unnaturally blank, and a dark drop falls onto the passenger below. She suddenly leans over, drops onto the lower bunk, and attacks the sleeping passenger non-graphically. Dark veins spread across him as he convulses, his eyes turn white, and he releases an inhuman scream.
-
-The infected passenger rushes into the corridor, awakening others and triggering chaos throughout the carriage. Curtains fly open, luggage falls, passengers scramble to escape, and more people become infected. A conductor grabs a fire extinguisher and blasts the approaching infected with white foam, giving survivors time to reach the connecting door. They slam it shut and barricade it with luggage and a fold-down seat as infected hands pound against the glass. Cracks begin spreading while terrified passengers retreat.
-
-End with survivors huddled together beneath flashing red emergency lights, protecting two children as the sealed door violently shakes behind them. Cut to an exterior wide shot of the train speeding through the dark countryside, sleeper-car windows flickering with red emergency light and chaotic silhouettes inside. Ultra-realistic cinematic zombie horror, authentic sleeper-train interior, blue night lighting, red emergency lights, realistic characters, handheld camera during chaos, practical effects, atmospheric shadows, tense sound design, no background music, no excessive gore, no subtitles, no watermark, no anime or cartoon style.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e)**
 
 ### 首尔夏夜市场的DV漫步
 
@@ -1725,61 +1783,23 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0)**
 
-### 沙发上相拥亲吻的萌兔
+### 夜行卧铺列车感染惊魂
 
-> Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
+> One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
 
-[<img src="https://media.goodcase.ai/cases/ae82336c097b.jpg" width="600" alt="沙发上相拥亲吻的萌兔">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)
+[<img src="https://media.goodcase.ai/cases/86a341e46f5f.jpg" width="600" alt="夜行卧铺列车感染惊魂">](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e)
 
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | **发布:** 2026-09-12 | **热度:** 78
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (88.5 分) · [产物](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-71bc731fe900/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（36 行，点开展开）</b></summary>
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2100803982197502368) | **发布:** 2026-09-18 | **热度:** 78
 
 ```
-Made with seedance 2.5
+Preserve the exact face, hairstyle, golden-cream dress, tattoos, necklace, and overall appearance. She lies feverish and restless in the upper bunk of a dark sleeper train, slowly waking as her fingers tremble and dark veins appear. Her eyes turn cloudy white, her expression becomes unnaturally blank, and a dark drop falls onto the passenger below. She suddenly leans over, drops onto the lower bunk, and attacks the sleeping passenger non-graphically. Dark veins spread across him as he convulses, his eyes turn white, and he releases an inhuman scream.
 
-Prompt 👇 
-Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
+The infected passenger rushes into the corridor, awakening others and triggering chaos throughout the carriage. Curtains fly open, luggage falls, passengers scramble to escape, and more people become infected. A conductor grabs a fire extinguisher and blasts the approaching infected with white foam, giving survivors time to reach the connecting door. They slam it shut and barricade it with luggage and a fold-down seat as infected hands pound against the glass. Cracks begin spreading while terrified passengers retreat.
 
-CHARACTERS:
-A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
-A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
-Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
-
-SCENE & ACTION:
-Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
-
-The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
-
-Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
-
-End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
-
-VISUAL STYLE:
-Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
-
-CAMERA:
-Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
-
-LIGHTING & ATMOSPHERE:
-Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
-
-MOTION:
-Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
-
-MOOD:
-Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
-
-HIGH QUALITY:
-Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.
+End with survivors huddled together beneath flashing red emergency lights, protecting two children as the sealed door violently shakes behind them. Cut to an exterior wide shot of the train speeding through the dark countryside, sleeper-car windows flickering with red emergency light and chaotic silhouettes inside. Ultra-realistic cinematic zombie horror, authentic sleeper-train interior, blue night lighting, red emergency lights, realistic characters, handheld camera during chaos, practical effects, atmospheric shadows, tense sound design, no background music, no excessive gore, no subtitles, no watermark, no anime or cartoon style.
 ```
 
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e)**
 
 ### Seedance 三十秒健身房日常 vlog
 
@@ -2090,6 +2110,62 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda)**
+
+### 沙发上相拥亲吻的萌兔
+
+> Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
+
+[<img src="https://media.goodcase.ai/cases/ae82336c097b.jpg" width="600" alt="沙发上相拥亲吻的萌兔">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | **发布:** 2026-09-12 | **热度:** 77
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (88.5 分) · [产物](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-71bc731fe900/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（36 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
+
+CHARACTERS:
+A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
+A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
+Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
+
+SCENE & ACTION:
+Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
+
+The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
+
+Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
+
+End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
+
+VISUAL STYLE:
+Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
+
+CAMERA:
+Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
+
+LIGHTING & ATMOSPHERE:
+Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
+
+MOTION:
+Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
+
+MOOD:
+Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
+
+HIGH QUALITY:
+Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)**
 
 ### 韩国乡村女子的农场晨间日常
 
@@ -4880,51 +4956,6 @@ A tall, handsome man with sharp features and dark hair, wearing an elaborate dar
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-20-second-luxury-fantasy-video-in-an-opulent-gold-and-crimson-palac-3c3a7212c358)**
 
-### 白衣忍者斩破烟雾天龙
-
-> The Dragon Awakens 🐉⚡ Created with Seedance 2.5 for @WizstarAI bringing cinematic AI storytelling, powerful action, and stunning fantasy visuals to life. #Wizs…
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-white-dragon-ascension-10s-16-9-7b649210fd48.jpg" width="600" alt="白衣忍者斩破烟雾天龙">](https://goodcase.ai/cases/seedance-white-dragon-ascension-10s-16-9-7b649210fd48)
-
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2095458733136462234) | **发布:** 2026-09-03 | **热度:** 67
-
-**稳定度：** 81/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.3 分) · [产物](https://media.goodcase.ai/retests/seedance-white-dragon-ascension-10s-16-9-7b649210fd48/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（23 行，点开展开）</b></summary>
-
-```
-WHITE DRAGON ASCENSION | 10s | 16:9
-
-Use image1 as SANZO. Keep his exact face, hair, skin tone, physique, tattoos and outfit.
-
-Ultra-realistic live-action Hollywood action. Practical stunts, real katana combat, realistic physics, natural smoke and cinematic lighting. No CGI, anime, cartoon or game look.
-
-LOCATION: Infinite white cyclorama with glossy reflective floor, soft diffused light, no horizon or props.
-
-OUTFIT: All-white tactical shinobi outfit with hood, half-mask, layered robes, armor, belt, tabi boots and flowing fabric.
-
-WEAPON: ONE white-handled katana on LEFT WAIST, fully sheathed. SANZO draws it once. Blade and handle leave the saya together. Saya becomes EMPTY and remains visible. No duplicate weapon or handle. Katana never returns.
-
-CREATURE: Giant aggressive celestial dragon made of dense swirling white smoke, with horns, whiskers, mane and bright white eyes.
-
-0–2s: SANZO runs through the white void as the smoke dragon chases him. FPV and low tracking shots. Jaws snap behind him. He combat-slides beneath the jaws. Slow motion, eye close-up, 2-frame freeze.
-
-2–3.5s: During the slide, SANZO draws the katana. Empty saya stays visible. He performs cartwheel → butterfly twist → forward somersault and lands low.
-
-3.5–8.8s: SANZO unleashes KAGE RYUJIN GIRI — CELESTIAL EXECUTION. The dragon coils, dives, bites and tail-whips. SANZO counters with flash steps, flips, twists and aerial slashes. Each slash tears through the smoke; the dragon instantly reforms. Use fast camera moves, crash zooms, speed ramps and heavy impacts.
-
-8.8–10s: Final dive. SANZO performs an aerial corkscrew, somersault and butterfly motion, then delivers a powerful upward diagonal slash. 2-frame freeze. Dragon breaks into white smoke ribbons and disappears. SANZO lands in a strong ninja stance, katana in RIGHT hand, blade down. EMPTY saya visible on LEFT WAIST. Fade white.
-
-NEGATIVE: CGI, anime, cartoon, game graphics, glow, beams, duplicate katana, duplicate handle, sheathing, clipping, floating weapon, blur, plastic skin, watermark, logo, subtitles, text.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-white-dragon-ascension-10s-16-9-7b649210fd48)**
-
 ### 首尔夏日雨巷里的平凡一天
 
 > If this is AI slop, keep serving it. Seedance 2.5 on Higgsfield. Prompt: Create a 30-second, 1080p ultra-realistic docum
@@ -5051,164 +5082,34 @@ Prioritize natural behavior, consistent identity, believable physics, imperfect 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/sheldon056-seedance-ai-0a8ddaad9132)**
 
-### 银发双刀女剑士突袭日式城堡
+### 韩国女孩在首尔老街区的午后漫步
 
-> Five elite samurai surrounded her. The whole castle is coming next. ⚔️🍃 Created with Seedance 2.5 on @TapNow_AI Prompt: KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE…
+> She went out for a walk… and somehow bought half the neighborhood. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic early-2000s Korean DV…
 
-[<img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="600" alt="银发双刀女剑士突袭日式城堡">](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0)
+[<img src="https://media.goodcase.ai/cases/517b13799b20.jpg" width="600" alt="韩国女孩在首尔老街区的午后漫步">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-a1843d10235f)
 
-**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105958420088328486) | **发布:** 2026-10-02 | **热度:** 66
+**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2106238790666989717) | **发布:** 2026-10-03 | **热度:** 66
 
 <details>
-<summary><b>完整 prompt（141 行，点开展开）</b></summary>
+<summary><b>完整 prompt（11 行，点开展开）</b></summary>
 
 ```
-KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
-Duration: 30 seconds | Aspect Ratio: 16:9 | No music
+Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman spending a quiet afternoon exploring an older Seoul residential neighborhood. Keep her face, hairstyle, body proportions, outfit, and overall appearance perfectly consistent throughout.
 
-ONE-TAKE LOCK:
-This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
-ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
-ZERO scene resets. The camera never leaves the action and every location
-change happens physically inside the shot: the camera passes through torn
-doors, over railings and up the roof with Kazemiru. Time runs in real time.
+She leaves home, locks the door, and walks through narrow lived-in streets with old apartments, small houses, bicycles, utility poles and potted plants. She greets an elderly neighbor, browses a tiny stationery shop and buys a cute notebook. She notices a stray cat beside a scooter, crouches and softly says “Hello,” then visits a neighborhood bakery, buys a red-bean bun and eats it while walking.
 
-STYLE:
-Ultra-photorealistic live-action Japanese dark-action cinema with restrained
-subtle VFX. Impossible anime-inspired dual-sword choreography performed by
-real human bodies. Large-format cinema look, natural daylight, muted earthy
-color palette, soft realistic shadows, no oversaturated colors.
+She pauses beside an old public phone booth, then reaches a quiet crossroads. She looks at the camera and says, “It was a nice day,” gives a small wave, and walks home.
 
-@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
-ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
-earrings in every frame.
-@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
+Authentic early-2000s consumer DV footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, subtle interlacing, awkward zooms and genuine low-resolution camcorder character. Realistic physics, natural blinking, walking and subtle expressions.
 
-POSITIVE LOCKS (true for all 30 seconds):
-- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
-  hand, both always visible and independently controlled.
-- Her face always matches @Image1.
-- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
-- Her body physically crosses every distance, with no teleportation.
-- It is always daytime with bright natural light.
+Natural diegetic audio only. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.
 
-PERSONALITY:
-Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
-eyes. Her hunger shows through relentless speed and escalating ferocity,
-never through grinning or shouting.
-
-JADE-WIND EFFECT:
-Every fast movement leaves a thin, soft jade-green wind trace that follows
-her exact physical path and fades almost instantly: sword arcs leave fine
-blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
-bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
-No aura, no smoke, no glowing body, no effects moving on their own.
-
-CAMERA (one continuous handheld-style pursuit):
-Constant dutch angle of 25–35°. Wide field of view around 75° in the
-interior and courtyard, tightening to about 50° for the rooftop duel.
-Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
-overshoot, correct, reacquire at the moment of contact. The camera flows
-through rear over-the-shoulder, low-angle pursuit, side tracking,
-ground-level chase and front three-quarter retreat, always in one connected
-movement. Never static, never perfectly smooth.
-
-══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
-Setting: bright daylight through large shoji panels, gold folding screens,
-tall dark timber pillars, tatami sections, raised platform, armor displays,
-low lacquer tables, silk curtains.
-
-0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
-on both hilts. BURST: a thin jade streak snaps across the hall and the silk
-curtains whip. The camera loses her, whip-pans, and finds her inside
-Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
-a reverse cut. He drops.
-
-0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
-a pillar and pushes off, dust bursting from the wood. Mid-air her left
-sword deflects Guard 2 and her right sword cuts down. She lands on the edge
-of a lacquer table, which slides back, and rebounds straight toward Guard 3.
-
-0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
-separate jade trails. She lands low and bursts across the floor. Guard 4's
-spear thrusts: she runs two steps up a wall, flips off, and cuts him down
-through a folding screen. Guard 5 charges: she catches his blade with one
-sword, vaults the railing above him, and finishes with a cross-slash as she
-lands behind him.
-
-══ 0:10–0:20: THE PALACE COURTYARD ══
-Transition inside the same shot: she does not pose. Both swords still in
-hand, she drives straight through the paper doors in one burst. The torn
-paper flutters past the lens as the camera follows her through the doorway
-onto the wooden veranda and out into a stone courtyard with lanterns, a koi
-pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
-below and archers on the roofs.
-
-0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
-double slash and a third grazes her sleeve. She sprints along the veranda,
-pivoting off each post, a jade ripple following her feet.
-
-0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
-bridge railing. Three swordsmen charge. She runs along the rail, slashes the
-first, flips over the second, and lands in the koi pond with a huge splash.
-In the water she parries two blades and cuts both guards. Droplets scatter
-across the lens.
-
-0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
-steps. The camera tilts up with her. She launches onto the roof among the
-archers: left sword disarms, right sword strikes, roof tiles scatter. Two
-archers fall.
-
-══ 0:20–0:30: THE ROOFTOP DUEL ══
-Transition inside the same shot: she keeps climbing over the roof ridge and
-the camera rises with her, tightening to a 50° field of view. The tiled
-castle rooftop opens up with wind in her ponytail and the town far below.
-Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
-
-0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
-down the sloping tiles, and crosses both swords to stop the blade. Sharp
-metal sound as his strength pushes her back a step. Her expression stays
-cold.
-
-0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
-his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
-off the shaft, and flips over him. Mid-air she cuts both swords across his
-back armor. Tiles crack under their feet and a faint jade wake curves around
-her path. He staggers, strikes back, and she narrowly dodges as the blade
-cuts a roof beam.
-
-0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
-brighter but still thin. She slides under the naginata, and as she rises
-both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
-one knee, defeated but alive. Kazemiru stands, both swords still in hand,
-and the last jade filaments disappear. She turns her cold eyes toward the
-courtyard far below, where dozens more guards pour in. The camera slowly
-pulls back and up to a wide shot of the whole castle. She lowers her body for
-the next burst. THE FIGHT CONTINUES.
-
-AUDIO:
-Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
-and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
-wind over the rooftops. No dialogue, no music.
-
-HUMAN-FIRST LOCK:
-Kazemiru is always a real human: natural skin pores, real eyes, individual
-hair strands, believable anatomy and cloth physics. Only her choreography is
-anime-level impossible.
-
-NEGATIVE:
-cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
-shots, single-sword fighting, missing or duplicate sword, duplicate
-Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
-oversaturated colors, detached VFX, random flips, decorative acrobatics,
-idle pose, static camera, perfectly smooth tracking, slow combat, floating,
-broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
-logos, watermark.
+Negative prompt: inconsistent face, changing outfit, morphing, distorted hands, extra fingers, duplicated people, unnatural movement, plastic skin, CGI look, modern cinematic camera, excessive stabilization, teleportation, floating objects, logos, watermark.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-a1843d10235f)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md)

@@ -75,7 +75,7 @@
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698"><img src="https://media.goodcase.ai/cases/b3cd9e34db34.jpg" width="160" alt="GPT Image 2 + Seedance 看饿人的吃播短片"></a> | [GPT Image 2 + Seedance 看饿人的吃播短片](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) | 2.5 | 68 |
 | <a href="https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e"><img src="https://media.goodcase.ai/cases/23cf7e177f01.jpg" width="160" alt="烈焰翻锅的餐厅主厨"></a> | [烈焰翻锅的餐厅主厨](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e) | 2.5 | 60 |
 | <a href="https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89"><img src="https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg" width="160" alt="韩国女生辣味挑战崩溃实录"></a> | [韩国女生辣味挑战崩溃实录](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) | 2.5 | 52 |
-| <a href="https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6"><img src="https://media.goodcase.ai/cases/b7e548a0f7a9.jpg" width="160" alt="爆汁生煎包的酥脆出锅时刻"></a> | [爆汁生煎包的酥脆出锅时刻](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6) | 2.5 | 41 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6"><img src="https://media.goodcase.ai/cases/b7e548a0f7a9.jpg" width="160" alt="爆汁生煎包的酥脆出锅时刻"></a> | [爆汁生煎包的酥脆出锅时刻](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6) | 2.5 | 40 |
 
 ---
 
