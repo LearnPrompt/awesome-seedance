@@ -505,7 +505,7 @@
         }
       ],
       "cover": {
-        "src": "https://media.goodcase.ai/cases/1917351d85cd.jpg"
+        "src": "https://media.goodcase.ai/cases/4e5f9347c75d.jpg"
       },
       "coverCase": "just-sharon7-seedance-ai-8085c03efbb0",
       "coverTemplateId": "combat-choreography"
@@ -549,10 +549,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video",
       "url": "https://goodcase.ai/skills/retro-dv-home-video",
       "variants": [
-        {
-          "creator": "AIwithkhan",
-          "url": "https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8"
-        },
         {
           "creator": "oggii_0",
           "url": "https://goodcase.ai/skills/retro-dv-home-video-by-2zdsi5"
@@ -627,7 +623,7 @@
         }
       ],
       "cover": {
-        "src": "https://media.goodcase.ai/cases/c616e26c1d83.jpg"
+        "src": "https://media.goodcase.ai/cases/8162eeaeac45.jpg"
       }
     },
     {
@@ -713,7 +709,7 @@
         }
       ],
       "cover": {
-        "src": "https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg"
+        "src": "https://media.goodcase.ai/cases/8162eeaeac45.jpg"
       }
     },
     {
@@ -760,7 +756,7 @@
         }
       ],
       "cover": {
-        "src": "https://media.goodcase.ai/cases/f16c9f956a8d.jpg"
+        "src": "https://media.goodcase.ai/cases/a5f167afeea7.jpg"
       }
     },
     {

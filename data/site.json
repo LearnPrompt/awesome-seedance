@@ -1,12 +1,12 @@
 {
   "$comment": "Site-wide numbers from goodcase.ai that the public API does not expose (list endpoint caps at 50). Refresh with `node scripts/fetch-site-stats.mjs` or by hand; fetchedAt is the snapshot date. retestSpend is list price with no discounts, what anyone else would pay to reproduce the same runs.",
-  "fetchedAt": "2026-10-03",
-  "totalCases": 1501,
-  "videoCases": 843,
-  "creators": 389,
+  "fetchedAt": "2026-10-04",
+  "totalCases": 1649,
+  "videoCases": 970,
+  "creators": 423,
   "videoSkills": {
     "base": 18,
-    "creatorVariants": 34,
+    "creatorVariants": 32,
     "url": "https://goodcase.ai/skills?category=video"
   },
   "retestSpend": {
