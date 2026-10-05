@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // 校验生成物里的站内链接：README 三语 + docs/**/*.md。
 //   - 相对路径指向的文件必须存在
-//   - 页内锚点、跨文件锚点必须等于目标文件里某个标题按 GitHub 规则算出的锚点（含重名的 -1、-2 后缀）
+//   - 页内锚点、跨文件锚点必须等于目标文件里某个标题按 GitHub 规则算出的锚点（含重名的 -1、-2 后缀），
+//     或目标文件里的显式锚点 <a id="…">
 // Run: npm run check:links（先跑 npm run generate）。有断链时退出码为 1。
 import { readFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -31,6 +32,8 @@ function anchorsOf(file) {
       continue;
     }
     if (fence) continue;
+    // 显式锚点 <a id="x"></a>（docs/skills*.md 每个官方 Skill 一个），GitHub 渲染成 user-content-x，#x 照样能跳
+    for (const m of line.matchAll(/<a\s+(?:id|name)="([^"]+)"/g)) anchors.add(m[1]);
     const h = line.match(/^#{1,6}\s+(.*?)\s*#*\s*$/);
     if (!h) continue;
     // 标题里的 markdown 链接/图片只留可见文字，和 GitHub 渲染后的文本一致

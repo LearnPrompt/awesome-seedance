@@ -1,7 +1,7 @@
 name: Refresh site stats and retest posters
 
 # 每天刷新两样只有联网才能拿到的东西，然后重新生成 README：
-# 1. data/site.json：goodcase.ai 站点全量数字（案例数、创作者数、视频案例数、视频 Skill 数），
+# 1. data/site.json：goodcase.ai 站点全量数字（案例数、创作者数、视频案例数；视频 Skill 数改由私仓导出的 data/site-skills.json 提供），
 #    公开 API 的列表接口最多 50 条，拿不到总数，所以从站点 HTML 抓。
 # 2. assets/retests/<slug>.jpg：复测聚焦区三条样例的第二模型画面，热度榜一变样例就换，
 #    没有封面时生成器退回纯链接，所以这里定期补帧（需要 ffmpeg）。

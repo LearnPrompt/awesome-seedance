@@ -54,8 +54,13 @@ export function escapeXml(str) {
  * data/stats.json 的内容：shields.io 的 dynamic/json 徽章直接读 raw.githubusercontent 上的这个文件，
  * 所以 README 顶部的数字随每天的数据同步自动变，不用重新生成徽章 URL。
  */
-export function buildStatsSnapshot(stats, templates, categories, site = null, skillsCount = null) {
-  const videoSkills = site?.videoSkills ? (site.videoSkills.base || 0) + (site.videoSkills.creatorVariants || 0) : 0;
+export function buildStatsSnapshot(stats, templates, categories, site = null, skillsCount = null, siteSkills = null) {
+  // 站上视频 Skill 总数以 data/site-skills.json（私仓导出的全量目录）为准；没有这个文件时才退回 site.json 里的旧数字。
+  const videoSkills = siteSkills?.skills
+    ? siteSkills.skills.length
+    : site?.videoSkills
+      ? (site.videoSkills.base || 0) + (site.videoSkills.creatorVariants || 0)
+      : 0;
   return {
     cases: stats.total,
     // goodcase.ai 站点全量（含非 Seedance）：来自 data/site.json 快照。
@@ -63,9 +68,9 @@ export function buildStatsSnapshot(stats, templates, categories, site = null, sk
     siteVideoCases: site?.videoCases ?? null,
     siteCreators: site?.creators ?? null,
     siteFetchedAt: site?.fetchedAt ?? null,
-    // AI 视频 Skill 数：goodcase.ai 上的视频 Skill（基础 + 创作者变体）+ 本仓库自带的 1 个。
+    // AI 视频 Skill 数：goodcase.ai 上的视频 Skill（官方 + 创作者方法）+ 本仓库自带的 1 个。
     videoSkillsOnSite: videoSkills,
-    // skillsCount：README Skill 网格里的总数（data/skills.json 的 Skill + 创作者变体）；没传时退回旧口径。
+    // skillsCount：README Skill 网格里的总数（data/skills.json 的格子 + 各格子名下的创作者方法）；没传时退回旧口径。
     skills: skillsCount ?? videoSkills + 1,
     seedance25: stats.v25Count,
     seedance20: stats.v20Count,
