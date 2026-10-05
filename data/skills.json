@@ -350,7 +350,7 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence",
       "url": "https://goodcase.ai/skills/pov-vlog-presence",
       "cover": {
-        "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
+        "src": "https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg"
       },
       "coverCase": "seedance-25-minidv-coffee-asmr-vlog",
       "coverTemplateId": "handheld-ugc-vlog"
@@ -371,7 +371,7 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
       "cover": {
-        "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
+        "src": "https://media.goodcase.ai/cases/bbddd507c773.jpg"
       },
       "coverCase": "luxury-skincare-commercial",
       "coverTemplateId": "product-commercial-shotlist"
@@ -392,7 +392,7 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency",
       "url": "https://goodcase.ai/skills/animation-style-consistency",
       "cover": {
-        "src": "https://media.goodcase.ai/cases/71a61fb2ecf4.jpg"
+        "src": "https://media.goodcase.ai/cases/34deb8da196d.jpg"
       },
       "coverCase": "case-a9ab0266f96a",
       "coverTemplateId": "anime-style-lock"
@@ -636,7 +636,7 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": {
-        "src": "https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg"
+        "src": "https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg"
       }
     },
     {
