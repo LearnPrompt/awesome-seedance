@@ -104,6 +104,9 @@ test("buildStatsSnapshot exposes the numbers the badges and hero read", () => {
   assert.equal(buildStatsSnapshot(stats, templates, categories, null).skills, 1);
   // README 的 Skill 网格有自己的总数（data/skills.json），传进来时以它为准。
   assert.equal(buildStatsSnapshot(stats, templates, categories, site, 26).skills, 26);
+  // 有 data/site-skills.json 时，站上视频 Skill 数按它的条目数算，不再用 site.json 的旧数字。
+  const siteSkills = { skills: [{ kind: "shared" }, { kind: "creator_method" }, { kind: "creator_method" }] };
+  assert.equal(buildStatsSnapshot(stats, templates, categories, site, 26, siteSkills).videoSkillsOnSite, 3);
 });
 
 test("renderBadges uses shields dynamic-json badges that read data/stats.json from main", () => {

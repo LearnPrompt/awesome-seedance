@@ -10,6 +10,7 @@ import {
   anchorOf,
   copyPromptOf,
   countSkills,
+  creatorMethodCount,
   orderedTemplates,
   renderCopyBlock,
   renderSkillGrid,
@@ -183,15 +184,34 @@ test("renderTemplateGrid renders one tile per template, 3 per row, linking to th
 const skillsData = {
   moreUrl: "https://goodcase.ai/skills?category=video",
   skills: [
-    { id: "a", title: { en: "A", zh: "甲", ja: "A" }, description: { en: "d", zh: "说明", ja: "d" }, install: "npx a install", url: "https://github.com/x/a", coverCase: cases[0].slug, variants: [] },
-    { id: "b", title: { en: "B", zh: "乙", ja: "B" }, description: { en: "d", zh: "d", ja: "d" }, install: "npx skills add x --skill b", url: "https://goodcase.ai/skills/b", cover: { src: "https://media.goodcase.ai/cases/b.jpg" }, variants: [{ creator: "卡尔", url: "https://goodcase.ai/skills/b-by-1" }, { creator: "A&B", url: "https://goodcase.ai/skills/b-by-2" }] },
+    { id: "a", title: { en: "A", zh: "甲", ja: "A" }, description: { en: "d", zh: "说明", ja: "d" }, install: "npx a install", url: "https://github.com/x/a", coverCase: cases[0].slug },
+    { id: "b", siteSlug: "b", title: { en: "B", zh: "乙", ja: "B" }, description: { en: "d", zh: "d", ja: "d" }, install: "npx skills add x --skill b", url: "https://goodcase.ai/skills/b", cover: { src: "https://media.goodcase.ai/cases/b.jpg" } },
   ],
 };
+// data/site-skills.json 的形状：官方 Skill 后面跟它的创作者方法；c 不在网格里，只出现在总表页。
+const siteEntry = (slug, baseSlug, creator = null) => ({
+  slug,
+  baseSlug,
+  kind: creator ? "creator_method" : "shared",
+  title: { en: creator ? `${creator} · Style ${slug}` : `Skill ${slug}`, zh: creator ? `${creator} · 风格 ${slug}` : `技能 ${slug}` },
+  description: { en: "d", zh: "说明" },
+  styleTag: null,
+  creator,
+  caseCount: 3,
+  creatorCount: 1,
+  install: `npx skills add LearnPrompt/goodcase-lite --skill ${slug}`,
+  url: `https://goodcase.ai/skills/${slug}`,
+  cover: null,
+});
+const siteSkills = {
+  counts: { official: 2, creatorMethods: 3 },
+  skills: [siteEntry("b", "b"), siteEntry("b-by-1", "b", "卡尔"), siteEntry("b-by-2", "b", "A&B"), siteEntry("c", "c"), siteEntry("c-by-1", "c", "X")],
+};
 
-test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, variant count instead of names, UTM on site links", () => {
+test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, variant count from site-skills linking the list page", () => {
   const bySlug = new Map(cases.map((c) => [c.slug, c]));
   const withPosters = cases.filter((c) => c.posterUrl);
-  const md = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: (s) => (s.id === "a" ? withPosters : []) });
+  const md = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: (s) => (s.id === "a" ? withPosters : []), siteSkills });
   assert.ok(md.startsWith("## 🧰 Skill"));
   assert.equal((md.match(/<td width/g) || []).length, 2);
   const tileA = md.split("<td width")[1];
@@ -201,21 +221,34 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
   assert.ok(tileB.includes('<img src="https://media.goodcase.ai/cases/b.jpg" width="260"'), "single cover falls back to cover.src");
   assert.match(md, /<code>npx a install<\/code>/);
   assert.doesNotMatch(md, /卡尔|A&amp;B/, "creator names are not listed");
-  assert.match(md, /<a href="https:\/\/goodcase\.ai\/skills\/b\?utm_source=awesome-seedance">另有 2 个创作者变体<\/a>/);
+  // 变体数按 site-skills 里 baseSlug === siteSlug 现算，链到本语言总表页里该 Skill 的小节。
+  assert.match(md, /<a href="\.\/docs\/skills\.zh\.md#b">另有 2 个创作者方法<\/a>/);
+  assert.equal((md.match(/个创作者方法<\/a>/g) || []).length, 1, "tile without siteSlug gets no variant line");
+  assert.match(md, /下面是 2 个 Skill，另有 2 个创作者方法/, "intro total counts only methods under the grid's tiles");
+  assert.ok(md.includes("[goodcase.ai 上全部 5 个视频 Skill，含 3 个创作者方法 →](./docs/skills.zh.md)"), "line under the grid links the full list");
+  assert.ok(md.includes('href="https://goodcase.ai/skills/b?utm_source=awesome-seedance"'), "tile title still links to goodcase.ai with UTM");
   assert.ok(md.includes('href="https://github.com/x/a"'), "non-goodcase links are left alone");
-  assert.equal(countSkills(skillsData), 4);
+  assert.equal(countSkills(skillsData, siteSkills), 4);
+  assert.equal(countSkills(skillsData), 2, "without site-skills data only tiles are counted");
+  assert.equal(creatorMethodCount(skillsData.skills[1], siteSkills), 2);
+  assert.equal(creatorMethodCount(skillsData.skills[0], siteSkills), 0);
+  const noSite = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: () => [] });
+  assert.doesNotMatch(noSite, /创作者方法<\/a>|docs\/skills/, "no site-skills data: no variant lines and no list link");
   assert.equal(withUtm("https://goodcase.ai/skills?category=video"), "https://goodcase.ai/skills?category=video&utm_source=awesome-seedance");
   assert.equal(withUtm(withUtm("https://goodcase.ai/x")), "https://goodcase.ai/x?utm_source=awesome-seedance");
   assert.match(md, /制作工作流 Skill 则单独维护/, "the hand-maintained workflow must not be described as regenerated from cases");
-  const en = renderSkillGrid(skillsData, "en", bySlug, { coverCasesFor: () => [] });
+  const en = renderSkillGrid(skillsData, "en", bySlug, { coverCasesFor: () => [], siteSkills });
   assert.match(en, /the production workflow is maintained separately/);
-  const ja = renderSkillGrid(skillsData, "ja", bySlug, { coverCasesFor: () => [] });
+  assert.match(en, /<a href="\.\/docs\/skills\.md#b">2 creator methods<\/a>/);
+  assert.ok(en.includes("[All 5 video Skills on goodcase.ai, including 3 creator methods →](./docs/skills.md)"));
+  const ja = renderSkillGrid(skillsData, "ja", bySlug, { coverCasesFor: () => [], siteSkills });
   assert.match(ja, /制作ワークフロー Skill は別途保守されます/);
+  assert.match(ja, /<a href="\.\/docs\/skills\.ja\.md#b">クリエイターメソッド 2 件<\/a>/);
 });
 
 test("renderSkillGrid: Skill without any cover renders title and install line but no image", () => {
   const data = {
-    skills: [{ id: "bare", title: { en: "Bare Skill", zh: "裸 Skill", ja: "Bare Skill" }, description: { en: "d", zh: "d", ja: "d" }, install: "npx skills add x --skill bare", url: "https://github.com/x/bare", variants: [] }],
+    skills: [{ id: "bare", title: { en: "Bare Skill", zh: "裸 Skill", ja: "Bare Skill" }, description: { en: "d", zh: "d", ja: "d" }, install: "npx skills add x --skill bare", url: "https://github.com/x/bare" }],
   };
   const md = renderSkillGrid(data, "en", new Map(), { coverCasesFor: () => [] });
   assert.match(md, /<b>Bare Skill<\/b>/);

@@ -2,7 +2,7 @@
 //   - renderTemplateDoc   → docs/templates/{zh,en}/<id>.md（一个模板一个文件，带可直接复制的块）
 //   - renderTemplateIndex → docs/templates/{zh,en}/README.md（GitHub 浏览目录时自动渲染）
 //   - renderTemplateGrid  → README 里的「分类提示语模板」板块（一个模板一格，带素材封面）
-//   - renderSkillGrid     → README 里的 Skill 网格（一格一个 Skill，变体挂在基础款下面）
+//   - renderSkillGrid     → README 里的 Skill 网格（一格一个 Skill，创作者方法数挂在基础款下面，链到 docs/skills*.md）
 //   - renderStartHere     → README 目录之后的第一节：新手路径 + 模板 vs Skill
 // 不读盘、不联网；数据由 generate-readme.mjs 准备好传进来。
 import { t, pickLang, displayTitle, githubSlug, fenceForPrompt, classifySeedance, bucketShortLabel } from "./render.mjs";
@@ -40,6 +40,11 @@ export function templatesHeading(lang) {
 
 export function skillsHeading(lang) {
   return t(lang, { en: "## 🧰 Skills", zh: "## 🧰 Skill", ja: "## 🧰 Skill" });
+}
+
+/** goodcase.ai 全部视频 Skill 总表页的文件名（docs/ 下），由 scripts/lib/skill-list.mjs 渲染。 */
+export function skillListFileName(lang) {
+  return t(lang, { en: "skills.md", zh: "skills.zh.md", ja: "skills.ja.md" });
 }
 
 export function anchorOf(heading) {
@@ -314,24 +319,36 @@ export function renderTemplateGrid(library, lang, index, opts = {}) {
 // ---------------------------------------------------------------------------
 
 /**
- * skills: data/skills.json 的 skills 数组。
+ * 每个格子名下的创作者方法数：data/site-skills.json 里 baseSlug 等于格子 siteSlug 的条目数。
+ * 没有 siteSlug 的格子（本仓 Skill）记 0；siteSkills 缺失时全部为 0。
+ */
+export function creatorMethodCount(skill, siteSkills) {
+  if (!skill || !skill.siteSlug || !siteSkills) return 0;
+  return (siteSkills.skills || []).filter((x) => x.kind === "creator_method" && x.baseSlug === skill.siteSlug).length;
+}
+
+/**
+ * skillsData: data/skills.json（格子的标题、简介、安装命令都是手写的）。
  * opts.coverCasesFor(skill) → 该 Skill 的封面案例数组（调用方按 coverCases / templateId / coverTemplateId 解析好），
  * 取前 4 张有海报的拼成 2×2 小格，像 goodcase.ai 的 Skill 卡片那样一眼看到多种效果；不够 4 张就有几张放几张。
- * 创作者变体不再逐个列名，只留一句数量，链到 Skill 页。
+ * opts.siteSkills: data/site-skills.json。创作者方法不逐个列名，格子里只留一句数量，
+ * 链到 docs/skills*.md 里该 Skill 的小节；网格下面再放一行链到整张总表。
  */
 export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts = {}) {
   const cols = opts.cols || 3;
   const width = Math.floor(100 / cols);
   const skills = (skillsData && skillsData.skills) || [];
-  const variantCount = skills.reduce((n, s) => n + (s.variants || []).length, 0);
+  const siteSkills = opts.siteSkills || null;
+  const variantCount = skills.reduce((n, s) => n + creatorMethodCount(s, siteSkills), 0);
+  const listHref = `./docs/${skillListFileName(lang)}`;
   const moreUrl = withUtm((skillsData && skillsData.moreUrl) || "https://goodcase.ai/skills?category=video");
   const coverCasesFor = opts.coverCasesFor || ((s) => (s.coverCase && casesBySlug.get(s.coverCase) ? [casesBySlug.get(s.coverCase)] : []));
   const lines = [skillsHeading(lang), ""];
   lines.push(
     t(lang, {
-      en: `A Skill is an installable instruction pack for coding agents (Claude Code, Codex and friends). Template Skills help write case-backed prompts; the production workflow plans assets, generation handoff and video review. ${skills.length} Skills are below, plus ${variantCount} creator variants that carry one creator's signature style.`,
-      zh: `Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 ${skills.length} 个 Skill，另有 ${variantCount} 个创作者变体，带着某位创作者的个人风格。`,
-      ja: `Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に ${skills.length} 個の Skill と、クリエイター個人のスタイルを持つ ${variantCount} 個のバリアントがあります。`,
+      en: `A Skill is an installable instruction pack for coding agents (Claude Code, Codex and friends). Template Skills help write case-backed prompts; the production workflow plans assets, generation handoff and video review. ${skills.length} Skills are below, plus ${variantCount} creator methods that carry one creator's signature style.`,
+      zh: `Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 ${skills.length} 个 Skill，另有 ${variantCount} 个创作者方法，带着某位创作者的个人风格。`,
+      ja: `Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に ${skills.length} 個の Skill と、クリエイター個人のスタイルを持つ ${variantCount} 個のクリエイターメソッドがあります。`,
     })
   );
   lines.push("");
@@ -353,9 +370,9 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
       } else if (shots.length === 1) {
         img = `<a href="${url}"><img src="${shots[0].posterUrl}" width="260" alt="${title}"></a><br>`;
       }
-      const n = (s.variants || []).length;
+      const n = creatorMethodCount(s, siteSkills);
       const variantLine = n
-        ? `<br><sub><a href="${url}">${t(lang, { en: `${n} creator ${n === 1 ? "variant" : "variants"}`, zh: `另有 ${n} 个创作者变体`, ja: `クリエイター版 ${n} 件` })}</a></sub>`
+        ? `<br><sub><a href="${listHref}#${s.siteSlug}">${t(lang, { en: `${n} creator ${n === 1 ? "method" : "methods"}`, zh: `另有 ${n} 个创作者方法`, ja: `クリエイターメソッド ${n} 件` })}</a></sub>`
         : "";
       lines.push(
         `<td width="${width}%" valign="top" align="center">${img}<a href="${url}"><b>${title}</b></a><br><sub>${escapeXml(pickLang(s.description, lang) || "")}</sub><br><br><code>${escapeXml(s.install)}</code>${variantLine}</td>`
@@ -365,6 +382,19 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   }
   lines.push("</table>");
   lines.push("");
+  if (siteSkills) {
+    const entries = siteSkills.skills || [];
+    const total = entries.length;
+    const methods = entries.filter((x) => x.kind === "creator_method").length;
+    lines.push(
+      t(lang, {
+        en: `**[All ${total} video Skills on goodcase.ai, including ${methods} creator methods →](${listHref})** One page, every install line.`,
+        zh: `**[goodcase.ai 上全部 ${total} 个视频 Skill，含 ${methods} 个创作者方法 →](${listHref})** 一页列全，每个都带安装命令。`,
+        ja: `**[goodcase.ai の動画 Skill 全 ${total} 個（クリエイターメソッド ${methods} 個を含む）→](${listHref})** 1 ページに全インストールコマンドを掲載。`,
+      })
+    );
+    lines.push("");
+  }
   lines.push(
     t(lang, {
       en: `Every install line works with the [skills CLI](https://github.com/vercel-labs/skills). Skills named \`seedance-…\` live in this repo under [agents/skills](./agents/skills): the library and single-kind template Skills are regenerated from case data, while the production workflow is maintained separately. \`npx seedance-prompt-library install\` also drops the library Skill straight into Claude Code and Codex. More Skills across image, coding and writing live on [goodcase.ai](${moreUrl}).`,
@@ -375,9 +405,10 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   return lines.join("\n");
 }
 
-export function countSkills(skillsData) {
+/** README 里 Skill 的总数：网格格子数 + 各格子名下的创作者方法数（来自 data/site-skills.json）。 */
+export function countSkills(skillsData, siteSkills = null) {
   const skills = (skillsData && skillsData.skills) || [];
-  return skills.length + skills.reduce((n, s) => n + (s.variants || []).length, 0);
+  return skills.length + skills.reduce((n, s) => n + creatorMethodCount(s, siteSkills), 0);
 }
 
 // ---------------------------------------------------------------------------
@@ -437,21 +468,21 @@ export function renderStartHere(lang, anchors, counts) {
       ["", `[Prompt templates](${anchors.templates})`, `[Skills](${anchors.skills})`],
       ["Who it is for", "Beginners, and anyone who does not want to install anything", "People already working in Claude Code, Codex or another coding agent"],
       ["How you use it", "Copy, replace the [brackets], paste into any AI chat", "One install command, then just tell your agent what you want"],
-      ["What it covers", `${counts.templates} category templates`, `Case-backed prompt structures and production workflows across ${counts.skills} Skills and creator variants`],
+      ["What it covers", `${counts.templates} category templates`, `Case-backed prompt structures and production workflows across ${counts.skills} Skills and creator methods`],
       ["What you get", "One solid prompt at a time", "A prompt or a production plan and QA record, depending on the Skill"],
     ],
     zh: [
       ["", `[提示语模板](${anchors.templates})`, `[Skill](${anchors.skills})`],
       ["适合谁", "新手，以及不想装任何东西的人", "已经在用 Claude Code、Codex 这类 agent 的专业用户"],
       ["怎么用", "复制，换掉【】，粘到任意 AI 对话", "一行命令装好，之后直接跟 agent 说需求"],
-      ["覆盖范围", `${counts.templates} 个分类模板`, `有案例依据的提示语结构和制作工作流，共 ${counts.skills} 个 Skill 与创作者变体`],
+      ["覆盖范围", `${counts.templates} 个分类模板`, `有案例依据的提示语结构和制作工作流，共 ${counts.skills} 个 Skill 与创作者方法`],
       ["拿到什么", "一次一条靠谱的提示语", "根据所选 Skill，得到提示语，或制作计划与验收记录"],
     ],
     ja: [
       ["", `[プロンプトテンプレート](${anchors.templates})`, `[Skill](${anchors.skills})`],
       ["向いている人", "初心者、何もインストールしたくない人", "すでに Claude Code や Codex などのエージェントを使っている人"],
       ["使い方", "コピーして [角括弧] を置き換え、任意の AI チャットに貼る", "コマンド 1 行で導入し、あとはエージェントに要望を伝えるだけ"],
-      ["カバー範囲", `カテゴリ別テンプレート ${counts.templates} 個`, `ケースに基づくプロンプト構造と制作ワークフロー、計 ${counts.skills} 個の Skill とクリエイター版`],
+      ["カバー範囲", `カテゴリ別テンプレート ${counts.templates} 個`, `ケースに基づくプロンプト構造と制作ワークフロー、計 ${counts.skills} 個の Skill とクリエイターメソッド`],
       ["得られるもの", "確かなプロンプトを 1 本ずつ", "Skill に応じて、プロンプトまたは制作計画と検証記録"],
     ],
   });

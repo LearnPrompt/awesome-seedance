@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 // Generates README.md, README_zh.md, docs/gallery.md (index), the sharded docs/gallery-*.md
-// files, assets/hero.svg and data/stats.json from data/cases.json + data/style-library.json.
+// files, docs/skills*.md (every goodcase.ai video Skill), assets/hero.svg and data/stats.json
+// from data/cases.json + data/style-library.json + data/site-skills.json.
 // Run: node scripts/generate-readme.mjs
 //
 // README 结构（两种语言相同，2026-09-13 对标 awesome-gpt-image-2 定稿）：
@@ -53,7 +54,9 @@ import {
   templateDocLang,
   templatesHeading,
   skillsHeading,
+  skillListFileName,
 } from "./lib/templates.mjs";
+import { renderSkillListDoc, siteSkillCounts } from "./lib/skill-list.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -81,6 +84,14 @@ try {
 } catch {
   skillsData = null;
 }
+// goodcase.ai 全部视频 Skill（data/site-skills.json，私仓导出、每天同步覆盖）：
+// Skill 网格每格的创作者方法数、站上 Skill 总数和 docs/skills*.md 总表都从这里来；文件缺失时这些都不渲染。
+let siteSkills = null;
+try {
+  siteSkills = loadJson("data/site-skills.json");
+} catch {
+  siteSkills = null;
+}
 // 复测样例的产物封面（scripts/fetch-retest-posters.mjs 抽帧），没有就退回纯链接。
 const retestPosterFor = (caseObj) => {
   const rel = `assets/retests/${caseObj.slug}.jpg`;
@@ -93,7 +104,7 @@ const casesBySlug = new Map(cases.map((c) => [c.slug, c]));
 
 const stats = computeStats(casesData);
 const templateIndex = buildTemplateIndex(templates, taxonomy, cases);
-const snapshot = buildStatsSnapshot(stats, templates, categories, site, skillsData ? countSkills(skillsData) : null);
+const snapshot = buildStatsSnapshot(stats, templates, categories, site, skillsData ? countSkills(skillsData, siteSkills) : null, siteSkills);
 // Top 榜按“系列”折叠：同一作者反复发的同一套 prompt 只留原帖那条；画廊与统计仍是全量。
 const series = collapseSeries(cases);
 const partition = partitionAllPrompts(cases, TOP_INLINE_COUNT);
@@ -415,12 +426,12 @@ function buildReadme(lang) {
   pushRendered(
     renderStartHere(lang, anchors, {
       templates: orderedTemplates(library).length,
-      skills: skillsData ? countSkills(skillsData) : snapshot.skills,
+      skills: skillsData ? countSkills(skillsData, siteSkills) : snapshot.skills,
       cases: cases.length,
     })
   );
   pushRendered(renderTemplateGrid(library, lang, templateIndex));
-  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases }));
+  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases, siteSkills }));
 
   // Top 榜是唯一可裁剪的部分：超预算时从表尾裁行，标题/说明按实际行数回填。
   const top = renderTopTable(topPartition.top, lang, {
@@ -548,6 +559,11 @@ for (const file of readdirSync(docsDir)) {
   }
 }
 
+// Skill 总表：docs/skills.md / skills.zh.md / skills.ja.md，goodcase.ai 上每个视频 Skill 一行安装命令。
+if (siteSkills) {
+  for (const lang of LANGS) writeFileSync(path.join(docsDir, skillListFileName(lang)), renderSkillListDoc(siteSkills, lang), "utf8");
+}
+
 // 模板文件：docs/templates/{zh,en}/<id>.md + 每种语言一个 README.md 索引；删掉库里已不存在的旧模板文件。
 const ordered = orderedTemplates(library);
 for (const lang of TEMPLATE_DOC_LANGS) {
@@ -583,6 +599,10 @@ for (const bucket of SEEDANCE_BUCKETS) {
   );
 }
 console.log(`Stats: ${JSON.stringify(snapshot)}`);
+if (siteSkills) {
+  const sc = siteSkillCounts(siteSkills);
+  console.log(`Skill list: ${sc.official} official + ${sc.creatorMethods} creator methods → docs/${LANGS.map(skillListFileName).join(", docs/")}`);
+}
 const filedCount = cases.length - templateIndex.unassigned.length;
 console.log(`Templates: ${ordered.length} (${filedCount} cases filed, ${templateIndex.unassigned.length} not yet filed; run \`npm run taxonomy:todo\` to list them)`);
 if (series.collapsed.length) {
