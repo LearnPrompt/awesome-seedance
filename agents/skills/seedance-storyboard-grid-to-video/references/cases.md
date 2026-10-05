@@ -347,7 +347,7 @@ PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2
 
 ## E7 · Falling Astronaut Awakens a Giant Spacecraft Above the Clouds
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 36
+- Seedance 2.5 · creator: @Xaroon_x · heat: 35
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
 - Summary: From the clouds to the unknown . A cinematic sci-fi journey created with Seedance 2.5. Exploring cinematic AI video creation with @ImagineArt_X Prompt: REFERENC…
 

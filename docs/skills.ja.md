@@ -14,27 +14,27 @@
 
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
-| [POV and vlog presence](#pov-vlog-presence) | 96 | 10 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 79 | 4 |
-| [Action continuity choreography](#action-continuity-choreography) | 78 | 6 |
+| [POV and vlog presence](#pov-vlog-presence) | 97 | 10 |
+| [Action continuity choreography](#action-continuity-choreography) | 80 | 6 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 78 | 4 |
 | [Product ad shot design](#product-ad-shot-design) | 70 | 4 |
-| [Cinematic travel montage](#travel-city-walk) | 58 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 59 | 5 |
 | [Animation style and character consistency](#animation-style-consistency) | 55 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 46 | 1 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 48 | 1 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 45 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 43 | 0 |
 | [Process and transformation story](#process-transformation-story) | 38 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 35 | 1 |
-| [Horror and suspense short](#horror-suspense-short) | 34 | 3 |
+| [Horror and suspense short](#horror-suspense-short) | 33 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 30 | 0 |
-| [Sports and extreme stunts](#sports-extreme-stunts) | 24 | 0 |
+| [Sports and extreme stunts](#sports-extreme-stunts) | 25 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 22 | 1 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 21 | 0 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 8 | 0 |
-| [Code-rendered explainer video](#code-rendered-explainer-video) | 7 | 0 |
 | [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 7 | 0 |
+| [Code-rendered explainer video](#code-rendered-explainer-video) | 6 | 0 |
 
 <a id="pov-vlog-presence"></a>
 
@@ -42,7 +42,7 @@
 
 > Create credible presence through first-person framing, handheld movement, and lived-in detail.
 
-54 人のクリエイターによる 96 ケース · クリエイターメソッド 10 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance)
+54 人のクリエイターによる 97 ケース · クリエイターメソッド 10 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
@@ -51,8 +51,8 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | Strength04_X | Live News Broadcast | 6 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1sduwzc?utm_source=awesome-seedance) |
+| saniaspeaks_ | DV Tape Korean Idol | 6 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-e2fac1` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-e2fac1?utm_source=awesome-seedance) |
 | ElsaSofia__AI | Multi-Ref Long Sequence | 5 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1yyrk1e` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1yyrk1e?utm_source=awesome-seedance) |
-| saniaspeaks_ | DV Tape Korean Idol | 5 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-e2fac1` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-e2fac1?utm_source=awesome-seedance) |
 | johnAGI168 | Beat-Synced Fitness Ad | 4 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1d090cw` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1d090cw?utm_source=awesome-seedance) |
 | doctorwasif | Phone Snapshot Gym Comedy | 4 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1jqwyww?utm_source=awesome-seedance) |
 | Ciri_ai | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1en62on?utm_source=awesome-seedance) |
@@ -61,13 +61,34 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 | ZaraIrahh | Selfie-Only Day-in-Life | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-ha1tt9` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ha1tt9?utm_source=awesome-seedance) |
 | AIwithkhan | Korean Alley Home Video | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8?utm_source=awesome-seedance) |
 
+<a id="action-continuity-choreography"></a>
+
+### Action continuity choreography
+
+> Make action reproducible by specifying character, direction, rhythm, and shot continuity.
+
+59 人のクリエイターによる 80 ケース · クリエイターメソッド 6 件 · [goodcase.ai で開く](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
+```
+
+| クリエイター | メソッド | ケース | インストール | ページ |
+| --- | --- | --- | --- | --- |
+| itsSaira_1 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance) |
+| Just_sharon7 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance) |
+| itxabdullaa | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance) |
+| haruuraeadss | Theatrical Cel-Shaded Fantasy | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance) |
+| Aiwithmaha | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance) |
+| itxsarmadd | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance) |
+
 <a id="epic-fantasy-scifi-spectacle"></a>
 
 ### Epic fantasy and sci-fi spectacle
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-58 人のクリエイターによる 79 ケース · クリエイターメソッド 4 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
+57 人のクリエイターによる 78 ケース · クリエイターメソッド 4 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -79,27 +100,6 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 | laviniavelle | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance) |
 | Strength04_X | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance) |
 | CharaspowerAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance) |
-
-<a id="action-continuity-choreography"></a>
-
-### Action continuity choreography
-
-> Make action reproducible by specifying character, direction, rhythm, and shot continuity.
-
-59 人のクリエイターによる 78 ケース · クリエイターメソッド 6 件 · [goodcase.ai で開く](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
-```
-
-| クリエイター | メソッド | ケース | インストール | ページ |
-| --- | --- | --- | --- | --- |
-| itsSaira_1 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance) |
-| itxabdullaa | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance) |
-| haruuraeadss | Theatrical Cel-Shaded Fantasy | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance) |
-| Aiwithmaha | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance) |
-| Just_sharon7 | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance) |
-| itxsarmadd | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance) |
 
 <a id="product-ad-shot-design"></a>
 
@@ -126,7 +126,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-38 人のクリエイターによる 58 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance)
+38 人のクリエイターによる 59 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -135,8 +135,8 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | CaliraVal | Cinematic travel montage | 5 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance) |
+| Zyrellix | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance) |
 | noorlewisx | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance) |
-| Zyrellix | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance) |
 | Just_sharon7 | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1wr1qau?utm_source=awesome-seedance) |
 | nawalsehar | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance) |
 
@@ -163,7 +163,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-29 人のクリエイターによる 46 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
+30 人のクリエイターによる 48 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -241,7 +241,7 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 
 > Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
 
-19 人のクリエイターによる 34 ケース · クリエイターメソッド 3 件 · [goodcase.ai で開く](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
+18 人のクリエイターによる 33 ケース · クリエイターメソッド 3 件 · [goodcase.ai で開く](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
@@ -273,7 +273,7 @@ npx skills add LearnPrompt/goodcase-lite --skill food-asmr
 
 > It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
 
-21 人のクリエイターによる 24 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance)
+22 人のクリエイターによる 25 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts
@@ -353,20 +353,6 @@ npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video
 
 クリエイターメソッドはまだありません。
 
-<a id="code-rendered-explainer-video"></a>
-
-### Code-rendered explainer video
-
-> Have an AI write recordable HTML, Three.js, or SVG animation for explainers, data motion, and product demos.
-
-7 人のクリエイターによる 7 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/code-rendered-explainer-video?utm_source=awesome-seedance)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill code-rendered-explainer-video
-```
-
-クリエイターメソッドはまだありません。
-
 <a id="game-ui-livestream"></a>
 
 ### Gameplay capture with HUD and stream overlay
@@ -377,6 +363,20 @@ npx skills add LearnPrompt/goodcase-lite --skill code-rendered-explainer-video
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill game-ui-livestream
+```
+
+クリエイターメソッドはまだありません。
+
+<a id="code-rendered-explainer-video"></a>
+
+### Code-rendered explainer video
+
+> Have an AI write recordable HTML, Three.js, or SVG animation for explainers, data motion, and product demos.
+
+6 人のクリエイターによる 6 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/code-rendered-explainer-video?utm_source=awesome-seedance)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill code-rendered-explainer-video
 ```
 
 クリエイターメソッドはまだありません。

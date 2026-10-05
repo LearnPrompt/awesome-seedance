@@ -2,7 +2,7 @@
 
 Seedance 2.0 の全 275 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 275 件中 190–272 件目。
+このページ: 275 件中 192–273 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
 
@@ -12,7 +12,7 @@ Seedance 2.0 の全 275 ケースをヒートスコア順に掲載。data/cases.
 
 [<img src="https://media.goodcase.ai/media/poster/abulu8-seedance-ai-fe02d3785b12.jpg" width="600" alt="A Wordless Love Through Sign Language">](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12)
 
-**作者:** @abulu8 | **出典:** [元投稿](https://x.com/abulu8/status/2092917994251075961) | **公開日:** 2026-08-27 | **ヒート:** 21
+**作者:** @abulu8 | **出典:** [元投稿](https://x.com/abulu8/status/2092917994251075961) | **公開日:** 2026-08-27 | **ヒート:** 20
 
 **安定度:** 62/100
 
@@ -177,79 +177,6 @@ POSITIVE LOCKS Faces, hands, hair and jewellery identical across all seven shots
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12)**
 
-### Stop-Motion Clay Miniature Nutella Cafe
-
-> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
-
-[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="Stop-Motion Clay Miniature Nutella Cafe">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)
-
-**作者:** @MayaAiCreator | **出典:** [元投稿](https://x.com/MayaAiCreator/status/2091397686104588650) | **公開日:** 2026-08-23 | **ヒート:** 21
-
-<details>
-<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
-
-```
-A prompt to recreate this stop-motion claymation style AI video:
-Seedance 2.0. 
-​Style & Aesthetics
-3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
-​Scene Sequence & Action
-​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
-​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
-​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
-​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
-​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
-​Technical Camera & Lighting
-Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)**
-
-### Premium Tropical Drink UGC Ad
-
-> A detailed multi-scene video prompt for a premium tropical drink ad, showing a woman on the beach with cinematic handheld shots and macro close-ups.
-
-[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="Premium Tropical Drink UGC Ad">](https://goodcase.ai/cases/ugc-34764467dea1)
-
-**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2076908363913613653) | **公開日:** 2026-07-14 | **ヒート:** 20
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
-
-```
-Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
-
-The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
-
-She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
-
-She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
-
-She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
-
-The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
-
-As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
-
-The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
-
-The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
-
-Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
-
-Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-34764467dea1)**
-
 ### Fashion UGC Ad
 
 > A user-generated content (UGC) style fashion ad prompt for showcasing an elegant dress, requiring natural motion effects and a realistic smartphone-shot aesthetic.
@@ -313,40 +240,6 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-6152b0808b14)**
-
-### Luxury Rooftop Helicopter Party
-
-> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
-
-[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
-
-**作者:** @LufzzLiz | **出典:** [元投稿](https://x.com/LufzzLiz/status/2081365529101815987) | **公開日:** 2026-07-26 | **ヒート:** 18
-
-**安定度:** 83/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.7) · [出力](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
-
-```
-8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
-
-分镜 1 | 00:00-00:02 中景起幅・弧形左移
-中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
-
-分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
-
-分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
-分镜 4 | 00:12-00:15 大全景落幅 权力定格
-
-大全景落幅，镜头完全拉远后
-视频时长：15秒
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
 
 ### Glitch Art Multi-Dimensional Face Transformation
 
@@ -454,6 +347,40 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-887d0484c2ce)**
+
+### Luxury Rooftop Helicopter Party
+
+> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
+
+[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
+
+**作者:** @LufzzLiz | **出典:** [元投稿](https://x.com/LufzzLiz/status/2081365529101815987) | **公開日:** 2026-07-26 | **ヒート:** 17
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.7) · [出力](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
+
+```
+8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
+
+分镜 1 | 00:00-00:02 中景起幅・弧形左移
+中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
+
+分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
+
+分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
+分镜 4 | 00:12-00:15 大全景落幅 权力定格
+
+大全景落幅，镜头完全拉远后
+视频时长：15秒
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
 
 ### High-End Lifestyle Lipstick Commercial Video
 
@@ -590,51 +517,6 @@ ASMR anime scene of hands creating a pressed-flower bookmark on a warm wooden de
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/asmr-b99180475dc6)**
 
-### Seedance 2.0 Cola Commercial Video
-
-> A comprehensive multi-scene video prompt written for Seedance 2.0, designed to create a high-energy commercial while ensuring consistent character features and creative transition effects.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-0-181cb461432f.jpg" width="600" alt="Seedance 2.0 Cola Commercial Video">](https://goodcase.ai/cases/seedance-2-0-181cb461432f)
-
-**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2079547623917195490) | **公開日:** 2026-07-21 | **ヒート:** 16
-
-**安定度:** 75/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.6) · [出力](https://media.goodcase.ai/retests/seedance-2-0-181cb461432f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
-
-```
-Referencing the face, hairstyle, and body proportions of image_1 — this exact young Asian woman with shoulder-length black hair with bangs, delicate features, and slender figure must remain 100% identical across all outfit changes. Face never changes. 9:16 vertical, 15 seconds, high-saturation commercial style: photo-realistic character on flat graphic animation backgrounds, red-black-white color palette.
-
-[0–1.7s] Pure white studio background. Full-body 35mm shot. Character wears simple grey-black outfit, faces camera, holds a transparent plastic cola bottle filled with deep-brown carbonated liquid, red label, red cap. She leans in and twists the cap open with effort.
-
-[1.7–2.2s] Cap pops off with a burst — dense bubbles rush upward, cold mist sprays out. Her face shows delighted surprise. A red flash wipes the frame.
-
-[2.2–3.5s] Background instantly transforms: deep crimson flat-design. A giant matte-black cola bottle silhouette dominates center frame. Character shrinks and stands inside the silhouette, tilts head back to drink. Bold red and black geometric shapes slide rapidly behind her.
-
-[3.5–4s] A giant condensation-covered cola bottle sweeps horizontally across the full frame at high speed with motion blur — TRANSITION 1.
-
-[4–6s] Bottle clears. OUTFIT 1 — sporty sweet: red-black cropped top, black shorts, red cap, black sneakers. Same face. She raises one leg, holds cola bottle, energetic jump pose. Floating props: red headphones, black camera, ice cubes, red bottle caps.
-
-[6–8s] Cola bubbles explode across frame — TRANSITION 2. OUTFIT 2 — street casual: black oversized tee with red graphic, black wide shorts, red jacket tied at waist, red-black sneakers. Same face. She spins, lands, turns back to camera and raises cola bottle with cool confidence.
-
-[8–10s] Giant red bottle cap spins into frame — TRANSITION 3. OUTFIT 3 — hot athletic: red off-shoulder crop top, black high-waist shorts, red-black wristbands, black ankle boots. Same face. She leaps sideways mid-air, one hand drinking from cola. Floating: skewers, straws, ice cubes, cola bubbles.
-
-[10–12s] Dark brown cola liquid splashes across body — TRANSITION 4. OUTFIT 4 — cool summer: black cropped top with red trim, red-black shorts, light summer shoes. Same face. Hair gently blown by air current. She floats sideways, holds cola bottle. Floating: red-black swim ring, sunglasses, walkman, small tote bag.
-
-[12–13s] A giant ice-frosted cola bottle rises fast from bottom of frame. Character shrinks, floats beside the bottle. Red-black accessories explode outward in a shockwave. Background: deep red and black diagonal geometric blocks.
-
-[13–15s] Cut to product close-up: cola bottle front view, transparent body filled with deep-brown carbonated liquid, dense fine bubbles rising continuously, real condensation droplets coating the glass, red label with clean white 'COLA' text only. Black ice cubes and red bottle cap float around it. Character peeks from behind the bottle, smiling warmly, raises the cola joyfully, and says with accurate lip-sync: '啊——爽！'
-
-Camera: fixed frontal composition throughout, 35mm full-body for character shots, 50mm product close-up for final. All outfit transitions use in-frame occlusion only — bottle sweep, bubble burst, cap spin, liquid splash — never direct cut. All action beats hit heavy bass downbeats. Character face, hairstyle, and body proportions are identical in every shot. No subtitles. No music. Sound: bottle pop 'bō', carbonation hiss, ice clink, bubble fizz, bass drum hit on each transition beat, brief whoosh on each change, final Chinese line lip-synced precisely.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-181cb461432f)**
-
 ### Ultra-Realistic Korean Riverside Documentary Prompt
 
 > A multi-scene video prompt designed to simulate mid-2000s handheld camera footage, documenting a young man walking along a riverside after the rain.
@@ -689,6 +571,51 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-d346cb88c88e)**
 
+### Seedance 2.0 Cola Commercial Video
+
+> A comprehensive multi-scene video prompt written for Seedance 2.0, designed to create a high-energy commercial while ensuring consistent character features and creative transition effects.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-0-181cb461432f.jpg" width="600" alt="Seedance 2.0 Cola Commercial Video">](https://goodcase.ai/cases/seedance-2-0-181cb461432f)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2079547623917195490) | **公開日:** 2026-07-21 | **ヒート:** 15
+
+**安定度:** 75/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.6) · [出力](https://media.goodcase.ai/retests/seedance-2-0-181cb461432f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+Referencing the face, hairstyle, and body proportions of image_1 — this exact young Asian woman with shoulder-length black hair with bangs, delicate features, and slender figure must remain 100% identical across all outfit changes. Face never changes. 9:16 vertical, 15 seconds, high-saturation commercial style: photo-realistic character on flat graphic animation backgrounds, red-black-white color palette.
+
+[0–1.7s] Pure white studio background. Full-body 35mm shot. Character wears simple grey-black outfit, faces camera, holds a transparent plastic cola bottle filled with deep-brown carbonated liquid, red label, red cap. She leans in and twists the cap open with effort.
+
+[1.7–2.2s] Cap pops off with a burst — dense bubbles rush upward, cold mist sprays out. Her face shows delighted surprise. A red flash wipes the frame.
+
+[2.2–3.5s] Background instantly transforms: deep crimson flat-design. A giant matte-black cola bottle silhouette dominates center frame. Character shrinks and stands inside the silhouette, tilts head back to drink. Bold red and black geometric shapes slide rapidly behind her.
+
+[3.5–4s] A giant condensation-covered cola bottle sweeps horizontally across the full frame at high speed with motion blur — TRANSITION 1.
+
+[4–6s] Bottle clears. OUTFIT 1 — sporty sweet: red-black cropped top, black shorts, red cap, black sneakers. Same face. She raises one leg, holds cola bottle, energetic jump pose. Floating props: red headphones, black camera, ice cubes, red bottle caps.
+
+[6–8s] Cola bubbles explode across frame — TRANSITION 2. OUTFIT 2 — street casual: black oversized tee with red graphic, black wide shorts, red jacket tied at waist, red-black sneakers. Same face. She spins, lands, turns back to camera and raises cola bottle with cool confidence.
+
+[8–10s] Giant red bottle cap spins into frame — TRANSITION 3. OUTFIT 3 — hot athletic: red off-shoulder crop top, black high-waist shorts, red-black wristbands, black ankle boots. Same face. She leaps sideways mid-air, one hand drinking from cola. Floating: skewers, straws, ice cubes, cola bubbles.
+
+[10–12s] Dark brown cola liquid splashes across body — TRANSITION 4. OUTFIT 4 — cool summer: black cropped top with red trim, red-black shorts, light summer shoes. Same face. Hair gently blown by air current. She floats sideways, holds cola bottle. Floating: red-black swim ring, sunglasses, walkman, small tote bag.
+
+[12–13s] A giant ice-frosted cola bottle rises fast from bottom of frame. Character shrinks, floats beside the bottle. Red-black accessories explode outward in a shockwave. Background: deep red and black diagonal geometric blocks.
+
+[13–15s] Cut to product close-up: cola bottle front view, transparent body filled with deep-brown carbonated liquid, dense fine bubbles rising continuously, real condensation droplets coating the glass, red label with clean white 'COLA' text only. Black ice cubes and red bottle cap float around it. Character peeks from behind the bottle, smiling warmly, raises the cola joyfully, and says with accurate lip-sync: '啊——爽！'
+
+Camera: fixed frontal composition throughout, 35mm full-body for character shots, 50mm product close-up for final. All outfit transitions use in-frame occlusion only — bottle sweep, bubble burst, cap spin, liquid splash — never direct cut. All action beats hit heavy bass downbeats. Character face, hairstyle, and body proportions are identical in every shot. No subtitles. No music. Sound: bottle pop 'bō', carbonation hiss, ice clink, bubble fizz, bass drum hit on each transition beat, brief whoosh on each change, final Chinese line lip-synced precisely.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-181cb461432f)**
+
 ### Blackboard Stick-Figure Karate Duel
 
 > A detailed 2D animation prompt describing a scene in which stick figures on a blackboard go from exchanging flowers to launching into an intense karate duel.
@@ -706,51 +633,6 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-de248f679b06)**
-
-### Island Miniature Model Harbor City Montage
-
-> A professional video generation prompt for creating a high-end, richly detailed miniature model of an island harbor city, with cinematic lighting and complex assembly animation.
-
-[<img src="https://media.goodcase.ai/media/poster/case-8bdac964f9d4.jpg" width="600" alt="Island Miniature Model Harbor City Montage">](https://goodcase.ai/cases/case-8bdac964f9d4)
-
-**作者:** @ai_lifehack55 | **出典:** [元投稿](https://x.com/ai_lifehack55/status/2076503632988561413) | **公開日:** 2026-07-13 | **ヒート:** 15
-
-**安定度:** 81/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.8) · [出力](https://media.goodcase.ai/retests/case-8bdac964f9d4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
-
-```
-[CONDITION DEFINITION]
-1:1スクエア、15秒、参照画像なし。広大な島全体に港町が高速で組み上がる、シネマティックな高級ミニチュア・ジオラマ形成モンタージュ。方向性は、チープな玩具ではなく、高級な手作りジオラマ、高級コレクタートイ、映画撮影用の精密模型のような質感。可愛らしさ、整理された美しさ、模型ならではの楽しさを残しつつ、島全体が大きく広がる壮大感を出す。明るくクリアな昼光、青い海、白い波、赤・青・白の屋根、木の桟橋、石の岸壁、灯台、橋、運河、丘の上の街並み、複数の港区画を見せる。主役は人物ではなく、巨大な港島ジオラマそのもの。文字、ロゴ、透かし、字幕は不要。
-
-[SHOT/FLOW]
-0.0〜3.0秒：
-広角の高い俯瞰ショットから開始する。小さな箱庭ではなく、青い海に囲まれた大きな島全体を見せる。何もない島の地形に、海岸線、湾、防波堤、崖、丘、港口、運河、複数の岸壁、橋、主要道路、段差のある街区の輪郭が高速で現れ、まず島と港の大きな骨格が一気に完成する。最初から外海、湾、丘、港の広がりを見せ、こじんまりした印象を避ける。
-3.0〜6.5秒：
-カメラは広角を保ったまま、ゆるやかに下降しながら港側へ前進する。木の桟橋、石畳、階段、手すり、倉庫、漁具小屋、運河沿いの建物、赤・青・白の屋根の家並み、丘へ続く細い道が、カチッとはまるようにテンポよく組み上がる。寄りすぎず、常に港・丘・外海の奥行きが見える構図にする。
-6.5〜10.0秒：
-自然な場面転換を入れ、港の中距離ショットへ移る。複数の桟橋、小舟、帆船、係留ロープ、木箱、小型クレーン、街灯、旗、橋、運河、岸壁の石の継ぎ目、桟橋の板などの細部が連続して完成する。ここは形成の快感を最も強く見せる場面だが、小物の寄りだけにせず、広い港区画全体が一気に密度を増していくように見せる。
-10.0〜12.5秒：
-灯台、丘の上の街並み、複数の港区画、外海へ続く湾を見せる。灯台が完成し、屋根、窓、橋、街灯、船、旗が最後の仕上げとして整い、広大な港島ジオラマが完成形に近づく。ここで島全体のスケール感をもう一度強く見せる。
-12.5〜15.0秒：
-完成した港島に命が宿る。水面がきらめき、小舟が少し揺れ、旗とロープが風になびき、灯台の光がゆっくり回り、窓や街灯が小さく点灯する。最後は広角で大きく引いた壮大な全景。港, 丘, 灯台, 複数の桟橋, 外海まで含めて, 大きな高級ジオラマ島が可愛らしく息づき始めた余韻で締める。
-
-[CAMERA/EDITING]
-カメラは広角を重視し、島全体の広がりを常に感じさせる。開始は高い俯瞰、次に下降前進、港沿いの近接通過、灯台まわりの軽い回り込み、最後は大きく引いた全景。15秒内に2〜3回の自然な場面転換を入れる。寄りカットは入れてよいが、寄りすぎて小さな玩具だけに見えないようにする。前景・中景・遠景を重ね、港、丘、灯台、外海が同時に見える構図を作る。テンポは速く、形成の快感を重視する。単調な直線移動や長い静止は避ける。
-
-[SOUND]
-BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあるシネマティックな音楽。高級ジオラマが完成していく高揚感を支えるが、派手すぎない。効果音は小さな組み立て音、木や石がはまる音、軽いクリック音、水音、波のさざめき、ロープや旗の音、船のきしみ、遠いカモメ、灯台の小さな機械音。セリフなし、ナレーションなし。
-
-[NEGATIVE]
-小さすぎる島、こじんまりした箱庭、安い玩具感、チープなプラスチック感、雑なクラフト感、狭い港、数軒だけの町、スケールのない構図、暗い曇天、濁った海、実物大の巨大人間、人物主役化、文字、ロゴ、透かし、字幕、単調な直線カメラ、完成後に完全静止するだけのラストを避ける。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-8bdac964f9d4)**
 
 ### K-Pop Idol Backstage Vlog
 
@@ -808,20 +690,6 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c)**
 
-### Hand-Drawn Stop Motion: Blizzard Scene
-
-> A refined stop-motion animation prompt designed for Seedance 2.0, aiming to present a hand-drawn 2D style and depict a wolf pack attacking a Kazakh yurt camp in a blizzard.
-
-[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="Hand-Drawn Stop Motion: Blizzard Scene">](https://goodcase.ai/cases/case-0287a838e662)
-
-**作者:** @piotrbinkowski | **出典:** [元投稿](https://x.com/piotrbinkowski/status/2078515110855753844) | **公開日:** 2026-07-18 | **ヒート:** 14
-
-```
-Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-0287a838e662)**
-
 ### Stop-Motion Animation: Wolf Pack Attack Sequence
 
 > This is a realistic stop-motion animation prompt designed for Seedance 2.0, describing a brutal wolf pack attack during a blizzard, with a strong emphasis on physics effects and camera movement.
@@ -875,6 +743,51 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-8a3e0b49e77b)**
 
+### Island Miniature Model Harbor City Montage
+
+> A professional video generation prompt for creating a high-end, richly detailed miniature model of an island harbor city, with cinematic lighting and complex assembly animation.
+
+[<img src="https://media.goodcase.ai/media/poster/case-8bdac964f9d4.jpg" width="600" alt="Island Miniature Model Harbor City Montage">](https://goodcase.ai/cases/case-8bdac964f9d4)
+
+**作者:** @ai_lifehack55 | **出典:** [元投稿](https://x.com/ai_lifehack55/status/2076503632988561413) | **公開日:** 2026-07-13 | **ヒート:** 14
+
+**安定度:** 81/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.8) · [出力](https://media.goodcase.ai/retests/case-8bdac964f9d4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+[CONDITION DEFINITION]
+1:1スクエア、15秒、参照画像なし。広大な島全体に港町が高速で組み上がる、シネマティックな高級ミニチュア・ジオラマ形成モンタージュ。方向性は、チープな玩具ではなく、高級な手作りジオラマ、高級コレクタートイ、映画撮影用の精密模型のような質感。可愛らしさ、整理された美しさ、模型ならではの楽しさを残しつつ、島全体が大きく広がる壮大感を出す。明るくクリアな昼光、青い海、白い波、赤・青・白の屋根、木の桟橋、石の岸壁、灯台、橋、運河、丘の上の街並み、複数の港区画を見せる。主役は人物ではなく、巨大な港島ジオラマそのもの。文字、ロゴ、透かし、字幕は不要。
+
+[SHOT/FLOW]
+0.0〜3.0秒：
+広角の高い俯瞰ショットから開始する。小さな箱庭ではなく、青い海に囲まれた大きな島全体を見せる。何もない島の地形に、海岸線、湾、防波堤、崖、丘、港口、運河、複数の岸壁、橋、主要道路、段差のある街区の輪郭が高速で現れ、まず島と港の大きな骨格が一気に完成する。最初から外海、湾、丘、港の広がりを見せ、こじんまりした印象を避ける。
+3.0〜6.5秒：
+カメラは広角を保ったまま、ゆるやかに下降しながら港側へ前進する。木の桟橋、石畳、階段、手すり、倉庫、漁具小屋、運河沿いの建物、赤・青・白の屋根の家並み、丘へ続く細い道が、カチッとはまるようにテンポよく組み上がる。寄りすぎず、常に港・丘・外海の奥行きが見える構図にする。
+6.5〜10.0秒：
+自然な場面転換を入れ、港の中距離ショットへ移る。複数の桟橋、小舟、帆船、係留ロープ、木箱、小型クレーン、街灯、旗、橋、運河、岸壁の石の継ぎ目、桟橋の板などの細部が連続して完成する。ここは形成の快感を最も強く見せる場面だが、小物の寄りだけにせず、広い港区画全体が一気に密度を増していくように見せる。
+10.0〜12.5秒：
+灯台、丘の上の街並み、複数の港区画、外海へ続く湾を見せる。灯台が完成し、屋根、窓、橋、街灯、船、旗が最後の仕上げとして整い、広大な港島ジオラマが完成形に近づく。ここで島全体のスケール感をもう一度強く見せる。
+12.5〜15.0秒：
+完成した港島に命が宿る。水面がきらめき、小舟が少し揺れ、旗とロープが風になびき、灯台の光がゆっくり回り、窓や街灯が小さく点灯する。最後は広角で大きく引いた壮大な全景。港, 丘, 灯台, 複数の桟橋, 外海まで含めて, 大きな高級ジオラマ島が可愛らしく息づき始めた余韻で締める。
+
+[CAMERA/EDITING]
+カメラは広角を重視し、島全体の広がりを常に感じさせる。開始は高い俯瞰、次に下降前進、港沿いの近接通過、灯台まわりの軽い回り込み、最後は大きく引いた全景。15秒内に2〜3回の自然な場面転換を入れる。寄りカットは入れてよいが、寄りすぎて小さな玩具だけに見えないようにする。前景・中景・遠景を重ね、港、丘、灯台、外海が同時に見える構図を作る。テンポは速く、形成の快感を重視する。単調な直線移動や長い静止は避ける。
+
+[SOUND]
+BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあるシネマティックな音楽。高級ジオラマが完成していく高揚感を支えるが、派手すぎない。効果音は小さな組み立て音、木や石がはまる音、軽いクリック音、水音、波のさざめき、ロープや旗の音、船のきしみ、遠いカモメ、灯台の小さな機械音。セリフなし、ナレーションなし。
+
+[NEGATIVE]
+小さすぎる島、こじんまりした箱庭、安い玩具感、チープなプラスチック感、雑なクラフト感、狭い港、数軒だけの町、スケールのない構図、暗い曇天、濁った海、実物大の巨大人間、人物主役化、文字、ロゴ、透かし、字幕、単調な直線カメラ、完成後に完全静止するだけのラストを避ける。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-8bdac964f9d4)**
+
 ### Stylized 3D Animation: Old Man and Pigeon
 
 > A charming 3D animation prompt about an eccentric elderly man and a mischievous pigeon sharing a comedic and sweet moment on a balcony.
@@ -892,24 +805,6 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon)**
-
-### Battle of the Frozen Planet Fortress
-
-> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
-
-[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8)
-
-**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080669361237303417) | **公開日:** 2026-07-24 | **ヒート:** 13
-
-**安定度:** 66/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.1) · [出力](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1b3b8865bca8)**
 
 ### Mythic Warrior Cinematic VFX Showcase
 
@@ -974,52 +869,19 @@ M-01. Hongdae Busking Street & Tattoo Shop Tour
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-58e736edb65c)**
 
-### Cinematic Sourdough Bread Baking Timelapse
+### Hand-Drawn Stop Motion: Blizzard Scene
 
-> A detailed multi-shot video prompt for generating a professional sourdough bread baking timelapse, including close-up shots of kneading, proofing, and baking, with warm cinematic lighting effects.
+> A refined stop-motion animation prompt designed for Seedance 2.0, aiming to present a hand-drawn 2D style and depict a wolf pack attacking a Kazakh yurt camp in a blizzard.
 
-[<img src="https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg" width="600" alt="Cinematic Sourdough Bread Baking Timelapse">](https://goodcase.ai/cases/case-179a06586ce5)
+[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="Hand-Drawn Stop Motion: Blizzard Scene">](https://goodcase.ai/cases/case-0287a838e662)
 
-**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2070862852735594771) | **公開日:** 2026-06-27 | **ヒート:** 13
-
-**安定度:** 85/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 85.4) · [出力](https://media.goodcase.ai/retests/case-179a06586ce5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+**作者:** @piotrbinkowski | **出典:** [元投稿](https://x.com/piotrbinkowski/status/2078515110855753844) | **公開日:** 2026-07-18 | **ヒート:** 13
 
 ```
-Cinematic 10-sec sourdough recipe timelapse. 
-Hands + ingredients only, NO faces. 
-Warm natural kitchen lighting throughout.
-
-[0:00-0:02] Overhead: Hands mixing flour and water 
-in silver bowl, flour clouds puffing, shaggy dough forming.
-
-[0:02-0:04] Side shot: Hands kneading smooth dough 
-on floured wooden board, rhythmic push-fold motion.
-
-[0:04-0:05.5] Overhead timelapse: Dough rising in 
-clear glass bowl on marble counter, doubling in size.
-
-[0:05.5-0:07] Close-up: Blade scoring confident slash 
-across round dough boule, surface opening cleanly.
-
-[0:07-0:08.5] Oven interior: Loaf baking on rack, 
-warm amber glow, steam rising, crust turning golden.
-
-[0:08.5-0:10] Slow push-in: Baked boule on wire rack, 
-steam rising, rustic ear crack, cinematic beauty shot.
-
-STYLE: Warm film tones, smooth dissolve cuts, 
-slow push-ins, no shaky cam, wrists/hands only, 
-soft window light from left, 9:16 widescreen.
+Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
 ```
 
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-179a06586ce5)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-0287a838e662)**
 
 ### Martial Arts Alley Fight Scene
 
@@ -1075,6 +937,24 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-6f13437e4b40)**
 
+### Battle of the Frozen Planet Fortress
+
+> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
+
+[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8)
+
+**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080669361237303417) | **公開日:** 2026-07-24 | **ヒート:** 12
+
+**安定度:** 66/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.1) · [出力](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1b3b8865bca8)**
+
 ### Wireless Earbuds Product Review
 
 > A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
@@ -1092,6 +972,53 @@ A young creator walks into a bright living room holding a pair of sleek wireless
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b157d9c072bc)**
+
+### Cinematic Sourdough Bread Baking Timelapse
+
+> A detailed multi-shot video prompt for generating a professional sourdough bread baking timelapse, including close-up shots of kneading, proofing, and baking, with warm cinematic lighting effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg" width="600" alt="Cinematic Sourdough Bread Baking Timelapse">](https://goodcase.ai/cases/case-179a06586ce5)
+
+**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2070862852735594771) | **公開日:** 2026-06-27 | **ヒート:** 12
+
+**安定度:** 85/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 85.4) · [出力](https://media.goodcase.ai/retests/case-179a06586ce5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+Cinematic 10-sec sourdough recipe timelapse. 
+Hands + ingredients only, NO faces. 
+Warm natural kitchen lighting throughout.
+
+[0:00-0:02] Overhead: Hands mixing flour and water 
+in silver bowl, flour clouds puffing, shaggy dough forming.
+
+[0:02-0:04] Side shot: Hands kneading smooth dough 
+on floured wooden board, rhythmic push-fold motion.
+
+[0:04-0:05.5] Overhead timelapse: Dough rising in 
+clear glass bowl on marble counter, doubling in size.
+
+[0:05.5-0:07] Close-up: Blade scoring confident slash 
+across round dough boule, surface opening cleanly.
+
+[0:07-0:08.5] Oven interior: Loaf baking on rack, 
+warm amber glow, steam rising, crust turning golden.
+
+[0:08.5-0:10] Slow push-in: Baked boule on wire rack, 
+steam rising, rustic ear crack, cinematic beauty shot.
+
+STYLE: Warm film tones, smooth dissolve cuts, 
+slow push-ins, no shaky cam, wrists/hands only, 
+soft window light from left, 9:16 widescreen.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-179a06586ce5)**
 
 ### Clay-Style Pirate Duck Adventure
 
@@ -1277,20 +1204,6 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-f46706b10233)**
 
-### Cinematic Futuristic Anime Sword Duel
-
-> An extremely detailed anime battle prompt set in a futuristic city, covering camera angles, character consistency, and rhythmically choreographed combat.
-
-[<img src="https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg" width="600" alt="Cinematic Futuristic Anime Sword Duel">](https://goodcase.ai/cases/case-a9ab0266f96a)
-
-**作者:** @haruuraeadss | **出典:** [元投稿](https://x.com/haruuraeadss/status/2081317622927577411) | **公開日:** 2026-07-26 | **ヒート:** 9
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜けると**@1の胸上を斜め前から映す。@1は一歩も退かず無表情。右手で刀を低く保持し、左人差し指の前へ@1固有色の薄い六角形防御面を一枚だけ形成する。@2の斬撃が防御面中央の単一接触点へ当たり、局所閃光、六角形の波紋、@2固有色の火花が同期する。@1が指と手首を数センチ外側へ弾くと、防御面全体が傾き、@2の軌道が@1の肩外側から約45度上方へ偏向される。@2**の両腕、肩、腰へ逆向きの反力が戻り、支持脚が踏み直す。カメラは逸れた軌道をウィップパンで追う。Cut 3：ウィップパンの終端で**@1の肩越しへ入る。@2は返った反力を使い、左足を軸に腰を一度だけ反転して低い返し斬り。@1は左手を柄へ戻し、刀身中央同士を一点で受け、短いヒットストップの直後に接触面を滑らせて@2の刀を上外側へ弾く。そのまま@1が懐へ踏み込み、左下から右上へ@1固有色の上昇斬りを返す。カメラは接触点を中心に約60度回り込み、欄干と床反射が大きく移動する。@2は斜め後方へ押され、空中で半回転し、右足から着地して短く滑る。@1は止まらず前進する。@2だけが押し戻される**非対称な移動。着地の水しぶきが画面下部を覆う。Cut 4：水しぶきの奥で、@1を左手前に大きく、@2を右奥に置く斜め低空構図。二人を横並びにしない。@2は滑りの終端で右足を踏み直し、停止せず右上から中央へ**@2固有色の振り下ろし。@1も前進を止めず、左下から中央へ@1固有色の上昇斬り。二人の足元と背後から、それぞれの固有色の巨大な炎状オーラが噴き上がり、床の発光亀裂、細い電光、上昇流を伴う。二色は混ざらない。二本の刀が同じ接触点へ入る一瞬だけ形を読ませ、接触後は発光へ隠す。同じ接触点を発生源として、@1の直線軌道と@2の湾曲軌道が巨大なX字を形成する。狭い白熱中心だけを純白にし、その外側に二人の固有色を残す。大面積の高彩度色面を維持し、同じ衝突核から放射状の衝撃波、同心円圧力波、垂直の炎状オーラ、体積光、電光、火花を広げる。床水、蒸気、砂塵、破片、髪、衣装が外側へ吹き飛び、色付きエフェクトが画面の大部分を占める。@1の圧力で@2の防御姿勢が崩壊する。** カメラは接触点へ短く突進し、衝撃波で少し後方へ押し戻され、数度傾く。画面全体を白くしない。【重大NG】固定横の格闘ゲーム視点、左右対称の全身構図、二人を左右端へ離す仕切り直し、同時反転、鏡写しの同時ダッシュ、長い助走、長い刀の押し合い、無意味な連続回転、独立レーザー、第三の光線、二色融合、全画面白飛び、文字、字幕、ロゴ、透かし、UI、音響生成なし。【終端】@1のエネルギーが接触点を**@2側へ押し、@2側の水煙と砂塵が後方へ膨む。@2のシルエットが斜め後方へ崩れ始め、@1**は低い重心のまま前へ力を通し続ける。巨大な二色のX字光が最大まで拡大し、人物と刀身が光へ隠れた接触の瞬間、崩壊開始を捉えたそのフレームで即カットする。アクション継続。
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-a9ab0266f96a)**
-
 ### Phoenix Knight Transformation Sequence
 
 > A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
@@ -1421,6 +1334,20 @@ Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, f
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b079faa80f0f)**
+
+### Cinematic Futuristic Anime Sword Duel
+
+> An extremely detailed anime battle prompt set in a futuristic city, covering camera angles, character consistency, and rhythmically choreographed combat.
+
+[<img src="https://media.goodcase.ai/media/poster/case-a9ab0266f96a.jpg" width="600" alt="Cinematic Futuristic Anime Sword Duel">](https://goodcase.ai/cases/case-a9ab0266f96a)
+
+**作者:** @haruuraeadss | **出典:** [元投稿](https://x.com/haruuraeadss/status/2081317622927577411) | **公開日:** 2026-07-26 | **ヒート:** 8
+
+```
+高品質アニメ映像。高密度3Dトゥーン／セルルックによる、近未来学園都市型・映画的アクションRPGの高速剣戟。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。@1は冷静で圧倒的な格上、@2は速度と手数で挑む挑戦者。攻撃、弾き、反力による反撃、最大衝突を切れ目なくつなぐ。【参照画像と人物固定】@1参照画像と**@2参照画像を、それぞれ別人として読み取る。参照画像は顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラー、既存武器意匠の維持だけに使う。参照画像の背景、部屋、家具、文字、分割レイアウト、ポーズ、構図、画角、フレーミングは再現しない。二人は全編でそれぞれ同じ一人、same person、same character identity。表情、視線、口元、姿勢、呼吸、自然な髪と衣装の揺れだけ変化してよい。顔の平均化、特徴混合、髪色交換、衣装交換、武器交換、別人化、クローン化、分身、余計な人物の追加は禁止。参照画像から各人物の主色、補助色、差し色、素材感、装飾モチーフ、世界観を抽出し、以後@1固有色、@2固有色**として使う。色は二人の間で交換しない。背景、小物、発光誘導線、床反射、空気、蒸気、照明、エフェクトは、固定された舞台構造を維持したまま、二人の衣装・装飾・性格・世界観へ調和するよう再設計する。ただし戦闘の流れ、位置関係、接触点、カメラ順序は変更しない。【画風固定】細く繊細な色付き輪郭線。顔、髪、衣装、装備に明快な二段から三段のセルシェーディングと透明感のある中間影。参照画像の固有色を澄んだ高彩度で使い、瞳と髪に多層ハイライト。顔、髪束、刺繍、装飾、金属、宝石、武器装具まで高密度。布、革、金属、宝石、濡れた床、ガラスを異なる反射と粗さで描き分ける。各人物の固有色をキーライトと影色に使い、背景は人物より一段暗く抑える。太い黒輪郭、平坦な単層セル影、簡略TVアニメ、汎用3D美少女顔、成熟化、滑らかなプラスチックCG、半写実、写実、低密度背景、くすんだ色、画風混合にしない。【舞台・雰囲気】雨上がりの近未来学園都市、夕暮れの濡れた屋上演習場。発光誘導線、床の色付き反射、高層校舎、ガラス壁、都市スカイライン、薄い蒸気。二人以外は無人。建築装飾、床紋様、手すり、照明器具、訓練設備、遠景広告の抽象模様は参照人物のモチーフへ合わせるが、文字、ロゴ、UIは出さない。【カメラ】固定横視点ではなく、@2を追う床すれすれの低い三分の四、@1の胸上の斜め前、@1の肩越し、接触点を軸にした約60度の回り込み、最終衝突へ迫る斜め低空カメラを順番に使う。カメラと背景が回り、人物を無意味に回転させない。【武器固定】二人はそれぞれ一本だけの刀を持ち、合計二本。参照画像に武器がある場合は形状、長さ、装飾、配色を維持し、刀剣でない場合はその意匠を継承した一振りの刀として再設計する。全Cutで本数、刀身、鍔、柄、鞘、房飾りの接続を固定する。手は鍔より後ろの柄だけを握る。刀身、鍔、柄を一体の武器として肩、肘、腰、支持脚から動かし、刀身や切っ先だけを回転させない。@1は弾きの瞬間だけ右手で柄を腰近くに保持し、左人差し指を使う。@2は刀を両手で保持する。【動き】Cut 1：直前クリップ末尾の**@1固有色の水平斬撃光がレンズ前を横切る瞬間から開始。光は刀の掃引面に密着した湾曲残光で、独立レーザーではない。光が抜けると、カメラは@2の左後方、床すれすれの低い三分の四位置へ接続する。@2は左足で濡れた床を蹴り、両手の刀で@1の右肩口へ右上から左下の斜め振り下ろしを放つ。水滴、髪、布が加速と逆方向へ遅れてなびく。@2固有色**の刀光がレンズを覆い、次の近距離カットへの遮蔽ワイプになる。Cut 2：@2の刀光が抜けると**@1の胸上を斜め前から映す。@1は一歩も退かず無表情。右手で刀を低く保持し、左人差し指の前へ@1固有色の薄い六角形防御面を一枚だけ形成する。@2の斬撃が防御面中央の単一接触点へ当たり、局所閃光、六角形の波紋、@2固有色の火花が同期する。@1が指と手首を数センチ外側へ弾くと、防御面全体が傾き、@2の軌道が@1の肩外側から約45度上方へ偏向される。@2**の両腕、肩、腰へ逆向きの反力が戻り、支持脚が踏み直す。カメラは逸れた軌道をウィップパンで追う。Cut 3：ウィップパンの終端で**@1の肩越しへ入る。@2は返った反力を使い、左足を軸に腰を一度だけ反転して低い返し斬り。@1は左手を柄へ戻し、刀身中央同士を一点で受け、短いヒットストップの直後に接触面を滑らせて@2の刀を上外側へ弾く。そのまま@1が懐へ踏み込み、左下から右上へ@1固有色の上昇斬りを返す。カメラは接触点を中心に約60度回り込み、欄干と床反射が大きく移動する。@2は斜め後方へ押され、空中で半回転し、右足から着地して短く滑る。@1は止まらず前進する。@2だけが押し戻される**非対称な移動。着地の水しぶきが画面下部を覆う。Cut 4：水しぶきの奥で、@1を左手前に大きく、@2を右奥に置く斜め低空構図。二人を横並びにしない。@2は滑りの終端で右足を踏み直し、停止せず右上から中央へ**@2固有色の振り下ろし。@1も前進を止めず、左下から中央へ@1固有色の上昇斬り。二人の足元と背後から、それぞれの固有色の巨大な炎状オーラが噴き上がり、床の発光亀裂、細い電光、上昇流を伴う。二色は混ざらない。二本の刀が同じ接触点へ入る一瞬だけ形を読ませ、接触後は発光へ隠す。同じ接触点を発生源として、@1の直線軌道と@2の湾曲軌道が巨大なX字を形成する。狭い白熱中心だけを純白にし、その外側に二人の固有色を残す。大面積の高彩度色面を維持し、同じ衝突核から放射状の衝撃波、同心円圧力波、垂直の炎状オーラ、体積光、電光、火花を広げる。床水、蒸気、砂塵、破片、髪、衣装が外側へ吹き飛び、色付きエフェクトが画面の大部分を占める。@1の圧力で@2の防御姿勢が崩壊する。** カメラは接触点へ短く突進し、衝撃波で少し後方へ押し戻され、数度傾く。画面全体を白くしない。【重大NG】固定横の格闘ゲーム視点、左右対称の全身構図、二人を左右端へ離す仕切り直し、同時反転、鏡写しの同時ダッシュ、長い助走、長い刀の押し合い、無意味な連続回転、独立レーザー、第三の光線、二色融合、全画面白飛び、文字、字幕、ロゴ、透かし、UI、音響生成なし。【終端】@1のエネルギーが接触点を**@2側へ押し、@2側の水煙と砂塵が後方へ膨む。@2のシルエットが斜め後方へ崩れ始め、@1**は低い重心のまま前へ力を通し続ける。巨大な二色のX字光が最大まで拡大し、人物と刀身が光へ隠れた接触の瞬間、崩壊開始を捉えたそのフレームで即カットする。アクション継続。
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-a9ab0266f96a)**
 
 ### 1990s Retro VHS Fitness Vlog
 
@@ -3523,6 +3450,24 @@ No face, no full body, no realistic human, no scary bunny, no dark mood, no burn
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-3d49f00e65c0)**
+
+### 1990s Disney-Style Forest Animation
+
+> A multi-scene video prompt for creating a 1990s Disney-style hand-drawn animation starring a raccoon and a turtle in the forest.
+
+[<img src="https://media.goodcase.ai/media/poster/90-f704a9d8555b.jpg" width="600" alt="1990s Disney-Style Forest Animation">](https://goodcase.ai/cases/90-f704a9d8555b)
+
+**作者:** @samaote | **出典:** [元投稿](https://x.com/samaote/status/2080638821557731785) | **公開日:** 2026-07-24 | **ヒート:** -
+
+**安定度:** 87/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/90-f704a9d8555b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Classic 1990s Disney-style hand-drawn animation, colorful forest, expressive animal faces, exaggerated physical comedy, smooth cinematic motion, family-friendly humor. Scene 1 — 0–3s: A mischievous raccoon spots a picnic basket hanging from a tree. He stands on a sleepy turtle’s curved shell, stretching upward and saying, “Stay still!” Scene 2 — 3–6s: A tiny butterfly lands on the turtle’s nose. The turtle’s eyes cross, his cheeks puff up, and he desperately tries not to sneeze. The raccoon wobbles above him. Scene 3 — 6–10s: The turtle releases a huge sneeze and pulls into his shell. The shell suddenly rolls forward like a wheel, carrying the terrified raccoon around the pond as he shouts, “Wrong way!” Scene 4 — 10–13s: The shell hits a tree root, launching the raccoon through the air and directly into the hanging picnic basket. Food and fruit explode everywhere. Scene 5 — 13–15s: The raccoon lands face-first in a cream pie. The turtle calmly catches a falling sandwich, takes a bite, and asks, “Did we get it?” The raccoon silently gives him a cream-covered thumbs-up. Fast pacing, clear visual storytelling, natural character motion, playful sound effects, no subtitles, no watermark.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/90-f704a9d8555b)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

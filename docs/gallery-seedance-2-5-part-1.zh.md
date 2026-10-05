@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/6 页）
 
-Seedance 2.5 全部 485 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 494 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–80 条，共 485 条。
+本页：第 1–81 条，共 494 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md)
 
@@ -431,6 +431,42 @@ Format: 16:9.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00)**
 
+### 萌娃学爸爸剃须，泡沫胡子逗笑父母
+
+> Made with seedance 2.5 Prompt 👇 Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format. Scene: A cute little toddl…
+
+[<img src="https://media.goodcase.ai/cases/e7b938f20d48.jpg" width="600" alt="萌娃学爸爸剃须，泡沫胡子逗笑父母">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2106560621932384657) | **发布:** 2026-10-04 | **热度:** 96
+
+<details>
+<summary><b>完整 prompt（18 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format.
+
+Scene: A cute little toddler boy is sitting on the bathroom floor in front of a dark blue liquid soap dispenser. His father is standing behind him in front of a large bathroom mirror, shaving his own face with a razor.
+
+The toddler curiously watches his father and decides to imitate him. He presses the soap dispenser and playfully covers his eyebrows, cheeks, upper lip, and chin with thick white shaving foam, creating a funny oversized Santa-style beard and eyebrows.
+
+The father notices what the child has done and looks surprised and amused. The toddler proudly stands up, grabs a wooden floor broom, and walks toward the bathroom doorway as if he is going to help clean.
+
+The mother appears at the doorway holding folded white towels. She looks at the toddler, realizes what happened, and starts laughing. The father also looks at his little son and bursts into laughter.
+
+End with the toddler standing proudly between his laughing parents, still covered in shaving foam, smiling innocently at the camera.
+
+Style: high-quality 3D animated family comedy, adorable toddler expressions, realistic body movement, detailed facial animation, warm bathroom lighting, cinematic depth of field, soft shadows, realistic textures, natural camera movement, expressive reactions, wholesome family humor.
+
+Keep the characters consistent throughout the entire video. Preserve the toddler's hairstyle, clothing, facial features, and proportions. Smooth motion, believable hand movements, natural eye direction, cinematic composition, highly detailed animation, no text, no subtitles, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa)**
+
 ### 实验室寄生体感染突袭
 
 > A containment breach in the lab sent things wrong fast. Seedance 2.5 Prompt: Cinematic sci-fi horror-action short film set in a research laboratory, opens with …
@@ -840,57 +876,6 @@ NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, mel
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)**
 
-### Seedance 原生 UGC 竖屏手机跟拍短片
-
-> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
-
-[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)
-
-**作者:** @mightyking | **来源:** [原帖](https://x.com/mightyking/status/2089299068514148655) | **发布:** 2026-08-17 | **热度:** 95
-
-**稳定度：** 71/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.2 分) · [产物](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（29 行，点开展开）</b></summary>
-
-```
-Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
-
-Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
-
-Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
-
-[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
-
-[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
-
-[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
-
-[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
-
-[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
-
-[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
-
-[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
-
-[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
-
-[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
-
-[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
-
-Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
-
-Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
-
 ### Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底
 
 > 木马人（@cnyzgkc）揭晓一条引发 29 万次浏览的 AI 动态桌面壁纸视频由 Seedance 2.5 生成。作者在 @johnAGI168 的 prompt 基础上优化加料，完整复刻效果。Prompt 描述一段 29 秒固定机位超真实 AI 动态桌面互动视频：女主坐在黑色皮沙发上，根据画外男声指令换装三套学院风造型，全程一镜连续。Prompt 极其精细地控制了字幕界面（逐字打字效果、颜色区分说话人）、服装设计（三套造型逐件描述）和逐秒表演调度（00:00-00:29），是 Seedance 2.5 写实互动类 prompt 的典型范例。
@@ -1107,6 +1092,57 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)**
+
+### Seedance 原生 UGC 竖屏手机跟拍短片
+
+> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
+
+[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)
+
+**作者:** @mightyking | **来源:** [原帖](https://x.com/mightyking/status/2089299068514148655) | **发布:** 2026-08-17 | **热度:** 94
+
+**稳定度：** 71/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.2 分) · [产物](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（29 行，点开展开）</b></summary>
+
+```
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
 
 ### Seedance 2.5 印尼女生日常写实短片
 
@@ -1823,43 +1859,6 @@ Prompt
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b)**
 
-### 人群同时转身凝视黑衣女子
-
-> STORM with a twist Seedance 2.5 Prompt : Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual referenc…
-
-[<img src="https://media.goodcase.ai/cases/15e425fa8f93.jpg" width="600" alt="人群同时转身凝视黑衣女子">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2100067816162636164) | **发布:** 2026-09-16 | **热度:** 91
-
-<details>
-<summary><b>完整 prompt（19 行，点开展开）</b></summary>
-
-```
-Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual reference for the woman, crowd, wardrobe, composition, lighting, and atmosphere.
-
-A young woman with a short sleek dark bob, realistic facial features, natural skin texture, and subtle makeup wears a fitted black turtleneck, black trousers, black shoes, and minimal jewelry. Keep her face, hairstyle, outfit, and proportions perfectly consistent.
-
-She walks slowly and confidently toward a large, tightly packed crowd, maintaining a calm and emotionless expression while the camera smoothly tracks backward and keeps her centered.
-
-She reaches the exact center of the crowd and stops completely, standing perfectly still with her arms naturally at her sides and looking directly into the camera.
-
-The crowd remains completely frozen for a brief moment.
-
-Then, without the woman moving, the people behind her slowly begin turning toward her. The head turns start subtly and spread through the entire crowd until everyone is facing and looking directly at her.
-
-The woman remains completely motionless and expressionless, never reacting to the crowd.
-
-The camera slowly pushes closer while the crowd stays turned toward her, creating an unsettling synchronized effect. Their final movement is one sharp, simultaneous turn toward her while she continues staring into the lens.
-
-Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
-
-No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)**
-
 ### 五点下班的办公室潜行
 
 > Leaving work at five shouldn’t require stealth mode, but her boss made it a mission. Seedance 2.5 0n @SJinn_Agent Prompt SCENE CONTEXT A 30-second realistic AAA…
@@ -2166,6 +2165,37 @@ Final notification: 【AFTER-HOURS TASK EVADED】.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e)**
 
+### 微缩女子的便利店跑酷冒险
+
+> Turning a convenience store run into an extreme adventure. Seedance 2.5 on @higgsfield Prompt : STYLE: Photorealistic live-action miniature-person FX, cinematic…
+
+[<img src="https://media.goodcase.ai/cases/3b9300fbc51d.jpg" width="600" alt="微缩女子的便利店跑酷冒险">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2106397932304191969) | **发布:** 2026-10-03 | **热度:** 90
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+STYLE: Photorealistic live-action miniature-person FX, cinematic macro photography, ultra-shallow depth of field, realistic convenience store, dynamic handheld camera, dramatic practical lighting, realistic physics, detailed textures, premium viral commercial aesthetic, 4K.
+
+Create a 30-second cinematic adventure featuring one athletic miniature woman at approximately 1 : 5 scale. Maintain her exact face, hairstyle, outfit, body proportions, backpack, and scale throughout.
+
+She races across towering snack shelves, jumping over oversized packages and gaps. A giant candy box falls, creating an avalanche of rolling candies that she uses as stepping stones before landing on a massive chocolate bar. She climbs a huge drink bottle, runs up its curved surface, jumps over the cap, and lands on a hanging promotional display. She then rides a moving shopping cart through checkout, dodging the scanner and jumping onto the conveyor belt. At the refrigerated section, she runs across frozen-food packages, slides beneath a closing freezer door, and swings onto the display using the handle. Finally, she climbs onto a giant store sign and looks across the enormous store filled with products and shoppers as the camera pulls back to reveal just how tiny she is.
+
+Use dynamic macro tracking, dramatic low angles, smooth aerial-style movements, strong foreground parallax, realistic reflections, shadows, depth of field, product packaging, natural human movement, believable physics, seamless transitions, and cinematic lighting.
+
+End with the cinematic title: “SMALL SCALE. BIG ADVENTURE.” followed by “EVERY AISLE IS A NEW WORLD.”
+
+SFX: Footsteps, packaging crinkles, candy rattles, plastic flexing, cart wheels, scanner beeps, conveyor hum, freezer sounds, rushing air, and cinematic impact.
+
+NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated character, face or outfit changes, distorted anatomy, floating, scale changes, narration, or subtitles.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd)**
+
 ### 地铁疾驰中的夏夜时尚女孩
 
 > Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
@@ -2190,6 +2220,43 @@ Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with l
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5)**
+
+### 人群同时转身凝视黑衣女子
+
+> STORM with a twist Seedance 2.5 Prompt : Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual referenc…
+
+[<img src="https://media.goodcase.ai/cases/15e425fa8f93.jpg" width="600" alt="人群同时转身凝视黑衣女子">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2100067816162636164) | **发布:** 2026-09-16 | **热度:** 90
+
+<details>
+<summary><b>完整 prompt（19 行，点开展开）</b></summary>
+
+```
+Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual reference for the woman, crowd, wardrobe, composition, lighting, and atmosphere.
+
+A young woman with a short sleek dark bob, realistic facial features, natural skin texture, and subtle makeup wears a fitted black turtleneck, black trousers, black shoes, and minimal jewelry. Keep her face, hairstyle, outfit, and proportions perfectly consistent.
+
+She walks slowly and confidently toward a large, tightly packed crowd, maintaining a calm and emotionless expression while the camera smoothly tracks backward and keeps her centered.
+
+She reaches the exact center of the crowd and stops completely, standing perfectly still with her arms naturally at her sides and looking directly into the camera.
+
+The crowd remains completely frozen for a brief moment.
+
+Then, without the woman moving, the people behind her slowly begin turning toward her. The head turns start subtly and spread through the entire crowd until everyone is facing and looking directly at her.
+
+The woman remains completely motionless and expressionless, never reacting to the crowd.
+
+The camera slowly pushes closer while the crowd stays turned toward her, creating an unsettling synchronized effect. Their final movement is one sharp, simultaneous turn toward her while she continues staring into the lens.
+
+Dark, mysterious, photorealistic live-action aesthetic, soft cinematic lighting, deep shadows, realistic skin, hair and clothing physics, shallow depth of field, natural human movement.
+
+No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphing, random crowd movement, text, subtitles, logos, watermark, excessive camera movement, artificial fog, glow, or exaggerated effects.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)**
 
 ### 黑衣剑客烈焰横扫暗影兽群
 
@@ -2801,37 +2868,6 @@ VISUAL RULES
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962)**
 
-### 地铁关门嘲笑引发的爆笑反击
-
-> Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
-
-[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="地铁关门嘲笑引发的爆笑反击">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2098988104418050349) | **发布:** 2026-09-13 | **热度:** 88
-
-<details>
-<summary><b>完整 prompt（13 行，点开展开）</b></summary>
-
-```
-Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
-Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
-Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
-She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
-The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
-He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
-She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
-She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
-The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
-One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
-She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
-Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
-No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)**
-
 ### 紫发少女跃过泳池巨浪
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
@@ -2858,6 +2894,37 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1)**
+
+### 地铁关门嘲笑引发的爆笑反击
+
+> Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
+
+[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="地铁关门嘲笑引发的爆笑反击">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2098988104418050349) | **发布:** 2026-09-13 | **热度:** 87
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
+Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
+Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
+She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
+The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
+He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
+She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
+She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
+The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
+One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
+She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
+Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
+No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)**
 
 ### 猫咪自拍记录温馨的一天
 
@@ -3137,45 +3204,6 @@ A realistic handheld travel vlog filmed by a friend following the main character
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)**
-
-### 韩国女孩的社区健身房日常
-
-> Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
-
-[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="韩国女孩的社区健身房日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104408252670939438) | **发布:** 2026-09-28 | **热度:** 86
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
-
-She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
-
-Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
-
-She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
-
-She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
-
-She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
-
-Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
-
-Camera: Raw early-2000s consumer DV-camera footage — handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Casual friend-filmed feeling, not a polished fitness commercial.
-
-Audio: Natural gym ambience only — footsteps, treadmill motor, weights gently hitting the floor, breathing, water bottle opening, towel movement, distant conversations, occasional laughter and air-conditioning hum. No music, no narration, no subtitles.
-
-Consistency & realism: Keep the same woman, face, hairstyle, body proportions, gym outfit, shoes, towel, water bottle and gym bag consistent. Realistic sweat, skin texture, hair movement, breathing, exercise form and clothing physics. Natural expressions and genuine laughter.
-
-Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossible exercise movements, distorted hands, extra fingers, duplicated people, identity drift, outfit changes, floating objects, teleportation, unrealistic sweat, subtitles, logos, watermark, polished commercial cinematography.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)**
 
 ### 枪口下闪回的金色恋歌
 
@@ -3903,20 +3931,44 @@ OUTPUT:
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)**
 
-### 废墟卧室中的白发女子与巨型黑猫
+### 韩国女孩的社区健身房日常
 
-> She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
+> Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
 
-[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="废墟卧室中的白发女子与巨型黑猫">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)
+[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="韩国女孩的社区健身房日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)
 
-**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2097594855946113177) | **发布:** 2026-09-09 | **热度:** 85
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104408252670939438) | **发布:** 2026-09-28 | **热度:** 85
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
 
 ```
-Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
-Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
+Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
+
+She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
+
+Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
+
+She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
+
+She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
+
+She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
+
+Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
+
+Camera: Raw early-2000s consumer DV-camera footage — handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Casual friend-filmed feeling, not a polished fitness commercial.
+
+Audio: Natural gym ambience only — footsteps, treadmill motor, weights gently hitting the floor, breathing, water bottle opening, towel movement, distant conversations, occasional laughter and air-conditioning hum. No music, no narration, no subtitles.
+
+Consistency & realism: Keep the same woman, face, hairstyle, body proportions, gym outfit, shoes, towel, water bottle and gym bag consistent. Realistic sweat, skin texture, hair movement, breathing, exercise form and clothing physics. Natural expressions and genuine laughter.
+
+Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossible exercise movements, distorted hands, extra fingers, duplicated people, identity drift, outfit changes, floating objects, teleportation, unrealistic sweat, subtitles, logos, watermark, polished commercial cinematography.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)**
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)**
 
 ### 韩巷夏日骑行的女孩
 
@@ -4275,6 +4327,21 @@ NO MUSIC.
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a)**
+
+### 废墟卧室中的白发女子与巨型黑猫
+
+> She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
+
+[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="废墟卧室中的白发女子与巨型黑猫">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)
+
+**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2097594855946113177) | **发布:** 2026-09-09 | **热度:** 84
+
+```
+Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
+Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)**
 
 ### 首尔夏夜的树叶小插曲
 
@@ -5554,43 +5621,6 @@ Ending: The final geometric frame closes around her face, the holographic effect
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cyberpunk-holographic-dance-performance)**
-
-### 过山车假发闹剧：冻结与倒放的第二次演练
-
-> 同一个作者对时间冻结手法的第二次演练：假发被风吹飞、冻结、再精确倒放回起飞前一瞬间，用假发这个更轻更失控的道具取代咖啡液体，还加了一个原创的口香糖收尾动作，证明这套冻结倒放骨架能换着物理材质反复复用。
-
-[<img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="600" alt="过山车假发闹剧：冻结与倒放的第二次演练">](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)
-
-**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083585132917579834) | **发布:** 2026-08-01 | **热度:** 82
-
-**稳定度：** 74/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
-
-```
-Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
-
-0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
-
-5-9s: [Dynamic Tracking] The force of the turn rips the man's wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone's faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
-
-9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man's scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths "joder, otra vez". She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
-
-15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man's head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
-
-20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man's scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
-
-26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
-
-Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
 
 ### 女儿背包引发的睡衣家庭喜剧
 

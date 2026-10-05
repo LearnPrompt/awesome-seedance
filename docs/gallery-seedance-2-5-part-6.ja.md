@@ -1,10 +1,175 @@
 # Seedance 2.5 — 全ケース（Part 6/6）
 
-Seedance 2.5 の全 485 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 494 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 485 件中 432–485 件目。
+このページ: 494 件中 434–494 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · **Part 6**
+
+### POV: Your Favorite Song Starts Playing in Public
+
+> POV: You’re walking through the city when your favorite song suddenly starts playing. Created this 15-second cinematic everyday-life moment using Seedance 2.5 o…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86.jpg" width="600" alt="POV: Your Favorite Song Starts Playing in Public">](https://goodcase.ai/cases/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86)
+
+**作者:** @AIwithZeeshi | **出典:** [元投稿](https://x.com/AIwithZeeshi/status/2095374122674991259) | **公開日:** 2026-09-03 | **ヒート:** 32
+
+**再テスト:** Grok Imagine · 2026-10-02 · ✅ 再現 (スコア 81.8) · [出力](https://media.goodcase.ai/retests/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
+
+```
+POV — Your Favorite Song Starts Playing in Public
+
+A young man walks through a busy city sidewalk when he suddenly hears his favorite song playing from a nearby café. He recognizes it instantly, slows down, smiles, and starts subtly vibing to the rhythm while pretending to keep walking normally.
+
+The entire sequence follows realistic human behavior and accurate physics, including natural walking biomechanics, weight distribution, gravity, inertia, momentum, friction, foot-to-ground contact, realistic pedestrian movement, clothing dynamics, hair movement, and natural interactions between people and the environment.
+
+Ultra-realistic visuals, cinematic documentary style, natural late-afternoon lighting, realistic skin and clothing textures, smooth stabilized tracking, subtle handheld camera motion, realistic depth of field, natural focus pulls, physically accurate shadows and reflections, consistent character identity, authentic urban environment, natural colors, subtle film grain, and 4K cinematic quality.
+
+Would you be able to resist vibing to your favorite song in public? 
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86)**
+
+### Aesthetic Café Vlog Goes Wrong in Autumn Seoul
+
+> Made with seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing a young Korean woma
+
+[<img src="https://media.goodcase.ai/cases/c8aa498478f8.jpg" width="600" alt="Aesthetic Café Vlog Goes Wrong in Autumn Seoul">](https://goodcase.ai/cases/ciri-ai-seedance-ai-516d7626ef5d)
+
+**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2094706780114952303) | **公開日:** 2026-09-01 | **ヒート:** 32
+
+<details>
+<summary><b>プロンプト全文（48 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic personal home-video showing a young Korean woman attempting to film an "aesthetic" café vlog for her social media and everything comically not going to plan. No reference image.
+MAIN SUBJECT
+Young Korean woman in her early 20s, trendy and put-together look, dewy makeup, confident expression that keeps cracking into laughter.
+Straight black hair with curtain bangs, small gold hoop earrings, soft pink lip tint.
+Wearing an oversized cream sweater, a plaid mini skirt, chunky white sneakers, and a small quilted shoulder bag she keeps adjusting for the "shot."
+Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+SETTING
+A charming autumn café street in Seoul on a crisp, sunny afternoon.
+A cozy corner café with outdoor seating, string lights, a chalkboard menu, falling ginkgo leaves, a latte art station visible through the window, a bicycle propped against a brick wall, pedestrians occasionally walking through frame, and a small tree dropping leaves onto the sidewalk table. Warm, golden, Pinterest-looking — until it isn't.
+CAMERA / VISUAL AESTHETIC
+Raw personal footage, filmed by her friend who keeps trying (and failing) to make it look cinematic, strong handheld vlog shake throughout.
+The video oscillates between deliberately "aesthetic" attempted shots — slow pans, artful angles, soft focus — and sudden chaotic handheld jolts when things go wrong. Autofocus hunts comically between her face and the latte. Camera tilts and overcorrects. Exposure blows out when it swings toward the sun. Mild motion blur during quick recoveries. Slightly warm, oversaturated color grade like a try-hard Instagram filter that keeps slipping back to raw reality.
+No stabilization, no real cinematic polish — the "aesthetic" is aspirational, the execution is not.
+00:00–00:05 — THE PERFECT LATTE SHOT (ATTEMPT)
+She sits at the outdoor table, carefully positioning a latte with foam art, trying to casually "candid" sip it for the camera.
+The camera does a slow artful pan down toward the cup — then a leaf falls directly into it with a soft plop.
+She freezes, staring at the ruined latte art, deadpan.
+00:05–00:10 — REACTION
+She looks up at the camera, unimpressed, leaf still floating in the foam.
+"...Are you kidding me right now."
+The friend behind the camera bursts out laughing, shaking the frame violently.
+00:10–00:15 — THE "CANDID" WALK
+She gets up to attempt a slow-motion aesthetic walk past the café window, hair flowing, sunglasses going on in one smooth motion — sunglasses immediately get caught in her hair.
+She stops mid-stride, wincing, trying to untangle them one-handed while still smiling for the camera.
+The camera zooms in awkwardly close on the tangled sunglasses, then yanks back out.
+00:15–00:20 — BICYCLE MISHAP
+She leans against the parked bicycle for a "casual candid lean" pose, one hand in her pocket.
+The bicycle kickstand gives way and it slowly tips sideways, taking her balance with it.
+She stumbles but catches herself, laughing hard, one hand up defensively toward the lens.
+"Okay, delete that, delete that!"
+00:20–00:25 — GINKGO LEAF CHAOS
+She tries to recreate a "leaves falling around me" cinematic moment by tossing a handful of gathered ginkgo leaves into the air above her head.
+A gust of wind blows them straight back into her face instead.
+She spits out a leaf, blinking, completely unbothered and giggling.
+The camera shakes as the operator nearly drops it laughing.
+00:25–00:30 — FINAL MOMENT
+She gives up on the aesthetic altogether, plops back down at the café table, and grabs the leaf-ruined latte anyway, taking a defiant sip through the foam.
+She looks dead into the camera, deadpan, leaf still stuck to her sweater.
+"This is the content. This is it. Post this one."
+She gives an exaggerated thumbs up as the frame shakes with the friend's laughter, and the footage cuts abruptly to black.
+AUDIO
+Natural location sound only:
+Café ambience, cup clinking, leaves rustling, wind gusts, bicycle clattering, footsteps, her friend's audible laughter throughout, fabric rustling, and handheld camera noise.
+No music. No narration. No artificial sound effects.
+Spoken lines: "...Are you kidding me right now." / "Okay, delete that, delete that!" / "This is the content. This is it. Post this one."
+FINAL FEEL
+A self-aware, comedic behind-the-scenes of someone trying to film an aesthetic vlog and getting completely humbled by reality at every turn — warm, golden autumn light paired with genuine, unscripted chaos and laughter.
+No posed perfection sustained for more than a few seconds before something goes wrong. No exaggerated slapstick acting — the comedy comes from real reactions, real mishaps, and the gap between the "vision" and what actually happens on camera.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ciri-ai-seedance-ai-516d7626ef5d)**
+
+### Girl Turns a Playful Dog Chase into Street Cardio
+
+> She vs The Dog 👀 Made with Seedance 2.5 Prompt: Create a 15-second realistic smartphone video in 16:9 aspect ratio. Sty
+
+[<img src="https://media.goodcase.ai/media/poster/missdelulu9-seedance-ai-cc2834a3dc87.jpg" width="600" alt="Girl Turns a Playful Dog Chase into Street Cardio">](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87)
+
+**作者:** @MissDelulu9 | **出典:** [元投稿](https://x.com/MissDelulu9/status/2092578120591446348) | **公開日:** 2026-08-26 | **ヒート:** 32
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.2) · [出力](https://media.goodcase.ai/retests/missdelulu9-seedance-ai-cc2834a3dc87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+
+```
+Create a 15-second realistic smartphone video in 16:9 aspect ratio.
+
+Style: authentic Gen-Z Indonesian comedy, spontaneous iPhone home-video footage, natural daylight.
+
+SHOT 1- 0:00–0:02
+A girl casually walks along a small Indonesian residential street. She suddenly notices a medium-sized pet dog ahead and stops. Her relaxed expression instantly turns nervous.
+
+SHOT 2-0:02–0:04
+Quick handheld pan from the girl to the dog and back. She slowly steps backward and says: “Uh... don't come closer, okay...” The dog looks curious and harmless.
+
+SHOT 3-0:04–0:06
+The dog playfully runs a few steps toward her. She panics: “AAAAA RUN!” The camera operator reacts and moves backward.
+
+SHOT 4-0:06–0:08
+She suddenly runs away, looking back over her shoulder. The iPhone camera follows while running, creating natural shaky footage. Her white fitted T-shirt, light-blue short denim shorts, and white low-profile slippers move naturally.
+
+SHOT 5-0:08–0:10
+Side close-up while she runs. She looks back and screams: “BRO, IT'S FOLLOWING ME!” The camera shakes as the friend behind the camera laughs.
+
+SHOT 6-0:10–0:13
+The camera widens as she runs toward her friend, waving her hands: “DON'T LAUGH! HELP ME, BRO!” The dog follows playfully without attacking, biting, or touching her.
+
+SHOT 7- 0:13–0:15
+She reaches a safe spot, bends over briefly to catch her breath, then looks at the camera with an annoyed and embarrassed expression: “I was literally just passing by, why did that turn into cardio?!” The friend bursts out laughing. Abrupt cut.
+
+CAMERA & REALISM
+
+Amateur one-handed iPhone recording. Natural handheld shake, imperfect framing, slight tilt, occasional autofocus shifts, automatic exposure changes, realistic motion blur, natural smartphone colors, subtle digital sharpening and compression. Environmental details remain visible. No cinematic look.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/missdelulu9-seedance-ai-cc2834a3dc87)**
+
+### Karakoram Motorcycle Commercial
+
+> A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
+
+[<img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="600" alt="Karakoram Motorcycle Commercial">](https://goodcase.ai/cases/karakoram-motorcycle-commercial)
+
+**作者:** @AI_with_Antonio | **出典:** [元投稿](https://x.com/AI_with_Antonio/status/2088599346908365227) | **公開日:** 2026-08-15 | **ヒート:** 31
+
+**安定度:** 87/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.8) · [出力](https://media.goodcase.ai/retests/karakoram-motorcycle-commercial/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h. The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip. The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details. The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting. Cinematic Direction: Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks. Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur. Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains. Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere. Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested. Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/karakoram-motorcycle-commercial)**
 
 ### A Korean Woman's Quiet Morning Routine
 
@@ -213,24 +378,167 @@ No posed perfection sustained for more than a few seconds before nature ruins it
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ciri-ai-seedance-ai-6f0712601492)**
 
-### Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon
+### Pre-Workout Routine in a Gym Locker Room
 
-> More Lavender, generated with Seedance 2.5. A Chinese-language character prompt: Lavender is chained in a dungeon cell, arms hauled above his head, straining furiously against the restraints.
+> Made with seedance 2.5 prompt: Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not tran
 
-[<img src="https://media.goodcase.ai/media/poster/migrok293703-seedance-ai-feecd249fd30.jpg" width="600" alt="Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon">](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30)
+[<img src="https://media.goodcase.ai/media/poster/qaistudio-seedance-ai-72dab559610b.jpg" width="600" alt="Pre-Workout Routine in a Gym Locker Room">](https://goodcase.ai/cases/qaistudio-seedance-ai-72dab559610b)
 
-**作者:** @migrok293703 | **出典:** [元投稿](https://x.com/migrok293703/status/2089765662193316149) | **公開日:** 2026-08-18 | **ヒート:** 31
+**作者:** @QAiStudio | **出典:** [元投稿](https://x.com/QAiStudio/status/2093565477192917480) | **公開日:** 2026-08-29 | **ヒート:** 31
 
-**再テスト:** 計 2 回
+**安定度:** 74/100
 
-- Grok Imagine · 2026-10-02 · ⚠️ 劣化 (スコア 69.4) · [出力](https://media.goodcase.ai/retests/migrok293703-seedance-ai-feecd249fd30/video-grok-imagine-20261002-phase1/generated.mp4)
-- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失敗 (スコア n/a)
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74) · [出力](https://media.goodcase.ai/retests/qaistudio-seedance-ai-72dab559610b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（16 行、クリックで展開）</b></summary>
 
 ```
-场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁链，愤怒地环顾四周，用日语咆哮着说他们会后悔的。场景2：从薰衣草身后的墙壁上缓缓伸出两条机械臂，每条机械臂的末端都长着一只戴着白手套的手。薰衣草注意到身后的动静，一脸困惑和不安，用日语问道：{现在怎么办？} 场景3：两只戴着白手套的手向薰衣草裸露的腋窝靠近。一只手伸进一个腋窝，另一只手伸进另一个腋窝。它们开始用轻柔、流畅、连贯的手指动作挠薰衣草的腋窝。滑稽的挠痒音效响起。薰衣草立刻咧嘴一笑，发出闷闷的笑声，因为他非常怕痒。（滑稽的挠痒音效）场景4：薰衣草上半身的特写镜头。两只戴着手套的手继续挠他裸露的腋窝。薰衣草紧紧闭上眼睛，咧嘴大笑，发出闷闷的笑声，稍微扭动身体想躲开戴着手套的手，但他逃不掉，戴着手套的手继续挠着薰衣草的腋窝。他用咯咯笑着的语气用日语说：“停下来！”然后又轻声笑了起来。（滑稽的挠痒音效继续）场景5：两只机械臂继续挠了一会儿腋窝后，突然停了下来，稍微拉开了距离，但仍然靠近薰衣草。薰衣草咯咯笑了几声，然后稍微恢复了镇定，希望挠痒已经结束了，他叹了口气，用日语如释重负地说：“终于停了。”场景6：机械臂的手从薰衣草的腋窝向下移到他的肚子上，薰衣草带着一丝担忧看着它们移动。两只戴着白手套的手开始用轻柔、流畅、连贯的指法挠薰衣草的肚子。薰衣草又开始轻声咯咯地笑，用他那独特的日语笑声说道：“哦，别挠那里！”然后又开始咯咯地笑，笑声越来越大。（滑稽的挠痒音效持续）场景6：薰衣草在牢房里的正面全貌。两只戴着白手套的手继续挠他的肚子，他咯咯地笑着，微微扭动着上半身，但无法逃脱。他咧嘴笑着，闭着眼睛，无力地挣扎着想要挣脱锁链，而戴着手套的手则继续挠他的肚子。总共有两条机械臂，也正好有两只戴着白手套的手。它们从薰衣草身后伸出来。首先，两只手挠薰衣草裸露的腋窝，然后向下移动，挠他的肚子。挠腋窝时要集中在腋窝的凹陷处，不要挠到肋骨、胸部或侧腰。手指的动作要轻柔、流畅、连贯。在所有挠痒痒的场景中使用滑稽、有趣的挠痒痒音效。语音为日语。
+Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not transform into a different person. Ignore Image1’s outfit, background, pose, and bottom text. Casual black gym outfit: fitted tank + leggings/shorts, hair tied back. Keep facial features sharp even with low image quality. 16:9 horizontal.
+
+Setting: Gym locker room with full-length mirror, lockers, and gym bag on bench. No legible text, signage, locker numbers, or branding.
+
+Timeline:
+
+- 0–4s: Walks to mirror, props phone against locker/bag, checks reflection, adjusts tank straps.
+- 4–8s: Sits, ties and double-knots shoelaces, stands and lightly bounces to test shoes.
+- 8–11s: Takes earbuds from bag, inserts and adjusts them.
+- 11–14s: Faces mirror, rolls shoulders, nods at reflection and quietly says, “okay... let’s get it.”
+- 14–17s: Arm swings/stretching, briefly glances at camera.
+- 17–19s: Picks up phone, turns toward door and walks off confidently; freeze mid-stride.
+
+Camera/Style: Old iPhone everyday-video look, standard 1x lens, static/propped angle, loose 1–1.5s cuts. Harsh fluorescent locker-room lighting, slightly cool/green tint, faint mirror glare. Heavy noise and compression artifacts throughout. Natural skin texture, pores, flyaways, and oil sheen. No grading, cinematic/film look, beauty filter, CG texture, fisheye, 0.5x, barrel distortion, vignette, or lens edges. No scene skipping or consolidated cuts.
+
+Sound: No BGM. Locker-room echo, distant locker clanks, shoelace tightening, earbud-case click, faint gym noise outside, and close/muffled natural voice.
 ```
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30)**
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/qaistudio-seedance-ai-72dab559610b)**
+
+### Midnight Elevator Doppelgänger Pursuit
+
+> Made with seedance 2.5 Prompt: Create a highly realistic cinematic horror sequence set inside a quiet apartment building
+
+[<img src="https://media.goodcase.ai/media/poster/saniaspeaks-seedance-ai-575658372136.jpg" width="600" alt="Midnight Elevator Doppelgänger Pursuit">](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)
+
+**作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2091483449815126134) | **公開日:** 2026-08-23 | **ヒート:** 31
+
+**安定度:** 63/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 62.9) · [出力](https://media.goodcase.ai/retests/saniaspeaks-seedance-ai-575658372136/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（10 行、クリックで展開）</b></summary>
+
+```
+Create a highly realistic cinematic horror sequence set inside a quiet apartment building late at night. A young woman enters an empty elevator alone, wearing simple casual clothes, with natural realistic facial features and subtle nervous expressions. The elevator moves strangely, stopping at several floors. Every time the doors open, the exact same long, empty apartment corridor appears outside, dimly lit by flickering ceiling lights. She becomes increasingly confused and frightened, repeatedly pressing the elevator buttons and looking down the corridor.
+On the final stop, the elevator doors slowly slide open. At the far end of the corridor stands another young woman who looks exactly identical to her, motionless and staring directly at her. The atmosphere becomes completely silent. The woman inside the elevator slowly steps forward, unable to understand what she is seeing. The identical woman suddenly tilts her head at an unnatural angle and takes one slow step toward her.
+Without warning, the corridor woman violently charges toward her with extremely fast, unnatural movement. The original woman screams and tries to retreat into the elevator, but the other woman tackles her and both fall to the floor. The corridor woman grabs her and aggressively drags her backward across the floor while the original woman desperately tries to hold onto the elevator doorway. The elevator lights flicker rapidly, casting harsh moving shadows across both faces.
+The original woman manages to reach one hand toward the elevator control panel, desperately trying to press the door-close button. The corridor woman suddenly grabs her wrist and pulls her away. The elevator doors begin closing by themselves, slowly separating the two women. The original woman reaches toward the narrowing gap in panic while the identical woman stares at her with an eerie, emotionless expression.
+
+The doors finally slam shut.
+
+Cut to a completely empty corridor. No one is visible. A smartphone lies on the floor where the struggle happened, its screen still glowing and displaying 2:13 AM. The hallway lights flicker once, then everything goes completely dark.
+
+Ultra-photorealistic live-action horror, realistic human movement, believable apartment building textures, natural skin detail, subtle handheld camera movement, cinematic low-light exposure, practical fluorescent lighting, deep shadows, atmospheric tension, realistic motion blur, disturbing but non-gory horror, no supernatural visual effects, no text overlays, no subtitles, no cartoon appearance.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136)**
+
+### Xianxia Sword Duel Above a Misty Bamboo Forest
+
+> Seedance 2.5 on @atlas_cloud_ai Prompt ⬇️ CLIP 1 — BLADES ABOVE THE BAMBOO | 15 SECONDS | 16:9 CINEMATIC PHOTOREALISTIC LIVE ACTION CHINESE XIANXIA WUXIA ACTION…
+
+[<img src="https://media.goodcase.ai/cases/75e268e42386.jpg" width="600" alt="Xianxia Sword Duel Above a Misty Bamboo Forest">](https://goodcase.ai/cases/seedance-seedance-2-5-on-d581d036c3b0)
+
+**作者:** @HustleXR | **出典:** [元投稿](https://x.com/HustleXR/status/2096600750705213461) | **公開日:** 2026-09-06 | **ヒート:** 30
+
+<details>
+<summary><b>プロンプト全文（74 行、クリックで展開）</b></summary>
+
+```
+Seedance 2.5 on @atlas_cloud_ai 
+
+Prompt ⬇️
+
+CLIP 1 — BLADES ABOVE THE BAMBOO | 15 SECONDS | 16:9
+
+CINEMATIC PHOTOREALISTIC LIVE ACTION CHINESE XIANXIA WUXIA
+ACTION MODE: WEAPON + VOID-STEP | CONTROL MODE: GUIDED-DENSE | NO DIALOGUE
+
+REFERENCE ASSIGNMENT — KEEP THIS ORDER
+
+@"Image 2" (image_2)female_swordsman_sheet_v1.png — sole identity, face, hair ornament, ivory-and-coral embroidered costume, proportions and sword reference for the female swordsman. Ignore sheet panels, text and poses.
+
+@"Image 1" (image_1)male_swordsman_sheet_v2.png — sole identity, face, long hair, dark ink-patterned costume, proportions and sword reference for the male swordsman. Ignore sheet panels and poses.
+
+@"Image 3" (image_3)bamboo_canopy_spatial_wide_v1.png — sole location, lighting, atmosphere, depth and landmark reference. Preserve the three tall bamboo stalks on screen-left and the pale broken trunk on screen-right.
+
+@"Image 4" (image_4)female_orb_loaded_hand_pose_v5.png — exact hand configuration and final insert composition only: palm visible, thumb and middle fingertip touching around one small orb, index extended and remaining fingers elegantly separated. Do not use it as the opening frame.
+
+SCENE INTENT
+
+A breathtaking aerial sword duel above a misty bamboo forest. Two equally dangerous swordsmen launch from opposite bamboo stalks, collide at impossible speed, and turn gravity into a weapon. After a brutal mid-air exchange, the woman uses her one void-step to reverse the fight, then deliberately creates distance to prepare a new tactic.
+
+End on her hand loading a single warm-gold spirit orb before release.
+
+CHARACTERS / COMBAT
+
+The woman fights with narrow, precise cuts, late evasions and elegant redirection. The man attacks with powerful committed arcs, using every landing and recoil to accelerate again. Their ivory-and-coral and dark ink-patterned silhouettes remain distinct.
+
+WORLD / PHYSICS
+
+One continuous aerial combat corridor above the same misty bamboo canopy. Woman begins on the bowed tip of the left three-stalk cluster; man begins on the pale broken trunk at screen-right. The forest floor remains far below.
+
+Exactly two fighters, two swords, one void-step each. Bamboo bends under actual foot load and rebounds. Gravity remains visible between contacts. No glowing platforms or hovering.
+
+---
+
+ACTION SPINE
+
+0.0–3.0s — THE COLLISION
+
+Open with a breathtaking lateral aerial wide: both fighters launch simultaneously from opposite bamboo stalks, the canopy dropping away beneath them.
+
+The woman dives diagonally with a precise downward cut. The man rockets upward with a powerful ascending guard. Their swords collide in a violent burst of sparks.
+
+The impact instantly throws them into opposite spinning falls.
+
+3.0–6.0s — BLADE STORM
+
+The camera dives with them.
+
+The man recovers first and cuts horizontally through her falling path. She folds beneath the blade, rotates around its pressure and answers with a lightning-fast thrust toward his ribs.
+
+He knocks it aside and continues the same momentum into a second descending cut. She catches it for a split second, then releases, using the force to accelerate her fall.
+
+No static posing. Every contact redirects momentum.
+
+6.0–9.0s — VOID-STEP COUNTER
+
+The woman touches a swaying bamboo tip and redirects laterally.
+
+The man drops past her, then performs one weight-bearing void-step: his free knee lifts, one sole presses against an invisible point, his body compresses, and he launches upward into a new diagonal arc.
+
+His robe falls for a fraction before snapping behind him.
+
+He reaches her with a rising slash. She rolls over the blade line, and their swords scrape in passing.
+
+9.0–12.0s — THE REVERSAL
+
+The sword scrape sends the woman toward the left bamboo cluster while the man carries forward.
+
+Before touching bamboo, she performs her one void-step.
+
+Her falling foot accepts weight on an invisible point. She compresses and drives into a tight curved arc around his exposed side.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-d581d036c3b0)**
 
 ### An Ordinary Winter Morning, Shot as a Home Video
 
@@ -462,6 +770,25 @@ She slows down, sits on the edge of the mat, drinks water and catches her breath
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395)**
+
+### Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon
+
+> More Lavender, generated with Seedance 2.5. A Chinese-language character prompt: Lavender is chained in a dungeon cell, arms hauled above his head, straining furiously against the restraints.
+
+[<img src="https://media.goodcase.ai/media/poster/migrok293703-seedance-ai-feecd249fd30.jpg" width="600" alt="Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon">](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30)
+
+**作者:** @migrok293703 | **出典:** [元投稿](https://x.com/migrok293703/status/2089765662193316149) | **公開日:** 2026-08-18 | **ヒート:** 30
+
+**再テスト:** 計 2 回
+
+- Grok Imagine · 2026-10-02 · ⚠️ 劣化 (スコア 69.4) · [出力](https://media.goodcase.ai/retests/migrok293703-seedance-ai-feecd249fd30/video-grok-imagine-20261002-phase1/generated.mp4)
+- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失敗 (スコア n/a)
+
+```
+场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁链，愤怒地环顾四周，用日语咆哮着说他们会后悔的。场景2：从薰衣草身后的墙壁上缓缓伸出两条机械臂，每条机械臂的末端都长着一只戴着白手套的手。薰衣草注意到身后的动静，一脸困惑和不安，用日语问道：{现在怎么办？} 场景3：两只戴着白手套的手向薰衣草裸露的腋窝靠近。一只手伸进一个腋窝，另一只手伸进另一个腋窝。它们开始用轻柔、流畅、连贯的手指动作挠薰衣草的腋窝。滑稽的挠痒音效响起。薰衣草立刻咧嘴一笑，发出闷闷的笑声，因为他非常怕痒。（滑稽的挠痒音效）场景4：薰衣草上半身的特写镜头。两只戴着手套的手继续挠他裸露的腋窝。薰衣草紧紧闭上眼睛，咧嘴大笑，发出闷闷的笑声，稍微扭动身体想躲开戴着手套的手，但他逃不掉，戴着手套的手继续挠着薰衣草的腋窝。他用咯咯笑着的语气用日语说：“停下来！”然后又轻声笑了起来。（滑稽的挠痒音效继续）场景5：两只机械臂继续挠了一会儿腋窝后，突然停了下来，稍微拉开了距离，但仍然靠近薰衣草。薰衣草咯咯笑了几声，然后稍微恢复了镇定，希望挠痒已经结束了，他叹了口气，用日语如释重负地说：“终于停了。”场景6：机械臂的手从薰衣草的腋窝向下移到他的肚子上，薰衣草带着一丝担忧看着它们移动。两只戴着白手套的手开始用轻柔、流畅、连贯的指法挠薰衣草的肚子。薰衣草又开始轻声咯咯地笑，用他那独特的日语笑声说道：“哦，别挠那里！”然后又开始咯咯地笑，笑声越来越大。（滑稽的挠痒音效持续）场景6：薰衣草在牢房里的正面全貌。两只戴着白手套的手继续挠他的肚子，他咯咯地笑着，微微扭动着上半身，但无法逃脱。他咧嘴笑着，闭着眼睛，无力地挣扎着想要挣脱锁链，而戴着手套的手则继续挠他的肚子。总共有两条机械臂，也正好有两只戴着白手套的手。它们从薰衣草身后伸出来。首先，两只手挠薰衣草裸露的腋窝，然后向下移动，挠他的肚子。挠腋窝时要集中在腋窝的凹陷处，不要挠到肋骨、胸部或侧腰。手指的动作要轻柔、流畅、连贯。在所有挠痒痒的场景中使用滑稽、有趣的挠痒痒音效。语音为日语。
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30)**
 
 ### Seedance 2.5 Boyfriend-POV Couple Short with an Authentic Handheld Phone Look
 
@@ -1156,7 +1483,7 @@ Goal: A nostalgic, joyful summer chase moment playful, warm, believable.
 
 [<img src="https://media.goodcase.ai/cases/f25e7ef53c4e.jpg" width="600" alt="A Girl by the Railway at Dawn in Seoul">](https://goodcase.ai/cases/ciri-ai-seedance-ai-8a682520c2fe)
 
-**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2091403033817272690) | **公開日:** 2026-08-23 | **ヒート:** 29
+**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2091403033817272690) | **公開日:** 2026-08-23 | **ヒート:** 28
 
 <details>
 <summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
@@ -1352,46 +1679,6 @@ Reference image locked for character identity.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/rovvmut-seedance-ai-228f58be0ecb)**
 
-### Gyaru's Chaotic Flying Commute with Toast
-
-> The superwoman Made with Seedance 2.5 on ImagineArt Prompt: @image1 is the ONLY reference for the main character. It defines her identity — preserve her exact f…
-
-[<img src="https://media.goodcase.ai/cases/15ff3e55b62d.jpg" width="600" alt="Gyaru's Chaotic Flying Commute with Toast">](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b)
-
-**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2096105857402699891) | **公開日:** 2026-09-05 | **ヒート:** 26
-
-<details>
-<summary><b>プロンプト全文（22 行、クリックで展開）</b></summary>
-
-```
-@image1  is the ONLY reference for the main character. It defines her identity — preserve her exact face, makeup, and voluminous dark-brown spiral-curl hair in every shot — and it defines the design of her outfit: sheer light-blue off-shoulder top, long light-blue scarf, silver star necklace, white lace ruffled miniskirt, white lace tights, dalmatian-print leg warmers with blue bows, chunky black-and-white platform shoes. WHEN she wears this outfit is set only by the wardrobe timeline below. Do not use the sheet's white studio background, panel layout, or neutral standing poses. The same single woman appears throughout — no identity drift, no second copy of her.
-
-WARDROBE TIMELINE: 0–2 sec — rumpled plain pajamas, curls extra messy from sleep, no accessories. 2–6 sec — she dresses during the mirror timelapse described below. From 6 sec to the end — the exact complete outfit from @Image 1, unchanged.
-
-Create a chaotic 30-second Japanese live-action comedy video. Fast and physical, no dead time, rapid cuts and dynamic camera movement. All dialogue is Japanese only, and only she speaks — no other on-screen mouth ever syncs to any voice. Her voice is cute, high-pitched and bright.
-
-STYLE: Warm faded early-digital handheld footage with low-saturation color, soft focus, mild noise, slightly blown highlights and candid movement. No timestamp, date stamp or UI overlays. Not modern crisp digital. Speed changes exist ONLY in the two designated timelapse segments (2–6 sec and 20–23 sec); no slow motion anywhere, no speed ramps anywhere else.
-
-FLIGHT RULES: Her flight is played as physical and live-action. Every takeoff has a visible crouch, recoil and downdraft that shoves nearby objects; wind constantly drags her scarf, skirt and curls; landings carry real impact through her legs. She flies clumsily, like a new driver. No glowing aura, no energy effects, no cape, no superhero costume, no named superhero reference.
-
-SOUND: Playful upbeat Japanese gyaru dance-pop begins at the first frame and continues throughout. Sync cuts, the alarm clock, wardrobe snaps, the takeoff downdraft, whipping wind, flapping laundry, crow caws, train rumble, drone buzz, rain patter, landing impact and her footsteps to the beat. No silent sections.
-
-SETTING: A small messy Japanese bedroom with a bed, an alarm clock, a full-length mirror and clothes piled around; a slice of toast on a plate by the door. Outside: a Japanese residential street with laundry lines hung with white sheets, power lines, then a downtown district of office buildings, an elevated commuter train line, one small delivery drone, one crow, one small grey rain cloud, and a station square with ordinary Japanese pedestrians whose faces and outfits all differ. Japanese signage stays in the background.
-
-00:00–00:02 — WAKE-UP
-Extreme close-up of her eye snapping open under messy curls. She bolts upright in bed, grabs the alarm clock, stares at it and gasps. She kicks the blanket off. 00:02–00:06 — DRESSING TIMELAPSE
-Locked-off camera facing the full-length mirror. The room and the mirror frame stay pin-sharp and completely motionless — nothing in the background moves. Only she moves, in fast-forward with slight motion trails: pajamas off, top on, skirt on, scarf thrown, leg warmers yanked up, shoes buckled, necklace on, bag slung across. At 5.5 seconds the speed snaps back to normal with no ramp: she stands fully dressed in the exact @Image 1 outfit, jams the slice of toast in her mouth and strikes a quick check pose.
-
-00:06–00:08 — TAKEOFF
-On the front step she crouches deep, then launches vertically like a rocket, toast still in her mouth, mumbling through it: 「いってきま〜す！」 The downdraft knocks over a potted plant and sets the laundry flapping.
-
-00:08–00:11 — LOW-ALTITUDE OBSTACLES
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b)**
-
 ### Nineteen-Second Cinematic Luxury Perfume Commercial
 
 > Luxury in every detail A cinematic fragrance experience crafted to leave a lasting impression. Made With Seedance 2.5 Prompt: Cinematic 19-second commercial ad …
@@ -1550,6 +1837,46 @@ Quiet, masculine, youthful, nostalgic, soft, unhurried, and deeply human a forgo
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/strength04-x-seedance-ai-89d154123b94)**
 
+### Gyaru's Chaotic Flying Commute with Toast
+
+> The superwoman Made with Seedance 2.5 on ImagineArt Prompt: @image1 is the ONLY reference for the main character. It defines her identity — preserve her exact f…
+
+[<img src="https://media.goodcase.ai/cases/15ff3e55b62d.jpg" width="600" alt="Gyaru's Chaotic Flying Commute with Toast">](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b)
+
+**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2096105857402699891) | **公開日:** 2026-09-05 | **ヒート:** 25
+
+<details>
+<summary><b>プロンプト全文（22 行、クリックで展開）</b></summary>
+
+```
+@image1  is the ONLY reference for the main character. It defines her identity — preserve her exact face, makeup, and voluminous dark-brown spiral-curl hair in every shot — and it defines the design of her outfit: sheer light-blue off-shoulder top, long light-blue scarf, silver star necklace, white lace ruffled miniskirt, white lace tights, dalmatian-print leg warmers with blue bows, chunky black-and-white platform shoes. WHEN she wears this outfit is set only by the wardrobe timeline below. Do not use the sheet's white studio background, panel layout, or neutral standing poses. The same single woman appears throughout — no identity drift, no second copy of her.
+
+WARDROBE TIMELINE: 0–2 sec — rumpled plain pajamas, curls extra messy from sleep, no accessories. 2–6 sec — she dresses during the mirror timelapse described below. From 6 sec to the end — the exact complete outfit from @Image 1, unchanged.
+
+Create a chaotic 30-second Japanese live-action comedy video. Fast and physical, no dead time, rapid cuts and dynamic camera movement. All dialogue is Japanese only, and only she speaks — no other on-screen mouth ever syncs to any voice. Her voice is cute, high-pitched and bright.
+
+STYLE: Warm faded early-digital handheld footage with low-saturation color, soft focus, mild noise, slightly blown highlights and candid movement. No timestamp, date stamp or UI overlays. Not modern crisp digital. Speed changes exist ONLY in the two designated timelapse segments (2–6 sec and 20–23 sec); no slow motion anywhere, no speed ramps anywhere else.
+
+FLIGHT RULES: Her flight is played as physical and live-action. Every takeoff has a visible crouch, recoil and downdraft that shoves nearby objects; wind constantly drags her scarf, skirt and curls; landings carry real impact through her legs. She flies clumsily, like a new driver. No glowing aura, no energy effects, no cape, no superhero costume, no named superhero reference.
+
+SOUND: Playful upbeat Japanese gyaru dance-pop begins at the first frame and continues throughout. Sync cuts, the alarm clock, wardrobe snaps, the takeoff downdraft, whipping wind, flapping laundry, crow caws, train rumble, drone buzz, rain patter, landing impact and her footsteps to the beat. No silent sections.
+
+SETTING: A small messy Japanese bedroom with a bed, an alarm clock, a full-length mirror and clothes piled around; a slice of toast on a plate by the door. Outside: a Japanese residential street with laundry lines hung with white sheets, power lines, then a downtown district of office buildings, an elevated commuter train line, one small delivery drone, one crow, one small grey rain cloud, and a station square with ordinary Japanese pedestrians whose faces and outfits all differ. Japanese signage stays in the background.
+
+00:00–00:02 — WAKE-UP
+Extreme close-up of her eye snapping open under messy curls. She bolts upright in bed, grabs the alarm clock, stares at it and gasps. She kicks the blanket off. 00:02–00:06 — DRESSING TIMELAPSE
+Locked-off camera facing the full-length mirror. The room and the mirror frame stay pin-sharp and completely motionless — nothing in the background moves. Only she moves, in fast-forward with slight motion trails: pajamas off, top on, skirt on, scarf thrown, leg warmers yanked up, shoes buckled, necklace on, bag slung across. At 5.5 seconds the speed snaps back to normal with no ramp: she stands fully dressed in the exact @Image 1 outfit, jams the slice of toast in her mouth and strikes a quick check pose.
+
+00:06–00:08 — TAKEOFF
+On the front step she crouches deep, then launches vertically like a rocket, toast still in her mouth, mumbling through it: 「いってきま〜す！」 The downdraft knocks over a potted plant and sets the laundry flapping.
+
+00:08–00:11 — LOW-ALTITUDE OBSTACLES
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b)**
+
 ### Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog
 
 > A 30-second selfie-POV vlog: a girl in a yukata wanders a summer festival at night, buys takoyaki, plays a scooping game, watches the fireworks and waves goodbye to camera.
@@ -1696,64 +2023,6 @@ Seedance 2.5 prompt 👇
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08)**
 
-### A Girl’s Continuous Adventure Through Shifting Worlds
-
-> 20 shots in 30seconds. Yes! you can do that much with Seedance 2.5! Made on @lovart_ai Prompt 👇 Create a 30-second cine
-
-[<img src="https://media.goodcase.ai/cases/3f03bbbc0734.jpg" width="600" alt="A Girl’s Continuous Adventure Through Shifting Worlds">](https://goodcase.ai/cases/mrdejie-seedance-ai-6f5e8c48fb86)
-
-**作者:** @mrdejie | **出典:** [元投稿](https://x.com/mrdejie/status/2093183799400288336) | **公開日:** 2026-08-28 | **ヒート:** 23
-
-<details>
-<summary><b>プロンプト全文（40 行、クリックで展開）</b></summary>
-
-```
-20 shots in 30seconds.
-Yes! you can do that much with Seedance 2.5!
-
-Made on @lovart_ai 
-
-Prompt 👇
-Create a 30-second cinematic continuous one-shot where both the world and the character are constantly moving. The transformation must never feel like a girl simply walking while backgrounds change. Her body, momentum, balance, position, and reactions should actively cause or motivate each transition. No cuts, no fades, no dissolves. The camera may whip, orbit, dive, roll, pass behind objects, move overhead, go low to the ground, rush toward her, or briefly lose sight of her behind foreground elements, but it must remain one physically continuous shot.
-
-Character: A realistic Japanese girl in her early 20s. Natural features, long dark hair, athletic and expressive. Casual modern clothes that stay readable as they get wet, dusty, torn, and transformed by each world. Photoreal, not anime.
-
-Start in a bright Candy World. Giant lollipops, frosting hills, candy-cane trees, and sugar dust in the air. The girl hears a rumble and spins around. The camera rushes backward in front of her as she runs toward a gigantic painting of a lava cake. She skids to a stop. Molten chocolate lava suddenly explodes out of the canvas. She dives sideways as real lava-cake flood crashes across the candy floor. The camera drops almost to floor level with the rushing chocolate. She grabs a giant candy bench to stop herself. The bench stretches beneath her hands and becomes a fallen log. The camera swings around her. She is suddenly in the Year of the Dinosaurs, hanging from a tree as a massive dinosaur charges past. She pulls herself up, runs, jumps over a sliding boulder, ducks beneath a swinging vine, then grabs a giant leaf. The camera rises with the leaf. The leaf wraps around her. She tears through it and tumbles onto a paper world. The same leaf is now a huge sheet of folded paper. She rolls across paper mountains, pushes herself up, and immediately begins running as paper buildings unfold around her. The camera races sideways with her. Paper edges whip past the lens and transform into glass. The paper city becomes a modern skyscraper corridor. She runs across glossy floors as windows race past. She loses her footing near an open shaft and falls. The camera dives with her. The glass walls become rough stone. She lands hard inside a prehistoric BC cave. Torches flicker. She crawls forward, then sprints as the cave opens onto an ancient battlefield. Spears and banners rush past. She drops flat as riders leap over her. From ground level a giant war banner falls toward the lens. She grabs its edge. The wind yanks her upward. For a moment she is lifted completely off the ground. As the camera rotates with her, the banner becomes the feathers of a gigantic bird. She is suddenly riding on the big bird’s back high in the sky. She holds on as it banks through clouds. The bird dives. She slips, grabs a talon, then drops. The camera falls with her. She plunges into an underground river. Now underwater, her momentum continues naturally. She swims with the current through a dark cavern, then breaks the surface onto an abandoned island. Skeletons lie scattered across the sand and rocks. She stands, panting, then steps on a glass shard. The island shrinks around her. The camera pulls back as the whole island is revealed inside a giant glass bottle. She is trapped inside the bottle. The bottle tips. She slides, slams against the glass, and the glass becomes a dusty window. She crashes through it into a creepy house. Creaking floors, peeling wallpaper, long hallways. She runs. A door slams open. The house corridors fill with a zombie world. She dodges reaching hands, leaps over fallen furniture, and bursts through a classroom door. She is suddenly in a school classroom. Desks scatter as she sprints across them and jumps through an open window. The camera follows her through the window. She does not land in a yard. She lands on the top of a building. Wind slams her. She runs across the rooftop, then slips off the edge. The camera dives beside her. She hits water. Now underwater again. She swims upward toward a bright shape. When she breaks the surface, she is pulling herself into a pilot’s cockpit of a flying plane. Instruments shake. She grabs the controls, then the plane punches through clouds into a dense forest. The cockpit becomes tree branches. She tumbles through leaves, rolls across moss, and slams onto a mattress.
-
-Instantly she is sitting upright in bed. Morning. Silence. The camera is now extremely close to her face. She gasps awake. For the first time in the entire film, everything becomes completely still. Her bedroom is ordinary. She looks around. She touches the mattress. Checks her hands. Relieved, she lies back down. Then something drips onto her forehead. She looks up. The ceiling above her bed is gently rippling like candy glaze mixed with water. A large shadow slowly moves across it. Her expression changes from relief to disbelief. Then the entire bed suddenly tilts. She grabs the mattress as her alarm clock, pillow, lamp, and furniture begin sliding toward one side of the room. End exactly as she begins sliding out of bed, suggesting that waking up was only another stage of the transformation.
-
-The action should feel choreographed like a physical adventure. The girl must run, sprint, skid, dive, fall, climb, hang, swing, crawl, jump, roll, swim, land, sit, get thrown through spaces, and briefly become weightless. Her position within the frame should constantly change: close-up, full-body, profile, silhouette, overhead, low-angle, behind her, directly in front of her, underwater, upside down, falling beside her, and orbiting around her.
-
-Transitions should be triggered by her actions. When she grabs something, it becomes something else. When she falls, the next world catches her. When she jumps through an opening, that opening becomes another location. When an object crosses the camera, it transforms while hiding part of the environment.
-
-Use physical match transitions such as:
-candy bench → dinosaur-era log
-giant leaf → paper sheet
-paper edges → skyscraper glass
-falling shaft → BC cave stone
-war banner → giant bird feathers
-bird dive → underground river
-island sand → bottle glass
-bottle glass → creepy house window
-house door → zombie world
-zombie corridor → classroom
-classroom window → rooftop
-rooftop fall → underwater
-water surface → pilot cockpit
-cockpit / clouds → forest branches
-forest ground → bedroom mattress
-
-The camera movement itself should help generate transitions. A whip-pan can turn one moving object into another. A 360-degree orbit can reveal a completely transformed environment by the time it completes. Passing behind fabric, pillars, people, waves, vehicles, doors, or the girl’s body can briefly obscure parts of the frame while the transformation happens continuously.
-
-Despite the speed, every transformation must remain visually understandable. The result should feel less like a transformation montage and more like one impossible 30-second physical journey in which the girl is being chased, thrown, carried, dropped, and pulled through realities that continuously grow out of one another.
-
-Tone: exhilarating, mysterious, playful, cinematic, photoreal, large-scale, dreamlike, and full of wonder.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mrdejie-seedance-ai-6f5e8c48fb86)**
-
 ### A Paper Airplane Flies Through Four Seasons in the Old City
 
 > Seedance 2.5’s scene transitions are pretty smooth. I made a short film: To My Grown-Up Self. Theme: A paper airplane flies through the city’s four seasons and finally lands in the hands of its owner’s childhood self. Prompt: Generate a 15-second, 16:9, 720p photorealistic cinematic fantasy short film. Use the same ivory hand-folded paper airplane as the sole protagonist throughout
@@ -1893,6 +2162,64 @@ Single continuous first-person bodycam POV of one FBI agent for the entire 30 se
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)**
+
+### A Girl’s Continuous Adventure Through Shifting Worlds
+
+> 20 shots in 30seconds. Yes! you can do that much with Seedance 2.5! Made on @lovart_ai Prompt 👇 Create a 30-second cine
+
+[<img src="https://media.goodcase.ai/cases/3f03bbbc0734.jpg" width="600" alt="A Girl’s Continuous Adventure Through Shifting Worlds">](https://goodcase.ai/cases/mrdejie-seedance-ai-6f5e8c48fb86)
+
+**作者:** @mrdejie | **出典:** [元投稿](https://x.com/mrdejie/status/2093183799400288336) | **公開日:** 2026-08-28 | **ヒート:** 22
+
+<details>
+<summary><b>プロンプト全文（40 行、クリックで展開）</b></summary>
+
+```
+20 shots in 30seconds.
+Yes! you can do that much with Seedance 2.5!
+
+Made on @lovart_ai 
+
+Prompt 👇
+Create a 30-second cinematic continuous one-shot where both the world and the character are constantly moving. The transformation must never feel like a girl simply walking while backgrounds change. Her body, momentum, balance, position, and reactions should actively cause or motivate each transition. No cuts, no fades, no dissolves. The camera may whip, orbit, dive, roll, pass behind objects, move overhead, go low to the ground, rush toward her, or briefly lose sight of her behind foreground elements, but it must remain one physically continuous shot.
+
+Character: A realistic Japanese girl in her early 20s. Natural features, long dark hair, athletic and expressive. Casual modern clothes that stay readable as they get wet, dusty, torn, and transformed by each world. Photoreal, not anime.
+
+Start in a bright Candy World. Giant lollipops, frosting hills, candy-cane trees, and sugar dust in the air. The girl hears a rumble and spins around. The camera rushes backward in front of her as she runs toward a gigantic painting of a lava cake. She skids to a stop. Molten chocolate lava suddenly explodes out of the canvas. She dives sideways as real lava-cake flood crashes across the candy floor. The camera drops almost to floor level with the rushing chocolate. She grabs a giant candy bench to stop herself. The bench stretches beneath her hands and becomes a fallen log. The camera swings around her. She is suddenly in the Year of the Dinosaurs, hanging from a tree as a massive dinosaur charges past. She pulls herself up, runs, jumps over a sliding boulder, ducks beneath a swinging vine, then grabs a giant leaf. The camera rises with the leaf. The leaf wraps around her. She tears through it and tumbles onto a paper world. The same leaf is now a huge sheet of folded paper. She rolls across paper mountains, pushes herself up, and immediately begins running as paper buildings unfold around her. The camera races sideways with her. Paper edges whip past the lens and transform into glass. The paper city becomes a modern skyscraper corridor. She runs across glossy floors as windows race past. She loses her footing near an open shaft and falls. The camera dives with her. The glass walls become rough stone. She lands hard inside a prehistoric BC cave. Torches flicker. She crawls forward, then sprints as the cave opens onto an ancient battlefield. Spears and banners rush past. She drops flat as riders leap over her. From ground level a giant war banner falls toward the lens. She grabs its edge. The wind yanks her upward. For a moment she is lifted completely off the ground. As the camera rotates with her, the banner becomes the feathers of a gigantic bird. She is suddenly riding on the big bird’s back high in the sky. She holds on as it banks through clouds. The bird dives. She slips, grabs a talon, then drops. The camera falls with her. She plunges into an underground river. Now underwater, her momentum continues naturally. She swims with the current through a dark cavern, then breaks the surface onto an abandoned island. Skeletons lie scattered across the sand and rocks. She stands, panting, then steps on a glass shard. The island shrinks around her. The camera pulls back as the whole island is revealed inside a giant glass bottle. She is trapped inside the bottle. The bottle tips. She slides, slams against the glass, and the glass becomes a dusty window. She crashes through it into a creepy house. Creaking floors, peeling wallpaper, long hallways. She runs. A door slams open. The house corridors fill with a zombie world. She dodges reaching hands, leaps over fallen furniture, and bursts through a classroom door. She is suddenly in a school classroom. Desks scatter as she sprints across them and jumps through an open window. The camera follows her through the window. She does not land in a yard. She lands on the top of a building. Wind slams her. She runs across the rooftop, then slips off the edge. The camera dives beside her. She hits water. Now underwater again. She swims upward toward a bright shape. When she breaks the surface, she is pulling herself into a pilot’s cockpit of a flying plane. Instruments shake. She grabs the controls, then the plane punches through clouds into a dense forest. The cockpit becomes tree branches. She tumbles through leaves, rolls across moss, and slams onto a mattress.
+
+Instantly she is sitting upright in bed. Morning. Silence. The camera is now extremely close to her face. She gasps awake. For the first time in the entire film, everything becomes completely still. Her bedroom is ordinary. She looks around. She touches the mattress. Checks her hands. Relieved, she lies back down. Then something drips onto her forehead. She looks up. The ceiling above her bed is gently rippling like candy glaze mixed with water. A large shadow slowly moves across it. Her expression changes from relief to disbelief. Then the entire bed suddenly tilts. She grabs the mattress as her alarm clock, pillow, lamp, and furniture begin sliding toward one side of the room. End exactly as she begins sliding out of bed, suggesting that waking up was only another stage of the transformation.
+
+The action should feel choreographed like a physical adventure. The girl must run, sprint, skid, dive, fall, climb, hang, swing, crawl, jump, roll, swim, land, sit, get thrown through spaces, and briefly become weightless. Her position within the frame should constantly change: close-up, full-body, profile, silhouette, overhead, low-angle, behind her, directly in front of her, underwater, upside down, falling beside her, and orbiting around her.
+
+Transitions should be triggered by her actions. When she grabs something, it becomes something else. When she falls, the next world catches her. When she jumps through an opening, that opening becomes another location. When an object crosses the camera, it transforms while hiding part of the environment.
+
+Use physical match transitions such as:
+candy bench → dinosaur-era log
+giant leaf → paper sheet
+paper edges → skyscraper glass
+falling shaft → BC cave stone
+war banner → giant bird feathers
+bird dive → underground river
+island sand → bottle glass
+bottle glass → creepy house window
+house door → zombie world
+zombie corridor → classroom
+classroom window → rooftop
+rooftop fall → underwater
+water surface → pilot cockpit
+cockpit / clouds → forest branches
+forest ground → bedroom mattress
+
+The camera movement itself should help generate transitions. A whip-pan can turn one moving object into another. A 360-degree orbit can reveal a completely transformed environment by the time it completes. Passing behind fabric, pillars, people, waves, vehicles, doors, or the girl’s body can briefly obscure parts of the frame while the transformation happens continuously.
+
+Despite the speed, every transformation must remain visually understandable. The result should feel less like a transformation montage and more like one impossible 30-second physical journey in which the girl is being chased, thrown, carried, dropped, and pulled through realities that continuously grow out of one another.
+
+Tone: exhilarating, mysterious, playful, cinematic, photoreal, large-scale, dreamlike, and full of wonder.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mrdejie-seedance-ai-6f5e8c48fb86)**
 
 ### Street Court Crossover Breakaway and Dunk
 
@@ -2674,7 +3001,7 @@ Seedance 2.5 prompt ⬇️
 
 [<img src="https://media.goodcase.ai/cases/db7139cf93f2.jpg" width="600" alt="Seedance 2.5 Sci-Fi Epic Short Film That Makes You Fly from a Single Photo">](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac)
 
-**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2088977887638516207) | **公開日:** 2026-08-16 | **ヒート:** 14
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2088977887638516207) | **公開日:** 2026-08-16 | **ヒート:** 13
 
 <details>
 <summary><b>プロンプト全文（107 行、クリックで展開）</b></summary>

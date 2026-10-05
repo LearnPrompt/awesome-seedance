@@ -1,10 +1,10 @@
-# Seedance 2.0 — Full Gallery (Part 2/3)
+# Seedance 2.0 — Full Gallery (Part 2/4)
 
 All 275 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
 This page: cases 94–191 of 275.
 
-← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.md)
+← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.md) · [Part 4](./gallery-seedance-2-0-part-4.md)
 
 ### A Young Woman's Peaceful Afternoon at a Greenery-Filled Café
 
@@ -109,24 +109,6 @@ Visual style: hyper-realistic cinematic photography, physically realistic enviro
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zyrellix-seedance-ai-b83a3b47ae61)**
-
-### Jasmine and Olive Fragrance on a Mediterranean Cliff
-
-> A touch of Mediterranean elegance in every drop Sunlit cliffs fresh olive notes and timeless luxury brought to life. Mad
-
-[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-cd1e800467b5.jpg" width="600" alt="Jasmine and Olive Fragrance on a Mediterranean Cliff">](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5)
-
-**Author:** @Zyrellix | **Source:** [Original](https://x.com/Zyrellix/status/2091760321866186908) | **Published:** 2026-08-24 | **Heat:** 58
-
-**Stability:** 89/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 89.1) · [output](https://media.goodcase.ai/retests/zyrellix-seedance-ai-cd1e800467b5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A cinematic 3D product commercial for a luxury fragrance set against a sun-drenched Mediterranean coastal cliff overlooking vibrant turquoise water, hyper-realistic, 8k resolution, photorealistic lighting, ray-traced glass reflections, shot on 35mm anamorphic lens, 60fps smooth action: Extreme macro shot starting on the thick clear glass base of a square fragrance bottle with light refracting across stone, smooth tilt-up to reveal the pale green liquid inside, the silver metallic Medusa seal centered on the front, and the silver engraved cap. Small white jasmine blossoms and olive leaves frame the bottle on a rugged stone ledge. Dynamic cut to a close-up of green olives hanging from lush branches with glowing sunbeams piercing through against a deep blue sky. Rapid transition showing the silver bottle cap smoothly popping off into the sky, revealing the nozzle, followed by an ultra-macro shot of the nozzle spraying a fine mist of fragrance in slow motion as sunlight catches the microscopic droplets. Fast forward-zooming whip shot moving through a breezy Mediterranean olive grove, emerging out onto a high cliff ledge where the perfume sits above a shimmering ocean cove. A crystal-clear glass sphere expands and engulfs the scene with glowing green olive leaves swirling through the air around it. Final centered hero shot of the fragrance bottle sitting proudly on the sunlit stone ledge, subtle water reflections beneath it, olive branches framing the top, bright lens flare streaming from above, hyper-detailed commercial aesthetic.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5)**
 
 ### Beaver and Gorilla’s Fruit-Fueled Feud
 
@@ -312,6 +294,24 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, 
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-97abc37074ae)**
+
+### Jasmine and Olive Fragrance on a Mediterranean Cliff
+
+> A touch of Mediterranean elegance in every drop Sunlit cliffs fresh olive notes and timeless luxury brought to life. Mad
+
+[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-cd1e800467b5.jpg" width="600" alt="Jasmine and Olive Fragrance on a Mediterranean Cliff">](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5)
+
+**Author:** @Zyrellix | **Source:** [Original](https://x.com/Zyrellix/status/2091760321866186908) | **Published:** 2026-08-24 | **Heat:** 57
+
+**Stability:** 89/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 89.1) · [output](https://media.goodcase.ai/retests/zyrellix-seedance-ai-cd1e800467b5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A cinematic 3D product commercial for a luxury fragrance set against a sun-drenched Mediterranean coastal cliff overlooking vibrant turquoise water, hyper-realistic, 8k resolution, photorealistic lighting, ray-traced glass reflections, shot on 35mm anamorphic lens, 60fps smooth action: Extreme macro shot starting on the thick clear glass base of a square fragrance bottle with light refracting across stone, smooth tilt-up to reveal the pale green liquid inside, the silver metallic Medusa seal centered on the front, and the silver engraved cap. Small white jasmine blossoms and olive leaves frame the bottle on a rugged stone ledge. Dynamic cut to a close-up of green olives hanging from lush branches with glowing sunbeams piercing through against a deep blue sky. Rapid transition showing the silver bottle cap smoothly popping off into the sky, revealing the nozzle, followed by an ultra-macro shot of the nozzle spraying a fine mist of fragrance in slow motion as sunlight catches the microscopic droplets. Fast forward-zooming whip shot moving through a breezy Mediterranean olive grove, emerging out onto a high cliff ledge where the perfume sits above a shimmering ocean cove. A crystal-clear glass sphere expands and engulfs the scene with glowing green olive leaves swirling through the air around it. Final centered hero shot of the fragrance bottle sitting proudly on the sunlit stone ledge, subtle water reflections beneath it, olive branches framing the top, bright lens flare streaming from above, hyper-detailed commercial aesthetic.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5)**
 
 ### Mixed-Reality Home Vlog Animation
 
@@ -730,109 +730,6 @@ No CGI appearance, artificial faces, beauty filters, robotic acting, staged posi
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-photorealistic-30-second-modern-japanese-summer-festival-travel-vlog-featuring-a03ea7f9a5ee)**
 
-### Red-Haired Girl's Lip Oil Claw Machine Challenge
-
-> POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg" width="600" alt="Red-Haired Girl's Lip Oil Claw Machine Challenge">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d)
-
-**Author:** @AIwithNatalia | **Source:** [Original](https://x.com/AIwithNatalia/status/2094428843214037102) | **Published:** 2026-08-31 | **Heat:** 54
-
-<details>
-<summary><b>Full prompt (85 lines, click to expand)</b></summary>
-
-```
-TITLE: “SHE WANTED IT. SHE GOT IT.”
-
-Create an exactly 15-second, 9:16 vertical cinematic fashion video featuring the uploaded red-haired girl as the single main character. Use her uploaded photo as the exact facial and identity reference. Do not change her face, facial features, skin tone, body proportions, or red hairstyle across any shot.
-
-VISUAL STYLE
-
-Glossy RED + CHROME SILVER Y2K BADDIE aesthetic, futuristic makeup fantasy world, high-fashion commercial, ultra-polished beauty campaign, dramatic studio lighting, glossy reflections, sparkling particles, fast camera movements, energetic editing, luxurious and playful atmosphere.
-
-CHARACTER / OUTFIT
-
-She wears a full Y2K baddie outfit:
-
-Metallic silver cropped halter baby tee with red rhinestone details
-Ultra-low-rise red baggy cargo pants with silver zippers and hardware
-Cropped shiny silver moto jacket worn slightly off one shoulder
-Silver platform sneakers with red accents
-Tiny glossy red shoulder bag with silver chain
-Chunky silver hoop earrings, layered silver necklaces, rings and silver belly chain
-Tiny red-tinted futuristic sunglasses with silver frames
-Long chrome-silver nails with red French tips
-Sharp black winged eyeliner, icy silver eyeshadow, glossy red lips
-
-0–3 SEC — ENTER THE MAKEUP WORLD
-
-Start with an extreme close-up of her red-tinted Y2K sunglasses. Quick camera pullback reveals her walking confidently through a surreal oversized makeup world.
-
-Giant lipstick tubes, enormous blush palettes, floating makeup brushes, glossy cosmetic bottles and sparkling beauty particles surround her. Everything is dominated by red, chrome silver and reflective surfaces.
-
-She walks toward camera with a confident baddie attitude, red hair moving dramatically, then gives a subtle smirk.
-
-3–6 SEC — SHE SPOTS THE CLAW MACHINE
-
-Fast whip-pan to a huge futuristic transparent claw machine glowing with red and silver neon.
-
-Inside are dozens of Rhode lip oils displayed like luxury prizes, surrounded by floating hearts, rhinestones, glossy cosmetic charms and silver sparkles.
-
-She stops, removes her sunglasses, looks directly at the prize and gives a confident “I need that” expression.
-
-6–11 SEC — THE CLAW BATTLE
-
-Rapid-fire montage with energetic cuts:
-
-Close-up of her chrome nails grabbing the joystick.
-
-She aggressively moves the claw left and right.
-
-Extreme close-up of her focused eyes.
-
-Her red hair whips across the frame.
-
-The claw moves directly above a Rhode lip oil.
-
-She presses the button.
-
-CLAW DROPS — MISS.
-
-She slowly looks at the machine with an unimpressed baddie stare.
-
-She tries again, carefully positioning the claw.
-
-CLICK.
-
-The claw locks perfectly onto the lip oil.
-
-11–15 SEC — SHE WINS
-
-The claw lifts the Rhode lip oil into the air.
-
-The entire machine flashes with red and chrome lights.
-
-The prize drops into the collection slot.
-
-She grabs it confidently, holds it beside her face and gives the camera a victorious smirk.
-
-Camera rapidly circles around her as the makeup world erupts with red hearts, silver stars, rhinestones, lipstick doodles and sparkling particles.
-
-End on a dramatic beauty close-up of her holding the lip oil.
-
-FINAL TYPOGRAPHY
-
-Large glossy chrome typography appears:
-
-SHE WANTED IT.
-SHE GOT IT.
-Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic transitions throughout. Keep the video fashion-forward, playful, confident, luxurious and intensely Y2K, with red and chrome silver dominating every frame.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d)**
-
 ### Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
 > A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
@@ -937,6 +834,109 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57)**
+
+### Red-Haired Girl's Lip Oil Claw Machine Challenge
+
+> POV: you saw the lip oil you wanted and decided the claw machine wasn’t going to stop you. 💋🪩❤️‍🔥 Created with Seedan
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg" width="600" alt="Red-Haired Girl's Lip Oil Claw Machine Challenge">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d)
+
+**Author:** @AIwithNatalia | **Source:** [Original](https://x.com/AIwithNatalia/status/2094428843214037102) | **Published:** 2026-08-31 | **Heat:** 53
+
+<details>
+<summary><b>Full prompt (85 lines, click to expand)</b></summary>
+
+```
+TITLE: “SHE WANTED IT. SHE GOT IT.”
+
+Create an exactly 15-second, 9:16 vertical cinematic fashion video featuring the uploaded red-haired girl as the single main character. Use her uploaded photo as the exact facial and identity reference. Do not change her face, facial features, skin tone, body proportions, or red hairstyle across any shot.
+
+VISUAL STYLE
+
+Glossy RED + CHROME SILVER Y2K BADDIE aesthetic, futuristic makeup fantasy world, high-fashion commercial, ultra-polished beauty campaign, dramatic studio lighting, glossy reflections, sparkling particles, fast camera movements, energetic editing, luxurious and playful atmosphere.
+
+CHARACTER / OUTFIT
+
+She wears a full Y2K baddie outfit:
+
+Metallic silver cropped halter baby tee with red rhinestone details
+Ultra-low-rise red baggy cargo pants with silver zippers and hardware
+Cropped shiny silver moto jacket worn slightly off one shoulder
+Silver platform sneakers with red accents
+Tiny glossy red shoulder bag with silver chain
+Chunky silver hoop earrings, layered silver necklaces, rings and silver belly chain
+Tiny red-tinted futuristic sunglasses with silver frames
+Long chrome-silver nails with red French tips
+Sharp black winged eyeliner, icy silver eyeshadow, glossy red lips
+
+0–3 SEC — ENTER THE MAKEUP WORLD
+
+Start with an extreme close-up of her red-tinted Y2K sunglasses. Quick camera pullback reveals her walking confidently through a surreal oversized makeup world.
+
+Giant lipstick tubes, enormous blush palettes, floating makeup brushes, glossy cosmetic bottles and sparkling beauty particles surround her. Everything is dominated by red, chrome silver and reflective surfaces.
+
+She walks toward camera with a confident baddie attitude, red hair moving dramatically, then gives a subtle smirk.
+
+3–6 SEC — SHE SPOTS THE CLAW MACHINE
+
+Fast whip-pan to a huge futuristic transparent claw machine glowing with red and silver neon.
+
+Inside are dozens of Rhode lip oils displayed like luxury prizes, surrounded by floating hearts, rhinestones, glossy cosmetic charms and silver sparkles.
+
+She stops, removes her sunglasses, looks directly at the prize and gives a confident “I need that” expression.
+
+6–11 SEC — THE CLAW BATTLE
+
+Rapid-fire montage with energetic cuts:
+
+Close-up of her chrome nails grabbing the joystick.
+
+She aggressively moves the claw left and right.
+
+Extreme close-up of her focused eyes.
+
+Her red hair whips across the frame.
+
+The claw moves directly above a Rhode lip oil.
+
+She presses the button.
+
+CLAW DROPS — MISS.
+
+She slowly looks at the machine with an unimpressed baddie stare.
+
+She tries again, carefully positioning the claw.
+
+CLICK.
+
+The claw locks perfectly onto the lip oil.
+
+11–15 SEC — SHE WINS
+
+The claw lifts the Rhode lip oil into the air.
+
+The entire machine flashes with red and chrome lights.
+
+The prize drops into the collection slot.
+
+She grabs it confidently, holds it beside her face and gives the camera a victorious smirk.
+
+Camera rapidly circles around her as the makeup world erupts with red hearts, silver stars, rhinestones, lipstick doodles and sparkling particles.
+
+End on a dramatic beauty close-up of her holding the lip oil.
+
+FINAL TYPOGRAPHY
+
+Large glossy chrome typography appears:
+
+SHE WANTED IT.
+SHE GOT IT.
+Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic transitions throughout. Keep the video fashion-forward, playful, confident, luxurious and intensely Y2K, with red and chrome silver dominating every frame.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d)**
 
 ### Bubbles Lift a Woman Above Fruit Mountains and a Sparkling Sea
 
@@ -1494,33 +1494,6 @@ Create a realistic 10-second vertical beauty product video showing hands opening
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630)**
 
-### First Glance in a Seaside Town
-
-> Sometimes, love begins with a simple glance. A beautiful moment waiting to become a story. Created on seedance 2.0 Prompt A beautiful Korean girl with long, str…
-
-[<img src="https://media.goodcase.ai/cases/929b3394087a.jpg" width="600" alt="First Glance in a Seaside Town">](https://goodcase.ai/cases/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4)
-
-**Author:** @aiwithaayat | **Source:** [Original](https://x.com/aiwithaayat/status/2102607673501892691) | **Published:** 2026-09-23 | **Heat:** 42
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 86) · [output](https://media.goodcase.ai/retests/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Sometimes, love begins with a simple glance. A beautiful moment waiting to become a story. 
-
-Created on seedance 2.0
-
- Prompt
-
-A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4)**
-
 ### Seedance 3D Animated Comedy: After Mom Cut the WiFi
 
 > When Mom turned off the Wi-Fi… Grandma had other plans. 😂 A chaotic modern South Asian family, three phone-addicted kid
@@ -1670,21 +1643,32 @@ AUDIO: playful comedic background music, realistic household ambience, exaggerat
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526)**
 
-### Luxury Hydration Cream Surrounded by Water and White Flowers
+### First Glance in a Seaside Town
 
-> Hydration meets luxury in every drop. 💧✨ A cinematic skincare concept made to feel fresh, premium, and refreshing. Created on seedance 2.0 Prompt: Create a 15-…
+> Sometimes, love begins with a simple glance. A beautiful moment waiting to become a story. Created on seedance 2.0 Prompt A beautiful Korean girl with long, str…
 
-[<img src="https://media.goodcase.ai/cases/340e096bbc62.jpg" width="600" alt="Luxury Hydration Cream Surrounded by Water and White Flowers">](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff)
+[<img src="https://media.goodcase.ai/cases/929b3394087a.jpg" width="600" alt="First Glance in a Seaside Town">](https://goodcase.ai/cases/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4)
 
-**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2101887507059351894) | **Published:** 2026-09-21 | **Heat:** 41
+**Author:** @aiwithaayat | **Source:** [Original](https://x.com/aiwithaayat/status/2102607673501892691) | **Published:** 2026-09-23 | **Heat:** 41
 
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 87) · [output](https://media.goodcase.ai/retests/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff/video-grok-imagine-20261003-phase1/generated.mp4)
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 86) · [output](https://media.goodcase.ai/retests/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (7 lines, click to expand)</b></summary>
 
 ```
-Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
+Sometimes, love begins with a simple glance. A beautiful moment waiting to become a story. 
+
+Created on seedance 2.0
+
+ Prompt
+
+A beautiful Korean girl with long, straight black hair walks through a peaceful coastal Korean town during golden hour, wearing a stylish beige trench coat and carrying a handbag. A handsome Korean boy in a dark leather jacket stands near a railway crossing as a vintage tram passes by. The girl slowly approaches him along the seaside street, with warm sunlight glowing on her face. Cinematic camera movements, natural walking motion, realistic facial expressions, soft ocean breeze, and detailed Korean street scenery. Capture their first eye contact with a gentle romantic atmosphere, shallow depth of field, warm color grading, and photorealistic quality. Create a beautiful 15-second cinematic love story with smooth transitions, natural lighting, and emotional storytelling.
 ```
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff)**
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4)**
 
 ### High-Rise Hotel Balcony Pursuit
 
@@ -1738,6 +1722,22 @@ Create a cinematic, realistic educational video set inside a modern university p
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-educational-video-set-inside-a-modern-university-961b27c23385)**
+
+### Luxury Hydration Cream Surrounded by Water and White Flowers
+
+> Hydration meets luxury in every drop. 💧✨ A cinematic skincare concept made to feel fresh, premium, and refreshing. Created on seedance 2.0 Prompt: Create a 15-…
+
+[<img src="https://media.goodcase.ai/cases/340e096bbc62.jpg" width="600" alt="Luxury Hydration Cream Surrounded by Water and White Flowers">](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff)
+
+**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2101887507059351894) | **Published:** 2026-09-21 | **Heat:** 40
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 87) · [output](https://media.goodcase.ai/retests/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff)**
 
 ### Silver-Haired Swordsman Commands a Desert Storm
 
@@ -2174,7 +2174,7 @@ Create a 15-second ultra-realistic  morning gym advertisement featuring the same
 
 [<img src="https://media.goodcase.ai/cases/7217475b790a.jpg" width="600" alt="A Pirate's Runaway Barrel Chase Downhill">](https://goodcase.ai/cases/nvtdanh-seedance-ai-52f635503525)
 
-**Author:** @NVTDanh | **Source:** [Original](https://x.com/NVTDanh/status/2089675418878329009) | **Published:** 2026-08-18 | **Heat:** 36
+**Author:** @NVTDanh | **Source:** [Original](https://x.com/NVTDanh/status/2089675418878329009) | **Published:** 2026-08-18 | **Heat:** 35
 
 ```
 15s cinematic action-comedy, fast-paced, mid-action from frame one, 6 shots, 9–10 dynamic different camera angles, continuous downhill progression, escalating physical comedy, no repetitive actions, minimal slow motion.  STRICT LOCKS: Use uploaded Pirate @Image4, oversized wooden Barrel @Image3, Harbor Town @Image2 and Pirate Ship @Image1 as strict visual references. One unique pirate, one SAME barrel throughout. No clones. Keep character design, costume, barrel proportions and environment consistent.  ENVIRONMENT LOCK: Entire chase follows ONE continuous downhill route through the same harbor town: upper market street → steep stone road → long staircase → dock → sea → departing ship. Never change location or travel direction.  0:00–0:02 — HOOK Pirate sprints downhill while several guards chase behind. He dives headfirst into a large wooden barrel to hide.  The barrel instantly tips over and begins rolling downhill at high speed.  Pirate’s shocked head suddenly pops out through a loose opening.  0:02–0:05 — FIRST OBSTACLE A market cart blocks the road.  Pirate sees it and instantly pulls his head back inside.  The barrel hits a small wooden ramp beside the cart and LAUNCHES over it.  In mid-air, pirate’s arms and legs accidentally stick out from different openings.  Hard landing — immediately keeps rolling.  0:05–0:08 — CHAOTIC MARKET The barrel zigzags rapidly between market stalls, baskets and crates.  Pirate desperately tries to steer by sticking out one arm → one leg → both arms.  Every body movement changes the barrel: swerve → wobble → tilt → recover.  Fruit and baskets scatter behind him.  0:08–0:11 — STAIRCASE The barrel reaches a long steep stone staircase.  BAM-BAM-BAM-BAM!  It violently bounces down the steps without slowing.  Every impact throws Pirate differently inside: head pops out → disappears → boots appear → one arm appears → whole upper body briefly shoots upward.  0:11–0:13 — BIG JUMP The staircase ends at the dock.  The barrel launches completely off the edge.  Huge wide shot reveals open water and the SAME pirate ship moving directly underneath.  Pirate slowly sticks his head out, sees the ship below and gives a huge relieved smile.  0:13–0:15 — PAYOFF CRASH!  Barrel falls through the ship’s canvas canopy.  Quick comedy reveal:  Pirate rises dizzy from a huge pile of fish with one fish stuck horizontally in his mouth.  The empty barrel continues rolling away across the deck.  CUT.  MOTION LOCK: Barrel continuously evolves: tip → accelerate → ramp jump → hard landing → zigzag → wobble → staircase bounce → huge jump → crash. Never repeat one rolling motion for long.  CHARACTER MOTION LOCK: EVERY major barrel movement MUST cause a new physical-comedy reaction from Pirate. Pirate never remains passive inside the moving barrel.  CAMERA: low barrel-level tracking, frontal backward tracking, fast side tracking, overhead market view, close-up during impacts, staircase chase camera, huge harbor wide, airborne side profile, final static comedy reveal.  SFX: rapid footsteps, guards shouting in distance, wooden barrel rumbling, market reactions, wood impacts, scattering fruit, rapid staircase impacts, rushing wind, seagulls, harbor ambience, canvas ripping, fish flopping. NO MUSIC.
@@ -2373,13 +2373,29 @@ Style: grounded documentary feel, natural skin texture, lived-in spaces, 16:9, 2
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-cinematic-realistic-short-film-of-a-young-east-asian-woman-with-wavy-shoulde-ddc8b7fe7d78)**
 
+### Nostalgic High School Vlog
+
+> A highly detailed video prompt for a home-video-style vlog led by a Japanese high school girl, built around natural expressions and a believable campus setting.
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-a4aa7d6b0191.jpg" width="600" alt="Nostalgic High School Vlog">](https://goodcase.ai/cases/vlog-a4aa7d6b0191)
+
+**Author:** @aiehon_aya | **Source:** [Original](https://x.com/aiehon_aya/status/2092733830801109291) | **Published:** 2026-08-26 | **Heat:** 31
+
+**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 68.8) · [output](https://media.goodcase.ai/retests/vlog-a4aa7d6b0191/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+かわいい日本人の女子高校生の、なんでもない学校の1日を、同級生の親友が撮ったVlog風個人ホームビデオとして作成せよ。超現実的。約10個の短いショット（各2〜3秒）のハードカットのモンタージュで構成する。各ショットはすべて別の場所・別の瞬間で、1ショット＝1つの小さな出来事。トランジション効果やフェードは使わない。撮っているのはいちばん仲のいい親友なので、彼女は完全にリラックスしていて、カメラに笑いかけ、物を見せ、話しかける（言葉は聞き取れない）。ポーズや演技ではなく、親友にだけ見せる素の表情。 メイン被写体 全ショットを通じて同じ日本人の女子高校生。目を引く完璧な美人ではなく、笑った瞬間がいちばんかわいい、話しかけやすい親しみのある顔立ち。 現実的な肌の質感、ノーメイク、頬にほんの少し赤み。笑うと目が三日月になり、八重歯が少しのぞく。 黒髪のゆるいボブで、右の耳の上を小さな銀のヘアピンで留めている。 白い半袖の開襟シャツ、えんじ色のリボン、グレーの膝丈プリーツスカート、白いソックス、上履き（校外では白いスニーカー）、肩掛けのスクールバッグ。 顔、体型、髪型、制服、持ち物を最初から最後まで完全に一貫させる。 ロケーション 夏の朝から夕方の、ごく普通の公立高校。昇降口、窓際の席のある教室、廊下、購買、中庭、放課後の夕日が差す教室、校門。生活感のある本物の学校。他の生徒は背景に自然な程度。広告、認識できるブランドはなし。 カメラ / ビジュアルスタイル 全ショット共通：親友が構える手持ちの古い民生用デジタルカメラ。自然な揺れ、不完全なフレーミング、時折のオートフォーカス変更、露出のゆらぎ、柔らかい画像ディテール、軽いモーションブラー、微妙なデジタルノイズ、少し抑えた色、不完全なホワイトバランス。スタビライズ、ジンバル、ドローン、スローモーション、映画的照明、商業カラーグレーディングはなし。 ショットリスト（順番通り、各2〜3秒、すべてハードカット） 1. 休み時間。前の席の椅子に後ろ向きに座り、身振りをつけて何か喋る（聞こえない）。 2. 購買でパンを2つ買い、1つをレンズに差し出す。 3. 昼休みの中庭のベンチ。パンをかじりながら、木漏れ日に目を細める。 4. 廊下で笑いすぎて壁にもたれ、目じりを指で拭う。 5. 掃除の時間。ほうきを持ったままふざけたポーズをして、廊下の先の気配に気づき、慌ててまじめに掃きだす。 6. 水道で手を洗い、濡れた指先でカメラに水滴を飛ばすまねをして笑う。 7. 放課後、夕日の教室。机に伏せてうたた寝しているところを撮られ、起きて照れ笑い。 8. 黒板の隅に小さな落書きを描いて振り返り、八重歯を見せてにっと笑い、すぐ消す。 9. 昇降口でスニーカーに履き替えながら、何か喋って笑う。 10. 夕焼けの校門で振り返り、両手で大きく手を振る。その途中、録画は突然ブラックアウトに切り替わる。フェードアウトなし。 物理的リアリズム 全ショットで信ぴょう性のある現実世界の物理を維持。手、指、足、制服、髪、パン、ほうき、ノート、スクールバッグは自然に振る舞う。余分な指、融合した手、重複した手足、歪んだ解剖学、浮遊物、消える物体、突然の変形はなし。足は床と地面に適切に繋がったまま。ショット間で被写体を一貫させ、光は朝→昼→夕焼けへ自然に進む。 オーディオ 自然な環境音のみ。ショットごとに環境音も切り替わる。遠くのチャイム、上履きの音、教室のざわめき、購買の喧騒、セミの声、ほうきの音、遠くの部活の掛け声、言葉として聞き取れない話し声と笑い声。音楽なし。ナレーションなし。人工的な音響効果なし。 最終的な雰囲気 12個の何気ない瞬間を並べただけなのに、あとで見返すとエモいと感じる映像。商業作品ではない。ファッション映画ではない。ミュージックビデオではない。同じクラスの親友のカメラにだけ残っている、なんでもないのに二度と戻らない学校の1日の記録。屈託がなく、青春の途中で、懐かしく、温かく、即興的で、深く人間的。カメラがたまたまそこにあったような感じを優先。
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-a4aa7d6b0191)**
+
 ### Rain, Streetlights and the Goodbye Neither Wanted
 
 > It Doesn’t Have to Be! Rain, streetlights, and the goodbye neither of them wanted to say. Sometimes everything hangs on one answer. Made with Dreamina Seedance …
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6.jpg" width="600" alt="Rain, Streetlights and the Goodbye Neither Wanted">](https://goodcase.ai/cases/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6)
 
-**Author:** @Weeleey6 | **Source:** [Original](https://x.com/Weeleey6/status/2095902275898126648) | **Published:** 2026-09-04 | **Heat:** 32
+**Author:** @Weeleey6 | **Source:** [Original](https://x.com/Weeleey6/status/2095902275898126648) | **Published:** 2026-09-04 | **Heat:** 31
 
 **Retest:** Grok Imagine · 2026-10-02 · ✅ reproduced (score 75) · [output](https://media.goodcase.ai/retests/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6/video-grok-imagine-20261002-phase1/generated.mp4)
 
@@ -2408,22 +2424,6 @@ RULES: References are appearance only, do not recreate. Keep both characters con
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-woman-a-young-east-asian-woman-around-25-soft-elegant-features-shoulder-len-d36bebfcc8e6)**
-
-### Nostalgic High School Vlog
-
-> A highly detailed video prompt for a home-video-style vlog led by a Japanese high school girl, built around natural expressions and a believable campus setting.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-a4aa7d6b0191.jpg" width="600" alt="Nostalgic High School Vlog">](https://goodcase.ai/cases/vlog-a4aa7d6b0191)
-
-**Author:** @aiehon_aya | **Source:** [Original](https://x.com/aiehon_aya/status/2092733830801109291) | **Published:** 2026-08-26 | **Heat:** 31
-
-**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 68.8) · [output](https://media.goodcase.ai/retests/vlog-a4aa7d6b0191/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-かわいい日本人の女子高校生の、なんでもない学校の1日を、同級生の親友が撮ったVlog風個人ホームビデオとして作成せよ。超現実的。約10個の短いショット（各2〜3秒）のハードカットのモンタージュで構成する。各ショットはすべて別の場所・別の瞬間で、1ショット＝1つの小さな出来事。トランジション効果やフェードは使わない。撮っているのはいちばん仲のいい親友なので、彼女は完全にリラックスしていて、カメラに笑いかけ、物を見せ、話しかける（言葉は聞き取れない）。ポーズや演技ではなく、親友にだけ見せる素の表情。 メイン被写体 全ショットを通じて同じ日本人の女子高校生。目を引く完璧な美人ではなく、笑った瞬間がいちばんかわいい、話しかけやすい親しみのある顔立ち。 現実的な肌の質感、ノーメイク、頬にほんの少し赤み。笑うと目が三日月になり、八重歯が少しのぞく。 黒髪のゆるいボブで、右の耳の上を小さな銀のヘアピンで留めている。 白い半袖の開襟シャツ、えんじ色のリボン、グレーの膝丈プリーツスカート、白いソックス、上履き（校外では白いスニーカー）、肩掛けのスクールバッグ。 顔、体型、髪型、制服、持ち物を最初から最後まで完全に一貫させる。 ロケーション 夏の朝から夕方の、ごく普通の公立高校。昇降口、窓際の席のある教室、廊下、購買、中庭、放課後の夕日が差す教室、校門。生活感のある本物の学校。他の生徒は背景に自然な程度。広告、認識できるブランドはなし。 カメラ / ビジュアルスタイル 全ショット共通：親友が構える手持ちの古い民生用デジタルカメラ。自然な揺れ、不完全なフレーミング、時折のオートフォーカス変更、露出のゆらぎ、柔らかい画像ディテール、軽いモーションブラー、微妙なデジタルノイズ、少し抑えた色、不完全なホワイトバランス。スタビライズ、ジンバル、ドローン、スローモーション、映画的照明、商業カラーグレーディングはなし。 ショットリスト（順番通り、各2〜3秒、すべてハードカット） 1. 休み時間。前の席の椅子に後ろ向きに座り、身振りをつけて何か喋る（聞こえない）。 2. 購買でパンを2つ買い、1つをレンズに差し出す。 3. 昼休みの中庭のベンチ。パンをかじりながら、木漏れ日に目を細める。 4. 廊下で笑いすぎて壁にもたれ、目じりを指で拭う。 5. 掃除の時間。ほうきを持ったままふざけたポーズをして、廊下の先の気配に気づき、慌ててまじめに掃きだす。 6. 水道で手を洗い、濡れた指先でカメラに水滴を飛ばすまねをして笑う。 7. 放課後、夕日の教室。机に伏せてうたた寝しているところを撮られ、起きて照れ笑い。 8. 黒板の隅に小さな落書きを描いて振り返り、八重歯を見せてにっと笑い、すぐ消す。 9. 昇降口でスニーカーに履き替えながら、何か喋って笑う。 10. 夕焼けの校門で振り返り、両手で大きく手を振る。その途中、録画は突然ブラックアウトに切り替わる。フェードアウトなし。 物理的リアリズム 全ショットで信ぴょう性のある現実世界の物理を維持。手、指、足、制服、髪、パン、ほうき、ノート、スクールバッグは自然に振る舞う。余分な指、融合した手、重複した手足、歪んだ解剖学、浮遊物、消える物体、突然の変形はなし。足は床と地面に適切に繋がったまま。ショット間で被写体を一貫させ、光は朝→昼→夕焼けへ自然に進む。 オーディオ 自然な環境音のみ。ショットごとに環境音も切り替わる。遠くのチャイム、上履きの音、教室のざわめき、購買の喧騒、セミの声、ほうきの音、遠くの部活の掛け声、言葉として聞き取れない話し声と笑い声。音楽なし。ナレーションなし。人工的な音響効果なし。 最終的な雰囲気 12個の何気ない瞬間を並べただけなのに、あとで見返すとエモいと感じる映像。商業作品ではない。ファッション映画ではない。ミュージックビデオではない。同じクラスの親友のカメラにだけ残っている、なんでもないのに二度と戻らない学校の1日の記録。屈託がなく、青春の途中で、懐かしく、温かく、即興的で、深く人間的。カメラがたまたまそこにあったような感じを優先。
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-a4aa7d6b0191)**
 
 ### Fifteen-Second Fast-Cut High-End Blush Commercial
 
@@ -2497,45 +2497,6 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithminal-seedance-ai-3c0cb08ecc8b)**
-
-### Fire Phoenix Versus Water Dragon
-
-> An epic elemental showdown between a fire phoenix and a water dragon among ancient ruins, with detailed camera and VFX directions.
-
-[<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="Fire Phoenix Versus Water Dragon">](https://goodcase.ai/cases/case-2c7bcef707d4)
-
-**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2095039305555263672) | **Published:** 2026-09-02 | **Heat:** 28
-
-<details>
-<summary><b>Full prompt (21 lines, click to expand)</b></summary>
-
-```
-15s cinematic photorealistic action video, 5 shots, 16:9. ARRI ALEXA 65, 35mm anamorphic, film grain, rich contrast, natural bokeh, volumetric god rays, realistic smoke, dust, sparks, fire, water, hair and cloth physics. No text, logos, UI or watermark.
-
-Environment: Abandoned ancient temple ruins, broken pillars, rubble, burning temple, heavy smoke, sparks, dramatic sunset. Keep architecture, damage, lighting and atmosphere consistent.
-
-Woman 1 – Fire: Short pink hair, red horns, deep red/gold ornate battle outfit, chains, black belt, tassels, platform boots. Lock face, body and outfit perfectly.
-
-Woman 2 – Water: Long navy-black hair with straight bangs, deep blue-silver flowing battle robe, transparent layers, decorative belt, silver ornaments, tassels and boots. Lock face, body and outfit perfectly.
-
-0–2.5s: Wide tracking circle. Fighters clash aggressively. Fire woman attacks with flame punches/kicks; water woman dodges and counters with water whips. Fire and water collide into steam explosions.
-
-2.5–6s: Tight tracking shot. Close-range brutal exchange. Fire elbow + knee; water blocks with a water shield and counters with a pressurized palm, sending her across rubble.
-
-6–9.5s: Low-angle tracking. Both charge and leap. Water woman launches spinning water spheres; fire woman breaks through with explosive flames and close-range attacks.
-
-9.5–12.5s: Medium-wide push-in. Water woman summons a massive serpentine water dragon. Fire woman releases a majestic flame phoenix. Both charge toward each other.
-
-12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creating a huge explosion of steam, fire, water, light and debris. Shockwave, sparks and droplets fill the frame; energy slowly dissipates.
-
-Audio: Cinematic orchestral-electronic score, heavy percussion, rising strings, synths, impacts, whooshes, water, fire, steam, dragon roar and phoenix cry.
-
-Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect character consistency and realistic elemental physics.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-2c7bcef707d4)**
 
 ### Korean Idol Backstage Fitting Vlog
 
@@ -2653,6 +2614,45 @@ Keep exactly one Robot and one Robot Dog, with stable scale, proportions, struct
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aimikoda-seedance-ai-3e98e88a068f)**
+
+### Fire Phoenix Versus Water Dragon
+
+> An epic elemental showdown between a fire phoenix and a water dragon among ancient ruins, with detailed camera and VFX directions.
+
+[<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="Fire Phoenix Versus Water Dragon">](https://goodcase.ai/cases/case-2c7bcef707d4)
+
+**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2095039305555263672) | **Published:** 2026-09-02 | **Heat:** 27
+
+<details>
+<summary><b>Full prompt (21 lines, click to expand)</b></summary>
+
+```
+15s cinematic photorealistic action video, 5 shots, 16:9. ARRI ALEXA 65, 35mm anamorphic, film grain, rich contrast, natural bokeh, volumetric god rays, realistic smoke, dust, sparks, fire, water, hair and cloth physics. No text, logos, UI or watermark.
+
+Environment: Abandoned ancient temple ruins, broken pillars, rubble, burning temple, heavy smoke, sparks, dramatic sunset. Keep architecture, damage, lighting and atmosphere consistent.
+
+Woman 1 – Fire: Short pink hair, red horns, deep red/gold ornate battle outfit, chains, black belt, tassels, platform boots. Lock face, body and outfit perfectly.
+
+Woman 2 – Water: Long navy-black hair with straight bangs, deep blue-silver flowing battle robe, transparent layers, decorative belt, silver ornaments, tassels and boots. Lock face, body and outfit perfectly.
+
+0–2.5s: Wide tracking circle. Fighters clash aggressively. Fire woman attacks with flame punches/kicks; water woman dodges and counters with water whips. Fire and water collide into steam explosions.
+
+2.5–6s: Tight tracking shot. Close-range brutal exchange. Fire elbow + knee; water blocks with a water shield and counters with a pressurized palm, sending her across rubble.
+
+6–9.5s: Low-angle tracking. Both charge and leap. Water woman launches spinning water spheres; fire woman breaks through with explosive flames and close-range attacks.
+
+9.5–12.5s: Medium-wide push-in. Water woman summons a massive serpentine water dragon. Fire woman releases a majestic flame phoenix. Both charge toward each other.
+
+12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creating a huge explosion of steam, fire, water, light and debris. Shockwave, sparks and droplets fill the frame; energy slowly dissipates.
+
+Audio: Cinematic orchestral-electronic score, heavy percussion, rising strings, synths, impacts, whooshes, water, fire, steam, dragon roar and phoenix cry.
+
+Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect character consistency and realistic elemental physics.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-2c7bcef707d4)**
 
 ### Silver-Haired Rider's Neon Highway Escape
 
@@ -2826,56 +2826,6 @@ She lands on a rooftop, stands with arms outstretched in triumph, hair blowing, 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-701e2e12eda3)**
 
-### 2000s MiniDV Han River Bike Ride
-
-> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
-
-[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905)
-
-**Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 25
-
-**Stability:** 66/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 65.9) · [output](https://media.goodcase.ai/retests/2000-minidv-5cceb6310905/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (28 lines, click to expand)</b></summary>
-
-```
-Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
-
-Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
-
-Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
-
-Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
-
-00:00–00:03
-She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
-
-00:03–00:06
-She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
-
-00:06–00:09
-She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
-
-00:09–00:12
-She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
-
-00:12–00:15
-She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
-
-Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
-
-Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905)**
-
 ### High-End Lipstick Beauty Ad
 
 > An 8-second premium UGC lipstick ad project featuring beauty shots, macro product close-ups, and studio lighting effects that express a luxury skincare aesthetic.
@@ -2991,82 +2941,55 @@ A warm, energetic 15-second ultra-realistic food commercial opens wide on a sunl
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/heyfatema-seedance-ai-b3b41609bc87)**
 
-### Architectural Space Renovation Time-Lapse
+### 2000s MiniDV Han River Bike Ride
 
-> A precise video prompt for creating a seamless architectural renovation animation, showing the transformation from an unfinished concrete room into a luxurious interior space.
+> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
 
-[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="Architectural Space Renovation Time-Lapse">](https://goodcase.ai/cases/case-429309e40d97)
+[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905)
 
-**Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | **Published:** 2026-07-26 | **Heat:** 24
+**Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 24
 
-**Stability:** 78/100
+**Stability:** 66/100
 
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 78.3) · [output](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 65.9) · [output](https://media.goodcase.ai/retests/2000-minidv-5cceb6310905/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 <details>
-<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+<summary><b>Full prompt (28 lines, click to expand)</b></summary>
 
 ```
-Create a 15-second seamless architectural space renovation animation.
+Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
 
-The camera remains completely fixed in the exact same position, angle, focal length, perspective, and composition throughout the entire video. No camera push-in, pull-out, panning, rotation, zoom, handheld shake, or reframing. Room dimensions, walls, windows, doors, ceiling height, and structural layout remain completely unchanged throughout the transformation.
+Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
 
-0–3 seconds:
-The scene begins as a rough, unfinished interior with exposed cement walls, raw concrete flooring, exposed ceiling, visible construction materials, and an empty space. Dust settles naturally while the environment remains static. The floor installation begins, gradually spreading from left to right until the entire concrete floor transforms into premium microcement or elegant large-format light grey tiles.
+Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
 
-3–6 seconds:
-Walls and ceiling begin transforming simultaneously. Rough cement walls smoothly become perfectly finished creamy-white walls. Wood veneer panels, decorative wall mouldings, built-in storage cabinets, TV feature walls, suspended ceiling structures, recessed lighting channels, and hidden LED strip lighting appear naturally in their correct architectural positions as though installed by invisible craftsmen.
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
 
-6–9 seconds:
-Electrical fixtures, doors, window frames, skirting boards, switches, sockets, and architectural details complete themselves with realistic construction logic. Ambient lighting gradually powers on, filling the room with soft, warm illumination while maintaining a natural daylight balance.
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
 
-9–12 seconds:
-Furniture and soft furnishings assemble sequentially. Luxury sofas, coffee tables, dining furniture, rugs, curtains, indoor plants, decorative artwork, lighting fixtures, books, cushions, and decorative accessories naturally move into place piece by piece, resembling a real construction and interior installation time-lapse.
+00:00–00:03
+She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
 
-12–15 seconds:
-The renovation reaches its final premium interior design. Every object settles perfectly into position while the lighting subtly adjusts to create a luxurious atmosphere. The completed room remains perfectly still for the final second, allowing viewers to appreciate the finished transformation.
+00:03–00:06
+She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
 
-Overall style:
-Ultra-realistic architectural visualization, photorealistic materials, premium luxury interior design portfolio quality, realistic construction time-lapse, physically accurate lighting, smooth seamless transitions, natural installation logic, cinematic realism, highly detailed textures, clean modern luxury aesthetic, 8K quality.
+00:06–00:09
+She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
 
-Negative prompt:
-People, workers, text, logos, watermarks, camera movement, zoom, panning, rotation, handheld shake, changing room dimensions, structural deformation, floating objects, object misalignment, duplicate furniture, unrealistic assembly, blurry, low quality, flickering, artifacts, oversaturated colors, distorted perspective.
+00:09–00:12
+She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
+
+00:12–00:15
+She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
+
+Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
+
+Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.
 ```
 
 </details>
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429309e40d97)**
-
-### Cinematic Morning Fitness Routine
-
-> A 15-second cinematic GRWM video prompt for an outdoor morning workout while maintaining the identity consistency of the reference character.
-
-[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="Cinematic Morning Fitness Routine">](https://goodcase.ai/cases/case-3bdeb046587d)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2081222954659234074) | **Published:** 2026-07-26 | **Heat:** 24
-
-**Stability:** 84/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 84.4) · [output](https://media.goodcase.ai/retests/case-3bdeb046587d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-Using the attached character reference, create a 15-second ultra-realistic cinematic GRWM (Get Ready With Me) video featuring the exact same young Korean East Asian woman with consistent facial features, hairstyle, glowing skin, body proportions, and identity throughout the sequence. She wears a white fitted athletic crop top, high-waisted red leggings, white running sneakers, a lightweight smartwatch, and a high ponytail throughout the outdoor workout.
-
-The video opens with her peacefully waking up in a bright modern bedroom as soft sunrise light streams through the curtains. She smiles, stretches naturally, washes her face, brushes her teeth, completes a quick skincare routine, and changes into her white crop top and red leggings. She ties her hair into a neat high ponytail, fastens her smartwatch, laces her sneakers, picks up a yoga mat, reusable water bottle, and wireless earbuds, then heads outside.
-
-She steps onto a lush green lawn surrounded by blooming flowers and tall trees glowing in the golden morning light. She begins with gentle stretching, yoga poses, squats, lunges, planks, push-ups, jumping jacks, and light jogging across the grass. Cinematic tracking shots capture realistic hair movement, natural breathing, and dew sparkling beneath her shoes. Macro shots highlight her smartwatch tracking heart rate, shoes brushing fresh grass, hands reaching toward the sky, and sunlight illuminating her face.
-
-After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh strawberry smoothie in a modern kitchen, pours it into a glass, walks to a sunlit window, notices the camera, smiles warmly, raises the smoothie toward the viewer in a friendly toast, and enjoys the peaceful morning as the camera slowly pulls back.
-
-Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimbal camera movement, shallow depth of field, premium lifestyle cinematography, realistic skin texture, natural hair physics, physically accurate sunrise lighting, warm golden-hour atmosphere, glossy commercial-quality color grading, 4K HDR, 16:9, with natural ambient audio only (birds chirping, gentle breeze, rustling leaves, footsteps on grass, breathing, water bottle opening, smoothie blending), no background music, subtitles, logos, watermarks, or on-screen text.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3bdeb046587d)**
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905)**
 
 ### Mango Juice Commercial
 
@@ -3261,6 +3184,52 @@ Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1f7a27e4c448)**
 
+### Architectural Space Renovation Time-Lapse
+
+> A precise video prompt for creating a seamless architectural renovation animation, showing the transformation from an unfinished concrete room into a luxurious interior space.
+
+[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="Architectural Space Renovation Time-Lapse">](https://goodcase.ai/cases/case-429309e40d97)
+
+**Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | **Published:** 2026-07-26 | **Heat:** 23
+
+**Stability:** 78/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 78.3) · [output](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+Create a 15-second seamless architectural space renovation animation.
+
+The camera remains completely fixed in the exact same position, angle, focal length, perspective, and composition throughout the entire video. No camera push-in, pull-out, panning, rotation, zoom, handheld shake, or reframing. Room dimensions, walls, windows, doors, ceiling height, and structural layout remain completely unchanged throughout the transformation.
+
+0–3 seconds:
+The scene begins as a rough, unfinished interior with exposed cement walls, raw concrete flooring, exposed ceiling, visible construction materials, and an empty space. Dust settles naturally while the environment remains static. The floor installation begins, gradually spreading from left to right until the entire concrete floor transforms into premium microcement or elegant large-format light grey tiles.
+
+3–6 seconds:
+Walls and ceiling begin transforming simultaneously. Rough cement walls smoothly become perfectly finished creamy-white walls. Wood veneer panels, decorative wall mouldings, built-in storage cabinets, TV feature walls, suspended ceiling structures, recessed lighting channels, and hidden LED strip lighting appear naturally in their correct architectural positions as though installed by invisible craftsmen.
+
+6–9 seconds:
+Electrical fixtures, doors, window frames, skirting boards, switches, sockets, and architectural details complete themselves with realistic construction logic. Ambient lighting gradually powers on, filling the room with soft, warm illumination while maintaining a natural daylight balance.
+
+9–12 seconds:
+Furniture and soft furnishings assemble sequentially. Luxury sofas, coffee tables, dining furniture, rugs, curtains, indoor plants, decorative artwork, lighting fixtures, books, cushions, and decorative accessories naturally move into place piece by piece, resembling a real construction and interior installation time-lapse.
+
+12–15 seconds:
+The renovation reaches its final premium interior design. Every object settles perfectly into position while the lighting subtly adjusts to create a luxurious atmosphere. The completed room remains perfectly still for the final second, allowing viewers to appreciate the finished transformation.
+
+Overall style:
+Ultra-realistic architectural visualization, photorealistic materials, premium luxury interior design portfolio quality, realistic construction time-lapse, physically accurate lighting, smooth seamless transitions, natural installation logic, cinematic realism, highly detailed textures, clean modern luxury aesthetic, 8K quality.
+
+Negative prompt:
+People, workers, text, logos, watermarks, camera movement, zoom, panning, rotation, handheld shake, changing room dimensions, structural deformation, floating objects, object misalignment, duplicate furniture, unrealistic assembly, blurry, low quality, flickering, artifacts, oversaturated colors, distorted perspective.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429309e40d97)**
+
 ### Retro Japanese POV Vlog
 
 > An early-21st-century MiniDV camcorder nostalgia-style prompt designed for Seedance 2.0, capturing a fun everyday vlog filmed by a Japanese woman during golden hour.
@@ -3315,6 +3284,37 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/pov-vlog-c94d5709daa4)**
+
+### Cinematic Morning Fitness Routine
+
+> A 15-second cinematic GRWM video prompt for an outdoor morning workout while maintaining the identity consistency of the reference character.
+
+[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="Cinematic Morning Fitness Routine">](https://goodcase.ai/cases/case-3bdeb046587d)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2081222954659234074) | **Published:** 2026-07-26 | **Heat:** 23
+
+**Stability:** 84/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 84.4) · [output](https://media.goodcase.ai/retests/case-3bdeb046587d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (9 lines, click to expand)</b></summary>
+
+```
+Using the attached character reference, create a 15-second ultra-realistic cinematic GRWM (Get Ready With Me) video featuring the exact same young Korean East Asian woman with consistent facial features, hairstyle, glowing skin, body proportions, and identity throughout the sequence. She wears a white fitted athletic crop top, high-waisted red leggings, white running sneakers, a lightweight smartwatch, and a high ponytail throughout the outdoor workout.
+
+The video opens with her peacefully waking up in a bright modern bedroom as soft sunrise light streams through the curtains. She smiles, stretches naturally, washes her face, brushes her teeth, completes a quick skincare routine, and changes into her white crop top and red leggings. She ties her hair into a neat high ponytail, fastens her smartwatch, laces her sneakers, picks up a yoga mat, reusable water bottle, and wireless earbuds, then heads outside.
+
+She steps onto a lush green lawn surrounded by blooming flowers and tall trees glowing in the golden morning light. She begins with gentle stretching, yoga poses, squats, lunges, planks, push-ups, jumping jacks, and light jogging across the grass. Cinematic tracking shots capture realistic hair movement, natural breathing, and dew sparkling beneath her shoes. Macro shots highlight her smartwatch tracking heart rate, shoes brushing fresh grass, hands reaching toward the sky, and sunlight illuminating her face.
+
+After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh strawberry smoothie in a modern kitchen, pours it into a glass, walks to a sunlit window, notices the camera, smiles warmly, raises the smoothie toward the viewer in a friendly toast, and enjoys the peaceful morning as the camera slowly pulls back.
+
+Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimbal camera movement, shallow depth of field, premium lifestyle cinematography, realistic skin texture, natural hair physics, physically accurate sunrise lighting, warm golden-hour atmosphere, glossy commercial-quality color grading, 4K HDR, 16:9, with natural ambient audio only (birds chirping, gentle breeze, rustling leaves, footsteps on grass, breathing, water bottle opening, smoothie blending), no background music, subtitles, logos, watermarks, or on-screen text.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3bdeb046587d)**
 
 ### Smartwatch Product Lifestyle Ad
 
@@ -3426,24 +3426,6 @@ No superhero references, no existing copyrighted characters, no green superhero 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f)**
 
-### Retro 16mm Aerobics Fitness Vlog
-
-> A cinematic prompt for creating a nostalgic early-2000s-style fitness vlog starring a Korean idol, emphasizing authentic handheld camerawork and a lo-fi videotape texture.
-
-[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="Retro 16mm Aerobics Fitness Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)
-
-**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | **Published:** 2026-07-25 | **Heat:** 21
-
-**Stability:** 81/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.8) · [output](https://media.goodcase.ai/retests/16mm-vlog-c8cfec0d8310/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)**
-
 ### Ghibli-Style Starbucks Ad
 
 > A warm and cheerful 2D animated Starbucks coffee ad prompt that blends Ghibli aesthetics, urban life scenes, and lively animation performance.
@@ -3521,177 +3503,6 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f)**
 
-### A Wordless Love Through Sign Language
-
-> Spent a lot of time with Velvet Skies 🌌❤️, incorporating every scene, and shots tried to get those emotions without spe
-
-[<img src="https://media.goodcase.ai/media/poster/abulu8-seedance-ai-fe02d3785b12.jpg" width="600" alt="A Wordless Love Through Sign Language">](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12)
-
-**Author:** @abulu8 | **Source:** [Original](https://x.com/abulu8/status/2092917994251075961) | **Published:** 2026-08-27 | **Heat:** 21
-
-**Stability:** 62/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 62) · [output](https://media.goodcase.ai/retests/abulu8-seedance-ai-fe02d3785b12/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (149 lines, click to expand)</b></summary>
-
-```
-Spent a lot of time with Velvet Skies 🌌❤️, incorporating every scene, and shots tried to get those emotions without speaking... 
-
-Seedance 2.0 in @higgsfield_ai 
-
-👇 Whole prompt package; you can just replace the character. 
-
-PACKAGE 1 · 15s · 16:9 · 2 refs · 7 shots, 6 cuts
-
-SCENE A wordless romantic montage in the register of a mid-1990s Japanese television drama. Part one: a quiet office worker notices a woman, and starts teaching himself sign language.
-
-ACTIVE REFERENCES Match faces and identity to the references; wardrobe is specified per shot below and overrides the reference clothing. @Romeo — the man. Early twenties, mid-length wavy black hair to the jaw, calm face, faint closed-lip smile. @Juliet — the woman. Early twenties, long loose black hair past the shoulders, warm open smile, thin gold chain, small gold hoops. Hands in every insert match the hands of the matching reference — same size, proportion and skin tone.
-
-FORMAT Seven shots, 15s, six HARD CUTS, no fades. Every shot the same length. Cuts only at the specified points; the camera does not cut on its own. Only ever moves forward — never loops or reverses.
-
-FRAMING NOTES 47° = neutral human perspective; 29° = tight medium, background softly compressed; 18° = close-up, background melted; 12° = detail insert. Locked within each segment, no drift.
-
-0-2.1s SHOT 1 — 47°, framed 2m behind him at 1.5m, static. Open-plan office, soft cool overcast light from a window screen-left. @Romeo at x50 y50 seen from behind at a desk in a white dress shirt, visible at 0.0s. No empty frame. He turns his head left into profile and holds. A colleague crosses the far background screen-right carrying a folder. HARD CUT.
-
-2.1-4.3s SHOT 2 — 18°, framed 0.8m from his face at 1.5m, static. @Romeo at x50 y45 in tight profile, filling the frame, office softness behind. He looks off screen-left with quiet intensity, eyes steady, jaw set, lips closed. HARD CUT.
-
-4.3-6.4s SHOT 3 — 47°, framed 3m out at 1.5m, static. Dimmer office light, deeper shadows. @Juliet at x55 y50 steps in through a doorway in a dark wool coat, flustered, raising one hand to push her hair back off her face. Her coat swings and settles. HARD CUT.
-
-6.4-8.6s SHOT 4 — 29°, framed 2.5m out at 1.5m, static. @Juliet at x45 y50 stands nearer the lens and thrown soft, back three-quarters to camera. @Romeo at x58 y48 stands behind her, sharp and in focus, in a white dress shirt, watching her intently without moving. HARD CUT.
-
-8.6-10.7s SHOT 5 — 29°, framed 1.5m out at 1.5m, static. A bright window blows out behind him, rimming his hair and shoulders. @Romeo at x50 y50 lowers his eyes and looks down, thoughtful, almost shy, the faintest smile at one corner. HARD CUT.
-
-10.7-12.9s SHOT 6 — 12°, framed 0.4m from his hands at 1.2m, static. @Romeo's hands hold a slim beginner's Japanese sign-language book, its cover showing simple line diagrams of hand shapes and Japanese lettering, a brown leather strap watch on the left wrist. His thumb moves down the page. HARD CUT.
-
-12.9-15.0s SHOT 7 — 47°, framed 3m out at 1.4m, static. Outdoors, late golden sun through trees. @Romeo at x35 y55 in the near foreground, thrown soft, now in a sage-green shirt over a white tee, the book open in his hands. @Juliet at x68 y50 sharp in the background in a cream knit top and rust skirt, smiling at him. A cyclist passes on the path behind her screen-left.
-
-PERFORMANCE Nobody speaks. Lips stay closed and still in every shot. No dialogue, no voiceover, no offscreen voices, no subtitles, no on-screen text. Emotion carried entirely by eyes, small smiles and hand movement.
-
-PHYSICS Real weight and follow-through. His hair lags behind the head turn and settles. The coat swings on her stride. Her hair falls back against her hand. Book pages have thickness and bend.
-
-LIGHTING Shots 1-2: soft cool overcast window light as key, dim office fill. Shot 3: lower key, deeper shadow, more contrast. Shots 4-6: bright window behind as backlight with soft bounce into the faces. Shot 7: low golden sun as backlight, warm bounce, long shadows.
-
-STYLE Photoreal live action shot on colour negative film: fine grain, low contrast, gentle highlight roll-off, soft warm cast with faintly cool shadows, mild halation on bright edges, shallow natural depth of field, natural skin tones, no digital sharpening. The unhurried framing of a mid-1990s television drama. 16:9.
-
-AUDIO Ambience only, recorded clean for scoring in post — quiet office room tone, keyboards, a distant phone, footsteps, birds and wind outdoors. No music, no dialogue.
-
-POSITIVE LOCKS Faces, hands, hair and jewellery identical across all seven shots. Only these two people are ever in focus; background figures stay anonymous and unfocused, and every one keeps moving. Every shot is static and real time.
-
-PACKAGE 2 · 15s · 16:9 · 2 refs · 7 shots, 6 cuts
-
-SCENE A wordless romantic montage in the register of a mid-1990s Japanese television drama. Part two: the same couple, from a golden afternoon into night.
-
-ACTIVE REFERENCES Match faces and identity to the references; wardrobe is specified below and overrides the reference clothing. @Romeo — the man. Early twenties, mid-length wavy black hair to the jaw, calm face, faint closed-lip smile. Throughout: sage-green shirt over a white tee, brown leather strap watch on the left wrist. @Juliet — the woman. Early twenties, long loose black hair past the shoulders, warm open smile, thin gold chain, small gold hoops. Throughout: cream knit top and rust-brown skirt. Hands in every insert match the hands of the matching reference — same size, proportion and skin tone.
-
-FORMAT Seven shots, 15s, six HARD CUTS, no fades. Every shot the same length. Cuts only at the specified points; the camera does not cut on its own. Only ever moves forward — never loops or reverses.
-
-FRAMING NOTES 84° = wide establish; 29° = tight medium, background softly compressed; 18° = close-up, background melted; 12° = detail insert. Locked within each segment, no drift.
-
-0-2.1s SHOT 1 — 18°, framed 1m from her face at 1.5m, static. Outdoors, late golden sun. @Juliet at x50 y45 fills the frame, visible at 0.0s, golden backlight through her hair. No empty frame. She smiles wide and warm, one hand rising near her cheek, fingers open and relaxed. HARD CUT.
-
-2.1-4.3s SHOT 2 — 29°, framed 1.5m out at 1.5m, static. Same golden light. @Romeo at x50 y50 lowers his eyes and looks down, then smiles gently to himself, shoulders easing. HARD CUT.
-
-4.3-6.4s SHOT 3 — 18°, framed 1m from his face at 1.5m, static. @Romeo at x50 y48 lifts the beginner's sign-language book and holds it across the lower half of his face, covering mouth and nose, only his eyes above the edge, still smiling. HARD CUT.
-
-6.4-8.6s SHOT 4 — 84°, framed 5m out at 1.0m, static. A wide green park in flat bright daylight, trees behind. @Romeo at x42 y62 and @Juliet at x56 y62 sit facing each other on the grass, both with hands raised at chest height, copying the same sign back and forth and laughing silently. A jogger crosses the far background screen-right. HARD CUT.
-
-8.6-10.7s SHOT 5 — 29°, framed 1.5m out at 1.6m, static. Night. @Juliet at x50 y50 tilts her face up toward city lights, warm bokeh filling the background, her hands lifted near her chin in a small soft gesture. Traffic streaks far behind her. HARD CUT.
-
-10.7-12.9s SHOT 6 — 18°, framed 1m from his face at 1.5m, static. Night. @Romeo at x50 y48 in profile, warm street lamps and shop signs melted into bokeh behind him. He raises both hands into frame and signs, lips closed and still, eyes on her off screen-right. A couple crosses the far pavement behind him. HARD CUT.
-
-12.9-15.0s SHOT 7 — 12°, framed 0.5m from their hands at 1.0m, static. Night. Heavy golden bokeh from city lights fills the whole background. Their hands meet at x50 y58 in the lower centre of frame — his fingers close gently around hers, skin creasing under soft pressure, and stay.
-
-PERFORMANCE Nobody speaks. Lips stay closed and still in every shot. No dialogue, no voiceover, no offscreen voices, no subtitles, no on-screen text. Emotion carried entirely by eyes, small smiles and hand movement.
-
-PHYSICS Real weight and follow-through. Her hair lifts and settles as she tilts her head. Book pages have thickness and bend. Fingers move with real joint articulation in every sign. Soft visible pressure where their hands meet.
-
-LIGHTING Shots 1-3: low golden sun as backlight, warm bounce into the faces, long shadows. Shot 4: flat bright open daylight. Shots 5-7: no key on the faces, only warm city bokeh and street lamps behind, faces lit by soft ambient spill.
-
-STYLE Photoreal live action shot on colour negative film: fine grain, low contrast, gentle highlight roll-off, soft warm cast with faintly cool shadows, mild halation on bright edges, shallow natural depth of field, natural skin tones, no digital sharpening. The unhurried framing of a mid-1990s television drama. 16:9.
-
-AUDIO Ambience only, recorded clean for scoring in post — birds and wind in the park, distant children, evening traffic, faint city hum at night. No music, no dialogue.
-
-POSITIVE LOCKS Faces, hands, hair, wardrobe and jewellery identical across all seven shots and matching part one. Only these two people are ever in focus; background figures stay anonymous and unfocused, and every one keeps moving. Every shot is static and real time.
-
-PACKAGE 3 · 15s · 16:9 · 2 refs · 7 shots, 6 cuts
-
-SCENE A wordless romantic montage in the register of a mid-1990s Japanese television drama. Part three: a night together, then a quiet evening indoors.
-
-ACTIVE REFERENCES Match faces and identity to the references; wardrobe is specified below and overrides the reference clothing. @Romeo — the man. Early twenties, mid-length wavy black hair to the jaw, calm face, faint closed-lip smile. Throughout: sage-green shirt over a white tee, brown leather strap watch on the left wrist. @Juliet — the woman. Early twenties, long loose black hair past the shoulders, warm open smile, thin gold chain, small gold hoops. Throughout: cream knit top and rust-brown skirt. Hands in every insert match the hands of the matching reference — same size, proportion and skin tone.
-
-FORMAT Seven shots, 15s, six HARD CUTS, no fades. Every shot the same length. Cuts only at the specified points; the camera does not cut on its own. Only ever moves forward — never loops or reverses.
-
-FRAMING NOTES 84° = wide establish; 29° = tight medium, background softly compressed; 18° = close-up, background melted; 12° = detail insert. Locked within each segment, no drift.
-
-0-2.1s SHOT 1 — 12°, framed 0.6m from their hands at 1.0m, static. Night, heavy warm bokeh from city lights filling the background. Their joined hands at x50 y55, visible at 0.0s, his fingers laced through hers. No empty frame. Her thumb moves slowly across the back of his hand. HARD CUT.
-
-2.1-4.3s SHOT 2 — 18°, framed 1m from his face at 1.5m, static. Night, warm bokeh behind. @Romeo at x50 y48 fills the frame, a soft smile spreading, eyes shining and steady on her off screen-right. HARD CUT.
-
-4.3-6.4s SHOT 3 — 18°, framed 1m from her face at 1.5m, static. Night, matching warm bokeh, matching framing. @Juliet at x50 y48 tilts her face slightly upward, lips parting into a gentle smile, eyes soft and unguarded. HARD CUT.
-
-6.4-8.6s SHOT 4 — 84°, framed 8m out at 1.6m, static. A vast illuminated tree of thousands of warm fairy lights fills the upper frame. @Romeo at x46 y66 and @Juliet at x54 y66 stand small below it, hand in hand, backs three-quarters to camera, looking up. Two visitors cross the far background screen-left. HARD CUT.
-
-8.6-10.7s SHOT 5 — 29°, framed 1.5m out at 1.2m, static. Indoors at night, a single warm table lamp screen-right as the only source. @Romeo at x50 y50 sits at a low table, cheek resting in his palm, elbow down, smiling softly to himself. HARD CUT.
-
-10.7-12.9s SHOT 6 — 29°, framed 1.5m out at 1.2m, static. Same lamp light, same room. @Juliet at x50 y50 sits looking down at a single folded sheet of writing paper held in both hands, reading, a smile building as she reads. HARD CUT.
-
-12.9-15.0s SHOT 7 — 18°, framed 1m from her face at 1.2m, static. @Juliet at x50 y48 lifts the sheet of paper and holds it across the lower half of her face, playful, only her eyes above the edge, crinkled with the smile behind it.
-
-PERFORMANCE Nobody speaks. Lips stay closed and still in every shot. No dialogue, no voiceover, no offscreen voices, no subtitles, no on-screen text. Emotion carried entirely by eyes, small smiles and hand movement.
-
-PHYSICS Real weight and follow-through. Soft visible pressure where their hands meet, skin creasing under the grip. Her hair shifts and settles as she tilts her head. The paper has real weight and bends slightly as she lifts it.
-
-LIGHTING Shots 1-4: no key on the faces, only warm city bokeh and fairy lights behind, faces lit by soft ambient spill. Shots 5-7: a single warm tungsten table lamp as key from screen-right, deep soft falloff into the room, everything beyond the table in shadow.
-
-STYLE Photoreal live action shot on colour negative film: fine grain, low contrast, gentle highlight roll-off, soft warm cast with faintly cool shadows, mild halation on bright edges, shallow natural depth of field, natural skin tones, no digital sharpening. The unhurried framing of a mid-1990s television drama. 16:9.
-
-AUDIO Ambience only, recorded clean for scoring in post — faint city hum and distant traffic at night, quiet room tone indoors, paper rustling. No music, no dialogue.
-
-POSITIVE LOCKS Faces, hands, hair, wardrobe and jewellery identical across all seven shots and matching parts one and two. Only these two people are ever in focus; background figures stay anonymous and unfocused, and every one keeps moving. Every shot is static and real time.
-
-PACKAGE 4 · 15s · 16:9 · 2 refs · 7 shots, 6 cuts
-
-SCENE A wordless romantic montage in the register of a mid-1990s Japanese television drama. Part four: a bright winter together, and a happy ending.
-
-ACTIVE REFERENCES Match faces and identity to the references; wardrobe is specified below and overrides the reference clothing. @Romeo — the man. Early twenties, mid-length wavy black hair to the jaw, calm face. Throughout: a cream cable-knit sweater, brown leather strap watch on the left wrist. @Juliet — the woman. Early twenties, long loose black hair past the shoulders, warm open smile, small gold hoops. Throughout: a dark wool coat over a cream knit top, with a soft rust-red wool scarf. Hands in every insert match the hands of the matching reference — same size, proportion and skin tone.
-
-FORMAT Seven shots, 15s, six HARD CUTS, no fades. Shot 4 runs 3.0s; every other shot runs 2.0s. Cuts only at the specified points; the camera does not cut on its own. Only ever moves forward — never loops or reverses.
-
-FRAMING NOTES 47° = neutral human perspective; 29° = tight medium, background softly compressed; 18° = close-up, background melted. Locked within each segment, no drift.
-
-0-2.0s SHOT 1 — 18°, framed 1m from his face at 1.5m, static. Outdoors, bright flat winter daylight, bare trees melted behind. @Romeo at x50 y48 fills the frame, visible at 0.0s, in the cream sweater. No empty frame. He breaks into a wide open smile, eyes creasing, breath faintly visible in the cold. HARD CUT.
-
-2.0-4.0s SHOT 2 — 18°, framed 1m from her face at 1.5m, static. Matching daylight, matching framing. @Juliet at x50 y48 in the coat and rust-red scarf laughs freely with her eyes closed, head tipping back a little, hair moving. HARD CUT.
-
-4.0-6.0s SHOT 3 — 18°, framed 0.7m from her face at 1.5m, static. Same light, closer. @Juliet at x50 y48 opens her eyes and settles into a quieter smile, softer and more serious, looking directly off screen-left at him. HARD CUT.
-
-6.0-9.0s SHOT 4 — 29°, framed 1.2m out at 1.6m, static. Night, warm city bokeh filling the background. @Romeo at x44 y48 and @Juliet at x56 y48 stand close, foreheads resting together, eyes closed, breath visible between them. They hold there. Then she tilts her chin up, he leans down, and they kiss softly — unhurried, lips closed, one of his hands rising to the side of her face. They stay in it as the shot ends. HARD CUT.
-
-9.0-11.0s SHOT 5 — 47°, framed 2.5m out at 1.5m, static. Indoors, a warm celebration, string lights and candlelight. @Romeo at x44 y50 and @Juliet at x56 y50 stand together laughing, coat and scarf off, she in the cream knit. Three friends stand close around them within arm's reach, each raising a glass and turning to them. HARD CUT.
-
-11.0-13.0s SHOT 6 — 47°, framed 3m out at 1.2m, static. Outdoors, bright open daylight, grass and bare trees. @Romeo at x44 y58 and @Juliet at x56 y58 sit together on the grass, coat and scarf back on, both smiling. She holds the string of a blue dolphin-shaped foil balloon that drifts above them. A dog walker passes the far background screen-right. HARD CUT.
-
-13.0-15.0s SHOT 7 — 29°, framed 1.5m out at 1.3m, static. Same daylight, same grass. @Romeo at x44 y52 lifts the blue dolphin balloon in front of @Juliet's face at x56 y52, hiding it for a beat. She pushes it aside with one hand and both break into open laughter.
-
-PERFORMANCE Nobody speaks. Lips stay closed and still in every shot; laughter is silent and physical, in the eyes, cheeks and shoulders. The kiss in shot 4 is the only mouth movement in the piece. No dialogue, no voiceover, no offscreen voices, no subtitles, no on-screen text.
-
-PHYSICS Real weight and follow-through. Her hair swings and settles when her head tips back. The scarf shifts against her neck. The foil balloon has almost no weight — it lags, drifts and bobs on its string with every movement, never falling straight.
-
-LIGHTING Shots 1-3: bright flat overcast winter daylight, soft and shadowless on the faces. Shot 4: no key, only warm city bokeh behind and soft ambient spill. Shot 5: warm string lights and candles as practicals, low and golden. Shots 6-7: bright open daylight, warm and clean.
-
-STYLE Photoreal live action shot on colour negative film: fine grain, low contrast, gentle highlight roll-off, soft warm cast with faintly cool shadows, mild halation on bright edges, shallow natural depth of field, natural skin tones, no digital sharpening. The unhurried framing of a mid-1990s television drama. 16:9.
-
-AUDIO Ambience only, recorded clean for scoring in post — cold wind and distant birds outdoors, faint city hum at night, warm room murmur and glassware at the celebration. No music, no dialogue.
-
-POSITIVE LOCKS Faces, hands, hair and jewellery identical across all seven shots and matching parts one to three. @Romeo stays frame-left and @Juliet frame-right in every two-person shot. Only these two are ever in focus; everyone else stays anonymous and unfocused, and every one keeps moving. Every shot is static and real time.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12)**
-
 ### Stop-Motion Clay Miniature Nutella Cafe
 
 > A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
@@ -3722,5 +3533,66 @@ Smooth isometric and eye-level camera transitions, macro lens perspective, warm 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)**
 
+### Retro 16mm Aerobics Fitness Vlog
 
-← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.md)
+> A cinematic prompt for creating a nostalgic early-2000s-style fitness vlog starring a Korean idol, emphasizing authentic handheld camerawork and a lo-fi videotape texture.
+
+[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="Retro 16mm Aerobics Fitness Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)
+
+**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | **Published:** 2026-07-25 | **Heat:** 20
+
+**Stability:** 81/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.8) · [output](https://media.goodcase.ai/retests/16mm-vlog-c8cfec0d8310/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)**
+
+### Premium Tropical Drink UGC Ad
+
+> A detailed multi-scene video prompt for a premium tropical drink ad, showing a woman on the beach with cinematic handheld shots and macro close-ups.
+
+[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="Premium Tropical Drink UGC Ad">](https://goodcase.ai/cases/ugc-34764467dea1)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | **Published:** 2026-07-14 | **Heat:** 20
+
+**Stability:** 77/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (21 lines, click to expand)</b></summary>
+
+```
+Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
+
+The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
+
+She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
+
+She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
+
+She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
+
+The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
+
+As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
+
+The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
+
+The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
+
+Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
+
+Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-34764467dea1)**
+
+
+← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.md) · [Part 4](./gallery-seedance-2-0-part-4.md)

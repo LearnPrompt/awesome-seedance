@@ -1,10 +1,10 @@
-# Seedance 2.0 — Full Gallery (Part 1/3)
+# Seedance 2.0 — Full Gallery (Part 1/4)
 
 All 275 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
 This page: cases 1–93 of 275.
 
-← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md)
+← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · [Part 4](./gallery-seedance-2-0-part-4.md)
 
 ### Dynamic Promo for a Modern AI Inference Startup
 
@@ -769,7 +769,7 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 
 [<img src="https://media.goodcase.ai/cases/dcc163d4e56d.jpg" width="600" alt="Urban Police Chase and Explosive Getaway">](https://goodcase.ai/cases/seedance-police-chase-621254905333)
 
-**Author:** @Aria_Nawi | **Source:** [Original](https://x.com/Aria_Nawi/status/2098461817555374451) | **Published:** 2026-09-11 | **Heat:** 89
+**Author:** @Aria_Nawi | **Source:** [Original](https://x.com/Aria_Nawi/status/2098461817555374451) | **Published:** 2026-09-11 | **Heat:** 88
 
 <details>
 <summary><b>Full prompt (6 lines, click to expand)</b></summary>
@@ -2250,22 +2250,6 @@ Zadanie: Model ma wykonać zadanie bzez pomoicy ze strony człowieka.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-celem-jest-wykonanie-maksymalnie-90-sekundowego-klipu-promocyjnego-pod-tytu-11f2fef80247)**
 
-### Schoolgirl Walking Toward the Camera in a Chaotic Classroom
-
-> Turning a chaotic classroom into a cinematic AI scene.Realistic motion, natural emotions, and stunning details. Created on seedance 2.0 Prompt: 15-second cinema…
-
-[<img src="https://media.goodcase.ai/cases/bca18a62af47.jpg" width="600" alt="Schoolgirl Walking Toward the Camera in a Chaotic Classroom">](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db)
-
-**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2100787710424416603) | **Published:** 2026-09-18 | **Heat:** 83
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 81.9) · [output](https://media.goodcase.ai/retests/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db)**
-
 ### Warrior and White Dragon Shatter a Molten Celestial Orb
 
 > Darkness awakens A warrior an ancient dragon and a celestial power collide in an epic fantasy battle. Made with seedance
@@ -2327,6 +2311,22 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-142119be6421)**
+
+### Schoolgirl Walking Toward the Camera in a Chaotic Classroom
+
+> Turning a chaotic classroom into a cinematic AI scene.Realistic motion, natural emotions, and stunning details. Created on seedance 2.0 Prompt: 15-second cinema…
+
+[<img src="https://media.goodcase.ai/cases/bca18a62af47.jpg" width="600" alt="Schoolgirl Walking Toward the Camera in a Chaotic Classroom">](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db)
+
+**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2100787710424416603) | **Published:** 2026-09-18 | **Heat:** 82
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 81.9) · [output](https://media.goodcase.ai/retests/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+15-second cinematic video prompt: A realistic young Korean schoolgirl stands in the center of a messy classroom, wearing a white short-sleeve school uniform shirt with a red ribbon tie and a dark gray pleated skirt, while several students sit and move around behind her. Books, papers, notebooks, and classroom objects are scattered and flying through the air, creating a chaotic but realistic atmosphere. She slowly walks forward toward the camera with a serious, calm expression while the background students react naturally to the sudden chaos. The camera tracks backward smoothly, keeping her centered in a vertical 9:16 composition with realistic handheld movement. Papers and objects continue falling around her with believable gravity, motion blur, and natural physics. Around the middle of the video, she raises one hand slightly while continuing to approach the camera, maintaining the same face, hairstyle, uniform, and body proportions. In the final seconds, the camera moves closer to her face as she gently brushes her hair away from her eyes, looking directly into the lens with a subtle emotional expression. Use natural classroom lighting, realistic skin texture, detailed fabric, authentic shadows, cinematic depth of field, and photorealistic visuals throughout, with smooth continuous motion and no cuts.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db)**
 
 ### Cats Chasing via Red Mini Motorcycle
 
@@ -2638,110 +2638,6 @@ Style: Continuous fluid camera glides, seamless cross-blur transitions, cinemati
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/shamiweb3-seedance-ai-5620b354e47d)**
 
-### Fashion Suspect Wanted for Beauty
-
-> Wanted for beauty. Guilty of stealing every frame. 🖤🍒 A little attitude, a little trouble, and a whole lot of fashion energy. This mugshot was never going to …
-
-[<img src="https://media.goodcase.ai/cases/b0f02d1854e3.jpg" width="600" alt="Fashion Suspect Wanted for Beauty">](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-smooth-luxury-fashion-editorial-video-using-the-86b7f97bc9d3)
-
-**Author:** @Caden_Flux | **Source:** [Original](https://x.com/Caden_Flux/status/2103788406392213575) | **Published:** 2026-09-26 | **Heat:** 77
-
-<details>
-<summary><b>Full prompt (86 lines, click to expand)</b></summary>
-
-```
-Create a 15-second fast-paced, smooth luxury fashion editorial video using the character sheet as the visual reference.
-
-Keep the same woman, face, brunette hair, fur jacket, red crop top, distressed denim, chains, makeup, and overall styling consistent throughout. Preserve her playful, confident, slightly mischievous personality.
-
-The video should feel like a fashion mugshot mixed with a playful “wanted for beauty” campaign.
-
-0–3s — THE MUGSHOT
-
-Start with a sharp full-body mugshot composition in front of the height chart.
-
-She looks directly into camera.
-
-Quick smooth push-in → she gives a playful wink → instantly cuts to her holding the “WANTED FOR BEAUTY” board.
-
-She slowly tilts the board toward camera with attitude.
-
-3–6s — BEAUTY DETAILS
-
-Move into a rapid but smooth beauty montage:
-
-wink → glossy lips → red nails → lollipop → fur jacket texture → chain details → sunglasses → playful smile.
-
-Use smooth snap zooms and seamless whip transitions.
-
-Each shot should be very short, around 0.3–0.6 seconds, but transitions should remain fluid and polished.
-
-6–9s — PLAYFUL TROUBLEMAKER
-
-Return to the full mugshot.
-
-She casually leans toward one side while maintaining her confident stance.
-
-Quick smooth camera orbit around her → she puts on sunglasses → looks over the sunglasses directly at camera → gives a mischievous smile.
-
-Add subtle camera flash bursts like paparazzi photographers are surrounding her.
-
-9–12s — FAST FASHION MONTAGE
-
-Rapidly showcase:
-
-fur coat → red top → belt and chains → distressed jeans → lollipop → lips → eyes → sunglasses.
-
-Use smooth continuous camera movement between each detail, with quick editorial cuts.
-
-Newspaper pages briefly fly across the frame, creating transitions.
-
-12–15s — FINAL SHOT
-
-Return to the mugshot setup.
-
-She holds the board toward camera.
-
-The board now reads:
-
-“WANTED
-FOR BEING TOO BEAUTIFUL”
-She raises one eyebrow and smiles.
-
-Camera rapidly pushes toward her face.
-
-A newspaper suddenly sweeps across the lens.
-
-CUT TO BLACK.
-
-Motion & Editing
-
-FAST-PACED but SMOOTH.
-
-Use:
-
-0.3–0.6 second cuts
-
-smooth snap zooms
-seamless whip transitions
-controlled camera orbit
-quick push-ins and pullbacks
-subtle speed ramps
-fashion-editorial motion blur
-paparazzi flash effects
-flowing newspaper transitions
-beat-synced editing
-Do NOT make it slow, dreamy, jittery, or chaotic.
-
-The camera should always feel controlled and fluid, while the editing stays fast.
-
-Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugshot + glossy magazine editorial.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-smooth-luxury-fashion-editorial-video-using-the-86b7f97bc9d3)**
-
 ### Alexa Walks Through Five Fashion Worlds
 
 > PROMPT SHARE: Fashion videos get much more interesting when you treat the character like the center of a campaign, not just someone walking in front of a camera…
@@ -3051,6 +2947,110 @@ A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern ur
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca)**
+
+### Fashion Suspect Wanted for Beauty
+
+> Wanted for beauty. Guilty of stealing every frame. 🖤🍒 A little attitude, a little trouble, and a whole lot of fashion energy. This mugshot was never going to …
+
+[<img src="https://media.goodcase.ai/cases/b0f02d1854e3.jpg" width="600" alt="Fashion Suspect Wanted for Beauty">](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-smooth-luxury-fashion-editorial-video-using-the-86b7f97bc9d3)
+
+**Author:** @Caden_Flux | **Source:** [Original](https://x.com/Caden_Flux/status/2103788406392213575) | **Published:** 2026-09-26 | **Heat:** 76
+
+<details>
+<summary><b>Full prompt (86 lines, click to expand)</b></summary>
+
+```
+Create a 15-second fast-paced, smooth luxury fashion editorial video using the character sheet as the visual reference.
+
+Keep the same woman, face, brunette hair, fur jacket, red crop top, distressed denim, chains, makeup, and overall styling consistent throughout. Preserve her playful, confident, slightly mischievous personality.
+
+The video should feel like a fashion mugshot mixed with a playful “wanted for beauty” campaign.
+
+0–3s — THE MUGSHOT
+
+Start with a sharp full-body mugshot composition in front of the height chart.
+
+She looks directly into camera.
+
+Quick smooth push-in → she gives a playful wink → instantly cuts to her holding the “WANTED FOR BEAUTY” board.
+
+She slowly tilts the board toward camera with attitude.
+
+3–6s — BEAUTY DETAILS
+
+Move into a rapid but smooth beauty montage:
+
+wink → glossy lips → red nails → lollipop → fur jacket texture → chain details → sunglasses → playful smile.
+
+Use smooth snap zooms and seamless whip transitions.
+
+Each shot should be very short, around 0.3–0.6 seconds, but transitions should remain fluid and polished.
+
+6–9s — PLAYFUL TROUBLEMAKER
+
+Return to the full mugshot.
+
+She casually leans toward one side while maintaining her confident stance.
+
+Quick smooth camera orbit around her → she puts on sunglasses → looks over the sunglasses directly at camera → gives a mischievous smile.
+
+Add subtle camera flash bursts like paparazzi photographers are surrounding her.
+
+9–12s — FAST FASHION MONTAGE
+
+Rapidly showcase:
+
+fur coat → red top → belt and chains → distressed jeans → lollipop → lips → eyes → sunglasses.
+
+Use smooth continuous camera movement between each detail, with quick editorial cuts.
+
+Newspaper pages briefly fly across the frame, creating transitions.
+
+12–15s — FINAL SHOT
+
+Return to the mugshot setup.
+
+She holds the board toward camera.
+
+The board now reads:
+
+“WANTED
+FOR BEING TOO BEAUTIFUL”
+She raises one eyebrow and smiles.
+
+Camera rapidly pushes toward her face.
+
+A newspaper suddenly sweeps across the lens.
+
+CUT TO BLACK.
+
+Motion & Editing
+
+FAST-PACED but SMOOTH.
+
+Use:
+
+0.3–0.6 second cuts
+
+smooth snap zooms
+seamless whip transitions
+controlled camera orbit
+quick push-ins and pullbacks
+subtle speed ramps
+fashion-editorial motion blur
+paparazzi flash effects
+flowing newspaper transitions
+beat-synced editing
+Do NOT make it slow, dreamy, jittery, or chaotic.
+
+The camera should always feel controlled and fluid, while the editing stays fast.
+
+Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugshot + glossy magazine editorial.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-smooth-luxury-fashion-editorial-video-using-the-86b7f97bc9d3)**
 
 ### A Korean Woman's Winter Journey Through England
 
@@ -3490,26 +3490,6 @@ Her face and identity stay consistent with the reference in every cut. Lighting 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-young-japanese-woman-films-a-handheld-selfie-vlog-at-a-riverside-shrine-summe-1c4b78c5841a)**
 
-### Mediterranean Hillside Villa Interior and Aerial Tour
-
-> A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
-
-[<img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg" width="600" alt="Mediterranean Hillside Villa Interior and Aerial Tour">](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451)
-
-**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2092109145055150431) | **Published:** 2026-08-25 | **Heat:** 73
-
-**Stability:** 86/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86) · [output](https://media.goodcase.ai/retests/noorlewisx-seedance-ai-3a8b37309451/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Cinematic luxury real estate drone and interior tour of a stunning white Mediterranean-style villa with terracotta roof, set on a hillside surrounded by lush green trees, cypress trees, and manicured gardens. Smooth aerial shots circling the elegant multi-story mansion with a private swimming pool, formal gardens, stone fountain, and winding driveway leading to a grand black iron gate marked with the number 8.
-Soft natural sunlight filtering through large multi-pane windows, golden hour and sunset lighting with lens flares. Interiors feature high ceilings, dark navy blue paneled walls, white curved modern sofas, abstract art, crystal and metal chandeliers, a wooden pool table, ornate white fireplace, open-plan living rooms with large windows overlooking greenery, a bright white kitchen with marble island, pendant lights, and professional range, elegant dining room with long dark table and white chairs, spiral staircase with black iron railings.
-Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451)**
-
 ### Morning Tea on a Seaside Balcony
 
 > Serene morning moments on a seaside balcony. A graceful woman in cream embroidered attire sips tea, gazes at turquoise w
@@ -3737,6 +3717,26 @@ NEGATIVE PROMPT: identity changes, outfit changes, inconsistent dog, different d
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/caden-flux-seedance-ai-40fe0c7229fc)**
 
+### Mediterranean Hillside Villa Interior and Aerial Tour
+
+> A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
+
+[<img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg" width="600" alt="Mediterranean Hillside Villa Interior and Aerial Tour">](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451)
+
+**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2092109145055150431) | **Published:** 2026-08-25 | **Heat:** 72
+
+**Stability:** 86/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86) · [output](https://media.goodcase.ai/retests/noorlewisx-seedance-ai-3a8b37309451/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Cinematic luxury real estate drone and interior tour of a stunning white Mediterranean-style villa with terracotta roof, set on a hillside surrounded by lush green trees, cypress trees, and manicured gardens. Smooth aerial shots circling the elegant multi-story mansion with a private swimming pool, formal gardens, stone fountain, and winding driveway leading to a grand black iron gate marked with the number 8.
+Soft natural sunlight filtering through large multi-pane windows, golden hour and sunset lighting with lens flares. Interiors feature high ceilings, dark navy blue paneled walls, white curved modern sofas, abstract art, crystal and metal chandeliers, a wooden pool table, ornate white fireplace, open-plan living rooms with large windows overlooking greenery, a bright white kitchen with marble island, pendant lights, and professional range, elegant dining room with long dark table and white chairs, spiral staircase with black iron railings.
+Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451)**
+
 ### Wuxia Temple Warrior: A Golden Energy Dance
 
 > A single unbroken block of martial-arts choreography that earns its supernatural energy ribbons by building physical credibility first — a rare case of Chinese wuxia aesthetics landing cleanly on a Western video model.
@@ -3757,20 +3757,6 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance)**
-
-### Warrior and Dragon Battle in the Stormy Sky
-
-> A warrior, a dragon, and an epic battle in the storm.Cinematic fantasy brought to life with AI. Created on seedance 2.0 Prompt: Create a 15-second cinematic fan…
-
-[<img src="https://media.goodcase.ai/cases/66e1a31c6241.jpg" width="600" alt="Warrior and Dragon Battle in the Stormy Sky">](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-fantasy-battle-video-matching-the-reference-0-1s-adf4ada82a42)
-
-**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2100417339716141116) | **Published:** 2026-09-17 | **Heat:** 71
-
-```
-Create a 15-second cinematic fantasy battle video matching the reference: 0–1s, a futuristic armored warrior floats in a dark stormy sky while a huge black dragon flies behind him; 1–2s, glowing blue energy surrounds the warrior as the camera slowly moves closer; 2–3s, the dragon approaches rapidly through the clouds and the warrior turns toward it; 3–5s, the dragon opens its mouth and breathes a powerful stream of bright orange fire while the warrior flies backward through the storm; 5–7s, show a dramatic close-up of the dragon’s face and glowing eyes as it chases the warrior; 7–9s, the warrior faces the dragon in mid-air with lightning flashing behind them and blue energy glowing from his armor; 9–11s, the dragon attacks again with intense fire while the warrior dodges through the clouds at high speed; 11–13s, show both characters flying toward each other in an epic aerial confrontation, with fire and blue energy lighting the storm; 13–15s, the warrior suddenly moves away into the clouds as the dragon follows, ending on a dramatic wide shot of the dark sky, realistic cinematic CGI, detailed armor, massive dragon wings, volumetric clouds, dynamic camera movement, dramatic lighting, high detail, 4K quality.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-fantasy-battle-video-matching-the-reference-0-1s-adf4ada82a42)**
 
 ### Helicopter Extraction from a Skyscraper Rooftop
 
@@ -3801,6 +3787,20 @@ Created a dramatic top-down shot of a pink-haired anime-style girl falling throu
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-created-a-dramatic-top-down-shot-of-a-pink-haired-anime-style-girl-falling-thro-b2957665e618)**
+
+### Warrior and Dragon Battle in the Stormy Sky
+
+> A warrior, a dragon, and an epic battle in the storm.Cinematic fantasy brought to life with AI. Created on seedance 2.0 Prompt: Create a 15-second cinematic fan…
+
+[<img src="https://media.goodcase.ai/cases/66e1a31c6241.jpg" width="600" alt="Warrior and Dragon Battle in the Stormy Sky">](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-fantasy-battle-video-matching-the-reference-0-1s-adf4ada82a42)
+
+**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2100417339716141116) | **Published:** 2026-09-17 | **Heat:** 70
+
+```
+Create a 15-second cinematic fantasy battle video matching the reference: 0–1s, a futuristic armored warrior floats in a dark stormy sky while a huge black dragon flies behind him; 1–2s, glowing blue energy surrounds the warrior as the camera slowly moves closer; 2–3s, the dragon approaches rapidly through the clouds and the warrior turns toward it; 3–5s, the dragon opens its mouth and breathes a powerful stream of bright orange fire while the warrior flies backward through the storm; 5–7s, show a dramatic close-up of the dragon’s face and glowing eyes as it chases the warrior; 7–9s, the warrior faces the dragon in mid-air with lightning flashing behind them and blue energy glowing from his armor; 9–11s, the dragon attacks again with intense fire while the warrior dodges through the clouds at high speed; 11–13s, show both characters flying toward each other in an epic aerial confrontation, with fire and blue energy lighting the storm; 13–15s, the warrior suddenly moves away into the clouds as the dragon follows, ending on a dramatic wide shot of the dark sky, realistic cinematic CGI, detailed armor, massive dragon wings, volumetric clouds, dynamic camera movement, dramatic lighting, high detail, 4K quality.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-fantasy-battle-video-matching-the-reference-0-1s-adf4ada82a42)**
 
 ### Post-Apocalyptic Desert Buggy Air Battle
 
@@ -4164,20 +4164,6 @@ Important: Continuous talking from start to finish, natural lip-sync matching ev
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9)**
 
-### Creamy Chicken Pasta Cooking Vlog
-
-> A detailed 30-second cooking vlog storyboard prompt covering ingredient prep, the cooking steps and character consistency.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-5bea56e008fc.jpg" width="600" alt="Creamy Chicken Pasta Cooking Vlog">](https://goodcase.ai/cases/vlog-5bea56e008fc)
-
-**Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2091483398972080172) | **Published:** 2026-08-23 | **Heat:** 67
-
-```
-DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic ratio. STYLE: Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial cinematography, realistic human behavior, natural hand movements, realistic cooking physics, authentic home atmosphere, cinematic lighting, subtle handheld camera movement, realistic food textures, natural skin and hair. REFERENCE ASSIGNMENT: @IMG1 = FEMALE CHARACTER @IMG2 = KITCHEN ENVIRONMENT @IMG3 = INGREDIENTS AND COOKING SETUP @IMG4 = COOKING ACTION @IMG5 = FINISHED CREAMY CHICKEN PASTA @IMG6 = DINING SCENE Use all uploaded references consistently. CHARACTER CONSISTENCY: The SAME woman from @IMG1 must appear throughout the entire video. Preserve her exact face, facial features, hairstyle, skin tone, body proportions and overall identity. Do not change her appearance between scenes. Preserve the same casual home-cooking outfit from @IMG1. FOOD CONSISTENCY: The dish throughout the entire video is EXACTLY the creamy chicken pasta shown in @IMG3 and @IMG5. Maintain the same pasta, chicken, mushrooms, cherry tomatoes, cream sauce, parmesan and parsley throughout. Do not change the dish between scenes. --- 0–4 SECONDS — PREPARATION Use @IMG2 and @IMG3. The woman enters the kitchen and approaches the countertop. The ingredients for creamy chicken pasta are neatly arranged in front of her. She looks over the ingredients and begins preparing dinner. Camera starts with a natural medium-wide kitchen shot and gently moves closer. Show the real home environment. --- 4–9 SECONDS — CHOPPING Use @IMG3 and @IMG4. The woman places vegetables on the wooden cutting board. She carefully chops garlic, onion and mushrooms with a kitchen knife. Show realistic hand and finger movement. Include a brief close-up of the knife cutting the vegetables. Vegetables naturally separate as she cuts them. Return to a medium shot showing her focused expression. Keep the action smooth and believable. --- 9–15 SECONDS — COOKING Use @IMG4. She places the pan on the stove and adds a small amount of olive oil. She adds the prepared chicken and vegetables into the hot pan. A realistic sizzling sound and subtle steam accompany the cooking. She uses a wooden spoon to stir the ingredients. The chicken gradually cooks while the vegetables soften. Camera moves from a side angle toward the pan. Include a close-up of the food sizzling and being stirred. --- 15–20 SECONDS — CREAMY SAUCE & PASTA Continue using @IMG4 and @IMG3. She adds the creamy sauce ingredients to the pan. The sauce mixes naturally with the chicken and vegetables. She adds the cooked pasta. She gently tosses and stirs everything together. The creamy sauce coats the pasta realistically. Steam rises naturally from the pan. Show a satisfying close-up of the finished creamy texture. Do not rush this action. --- 20–24 SECONDS — PLATING Use @IMG5. The woman transfers the freshly cooked creamy chicken pasta from the pan onto the ceramic plate. She carefully arranges the pasta. She adds parmesan and fresh parsley on top. A small amount of realistic steam rises from the hot food. Camera transitions into a premium close-up food shot. Make the dish look genuinely freshly cooked and appetizing. --- 24–30 SECONDS — DINNER Use @IMG6. The woman sits at the dining table with the finished creamy chicken pasta. She picks up the fork naturally. She takes a small bite. She tastes the food and gives a genuine satisfied smile. She briefly looks toward the camera as if sharing the moment with her audience. Camera slowly pushes toward her and the plate. End on a warm, cozy lifestyle shot of the woman enjoying the dinner she prepared herself. CUT TO BLACK. --- CAMERA PRIORITY: Use natural cinematic camera movement. Wide establishing shots for the kitchen. Medium shots for cooking actions. Close-ups for chopping and sizzling food. Macro-style food detail during sauce and plating. Gentle push-in during the final dining moment. Avoid excessive camera shake. Avoid unnecessary camera movement. Keep the woman and the food clearly readable. --- REALISM PRIORITY: Natural human movement. Realistic hand anatomy. Realistic knife handling. Realistic food physics. Realistic steam. Realistic sauce consistency. Realistic sizzling and stirring. Natural facial expressions. Natural eating motion. No exaggerated movements. No instant food transformations. No teleporting ingredients. No changing kitchen. No changing outfit. No changing character. --- FINAL RULES: Same woman throughout. Same face throughout. Same kitchen throughout. Same outfit throughout. Same creamy chicken pasta throughout. Same ingredients throughout. No different woman. No face morphing. No extra people. No distorted hands. No extra fingers. No unrealistic eating. No cartoon. No anime. No fantasy. No text. No logos. No watermark. The final result should feel like a genuine cinematic cooking vlog filmed inside a real woman's home. Reference Image prompt: Create an ultra-photorealistic premium female character reference sheet using the uploaded woman as the STRICT IDENTITY REFERENCE. IDENTITY — ABSOLUTE PRIORITY: Preserve the exact identity of the woman in the uploaded image. Keep her: - exact face shape - eyes - eyebrows - nose - lips - jawline - skin tone - natural skin texture - hairstyle - hairline - facial proportions - age appearance - feminine body proportions Do not redesign her face. Do not beautify or alter her recognizable features. She must look like the exact same real woman in every view. CHARACTER CONCEPT: Create a realistic modern young woman who will be the main protagonist of a cinematic everyday cooking/lifestyle video. She has a natural, approachable appearance and relaxed confident personality. Create a realistic everyday home-cooking appearance rather than a fashion-model look. OUTFIT: A tasteful modern casual home outfit suitable for cooking dinner: - simple fitted neutral-colored top - comfortable casual trousers - clean natural styling - minimal jewelry - no high-fashion styling - no excessive makeup Keep the outfit practical and believable for a woman cooking at home. CHARACTER SHEET LAYOUT: Create one professional reference sheet containing: 1. Full-body FRONT view 2. Full-body 3/4 FRONT view 3. Full-body SIDE view 4. Full-body BACK view 5. Medium portrait 6. Close-up facial portrait 7. Natural smiling expression 8. Neutral expression 9. Hands and clothing detail Every view must show the EXACT SAME WOMAN. BODY & ANATOMY: Natural realistic feminine proportions. Lean, healthy everyday physique. Accurate human anatomy. Natural posture. No exaggerated body proportions. HAIR: Preserve the exact hairstyle from the uploaded reference. Show realistic individual hair strands and natural volume. PHOTOGRAPHY: Ultra-photorealistic live-action photography. Premium cinematic lifestyle production quality. Realistic skin pores and texture. Natural hair detail. Physically accurate clothing fabric. Soft professional studio lighting. Natural shadows. Subtle realistic depth of field. High-end commercial photography quality. BACKGROUND: Clean warm-neutral studio background. Minimal distractions. The character must be clearly separated from the background. IDENTITY CONSISTENCY: This exact woman will be used as the main character in: @IMG1 Character @IMG4 Cooking Action @IMG6 Dining Scene and the final 30-second video. Her face and identity must remain identical across all references and video scenes. IMPORTANT NEGATIVE RULES: No face redesign. No different woman. No face morphing. No age change. No hairstyle change. No masculine features. No exaggerated makeup. No unrealistic body proportions. No cartoon. No anime. No CGI-looking skin. No text. No logo. No watermark. Premium photorealistic cinematic character ref
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-5bea56e008fc)**
-
 ### 1980s Yacht Slasher: Octopus Attack
 
 > A 30-second monster-attack sequence with five distinct bracketed characters and a giant octopus, using 35mm grain, strobe lighting and practical-blood language to fake genuine 1980s horror-film texture instead of a clean digital look.
@@ -4335,23 +4321,19 @@ Some people make them unforgettable."
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer)**
 
-### Full-Length Taekwondo Action Scene With a Korean Fighter
+### Creamy Chicken Pasta Cooking Vlog
 
-> A fierce warrior Powerful kicks One unstoppable fight Pure cinematic Taekwondo energy brought to life. Made With Seedanc
+> A detailed 30-second cooking vlog storyboard prompt covering ingredient prep, the cooking steps and character consistency.
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4.jpg" width="600" alt="Full-Length Taekwondo Action Scene With a Korean Fighter">](https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4)
+[<img src="https://media.goodcase.ai/media/poster/vlog-5bea56e008fc.jpg" width="600" alt="Creamy Chicken Pasta Cooking Vlog">](https://goodcase.ai/cases/vlog-5bea56e008fc)
 
-**Author:** @laviniavelle | **Source:** [Original](https://x.com/laviniavelle/status/2095029809264926872) | **Published:** 2026-09-02 | **Heat:** 67
-
-**Stability:** 85/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 85) · [output](https://media.goodcase.ai/retests/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2091483398972080172) | **Published:** 2026-08-23 | **Heat:** 66
 
 ```
-Cinematic dynamic action scene full length shot of a fierce female Korean martial artist with long, dark blue hair. She is wearing a modern black sports top, white Taekwondo pants, a black belt, and is barefoot She performs powerful high-energy Taekwondo roundhouse and spin kicks against multiple male opponents inside a dimly lit gritty industrial warehouse Cinematic volumetric lighting with dust motes floating in the air, high impact fight choreography, dramatic energy shockwaves and dust explosion effects upon impact, camera panning dynamically, 8k resolution photorealistic hyper detailed action movie sequence.
+DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic ratio. STYLE: Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial cinematography, realistic human behavior, natural hand movements, realistic cooking physics, authentic home atmosphere, cinematic lighting, subtle handheld camera movement, realistic food textures, natural skin and hair. REFERENCE ASSIGNMENT: @IMG1 = FEMALE CHARACTER @IMG2 = KITCHEN ENVIRONMENT @IMG3 = INGREDIENTS AND COOKING SETUP @IMG4 = COOKING ACTION @IMG5 = FINISHED CREAMY CHICKEN PASTA @IMG6 = DINING SCENE Use all uploaded references consistently. CHARACTER CONSISTENCY: The SAME woman from @IMG1 must appear throughout the entire video. Preserve her exact face, facial features, hairstyle, skin tone, body proportions and overall identity. Do not change her appearance between scenes. Preserve the same casual home-cooking outfit from @IMG1. FOOD CONSISTENCY: The dish throughout the entire video is EXACTLY the creamy chicken pasta shown in @IMG3 and @IMG5. Maintain the same pasta, chicken, mushrooms, cherry tomatoes, cream sauce, parmesan and parsley throughout. Do not change the dish between scenes. --- 0–4 SECONDS — PREPARATION Use @IMG2 and @IMG3. The woman enters the kitchen and approaches the countertop. The ingredients for creamy chicken pasta are neatly arranged in front of her. She looks over the ingredients and begins preparing dinner. Camera starts with a natural medium-wide kitchen shot and gently moves closer. Show the real home environment. --- 4–9 SECONDS — CHOPPING Use @IMG3 and @IMG4. The woman places vegetables on the wooden cutting board. She carefully chops garlic, onion and mushrooms with a kitchen knife. Show realistic hand and finger movement. Include a brief close-up of the knife cutting the vegetables. Vegetables naturally separate as she cuts them. Return to a medium shot showing her focused expression. Keep the action smooth and believable. --- 9–15 SECONDS — COOKING Use @IMG4. She places the pan on the stove and adds a small amount of olive oil. She adds the prepared chicken and vegetables into the hot pan. A realistic sizzling sound and subtle steam accompany the cooking. She uses a wooden spoon to stir the ingredients. The chicken gradually cooks while the vegetables soften. Camera moves from a side angle toward the pan. Include a close-up of the food sizzling and being stirred. --- 15–20 SECONDS — CREAMY SAUCE & PASTA Continue using @IMG4 and @IMG3. She adds the creamy sauce ingredients to the pan. The sauce mixes naturally with the chicken and vegetables. She adds the cooked pasta. She gently tosses and stirs everything together. The creamy sauce coats the pasta realistically. Steam rises naturally from the pan. Show a satisfying close-up of the finished creamy texture. Do not rush this action. --- 20–24 SECONDS — PLATING Use @IMG5. The woman transfers the freshly cooked creamy chicken pasta from the pan onto the ceramic plate. She carefully arranges the pasta. She adds parmesan and fresh parsley on top. A small amount of realistic steam rises from the hot food. Camera transitions into a premium close-up food shot. Make the dish look genuinely freshly cooked and appetizing. --- 24–30 SECONDS — DINNER Use @IMG6. The woman sits at the dining table with the finished creamy chicken pasta. She picks up the fork naturally. She takes a small bite. She tastes the food and gives a genuine satisfied smile. She briefly looks toward the camera as if sharing the moment with her audience. Camera slowly pushes toward her and the plate. End on a warm, cozy lifestyle shot of the woman enjoying the dinner she prepared herself. CUT TO BLACK. --- CAMERA PRIORITY: Use natural cinematic camera movement. Wide establishing shots for the kitchen. Medium shots for cooking actions. Close-ups for chopping and sizzling food. Macro-style food detail during sauce and plating. Gentle push-in during the final dining moment. Avoid excessive camera shake. Avoid unnecessary camera movement. Keep the woman and the food clearly readable. --- REALISM PRIORITY: Natural human movement. Realistic hand anatomy. Realistic knife handling. Realistic food physics. Realistic steam. Realistic sauce consistency. Realistic sizzling and stirring. Natural facial expressions. Natural eating motion. No exaggerated movements. No instant food transformations. No teleporting ingredients. No changing kitchen. No changing outfit. No changing character. --- FINAL RULES: Same woman throughout. Same face throughout. Same kitchen throughout. Same outfit throughout. Same creamy chicken pasta throughout. Same ingredients throughout. No different woman. No face morphing. No extra people. No distorted hands. No extra fingers. No unrealistic eating. No cartoon. No anime. No fantasy. No text. No logos. No watermark. The final result should feel like a genuine cinematic cooking vlog filmed inside a real woman's home. Reference Image prompt: Create an ultra-photorealistic premium female character reference sheet using the uploaded woman as the STRICT IDENTITY REFERENCE. IDENTITY — ABSOLUTE PRIORITY: Preserve the exact identity of the woman in the uploaded image. Keep her: - exact face shape - eyes - eyebrows - nose - lips - jawline - skin tone - natural skin texture - hairstyle - hairline - facial proportions - age appearance - feminine body proportions Do not redesign her face. Do not beautify or alter her recognizable features. She must look like the exact same real woman in every view. CHARACTER CONCEPT: Create a realistic modern young woman who will be the main protagonist of a cinematic everyday cooking/lifestyle video. She has a natural, approachable appearance and relaxed confident personality. Create a realistic everyday home-cooking appearance rather than a fashion-model look. OUTFIT: A tasteful modern casual home outfit suitable for cooking dinner: - simple fitted neutral-colored top - comfortable casual trousers - clean natural styling - minimal jewelry - no high-fashion styling - no excessive makeup Keep the outfit practical and believable for a woman cooking at home. CHARACTER SHEET LAYOUT: Create one professional reference sheet containing: 1. Full-body FRONT view 2. Full-body 3/4 FRONT view 3. Full-body SIDE view 4. Full-body BACK view 5. Medium portrait 6. Close-up facial portrait 7. Natural smiling expression 8. Neutral expression 9. Hands and clothing detail Every view must show the EXACT SAME WOMAN. BODY & ANATOMY: Natural realistic feminine proportions. Lean, healthy everyday physique. Accurate human anatomy. Natural posture. No exaggerated body proportions. HAIR: Preserve the exact hairstyle from the uploaded reference. Show realistic individual hair strands and natural volume. PHOTOGRAPHY: Ultra-photorealistic live-action photography. Premium cinematic lifestyle production quality. Realistic skin pores and texture. Natural hair detail. Physically accurate clothing fabric. Soft professional studio lighting. Natural shadows. Subtle realistic depth of field. High-end commercial photography quality. BACKGROUND: Clean warm-neutral studio background. Minimal distractions. The character must be clearly separated from the background. IDENTITY CONSISTENCY: This exact woman will be used as the main character in: @IMG1 Character @IMG4 Cooking Action @IMG6 Dining Scene and the final 30-second video. Her face and identity must remain identical across all references and video scenes. IMPORTANT NEGATIVE RULES: No face redesign. No different woman. No face morphing. No age change. No hairstyle change. No masculine features. No exaggerated makeup. No unrealistic body proportions. No cartoon. No anime. No CGI-looking skin. No text. No logo. No watermark. Premium photorealistic cinematic character ref
 ```
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4)**
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-5bea56e008fc)**
 
 ### A Korean Girl’s Classroom and Coastal Village Stroll
 
@@ -4366,6 +4348,24 @@ A Korean girl with straight dark hair, natural makeup, and a warm youthful appea
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba)**
+
+### Full-Length Taekwondo Action Scene With a Korean Fighter
+
+> A fierce warrior Powerful kicks One unstoppable fight Pure cinematic Taekwondo energy brought to life. Made With Seedanc
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4.jpg" width="600" alt="Full-Length Taekwondo Action Scene With a Korean Fighter">](https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4)
+
+**Author:** @laviniavelle | **Source:** [Original](https://x.com/laviniavelle/status/2095029809264926872) | **Published:** 2026-09-02 | **Heat:** 66
+
+**Stability:** 85/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 85) · [output](https://media.goodcase.ai/retests/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Cinematic dynamic action scene full length shot of a fierce female Korean martial artist with long, dark blue hair. She is wearing a modern black sports top, white Taekwondo pants, a black belt, and is barefoot She performs powerful high-energy Taekwondo roundhouse and spin kicks against multiple male opponents inside a dimly lit gritty industrial warehouse Cinematic volumetric lighting with dust motes floating in the air, high impact fight choreography, dramatic energy shockwaves and dust explosion effects upon impact, camera panning dynamically, 8k resolution photorealistic hyper detailed action movie sequence.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4)**
 
 ### Summer Camping in the Korean Mountains
 
@@ -4692,4 +4692,4 @@ A beautiful young East Asian woman with long straight black hair, wearing a soft
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461)**
 
 
-← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md)
+← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · [Part 4](./gallery-seedance-2-0-part-4.md)

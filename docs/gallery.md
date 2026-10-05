@@ -1,20 +1,21 @@
 # Awesome Seedance — Gallery Index
 
-All 760 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 769 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
 ## Pages
 
-- [Seedance 2.5 · Part 1/6](./gallery-seedance-2-5-part-1.md) - cases 1–80 of 485.
-- [Seedance 2.5 · Part 2/6](./gallery-seedance-2-5-part-2.md) - cases 81–169 of 485.
-- [Seedance 2.5 · Part 3/6](./gallery-seedance-2-5-part-3.md) - cases 170–264 of 485.
-- [Seedance 2.5 · Part 4/6](./gallery-seedance-2-5-part-4.md) - cases 265–355 of 485.
-- [Seedance 2.5 · Part 5/6](./gallery-seedance-2-5-part-5.md) - cases 356–435 of 485.
-- [Seedance 2.5 · Part 6/6](./gallery-seedance-2-5-part-6.md) - cases 436–485 of 485.
-- [Seedance 2.0 · Part 1/3](./gallery-seedance-2-0-part-1.md) - cases 1–93 of 275.
-- [Seedance 2.0 · Part 2/3](./gallery-seedance-2-0-part-2.md) - cases 94–191 of 275.
-- [Seedance 2.0 · Part 3/3](./gallery-seedance-2-0-part-3.md) - cases 192–275 of 275.
+- [Seedance 2.5 · Part 1/6](./gallery-seedance-2-5-part-1.md) - cases 1–80 of 494.
+- [Seedance 2.5 · Part 2/6](./gallery-seedance-2-5-part-2.md) - cases 81–170 of 494.
+- [Seedance 2.5 · Part 3/6](./gallery-seedance-2-5-part-3.md) - cases 171–266 of 494.
+- [Seedance 2.5 · Part 4/6](./gallery-seedance-2-5-part-4.md) - cases 267–358 of 494.
+- [Seedance 2.5 · Part 5/6](./gallery-seedance-2-5-part-5.md) - cases 359–437 of 494.
+- [Seedance 2.5 · Part 6/6](./gallery-seedance-2-5-part-6.md) - cases 438–494 of 494.
+- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.md) - cases 1–93 of 275.
+- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.md) - cases 94–191 of 275.
+- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.md) - cases 192–273 of 275.
+- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.md) - cases 274–275 of 275.
 
 ## Also in this repository
 

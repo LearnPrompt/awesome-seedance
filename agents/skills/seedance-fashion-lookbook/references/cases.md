@@ -188,102 +188,7 @@ The city is your runway.
 Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosphere, premium fashion photography, fisheye low-angle perspective, dynamic handheld camera, cinematic lens flares, subtle film grain, Vogue editorial aesthetic, sophisticated typography, no cheesy commercial look.
 ```
 
-## E7 · Fashion Suspect Wanted for Beauty
-
-- Seedance 2.0 · creator: @Caden_Flux · heat: 77
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-smooth-luxury-fashion-editorial-video-using-the-86b7f97bc9d3) · [finished media](https://media.goodcase.ai/cases/fcad5c5062ad.mp4) · [poster](https://media.goodcase.ai/cases/b0f02d1854e3.jpg) · [original source](https://x.com/Caden_Flux/status/2103788406392213575)
-- Summary: Wanted for beauty. Guilty of stealing every frame. 🖤🍒 A little attitude, a little trouble, and a whole lot of fashion energy. This mugshot was never going to …
-
-```text
-Create a 15-second fast-paced, smooth luxury fashion editorial video using the character sheet as the visual reference.
-
-Keep the same woman, face, brunette hair, fur jacket, red crop top, distressed denim, chains, makeup, and overall styling consistent throughout. Preserve her playful, confident, slightly mischievous personality.
-
-The video should feel like a fashion mugshot mixed with a playful “wanted for beauty” campaign.
-
-0–3s — THE MUGSHOT
-
-Start with a sharp full-body mugshot composition in front of the height chart.
-
-She looks directly into camera.
-
-Quick smooth push-in → she gives a playful wink → instantly cuts to her holding the “WANTED FOR BEAUTY” board.
-
-She slowly tilts the board toward camera with attitude.
-
-3–6s — BEAUTY DETAILS
-
-Move into a rapid but smooth beauty montage:
-
-wink → glossy lips → red nails → lollipop → fur jacket texture → chain details → sunglasses → playful smile.
-
-Use smooth snap zooms and seamless whip transitions.
-
-Each shot should be very short, around 0.3–0.6 seconds, but transitions should remain fluid and polished.
-
-6–9s — PLAYFUL TROUBLEMAKER
-
-Return to the full mugshot.
-
-She casually leans toward one side while maintaining her confident stance.
-
-Quick smooth camera orbit around her → she puts on sunglasses → looks over the sunglasses directly at camera → gives a mischievous smile.
-
-Add subtle camera flash bursts like paparazzi photographers are surrounding her.
-
-9–12s — FAST FASHION MONTAGE
-
-Rapidly showcase:
-
-fur coat → red top → belt and chains → distressed jeans → lollipop → lips → eyes → sunglasses.
-
-Use smooth continuous camera movement between each detail, with quick editorial cuts.
-
-Newspaper pages briefly fly across the frame, creating transitions.
-
-12–15s — FINAL SHOT
-
-Return to the mugshot setup.
-
-She holds the board toward camera.
-
-The board now reads:
-
-“WANTED
-FOR BEING TOO BEAUTIFUL”
-She raises one eyebrow and smiles.
-
-Camera rapidly pushes toward her face.
-
-A newspaper suddenly sweeps across the lens.
-
-CUT TO BLACK.
-
-Motion & Editing
-
-FAST-PACED but SMOOTH.
-
-Use:
-
-0.3–0.6 second cuts
-
-smooth snap zooms
-seamless whip transitions
-controlled camera orbit
-quick push-ins and pullbacks
-subtle speed ramps
-fashion-editorial motion blur
-paparazzi flash effects
-flowing newspaper transitions
-beat-synced editing
-Do NOT make it slow, dreamy, jittery, or chaotic.
-
-The camera should always feel controlled and fluid, while the editing stays fast.
-
-Overall feeling: playful troublemaker + luxury fashion campaign + cinematic mugshot + glossy magazine editorial.
-```
-
-## E8 · Alexa Walks Through Five Fashion Worlds
+## E7 · Alexa Walks Through Five Fashion Worlds
 
 - Seedance 2.0 · creator: @MonetizationDon · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-fashion-film-featuring-alexa-6ffd42d43119) · [finished media](https://media.goodcase.ai/cases/d0b02a37b52a.mp4) · [poster](https://media.goodcase.ai/cases/fc58dd11e312.jpg) · [original source](https://x.com/MonetizationDon/status/2099864906392559847)
@@ -390,4 +295,14 @@ Typography:
 "ALEXA
 
 [… truncated, full prompt on the goodcase.ai page]
+```
+
+## E8 · Synchronized Rotation of Model and Outfit Items
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 77
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e) · [finished media](https://media.goodcase.ai/cases/20a7e5c36c11.mp4) · [poster](https://media.goodcase.ai/cases/725dd3117245.jpg) · [original source](https://x.com/AIwithkhan/status/2101148067458347258)
+- Summary: Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…
+
+```text
+Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.
 ```

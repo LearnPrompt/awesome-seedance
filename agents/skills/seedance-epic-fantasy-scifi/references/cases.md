@@ -51,7 +51,7 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 
 ## E3 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
-- Seedance 2.5 · creator: @Zyrellix · heat: 85
+- Seedance 2.5 · creator: @Zyrellix · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
 - Summary: She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
 

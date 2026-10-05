@@ -173,7 +173,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 
 ## E6 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 73 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 72 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 
