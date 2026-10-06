@@ -6,7 +6,7 @@
 
 <!-- 由 data/site-skills.json 生成，请勿手改；跑 npm run generate -->
 
-[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance) 上的全部视频 Skill：21 个官方 Skill，加 40 个创作者方法，共 61 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。
+[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance) 上的全部视频 Skill：21 个官方 Skill，加 41 个创作者方法，共 62 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。
 
 每个 Skill 都能用 [skills CLI](https://github.com/vercel-labs/skills) 一行命令装好，安装命令就在下面。标题和简介来自 goodcase.ai，这一页每天按站点目录刷新。
 
@@ -16,18 +16,18 @@
 | --- | --- | --- |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 97 | 10 |
 | [动作连续性编排](#action-continuity-choreography) | 80 | 6 |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 78 | 4 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 78 | 5 |
 | [产品广告镜头](#product-ad-shot-design) | 70 | 4 |
 | [电影感旅行漫游](#travel-city-walk) | 59 | 5 |
 | [动画风格与角色一致性](#animation-style-consistency) | 55 | 2 |
 | [宠物动物当主角](#pets-and-animals-lead) | 48 | 1 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 45 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 43 | 0 |
-| [过程与变换叙事](#process-transformation-story) | 38 | 0 |
-| [反转搞笑短片](#twist-comedy-skit) | 35 | 1 |
-| [恐怖悬疑短片](#horror-suspense-short) | 33 | 3 |
+| [过程与变换叙事](#process-transformation-story) | 39 | 0 |
+| [反转搞笑短片](#twist-comedy-skit) | 36 | 1 |
+| [恐怖悬疑短片](#horror-suspense-short) | 34 | 3 |
 | [美食特写与吃播 ASMR](#food-asmr) | 30 | 0 |
-| [体育与极限运动](#sports-extreme-stunts) | 25 | 0 |
+| [体育与极限运动](#sports-extreme-stunts) | 26 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 22 | 1 |
 | [汽车与载具速度片](#vehicles-at-speed) | 21 | 0 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-78 个案例，来自 57 位创作者 · 4 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
+78 个案例，来自 57 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -97,6 +97,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | Zyrellix | 奇幻科幻大场面 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570?utm_source=awesome-seedance) |
+| AvelyrahnAI | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance) |
 | laviniavelle | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance) |
 | Strength04_X | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance) |
 | CharaspowerAI | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance) |
@@ -211,7 +212,7 @@ npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait
 
 > 用明确起点、连续步骤和终态，把制作或变化过程压缩成可读叙事。
 
-38 个案例，来自 35 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance)
+39 个案例，来自 35 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
@@ -225,7 +226,7 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 > 所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。
 
-35 个案例，来自 26 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance)
+36 个案例，来自 26 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
@@ -241,7 +242,7 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 
 > 每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。
 
-33 个案例，来自 18 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
+34 个案例，来自 18 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
@@ -250,7 +251,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | doctorwasif | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance) |
-| AIwithSynthia | 恐怖悬疑短片 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance) |
+| AIwithSynthia | 恐怖悬疑短片 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance) |
 | auqibhabib | 恐怖悬疑短片 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
 
 <a id="food-asmr"></a>
@@ -273,7 +274,7 @@ npx skills add LearnPrompt/goodcase-lite --skill food-asmr
 
 > 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
 
-25 个案例，来自 22 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance)
+26 个案例，来自 23 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts

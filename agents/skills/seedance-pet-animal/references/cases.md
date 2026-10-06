@@ -167,7 +167,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 ## E5 · Kitten Steals a Hair Tie and Pounces at the Camera
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 70
+- Seedance 2.5 · creator: @Strength04_X · heat: 69
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
 - Summary: She thought it was going to be a peaceful rainy-day selfie But the kitten had other plans 😅 Seedance 2.5 Prompt - REFERENCE & SUBJECT Use "@<image1" as the exa…
 
@@ -183,7 +183,7 @@ Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for th
 
 ## E6 · Dog Steals the Spotlight in a Mirror Selfie
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 68
+- Seedance 2.5 · creator: @Strength04_X · heat: 67
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) · [finished media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) · [poster](https://media.goodcase.ai/cases/c7768b152872.jpg) · [original source](https://x.com/Strength04_X/status/2097616213371478242)
 - Summary: POV: you wanted a cute mirror selfie, but your dog wanted to be the main character Made with Seedance 2.5 Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@<image1…
 
@@ -201,7 +201,7 @@ REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for
 
 ## E7 · POV: Your Kitten Vlog, but the Kitten Chooses Violence
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 60
+- Seedance 2.5 · creator: @Strength04_X · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) · [finished media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg) · [original source](https://x.com/Strength04_X/status/2096540586866270337)
 - Summary: POV: you try to make a cute kitten vlog and your kitten chooses violence Seedance 2.5 on @PixVerse Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@image1" as the…
 

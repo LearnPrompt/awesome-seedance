@@ -3,7 +3,7 @@
   "category": "video",
   "counts": {
     "official": 21,
-    "creatorMethods": 40
+    "creatorMethods": 41
   },
   "skills": [
     {
@@ -432,6 +432,26 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570",
       "cover": "https://media.goodcase.ai/cases/46f4c2c64145.jpg"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-1g5goov",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "AvelyrahnAI · Epic fantasy and sci-fi spectacle",
+        "zh": "AvelyrahnAI · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by AvelyrahnAI.",
+        "zh": "从 AvelyrahnAI 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "AvelyrahnAI",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov",
+      "cover": "https://media.goodcase.ai/cases/d0acac113279.jpg"
     },
     {
       "slug": "epic-fantasy-scifi-spectacle-by-1napzjr",
@@ -939,7 +959,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 38,
+      "caseCount": 39,
       "creatorCount": 35,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story",
       "url": "https://goodcase.ai/skills/process-transformation-story",
@@ -959,7 +979,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 35,
+      "caseCount": 36,
       "creatorCount": 26,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
       "url": "https://goodcase.ai/skills/twist-comedy-skit",
@@ -999,7 +1019,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 33,
+      "caseCount": 34,
       "creatorCount": 18,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
@@ -1034,16 +1054,16 @@
         "zh": "AIwithSynthia · 恐怖悬疑短片"
       },
       "description": {
-        "en": "A recurring horror and suspense short method derived from 5 published cases by AIwithSynthia.",
-        "zh": "从 AIwithSynthia 的 5 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
+        "en": "A recurring horror and suspense short method derived from 6 published cases by AIwithSynthia.",
+        "zh": "从 AIwithSynthia 的 6 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
       },
       "styleTag": null,
       "creator": "AIwithSynthia",
-      "caseCount": 5,
+      "caseCount": 6,
       "creatorCount": 1,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf",
-      "cover": "https://media.goodcase.ai/cases/22c428f45089.jpg"
+      "cover": "https://media.goodcase.ai/cases/17336ecf1069.jpg"
     },
     {
       "slug": "horror-suspense-short-by-43hd7f",
@@ -1099,8 +1119,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 25,
-      "creatorCount": 22,
+      "caseCount": 26,
+      "creatorCount": 23,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg"

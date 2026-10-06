@@ -435,7 +435,7 @@ She finally reaches a small Brazilian house matching the address printed on the
 
 ## E7 · Female Surgeon's Hospital Rescue Mission
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 56
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 55
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) · [finished media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) · [poster](https://media.goodcase.ai/cases/9377bc7b94f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2100429151719075851)
 - Summary: Okay this feels straight out of GTA Seedance 2.5 on @itsPolloAI Prompt Create a 30-second ultra-realistic AAA third-person medical action game mission set insid…
 
@@ -492,7 +492,7 @@ AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency 
 
 ## E8 · Theft and Escape at a Rural Japanese Station
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 53
+- Seedance 2.5 · creator: @AIwithkhan · heat: 52
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-video-s-405ad1ebb338) · [finished media](https://media.goodcase.ai/cases/890304e94a79.mp4) · [poster](https://media.goodcase.ai/cases/5864458476ef.jpg) · [original source](https://x.com/AIwithkhan/status/2099464101525393596)
 - Summary: She really woke up and chose GTA-style chaos. 🔥 No hesitation, just straight into the mission. Created with Seedance 2.5 on @itsPolloAI Prompt : Create a 30-se…
 

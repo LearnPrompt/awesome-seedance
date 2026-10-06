@@ -185,7 +185,7 @@ Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden 
 
 ## E7 · Helicopter Night Tour Over Tokyo
 
-- Seedance 2.5 · creator: @noorlewisx · heat: 70 · stability: 86
+- Seedance 2.5 · creator: @noorlewisx · heat: 69 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg) · [original source](https://x.com/noorlewisx/status/2093567063357088065)
 - Summary: A Night to Remember in Tokyo From a Helicopter Ride to Shibuya After Dark Made with seedance 2.5 on @itsPolloAI Prompt:
 

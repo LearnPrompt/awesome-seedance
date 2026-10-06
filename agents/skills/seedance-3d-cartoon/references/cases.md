@@ -265,7 +265,7 @@ Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs
 
 ## E6 · A Girl and Her White Wolf’s Journey Through a Magical Wilderness
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 68
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 67
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-3d-animated-video-in-a-premium-fantasy-adventure-e7a3e6134c65) · [finished media](https://media.goodcase.ai/cases/5eac6564eca8.mp4) · [poster](https://media.goodcase.ai/cases/5ad00890362b.jpg) · [original source](https://x.com/ayzalnooor24521/status/2100036712873488488)
 - Summary: A little adventure, a loyal friend, and a whole world to discover. Sometimes, the smallest friendships lead to the biggest adventures. Created on seedance 2.0 P…
 
@@ -275,7 +275,7 @@ Created a 30-second cinematic 3D animated video in a premium fantasy-adventure s
 
 ## E7 · Shy Hamster Offers a Rose
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 67
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) · [finished media](https://media.goodcase.ai/cases/79470af69d95.mp4) · [poster](https://media.goodcase.ai/cases/683212be0052.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101493389115953586)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy war…
 

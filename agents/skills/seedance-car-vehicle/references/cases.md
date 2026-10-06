@@ -103,7 +103,7 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 
 ## E3 · Post-Apocalyptic Desert Buggy Air Battle
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 70 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 69 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
 - Summary: Post apocalyptic chaos at full speed A rocket powered dune buggy explosive dogfights and insane cinematic action straigh
 
@@ -113,7 +113,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E4 · Pink Jet Tractor Races Supercars on a Tokyo Expressway
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 42
+- Seedance 2.5 · creator: @laviniavelle · heat: 41
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) · [finished media](https://media.goodcase.ai/cases/83c13fe0b2e2.mp4) · [poster](https://media.goodcase.ai/cases/17d1ccde38df.jpg) · [original source](https://x.com/laviniavelle/status/2100806296949903511)
 - Summary: A pink tractor with a jet engine hits the highway Supercars can’t keep up with this crazy speed. Made With Seedance 2.5 on @flovaai Prompt: A high octane cinema…
 
@@ -124,7 +124,7 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 
 ## E5 · First-Person Midair Assembly of a Black Lamborghini
 
-- Seedance 2.5 · creator: @MissDelulu9 · heat: 39
+- Seedance 2.5 · creator: @MissDelulu9 · heat: 38
 - Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) · [finished media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) · [poster](https://media.goodcase.ai/cases/4da7c433c3b6.jpg) · [original source](https://x.com/MissDelulu9/status/2091423578197737772)
 - Summary: What if you could assemble a supercar with your mind? 👀 Made with Seedance 2.5 using @atlas_cloud_ai #AtlasCloud Prompt
 

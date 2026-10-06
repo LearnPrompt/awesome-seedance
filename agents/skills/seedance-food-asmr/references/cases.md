@@ -200,7 +200,7 @@ She continues walking past traditional houses. A small
 
 ## E4 · Restaurant Chef’s Flaming Wok Performance
 
-- Seedance 2.5 · creator: @AynahhX · heat: 60
+- Seedance 2.5 · creator: @AynahhX · heat: 59
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e) · [finished media](https://media.goodcase.ai/cases/5d8839944958.mp4) · [poster](https://media.goodcase.ai/cases/23cf7e177f01.jpg) · [original source](https://x.com/AynahhX/status/2102946546035945875)
 - Summary: When the chef turns dinner into a whole performance. 🔥👨‍🍳🥘 Created with Seedance 2.5 Prompt Create a 15-second cinematic 3D animated cooking sequence inside…
 
