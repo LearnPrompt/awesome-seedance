@@ -140,7 +140,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ## E5 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 76
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
 
@@ -208,7 +208,7 @@ Style: realistic handheld selfie + aerial footage, night city lights, slight win
 
 ## E8 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 68 · stability: 84
+- Seedance 2.5 · creator: @nawalsehar · heat: 67 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
 - Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
 

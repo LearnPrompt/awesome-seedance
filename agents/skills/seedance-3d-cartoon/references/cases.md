@@ -310,7 +310,7 @@ No text, no subtitles, no watermark, no extra characters, no distorted anatomy, 
 
 ## E8 · Husband Mistakes a Laundry Request for a Romantic Invitation
 
-- Seedance 2.0 · creator: @im_shahid7 · heat: 61 · stability: 84
+- Seedance 2.0 · creator: @im_shahid7 · heat: 60 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750) · [finished media](https://media.goodcase.ai/cases/50120bb6176a.mp4) · [poster](https://media.goodcase.ai/cases/aa596f802fe1.jpg) · [original source](https://x.com/im_shahid7/status/2091754978348339299)
 - Summary: When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
 

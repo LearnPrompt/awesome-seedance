@@ -20,12 +20,12 @@
 | [产品广告镜头](#product-ad-shot-design) | 70 | 4 |
 | [电影感旅行漫游](#travel-city-walk) | 59 | 5 |
 | [动画风格与角色一致性](#animation-style-consistency) | 55 | 2 |
-| [宠物动物当主角](#pets-and-animals-lead) | 48 | 1 |
+| [宠物动物当主角](#pets-and-animals-lead) | 49 | 1 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 45 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 43 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 39 | 0 |
-| [反转搞笑短片](#twist-comedy-skit) | 36 | 1 |
-| [恐怖悬疑短片](#horror-suspense-short) | 34 | 3 |
+| [反转搞笑短片](#twist-comedy-skit) | 37 | 1 |
+| [恐怖悬疑短片](#horror-suspense-short) | 35 | 3 |
 | [美食特写与吃播 ASMR](#food-asmr) | 30 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 26 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 22 | 1 |
@@ -164,7 +164,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-48 个案例，来自 30 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
+49 个案例，来自 30 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -226,7 +226,7 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 > 所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。
 
-36 个案例，来自 26 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance)
+37 个案例，来自 27 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
@@ -242,7 +242,7 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 
 > 每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。
 
-34 个案例，来自 18 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
+35 个案例，来自 18 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
@@ -252,7 +252,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | --- | --- | --- | --- | --- |
 | doctorwasif | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance) |
 | AIwithSynthia | 恐怖悬疑短片 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance) |
-| auqibhabib | 恐怖悬疑短片 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
+| auqibhabib | 恐怖悬疑短片 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
 
 <a id="food-asmr"></a>
 

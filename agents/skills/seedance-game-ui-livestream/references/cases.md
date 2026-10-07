@@ -315,7 +315,7 @@ Sequence:
 
 ## E6 · Rio Street Chase Over a Misplaced Package
 
-- Seedance 2.5 · creator: @john_my07 · heat: 59
+- Seedance 2.5 · creator: @john_my07 · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-sequenc-70896856a838) · [finished media](https://media.goodcase.ai/cases/3d47a3342470.mp4) · [poster](https://media.goodcase.ai/cases/a766a24fcbfe.jpg) · [original source](https://x.com/john_my07/status/2099832403305079015)
 - Summary: GTA in Brazil 🇧🇷 All this chaos just to deliver the package to the right house! Created using Seedance 2.5 on Pollo AI Prompt: Create a 30-second ultra-realis…
 

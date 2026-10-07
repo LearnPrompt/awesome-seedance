@@ -819,7 +819,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 48,
+      "caseCount": 49,
       "creatorCount": 30,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
@@ -979,8 +979,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 36,
-      "creatorCount": 26,
+      "caseCount": 37,
+      "creatorCount": 27,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
       "url": "https://goodcase.ai/skills/twist-comedy-skit",
       "cover": "https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg"
@@ -1019,7 +1019,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 34,
+      "caseCount": 35,
       "creatorCount": 18,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
@@ -1074,16 +1074,16 @@
         "zh": "auqibhabib · 恐怖悬疑短片"
       },
       "description": {
-        "en": "A recurring horror and suspense short method derived from 3 published cases by auqibhabib.",
-        "zh": "从 auqibhabib 的 3 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
+        "en": "A recurring horror and suspense short method derived from 4 published cases by auqibhabib.",
+        "zh": "从 auqibhabib 的 4 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
       },
       "styleTag": null,
       "creator": "auqibhabib",
-      "caseCount": 3,
+      "caseCount": 4,
       "creatorCount": 1,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-43hd7f",
-      "cover": "https://media.goodcase.ai/cases/f5434503545d.jpg"
+      "cover": "https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg"
     },
     {
       "slug": "food-asmr",

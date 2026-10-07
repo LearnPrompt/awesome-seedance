@@ -163,7 +163,7 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 ## E6 · Karakoram Motorcycle Commercial
 
-- Seedance 2.5 · creator: @AI_with_Antonio · heat: 31 · stability: 87
+- Seedance 2.5 · creator: @AI_with_Antonio · heat: 30 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) · [finished media](https://media.goodcase.ai/cases/f702b148dbed.mp4) · [poster](https://media.goodcase.ai/cases/fe0b785db335.jpg) · [original source](https://x.com/AI_with_Antonio/status/2088599346908365227)
 - Summary: A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
 
@@ -173,7 +173,7 @@ Create a 10-second photorealistic cinematic motorcycle commercial featuring a yo
 
 ## E7 · Silver-Haired Rider's Neon Highway Escape
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 27 · stability: 87
+- Seedance 2.0 · creator: @Zyrellix · heat: 26 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-e2b9d262ff6b.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg) · [original source](https://x.com/Zyrellix/status/2093340253755232681)
 - Summary: Speed, neon and chaos collide A futuristic rider takes on a massive zombie horde in a high octane cinematic chase. Made
 
@@ -183,7 +183,7 @@ High-octane 3D animated cinematic action scene. A young female protagonist with 
 
 ## E8 · Yellow Supercar Racing Through the Dubai Skyline
 
-- Seedance 2.0 · creator: @AIwithAliya · heat: 26
+- Seedance 2.0 · creator: @AIwithAliya · heat: 25
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) · [finished media](https://media.goodcase.ai/media/video/aiwithaliya-seedance-ai-cf398f743859.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaliya-seedance-ai-cf398f743859.jpg) · [original source](https://x.com/AIwithAliya/status/2093022598187954484)
 - Summary: What a ride! Made by using GPT Image 2 + Seedance 2.0 on @FishCreativeHQ Prompt reference_handling: "Image generation st
 

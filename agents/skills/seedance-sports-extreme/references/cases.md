@@ -198,7 +198,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 ## E5 · Seedance Smooth Snowboard Run Through a Terrain Park
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 59 · stability: 73
+- Seedance 2.5 · creator: @nawalsehar · heat: 58 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
 - Summary: Some runs are all about the flow. Seedance 2.5 keeps every carve, jump, and landing feeling naturally smooth with seamle
 

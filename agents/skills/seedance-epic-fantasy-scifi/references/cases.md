@@ -171,9 +171,19 @@ NO MUSIC. #higgsf
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E7 · Schoolgirl Destroys a Tank Assault with Supernatural Power
+## E7 · Apocalyptic Dragon-Rider Strikes the Armored Giant
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 77
+- Seedance 2.0 · creator: @Zyrellix · heat: 77 · stability: 80
+- Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
+- Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
+
+```text
+A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern urban setting at night with smoke, fire, and glowing searchlights. A massive dark dragon with glowing neon blue dorsal spines flies low over city streets. A giant armor-clad giant warrior stands amidst burning skyscrapers. A young man dressed in black leaps along the spine of the flying dragon, wielding a glowing red energy blade and a giant curved glowing blue magic scythe. The man leaps high off the dragon's back into mid-air, spinning dramatically and striking down onto the giant enemy with a massive glowing electric slash, resulting in an explosive fiery blast over the burning city skyline filled with military helicopters. Cinematic 3D animation, hyper-realistic lighting, intense VFX, dark fantasy anime style, fast-paced cinematic camera motion, 8K resolution.
+```
+
+## E8 · Schoolgirl Destroys a Tank Assault with Supernatural Power
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) · [finished media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) · [poster](https://media.goodcase.ai/cases/e28bdc9038b1.jpg) · [original source](https://x.com/itsSaira_1/status/2101205826895827053)
 - Summary: ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
 
@@ -220,14 +230,4 @@ NEGATIVE: No character change, face change, hairstyle change, outfit change, age
 
 #Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
 @Flovaai @itsPolloAI
-```
-
-## E8 · Apocalyptic Dragon-Rider Strikes the Armored Giant
-
-- Seedance 2.0 · creator: @Zyrellix · heat: 77 · stability: 80
-- Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
-- Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
-
-```text
-A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern urban setting at night with smoke, fire, and glowing searchlights. A massive dark dragon with glowing neon blue dorsal spines flies low over city streets. A giant armor-clad giant warrior stands amidst burning skyscrapers. A young man dressed in black leaps along the spine of the flying dragon, wielding a glowing red energy blade and a giant curved glowing blue magic scythe. The man leaps high off the dragon's back into mid-air, spinning dramatically and striking down onto the giant enemy with a massive glowing electric slash, resulting in an explosive fiery blast over the burning city skyline filled with military helicopters. Cinematic 3D animation, hyper-realistic lighting, intense VFX, dark fantasy anime style, fast-paced cinematic camera motion, 8K resolution.
 ```

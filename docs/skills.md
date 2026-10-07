@@ -20,12 +20,12 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | [Product ad shot design](#product-ad-shot-design) | 70 | 4 |
 | [Cinematic travel montage](#travel-city-walk) | 59 | 5 |
 | [Animation style and character consistency](#animation-style-consistency) | 55 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 48 | 1 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 49 | 1 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 45 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 43 | 0 |
 | [Process and transformation story](#process-transformation-story) | 39 | 0 |
-| [Twist-ending comedy skit](#twist-comedy-skit) | 36 | 1 |
-| [Horror and suspense short](#horror-suspense-short) | 34 | 3 |
+| [Twist-ending comedy skit](#twist-comedy-skit) | 37 | 1 |
+| [Horror and suspense short](#horror-suspense-short) | 35 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 30 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 26 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 22 | 1 |
@@ -164,7 +164,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-48 cases from 30 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
+49 cases from 30 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -226,7 +226,7 @@ No creator methods yet.
 
 > Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
 
-36 cases from 26 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance)
+37 cases from 27 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
@@ -242,7 +242,7 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 
 > Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
 
-34 cases from 18 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
+35 cases from 18 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
@@ -252,7 +252,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | --- | --- | --- | --- | --- |
 | doctorwasif | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance) |
 | AIwithSynthia | Horror and suspense short | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance) |
-| auqibhabib | Horror and suspense short | 3 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
+| auqibhabib | Horror and suspense short | 4 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
 
 <a id="food-asmr"></a>
 

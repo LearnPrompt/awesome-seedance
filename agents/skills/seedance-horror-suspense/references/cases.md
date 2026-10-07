@@ -72,7 +72,7 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 ## E2 · Security Guard and Survivors in a Mall Zombie Outbreak
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 94
+- Seedance 2.5 · creator: @auqibhabib · heat: 95
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) · [finished media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) · [poster](https://media.goodcase.ai/cases/be466ebf5501.jpg) · [original source](https://x.com/auqibhabib/status/2104107269206237325)
 - Summary: A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
 
