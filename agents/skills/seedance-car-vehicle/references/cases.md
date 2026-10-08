@@ -113,7 +113,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E4 · Pink Jet Tractor Races Supercars on a Tokyo Expressway
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 41
+- Seedance 2.5 · creator: @laviniavelle · heat: 40
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) · [finished media](https://media.goodcase.ai/cases/83c13fe0b2e2.mp4) · [poster](https://media.goodcase.ai/cases/17d1ccde38df.jpg) · [original source](https://x.com/laviniavelle/status/2100806296949903511)
 - Summary: A pink tractor with a jet engine hits the highway Supercars can’t keep up with this crazy speed. Made With Seedance 2.5 on @flovaai Prompt: A high octane cinema…
 

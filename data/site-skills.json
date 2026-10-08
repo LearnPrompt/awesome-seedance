@@ -20,7 +20,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 97,
+      "caseCount": 98,
       "creatorCount": 54,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence",
       "url": "https://goodcase.ai/skills/pov-vlog-presence",
@@ -264,7 +264,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 80,
+      "caseCount": 81,
       "creatorCount": 59,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
@@ -407,7 +407,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 78,
+      "caseCount": 79,
       "creatorCount": 57,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
@@ -434,6 +434,26 @@
       "cover": "https://media.goodcase.ai/cases/46f4c2c64145.jpg"
     },
     {
+      "slug": "epic-fantasy-scifi-spectacle-by-1napzjr",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "laviniavelle · Epic fantasy and sci-fi spectacle",
+        "zh": "laviniavelle · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 4 published cases by laviniavelle.",
+        "zh": "从 laviniavelle 的 4 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "laviniavelle",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr",
+      "cover": "https://media.goodcase.ai/cases/2037ea91856a.jpg"
+    },
+    {
       "slug": "epic-fantasy-scifi-spectacle-by-1g5goov",
       "baseSlug": "epic-fantasy-scifi-spectacle",
       "kind": "creator_method",
@@ -452,26 +472,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov",
       "cover": "https://media.goodcase.ai/cases/d0acac113279.jpg"
-    },
-    {
-      "slug": "epic-fantasy-scifi-spectacle-by-1napzjr",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "creator_method",
-      "title": {
-        "en": "laviniavelle · Epic fantasy and sci-fi spectacle",
-        "zh": "laviniavelle · 奇幻科幻大场面"
-      },
-      "description": {
-        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by laviniavelle.",
-        "zh": "从 laviniavelle 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
-      },
-      "styleTag": null,
-      "creator": "laviniavelle",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr",
-      "cover": "https://media.goodcase.ai/cases/2037ea91856a.jpg"
     },
     {
       "slug": "epic-fantasy-scifi-spectacle-by-1sduwzc",
@@ -819,7 +819,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 49,
+      "caseCount": 50,
       "creatorCount": 30,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
@@ -834,16 +834,16 @@
         "zh": "Zarnab_with_Ai · 宠物动物当主角"
       },
       "description": {
-        "en": "A recurring pets and animals as the lead method derived from 13 published cases by Zarnab_with_Ai.",
-        "zh": "从 Zarnab_with_Ai 的 13 个已发布 Case 中归纳出的「宠物动物当主角」方法。"
+        "en": "A recurring pets and animals as the lead method derived from 14 published cases by Zarnab_with_Ai.",
+        "zh": "从 Zarnab_with_Ai 的 14 个已发布 Case 中归纳出的「宠物动物当主角」方法。"
       },
       "styleTag": null,
       "creator": "Zarnab_with_Ai",
-      "caseCount": 13,
+      "caseCount": 14,
       "creatorCount": 1,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-18gc2qf",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf",
-      "cover": "https://media.goodcase.ai/cases/8d83518fa370.jpg"
+      "cover": "https://media.goodcase.ai/cases/957c81cb6968.jpg"
     },
     {
       "slug": "retro-dv-home-video",

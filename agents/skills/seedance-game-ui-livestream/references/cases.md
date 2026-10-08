@@ -435,7 +435,7 @@ She finally reaches a small Brazilian house matching the address printed on the
 
 ## E7 · Female Surgeon's Hospital Rescue Mission
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 55
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 54
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) · [finished media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) · [poster](https://media.goodcase.ai/cases/9377bc7b94f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2100429151719075851)
 - Summary: Okay this feels straight out of GTA Seedance 2.5 on @itsPolloAI Prompt Create a 30-second ultra-realistic AAA third-person medical action game mission set insid…
 
