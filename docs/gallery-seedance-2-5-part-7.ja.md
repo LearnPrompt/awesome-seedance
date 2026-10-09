@@ -1,10 +1,300 @@
 # Seedance 2.5 — 全ケース（Part 7/7）
 
-Seedance 2.5 の全 529 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 535 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 529 件中 514–529 件目。
+このページ: 535 件中 517–535 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7**
+
+### Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs
+
+> A K-pop street flash-dance cover in Shibuya: four dancers move through diamond, line and V formations, overlaid with oversized retro subtitles that fade in and out exactly on the beat.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2086067758970851614) | **公開日:** 2026-08-08 | **ヒート:** 15
+
+**安定度:** 73/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 73.2) · [出力](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（46 行、クリックで展開）</b></summary>
+
+```
+30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
+Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
+TYPOGRAPHY STYLE
+Font: bold condensed display, poster-style
+Placement: upper third or side margin, never covering faces or hands
+Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
+Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
+One line active on screen at a time
+SCENE & LOCATION
+Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
+FRAME & CAMERA
+Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
+CHARACTERS — EXACTLY 4 DANCERS
+RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
+YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
+SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
+MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
+No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
+TIMELINE WITH SYNCED TYPOGRAPHY
+0–6s — OPENING DIAMOND
+RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
+Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
+6–10s — RINA HIGHLIGHT
+RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
+Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
+10–14s — DIAMOND → HORIZONTAL LINE
+Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
+Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
+14–19s — HORIZONTAL LINE CHORUS
+Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
+Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
+19–23s — RETURN TO DIAMOND + RIPPLE
+Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
+Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
+23–27s — FINAL CHORUS
+Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
+Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
+27–30s — FINAL V FORMATION + FREEZE
+RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
+Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
+VISUAL STYLE
+Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
+STRICT NEGATIVE REQUIREMENTS
+No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
+FINAL OUTPUT
+30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)**
+
+### Seedance 2.5 Vertical Coffee Machine UGC Ad
+
+> A vertical coffee-machine UGC ad walking the full flow from unboxing through grinding to the first sip, with dialogue in between and shots timed to the second.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 Vertical Coffee Machine UGC Ad">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)
+
+**作者:** @SadiaMalik182 | **出典:** [元投稿](https://x.com/SadiaMalik182/status/2085947010293883115) | **公開日:** 2026-08-08 | **ヒート:** 15
+
+**安定度:** 77/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（16 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
+Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
+Scene 1 (0–5s)
+A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
+Scene 2 (5–10s)
+Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
+Scene 3 (10–17s)
+Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
+Scene 4 (17–23s)
+The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
+Scene 5 (23–27s)
+Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
+Scene 6 (27–30s)
+Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
+Requirements:
+Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)**
+
+### Seedance 2.5 Douyin-Style Motorcycle Video with Stylish Transitions
+
+> A Douyin-style motorcycle transition short: 10 seconds, 9:16 vertical, hyperreal night city riding with flashy match cuts.
+
+[<img src="https://media.goodcase.ai/cases/c9c3b92466ec.jpg" width="600" alt="Seedance 2.5 Douyin-Style Motorcycle Video with Stylish Transitions">](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2089727243471696233) | **公開日:** 2026-08-18 | **ヒート:** 15
+
+<details>
+<summary><b>プロンプト全文（166 行、クリックで展開）</b></summary>
+
+```
+抖音爆款炫酷机车转场视频🎬
+
+Seedance 2.5 prompt 👇
+
+Duration: 10 seconds
+Aspect ratio: 9:16 vertical
+Overall style: 超写实都市夜骑短片（Photorealistic Urban Night Ride），强冲击动作匹配转场（Impact Match Cut），速度渐变（Speed Ramp），低机位追车，高速运动模糊，4K电影质感
+Characters: 男主@图片1、女主@图片2；严格保持两张参考图的面部、发型、体型和人物身份一致
+Wardrobe: 男主穿黑色修身外套、黑色长裤、白色运动鞋；女主穿黑色长袖修身短裙、黑色及膝长靴，长发自然披散
+Scene: 城市江边夜间公路，红色灯光覆盖的高层建筑群、金色传统建筑、跨江大桥、蓝白护栏与高速后移的城市灯光
+Motorcycle: 黑色运动型街车，少量红色装饰线，明亮白色前灯、红色尾灯、宽大真实轮胎；无品牌标志
+Audio: 无对白、无字幕；强节奏电子音乐、冲刺脚步声、低频撞击转场声、发动机爆发声、高速风噪和换挡声
+
+SHOT 1｜极速抱人转摩托（00:00-01:00）
+
+Subject:
+女主在江边等待，男主高速冲入，一把抱起女主，两人借惯性冲出画面，瞬间转场为摩托车高速驶出。
+
+Action:
+
+00:00-00:12：
+固定全身镜头。女主独自站在画面中央偏右，只出现约0.12秒；夜风吹动她的长发，远处红色城市建筑明亮清晰。
+
+00:12-00:35：
+音乐突然重击。男主从画面左后方高速斜冲进来，速度非常快，身体带有强烈方向性运动模糊，黑色外套被风向后拉直。
+
+摄影机迅速向右甩动（Fast Whip Pan），产生短促而强烈的速度拖影。男主不能减速、不能停步、不能慢慢靠近。
+
+00:35-00:55：
+男主冲到女主身前的瞬间，双臂直接环住她的腰，一把将她抱离地面。
+
+女主受到冲刺惯性带动，双脚立即离地，双臂本能抱住男主肩颈，长发和双腿同时向画面左后方甩起。
+
+男主抱住女主后一步不停，继续以原本速度向画面右前方猛冲。动作不是原地拥抱，也不是站稳后再抱，而是“高速冲入过程中直接抱走”。
+
+抱起瞬间加入两帧真实镜头震动（Impact Camera Shake）和一声低沉“轰”。
+
+00:55-00:75：
+男主抱着女主几乎贴着摄影机高速掠过。男主黑色肩背、女主飞扬的黑色长发和裙摆迅速填满整个镜头。
+
+两人冲向画面右侧并完全出画。黑色衣服遮满镜头时，不能停顿，不能淡出。
+
+00:75-01:00：
+遮满镜头的黑色衣服直接动作匹配硬切成黑色摩托车的车头与整流罩。
+
+摩托车前灯猛然亮起，前轮从画面左下方贴着镜头高速冲向右前方；发动机声音瞬间爆发，车身掠过镜头产生强烈风压和动态模糊。
+
+摄影机立刻甩向右侧追上摩托车，揭示男主已经坐在前方驾驶，女主已经坐在后座。摩托车的移动方向与上一镜头两人冲出画面的方向完全一致。
+
+Environment:
+同一片城市江边夜景，通过黑色遮挡和运动方向保持空间连续。
+
+Camera:
+固定全身镜头→高速甩镜→贴镜遮挡→低机位摩托车冲镜→快速追车。整段必须在一秒内完成。
+
+Style:
+第一秒就是最大视觉钩子，动作短、快、重，不使用慢动作。
+
+Constraints:
+男主必须先抱住女主，女主双脚明确离地，两人才一起冲出画面；不能让女主自己跳起，不能让两人停在画面中间。
+
+SHOT 2｜黑红摩托高速夜骑（01:00-06:10）
+
+Subject:
+男主驾驶黑红摩托车，女主坐在后座，在红色城市天际线与跨江大桥之间高速穿行。
+
+Action:
+
+01:00-01:55：
+超低机位贴地追拍（Ground-level Tracking）。镜头距离前轮非常近，轮胎高速旋转，白色道路标线快速从车轮下方掠过。
+
+摄影机顺着车身向上拉开：男主穿全黑服装并戴黑色全盔，身体前倾、双手牢牢握住车把；女主坐在后座，双腿稳定放在两侧脚踏上，一只手抱住男主腰部。
+
+摩托车快速升挡，发动机音调明显提高。
+
+01:55-02:80：
+切侧面并行追车镜头。摩托车高速驶过金色传统建筑和蓝色高楼，人物保持清晰，背景灯光形成横向速度光带。
+
+女主从男主肩后探出身体，看向并行摄影机，先朝镜头挥手，再在脸侧做出俏皮手势。
+
+男主始终看向前方，不回头，不松开车把。
+
+02:80-03:55：
+镜头突然降低至后轮旁边，紧贴黑红车身高速移动。后轮旋转、链条运动、悬挂轻微压缩，红色车身线条从镜头前方掠过。
+
+摩托车从桥梁灯光下方冲出，摄影机快速上升成广角侧拍。红色高楼群在两人身后占据整个背景。
+
+03:55-04:60：
+女主坐稳后短暂张开双臂，迎着风抬头；随后双手举过头顶，合成一个清楚的爱心形状。
+
+摄影机围绕摩托车从左侧快速移动至左前方（Fast Arc Tracking），车灯、红色建筑和蓝白护栏形成强烈纵深。
+
+摩托车保持高速直线行驶，不翘头、不漂移。
+
+04:60-05:45：
+正面低机位跟拍。摩托车从远处快速逼近，明亮前灯正对镜头，轮胎几乎贴近摄影车。
+
+男主轻微压低身体，完成一次清晰换挡；摩托车再次加速，车身向前窜出。
+
+女主结束爱心动作，一只手重新抱住男主，另一只手伸向摄影机，手掌越来越大并快速遮住整个镜头。
+
+05:45-06:10：
+女主的黑色袖口和手掌完全遮满镜头，触发第二次硬切。
+
+遮挡移开后，男女主已经同时戴上造型一致的黑色全盔。两顶头盔都有完整面罩，面罩从额头位置完整下拉，盖住眼睛、鼻子和嘴部；城市红光清晰映在面罩表面。
+
+Camera:
+轮胎超近景→侧向追车→后轮贴拍→快速弧形环绕→正面低机位逼近→手掌遮镜。
+
+Style:
+镜头保持速度感和机械重量，背景灯光拉丝但车身与人物清晰。
+
+Constraints:
+摩托车始终是同一辆黑红运动街车；男主始终驾驶，女主始终坐在后座。
+
+SHOT 3｜双人全盔压轴追车（06:10-10:00）
+
+Subject:
+男女主都戴完整黑色全盔，深色面罩下拉，骑着黑红摩托车完成更酷、更高速的夜间追车收尾。
+
+Action:
+
+06:10-07:05：
+黑场遮挡切到正面追车镜头。摩托车前灯刺破夜色，高速向镜头逼近。
+
+男主戴黑色全盔，深色面罩完全下拉，身体低伏控制车把；女主同样戴黑色全盔，完整面罩下拉，头部从男主肩侧探出。
+
+两顶头盔必须各自完整覆盖头部，不能只出现半顶头盔，不能缺少下巴保护结构，不能把面罩变成眼镜。
+
+07:05-08:00：
+摄影车向侧面移动，切换成贴近摩托车的低机位侧拍。
+
+摩托车进入一段平缓弯道，男主与车身进行小幅度同步倾斜，轮胎始终贴住地面；女主身体紧贴男主，双臂环住他的腰部，头盔轻靠在男主肩后。
+
+红色高楼、桥梁灯带和护栏在背景中快速向后扫过。
+
+08:00-08:80：
+镜头从前轮沿着车身快速滑向两人。女主短暂松开一只手，朝镜头做出V形手势，黑色头盔面罩反射出红色霓虹。
+
+男主保持双手控制车把，低头加速。发动机声随音乐重拍再次提高。
+
+女主完成手势后立刻重新抱住男主，不能长时间松手。
+
+08:80-09:45：
+摄影机降到摩托车右后轮位置。摩托车从镜头前方高速掠过，排气声、风声和轮胎声形成最强烈的速度爆点。
+
+镜头快速切到后方追拍：红色尾灯位于画面中央，两人的黑色全盔轮廓在红色城市灯光下清晰可见。
+
+09:45-10:00：
+摩托车驶入红色建筑群与桥梁形成的城市纵深。女主紧紧抱住男主，头盔靠在他肩后；男主保持低伏驾驶姿势。
+
+摄影机略微降低速度，让摩托车迅速拉开距离。最后定格在黑红摩托车、红色尾灯、两顶完整黑色全盔和城市夜景组成的背影画面。
+
+Audio:
+持续发动机轰鸣、换挡声、轮胎摩擦声、高速风声；结尾以一次低沉发动机拉转和电子音乐重拍收束。
+
+Camera:
+正面低机位追车→贴身侧拍→沿车身滑动→后轮超近景→后方高速拉远。
+
+Style:
+冷黑车身与红色城市灯光形成强烈对比，画面硬朗、快速、具有真实追车片质感。
+
+Constraints:
+06:10之后男女主必须始终佩戴完整黑色全盔，面罩全部下拉，不能在后续镜头消失、掀起或变成半盔。
+
+---
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0)**
 
 ### Goofy Rubber-Face Transformations on a Night Street
 

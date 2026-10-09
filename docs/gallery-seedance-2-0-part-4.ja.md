@@ -1,8 +1,8 @@
 # Seedance 2.0 — 全ケース（Part 4/4）
 
-Seedance 2.0 の全 279 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 280 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 279 件中 277–279 件目。
+このページ: 280 件中 278–280 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · **Part 4**
 

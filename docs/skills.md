@@ -15,19 +15,19 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 98 | 10 |
-| [Action continuity choreography](#action-continuity-choreography) | 81 | 6 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 79 | 5 |
-| [Product ad shot design](#product-ad-shot-design) | 70 | 4 |
-| [Cinematic travel montage](#travel-city-walk) | 59 | 5 |
-| [Animation style and character consistency](#animation-style-consistency) | 55 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 50 | 1 |
+| [Action continuity choreography](#action-continuity-choreography) | 83 | 6 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 80 | 5 |
+| [Product ad shot design](#product-ad-shot-design) | 71 | 4 |
+| [Cinematic travel montage](#travel-city-walk) | 61 | 5 |
+| [Animation style and character consistency](#animation-style-consistency) | 56 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 51 | 1 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 45 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 43 | 0 |
-| [Process and transformation story](#process-transformation-story) | 39 | 0 |
+| [Process and transformation story](#process-transformation-story) | 40 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 37 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 35 | 3 |
-| [Food close-ups and eating ASMR](#food-asmr) | 30 | 0 |
-| [Sports and extreme stunts](#sports-extreme-stunts) | 26 | 0 |
+| [Food close-ups and eating ASMR](#food-asmr) | 31 | 0 |
+| [Sports and extreme stunts](#sports-extreme-stunts) | 27 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 22 | 1 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 21 | 0 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
@@ -67,7 +67,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-81 cases from 59 creators · 6 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance)
+83 cases from 61 creators · 6 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-79 cases from 57 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
+80 cases from 58 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -108,7 +108,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > Turn a product benefit into an opening hook, usage scene, and branded closing shot.
 
-70 cases from 45 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance)
+71 cases from 46 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
@@ -127,7 +127,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-59 cases from 38 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance)
+61 cases from 40 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -147,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-55 cases from 44 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance)
+56 cases from 45 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
@@ -164,7 +164,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-50 cases from 30 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
+51 cases from 30 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -212,7 +212,7 @@ No creator methods yet.
 
 > Compress making or transformation into a readable story with a clear start, continuous steps, and end state.
 
-39 cases from 35 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance)
+40 cases from 36 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
@@ -260,7 +260,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 
 > Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
 
-30 cases from 24 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance)
+31 cases from 25 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill food-asmr
@@ -274,7 +274,7 @@ No creator methods yet.
 
 > It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
 
-26 cases from 23 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance)
+27 cases from 24 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts

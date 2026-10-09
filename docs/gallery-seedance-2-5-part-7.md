@@ -1,10 +1,177 @@
 # Seedance 2.5 — Full Gallery (Part 7/7)
 
-All 529 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 535 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 517–529 of 529.
+This page: cases 521–535 of 535.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · **Part 7**
+
+### Seedance 2.5 Sci-Fi Epic Short Film That Makes You Fly from a Single Photo
+
+> Feed in one photo of yourself and the prompt makes you fly: a sci-fi epic live-action short shot as if on an ARRI Alexa 35.
+
+[<img src="https://media.goodcase.ai/cases/db7139cf93f2.jpg" width="600" alt="Seedance 2.5 Sci-Fi Epic Short Film That Makes You Fly from a Single Photo">](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac)
+
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2088977887638516207) | **Published:** 2026-08-16 | **Heat:** 13
+
+<details>
+<summary><b>Full prompt (107 lines, click to expand)</b></summary>
+
+```
+中国人能飞✈️
+
+想飞吗？只需输入自己的照片，加上下面的提示词，你也能飞✈️😄
+
+Seedance 2.5 prompt 👇
+
+【风格】科幻史诗真人电影（Sci-fi Epic Live-Action），ARRI Alexa 35 机身 + Panavision Ultra Vintage 变形宽银幕镜头（Anamorphic），2.39:1 宽银幕画幅，Tiffen Black Pro-Mist 1/4 柔光镜，Kodak 250D 胶片质感、可见但细腻的颗粒，高光边缘带红橙渗色光晕（Halation），180°快门角自然运动模糊，暗部保留细节不死黑，8K超清，真实摄影（Photorealistic），无动漫感、无CG塑料感
+
+【时长】30秒
+
+【场景】从地球荒原一路上升，穿雷暴云 → 平流层 → 近地轨道 → 月球 → 小行星带 → 太阳表面
+
+【角色】主角（全片同一人，服装与外形完全以参考图为准）
+
+[00:00-00:02] 镜头1：负手而立（85mm 长焦 / Slow Dolly In）
+
+广角远景：主角@图片1背对镜头站在枯黄草原上，双手背在身后，一动不动。天顶被一整片巨大的乳状积云压满，远处地平线只有一条明亮的逆光带。
+
+画面：风吹得草浪成片倒伏，逆光把草叶边缘描出一圈毛茸茸的金边。
+
+机位：85mm 长焦压缩空间，镜头缓慢向前推进。
+
+[00:02-00:04] 镜头2：起飞冲击（40mm / Speed Ramp + Whip Tilt Up）
+
+0.3秒慢动作：主角@图片1脚下一圈环形冲击波贴地扩散出去，方圆几十米的草被压平成一个同心圆，碎草和沙尘垂直腾起。
+
+随即切全速：他猛然垂直升空，画面只剩他的腿从上方出画。镜头急速上摇跟随，被气浪震了一下（Camera Shake），穿过尘土冲进云层。
+
+[00:04-00:07] 镜头3：雷暴云中心（40mm）
+
+主角@图片1缩成一个小黑点在云柱中垂直上升，负手姿态没有改变。四周云里的蓝白色闪电一道道炸开，每次闪把周围的云照亮一瞬，他的剪影在亮起的云幕上被压成一个黑点。
+
+机位：跟随上升，云层向画面下方飞速倒退，变形镜头把画面边缘轻微拉长。
+
+[00:07-00:09] 镜头4：冲出云顶（50mm / Backlit Emergence）
+
+主角@图片1逆光穿出金色云层，身后的云被撞出一个漏斗形的空洞，暖金色光晕从他背后爆开。
+
+画面：强逆光在他轮廓外缘烧出一圈红橙色渗色光晕（Halation），高光被柔光镜化开但不过曝。
+
+[00:09-00:13] 镜头5：平流层360°环绕（50mm / Full 360° Orbit）
+
+画面：主角@图片1在云海上方静止悬停，双手垂在身侧一动不动，全程不转身。天空上半部已是深棕黑的临近太空，下方是被夕阳染成金色的积云海。
+
+机位（00:09-00:12）：50mm 镜头从他背后起，绕着他匀速环绕一整圈——依次经过他的侧面、正面、另一侧，最后转回他的背后。环绕全程机位与他的距离保持不变，他在画面里的大小也不变。
+
+机位（00:12-00:13）：镜头停在他背后不动，他从这个背面视角猛然加速垂直上升，瞬间缩成一个小点飞离画面，只剩空荡荡的金色云海。
+
+节奏：这一段要慢，是全片的呼吸点。
+
+[00:13-00:15] 镜头6：地球轨道冲刺（40mm / Side Tracking + Vapor Cone）
+
+硬切超近景：主角@图片1俯冲飞行姿态，身体水平前倾、手臂前伸，衣物被气流抽打得剧烈变形，布料褶皱清晰。背景是地球弧面和一整个台风漩涡云系。
+
+特效：他身体周围炸开一圈白色音爆云环。
+
+机位：侧后方跟拍，广角镜头把地球弧线拉得更弯，他向前飞离，两秒内缩成一个小黑点。
+
+[00:15-00:17] 镜头7：奔月（40mm / Speed Trails + Star Streaks）
+
+地球表面高速掠过化成放射状拉丝，切进黑色太空：主角@图片1拖出放射状速度线冲向远处的月球，背景的星星被拉成一道道细线。月球在画面中快速变大，冷白的月光在镜头里横向拉出一条蓝色变形光条。
+
+[00:17-00:19] 镜头8：月面掠地（40mm / Low Skim）
+
+主角@图片1从画面左侧入画，右侧是月球大特写，环形坑的边缘被侧光切出硬边。他俯冲向月面贴地极速掠行，月面从下方飞速倒退成放射状运动模糊，身后拉出一条长长的尘迹。
+
+[00:19-00:21] 镜头9：落月（50mm / Impact + Dust Settle）
+
+主角@图片1砸向月面，接触瞬间画面白闪一帧，一圈环形冲击波把月尘推出去铺成一张圆盘，镜头被震了一下。
+
+尘埃在低重力下缓慢沉降后，他站在环形坑正中，双手垂在身侧一动不动，天上挂着一颗巨大的星球。
+
+光：无大气散射的硬光，只有一个光源，影子内部纯黑没有任何补光。
+
+机位：缓慢拉远并下摇。
+
+[00:21-00:23] 镜头10：蹬地起飞（100mm 特写 → 广角 / Low-gravity Launch）
+
+100mm 特写：主角@图片1的脚踩在布满裂缝的月壤上，投出一道又长又硬的黑影，浅景深把远处的坑壁化开。月壤颗粒质感清晰。
+
+0.3秒慢动作后切全速：他猛然蹬地起飞，月尘炸成一根冲天的垂直喷射柱，柱体在低重力下缓慢向外扩散、久久不落。随后切太空：他的背影剪影在月球弧线上方，快速缩成一个光点。
+
+[00:23-00:24] 镜头11：掠过橙色行星（85mm / Wide Pass）
+
+切一颗橙黄色行星的弧面，厚大气层边缘泛出一圈辉光。主角@图片1化成一个小黑点从行星上方高速掠过，长焦压缩让行星显得巨大而人几乎看不见。
+
+[00:24-00:27] 镜头12：撞穿小行星带（40mm / Behind-the-back Tracking）
+
+画面：主角@图片1的背影锁在画面正中，身体前倾、双臂后掠，在密集的小行星之间高速穿梭、贴身擦过。几块小行星被撞碎，碎屑向四周甩出去。
+
+机位：第三人称背后跟拍，镜头始终锁在他背后不动。小行星向画面两侧飞掠形成强烈的放射状运动模糊，变形镜头把边缘的岩块拉成长条，每次撞击镜头轻微震一下。
+
+[00:27-00:29] 镜头13：太阳出现（40mm / Anamorphic Flare + Crash Zoom）
+
+冲出小行星带，前方黑暗中出现一个带光晕的火点，横向的宽银幕镜头光晕贯穿整个画面。
+
+机位：镜头急速推进，太阳在两秒内从一个点长到充满画面，边缘的日珥翻卷着甩出去。
+
+[00:29-00:30] 镜头14：抵达（85mm / Continuous Push In）
+
+主角@图片1的小剪影背对镜头，悬停在充满整个画面的太阳圆盘正中，只剩一个纯黑的轮廓。
+
+光：过曝的橙白高光从他身体边缘溢出来，在轮廓外烧出一圈红橙渗色光晕，胶片颗粒在高光区变得明显。
+
+机位：镜头持续推进直至定格。
+
+音效：风吹草声 → 一记闷雷般的起跳冲击 → 雷暴轰鸣 → 破空声 → 真空静默（只剩低频轰鸣）→ 小行星碎裂的闷响 → 太阳表面的低频翻滚。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac)**
+
+### Cinematic Matcha Tea Ceremony
+
+> A detailed prompt for a 2D animated sequence of a traditional matcha tea ceremony, using project and character references for consistent composition and design.
+
+[<img src="https://media.goodcase.ai/cases/4f0337074c6c.jpg" width="600" alt="Cinematic Matcha Tea Ceremony">](https://goodcase.ai/cases/case-348681e51fdd)
+
+**Author:** @itsphotogptai | **Source:** [Original](https://x.com/itsphotogptai/status/2089672910520910279) | **Published:** 2026-08-18 | **Heat:** 10
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+Use @ [storyboard ref] only for each P## panel's staging, framing, blocking, screen positions, and direction. Ignore line-sketch artifacts; written beats, references, and global fields define final content.
+Use @ [character ref] only for Zeyn's final identity, hair, ornaments, earrings, and flowing black wardrobe.
+Do not transfer Zeyn's reference-controlled features or wardrobe to C2.
+C2 is a slim adult guest with tied dark hair and a plain indigo kimono.
+LOOK + WORLD: Refined cinematic 2D anime, inked contours and watercolor in a rustic tatami chashitsu; hearth and kettle behind Zeyn's left, tokonoma back-right. Amber black-red-gold light with matcha green, natural 50mm depth, thin steam.
+ACTION + CAMERA: Exact hands and pauses; insert cuts rise through pour and whisk, then breathe at offering and sip. Controlled pushes and locked details preserve the left-right axis; stillness punctuates.
+VFX SYSTEM: Translucent kettle steam and one matcha droplet emerge from their sources and fade naturally.
+SOUND: No music; kettle simmer, silk folds, bamboo on ceramic, brisk whisking, soft bowl contact.
+BEATS:
+P01: Profile ECU, push: Zeyn draws the red silk fukusa from her black sleeve and opens it with one crisp, weighted snap.
+P02: High front 3/4 CU, locked: her fingers fold the cloth into exact triangles without disturbing her long sleeves.
+P03: Top-down CU, locked: the fukusa crosses the lacquer natsume lid once, leaving the container centered and closed.
+P04: Low profile ECU, track: she encloses the bamboo chashaku shaft in the cloth and draws it cleanly through.
+P05: High OTS MS, tilt: she lifts the hishaku from the fixed kettle and pours hot water into the single chawan; steam opens briefly.
+P06: Profile CU, locked: she settles the chasen tips into the hot water, gently flexing and softening the bamboo tines.
+P07: Front 3/4 CU, pan: she empties the bowl into the kensui, then wipes the same chawan interior once with the white chakin.
+P08: Profile ECU, push: the chashaku lifts one measured scoop of vivid matcha from the natsume toward the waiting bowl.
+P09: Top-down ECU, locked: a second measured scoop lands beside the first, forming two small green mounds at center.
+P10: Low front 3/4 CU, tilt: a thin hishaku stream joins the powder while amber light catches the rising steam.
+P11: High OTS CU, push: Zeyn drives the chasen in a quick wrist-led W rhythm, sleeves steady while the liquid accelerates.
+P12: Top-down ECU, locked: fine even foam spreads across the surface as the whisk slows near the center.
+P13: Profile ECU, push: she lifts the chasen vertically; one green droplet hangs, falls into the foam, and disappears.
+P14: Front 3/4 MS, track: Zeyn turns the chawan's decorated front toward C2 and slides it across the tatami boundary with both hands.
+P15: High OTS CU, locked:
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-348681e51fdd)**
 
 ### Seedance 2.5 Cliff Wingsuit Jump Over the Sea in One Take
 

@@ -1,19 +1,19 @@
 {
-  "cases": 808,
+  "cases": 815,
   "siteTotalCases": 1716,
   "siteVideoCases": 1027,
   "siteCreators": 427,
   "siteFetchedAt": "2026-10-09",
   "videoSkillsOnSite": 62,
   "skills": 77,
-  "seedance25": 529,
-  "seedance20": 279,
-  "authors": 196,
+  "seedance25": 535,
+  "seedance20": 280,
+  "authors": 197,
   "retestRuns": 367,
   "retestCases": 355,
   "stabilityCases": 246,
   "stabilityAvg": 77.9,
   "templates": 27,
   "templateCategories": 6,
-  "lastUpdated": "2026-10-09"
+  "lastUpdated": "2026-10-10"
 }

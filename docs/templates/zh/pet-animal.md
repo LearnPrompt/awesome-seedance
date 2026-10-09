@@ -81,7 +81,7 @@
 | <a href="https://goodcase.ai/cases/synthesarah-seedance-ai-636eef3e35c4"><img src="https://media.goodcase.ai/media/poster/synthesarah-seedance-ai-636eef3e35c4.jpg" width="160" alt="徒步者与猕猴的歪头较量"></a> | [徒步者与猕猴的歪头较量](https://goodcase.ai/cases/synthesarah-seedance-ai-636eef3e35c4) | 2.5 | 52 |
 | <a href="https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5"><img src="https://media.goodcase.ai/cases/b215059fa39f.jpg" width="160" alt="棕熊幼崽驾驶复古蓝车穿越农场"></a> | [棕熊幼崽驾驶复古蓝车穿越农场](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5) | 2.0 | 41 |
 | <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69"><img src="https://media.goodcase.ai/cases/f9fd265ba6c5.jpg" width="160" alt="夕阳海滩上小猫赠玫瑰相拥"></a> | [夕阳海滩上小猫赠玫瑰相拥](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf24080a2c69) | 2.5 | 36 |
-| <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898"><img src="https://media.goodcase.ai/cases/deaf63c43f9d.jpg" width="160" alt="公鸡激流营救三只小鸡"></a> | [公鸡激流营救三只小鸡](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | 2.5 | 31 |
+| <a href="https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898"><img src="https://media.goodcase.ai/cases/deaf63c43f9d.jpg" width="160" alt="公鸡激流营救三只小鸡"></a> | [公鸡激流营救三只小鸡](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-30882311d898) | 2.5 | 30 |
 
 其余 3 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 

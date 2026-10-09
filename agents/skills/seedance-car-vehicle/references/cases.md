@@ -124,7 +124,7 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 
 ## E5 · First-Person Midair Assembly of a Black Lamborghini
 
-- Seedance 2.5 · creator: @MissDelulu9 · heat: 38
+- Seedance 2.5 · creator: @MissDelulu9 · heat: 37
 - Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) · [finished media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) · [poster](https://media.goodcase.ai/cases/4da7c433c3b6.jpg) · [original source](https://x.com/MissDelulu9/status/2091423578197737772)
 - Summary: What if you could assemble a supercar with your mind? 👀 Made with Seedance 2.5 using @atlas_cloud_ai #AtlasCloud Prompt
 

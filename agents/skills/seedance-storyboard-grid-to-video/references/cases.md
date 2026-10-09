@@ -202,7 +202,7 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ## E4 · Apartment Arrival Storyboard Animation
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 64
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 63
 - Evidence: [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) · [finished media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) · [poster](https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg) · [original source](https://x.com/Just_sharon7/status/2083912532692001128)
 - Summary: A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
 
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · Flaming Spear Hero Battles the Stone Colossi
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 42
+- Seedance 2.5 · creator: @Xaroon_x · heat: 41
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) · [finished media](https://media.goodcase.ai/cases/3213936a04bc.mp4) · [poster](https://media.goodcase.ai/cases/4f05b16f382b.jpg) · [original source](https://x.com/Xaroon_x/status/2100595334833422793)
 - Summary: From ruins to a giant showdown. Created with Seedance 2.5 on @WizstarAI AEpic fantasy action, dynamic combat, and cinematic visuals brought to life with AI. Try…
 
@@ -417,7 +417,7 @@ Spacecraft becomes fully deployed: dark gunmetal body, angular wings, centr
 
 ## E8 · High-Energy Spicy Potato Chips Commercial Storyboard
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 26 · stability: 82
+- Seedance 2.5 · creator: @Strength04_X · heat: 25 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
 - Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
 
