@@ -1,10 +1,71 @@
 # Seedance 2.0 — Full Gallery (Part 3/4)
 
-All 280 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 282 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 197–278 of 280.
+This page: cases 197–280 of 282.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.md)
+
+### Retro 16mm Aerobics Fitness Vlog
+
+> A cinematic prompt for creating a nostalgic early-2000s-style fitness vlog starring a Korean idol, emphasizing authentic handheld camerawork and a lo-fi videotape texture.
+
+[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="Retro 16mm Aerobics Fitness Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)
+
+**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | **Published:** 2026-07-25 | **Heat:** 19
+
+**Stability:** 81/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.8) · [output](https://media.goodcase.ai/retests/16mm-vlog-c8cfec0d8310/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310)**
+
+### Premium Tropical Drink UGC Ad
+
+> A detailed multi-scene video prompt for a premium tropical drink ad, showing a woman on the beach with cinematic handheld shots and macro close-ups.
+
+[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="Premium Tropical Drink UGC Ad">](https://goodcase.ai/cases/ugc-34764467dea1)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | **Published:** 2026-07-14 | **Heat:** 19
+
+**Stability:** 77/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (21 lines, click to expand)</b></summary>
+
+```
+Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
+
+The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
+
+She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
+
+She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
+
+She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
+
+The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
+
+As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
+
+The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
+
+The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
+
+Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
+
+Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-34764467dea1)**
 
 ### A Wordless Love Through Sign Language
 
@@ -223,58 +284,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-f1f4b662e370)**
 
-### Claymation Cat World Transformation
-
-> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14)
-
-**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2078535850745626926) | **Published:** 2026-07-18 | **Heat:** 18
-
-**Stability:** 87/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86.7) · [output](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-6152b0808b14)**
-
-### Luxury Rooftop Helicopter Party
-
-> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
-
-[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
-
-**Author:** @LufzzLiz | **Source:** [Original](https://x.com/LufzzLiz/status/2081365529101815987) | **Published:** 2026-07-26 | **Heat:** 17
-
-**Stability:** 83/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 82.7) · [output](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (12 lines, click to expand)</b></summary>
-
-```
-8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
-
-分镜 1 | 00:00-00:02 中景起幅・弧形左移
-中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
-
-分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
-
-分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
-分镜 4 | 00:12-00:15 大全景落幅 权力定格
-
-大全景落幅，镜头完全拉远后
-视频时长：15秒
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
-
 ### Glitch Art Multi-Dimensional Face Transformation
 
 > An experimental glitch-style prompt that uses rhythmic jump cuts to switch between 3D CG, live action, animation, and pixel art.
@@ -381,6 +390,58 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-887d0484c2ce)**
+
+### Claymation Cat World Transformation
+
+> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
+
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14)
+
+**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2078535850745626926) | **Published:** 2026-07-18 | **Heat:** 17
+
+**Stability:** 87/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86.7) · [output](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-6152b0808b14)**
+
+### Luxury Rooftop Helicopter Party
+
+> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
+
+[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
+
+**Author:** @LufzzLiz | **Source:** [Original](https://x.com/LufzzLiz/status/2081365529101815987) | **Published:** 2026-07-26 | **Heat:** 16
+
+**Stability:** 83/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 82.7) · [output](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (12 lines, click to expand)</b></summary>
+
+```
+8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
+
+分镜 1 | 00:00-00:02 中景起幅・弧形左移
+中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
+
+分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
+
+分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
+分镜 4 | 00:12-00:15 大全景落幅 权力定格
+
+大全景落幅，镜头完全拉远后
+视频时长：15秒
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
 
 ### High-End Lifestyle Lipstick Commercial Video
 
@@ -2513,42 +2574,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)**
 
-### Photorealistic Wireless Earbuds Commercial
-
-> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
-
-[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f)
-
-**Author:** @hiapi_ai | **Source:** [Original](https://x.com/hiapi_ai/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 3
-
-**Stability:** 73/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (14 lines, click to expand)</b></summary>
-
-```
-生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
-
-主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
-
-产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
-
-0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
-3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
-6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
-
-9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
-12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
-
-声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f)**
-
 ### Emotional Kyoto Travel Vlog Animation
 
 > A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
@@ -2695,6 +2720,42 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
+
+### Photorealistic Wireless Earbuds Commercial
+
+> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
+
+[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f)
+
+**Author:** @hiapi_ai | **Source:** [Original](https://x.com/hiapi_ai/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 2
+
+**Stability:** 73/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (14 lines, click to expand)</b></summary>
+
+```
+生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
+
+主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
+
+产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
+
+0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
+3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
+6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
+
+9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
+12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
+
+声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f)**
 
 ### Gladiator Arena Duel Action
 

@@ -115,7 +115,7 @@ Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting,
 
 ## E5 · Modern Action Comedy Video Prompt
 
-- Seedance 2.0 · creator: @pyona_ai · heat: 83
+- Seedance 2.0 · creator: @pyona_ai · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/modern-action-comedy-video-prompt) · [finished media](https://media.goodcase.ai/media/video/modern-action-comedy-video-prompt.mp4) · [poster](https://media.goodcase.ai/media/poster/modern-action-comedy-video-prompt.jpg) · [original source](https://x.com/pyona_ai/status/2088605198973583799)
 - Summary: A detailed action-comedy video prompt for Seedance 2.5 featuring a female character's persistent attacks and a male character's playful evasions involving quick cheek kisses.
 
@@ -156,7 +156,7 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 ## E7 · POV: The Turkish Ice Cream Guy Had Other Plans
 
-- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 73
+- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) · [finished media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) · [poster](https://media.goodcase.ai/cases/e9b53af60cec.jpg) · [original source](https://x.com/sophiaparkerr_/status/2096542775709692255)
 - Summary: POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
 

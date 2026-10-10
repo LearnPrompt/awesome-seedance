@@ -202,7 +202,7 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ## E4 · Apartment Arrival Storyboard Animation
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 63
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) · [finished media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) · [poster](https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg) · [original source](https://x.com/Just_sharon7/status/2083912532692001128)
 - Summary: A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
 

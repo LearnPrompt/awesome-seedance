@@ -264,7 +264,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 83,
+      "caseCount": 84,
       "creatorCount": 61,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
@@ -289,6 +289,26 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-18paelt",
       "cover": "https://media.goodcase.ai/cases/6304957c914f.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-1picsey",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "Aiwithmaha · Action continuity choreography",
+        "zh": "Aiwithmaha · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 4 published cases by Aiwithmaha.",
+        "zh": "从 Aiwithmaha 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "Aiwithmaha",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1picsey",
+      "cover": "https://media.goodcase.ai/cases/f28efeb610bf.jpg"
     },
     {
       "slug": "action-continuity-choreography-by-1wr1qau",
@@ -354,26 +374,6 @@
       "cover": "https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg"
     },
     {
-      "slug": "action-continuity-choreography-by-1picsey",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "Aiwithmaha · Action continuity choreography",
-        "zh": "Aiwithmaha · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 3 published cases by Aiwithmaha.",
-        "zh": "从 Aiwithmaha 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "Aiwithmaha",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1picsey",
-      "cover": "https://media.goodcase.ai/cases/bb3e5d9a0d51.jpg"
-    },
-    {
       "slug": "action-continuity-choreography-by-d5g808",
       "baseSlug": "action-continuity-choreography",
       "kind": "creator_method",
@@ -407,8 +407,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 80,
-      "creatorCount": 58,
+      "caseCount": 83,
+      "creatorCount": 59,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/cases/6fd55edc6509.webp"
@@ -819,7 +819,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 51,
+      "caseCount": 52,
       "creatorCount": 30,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
@@ -1019,7 +1019,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 35,
+      "caseCount": 36,
       "creatorCount": 18,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
@@ -1074,12 +1074,12 @@
         "zh": "auqibhabib · 恐怖悬疑短片"
       },
       "description": {
-        "en": "A recurring horror and suspense short method derived from 4 published cases by auqibhabib.",
-        "zh": "从 auqibhabib 的 4 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
+        "en": "A recurring horror and suspense short method derived from 5 published cases by auqibhabib.",
+        "zh": "从 auqibhabib 的 5 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
       },
       "styleTag": null,
       "creator": "auqibhabib",
-      "caseCount": 4,
+      "caseCount": 5,
       "creatorCount": 1,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-43hd7f",
@@ -1179,7 +1179,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 21,
+      "caseCount": 22,
       "creatorCount": 17,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
       "url": "https://goodcase.ai/skills/vehicles-at-speed",

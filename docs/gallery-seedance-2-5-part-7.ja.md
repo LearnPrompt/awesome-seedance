@@ -1,10 +1,218 @@
 # Seedance 2.5 — 全ケース（Part 7/7）
 
-Seedance 2.5 の全 535 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 543 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 535 件中 517–535 件目。
+このページ: 543 件中 521–543 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7**
+
+### Red-Sailed Ship Warriors Battle a Whirlpool Giant
+
+> What if Jason Momoa was casted in The Odyssey 🤪 Text to video prompt on Seedance 2.5, Prompt Given below. To be honest
+
+[<img src="https://media.goodcase.ai/media/poster/madmax-series-seedance-ai-88cc4e931e9a.jpg" width="600" alt="Red-Sailed Ship Warriors Battle a Whirlpool Giant">](https://goodcase.ai/cases/madmax-series-seedance-ai-88cc4e931e9a)
+
+**作者:** @MadMax_Series | **出典:** [元投稿](https://x.com/MadMax_Series/status/2093000650938335426) | **公開日:** 2026-08-27 | **ヒート:** 19
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 71.7) · [出力](https://media.goodcase.ai/retests/madmax-series-seedance-ai-88cc4e931e9a/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+MAIN WARRIOR 是一名完全原创、无法对应任何现成人物的明确成年男性，约四十多至五十岁，高大、极其强壮，weathered olive skin，肩长深色湿发，浓密深色胡须夹杂灰丝，眉骨深刻，面部有污垢、汗水与疲惫痕迹。穿原创 antiqued-bronze cuirass，腹部只有非标志性雕塑甲片、圆钝分层肩甲、深色皮革裙甲、青铜护臂、厚重战靴与低饱和 dark-crimson cloak；不戴头盔。脸、胡须、污迹、盔甲、披风和身体比例全程完全一致。  LUMINOUS WOMAN 是明确成年女性，二十多至三十多岁，medium olive skin，齐肩湿黑发，athletic-curved体型；穿原创 ivory 与 sand-colored draped costume，包含完全不透明贴身内层、编织腰部结构和长半透明布片。服装始终安全贴合、解剖稳定，脸、头发、服装与体型全程不变。  COLOSSAL CREATURE 是原创非IP巨型人形生物，巨大尺度，秃头、灰褐色拉伸皮肤、可见肋骨与锁骨、两只 muted-red 发光眼、细长骨性下颌、不规则尖牙、极长双臂、巨大有明确关节的双手和树干粗细的双腿；皮肤是肉质革状，不是树皮。体型、两眼、肢体数量和尺度全程稳定。  所有人物与生物完全独立，身份、脸、肢体、衣物、武器必须始终清晰，绝不融合、换脸、多肢体、共享手脚或比例漂移。船员、shepherd-warriors、 captive defender 与两名axe fighters全部是彼此不同的明确成年人。羊群始终保持同一群淡色羊。  风格：精确20.00秒，横向原生16:9，24fps，photoreal VFX-enhanced live-action mythological fantasy trailer，必须像真实摄影成人演员、真实布料和实际盔甲，与写实海洋、船体和巨型生物VFX无缝合成；允许高端fantasy concept-art与prestige game-cinematic审美影响，但绝不能变成anime、插画、cel shading、2.5D或统一glossy CG。摄影模拟ARRI Alexa 35、35mm Cooke anamorphic，冷teal/blue对暖amber，bronze高光、dark-crimson accents、克制bloom与halation、细organic grain、轻微vignette。动作自然时间，约180度快门，只有高速身体、羊、船体冲击、前景遮挡有真实方向blur。  镜头规则：一个连续镜头，无剪切、无跳切、无黑场剪辑、无蒙太奇。摄影机必须通过墙面、烟雾、船帆、人物身体、白色曝光bloom、水花与黑暗前景遮挡，在一个连续空间化电影镜头中依次进入所有视觉段落。优先侧面与背侧观察，不做英雄定格，不做干净宣传构图。  0.00-1.78秒：从MAIN WARRIOR中长景开始，他站在深teal-blue墙前，左侧profile，双臂沉重下垂，crimson cloak挂在肩后。眼睛先转，随后下巴、颈部和上躯干跟随，腿保持扎地；最终几乎正对镜头，形成疲惫、敌意的直接凝视。upper-left硬光在screen-right墙面投下清楚影子。约1.42-1.54秒短暂用白色曝光bloom扫过人物与墙面，但不是剪切，姿态不改变。  1.78-3.48秒：白bloom扩张并化成海面高光，摄影机连续进入极高俯视dark teal海洋。窄木船带一面dark-red矩形帆，沿巨大whirlpool外缘受旋流侧拉，白色wake弯曲，右侧浪撞charcoal悬崖。镜头下降靠近船体后被红帆遮挡，帆布擦镜转回MAIN WARRIOR极近脸部；他低头、呼吸、眉头收紧，湿发成束贴额，浅景深背景仍为teal。  3.48-5.03秒：摄影机被他的肩部带回船上，从至少六名成年船员后方沿湿甲板前看。船体剧烈pitch，众人屈膝抓栏杆，右前景大个船员宽站稳。水花和红布扫镜后自然显出LUMINOUS WOMAN全身站在blue-white fog中，背后强白源形成径向光束。她髋部缓慢转移重心，一脚微向前，肩部反向平衡，一手放松长ivory布片，布料延迟飘动。约4.95-5.03秒让一块极暗前景布料完全遮镜两帧，但摄影机仍持续运动，绝不变成编辑黑场。  5.03-7.80秒：暗布掠开回到船甲板低侧角。船猛然倾斜，一名helmeted man落到一膝一手后在湿木板滑动，另一人右侧摔倒，其他人抓住bulwark；水冲过中右甲板。摄影机贴地穿过脚与水花，armor boots与裸小腿 stagger，木spar沿船体滑动。随后一道白色浪花曝光遮镜，连续转入MAIN WARRIOR正面中长景，他僵硬站立、浅呼吸、直视前方，约5.92-6.05秒出现短白overexposure illumination。镜头继续从他肩侧移出，再被蓝白fog包围，LUMINOUS WOMAN完成一次清楚向前迈步：脚落地、膝髋转移重量、躯干跟上，湿发和ivory train延迟摆动。  7.80-10.82秒：她的长布料扫过镜头，转成amber尘雾外景。数名成年shepherd-warriors与淡色羊群从低位宽景朝镜头跑来，脚步、羊蹄、尘土全部自然高速。近镜一只羊短暂遮挡，遮挡退开时摄影机高抬回到whirlpool，红帆船更靠近旋涡唇，白泡沫旋入黑暗中心。海雾擦镜后再次出现女人三分之二全身，她完成一次头与躯干连续转身，头先到方向，湿黑发在背光中水平甩开，ivory train围腿延迟旋转。  10.82-13.57秒：白布边缘化成smoky amber wasteland。COLOSSAL CREATURE从暗处俯身，一只巨大开放手掌朝镜头伸来，五指各自关节稳定；lower-right是一名正常体型成年helmeted defender。巨手横扫并牢牢包住其躯干，不穿透盔甲，将其完全提离地面，双腿弯曲后悬空摆动。巨人把他向张开的嘴方向带近，但在任何bite或伤害前摄影机沿巨臂滑到其巨大下腿。两名不同成年axe fighters一左一右，以双手长柄武器攻击同一条肉质巨腿：右侧先髋转击ankle，近镜一只深色羊横穿遮挡，随后左侧fighter举起武器下劈，右侧收回再击lower shin。动作有脚底接地、肩髋旋转和尘土后果，无血、无切断。摄影机迅速后撤露出正好六名成年survivors朝镜头奔跑，巨人在烟后推进，淡色羊在右后方跑，小火在左中闪烁。  13.57-16.36秒：一块极暗烟尘完全遮住镜头约两帧但摄影机不停，随后从上方看见LUMINOUS WOMAN，她巨大的ivory skirt在blue-white floor上形成花状螺旋，斜光切出明暗褶皱。她单臂支撑，另一臂向后，缓慢抬下巴直视上方摄影机，裙摆外缘仍继续波动。白色高光逐渐扩张并转成更近的站立中景，她略后仰，双手在腰后握住拖布，呼吸一次，眼睛短暂下垂再回到镜头。  16.36-20.00秒：蓝白雾转为teal墙面，完整全身MAIN WARRIOR重新出现，双脚肩宽、双臂下垂、cloak不对称垂落，只有呼吸与细布料运动。摄影机绕到其右侧profile，留出前方空teal空间；他咬紧下颌、眼睛做一次微小调整。随后摄影机沿侧后弧线转向前方，他突然把头与上肩转向镜头，脚与下身仍完全稳定；湿发、胡须和肩甲产生短促真实方向blur。动作停住后摄影机持续快速推进，从上躯干一路逼到极近脸部，清楚显示毛孔、汗、嵌入皱褶的灰尘、湿发束和灰胡须细节。20.00秒精确结束在活着、持续呼吸、没有眨眼的敌意凝视上，无淡出、无冻结、无标题。  声音：只有现场音效，无任何音乐、无人声对白、无旁白。战士段有近距离呼吸、甲片皮革细响和空间低风；海洋段有浪涛、whirlpool低频吸力、船体呻吟、索具绷紧、帆布抽响、甲板撞击和水冲声；羊群段有尘土脚步、羊蹄与非语言动物声；巨人段有深呼吸、远低吼、巨大脚步和地面共振；两次ankle攻击有清楚但非血腥的金属撞击肉质低响。最后推进只保留贴近战士的呼吸、甲胄细响与远处空气低鸣，20.00秒声音同步停止。  强制限制：严格保持MAIN WARRIOR与LUMINOUS WOMAN为同两名成年人；warrior脸、污垢、胡须、发型、盔甲和crimson cloak不变；woman湿黑发和ivory costume不变；crew、captive与axe fighters始终是不同成年人；红帆船、whirlpool地理、船体材质、羊群与giant anatomy全程稳定；giant只用一只手抓一名captive躯干，captive严格两臂两腿；ankle段严格两名fighter、两件长柄武器、一条巨腿；无咬伤、无血、无gore、无logo、无水印、无字幕、无文字；动作必须有重量、惯性、反冲、布料跟随、环境反应与真实重力。
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/madmax-series-seedance-ai-88cc4e931e9a)**
+
+### Bamboo Toy Car Transformation Vlog
+
+> An incredibly detailed action prompt for a 30-second handheld POV video featuring a girl with a bamboo toy that triggers a car transforming into a giant robot.
+
+[<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)
+
+**作者:** @john87445528 | **出典:** [元投稿](https://x.com/john87445528/status/2084644638724395138) | **公開日:** 2026-08-04 | **ヒート:** 18
+
+**安定度:** 55/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 55) · [出力](https://media.goodcase.ai/retests/bamboo-toy-car-transformation-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+纯属虚构的荒诞动作短片。100%真实手机实拍质感，iPhone纪录片风格，30秒手持一镜到底，无剪辑、无转场。自然日光，轻微呼吸式镜头运动，偶发自动对焦迟疑，轻微滚动快门，真实动态模糊，镜头边缘带少量指纹和灰尘。所有变形、机械运动、撞击和碎片效果都必须具有沉重的现实物理反馈，呈现为全尺寸机械装置与实景特效，绝不能出现电子游戏、动画或廉价CG质感。保留现场原始声音和路人的真实反应。 环境 午后，一家繁忙的鸿蒙智行·智界授权汽车门店停车场。 巨大的落地玻璃展厅内停着数辆新车，销售人员正陪顾客看车。停车场车辆进出不断，工作人员拿着平板在车位间穿梭，几名顾客围着一辆停在室外展示区的紫色智界R7拍照。 现场充满城市车流声、轮胎碾过沥青的声音、门店广播、远处交谈声、鸟鸣和偶尔响起的车辆提示音。一切都像路人偶然拍下、即将病毒式传播的手机视频。 门店原有标识可以自然出现在环境中，但不添加字幕、广告标题或浮动文字。 主角 一位二十五岁左右的成年年轻美女
+，身材和穿着严格参考
+HO2iXF9a4AAZsco
+。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个发光的竹知了在她身体周围凭空出现，像一群完美同步的金色蜂群，在她头顶和肩膀周围高速盘旋。 旋转产生的强风吹动她的长发和衣角，将停车场里的宣传单、树叶、灰尘和塑料袋全部卷入空中。金色光芒映在周围汽车的玻璃与金属车漆上。 巨型机器人挥动紫色机械手臂，试图拍散竹知了群。机械拳头擦过地面，掀起碎石和尘土。 美女侧身迈开一步避过冲击，双脚重新站稳，身体重心压低，右手仍然牢牢控制细绳。 她突然将竹知了高高举起…… ……然后打了一个清脆的响指。 所有发光的竹知了瞬间向前发射。 天空被无数道金色轨迹划破。 第一批竹知了像精准制导的蜂群，猛烈撞击机器人的膝关节和脚踝；第二批绕着机器人高速盘旋，钻入肩部车轮、车门手臂和胸口灯带之间的机械缝隙。 机器人踉跄后退，机械脚掌在沥青上拖出两道深深的沟槽。它挥拳反击，却不断打空，每一次挥动都带起真实而沉重的气流。 最后一批竹知了在机器人胸前汇聚成高速旋转的金色圆环。 美女猛然向下一拉细绳。 所有竹知了同时发出一声震耳欲聋的巨大鸣叫。 一道肉眼可见的环形空气冲击波正面撞上机器人胸口。 在这一瞬间进入短暂慢动作：紫色机器人全身的机械锁扣依次弹开，车门护甲、车轮、玻璃、底盘和车身覆盖件在空中分离；金色竹知了从零件之间高速穿过，飞散的螺栓、灰尘和细小玻璃颗粒悬浮在阳光中。 这不是爆炸，也不是车辆被彻底摧毁。所有零件仍然属于同一辆紫色智界R7，没有火焰，没有人员受伤。 慢动作结束。 巨型机器人完全失去平衡，重重跪在停车场中央。它的机械结构迅速反向折叠：双腿收回底盘，车轮回到轮拱，车门重新闭合，车头、车顶和灯带准确复位。 伴随最后一声沉重的金属锁定声，机器人重新变回完整的紫色智界R7。 一片寂静。 车辆警报器逐渐停止。 顾客和销售人员小心翼翼地从展车后面探出头。一个销售人员迟疑地走向紫色R7，伸手摸了摸仍然发烫的引擎盖，又立刻把手缩了回来。 一个发光的竹知了缓缓落在美女肩膀上，光芒随即灭，重新变成普通竹制玩具。 她漫不经心地拍掉肩上的灰尘，收起细绳，经过已经恢复原状的紫色智界R7。 走出画面前，她回头看了一眼汽车，平静地小声说： “一千万以内最好玩的，还是这个。” 她再次转动竹知了，伴随着“呜哇、呜哇”的声音若无其事地继续向前走。 镜头没有切断，摄影者缓慢停下。画面最后同时保留她渐渐远去的背影、恢复原状的紫色智界R7，以及停车场后方鸿蒙智行·智界门店原有的门头标识。 严格限制 全片只有一个连续手持镜头；不航拍、不突然切换机位、不瞬移、不使用蒙太奇。美女、竹知了和紫色智界R7始终保持外观一致。只能有一辆R7变形，机器人所有零件均来自这辆车。 机器人必须具有真实重量、关节阻力、惯性和落地冲击，不能漂浮、瞬移或像橡胶玩具一样弯曲。竹知了群的运动必须有明确方向、空气阻力和碰撞反馈。 不出现驾驶员受伤、血液、人体撞击或真实人员死亡；不出现火灾与电池爆炸。不生成错误车型、乱码车标、额外手指、人物复制、车辆复制、卡通机器人、动漫光效、电子游戏HUD、字幕、贴纸、旁白、背景音乐或水印。现有门店标识自然入镜即可，不额外生成品牌宣传画面。
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)**
+
+### Seedance 2.5 12-Second Continuous Outfit-Change Fashion Blogger Video
+
+> A beat-synced outfit-change short: how many looks fit into twelve seconds? What used to take most of a day to shoot and cut now needs one reference photo and a prompt.
+
+[<img src="https://media.goodcase.ai/cases/c9256a6537c2.jpg" width="600" alt="Seedance 2.5 12-Second Continuous Outfit-Change Fashion Blogger Video">](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2089251003514102060) | **公開日:** 2026-08-17 | **ヒート:** 18
+
+<details>
+<summary><b>プロンプト全文（153 行、クリックで展開）</b></summary>
+
+```
+穿搭博主在线教学👨‍🏫
+
+12 秒换了多少套衣服呢❓
+
+像以前这样一天视频从拍摄换装再到剪辑最起码要大半天以上时间，现在仅需一张人物参考图➕提示词几分钟就能够搞定🤝
+
+Seedance 2.5 prompt 👇
+
+【风格】真实穿搭卡点短视频（Photorealistic Fashion Lookbook），节拍匹配剪辑（Beat-Synced Match Cuts），固定手机机位，4K超清，自然皮肤与真实布料质感，无塑料感
+
+【时长】12秒
+
+【比例】9:16竖屏
+
+【场景】简洁室内试衣空间：画面左侧三分之一是浅灰青色竖向半透明窗帘，右侧三分之二是浅米棕色木纹墙板，地面铺深蓝色短绒地毯；柔和均匀的室内顶光与正面补光，无明显硬阴影
+
+【角色】主角 @ ；仅参考人物五官、肤色、发型和身材比例，不继承参考图服装。全片始终是同一人物，脸部、发型、身高和身材完全一致
+
+【全局镜头规则】
+
+固定全身机位（Locked-Off Full Body Shot），标准焦段，人物从头顶到鞋底完整入镜，始终站在画面中央同一个位置；镜头不推拉、不摇移。
+
+所有换装均为踩鼓点的瞬间硬切（Beat-Synced Jump Cut），禁止魔法变装。切换前后头部、肩膀、腰胯和双脚位置精准对齐，只改变服装、配饰和轻微站姿。
+
+人物始终平静、自信地直视镜头；只做插兜、扶包带、轻微歪头、转肩、转换腿部重心等克制动作，不走动、不跳舞。
+
+顶部中央显示两行简洁无衬线标签：英文大字、中文小字；基础文字为白色，具体颜色名称使用对应颜色，并带细小深色阴影。不要底部字幕。
+
+[00:00-00:02.17] 镜头1：第一秒记住配色法则（Hook / Locked-Off Shot）
+
+人物穿黑色无袖高领修身短上衣、深蓝色低腰宽松阔腿牛仔裤、深棕色露趾凉鞋。
+
+00:00-00:00.80：人物以三分之二侧身出现，立即转向镜头并站定，一只手轻触腰侧。
+
+顶部文字：
+
+“remember”
+
+“请记住”
+
+英文女性画外音，不做口型：“Remember,”
+
+00:00.80-00:02.17：人物正面直视镜头，一只手插进口袋，另一只手自然垂下。
+
+顶部文字：
+
+“blue jeans +”
+
+“深蓝色牛仔裤”
+
+画外音继续：“blue jeans go well with”
+
+[00:02.17-00:04.33] 镜头2：深蓝牛仔裤四连搭（Rapid Match Cuts）
+
+同一条深蓝低腰阔腿牛仔裤保持不变，每次换装都在重鼓点瞬间硬切。
+
+00:02.17-00:02.60：切成红色修身短袖纽扣上衣；右手插兜。
+
+顶部：“blue jeans + red / 深蓝牛仔裤＋红色”
+
+画外音：“red,”
+
+00:02.60-00:03.17：切成白色修身图案T恤、黑色鸭舌帽和黑色单肩包；一手扶包带、一手插兜。
+
+顶部：“blue jeans + white / 深蓝牛仔裤＋白色”
+
+画外音：“white,”
+
+00:03.17-00:03.77：切成黑色修身露肩短上衣，胸前是简洁白色抽象字母图案，搭配黑色手提包；肩膀轻微转向镜头。
+
+顶部：“blue jeans + black / 深蓝牛仔裤＋黑色”
+
+画外音：“black,”
+
+00:03.77-00:04.33：切成巧克力棕色修身露肩短上衣和棕色小肩包；一手插兜，身体重心偏向另一条腿。
+
+顶部：“blue jeans + brown / 深蓝牛仔裤＋棕色”
+
+画外音：“and brown.”
+
+[00:04.33-00:08.90] 镜头3：浅蓝牛仔裤柔和彩色搭配（Color Progression）
+
+00:04.33鼓点硬切：裤装换成浅蓝色低腰宽松破洞阔腿牛仔裤，搭配黑色无袖高领修身短上衣和黑色腰带。人物双臂短暂垂下后，一手插兜。
+
+顶部：“light blue jeans + / 浅蓝色牛仔裤”
+
+画外音：“Light blue jeans go well with”
+
+00:05.67-00:06.40：切成婴儿粉色细条纹运动短袖上衣，胸前有白色数字3，搭配白色腰带和黑白运动鞋。
+
+顶部：“light blue jeans + baby pink / 浅蓝牛仔裤＋婴儿粉”
+
+画外音：“baby pink,”
+
+00:06.40-00:07.30：切成奶油黄色与白色细条纹修身T恤，搭配黑色单肩包；一手扶包带、一手插兜。
+
+顶部：“light blue jeans + butter yellow / 浅蓝牛仔裤＋奶油黄”
+
+画外音：“butter yellow,”
+
+00:07.30-00:08.27：切成低饱和湖蓝色修身图案T恤，领口和袖口带浅色滚边；人物轻微歪头。
+
+顶部：“light blue jeans + turquoise / 浅蓝牛仔裤＋湖蓝色”
+
+画外音：“turquoise,”
+
+00:08.27-00:08.90：切成米色修身图案T恤和棕色棒球帽；一手插兜，帽檐略微压低。
+
+顶部：“light blue jeans + beige / 浅蓝牛仔裤＋米色”
+
+画外音：“and beige.”
+
+[00:08.90-00:12.00] 镜头4：白色牛仔裤压轴三连（Final Color Hits）
+
+00:08.90鼓点硬切：裤装换成白色低腰宽松阔腿牛仔裤，搭配黑色无袖高领修身短上衣和深棕色露趾凉鞋。人物正面站定，手臂自然垂下。
+
+顶部：“white jeans + / 白色牛仔裤”
+
+画外音：“White jeans go well with”
+
+00:10.07-00:10.67：切成蓝白色细格纹长袖衬衫，袖口卷到手肘，搭配黑色单肩包；一手扶包、一手插兜。
+
+顶部：“white jeans + blue / 白色牛仔裤＋蓝色”
+
+画外音：“blue,”
+
+00:10.67-00:11.30：切成纯藏蓝色修身短袖上衣；人物轻微转换腰胯重心，目光保持平静。
+
+顶部：“white jeans + navy / 白色牛仔裤＋藏蓝色”
+
+画外音：“navy,”
+
+00:11.30-00:12.00：最后一个重鼓点切成酒红色方领无袖修身上衣，面料带细小白色波点，搭配酒红色腰带；人物右手插兜，抬起下巴直视镜头，最后0.3秒保持定格（Final Hold）。
+
+顶部：“white jeans + red / 白色牛仔裤＋红色”
+
+画外音：“and red.”
+
+音乐在最后一个鼓点干净收束，画面直接切黑。
+
+【声音】
+
+轻快时尚电子流行音乐（Upbeat Fashion Pop），鼓点清晰，每一次服装硬切精准落在重拍上。
+
+女性英文画外音清晰、自然、稍快；不做人物口型，不使用中文朗读，不保留环境杂音。
+
+【真实质感】
+
+真实手机固定机位拍摄；人物皮肤保留自然纹理，发丝清晰；牛仔面料具有真实厚度、洗水纹理、破洞毛边和重力垂坠；衣物、包带、腰带、帽子和鞋子与身体正确接触。
+
+【负面约束】
+
+不要其他人物、分身、换脸、五官漂移、年龄变化、发型变化、身材变化；不要人物站位漂移、背景跳动、镜头运动、推拉摇移、裁掉头部或鞋子；不要衣服融化、生长、穿模、叠穿残留，不要烟雾、闪光、旋转、遮挡或魔法转场；不要包带粘连、帽子漂浮、腰带扭曲、鞋子跳变、手脚畸形、多余肢体；不要卡通感、动漫感、塑料皮肤、过度磨皮、夸张表情或舞蹈；不要底部字幕、中文画外音、乱码文字、错误颜色标签、水印和无关品牌标志。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd)**
 
 ### Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs
 
@@ -111,6 +319,32 @@ Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)**
+
+### Seedance 2.5 Sunglasses UGC Review With Voiceover
+
+> A UGC sunglasses review: the host unboxes, tries on and shows details in a bedroom mirror while narrating the fit. Person and product are locked to reference images, shot handheld.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 Sunglasses UGC Review With Voiceover">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)
+
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2084608509837275231) | **公開日:** 2026-08-04 | **ヒート:** 15
+
+<details>
+<summary><b>プロンプト全文（8 行、クリックで展開）</b></summary>
+
+```
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded sunglasses, retail box, and leather carrying case as locked product references. Maintain perfect product consistency, including the frame shape, lenses, hinges, colors, materials, and proportions.
+Create an ultra-realistic UGC luxury creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
+The video begins with the woman sitting on the bed beside the retail box and leather case. Smiling at the camera, she says, "I genuinely wasn't expecting to love these this much." She picks up the box, opens it naturally, reveals the leather case, then slowly removes the sunglasses while continuing, "The packaging already feels incredibly premium."
+She rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, "The finish feels amazing, and they're incredibly lightweight."
+She puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, "Honestly... they look so good, and they're really comfortable on the eyes, even in bright sunlight."
+She turns slightly left and right so the sunglasses catch the sunlight from different angles before removing them with a smile. Walking back to the bed, she places the sunglasses beside the leather case and retail box, then picks them up one last time and holds them beside her face.
+Looking directly into the camera, she smiles warmly and says, "Definitely one of my favorite accessories this year." The camera slowly pushes in on the sunglasses before fading out.
+Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)**
 
 ### Seedance 2.5 Douyin-Style Motorcycle Video with Stylish Transitions
 

@@ -1,10 +1,99 @@
 # Seedance 2.0 — 全ケース（Part 3/4）
 
-Seedance 2.0 の全 280 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 282 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 280 件中 195–277 件目。
+このページ: 282 件中 194–276 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
+
+### 3D Baking Animation Sequence
+
+> This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
+
+[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246)
+
+**作者:** @HaniaAi12 | **出典:** [元投稿](https://x.com/HaniaAi12/status/2076979039747920309) | **公開日:** 2026-07-14 | **ヒート:** 20
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
+
+0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
+
+1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
+
+2.50–3.75s: She gently whisks the cupcake batter while smiling.
+
+3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
+
+5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
+
+6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
+
+7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
+
+8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
+
+Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
+
+Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
+
+Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/3d-f194855e4246)**
+
+### Fingertips on a Rainy Car Window at Night
+
+> Rainy windows, blurred city lights, and quiet moments that somehow say everything without a single word. Created with se
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithminal-seedance-ai-5612b068051f.jpg" width="600" alt="Fingertips on a Rainy Car Window at Night">](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f)
+
+**作者:** @AIwithMinal | **出典:** [元投稿](https://x.com/AIwithMinal/status/2093560634822762971) | **公開日:** 2026-08-29 | **ヒート:** 20
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.5) · [出力](https://media.goodcase.ai/retests/aiwithminal-seedance-ai-5612b068051f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Cinematic close-up of a delicate feminine hand gently touching a rain-covered car window, tiny raindrops and water trails visible on the glass, blurred city lights glowing in blue, red, and white tones outside, dreamy nighttime atmosphere, emotional and melancholic mood, shallow depth of field, creamy bokeh, soft ambient lighting, realistic skin texture, cinematic color grading, ultra-realistic photography, 85mm lens, f/1.8, HDR, highly detailed, vertical 9:16 composition.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f)**
+
+### Stop-Motion Clay Miniature Nutella Cafe
+
+> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
+
+[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="Stop-Motion Clay Miniature Nutella Cafe">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)
+
+**作者:** @MayaAiCreator | **出典:** [元投稿](https://x.com/MayaAiCreator/status/2091397686104588650) | **公開日:** 2026-08-23 | **ヒート:** 20
+
+<details>
+<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
+
+```
+A prompt to recreate this stop-motion claymation style AI video:
+Seedance 2.0. 
+​Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence & Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8)**
 
 ### Retro 16mm Aerobics Fitness Vlog
 
@@ -284,58 +373,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-f1f4b662e370)**
 
-### Claymation Cat World Transformation
-
-> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14)
-
-**作者:** @noorwithwifi | **出典:** [元投稿](https://x.com/noorwithwifi/status/2078535850745626926) | **公開日:** 2026-07-18 | **ヒート:** 18
-
-**安定度:** 87/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-6152b0808b14)**
-
-### Luxury Rooftop Helicopter Party
-
-> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
-
-[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
-
-**作者:** @LufzzLiz | **出典:** [元投稿](https://x.com/LufzzLiz/status/2081365529101815987) | **公開日:** 2026-07-26 | **ヒート:** 17
-
-**安定度:** 83/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.7) · [出力](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
-
-```
-8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
-
-分镜 1 | 00:00-00:02 中景起幅・弧形左移
-中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
-
-分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
-
-分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
-分镜 4 | 00:12-00:15 大全景落幅 权力定格
-
-大全景落幅，镜头完全拉远后
-视频时长：15秒
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
-
 ### Glitch Art Multi-Dimensional Face Transformation
 
 > An experimental glitch-style prompt that uses rhythmic jump cuts to switch between 3D CG, live action, animation, and pixel art.
@@ -442,6 +479,58 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-887d0484c2ce)**
+
+### Claymation Cat World Transformation
+
+> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
+
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14)
+
+**作者:** @noorwithwifi | **出典:** [元投稿](https://x.com/noorwithwifi/status/2078535850745626926) | **公開日:** 2026-07-18 | **ヒート:** 17
+
+**安定度:** 87/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86.7) · [出力](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-6152b0808b14)**
+
+### Luxury Rooftop Helicopter Party
+
+> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
+
+[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
+
+**作者:** @LufzzLiz | **出典:** [元投稿](https://x.com/LufzzLiz/status/2081365529101815987) | **公開日:** 2026-07-26 | **ヒート:** 16
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.7) · [出力](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
+
+```
+8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
+
+分镜 1 | 00:00-00:02 中景起幅・弧形左移
+中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
+
+分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
+
+分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
+分镜 4 | 00:12-00:15 大全景落幅 权力定格
+
+大全景落幅，镜头完全拉远后
+视频时长：15秒
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
 
 ### High-End Lifestyle Lipstick Commercial Video
 
@@ -2574,42 +2663,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)**
 
-### Photorealistic Wireless Earbuds Commercial
-
-> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
-
-[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f)
-
-**作者:** @hiapi_ai | **出典:** [元投稿](https://x.com/hiapi_ai/status/2081294040415482322) | **公開日:** 2026-07-26 | **ヒート:** 3
-
-**安定度:** 73/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 劣化 (スコア 72.7) · [出力](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（14 行、クリックで展開）</b></summary>
-
-```
-生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
-
-主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
-
-产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
-
-0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
-3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
-6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
-
-9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
-12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
-
-声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-96017ad7706f)**
-
 ### Emotional Kyoto Travel Vlog Animation
 
 > A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
@@ -2756,6 +2809,42 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
+
+### Photorealistic Wireless Earbuds Commercial
+
+> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
+
+[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f)
+
+**作者:** @hiapi_ai | **出典:** [元投稿](https://x.com/hiapi_ai/status/2081294040415482322) | **公開日:** 2026-07-26 | **ヒート:** 2
+
+**安定度:** 73/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 劣化 (スコア 72.7) · [出力](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（14 行、クリックで展開）</b></summary>
+
+```
+生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
+
+主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
+
+产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
+
+0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
+3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
+6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
+
+9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
+12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
+
+声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-96017ad7706f)**
 
 ### Gladiator Arena Duel Action
 
@@ -3397,120 +3486,6 @@ CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/asmr-eb8937adce5b)**
-
-### Dark Surreal Mirror-Reflection Horror Short
-
-> A complex cinematic video prompt presenting a psychological horror scene about a man and his perceived reflection. The shot moves from a symmetrical medium shot to a dramatic slow-motion mirror shatter, ending with an infinite mirrored void and a hard cut to black.
-
-[<img src="https://media.goodcase.ai/media/poster/case-50692082320d.jpg" width="600" alt="Dark Surreal Mirror-Reflection Horror Short">](https://goodcase.ai/cases/case-50692082320d)
-
-**作者:** @Nexustechai1 | **出典:** [元投稿](https://x.com/Nexustechai1/status/2081527386508611807) | **公開日:** 2026-07-26 | **ヒート:** -
-
-<details>
-<summary><b>プロンプト全文（6 行、クリックで展開）</b></summary>
-
-```
-@referance image As first frame. A sharply dressed man in a dark blazer and black shirt stands facing a tall ornate mirror in complete darkness. His reflection stares back — but the reflection smiles while he does not.
-0–2s: Medium shot, symmetrical composition — the man on the left, his reflection on the right. Camera holds perfectly still. A cold overhead spotlight illuminates only him and the mirror. His expression is stone-cold. His reflection slowly tilts its head and grins wider. In a deep voice with metallic reverb: "You're not me." The reflection mouths the words simultaneously but slightly delayed. A dissonant string tone swells underneath.
-2–5s: On the bass hit, he punches the mirror. Time shifts to extreme slow motion at the moment of impact. The glass cracks in a radial spiderweb pattern from his fist outward. Each crack emits a thin line of white light. Macro detail: his knuckles pressing into the fracture point, glass beginning to separate, light bleeding through. The shards start to lift outward toward the camera, each one containing a different version of his reflection — one laughing, one screaming, one calm, one looking away. Bass reverberates with a metallic distortion.
-5–9s: The music drives forward. He steps through the broken mirror frame into a mirrored void — infinite reflections of himself stretching in every direction. Camera pulls back into an extreme wide shot revealing thousands of copies. He walks forward, each copy mirroring his movement but one beat delayed, creating a cascading wave effect. Camera tracks alongside him in a smooth lateral dolly. The copies begin diverging — some stop walking, some turn to face him, some dissolve into particles. He keeps walking, unflinching.
-9–12s: The music reaches maximum intensity. He stops. Every copy stops. He turns to face the camera directly. Every copy turns to face him. Silence. Then on the final beat, every copy shatters simultaneously into mirror fragments that fly toward the camera. He remains standing, untouched, as thousands of reflective shards stream past the lens. Final frame: him alone in darkness, no mirror, no copies. One last shard floats past — in it, the smiling reflection winks. Hard cut to black.
-Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Lighting: cold overhead spot, white light through glass cracks, infinite reflections multiplying light sources. Audio: dissonant strings, metallic voice reverb, glass impact, slow-motion crack propagation, cascading footstep echoes, silence-to-shatter, massive final impact. 4K Ultra HD. Maintain consistency.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-50692082320d)**
-
-### Childhood Toys Dialogue Prompt
-
-> A video prompt depicting a conversation among friends at a bar about the differences between boys’ and girls’ childhood toys.
-
-[<img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="600" alt="Childhood Toys Dialogue Prompt">](https://goodcase.ai/cases/case-19957ff473b6)
-
-**作者:** @PixelAigc | **出典:** [元投稿](https://x.com/PixelAigc/status/2081047344850845750) | **公開日:** 2026-07-25 | **ヒート:** -
-
-**安定度:** 90/100
-
-**再テスト:** 計 2 回
-
-- MiniMax H3 Max 768p · 2026-09-06 · ✅ 再現 (スコア 90) · [出力](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-- MiniMax H3 768p · 2026-08-09 · ✅ 再現 (スコア n/a) · [出力](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260809-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
-
-```
-主体：两个男人和一个女人，他们是朋友
-场景：一家酒吧，他们三个人围坐在一张桌子上喝茶
-这里，其中一个男人A说：
-“说一个有意思的事”
-女人说：“什么事？”
-男人B对男人A说：“你说”
-男人A说：“小的时候，男孩子都喜欢电动玩具，女孩子都喜欢娃娃”
-女人说：“是啊”
-男人A说：“等到长大后，好像就反过来了”
-女人楞了一下，突然反应过来，不好意思地笑了。
-男人B看一下男人A说：“哈，还真是这样”
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-19957ff473b6)**
-
-### Cute Bunny Chef Anime Cooking
-
-> A delightful first-person anime cooking video prompt featuring a little bunny assistant and a chef making a fluffy omelet in a cozy pastel kitchen.
-
-[<img src="https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg" width="600" alt="Cute Bunny Chef Anime Cooking">](https://goodcase.ai/cases/case-3d49f00e65c0)
-
-**作者:** @Jiade05 | **出典:** [元投稿](https://x.com/Jiade05/status/2080643134011412961) | **公開日:** 2026-07-24 | **ヒート:** -
-
-**安定度:** 82/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.7) · [出力](https://media.goodcase.ai/retests/case-3d49f00e65c0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（32 行、クリックで展開）</b></summary>
-
-```
-Create a 15-second Ultra HD 4K anime cooking show POV video inspired exactly by the provided cute omelet recipe image.
-
-STYLE:
-Premium Japanese kawaii anime cooking commercial. Pastel pink/cream chibi kitchen, warm soft lighting, cozy magical breakfast mood, highly detailed food animation.
-
-POV:
-First-person chef perspective. Only show cute female hands and arms (no face, head, or body). Delicate hands with pastel pink nails and frilly chef sleeves. Pink checkered countertop, cinematic camera movement, macro food shots, shallow depth of field.
-
-RECIPE:
-Follow the reference omelet recipe:
-Crack 3 eggs, add 2 tbsp milk, salt and pepper, whisk fluffy. Melt butter in pan, pour eggs, add cheese, mushrooms, red tomatoes, and green herbs. Fold into a golden fluffy omelet and garnish with herbs.
-
-FOOD:
-Make it extremely delicious: soft airy egg texture, melted cheese stretch, glossy mushrooms, juicy tomatoes, fresh herbs, gentle steam, satisfying cooking sounds.
-
-BUNNY HELPER:
-Add a tiny fluffy white anime bunny chef wearing a mini chef hat and apron. Cute, clumsy, playful helper:
-tries carrying ingredients, drops a mushroom then fixes it, struggles with a spoon, helps sprinkle herbs, gives a tiny thumbs-up, happily hops beside the finished omelet. Cute mascot style, not realistic.
-
-SEQUENCE:
-0-5s: Female hands start cooking, crack eggs, bunny joins excitedly.
-5-10s: Whisk eggs, butter melts, omelet cooks with fillings and close-up sizzling shots.
-10-15s: Hands fold omelet, bunny celebrates, final hero shot of beautiful fluffy omelet with cozy sparkles.
-
-QUALITY:
-4K UHD 3840x2160, 24fps cinematic animation, smooth hand movement, premium anime rendering, crisp textures, beautiful lighting, cinematic depth of field.
-
-MOOD:
-Fluffy • Savory • Cute • Playful • Heartwarming • Cozy.
-
-NEGATIVE:
-No face, no full body, no realistic human, no scary bunny, no dark mood, no burnt food, no wrong ingredients, no extra fingers, no deformed hands, no distorted bunny, no text, no watermark, no blur.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-3d49f00e65c0)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

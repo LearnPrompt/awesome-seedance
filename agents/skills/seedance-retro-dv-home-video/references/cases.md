@@ -137,7 +137,7 @@ A gym in the evening — squat rack, leg press machine, a water fountain across 
 
 ## E6 · K-Pop Idol’s Playful Core Workout
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 89
+- Seedance 2.5 · creator: @doctorwasif · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31) · [finished media](https://media.goodcase.ai/cases/64401183c996.mp4) · [poster](https://media.goodcase.ai/cases/89d557bcc2fb.jpg) · [original source](https://x.com/doctorwasif/status/2103476205760774263)
 - Summary: made with Seedance 2.5 prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor …
 

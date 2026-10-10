@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/7 页）
 
-Seedance 2.5 全部 535 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 543 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–83 条，共 535 条。
+本页：第 1–83 条，共 543 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
 
@@ -1478,6 +1478,48 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd)**
 
+### 未来公路上的机车与超跑追逐
+
+> ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
+
+[<img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="600" alt="未来公路上的机车与超跑追逐">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2104064261005709551) | **发布:** 2026-09-27 | **热度:** 92
+
+<details>
+<summary><b>完整 prompt（24 行，点开展开）</b></summary>
+
+```
+Cinematic photorealistic sci-fi action sequence, moody desaturated color grade, dramatic lighting, hyper-detailed mechanical design, motion blur for speed, 4K film quality.
+
+Scene 1: Wide low-angle tracking shot of a futuristic armored rider in black tactical exosuit on a black-gold angular sci-fi motorcycle, speeding on empty highway, overcast sky.
+
+Scene 2: Close-up transformation shot — motorcycle's rear panels mechanically unfold like wings while riding at high speed, sparks of light on metal joints.
+
+Scene 3: Low-angle hero reveal shot of a sleek black Batmobile-style supercar with scissor/wing doors opening, front LED light strip glowing.
+
+Scene 4: Rear-tracking low-angle shot of two motorcycles riding side by side on the highway, wheels blurred with speed.
+
+Scene 5: Rear pursuit shot of the black supercar driving with glowing taillights, a motorcycle catching up close behind.
+
+Scene 6: Aerial drone top-down shot of a curving highway with the car and motorcycles racing, small flying drone visible above for scale.
+
+Scene 7: Close-up action shot of the car's front wheel with sparks flying off the road surface, high-speed drift feel.
+
+Scene 8: Interior POV shot from the car's dashboard, glowing speedometer, driving fast through a dark tunnel with lights streaking past.
+
+Scene 9: Tunnel chase shot — motorcycle and car entering/exiting a concrete tunnel, wet road reflections, cinematic light contrast.
+
+Negative prompt: blurry, low quality, distorted proportions, extra limbs, deformed hands, warped motorcycle frame, flickering lights, inconsistent lighting, cartoonish, low-res textures, watermark, text, logo, oversaturated colors, daytime bright sun (unless overcast), shaky unstable camera, jerky motion, unrealistic physics, plastic look, glitch artifacts.
+
+#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #VisualStorytelling #CinematicAI
+#GenerativeAI  #AICreator
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea)**
+
 ### 不会有人认为这是真的吧？😄
 
 > 不会有人认为这是真的吧？😄 Seedance 2.5 也过于逼真了啊🫠连影子都那么真实 上传自己的图片，加上下面的提示词，你也能这么跳😂 Seedance 2.5 prompt 👇 Duration: 10秒 Aspect rati
@@ -1836,48 +1878,6 @@ No cinematic commercial look, no gimbal shots, no drone shots, no dramatic light
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e)**
-
-### 未来公路上的机车与超跑追逐
-
-> ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
-
-[<img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="600" alt="未来公路上的机车与超跑追逐">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea)
-
-**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2104064261005709551) | **发布:** 2026-09-27 | **热度:** 91
-
-<details>
-<summary><b>完整 prompt（24 行，点开展开）</b></summary>
-
-```
-Cinematic photorealistic sci-fi action sequence, moody desaturated color grade, dramatic lighting, hyper-detailed mechanical design, motion blur for speed, 4K film quality.
-
-Scene 1: Wide low-angle tracking shot of a futuristic armored rider in black tactical exosuit on a black-gold angular sci-fi motorcycle, speeding on empty highway, overcast sky.
-
-Scene 2: Close-up transformation shot — motorcycle's rear panels mechanically unfold like wings while riding at high speed, sparks of light on metal joints.
-
-Scene 3: Low-angle hero reveal shot of a sleek black Batmobile-style supercar with scissor/wing doors opening, front LED light strip glowing.
-
-Scene 4: Rear-tracking low-angle shot of two motorcycles riding side by side on the highway, wheels blurred with speed.
-
-Scene 5: Rear pursuit shot of the black supercar driving with glowing taillights, a motorcycle catching up close behind.
-
-Scene 6: Aerial drone top-down shot of a curving highway with the car and motorcycles racing, small flying drone visible above for scale.
-
-Scene 7: Close-up action shot of the car's front wheel with sparks flying off the road surface, high-speed drift feel.
-
-Scene 8: Interior POV shot from the car's dashboard, glowing speedometer, driving fast through a dark tunnel with lights streaking past.
-
-Scene 9: Tunnel chase shot — motorcycle and car entering/exiting a concrete tunnel, wet road reflections, cinematic light contrast.
-
-Negative prompt: blurry, low quality, distorted proportions, extra limbs, deformed hands, warped motorcycle frame, flickering lights, inconsistent lighting, cartoonish, low-res textures, watermark, text, logo, oversaturated colors, daytime bright sun (unless overcast), shaky unstable camera, jerky motion, unrealistic physics, plastic look, glitch artifacts.
-
-#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #VisualStorytelling #CinematicAI
-#GenerativeAI  #AICreator
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea)**
 
 ### 微型滑手穿越巨人暮色山丘
 
@@ -2426,6 +2426,54 @@ NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated characte
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd)**
 
+### 韩流偶像的搞笑核心训练日
+
+> made with Seedance 2.5 prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor …
+
+[<img src="https://media.goodcase.ai/cases/89d557bcc2fb.jpg" width="600" alt="韩流偶像的搞笑核心训练日">](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31)
+
+**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2103476205760774263) | **发布:** 2026-09-25 | **热度:** 90
+
+<details>
+<summary><b>完整 prompt（30 行，点开展开）</b></summary>
+
+```
+**CAMERA:**
+DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+**LOOK:**
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
+
+**STYLE:**
+Playful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.
+
+**Character**
+
+CHASE — Korean idol, 20s. Long black hair in a high ponytail, glowing skin with a light sweat sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers or fitted leggings (arms and torso fully covered), sneakers off or socks, no jewelry.
+
+**Setting**
+
+A gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.
+
+**Storyboard (15s, 6 cuts)**
+
+1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. CHASE: "Okay, core day — my least favorite day."
+
+2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. CHASE (strained): "Why does this get harder every single time—"
+
+3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. CHASE: "Nobody warns you how much this actually burns."
+
+4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.
+
+5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. CHASE (breathless): "Okay— that's it, I'm done—"
+
+6. *(~3s, arm's-length selfie finish)* Still lying on the mat, she lifts the camera above her face, grinning tiredly. CHASE: "Core day never gets easier — see you guys tomorrow, hopefully."
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31)**
+
 ### 黑衣剑客烈焰横扫暗影兽群
 
 > ⚡​"They brought an army. He brought the apocalypse."🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy wuxia action scene, low angle dynamic tracking s…
@@ -2521,54 +2569,6 @@ Natural window light, muted filmic color palette, shallow depth of field, slight
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909)**
-
-### 韩流偶像的搞笑核心训练日
-
-> made with Seedance 2.5 prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor …
-
-[<img src="https://media.goodcase.ai/cases/89d557bcc2fb.jpg" width="600" alt="韩流偶像的搞笑核心训练日">](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31)
-
-**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2103476205760774263) | **发布:** 2026-09-25 | **热度:** 89
-
-<details>
-<summary><b>完整 prompt（30 行，点开展开）</b></summary>
-
-```
-**CAMERA:**
-DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor or a mat for hands-free core shots. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
-
-**LOOK:**
-Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
-
-**STYLE:**
-Playful, self-deprecating gym-vlog tone — genuine strain mixed with humor, complaining about core work while still pushing through it. Quick handheld cuts, energy staying light and funny throughout rather than fully exhausted.
-
-**Character**
-
-CHASE — Korean idol, 20s. Long black hair in a high ponytail, glowing skin with a light sweat sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers or fitted leggings (arms and torso fully covered), sneakers off or socks, no jewelry.
-
-**Setting**
-
-A gym mat area in the evening — mirror wall nearby, water bottle on the floor, soft overhead lighting, other equipment visible in the background.
-
-**Storyboard (15s, 6 cuts)**
-
-1. *(~2.5s, propped camera, medium shot)* She lies down on the mat, propping up on her elbows, already sighing dramatically. CHASE: "Okay, core day — my least favorite day."
-
-2. *(~2.5s, propped camera, plank position)* She holds a plank, arms shaking slightly, talking through gritted teeth. CHASE (strained): "Why does this get harder every single time—"
-
-3. *(~2.5s, medium propped shot, crunches)* She moves into a set of crunches, breathing hard, complaining between reps. CHASE: "Nobody warns you how much this actually burns."
-
-4. *(~2s, macro insert, shallow DOF)* Close-up on her hands gripping the mat edges during a leg raise, abs visibly working. No dialogue — ambient gym sound only.
-
-5. *(~2.5s, handheld, leg raises)* She finishes a slow leg raise set, flopping back onto the mat immediately after, laughing at herself. CHASE (breathless): "Okay— that's it, I'm done—"
-
-6. *(~3s, arm's-length selfie finish)* Still lying on the mat, she lifts the camera above her face, grinning tiredly. CHASE: "Core day never gets easier — see you guys tomorrow, hopefully."
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31)**
 
 ### 沙发上嬉闹亲吻的兔子情侣
 
@@ -3299,6 +3299,46 @@ Important: Maintain identical character appearances, clothing, facial features, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25)**
 
+### 粉发女生食堂后空翻稳接餐盘
+
+> Walked past him like the backflip was the easy part of lunch. Seedance 2.5 on @FishCreativeHQ Prompt Cinematic Korean high-school drama, 22-second continuous sh…
+
+[<img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="600" alt="粉发女生食堂后空翻稳接餐盘">](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100836177821483349) | **发布:** 2026-09-18 | **热度:** 87
+
+<details>
+<summary><b>完整 prompt（22 行，点开展开）</b></summary>
+
+```
+Walked past him like the backflip was the easy part of lunch.
+
+Seedance 2.5 on @FishCreativeHQ 
+
+Prompt
+
+Cinematic Korean high-school drama, 22-second continuous shot sequence, photoreal live-action, 24fps, shallow-to-medium depth of field, natural fluorescent cafeteria lighting mixed with window daylight, slightly warm color grade.
+Crowded Korean high-school cafeteria: long wooden tables, metal benches, tiled floor with a faint sheen, white waffle-grid ceiling, hanging fluorescent lights. Dozens of students in pastel blue short-sleeve summer uniforms with purple ties (boys) and pink ribbon bows (girls) eating from stainless-steel compartment trays.
+Heroine: early-20s Korean woman @[Image 1](image_1) styled as a high-school senior — long straight pastel pink hair with center part and face-framing layers, pale makeup, glossy lips, pastel pink short-sleeve school blouse, navy ribbon bow, pastel pink mini skirt, white crew socks, chunky white sneakers, small blue name tag on her chest. She walks the center aisle carrying a stainless 5-compartment lunch tray in both hands. Tray contents: mound of white rice, spicy red tteokbokki cylinders, a pile of kimchi, seasoned green namul, and a small metal soup bowl of red stew. Spoon and chopsticks rest on the tray.
+Shot 1 (0–1s): Medium-wide tracking shot. She walks straight toward camera down the aisle, calm expression, tray held level at waist height. Background students laugh and eat.
+Shot 2 (1s): Tight low insert of her feet. She scuffs the heel of her left white sneaker against the polished floor, then plants both feet.
+Shot 3 (2s): Medium close-up of her face as she looks up, slightly startled, hair swinging.
+Shot 4–6 (3–6s): Slow-motion VFX food sequence. She tosses the tray upward. The tray and utensils hang in mid-air. Tteokbokki pieces, kimchi, and namul lift off the compartments and float in a neat horizontal line above the tray, as if gravity paused. Cut to overhead: food settles perfectly back into each compartment; soup bowl stays upright, nothing spills.
+Shot 7 (7s): Wide. She drops into a fast back handspring / cartwheel on the cafeteria floor, skirt flipping, one sneaker kicking high. Students at nearby tables freeze and stare.
+Shot 8 (8s): She lands spinning, hair whipping, and catches the falling tray and utensils in one fluid motion without dropping food.
+Shot 9–11 (9–11s): Close-ups of hands catching chopsticks and spoon, then a hero beauty shot of the completed tray held out toward camera — rice, tteokbokki, kimchi, namul, and stew all perfectly arranged.
+Shot 12 (12s): Cut to a table of boys. Handsome dark-haired boy in white shirt and navy tie turns, mouth open in shock; friends around him gape.
+Shot 13–14 (13–14s): Tight beauty close-up of the heroine’s face, staring into camera, then a tiny knowing smirk.
+Shot 15–20 (15–20s): She walks past the shocked boy’s table, tray in her left hand, glancing down at him. Soft line of dialogue in Korean, subtitled: “Let’s eat and see.” He looks down, embarrassed. She keeps walking.
+Shot 21 (21s): Rear tracking shot as she walks away down the aisle, long hair and navy skirt, cafeteria buzzing again behind her.
+Style notes: high-end K-drama cinematography (something like a glossy teen romance / school fantasy), practical cafeteria set, subtle slow-motion only on the floating-food and flip beats, clean VFX so the food never smears or looks cartoonish, no logos, no on-screen text except optional Korean subtitle on the one line.
+Negative: messy spills, broken tray, Western cafeteria, adult office clothes, exaggerated anime faces, shaky phone footage, watermarks.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39)**
+
 ### 紫发少女跃过泳池巨浪
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
@@ -3500,46 +3540,6 @@ Cinematic fashion film, editorial movement, motion blur, anamorphic flares, gold
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692)**
-
-### 粉发女生食堂后空翻稳接餐盘
-
-> Walked past him like the backflip was the easy part of lunch. Seedance 2.5 on @FishCreativeHQ Prompt Cinematic Korean high-school drama, 22-second continuous sh…
-
-[<img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="600" alt="粉发女生食堂后空翻稳接餐盘">](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100836177821483349) | **发布:** 2026-09-18 | **热度:** 86
-
-<details>
-<summary><b>完整 prompt（22 行，点开展开）</b></summary>
-
-```
-Walked past him like the backflip was the easy part of lunch.
-
-Seedance 2.5 on @FishCreativeHQ 
-
-Prompt
-
-Cinematic Korean high-school drama, 22-second continuous shot sequence, photoreal live-action, 24fps, shallow-to-medium depth of field, natural fluorescent cafeteria lighting mixed with window daylight, slightly warm color grade.
-Crowded Korean high-school cafeteria: long wooden tables, metal benches, tiled floor with a faint sheen, white waffle-grid ceiling, hanging fluorescent lights. Dozens of students in pastel blue short-sleeve summer uniforms with purple ties (boys) and pink ribbon bows (girls) eating from stainless-steel compartment trays.
-Heroine: early-20s Korean woman @[Image 1](image_1) styled as a high-school senior — long straight pastel pink hair with center part and face-framing layers, pale makeup, glossy lips, pastel pink short-sleeve school blouse, navy ribbon bow, pastel pink mini skirt, white crew socks, chunky white sneakers, small blue name tag on her chest. She walks the center aisle carrying a stainless 5-compartment lunch tray in both hands. Tray contents: mound of white rice, spicy red tteokbokki cylinders, a pile of kimchi, seasoned green namul, and a small metal soup bowl of red stew. Spoon and chopsticks rest on the tray.
-Shot 1 (0–1s): Medium-wide tracking shot. She walks straight toward camera down the aisle, calm expression, tray held level at waist height. Background students laugh and eat.
-Shot 2 (1s): Tight low insert of her feet. She scuffs the heel of her left white sneaker against the polished floor, then plants both feet.
-Shot 3 (2s): Medium close-up of her face as she looks up, slightly startled, hair swinging.
-Shot 4–6 (3–6s): Slow-motion VFX food sequence. She tosses the tray upward. The tray and utensils hang in mid-air. Tteokbokki pieces, kimchi, and namul lift off the compartments and float in a neat horizontal line above the tray, as if gravity paused. Cut to overhead: food settles perfectly back into each compartment; soup bowl stays upright, nothing spills.
-Shot 7 (7s): Wide. She drops into a fast back handspring / cartwheel on the cafeteria floor, skirt flipping, one sneaker kicking high. Students at nearby tables freeze and stare.
-Shot 8 (8s): She lands spinning, hair whipping, and catches the falling tray and utensils in one fluid motion without dropping food.
-Shot 9–11 (9–11s): Close-ups of hands catching chopsticks and spoon, then a hero beauty shot of the completed tray held out toward camera — rice, tteokbokki, kimchi, namul, and stew all perfectly arranged.
-Shot 12 (12s): Cut to a table of boys. Handsome dark-haired boy in white shirt and navy tie turns, mouth open in shock; friends around him gape.
-Shot 13–14 (13–14s): Tight beauty close-up of the heroine’s face, staring into camera, then a tiny knowing smirk.
-Shot 15–20 (15–20s): She walks past the shocked boy’s table, tray in her left hand, glancing down at him. Soft line of dialogue in Korean, subtitled: “Let’s eat and see.” He looks down, embarrassed. She keeps walking.
-Shot 21 (21s): Rear tracking shot as she walks away down the aisle, long hair and navy skirt, cafeteria buzzing again behind her.
-Style notes: high-end K-drama cinematography (something like a glossy teen romance / school fantasy), practical cafeteria set, subtle slow-motion only on the floating-food and flip beats, clean VFX so the food never smears or looks cartoonish, no logos, no on-screen text except optional Korean subtitle on the one line.
-Negative: messy spills, broken tray, Western cafeteria, adult office clothes, exaggerated anime faces, shaky phone footage, watermarks.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39)**
 
 ### 青柠西装女子静立躁动人群
 
@@ -3997,6 +3997,38 @@ Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)**
 
+### 韩巷夏日骑行的女孩
+
+> Something from our local street Seedance 2.5 at service again Prompt : Main subject: Young Korean woman, early 20s, wear
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg" width="600" alt="韩巷夏日骑行的女孩">](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2091175465037746522) | **发布:** 2026-08-22 | **热度:** 86
+
+**稳定度：** 85/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.4 分) · [产物](https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-9a5c5cbd518b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（10 行，点开展开）</b></summary>
+
+```
+Main subject: Young Korean woman, early 20s, wearing a soft pink short top, loose cream pajama-style pants, black sneakers and a delicate necklace. Messy black side ponytail, natural makeup, realistic skin and completely consistent appearance.
+Location: Older Korean residential neighborhood on a hot summer afternoon. Narrow alleys, concrete walls, tiny gardens, bicycles leaning against houses, colorful laundry, utility poles and leafy trees creating patches of shade.
+Shot entirely like an early-2000s home video filmed by her friend. Strong handheld shake, accidental framing, autofocus hunting, blown-out highlights, faded colors, digital noise, occasional zoom mistakes and realistic motion blur.
+She leaves her house carrying a small basket and walks barefoot toward a bicycle. She slips on her sneakers, hops onto the bicycle and starts riding through the lane.
+She passes a friend sitting outside a small house. The friend calls her name and she immediately stops.
+They chat casually for a moment, laughing about something. She steals a sip from her friend's iced drink, laughs and continues cycling.
+She stops beneath a giant tree and parks the bicycle. She looks upward as the leaves move in the warm breeze.
+A basketball rolls into the lane from nearby children. She kicks it gently back toward them and waves.
+She gets back on the bicycle and rides away while the camera remains behind, slowly losing sight of her around the corner.
+Audio: Summer insects, birds, bicycle chain, distant children, wind through leaves, casual conversation and neighborhood ambience. No music.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b)**
+
 ### 泥土中诞生的罐中小鸟
 
 > Made with Seedance 2.5 on @HighSignal_AI 🎬 MAIN VIDEO PROMPT Use the uploaded image as the exact visual reference. Crea
@@ -4138,6 +4170,68 @@ OUTPUT:
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)**
 
+### 小女孩在幼儿园认识水果与英文名称
+
+> Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
+
+[<img src="https://media.goodcase.ai/cases/537cb34decad.jpg" width="600" alt="小女孩在幼儿园认识水果与英文名称">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2108381024417993043) | **发布:** 2026-10-09 | **热度:** 85
+
+<details>
+<summary><b>完整 prompt（44 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling brown eyes, rosy cheeks, soft brown hair, and a white colorful kids' T-shirt sits at a small table in a beautiful preschool classroom. The classroom features pastel-colored walls, rainbow decorations, clouds, stars, colorful toys, pencils, and soft natural sunlight coming through the window.
+
+Scene 1 – Banana 🍌: A hand gently presents a fresh yellow banana to the baby. She looks at it with curiosity and smiles happily. Display the word “BANANA” in large, colorful, playful 3D letters at the top of the screen, with a banana emoji.
+
+Scene 2 – Apple 🍎: The hand presents a shiny red apple. The baby opens her mouth in excitement and reaches toward the fruit. Display “APPLE” in bright, multicolored 3D letters.
+
+Scene 3 – Orange 🍊: A fresh orange is presented. The baby makes a cute surprised expression with her lips forming an O. Display “ORANGE” in bold, colorful letters.
+
+Scene 4 – Grapes 🍇: Show a bunch of fresh purple grapes on the table. The baby looks down at the grapes and laughs joyfully. Display “GRAPES” in large purple 3D letters.
+
+Scene 5 – Watermelon 🍉: A hand presents a juicy red watermelon slice with black seeds and green rind. The baby smiles excitedly and points toward it. Display “WATERMELON” in bright, playful letters.
+
+Scene 6 – Mango 🥭: Present a ripe golden-yellow mango. The baby opens her mouth with excitement and smiles at the fruit. Display “MANGO” in colorful 3D letters.
+
+Scene 7 – Strawberry 🍓: Show a fresh, bright red strawberry with green leaves. The baby raises her finger happily and smiles. Display “STRAWBERRY” in large, attractive letters.
+
+Scene 8 – Pineapple 🍍: Present a beautiful golden pineapple with green spiky leaves. The baby claps her hands with delight. Display “PINEAPPLE” in colorful 3D letters.
+
+Final Scene: The baby looks directly at the camera, smiles warmly, and gives a cute thumbs-up gesture.
+
+🎨 Visual Style & Animation
+
+Ultra-cute, high-quality 3D animation with a Pixar-inspired aesthetic.
+
+Soft, realistic lighting and vibrant pastel colors.
+
+Adorable facial expressions, natural blinking, and smooth hand movements.
+
+Keep the same baby character, outfit, classroom, and camera angle throughout.
+
+Each fruit must be clearly visible and recognizable.
+
+Display each fruit's English name in large, bold, colorful 3D letters at the top.
+
+Gentle camera movements, smooth transitions, and cheerful children's background music.
+
+Add a friendly female voice pronouncing each fruit's English name clearly.
+
+Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
+
+No scary elements, no distorted faces, no extra fingers, and no character changes.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041)**
+
 ### 洗澡时快递上门，男子裹毛巾赶到门口
 
 > Sometimes the delivery comes at the worst possible time. Created with Seedance 2.5. Prompt: A young man is taking a normal shower in a modern apartment when his…
@@ -4179,38 +4273,6 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)**
-
-### 韩巷夏日骑行的女孩
-
-> Something from our local street Seedance 2.5 at service again Prompt : Main subject: Young Korean woman, early 20s, wear
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg" width="600" alt="韩巷夏日骑行的女孩">](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2091175465037746522) | **发布:** 2026-08-22 | **热度:** 85
-
-**稳定度：** 85/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (85.4 分) · [产物](https://media.goodcase.ai/retests/aiwithkhan-seedance-ai-9a5c5cbd518b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（10 行，点开展开）</b></summary>
-
-```
-Main subject: Young Korean woman, early 20s, wearing a soft pink short top, loose cream pajama-style pants, black sneakers and a delicate necklace. Messy black side ponytail, natural makeup, realistic skin and completely consistent appearance.
-Location: Older Korean residential neighborhood on a hot summer afternoon. Narrow alleys, concrete walls, tiny gardens, bicycles leaning against houses, colorful laundry, utility poles and leafy trees creating patches of shade.
-Shot entirely like an early-2000s home video filmed by her friend. Strong handheld shake, accidental framing, autofocus hunting, blown-out highlights, faded colors, digital noise, occasional zoom mistakes and realistic motion blur.
-She leaves her house carrying a small basket and walks barefoot toward a bicycle. She slips on her sneakers, hops onto the bicycle and starts riding through the lane.
-She passes a friend sitting outside a small house. The friend calls her name and she immediately stops.
-They chat casually for a moment, laughing about something. She steals a sip from her friend's iced drink, laughs and continues cycling.
-She stops beneath a giant tree and parks the bicycle. She looks upward as the leaves move in the warm breeze.
-A basketball rolls into the lane from nearby children. She kicks it gently back toward them and waves.
-She gets back on the bicycle and rides away while the camera remains behind, slowly losing sight of her around the corner.
-Audio: Summer insects, birds, bicycle chain, distant children, wind through leaves, casual conversation and neighborhood ambience. No music.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b)**
 
 ### Seedance 六十秒健身日常 day-in-life vlog
 
@@ -4416,6 +4478,141 @@ Made with seedance 2.5 on @SocialSight
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e)**
+
+### 粉发女孩的夜间体能训练挑战
+
+> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
+
+[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="粉发女孩的夜间体能训练挑战">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2104153857542553754) | **发布:** 2026-09-27 | **热度:** 84
+
+<details>
+<summary><b>完整 prompt（117 行，点开展开）</b></summary>
+
+```
+Why did I think this workout would be easier?
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
+
+Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
+LOOK
+
+Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
+
+STYLE
+
+Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
+
+CHARACTER
+
+CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
+
+She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
+
+SETTING
+
+A smaller industrial-style functional training gym at night.
+
+Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
+
+A half-full water bottle and small towel sit beside a plyometric box.
+
+Background gym members occasionally pass naturally without acknowledging the camera.
+
+STORYBOARD — 15 SECONDS / 6 CUTS
+
+CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
+
+CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
+
+She points behind herself toward a wooden plyometric box.
+
+CHASE:
+“Trying something different tonight.”
+
+She turns the camera too quickly, creating a messy whip-pan.
+
+CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
+
+Camera sits slightly crooked on a low bench.
+
+CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
+
+Her ponytail bounces naturally.
+
+CHASE:
+“Why are step-ups already humbling me?”
+
+She laughs quietly while continuing.
+
+CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
+
+Camera has been repositioned near floor level.
+
+Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
+
+Autofocus briefly locks onto the box instead of her shoes.
+
+No dialogue.
+
+Natural sneaker impacts, distant equipment sounds and her breathing.
+
+CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
+
+A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
+
+The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
+
+After several waves she looks toward the camera with a surprised expression.
+
+CHASE:
+“Okay—this escalated fast.”
+
+Her voice carries a small laugh between breaths.
+
+CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
+
+CHASE grabs the camera immediately after stopping.
+
+The image shakes noticeably while autofocus searches for her sweaty face.
+
+She leans against the plyometric box, catching her breath.
+
+CHASE:
+“I said different. Not easier.”
+
+She gives the camera an exhausted little grin.
+
+CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
+
+Camera sits casually beside her water bottle.
+
+CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
+
+She looks sideways toward the camera.
+
+CHASE:
+“That’s enough character development for tonight.”
+
+She laughs, reaches toward the lens—
+
+The frame shakes as her hand accidentally bumps the camera.
+
+CUT.
+
+AUDIO
+
+Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735)**
 
 ### 丛林神庙水御伏击战
 
@@ -5558,157 +5755,6 @@ The vintage appearance must come from realistic MiniDV camera behavior, autofocu
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-video-made-me-question-what-ai-looking-even-means-anymore-c3cc664055dd)**
-
-### 粉发女孩的夜间体能训练挑战
-
-> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
-
-[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="粉发女孩的夜间体能训练挑战">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2104153857542553754) | **发布:** 2026-09-27 | **热度:** 83
-
-<details>
-<summary><b>完整 prompt（117 行，点开展开）</b></summary>
-
-```
-Why did I think this workout would be easier?
-
-Seedance 2.5 on @TapNow_AI 
-
-Prompt
-
-Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
-
-Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
-LOOK
-
-Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
-
-STYLE
-
-Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
-
-CHARACTER
-
-CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
-
-She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
-
-SETTING
-
-A smaller industrial-style functional training gym at night.
-
-Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
-
-A half-full water bottle and small towel sit beside a plyometric box.
-
-Background gym members occasionally pass naturally without acknowledging the camera.
-
-STORYBOARD — 15 SECONDS / 6 CUTS
-
-CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
-
-CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
-
-She points behind herself toward a wooden plyometric box.
-
-CHASE:
-“Trying something different tonight.”
-
-She turns the camera too quickly, creating a messy whip-pan.
-
-CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
-
-Camera sits slightly crooked on a low bench.
-
-CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
-
-Her ponytail bounces naturally.
-
-CHASE:
-“Why are step-ups already humbling me?”
-
-She laughs quietly while continuing.
-
-CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
-
-Camera has been repositioned near floor level.
-
-Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
-
-Autofocus briefly locks onto the box instead of her shoes.
-
-No dialogue.
-
-Natural sneaker impacts, distant equipment sounds and her breathing.
-
-CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
-
-A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
-
-The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
-
-After several waves she looks toward the camera with a surprised expression.
-
-CHASE:
-“Okay—this escalated fast.”
-
-Her voice carries a small laugh between breaths.
-
-CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
-
-CHASE grabs the camera immediately after stopping.
-
-The image shakes noticeably while autofocus searches for her sweaty face.
-
-She leans against the plyometric box, catching her breath.
-
-CHASE:
-“I said different. Not easier.”
-
-She gives the camera an exhausted little grin.
-
-CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
-
-Camera sits casually beside her water bottle.
-
-CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
-
-She looks sideways toward the camera.
-
-CHASE:
-“That’s enough character development for tonight.”
-
-She laughs, reaches toward the lens—
-
-The frame shakes as her hand accidentally bumps the camera.
-
-CUT.
-
-AUDIO
-
-Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735)**
-
-### 日本教室里的丧尸突袭
-
-> One drop, one bite, and the safest place in school became a nightmare. 😳 Seedance 2.5 Prompt : Create a short, ultra-realistic Japanese high-school horror-acti…
-
-[<img src="https://media.goodcase.ai/cases/bd58f9078734.jpg" width="600" alt="日本教室里的丧尸突袭">](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2100575957451153626) | **发布:** 2026-09-17 | **热度:** 83
-
-```
-Create a short, ultra-realistic Japanese high-school horror-action sequence featuring the female teacher from the reference image. She is teaching normally when a single drop of blood falls onto a student’s notebook. Everyone looks up as the ceiling suddenly cracks and a zombie crashes into the classroom, sending students into panic. As they rush for the exit, another student suddenly reveals he is already infected, turning the classroom into chaos. The teacher grabs a heavy wooden bench and fights back while several students use chairs and desks to defend themselves. They eventually knock down the attackers and barricade the door. Just as the room becomes silent, a deep zombie groan echoes from the hallway. The teacher slowly turns toward the blocked door as the handle begins to move.
-
-Photorealistic live-action, practical-effects horror, realistic Japanese classroom, natural handheld camera, authentic reactions, realistic physics, muted cinematic grading, diegetic sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon, CGI look, distorted anatomy, subtitles, text, or watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)

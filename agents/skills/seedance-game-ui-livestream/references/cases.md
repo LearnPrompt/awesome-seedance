@@ -281,7 +281,7 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 
 ## E5 · Three Children Search for a Mysterious Station Beneath the Snow
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 79
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e) · [finished media](https://media.goodcase.ai/cases/9007759eac57.mp4) · [poster](https://media.goodcase.ai/cases/79e519115cd2.jpg) · [original source](https://x.com/Just_sharon7/status/2099820658880548879)
 - Summary: A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
 
@@ -492,7 +492,7 @@ AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency 
 
 ## E8 · Theft and Escape at a Rural Japanese Station
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 52
+- Seedance 2.5 · creator: @AIwithkhan · heat: 51
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-video-s-405ad1ebb338) · [finished media](https://media.goodcase.ai/cases/890304e94a79.mp4) · [poster](https://media.goodcase.ai/cases/5864458476ef.jpg) · [original source](https://x.com/AIwithkhan/status/2099464101525393596)
 - Summary: She really woke up and chose GTA-style chaos. 🔥 No hesitation, just straight into the mission. Created with Seedance 2.5 on @itsPolloAI Prompt : Create a 30-se…
 

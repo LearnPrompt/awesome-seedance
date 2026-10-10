@@ -1,8 +1,8 @@
 # Seedance 2.0 — 全量案例（第 3/4 页）
 
-Seedance 2.0 全部 280 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 282 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 197–279 条，共 280 条。
+本页：第 199–281 条，共 282 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
 
@@ -223,58 +223,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-f1f4b662e370)**
 
-### 黏土动画猫咪世界大变身
-
-> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14)
-
-**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2078535850745626926) | **发布:** 2026-07-18 | **热度:** 18
-
-**稳定度：** 87/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-6152b0808b14)**
-
-### Luxury Rooftop Helicopter Party
-
-> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
-
-[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
-
-**作者:** @LufzzLiz | **来源:** [原帖](https://x.com/LufzzLiz/status/2081365529101815987) | **发布:** 2026-07-26 | **热度:** 17
-
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.7 分) · [产物](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（12 行，点开展开）</b></summary>
-
-```
-8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
-
-分镜 1 | 00:00-00:02 中景起幅・弧形左移
-中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
-
-分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
-
-分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
-分镜 4 | 00:12-00:15 大全景落幅 权力定格
-
-大全景落幅，镜头完全拉远后
-视频时长：15秒
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
-
 ### 故障艺术风格多维度人脸变形
 
 > 一种实验性的故障风格提示词，通过有节奏的跳剪，在 3D CG、真人实拍、动画和像素艺术之间进行转换。
@@ -381,6 +329,58 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-887d0484c2ce)**
+
+### 黏土动画猫咪世界大变身
+
+> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
+
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14)
+
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2078535850745626926) | **发布:** 2026-07-18 | **热度:** 17
+
+**稳定度：** 87/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-6152b0808b14)**
+
+### Luxury Rooftop Helicopter Party
+
+> A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
+
+[<img src="https://media.goodcase.ai/media/poster/luxury-rooftop-helicopter-party.jpg" width="600" alt="Luxury Rooftop Helicopter Party">](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)
+
+**作者:** @LufzzLiz | **来源:** [原帖](https://x.com/LufzzLiz/status/2081365529101815987) | **发布:** 2026-07-26 | **热度:** 16
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (82.7 分) · [产物](https://media.goodcase.ai/retests/luxury-rooftop-helicopter-party/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（12 行，点开展开）</b></summary>
+
+```
+8K 超清，超精细照片；场景位于高层玻璃护栏露天观景露台，黄昏蓝调时刻，远处是灯火初亮的现代化摩天都市天际线，背景半空悬浮一架黑色民用直升机，直升机灯光亮起，柔和黄昏环境光，氛围感奢华财阀聚会风，深景深效果，城市远景朦胧虚化做背景烘托，斯皮尔伯格级精致镜头美学，画面构图均衡大气，无背景音乐无字幕。
+
+分镜 1 | 00:00-00:02 中景起幅・弧形左移
+中景起幅，镜头平稳起幅后缓慢向左侧做弧形横移；女二【@图 1】超模气质的女性身着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛，斜身站立呈一只手轻托下颌低头沉思状态，随即抬眼看向镜头，眼神充满疏离感；前景预留失焦埋伏区域，焦点稳定锁定女二，前景自然虚化，景深层次分明；
+
+分镜 2 | 00:02-00:06 拉焦切镜・女一【@图 2】贴脸特写，镜头持续向左弧形横移，同步执行极速前景拉焦；女一同样穿着香槟米调闪钻长款晚礼服，裙摆蓬松拖地，礼服肩部点缀蓬松白色羽毛；画面前景原本完全失焦的区域，女一转过头，以由下而上的低角度形成极度贴脸的大特写，撞满画面前景，眼神慵懒灵动，唇色粉嫩自然；背景女二低头闭眼彻底虚化甩至远端，前后景形成极强空间拉扯张力；焦点精准锁死女一面部，背景全虚；
+
+分镜 3 | 00:06-00:12 斜向后撤升起・镜头不间断执行大范围斜向后撤 + 升起的摇臂运动，画面空间逐级拓展；视野随镜头运动呈倍数级放大，女一从侧转身正对镜头同时双手交叉抱在胸前，站在画面中央，掌控全局的霸气，女三【@图 3】倚靠露台栏杆站在画面最左侧，女四【@图 4】单手叉腰站立在画面左侧第二位，女二侧身回眸站在女一右侧，女三和女四也穿着香槟米调闪钻长款晚礼服；随镜头后撤逐步拉远，半空悬浮一架黑色民用直升机，直升机灯光亮起；
+分镜 4 | 00:12-00:15 大全景落幅 权力定格
+
+大全景落幅，镜头完全拉远后
+视频时长：15秒
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/luxury-rooftop-helicopter-party)**
 
 ### 高端生活方式口红商业广告视频
 
@@ -2513,42 +2513,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground)**
 
-### 写实风格无线耳机广告
-
-> 一份详细的 15 秒写实风格无线耳机广告分镜提示词，场景设定为城市中的女性设计师。
-
-[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="写实风格无线耳机广告">](https://goodcase.ai/cases/case-96017ad7706f)
-
-**作者:** @hiapi_ai | **来源:** [原帖](https://x.com/hiapi_ai/status/2081294040415482322) | **发布:** 2026-07-26 | **热度:** 3
-
-**稳定度：** 73/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (72.7 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（14 行，点开展开）</b></summary>
-
-```
-生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
-
-主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
-
-产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
-
-0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
-3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
-6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
-
-9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
-12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
-
-声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-96017ad7706f)**
-
 ### 京都情感旅行 Vlog 动画
 
 > 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将一系列照片快照转化为连贯且富有情感的旅行 Vlog，并呈现自然的掌机拍摄效果。
@@ -2695,6 +2659,42 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-cd4a852a53ba)**
+
+### 写实风格无线耳机广告
+
+> 一份详细的 15 秒写实风格无线耳机广告分镜提示词，场景设定为城市中的女性设计师。
+
+[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="写实风格无线耳机广告">](https://goodcase.ai/cases/case-96017ad7706f)
+
+**作者:** @hiapi_ai | **来源:** [原帖](https://x.com/hiapi_ai/status/2081294040415482322) | **发布:** 2026-07-26 | **热度:** 2
+
+**稳定度：** 73/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ 降级 (72.7 分) · [产物](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（14 行，点开展开）</b></summary>
+
+```
+生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
+
+主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
+
+产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
+
+0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
+3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
+6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
+
+9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
+12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
+
+声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-96017ad7706f)**
 
 ### 角斗场决斗动作
 

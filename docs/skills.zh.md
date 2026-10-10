@@ -15,21 +15,21 @@
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 98 | 10 |
-| [动作连续性编排](#action-continuity-choreography) | 83 | 6 |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 80 | 5 |
+| [动作连续性编排](#action-continuity-choreography) | 84 | 6 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 83 | 5 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 4 |
 | [电影感旅行漫游](#travel-city-walk) | 61 | 5 |
 | [动画风格与角色一致性](#animation-style-consistency) | 56 | 2 |
-| [宠物动物当主角](#pets-and-animals-lead) | 51 | 1 |
+| [宠物动物当主角](#pets-and-animals-lead) | 52 | 1 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 45 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 43 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 40 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 37 | 1 |
-| [恐怖悬疑短片](#horror-suspense-short) | 35 | 3 |
+| [恐怖悬疑短片](#horror-suspense-short) | 36 | 3 |
 | [美食特写与吃播 ASMR](#food-asmr) | 31 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 27 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 22 | 1 |
-| [汽车与载具速度片](#vehicles-at-speed) | 21 | 0 |
+| [汽车与载具速度片](#vehicles-at-speed) | 22 | 0 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 8 | 0 |
@@ -67,7 +67,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > 把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。
 
-83 个案例，来自 61 位创作者 · 6 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance)
+84 个案例，来自 61 位创作者 · 6 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -76,10 +76,10 @@ npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | itsSaira_1 | 动作连续性编排 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance) |
+| Aiwithmaha | 动作连续性编排 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance) |
 | Just_sharon7 | 动作连续性编排 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance) |
 | itxabdullaa | 动作连续性编排 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance) |
 | haruuraeadss | 剧场版赛璐珞奇幻 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance) |
-| Aiwithmaha | 动作连续性编排 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance) |
 | itxsarmadd | 动作连续性编排 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance) |
 
 <a id="epic-fantasy-scifi-spectacle"></a>
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-80 个案例，来自 58 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
+83 个案例，来自 59 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -164,7 +164,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-51 个案例，来自 30 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
+52 个案例，来自 30 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -242,7 +242,7 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 
 > 每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。
 
-35 个案例，来自 18 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
+36 个案例，来自 18 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
@@ -252,7 +252,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | --- | --- | --- | --- | --- |
 | doctorwasif | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance) |
 | AIwithSynthia | 恐怖悬疑短片 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance) |
-| auqibhabib | 恐怖悬疑短片 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
+| auqibhabib | 恐怖悬疑短片 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance) |
 
 <a id="food-asmr"></a>
 
@@ -304,7 +304,7 @@ npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
 
 > 机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。
 
-21 个案例，来自 17 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance)
+22 个案例，来自 17 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed

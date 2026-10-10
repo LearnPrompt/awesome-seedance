@@ -1,10 +1,124 @@
 # Seedance 2.0 — 全ケース（Part 4/4）
 
-Seedance 2.0 の全 280 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 282 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 280 件中 278–280 件目。
+このページ: 282 件中 277–282 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · **Part 4**
+
+### Dark Surreal Mirror-Reflection Horror Short
+
+> A complex cinematic video prompt presenting a psychological horror scene about a man and his perceived reflection. The shot moves from a symmetrical medium shot to a dramatic slow-motion mirror shatter, ending with an infinite mirrored void and a hard cut to black.
+
+[<img src="https://media.goodcase.ai/media/poster/case-50692082320d.jpg" width="600" alt="Dark Surreal Mirror-Reflection Horror Short">](https://goodcase.ai/cases/case-50692082320d)
+
+**作者:** @Nexustechai1 | **出典:** [元投稿](https://x.com/Nexustechai1/status/2081527386508611807) | **公開日:** 2026-07-26 | **ヒート:** -
+
+<details>
+<summary><b>プロンプト全文（6 行、クリックで展開）</b></summary>
+
+```
+@referance image As first frame. A sharply dressed man in a dark blazer and black shirt stands facing a tall ornate mirror in complete darkness. His reflection stares back — but the reflection smiles while he does not.
+0–2s: Medium shot, symmetrical composition — the man on the left, his reflection on the right. Camera holds perfectly still. A cold overhead spotlight illuminates only him and the mirror. His expression is stone-cold. His reflection slowly tilts its head and grins wider. In a deep voice with metallic reverb: "You're not me." The reflection mouths the words simultaneously but slightly delayed. A dissonant string tone swells underneath.
+2–5s: On the bass hit, he punches the mirror. Time shifts to extreme slow motion at the moment of impact. The glass cracks in a radial spiderweb pattern from his fist outward. Each crack emits a thin line of white light. Macro detail: his knuckles pressing into the fracture point, glass beginning to separate, light bleeding through. The shards start to lift outward toward the camera, each one containing a different version of his reflection — one laughing, one screaming, one calm, one looking away. Bass reverberates with a metallic distortion.
+5–9s: The music drives forward. He steps through the broken mirror frame into a mirrored void — infinite reflections of himself stretching in every direction. Camera pulls back into an extreme wide shot revealing thousands of copies. He walks forward, each copy mirroring his movement but one beat delayed, creating a cascading wave effect. Camera tracks alongside him in a smooth lateral dolly. The copies begin diverging — some stop walking, some turn to face him, some dissolve into particles. He keeps walking, unflinching.
+9–12s: The music reaches maximum intensity. He stops. Every copy stops. He turns to face the camera directly. Every copy turns to face him. Silence. Then on the final beat, every copy shatters simultaneously into mirror fragments that fly toward the camera. He remains standing, untouched, as thousands of reflective shards stream past the lens. Final frame: him alone in darkness, no mirror, no copies. One last shard floats past — in it, the smiling reflection winks. Hard cut to black.
+Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Lighting: cold overhead spot, white light through glass cracks, infinite reflections multiplying light sources. Audio: dissonant strings, metallic voice reverb, glass impact, slow-motion crack propagation, cascading footstep echoes, silence-to-shatter, massive final impact. 4K Ultra HD. Maintain consistency.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-50692082320d)**
+
+### Childhood Toys Dialogue Prompt
+
+> A video prompt depicting a conversation among friends at a bar about the differences between boys’ and girls’ childhood toys.
+
+[<img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="600" alt="Childhood Toys Dialogue Prompt">](https://goodcase.ai/cases/case-19957ff473b6)
+
+**作者:** @PixelAigc | **出典:** [元投稿](https://x.com/PixelAigc/status/2081047344850845750) | **公開日:** 2026-07-25 | **ヒート:** -
+
+**安定度:** 90/100
+
+**再テスト:** 計 2 回
+
+- MiniMax H3 Max 768p · 2026-09-06 · ✅ 再現 (スコア 90) · [出力](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+- MiniMax H3 768p · 2026-08-09 · ✅ 再現 (スコア n/a) · [出力](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260809-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
+
+```
+主体：两个男人和一个女人，他们是朋友
+场景：一家酒吧，他们三个人围坐在一张桌子上喝茶
+这里，其中一个男人A说：
+“说一个有意思的事”
+女人说：“什么事？”
+男人B对男人A说：“你说”
+男人A说：“小的时候，男孩子都喜欢电动玩具，女孩子都喜欢娃娃”
+女人说：“是啊”
+男人A说：“等到长大后，好像就反过来了”
+女人楞了一下，突然反应过来，不好意思地笑了。
+男人B看一下男人A说：“哈，还真是这样”
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-19957ff473b6)**
+
+### Cute Bunny Chef Anime Cooking
+
+> A delightful first-person anime cooking video prompt featuring a little bunny assistant and a chef making a fluffy omelet in a cozy pastel kitchen.
+
+[<img src="https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg" width="600" alt="Cute Bunny Chef Anime Cooking">](https://goodcase.ai/cases/case-3d49f00e65c0)
+
+**作者:** @Jiade05 | **出典:** [元投稿](https://x.com/Jiade05/status/2080643134011412961) | **公開日:** 2026-07-24 | **ヒート:** -
+
+**安定度:** 82/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.7) · [出力](https://media.goodcase.ai/retests/case-3d49f00e65c0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（32 行、クリックで展開）</b></summary>
+
+```
+Create a 15-second Ultra HD 4K anime cooking show POV video inspired exactly by the provided cute omelet recipe image.
+
+STYLE:
+Premium Japanese kawaii anime cooking commercial. Pastel pink/cream chibi kitchen, warm soft lighting, cozy magical breakfast mood, highly detailed food animation.
+
+POV:
+First-person chef perspective. Only show cute female hands and arms (no face, head, or body). Delicate hands with pastel pink nails and frilly chef sleeves. Pink checkered countertop, cinematic camera movement, macro food shots, shallow depth of field.
+
+RECIPE:
+Follow the reference omelet recipe:
+Crack 3 eggs, add 2 tbsp milk, salt and pepper, whisk fluffy. Melt butter in pan, pour eggs, add cheese, mushrooms, red tomatoes, and green herbs. Fold into a golden fluffy omelet and garnish with herbs.
+
+FOOD:
+Make it extremely delicious: soft airy egg texture, melted cheese stretch, glossy mushrooms, juicy tomatoes, fresh herbs, gentle steam, satisfying cooking sounds.
+
+BUNNY HELPER:
+Add a tiny fluffy white anime bunny chef wearing a mini chef hat and apron. Cute, clumsy, playful helper:
+tries carrying ingredients, drops a mushroom then fixes it, struggles with a spoon, helps sprinkle herbs, gives a tiny thumbs-up, happily hops beside the finished omelet. Cute mascot style, not realistic.
+
+SEQUENCE:
+0-5s: Female hands start cooking, crack eggs, bunny joins excitedly.
+5-10s: Whisk eggs, butter melts, omelet cooks with fillings and close-up sizzling shots.
+10-15s: Hands fold omelet, bunny celebrates, final hero shot of beautiful fluffy omelet with cozy sparkles.
+
+QUALITY:
+4K UHD 3840x2160, 24fps cinematic animation, smooth hand movement, premium anime rendering, crisp textures, beautiful lighting, cinematic depth of field.
+
+MOOD:
+Fluffy • Savory • Cute • Playful • Heartwarming • Cozy.
+
+NEGATIVE:
+No face, no full body, no realistic human, no scary bunny, no dark mood, no burnt food, no wrong ingredients, no extra fingers, no deformed hands, no distorted bunny, no text, no watermark, no blur.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-3d49f00e65c0)**
 
 ### 1990s Disney-Style Forest Animation
 

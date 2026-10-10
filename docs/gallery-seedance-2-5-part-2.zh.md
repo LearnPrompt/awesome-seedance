@@ -1,10 +1,26 @@
 # Seedance 2.5 — 全量案例（第 2/7 页）
 
-Seedance 2.5 全部 535 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 543 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 84–174 条，共 535 条。
+本页：第 84–175 条，共 543 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
+
+### 日本教室里的丧尸突袭
+
+> One drop, one bite, and the safest place in school became a nightmare. 😳 Seedance 2.5 Prompt : Create a short, ultra-realistic Japanese high-school horror-acti…
+
+[<img src="https://media.goodcase.ai/cases/bd58f9078734.jpg" width="600" alt="日本教室里的丧尸突袭">](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2100575957451153626) | **发布:** 2026-09-17 | **热度:** 83
+
+```
+Create a short, ultra-realistic Japanese high-school horror-action sequence featuring the female teacher from the reference image. She is teaching normally when a single drop of blood falls onto a student’s notebook. Everyone looks up as the ceiling suddenly cracks and a zombie crashes into the classroom, sending students into panic. As they rush for the exit, another student suddenly reveals he is already infected, turning the classroom into chaos. The teacher grabs a heavy wooden bench and fights back while several students use chairs and desks to defend themselves. They eventually knock down the attackers and barricade the door. Just as the room becomes silent, a deep zombie groan echoes from the hallway. The teacher slowly turns toward the blocked door as the handle begins to move.
+
+Photorealistic live-action, practical-effects horror, realistic Japanese classroom, natural handheld camera, authentic reactions, realistic physics, muted cinematic grading, diegetic sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon, CGI look, distorted anatomy, subtitles, text, or watermark.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a)**
 
 ### 霓虹海岸城市枪战追车直播
 
@@ -338,6 +354,43 @@ Ending: The final geometric frame closes around her face, the holographic effect
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cyberpunk-holographic-dance-performance)**
+
+### 过山车假发闹剧：冻结与倒放的第二次演练
+
+> 同一个作者对时间冻结手法的第二次演练：假发被风吹飞、冻结、再精确倒放回起飞前一瞬间，用假发这个更轻更失控的道具取代咖啡液体，还加了一个原创的口香糖收尾动作，证明这套冻结倒放骨架能换着物理材质反复复用。
+
+[<img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="600" alt="过山车假发闹剧：冻结与倒放的第二次演练">](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)
+
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083585132917579834) | **发布:** 2026-08-01 | **热度:** 82
+
+**稳定度：** 74/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+
+```
+Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
+
+0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
+
+5-9s: [Dynamic Tracking] The force of the turn rips the man's wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone's faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
+
+9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man's scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths "joder, otra vez". She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
+
+15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man's head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
+
+20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man's scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
+
+26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
+
+Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
 
 ### 女儿背包引发的睡衣家庭喜剧
 
@@ -711,43 +764,6 @@ Same hands, sleeve and wrist cord across all four segments. Same rod, knife, boa
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf)**
 
-### 过山车假发闹剧：冻结与倒放的第二次演练
-
-> 同一个作者对时间冻结手法的第二次演练：假发被风吹飞、冻结、再精确倒放回起飞前一瞬间，用假发这个更轻更失控的道具取代咖啡液体，还加了一个原创的口香糖收尾动作，证明这套冻结倒放骨架能换着物理材质反复复用。
-
-[<img src="https://media.goodcase.ai/media/poster/youmind-rollercoaster-wig-time-freeze.jpg" width="600" alt="过山车假发闹剧：冻结与倒放的第二次演练">](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)
-
-**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083585132917579834) | **发布:** 2026-08-01 | **热度:** 81
-
-**稳定度：** 74/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/youmind-rollercoaster-wig-time-freeze/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
-
-```
-Photorealistic cinematic daytime amusement park roller coaster, bright hard sunlight, strong wind, realistic motion blur on tracks and background, subtle handheld camera energy, rich skin detail, heavy natural film grain.
-
-0-5s: [Medium Shot] A young woman in her early 20s sits in the front seat of a moving roller coaster car, calm and slightly bored, hair whipping in the wind. Beside her sits a middle-aged man wearing what looks like a normal full head of hair. Behind them, another car with a woman is visible. The coaster drops and banks hard.
-
-5-9s: [Dynamic Tracking] The force of the turn rips the man's wig free. It peels off his bald head in a chaotic upward arc, spinning and flying backward through the air. The wig lands messily on the head of the woman in the car behind. Everyone's faces freeze in pure shock and confusion at the peak of the chaos. Time locks completely. Only the young woman in the front keeps moving.
-
-9-15s: [Slow Orbital + Detail] Camera slowly orbits the frozen cars. The wig hangs mid-air in a twisted shape with individual hairs suspended. The bald man's scalp is fully exposed, mouth open. The woman behind is frozen mid-scream with the wig draped over her face. The young woman looks sideways, rolls her eyes and mouths "joder, otra vez". She reaches into her pocket, pulls out a stick of chewing gum, unwraps it and calmly puts it in her mouth, starting to chew while the entire frozen scene (except her) begins a precise reverse.
-
-15-20s: [Medium Close-up] The rewind is controlled and elegant: the wig lifts off the woman behind, flies backward through the air in reverse, and returns exactly to the moment it is only beginning to peel off the bald man's head. Time freezes again at that precise instant — the front edge of the wig just lifting, a few strands already loose.
-
-20-26s: [Tight Medium] Still frozen for everyone else, the young woman takes the chewed gum out of her mouth, reaches over and firmly presses it onto the center of the bald man's scalp, right under the lifting wig. With the same hand she smooths and presses the wig back down into perfect place, locking it with the gum. She sits back, looks straight ahead with a tiny private smile, completely unbothered.
-
-26-30s: [Medium Shot] Time suddenly resumes at full real-time speed. The coaster continues its drop. The man touches his head, feels the wig still firmly in place, looks confused for a second, then breaks into a relieved, happy smile. The young woman stares forward, already chewing a new piece of gum, expression of quiet satisfaction.
-
-Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze)**
-
 ### 幼童帮兔子寻找三种水果
 
 > Made with Seedance 2.5 Prompt 👇 Create a high-quality 15-second vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme styl…
@@ -1003,6 +1019,221 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da)**
+
+### 月光池塘里的迷你青蛙大厨
+
+> Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
+
+[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg" width="600" alt="月光池塘里的迷你青蛙大厨">](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)
+
+**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2091396961329131999) | **发布:** 2026-08-23 | **热度:** 81
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/caden-flux-seedance-ai-473fedbbc75f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（193 行，点开展开）</b></summary>
+
+```
+The Tiny Frog Michelin Chef — 30-Second Animated Short
+
+Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
+
+The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
+
+MAIN CHARACTER
+
+A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
+
+He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
+
+Despite being tiny and adorable, he behaves like an extremely serious professional chef.
+
+His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
+
+Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
+
+0–5 SEC — THE RESTAURANT
+
+Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
+
+Fireflies glow like miniature chandeliers.
+
+Lily pads become elegant dining tables.
+
+Tiny candles illuminate the water.
+
+The frog chef stands inside his miniature outdoor kitchen.
+
+He adjusts his chef hat with complete seriousness.
+
+He looks directly at the dish he is about to prepare.
+
+Dramatic cinematic push-in toward his determined face.
+
+5–10 SEC — THE PREPARATION
+
+Rapid cinematic cooking montage.
+
+The tiny frog dramatically chops miniature vegetables.
+
+He slices mushrooms with incredible precision.
+
+He tosses herbs into a tiny copper pan.
+
+Butter melts.
+
+Steam rises.
+
+He tastes the sauce with a tiny spoon.
+
+His eyes narrow.
+
+He adds exactly one more tiny pinch of seasoning.
+
+He tastes it again.
+
+His expression finally shows approval.
+
+Use exaggerated but believable animated physical comedy.
+
+10–17 SEC — THE MASTERPIECE
+
+The frog chef begins assembling his signature dish.
+
+He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
+
+He uses tweezers to position a single delicate herb.
+
+He steps back.
+
+Something looks wrong.
+
+His eyes widen.
+
+He rushes back to the plate.
+
+He moves one tiny vegetable approximately one millimeter.
+
+He steps back again.
+
+Perfect.
+
+His face lights up with pride.
+
+17–22 SEC — THE BIG PRESENTATION
+
+The frog dramatically carries the tiny plate across a lily-pad dining area.
+
+Several adorable woodland animals sit at tiny tables watching him.
+
+A rabbit.
+
+A hedgehog.
+
+A duckling.
+
+A small turtle.
+
+They all stare at the dish with exaggerated anticipation.
+
+The frog carefully places the plate in the center.
+
+Everyone leans forward.
+
+22–27 SEC — THE TASTE
+
+The animals take one bite.
+
+Silence.
+
+Their eyes suddenly become enormous.
+
+The rabbit gasps.
+
+The hedgehog's ears shoot upward.
+
+The duckling freezes in amazement.
+
+The turtle slowly raises both tiny flippers.
+
+Then everyone starts happily celebrating.
+
+The frog chef stands completely still, trying desperately to maintain his serious professional expression.
+
+A tiny smile slowly appears.
+
+27–30 SEC — THE PAYOFF
+
+Suddenly, the frog's miniature restaurant becomes completely chaotic.
+
+The animals cheer.
+
+Fireflies swirl around the restaurant like sparkling lights.
+
+The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
+
+Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
+
+Final shot:
+
+The tiny frog chef stands proudly beneath his oversized chef hat.
+
+Adorable. Dramatic. Completely ridiculous.
+
+VISUAL & ANIMATION STYLE
+
+Premium cinematic 3D animated feature-film quality.
+
+Extremely expressive character animation.
+
+Cute stylized proportions.
+
+Detailed frog skin.
+
+Soft natural reflections in the eyes.
+
+Realistic miniature food textures.
+
+Tiny believable kitchen props.
+
+Beautiful moonlit pond environment.
+
+Warm candlelight contrasting with cool nighttime atmosphere.
+
+Detailed lily pads, flowers, fireflies, water reflections, and vegetation.
+
+Playful cartoon physics.
+
+Subtle squash-and-stretch.
+
+Excellent comedic timing.
+
+Smooth cinematic camera movements.
+
+Dynamic food close-ups.
+
+Macro photography feeling for the tiny world.
+
+Shallow depth of field.
+
+Soft volumetric lighting.
+
+Natural motion blur.
+
+Polished theatrical rendering.
+
+The entire sequence should feel like one continuous animated movie scene, with consistent character design, environment, lighting, proportions, and animation quality.
+
+16:9 LANDSCAPE — 4K — premium cinematic 3D animation.
+
+No text, no subtitles, no logos, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)**
 
 ### Nano Banana 2 + Seedance 镜中拉人入水创意短片
 
@@ -1424,220 +1655,58 @@ The panel, divider lines, captions, crown icons and wordmark stay perfectly fixe
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af)**
 
-### 月光池塘里的迷你青蛙大厨
+### 三个孩子寻找雪下的神秘车站
 
-> Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
+> A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
 
-[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg" width="600" alt="月光池塘里的迷你青蛙大厨">](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)
+[<img src="https://media.goodcase.ai/cases/79e519115cd2.jpg" width="600" alt="三个孩子寻找雪下的神秘车站">](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e)
 
-**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2091396961329131999) | **发布:** 2026-08-23 | **热度:** 80
-
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/caden-flux-seedance-ai-473fedbbc75f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2099820658880548879) | **发布:** 2026-09-15 | **热度:** 80
 
 <details>
-<summary><b>完整 prompt（193 行，点开展开）</b></summary>
+<summary><b>完整 prompt（35 行，点开展开）</b></summary>
 
 ```
-The Tiny Frog Michelin Chef — 30-Second Animated Short
+A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise.
 
-Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
+Seedance 2.5 on @SJinn_Agent 
 
-The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
+Prompt
 
-MAIN CHARACTER
+A 30-second cinematic third-person open-world game trailer in a photorealistic Japanese animated-film aesthetic, blending hand-painted winter fantasy, luminous skies, and modern AAA game presentation.
 
-A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
+A snowbound mountain village in late January. Three elementary-school children: a boy in a red knit cap, cream winter jacket, navy snow pants, and blue backpack as the player character; a boy in a green puffer vest and wool scarf; and a girl with a ponytail, lavender coat, pink backpack, and knitted mittens.
 
-He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
+Soft blue winter light, sparkling snow crystals, visible breath, drifting powder, warm window glow, distant mountain peaks, frozen streams, and quiet snowfall. Always keep a GTA-style HUD: top-left snowflake icon + green/blue stamina and warmth bars, top-center objective banner in Japanese, top-right date/time (1月27日), bottom-left circular mini-map with player arrow, bottom-right context button prompts (走る / 調べる / のぼる / ライト). Smooth tracking camera behind the player, slight handheld game-feel, 24fps cinematic motion, high-fidelity skin, wool, snow, ice, wood, and foliage.
 
-Despite being tiny and adorable, he behaves like an extremely serious professional chef.
+Sequence:
 
-His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
+0–4s: Snow-covered mountain village street between wooden houses, glowing paper windows, stacked firewood, snow-covered roofs, and tall cedar trees. The player boy races downhill on a wooden sled while another child speeds ahead, kicking up powder. The girl waves from the roadside. They pass a small shrine gate half-buried in snow as the camera sweeps toward a vast frozen valley. Objective: 「雪山のてっぺんまで競争！」 Time 10:24.
 
-Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
+5–8s: Cut to a frozen waterfall deep in a cedar forest. Massive blue ice columns hang over a crystal-clear pool, with tiny trapped bubbles beneath the surface. The player stands on slippery rocks, peering into the ice. A strange warm glow moves behind the frozen waterfall, and a question-mark prompt appears. Objective: 「凍った滝の秘密を探せ」 Time 14:10. Camera glides close to the ice, briefly dipping beneath the translucent frozen pool as a mysterious shadow passes below.
 
-0–5 SEC — THE RESTAURANT
+9–12s: Secret treehouse base built inside an enormous snow-covered cedar overlooking the village and mountain slopes. Inside, a glowing kotatsu, steaming mugs of cocoa, folded blankets, paper snow maps, and small lanterns create a cozy refuge. The player climbs a wooden ladder while the two friends sit around a hand-drawn map. A glowing red “?” marks an impossible railway line leading to a station that does not appear on any village map. Objective: 「秘密基地をあたためよう」 Time 16:32.
 
-Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
+13–17s: Blue-hour winter festival in the village square. Snow lanterns line the paths, children carry warm taiyaki, a small yakiimo stall sends smoke into the cold air, and distant taiko drums echo between the mountains. The three children race through the falling snow, then stop at an old wooden sign reading 「この先、存在しない駅」 pointing toward a closed mountain trail. Far above, a faint train whistle sounds through the clouds. Objective: 「存在しない駅への道を探そう」 Time 19:15.
 
-Fireflies glow like miniature chandeliers.
+18–23s: Night. Abandoned railway platform hidden in a narrow mountain pass. Rusted rails disappear beneath snowdrifts, a broken sign reads 「立入禁止」, and the moon shines over silent pine trees. The three children approach cautiously. The player switches on a flashlight; its beam cuts through falling snow and mist. At the end of the tracks, a warm amber platform light flickers where no station should be. A distant train bell rings once. Objective: 「夜の線路を追え」 Time 20:08. Quiet, mysterious, and slightly eerie, but wholesome and magical rather than frightening.
 
-Lily pads become elegant dining tables.
+24–27s: Dawn at a high mountain overlook. The children stand beside a snow-covered signal tower as golden sunlight breaks across the peaks. The snow suddenly shifts, revealing the roof of an entire buried railway station beneath the mountain. An old station clock begins ticking. A notification appears: 「雪の下の駅を発見！」 Time 05:12. Location: 雪見ヶ峰.
 
-Tiny candles illuminate the water.
+28–30s: Title card over the same sunrise mountain valley, with the newly revealed station glowing beneath the snow:
 
-The frog chef stands inside his miniature outdoor kitchen.
+ぼくらの冬休み
 
-He adjusts his chef hat with complete seriousness.
+— 雪の下の駅 —
 
-He looks directly at the dish he is about to prepare.
+小さな字幕: 冬休みは、まだ終わらない。
 
-Dramatic cinematic push-in toward his determined face.
-
-5–10 SEC — THE PREPARATION
-
-Rapid cinematic cooking montage.
-
-The tiny frog dramatically chops miniature vegetables.
-
-He slices mushrooms with incredible precision.
-
-He tosses herbs into a tiny copper pan.
-
-Butter melts.
-
-Steam rises.
-
-He tastes the sauce with a tiny spoon.
-
-His eyes narrow.
-
-He adds exactly one more tiny pinch of seasoning.
-
-He tastes it again.
-
-His expression finally shows approval.
-
-Use exaggerated but believable animated physical comedy.
-
-10–17 SEC — THE MASTERPIECE
-
-The frog chef begins assembling his signature dish.
-
-He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
-
-He uses tweezers to position a single delicate herb.
-
-He steps back.
-
-Something looks wrong.
-
-His eyes widen.
-
-He rushes back to the plate.
-
-He moves one tiny vegetable approximately one millimeter.
-
-He steps back again.
-
-Perfect.
-
-His face lights up with pride.
-
-17–22 SEC — THE BIG PRESENTATION
-
-The frog dramatically carries the tiny plate across a lily-pad dining area.
-
-Several adorable woodland animals sit at tiny tables watching him.
-
-A rabbit.
-
-A hedgehog.
-
-A duckling.
-
-A small turtle.
-
-They all stare at the dish with exaggerated anticipation.
-
-The frog carefully places the plate in the center.
-
-Everyone leans forward.
-
-22–27 SEC — THE TASTE
-
-The animals take one bite.
-
-Silence.
-
-Their eyes suddenly become enormous.
-
-The rabbit gasps.
-
-The hedgehog's ears shoot upward.
-
-The duckling freezes in amazement.
-
-The turtle slowly raises both tiny flippers.
-
-Then everyone starts happily celebrating.
-
-The frog chef stands completely still, trying desperately to maintain his serious professional expression.
-
-A tiny smile slowly appears.
-
-27–30 SEC — THE PAYOFF
-
-Suddenly, the frog's miniature restaurant becomes completely chaotic.
-
-The animals cheer.
-
-Fireflies swirl around the restaurant like sparkling lights.
-
-The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
-
-Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
-
-Final shot:
-
-The tiny frog chef stands proudly beneath his oversized chef hat.
-
-Adorable. Dramatic. Completely ridiculous.
-
-VISUAL & ANIMATION STYLE
-
-Premium cinematic 3D animated feature-film quality.
-
-Extremely expressive character animation.
-
-Cute stylized proportions.
-
-Detailed frog skin.
-
-Soft natural reflections in the eyes.
-
-Realistic miniature food textures.
-
-Tiny believable kitchen props.
-
-Beautiful moonlit pond environment.
-
-Warm candlelight contrasting with cool nighttime atmosphere.
-
-Detailed lily pads, flowers, fireflies, water reflections, and vegetation.
-
-Playful cartoon physics.
-
-Subtle squash-and-stretch.
-
-Excellent comedic timing.
-
-Smooth cinematic camera movements.
-
-Dynamic food close-ups.
-
-Macro photography feeling for the tiny world.
-
-Shallow depth of field.
-
-Soft volumetric lighting.
-
-Natural motion blur.
-
-Polished theatrical rendering.
-
-The entire sequence should feel like one continuous animated movie scene, with consistent character design, environment, lighting, proportions, and animation quality.
-
-16:9 LANDSCAPE — 4K — premium cinematic 3D animation.
-
-No text, no subtitles, no logos, no watermark.
+Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an impossible railway mystery that never becomes horror. Audio: excited Japanese children’s chatter, sled runners scraping over snow, wind through cedar trees, distant taiko drums, soft train bells, crackling firewood, gentle piano and strings swelling during the buried-station reveal. No violence, no adult characters in focus.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e)**
 
 ### 静电觉醒少女的体育馆反击
 
@@ -1731,6 +1800,45 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1)**
 
+### Bladesmith Competition Reality TV Video
+
+> A realistic reality TV style video prompt showing a bladesmith testing a forged machete against ceramic gnomes with dynamic impact physics and documentary camera work.
+
+[<img src="https://media.goodcase.ai/media/poster/bladesmith-competition-reality-tv-video.jpg" width="600" alt="Bladesmith Competition Reality TV Video">](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)
+
+**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2084112771533189499) | **发布:** 2026-08-03 | **热度:** 79
+
+**稳定度：** 74/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/bladesmith-competition-reality-tv-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（17 行，点开展开）</b></summary>
+
+```
+Reality TV bladesmith competition testing segment, multi-camera documentary production, bright industrial workshop lighting, sharp HD broadcast look, practical forge practicals, natural handheld shake on action cams, clean documentary texture, no cinematic film look.
+
+0-4s: [Medium Two-Shot] Martial arts master of clear Asian ancestry in black tactical shirt stands facing the young female bladesmith in her early 20s (work apron, focused). He holds her forged machete, turns the blade once under the lights. Looks her in the eye: “Are you ready?” She answers firmly “Yes.” Quick cut to her determined face, then to three classic ceramic garden gnomes lined up on sturdy stands behind them.
+
+4-7s: [Low-Angle Tracking + Rapid Cuts] Master steps in, raises the machete. Hard cut to side angle as he delivers a powerful overhead chop into the first gnome. Impact explodes in slow motion: ceramic shatters into sharp fragments, paint chips and dust fly outward. Time locks at peak penetration. Camera orbits the frozen blade buried in the broken gnome for one second. Quick insert ECU of the edge biting through the ceramic body.
+
+7-11s: [Dynamic Side Tracking] Action resumes. Master yanks the machete free, immediately follows with a heavy diagonal slash across the second gnome. Slow-motion again: the figure tears apart sideways, large colored pieces and shards scatter. Freeze at maximum destruction. Two rapid cuts: one over-shoulder from behind the master, one low angle under the flying fragments. Orbit holds for half a second on the locked impact.
+
+11-15s: [Handheld Close Action] Third strike — short, vicious downward chop into the third gnome. Slow-mo impact, the ceramic erupts into dozens of pieces, hat and beard flying. Full freeze. Camera pushes in and circles the frozen chaos for one beat. Quick insert of the master’s focused face mid-swing, then back to the locked blade.
+
+15-19s: [Series of Fast Cuts] Time resumes. Master pulls the machete out, turns it under the light. Tight ECU tracks along the edge: a few small nicks and rolled spots visible. Cut to his fingers testing the edge. Cut to the ruined garden gnomes still shedding fragments. Cut to the young woman’s tense expression as she watches.
+
+19-24s: [Medium Close-Up] Master lowers the blade, looks straight at her. Calm, professional delivery: “There are a couple of nicks on the edge… but your weapon, ma’am… it kills.” Hard cut to her face — a small, controlled smile of pride breaks through.
+
+24-28s: [Final ECU Montage] Extreme close-up of the nicked but still lethal edge catching the light. Cut to the shattered remains of the garden gnomes. Final frame holds on the young bladesmith’s quiet satisfaction as the master nods once.
+
+Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge detail, natural motion blur only on moving elements, stable characters, coherent impact timing, no artifacts, high rewatch value.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)**
+
 ### 废墟街头火焰术引爆全城
 
 > AI just cooked with this one 🔥 Seedance 2.5 on @higgsfield Prompt : SUZUKA — FUGA DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-photorealistic live-ac…
@@ -1809,59 +1917,6 @@ NO MUSIC. #higgsfield
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f)**
-
-### 三个孩子寻找雪下的神秘车站
-
-> A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
-
-[<img src="https://media.goodcase.ai/cases/79e519115cd2.jpg" width="600" alt="三个孩子寻找雪下的神秘车站">](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2099820658880548879) | **发布:** 2026-09-15 | **热度:** 79
-
-<details>
-<summary><b>完整 prompt（35 行，点开展开）</b></summary>
-
-```
-A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise.
-
-Seedance 2.5 on @SJinn_Agent 
-
-Prompt
-
-A 30-second cinematic third-person open-world game trailer in a photorealistic Japanese animated-film aesthetic, blending hand-painted winter fantasy, luminous skies, and modern AAA game presentation.
-
-A snowbound mountain village in late January. Three elementary-school children: a boy in a red knit cap, cream winter jacket, navy snow pants, and blue backpack as the player character; a boy in a green puffer vest and wool scarf; and a girl with a ponytail, lavender coat, pink backpack, and knitted mittens.
-
-Soft blue winter light, sparkling snow crystals, visible breath, drifting powder, warm window glow, distant mountain peaks, frozen streams, and quiet snowfall. Always keep a GTA-style HUD: top-left snowflake icon + green/blue stamina and warmth bars, top-center objective banner in Japanese, top-right date/time (1月27日), bottom-left circular mini-map with player arrow, bottom-right context button prompts (走る / 調べる / のぼる / ライト). Smooth tracking camera behind the player, slight handheld game-feel, 24fps cinematic motion, high-fidelity skin, wool, snow, ice, wood, and foliage.
-
-Sequence:
-
-0–4s: Snow-covered mountain village street between wooden houses, glowing paper windows, stacked firewood, snow-covered roofs, and tall cedar trees. The player boy races downhill on a wooden sled while another child speeds ahead, kicking up powder. The girl waves from the roadside. They pass a small shrine gate half-buried in snow as the camera sweeps toward a vast frozen valley. Objective: 「雪山のてっぺんまで競争！」 Time 10:24.
-
-5–8s: Cut to a frozen waterfall deep in a cedar forest. Massive blue ice columns hang over a crystal-clear pool, with tiny trapped bubbles beneath the surface. The player stands on slippery rocks, peering into the ice. A strange warm glow moves behind the frozen waterfall, and a question-mark prompt appears. Objective: 「凍った滝の秘密を探せ」 Time 14:10. Camera glides close to the ice, briefly dipping beneath the translucent frozen pool as a mysterious shadow passes below.
-
-9–12s: Secret treehouse base built inside an enormous snow-covered cedar overlooking the village and mountain slopes. Inside, a glowing kotatsu, steaming mugs of cocoa, folded blankets, paper snow maps, and small lanterns create a cozy refuge. The player climbs a wooden ladder while the two friends sit around a hand-drawn map. A glowing red “?” marks an impossible railway line leading to a station that does not appear on any village map. Objective: 「秘密基地をあたためよう」 Time 16:32.
-
-13–17s: Blue-hour winter festival in the village square. Snow lanterns line the paths, children carry warm taiyaki, a small yakiimo stall sends smoke into the cold air, and distant taiko drums echo between the mountains. The three children race through the falling snow, then stop at an old wooden sign reading 「この先、存在しない駅」 pointing toward a closed mountain trail. Far above, a faint train whistle sounds through the clouds. Objective: 「存在しない駅への道を探そう」 Time 19:15.
-
-18–23s: Night. Abandoned railway platform hidden in a narrow mountain pass. Rusted rails disappear beneath snowdrifts, a broken sign reads 「立入禁止」, and the moon shines over silent pine trees. The three children approach cautiously. The player switches on a flashlight; its beam cuts through falling snow and mist. At the end of the tracks, a warm amber platform light flickers where no station should be. A distant train bell rings once. Objective: 「夜の線路を追え」 Time 20:08. Quiet, mysterious, and slightly eerie, but wholesome and magical rather than frightening.
-
-24–27s: Dawn at a high mountain overlook. The children stand beside a snow-covered signal tower as golden sunlight breaks across the peaks. The snow suddenly shifts, revealing the roof of an entire buried railway station beneath the mountain. An old station clock begins ticking. A notification appears: 「雪の下の駅を発見！」 Time 05:12. Location: 雪見ヶ峰.
-
-28–30s: Title card over the same sunrise mountain valley, with the newly revealed station glowing beneath the snow:
-
-ぼくらの冬休み
-
-— 雪の下の駅 —
-
-小さな字幕: 冬休みは、まだ終わらない。
-
-Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an impossible railway mystery that never becomes horror. Audio: excited Japanese children’s chatter, sled runners scraping over snow, wind through cedar trees, distant taiko drums, soft train bells, crackling firewood, gentle piano and strings swelling during the buried-station reveal. No violence, no adult characters in focus.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e)**
 
 ### 首尔夏夜市场的DV漫步
 
@@ -2039,6 +2094,114 @@ Cinematic fashion film still, low-angle shot of a beautiful young woman with wav
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0)**
+
+### 魔法画笔将城市交通变成动漫
+
+> Magic Pen Street Transport Vlog Seedance 2.5 on lovart_ai Prompt ↓ Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16 [STYLE] Live-action + flat 2D an…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-magic-pen-street-transport-vlog-28d80bd05eda.jpg" width="600" alt="魔法画笔将城市交通变成动漫">](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda)
+
+**作者:** @Strength04_X | **来源:** [原帖](https://x.com/Strength04_X/status/2095748874942263601) | **发布:** 2026-09-04 | **热度:** 79
+
+**复测：** Grok Imagine · 2026-10-02 · ⚠️ 降级 (72.2 分) · [产物](https://media.goodcase.ai/retests/seedance-magic-pen-street-transport-vlog-28d80bd05eda/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（88 行，点开展开）</b></summary>
+
+```
+Magic Pen Street Transport Vlog 
+
+Seedance 2.5 on lovart_ai 
+
+Prompt ↓
+
+Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16
+
+[STYLE]
+Live-action + flat 2D anime sticker compositing, first-person street transport magic vlog. 8K photorealistic detail with the authentic look of a real smartphone rear-camera recording. Strong visual contrast between the photorealistic city and flat cartoon vehicles. One continuous handheld smartphone shot. No cuts. No scene transitions.
+
+[CAMERA]
+Raw, unstabilized handheld smartphone footage throughout: natural walking shake, subtle arm movement, occasional autofocus hunting, realistic exposure shifts between bright sky and building shadows, and slight rolling-shutter jelly during fast pans. Natural smartphone HDR colors with soft, realistic tones. The camera quickly whip-pans to follow the marker and each target.
+
+[LIGHTING]
+Late-afternoon sunlight coming consistently from one direction. Every real object and every animated character casts a soft contact shadow matching the direction of the sunlight.
+
+[SETTING]
+One continuous walk through a Korean city neighborhood. A wide urban road with a pedestrian sidewalk, bicycle lane, city buses, parked scooters, and a crosswalk. Everyday street life, with background pedestrians and vehicles moving naturally.
+
+[PEN — MAGIC RULES]
+The vlogger's real hand, with photorealistic skin and visible pores, holds a black marker and remains visible throughout the entire video, serving as the visual guide connecting every beat.
+
+Every transformation follows the exact same sequence:
+
+Marker points → Vlogger says “Biu!” → blue hand-drawn sketch lines wrap around the target → ink spreads → the target transforms into a lively flat 2D cel-shaded anime character with bold cartoon outlines.
+
+The transformed character must preserve the original object's exact size, position, speed, direction, and perspective, remaining perfectly anchored to the real street environment. Characters retain flat sticker-style shading and are never relit by the real-world lighting. Anything they touch reacts with realistic physical interaction.
+
+[00:00–00:03]
+
+First-person view while walking beside a busy road. The vlogger raises the black marker into frame and points at a passing city bus.
+
+“Biu!”
+
+Blue sketch lines wrap around the bus. The bus transforms into a giant flat 2D cartoon vehicle with bold anime outlines while maintaining its exact size, speed, direction, and perspective.
+
+It continues driving normally through traffic.
+
+SFX: Bus engine + marker whoosh + soft cartoon movement sound.
+
+[00:03–00:06]
+
+The marker quickly swings downward toward a bicycle passing along the bicycle lane.
+
+“Biu!”
+
+The bicycle transforms into a cute hand-drawn cartoon bicycle. It continues moving at the same speed, its wheels spinning rapidly, with small sketch particles appearing behind it.
+
+SFX: Bicycle wheel sound + light sketch rustling.
+
+[00:06–00:10]
+
+The marker follows the bicycle toward a parked scooter near the sidewalk.
+
+“Biu!”
+
+A rapid blue sketch outline covers the scooter. It transforms into a flat 2D cartoon scooter while preserving its exact position, proportions, and perspective.
+
+Its wheels spin once and its small cartoon headlight blinks twice.
+
+SFX: Soft engine hum + tiny mechanical click.
+
+[00:10–00:12]
+
+The marker quickly swings toward a pedestrian crossing the road.
+
+“Biu!”
+
+Blue sketch lines trace around the person. The same person, in the exact same pose, proportions, and position, becomes a vibrant anime cel-shaded illustration.
+
+They continue walking naturally and briefly wave once.
+
+SFX: Fast doodling sound + soft sparkle chime.
+
+[00:12–00:15]
+
+The vlogger stops walking and gives one final, louder:
+
+“Biu—!”
+
+The marker spins upward toward the road. A swirling blue ink trail spreads across the vehicles and pavement, transforming the entire road surface into a hand-drawn anime street while the surrounding buildings remain completely photorealistic.
+
+A small handwritten “THE END!” doodle — the only text appearing anywhere in the video — pops up above the road.
+
+Freeze frame.
+
+SFX: Sharp throwing whoosh + spreading watercolor-ink bloom + felt-tip marker squeaking as it writes “THE END!”
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda)**
 
 ### Seedance 2.5 视频续写实验：首帧之后生成有意义新内容
 
@@ -2219,44 +2382,32 @@ Format: 9:16 vertical, high resolution, smooth animation, clean composition, no 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d7d437c4a8b9)**
 
-### Bladesmith Competition Reality TV Video
+### 湿冷地铁站台格斗
 
-> A realistic reality TV style video prompt showing a bladesmith testing a forged machete against ceramic gnomes with dynamic impact physics and documentary camera work.
+> When the subway platform turns into a full-blown action scene. 🥊🚇🎬 Created with Seedance 2.5 Prompt:Create a 10-second cinematic action sequence set inside a…
 
-[<img src="https://media.goodcase.ai/media/poster/bladesmith-competition-reality-tv-video.jpg" width="600" alt="Bladesmith Competition Reality TV Video">](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)
+[<img src="https://media.goodcase.ai/cases/19cf0f9fde2b.jpg" width="600" alt="湿冷地铁站台格斗">](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0)
 
-**作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2084112771533189499) | **发布:** 2026-08-03 | **热度:** 78
-
-**稳定度：** 74/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.8 分) · [产物](https://media.goodcase.ai/retests/bladesmith-competition-reality-tv-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @Elvorya | **来源:** [原帖](https://x.com/Elvorya/status/2104450675656835476) | **发布:** 2026-09-28 | **热度:** 78
 
 <details>
-<summary><b>完整 prompt（17 行，点开展开）</b></summary>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
 
 ```
-Reality TV bladesmith competition testing segment, multi-camera documentary production, bright industrial workshop lighting, sharp HD broadcast look, practical forge practicals, natural handheld shake on action cams, clean documentary texture, no cinematic film look.
+Create a 10-second cinematic action sequence set inside a gritty modern subway station, featuring a determined young woman confronting a larger male attacker on a wet underground platform. Maintain the same character appearance, facial features, body proportions, hairstyle, clothing, and accessories throughout the entire sequence.
 
-0-4s: [Medium Two-Shot] Martial arts master of clear Asian ancestry in black tactical shirt stands facing the young female bladesmith in her early 20s (work apron, focused). He holds her forged machete, turns the blade once under the lights. Looks her in the eye: “Are you ready?” She answers firmly “Yes.” Quick cut to her determined face, then to three classic ceramic garden gnomes lined up on sturdy stands behind them.
+Begin with a cinematic medium shot of the woman standing on the subway platform beside a stopped silver train, looking alert and focused as the male opponent approaches her from the side → transition into a sudden close-range confrontation as the man attempts to attack, while she quickly reacts and raises her arms defensively → cut into a dynamic action sequence as the woman delivers a powerful side kick toward the man's torso, with realistic body mechanics and believable impact → transition to fast handheld-style camera movement as both characters exchange rapid punches, blocks, dodges, and defensive movements across the platform → capture the woman's controlled fighting technique as she remains balanced and focused while the larger man struggles to keep up → cut to a dramatic low-angle shot as she delivers a final powerful strike, causing the man to lose his balance and fall heavily onto the wet platform → show him lying on the ground while the woman stands above him, breathing steadily and watching him cautiously → transition to a wider cinematic shot as she turns away and begins walking down the subway platform while the defeated man remains motionless in the foreground → final shot follows behind the woman as she walks away beside the stationary train, creating a stylish action-movie ending.
 
-4-7s: [Low-Angle Tracking + Rapid Cuts] Master steps in, raises the machete. Hard cut to side angle as he delivers a powerful overhead chop into the first gnome. Impact explodes in slow motion: ceramic shatters into sharp fragments, paint chips and dust fly outward. Time locks at peak penetration. Camera orbits the frozen blade buried in the broken gnome for one second. Quick insert ECU of the edge biting through the ceramic body.
+Visual style: high-end cinematic action filmmaking, realistic human movement, gritty underground subway atmosphere, wet reflective floor, dramatic overhead fluorescent lighting, realistic train details, natural clothing movement, subtle motion blur, dynamic handheld camera, low-angle action shots, fast cinematic cuts, believable martial-arts choreography, realistic impact physics, strong facial expressions, shallow depth of field, atmospheric urban tension, polished color grading, intense but grounded action tone.
 
-7-11s: [Dynamic Side Tracking] Action resumes. Master yanks the machete free, immediately follows with a heavy diagonal slash across the second gnome. Slow-motion again: the figure tears apart sideways, large colored pieces and shards scatter. Freeze at maximum destruction. Two rapid cuts: one over-shoulder from behind the master, one low angle under the flying fragments. Orbit holds for half a second on the locked impact.
+Character consistency: preserve the woman's exact facial identity, hairstyle, body proportions, black outfit, and overall appearance throughout every shot. Preserve the man's appearance, clothing, hairstyle, and body proportions throughout the entire sequence. No character morphing or identity drift.
 
-11-15s: [Handheld Close Action] Third strike — short, vicious downward chop into the third gnome. Slow-mo impact, the ceramic erupts into dozens of pieces, hat and beard flying. Full freeze. Camera pushes in and circles the frozen chaos for one beat. Quick insert of the master’s focused face mid-swing, then back to the locked blade.
-
-15-19s: [Series of Fast Cuts] Time resumes. Master pulls the machete out, turns it under the light. Tight ECU tracks along the edge: a few small nicks and rolled spots visible. Cut to his fingers testing the edge. Cut to the ruined garden gnomes still shedding fragments. Cut to the young woman’s tense expression as she watches.
-
-19-24s: [Medium Close-Up] Master lowers the blade, looks straight at her. Calm, professional delivery: “There are a couple of nicks on the edge… but your weapon, ma’am… it kills.” Hard cut to her face — a small, controlled smile of pride breaks through.
-
-24-28s: [Final ECU Montage] Extreme close-up of the nicked but still lethal edge catching the light. Cut to the shattered remains of the garden gnomes. Final frame holds on the young bladesmith’s quiet satisfaction as the master nods once.
-
-Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge detail, natural motion blur only on moving elements, stable characters, coherent impact timing, no artifacts, high rewatch value.
+Negative prompt: distorted faces, changing faces, character morphing, extra limbs, missing limbs, extra fingers, broken hands, unnatural anatomy, floating bodies, unrealistic physics, cartoon movement, exaggerated CGI, duplicated characters, clothing changes, hairstyle changes, inconsistent characters, warped train, flickering background, excessive motion blur, text, subtitles, logos, watermark.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0)**
 
 ### 夜行卧铺列车感染惊魂
 
@@ -2276,113 +2427,61 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e)**
 
-### 魔法画笔将城市交通变成动漫
+### 沙发上相拥亲吻的萌兔
 
-> Magic Pen Street Transport Vlog Seedance 2.5 on lovart_ai Prompt ↓ Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16 [STYLE] Live-action + flat 2D an…
+> Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-magic-pen-street-transport-vlog-28d80bd05eda.jpg" width="600" alt="魔法画笔将城市交通变成动漫">](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda)
+[<img src="https://media.goodcase.ai/cases/ae82336c097b.jpg" width="600" alt="沙发上相拥亲吻的萌兔">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)
 
-**作者:** @Strength04_X | **来源:** [原帖](https://x.com/Strength04_X/status/2095748874942263601) | **发布:** 2026-09-04 | **热度:** 78
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | **发布:** 2026-09-12 | **热度:** 78
 
-**复测：** Grok Imagine · 2026-10-02 · ⚠️ 降级 (72.2 分) · [产物](https://media.goodcase.ai/retests/seedance-magic-pen-street-transport-vlog-28d80bd05eda/video-grok-imagine-20261002-phase1/generated.mp4)
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (88.5 分) · [产物](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-71bc731fe900/video-grok-imagine-20261003-phase1/generated.mp4)
 
 <details>
-<summary><b>完整 prompt（88 行，点开展开）</b></summary>
+<summary><b>完整 prompt（36 行，点开展开）</b></summary>
 
 ```
-Magic Pen Street Transport Vlog 
+Made with seedance 2.5
 
-Seedance 2.5 on lovart_ai 
+Prompt 👇 
+Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
 
-Prompt ↓
+CHARACTERS:
+A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
+A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
+Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
 
-Magic Pen Street Transport Vlog · 15 Seconds · Vertical 9:16
+SCENE & ACTION:
+Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
 
-[STYLE]
-Live-action + flat 2D anime sticker compositing, first-person street transport magic vlog. 8K photorealistic detail with the authentic look of a real smartphone rear-camera recording. Strong visual contrast between the photorealistic city and flat cartoon vehicles. One continuous handheld smartphone shot. No cuts. No scene transitions.
+The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
 
-[CAMERA]
-Raw, unstabilized handheld smartphone footage throughout: natural walking shake, subtle arm movement, occasional autofocus hunting, realistic exposure shifts between bright sky and building shadows, and slight rolling-shutter jelly during fast pans. Natural smartphone HDR colors with soft, realistic tones. The camera quickly whip-pans to follow the marker and each target.
+Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
 
-[LIGHTING]
-Late-afternoon sunlight coming consistently from one direction. Every real object and every animated character casts a soft contact shadow matching the direction of the sunlight.
+End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
 
-[SETTING]
-One continuous walk through a Korean city neighborhood. A wide urban road with a pedestrian sidewalk, bicycle lane, city buses, parked scooters, and a crosswalk. Everyday street life, with background pedestrians and vehicles moving naturally.
+VISUAL STYLE:
+Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
 
-[PEN — MAGIC RULES]
-The vlogger's real hand, with photorealistic skin and visible pores, holds a black marker and remains visible throughout the entire video, serving as the visual guide connecting every beat.
+CAMERA:
+Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
 
-Every transformation follows the exact same sequence:
+LIGHTING & ATMOSPHERE:
+Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
 
-Marker points → Vlogger says “Biu!” → blue hand-drawn sketch lines wrap around the target → ink spreads → the target transforms into a lively flat 2D cel-shaded anime character with bold cartoon outlines.
+MOTION:
+Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
 
-The transformed character must preserve the original object's exact size, position, speed, direction, and perspective, remaining perfectly anchored to the real street environment. Characters retain flat sticker-style shading and are never relit by the real-world lighting. Anything they touch reacts with realistic physical interaction.
+MOOD:
+Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
 
-[00:00–00:03]
-
-First-person view while walking beside a busy road. The vlogger raises the black marker into frame and points at a passing city bus.
-
-“Biu!”
-
-Blue sketch lines wrap around the bus. The bus transforms into a giant flat 2D cartoon vehicle with bold anime outlines while maintaining its exact size, speed, direction, and perspective.
-
-It continues driving normally through traffic.
-
-SFX: Bus engine + marker whoosh + soft cartoon movement sound.
-
-[00:03–00:06]
-
-The marker quickly swings downward toward a bicycle passing along the bicycle lane.
-
-“Biu!”
-
-The bicycle transforms into a cute hand-drawn cartoon bicycle. It continues moving at the same speed, its wheels spinning rapidly, with small sketch particles appearing behind it.
-
-SFX: Bicycle wheel sound + light sketch rustling.
-
-[00:06–00:10]
-
-The marker follows the bicycle toward a parked scooter near the sidewalk.
-
-“Biu!”
-
-A rapid blue sketch outline covers the scooter. It transforms into a flat 2D cartoon scooter while preserving its exact position, proportions, and perspective.
-
-Its wheels spin once and its small cartoon headlight blinks twice.
-
-SFX: Soft engine hum + tiny mechanical click.
-
-[00:10–00:12]
-
-The marker quickly swings toward a pedestrian crossing the road.
-
-“Biu!”
-
-Blue sketch lines trace around the person. The same person, in the exact same pose, proportions, and position, becomes a vibrant anime cel-shaded illustration.
-
-They continue walking naturally and briefly wave once.
-
-SFX: Fast doodling sound + soft sparkle chime.
-
-[00:12–00:15]
-
-The vlogger stops walking and gives one final, louder:
-
-“Biu—!”
-
-The marker spins upward toward the road. A swirling blue ink trail spreads across the vehicles and pavement, transforming the entire road surface into a hand-drawn anime street while the surrounding buildings remain completely photorealistic.
-
-A small handwritten “THE END!” doodle — the only text appearing anywhere in the video — pops up above the road.
-
-Freeze frame.
-
-SFX: Sharp throwing whoosh + spreading watercolor-ink bloom + felt-tip marker squeaking as it writes “THE END!”
+HIGH QUALITY:
+Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)**
 
 ### Seedance 三十秒健身房日常 vlog
 
@@ -2504,33 +2603,6 @@ Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmospher
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/classic-mustang-golden-hour-drive)**
-
-### 湿冷地铁站台格斗
-
-> When the subway platform turns into a full-blown action scene. 🥊🚇🎬 Created with Seedance 2.5 Prompt:Create a 10-second cinematic action sequence set inside a…
-
-[<img src="https://media.goodcase.ai/cases/19cf0f9fde2b.jpg" width="600" alt="湿冷地铁站台格斗">](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0)
-
-**作者:** @Elvorya | **来源:** [原帖](https://x.com/Elvorya/status/2104450675656835476) | **发布:** 2026-09-28 | **热度:** 77
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
-
-```
-Create a 10-second cinematic action sequence set inside a gritty modern subway station, featuring a determined young woman confronting a larger male attacker on a wet underground platform. Maintain the same character appearance, facial features, body proportions, hairstyle, clothing, and accessories throughout the entire sequence.
-
-Begin with a cinematic medium shot of the woman standing on the subway platform beside a stopped silver train, looking alert and focused as the male opponent approaches her from the side → transition into a sudden close-range confrontation as the man attempts to attack, while she quickly reacts and raises her arms defensively → cut into a dynamic action sequence as the woman delivers a powerful side kick toward the man's torso, with realistic body mechanics and believable impact → transition to fast handheld-style camera movement as both characters exchange rapid punches, blocks, dodges, and defensive movements across the platform → capture the woman's controlled fighting technique as she remains balanced and focused while the larger man struggles to keep up → cut to a dramatic low-angle shot as she delivers a final powerful strike, causing the man to lose his balance and fall heavily onto the wet platform → show him lying on the ground while the woman stands above him, breathing steadily and watching him cautiously → transition to a wider cinematic shot as she turns away and begins walking down the subway platform while the defeated man remains motionless in the foreground → final shot follows behind the woman as she walks away beside the stationary train, creating a stylish action-movie ending.
-
-Visual style: high-end cinematic action filmmaking, realistic human movement, gritty underground subway atmosphere, wet reflective floor, dramatic overhead fluorescent lighting, realistic train details, natural clothing movement, subtle motion blur, dynamic handheld camera, low-angle action shots, fast cinematic cuts, believable martial-arts choreography, realistic impact physics, strong facial expressions, shallow depth of field, atmospheric urban tension, polished color grading, intense but grounded action tone.
-
-Character consistency: preserve the woman's exact facial identity, hairstyle, body proportions, black outfit, and overall appearance throughout every shot. Preserve the man's appearance, clothing, hairstyle, and body proportions throughout the entire sequence. No character morphing or identity drift.
-
-Negative prompt: distorted faces, changing faces, character morphing, extra limbs, missing limbs, extra fingers, broken hands, unnatural anatomy, floating bodies, unrealistic physics, cartoon movement, exaggerated CGI, duplicated characters, clothing changes, hairstyle changes, inconsistent characters, warped train, flickering background, excessive motion blur, text, subtitles, logos, watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0)**
 
 ### 少女以异能摧毁坦克军团
 
@@ -2721,61 +2793,23 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda)**
 
-### 沙发上相拥亲吻的萌兔
+### 韩国乡村女子的农场晨间日常
 
-> Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
+> There’s something special about a morning spent close to nature. Created on Seedance 2.5 Prompt: Create a 30-second photorealistic Korean countryside lifestyle …
 
-[<img src="https://media.goodcase.ai/cases/ae82336c097b.jpg" width="600" alt="沙发上相拥亲吻的萌兔">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)
+[<img src="https://media.goodcase.ai/cases/12a504af8dee.jpg" width="600" alt="韩国乡村女子的农场晨间日常">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66)
 
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2098728793703899603) | **发布:** 2026-09-12 | **热度:** 77
+**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2097556131623432569) | **发布:** 2026-09-09 | **热度:** 77
 
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (88.5 分) · [产物](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-71bc731fe900/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（36 行，点开展开）</b></summary>
+**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (70 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66/video-grok-imagine-20261003-phase1/generated.mp4)
 
 ```
-Made with seedance 2.5
+Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
 
-Prompt 👇 
-Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
-
-CHARACTERS:
-A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
-A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
-Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
-
-SCENE & ACTION:
-Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
-
-The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
-
-Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
-
-End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
-
-VISUAL STYLE:
-Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
-
-CAMERA:
-Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
-
-LIGHTING & ATMOSPHERE:
-Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
-
-MOTION:
-Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
-
-MOOD:
-Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
-
-HIGH QUALITY:
-Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.
+Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.
 ```
 
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66)**
 
 ### 吉隆坡崩塌都市极限逃生
 
@@ -2853,6 +2887,79 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c)**
 
+### 幼儿园里爸爸追问偷吃糖的萌娃
+
+> Made with seedance 2.5 Prompt 👇 1. A cute chubby toddler boy, around 2–3 years old, with fair skin, huge expressive green eyes, short golden-blond hair with a …
+
+[<img src="https://media.goodcase.ai/cases/8c73d4d9f56a.jpg" width="600" alt="幼儿园里爸爸追问偷吃糖的萌娃">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-e1a0ed3f28c2)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2107781626818383911) | **发布:** 2026-10-07 | **热度:** 76
+
+<details>
+<summary><b>完整 prompt（55 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+1. A cute chubby toddler boy, around 2–3 years old, with fair skin, huge expressive green eyes, short golden-blond hair with a small curled tuft on top, rosy cheeks, and a mischievous smile. He wears a bright yellow one-piece pajama covered with tiny orange duck patterns and a blue zipper.
+2. His father, a friendly middle-aged man with neatly styled dark-brown hair, thick eyebrows, round black glasses, a large brown mustache, and a warm but slightly strict expression. He wears a light-blue shirt with a darker blue sweater vest and brown pants.
+
+Environment:
+A bright, playful kindergarten classroom filled with pastel colors. Rainbow decorations, colorful clouds, stars, alphabet blocks, children's tables and chairs, toys, teddy bears, large windows, and soft warm daylight. The entire environment should feel cheerful, whimsical, safe, and child-friendly.
+
+Animation and story:
+Start with the toddler standing confidently in the classroom with a mischievous expression while his father stands behind him. The father looks suspicious and points toward the child as if questioning him.
+
+The toddler looks up at his father with an innocent expression and answers confidently. The father becomes more suspicious and asks whether the child has been eating sugar.
+
+The toddler tries to deny it while smiling mischievously. Show a close-up of the toddler laughing with his eyes closed, revealing tiny teeth and a playful expression.
+
+Cut back to the father and toddler together. The father raises one finger and questions him about telling lies.
+
+Then the father leans closer toward the toddler and gestures toward the child's mouth, telling him to open his mouth.
+
+End with an extreme close-up of the toddler laughing uncontrollably with eyes closed and a huge innocent smile while colorful confetti/star shapes appear around him.
+
+Visual style:
+High-end 3D animated children's movie quality, Pixar-inspired level of polish without copying any specific copyrighted character, soft rounded character design, oversized expressive eyes, adorable facial expressions, smooth skin shading, detailed clothing, vibrant pastel colors, soft global illumination, cinematic depth of field, volumetric lighting, glossy yet natural materials, beautiful subsurface scattering, clean character animation.
+
+Camera:
+Use dynamic cinematic camera movements with medium shots, close-ups, and expressive reaction shots. Smooth dolly-in movements, gentle camera transitions, shallow depth of field during close-ups, and stable framing. Keep the toddler's face highly expressive and clearly visible.
+
+Facial animation:
+Strong lip-sync, natural blinking, eyebrow movement, eye direction changes, cheek movement, smiling, laughing, surprised expressions, and exaggerated children's cartoon emotions.
+
+Motion:
+Smooth professional 3D character animation, natural hand gestures, believable body movement, subtle head movements, expressive pointing and reactions. Avoid stiff animation or unnatural movements.
+
+Lighting:
+Warm soft daylight coming through classroom windows, colorful ambient bounce light, soft shadows, subtle rim lighting, bright cheerful atmosphere.
+
+Audio:
+Cute child voice for the toddler, warm male father voice, playful children's background music, subtle classroom ambience, expressive comedic timing, clear dialogue and accurate lip synchronization.
+
+Dialogue timing:
+Father: “Johnny, Johnny!”
+Toddler: “Yes, Papa?”
+Father: “Eating sugar?”
+Toddler: “No, Papa!”
+Father: “Telling lies?”
+Toddler: “No, Papa!”
+Father: “Open your mouth!”
+Toddler: [laughs]
+
+Overall mood:
+Funny, adorable, innocent, playful, highly engaging children's animation with exaggerated facial expressions and comedic timing.
+
+Output:
+Ultra-detailed 3D animation, 9:16 vertical format, 4K quality, smooth motion, cinematic composition, consistent character identity throughout the entire video, professional children's animation, polished rendering.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-e1a0ed3f28c2)**
+
 ### Underwater Animal Orchestra
 
 > A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
@@ -2870,24 +2977,6 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/underwater-animal-orchestra)**
-
-### 韩国乡村女子的农场晨间日常
-
-> There’s something special about a morning spent close to nature. Created on Seedance 2.5 Prompt: Create a 30-second photorealistic Korean countryside lifestyle …
-
-[<img src="https://media.goodcase.ai/cases/12a504af8dee.jpg" width="600" alt="韩国乡村女子的农场晨间日常">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66)
-
-**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2097556131623432569) | **发布:** 2026-09-09 | **热度:** 76
-
-**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (70 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
-
-Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66)**
 
 ### 韩国海港一日手持旅行日志
 
@@ -3013,79 +3102,6 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0)**
-
-### 幼儿园里爸爸追问偷吃糖的萌娃
-
-> Made with seedance 2.5 Prompt 👇 1. A cute chubby toddler boy, around 2–3 years old, with fair skin, huge expressive green eyes, short golden-blond hair with a …
-
-[<img src="https://media.goodcase.ai/cases/8c73d4d9f56a.jpg" width="600" alt="幼儿园里爸爸追问偷吃糖的萌娃">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-e1a0ed3f28c2)
-
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2107781626818383911) | **发布:** 2026-10-07 | **热度:** 75
-
-<details>
-<summary><b>完整 prompt（55 行，点开展开）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-1. A cute chubby toddler boy, around 2–3 years old, with fair skin, huge expressive green eyes, short golden-blond hair with a small curled tuft on top, rosy cheeks, and a mischievous smile. He wears a bright yellow one-piece pajama covered with tiny orange duck patterns and a blue zipper.
-2. His father, a friendly middle-aged man with neatly styled dark-brown hair, thick eyebrows, round black glasses, a large brown mustache, and a warm but slightly strict expression. He wears a light-blue shirt with a darker blue sweater vest and brown pants.
-
-Environment:
-A bright, playful kindergarten classroom filled with pastel colors. Rainbow decorations, colorful clouds, stars, alphabet blocks, children's tables and chairs, toys, teddy bears, large windows, and soft warm daylight. The entire environment should feel cheerful, whimsical, safe, and child-friendly.
-
-Animation and story:
-Start with the toddler standing confidently in the classroom with a mischievous expression while his father stands behind him. The father looks suspicious and points toward the child as if questioning him.
-
-The toddler looks up at his father with an innocent expression and answers confidently. The father becomes more suspicious and asks whether the child has been eating sugar.
-
-The toddler tries to deny it while smiling mischievously. Show a close-up of the toddler laughing with his eyes closed, revealing tiny teeth and a playful expression.
-
-Cut back to the father and toddler together. The father raises one finger and questions him about telling lies.
-
-Then the father leans closer toward the toddler and gestures toward the child's mouth, telling him to open his mouth.
-
-End with an extreme close-up of the toddler laughing uncontrollably with eyes closed and a huge innocent smile while colorful confetti/star shapes appear around him.
-
-Visual style:
-High-end 3D animated children's movie quality, Pixar-inspired level of polish without copying any specific copyrighted character, soft rounded character design, oversized expressive eyes, adorable facial expressions, smooth skin shading, detailed clothing, vibrant pastel colors, soft global illumination, cinematic depth of field, volumetric lighting, glossy yet natural materials, beautiful subsurface scattering, clean character animation.
-
-Camera:
-Use dynamic cinematic camera movements with medium shots, close-ups, and expressive reaction shots. Smooth dolly-in movements, gentle camera transitions, shallow depth of field during close-ups, and stable framing. Keep the toddler's face highly expressive and clearly visible.
-
-Facial animation:
-Strong lip-sync, natural blinking, eyebrow movement, eye direction changes, cheek movement, smiling, laughing, surprised expressions, and exaggerated children's cartoon emotions.
-
-Motion:
-Smooth professional 3D character animation, natural hand gestures, believable body movement, subtle head movements, expressive pointing and reactions. Avoid stiff animation or unnatural movements.
-
-Lighting:
-Warm soft daylight coming through classroom windows, colorful ambient bounce light, soft shadows, subtle rim lighting, bright cheerful atmosphere.
-
-Audio:
-Cute child voice for the toddler, warm male father voice, playful children's background music, subtle classroom ambience, expressive comedic timing, clear dialogue and accurate lip synchronization.
-
-Dialogue timing:
-Father: “Johnny, Johnny!”
-Toddler: “Yes, Papa?”
-Father: “Eating sugar?”
-Toddler: “No, Papa!”
-Father: “Telling lies?”
-Toddler: “No, Papa!”
-Father: “Open your mouth!”
-Toddler: [laughs]
-
-Overall mood:
-Funny, adorable, innocent, playful, highly engaging children's animation with exaggerated facial expressions and comedic timing.
-
-Output:
-Ultra-detailed 3D animation, 9:16 vertical format, 4K quality, smooth motion, cinematic composition, consistent character identity throughout the entire video, professional children's animation, polished rendering.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-e1a0ed3f28c2)**
 
 ### 韩国女孩的台湾旅行三十秒
 
@@ -3298,6 +3314,76 @@ Negative prompt: animation, cartoon, anime, CGI appearance, unrealistic physics,
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e)**
+
+### 米奇耳女孩智取土耳其冰淇淋
+
+> POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
+
+[<img src="https://media.goodcase.ai/cases/e9b53af60cec.jpg" width="600" alt="米奇耳女孩智取土耳其冰淇淋">](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8)
+
+**作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2096542775709692255) | **发布:** 2026-09-06 | **热度:** 74
+
+<details>
+<summary><b>完整 prompt（52 行，点开展开）</b></summary>
+
+```
+CHARACTER:
+A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
+A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
+
+0–3 SEC — ORDER
+Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
+
+The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
+The vendor prepares a cone with a scoop of ice cream and extends it toward her.
+
+3–6 SEC — THE FIRST TEASE
+Cut to a medium shot.
+
+The girl eagerly reaches for the cone.
+
+Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
+She looks at him in surprise.
+
+He smiles mischievously and offers it again.
+
+6–9 SEC — MORE TEASING
+She reaches again.
+
+The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
+
+The girl follows the cone, laughing and becoming increasingly determined.
+
+Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
+9–11 SEC — THE NOSE TRICK
+The vendor finally brings the ice cream toward her.
+
+She confidently leans forward, expecting to receive it.
+
+Instead, he gently places a small dab of ice cream on the tip of her nose.
+
+Close-up on her shocked expression.
+
+She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
+11–15 SEC — SHE WINS
+Before the vendor can tease her again, she quickly grabs the cone from the paddle.
+
+She successfully gets the ice cream.
+
+The vendor laughs and raises his hands in playful defeat.
+
+She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
+
+CINEMATOGRAPHY:
+Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
+
+IMPORTANT:
+Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8)**
 
 ### 韩国束草渔村清晨探访
 
@@ -3537,6 +3623,104 @@ Extra slow motion beyond the takeoff, hovering or floating mid-air, smooth cinem
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-hidden-volcanic-spring-canyon-deep-in-a-pacific-northwest-pine-forest-on-a-br-ff48a4636c95)**
 
+### 亡母来电阻止雨夜山路车祸
+
+> Created with Seedance 2.5 A cinematic thriller about a mysterious warning, a dangerous turn, and a call that may have saved her life. Prompt: Create a 30-second…
+
+[<img src="https://media.goodcase.ai/cases/b1e40650a69c.jpg" width="600" alt="亡母来电阻止雨夜山路车祸">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242)
+
+**作者:** @RuzainaMeer | **来源:** [原帖](https://x.com/RuzainaMeer/status/2097193955230405007) | **发布:** 2026-09-08 | **热度:** 73
+
+<details>
+<summary><b>完整 prompt（80 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
+MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
+
+SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
+
+0–5 SECONDS
+
+Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
+
+5–10 SECONDS
+
+Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
+
+Caller ID: “MOM”
+
+The woman freezes.
+
+Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
+
+10–17 SECONDS
+
+Extreme close-up of her face as she listens.
+
+A faint, emotional female voice comes through the phone:
+
+“Don't take the next turn.”
+
+The woman's expression changes from confusion to fear.
+
+The call suddenly disconnects.
+
+She looks at the phone.
+
+The screen reads: CALL ENDED
+
+Outside the windshield, a sharp mountain turn approaches through the heavy rain.
+
+17–23 SECONDS
+
+She immediately slows the car.
+
+Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
+
+Suddenly, distant headlights appear through the rain around the corner.
+
+The woman looks toward them.
+
+A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
+
+The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
+
+23–27 SECONDS
+
+Silence after the crash.
+
+The woman sits completely still, breathing heavily, visibly shaken.
+
+She slowly looks down at her phone.
+
+The phone screen now shows:
+
+NO SIM — NO SIGNAL
+
+She looks confused and terrified.
+
+27–30 SECONDS
+
+Extreme close-up of her eyes filling with tears.
+
+She looks toward the empty passenger seat.
+
+A subtle emotional pause.
+
+In a trembling whisper, she says:
+
+“Mom?”
+
+Cut instantly to black.
+
+FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242)**
+
 ### 穿越五重奇境的神秘之门
 
 > One door. Five worlds. Endless possibilities. Where would you go? ✨🌍 made with Seedance 2.5 on @TapNow_AI . Here is the prompt🔽🔽🔽 Create a 28-second ultra-c…
@@ -3670,76 +3854,6 @@ Reveal an extraordinary mirrored.
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-one-door-e2d76fbb7712)**
-
-### 米奇耳女孩智取土耳其冰淇淋
-
-> POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
-
-[<img src="https://media.goodcase.ai/cases/e9b53af60cec.jpg" width="600" alt="米奇耳女孩智取土耳其冰淇淋">](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8)
-
-**作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2096542775709692255) | **发布:** 2026-09-06 | **热度:** 73
-
-<details>
-<summary><b>完整 prompt（52 行，点开展开）</b></summary>
-
-```
-CHARACTER:
-A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
-A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
-
-0–3 SEC — ORDER
-Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
-
-The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
-The vendor prepares a cone with a scoop of ice cream and extends it toward her.
-
-3–6 SEC — THE FIRST TEASE
-Cut to a medium shot.
-
-The girl eagerly reaches for the cone.
-
-Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
-She looks at him in surprise.
-
-He smiles mischievously and offers it again.
-
-6–9 SEC — MORE TEASING
-She reaches again.
-
-The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
-
-The girl follows the cone, laughing and becoming increasingly determined.
-
-Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
-9–11 SEC — THE NOSE TRICK
-The vendor finally brings the ice cream toward her.
-
-She confidently leans forward, expecting to receive it.
-
-Instead, he gently places a small dab of ice cream on the tip of her nose.
-
-Close-up on her shocked expression.
-
-She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
-11–15 SEC — SHE WINS
-Before the vendor can tease her again, she quickly grabs the cone from the paddle.
-
-She successfully gets the ice cream.
-
-The vendor laughs and raises his hands in playful defeat.
-
-She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
-
-CINEMATOGRAPHY:
-Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
-
-IMPORTANT:
-Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8)**
 
 ### 酷热健身房里的双人训练
 
@@ -3917,104 +4031,6 @@ Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a)**
-
-### 亡母来电阻止雨夜山路车祸
-
-> Created with Seedance 2.5 A cinematic thriller about a mysterious warning, a dangerous turn, and a call that may have saved her life. Prompt: Create a 30-second…
-
-[<img src="https://media.goodcase.ai/cases/b1e40650a69c.jpg" width="600" alt="亡母来电阻止雨夜山路车祸">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242)
-
-**作者:** @RuzainaMeer | **来源:** [原帖](https://x.com/RuzainaMeer/status/2097193955230405007) | **发布:** 2026-09-08 | **热度:** 72
-
-<details>
-<summary><b>完整 prompt（80 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
-MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
-
-SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
-
-0–5 SECONDS
-
-Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
-
-5–10 SECONDS
-
-Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
-
-Caller ID: “MOM”
-
-The woman freezes.
-
-Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
-
-10–17 SECONDS
-
-Extreme close-up of her face as she listens.
-
-A faint, emotional female voice comes through the phone:
-
-“Don't take the next turn.”
-
-The woman's expression changes from confusion to fear.
-
-The call suddenly disconnects.
-
-She looks at the phone.
-
-The screen reads: CALL ENDED
-
-Outside the windshield, a sharp mountain turn approaches through the heavy rain.
-
-17–23 SECONDS
-
-She immediately slows the car.
-
-Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
-
-Suddenly, distant headlights appear through the rain around the corner.
-
-The woman looks toward them.
-
-A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
-
-The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
-
-23–27 SECONDS
-
-Silence after the crash.
-
-The woman sits completely still, breathing heavily, visibly shaken.
-
-She slowly looks down at her phone.
-
-The phone screen now shows:
-
-NO SIM — NO SIGNAL
-
-She looks confused and terrified.
-
-27–30 SECONDS
-
-Extreme close-up of her eyes filling with tears.
-
-She looks toward the empty passenger seat.
-
-A subtle emotional pause.
-
-In a trembling whisper, she says:
-
-“Mom?”
-
-Cut instantly to black.
-
-FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242)**
 
 ### 古堡苏醒的吸血鬼与命定少女
 
@@ -4253,6 +4269,116 @@ Natural Seoul neighborhood ambience only — footsteps, children chatting, bicyc
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d)**
 
+### 骤雨中共伞的校园邂逅
+
+> Sometimes the best stories begin with a little rain. Created on seedance 2.5 Prompt: Create a 30-second photorealistic live-action American university romance v…
+
+[<img src="https://media.goodcase.ai/cases/e164d2cec497.jpg" width="600" alt="骤雨中共伞的校园邂逅">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49)
+
+**作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2096832969453543579) | **发布:** 2026-09-07 | **热度:** 71
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (82 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
+
+They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
+
+Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49)**
+
+### 工业工厂中的间谍激战
+
+> Fast-paced action, cinematic atmosphere, and intense visuals. I created this with Seedance 2.5 on @weryai Create yours h
+
+[<img src="https://media.goodcase.ai/media/poster/xaroon-x-seedance-ai-7d4e6854009a.jpg" width="600" alt="工业工厂中的间谍激战">](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a)
+
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2092873962640519385) | **发布:** 2026-08-27 | **热度:** 71
+
+<details>
+<summary><b>完整 prompt（26 行，点开展开）</b></summary>
+
+```
+REFERENCE / IDENTITY LOCK
+Use Reference Image 1 as the exact identity lock for the adult male spy. Preserve identical face, facial proportions, black hairstyle, skin tone, physique, outfit and accessories throughout. No identity or wardrobe changes.
+
+15-SECOND CINEMATIC ACTION — 24FPS, REAL-TIME
+Photorealistic Hollywood spy-action, ARRI Alexa Mini, 27mm spherical lens, 4K, 24fps, realistic physics, sharp cinematic film grain, aggressive handheld camera, dynamic tracking, whip-pans, low-angle combat shots and realistic motion blur. 9:16 vertical.
+
+ENVIRONMENT
+Continue inside the same oil-soaked industrial factory. Thick smoke, flickering cyan-white fluorescent lights, sparks, steam bursts, broken glass, damaged machinery, oil-covered concrete, fallen enemies, barrels, conveyor belts, steel columns, overhead crane and elevated platforms. Maintain perfect continuity.
+
+0–4 SEC: Immediately after the final gunshot, two armed reinforcements burst through a steel security door while another enemy rappels from an overhead crane. The spy instantly sprints forward, steps onto a fallen crate and launches into a flying side kick, crushing Enemy 6 into the steel door. He seamlessly follows with a spinning tornado kick, knocking Enemy 7 from the rappel line into stacked barrels.
+
+4–7 SEC: Enemy 8 opens automatic fire. The spy rolls underneath the gunfire, draws a combat knife with his left hand, slashes the weapon arm and disarms him. He traps the wrist, pivots with precise Kung Fu footwork, throws Enemy 8 over his shoulder and finishes with a powerful downward axe kick.
+
+7–10 SEC: Warning alarms activate as a heavily armored operative with a ballistic shield charges. The spy sprints toward him, rebounds from a steel column, performs a short wall-run and launches an aerial bicycle kick, knocking the shield upward. He lands behind the operative, executes a rapid arm lock, elbows, knees and spinning back kick, sending him through a steel railing onto the lower floor.
+
+10–13 SEC: Enemies on elevated platforms open fire. The spy dives behind a moving conveyor, slides underneath it and fires four rapid tactical shots through narrow openings, eliminating two attackers. He emerges, grabs a hanging industrial chain, swings across a machinery gap and launches a flying double-foot kick into the final attacker, smashing him through reinforced safety glass.
+
+13–15 SEC: The spy lands in a controlled three-point stance. Red emergency lights replace the fluorescent lighting. A massive fuel pipeline ruptures behind him, creating a realistic towering wall of fire. Without looking back, he calmly turns toward a dark industrial corridor. Brief cinematic push-in, then hard cut to black at 15 seconds.
+
+CAMERA / LIGHTING: Aggressive handheld shaky-cam, fast dolly tracking, rapid whip-pans, dynamic low angles, close over-the-shoulder shots, realistic camera inertia. Cyan-white industrial lighting transitions into flashing red emergency lights and realistic orange fire illumination. Dense smoke, sparks, steam, muzzle flashes and realistic debris.
+
+PHYSICS: Grounded Kung Fu choreography, realistic human weight, momentum, impacts and ragdoll behavior. No wire-fu or superhero movement. Weapons and bodies remain physically consistent.
+
+NEGATIVE PROMPT: No slow motion, time-lapse, bullet-time, dreamy effects, superhero movement, unrealistic physics, exaggerated wire-fu, impossible parkour, poor anatomy, distorted face, identity changes, wardrobe changes, CGI artifacts, jitter, ghosting, duplicated limbs, weapon clipping, teleportation, unrealistic explosions, fake glass destruction, continuity errors or video-game movement.
+
+FINAL: 15 seconds, 9:16, 24fps, 4K, photorealistic Hollywood action, cinematic realism, sharp film grain.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a)**
+
+### 阳光下的清新洗衣日
+
+> Just a peaceful laundry day. Fresh clothes, fresh air, good vibes. Created with Seedance 2.5 Prompt: Create a 30-second
+
+[<img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="600" alt="阳光下的清新洗衣日">](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b)
+
+**作者:** @CaliraVal | **来源:** [原帖](https://x.com/CaliraVal/status/2091386310837862772) | **发布:** 2026-08-23 | **热度:** 71
+
+**稳定度：** 70/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（24 行，点开展开）</b></summary>
+
+```
+Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
+
+0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
+Voiceover: “Laundry day starts with one simple step.”
+
+5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
+Voiceover: “I just load all my clothes into the washing machine…”
+
+10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
+Voiceover: “…add my detergent…”
+
+13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
+Voiceover: “…and let the machine do the work.”
+
+17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
+Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
+
+22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
+Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
+
+28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
+Voiceover: “Clean, fresh, and ready to wear.”
+
+Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b)**
+
 ### 夕阳下黑色轿车的追逐与枪战
 
 > Action 🔥 Fast cars, cinematic shots, and intense action. All brought to life with Seedance 2.5. Exploring the next level of AI video generation with @ImagineAr…
@@ -4458,116 +4584,6 @@ CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra f
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-home-video-of-a-young-22fbf80d8c5e)**
-
-### 骤雨中共伞的校园邂逅
-
-> Sometimes the best stories begin with a little rain. Created on seedance 2.5 Prompt: Create a 30-second photorealistic live-action American university romance v…
-
-[<img src="https://media.goodcase.ai/cases/e164d2cec497.jpg" width="600" alt="骤雨中共伞的校园邂逅">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49)
-
-**作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2096832969453543579) | **发布:** 2026-09-07 | **热度:** 70
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (82 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
-
-They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
-
-Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49)**
-
-### 工业工厂中的间谍激战
-
-> Fast-paced action, cinematic atmosphere, and intense visuals. I created this with Seedance 2.5 on @weryai Create yours h
-
-[<img src="https://media.goodcase.ai/media/poster/xaroon-x-seedance-ai-7d4e6854009a.jpg" width="600" alt="工业工厂中的间谍激战">](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a)
-
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2092873962640519385) | **发布:** 2026-08-27 | **热度:** 70
-
-<details>
-<summary><b>完整 prompt（26 行，点开展开）</b></summary>
-
-```
-REFERENCE / IDENTITY LOCK
-Use Reference Image 1 as the exact identity lock for the adult male spy. Preserve identical face, facial proportions, black hairstyle, skin tone, physique, outfit and accessories throughout. No identity or wardrobe changes.
-
-15-SECOND CINEMATIC ACTION — 24FPS, REAL-TIME
-Photorealistic Hollywood spy-action, ARRI Alexa Mini, 27mm spherical lens, 4K, 24fps, realistic physics, sharp cinematic film grain, aggressive handheld camera, dynamic tracking, whip-pans, low-angle combat shots and realistic motion blur. 9:16 vertical.
-
-ENVIRONMENT
-Continue inside the same oil-soaked industrial factory. Thick smoke, flickering cyan-white fluorescent lights, sparks, steam bursts, broken glass, damaged machinery, oil-covered concrete, fallen enemies, barrels, conveyor belts, steel columns, overhead crane and elevated platforms. Maintain perfect continuity.
-
-0–4 SEC: Immediately after the final gunshot, two armed reinforcements burst through a steel security door while another enemy rappels from an overhead crane. The spy instantly sprints forward, steps onto a fallen crate and launches into a flying side kick, crushing Enemy 6 into the steel door. He seamlessly follows with a spinning tornado kick, knocking Enemy 7 from the rappel line into stacked barrels.
-
-4–7 SEC: Enemy 8 opens automatic fire. The spy rolls underneath the gunfire, draws a combat knife with his left hand, slashes the weapon arm and disarms him. He traps the wrist, pivots with precise Kung Fu footwork, throws Enemy 8 over his shoulder and finishes with a powerful downward axe kick.
-
-7–10 SEC: Warning alarms activate as a heavily armored operative with a ballistic shield charges. The spy sprints toward him, rebounds from a steel column, performs a short wall-run and launches an aerial bicycle kick, knocking the shield upward. He lands behind the operative, executes a rapid arm lock, elbows, knees and spinning back kick, sending him through a steel railing onto the lower floor.
-
-10–13 SEC: Enemies on elevated platforms open fire. The spy dives behind a moving conveyor, slides underneath it and fires four rapid tactical shots through narrow openings, eliminating two attackers. He emerges, grabs a hanging industrial chain, swings across a machinery gap and launches a flying double-foot kick into the final attacker, smashing him through reinforced safety glass.
-
-13–15 SEC: The spy lands in a controlled three-point stance. Red emergency lights replace the fluorescent lighting. A massive fuel pipeline ruptures behind him, creating a realistic towering wall of fire. Without looking back, he calmly turns toward a dark industrial corridor. Brief cinematic push-in, then hard cut to black at 15 seconds.
-
-CAMERA / LIGHTING: Aggressive handheld shaky-cam, fast dolly tracking, rapid whip-pans, dynamic low angles, close over-the-shoulder shots, realistic camera inertia. Cyan-white industrial lighting transitions into flashing red emergency lights and realistic orange fire illumination. Dense smoke, sparks, steam, muzzle flashes and realistic debris.
-
-PHYSICS: Grounded Kung Fu choreography, realistic human weight, momentum, impacts and ragdoll behavior. No wire-fu or superhero movement. Weapons and bodies remain physically consistent.
-
-NEGATIVE PROMPT: No slow motion, time-lapse, bullet-time, dreamy effects, superhero movement, unrealistic physics, exaggerated wire-fu, impossible parkour, poor anatomy, distorted face, identity changes, wardrobe changes, CGI artifacts, jitter, ghosting, duplicated limbs, weapon clipping, teleportation, unrealistic explosions, fake glass destruction, continuity errors or video-game movement.
-
-FINAL: 15 seconds, 9:16, 24fps, 4K, photorealistic Hollywood action, cinematic realism, sharp film grain.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a)**
-
-### 阳光下的清新洗衣日
-
-> Just a peaceful laundry day. Fresh clothes, fresh air, good vibes. Created with Seedance 2.5 Prompt: Create a 30-second
-
-[<img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="600" alt="阳光下的清新洗衣日">](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b)
-
-**作者:** @CaliraVal | **来源:** [原帖](https://x.com/CaliraVal/status/2091386310837862772) | **发布:** 2026-08-23 | **热度:** 70
-
-**稳定度：** 70/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（24 行，点开展开）</b></summary>
-
-```
-Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
-
-0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
-Voiceover: “Laundry day starts with one simple step.”
-
-5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
-Voiceover: “I just load all my clothes into the washing machine…”
-
-10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
-Voiceover: “…add my detergent…”
-
-13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
-Voiceover: “…and let the machine do the work.”
-
-17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
-Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
-
-22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
-Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
-
-28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
-Voiceover: “Clean, fresh, and ready to wear.”
-
-Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b)**
 
 ### Seedance 2.5 假装 DJ：三个女孩的夜派对短片
 
