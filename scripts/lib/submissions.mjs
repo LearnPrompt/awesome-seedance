@@ -56,7 +56,7 @@ export function validateSubmission(data, opts = {}) {
   if (typeof data.promptFull === "string" && data.promptFull.trim().length < 40) {
     problems.push("promptFull is suspiciously short (< 40 characters)");
   }
-  if (typeof data.creator === "string" && data.creator.trim() && !/^@?[\w.\-]+$/u.test(data.creator.trim()) && data.creator.trim().length > 60) {
+  if (typeof data.creator === "string" && data.creator.trim() && !/^@?[\w.\-]+$/u.test(data.creator.trim())) {
     problems.push("creator should be the handle as shown on the source platform");
   }
   return problems;
