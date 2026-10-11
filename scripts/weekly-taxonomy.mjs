@@ -16,7 +16,7 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 import os from "node:os";
 import { loadLibrary, buildTemplateIndex } from "./lib/library.mjs";
-import { buildLabelPrompt, chunk, decide, digestCase, evaluateGates, parseLabelResponse, renderReport, validateLabels } from "./lib/weekly-taxonomy.mjs";
+import { buildLabelPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, validateLabels } from "./lib/weekly-taxonomy.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -30,6 +30,7 @@ const MODEL = process.env.WEEKLY_TAXONOMY_MODEL || "sonnet";
 const CONCURRENCY = 3;
 const date = new Date(Date.now() + 8 * 3600 * 1000).toISOString().slice(0, 10);
 const notes = [];
+let fatalModelError = null;
 
 function sh(cmd, argv, opts = {}) {
   const r = spawnSync(cmd, argv, { cwd: ROOT, encoding: "utf8", maxBuffer: 64 * 1024 * 1024, ...opts });
@@ -45,16 +46,8 @@ function callModel(prompt) {
     let out = "";
     const timer = setTimeout(() => child.kill("SIGKILL"), 10 * 60 * 1000);
     child.stdout.on("data", (d) => (out += d));
-    child.on("close", () => {
-      clearTimeout(timer);
-      try {
-        const j = JSON.parse(out);
-        resolve(j.is_error ? null : j.result);
-      } catch {
-        resolve(null);
-      }
-    });
-    child.on("error", () => { clearTimeout(timer); resolve(null); });
+    child.on("close", () => { clearTimeout(timer); resolve(interpretModelOutput(out)); });
+    child.on("error", (err) => { clearTimeout(timer); resolve({ text: null, error: `启动 claude 失败：${err.message}`, fatal: true }); });
     child.stdin.end(prompt);
   });
 }
@@ -65,9 +58,14 @@ async function labelShard(shard, templates, knownIds) {
   let pending = shard;
   // 缺的条目重试一次；仍缺就算覆盖率闸门不过
   for (let attempt = 1; attempt <= 2 && pending.length; attempt++) {
-    const text = await callModel(buildLabelPrompt(templates, pending));
-    const parsed = parseLabelResponse(text);
-    if (!parsed) { notes.push(`一片 ${pending.length} 条第 ${attempt} 次调用没拿到可解析的 JSON`); continue; }
+    const res = await callModel(buildLabelPrompt(templates, pending));
+    if (res.error) {
+      notes.push(`一片 ${pending.length} 条第 ${attempt} 次：${res.error}`);
+      if (res.fatal) { fatalModelError ||= res.error; break; }
+      continue;
+    }
+    const parsed = parseLabelResponse(res.text);
+    if (!parsed) { notes.push(`一片 ${pending.length} 条第 ${attempt} 次调用没拿到可解析的 JSON：${String(res.text).slice(0, 120)}`); continue; }
     const v = validateLabels(parsed, pending.map((c) => c.slug), knownIds);
     if (v.rejected.length) notes.push(`丢弃 ${v.rejected.length} 条不合规标签：${v.rejected.slice(0, 3).map((x) => `${x.slug}(${x.reason})`).join("；")}`);
     rows = rows.concat(v.rows);
@@ -119,6 +117,7 @@ const shards = chunk(todo.map(digestCase));
 const labelled = await pool(shards, (s) => labelShard(s, library.templates, knownIds), CONCURRENCY);
 const rows = labelled.flatMap((x) => x.rows);
 const missing = labelled.flatMap((x) => x.missing);
+if (fatalModelError) notes.unshift(`模型不可用，本次没有任何标注写入。原因：${fatalModelError}。登录过期时在终端跑 claude auth login 重新登录后手动重跑。`);
 const { assign, deferred, candidates } = decide(rows, knownIds);
 const { gates, added } = evaluateGates({ todoCount: todo.length, rows, missing, assign, beforeCounts });
 

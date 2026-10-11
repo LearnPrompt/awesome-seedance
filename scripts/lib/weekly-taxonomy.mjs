@@ -56,6 +56,25 @@ export function buildLabelPrompt(templates, cases) {
   ].join("\n");
 }
 
+/**
+ * 解读 claude -p --output-format json 的整段输出。
+ * 返回 { text, error, fatal }：error 是人话原因；fatal 为 true 表示重试也没用（登录过期、额度、CLI 没装）。
+ */
+export function interpretModelOutput(raw) {
+  let j;
+  try {
+    j = JSON.parse(raw);
+  } catch {
+    return { text: null, error: `CLI 输出不是 JSON：${String(raw || "").trim().slice(0, 160) || "(空输出，可能 claude 命令不存在或被杀)"}`, fatal: !raw };
+  }
+  if (j && j.is_error) {
+    const msg = String(j.result || j.error || "unknown error");
+    const fatal = /authenticat|oauth|login|logged out|credit|quota|billing|rate limit/i.test(msg);
+    return { text: null, error: `模型调用失败：${msg.slice(0, 200)}`, fatal };
+  }
+  return { text: typeof j?.result === "string" ? j.result : null, error: null, fatal: false };
+}
+
 /** 从模型回复里取出 JSON 数组；容忍前后有说明文字或 ```json 围栏。取不出来返回 null。 */
 export function parseLabelResponse(text) {
   if (typeof text !== "string") return null;

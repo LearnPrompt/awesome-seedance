@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { buildLabelPrompt, chunk, decide, digestCase, evaluateGates, parseLabelResponse, renderReport, validateLabels, SPIKE_MIN_ADDED } from "./weekly-taxonomy.mjs";
+import { buildLabelPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, validateLabels, SPIKE_MIN_ADDED } from "./weekly-taxonomy.mjs";
 
 const known = new Set(["handheld-ugc-vlog", "food-asmr"]);
 
@@ -71,4 +71,16 @@ test("renderReport states the outcome first and never claims a push that did not
   assert.match(renderReport({ ...base, pushed: false, pushEnabled: false }), /\*\*结论：闸门全过，自动推送未开启，本次只出报告\*\*/);
   assert.match(renderReport({ ...base, pushed: true, commit: "abc1234", pushEnabled: true }), /已推送（abc1234）/);
   assert.match(renderReport({ ...base, pushed: false, pushEnabled: true, gates: [{ name: "g", pass: false, detail: "bad" }] }), /有闸门未过，未推送/);
+});
+
+test("interpretModelOutput surfaces the CLI's real error and marks auth or quota failures as fatal", () => {
+  const ok = interpretModelOutput(JSON.stringify({ is_error: false, result: "[]" }));
+  assert.deepEqual(ok, { text: "[]", error: null, fatal: false });
+  const auth = interpretModelOutput(JSON.stringify({ is_error: true, result: "Failed to authenticate: OAuth session expired and could not be refreshed" }));
+  assert.match(auth.error, /OAuth session expired/);
+  assert.equal(auth.fatal, true, "re-running an expired login is pointless");
+  const transient = interpretModelOutput(JSON.stringify({ is_error: true, result: "upstream 503" }));
+  assert.equal(transient.fatal, false);
+  assert.match(interpretModelOutput("").error, /空输出/);
+  assert.equal(interpretModelOutput("not json").fatal, false);
 });
