@@ -26,9 +26,31 @@ Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion 
 No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
 ```
 
-## E2 · A Wizard's Ten-Second Escape Plan: Become a Duck
+## E2 · A Hilarious Payback After the Subway Doors Close
 
-- Seedance 2.5 · creator: @AIwithNatalia · heat: 88
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 88
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66) · [finished media](https://media.goodcase.ai/cases/d26ae0e3eb73.mp4) · [poster](https://media.goodcase.ai/cases/101f63c774b7.jpg) · [original source](https://x.com/AIwithSynthia/status/2098988104418050349)
+- Summary: Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
+
+```text
+Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
+Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
+Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
+She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
+The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
+He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
+She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
+She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
+The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
+One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
+She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
+Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
+No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
+```
+
+## E3 · A Wizard's Ten-Second Escape Plan: Become a Duck
+
+- Seedance 2.5 · creator: @AIwithNatalia · heat: 87 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f) · [finished media](https://media.goodcase.ai/cases/4cabc64762f9.mp4) · [poster](https://media.goodcase.ai/cases/15792e0fa5ef.jpg) · [original source](https://x.com/AIwithNatalia/status/2089170554725265625)
 - Summary: 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
 
@@ -63,28 +85,6 @@ End text:
 ✨ Never rush a spell. 🦆
 ```
 
-## E3 · A Hilarious Payback After the Subway Doors Close
-
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 88
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66) · [finished media](https://media.goodcase.ai/cases/d26ae0e3eb73.mp4) · [poster](https://media.goodcase.ai/cases/101f63c774b7.jpg) · [original source](https://x.com/AIwithSynthia/status/2098988104418050349)
-- Summary: Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
-
-```text
-Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
-Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
-Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
-She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
-The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
-He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
-She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
-She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
-The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
-One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
-She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
-Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
-No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
-```
-
 ## E4 · Mother Takes Boy's Seat for Crepes
 
 - Seedance 2.0 · creator: @Just_sharon7 · heat: 84
@@ -115,7 +115,7 @@ Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting,
 
 ## E5 · Modern Action Comedy Video Prompt
 
-- Seedance 2.0 · creator: @pyona_ai · heat: 84
+- Seedance 2.0 · creator: @pyona_ai · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/modern-action-comedy-video-prompt) · [finished media](https://media.goodcase.ai/media/video/modern-action-comedy-video-prompt.mp4) · [poster](https://media.goodcase.ai/media/poster/modern-action-comedy-video-prompt.jpg) · [original source](https://x.com/pyona_ai/status/2088605198973583799)
 - Summary: A detailed action-comedy video prompt for Seedance 2.5 featuring a female character's persistent attacks and a male character's playful evasions involving quick cheek kisses.
 
@@ -156,7 +156,7 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 ## E7 · POV: The Turkish Ice Cream Guy Had Other Plans
 
-- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 74
+- Seedance 2.5 · creator: @sophiaparkerr_ · heat: 73 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8) · [finished media](https://media.goodcase.ai/cases/bb6e4d4897bc.mp4) · [poster](https://media.goodcase.ai/cases/e9b53af60cec.jpg) · [original source](https://x.com/sophiaparkerr_/status/2096542775709692255)
 - Summary: POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
 

@@ -281,7 +281,7 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 
 ## E5 · Three Children Search for a Mysterious Station Beneath the Snow
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 80
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 79 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e) · [finished media](https://media.goodcase.ai/cases/9007759eac57.mp4) · [poster](https://media.goodcase.ai/cases/79e519115cd2.jpg) · [original source](https://x.com/Just_sharon7/status/2099820658880548879)
 - Summary: A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
 
@@ -435,7 +435,7 @@ She finally reaches a small Brazilian house matching the address printed on the
 
 ## E7 · Female Surgeon's Hospital Rescue Mission
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 54
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 54 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-okay-this-feels-straight-out-of-gta-4dcfe15565a6) · [finished media](https://media.goodcase.ai/cases/c8ed67b6ad8e.mp4) · [poster](https://media.goodcase.ai/cases/9377bc7b94f2.jpg) · [original source](https://x.com/saniaspeaks_/status/2100429151719075851)
 - Summary: Okay this feels straight out of GTA Seedance 2.5 on @itsPolloAI Prompt Create a 30-second ultra-realistic AAA third-person medical action game mission set insid…
 

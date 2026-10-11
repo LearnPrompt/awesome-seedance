@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Parasite Infection Outbreak in a Research Lab
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 96
+- Seedance 2.5 · creator: @auqibhabib · heat: 96 · stability: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) · [finished media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) · [poster](https://media.goodcase.ai/cases/5929c428cd08.jpg) · [original source](https://x.com/auqibhabib/status/2099725768310009982)
 - Summary: A containment breach in the lab sent things wrong fast. Seedance 2.5 Prompt: Cinematic sci-fi horror-action short film set in a research laboratory, opens with …
 
@@ -72,7 +72,7 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 ## E2 · Security Guard and Survivors in a Mall Zombie Outbreak
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 95
+- Seedance 2.5 · creator: @auqibhabib · heat: 95 · stability: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) · [finished media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) · [poster](https://media.goodcase.ai/cases/be466ebf5501.jpg) · [original source](https://x.com/auqibhabib/status/2104107269206237325)
 - Summary: A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
 
@@ -112,7 +112,7 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 
 ## E3 · Infected Attack on a Japanese Highway Bus
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 93
+- Seedance 2.5 · creator: @auqibhabib · heat: 93 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) · [finished media](https://media.goodcase.ai/cases/167033959b74.mp4) · [poster](https://media.goodcase.ai/cases/f5434503545d.jpg) · [original source](https://x.com/auqibhabib/status/2102265619416768799)
 - Summary: Bus driver and conductor stop sudden attack, all passengers safe. Seedance 2.5 Prompt: Cinematic horror-action short film set aboard a Japanese highway bus duri…
 
@@ -225,7 +225,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ## E6 · Infection Terror Aboard a Night Sleeper Train
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 78
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 78 · stability: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
 - Summary: One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
 
@@ -239,7 +239,7 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 
 ## E7 · Parasite Outbreak in a High-Security Laboratory
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 74
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 74 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459) · [finished media](https://media.goodcase.ai/cases/55154fddc144.mp4) · [poster](https://media.goodcase.ai/cases/a0d17a9bf535.jpg) · [original source](https://x.com/AIwithSynthia/status/2101161634022474024)
 - Summary: One lab. One infection. And suddenly, she wasn’t human anymore. 🧟‍♀️ Seedance 2.5 on @wavespeed_ai Prompt : Create a photorealistic zombie-horror sequence insi…
 

@@ -2,9 +2,87 @@
 
 Seedance 2.0 の全 282 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 282 件中 277–282 件目。
+このページ: 282 件中 275–282 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · **Part 4**
+
+### Hardcore Sci-Fi Anime Edit
+
+> An ultra-fast-paced anime action edit for the character Kael Drayn, featuring a hardcore sci-fi aesthetic and variable frame-rate effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-251215797a14.jpg" width="600" alt="Hardcore Sci-Fi Anime Edit">](https://goodcase.ai/cases/case-251215797a14)
+
+**作者:** @itsPixieVerse | **出典:** [元投稿](https://x.com/itsPixieVerse/status/2081161446671651074) | **公開日:** 2026-07-25 | **ヒート:** 0
+
+**安定度:** 75/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.9) · [出力](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（36 行、クリックで展開）</b></summary>
+
+```
+KAEL DRAYN @[Image] — "Frontier Justice" | Action Sequence. 15-second montage, hyper-kinetic rhythmic editing, variable frame
+rates.
+
+Art Direction & Vibe: Premium key art. Unified style: high-end gritty sci-fi
+anime render, sharp graphic linework, cinematic spatial lighting. Setting:
+lawless outer-rim outpost, dusty streets, rusted corrugated metal, harsh desert
+sun.
+
+Color Discipline: Suppressed palette: sun-bleached beige, dry ochre, rusted
+iron, muted olive. Accents: his terra-cotta skin/markings, searing crimson enemy
+blaster bolts, and the blinding neon-green of his plasma sword. High contrast;
+the plasma blade casts stark green rim-light on kicking dust. Atmosphere:
+blowing sand, heat distortion, flying sparks, kinetic motion blur.
+
+The Character: Locked design (match reference): KAEL DRAYN, Outer Rim Sentinel.
+Patterned alien head-tails, dark facial markings, calm focused eyes. Earth-toned
+tactical gear, draped olive cowl, utility belts, combat boots. Wields a
+mechanical hilt emitting a neon-green plasma blade. Demeanor: disciplined,
+precise, unshakeable — zero wasted movement amidst chaos.
+
+Shot Design: Rotate combat grammar. Macros (thumb igniting hilt, green blade
+melting a crimson blaster bolt, tactical boot pivoting in sand) to wide
+acrobatic leaping strikes. Hard diagonals, dirty over-the-shoulder perspectives,
+dynamic low-angle hero framing. Lighting: blistering harsh daylight, intense
+neon-green ambient glow during strikes. 3 environmental combat frames: a
+scorching blast-mark on an adobe wall, sliced metal debris falling, wind
+sweeping dust over footprints.
+
+Story Arc: Open on tense stillness. Omens: shifting shadows, a mercenary's
+weapon clicking. Introduce in defense: mechanical hilt snaps up, blade ignites,
+tight macro framing of rapid blaster deflection. Escalate through the
+counter-attack: Kael fluidly advances through the crossfire, a blur of leaping
+strikes and spinning green light trails carving through the dust. Resolve
+climactic frame: Kael in a grounded low stance, sword sheathed, cowl blowing in
+the wind, completely unbothered amidst fallen adversaries. High-velocity
+whip-pans between beats; kinetic precision.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-251215797a14)**
+
+### Luxury Beauty and Skincare ASMR
+
+> A creative prompt for generating a high-maintenance luxury beauty and skincare routine with a tsundere ASMR personality, presented in a vintage camera shooting style.
+
+[<img src="https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg" width="600" alt="Luxury Beauty and Skincare ASMR">](https://goodcase.ai/cases/asmr-eb8937adce5b)
+
+**作者:** @sebatheepan | **出典:** [元投稿](https://x.com/sebatheepan/status/2080999511195828239) | **公開日:** 2026-07-25 | **ヒート:** 0
+
+**安定度:** 75/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 75.3) · [出力](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements- seedance 2.0 prompt
+
+CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror stand. Soft diffuse lighting, delicate lens flare, gentle zoom adjustments, subtle tape grain, polished high-end aesthetic. STYLE: High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements. Paws delicately patting bottles, slow blinks, arrogant pauses. SUBJECT: Fluffy white Persian cat with a flat smushed face, emerald green eyes, wearing a tiny silk hair wrap. Smug, unimpressed expression, regal demeanor. SETTING: Marble bathroom vanity with expensive serum glass bottles, jade roller, plush velvet towel, warm vanity light bulbs. STORYBOARD: → (2s, medium shot) Adjusts camera angle with one claw. "Good morning to everyone except my human who woke me up 3 minutes early." → (1.5s, detail shot) Taps a glass serum bottle with front paw. Crisp clinking glass ASMR sound. → (1.5s, close-up) Slowly pushes serum bottle off the counter while maintaining eye contact with camera. Loud shatter/thud sound below. "Oops. Gravity works. Moving on." → (2s, detail macro shot) Softly licks back of paw and wipes ear in slow motion. Soft grooming ASMR sound. → (1.5s, close-up) Gazes into mirror, tilting head. "Skin is glowing, pores are non-existent. You're welcome." → (1.5s, medium handheld shot) Uses jade roller on forehead using tiny paw. "Reducing puffiness from sleeping 18 hours instead of 19." → (1.5s, macro detail shot) Sniffs a tub of catnip cream, letting out a delicate sneezed 'achoo'. → (1.5s, medium shot) Sits tall, smoothing chest fur with arrogant posture. "If you can't afford this routine, just say that." → (1s, ending shot) Slow blinks condescendingly into lens. "Don't forget to subscribe. Or don't. I don't care." → (1s, final shot) Swats camera violently off vanity counter. Video cuts to static grid. AUDIO NOTES: Glass bottle clinking, soft licking/grooming sounds, heavy purring sub-bass, arrogant posh voice with refined lip movements. REALISM & COMEDY NOTES: Photorealistic white Persian fur physics, subtle whisker twitches, natural cat slow-blinks, hysterical condescending tone paired with classic cat chaotic behavior (knocking things off tables).
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/asmr-eb8937adce5b)**
 
 ### Dark Surreal Mirror-Reflection Horror Short
 

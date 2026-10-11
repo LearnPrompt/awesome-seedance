@@ -94,7 +94,7 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 
 ## E5 · An Idol's Wobbly Post–Leg Day Gym Diary
 
-- Seedance 2.5 · creator: @QAiStudio · heat: 91
+- Seedance 2.5 · creator: @QAiStudio · heat: 91 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-dbd56441c7b6) · [finished media](https://media.goodcase.ai/cases/f2d117418aa1.mp4) · [poster](https://media.goodcase.ai/cases/ff2f2bf756c1.jpg) · [original source](https://x.com/QAiStudio/status/2102992059938587000)
 - Summary: Made with seedance 2.5 on Flova AI Prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it o…
 
@@ -137,7 +137,7 @@ A gym in the evening — squat rack, leg press machine, a water fountain across 
 
 ## E6 · K-Pop Idol’s Playful Core Workout
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 90
+- Seedance 2.5 · creator: @doctorwasif · heat: 89 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31) · [finished media](https://media.goodcase.ai/cases/64401183c996.mp4) · [poster](https://media.goodcase.ai/cases/89d557bcc2fb.jpg) · [original source](https://x.com/doctorwasif/status/2103476205760774263)
 - Summary: made with Seedance 2.5 prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor …
 
@@ -176,7 +176,7 @@ A gym mat area in the evening — mirror wall nearby, water bottle on the floor,
 
 ## E7 · Locked Character Sheet for a Korean Woman of 20
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 84
+- Seedance 2.5 · creator: @AIwithkhan · heat: 84 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863) · [finished media](https://media.goodcase.ai/media/video/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg) · [original source](https://x.com/AIwithkhan/status/2095485437821464808)
 - Summary: What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
 
@@ -197,7 +197,7 @@ Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and
 
 ## E8 · The Little Moments That Make AI Feel Real
 
-- Seedance 2.5 · creator: @SimplyAnnisa · heat: 84
+- Seedance 2.5 · creator: @SimplyAnnisa · heat: 84 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467) · [finished media](https://media.goodcase.ai/cases/9cf72a529a73.mp4) · [poster](https://media.goodcase.ai/cases/276528e2bcc8.jpg) · [original source](https://x.com/SimplyAnnisa/status/2096931238460178592)
 - Summary: It’s the little moments that make AI feel this real. Made with Seedance 2.5 PROMPT Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of …
 

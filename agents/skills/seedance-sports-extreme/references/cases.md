@@ -158,7 +158,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 ## E3 · Bicycle Courier Racing Through the City
 
-- Seedance 2.5 · creator: @Elvorya · heat: 65
+- Seedance 2.5 · creator: @Elvorya · heat: 65 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) · [finished media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) · [poster](https://media.goodcase.ai/cases/d9e8d052ad57.jpg) · [original source](https://x.com/Elvorya/status/2102622012351131832)
 - Summary: When a delivery ride turns into a cinematic city adventure. Created on seedance 2.5 Prompt:Create a 15-second photorealistic cinematic animated urban adventure …
 
@@ -404,7 +404,7 @@ SEEDANCE 2.5｜水上人形墙挑战
 
 ## E8 · Water Obstacle Contestant Falls Just Before Victory
 
-- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 37
+- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 37 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) · [finished media](https://media.goodcase.ai/cases/050883318d18.mp4) · [poster](https://media.goodcase.ai/cases/c24bcd06701e.jpg) · [original source](https://x.com/Inshrah_ali_/status/2098621065039647016)
 - Summary: She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
 

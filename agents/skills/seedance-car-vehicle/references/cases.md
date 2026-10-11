@@ -38,7 +38,7 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 ## E2 · Motorcycle Racing Through a Mountain Road
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 76
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 76 · stability: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
 - Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
 
@@ -113,7 +113,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E4 · Pink Jet Tractor Races Supercars on a Tokyo Expressway
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 40
+- Seedance 2.5 · creator: @laviniavelle · heat: 40 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) · [finished media](https://media.goodcase.ai/cases/83c13fe0b2e2.mp4) · [poster](https://media.goodcase.ai/cases/17d1ccde38df.jpg) · [original source](https://x.com/laviniavelle/status/2100806296949903511)
 - Summary: A pink tractor with a jet engine hits the highway Supercars can’t keep up with this crazy speed. Made With Seedance 2.5 on @flovaai Prompt: A high octane cinema…
 
@@ -124,7 +124,7 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 
 ## E5 · First-Person Midair Assembly of a Black Lamborghini
 
-- Seedance 2.5 · creator: @MissDelulu9 · heat: 37
+- Seedance 2.5 · creator: @MissDelulu9 · heat: 37 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) · [finished media](https://media.goodcase.ai/cases/bc11a3b576b6.mp4) · [poster](https://media.goodcase.ai/cases/4da7c433c3b6.jpg) · [original source](https://x.com/MissDelulu9/status/2091423578197737772)
 - Summary: What if you could assemble a supercar with your mind? 👀 Made with Seedance 2.5 using @atlas_cloud_ai #AtlasCloud Prompt
 
@@ -163,7 +163,7 @@ The Aventador launches violently forward directly toward the POV camera. The rea
 
 ## E6 · Karakoram Motorcycle Commercial
 
-- Seedance 2.5 · creator: @AI_with_Antonio · heat: 30 · stability: 87
+- Seedance 2.5 · creator: @AI_with_Antonio · heat: 29 · stability: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/karakoram-motorcycle-commercial) · [finished media](https://media.goodcase.ai/cases/f702b148dbed.mp4) · [poster](https://media.goodcase.ai/cases/fe0b785db335.jpg) · [original source](https://x.com/AI_with_Antonio/status/2088599346908365227)
 - Summary: A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
 

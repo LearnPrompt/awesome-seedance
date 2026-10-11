@@ -1,22 +1,22 @@
 # Awesome Seedance — 画廊总览
 
-全部 825 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 831 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
 ## 分页
 
-- [Seedance 2.5 · 第 1/7 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–83 条，共 543 条.
-- [Seedance 2.5 · 第 2/7 页](./gallery-seedance-2-5-part-2.zh.md) - 第 84–175 条，共 543 条.
-- [Seedance 2.5 · 第 3/7 页](./gallery-seedance-2-5-part-3.zh.md) - 第 176–269 条，共 543 条.
-- [Seedance 2.5 · 第 4/7 页](./gallery-seedance-2-5-part-4.zh.md) - 第 270–363 条，共 543 条.
-- [Seedance 2.5 · 第 5/7 页](./gallery-seedance-2-5-part-5.zh.md) - 第 364–456 条，共 543 条.
-- [Seedance 2.5 · 第 6/7 页](./gallery-seedance-2-5-part-6.zh.md) - 第 457–526 条，共 543 条.
-- [Seedance 2.5 · 第 7/7 页](./gallery-seedance-2-5-part-7.zh.md) - 第 527–543 条，共 543 条.
-- [Seedance 2.0 · 第 1/4 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–94 条，共 282 条.
-- [Seedance 2.0 · 第 2/4 页](./gallery-seedance-2-0-part-2.zh.md) - 第 95–198 条，共 282 条.
-- [Seedance 2.0 · 第 3/4 页](./gallery-seedance-2-0-part-3.zh.md) - 第 199–281 条，共 282 条.
-- [Seedance 2.0 · 第 4/4 页](./gallery-seedance-2-0-part-4.zh.md) - 第 282–282 条，共 282 条.
+- [Seedance 2.5 · 第 1/7 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–83 条，共 549 条.
+- [Seedance 2.5 · 第 2/7 页](./gallery-seedance-2-5-part-2.zh.md) - 第 84–167 条，共 549 条.
+- [Seedance 2.5 · 第 3/7 页](./gallery-seedance-2-5-part-3.zh.md) - 第 168–258 条，共 549 条.
+- [Seedance 2.5 · 第 4/7 页](./gallery-seedance-2-5-part-4.zh.md) - 第 259–356 条，共 549 条.
+- [Seedance 2.5 · 第 5/7 页](./gallery-seedance-2-5-part-5.zh.md) - 第 357–451 条，共 549 条.
+- [Seedance 2.5 · 第 6/7 页](./gallery-seedance-2-5-part-6.zh.md) - 第 452–522 条，共 549 条.
+- [Seedance 2.5 · 第 7/7 页](./gallery-seedance-2-5-part-7.zh.md) - 第 523–549 条，共 549 条.
+- [Seedance 2.0 · 第 1/4 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–92 条，共 282 条.
+- [Seedance 2.0 · 第 2/4 页](./gallery-seedance-2-0-part-2.zh.md) - 第 93–195 条，共 282 条.
+- [Seedance 2.0 · 第 3/4 页](./gallery-seedance-2-0-part-3.zh.md) - 第 196–279 条，共 282 条.
+- [Seedance 2.0 · 第 4/4 页](./gallery-seedance-2-0-part-4.zh.md) - 第 280–282 条，共 282 条.
 
 ## 仓库里的其他入口
 
@@ -31,6 +31,7 @@
 全部版本里热度最高的十条；每个链接直达画廊分页里的完整条目。
 
 - [复古餐厅时间冻结与倒放](./gallery-seedance-2-5-part-1.zh.md#复古餐厅时间冻结与倒放) - 一份 30 秒的时间冻结加倒放脚本：咖啡打翻的瞬间被锁死，镜头绕悬浮液带走完整圈，再让所有人和物倒回原位，最后一个招手把事故消解掉。
+- [首尔地铁反击：女子将挑衅者扔进垃圾桶](./gallery-seedance-2-5-part-1.zh.md#首尔地铁反击女子将挑衅者扔进垃圾桶) - Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
 - [护肤品自拍口播 UGC 广告](./gallery-seedance-2-5-part-1.zh.md#护肤品自拍口播-ugc-广告) - 用 GPT Image 2 先定死人物形象，再配一张正面产品实拍，交给 Seedance 2.5 出 15 秒竖版自拍口播广告；提示语把四段节拍、口播台词、手持相机质感和标签文字锁死，所以整条片子人脸不漂移、瓶身文字不被模型改写。
 - [首尔夏夜 Vlog](./gallery-seedance-2-5-part-1.zh.md#首尔夏夜-vlog) - 一份详尽的脚本式提示词，用于创作一段展现首尔夏夜怀旧家庭录像风格的视频。
 - [双人 K-pop MV 逐镜分镜](./gallery-seedance-2-5-part-1.zh.md#双人-k-pop-mv-逐镜分镜) - 把 30 秒切成十几段两到四秒的镜头，每段写死机位、景别、背景和动作，两个女生用粉发和黑发做外观锚点贯穿全片。值钱的是这套时间码排镜法。
@@ -39,6 +40,5 @@
 - [幼儿开门学字母与单词](./gallery-seedance-2-5-part-1.zh.md#幼儿开门学字母与单词) - Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 - [现代推理初创公司的动感宣传片](./gallery-seedance-2-0-part-1.zh.md#现代推理初创公司的动感宣传片) - Opus 5.5 is incredible at instructional video generation. I made this launch video for a inference startup in 1min for ~$2. Videos like these used to take weeks…
 - [黑衣女子静立于同步人群中央](./gallery-seedance-2-5-part-1.zh.md#黑衣女子静立于同步人群中央) - I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
-- [夏日厨房里的日式猪排盖饭](./gallery-seedance-2-5-part-1.zh.md#夏日厨房里的日式猪排盖饭) - So delicious 😋 Seedance 2.5 Prompt: Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirel…
 
 ← [返回 README](../README_zh.md)

@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 81
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 81 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
 - Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
 
@@ -140,7 +140,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ## E5 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 75
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 75 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
 
@@ -208,7 +208,7 @@ Style: realistic handheld selfie + aerial footage, night city lights, slight win
 
 ## E8 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 68 · stability: 84
+- Seedance 2.5 · creator: @nawalsehar · heat: 67 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
 - Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
 

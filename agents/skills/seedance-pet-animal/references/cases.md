@@ -167,7 +167,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 ## E5 · Kitten Steals a Hair Tie and Pounces at the Camera
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 69
+- Seedance 2.5 · creator: @Strength04_X · heat: 69 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
 - Summary: She thought it was going to be a peaceful rainy-day selfie But the kitten had other plans 😅 Seedance 2.5 Prompt - REFERENCE & SUBJECT Use "@<image1" as the exa…
 
@@ -183,7 +183,7 @@ Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for th
 
 ## E6 · Dog Steals the Spotlight in a Mirror Selfie
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 67
+- Seedance 2.5 · creator: @Strength04_X · heat: 67 · stability: 62
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) · [finished media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) · [poster](https://media.goodcase.ai/cases/c7768b152872.jpg) · [original source](https://x.com/Strength04_X/status/2097616213371478242)
 - Summary: POV: you wanted a cute mirror selfie, but your dog wanted to be the main character Made with Seedance 2.5 Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@<image1…
 
@@ -299,7 +299,7 @@ Her thumb instinctively continues rubbing the kitten's fur a
 
 ## E8 · From the Birth of the Universe to Humanity
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 54
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 54 · stability: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e) · [finished media](https://media.goodcase.ai/cases/605e2885b55c.mp4) · [poster](https://media.goodcase.ai/cases/abd3f250edd5.jpg) · [original source](https://x.com/RuzainaMeer/status/2096837494000308685)
 - Summary: 13.8 billion years of evolution, from the birth of the universe to modern humanity. A cinematic journey through time, created with Seedance 2.5. Full Prompt: Cr…
 
