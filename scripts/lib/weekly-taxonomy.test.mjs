@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { applyReview, buildLabelPrompt, buildReviewPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, reviewGate, validateLabels, validateReviews, SPIKE_MIN_ADDED } from "./weekly-taxonomy.mjs";
+import { applyReview, buildLabelAliases, buildLabelPrompt, buildReviewPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, reviewGate, validateLabels, validateReviews, SPIKE_MIN_ADDED } from "./weekly-taxonomy.mjs";
 
 const known = new Set(["handheld-ugc-vlog", "food-asmr"]);
 
@@ -114,4 +114,11 @@ test("applyReview drops disagreed and uncovered cases from the write set and the
   assert.equal(out.disagreed.length, 1);
   assert.equal(reviewGate(2, out.disagreed, ["c"]).pass, false, "2 of 3 problematic is way over 15%");
   assert.equal(reviewGate(20, [out.disagreed[0]], []).pass, true);
+});
+
+test("validateLabels accepts a template's zh/en title as an alias for its id instead of discarding the row", () => {
+  const aliases = buildLabelAliases([{ id: "food-asmr", title: { en: "Food ASMR", zh: "美食特写与吃播 ASMR" } }]);
+  const { rows, rejected } = validateLabels([{ slug: "a", label: "美食特写与吃播 ASMR", confidence: "high" }, { slug: "b", label: "food asmr", confidence: "high" }, { slug: "c", label: "美食", confidence: "high" }], ["a", "b", "c"], known, aliases);
+  assert.deepEqual(rows.map((r) => [r.slug, r.label]), [["a", "food-asmr"], ["b", "food-asmr"]]);
+  assert.equal(rejected.length, 1, "a non-matching phrase is still rejected");
 });

@@ -119,7 +119,17 @@ export function parseLabelResponse(text) {
  * 校验并归一一片标签。只接受这片里出现过的 slug；label 必须是已知模板 id、new:<kebab> 或 unclear。
  * 返回 { rows, missing, rejected }。
  */
-export function validateLabels(raw, shardSlugs, knownIds) {
+/** 模板中英标题 → id 的别名表。标注员偶尔会把标题当 id 写，不该因此整片作废。 */
+export function buildLabelAliases(templates) {
+  const m = new Map();
+  for (const t of templates || []) {
+    m.set(t.id.toLowerCase(), t.id);
+    for (const v of Object.values(t.title || {})) if (typeof v === "string" && v.trim()) m.set(v.trim().toLowerCase(), t.id);
+  }
+  return m;
+}
+
+export function validateLabels(raw, shardSlugs, knownIds, aliases = new Map()) {
   const want = new Set(shardSlugs);
   const seen = new Set();
   const rows = [];
@@ -129,7 +139,8 @@ export function validateLabels(raw, shardSlugs, knownIds) {
       rejected.push({ slug: r && r.slug, reason: "unknown or duplicate slug" });
       continue;
     }
-    const label = typeof r.label === "string" ? r.label.trim() : "";
+    let label = typeof r.label === "string" ? r.label.trim() : "";
+    if (!knownIds.has(label) && aliases.has(label.toLowerCase())) label = aliases.get(label.toLowerCase());
     const ok = knownIds.has(label) || label === "unclear" || /^new:[a-z0-9]+(?:-[a-z0-9]+)*$/.test(label);
     if (!ok) {
       rejected.push({ slug: r.slug, reason: `bad label "${label}"` });
@@ -273,7 +284,7 @@ export function buildReviewPrompt(templates, items) {
 }
 
 /** 校验验收输出。返回 { reviews, missing }；reviews 里每条 { slug, verdict, label, why }。 */
-export function validateReviews(raw, items, knownIds) {
+export function validateReviews(raw, items, knownIds, aliases = new Map()) {
   const bySlug = new Map(items.map((c) => [c.slug, c]));
   const seen = new Set();
   const reviews = [];
@@ -281,6 +292,7 @@ export function validateReviews(raw, items, knownIds) {
     if (!r || typeof r.slug !== "string" || !bySlug.has(r.slug) || seen.has(r.slug)) continue;
     const verdict = r.verdict === "agree" ? "agree" : "disagree";
     let label = typeof r.label === "string" ? r.label.trim() : "";
+    if (!knownIds.has(label) && aliases.has(label.toLowerCase())) label = aliases.get(label.toLowerCase());
     if (verdict === "agree") label = bySlug.get(r.slug).proposed;
     else if (!knownIds.has(label)) label = "unclear";
     seen.add(r.slug);

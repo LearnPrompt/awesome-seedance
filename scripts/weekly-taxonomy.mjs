@@ -17,7 +17,7 @@ import { fileURLToPath } from "node:url";
 import path from "node:path";
 import os from "node:os";
 import { loadLibrary, buildTemplateIndex } from "./lib/library.mjs";
-import { applyReview, buildLabelPrompt, buildReviewPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, reviewGate, validateLabels, validateReviews } from "./lib/weekly-taxonomy.mjs";
+import { applyReview, buildLabelAliases, buildLabelPrompt, buildReviewPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, reviewGate, validateLabels, validateReviews } from "./lib/weekly-taxonomy.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -70,7 +70,7 @@ async function labelShard(shard, templates, knownIds) {
     }
     const parsed = parseLabelResponse(res.text);
     if (!parsed) { notes.push(`一片 ${pending.length} 条第 ${attempt} 次调用没拿到可解析的 JSON：${String(res.text).slice(0, 120)}`); continue; }
-    const v = validateLabels(parsed, pending.map((c) => c.slug), knownIds);
+    const v = validateLabels(parsed, pending.map((c) => c.slug), knownIds, aliases);
     if (v.rejected.length) notes.push(`丢弃 ${v.rejected.length} 条不合规标签：${v.rejected.slice(0, 3).map((x) => `${x.slug}(${x.reason})`).join("；")}`);
     rows = rows.concat(v.rows);
     pending = pending.filter((c) => v.missing.includes(c.slug));
@@ -103,6 +103,7 @@ const taxFile = path.join(ROOT, "data/case-taxonomy.json");
 const tax = JSON.parse(readFileSync(taxFile, "utf8"));
 const { library } = loadLibrary(ROOT);
 const knownIds = new Set(library.templates.map((t) => t.id));
+const aliases = buildLabelAliases(library.templates);
 const before = buildTemplateIndex(library.templates, tax, cases);
 const beforeCounts = Object.fromEntries([...before.byTemplate].map(([id, list]) => [id, list.length]));
 const todoAll = cases.filter((c) => !(c.slug in tax.assignments)).sort((a, b) => (b.heatScore || 0) - (a.heatScore || 0));
@@ -137,7 +138,7 @@ if (!SKIP_REVIEW && toReview.length && !fatalModelError) {
     if (res.error) { notes.push(`验收一片 ${shard.length} 条：${res.error}`); return { reviews: [], missing: shard.map((c) => c.slug) }; }
     const parsed = parseLabelResponse(res.text);
     if (!parsed) { notes.push(`验收一片 ${shard.length} 条没拿到可解析的 JSON`); return { reviews: [], missing: shard.map((c) => c.slug) }; }
-    return validateReviews(parsed, shard, knownIds);
+    return validateReviews(parsed, shard, knownIds, aliases);
   }, CONCURRENCY);
   const reviews = reviewed.flatMap((x) => x.reviews);
   const reviewMissing = reviewed.flatMap((x) => x.missing);
