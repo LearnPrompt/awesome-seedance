@@ -10,13 +10,14 @@
 // 删掉它就回到只出报告。推送范围写死在 PUSH_PATHS，工作区里出现范围外的改动一律拒推。
 // 报告落在 ~/Downloads/awesome-seedance-weekly/<日期>.md，成功失败都写。
 // 标注用无头 claude（claude -p --model sonnet），走本机订阅，不需要 API key。
+// 验收：第二个模型（默认 opus）独立复核标注员写入的每一条，不同意的拿掉；不同意率超 15% 整批不推。
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from "node:fs";
 import { spawn, spawnSync } from "node:child_process";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import os from "node:os";
 import { loadLibrary, buildTemplateIndex } from "./lib/library.mjs";
-import { buildLabelPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, validateLabels } from "./lib/weekly-taxonomy.mjs";
+import { applyReview, buildLabelPrompt, buildReviewPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, reviewGate, validateLabels, validateReviews } from "./lib/weekly-taxonomy.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const args = process.argv.slice(2);
@@ -27,6 +28,8 @@ const REPORT_DIR = path.join(os.homedir(), "Downloads", "awesome-seedance-weekly
 const PUSH_SWITCH = path.join(STATE_DIR, "auto-push-on");
 const PUSH_PATHS = ["data/case-taxonomy.json", "data/stats.json", "README.md", "README_zh.md", "README_ja.md", "docs", "agents/skills", "assets/hero.svg"];
 const MODEL = process.env.WEEKLY_TAXONOMY_MODEL || "sonnet";
+const REVIEW_MODEL = process.env.WEEKLY_REVIEW_MODEL || "opus";
+const SKIP_REVIEW = args.includes("--no-review");
 const CONCURRENCY = 3;
 const date = new Date(Date.now() + 8 * 3600 * 1000).toISOString().slice(0, 10);
 const notes = [];
@@ -37,12 +40,13 @@ function sh(cmd, argv, opts = {}) {
   return { code: r.status, out: (r.stdout || "") + (r.stderr || "") };
 }
 
-function callModel(prompt) {
+function callModel(prompt, model = MODEL) {
   return new Promise((resolve) => {
     // 在空目录里跑，避免把仓库上下文和项目级 hook 带进标注会话
     const cwd = path.join(os.tmpdir(), "awesome-seedance-weekly-label");
     mkdirSync(cwd, { recursive: true });
-    const child = spawn("claude", ["-p", "--model", MODEL, "--output-format", "json"], { cwd, stdio: ["pipe", "pipe", "pipe"] });
+    // --setting-sources=project：不加载用户级 CLAUDE.md（里面的进度条等铁律会让回复在 JSON 后追加文字）；--bare 会连登录态一起丢，不能用
+    const child = spawn("claude", ["-p", "--model", model, "--output-format", "json", "--setting-sources=project"], { cwd, stdio: ["pipe", "pipe", "pipe"] });
     let out = "";
     const timer = setTimeout(() => child.kill("SIGKILL"), 10 * 60 * 1000);
     child.stdout.on("data", (d) => (out += d));
@@ -118,8 +122,33 @@ const labelled = await pool(shards, (s) => labelShard(s, library.templates, know
 const rows = labelled.flatMap((x) => x.rows);
 const missing = labelled.flatMap((x) => x.missing);
 if (fatalModelError) notes.unshift(`模型不可用，本次没有任何标注写入。原因：${fatalModelError}。登录过期时在终端跑 claude auth login 重新登录后手动重跑。`);
-const { assign, deferred, candidates } = decide(rows, knownIds);
+const decided = decide(rows, knownIds);
+let { assign, deferred } = decided;
+const { candidates } = decided;
+
+// 验收：把标注员准备写入的每一条交给第二个模型独立复核
+let review = null;
+const toReview = Object.entries(assign).filter(([, v]) => v).map(([slug, proposed]) => ({ ...digestCase(todo.find((c) => c.slug === slug)), proposed }));
+if (!SKIP_REVIEW && toReview.length && !fatalModelError) {
+  console.log(`reviewing ${toReview.length} labels in ${Math.ceil(toReview.length / 40)} shard(s) with claude -p --model ${REVIEW_MODEL}`);
+  const reviewShards = chunk(toReview);
+  const reviewed = await pool(reviewShards, async (shard) => {
+    const res = await callModel(buildReviewPrompt(library.templates, shard), REVIEW_MODEL);
+    if (res.error) { notes.push(`验收一片 ${shard.length} 条：${res.error}`); return { reviews: [], missing: shard.map((c) => c.slug) }; }
+    const parsed = parseLabelResponse(res.text);
+    if (!parsed) { notes.push(`验收一片 ${shard.length} 条没拿到可解析的 JSON`); return { reviews: [], missing: shard.map((c) => c.slug) }; }
+    return validateReviews(parsed, shard, knownIds);
+  }, CONCURRENCY);
+  const reviews = reviewed.flatMap((x) => x.reviews);
+  const reviewMissing = reviewed.flatMap((x) => x.missing);
+  const applied = applyReview(assign, reviews, reviewMissing);
+  assign = applied.assign;
+  deferred = deferred.concat(applied.deferred);
+  review = { model: REVIEW_MODEL, reviewed: reviews.length, disagreed: applied.disagreed, missing: reviewMissing };
+} else if (SKIP_REVIEW) notes.push("传了 --no-review，跳过验收。");
+
 const { gates, added } = evaluateGates({ todoCount: todo.length, rows, missing, assign, beforeCounts });
+if (review) gates.push(reviewGate(review.reviewed, review.disagreed, review.missing));
 
 // 写入归类并重新生成，然后跑仓库自己的检查
 Object.assign(tax.assignments, assign);
@@ -140,7 +169,7 @@ const outside = dirty.filter((f) => !PUSH_PATHS.some((p) => f === p || f.startsW
 checks.push({ name: "改动只落在允许推送的路径内", pass: outside.length === 0, detail: outside.length ? outside.slice(0, 5).join("，") : `${dirty.length} 个文件` });
 
 const after = buildTemplateIndex(library.templates, tax, cases);
-const report = { ...empty, assign, deferred, candidates, added, gates, checks, filedAfter: cases.length - after.unassigned.length };
+const report = { ...empty, assign, deferred, candidates, added, gates, checks, review, filedAfter: cases.length - after.unassigned.length };
 const allPass = gates.every((g) => g.pass) && checks.every((c) => c.pass);
 const pushEnabled = WANT_PUSH && existsSync(PUSH_SWITCH);
 report.pushEnabled = pushEnabled;

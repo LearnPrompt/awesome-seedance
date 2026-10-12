@@ -11,6 +11,8 @@ export const LOW_CONFIDENCE_MAX_RATIO = 0.2;
 export const NEW_CLASS_MIN_CASES = 5;
 /** 单个模板一周新增超过这个数、且超过原有条数时视为异常（多半是标注跑偏）。 */
 export const SPIKE_MIN_ADDED = 15;
+/** 验收：第二个模型复核后不同意的比例超过这个数，整批不推。 */
+export const REVIEW_MAX_DISAGREE_RATIO = 0.15;
 
 const clean = (s) => (s || "").replace(/\s+/g, " ").trim();
 const JUNK_TAG = /^(source-|author-display:|prompt-public|auto-approved|human-reviewed|youmind|seedance|query-|trial-)/i;
@@ -75,18 +77,42 @@ export function interpretModelOutput(raw) {
   return { text: typeof j?.result === "string" ? j.result : null, error: null, fatal: false };
 }
 
-/** 从模型回复里取出 JSON 数组；容忍前后有说明文字或 ```json 围栏。取不出来返回 null。 */
+/**
+ * 从模型回复里取出 JSON 数组；容忍前后有说明文字或 ```json 围栏，也容忍尾巴里再出现方括号
+ * （无头 claude 会受用户级 CLAUDE.md 影响在数组后追加进度条之类的文字）。按括号配对、跳过字符串内容找真正的结尾。
+ * 取不出来返回 null。
+ */
 export function parseLabelResponse(text) {
   if (typeof text !== "string") return null;
-  const start = text.indexOf("[");
-  const end = text.lastIndexOf("]");
-  if (start < 0 || end <= start) return null;
-  try {
-    const arr = JSON.parse(text.slice(start, end + 1));
-    return Array.isArray(arr) ? arr : null;
-  } catch {
-    return null;
+  let start = text.indexOf("[");
+  while (start >= 0) {
+    let depth = 0;
+    let inStr = false;
+    for (let i = start; i < text.length; i++) {
+      const ch = text[i];
+      if (inStr) {
+        if (ch === "\\") i++;
+        else if (ch === '"') inStr = false;
+        continue;
+      }
+      if (ch === '"') inStr = true;
+      else if (ch === "[" || ch === "{") depth++;
+      else if (ch === "]" || ch === "}") {
+        depth--;
+        if (depth === 0) {
+          try {
+            const arr = JSON.parse(text.slice(start, i + 1));
+            if (Array.isArray(arr)) return arr;
+          } catch {
+            /* 这个 [ 不是数组开头，继续找下一个 */
+          }
+          break;
+        }
+      }
+    }
+    start = text.indexOf("[", start + 1);
   }
+  return null;
 }
 
 /**
@@ -195,6 +221,15 @@ export function renderReport(r) {
     for (const [name, slugs] of cand) L.push(`| ${name} | ${slugs.length} | ${slugs.length >= NEW_CLASS_MIN_CASES ? "是" : "否"} | ${slugs.slice(0, 5).map((s) => `[${s.slice(0, 28)}](https://goodcase.ai/cases/${s})`).join(" · ")} |`);
   } else L.push("无。");
   L.push("");
+  if (r.review) {
+    L.push("## 验收（第二个模型独立复核）", "");
+    L.push(`模型：${r.review.model}。复核 ${r.review.reviewed} 条，同意 ${r.review.reviewed - r.review.disagreed.length} 条，不同意 ${r.review.disagreed.length} 条，未覆盖 ${r.review.missing.length} 条。不同意的已从本次写入中拿掉。`, "");
+    if (r.review.disagreed.length) {
+      L.push("| 案例 | 标注员 | 验收员 | 验收员理由 |", "| --- | --- | --- | --- |");
+      for (const d of r.review.disagreed.slice(0, 40)) L.push(`| [${d.slug.slice(0, 36)}](https://goodcase.ai/cases/${d.slug}) | ${d.proposed} | ${d.suggested} | ${d.why || ""} |`);
+      L.push("");
+    }
+  }
   L.push("## 留到下轮的案例");
   L.push("");
   if (r.deferred.length) {
@@ -209,4 +244,79 @@ export function renderReport(r) {
     L.push("");
   }
   return L.join("\n");
+}
+
+// ---------------------------------------------------------------------------
+// 验收：第二个模型独立复核标注员的结果。只给它案例和拟定标签，不给标注员的理由，避免被带着走。
+// ---------------------------------------------------------------------------
+
+export function buildReviewPrompt(templates, items) {
+  const tpl = templates
+    .map((t) => `- ${t.id}｜${t.title?.zh || t.title?.en}｜${clean(t.useWhen?.zh || t.useWhen?.en).slice(0, 120)}`)
+    .join("\n");
+  return [
+    "你是验收员。另一位标注员已经给下面每条 AI 视频案例定了一个模板标签，你独立判断这个标签对不对。只输出一个 JSON 数组，不要任何解释、不要 markdown 围栏。",
+    "",
+    "现有模板（id｜标题｜适用场景）：",
+    tpl,
+    "",
+    "规则：",
+    "1. 按玩法判断：这条视频让观众看到什么、提示语按什么结构写。标签对就 agree，不对就 disagree。",
+    "2. disagree 时在 label 里给出你认为正确的模板 id（必须逐字等于列表里的某个 id），确实没有合适的就写 unclear。agree 时 label 原样照抄。",
+    "3. 拿不准宁可 disagree，不要顺着标注员。",
+    "",
+    '输出格式：[{"slug":"…","verdict":"agree|disagree","label":"…","why":"不超过 15 个字"}]，数组长度必须等于输入条数，slug 原样照抄。',
+    "",
+    "案例（每行一个 JSON，proposed 是标注员定的标签）：",
+    ...items.map((c) => JSON.stringify(c)),
+  ].join("\n");
+}
+
+/** 校验验收输出。返回 { reviews, missing }；reviews 里每条 { slug, verdict, label, why }。 */
+export function validateReviews(raw, items, knownIds) {
+  const bySlug = new Map(items.map((c) => [c.slug, c]));
+  const seen = new Set();
+  const reviews = [];
+  for (const r of raw || []) {
+    if (!r || typeof r.slug !== "string" || !bySlug.has(r.slug) || seen.has(r.slug)) continue;
+    const verdict = r.verdict === "agree" ? "agree" : "disagree";
+    let label = typeof r.label === "string" ? r.label.trim() : "";
+    if (verdict === "agree") label = bySlug.get(r.slug).proposed;
+    else if (!knownIds.has(label)) label = "unclear";
+    seen.add(r.slug);
+    reviews.push({ slug: r.slug, verdict, label, why: clean(r.why).slice(0, 40) });
+  }
+  return { reviews, missing: items.map((c) => c.slug).filter((s) => !seen.has(s)) };
+}
+
+/**
+ * 按验收结果修正写入：验收员不同意的从 assign 里拿掉，转入 deferred；验收员没覆盖到的也拿掉（宁缺毋滥）。
+ * 返回 { assign, deferred, disagreed, missing }。
+ */
+export function applyReview(assign, reviews, missing) {
+  const next = { ...assign };
+  const deferred = [];
+  const disagreed = [];
+  const verdictBySlug = new Map(reviews.map((r) => [r.slug, r]));
+  for (const slug of Object.keys(assign)) {
+    if (assign[slug] === null) continue; // 明确留空的不需要验收
+    const r = verdictBySlug.get(slug);
+    if (!r) { delete next[slug]; deferred.push({ slug, label: assign[slug], confidence: "-", reason: "reviewer did not cover", why: "" }); continue; }
+    if (r.verdict === "disagree") {
+      delete next[slug];
+      disagreed.push({ slug, proposed: assign[slug], suggested: r.label, why: r.why });
+      deferred.push({ slug, label: assign[slug], confidence: "-", reason: `reviewer disagrees → ${r.label}`, why: r.why });
+    }
+  }
+  return { assign: next, deferred, disagreed, missing };
+}
+
+export function reviewGate(reviewed, disagreed, missing) {
+  const total = reviewed + missing.length;
+  const ratio = total ? (disagreed.length + missing.length) / total : 0;
+  return {
+    name: `验收：第二个模型不同意或未覆盖的比例不超过 ${Math.round(REVIEW_MAX_DISAGREE_RATIO * 100)}%`,
+    pass: ratio <= REVIEW_MAX_DISAGREE_RATIO,
+    detail: `复核 ${reviewed} 条，不同意 ${disagreed.length} 条，未覆盖 ${missing.length} 条（${(ratio * 100).toFixed(1)}%）`,
+  };
 }

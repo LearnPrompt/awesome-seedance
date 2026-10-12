@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { buildLabelPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, validateLabels, SPIKE_MIN_ADDED } from "./weekly-taxonomy.mjs";
+import { applyReview, buildLabelPrompt, buildReviewPrompt, chunk, decide, digestCase, evaluateGates, interpretModelOutput, parseLabelResponse, renderReport, reviewGate, validateLabels, validateReviews, SPIKE_MIN_ADDED } from "./weekly-taxonomy.mjs";
 
 const known = new Set(["handheld-ugc-vlog", "food-asmr"]);
 
@@ -8,6 +8,11 @@ test("parseLabelResponse tolerates prose and code fences around the JSON array",
   const body = '[{"slug":"a","label":"food-asmr","confidence":"high","why":"吃播"}]';
   assert.equal(parseLabelResponse(body).length, 1);
   assert.equal(parseLabelResponse("好的，结果如下：\n```json\n" + body + "\n```\n完成。")[0].slug, "a");
+  // 无头 claude 受用户级 CLAUDE.md 影响，会在数组后追加带括号的进度条文字
+  const trailer = body + "\n\n🔴 原始需求已全部达成，以下仅供存档：10 条标注已输出（character-reference-lock 用于 #6/#9，[存档] 无后续）。";
+  assert.equal(parseLabelResponse(trailer).length, 1);
+  assert.equal(parseLabelResponse("前言 [不是数组] 然后 " + body)[0].slug, "a", "skips a bracketed phrase before the real array");
+  assert.equal(parseLabelResponse('[{"slug":"x","why":"含 ] 和 \\" 的字符串"}]')[0].slug, "x", "brackets inside strings do not end the array");
   assert.equal(parseLabelResponse("没有数组"), null);
   assert.equal(parseLabelResponse("[not json]"), null);
   assert.equal(parseLabelResponse(null), null);
@@ -83,4 +88,30 @@ test("interpretModelOutput surfaces the CLI's real error and marks auth or quota
   assert.equal(transient.fatal, false);
   assert.match(interpretModelOutput("").error, /空输出/);
   assert.equal(interpretModelOutput("not json").fatal, false);
+});
+
+test("review: agree keeps the proposed label, disagree with an unknown id degrades to unclear, uncovered slugs are reported", () => {
+  const items = [{ slug: "a", proposed: "food-asmr" }, { slug: "b", proposed: "food-asmr" }, { slug: "c", proposed: "handheld-ugc-vlog" }];
+  const raw = [
+    { slug: "a", verdict: "agree", label: "WRONG", why: "" },
+    { slug: "b", verdict: "disagree", label: "handheld-ugc-vlog", why: "是 vlog" },
+    { slug: "zzz", verdict: "agree", label: "food-asmr" },
+  ];
+  const { reviews, missing } = validateReviews(raw, items, known);
+  assert.deepEqual(reviews.map((r) => [r.slug, r.verdict, r.label]), [["a", "agree", "food-asmr"], ["b", "disagree", "handheld-ugc-vlog"]]);
+  assert.deepEqual(missing, ["c"]);
+  const bad = validateReviews([{ slug: "a", verdict: "disagree", label: "nope" }], items, known);
+  assert.equal(bad.reviews[0].label, "unclear");
+  assert.match(buildReviewPrompt([{ id: "food-asmr", title: { zh: "美食" }, useWhen: { zh: "吃播" } }], items), /proposed 是标注员定的标签/);
+});
+
+test("applyReview drops disagreed and uncovered cases from the write set and the gate counts both", () => {
+  const assign = { a: "food-asmr", b: "food-asmr", c: "handheld-ugc-vlog", d: null };
+  const reviews = [{ slug: "a", verdict: "agree", label: "food-asmr", why: "" }, { slug: "b", verdict: "disagree", label: "handheld-ugc-vlog", why: "vlog" }];
+  const out = applyReview(assign, reviews, ["c"]);
+  assert.deepEqual(out.assign, { a: "food-asmr", d: null }, "null stays, agreed stays, disagreed and uncovered go");
+  assert.deepEqual(out.deferred.map((x) => [x.slug, x.reason]), [["b", "reviewer disagrees → handheld-ugc-vlog"], ["c", "reviewer did not cover"]]);
+  assert.equal(out.disagreed.length, 1);
+  assert.equal(reviewGate(2, out.disagreed, ["c"]).pass, false, "2 of 3 problematic is way over 15%");
+  assert.equal(reviewGate(20, [out.disagreed[0]], []).pass, true);
 });
