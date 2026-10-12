@@ -120,11 +120,14 @@ export function parseLabelResponse(text) {
  * 返回 { rows, missing, rejected }。
  */
 /** 模板中英标题 → id 的别名表。标注员偶尔会把标题当 id 写，不该因此整片作废。 */
+const aliasKey = (s) => String(s).toLowerCase().replace(/\s+/g, "");
+
 export function buildLabelAliases(templates) {
   const m = new Map();
   for (const t of templates || []) {
-    m.set(t.id.toLowerCase(), t.id);
-    for (const v of Object.values(t.title || {})) if (typeof v === "string" && v.trim()) m.set(v.trim().toLowerCase(), t.id);
+    m.set(aliasKey(t.id), t.id);
+    // 忽略空白：标注员会把「UGC 口播测评带货」写成「UGC口播测评带货」
+    for (const v of Object.values(t.title || {})) if (typeof v === "string" && v.trim()) m.set(aliasKey(v), t.id);
   }
   return m;
 }
@@ -140,7 +143,7 @@ export function validateLabels(raw, shardSlugs, knownIds, aliases = new Map()) {
       continue;
     }
     let label = typeof r.label === "string" ? r.label.trim() : "";
-    if (!knownIds.has(label) && aliases.has(label.toLowerCase())) label = aliases.get(label.toLowerCase());
+    if (!knownIds.has(label) && aliases.has(aliasKey(label))) label = aliases.get(aliasKey(label));
     const ok = knownIds.has(label) || label === "unclear" || /^new:[a-z0-9]+(?:-[a-z0-9]+)*$/.test(label);
     if (!ok) {
       rejected.push({ slug: r.slug, reason: `bad label "${label}"` });
@@ -292,7 +295,7 @@ export function validateReviews(raw, items, knownIds, aliases = new Map()) {
     if (!r || typeof r.slug !== "string" || !bySlug.has(r.slug) || seen.has(r.slug)) continue;
     const verdict = r.verdict === "agree" ? "agree" : "disagree";
     let label = typeof r.label === "string" ? r.label.trim() : "";
-    if (!knownIds.has(label) && aliases.has(label.toLowerCase())) label = aliases.get(label.toLowerCase());
+    if (!knownIds.has(label) && aliases.has(aliasKey(label))) label = aliases.get(aliasKey(label));
     if (verdict === "agree") label = bySlug.get(r.slug).proposed;
     else if (!knownIds.has(label)) label = "unclear";
     seen.add(r.slug);

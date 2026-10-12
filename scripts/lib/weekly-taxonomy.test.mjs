@@ -118,7 +118,7 @@ test("applyReview drops disagreed and uncovered cases from the write set and the
 
 test("validateLabels accepts a template's zh/en title as an alias for its id instead of discarding the row", () => {
   const aliases = buildLabelAliases([{ id: "food-asmr", title: { en: "Food ASMR", zh: "美食特写与吃播 ASMR" } }]);
-  const { rows, rejected } = validateLabels([{ slug: "a", label: "美食特写与吃播 ASMR", confidence: "high" }, { slug: "b", label: "food asmr", confidence: "high" }, { slug: "c", label: "美食", confidence: "high" }], ["a", "b", "c"], known, aliases);
+  const { rows, rejected } = validateLabels([{ slug: "a", label: "美食特写与吃播 ASMR", confidence: "high" }, { slug: "b", label: "FoodASMR", confidence: "high" }, { slug: "c", label: "美食", confidence: "high" }], ["a", "b", "c"], known, aliases);
   assert.deepEqual(rows.map((r) => [r.slug, r.label]), [["a", "food-asmr"], ["b", "food-asmr"]]);
   assert.equal(rejected.length, 1, "a non-matching phrase is still rejected");
 });
