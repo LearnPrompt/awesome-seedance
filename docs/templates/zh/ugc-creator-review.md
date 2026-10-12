@@ -64,22 +64,24 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 12 条，按热度）
+## 这一类的案例（已归类 15 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="160" alt="护肤品自拍口播 UGC 广告"></a> | [护肤品自拍口播 UGC 广告](https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1) | 2.5 | 99 |
 | <a href="https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989"><img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="160" alt="Seedance 网红风十五秒生活方式短片"></a> | [Seedance 网红风十五秒生活方式短片](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989) | 2.0 | 69 |
 | <a href="https://goodcase.ai/cases/ugc-f0cd0dd33284"><img src="https://media.goodcase.ai/media/poster/ugc-f0cd0dd33284.jpg" width="160" alt="带有动画效果的 UGC 肉类广告"></a> | [带有动画效果的 UGC 肉类广告](https://goodcase.ai/cases/ugc-f0cd0dd33284) | 2.0 | 55 |
 | <a href="https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26"><img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-2ee8c62c7d26.jpg" width="160" alt="Seedance 参考图角色的墨镜耳机 UGC 短片"></a> | [Seedance 参考图角色的墨镜耳机 UGC 短片](https://goodcase.ai/cases/aiwithkhan-seedance-ai-2ee8c62c7d26) | 2.5 | 44 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-30-second-authentic-ugc-style-social-media-video-featuring-a-stylish-y-7f98cb8ca02a"><img src="https://media.goodcase.ai/cases/6f9c836263a0.jpg" width="160" alt="时尚女生分享新款日常通勤包"></a> | [时尚女生分享新款日常通勤包](https://goodcase.ai/cases/seedance-create-a-30-second-authentic-ugc-style-social-media-video-featuring-a-stylish-y-7f98cb8ca02a) | 2.5 | 44 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630"><img src="https://media.goodcase.ai/cases/5e4823b6d035.jpg" width="160" alt="粉色唇蜜开箱试色与咖啡桌展示"></a> | [粉色唇蜜开箱试色与咖啡桌展示](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630) | 2.0 | 40 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-realistic-ugc-video-of-a-young-woman-casually-showcasing-the-lumio-cam-0ef5b6b6aeb9"><img src="https://media.goodcase.ai/cases/4a567c91251a.jpg" width="160" alt="城市漫游中的LUMIO相机体验"></a> | [城市漫游中的LUMIO相机体验](https://goodcase.ai/cases/seedance-create-a-realistic-ugc-video-of-a-young-woman-casually-showcasing-the-lumio-cam-0ef5b6b6aeb9) | 2.5 | 37 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c"><img src="https://media.goodcase.ai/cases/df9bd1886b16.jpg" width="160" alt="韩国女孩的周一晨间相机分享"></a> | [韩国女孩的周一晨间相机分享](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c) | 2.5 | 35 |
 | <a href="https://goodcase.ai/cases/ugc-80d503f66caa"><img src="https://media.goodcase.ai/media/poster/ugc-80d503f66caa.jpg" width="160" alt="高端饮料 UGC 商业广告"></a> | [高端饮料 UGC 商业广告](https://goodcase.ai/cases/ugc-80d503f66caa) | 2.0 | 35 |
 | <a href="https://goodcase.ai/cases/ugc-34764467dea1"><img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="160" alt="高端热带饮品 UGC 广告"></a> | [高端热带饮品 UGC 广告](https://goodcase.ai/cases/ugc-34764467dea1) | 2.0 | 19 |
 | <a href="https://goodcase.ai/cases/ugc-f1f4b662e370"><img src="https://media.goodcase.ai/media/poster/ugc-f1f4b662e370.jpg" width="160" alt="时尚 UGC 广告"></a> | [时尚 UGC 广告](https://goodcase.ai/cases/ugc-f1f4b662e370) | 2.0 | 18 |
 | <a href="https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="160" alt="Seedance 2.5 太阳镜UGC测评口播视频"></a> | [Seedance 2.5 太阳镜UGC测评口播视频](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106) | 2.5 | 15 |
-| <a href="https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="160" alt="Seedance 2.5 咖啡机竖屏UGC广告"></a> | [Seedance 2.5 咖啡机竖屏UGC广告](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9) | 2.5 | 15 |
-| <a href="https://goodcase.ai/cases/case-b157d9c072bc"><img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="160" alt="无线耳机产品评测"></a> | [无线耳机产品评测](https://goodcase.ai/cases/case-b157d9c072bc) | 2.0 | 12 |
-| <a href="https://goodcase.ai/cases/ugc-6f13437e4b40"><img src="https://media.goodcase.ai/media/poster/ugc-6f13437e4b40.jpg" width="160" alt="高端巧克力棒 UGC 广告提示词"></a> | [高端巧克力棒 UGC 广告提示词](https://goodcase.ai/cases/ugc-6f13437e4b40) | 2.0 | 11 |
+
+其余 3 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

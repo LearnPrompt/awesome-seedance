@@ -1,10 +1,36 @@
 # Case evidence · Pets and animals as the lead
 
-15 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+19 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
-## E1 · Fox’s Self-Filmed Walk Along a Forest Stream
+## E1 · Grandma Shops the Morning Market with a Tanuki and Sparrow
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 94
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-grandma-is-out-here-for-the-shopping-with-her-pet-sparrow-d6d07e610943) · [finished media](https://media.goodcase.ai/cases/d6d6d722a55c.mp4) · [poster](https://media.goodcase.ai/cases/8162eeaeac45.jpg) · [original source](https://x.com/Just_sharon7/status/2103503970815930610)
+- Summary: Grandma is out here for the shopping with her pet sparrow. Seedance 2.5 on @Flovaai Use my referral link to get offer: https://t.co/l1lPYN3ENF Skill Used: GTA 6…
+
+```text
+Grandma is out here for the shopping with her pet sparrow.
+
+Seedance 2.5 on @Flovaai 
+
+Use my referral link to get offer: https://t.co/l1lPYN3ENF
+
+Skill Used: GTA 6–Inspired Showcase: Play My Life
+
+https://t.co/O3E30erhvg
+
+#FlovaCpp #Flovaai @Flovaai_Japan 
+
+50-SECOND VIDEO PROMPT — GTA / AAA CINEMATIC STYLE
+
+Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, punchy contrast, dynamic camera (low heroic angles, smooth tracking, brief crane and push-ins), rich environmental detail, slightly larger-than-life character presence, filmic grain, sharp fur and fabric simulation. Duration exactly 50 seconds. Natural morning light mixed with colorful market stall canopies. Busy, funny, lively tone. English subtitles at the bottom. Japanese dialogue in a warm elderly Kansai-accented female voice for the grandmother.  CAST (use these exact descriptions every time they appear): - An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) - A giant tanuki (raccoon-dog), about 6.5 feet tall standing on hind legs, thick brown-grey fur, round belly, mischievous dark-ringed eyes, wearing a slightly stained vendor apron, walking upright like a person - A tiny brown sparrow perched on the grandmother’s shoulder - A grumpy middle-aged Japanese fishmonger in a rubber apron  ---  0:00–0:07 — ESTABLISHING   Wide crane shot descending into a crowded Japanese open-air morning market. Fish stalls, vegetable crates, hanging flowers, steam, shouting vendors, bicycles, plastic bags. Camera finds an elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) walking into the market carrying an empty basket. A tiny brown sparrow is already perched on her right shoulder. She looks delighted and a little overwhelmed.  Dialogue (grandmother):   「今日は安うてええ日やわ。」   Subtitle: “Prices are good today. Dangerous for me.”  ---  0:07–0:16 — FISH STALL**   Medium tracking shot. An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) stops at a fish stall piled with ice and silver fish. The grumpy fishmonger slaps a huge fish onto the scale. The tiny sparrow hops down, pecks a piece of dried squid, and flies back to her shoulder. She notices and gently scolds it without real anger.  Dialogue (grandmother):   「あんたまた盗んでるやないの。恥ずかしいわ。」   Subtitle: “You little thief. That’s embarrassing.”  The fishmonger frowns.   Fishmonger: 「ばあさん、そんなに持って帰れんやろ。」   Subtitle: “Grandma, you can’t carry all that.”  ---  **0:16–0:28 — TANUKI ARRIVES AND BARGAINS**   Low heroic angle. The crowd parts. A giant tanuki in a vendor apron walks upright through the aisle, heavy and confident, GTA-style presence. He stops beside an elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants), looks at the fishmonger’s price, then slaps a paw on the counter.  Tanuki (deep, playful male voice):   「その値段、冗談やろ。半分でええやろ。」   Subtitle: “That price? You’re joking. Half.”  The fishmonger argues, then reluctantly nods. The giant tanuki grins. An elderly Japanese grandmother (short gray hair in a loose bun, wrinkled kind face, purple-pink floral vest over a patterned blouse, dark pants) covers her mouth, laughing.  Dialogue (grandmother):   「もう、あんたまで出てこんでもええのに。」   Su
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E2 · Fox’s Self-Filmed Walk Along a Forest Stream
 
 - Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
@@ -34,7 +60,7 @@ He stands up, waves one paw at the camera with a gentle smile, and says:
 The camera naturally lowers a little as he walks further along the path beside the stream.
 ```
 
-## E2 · A Cat's Cozy Day Filmed as a Selfie Vlog
+## E3 · A Cat's Cozy Day Filmed as a Selfie Vlog
 
 - Seedance 2.5 · creator: @ZaraIrahh · heat: 88 · stability: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg) · [original source](https://x.com/ZaraIrahh/status/2091385137133219971)
@@ -145,7 +171,7 @@ Abso
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · Cats Chasing via Red Mini Motorcycle
+## E4 · Cats Chasing via Red Mini Motorcycle
 
 - Seedance 2.0 · creator: @Just_sharon7 · heat: 81 · stability: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) · [finished media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) · [poster](https://media.goodcase.ai/cases/80df57bc40f6.jpg) · [original source](https://x.com/Just_sharon7/status/2084901309988425731)
@@ -155,7 +181,7 @@ Abso
 A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
 ```
 
-## E4 · Underwater Animal Orchestra
+## E5 · Underwater Animal Orchestra
 
 - Seedance 2.5 · creator: @thisismariaa25 · heat: 76 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
@@ -165,7 +191,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, dolphins singing opera.
 ```
 
-## E5 · Kitten Steals a Hair Tie and Pounces at the Camera
+## E6 · Kitten Steals a Hair Tie and Pounces at the Camera
 
 - Seedance 2.5 · creator: @Strength04_X · heat: 69 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
@@ -181,7 +207,7 @@ Seedance 2.5
 Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for the woman. Preserve her identity, face, hairstyle, clothing, skin texture, body proportions, and natural appearance throughout the entire clip. Exactly ONE small tabby kitten. The same kitten remains continuous throughout. No other animal, no duplicate kitten. FORMAT 30-second vertical 9:16 handheld front-camera selfie. Indoor room beside a window on a rainy day. Soft gray natural daylight through the glass. Very subtle window reflections and realistic ambient room sound. No color grading, no cinematic lighting, no beauty filter. --- 0–5 SEC — QUIET RAINY MOMENT The woman stands beside the window holding the kitten against her chest. Rain droplets are visible softly on the window behind her. She looks at the kitten and gently touches its forehead with her finger. The kitten watches her hand. She gives a quiet smile and casually says: "You're being good today, huh?" The phone remains slightly imperfect and handheld. --- 5–10 SEC — HAIR TIE CATCHES ATTENTION She reaches toward the back of her tied hair with her free hand and adjusts the hair tie. The kitten suddenly notices the small hair tie around her wrist. Its ears move forward. It stretches one paw toward it. She notices and pulls her wrist away. A small nose-laugh escapes. --- 10–15 SEC — THEFT The kitten reaches again and catches the hair tie between its paws. She reacts with surprise. The kitten pulls it toward itself. She laughs and tries to gently retrieve it. The phone shakes subtly from her laughter. She says: "Hey, that's not yours." The kitten refuses to release it. --- 15–20 SEC — PLAYFUL TUG The kitten squirms against her chest while holding the hair tie. She supports its body securely with her other hand. She gently tries to take the hair tie back. The kitten suddenly turns its head away. She laughs harder. A few strands of her hair fall loose near her cheek. The rain remains softly visible in the background. --- 20–25 SEC — KITTEN CLIMBS The kitten begins climbing toward her shoulder while still holding the hair tie. Its paws grip the fabric of her top. She gives a small surprised yelp followed by laughter. Her phone hand moves upward slightly. The camera briefly loses perfect framing and then naturally re-centers. --- 25–30 SEC — FINAL CAMERA ATTACK The kitten reaches her shoulder and then suddenly turns toward the phone. Its nose and whiskers approach the lens. She pulls her face backward while laughing. The kitten raises one paw toward the camera. She starts: "You really want—" Her sentence breaks apart into laughter. The paw reaches the near corner of the lens. The phone dips naturally. The clip ends mid-laugh. AUDIO Rain ambience through the window, fabric rustling, kitten movement, one tiny mewl, woman's natural voice, breathing, nose-laughs and genuine laughter. No background music. No subtitles. No text. No logo. No watermark. No cuts. No zoom. Exactly one kitten.
 ```
 
-## E6 · Dog Steals the Spotlight in a Mirror Selfie
+## E7 · Dog Steals the Spotlight in a Mirror Selfie
 
 - Seedance 2.5 · creator: @Strength04_X · heat: 67 · stability: 62
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) · [finished media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) · [poster](https://media.goodcase.ai/cases/c7768b152872.jpg) · [original source](https://x.com/Strength04_X/status/2097616213371478242)
@@ -199,118 +225,12 @@ REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E7 · POV: Your Kitten Vlog, but the Kitten Chooses Violence
+## E8 · Gray Cat Triggers a Chaotic Kitchen Mishap
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 59
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d) · [finished media](https://media.goodcase.ai/media/video/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-pov-you-try-to-make-a-cute-kitten-vlog-and-your-kitten-chooses-violence-d052169bcc1d.jpg) · [original source](https://x.com/Strength04_X/status/2096540586866270337)
-- Summary: POV: you try to make a cute kitten vlog and your kitten chooses violence Seedance 2.5 on @PixVerse Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@image1" as the…
-
-```text
-POV: you try to make a cute kitten vlog and your kitten chooses violence
-
-Seedance 2.5 on @PixVerse 
-
-Prompt ↓
-
-REFERENCE & SUBJECT CONSISTENCY
-
-Use "@image1" as the exact visual reference for the woman. Preserve her identity, facial features, hairstyle, body proportions, clothing, skin texture, and overall appearance consistently throughout the entire clip. Do not redesign, beautify, age, de-age, or alter her appearance.
-
-Use exactly ONE small tabby kitten throughout the entire video. The same kitten must remain physically continuous from beginning to end, with consistent fur pattern, eye color, size, whiskers, ears, paws, and body proportions. No second kitten, no other animal, no duplicate subject.
-
----
-
-FORMAT & CAMERA
-
-30-second single continuous handheld selfie video, vertical 9:16, realistic smartphone front-camera footage.
-
-The woman is holding the phone herself with one outstretched arm. The phone is the camera. Tight chest-up framing keeps both her face and the kitten visible most of the time.
-
-Plain indoor environment with soft natural daylight coming through a nearby window. No cinematic lighting, no studio look, no color grading. Natural smartphone white balance and exposure.
-
-The camera should have subtle human arm drift, tiny wrist movements, occasional handheld jitter, imperfect framing, and natural re-centering. Do not stabilize the footage excessively.
-
-No cuts, no transitions, no camera operator, no third-person angle, no zoom.
-
----
-
-0–5 SEC — QUIET START
-
-The video begins already in progress.
-
-The woman is holding the small tabby kitten gently against her chest with one hand while her other arm holds the phone at selfie distance.
-
-Her face is close to the lens and the kitten's head rests beside her chin.
-
-She looks down toward the kitten rather than directly performing for the camera. Her expression is relaxed and affectionate.
-
-She quietly murmurs to the kitten in a casual everyday voice. The kitten remains slightly restless in her hand, blinking and moving its ears.
-
-Her thumb slowly rubs the fur behind one of the kitten's ears.
-
-The camera drifts slightly downward and then naturally re-centers on both faces.
-
-Keep the movement casual and unpolished, like a genuine phone recording rather than a staged performance.
-
----
-
-5–9 SEC — FIRST REACTION
-
-The kitten suddenly shifts its body inside her grip.
-
-She notices the movement and gives a small nose-laugh while looking at it.
-
-The kitten twists its upper body and raises one front paw.
-
-It suddenly swats directly toward her chin.
-
-She reacts immediately and naturally — a sharp intake of breath, head pulling backward, eyes squeezing shut for a moment.
-
-The unexpected movement makes her burst into genuine laughter.
-
-Her shoulders shake and the phone in her outstretched hand briefly becomes slightly shaky.
-
-A few loose strands of her tied-back hair swing across her cheek.
-
-She looks back at the kitten while laughing.
-
----
-
-9–13 SEC — FIRST DIALOGUE
-
-Still laughing and catching her breath, she looks toward the kitten and then briefly toward the phone.
-
-Her laughter interrupts her breathing and makes her words slightly broken and imperfect.
-
-She says frontally, with her mouth clearly visible:
-
-"Ow— okay, okay, I get it—"
-
-The delivery should not sound rehearsed.
-
-The line is spoken through genuine laughter, with a small breath between words.
-
-The kitten gives one thin, quiet mewl while remaining against her chest.
-
-Her thumb instinctively continues rubbing the kitten's fur a
-
-[… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · From the Birth of the Universe to Humanity
-
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 54 · stability: 68
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-documentary-showing-the-evolu-c0bf04a67f0e) · [finished media](https://media.goodcase.ai/cases/605e2885b55c.mp4) · [poster](https://media.goodcase.ai/cases/abd3f250edd5.jpg) · [original source](https://x.com/RuzainaMeer/status/2096837494000308685)
-- Summary: 13.8 billion years of evolution, from the birth of the universe to modern humanity. A cinematic journey through time, created with Seedance 2.5. Full Prompt: Cr…
+- Seedance 2.0 · creator: @Lianaalane · heat: 63
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d) · [finished media](https://media.goodcase.ai/cases/48173b9e2384.mp4) · [poster](https://media.goodcase.ai/cases/6906113b3cd0.jpg) · [original source](https://x.com/Lianaalane/status/2104431076089414068)
+- Summary: A tiny paw started the biggest kitchen disaster. Sometimes the cutest troublemakers make the funniest memories. Created on seedance 2.0 Prompt: Created a video,…
 
 ```text
-Create a 30-second ultra-photorealistic cinematic documentary showing the evolution of the universe and life on Earth in one seamless journey.
-
-Begin with the Big Bang and the expansion of space, then show matter forming, the first stars, galaxies, supernovae, and the birth of the Solar System and Earth. Transition to volcanic early Earth, cooling oceans, primitive single-celled life, complex marine organisms, life moving onto land, prehistoric forests, dinosaurs, early mammals, primates, hominins, and finally modern Homo sapiens.
-
-End with a modern human looking toward the horizon as the camera rapidly pulls back from Earth to the Moon, Solar System, and Milky Way, connecting humanity to the universe.
-
-Use continuous cinematic camera movement, seamless transitions through time and scale, realistic physics, scientifically inspired environments, natural motion, detailed animal anatomy, realistic lighting, HDR, and premium documentary cinematography.
-
-16:9, ultra-realistic, photorealistic, emotionally powerful, scientifically grounded. No text, labels, narration, fantasy, cyberpunk, neon, or futuristic elements.
+Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.
 ```

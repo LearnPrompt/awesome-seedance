@@ -65,7 +65,7 @@ Derive beat anchors from BPM, pin every cut, hair flip and formation change to a
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (16 filed, by heat)
+## Cases in this category (19 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
@@ -75,14 +75,14 @@ Derive beat anchors from BPM, pin every cut, hair flip and formation change to a
 | <a href="https://goodcase.ai/cases/vibrant-k-pop-stage-performance"><img src="https://media.goodcase.ai/media/poster/vibrant-k-pop-stage-performance.jpg" width="160" alt="Vibrant K-pop Stage Performance"></a> | [Vibrant K-pop Stage Performance](https://goodcase.ai/cases/vibrant-k-pop-stage-performance) | 2.0 | 80 |
 | <a href="https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd"><img src="https://media.goodcase.ai/cases/506d85ad9946.jpg" width="160" alt="Idol Stage Show Under the Spotlight"></a> | [Idol Stage Show Under the Spotlight](https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd) | 2.5 | 65 |
 | <a href="https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6"><img src="https://media.goodcase.ai/media/poster/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6.jpg" width="160" alt="Cinematic K-Pop Performance on a Futuristic Dark Stage"></a> | [Cinematic K-Pop Performance on a Futuristic Dark Stage](https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6) | 2.0 | 62 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea"><img src="https://media.goodcase.ai/cases/bb9a4f80c61a.jpg" width="160" alt="Korean Rapper Performing Across Cinematic Stages"></a> | [Korean Rapper Performing Across Cinematic Stages](https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea) | 2.5 | 57 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-15-second-cinematic-16-9-ultra-realistic-live-action-tokyo-street-style-dance-v-2f821bb72e06"><img src="https://media.goodcase.ai/cases/f2027a8ab748.jpg" width="160" alt="Dance Duo Across a Sunset Studio, Neon Alley and Tokyo Rooftop"></a> | [Dance Duo Across a Sunset Studio, Neon Alley and Tokyo Rooftop](https://goodcase.ai/cases/seedance-2-5-15-second-cinematic-16-9-ultra-realistic-live-action-tokyo-street-style-dance-v-2f821bb72e06) | 2.5 | 52 |
 | <a href="https://goodcase.ai/cases/seedance-get-ready-for-a-pure-adrenaline-rush-a8a9f11d2ea3"><img src="https://media.goodcase.ai/cases/8f97dab045b0.jpg" width="160" alt="White-Suited Gentleman’s Neon Beat Swagger"></a> | [White-Suited Gentleman’s Neon Beat Swagger](https://goodcase.ai/cases/seedance-get-ready-for-a-pure-adrenaline-rush-a8a9f11d2ea3) | 2.5 | 50 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe"><img src="https://media.goodcase.ai/cases/ab8461f87268.jpg" width="160" alt="Female Singer Walking from Neon Rain into Dawn"></a> | [Female Singer Walking from Neon Rain into Dawn](https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe) | 2.0 | 40 |
+| <a href="https://goodcase.ai/cases/seedance-seedance-2-5-on-de41ac4699ab"><img src="https://media.goodcase.ai/cases/ca470df1ef11.jpg" width="160" alt="Dance Performance in a Korean Schoolyard"></a> | [Dance Performance in a Korean Schoolyard](https://goodcase.ai/cases/seedance-seedance-2-5-on-de41ac4699ab) | 2.5 | 31 |
 | <a href="https://goodcase.ai/cases/iphone-shot-street-dance-music-video"><img src="https://media.goodcase.ai/cases/16039c423213.jpg" width="160" alt="iPhone-shot Street Dance Music Video"></a> | [iPhone-shot Street Dance Music Video](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | 2.0 | 21 |
-| <a href="https://goodcase.ai/cases/case-887d0484c2ce"><img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="160" alt="Coca-Cola Fashion Transition Ad"></a> | [Coca-Cola Fashion Transition Ad](https://goodcase.ai/cases/case-887d0484c2ce) | 2.0 | 17 |
-| <a href="https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="160" alt="Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs"></a> | [Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8) | 2.5 | 15 |
-| <a href="https://goodcase.ai/cases/case-24775a8dc979"><img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="160" alt="Music Video Choreography and Identity Setup"></a> | [Music Video Choreography and Identity Setup](https://goodcase.ai/cases/case-24775a8dc979) | 2.0 | 6 |
 
-The other 4 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
+The other 7 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
 
 ---
 

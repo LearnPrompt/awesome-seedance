@@ -1,6 +1,6 @@
 # Case evidence · Cinematic travel vlog montage
 
-21 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+31 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -138,7 +138,30 @@ Use realistic handheld camera movement, subtle autofocus, natural exposure chang
 The goal is simple: make it feel like an actual travel vlog someone happened to capture during a real day in Kyoto, not an AI-generated commercial.
 ```
 
-## E5 · A Korean Woman’s 30-Second Taiwan Travel Vlog
+## E5 · A Korean Woman's Winter Journey Through England
+
+- Seedance 2.0 · creator: @Harry_thingss · heat: 76
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-second-ultra-realistic-4k-cinematic-winter-travel-vlog-set-in-england-6e26bca27e87) · [finished media](https://media.goodcase.ai/cases/72a97331532a.mp4) · [poster](https://media.goodcase.ai/cases/fad9a7d79ccd.jpg) · [original source](https://x.com/Harry_thingss/status/2102993120942346594)
+- Summary: What if your imagination looked like a blockbuster? ❄️ Winter mornings in England hit different ☕🇬🇧 From misty cobblestone streets to cozy Christmas markets —…
+
+```text
+30-second ultra-realistic 4K cinematic winter travel vlog set in England. Use the Korean woman from image1 as the exact character reference in every shot — face, hairstyle, skin tone, body fully consistent, no drift/distortion. Same outfit throughout: charcoal puffer jacket, knitted beanie, scarf, gloves, dark trousers, waterproof boots.
+0:00–0:02: Drone pull-back over misty overcast English city — grey slate rooftops, red brick chimneys, red phone booth, damp cobbled streets, drizzle-haze light.
+0:02–0:05: Handheld selfie walk past Victorian shopfronts with bay windows and pub signs; breath fog, cold grey light, whip pan.
+0:05–0:08: Small English Christmas market — wooden stalls, mulled cider, woolly scarves, string lights; rack focus to her face picking up an item, warm grade.
+0:08–0:10: Macro of gloved hand holding item, mist droplets, soft bokeh. Match cut.
+0:10–0:14: Side tracking shot beside a grand stone cathedral/university building, wet reflective cobblestones, speed ramp 60%→100%.
+0:14–0:16: Dutch tilt, tilt-up to a Gothic spire against grey clouds; she looks up in awe.
+0:16–0:19: Slow-motion wide shot along a misty riverside path, light fog, cinematic letterbox.
+0:19–0:22: Selfie close-up holding steaming tea, warm satisfied expression.
+0:22–0:25: Fast montage: stone archway walk, photographing a clock tower, crossing a stone bridge with thumbs-up. Rapid cuts, motion blur.
+0:25–0:28: Golden-hour cloud break over the skyline, slow push-in toward her silhouette.
+0:28–0:29: She faces camera, smiles, waves, subtle lens flare.
+0:29–0:30: Cut to black. Centered white text fades in: "Wizstar AI". Music fades out.
+Style: Photorealistic, authentic English winter mood (overcast, misty, not heavy snow), natural cinematic lighting, accurate hands, consistent identity/outfit, no face changes, distortion, cartoon or CGI — real cinema-quality footage.
+```
+
+## E6 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 75 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
@@ -171,7 +194,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E6 · Mediterranean Hillside Villa Interior and Aerial Tour
+## E7 · Mediterranean Hillside Villa Interior and Aerial Tour
 
 - Seedance 2.0 · creator: @noorlewisx · heat: 72 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
@@ -183,7 +206,7 @@ Soft natural sunlight filtering through large multi-pane windows, golden hour an
 Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.
 ```
 
-## E7 · Helicopter Night Tour Over Tokyo
+## E8 · Helicopter Night Tour Over Tokyo
 
 - Seedance 2.5 · creator: @noorlewisx · heat: 69 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg) · [original source](https://x.com/noorlewisx/status/2093567063357088065)
@@ -204,14 +227,4 @@ Scene 10: She is now standing in crowded Shibuya Crossing at night, neon signs e
 Style: realistic handheld selfie + aerial footage, night city lights, slight wind, natural skin, warm street lighting mixed with cool night sky. Smooth cuts, 30-second duration, vertical or 16:9 cinematic look. Photorealistic, no text, no watermark, no logo anywhere.
 
 #polloai
-```
-
-## E8 · Seedance 2.5 Cinematic Follow-Cam Mountain Forest Hike
-
-- Seedance 2.5 · creator: @nawalsehar · heat: 67 · stability: 84
-- Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-97aa872cb79d) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-97aa872cb79d.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg) · [original source](https://x.com/nawalsehar/status/2089219802598658291)
-- Summary: Every trail has a reward. Seedance 2.5 makes every step feel naturally immersive. Created with Seedance 2.5. Prompt: A y
-
-```text
-A young traveler hikes through a lush mountain forest, crosses a wooden bridge over a flowing stream, and reaches a stunning waterfall hidden among moss-covered rocks. Ultra-realistic travel documentary, authentic hiking movement, realistic environmental physics, natural English lip-sync, bright daytime lighting, immersive forest ambience, and seamless story continuity throughout.
 ```

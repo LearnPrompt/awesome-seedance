@@ -1,6 +1,6 @@
 # Case evidence · Sports and extreme stunts
 
-11 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+12 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -156,7 +156,46 @@ She then hits a large snow jump, launching into a high aerial with a stylish mid
 High-energy, professional ski-film aesthetic, smooth camera movement, crisp details, vibrant colors, 15-second duration.
 ```
 
-## E3 · Bicycle Courier Racing Through the City
+## E3 · Blonde Woman Scores a Spectacular Goal in High Heels
+
+- Seedance 2.0 · creator: @Alexneyef · heat: 72
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c) · [finished media](https://media.goodcase.ai/cases/708b5580c270.mp4) · [poster](https://media.goodcase.ai/cases/0f6e8055f9d7.jpg) · [original source](https://x.com/Alexneyef/status/2099607916789563863)
+- Summary: OMG, what a strike 😭 Nobody expected her to pull THAT off. This is AI. And the crazy part is, you don’t need advanced skills, a pile of references, or some com…
+
+```text
+⬇️
+
+ultra-realistic viral smartphone video in one continuous handheld shot.
+
+Sunny public park beside a real soccer field in warm late-afternoon light. Visible grass, trees, sidewalk, full-size goal, and a few guys casually playing soccer in the background.
+
+A stunning glamorous blonde woman in her 20s walks alone along the sidewalk. She has long voluminous blonde hair, a beautiful feminine face, a narrow waist, large full bust, curvy hips, and long toned legs. She wears a fitted top, a very short stylish skirt, elegant high heels, and a small shoulder bag. She is calmly looking at her phone while walking.
+
+Camera: normal handheld phone footage by another person, natural slight shake, mild motion blur, small autofocus/exposure shifts, realistic imperfect framing, no cinematic moves.
+
+00:00–00:04  
+She walks beside the field, focused on her phone. In the background, one guy accidentally kicks the ball too hard and it rolls/bounces out toward her. She does not notice.
+
+00:04–00:06  
+The ball lightly bumps into her lower leg/ankle and stops near her. She looks down, slightly surprised. One guy calls out naturally: “Hey! Can you kick it back?”
+
+00:06–00:10  
+She turns slightly toward the field and casually kicks the same ball back with her right foot while still wearing high heels. The kick is unexpectedly clean, strong, and skillful. The camera follows the ball.
+
+00:10–00:13  
+The ball flies in a nice arc and goes straight into the top corner of the goal. Clean spectacular goal. The guys react with surprise and excitement. One shouts: “Thanks! Have a good day!”
+
+00:13–00:15  
+The camera returns to her. She barely reacts, gives a tiny casual glance, then keeps walking away still looking at her phone like nothing special happened.
+
+Important: same ball only, it must touch her leg first, no cuts, no duplicated ball, no body distortions, she stays in high heels, realistic reactions, no cartoon comedy.
+
+Audio: natural park ambience, distant voices, ball impact, footsteps
+
+#AIVideo
+```
+
+## E4 · Bicycle Courier Racing Through the City
 
 - Seedance 2.5 · creator: @Elvorya · heat: 65 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) · [finished media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) · [poster](https://media.goodcase.ai/cases/d9e8d052ad57.jpg) · [original source](https://x.com/Elvorya/status/2102622012351131832)
@@ -176,7 +215,7 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E4 · Female Rider Wins Mountain Bike Final by a Wheel
+## E5 · Female Rider Wins Mountain Bike Final by a Wheel
 
 - Seedance 2.5 · creator: @nawalsehar · heat: 60 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
@@ -196,7 +235,7 @@ Bright natural daylight, realistic shadows, detailed mud and gravel textures, ci
 No CGI appearance, no extra racers, no spectators blocking the riders, no impossible jumps, no teleportation, no floating bikes, no unrealistic physics, no distorted anatomy, no changing riders or equipment, no excessive camera shake, no text, no logos, no watermark.
 ```
 
-## E5 · Seedance Smooth Snowboard Run Through a Terrain Park
+## E6 · Seedance Smooth Snowboard Run Through a Terrain Park
 
 - Seedance 2.5 · creator: @nawalsehar · heat: 58 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
@@ -206,7 +245,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 A young snowboarder drops into an alpine terrain park, carves smoothly down the slope, performs a controlled 180° jump and freestyle butter, then finishes with a clean stop. Ultra-realistic winter sports documentary, physically accurate snowboard physics, authentic human movement, natural English lip-sync, bright winter daylight, immersive mountain ambience, and seamless story continuity throughout.
 ```
 
-## E6 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
+## E7 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
 - Seedance 2.0 · creator: @aiwithaly · heat: 52 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
@@ -222,7 +261,7 @@ Prompt
 Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
 ```
 
-## E7 · Over-Water Human Wall Crab Squat Challenge
+## E8 · Over-Water Human Wall Crab Squat Challenge
 
 - Seedance 2.5 · creator: @johnAGI168 · heat: 50
 - Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36) · [finished media](https://media.goodcase.ai/cases/e77dd4feeff5.mp4) · [poster](https://media.goodcase.ai/cases/41f55c86bd5d.jpg) · [original source](https://x.com/johnAGI168/status/2092536240436363328)
@@ -400,33 +439,4 @@ SEEDANCE 2.5｜水上人形墙挑战
 保
 
 [… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · Water Obstacle Contestant Falls Just Before Victory
-
-- Seedance 2.5 · creator: @Inshrah_ali_ · heat: 37 · stability: 84
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15-second-ultra-realistic-live-water-game-show-scene-ad357b3bb052) · [finished media](https://media.goodcase.ai/cases/050883318d18.mp4) · [poster](https://media.goodcase.ai/cases/c24bcd06701e.jpg) · [original source](https://x.com/Inshrah_ali_/status/2098621065039647016)
-- Summary: She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
-
-```text
-15-Second Ultra-Realistic Live Water Game Show Scene
-
-Create a high-energy live television water game show, filmed like a premium international sports-entertainment broadcast. A confident young female contestant competes on a huge outdoor obstacle course above a massive swimming pool. Large audience stands, other contestants, cheering, dramatic stadium lighting, multiple broadcast cameras, realistic water physics, and authentic live-TV atmosphere.
-
-0–3 sec — Game 1:
-She races across floating platforms, jumping quickly from one platform to another while the audience and contestants cheer. She nearly slips but regains balance and reaches the checkpoint.
-
-3–6 sec — Game 2:
-She immediately faces a rotating obstacle and carefully times her movement, ducking under the spinning bar and climbing over a wet ramp. She lands safely, visibly determined.
-
-6–9 sec — Game 3:
-She tackles a narrow balance beam above the pool while moving toward the final platform. The camera cuts between her focused face, nervous contestants watching, and the cheering crowd.
-
-9–12 sec — Game 4 / Near Victory:
-She is only one step away from the finish platform, reaching toward the victory marker. At the last moment, the final obstacle suddenly moves, causing her to lose balance and fall dramatically into the pool. Capture a realistic splash in slow motion as the crowd reacts.
-
-12–15 sec — Emotional Ending:
-She resurfaces in the pool, clearly frustrated and disappointed. The other contestants look genuinely sad and shocked for her, some shaking their heads sympathetically. She angrily slaps the surface of the water several times, creating dramatic splashes, then looks toward the finish platform with determination. End on a close-up of her frustrated expression as the live-TV camera pulls back.
-
-Visual style: photorealistic, authentic live game-show broadcast, realistic human movements, natural facial expressions, physically accurate water and obstacle reactions, dynamic handheld and crane-camera shots, quick professional TV editing, crowd reactions, dramatic but realistic lighting, 4K HDR, no CGI-looking characters, no artificial/fake appearance, no text or subtitles, no watermark.
 ```

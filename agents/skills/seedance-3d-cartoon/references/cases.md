@@ -1,10 +1,98 @@
 # Case evidence · 3D cartoon character short
 
-29 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+50 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
-## E1 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
+## E1 · Toddler Opens Doors to Learn Letters and Words
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 98
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-73b10f69e32a) · [finished media](https://media.goodcase.ai/cases/a5c7b401dc7a.mp4) · [poster](https://media.goodcase.ai/cases/88ca30c0568f.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2104764823091490851)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style.
+
+Main character:
+A cute adorable toddler boy, around 2 years old, with chubby cheeks, big expressive eyes, short light-brown hair, wearing a bright blue T-shirt with a playful “LOL Kids” style graphic and matching diaper/shorts. Keep the child’s appearance consistent throughout the entire video.
+
+Environment:
+A clean, bright indoor children's learning room with a glossy white floor, colorful geometric shapes scattered around the background, playful decorations, and a series of colorful doors. Use vibrant red, blue, yellow and green doors. Soft studio lighting, cheerful atmosphere, polished 3D cartoon animation, smooth reflections, high-quality Pixar-like children's animation aesthetic.
+
+VIDEO SEQUENCE:
+
+Scene 1 — A for Apple:
+The toddler stands in front of a bright red door with a large bold yellow letter “A” on it. He reaches toward the door handle and opens the door with excitement. Behind the door is a colorful apple-themed environment with red apples. Show the text “A - APPLE” at the top. The child looks surprised and happy.
+
+Scene 2 — B for Banana:
+Cut to a bright blue door with a large yellow “B”. The toddler walks toward it, reaches for the handle and opens the door. Reveal a playful collection of bright yellow bananas behind the door. Display “B - BANANA” at the top.
+
+Scene 3 — C for Cat:
+Show a yellow/orange door with a large red “C”. The toddler opens the door and a cute friendly cat appears behind it. The child reacts with excitement and curiosity. Display “C - CAT”.
+
+Scene 4 — D for Dog:
+Show a red door with a large yellow “D”. The toddler opens it and reveal a cute friendly brown-and-white puppy standing behind the door. The puppy happily looks toward the child. Display “D - DOG”.
+
+Scene 5 — E for Elephant:
+Show a blue door with a large yellow “E”. The toddler opens the door and a cute baby elephant appears. The elephant playfully raises its trunk while the child reacts happily. Display “E - ELEPHANT”.
+
+Scene 6 — F for Fish:
+Transition to a bright underwater-themed aquarium area. Show colorful orange fish swimming inside a large glass aquarium. The toddler stands beside it and looks excitedly at the fish. Display “F - FISH”.
+
+Scene 7 — G for Grapes:
+Show a green door with a large yellow “G”. The toddler opens the door and discovers a huge bunch of shiny purple grapes behind it. He points toward the grapes with excitement. Display “G - GRAPES”.
+
+Scene 8 — I for Ice:
+Show a red door with a large yellow “I”. The toddler stands beside the closed door, reaches for the handle and opens it. Reveal a playful icy environment. Display “I - ICE”.
+
+Scene 9 — J for Jelly:
+Show a blue door with a large yellow “J”. The toddler opens the door and reveal colorful jelly/jelly dessert behind it. The child points toward it happily. Display “J - JELLY”.
+
+Scene 10 — K for Kite:
+Show a red door with a large yellow “K”. The toddler opens the door and reveal a colorful kite-themed scene. Display “K - KITE”.
+
+Scene 11 — L for Lion:
+Show a green door with a large yellow “L”. The toddler opens the door and a cute friendly cartoon lion appears behind it. The lion looks gentle and playful, not scary. The toddler reacts with excitement. Display “L - LION”.
+
+Final scene:
+Show a cute fluffy hamster waving goodbye to the camera in a bright pastel background. Add cheerful text:
+“Bye-Bye 👋”
+and a colorful
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E2 · Toddler Copies Dad’s Shaving, Foam Beard Makes Parents Laugh
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 96
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa) · [finished media](https://media.goodcase.ai/cases/8713505d38ad.mp4) · [poster](https://media.goodcase.ai/cases/e7b938f20d48.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2106560621932384657)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format. Scene: A cute little toddl…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format.
+
+Scene: A cute little toddler boy is sitting on the bathroom floor in front of a dark blue liquid soap dispenser. His father is standing behind him in front of a large bathroom mirror, shaving his own face with a razor.
+
+The toddler curiously watches his father and decides to imitate him. He presses the soap dispenser and playfully covers his eyebrows, cheeks, upper lip, and chin with thick white shaving foam, creating a funny oversized Santa-style beard and eyebrows.
+
+The father notices what the child has done and looks surprised and amused. The toddler proudly stands up, grabs a wooden floor broom, and walks toward the bathroom doorway as if he is going to help clean.
+
+The mother appears at the doorway holding folded white towels. She looks at the toddler, realizes what happened, and starts laughing. The father also looks at his little son and bursts into laughter.
+
+End with the toddler standing proudly between his laughing parents, still covered in shaving foam, smiling innocently at the camera.
+
+Style: high-quality 3D animated family comedy, adorable toddler expressions, realistic body movement, detailed facial animation, warm bathroom lighting, cinematic depth of field, soft shadows, realistic textures, natural camera movement, expressive reactions, wholesome family humor.
+
+Keep the characters consistent throughout the entire video. Preserve the toddler's hairstyle, clothing, facial features, and proportions. Smooth motion, believable hand movements, natural eye direction, cinematic composition, highly detailed animation, no text, no subtitles, no watermark.
+```
+
+## E3 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 89 · stability: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
@@ -21,7 +109,97 @@ The pink rabbit applies lipstick while making funny, confident expressions. She 
 Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
 ```
 
-## E2 · Seedance Two-Character 3D Cartoon: Little Butterfly
+## E4 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25) · [finished media](https://media.goodcase.ai/cases/cd474162c3c0.mp4) · [poster](https://media.goodcase.ai/cases/9f5595620b50.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2106347953711661482)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
+
+Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
+
+Action Sequence:
+
+The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
+
+As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
+
+The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
+
+Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
+
+Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
+
+Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
+
+Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
+
+Duration: 20 seconds.
+
+Aspect Ratio: 16:9.
+
+Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
+```
+
+## E5 · A Little Girl Learns Fruits and Their English Names at Preschool
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 85
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041) · [finished media](https://media.goodcase.ai/cases/5a31f9968740.mp4) · [poster](https://media.goodcase.ai/cases/537cb34decad.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2108381024417993043)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling brown eyes, rosy cheeks, soft brown hair, and a white colorful kids' T-shirt sits at a small table in a beautiful preschool classroom. The classroom features pastel-colored walls, rainbow decorations, clouds, stars, colorful toys, pencils, and soft natural sunlight coming through the window.
+
+Scene 1 – Banana 🍌: A hand gently presents a fresh yellow banana to the baby. She looks at it with curiosity and smiles happily. Display the word “BANANA” in large, colorful, playful 3D letters at the top of the screen, with a banana emoji.
+
+Scene 2 – Apple 🍎: The hand presents a shiny red apple. The baby opens her mouth in excitement and reaches toward the fruit. Display “APPLE” in bright, multicolored 3D letters.
+
+Scene 3 – Orange 🍊: A fresh orange is presented. The baby makes a cute surprised expression with her lips forming an O. Display “ORANGE” in bold, colorful letters.
+
+Scene 4 – Grapes 🍇: Show a bunch of fresh purple grapes on the table. The baby looks down at the grapes and laughs joyfully. Display “GRAPES” in large purple 3D letters.
+
+Scene 5 – Watermelon 🍉: A hand presents a juicy red watermelon slice with black seeds and green rind. The baby smiles excitedly and points toward it. Display “WATERMELON” in bright, playful letters.
+
+Scene 6 – Mango 🥭: Present a ripe golden-yellow mango. The baby opens her mouth with excitement and smiles at the fruit. Display “MANGO” in colorful 3D letters.
+
+Scene 7 – Strawberry 🍓: Show a fresh, bright red strawberry with green leaves. The baby raises her finger happily and smiles. Display “STRAWBERRY” in large, attractive letters.
+
+Scene 8 – Pineapple 🍍: Present a beautiful golden pineapple with green spiky leaves. The baby claps her hands with delight. Display “PINEAPPLE” in colorful 3D letters.
+
+Final Scene: The baby looks directly at the camera, smiles warmly, and gives a cute thumbs-up gesture.
+
+🎨 Visual Style & Animation
+
+Ultra-cute, high-quality 3D animation with a Pixar-inspired aesthetic.
+
+Soft, realistic lighting and vibrant pastel colors.
+
+Adorable facial expressions, natural blinking, and smooth hand movements.
+
+Keep the same baby character, outfit, classroom, and camera angle throughout.
+
+Each fruit must be clearly visible and recognizable.
+
+Display each fruit's English name in large, bold, colorful 3D letters at the top.
+
+Gentle camera movements, smooth transitions, and cheerful children's background music.
+
+Add a friendly female voice pronouncing each fruit's English name clearly.
+
+Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
+
+No scary elements, no distorted faces, no extra fingers, and no character changes.
+```
+
+## E6 · Seedance Two-Character 3D Cartoon: Little Butterfly
 
 - Seedance 2.0 · creator: @ayzalnooor24521 · heat: 84 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg) · [original source](https://x.com/ayzalnooor24521/status/2089559741718548578)
@@ -31,295 +209,84 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 Create a cute cinematic 14-second 3D cartoon using the two reference characters, keeping their faces, hairstyles, clothes and appearance consistent. A young woman in a pink outfit walks through a sunny green park with a cute blonde little boy in a dinosaur T-shirt. The boy notices a colorful butterfly, points excitedly, and they happily follow it through the flowers. The boy picks a small flower and gives it to the woman, and she smiles and gently hugs him. Use smooth expressive animation, soft cinematic lighting, vibrant colors, detailed park scenery, natural camera movement and a warm family-friendly atmosphere. No character changes, face distortion, extra characters, outfit changes, flickering, deformed hands, text or watermark. 16:9 vertical, high-quality cinematic 3D animation.
 ```
 
-## E3 · The Tiny Frog Chef at a Moonlit Pond Restaurant
+## E7 · A Ketchup Mix-Up at an Italian Restaurant
 
-- Seedance 2.5 · creator: @Caden_Flux · heat: 80 · stability: 83
-- Evidence: [GoodCase](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f) · [finished media](https://media.goodcase.ai/media/video/caden-flux-seedance-ai-473fedbbc75f.mp4) · [poster](https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-473fedbbc75f.jpg) · [original source](https://x.com/Caden_Flux/status/2091396961329131999)
-- Summary: Tiny chef, huge ambitions 🐸👨‍🍳 Making gourmet magic, one tiny dish at a time. Created with Seedance 2.5 on @FishCreat
+- Seedance 2.5 · creator: @Elvorya · heat: 82
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-high-quality-cinematic-3d-animated-restaurant-sequence-with-92b216cb0d21) · [finished media](https://media.goodcase.ai/cases/3120a05c7986.mp4) · [poster](https://media.goodcase.ai/cases/620edbf4016f.jpg) · [original source](https://x.com/Elvorya/status/2106974836887318797)
+- Summary: A little pasta, a lot of chaos 😂🍝 Created with seedance 2.5 Prompt: Create a 15-second high-quality cinematic 3D animated restaurant sequence with expressive …
 
 ```text
-The Tiny Frog Michelin Chef — 30-Second Animated Short
+Create a 15-second high-quality cinematic 3D animated restaurant sequence with expressive stylized characters, warm lighting, detailed environments, smooth character animation, natural comedic reactions, and consistent character appearance throughout.
 
-Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
+Begin with a wide establishing shot inside a cozy Italian restaurant filled with wooden tables, red-and-white checkered tablecloths, framed food artwork, warm pendant lights, brick arches, and customers enjoying their meals → reveal a young man with messy brown hair sitting at a table with a young brunette woman, both waiting for their food while the busy restaurant continues around them → transition into a close-up as the young man gives an enthusiastic thumbs-up while a red ketchup bottle is squeezed dramatically over a plate of spaghetti, creating a playful food moment → cut to the chef in his white chef uniform and tall chef hat standing in the kitchen, reacting with a concerned and confused expression while holding a wooden spoon → transition to a medium shot of a waiter carrying plates through the restaurant as several customers suddenly look toward the commotion with surprised expressions → cut back to the young couple at their table as the chef approaches them holding a ketchup bottle, gesturing animatedly and trying to explain something → show the chef and the young man exchanging confused but humorous expressions while the woman watches curiously → transition into a dramatic close-up of the chef carefully presenting a beautifully plated spaghetti dish topped with tomato sauce, grated parmesan, and fresh basil → cut to an extreme close-up of a fork lifting a large portion of spaghetti, long noodles stretching upward with rich tomato sauce and steam rising from the freshly prepared food → transition back to the table as the young man and woman happily react while the chef proudly stands behind the dish → final shot becomes a warm cinematic wide shot of the restaurant, with the chef smiling proudly between the young couple as they enjoy their spaghetti, surrounding customers laughing and smiling, warm golden restaurant lighting creating a cozy happy ending.
 
-The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
-
-MAIN CHARACTER
-
-A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
-
-He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
-
-Despite being tiny and adorable, he behaves like an extremely serious professional chef.
-
-His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
-
-Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
-
-0–5 SEC — THE RESTAURANT
-
-Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
-
-Fireflies glow like miniature chandeliers.
-
-Lily pads become elegant dining tables.
-
-Tiny candles illuminate the water.
-
-The frog chef stands inside his miniature outdoor kitchen.
-
-He adjusts his chef hat with complete seriousness.
-
-He looks directly at the dish he is about to prepare.
-
-Dramatic cinematic push-in toward his determined face.
-
-5–10 SEC — THE PREPARATION
-
-Rapid cinematic cooking montage.
-
-The tiny frog dramatically chops miniature vegetables.
-
-He slices mushrooms with incredible precision.
-
-He tosses herbs into a tiny copper pan.
-
-Butter melts.
-
-Steam rises.
-
-He tastes the sauce with a tiny spoon.
-
-His eyes narrow.
-
-He adds exactly one more tiny pinch of seasoning.
-
-He tastes it again.
-
-His expression finally shows approval.
-
-Use exaggerated but believable animated physical comedy.
-
-10–17 SEC — THE MASTERPIECE
-
-The frog chef begins assembling his signature dish.
-
-He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
-
-He uses tweezers to position a single delicate herb.
-
-He steps back.
-
-Something looks wrong.
-
-His eyes widen.
-
-He rushes back to the plate.
-
-He moves one tiny vegetable approximately one millimeter.
-
-He steps back again.
-
-Perfect.
-
-His face lights up with pride.
-
-17–22 SEC — THE BIG PRESENTATION
-
-The frog dramatically carries the tiny plate across a lily-pad dining area.
-
-Several adorable woodland animals sit at tiny tables watching him.
-
-A rabbit.
-
-A hedgehog.
-
-A duckling.
-
-A small turtle.
-
-They all stare at the dish with exaggerated anticipation.
-
-The frog carefully places the plate in the center.
-
-Everyone leans forward.
-
-22–27 SEC — THE TASTE
-
-The animals take one bite.
-
-Silence.
-
-Their eyes suddenly become enormous.
-
-The rabbit gasps.
-
-The hedgehog's ears shoot upward.
-
-The duckling freezes in amazement.
-
-The turtle slowly raises both tiny flippers.
-
-Then everyone starts happily celebrating.
-
-The frog chef stands completely still, trying desperately to maintain his serious professional expression.
-
-A tiny smile slowly appears.
-
-27–30 SEC — THE PAYOFF
-
-Suddenly, the frog's miniature restaurant becomes completely chaotic.
-
-The animals cheer.
-
-Fireflies swirl around the restaurant like sparkling lights.
-
-The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
-
-Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
-
-Final shot:
-
-The tiny frog che
-
-[… truncated, full prompt on the goodcase.ai page]
+Style: polished cinematic 3D animation, expressive facial animation, charming family-friendly comedy, detailed character models, realistic food textures, warm Italian restaurant atmosphere, soft depth of field, smooth camera movement, cinematic composition, natural motion, high-quality animated-film rendering, consistent characters and environment throughout, no flickering, no character deformation, no identity drift, no text, no watermark.
 ```
 
-## E4 · Adorable Bunnies Kiss and Hug on a Cozy Sofa
+## E8 · Eight Cute Animals and Their English Names in a Storybook Meadow
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 77 · stability: 89
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900) · [finished media](https://media.goodcase.ai/cases/5a9d60943e0f.mp4) · [poster](https://media.goodcase.ai/cases/ae82336c097b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by si…
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 82
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-91d794271aa6) · [finished media](https://media.goodcase.ai/cases/05a1d97b6864.mp4) · [poster](https://media.goodcase.ai/cases/f8ef714634dd.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2107293811714191628)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation s…
 
 ```text
 Made with seedance 2.5
 
 Prompt 👇 
-Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
+Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation style.
 
-CHARACTERS:
-A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
-A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
-Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
+SCENE & BACKGROUND:
+A beautiful cheerful meadow in a magical children's storybook world. Lush green grass, colorful wildflowers in the foreground, rounded green trees, a few pink and orange trees, distant rolling hills and mountains, bright blue sky with fluffy white clouds. Warm sunny daylight, soft shadows, vibrant colors, clean polished 3D rendering.
 
-SCENE & ACTION:
-Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
-
-The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
-
-Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
-
-End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
-
-VISUAL STYLE:
-Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
+STYLE:
+Cute premium 3D animated children's content, friendly and adorable animal designs, large expressive eyes, soft rounded shapes, colorful cinematic lighting, playful educational atmosphere, high detail but simple enough for young children.
 
 CAMERA:
-Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
+Vertical composition, mostly static front-facing camera at children's eye level. Medium/full-body framing of each animal. Smooth subtle camera movement only. Keep the environment consistent throughout the video.
 
-LIGHTING & ATMOSPHERE:
-Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
+SEQUENCE:
+Start with an empty beautiful meadow for a moment.
 
-MOTION:
-Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
+Then introduce animals one by one, each appearing clearly in the center of the frame:
 
-MOOD:
-Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
+1. TIGER — a cute orange tiger with black stripes, big expressive eyes and a friendly smile.
+Display the word "TIGER" above the animal in large colorful playful children's typography.
 
-HIGH QUALITY:
-Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.
-```
+2. ELEPHANT — a cute friendly gray elephant with large ears, short trunk and adorable expressive eyes.
+Display "ELEPHANT" above it.
 
-## E5 · Playful Cream Bunny Winking Under a Blue Sky
+3. RHINOCEROS — a cute gray baby rhinoceros with a small horn, big eyes and friendly expression.
+Display "RHINOCEROS" above it.
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 72 · stability: 87
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a) · [finished media](https://media.goodcase.ai/cases/d81859c9ebc9.mp4) · [poster](https://media.goodcase.ai/cases/90afb6103701.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099809558894112907)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy …
+4. HIPPOPOTAMUS — a cute chubby purple-gray hippopotamus with a big smile and playful expression.
+Display "HIPPOPOTAMUS" above it.
 
-```text
-Made with seedance 2.5
+5. LEOPARD — an adorable golden-yellow leopard covered with dark spots, big expressive eyes and a friendly smile.
+Display "LEOPARD" above it.
 
-Prompt 👇 
-Create a cute, heartwarming, ultra-realistic 3D animated video of an adorable fluffy cream-colored baby bunny with huge glossy brown eyes, long soft ears, rosy cheeks, tiny pink nose, and delicate eyelashes.
+6. WOLF — a cute fluffy gray-and-white wolf with large expressive eyes and a friendly appearance.
+Display "WOLF" above it.
 
-The bunny wears a soft pink gingham headband with long bunny ears and a matching pink-and-white checkered scarf tied into a cute bow around its neck.
+7. GIRAFFE — a cute tall giraffe with a warm orange-yellow coat and brown patches, smiling gently.
+Display "GIRAFFE" above it.
 
-The scene is bright, cheerful, and whimsical, set outdoors beneath a vivid blue sky filled with soft fluffy white clouds. Use a close-up portrait composition with the bunny centered in the frame, looking directly into the camera.
+8. CROCODILE — a cute green crocodile with a rounded friendly body, big eyes and a playful smile.
+Display "CROCODILE" above it.
 
-The bunny makes natural, playful facial expressions throughout the video: gently tilting its head from side to side, blinking, winking, opening its mouth in a cute surprised expression, smiling brightly, and giggling happily with its eyes partially closed. Toward the end, the bunny raises its tiny paws near its chest and gives an irresistibly adorable happy expression.
+For every animal:
+The animal should enter or appear naturally, look toward the camera, make a small cute movement such as blinking, smiling, waving, walking a few steps or moving its head, then remain clearly visible for children to recognize.
 
-Use subtle, smooth character animation with realistic fur movement, expressive eyes, soft facial motion, and natural ear movement. Keep the character consistent throughout the entire video.
+TEXT:
+Use large bold rounded children's lettering above each animal.
+Letters should be colorful, playful, highly readable and visually exciting.
+Add small colorful celebratory shapes such as stars or confetti when an animal appears.
 
-Style: high-end cinematic 3D animation, ultra-detailed soft fur, adorable Disney/Pixar-inspired charm, realistic lighting, soft depth of field, vibrant colors, polished textures, cute fantasy atmosphere.
+TRANSITIONS:
+Smooth playful transitions between animals while keeping the same meadow environment.
+No scary movements, no aggressive behavior, no dark scenes.
 
-Camera: static close-up portrait shot, slight natural camera movement, centered composition, vertical 9:16 format.
+FINAL SHOT:
+Return to the empty colorful meadow for a short moment.
 
-Lighting: bright natural daylight, soft warm highlights, gentle shadows, clean and vibrant outdoor illumination.
-
-Mood: joyful, innocent, playful, wholesome, cute, and heartwarming.
-
-Duration: approximately 10 seconds.
-
-Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs, unnatural movements, flickering, or changes in character appearance.
-```
-
-## E6 · A Girl and Her White Wolf’s Journey Through a Magical Wilderness
-
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 67 · stability: 81
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-3d-animated-video-in-a-premium-fantasy-adventure-e7a3e6134c65) · [finished media](https://media.goodcase.ai/cases/5eac6564eca8.mp4) · [poster](https://media.goodcase.ai/cases/5ad00890362b.jpg) · [original source](https://x.com/ayzalnooor24521/status/2100036712873488488)
-- Summary: A little adventure, a loyal friend, and a whole world to discover. Sometimes, the smallest friendships lead to the biggest adventures. Created on seedance 2.0 P…
-
-```text
-Created a 30-second cinematic 3D animated video in a premium fantasy-adventure style, featuring a young girl and her fluffy white wolf pup exploring a magical wilderness. The area is surrounded by majestic mountains, dense green forests, flowing rivers, rocky cliffs, and peaceful lakes under warm cinematic skies. The girl wears a simple adventurous outfit and stays visually consistent throughout the video, while the wolf pup has soft detailed white fur and expressive eyes. They journey together through the forest, cross a sparkling stream, and discover beautiful natural landscapes filled with warm sunlight and gentle mist. Their friendship is shown through playful moments, gentle interaction, and quiet emotional expressions. The camera uses smooth tracking shots, wide cinematic views, close-ups, and slow movements to capture the scale and emotion of each scene. Golden-hour lighting, realistic fur, detailed environments, soft shadows, atmospheric depth, and high-quality cinematic rendering create a premium animated-film look. The final scene shows them resting together beside a peaceful lake at sunset, surrounded by mountains and glowing reflections, creating a warm emotional ending.
-```
-
-## E7 · Shy Hamster Offers a Rose
-
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 66 · stability: 84
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-eec0708da6e5) · [finished media](https://media.goodcase.ai/cases/79470af69d95.mp4) · [poster](https://media.goodcase.ai/cases/683212be0052.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2101493389115953586)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy war…
-
-```text
-Made with seedance 2.5
-
-Prompt 👇 
-Create a cute, heartwarming, ultra-realistic 3D animated vertical video of a tiny fluffy golden-and-white hamster in a cozy warmly lit home interior.
-
-The hamster has extremely soft plush fur, huge glossy black eyes, rosy pink cheeks, a tiny pink nose, and an adorable innocent expression. It wears oversized pale-pink headphones, a large pink polka-dot bow on its head, and a delicate pink ribbon necklace with a tiny hanging name tag.
-
-Scene 1: The hamster slowly peeks from behind a white doorway, shyly looking toward the camera. It carefully steps out onto a polished warm wooden floor while maintaining eye contact with the viewer.
-
-Scene 2: The hamster walks forward toward the camera with tiny adorable steps and stops in the center of the room. Its ears and bow move naturally with each step. The background features a cozy wooden bookshelf, a warm table lamp, soft beige walls, and beautiful golden ambient lighting.
-
-Scene 3: The hamster looks directly into the camera with a sweet, innocent expression. After a brief moment, it gently reaches down and picks up a single beautiful red rose with its tiny paws.
-
-Scene 4: Holding the red rose in front of its body, the hamster smiles warmly at the camera. Its cheeks become slightly rosier, and it looks shy and affectionate.
-
-Final shot: The hamster closes its eyes with a big adorable smile while holding the red rose close to its chest. The moment feels wholesome, romantic, cute, and heartwarming.
-
-Camera: vertical 9:16, low eye-level camera angle, smooth slow camera movement, gentle push-in toward the hamster, shallow depth of field, cinematic framing.
-
-Lighting: warm golden indoor lighting, soft natural shadows, cozy evening atmosphere, subtle highlights on the hamster's fur.
-
-Style: ultra-realistic cute 3D character animation, highly detailed fluffy fur, realistic facial expressions, soft cinematic rendering, polished wooden floor reflections, realistic object movement, adorable emotional storytelling, premium animated-film quality.
-
-Motion: natural tiny paw movements, subtle head movements, realistic blinking, gentle breathing, soft ear and bow movement, smooth walking animation, believable interaction with the rose.
-
-No text, no subtitles, no watermark, no extra characters, no distorted anatomy, no duplicated objects.
-```
-
-## E8 · Husband Mistakes a Laundry Request for a Romantic Invitation
-
-- Seedance 2.0 · creator: @im_shahid7 · heat: 60 · stability: 84
-- Evidence: [GoodCase](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750) · [finished media](https://media.goodcase.ai/cases/50120bb6176a.mp4) · [poster](https://media.goodcase.ai/cases/aa596f802fe1.jpg) · [original source](https://x.com/im_shahid7/status/2091754978348339299)
-- Summary: When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
-
-```text
-Create a 15-second hilarious animated sequence in the exact same warm, elegant 3D cartoon/Pixar-like visual style as the provided storyboard. Maintain the same husband and wife character designs, luxurious cream-colored bedroom and laundry room, cinematic warm lighting, expressive exaggerated facial reactions, and smooth comedic timing.
-Scene 1 — 0–3 sec: The husband is relaxing in bed reading a book. Suddenly, he notices his wife's bra and top being thrown out from another room onto the floor. He slowly lowers his book and stares at them with wide, suspicious eyes. In his imagination, this clearly looks like his wife is preparing for a romantic moment with someone inside.
-Scene 2 — 3–6 sec: The husband immediately jumps up excitedly and rushes to the mirror. He sprays mouth freshener, applies perfume, fixes his hair, and gives himself a confident, seductive smile. He is convinced something romantic is happening and that he should quickly join his wife.
-Scene 3 — 6–9 sec: Looking handsome and confident, he slowly and dramatically opens the door, expecting a romantic surprise. His expression suddenly changes from excitement to complete confusion.
-Scene 4 — 9–12 sec: Reveal the truth: his wife is simply doing laundry. She is pulling freshly washed clothes from the washing machine one by one and tossing them onto the floor because she needs help carrying them. She looks at her husband standing there, fully dressed up and smelling of perfume.
-Scene 5 — 12–15 sec: The wife immediately takes advantage of him, smiling innocently as she stacks a huge pile of wet clothes into his arms. The husband becomes completely trapped under the mountain of laundry. His romantic excitement disappears instantly, and he walks away slowly with a sad, moody, defeated expression while the wife happily continues doing laundry.
-Comedy style: exaggerated facial expressions, fast misunderstanding setup, dramatic reveal, visual humor, smooth character animation, cinematic framing, warm luxury interior, same character consistency and visual style throughout.
+Overall feeling: cheerful, wholesome, educational, playful, colorful preschool animal-learning video, premium 3D cartoon quality.
 ```

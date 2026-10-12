@@ -1,10 +1,22 @@
 # Case evidence · Epic fantasy and sci-fi spectacle
 
-29 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+49 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
-## E1 · A Delivery Through Venice as It Folds into a Sphere
+## E1 · Woman in Green Summons a Fiery Tree Guardian Against Demons
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 92
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6) · [finished media](https://media.goodcase.ai/cases/ead498a1b98b.mp4) · [poster](https://media.goodcase.ai/cases/4a7f9d53f8c5.jpg) · [original source](https://x.com/itsSaira_1/status/2107685928647160275)
+- Summary: ⚡She didn’t summon a guardian—she awakened the wrath of the earth.🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy battle, 16:9, photoreal, shallow d…
+
+```text
+Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorphic lens, moody teal-grey and fiery orange color grade, drifting embers and smoke. A young woman with short wavy brown hair in an emerald green dress is dragged across cracked dark stone floor by a tall horned grey demon. She slams her hand down and glowing white-gold roots erupt from the ground, growing into a towering tree-guardian with a glowing lava-vein bark body and antler-like branches. The tree-guardian fights a horde of grey demon creatures, shoots a massive stream of fire, and gets surrounded by burning demons. Close-ups of a skull-faced demon with molten cracks. Fast dynamic camera, slow-motion fire explosions. Ends with a glowing sphere of woven burning roots, then the woman kneeling on the ground, hands glowing on the floor, calm and powerful.
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
+```
+
+## E2 · A Delivery Through Venice as It Folds into a Sphere
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b) · [finished media](https://media.goodcase.ai/cases/6fad135f851f.mp4) · [poster](https://media.goodcase.ai/cases/e5c7676644ab.jpg) · [original source](https://x.com/Just_sharon7/status/2100541954685895043)
@@ -33,7 +45,22 @@ Prompt
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E2 · Lavender-Haired Girl Leaps Through a Pool Wave
+## E3 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 90
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
+- Summary: ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
+
+```text
+A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+Negative Prompt:
+blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+## E4 · Lavender-Haired Girl Leaps Through a Pool Wave
 
 - Seedance 2.5 · creator: @Zoyavelle · heat: 87 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1) · [finished media](https://media.goodcase.ai/cases/65eb83d5a0fd.mp4) · [poster](https://media.goodcase.ai/cases/5b534bd92cd2.jpg) · [original source](https://x.com/Zoyavelle/status/2100089287345951159)
@@ -49,7 +76,7 @@ Huge realistic water splashes, powerful waves, water droplets flying through the
 Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
 ```
 
-## E3 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
+## E5 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
 - Seedance 2.5 · creator: @Zyrellix · heat: 84 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
@@ -60,7 +87,7 @@ Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic
 Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
 ```
 
-## E4 · Warrior and White Dragon Shatter a Molten Celestial Orb
+## E6 · Warrior and White Dragon Shatter a Molten Celestial Orb
 
 - Seedance 2.0 · creator: @Zyrellix · heat: 83 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-5fa856d9472a) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-5fa856d9472a.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-5fa856d9472a.jpg) · [original source](https://x.com/Zyrellix/status/2092121112746287527)
@@ -70,7 +97,37 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of a female warrior's eye, iris reflecting a burning molten celestial orb swirling inside dark storm clouds. Low-angle tracking shot as an East Asian female warrior clad in sleek black leather-and-steel armor walks through shallow water carrying an ornate key. She steps onto a circular stone platform engraved with glowing golden runes, surrounded by mist, cascading waterfalls, and ancient temple ruins. Above, a colossal magma-veined celestial sphere looms within a vortex of swirling clouds. She inserts the key into a moss-covered stone altar, triggering a massive circular runic array that launches vertical high-pressure water geysers into the sky. A giant, majestic white serpentine dragon with fiery orange eyes emerges from the mist. The warrior extends her hand as her eyes glow bright golden, establishing a powerful magical bond. The dragon turns upwards, soaring into the sky and unleashing a beam of pure radiant white energy directly into the celestial orb, causing it to shatter into shockwaves of blinding light. Epic cinematic scale, volumetric fog, photorealistic visual effects, Unreal Engine 5 render style, dark gray and golden color grading, hyper-detailed.
 ```
 
-## E5 · GPT Image 2 + Seedance From the Deep: One Jet, One Shot
+## E7 · Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 81
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215) · [finished media](https://media.goodcase.ai/cases/0852e7298781.mp4) · [poster](https://media.goodcase.ai/cases/680efb813c0b.jpg) · [original source](https://x.com/itsSaira_1/status/2108049177259462719)
+- Summary: From darkness to divinity — one final stand against the demons.⚡ Made with Seedance 2.5 Prompt: Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, e…
+
+```text
+Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, emerald-green glowing magic, dramatic low light, film grain. Generate in 3 parts of about 10 seconds each.
+
+PART 1
+Scene 1: Dark horned demons charge through a ruined cathedral, blurred motion.
+Scene 2: Extreme close-up of a young nun in a white wimple, her fist glowing bright green, intense stare.
+Scene 3: A green energy dome forms around her as hundreds of demons surround it, wide high-angle shot.
+
+PART 2 (use the LAST FRAME of Part 1 as reference image; keep the exact same face, body, outfit and cathedral)
+Scene 4: Her habit turns into a glowing green-white gown, then she transforms into a radiant angel with huge translucent glowing wings, a halo and a white-green gown, standing inside a clear green bubble.
+Scene 5: She fights the demons with a glowing green spear and a round glowing shield, spinning slashes, motion blur.
+
+PART 3 (use the LAST FRAME of Part 2 as reference image; keep the exact same angel face, wings, halo and gown)
+Scene 6: She wields a glowing green chainsaw, cutting demons in half, green energy bursts and orange sparks, low-angle hero shots.
+Scene 7: Green laser pillars rain from above, she crouches in the green dome as a huge green explosion and smoke engulf the cathedral.
+Scene 8: Smoke clears, the demons are gone, the angel stands alone on the glowing floor emblem, wings spread, calm, slow zoom out.
+
+Continuity rule for every part: same face, same lighting, same green color grade, same camera style as the previous part.
+
+Negative prompt: cartoon, anime, low quality, blurry, face change, different person, extra limbs, bad hands, deformed wings, text, watermark, logo, flickering, overexposed, duplicate characters.
+
+#AI #Cinematic #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualArt @ming_ai
+```
+
+## E8 · GPT Image 2 + Seedance From the Deep: One Jet, One Shot
 
 - Seedance 2.0 · creator: @Weeleey6 · heat: 81 · stability: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168) · [finished media](https://media.goodcase.ai/media/video/weeleey6-seedance-ai-b03a5481e168.mp4) · [poster](https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg) · [original source](https://x.com/Weeleey6/status/2089244905960821226)
@@ -97,137 +154,4 @@ CUT 4 (10-13s): Missiles streak from the jet toward the monster and slam into it
 CUT 5 (13-15s): The monster crashes down into the sea bay in an enormous explosion of water and debris, defeated, as the jet roars past overhead. Epic final beat, huge splash and spray. Camera holds on the aftermath.
 
 RULES: References are appearance only, do not recreate. The monster is a stylized fictional kaiju — scaled, non-human, skyscraper-sized. Keep the pilot's face consistent in the cockpit shot. Epic blockbuster scale throughout — sell the size of the monster with low angles and the city for scale. Moody desaturated blue-grey grade with orange fire glow, never fully desaturate. Sound design — cinematic and immersive: the monster's deep roar, crumbling buildings, the scream of the jet engines, missile launches, huge explosions, a driving epic orchestral score. Final frame on the monster crashing into the bay, stable and clean.
-```
-
-## E6 · Flame Ritual Detonates a City in Ruins
-
-- Seedance 2.5 · creator: @itxabdullaa · heat: 79
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f) · [finished media](https://media.goodcase.ai/cases/381b6848a667.mp4) · [poster](https://media.goodcase.ai/cases/5e41917cd901.jpg) · [original source](https://x.com/itxabdullaa/status/2103698890516308313)
-- Summary: AI just cooked with this one 🔥 Seedance 2.5 on @higgsfield Prompt : SUZUKA — FUGA DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-photorealistic live-ac…
-
-```text
-SUZUKA — FUGA
-DURATION: exactly 10 seconds
-FORMAT: 16:9
-STYLE: ultra-photorealistic live-action dark fantasy, grounded supernatural fire VFX, realistic flame physics, cinematic destruction, natural lens behavior, practical lighting, realistic human actors, no digital-art appearance.
-PACE: continuous tension and escalation, zero pauses, maximum buildup into catastrophic release.
-
-REFERENCES
-
-IMAGE 1 — EXECUTOR
-Preserve facial identity, hairstyle, costume, body proportions, and appearance exactly.
-
-IMAGE 2 — TARGET
-Preserve facial identity, hairstyle, costume, body proportions, and appearance exactly.
-
-ACTION
-
-0.0–3.5 SECONDS — INVOCATION
-Executor stands alone on a destroyed city street. Faint fire flickers around both hands. He calmly looks toward the off-screen target and says, “Fuga.” Fire intensifies as he naturally transitions into a firing stance. Camera slowly pushes closer.
-
-3.5–6.5 SECONDS — FUGA RITUAL
-Extreme front three-quarter hand-dominant perspective. Flame wraps tightly around the extended fingers and forms a sharp arrowhead-like tip while remaining physically attached to the hand. A continuous flame line stretches from the rear hand to the forward fingers. The rear hand performs a subtle pinch, draw, and hold motion. The flame compresses and becomes intensely concentrated and white-hot.
-
-6.5–7.2 SECONDS — RELEASE
-Maximum tension. The rear fingers release. The finger-wrapped flame tears free and launches forward as a single concentrated fire projectile along the exact attack axis. Forward hand remains in the aiming position. Hard cut.
-
-7.2–7.7 SECONDS — TARGET REACTION
-Target only. Medium close-up three-quarter view. The incoming attack reflects in the eyes. Firelight rapidly intensifies across the face. Brief realization, tension, and alarm.
-
-7.7–8.3 SECONDS — IMPACT
-Target-side rear three-quarter view. The concentrated flame projectile races down the street, rapidly expands in perspective, and impacts the target position. Brief hit-stop. Instant white-hot flash. Hard cut.
-
-8.3–10.0 SECONDS — CITY-SCALE DETONATION
-Extreme aerial ultra-wide. The impact expands into an enormous white-hot fireball, rolling black smoke, and a massive spherical shockwave. Destruction propagates realistically across city blocks. Buildings rupture, debris launches, dust swallows the streets, and the delayed pressure wave violently shakes the camera.
-
-SMASH CUT TO BLACK. END.
-
-VISUAL RULES
-
-- Executor and Target never appear in the same shot.
-- During Executor shots, Target remains completely off-screen.
-- During Target shots, Executor remains completely off-screen.
-- Fire behaves with realistic heat, smoke, embers, illumination, and pressure.
-- Projectile is concentrated flame, not a physical arrow.
-- No bow, bowstring, energy beam, detached arrowhead, or glowing anime effects.
-- Grounded VFX integrated into live-action photography.
-- Every action directly causes the next event.
-- Continuous escalation, zero dead frames.
-
-CAMERA
-
-Cinematic live-action camera. Medium shots, aggressive push-ins, target close-ups, and aerial disaster coverage. Natural motion blur, realistic shake, and physical camera reactions. No floating virtual camera.
-
-ENVIRONMENT
-
-Destroyed urban city street with realistic debris, smoke, dust, damaged structures, and large-scale destruction. Photorealistic live-action environment.
-
-AUDIO
-
-Raw cinematic ambience only. Fire, wind pressure, debris, structural collapse, shockwave, impact, and destruction sounds.
-
-NO MUSIC. #higgsf
-
-[… truncated, full prompt on the goodcase.ai page]
-```
-
-## E7 · Apocalyptic Dragon-Rider Strikes the Armored Giant
-
-- Seedance 2.0 · creator: @Zyrellix · heat: 77 · stability: 80
-- Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-987c5819beca) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-987c5819beca.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-987c5819beca.jpg) · [original source](https://x.com/Zyrellix/status/2092828997662978051)
-- Summary: When a dragon takes flight and a warrior takes the leap the whole city becomes the battlefield. Made with seedance 2.0 P
-
-```text
-A low-angle dynamic action tracking shot in a apocalyptic, ruined city modern urban setting at night with smoke, fire, and glowing searchlights. A massive dark dragon with glowing neon blue dorsal spines flies low over city streets. A giant armor-clad giant warrior stands amidst burning skyscrapers. A young man dressed in black leaps along the spine of the flying dragon, wielding a glowing red energy blade and a giant curved glowing blue magic scythe. The man leaps high off the dragon's back into mid-air, spinning dramatically and striking down onto the giant enemy with a massive glowing electric slash, resulting in an explosive fiery blast over the burning city skyline filled with military helicopters. Cinematic 3D animation, hyper-realistic lighting, intense VFX, dark fantasy anime style, fast-paced cinematic camera motion, 8K resolution.
-```
-
-## E8 · Schoolgirl Destroys a Tank Assault with Supernatural Power
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 76
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05) · [finished media](https://media.goodcase.ai/cases/e90172ccddd5.mp4) · [poster](https://media.goodcase.ai/cases/e28bdc9038b1.jpg) · [original source](https://x.com/itsSaira_1/status/2101205826895827053)
-- Summary: ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
-
-```text
-GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
-
-SCENE 1 — 0:00–0:02.5
-Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
-
-SCENE 2 — 0:02.5–0:04.5
-The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
-
-SCENE 3 — 0:04.5–0:07
-Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
-
-SCENE 4 — 0:07–0:09.5
-Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
-
-SCENE 5 — 0:09.5–0:11.5
-The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
-
-SCENE 6 — 0:11.5–0:14
-A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
-
-SCENE 7 — 0:14–0:16.5
-Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
-
-SCENE 8 — 0:16.5–0:19
-Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
-
-SCENE 9 — 0:19–0:21.5
-The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
-
-SCENE 10 — 0:21.5–0:24
-A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
-
-SCENE 11 — 0:24–0:26
-Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
-
-SCENE 12 — 0:26–0:27.5
-Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
-
-NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
-
-#Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
-@Flovaai @itsPolloAI
 ```

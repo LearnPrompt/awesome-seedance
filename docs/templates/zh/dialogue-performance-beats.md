@@ -64,13 +64,15 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 8 条，按热度）
+## 这一类的案例（已归类 10 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/seedance-25-couple-pov-bedroom-teasing-30s"><img src="https://media.goodcase.ai/cases/9e3e27e76494.jpg" width="160" alt="Seedance 2.5 生成 30 秒情侣卧室 POV：男友不会哄人只会捏脸（需自备参考图）"></a> | [Seedance 2.5 生成 30 秒情侣卧室 POV：男友不会哄人只会捏脸（需自备参考图）](https://goodcase.ai/cases/seedance-25-couple-pov-bedroom-teasing-30s) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9"><img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-b2d98861daf9.jpg" width="160" alt="Seedance 十五秒连续对白健身房 vlog"></a> | [Seedance 十五秒连续对白健身房 vlog](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9) | 2.0 | 68 |
 | <a href="https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer"><img src="https://media.goodcase.ai/media/poster/youmind-surprise-visit-romance-trailer.jpg" width="160" alt="《惊喜探访》浪漫短片"></a> | [《惊喜探访》浪漫短片](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer) | 2.0 | 67 |
 | <a href="https://goodcase.ai/cases/case-1f8136a9893a"><img src="https://media.goodcase.ai/media/poster/case-1f8136a9893a.jpg" width="160" alt="富有情感的日语对话动画"></a> | [富有情感的日语对话动画](https://goodcase.ai/cases/case-1f8136a9893a) | 2.5 | 63 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-a-peaceful-countryside-garden-on-a-warm-sunny-morning-73d9d998ca98"><img src="https://media.goodcase.ai/cases/e89d080fac28.jpg" width="160" alt="乡间晨光中女子倾诉，花朵渐次绽放"></a> | [乡间晨光中女子倾诉，花朵渐次绽放](https://goodcase.ai/cases/seedance-2-5-a-peaceful-countryside-garden-on-a-warm-sunny-morning-73d9d998ca98) | 2.5 | 62 |
 | <a href="https://goodcase.ai/cases/seedance-3b9beb9a46d4"><img src="https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg" width="160" alt="Seedance 电影级分手表演提示词"></a> | [Seedance 电影级分手表演提示词](https://goodcase.ai/cases/seedance-3b9beb9a46d4) | 2.5 | 20 |
 | <a href="https://goodcase.ai/cases/case-e0d3b03f1aef"><img src="https://media.goodcase.ai/media/poster/case-e0d3b03f1aef.jpg" width="160" alt="汤姆·索亚粉刷篱笆场景"></a> | [汤姆·索亚粉刷篱笆场景](https://goodcase.ai/cases/case-e0d3b03f1aef) | 2.0 | 6 |
 | <a href="https://goodcase.ai/cases/case-19957ff473b6"><img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="160" alt="童年玩具对话提示词"></a> | [童年玩具对话提示词](https://goodcase.ai/cases/case-19957ff473b6) | 2.0 | - |

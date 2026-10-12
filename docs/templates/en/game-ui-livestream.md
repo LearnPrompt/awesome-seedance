@@ -66,7 +66,7 @@ The screen itself is the shot: a fake gameplay capture, livestream or desktop re
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (15 filed, by heat)
+## Cases in this category (16 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
@@ -83,7 +83,7 @@ The screen itself is the shot: a fake gameplay capture, livestream or desktop re
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-aaa-third-person-action-adventure-gameplay-vi-b1237ef456f0"><img src="https://media.goodcase.ai/cases/a1590102d56c.jpg" width="160" alt="Female Explorer Battles Through Island Ruins"></a> | [Female Explorer Battles Through Island Ruins](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-aaa-third-person-action-adventure-gameplay-vi-b1237ef456f0) | 2.5 | 37 |
 | <a href="https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c"><img src="https://media.goodcase.ai/cases/e750151cbe91.jpg" width="160" alt="Streamer Broadcasts a Vault Heist and Police Chase"></a> | [Streamer Broadcasts a Vault Heist and Police Chase](https://goodcase.ai/cases/seedance-use-image1-as-highest-priority-reference-for-haneul-87857bb7ac9c) | 2.5 | 37 |
 
-The other 3 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
+The other 4 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance).
 
 ---
 

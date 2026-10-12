@@ -1,6 +1,6 @@
 # Case evidence · Fashion lookbook and portrait film
 
-30 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+43 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -33,7 +33,44 @@ Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothin
 Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
 ```
 
-## E2 · Cinematic Paris Fashion Campaign, Five Shots
+## E2 · Summer-Night Fashion Girl by a Speeding Metro
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5) · [finished media](https://media.goodcase.ai/cases/92c1b19a1f3a.mp4) · [poster](https://media.goodcase.ai/cases/d6bbdc164e90.jpg) · [original source](https://x.com/Just_sharon7/status/2103032789910401038)
+- Summary: Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
+
+```text
+Seedance 2.5 on @Flovaai 
+
+Use my referral link to join Flova https://t.co/l1lPYN3ENF
+
+Prompt
+
+Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
+```
+
+## E3 · Woman Playing Tennis on a Skateboard on a Pink Court at Night
+
+- Seedance 2.5 · creator: @AIwithNatalia · heat: 90
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5) · [finished media](https://media.goodcase.ai/cases/6d94ac862edd.mp4) · [poster](https://media.goodcase.ai/cases/322498c2ac13.jpg) · [original source](https://x.com/AIwithNatalia/status/2107056982163402833)
+- Summary: Too glam to play by the rules🖤🎾🛹 Created with Seedance 2.5 on @TapNow_AI PROMPT: Create a photorealistic cinematic fashion-sports video set on a pink tennis …
+
+```text
+Create a photorealistic cinematic fashion-sports video set on a pink tennis court at night. The woman is standing and riding on a skateboard while simultaneously playing tennis. 
+She wears the black-and-white tennis-inspired bodysuit, layered pearl necklaces, white leg warmers, sunglasses, and black high heels shown in the reference.  
+She pushes off and smoothly skates across the tennis court on the skateboard, maintaining believable balance. She holds a tennis racket in one hand and hits tennis balls coming toward her while continuing to roll forward. 
+Her movements should feel confident, stylish, athletic, and controlled—not exaggerated or cartoonish. Her long dark-red hair moves naturally with the motion.  
+Shot sequence: 
+0–3 sec: Low-angle close-up of the skateboard rolling across the pink court, wheels moving naturally as tennis balls bounce nearby. 
+3–7 sec: Wide side-tracking shot showing her riding the skateboard across the court while returning a tennis ball with a clean forehand. 
+7–11 sec: Smooth camera orbit around her as she continues skating and hits another incoming ball, with her hair and jewelry moving naturally. 
+11–15 sec: Front-facing tracking shot as she rides toward the camera, performs one final stylish tennis swing, then smoothly passes the camera.  
+Visual style: luxury fashion campaign meets futuristic tennis commercial, nighttime stadium lighting, glossy pink court, realistic shadows and reflections, cinematic depth of field, subtle slow motion during racket impacts, smooth stabilized camera movement, realistic human anatomy, realistic skateboard physics, natural facial expression, detailed skin and hair, high-end editorial photography, photorealistic.  
+Format: 15 seconds, 24 fps, high resolution.  
+Negative prompt: distorted face, changing identity, extra fingers, extra limbs, duplicated tennis rackets, warped skateboard, floating wheels, impossible body positions, broken anatomy, jittery motion, unnatural hair, flickering clothing, changing outfit, cartoon appearance, CGI-looking skin, blurry face, camera shake.
+```
+
+## E4 · Cinematic Paris Fashion Campaign, Five Shots
 
 - Seedance 2.0 · creator: @Just_sharon7 · heat: 90 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) · [finished media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) · [poster](https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg) · [original source](https://x.com/Just_sharon7/status/2083793251132186998)
@@ -62,7 +99,66 @@ camera movement, real people in background every scene, hyper-realistic photogra
 AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, overexposed, watermark, text overlay, logo, AI generated look, jerky motion, empty streets, studio background, fake crowd, extra fingers, deformed
 ```
 
-## E3 · Model and Fashion Items in Synchronized 360° Rotation
+## E5 · Pink-Haired Woman Wandering Through a Fading European City
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 86
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692) · [finished media](https://media.goodcase.ai/cases/0440b58f61c0.mp4) · [poster](https://media.goodcase.ai/cases/78da937a2c39.jpg) · [original source](https://x.com/Just_sharon7/status/2102013620066636225)
+- Summary: What if every beautiful moment disappears before we even realize it was happening? Seedance 2.5 on @TapNow_AI Prompt A cinematic fashion short film, ~20 seconds…
+
+```text
+What if every beautiful moment disappears before we even realize it was happening?
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+A cinematic fashion short film, ~20 seconds, 24fps, anamorphic widescreen, filmic grain, teal-and-warm color grade with slightly crushed blacks and lifted highlights. Subject is a pale young woman @[Image 1](image_1)  with a short pastel pink bob and blunt bangs, cool blue eyes, wearing an oversized soft green T-shirt layered over a thin white long-sleeve, a flowing brown-orange-grey plaid skirt, and slouchy babypink knee-high boots. Mood is poetic, solitary, and slightly melancholic — time passing through a historic European city (Haussmann stone facades, colonnades, courtyards, waterfront, ornate interiors). Heavy use of motion blur, whip pans, low-angle tracking, shallow depth of field, and mixed slow/fast motion.
+**Shot sequence / visual language**
+- Opening whip-pan across a row of pale stone arches and columns, interiors glowing warm behind glass, strong horizontal motion blur.
+- Low-angle medium of the woman new version.jpeg walking toward camera through a historic courtyard; face slightly soft/out of focus at first, green shirt filling the frame, stone palace architecture behind her.
+- She @[Image 1](image_1) looks upward, profile against a pale sky and ornate upper stories; contemplative, wind in her hair.
+- Cut to a flock of pigeons exploding off a blue-shuttered historic facade, heavy motion blur, birds streaking across the frame.
+- She sits on a stone balustrade between tall columns, one black boot kicked up, plaid skirt fanned, looking directly at camera with a still, distant expression.
+- Close low-angle as she leans her head on her shoulder against a large arched window; warm interior light in the glass.
+- Fast blurred street shot: a cyan pedestrian light, traffic, reflections on glass.
+- Close tracking of her legs and slouchy black boots walking on grey stone pavement, skirt swinging.
+- Overexposed high-key medium of her walking toward camera in a bright square, buildings and flags washed almost white.
+- Profile/three-quarter as she walks along a waterfront or bridge at golden hour, city buildings and water lights behind her.
+- Interior: ornate stained-glass lunette with a helmeted warrior, zodiac/animal motifs, sun flare through the panes, hanging lantern.
+- Motion-blurred spin/whip of her turning in front of a colonnaded palace facade.
+- Low tracking of her standing on a stone pedestal/balustrade, only boots and skirt visible at first.
+- Low-angle walking shot looking up at her against grand columns and windows.
+- She sits on the dark sculpted rim of a fountain, knees drawn up, looking off-camera.
+- Extreme close-up of her hand trailing fingers through fountain water, ripples and reflections.
+- Tight frontal portrait against a dark carved wooden door with iron scrollwork; intense eye contact, almost still.
+- Abstract whip-pan of stone and sky.
+- Final aerial of a dense European city (Paris-like rooftops, a pedestrian bridge over a cut, autumn trees, traffic).
+**Voiceover (calm, slightly distant female voice, sparse, over ambient city + soft score)**  
+Everything is already leaving.
+"The dark holds what daylight drops.
+A step is a promise the ground won’t keep.
+Time doesn’t wait. It only looks back."
+**Technical / style keywords**  
+Cinematic fashion film, editorial movement, motion blur, anamorphic flares, golden-hour mixed with overcast stone, shallow DOF, low angles, tracking and whip pans, film gr
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E6 · A Woman Changes Outfits on a Persian Rug Beneath a Ceiling Fan
+
+- Seedance 2.5 · creator: @Zoyavelle · heat: 84
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505) · [finished media](https://media.goodcase.ai/cases/6c0160709a73.mp4) · [poster](https://media.goodcase.ai/cases/8457e12426f4.jpg) · [original source](https://x.com/Zoyavelle/status/2108060187840180394)
+- Summary: Made with seedance 2.5 Prompt: A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living…
+
+```text
+A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living room, viewed through the wooden blades of a slowly rotating ceiling fan in the foreground. She has natural black hair and a calm relaxed expression. The scene uses warm golden indoor lighting, realistic wooden flooring, detailed traditional carpet patterns, soft shadows, and a cozy aesthetic interior. The woman appears in a simple black dress at first, then smoothly transitions through several different fashionable outfits while maintaining the exact same pose, position, camera angle, environment, and facial identity. Outfit transitions include a soft pink cardigan with a white dress, a red cardigan over a white top, and finally a brown textured dress. Highly photorealistic, natural skin texture, realistic fabric details, cinematic lighting, shallow depth of field, subtle motion blur from the rotating ceiling fan, smooth seamless outfit transformation, professional fashion video, DSLR quality, ultra-detailed, 4K, realistic proportions, stable overhead camera, no text, no watermark.
+
+Camera: fixed top-down perspective, ceiling fan blades passing naturally across the frame, slow smooth motion.
+Aspect ratio: 16:9.
+Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless transitions.
+```
+
+## E7 · Model and Fashion Items in Synchronized 360° Rotation
 
 - Seedance 2.5 · creator: @AI__TSUBAKI · heat: 80 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) · [finished media](https://media.goodcase.ai/cases/0d093f32d701.mp4) · [poster](https://media.goodcase.ai/cases/04e386463d97.jpg) · [original source](https://x.com/AI__TSUBAKI/status/2102459655700287648)
@@ -78,7 +174,7 @@ At the same time, every product cutout inside the item panel rotates in place on
 The panel, divider lines, captions, crown icons and wordmark stay perfectly fixed; only the model moves and the products rotate. Camera locked off, no zoom, no pan. Soft studio lighting with realistic shadows under the model and the products. Smooth, natural motion, clean commercial fashion-ad aesthetic, ultra-sharp details, luxury catalog presentation.
 ```
 
-## E4 · Golden Hour Mountain Fashion Film, Low Angle
+## E8 · Golden Hour Mountain Fashion Film, Low Angle
 
 - Seedance 2.5 · creator: @noorlewisx · heat: 79 · stability: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0) · [finished media](https://media.goodcase.ai/cases/ed05261f6296.mp4) · [poster](https://media.goodcase.ai/cases/9084b0f25038.jpg) · [original source](https://x.com/noorlewisx/status/2096826123330138410)
@@ -86,223 +182,4 @@ The panel, divider lines, captions, crown icons and wordmark stay perfectly fixe
 
 ```text
 Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k
-```
-
-## E5 · Red Dress Transformation on the Streets of Paris
-
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 79 · stability: 87
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707) · [finished media](https://media.goodcase.ai/cases/bbba04e9636b.mp4) · [poster](https://media.goodcase.ai/cases/6fd799c4ee96.jpg) · [original source](https://x.com/ayzalnooor24521/status/2100456445900710158)
-- Summary: From elegant white to bold red A little magic, a lot of Parisian style. Created on seedance 2.0 Prompt: Created a cinematic fashion transformation video featuri…
-
-```text
-Created a cinematic fashion transformation video featuring a beautiful young woman walking through elegant Parisian streets. She begins in a clean white summer dress, walking naturally along a stylish city sidewalk surrounded by classic architecture, cafés, shops, and pedestrians. The camera smoothly follows her with realistic cinematic movement and shallow depth of field. As she passes a storefront, glowing red light trails swirl around her body, creating a magical fashion-transition effect. Her outfit transforms seamlessly from white into a sophisticated red sleeveless dress. Continue with dynamic street-level shots as she confidently walks through a busy Paris intersection. Finish with a beautiful close-up of her in the red dress, gently holding and eating an ice cream while looking naturally toward the camera. Photorealistic details, elegant fashion-film aesthetic, natural daylight, smooth transitions, realistic skin texture, cinematic lens, subtle background motion, premium commercial look.
-```
-
-## E6 · Pink Handbag Fashion Editorial on Tokyo Streets
-
-- Seedance 2.0 · creator: @AIwithNatalia · heat: 77
-- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f) · [finished media](https://media.goodcase.ai/media/video/aiwithnatalia-seedance-ai-12c56e79550f.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg) · [original source](https://x.com/AIwithNatalia/status/2094277759547875413)
-- Summary: Tokyo streets. Chrome attitude. Prada energy. ✨ A high-fashion story where the bag isn’t just an accessory, it’s the mai
-
-```text
-Format: 9:16 vertical | Duration: Exactly 30 seconds | Style: Vogue editorial × Tokyo street fashion × cinematic luxury | Pacing: Fast, energetic, sharp cuts
-Character & Product Continuity:
-One consistent young female fashion model throughout. Preserve the same face, hairstyle, body proportions, and identity in every shot. She carries one identical glossy pastel-pink Prada handbag throughout the video, with the Prada logo clearly visible and consistent.
-
-0–4 sec — ICONIC OPENING
-
-Start with an extreme low-angle shot directly from street level, matching the reference image. The model walks toward camera through a busy Tokyo crossing, towering skyscrapers and giant digital billboards behind her. Her metallic silver platform boots dominate the foreground while the pink Prada bag swings beside her.
-
-Typography:
-TOKYO
-Luxury moves differently.
-Quick whip-pan upward from boots → bag → model.
-
-4–8 sec — THE BAG
-
-Rapid macro cuts:
-
-Glossy pink Prada bag catching sunlight
-Close-up of the Prada triangle logo
-Silver hardware sparkling
-
-Her hand gripping the handle
-
-Bag swinging as she crosses the street
-
-Typography:
-PRADA
-THE NEW ICON
-
-8–13 sec — TOKYO ENERGY
-Fast tracking shot as she walks through Shibuya-style Tokyo streets, surrounded by crowds, neon signs and massive screens. Camera circles her while she confidently looks toward the lens.
-Use speed ramps, whip transitions, motion blur and flash-frame cuts.
-Typography:
-BOLD.
-MODERN.
-UNMISSABLE.
-
-13–18 sec — EDITORIAL MOMENT
-
-Cut to a dramatic low-angle street shot. She stops at a crosswalk, lifts the Prada bag slightly toward camera, then turns sharply as her hair moves in the wind.
-Camera pushes rapidly toward the bag.
-Typography:
-MADE TO BE SEEN
-
-18–24 sec — VOGUE MONTAGE
-
-Ultra-fast fashion-editorial sequence:
-
-Model walking between Tokyo taxis
-
-Close-up of sunglasses
-Bag against her metallic outfit
-Low-angle boots stepping across the crosswalk
-Side profile against neon architecture
-
-Overhead shot as she moves through the crowd
-
-Use hard cuts synchronized to the beat.
-
-Typography flashes between shots:
-
-TOKYO → FASHION → PRADA
-
-24–27 sec — HERO SHOT
-
-Everything suddenly slows down. She stands in the middle of the Tokyo street while the crowd moves around her in subtle motion blur. She holds the pink Prada bag prominently toward camera.
-
-Camera performs a smooth 360° orbit.
-
-Typography:
-OWN THE MOMENT
-
-27–30 sec — FINAL BRAND FRAME
-
-Extreme close-up of the Prada bag. She places it beside her, camera tilts upward from the logo to her face.
-Cut to a clean black/white editorial-style end card.
-Typography:
-PRADA
-TOKYO EDITION
-The city is your runway.
-Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosphere, premium fashion photography, fisheye low-angle perspective, dynamic handheld camera, cinematic lens flares, subtle film grain, Vogue editorial aesthetic, sophisticated typography, no cheesy commercial look.
-```
-
-## E7 · Alexa Walks Through Five Fashion Worlds
-
-- Seedance 2.0 · creator: @MonetizationDon · heat: 77 · stability: 67
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-fashion-film-featuring-alexa-6ffd42d43119) · [finished media](https://media.goodcase.ai/cases/d0b02a37b52a.mp4) · [poster](https://media.goodcase.ai/cases/fc58dd11e312.jpg) · [original source](https://x.com/MonetizationDon/status/2099864906392559847)
-- Summary: PROMPT SHARE: Fashion videos get much more interesting when you treat the character like the center of a campaign, not just someone walking in front of a camera…
-
-```text
-Create a 30-second ultra-photorealistic cinematic fashion film featuring Alexa Grey as the exact same recurring character throughout the entire video.
-
-CHARACTER CONSISTENCY IS CRITICAL.
-
-Maintain Alexa Grey's exact recognizable face, warm brown skin tone, facial proportions, eyes, nose, lips, body proportions and overall identity throughout every scene.
-
-Alexa is confident, elegant, natural and effortlessly fashionable.
-
-Create a continuous fashion walk where the environment, hairstyle, outfit and fashion mood change FIVE TIMES while Alexa remains unmistakably the same person.
-
-LOOK 01 — MINIMAL / Y2K STREET
-00:00–00:06
-
-Environment: minimal white industrial wall with subtle horizontal panel lines.
-
-Hair: large, voluminous halo of tight dark-brown curls with natural individual ringlets.
-
-Outfit: fitted black short-sleeve cropped T-shirt layered over a fitted white long-sleeve shirt, relaxed low-rise medium-wash blue jeans, chunky gold rings.
-
-Alexa walks directly toward camera with a relaxed runway-inspired stride.
-
-Add elegant editorial typography:
-"ALEXA GREY"
-"CHARACTER STUDY 01"
-"Y2K / CASUAL / CONFIDENT"
-
-Add realistic fashion-photographer camera flashes from both sides.
-
-LOOK 02 — MODERN CITY / BUSINESS CHIC
-00:06–00:12
-
-Transform the environment seamlessly into a sophisticated modern city street with glass architecture and concrete.
-
-Hair changes into a sleek high ponytail.
-
-Outfit changes to a cream oversized tailored blazer, fitted black top, high-waisted black wide-leg trousers, pointed black heels and structured black handbag.
-
-Alexa continues walking without breaking stride.
-
-Typography:
-"LOOK 02"
-"CITY / TAILORED / POWER"
-
-Use rapid paparazzi-style camera flashes and a low-angle tracking shot followed by a side tracking shot.
-
-LOOK 03 — CASUAL LUXURY / SUNSET
-00:12–00:18
-
-Transform the city into a luxury rooftop overlooking a modern skyline during golden hour.
-
-Hair changes into long loose natural beach waves.
-
-Outfit changes to a fitted white sleeveless crop top, relaxed light-blue denim jeans, white sneakers and small black shoulder bag.
-
-Wind naturally moves her hair and clothing.
-
-Typography:
-"LOOK 03"
-"CASUAL LUXURY"
-"EFFORTLESS. NATURAL. FREE."
-
-Use a wide establishing shot, lateral tracking shot and close three-quarter portrait.
-
-Add one strong realistic camera flash as Alexa turns toward camera.
-
-LOOK 04 — EVENING GLAM
-00:18–00:24
-
-Transform the rooftop into an elegant luxury hotel entrance at night with warm architectural lighting and polished stone floors.
-
-Hair changes into a sleek low bun with soft face-framing strands.
-
-Outfit changes into an elegant deep-red satin evening gown with sophisticated thigh-high slit, delicate gold jewelry and metallic clutch.
-
-Alexa walks toward camera like she is entering a major fashion event.
-
-Typography:
-"LOOK 04"
-"EVENING GLAM"
-"AFTER DARK"
-
-Use multiple paparazzi flashes from different directions. Flashes should realistically illuminate Alexa, the satin fabric and surrounding surfaces.
-
-LOOK 05 — FUTURE FASHION
-00:24–00:30
-
-Transform the hotel into a futuristic minimalist architectural environment with geometric structures, reflective black flooring and soft vertical lights.
-
-Hair changes into long sleek straight hair.
-
-Outfit changes into a high-fashion structured black-and-white outfit with sculpted black blazer, fitted white top, tailored black trousers and futuristic pointed heels.
-
-Alexa walks directly toward camera and stops.
-
-Typography:
-"LOOK 05"
-"FUTURE FORM"
-"ALEXA
-
-[… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · Synchronized Rotation of Model and Outfit Items
-
-- Seedance 2.5 · creator: @AIwithkhan · heat: 77 · stability: 62
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e) · [finished media](https://media.goodcase.ai/cases/20a7e5c36c11.mp4) · [poster](https://media.goodcase.ai/cases/725dd3117245.jpg) · [original source](https://x.com/AIwithkhan/status/2101148067458347258)
-- Summary: Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…
-
-```text
-Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.
 ```

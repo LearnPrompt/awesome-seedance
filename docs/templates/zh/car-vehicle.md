@@ -66,21 +66,24 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 11 条，按热度）
+## 这一类的案例（已归类 17 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea"><img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="160" alt="未来公路上的机车与超跑追逐"></a> | [未来公路上的机车与超跑追逐](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) | 2.5 | 91 |
+| <a href="https://goodcase.ai/cases/seedance-police-chase-621254905333"><img src="https://media.goodcase.ai/cases/dcc163d4e56d.jpg" width="160" alt="都市警车追逐与爆炸逃亡"></a> | [都市警车追逐与爆炸逃亡](https://goodcase.ai/cases/seedance-police-chase-621254905333) | 2.0 | 89 |
 | <a href="https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1"><img src="https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg" width="160" alt="Seedance 2.5 1080P 三十秒超写实奇幻大片"></a> | [Seedance 2.5 1080P 三十秒超写实奇幻大片](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) | 2.5 | 80 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88"><img src="https://media.goodcase.ai/cases/d2b34cc66de6.jpg" width="160" alt="摩托车疾驰山间公路"></a> | [摩托车疾驰山间公路](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) | 2.0 | 76 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab"><img src="https://media.goodcase.ai/cases/6170bf3f7274.jpg" width="160" alt="夕阳下黑色轿车的追逐与枪战"></a> | [夕阳下黑色轿车的追逐与枪战](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) | 2.5 | 70 |
 | <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg" width="160" alt="末日沙漠战车空中激战"></a> | [末日沙漠战车空中激战](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) | 2.0 | 69 |
+| <a href="https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152"><img src="https://media.goodcase.ai/cases/b48c78c785ba.jpg" width="160" alt="末日公路女骑士逃离外星战舰"></a> | [末日公路女骑士逃离外星战舰](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) | 2.5 | 57 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a"><img src="https://media.goodcase.ai/cases/cc90787c2cf9.jpg" width="160" alt="跑车、摩托、坦克与战机变身机甲"></a> | [跑车、摩托、坦克与战机变身机甲](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) | 2.5 | 50 |
 | <a href="https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a"><img src="https://media.goodcase.ai/cases/17d1ccde38df.jpg" width="160" alt="东京高速粉色喷气拖拉机狂飙"></a> | [东京高速粉色喷气拖拉机狂飙](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a) | 2.5 | 40 |
 | <a href="https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf"><img src="https://media.goodcase.ai/cases/4da7c433c3b6.jpg" width="160" alt="第一视角凌空组装黑色兰博基尼"></a> | [第一视角凌空组装黑色兰博基尼](https://goodcase.ai/cases/missdelulu9-seedance-ai-02009f1f7daf) | 2.5 | 37 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327"><img src="https://media.goodcase.ai/cases/1b3a14cc3b8b.jpg" width="160" alt="未来载具变形垃圾车躲过追捕"></a> | [未来载具变形垃圾车躲过追捕](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327) | 2.5 | 36 |
 | <a href="https://goodcase.ai/cases/karakoram-motorcycle-commercial"><img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="160" alt="Karakoram Motorcycle Commercial"></a> | [Karakoram Motorcycle Commercial](https://goodcase.ai/cases/karakoram-motorcycle-commercial) | 2.5 | 29 |
-| <a href="https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b"><img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg" width="160" alt="银发骑手霓虹公路突围"></a> | [银发骑手霓虹公路突围](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b) | 2.0 | 26 |
-| <a href="https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859"><img src="https://media.goodcase.ai/media/poster/aiwithaliya-seedance-ai-cf398f743859.jpg" width="160" alt="黄超跑穿行迪拜天际线"></a> | [黄超跑穿行迪拜天际线](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859) | 2.0 | 25 |
-| <a href="https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog"><img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="160" alt="Bamboo Toy Car Transformation Vlog"></a> | [Bamboo Toy Car Transformation Vlog](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog) | 2.5 | 18 |
-| <a href="https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0"><img src="https://media.goodcase.ai/cases/c9c3b92466ec.jpg" width="160" alt="Seedance 2.5 抖音风机车炫酷转场竖屏短片"></a> | [Seedance 2.5 抖音风机车炫酷转场竖屏短片](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0) | 2.5 | 15 |
-| <a href="https://goodcase.ai/cases/case-779580528a24"><img src="https://media.goodcase.ai/media/poster/case-779580528a24.jpg" width="160" alt="夜间动漫风格涂鸦隧道场景"></a> | [夜间动漫风格涂鸦隧道场景](https://goodcase.ai/cases/case-779580528a24) | 2.0 | 5 |
+
+其余 5 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

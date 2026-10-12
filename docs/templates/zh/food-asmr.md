@@ -66,7 +66,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 6 条，按热度）
+## 这一类的案例（已归类 9 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -74,6 +74,9 @@
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e"><img src="https://media.goodcase.ai/cases/5cd3bc416625.jpg" width="160" alt="酒店房间深夜关东煮试吃"></a> | [酒店房间深夜关东煮试吃](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) | 2.5 | 83 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698"><img src="https://media.goodcase.ai/cases/b3cd9e34db34.jpg" width="160" alt="GPT Image 2 + Seedance 看饿人的吃播短片"></a> | [GPT Image 2 + Seedance 看饿人的吃播短片](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) | 2.5 | 67 |
 | <a href="https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e"><img src="https://media.goodcase.ai/cases/23cf7e177f01.jpg" width="160" alt="烈焰翻锅的餐厅主厨"></a> | [烈焰翻锅的餐厅主厨](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e) | 2.5 | 59 |
+| <a href="https://goodcase.ai/cases/seedance-created-this-cozy-cinematic-coffee-video-featuring-the-beautiful-atmosphere-of-14430e640031"><img src="https://media.goodcase.ai/cases/a567712ff52d.jpg" width="160" alt="现代咖啡馆里的暖调咖啡时光"></a> | [现代咖啡馆里的暖调咖啡时光](https://goodcase.ai/cases/seedance-created-this-cozy-cinematic-coffee-video-featuring-the-beautiful-atmosphere-of-14430e640031) | 2.0 | 58 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22"><img src="https://media.goodcase.ai/cases/11f308ce415a.jpg" width="160" alt="乡村厨房蒜香炒青菜的制作过程"></a> | [乡村厨房蒜香炒青菜的制作过程](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22) | 2.5 | 56 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-30-second-live-action-food-sequence-showing-f550d5208324"><img src="https://media.goodcase.ai/cases/bf247d7db513.jpg" width="160" alt="韩式脆皮辣酱炸鸡制作"></a> | [韩式脆皮辣酱炸鸡制作](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-30-second-live-action-food-sequence-showing-f550d5208324) | 2.5 | 51 |
 | <a href="https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89"><img src="https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg" width="160" alt="韩国女生辣味挑战崩溃实录"></a> | [韩国女生辣味挑战崩溃实录](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) | 2.5 | 50 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6"><img src="https://media.goodcase.ai/cases/b7e548a0f7a9.jpg" width="160" alt="爆汁生煎包的酥脆出锅时刻"></a> | [爆汁生煎包的酥脆出锅时刻](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6) | 2.5 | 38 |
 

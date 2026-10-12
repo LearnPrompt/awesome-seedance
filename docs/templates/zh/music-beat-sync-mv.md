@@ -65,7 +65,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 16 条，按热度）
+## 这一类的案例（已归类 19 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -75,14 +75,14 @@
 | <a href="https://goodcase.ai/cases/vibrant-k-pop-stage-performance"><img src="https://media.goodcase.ai/media/poster/vibrant-k-pop-stage-performance.jpg" width="160" alt="Vibrant K-pop Stage Performance"></a> | [Vibrant K-pop Stage Performance](https://goodcase.ai/cases/vibrant-k-pop-stage-performance) | 2.0 | 80 |
 | <a href="https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd"><img src="https://media.goodcase.ai/cases/506d85ad9946.jpg" width="160" alt="聚光灯下的偶像舞台秀"></a> | [聚光灯下的偶像舞台秀](https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd) | 2.5 | 65 |
 | <a href="https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6"><img src="https://media.goodcase.ai/media/poster/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6.jpg" width="160" alt="霓虹未来舞台K-pop劲舞"></a> | [霓虹未来舞台K-pop劲舞](https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6) | 2.0 | 62 |
+| <a href="https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea"><img src="https://media.goodcase.ai/cases/bb9a4f80c61a.jpg" width="160" alt="韩国女歌手跨场景舞台说唱"></a> | [韩国女歌手跨场景舞台说唱](https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea) | 2.5 | 57 |
+| <a href="https://goodcase.ai/cases/seedance-2-5-15-second-cinematic-16-9-ultra-realistic-live-action-tokyo-street-style-dance-v-2f821bb72e06"><img src="https://media.goodcase.ai/cases/f2027a8ab748.jpg" width="160" alt="双人舞从东京夕照舞室到霓虹街巷与天台"></a> | [双人舞从东京夕照舞室到霓虹街巷与天台](https://goodcase.ai/cases/seedance-2-5-15-second-cinematic-16-9-ultra-realistic-live-action-tokyo-street-style-dance-v-2f821bb72e06) | 2.5 | 52 |
 | <a href="https://goodcase.ai/cases/seedance-get-ready-for-a-pure-adrenaline-rush-a8a9f11d2ea3"><img src="https://media.goodcase.ai/cases/8f97dab045b0.jpg" width="160" alt="白西装绅士的霓虹节拍漫步"></a> | [白西装绅士的霓虹节拍漫步](https://goodcase.ai/cases/seedance-get-ready-for-a-pure-adrenaline-rush-a8a9f11d2ea3) | 2.5 | 50 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe"><img src="https://media.goodcase.ai/cases/ab8461f87268.jpg" width="160" alt="雨夜霓虹中走向黎明的女歌手"></a> | [雨夜霓虹中走向黎明的女歌手](https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe) | 2.0 | 40 |
+| <a href="https://goodcase.ai/cases/seedance-seedance-2-5-on-de41ac4699ab"><img src="https://media.goodcase.ai/cases/ca470df1ef11.jpg" width="160" alt="韩国校园操场舞蹈表演"></a> | [韩国校园操场舞蹈表演](https://goodcase.ai/cases/seedance-seedance-2-5-on-de41ac4699ab) | 2.5 | 31 |
 | <a href="https://goodcase.ai/cases/iphone-shot-street-dance-music-video"><img src="https://media.goodcase.ai/cases/16039c423213.jpg" width="160" alt="iPhone-shot Street Dance Music Video"></a> | [iPhone-shot Street Dance Music Video](https://goodcase.ai/cases/iphone-shot-street-dance-music-video) | 2.0 | 21 |
-| <a href="https://goodcase.ai/cases/case-887d0484c2ce"><img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="160" alt="可口可乐时尚转场广告"></a> | [可口可乐时尚转场广告](https://goodcase.ai/cases/case-887d0484c2ce) | 2.0 | 17 |
-| <a href="https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="160" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕"></a> | [Seedance 2.5 涩谷街头K-pop舞蹈同步字幕](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8) | 2.5 | 15 |
-| <a href="https://goodcase.ai/cases/case-24775a8dc979"><img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="160" alt="音乐视频编舞与身份设定"></a> | [音乐视频编舞与身份设定](https://goodcase.ai/cases/case-24775a8dc979) | 2.0 | 6 |
 
-其余 4 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
+其余 7 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

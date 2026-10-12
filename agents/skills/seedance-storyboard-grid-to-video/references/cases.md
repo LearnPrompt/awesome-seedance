@@ -1,6 +1,6 @@
 # Case evidence · Storyboard grid to video
 
-11 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+14 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -312,7 +312,265 @@ The afternoon has transitioned into golden ho
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E6 · Flaming Spear Hero Battles the Stone Colossi
+## E6 · Elsa’s Midnight Croissants and the Empty Coffee Cup
+
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 47
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-premium-photorealistic-cinematic-30-second-live-action-food-commercial-67403ea43ed5) · [finished media](https://media.goodcase.ai/cases/adbb3917c618.mp4) · [poster](https://media.goodcase.ai/cases/e6bbd55f9455.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2095105440392818697)
+- Summary: Made with seedance 2.5 Prompt: ⤵️ Create a premium photorealistic cinematic 30-second live-action food commercial using
+
+```text
+⤵️ 
+
+Create a premium photorealistic cinematic 30-second live-action food commercial using BOTH reference images:
+
+@Image1 = ELSA MASTER CHARACTER REFERENCE
+@Image2 = MASTER STORYBOARD
+
+IMPORTANT REFERENCE PRIORITY:
+Use @Image1 as the definitive identity reference for Elsa.
+Use @Image2 as the definitive visual and chronological guide for the entire video.
+
+Follow the 15 storyboard panels in @Image2 from beginning to end.
+Do not treat the storyboard as 15 separate still images.
+Recreate each panel as real cinematic live-action footage and connect every shot naturally.
+
+DURATION:
+Exactly 30 seconds.
+
+FORMAT:
+16:9 landscape.
+
+SHOT STRUCTURE:
+15 shots, approximately 2 seconds each.
+
+==================================================
+CHARACTER CONSISTENCY
+==================================================
+
+The SAME Elsa from @Image1 must appear throughout the entire video.
+
+Preserve her exact:
+facial identity,
+facial proportions,
+green eyes,
+copper-red hair,
+freckles,
+skin tone,
+body proportions,
+age appearance,
+and recognizable features.
+
+Do not redesign her face.
+Do not generate a different woman.
+Do not change her identity between shots.
+
+Keep her bakery outfit exactly consistent with @Image1:
+same clothing,
+same colors,
+same apron,
+same trousers,
+same footwear.
+
+Natural human anatomy.
+Natural hands and fingers.
+Realistic facial expressions.
+Realistic hair movement.
+
+==================================================
+OVERALL CINEMATIC STYLE
+==================================================
+
+High-end premium food commercial.
+
+Photorealistic live-action cinematography.
+
+Stylish boutique bakery at night.
+
+Warm amber tungsten lighting inside.
+Cool blue nighttime light entering through large windows.
+
+Stone preparation counters.
+Natural pale wood.
+Brushed stainless-steel equipment.
+Dark glass windows.
+Elegant professional bakery atmosphere.
+
+Strong contrast between cool midnight exterior and warm bakery interior.
+
+Beautiful shallow depth of field.
+
+Natural cinematic lens characteristics.
+
+Rich golden pastry tones.
+
+Highly detailed realistic food textures.
+
+Everything must feel physically real.
+
+NO magical transformations.
+
+==================================================
+SHOT 1 — 0:00–0:02
+BAKERY ENTRY / HOOK
+==================================================
+
+Recreate the first storyboard panel.
+
+Elsa approaches the quiet bakery at night.
+
+She enters through the glass door and looks toward the empty preparation counter.
+
+Camera begins wide and makes a controlled cinematic push toward her.
+
+Her expression is calm and subtly amused.
+
+Door movement and reflections must be physically realistic.
+
+==================================================
+SHOT 2 — 0:02–0:04
+INGREDIENTS
+==================================================
+
+Medium tracking shot.
+
+Elsa reaches the stone counter.
+
+She places flour, butter, eggs and a mixing bowl onto the work surface.
+
+Each object has believable weight and contact.
+
+Her movements are efficient and confident.
+
+Keep her face and outfit consistent with @Image1.
+
+==================================================
+SHOT 3 — 0:04–0:06
+FLOUR CLOUD
+==================================================
+
+Extreme macro.
+
+Elsa opens the flour bag.
+
+A realistic fine flour cloud rises through the warm bakery light.
+
+Individual particles are visible.
+
+The flour naturally drifts toward camera.
+
+The cloud fills most of the frame and becomes the visual transition.
+
+==================================================
+SHOT 4 — 0:06–0
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E7 · Volcanic Eruption Turns Into a Sea of Popcorn
+
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 45
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-17-second-ultra-realistic-cinematic-vertical-video-featuring-the-woman-6be0338020cb) · [finished media](https://media.goodcase.ai/cases/75519cb11dc5.mp4) · [poster](https://media.goodcase.ai/cases/d81423b0e9e5.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2104753404627268008)
+- Summary: Made with Seedance 2.5 Duration: 17 seconds Aspect Ratio: 16:9 Prompt: Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the …
+
+```text
+Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the provided character reference.
+
+Use the newly provided female character reference as the ONLY identity reference for the main character. Do NOT use the face or identity of the woman visible in the storyboard.
+
+Use the provided 13-panel Master Storyboard as the exact visual, chronological and action guide for the entire video.
+
+CHARACTER CONSISTENCY:
+Preserve the exact facial identity of the provided woman throughout the entire video, including her facial structure, eyes, nose, lips, skin tone, long dark hair, body proportions and recognizable appearance.
+
+Her identity must remain unchanged in every shot.
+
+Keep the character visually consistent from beginning to end. No face drift, no identity change, no hairstyle transformation and no replacement character.
+
+The wardrobe should be adapted naturally for the volcanic adventure while maintaining a believable, consistent outfit throughout the sequence.
+
+IMPORTANT:
+The Master Storyboard controls the scenes, actions, camera progression, timing and visual composition.
+The provided character reference controls ONLY the identity and appearance of the main woman.
+
+Do not copy the storyboard woman's face.
+
+STORY AND ACTION:
+
+SHOT 1 — 0:00–0:02
+Begin with the woman holding an enormous transparent bag completely filled with unpopped popcorn kernels near the edge of a massive volcanic crater.
+
+Use a close-to-medium cinematic perspective showing her, the giant popcorn bag and the glowing crater in the background.
+
+She looks toward the crater with curious anticipation.
+
+SHOT 2 — 0:02–0:03
+Move closer as she looks down toward the crater.
+
+Her expression changes slightly as she watches the glowing lava below.
+
+The giant popcorn bag remains firmly in her hands.
+
+SHOT 3 — 0:03–0:04
+She releases the giant popcorn bag.
+
+The transparent bag begins falling downward into the crater.
+
+Use a dynamic camera movement following the falling bag.
+
+Keep the bag physically consistent and clearly visible.
+
+SHOT 4 — 0:04–0:05
+The bag hangs above the glowing lava crater.
+
+Use a dramatic overhead perspective looking down into the circular volcanic formation.
+
+The bag continues descending naturally under gravity.
+
+The glowing lava illuminates the transparent plastic and popcorn kernels.
+
+SHOT 5 — 0:05–0:06
+The bag falls closer toward the lava.
+
+Increase the sense of speed while maintaining realistic gravity and physical motion.
+
+The camera follows the bag toward the center of the crater.
+
+SHOT 6 — 0:06–0:08
+The crater suddenly erupts.
+
+A powerful vertical volcanic burst rises from the center.
+
+The popcorn bag is caught in the eruption.
+
+Use a dramatic wide overhead shot showing the full scale of the crater.
+
+SHOT 7 — 0:08–0:09
+The eruption transforms into an enormous explosion of freshly popped popcorn.
+
+Thousands of realistic popcorn pieces burst upward and outward.
+
+Use a fast cinematic camera push into the popcorn cloud.
+
+Each popcorn piece should have believable individual motion.
+
+SHOT 8 — 0:09–0:10
+The popcorn explosion fills the frame and transitions into the interior of a small vehicle or cabin.
+
+Popcorn rushes through the space and begins accumulating everywhere.
+
+Use strong forward motion as the popcorn wave moves toward the camera.
+
+SHOT 9 — 0:10–0:12
+The cabin rapidly fills with popcorn.
+
+Popcorn rises from the floor and piles naturally around the seats and interior surfaces.
+
+The volume increases continuously until the woman
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E8 · Flaming Spear Hero Battles the Stone Colossi
 
 - Seedance 2.5 · creator: @Xaroon_x · heat: 41
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) · [finished media](https://media.goodcase.ai/cases/3213936a04bc.mp4) · [poster](https://media.goodcase.ai/cases/4f05b16f382b.jpg) · [original source](https://x.com/Xaroon_x/status/2100595334833422793)
@@ -343,132 +601,4 @@ The afternoon has transitioned into golden ho
 00:14.0–00:15.0 F20: Final wide shot; hero faces colossal face.
 
 PRIORITY: Image 1 controls the complete video sequence and choreography. Image 2 controls ONLY male identity. Maintain exact identity, costume, weapon, environment, scale, lighting and geography. No female, extra heroes, modern objects, cartoon style, text, subtitles or watermark.
-```
-
-## E7 · Falling Astronaut Awakens a Giant Spacecraft Above the Clouds
-
-- Seedance 2.5 · creator: @Xaroon_x · heat: 34
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-hollywood-sci-fi-cinematic-video-following-r-c3fdac6c09f5) · [finished media](https://media.goodcase.ai/cases/f54522516fc0.mp4) · [poster](https://media.goodcase.ai/cases/f79a3ebc0ccd.jpg) · [original source](https://x.com/Xaroon_x/status/2101313046383821093)
-- Summary: From the clouds to the unknown . A cinematic sci-fi journey created with Seedance 2.5. Exploring cinematic AI video creation with @ImagineArt_X Prompt: REFERENC…
-
-```text
-REFERENCE IMAGE 1 = EXACT MALE CHARACTER
-REFERENCE IMAGE 2 = EXACT 30-PANEL STORYBOARD
-
-Create a 30-second ultra-realistic Hollywood sci-fi cinematic video following REFERENCE IMAGE 2 exactly in sequence, composition, camera movement, action and visual progression.
-
-CHARACTER:
-Use the male character from REFERENCE IMAGE 1 as the ONLY main character. Preserve his exact identity, facial structure, eyes, eyebrows, nose, lips, jawline, beard, moustache, hairstyle, hairline, skin tone, apparent age and body proportions. Never change his face or make him look like another actor. Keep his identity perfectly consistent whenever his face is visible.
-
-Transform his clothing into a realistic futuristic white EVA astronaut suit while keeping his exact face, hair characteristics and body proportions. Suit: white armored panels, dark gray/black technical sections, black gloves, transparent helmet visor, chest controls, life-support backpack, hoses and realistic mechanical joints. Keep the same suit throughout.
-
-SPACECRAFT:
-Use ONE identical futuristic spacecraft throughout. Dark gunmetal/graphite body, large angular armored fuselage, broad swept wings, central cockpit, detailed mechanical structures and large twin rear engines with amber/orange lights. Never redesign, reshape or duplicate the spacecraft.
-
-STYLE:
-Photorealistic high-budget Hollywood science-fiction film. ARRI Alexa cinematic look, realistic skin and metal textures, physically accurate reflections, volumetric clouds, atmospheric haze, HDR, cinematic depth of field, subtle film grain, realistic motion blur and natural lighting. 16:9 widescreen. No cartoon/anime/illustration/cheap CGI appearance.
-
-30-SECOND SHOT SEQUENCE:
-
-01 | 00:00–00:01
-Extreme wide aerial view above a gigantic ocean of clouds. Deep blue sky, massive white/gray clouds, warm sunrise in upper-right. Camera slowly moves forward.
-
-02 | 00:01–00:02
-Camera travels through thick volumetric clouds. Golden sunlight breaks through. Tiny distant figure begins appearing in center.
-
-03 | 00:02–00:03
-Reveal the male astronaut falling through the clouds, very small in frame, arms and legs extended.
-
-04 | 00:03–00:04
-Astronaut rapidly approaches camera. White EVA suit becomes clearly visible. Dramatic perspective and atmospheric depth.
-
-05 | 00:04–00:05
-Astronaut rotates naturally during free fall. Camera follows him. Face becomes visible through visor.
-
-06 | 00:05–00:06
-Medium close-up. Astronaut stabilizes himself and looks ahead. Clouds softly blurred behind him. Preserve exact face from Reference Image 1.
-
-07 | 00:06–00:07
-He brings both hands toward his chest and looks down at a small futuristic mechanical device.
-
-08 | 00:07–00:08
-Closer shot. He carefully inspects the metallic gold/bronze device with both black-gloved hands.
-
-09 | 00:08–00:09
-Extreme close-up of hands and device. He activates a mechanism. Small amber light begins glowing.
-
-10 | 00:09–00:10
-Macro device shot. Intricate mechanical components move while the central core glows brighter golden-orange.
-
-11 | 00:10–00:11
-Close-up of astronaut's face. Golden device light reflects naturally across his face and helmet. Focused expression.
-
-12 | 00:11–00:12
-A gigantic spacecraft begins deploying behind him. Large mechanical structures unfold and amber lights appear.
-
-13 | 00:12–00:13
-Frontal reveal. Wide spacecraft wings extend left and right behind the astronaut. Massive scale.
-
-14 | 00:13–00:14
-Spacecraft becomes fully deployed: dark gunmetal body, angular wings, centr
-
-[… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · High-Energy Spicy Potato Chips Commercial Storyboard
-
-- Seedance 2.5 · creator: @Strength04_X · heat: 25 · stability: 82
-- Evidence: [GoodCase](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375) · [finished media](https://media.goodcase.ai/media/video/strength04-x-seedance-ai-be4ae9f1e375.mp4) · [poster](https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg) · [original source](https://x.com/Strength04_X/status/2094298786122379298)
-- Summary: Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
-
-```text
-Nano Banana 2 × Seedance 2.5 
-
-Prompt b- TITLE:
-Premium Spicy Potato Chips Product Commercial Storyboard
-
-FORMAT:
-• Single-page premium storyboard
-• 3:4 Portrait ratio
-• Gourmet snack advertising campaign
-• 8 cinematic product-focused scenes
-• Product remains the main hero
-• Premium advertising agency presentation
-
-HEADER:
-• Bold modern typography
-• Information cards:
-  - Duration: 20 Seconds
-  - Style: High-Energy Food Commercial
-  - Product: Spicy Potato Chips
-  - Audio: Crunch ASMR + Fast Beat
-• Why This Style Works section
-• Deep red, orange and cream aesthetic
-• Minimal chili and spice decorative elements
-
-STORYBOARD:
-1. Premium chips packet standing dramatically on a dark surface
-2. Packet opening with chips bursting upward
-3. Extreme macro of crispy ridged chip texture
-4. Red chili seasoning falling onto chips in slow motion
-5. Chips rotating through a dramatic spice cloud
-6. One chip snapping with tiny crumbs flying outward
-7. Full bowl of seasoned chips beside the hero packet
-8. Final product packshot with chips and dramatic seasoning splash
-
-EVERY PANEL:
-• Scene number
-• Duration badge
-• Camera direction
-• Visual
-• Action
-• Product detail
-
-CAMERA:
-Extreme macro, high-speed photography, slow-motion seasoning, dynamic push-in, controlled food splash, dramatic hero framing.
-
-STYLE:
-Ultra-realistic snack commercial, detailed crispy texture, realistic seasoning particles, sharp packaging details, dramatic studio lighting, premium food photography, 8K.
-
-@itsPolloAI #PolloAl #Pollomarketingstudio
 ```

@@ -66,12 +66,13 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 11 条，按热度）
+## 这一类的案例（已归类 12 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-269d1fc95820"><img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="160" alt="不会有人认为这是真的吧？😄"></a> | [不会有人认为这是真的吧？😄](https://goodcase.ai/cases/seedance-269d1fc95820) | 2.5 | 92 |
 | <a href="https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb"><img src="https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg" width="160" alt="高山雪场女子单板腾跃"></a> | [高山雪场女子单板腾跃](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) | 2.0 | 80 |
+| <a href="https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c"><img src="https://media.goodcase.ai/cases/0f6e8055f9d7.jpg" width="160" alt="金发女子高跟鞋踢出精彩进球"></a> | [金发女子高跟鞋踢出精彩进球](https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c) | 2.0 | 72 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5"><img src="https://media.goodcase.ai/cases/d9e8d052ad57.jpg" width="160" alt="自行车快递员穿梭都市"></a> | [自行车快递员穿梭都市](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) | 2.5 | 65 |
 | <a href="https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229"><img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg" width="160" alt="女子车手险胜山地自行车决赛"></a> | [女子车手险胜山地自行车决赛](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) | 2.5 | 60 |
 | <a href="https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e"><img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg" width="160" alt="Seedance 单板滑雪地形公园流畅滑行短片"></a> | [Seedance 单板滑雪地形公园流畅滑行短片](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) | 2.5 | 58 |

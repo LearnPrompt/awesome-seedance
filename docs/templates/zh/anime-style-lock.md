@@ -64,24 +64,24 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 27 条，按热度）
+## 这一类的案例（已归类 31 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4"><img src="https://media.goodcase.ai/cases/4e5f9347c75d.jpg" width="160" alt="蓝夹克双辫女剑士破框而出"></a> | [蓝夹克双辫女剑士破框而出](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4) | 2.5 | 95 |
 | <a href="https://goodcase.ai/cases/2d-38a41133eab1"><img src="https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg" width="160" alt="手绘 2D 日本料理动画"></a> | [手绘 2D 日本料理动画](https://goodcase.ai/cases/2d-38a41133eab1) | 2.0 | 90 |
 | <a href="https://goodcase.ai/cases/lianaalane-seedance-ai-d70d42733c55"><img src="https://media.goodcase.ai/cases/34deb8da196d.jpg" width="160" alt="Seedance 双角色 2D 动漫：小风筝的十四秒冒险"></a> | [Seedance 双角色 2D 动漫：小风筝的十四秒冒险](https://goodcase.ai/cases/lianaalane-seedance-ai-d70d42733c55) | 2.0 | 88 |
 | <a href="https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0"><img src="https://media.goodcase.ai/media/poster/sairah-0-seedance-ai-19e5d269c3e0.jpg" width="160" alt="GPT Image 2 + Seedance 真人实拍混二维手绘动画"></a> | [GPT Image 2 + Seedance 真人实拍混二维手绘动画](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0) | 2.5 | 76 |
+| <a href="https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-curly-black-hair-a-yellow-apron-e8eb28cbd332"><img src="https://media.goodcase.ai/cases/17a2133f0f57.jpg" width="160" alt="迷你厨师的煎饼大冒险"></a> | [迷你厨师的煎饼大冒险](https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-curly-black-hair-a-yellow-apron-e8eb28cbd332) | 2.5 | 72 |
 | <a href="https://goodcase.ai/cases/seedance-created-a-dramatic-top-down-shot-of-a-pink-haired-anime-style-girl-falling-thro-b2957665e618"><img src="https://media.goodcase.ai/cases/542781a44581.jpg" width="160" alt="粉发少女坠落后金瞳觉醒"></a> | [粉发少女坠落后金瞳觉醒](https://goodcase.ai/cases/seedance-created-a-dramatic-top-down-shot-of-a-pink-haired-anime-style-girl-falling-thro-b2957665e618) | 2.0 | 70 |
 | <a href="https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89"><img src="https://media.goodcase.ai/media/poster/aiwithlariab-seedance-ai-801301860e89.jpg" width="160" alt="Seedance 吉卜力风治愈料理动画"></a> | [Seedance 吉卜力风治愈料理动画](https://goodcase.ai/cases/aiwithlariab-seedance-ai-801301860e89) | 2.0 | 68 |
 | <a href="https://goodcase.ai/cases/seedance-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-97abc37074ae"><img src="https://media.goodcase.ai/media/poster/seedance-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-97abc37074ae.jpg" width="160" alt="蓝发街头少女极速跃动"></a> | [蓝发街头少女极速跃动](https://goodcase.ai/cases/seedance-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-97abc37074ae) | 2.0 | 56 |
 | <a href="https://goodcase.ai/cases/vlog-9e1f21c2fdf5"><img src="https://media.goodcase.ai/media/poster/vlog-9e1f21c2fdf5.jpg" width="160" alt="混合现实家居 Vlog 动画"></a> | [混合现实家居 Vlog 动画](https://goodcase.ai/cases/vlog-9e1f21c2fdf5) | 2.0 | 55 |
 | <a href="https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57"><img src="https://media.goodcase.ai/media/poster/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57.jpg" width="160" alt="白猫与青年在晨光公寓相拥"></a> | [白猫与青年在晨光公寓相拥](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57) | 2.0 | 51 |
+| <a href="https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-curly-black-hair-a-pink-apron-ye-8c5512b15aed"><img src="https://media.goodcase.ai/cases/93059543df7b.jpg" width="160" alt="迷你厨娘的巨型爆米花大作战"></a> | [迷你厨娘的巨型爆米花大作战](https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-curly-black-hair-a-pink-apron-ye-8c5512b15aed) | 2.5 | 46 |
 | <a href="https://goodcase.ai/cases/seedance-a-stylish-young-woman-wearing-a-bright-green-bomber-jacket-a-colorful-striped-2da70cbfbb51"><img src="https://media.goodcase.ai/cases/f92558c80a30.jpg" width="160" alt="东京站台弹指穿梭动漫与现实"></a> | [东京站台弹指穿梭动漫与现实](https://goodcase.ai/cases/seedance-a-stylish-young-woman-wearing-a-bright-green-bomber-jacket-a-colorful-striped-2da70cbfbb51) | 2.5 | 39 |
-| <a href="https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366"><img src="https://media.goodcase.ai/cases/fcc7eb7c3ab9.jpg" width="160" alt="少女滑板穿行海滨山城"></a> | [少女滑板穿行海滨山城](https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366) | 2.5 | 35 |
-| <a href="https://goodcase.ai/cases/case-e7dccea90d44"><img src="https://media.goodcase.ai/media/poster/case-e7dccea90d44.jpg" width="160" alt="森林野餐动画场景"></a> | [森林野餐动画场景](https://goodcase.ai/cases/case-e7dccea90d44) | 2.0 | 26 |
-| <a href="https://goodcase.ai/cases/case-30f9477f562c"><img src="https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg" width="160" alt="动画海盗动作序列"></a> | [动画海盗动作序列](https://goodcase.ai/cases/case-30f9477f562c) | 2.0 | 23 |
 
-其余 15 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
+其余 19 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance) 上。
 
 ---
 

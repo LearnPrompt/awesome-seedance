@@ -64,11 +64,15 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 5 条，按热度）
+## 这一类的案例（已归类 9 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-photorealistic-30-second-vertical-video-using-the-provided-9668ab5250ad"><img src="https://media.goodcase.ai/cases/ae2aea3e33c4.jpg" width="160" alt="红裙女子提着食材登上云端山顶小屋"></a> | [红裙女子提着食材登上云端山顶小屋](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-photorealistic-30-second-vertical-video-using-the-provided-9668ab5250ad) | 2.5 | 91 |
+| <a href="https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc"><img src="https://media.goodcase.ai/cases/6fb950b9cf00.jpg" width="160" alt="青柠西装女子静立躁动人群"></a> | [青柠西装女子静立躁动人群](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc) | 2.5 | 86 |
+| <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-0109d7f993a1"><img src="https://media.goodcase.ai/cases/1245b6f5602a.jpg" width="160" alt="像素穿梭中的连续换装"></a> | [像素穿梭中的连续换装](https://goodcase.ai/cases/just-sharon7-seedance-ai-0109d7f993a1) | 2.0 | 83 |
 | <a href="https://goodcase.ai/cases/elsasofia-ai-seedance-ai-e087ab2aed4b"><img src="https://media.goodcase.ai/cases/d0baab1d99c4.jpg" width="160" alt="Seedance 2.5 多参考图锁定人物形象短片"></a> | [Seedance 2.5 多参考图锁定人物形象短片](https://goodcase.ai/cases/elsasofia-ai-seedance-ai-e087ab2aed4b) | 2.5 | 64 |
+| <a href="https://goodcase.ai/cases/seedance-0-3-5s-keep-the-girl-in-the-exact-same-position-pose-movement-camera-angle-485cd1ba6c76"><img src="https://media.goodcase.ai/cases/432fa1f0c6d9.jpg" width="160" alt="金翼少女与钢铁侠的高空交锋"></a> | [金翼少女与钢铁侠的高空交锋](https://goodcase.ai/cases/seedance-0-3-5s-keep-the-girl-in-the-exact-same-position-pose-movement-camera-angle-485cd1ba6c76) | 2.5 | 57 |
 | <a href="https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42"><img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-dd263958ed42.jpg" width="160" alt="Seedance 2.5 男友视角手机实拍感情侣短片"></a> | [Seedance 2.5 男友视角手机实拍感情侣短片](https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42) | 2.5 | 29 |
 | <a href="https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff"><img src="https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg" width="160" alt="Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画"></a> | [Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff) | 2.5 | 8 |
 | <a href="https://goodcase.ai/cases/case-79acf1a3e8a6"><img src="https://media.goodcase.ai/media/poster/case-79acf1a3e8a6.jpg" width="160" alt="高质量动漫泳装视频"></a> | [高质量动漫泳装视频](https://goodcase.ai/cases/case-79acf1a3e8a6) | 2.0 | 5 |
