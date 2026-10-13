@@ -72,7 +72,7 @@ test("methodLabel drops the creator prefix and adds the style tag only when it s
 
 test("renderSkillListDoc: intro counts, explicit anchors, install blocks and creator-method tables in all three languages", () => {
   for (const lang of LANGS) {
-    const md = renderSkillListDoc(data, lang);
+    const md = renderSkillListDoc(data, lang, { campaign: "skills" });
     const own = skillListFileName(lang);
     assert.ok(md.split("\n")[0].includes(`**[`) && md.split("\n")[0].includes(`](./${own})**`), `${lang}: switcher bolds the current page`);
     for (const l of LANGS) assert.ok(md.includes(`(./${skillListFileName(l)})`), `${lang}: switcher links ${l}`);
@@ -87,8 +87,19 @@ test("renderSkillListDoc: intro counts, explicit anchors, install blocks and cre
     }
     assert.ok(md.includes("```bash\nnpx skills add LearnPrompt/goodcase-lite --skill alpha\n```"), `${lang}: official install block`);
     assert.ok(md.includes("`npx skills add LearnPrompt/goodcase-lite --skill alpha-by-2`"), `${lang}: method install inline`);
-    assert.ok(md.includes("(https://goodcase.ai/skills/alpha-by-1?utm_source=awesome-seedance)"), `${lang}: UTM on method link`);
-    assert.ok(md.includes("(https://goodcase.ai/skills/beta?utm_source=awesome-seedance)"), `${lang}: UTM on official link`);
+    assert.ok(
+      md.includes("(https://goodcase.ai/skills/alpha-by-1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods)"),
+      `${lang}: UTM on method link`
+    );
+    assert.ok(
+      md.includes("(https://goodcase.ai/skills/beta?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)"),
+      `${lang}: UTM on official link`
+    );
+    assert.ok(
+      md.includes("(https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro)"),
+      `${lang}: UTM on intro link, filter kept`
+    );
+    assert.doesNotMatch(renderSkillListDoc(data, lang), /utm_/, `${lang}: no campaign, no UTM`);
     // 方法表在 alpha 小节里、beta 小节之前；表格里的竖线要转义
     const alpha = md.slice(md.indexOf('<a id="alpha">'), md.indexOf('<a id="beta">'));
     assert.equal((alpha.match(/^\| Kim_ai \||^\| lee \|/gm) || []).length, 2, `${lang}: both methods tabled under alpha`);

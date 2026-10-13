@@ -10,6 +10,11 @@
 // 🧩 Prompt Templates（按分类紧凑表）→ 🔥 Top 30（带预览图）→ 🎬 All Prompts → 🌐 Browse on goodcase.ai →
 // Statistics → 🚀 How to use → Contribute → Acknowledgements → Copyright → Star History → License。
 // 全量条目只放 docs/，README 控制在 ~120KB。
+//
+// goodcase.ai 网页链接的 UTM 标记（utm_source/medium/campaign/content）统一走 scripts/lib/utm.mjs 的 withUtm，
+// 取值表见该文件头注释。这里按输出文件决定 campaign：README → readme-{en,zh,ja}，docs/gallery*.md → gallery，
+// docs/skills*.md → skills，docs/templates/**/*.md → templates；章节 content 由各渲染函数或本文件的静态文案写死。
+// agents/skills/*/references/style-library.md（generate-skill-reference.mjs）不打标记。
 import { readFileSync, writeFileSync, readdirSync, unlinkSync, mkdirSync, existsSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
@@ -57,6 +62,7 @@ import {
   skillListFileName,
 } from "./lib/templates.mjs";
 import { renderSkillListDoc, siteSkillCounts } from "./lib/skill-list.mjs";
+import { withUtm, readmeCampaign, tagGoodcaseLinks } from "./lib/utm.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -145,7 +151,7 @@ const COPY = {
         s.siteTotalCases ? ` The case library draws from goodcase.ai's ${s.siteTotalCases} verified AI cases across video, image, UI and copy.` : ""
       } Case data syncs daily; new cases land every day.`,
     backlink:
-      "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
+      "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## Contents",
     pillarsHeading: "## Why this list",
     pillars: [
@@ -223,7 +229,7 @@ const COPY = {
         s.siteTotalCases ? `案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例。` : ""
       }案例数据每天同步，新案例每天入库。`,
     backlink:
-      "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
+      "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## 目录",
     pillarsHeading: "## 为什么值得收藏这个仓库",
     pillars: [
@@ -300,7 +306,7 @@ const COPY = {
         s.siteTotalCases ? `ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケースです。` : ""
       }ケースデータは毎日同期し、新しいケースが追加されます。`,
     backlink:
-      "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance)",
+      "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## 目次",
     pillarsHeading: "## このリストの特徴",
     pillars: [
@@ -382,7 +388,7 @@ function buildGalleries(lang) {
   const promptLinks = new Map();
   for (const bucket of SEEDANCE_BUCKETS) {
     const list = bucketCases[bucket];
-    const rendered = list.length ? renderGalleryParts(list, lang, { bucket }) : [];
+    const rendered = list.length ? renderGalleryParts(list, lang, { bucket, campaign: "gallery" }) : [];
     parts[bucket] = rendered;
     for (const part of rendered) {
       for (const entry of part.entries) {
@@ -407,6 +413,9 @@ function buildReadme(lang) {
   const c = COPY[lang];
   const { parts, promptLinks } = buildGalleries(lang);
   const usedHeadings = new Set();
+  // 本文件的 UTM campaign；静态文案里的 goodcase.ai 链接按所在章节打 content。
+  const campaign = readmeCampaign(lang);
+  const tag = (md, content) => tagGoodcaseLinks(md, { campaign, content });
 
   // 跨节锚点一律从当前语言的标题算出来，不硬编码（中/日文标题的锚点和英文不同）。
   const anchors = {
@@ -430,13 +439,14 @@ function buildReadme(lang) {
       cases: cases.length,
     })
   );
-  pushRendered(renderTemplateGrid(library, lang, templateIndex));
-  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases, siteSkills }));
+  pushRendered(renderTemplateGrid(library, lang, templateIndex, { campaign }));
+  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases, siteSkills, campaign }));
 
   // Top 榜是唯一可裁剪的部分：超预算时从表尾裁行，标题/说明按实际行数回填。
   const top = renderTopTable(topPartition.top, lang, {
     startRank: 1,
     promptLinkFor: (caseObj) => promptLinks.get(caseObj.slug) || null,
+    campaign,
   });
 
   const galleryBody = [c.allIntro(cases.length), ""];
@@ -447,7 +457,7 @@ function buildReadme(lang) {
   }
 
   // 复测聚焦区：meta.retests 缺失或 totalRuns 为 0 时返回 null，整节不渲染。
-  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend, retestPosterFor });
+  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend, retestPosterFor, campaign });
   const spotlightSection = spotlight
     ? [{ heading: spotlight.split("\n")[0], body: spotlight.split("\n").slice(1).join("\n").trim().split("\n") }]
     : [];
@@ -455,12 +465,12 @@ function buildReadme(lang) {
   const tailSections = [
     ...spotlightSection,
     { heading: c.allHeading, body: galleryBody },
-    { heading: c.browseHeading, body: [c.browseBody] },
+    { heading: c.browseHeading, body: [tag(c.browseBody, "browse")] },
     // awesome-lint 的 list-item 规则要求列表项以链接开头，卖点写成段落而不是列表。
-    { heading: c.pillarsHeading, body: c.pillars.flatMap((p) => [p, ""]).slice(0, -1) },
+    { heading: c.pillarsHeading, body: c.pillars.flatMap((p) => [tag(p, "why"), ""]).slice(0, -1) },
     { heading: c.statsHeading, body: [renderStatsTable(stats, lang, site), "", c.statsNote] },
-    { heading: c.contributeHeading, body: [c.contributeBody] },
-    { heading: c.ackHeading, body: [c.ackBody] },
+    { heading: c.contributeHeading, body: [tag(c.contributeBody, "submit")] },
+    { heading: c.ackHeading, body: [tag(c.ackBody, "footer")] },
     { heading: c.authorHeading, body: [c.authorBody] },
     { heading: c.copyrightHeading, body: [c.copyrightBody] },
     { heading: c.starHistory, body: [renderStarHistory()] },
@@ -486,15 +496,15 @@ function buildReadme(lang) {
   const head = [];
   head.push(renderLangSwitch(lang));
   head.push("");
-  head.push(`[<img src="./assets/hero.svg" width="100%" alt="${c.heroAlt}">](${LIVE_SITE_URL})`);
+  head.push(`[<img src="./assets/hero.svg" width="100%" alt="${c.heroAlt}">](${withUtm(LIVE_SITE_URL, { campaign, content: "hero" })})`);
   head.push("");
   head.push(c.title);
   head.push("");
   head.push(c.tagline(snapshot));
   head.push("");
-  head.push(renderBadges(lang, { all: anchors.all, retests: spotlight ? anchors.retests : null, templates: anchors.templates, skills: anchors.skills }));
+  head.push(renderBadges(lang, { all: anchors.all, retests: spotlight ? anchors.retests : null, templates: anchors.templates, skills: anchors.skills }, { campaign }));
   head.push("");
-  head.push(c.backlink);
+  head.push(tag(c.backlink, "hero"));
   head.push("");
   head.push(renderContents(allHeadings.slice(1), lang));
   const headMd = head.join("\n") + sections.map(renderSection).join("\n") + "\n";
@@ -512,7 +522,7 @@ function buildReadme(lang) {
   }
   const bytes = Buffer.byteLength(markdown, "utf8");
   const galleryIndex = renderGalleryIndex(
-    { parts, bucketCases, cases, promptLinks, templatesAnchor: anchors.templates, templateIndexHref: `./templates/${templateDocLang(lang)}/README.md` },
+    { parts, bucketCases, cases, promptLinks, templatesAnchor: anchors.templates, templateIndexHref: `./templates/${templateDocLang(lang)}/README.md`, campaign: "gallery" },
     lang
   );
   return {
@@ -561,7 +571,7 @@ for (const file of readdirSync(docsDir)) {
 
 // Skill 总表：docs/skills.md / skills.zh.md / skills.ja.md，goodcase.ai 上每个视频 Skill 一行安装命令。
 if (siteSkills) {
-  for (const lang of LANGS) writeFileSync(path.join(docsDir, skillListFileName(lang)), renderSkillListDoc(siteSkills, lang), "utf8");
+  for (const lang of LANGS) writeFileSync(path.join(docsDir, skillListFileName(lang)), renderSkillListDoc(siteSkills, lang, { campaign: "skills" }), "utf8");
 }
 
 // 模板文件：docs/templates/{zh,en}/<id>.md + 每种语言一个 README.md 索引；删掉库里已不存在的旧模板文件。
@@ -578,6 +588,7 @@ for (const lang of TEMPLATE_DOC_LANGS) {
       prev: ordered[i - 1] || null,
       next: ordered[i + 1] || null,
       readmeAnchor,
+      campaign: "templates",
     });
     writeFileSync(path.join(dir, `${tp.id}.md`), md, "utf8");
     writtenDocs.add(`${tp.id}.md`);

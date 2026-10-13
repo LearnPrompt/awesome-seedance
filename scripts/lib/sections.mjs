@@ -2,6 +2,7 @@
 // 横幅 SVG、动态徽章、Quick Links、复测聚焦区、分类总览、模板紧凑表、画廊总览页。
 // 三语（en / zh / ja）：文案走 t(lang, {en, zh, ja})；数据里的多语字段（模板/分类只有 en/zh）走 pickLang，ja 回落 en。
 // 和 render.mjs 一样：只吃数据吐字符串，不碰文件系统。
+import { utmLinker } from "./utm.mjs";
 import {
   renderTable,
   displayTitle,
@@ -26,7 +27,8 @@ const REPO = "LearnPrompt/awesome-seedance";
 const REPO_URL = `https://github.com/${REPO}`;
 const BLOB_URL = `${REPO_URL}/blob/main`;
 const RAW_STATS_URL = `https://raw.githubusercontent.com/${REPO}/main/data/stats.json`;
-export const LIVE_SITE_URL = "https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance";
+// 不带 UTM 的站点入口；各处按所在文件/章节用 withUtm / utmLinker 加参数。
+export const LIVE_SITE_URL = "https://goodcase.ai/cases?filter=video&q=seedance";
 const SPONSOR_URL = `https://github.com/${REPO}/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor`;
 
 function capitalize(str) {
@@ -93,8 +95,12 @@ function dynamicBadge(query, label, color, href) {
 }
 
 /** 顶部徽章行：案例数 / 复测次数 / 模板数 / 最近更新 走动态 JSON，Skill 版本走 npm，其余静态。 */
-/** anchors: { all, retests, templates, skills }，都是带 # 的页内锚点，由调用方按当前语言的标题算出。 */
-export function renderBadges(lang, anchors = {}) {
+/**
+ * anchors: { all, retests, templates, skills }，都是带 # 的页内锚点，由调用方按当前语言的标题算出。
+ * opts.campaign: utm_campaign；传了才给徽章指向 goodcase.ai 的链接打 UTM，content 固定 hero（徽章行属于顶部横幅区）。
+ */
+export function renderBadges(lang, anchors = {}, opts = {}) {
+  const site = utmLinker(opts.campaign, "hero")(LIVE_SITE_URL);
   const L = {
     cases: t(lang, { en: "cases", zh: "案例", ja: "ケース" }),
     retests: t(lang, { en: "cross-model retests", zh: "跨模型复测", ja: "クロスモデル再テスト" }),
@@ -103,11 +109,11 @@ export function renderBadges(lang, anchors = {}) {
     skill: t(lang, { en: "agent skill", zh: "Agent Skill", ja: "Agent Skill" }),
   };
   return [
-    dynamicBadge("$.cases", L.cases, "e8541e", anchors.all || LIVE_SITE_URL),
-    dynamicBadge("$.retestRuns", L.retests, "111111", anchors.retests || LIVE_SITE_URL),
-    dynamicBadge("$.templates", L.templates, "111111", anchors.templates || LIVE_SITE_URL),
-    dynamicBadge("$.skills", t(lang, { en: "AI video skills", zh: "AI 视频 Skill", ja: "AI 動画 Skill" }), "111111", anchors.skills || LIVE_SITE_URL),
-    dynamicBadge("$.lastUpdated", L.updated, "555555", LIVE_SITE_URL),
+    dynamicBadge("$.cases", L.cases, "e8541e", anchors.all || site),
+    dynamicBadge("$.retestRuns", L.retests, "111111", anchors.retests || site),
+    dynamicBadge("$.templates", L.templates, "111111", anchors.templates || site),
+    dynamicBadge("$.skills", t(lang, { en: "AI video skills", zh: "AI 视频 Skill", ja: "AI 動画 Skill" }), "111111", anchors.skills || site),
+    dynamicBadge("$.lastUpdated", L.updated, "555555", site),
     `[![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=${encodeURIComponent(L.skill)}&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library)`,
     "[![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE)",
     "[![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)",
@@ -266,6 +272,7 @@ export function retestHeading(lang) {
 }
 
 export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
+  const link = utmLinker(opts.campaign, "retests");
   const retestsMeta = meta && meta.retests;
   const retestPosterFor = opts.retestPosterFor || (() => null);
   if (!retestsMeta || !retestsMeta.totalRuns) return null;
@@ -331,11 +338,11 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
       const title = displayTitle(c, lang);
       const poster = retestPosterFor(c);
       const posterCell = poster
-        ? `[<img src="${poster}" width="160" alt="${escapeXml(`${latest.model}: ${title}`)}">](${c.goodcaseUrl})<br>`
+        ? `[<img src="${poster}" width="160" alt="${escapeXml(`${latest.model}: ${title}`)}">](${link(c.goodcaseUrl)})<br>`
         : "";
       return [
-        `[${title}](${c.goodcaseUrl})<br>${bucketShortLabel(classifySeedance(c), lang)} · ${t(lang, { en: "heat", zh: "热度", ja: "ヒート" })} ${c.heatScore ?? "-"}`,
-        thumbCell(c, title, 160),
+        `[${title}](${link(c.goodcaseUrl)})<br>${bucketShortLabel(classifySeedance(c), lang)} · ${t(lang, { en: "heat", zh: "热度", ja: "ヒート" })} ${c.heatScore ?? "-"}`,
+        thumbCell(c, title, 160, link),
         `${posterCell}${latest.model}<br>[${t(lang, { en: "▶ output video", zh: "▶ 复测视频", ja: "▶ 出力動画" })}](${latest.artifactUrl})`,
         `${v.icon} ${v[lang]} (${score})`,
       ];
@@ -349,7 +356,7 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
     zh: "goodcase.ai 案例页上的复测证据区",
     ja: "goodcase.ai のケースページにある再テスト証拠ブロック",
   });
-  lines.push(`[<img src="${screenshot}" width="800" alt="${alt}">](https://goodcase.ai/cases/${encodeURIComponent(showcase[0]?.slug || "")})`);
+  lines.push(`[<img src="${screenshot}" width="800" alt="${alt}">](${link(`https://goodcase.ai/cases/${encodeURIComponent(showcase[0]?.slug || "")}`)})`);
   lines.push("");
 
   const cta = t(lang, {
@@ -375,7 +382,8 @@ export const CATEGORY_ICON = {
   motion: "💥",
 };
 
-export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks, templatesAnchor = "", templateIndexHref = null }, lang) {
+export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks, templatesAnchor = "", templateIndexHref = null, campaign = null }, lang) {
+  const link = utmLinker(campaign, "index");
   const readmeName = readmeFileName(lang);
   const back = t(lang, {
     en: `← [Back to README](../${readmeName})`,
@@ -422,7 +430,7 @@ export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks, tem
       ja: "著作権と削除申請",
     })})`
   );
-  lines.push(`- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${LIVE_SITE_URL})`);
+  lines.push(`- [${t(lang, { en: "Live site on goodcase.ai", zh: "goodcase.ai 在线站", ja: "goodcase.ai のライブサイト" })}](${link(LIVE_SITE_URL)})`);
   lines.push("");
   lines.push(t(lang, { en: "## Recommended entries", zh: "## 推荐入口", ja: "## おすすめエントリ" }));
   lines.push("");
@@ -438,7 +446,7 @@ export function renderGalleryIndex({ parts, bucketCases, cases, promptLinks, tem
     const href = promptLinks.get(c.slug);
     const title = displayTitle(c, lang);
     const summary = displaySummary(c, lang);
-    lines.push(`- [${title}](${href ? href.replace(/^\.\/docs\//, "./") : c.goodcaseUrl}) - ${summary}`);
+    lines.push(`- [${title}](${href ? href.replace(/^\.\/docs\//, "./") : link(c.goodcaseUrl)}) - ${summary}`);
   }
   lines.push("");
   lines.push(back);

@@ -24,7 +24,7 @@
 - [模板索引（一个模板一个文件）](./templates/zh/README.md)
 - [Agent Skill 参考（模板全文）](../agents/skills/seedance-prompt-library/references/style-library.md)
 - [版权与下架政策](../README_zh.md#版权与下架政策)
-- [goodcase.ai 在线站](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
+- [goodcase.ai 在线站](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=index)
 
 ## 推荐入口
 

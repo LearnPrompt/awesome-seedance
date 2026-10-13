@@ -22,7 +22,6 @@ import {
   startHereHeading,
   templateDocLang,
   templatesHeading,
-  withUtm,
 } from "./templates.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -181,6 +180,32 @@ test("renderTemplateGrid renders one tile per template, 3 per row, linking to th
   assert.match(renderTemplateIndex(lib, "en", index, "#x"), /\| \[Food ASMR\]\(\.\/food-asmr\.md\) \|/);
 });
 
+test("template docs and grid: campaign tags goodcase.ai page links only; the copy block and images are left alone", () => {
+  const lib = mergeLibrary(styleData, local);
+  const ordered = orderedTemplates(lib);
+  const tp = ordered[0];
+  const many = Array.from({ length: 14 }, (_, i) => ({ ...cases[0], slug: `s${i}`, goodcaseUrl: `https://goodcase.ai/cases/s${i}`, posterUrl: `https://media.goodcase.ai/cases/s${i}.jpg` }));
+  const plain = renderTemplateDoc(tp, "en", { cases: many, prev: null, next: null, readmeAnchor: "" });
+  assert.doesNotMatch(plain, /utm_/, "no campaign, no UTM");
+  const md = renderTemplateDoc(tp, "en", { cases: many, prev: null, next: null, readmeAnchor: "", campaign: "templates" });
+  const tail = "utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates";
+  assert.ok(md.includes(`<a href="https://goodcase.ai/cases/s0?${tail}&utm_content=strip"><img src="https://media.goodcase.ai/cases/s0.jpg"`), "poster strip");
+  assert.ok(md.includes(`https://goodcase.ai/cases/s0?${tail}&utm_content=cases)`), "case table title link");
+  assert.ok(md.includes(`<a href="https://goodcase.ai/cases/s0?${tail}&utm_content=cases"><img`), "case table poster link");
+  assert.ok(md.includes(`[goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&${tail}&utm_content=cases)`), "trailing link keeps its filters");
+  assert.ok(!/<img src="[^"]*utm_/.test(md), "image sources never carry UTM");
+  // 「直接复制」围栏里的示例链接是被复制走的文本，原样保留
+  const fenced = md.split("\n").filter((l) => l.startsWith("**Examples:**"));
+  assert.equal(fenced.length, 1);
+  assert.doesNotMatch(fenced[0], /utm_/);
+
+  const index = buildTemplateIndex(lib.templates, { assignments: {} }, cases);
+  const grid = renderTemplateGrid(lib, "en", index, { campaign: "readme-en" });
+  assert.ok(grid.includes("utm_campaign=readme-en&utm_content=templates"), "Top case links tagged");
+  assert.ok(!/href="\.\/docs[^"]*utm_/.test(grid), "internal template links untouched");
+  assert.doesNotMatch(renderTemplateGrid(lib, "en", index), /utm_/);
+});
+
 const skillsData = {
   moreUrl: "https://goodcase.ai/skills?category=video",
   skills: [
@@ -226,16 +251,20 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
   assert.equal((md.match(/个创作者方法<\/a>/g) || []).length, 1, "tile without siteSlug gets no variant line");
   assert.match(md, /下面是 2 个 Skill，另有 2 个创作者方法/, "intro total counts only methods under the grid's tiles");
   assert.ok(md.includes("[goodcase.ai 上全部 5 个视频 Skill，含 3 个创作者方法 →](./docs/skills.zh.md)"), "line under the grid links the full list");
-  assert.ok(md.includes('href="https://goodcase.ai/skills/b?utm_source=awesome-seedance"'), "tile title still links to goodcase.ai with UTM");
+  assert.ok(md.includes('href="https://goodcase.ai/skills/b"'), "without a campaign links are left untagged");
   assert.ok(md.includes('href="https://github.com/x/a"'), "non-goodcase links are left alone");
+  const tagged = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: () => [], siteSkills, campaign: "readme-zh" });
+  assert.ok(
+    tagged.includes('href="https://goodcase.ai/skills/b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"'),
+    "tile title links to goodcase.ai with the full UTM set"
+  );
+  assert.ok(tagged.includes('href="https://github.com/x/a"'), "non-goodcase links stay untagged under a campaign");
   assert.equal(countSkills(skillsData, siteSkills), 4);
   assert.equal(countSkills(skillsData), 2, "without site-skills data only tiles are counted");
   assert.equal(creatorMethodCount(skillsData.skills[1], siteSkills), 2);
   assert.equal(creatorMethodCount(skillsData.skills[0], siteSkills), 0);
   const noSite = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: () => [] });
   assert.doesNotMatch(noSite, /创作者方法<\/a>|docs\/skills/, "no site-skills data: no variant lines and no list link");
-  assert.equal(withUtm("https://goodcase.ai/skills?category=video"), "https://goodcase.ai/skills?category=video&utm_source=awesome-seedance");
-  assert.equal(withUtm(withUtm("https://goodcase.ai/x")), "https://goodcase.ai/x?utm_source=awesome-seedance");
   assert.match(md, /制作工作流 Skill 则单独维护/, "the hand-maintained workflow must not be described as regenerated from cases");
   const en = renderSkillGrid(skillsData, "en", bySlug, { coverCasesFor: () => [], siteSkills });
   assert.match(en, /the production workflow is maintained separately/);

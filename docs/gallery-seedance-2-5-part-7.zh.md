@@ -10,7 +10,7 @@ Seedance 2.5 全部 549 条案例，按热度分排序。由 data/cases.json 生
 
 > Seedance 2.5这场景切换有点丝滑啊， 做了一个小短片：给长大后的我。 主题：纸飞机飞过城市四季，最后落进小时候的自己手里。 提示词： 生成一支15秒、16:9、720p的写实电影质感奇幻短片。全片以同一架米白色手折纸飞机为唯一主角
 
-[<img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-10c1ac4f1c20.jpg" width="600" alt="纸飞机飞越老城四季">](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20)
+[<img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-10c1ac4f1c20.jpg" width="600" alt="纸飞机飞越老城四季">](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @liyue_ai | **来源:** [原帖](https://x.com/liyue_ai/status/2092147008895426977) | **发布:** 2026-08-25 | **热度:** 21
 
@@ -37,13 +37,13 @@ Seedance 2.5 全部 549 条案例，按热度分排序。由 data/cases.json 生
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 健身女孩训练 vlog 短片
 
 > 健身女孩 vlog 视频📺 Seedance 2.5 prompt 👇 【风格】真人写实健身房训练短片（Photorealistic Fitness Video），高密度卡点剪辑（Beat-synced Rapid Cuts），运动广告
 
-[<img src="https://media.goodcase.ai/cases/35da6d19164d.jpg" width="600" alt="Seedance 2.5 健身女孩训练 vlog 短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b)
+[<img src="https://media.goodcase.ai/cases/35da6d19164d.jpg" width="600" alt="Seedance 2.5 健身女孩训练 vlog 短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2089622062369243210) | **发布:** 2026-08-18 | **热度:** 21
 
@@ -177,13 +177,13 @@ Seedance 2.5 prompt 👇
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 电影级分手表演提示词
 
 > 一份为 Seedance 2.5 设计的 15 秒结构化视频提示词，旨在呈现情感细腻的分手场景，重点刻画表情表演、呼吸节奏及心理转变，全程无剪辑。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg" width="600" alt="Seedance 电影级分手表演提示词">](https://goodcase.ai/cases/seedance-3b9beb9a46d4)
+[<img src="https://media.goodcase.ai/media/poster/seedance-3b9beb9a46d4.jpg" width="600" alt="Seedance 电影级分手表演提示词">](https://goodcase.ai/cases/seedance-3b9beb9a46d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @liyue_ai | **来源:** [原帖](https://x.com/liyue_ai/status/2090378405288300626) | **发布:** 2026-08-20 | **热度:** 20
 
@@ -191,13 +191,13 @@ Seedance 2.5 prompt 👇
 ## 一、镜头核心 - 成片时长：约 15 秒。 - 推荐画幅：16:9。原文件是 9:16 教程排版，但其中的人物表演画面本身接近横向 16:9。 - 镜头形式：第三人称、正面越肩构图、一镜到底，不切正反打。 - 景别变化：从近景/胸上景开始，结尾因女主后撤自然变为稍松的中近景。 - 情绪路径：紧张准备 → 听见熟悉问候 → 短暂动摇 → 苦笑掩饰 → 决绝宣告 → 克制退场。 - 核心表演链：刺激（门开、听见男声）→ 理解停顿 → 无意识反应（闭眼、吸气）→ 主动选择（抬眼、苦笑）→ 台词（“WE'RE DONE.”）→ 残留情绪（仍不舍但拉开距离）。 ## 二、人物与场景 ### 女主 参考上传图片 {{Mixed 1}} 外表柔软、干净，真实皮肤质感，不过度磨皮。她来这里之前已经做过决定，但真正见到男主时仍会动摇；表演不是愤怒，而是压住痛苦后的告别。 ### 男主 只以镜头右前方的深色失焦肩部、头部轮廓出现，不露脸、不抢焦、不进入清晰景深。声音温和、亲昵，尚未意识到女主是来结束关系的。 ### 场景与氛围 住宅门口或临近庭院的入口，背景可见柔化的绿色植物、浅灰路面和几颗暖色圆形散景。整体是傍晚前后的自然光感：人物左前方约 45° 的柔和冷白主光，背景带少量暖金色轮廓光。空间安静，空气似乎刚下过雨或带着潮湿感。氛围温柔、克制、疏离，不做强烈戏剧化灯光。 > 说明：焦段与灯光参数是根据画面反推的复拍建议，并非原视频元数据。建议使用全画幅等效 70–100mm 中长焦、较浅景深；焦点始终锁定女主双眼。 ## 三、15 秒连续表演脚本 ### 0.0–0.8 秒｜门开，人物被揭示 画面先被男主深色、严重失焦的身体轮廓大面积遮住。门打开后，男主略微向镜头右侧移动，女主从遮挡后被揭示，站在门外，正对男主。机位保持稳定，不突然推拉。 女主没有立刻抬头。她下巴轻收，视线停在男主胸口或门槛附近，嘴唇自然分开一点。身体看似安静，但肩颈带着轻微僵硬，像已经在门外排练过很多次。 声音：轻微开门声、衣料摩擦、安静的户外底噪。 ### 0.8–3.2 秒｜用呼吸压住情绪 女主缓慢吸气，动作很小：胸口与锁骨区域轻微抬起，肩膀先绷紧一点，再缓慢落下。她的目光仍向下，眼睑逐渐闭合，闭眼时间略长于正常眨眼。 不要立刻流泪，不要夸张皱眉。只保留两个可见信号：呼吸变深、唇角轻微发紧。她试图把即将失控的情绪压回去。 镜头：固定近景，浅景深，男主虚化轮廓留在画面右侧作为关系压力。 ### 3.2–5.4 秒｜听见熟悉的问候 男主画外音自然地说：“Hey, what's up, baby?” 语气轻松、带一点笑意，像平常迎接她一样。 女主先保持闭眼约半秒，让声音真正落进身体。随后喉咙轻轻吞咽，眉心只出现很浅的紧张，不抬头、不回答。她缓慢呼出刚才那口气，嘴唇微动，却没有形成语言。 表演重点：反应必须发生在听见台词之后；熟悉的亲昵让她短暂动摇，但没有改变决定。 ### 5.4–7.5 秒｜抬眼，对视，短暂动摇 女主先睁眼，再抬视线，最后才微微抬起下巴，动作分三层完成。焦点从男主胸口缓慢移到男主眼睛。眼神由散乱转为清晰，眼底有湿润感，但泪水不掉落。 她与男主对视后停住。鼻息稍乱，嘴唇轻轻抿合，面部仍然保持克制。镜头不要推进，让观众主动观察她的变化。 ### 7.5–9.3 秒｜苦笑成为最后一道防线 女主嘴角极轻地向一侧抬起，形成一个不完整、略不对称的苦笑。笑意只停留在嘴角，没有进入眼睛。她仍望着男主，像在确认自己熟悉的人还在，却也确认这段关系已经无法继续。 苦笑持续不到两秒，随后慢慢消失。消失后不要立刻变成冷脸，仍保留一点不舍和受伤，让悲伤与决心同时存在。 ### 9.3–10.6 秒｜宣告结束 女主保持眼神接触，以很轻、很清晰、没有怒气的声音说：“We're done.” 说话前留一个短促吸气；“We're”仍带着残余的温柔，“done”落下时眼神变得更稳定。嘴部动作自然，不刻意咬字，不大幅摇头。台词结束后双唇轻合，停顿半秒。 声音：保留真实呼吸和轻微环境声；不需要煽情配乐，不需要额外字幕。 ### 10.6–13.4 秒｜让沉默完成切割 女主继续看着男主，不马上离开。她的表情逐渐回到近乎平静，眼睛仍有水光，下巴轻轻收紧。身体重心开始从前脚转向后脚，显示她准备离开，但上半身还有一点不愿拉开距离的迟疑。 镜头保持停留，不切男主反应。男主仍只是右侧虚焦前景，让观众只能从女主脸上感受这句话的重量。 ### 13.4–15.1 秒｜后撤，关系距离被具象化 女主缓慢向后退一至两小步，眼神最初仍留在男主脸上。她的身体在画面中自然变小，景别由近景松到中近景；肩膀放松、站姿重新变直，表情从痛苦转为疏离而坚定。 最后定格状态：女主与男主之间的距离已经被拉开，她没有转身逃跑，也没有情绪崩溃，只用平静的后撤完成告别。焦点仍锁在她脸上，背景与男主保持柔和虚化。 ## 四、摄影执行要点 - 机位在男主肩后、接近女主眼睛高度，男主位于画面右侧前景，女主居中略偏左。 - 始终遵守同一条视线轴，不跳轴、不突然切换主观视角。 - 主要使用固定机位或极轻微的稳定呼吸感；结尾的景别变化来自女主后撤，不用明显变焦。 - 对焦点始终在女主眼睛；男主轮廓、庭院背景和灯光散景保持失焦。 - 曝光保护女主肤色与浅金发丝，避免高光溢出；保留真实皮肤纹理、细小不对称和自然眨眼。 - 每个情绪段只保留 1–3 个可见信号，避免眉毛、眼睛、鼻翼、嘴角同时机械运动。 ## 五、连续性与禁止项 - 女主身份、发型、耳环、项链、灰色翻领针织上衣、体型和年龄感全程一致。 - 男主始终不露脸、不抢焦，不突然变成清晰人物，也不与女主发生肢体接触。 - 不新增眼泪滚落、歇斯底里哭泣、愤怒瞪眼、突然大笑或夸张摇头。 - 不使用正反打、快速推镜、环绕镜头、突然变焦或多机位切换。 - 不改变光线方向、背景空间、两人站位轴线和女主视线高度。 - 不继承原教程视频顶部的参考图、底部滚动文字、平台水印和排版黑边；只复刻其中人物表演画面的镜头与情绪逻辑。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-3b9beb9a46d4)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-3b9beb9a46d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 生成菠萝披萨突袭执法记录仪长镜头
 
 > 作者用 Seedance 2.5 生成 30 秒连续执法记录仪视角突袭短片，四阶段串联破门、清场、发现菠萝披萨生产线和拘束人员；提示词同步锁定角色装备、房屋布局、光线、动作与环境音。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 生成菠萝披萨突袭执法记录仪长镜头">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 生成菠萝披萨突袭执法记录仪长镜头">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2088036921184223468) | **发布:** 2026-08-13 | **热度:** 20
 
@@ -251,13 +251,13 @@ Single continuous first-person bodycam POV of one FBI agent for the entire 30 se
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 红帆船勇士对抗漩涡巨人
 
 > What if Jason Momoa was casted in The Odyssey 🤪 Text to video prompt on Seedance 2.5, Prompt Given below. To be honest
 
-[<img src="https://media.goodcase.ai/media/poster/madmax-series-seedance-ai-88cc4e931e9a.jpg" width="600" alt="红帆船勇士对抗漩涡巨人">](https://goodcase.ai/cases/madmax-series-seedance-ai-88cc4e931e9a)
+[<img src="https://media.goodcase.ai/media/poster/madmax-series-seedance-ai-88cc4e931e9a.jpg" width="600" alt="红帆船勇士对抗漩涡巨人">](https://goodcase.ai/cases/madmax-series-seedance-ai-88cc4e931e9a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @MadMax_Series | **来源:** [原帖](https://x.com/MadMax_Series/status/2093000650938335426) | **发布:** 2026-08-27 | **热度:** 19
 
@@ -269,13 +269,13 @@ Single continuous first-person bodycam POV of one FBI agent for the entire 30 se
 MAIN WARRIOR 是一名完全原创、无法对应任何现成人物的明确成年男性，约四十多至五十岁，高大、极其强壮，weathered olive skin，肩长深色湿发，浓密深色胡须夹杂灰丝，眉骨深刻，面部有污垢、汗水与疲惫痕迹。穿原创 antiqued-bronze cuirass，腹部只有非标志性雕塑甲片、圆钝分层肩甲、深色皮革裙甲、青铜护臂、厚重战靴与低饱和 dark-crimson cloak；不戴头盔。脸、胡须、污迹、盔甲、披风和身体比例全程完全一致。  LUMINOUS WOMAN 是明确成年女性，二十多至三十多岁，medium olive skin，齐肩湿黑发，athletic-curved体型；穿原创 ivory 与 sand-colored draped costume，包含完全不透明贴身内层、编织腰部结构和长半透明布片。服装始终安全贴合、解剖稳定，脸、头发、服装与体型全程不变。  COLOSSAL CREATURE 是原创非IP巨型人形生物，巨大尺度，秃头、灰褐色拉伸皮肤、可见肋骨与锁骨、两只 muted-red 发光眼、细长骨性下颌、不规则尖牙、极长双臂、巨大有明确关节的双手和树干粗细的双腿；皮肤是肉质革状，不是树皮。体型、两眼、肢体数量和尺度全程稳定。  所有人物与生物完全独立，身份、脸、肢体、衣物、武器必须始终清晰，绝不融合、换脸、多肢体、共享手脚或比例漂移。船员、shepherd-warriors、 captive defender 与两名axe fighters全部是彼此不同的明确成年人。羊群始终保持同一群淡色羊。  风格：精确20.00秒，横向原生16:9，24fps，photoreal VFX-enhanced live-action mythological fantasy trailer，必须像真实摄影成人演员、真实布料和实际盔甲，与写实海洋、船体和巨型生物VFX无缝合成；允许高端fantasy concept-art与prestige game-cinematic审美影响，但绝不能变成anime、插画、cel shading、2.5D或统一glossy CG。摄影模拟ARRI Alexa 35、35mm Cooke anamorphic，冷teal/blue对暖amber，bronze高光、dark-crimson accents、克制bloom与halation、细organic grain、轻微vignette。动作自然时间，约180度快门，只有高速身体、羊、船体冲击、前景遮挡有真实方向blur。  镜头规则：一个连续镜头，无剪切、无跳切、无黑场剪辑、无蒙太奇。摄影机必须通过墙面、烟雾、船帆、人物身体、白色曝光bloom、水花与黑暗前景遮挡，在一个连续空间化电影镜头中依次进入所有视觉段落。优先侧面与背侧观察，不做英雄定格，不做干净宣传构图。  0.00-1.78秒：从MAIN WARRIOR中长景开始，他站在深teal-blue墙前，左侧profile，双臂沉重下垂，crimson cloak挂在肩后。眼睛先转，随后下巴、颈部和上躯干跟随，腿保持扎地；最终几乎正对镜头，形成疲惫、敌意的直接凝视。upper-left硬光在screen-right墙面投下清楚影子。约1.42-1.54秒短暂用白色曝光bloom扫过人物与墙面，但不是剪切，姿态不改变。  1.78-3.48秒：白bloom扩张并化成海面高光，摄影机连续进入极高俯视dark teal海洋。窄木船带一面dark-red矩形帆，沿巨大whirlpool外缘受旋流侧拉，白色wake弯曲，右侧浪撞charcoal悬崖。镜头下降靠近船体后被红帆遮挡，帆布擦镜转回MAIN WARRIOR极近脸部；他低头、呼吸、眉头收紧，湿发成束贴额，浅景深背景仍为teal。  3.48-5.03秒：摄影机被他的肩部带回船上，从至少六名成年船员后方沿湿甲板前看。船体剧烈pitch，众人屈膝抓栏杆，右前景大个船员宽站稳。水花和红布扫镜后自然显出LUMINOUS WOMAN全身站在blue-white fog中，背后强白源形成径向光束。她髋部缓慢转移重心，一脚微向前，肩部反向平衡，一手放松长ivory布片，布料延迟飘动。约4.95-5.03秒让一块极暗前景布料完全遮镜两帧，但摄影机仍持续运动，绝不变成编辑黑场。  5.03-7.80秒：暗布掠开回到船甲板低侧角。船猛然倾斜，一名helmeted man落到一膝一手后在湿木板滑动，另一人右侧摔倒，其他人抓住bulwark；水冲过中右甲板。摄影机贴地穿过脚与水花，armor boots与裸小腿 stagger，木spar沿船体滑动。随后一道白色浪花曝光遮镜，连续转入MAIN WARRIOR正面中长景，他僵硬站立、浅呼吸、直视前方，约5.92-6.05秒出现短白overexposure illumination。镜头继续从他肩侧移出，再被蓝白fog包围，LUMINOUS WOMAN完成一次清楚向前迈步：脚落地、膝髋转移重量、躯干跟上，湿发和ivory train延迟摆动。  7.80-10.82秒：她的长布料扫过镜头，转成amber尘雾外景。数名成年shepherd-warriors与淡色羊群从低位宽景朝镜头跑来，脚步、羊蹄、尘土全部自然高速。近镜一只羊短暂遮挡，遮挡退开时摄影机高抬回到whirlpool，红帆船更靠近旋涡唇，白泡沫旋入黑暗中心。海雾擦镜后再次出现女人三分之二全身，她完成一次头与躯干连续转身，头先到方向，湿黑发在背光中水平甩开，ivory train围腿延迟旋转。  10.82-13.57秒：白布边缘化成smoky amber wasteland。COLOSSAL CREATURE从暗处俯身，一只巨大开放手掌朝镜头伸来，五指各自关节稳定；lower-right是一名正常体型成年helmeted defender。巨手横扫并牢牢包住其躯干，不穿透盔甲，将其完全提离地面，双腿弯曲后悬空摆动。巨人把他向张开的嘴方向带近，但在任何bite或伤害前摄影机沿巨臂滑到其巨大下腿。两名不同成年axe fighters一左一右，以双手长柄武器攻击同一条肉质巨腿：右侧先髋转击ankle，近镜一只深色羊横穿遮挡，随后左侧fighter举起武器下劈，右侧收回再击lower shin。动作有脚底接地、肩髋旋转和尘土后果，无血、无切断。摄影机迅速后撤露出正好六名成年survivors朝镜头奔跑，巨人在烟后推进，淡色羊在右后方跑，小火在左中闪烁。  13.57-16.36秒：一块极暗烟尘完全遮住镜头约两帧但摄影机不停，随后从上方看见LUMINOUS WOMAN，她巨大的ivory skirt在blue-white floor上形成花状螺旋，斜光切出明暗褶皱。她单臂支撑，另一臂向后，缓慢抬下巴直视上方摄影机，裙摆外缘仍继续波动。白色高光逐渐扩张并转成更近的站立中景，她略后仰，双手在腰后握住拖布，呼吸一次，眼睛短暂下垂再回到镜头。  16.36-20.00秒：蓝白雾转为teal墙面，完整全身MAIN WARRIOR重新出现，双脚肩宽、双臂下垂、cloak不对称垂落，只有呼吸与细布料运动。摄影机绕到其右侧profile，留出前方空teal空间；他咬紧下颌、眼睛做一次微小调整。随后摄影机沿侧后弧线转向前方，他突然把头与上肩转向镜头，脚与下身仍完全稳定；湿发、胡须和肩甲产生短促真实方向blur。动作停住后摄影机持续快速推进，从上躯干一路逼到极近脸部，清楚显示毛孔、汗、嵌入皱褶的灰尘、湿发束和灰胡须细节。20.00秒精确结束在活着、持续呼吸、没有眨眼的敌意凝视上，无淡出、无冻结、无标题。  声音：只有现场音效，无任何音乐、无人声对白、无旁白。战士段有近距离呼吸、甲片皮革细响和空间低风；海洋段有浪涛、whirlpool低频吸力、船体呻吟、索具绷紧、帆布抽响、甲板撞击和水冲声；羊群段有尘土脚步、羊蹄与非语言动物声；巨人段有深呼吸、远低吼、巨大脚步和地面共振；两次ankle攻击有清楚但非血腥的金属撞击肉质低响。最后推进只保留贴近战士的呼吸、甲胄细响与远处空气低鸣，20.00秒声音同步停止。  强制限制：严格保持MAIN WARRIOR与LUMINOUS WOMAN为同两名成年人；warrior脸、污垢、胡须、发型、盔甲和crimson cloak不变；woman湿黑发和ivory costume不变；crew、captive与axe fighters始终是不同成年人；红帆船、whirlpool地理、船体材质、羊群与giant anatomy全程稳定；giant只用一只手抓一名captive躯干，captive严格两臂两腿；ankle段严格两名fighter、两件长柄武器、一条巨腿；无咬伤、无血、无gore、无logo、无水印、无字幕、无文字；动作必须有重量、惯性、反冲、布料跟随、环境反应与真实重力。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/madmax-series-seedance-ai-88cc4e931e9a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/madmax-series-seedance-ai-88cc4e931e9a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Bamboo Toy Car Transformation Vlog
 
 > An incredibly detailed action prompt for a 30-second handheld POV video featuring a girl with a bamboo toy that triggers a car transforming into a giant robot.
 
-[<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)
+[<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 18
 
@@ -290,13 +290,13 @@ HO2iXF9a4AAZsco
 。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个发光的竹知了在她身体周围凭空出现，像一群完美同步的金色蜂群，在她头顶和肩膀周围高速盘旋。 旋转产生的强风吹动她的长发和衣角，将停车场里的宣传单、树叶、灰尘和塑料袋全部卷入空中。金色光芒映在周围汽车的玻璃与金属车漆上。 巨型机器人挥动紫色机械手臂，试图拍散竹知了群。机械拳头擦过地面，掀起碎石和尘土。 美女侧身迈开一步避过冲击，双脚重新站稳，身体重心压低，右手仍然牢牢控制细绳。 她突然将竹知了高高举起…… ……然后打了一个清脆的响指。 所有发光的竹知了瞬间向前发射。 天空被无数道金色轨迹划破。 第一批竹知了像精准制导的蜂群，猛烈撞击机器人的膝关节和脚踝；第二批绕着机器人高速盘旋，钻入肩部车轮、车门手臂和胸口灯带之间的机械缝隙。 机器人踉跄后退，机械脚掌在沥青上拖出两道深深的沟槽。它挥拳反击，却不断打空，每一次挥动都带起真实而沉重的气流。 最后一批竹知了在机器人胸前汇聚成高速旋转的金色圆环。 美女猛然向下一拉细绳。 所有竹知了同时发出一声震耳欲聋的巨大鸣叫。 一道肉眼可见的环形空气冲击波正面撞上机器人胸口。 在这一瞬间进入短暂慢动作：紫色机器人全身的机械锁扣依次弹开，车门护甲、车轮、玻璃、底盘和车身覆盖件在空中分离；金色竹知了从零件之间高速穿过，飞散的螺栓、灰尘和细小玻璃颗粒悬浮在阳光中。 这不是爆炸，也不是车辆被彻底摧毁。所有零件仍然属于同一辆紫色智界R7，没有火焰，没有人员受伤。 慢动作结束。 巨型机器人完全失去平衡，重重跪在停车场中央。它的机械结构迅速反向折叠：双腿收回底盘，车轮回到轮拱，车门重新闭合，车头、车顶和灯带准确复位。 伴随最后一声沉重的金属锁定声，机器人重新变回完整的紫色智界R7。 一片寂静。 车辆警报器逐渐停止。 顾客和销售人员小心翼翼地从展车后面探出头。一个销售人员迟疑地走向紫色R7，伸手摸了摸仍然发烫的引擎盖，又立刻把手缩了回来。 一个发光的竹知了缓缓落在美女肩膀上，光芒随即灭，重新变成普通竹制玩具。 她漫不经心地拍掉肩上的灰尘，收起细绳，经过已经恢复原状的紫色智界R7。 走出画面前，她回头看了一眼汽车，平静地小声说： “一千万以内最好玩的，还是这个。” 她再次转动竹知了，伴随着“呜哇、呜哇”的声音若无其事地继续向前走。 镜头没有切断，摄影者缓慢停下。画面最后同时保留她渐渐远去的背影、恢复原状的紫色智界R7，以及停车场后方鸿蒙智行·智界门店原有的门头标识。 严格限制 全片只有一个连续手持镜头；不航拍、不突然切换机位、不瞬移、不使用蒙太奇。美女、竹知了和紫色智界R7始终保持外观一致。只能有一辆R7变形，机器人所有零件均来自这辆车。 机器人必须具有真实重量、关节阻力、惯性和落地冲击，不能漂浮、瞬移或像橡胶玩具一样弯曲。竹知了群的运动必须有明确方向、空气阻力和碰撞反馈。 不出现驾驶员受伤、血液、人体撞击或真实人员死亡；不出现火灾与电池爆炸。不生成错误车型、乱码车标、额外手指、人物复制、车辆复制、卡通机器人、动漫光效、电子游戏HUD、字幕、贴纸、旁白、背景音乐或水印。现有门店标识自然入镜即可，不额外生成品牌宣传画面。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 十二秒连续换装的穿搭博主短片
 
 > 穿搭博主在线教学👨‍🏫 12 秒换了多少套衣服呢❓ 像以前这样一天视频从拍摄换装再到剪辑最起码要大半天以上时间，现在仅需一张人物参考图➕提示词几分钟就能够搞定🤝 Seedance 2.5 prompt 👇 【风格】真实穿搭卡点短视频
 
-[<img src="https://media.goodcase.ai/cases/c9256a6537c2.jpg" width="600" alt="Seedance 2.5 十二秒连续换装的穿搭博主短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd)
+[<img src="https://media.goodcase.ai/cases/c9256a6537c2.jpg" width="600" alt="Seedance 2.5 十二秒连续换装的穿搭博主短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2089251003514102060) | **发布:** 2026-08-17 | **热度:** 18
 
@@ -461,13 +461,13 @@ Seedance 2.5 prompt 👇
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 涩谷街头K-pop舞蹈同步字幕
 
 > Seedance 2.5 生成的涩谷街头K-pop快闪翻跳视频，四名舞者依次变换菱形、横排、V字三种队形完成舞蹈段落。画面叠加与舞点精确同步的复古大字字幕，逐句随节拍淡入淡出。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 15
 
@@ -529,13 +529,13 @@ FINAL OUTPUT
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 咖啡机竖屏UGC广告
 
 > Seedance 2.5 生成的竖屏咖啡机UGC广告，创作者从开箱、注水磨豆到出品试饮完整走一遍产品使用流程，中间穿插台词。分镜按秒数安排特写与转场，模拟真实博主口播带货的镜头语言。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @SadiaMalik182 | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 15
 
@@ -567,13 +567,13 @@ Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 太阳镜UGC测评口播视频
 
 > Seedance 2.5 生成的太阳镜UGC测评口播视频，女主角在卧室开箱、试戴并对镜展示细节，全程配台词描述佩戴体验。人物与产品均锁定参考图外观，手持运镜模拟真实博主测评的拍摄质感。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 太阳镜UGC测评口播视频">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 太阳镜UGC测评口播视频">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2084608509837275231) | **发布:** 2026-08-04 | **热度:** 15
 
@@ -593,13 +593,13 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 抖音风机车炫酷转场竖屏短片
 
 > 抖音爆款炫酷机车转场视频🎬 Seedance 2.5 prompt 👇 Duration: 10 seconds Aspect ratio: 9:16 vertical Overall style: 超写实都市夜骑短片（Photorea
 
-[<img src="https://media.goodcase.ai/cases/c9c3b92466ec.jpg" width="600" alt="Seedance 2.5 抖音风机车炫酷转场竖屏短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0)
+[<img src="https://media.goodcase.ai/cases/c9c3b92466ec.jpg" width="600" alt="Seedance 2.5 抖音风机车炫酷转场竖屏短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2089727243471696233) | **发布:** 2026-08-18 | **热度:** 15
 
@@ -777,13 +777,13 @@ Constraints:
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 夜街橡胶脸搞怪变形
 
 > 可爱鬼😊 最近这种特效也是挺火的🔥 Seedance 2.5 prompt ⬇️ 【风格】抖音爆款搞怪变脸短视频（Viral Funny Elastic Face FX），真人实景，夸张橡胶级物理形变特效，4K超清画质，夜景人像打光，画
 
-[<img src="https://media.goodcase.ai/cases/54892944a233.jpg" width="600" alt="夜街橡胶脸搞怪变形">](https://goodcase.ai/cases/johnagi168-seedance-ai-8424f361fbe0)
+[<img src="https://media.goodcase.ai/cases/54892944a233.jpg" width="600" alt="夜街橡胶脸搞怪变形">](https://goodcase.ai/cases/johnagi168-seedance-ai-8424f361fbe0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2091182791467684197) | **发布:** 2026-08-22 | **热度:** 13
 
@@ -829,13 +829,13 @@ Seedance 2.5 prompt ⬇️
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-8424f361fbe0)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-8424f361fbe0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 一张照片让自己飞天的科幻史诗短片
 
 > 中国人能飞✈️ 想飞吗？只需输入自己的照片，加上下面的提示词，你也能飞✈️😄 Seedance 2.5 prompt 👇 【风格】科幻史诗真人电影（Sci-fi Epic Live-Action），ARRI Alexa 35 机身 +
 
-[<img src="https://media.goodcase.ai/cases/db7139cf93f2.jpg" width="600" alt="Seedance 2.5 一张照片让自己飞天的科幻史诗短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac)
+[<img src="https://media.goodcase.ai/cases/db7139cf93f2.jpg" width="600" alt="Seedance 2.5 一张照片让自己飞天的科幻史诗短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2088977887638516207) | **发布:** 2026-08-16 | **热度:** 13
 
@@ -954,13 +954,13 @@ Seedance 2.5 prompt 👇
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-d704aa5a63ac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 电影感抹茶茶道
 
 > 一份关于传统抹茶茶道的详细 2D 动画序列提示词，利用项目和角色参考以实现一致的构图与设计。
 
-[<img src="https://media.goodcase.ai/cases/4f0337074c6c.jpg" width="600" alt="电影感抹茶茶道">](https://goodcase.ai/cases/case-348681e51fdd)
+[<img src="https://media.goodcase.ai/cases/4f0337074c6c.jpg" width="600" alt="电影感抹茶茶道">](https://goodcase.ai/cases/case-348681e51fdd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itsphotogptai | **来源:** [原帖](https://x.com/itsphotogptai/status/2089672910520910279) | **发布:** 2026-08-18 | **热度:** 10
 
@@ -996,13 +996,13 @@ P15: High OTS CU, locked:
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-348681e51fdd)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-348681e51fdd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 悬崖翼装跳伞环海一镜到底
 
 > Seedance 2.5 生成的悬崖翼装跳伞一镜到底视频，角色跳崖开伞后贴海面高速穿梭躲避多艘游艇，落地脱装后走向摊位咬下一口热狗收尾。全程锁定角色参考图身形面部，用连续跟拍串联跳跃与降落。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f1696dad13bc.jpg" width="600" alt="Seedance 2.5 悬崖翼装跳伞环海一镜到底">](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f1696dad13bc.jpg" width="600" alt="Seedance 2.5 悬崖翼装跳伞环海一镜到底">](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @mrdejie | **来源:** [原帖](https://x.com/mrdejie/status/2085996752809927146) | **发布:** 2026-08-08 | **热度:** 8
 
@@ -1029,13 +1029,13 @@ P15: High OTS CU, locked:
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-f1696dad13bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画
 
 > Seedance 2.5 生成的游戏角色选择界面动画，锁定卡片轮播、技能树等UI布局不变，依次展示五名蜘蛛反英雄角色切换站姿。每个角色按参考图锁定设计，配合专属技能特效演出。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg" width="600" alt="Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画">](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ui-228cf63ce8ff.jpg" width="600" alt="Seedance 2.5 蜘蛛反英雄游戏角色选择UI动画">](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @pratishhhhh | **来源:** [原帖](https://x.com/pratishhhhh/status/2085679073632882880) | **发布:** 2026-08-07 | **热度:** 8
 
@@ -1114,13 +1114,13 @@ avoid: "Jitter, bent or distorted limbs, temporal flicker, identity drift betwee
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 吉卜力风格森林烹饪动画
 
 > 一份详尽的电影级提示词，用于创作一段治愈系、宫崎骏风格的动画，描绘在森林溪边烹饪鱼片豆腐汤的场景，包含特定的声音设计与负面约束。
 
-[<img src="https://media.goodcase.ai/media/poster/case-a45446378e2a.jpg" width="600" alt="吉卜力风格森林烹饪动画">](https://goodcase.ai/cases/case-a45446378e2a)
+[<img src="https://media.goodcase.ai/media/poster/case-a45446378e2a.jpg" width="600" alt="吉卜力风格森林烹饪动画">](https://goodcase.ai/cases/case-a45446378e2a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIReelofficial | **来源:** [原帖](https://x.com/AIReelofficial/status/2079531584869548309) | **发布:** 2026-07-21 | **热度:** 3
 
@@ -1132,13 +1132,13 @@ avoid: "Jitter, bent or distorted limbs, temporal flicker, identity drift betwee
 Early morning; sunlight filters through the forest canopy, casting a glow over the bank of a clear stream. The scene opens with a gentle, cinematic perspective. No faces are shown—only a pair of warm, capable hands. Shot 1: Hands carry a bamboo basket to the edge of the crystal-clear stream, where the water flows gently and small fish dart about. A hand uses a bamboo net to catch a fresh, silvery fish; it flops lightly in the basket, sending droplets of water splashing and sparkling in the sunlight. The atmosphere is natural, calm, and soothing. Shot 2: Moving to a wooden table by the stream, the hands begin preparing the ingredients. The fresh fish is placed on a wooden cutting board and slowly sliced ​​with a sharp knife, revealing the clear texture of the flesh through clean, fluid movements. Next, a block of tender white tofu is gently cut into neat, uniform cubes; the surface of the tofu appears soft and smooth. Shot 3: Tofu and fish soup is prepared in a traditional earthenware pot over a small stove at the edge of the forest. As the water begins to boil, fish slices, tofu, chopped scallions, and fresh vegetables are added. Steam rises gently, the broth turns a milky white, and the fish and tofu tumble softly within the simmering liquid. Shot 4: Finally, the camera closes in on a bowl of the freshly cooked soup. White steam drifts upward, and sunlight catches the surface of the broth; a simple wooden spoon and the bamboo basket sit nearby. The backdrop features the forest, the stream, and leaves swaying in the breeze, evoking a sense of returning to nature and finding peaceful happiness. Style Requirements: Warm, hand-drawn style reminiscent of Hayao Miyazaki’s animated films; delicate watercolor textures; soft, natural lighting; rich forest greens; a soothing, tranquil, and heartwarming atmosphere; a blend of high-quality 2D animation and 3D spatial depth; cinematic camera work; fluid, natural movement; realistic physical interactions; rich detail in the ingredients; 4K cinematic animation quality. Sound Design (Crucial): Use only natural ambient sounds—no background music, no dialogue. Sounds include: the clear sound of the flowing stream; birdsong; leaves rustling in the breeze; dripping water; the soft sounds of the knife slicing fish and tofu; the crackling of burning firewood; the bubbling of the earthenware pot; the sound of the soup simmering. The overall feel is that of a quiet documentary about forest cooking. Negative Prompt (Seedance recommends including): No real people, no human faces, no modern kitchens, no city backgrounds, no plastic tableware, no exaggerated movements, no exaggerated cartoon expressions, no background music, no subtitles, no text, no rapid cuts, no AI-induced distortions, no extra fingers, no anatomical errors, no low-quality animation.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a45446378e2a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a45446378e2a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5）
 
 > 同一篇横评文章第三个场景：修仙武者御剑战穷奇巨兽，3D CG 高精度建模仙侠特效战斗，参考《灵笼》《凡人修仙传》质感，含分五剑封印、结印施法、雷霆法阵七个分镜与详细配乐时间轴。作者评价 Seedance 2.5 整体表现不错，运镜、特效和大场景达 SOTA 级别，仅巨剑分身处略有穿帮。
 
-[<img src="https://media.goodcase.ai/cases/c5e8fdb6d69a.jpg" width="600" alt="御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5）">](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a)
+[<img src="https://media.goodcase.ai/cases/c5e8fdb6d69a.jpg" width="600" alt="御剑修仙者战穷奇：3D CG 仙侠特效战斗场面（Seedance 2.5）">](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 袋鼠帝 | **来源:** [原帖](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-3dcg-battle) | **发布:** 2026-08-21 | **热度:** -
 
@@ -1150,13 +1150,13 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 人设修仙武者：年轻男性，身姿挺拔，气质清冷出尘、仙风道骨；御剑飞行双脚踏着巨剑剑身上，处于战斗施法状态，先后单手结印、双手结印。足下巨剑：宽大厚重，剑身泛寒光，可一分为五，在修仙武者脚下呈扇形展开。巨型妖兽：穷奇外形的庞然巨兽，体型如小山般巨大，四足粗壮、巨爪如柱；处于发狂肆虐状态，四爪先后被锁、挣扎咆哮。场景玄幻仙侠架空世界，一片人迹罕至的荒山野地作为主要空间环境参考，开阔荒原，远处连绵荒山轮廓，偶有碎石与低矮枯木。战斗后期巨兽头顶上空汇聚雷云。画面风格3D CG 高精度建模动画，国漫精品剧集质感；玄幻仙侠题材，写实 CG 建模与毛发皮肤细节，仙术法阵与雷霆特效能量感强烈；宏大战斗场面调度，史诗感。影调开阔荒原大场景、宏大空间纵深；主发光源来自法术能量：巨剑分身寒光、金色法阵明亮金辉自地面向上映照巨兽身型、白紫色雷霆爆裂闪光；雷云汇聚后环境被云层阴影笼罩、明暗对比加剧，法阵金光与雷光交替勾勒妖兽与武者的轮廓；妖兽挣扎时尘土飞扬、暗部细节增多。视觉参考参考国漫《灵笼》《凡人修仙传》CG 剧集视觉质感：高精度角色建模、材质与光影写实、仙术特效的能量流动与光效层次、大场景运镜调度。全局约束无字幕、禁止生成字幕。分镜1，0s-2s，大远景，固定镜头，高机位轻微俯拍，从年轻修仙武者身后拍摄，武者脚踏巨剑剑身御剑悬停在空中位于画面的左上角，镜头视线聚焦下方的荒原野地：一头穷奇外形的巨型妖兽正在荒地上发狂肆虐，挥动巨爪拍碎地面、仰头咆哮，扬起大片尘土碎石；音效：妖兽低沉咆哮、爪击地面的闷响、碎石飞溅声。分镜2，2s-4s，中近景，固定镜头，聚焦悬停空中的武者上半身近景，武者目光一凝，随即抬手单手结印，口唇快速念出咒语「分则能成！」；音效：低沉咒语吟诵声。分镜3，4s-5s，切换武者脚下巨剑特写，固定镜头，脚下的巨剑剑身泛起光纹、嗡鸣震动，随即一分为五，在修仙武者脚下呈扇形展开，巨剑本体仍位于武者脚下；音效：剑身震颤金属嗡鸣。分镜4，5s-8s，大远景→妖兽四只巨爪的局部中景，荷兰角，快速跟拍，镜头紧密跟随四把分身巨剑的飞射轨迹跟拍。四把分身巨剑如流光般疾速飞射而下，分别命中妖兽四只巨爪，击中瞬间化作虚灵形态的灵光锁链缠绕锁紧四爪；妖兽四爪被锁、挣扎甩动却无法挣脱，仰头怒吼；音效：剑气破空声、锁链缠绕铮鸣、妖兽挣扎怒吼、地面震颤闷响。分镜5，8s-10s，特写，固定镜头，聚焦武者胸前结印的双手。高空中的武者双手抬起、十指交叠快速多次结印，法力凝聚的微光在掌间亮起，随即放声暴喝；对白：修仙武者（怒喝）：「雷光咒！」；音效：灵力汇聚的低沉嗡鸣、武者暴喝声、妖兽持续咆哮。分镜6，10s-11s，全景，仰拍后拉。妖兽脚下的地面骤然亮起一个与它身型投影同样巨大的金色法阵，符文旋转展开、金光上涌，将挣扎的妖兽笼罩其中；音效：法阵启动的深沉轰鸣、能量流动的嗡嗡声。分镜7，11s-15s，大远景，仰拍。妖兽头顶上空乌云迅速汇聚，雷云翻滚、电光在云层中窜动，天色骤然压暗；一道巨大白紫色雷霆从乌云中迸发，自天而降击中巨兽身体，法阵金光与雷光同时爆发，妖兽身形被耀眼光芒吞没、剧烈震颤；音效：雷云翻滚闷响、电流滋啦声、雷霆炸裂巨响、轰鸣回响、大地震动。全局配乐：纯音乐 + 无词吟唱0s-2s：琵琶轮指 + 二胡紧张颤音长音，低音提琴拨弦脉冲；旋律短促、小二度游移（不安定感），音量中等、密度低2s-4s：琵琶扫弦 + 古筝十六分音符急奏，堂鼓+小钹进入密集节奏层，弦乐群齐奏推高4s-5s：大鼓滚奏渐密，铜管短促强音（"锁"的动作感），低频持续音垫底；妖兽咆哮处配乐主动让位——音量降、减旋律密度，给咆哮音效留空间5s-8s：只留低频持续音 + 箫孤音。打击乐静默、旋律消失8s-10s：古筝泛音 + 弦乐长音渐强，无词女声"啊——"进入（非歌词）；和声从暗小调切向明亮大三和弦的临时离调10s-11s：大鼓滚奏 + 定音鼓渐强，弦乐密集颤音，30-60Hz 低频持续轰鸣；旋律线消失，只剩节奏与和声爬升；11s-15s：大鼓+定音鼓+镲片同击，唢呐/铜管齐奏强音，琵琶古筝最高密度扫弦；雷光爆闪处配乐让位 0.3s 给雷声音效；结尾快速衰减至低频余震 + 箫尾音
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/3d-cg-seedance-2-5-2453b4b4307a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5）
 
 > 公众号《横测H3、Seedance系列，结果有点意外...（附7个超高质量提示词）》第一个横评场景：出租车后排分手戏，要求仿真人微表情从强撑微笑到崩溃大哭连续演变，一镜到底 15 秒，含分镜、对白与配乐时间轴。作者评价 Seedance 2.5 在该场景“断档领先，提示词遵循度非常高”，情绪演变处理到位。收录 Seedance 2.5 版本产出视频。
 
-[<img src="https://media.goodcase.ai/cases/c63cbb62b439.jpg" width="600" alt="出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5）">](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a)
+[<img src="https://media.goodcase.ai/cases/c63cbb62b439.jpg" width="600" alt="出租车分手戏：仿真人微表情连续情绪演变视频（Seedance 2.5）">](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 袋鼠帝 | **来源:** [原帖](https://mp.weixin.qq.com/s?__biz=MzkwMzE4NjU5NA==&mid=2247519871&idx=1&sn=6c800d0dfcb8afb69c418751cdfd0d3b&gc=scene-taxi-breakup) | **发布:** 2026-08-21 | **热度:** -
 
@@ -1168,13 +1168,13 @@ Early morning; sunlight filters through the forest canopy, casting a glow over t
 人设女性：年轻漂亮，长发披肩，坐在出租车后排。角色状态：与男友分手告别，表面强撑微笑、内心悲伤压抑，最终情绪崩溃嚎啕大哭。场景出租车内部的后排车厢作为空间环境参考，前排副驾驶空位（前景局部失焦虚化）；侧车窗与后车窗均被雨水打湿；车窗外为城市街道夜景、霓虹灯光、淅淅沥沥的小雨。画面风格真人实拍质感的青春恋爱电视剧，现代都市写实服化道，细腻情感戏审美，情绪戏节奏克制。影调车内整体偏暗，窗外城市夜景与霓虹灯光透过雨打车窗，在车内形成流动的彩色光斑与明暗切片，勾勒女性面部轮廓与长发边缘；车窗玻璃上雨珠反光；夜景冷调为主，霓虹光斑冷暖交织。全局约束无字幕、禁止生成字幕。画面内容分镜 1，0s-6s，车内中景，固定机位，摄像机位于前排副驾驶位置朝后方拍摄；前景左下方为副驾驶空座椅背局部（失焦虚化），女性位于画面右侧三分线位置。她侧着脸望向右侧车窗外，轻咬下唇，微笑着与窗外人道别，窗外站着一名身穿灰色夹克黑色牛仔裤的男性，透过车窗只能看见男性的局部身体：对白：女性（轻咬下唇，微笑）：「就这样，不用送了。」随后她转头面向镜头，对前排司机说：对白：女性：「司机，开车。」说完她不经意地带出一声压抑的细微啜泣，随即轻轻舒了一口气，脸上仍保持着刚才的微笑。出租车随即启动，车身轻微震动一下，车辆起步向前开动，窗外男性朝着车窗挥手再见（局部入画），男性与窗外雨幕与霓虹灯光快速向后掠过。音效：淅沥雨声打在车顶与车窗，城市夜晚低缓的环境底噪；对白期间人声清晰突出；一声压抑的细微啜泣；轻舒气声；发动机启动声与车身轻微震动；轮胎碾过湿路面的起步声。分镜 2，6s-15s，切换车内后排近景，手持拍摄，轻微仰拍，镜头随行驶中的车身轻微晃动；焦点在女性肩部以上正面，她背后隔着被雨打湿而模糊的后车窗，城市街景与霓虹灯光逐渐远去。一开始女性脸上仍带着微笑，没有皱眉也没有哭，慢慢地她开始轻微皱起眉头，小幅摇了摇头，像是反悔刚才说出口的话；接着她的嘴角微微下压，抿紧双唇，眼眶开始泛红；她稍稍仰起头试图忍住，眼神有些游离地瞥向旁边车窗外；接着她终于再也压抑不住 —— 嘴角明显下垂，眉毛内收收紧，鼻子开始抽搐，眼神黯淡，眼眶湿润，泪水开始流出；然后她垂下头、微微蜷缩着肩膀，随即猛然仰头，嚎啕大哭，一边哭一边抬手擦去脸上止不住的泪水。整段为逞强微笑→压抑情绪→悲伤外泄→情绪大爆发的连续情绪变化，一镜到底。音效：雨声持续；行驶中发动机低鸣与轮胎碾过湿路面的沙沙声；呼吸渐重、吸鼻声；压抑啜泣转为放声大哭；手背擦拭泪水的摩擦声与衣料声。全局配乐雨夜分手情绪戏（15s 配乐轨，无歌词）0-6s 无BGM，只保留对白和环境声；6-8s 微笑→轻微皱眉 | 钢琴单音/两音动机从雨声里渗出，极弱 pad 垫底，像回忆浮上来；8-10s 摇头反悔→抿唇→眼眶泛红 | 钢琴变叹息式下行音型，大提琴长音进入；10-12s 仰头忍泪→眼神游离 | 小提琴组加入，和声加厚，钢琴分解和弦铺开；12-13.5s 嘴角下压→鼻翼抽动→泪落 | 情绪临界：弦乐揉弦+力度加强，钢琴和弦加重；13.5-15s 垂头蜷缩→仰头嚎啕大哭 | 段落峰值：弦乐齐奏主题，钢琴八度重音。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-8d136b59e95a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 水果饼干电商广告
 
 > 水果饼干电商广告短片，四种口味饼干与对应水果按几何阵列排列，高潮处饼干掰开慢动作展现果酱内馅飞溅，随后英文文案逐词打出收尾。整体剪辑明快，突出产品口味丰富与颗粒质感。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-biscuit-ad.jpg" width="600" alt="水果饼干电商广告">](https://goodcase.ai/cases/doc2-biscuit-ad)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-biscuit-ad.jpg" width="600" alt="水果饼干电商广告">](https://goodcase.ai/cases/doc2-biscuit-ad?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc2-biscuit-ad) | **发布:** - | **热度:** -
 
@@ -1187,13 +1187,13 @@ Bright, colorful commercial-ad style, with fruit biscuits as the hero, featuring
 The biscuits and their matching fruits are arranged in a strongly ordered geometric array, the overall image clean, high-end, and strongly rhythmic. The opening quickly establishes visual focus with fruit, the music's downbeat cutting in. Then the different-flavor biscuits line up neatly, cut to close-up. In the climax segment, a biscuit is snapped in half, instantly entering slow motion, the fruit filling bursting open, crumbs flying, the juicy feel and grain impact magnified and showcased. A horizontal array forms a rhythmic parabolic toss, highlighting the orderly beauty and product richness. Then it quickly returns to fast-paced editing. At the end, the English text "One bite of crispness, a heart full of delight" cuts in rapidly word by word, paired with strongly rhythmic text motion and a product freeze, finally closing with a brand feel, the biscuits and fruit radiating outward, referencing, the image full of a young, energetic, delicious, share-worthy ad atmosphere.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-biscuit-ad)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-biscuit-ad?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 饼干广告局部编辑：无缝替换成雪糕
 
 > 基于原饼干广告视频做局部编辑的案例，保持镜头运动、光影与音频完全不变，仅将画面中四种饼干原位替换成对应口味的雪糕。慢动作掰碎段落也同步换成雪糕碎屑与果酱质感，验证以视频为参考的精准局部替换能力。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-biscuit-to-icecream-swap.jpg" width="600" alt="饼干广告局部编辑：无缝替换成雪糕">](https://goodcase.ai/cases/doc2-biscuit-to-icecream-swap)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-biscuit-to-icecream-swap.jpg" width="600" alt="饼干广告局部编辑：无缝替换成雪糕">](https://goodcase.ai/cases/doc2-biscuit-to-icecream-swap?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q?goodcase=doc2-biscuit-to-icecream-swap) | **发布:** - | **热度:** -
 
@@ -1205,13 +1205,13 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 基于视频【@原视频】做局部编辑修改，保持原视频中水果的种类、形状、颜色、细节、位置、时间静止效果、运动效果、镜头运动、环绕轨迹、构图、光影氛围、画面质感、音频内容与整体节奏全部不变，只进行以下唯一精准修改：删除原视频中出现的所有【饼干】，包括【饼干】的形状、纹理、颜色、阴影与运动残影。在原【饼干】完全相同的空间位置、大小比例、冻结时刻和运动轨迹上，替换为【草莓味雪糕@草莓味图、苹果味雪糕@苹果味图、葡萄味雪糕@葡萄味图、橙子味雪糕@橙子味图】。【雪糕】严格参考瓶型、瓶盖、标签、色彩、材质、反光、包装细节与整体外观；掰碎的慢动作阶段，【雪糕】中间有粘稠果酱，雪糕碎屑飞溅。除“饼干替换为雪糕”外，其他所有画面音频内容必须全部保持原样；不要删除或新增帽子、服装、人物、台词、音效、文字、LOGO或水印。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-biscuit-to-icecream-swap)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-biscuit-to-icecream-swap?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 变身蜘蛛侠：单人照片生成超英变身长镜头
 
 > 单人照片生成的超级英雄变身长镜头视频，男主从窗台跃出后连续两次甩蛛丝完成钟摆式摆荡，蹬墙翻越建筑最终登顶。分镜按秒数详细规定运镜方式，从俯冲跟拍到低机位追拍一镜到底衔接动作。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-spiderman-transform.jpg" width="600" alt="变身蜘蛛侠：单人照片生成超英变身长镜头">](https://goodcase.ai/cases/doc2-spiderman-transform)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-spiderman-transform.jpg" width="600" alt="变身蜘蛛侠：单人照片生成超英变身长镜头">](https://goodcase.ai/cases/doc2-spiderman-transform?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc2-spiderman-transform) | **发布:** - | **热度:** -
 
@@ -1223,13 +1223,13 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 视频prompt：时间段:0-1.8秒 画面:年轻亚洲男主佩戴银色头戴式耳机，身穿灰色连帽棒球服、深色长裤，正面坐在打开的窗台上。他突然向后仰，头肩先下沉，双腿越过窗框，直接倒出窗外，不做完整后空翻。运镜:稳定对称的中大全景;男主后倒时，摄影机迅速前推并向下俯冲，穿过窗口跟随人物。 时间段:1.8-3.2秒 画面:窗台距离街道不高，男主短暂下坠，湿润街道与车辆迅速放大。他将身体调整为斜向前方，抬手朝建筑高处射出蛛丝。蛛丝瞬间绷紧，将下坠转化为向前摆荡，与耳机没有任何连接。运镜:贴近人物俯冲，通过短促甩镜进入手腕近景;蛛丝绷紧后沿牵引方向加速，转为贴近街面的追拍。 时间段:3.2-5.7秒 画面:男主沿街道完成一次流畅的钟摆式摆荡，从车辆上方低空掠过。身体顺着惯性自然延伸，衣服和头发受到气流吹动。到达最低点后迅速加速，随后松开蛛丝向前滑行，全程不翻转。运镜:摄影机在侧后方低空追随，沿摆荡弧线先下降再抬升，车辆和路灯快速掠过前景。 时间段:5.7-8秒 画面：顺着惯性向前方（类似物抛物线逻辑）至身体微微下降时，男主立刻再次抬手朝另一侧建筑高处射出蛛丝，蛛丝再次瞬间绷紧，（画面微自然加速）将下坠转化为向前摆荡，与耳机没有任何连接。运镜:贴近人物侧面平移快速跟拍，通过短促甩镜进入手腕近景;蛛丝绷紧后沿牵引方向加速，转为贴近街面的追拍。。 时间段:8～10.3秒 画面:男主贴近建筑外墙滑行，双脚依次踩上墙面和金属消防梯，完成两次快速蹬墙，随后跃向街道。动作具有明确受力与反弹，不进行空翻。运镜:贴近墙面侧向追拍，短暂靠近鞋底落点，再跟随人物向下移动。 时间段:10.3-12.8秒 画面:镜头先呈现湿润人行道的低机位空镜，男主的影子掠入，随后双脚从画面上方落下。棕色靴子落地并溅起少量水花，膝盖自然缓冲，男主立即起身向前奔跑。运镜:落地前保持贴地固定机位;双脚触地后镜头轻微震动，迅速向上摇摄，再转为低机位侧后方追拍。 时间段:12.8-17秒 画面:男主继续奔跑，一辆黄色出租车从镜头前方驶过并短暂遮挡。车辆移开后，男主已经来到道路另一侧，踩住低矮护栏向前跃起，同时射出第3道蛛丝，蛛丝迅速绷紧，男主连接蛛丝的手用力一拉，整个身体被迅速牵引向建筑屋顶，双脚再次踩上墙面，完成两次快速蹬墙，随后跃向建筑楼顶。运镜:低机位追拍，利用出租车完成遮挡;随后侧向跟随男主跃起并向上仰拍，利用建筑墙面掠过衔接屋顶。 时间段:17-19.2秒 画面:男主落在屋顶水洼旁，以低位蹲姿缓冲，一只手触碰水面，产生克制的水花与涟漪。他缓慢起身，先看向摄影机，再平静地望向远处城市。运镜:从低位中景平稳上升并轻微前推至中近景;男主转头时镜头停止移动。 时间段：19.2-20.8秒 画面:男主转身面向纽约天际线。摄影机移动至侧后方并拉远，由人物中近景扩大为屋顶大全景，远处高楼与尖顶摩天楼进入画面，最后停留半秒并自然淡出。运镜:稳定后拉并轻微横移，最后固定机位停留。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-spiderman-transform)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-spiderman-transform?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 游乐园时间静止：假牙恶作剧
 
 > 欧洲电影风格的游乐园时间静止短片，男孩鼓掌后让全场定格，在静止的人群间穿行完成三组恶作剧：接住老人的假牙、互换情侣的棉花糖、系好路人的鞋带。分镜按秒数规定固定镜头与低角度跟拍的组合。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-time-freeze-park.jpg" width="600" alt="游乐园时间静止：假牙恶作剧">](https://goodcase.ai/cases/doc2-time-freeze-park)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc2-time-freeze-park.jpg" width="600" alt="游乐园时间静止：假牙恶作剧">](https://goodcase.ai/cases/doc2-time-freeze-park?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc2-time-freeze-park) | **发布:** - | **热度:** -
 
@@ -1253,13 +1253,13 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-time-freeze-park)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc2-time-freeze-park?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 游戏实机展示《Magnet Riot》主菜单到冲刺
 
 > 赛博朋克游戏《Magnet Riot》实机展示视频，角色NIX在主菜单点击CONTINUE后进入磁力鞋装备切换界面，逐段拆解重组鞋底、线圈、抓钩模块。配置完成后加载进城市场景，发射抓钩冲刺收尾。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-game-realtime-magnetriot.jpg" width="600" alt="游戏实机展示《Magnet Riot》主菜单到冲刺">](https://goodcase.ai/cases/doc3-game-realtime-magnetriot)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-game-realtime-magnetriot.jpg" width="600" alt="游戏实机展示《Magnet Riot》主菜单到冲刺">](https://goodcase.ai/cases/doc3-game-realtime-magnetriot?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc3-game-realtime-magnetriot) | **发布:** - | **热度:** -
 
@@ -1267,13 +1267,13 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 角色参考图1，UI风格参考图2。高角度俯拍，NIX盘腿坐在电光青色涂鸦地面，抬头看向镜头。右侧显示菜单：START NEW RUN、CONTINUE（高亮）、GEAR、SETTINGS，左上角显示NIX / LEVEL 19。光标点击CONTINUE，镜头推近右脚，MAG-STEP LOADOUT面板滑入，选项由GRIND MODE切换至WALL-RUN。鞋底装甲分开，活塞伸展，磁力轨道旋转锁定，黄色线圈与青色能量依次亮起。镜头绕至左侧，KINETIC MODS网格出现，快速切换SOLE、COIL、HEEL、GAUNTLET。磁力鞋和右臂手甲逐段拆解重组，新线圈、推进器和抓钩模块吸附安装，露出导轨与线路，迸发橙色火花。点击LOCK CONFIG，UI收缩成贴纸飞散。NIX单膝起身，手甲上膛，磁力鞋展开。SYNCING进度条填充至100%，青色空间变暗，城市以扫描线逐层加载。立体涂鸦都市、悬浮轨道、广告牌、车流、无人机和列车显现。镜头转为第三人称，HUD与任务RACE THE STATIC LINE—420M出现。NIX冲刺发射抓钩，腾空翻转，切换滑轨模式落上悬空轨道，带着黄色火花高速滑入城市。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-game-realtime-magnetriot)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-game-realtime-magnetriot?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 真人拼贴杂志风 K-pop 女团 MV
 
 > 真人拼贴杂志风K-pop女团MV，锁定参考图中三位固定成员的脸型与服装，全程真实开口对唱英文歌词。画面模仿快节奏硬切、鱼眼近景与时尚拼贴，十句歌词做成随演唱逐词出现的超大动态字幕。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-kpop-mv-real-person.jpg" width="600" alt="真人拼贴杂志风 K-pop 女团 MV">](https://goodcase.ai/cases/doc3-kpop-mv-real-person)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-kpop-mv-real-person.jpg" width="600" alt="真人拼贴杂志风 K-pop 女团 MV">](https://goodcase.ai/cases/doc3-kpop-mv-real-person?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc3-kpop-mv-real-person) | **发布:** - | **热度:** -
 
@@ -1282,13 +1282,13 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 模仿参考视频的快节奏硬切、鱼眼近景、闪光灯、人物定格、拖影、分屏和时尚杂志拼贴。主色为芭比粉、黑、奶油白和镜面银。将“PINK LIGHT”“ONE TOUCH”“TURN IT ON”“BASS RUSH”“LIP GLOSS”“SWITCH IT UP”“CHROME HEART”“NO BRAKES”“HEARTBEAT”“DETONATE”直接做成超大动态歌词，随演唱逐词出现，遮挡人物或超出画框，粗体与超窄字体混排，拼写清晰准确。禁止AI脸、换脸、闭嘴、人物融合、畸形手指、乱码、额外人物、水印和缓慢转场。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-kpop-mv-real-person)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-kpop-mv-real-person?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 美式拼贴风科幻动画电影片头《NEON OVERDRIVE》
 
 > 美式拼贴风科幻动画电影片头《NEON OVERDRIVE》，讲述快递少女与声波精灵穿越折叠都市赶往天空电台。画面采用复古日系分镜、漫画拼贴与撕纸转场，配合英文署名逐条打出，一镜到底由单节点提示语生成。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-retro-collage-title.jpg" width="600" alt="美式拼贴风科幻动画电影片头《NEON OVERDRIVE》">](https://goodcase.ai/cases/doc3-retro-collage-title)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-retro-collage-title.jpg" width="600" alt="美式拼贴风科幻动画电影片头《NEON OVERDRIVE》">](https://goodcase.ai/cases/doc3-retro-collage-title?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc3-retro-collage-title) | **发布:** - | **热度:** -
 
@@ -1300,13 +1300,13 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 生成一支15秒16:9横版原创科幻冒险动画电影片头，片名《NEON OVERDRIVE》。磁悬浮快递少女NOVA REY与声波精灵BIX携带“黎明唱片”，穿越由音乐频率驱动、不断折叠分裂的平行都市，赶往天空电台。整体采用复古日系动画片头、硬边剪影、漫画印刷拼贴、非对称分屏、网点颗粒、套色偏移、纸张撕边、速度线和强烈几何色块，主色为电光青、酸性黄、珊瑚橙、洋红、深靛蓝与黑色。氛围青春、酷、自由、灵动，不悬疑、不犯罪。黑底定位线先出现，画格、人物、唱片、轮鞋火花与城市建筑跟随鼓点撞入；建筑翻转、街道折叠，角色连续穿越并撞破画格。英文署名依次出现“A FILM BY ELIAS NORTH”“STARRING MIRA VALE”“MUSIC BY JUNO MERCER”，最后定格“NEON OVERDRIVE”与“ネオン・オーバードライブ”，每条文字仅出现一次。转场使用唱片遮罩、长影擦屏、巨大字母遮罩、边框重组和色块硬切，不要柔和溶解。BGM使用合成器贝斯、切分鼓点、琶音、电吉他与短促铜管，结尾唱片急停并重击定格。不要蜘蛛、蛛网、超级英雄制服、现有角色、真人写实、三维卡通、中文或乱码。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-retro-collage-title)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-retro-collage-title?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### SONORA 耳机官网 UI/UX 动效视频
 
 > SONORA 头戴耳机官网UI/UX动效视频，页面以黑灰暖白配色与超大粗体字排版，单页一镜到底向下滚动展示降噪、音质、续航卖点。耳机通过sticky效果固定缩放至右侧，按钮悬停时有局部放大与弹性反馈。
 
-[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-ui-motion-sonora.jpg" width="600" alt="SONORA 耳机官网 UI/UX 动效视频">](https://goodcase.ai/cases/doc3-ui-motion-sonora)
+[<img src="https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-ui-motion-sonora.jpg" width="600" alt="SONORA 耳机官网 UI/UX 动效视频">](https://goodcase.ai/cases/doc3-ui-motion-sonora?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 卡尔 | **来源:** [原帖](https://x.com/aiwarts?gc=doc3-ui-motion-sonora) | **发布:** - | **热度:** -
 
@@ -1318,7 +1318,7 @@ The biscuits and their matching fruits are arranged in a strongly ordered geomet
 一个高端 SONORA 头戴式耳机官网 UI/UX 动效视频，核心展示图片1中的白色耳机。页面采用黑、灰、暖白配色，以倾斜的超大粗体文字张扬排版，背景融合动态光影、碳纤维、声学网布与声波纹理。视频以单页面、一镜到底的方式流畅向下滚动，顶部导航固定，耳机通过 sticky 效果稳定缩放并移动至右侧，左侧依次出现降噪、音质、续航等卖点。鼠标悬停时，仅局部按钮或卡片产生放大、颜色反转与弹性反馈。全程保持耳机造型、暖白配色及“SONORA”字标一致，禁止页面跳转、布局变化、产品变形、镜头切换和乱码。16:9，4K，高级运动科技官网质感。
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-ui-motion-sonora)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/doc3-ui-motion-sonora?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · **Part 7**

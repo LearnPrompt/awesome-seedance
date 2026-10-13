@@ -24,7 +24,7 @@ All 831 cases with full prompts, split per Seedance version and paged so GitHub 
 - [Template index (one file per template)](./templates/en/README.md)
 - [Agent Skill reference (full template text)](../agents/skills/seedance-prompt-library/references/style-library.md)
 - [Copyright & takedown notice](../README.md#copyright--takedown-notice)
-- [Live site on goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
+- [Live site on goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=index)
 
 ## Recommended entries
 
