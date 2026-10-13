@@ -1,10 +1,24 @@
 # Seedance 2.0 — 全ケース（Part 2/4）
 
-Seedance 2.0 の全 282 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 283 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 282 件中 91–191 件目。
+このページ: 283 件中 91–191 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
+
+### A Dragon Chases a Woman Through a Container Port at Dusk
+
+> Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
+
+[<img src="https://media.goodcase.ai/cases/f28efeb610bf.jpg" width="600" alt="A Dragon Chases a Woman Through a Container Port at Dusk">](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2108380075796418791) | **公開日:** 2026-10-09 | **ヒート:** 60
+
+```
+Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Slow Winter Living in a Snowy Mountain Cabin
 
@@ -70,20 +84,6 @@ Comedy style: exaggerated facial expressions, fast misunderstanding setup, drama
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Dragon Chases a Woman Through a Container Port at Dusk
-
-> Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
-
-[<img src="https://media.goodcase.ai/cases/f28efeb610bf.jpg" width="600" alt="A Dragon Chases a Woman Through a Container Port at Dusk">](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2108380075796418791) | **公開日:** 2026-10-09 | **ヒート:** 59
-
-```
-Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Blue Gemstone Necklace in Morning Light
 
@@ -1104,6 +1104,37 @@ Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic trans
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Young Woman Enjoys a Facial at a Luxury Skincare Clinic
+
+> A little self-care, a little glow, and a whole lot of confidence. Because healthy-looking skin and a peaceful mind are always in style. Created on seedance 2.0 …
+
+[<img src="https://media.goodcase.ai/cases/506e89357e65.jpg" width="600" alt="A Young Woman Enjoys a Facial at a Luxury Skincare Clinic">](https://goodcase.ai/cases/seedance-2-0-create-a-27-second-ultra-realistic-cinematic-beauty-and-skincare-commercial-in-ece4e161de01?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2109148182873845918) | **公開日:** 2026-10-11 | **ヒート:** 50
+
+<details>
+<summary><b>プロンプト全文（13 行、クリックで展開）</b></summary>
+
+```
+Create a 27-second ultra-realistic cinematic beauty and skincare commercial in vertical 9:16 format. The video features a beautiful young Asian woman with long, soft dark-brown hair, natural glowing skin, and elegant makeup visiting a luxurious beauty and skincare clinic.
+
+Scene 1 (0–6 seconds): Show the woman walking gracefully into a premium skincare clinic. She wears a white fitted top, a cream cardigan, a pastel-pink mini skirt, and white sneakers, carrying a small luxury handbag. Warm golden lighting, elegant marble counters, beautiful floral arrangements, glass skincare displays, and a friendly receptionist create a sophisticated atmosphere. Use smooth tracking shots and natural walking movements.
+
+Scene 2 (6–19 seconds): Transition into a relaxing facial treatment room. The woman lies comfortably on a professional treatment bed with a white towel wrapped around her head and body. A skincare specialist wearing a neutral-colored uniform and a medical mask gently applies a creamy facial mask using a flat skincare brush, covering her cheeks and chin with careful, realistic movements. Capture close-up shots of the brush gliding across her skin, the creamy texture of the mask, her relaxed expression, and her naturally glowing complexion. Use soft diffused lighting, clean surroundings, and cinematic close-ups.
+
+Scene 3 (19–23 seconds): The specialist gently finishes the facial treatment using a soft cosmetic sponge or pad. The woman opens her eyes, smiles peacefully, and reveals fresh, hydrated, radiant-looking skin. Capture realistic skin texture, subtle highlights, and a calm spa atmosphere.
+
+Scene 4 (23–27 seconds): Show the woman sitting elegantly in the clinic lounge, holding a small hand mirror and admiring her refreshed appearance. She gently touches her cheek, smiles confidently, and adjusts her hair. End with a beautiful close-up of her glowing face and a luxurious skincare-clinic background.
+
+Visual style: Ultra-photorealistic beauty advertising, premium Korean skincare commercial aesthetic, warm champagne and cream color palette, soft golden lighting, realistic skin texture, natural facial expressions, smooth camera transitions, shallow depth of field, elegant composition, and high-end commercial cinematography.
+
+Maintain consistent facial identity, hairstyle, body proportions, and clothing throughout all scenes. Ensure realistic hands, natural movements, believable facial treatment techniques, and seamless transitions. No distorted facial features, extra fingers, flickering, or artificial-looking skin. 4K-quality details, 30 FPS, vertical 9:16 aspect ratio.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-27-second-ultra-realistic-cinematic-beauty-and-skincare-commercial-in-ece4e161de01?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Bubbles Lift a Woman Above Fruit Mountains and a Sparkling Sea
 
@@ -2824,39 +2855,6 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithminal-seedance-ai-3c0cb08ecc8b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Pet Owner's Day with Their Dog
-
-> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
-
-[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="A Pet Owner's Day with Their Dog">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithZeeshi | **出典:** [元投稿](https://x.com/AIwithZeeshi/status/2094663938491187561) | **公開日:** 2026-09-01 | **ヒート:** 27
-
-**安定度:** 78/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 78.3) · [出力](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
-
-```
-A Pet Owner’s Daily Routine
-
-A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
-
-Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
-
-Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
-
-Could you keep up with this daily routine? 🐾
-
-#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### The Robot and Robot Dog Who Wanted to Fly
 
 > An android and his robot dog living alone in an abandoned seaside facility glimpse a flying hero and repaint themselves with handmade flower pigments, though they never actually fly. Four reference images lock the characters and the building inside and out, for a restrained, photoreal sci-fi short.
@@ -2987,6 +2985,39 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-e7dccea90d44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Pet Owner's Day with Their Dog
+
+> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
+
+[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="A Pet Owner's Day with Their Dog">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithZeeshi | **出典:** [元投稿](https://x.com/AIwithZeeshi/status/2094663938491187561) | **公開日:** 2026-09-01 | **ヒート:** 26
+
+**安定度:** 78/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 78.3) · [出力](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
+
+```
+A Pet Owner’s Daily Routine
+
+A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
+
+Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
+
+Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
+
+Could you keep up with this daily routine? 🐾
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Silver-Haired Rider's Neon Highway Escape
 
@@ -3649,47 +3680,6 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/pov-vlog-c94d5709daa4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Smartwatch Product Lifestyle Ad
-
-> A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
-
-[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2080519081959276735) | **公開日:** 2026-07-24 | **ヒート:** 21
-
-**安定度:** 75/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.7) · [出力](https://media.goodcase.ai/retests/case-146e12082f4d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
-
-```
-Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
-
-The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
-
-A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
-
-She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
-
-The scene transitions to a stylish café where she effortlessly pays for her coffee using the smartwatch. Cinematic close-ups highlight the contactless payment animation, subtle wrist gestures, and premium design.
-
-Later she walks through vibrant city streets, using the smartwatch for navigation, controlling her music, reading messages, checking the weather, and setting reminders. Natural lifestyle moments show her confidently interacting with the watch without ever reaching for her phone.
-
-Golden hour arrives as she relaxes on a rooftop overlooking the city skyline. She raises her wrist toward the sunset, and the smartwatch display transitions into a beautiful golden watch face. Macro shots emphasize the premium craftsmanship, slim profile, sapphire glass reflections, and luxury finish.
-
-The final cinematic hero shot shows her smiling warmly toward the camera while gently holding her wrist forward, making the smartwatch the focal point. The camera slowly circles around her before pulling back to reveal the glowing city skyline bathed in golden evening light.
-
-Natural ambient audio only: birds chirping, footsteps, gentle breeze, smartwatch tap sounds, subtle notification chimes, café ambience, coffee machine sounds, city ambience, leaves rustling. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
-
-Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinematography, smooth handheld and gimbal camera movement, cinematic push-ins, elegant orbit shots, realistic skin texture, physically accurate lighting, shallow depth of field, luxury lifestyle aesthetic, photorealistic product reflections, 4K HDR, 24fps, 16:9 widescreen.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

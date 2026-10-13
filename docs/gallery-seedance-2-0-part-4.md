@@ -1,10 +1,46 @@
 # Seedance 2.0 — Full Gallery (Part 4/4)
 
-All 282 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 283 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 279–282 of 282.
+This page: cases 279–283 of 283.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · **Part 4**
+
+### Childhood Toys Dialogue Prompt
+
+> A video prompt depicting a conversation among friends at a bar about the differences between boys’ and girls’ childhood toys.
+
+[<img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="600" alt="Childhood Toys Dialogue Prompt">](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @PixelAigc | **Source:** [Original](https://x.com/PixelAigc/status/2081047344850845750) | **Published:** 2026-07-25 | **Heat:** -
+
+**Stability:** 90/100
+
+**Retests:** 2 runs
+
+- MiniMax H3 Max 768p · 2026-09-06 · ✅ reproduced (score 90) · [output](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+- MiniMax H3 768p · 2026-08-09 · ✅ reproduced (score n/a) · [output](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260809-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (11 lines, click to expand)</b></summary>
+
+```
+主体：两个男人和一个女人，他们是朋友
+场景：一家酒吧，他们三个人围坐在一张桌子上喝茶
+这里，其中一个男人A说：
+“说一个有意思的事”
+女人说：“什么事？”
+男人B对男人A说：“你说”
+男人A说：“小的时候，男孩子都喜欢电动玩具，女孩子都喜欢娃娃”
+女人说：“是啊”
+男人A说：“等到长大后，好像就反过来了”
+女人楞了一下，突然反应过来，不好意思地笑了。
+男人B看一下男人A说：“哈，还真是这样”
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Cute Bunny Chef Anime Cooking
 

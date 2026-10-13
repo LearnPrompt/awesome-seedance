@@ -1586,40 +1586,6 @@ Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Ja
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Father and Daughter’s Warm Embrace by a Golden Window
-
-> Made with seedance 2.5 Prompt 👇 Create a heartwarming cinematic 3D animated scene in a warm, cozy family living room during golden hour. A cute toddler girl wi…
-
-[<img src="https://media.goodcase.ai/cases/f756f122401b.jpg" width="600" alt="Father and Daughter’s Warm Embrace by a Golden Window">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-9fb55ff34947?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2104541346711343205) | **Published:** 2026-09-28 | **Heat:** 53
-
-<details>
-<summary><b>Full prompt (16 lines, click to expand)</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a heartwarming cinematic 3D animated scene in a warm, cozy family living room during golden hour. A cute toddler girl with curly light-brown hair, wearing a simple white sleeveless dress and white socks, stands shyly behind a sheer white curtain near a large sunlit window. She looks playful and curious, gently peeking through the curtain.
-
-Cut to her young father, a handsome brown-haired man wearing a light beige button-up shirt with rolled sleeves and blue jeans, sitting in the living room. He suddenly notices his little daughter and looks surprised and concerned. He quickly gets up from the sofa, moves around it, and searches for her with expressive facial reactions.
-
-The father walks toward the bright window and suddenly spots the little girl. His expression changes from worry to pure happiness. He smiles warmly, reaches toward her, gently picks her up in his arms, and lifts her slightly into the air.
-
-The little girl laughs joyfully with her eyes closed while her father looks at her lovingly. He hugs her close and spins gently in place. End with a beautiful wide shot of the father holding his laughing daughter in front of the glowing window, warm sunlight streaming through the curtains, soft lens flare, peaceful family atmosphere.
-
-Style: high-quality cinematic 3D animation, expressive Pixar-inspired character animation, adorable child expressions, realistic fabric and hair movement, detailed cozy living-room environment, warm golden-hour lighting, soft volumetric sunlight, shallow depth of field, smooth natural character motion, emotional storytelling, polished animated-film quality, cinematic composition, 4K detail.
-
-Camera: start with a close-up of the toddler behind the curtain, slowly push in, cut to a medium shot of the father noticing her, follow his movement with smooth tracking shots, use expressive close-ups for his facial reactions, then transition to a gentle handheld-style push-in as he picks her up, finishing with a wide cinematic shot.
-
-No text, no subtitles, no watermark, no distorted hands, no extra fingers, no duplicate characters, consistent character identity throughout.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-9fb55ff34947?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Twisted Transformation in a Late-Night Pharmacy
 
 > Imagine you experiencing this thing 🥺 Seedance 2.5 on Higgsfield Prompt : A girl enters a small late-night medical drug store holding a prescription, tired and…
@@ -1748,6 +1714,40 @@ No plastic skin, no CGI, no anime, no 3D render, no beauty filter, no stiff or r
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-15-second-cinematic-16-9-ultra-realistic-live-action-tokyo-street-style-dance-v-2f821bb72e06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Father and Daughter’s Warm Embrace by a Golden Window
+
+> Made with seedance 2.5 Prompt 👇 Create a heartwarming cinematic 3D animated scene in a warm, cozy family living room during golden hour. A cute toddler girl wi…
+
+[<img src="https://media.goodcase.ai/cases/f756f122401b.jpg" width="600" alt="Father and Daughter’s Warm Embrace by a Golden Window">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-9fb55ff34947?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2104541346711343205) | **Published:** 2026-09-28 | **Heat:** 52
+
+<details>
+<summary><b>Full prompt (16 lines, click to expand)</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a heartwarming cinematic 3D animated scene in a warm, cozy family living room during golden hour. A cute toddler girl with curly light-brown hair, wearing a simple white sleeveless dress and white socks, stands shyly behind a sheer white curtain near a large sunlit window. She looks playful and curious, gently peeking through the curtain.
+
+Cut to her young father, a handsome brown-haired man wearing a light beige button-up shirt with rolled sleeves and blue jeans, sitting in the living room. He suddenly notices his little daughter and looks surprised and concerned. He quickly gets up from the sofa, moves around it, and searches for her with expressive facial reactions.
+
+The father walks toward the bright window and suddenly spots the little girl. His expression changes from worry to pure happiness. He smiles warmly, reaches toward her, gently picks her up in his arms, and lifts her slightly into the air.
+
+The little girl laughs joyfully with her eyes closed while her father looks at her lovingly. He hugs her close and spins gently in place. End with a beautiful wide shot of the father holding his laughing daughter in front of the glowing window, warm sunlight streaming through the curtains, soft lens flare, peaceful family atmosphere.
+
+Style: high-quality cinematic 3D animation, expressive Pixar-inspired character animation, adorable child expressions, realistic fabric and hair movement, detailed cozy living-room environment, warm golden-hour lighting, soft volumetric sunlight, shallow depth of field, smooth natural character motion, emotional storytelling, polished animated-film quality, cinematic composition, 4K detail.
+
+Camera: start with a close-up of the toddler behind the curtain, slowly push in, cut to a medium shot of the father noticing her, follow his movement with smooth tracking shots, use expressive close-ups for his facial reactions, then transition to a gentle handheld-style push-in as he picks her up, finishing with a wide cinematic shot.
+
+No text, no subtitles, no watermark, no distorted hands, no extra fingers, no duplicate characters, consistent character identity throughout.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-9fb55ff34947?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Fast-Paced Retro Drink Commercial with a Playful Girl
 
@@ -2024,48 +2024,6 @@ Accurate human biomechanics, grounded feet, continuous objects, realistic walkin
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-on-12c7aabe6be5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Through Turkey’s Neon Old City, Turquoise Seas and Balloon Skies
-
-> Seedance 2.5 Prompt: Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TU…
-
-[<img src="https://media.goodcase.ai/cases/313dd39b0f8a.jpg" width="600" alt="Through Turkey’s Neon Old City, Turquoise Seas and Balloon Skies">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-fpv-travel-film-showcasing-the-fut-10f862c76c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2106439652278411435) | **Published:** 2026-10-03 | **Heat:** 51
-
-<details>
-<summary><b>Full prompt (24 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TURKEY. Blend cyberpunk technology with Istanbul’s historic architecture, vibrant streets, Mediterranean and Aegean coastlines, and spectacular night imagery. Use extreme-speed FPV drone movement, hyperlapse, seamless spatial transitions, and dense but controlled flash-cut editing. 8K cinematic realism, photorealistic environments, realistic crowds and vehicles, dramatic lighting, smooth motion blur only during rapid transitions, premium commercial cinematography. No text, logos, subtitles, or watermarks.
-
-[0–6s] — CITY FROM THE SKY
-Begin above Istanbul at sunrise, surrounded by mist and clouds. An FPV drone dives rapidly between modern skyscrapers before sweeping toward the Bosphorus. The scene transitions from warm daylight into blue-hour neon as the city below comes alive. Cars create flowing light trails while the camera races through vibrant streets, revealing Istanbul’s futuristic energy beside historic architecture.
-
-[6–12s] — TECHNOLOGY & HISTORY
-Use rapid cinematic match cuts: a modern tram glides through the city, instantly transitioning into a close-up of a traditional Turkish coffee being prepared; a speeding ferry cuts across the Bosphorus, followed by a dramatic aerial reveal of the Hagia Sophia and Blue Mosque. Turkish street life, glowing shopfronts, crowded avenues, and modern architecture flash together in rhythmic visual transitions.
-
-[12–18s] — SPATIAL FOLD TO THE COAST
-A moving object passes directly across the lens and becomes a seamless transition into the Turkish coastline. The camera bursts over crystal-clear turquoise water near Antalya and races along dramatic Mediterranean cliffs. Speedboats cut through the sea, white spray exploding behind them. Transition toward Cappadocia as hot-air balloons suddenly fill the sky above the surreal rock formations.
-
-[18–24s] — TURKEY IN MOTION
-The camera dives between Cappadocia’s towering rock formations and rapidly transitions to a bustling Istanbul street at golden hour. Match-cut between a Turkish flag waving in the wind, a crowded bazaar, traditional architecture, modern city traffic, and people enjoying the coastline. Use fast but visually coherent transitions that emphasize Turkey’s contrast between ancient heritage and modern life.
-
-[24–30s] — THE GRAND FINALE
-Night falls instantly. The camera rises above Istanbul and reveals the Bosphorus illuminated by thousands of city lights. A massive coordinated drone light show forms elegant abstract shapes above the skyline while boats move across the glowing water below. The camera pulls rapidly backward and upward into an enormous aerial panorama, revealing Istanbul stretching across both sides of the Bosphorus.
-
-End with a powerful wide cinematic shot of the illuminated city, water, bridges, historic landmarks, and night sky.
-
-STYLE: ultra-realistic 8K cinematic travel film, photorealistic Turkey, extreme FPV drone cinematography, high-speed hyperlapse, seamless spatial transitions, dynamic match cuts, realistic crowds and vehicles, detailed architecture, natural atmospheric haze, volumetric light, cinematic depth of field, realistic reflections, subtle motion blur only during fast transitions, HDR, premium tourism-commercial quality.
-
-COLOR: begin with warm natural daylight, transition into cool blue and cyan tones during futuristic city sequences, use rich turquoise and golden tones along the coast, then finish with deep blue night and warm city lights.
-
-AUDIO: cinematic electronic pulse building with the speed of the visuals, Istanbul street ambience, ferry horns, traffic, waves, wind, subtle traditional Turkish instrumental textures, then a powerful musical rise for the final aerial reveal. No spoken dialogue.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-fpv-travel-film-showcasing-the-fut-10f862c76c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Making Crispy Korean-Style Glazed Chicken
 
@@ -2605,6 +2563,48 @@ A silver sports car driving down a city highway smoothly transforms into a giant
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Through Turkey’s Neon Old City, Turquoise Seas and Balloon Skies
+
+> Seedance 2.5 Prompt: Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TU…
+
+[<img src="https://media.goodcase.ai/cases/313dd39b0f8a.jpg" width="600" alt="Through Turkey’s Neon Old City, Turquoise Seas and Balloon Skies">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-fpv-travel-film-showcasing-the-fut-10f862c76c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2106439652278411435) | **Published:** 2026-10-03 | **Heat:** 50
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+Create a 30-second ultra-realistic cinematic FPV travel film showcasing the futuristic energy, natural beauty, and cultural character of TURKEY. Blend cyberpunk technology with Istanbul’s historic architecture, vibrant streets, Mediterranean and Aegean coastlines, and spectacular night imagery. Use extreme-speed FPV drone movement, hyperlapse, seamless spatial transitions, and dense but controlled flash-cut editing. 8K cinematic realism, photorealistic environments, realistic crowds and vehicles, dramatic lighting, smooth motion blur only during rapid transitions, premium commercial cinematography. No text, logos, subtitles, or watermarks.
+
+[0–6s] — CITY FROM THE SKY
+Begin above Istanbul at sunrise, surrounded by mist and clouds. An FPV drone dives rapidly between modern skyscrapers before sweeping toward the Bosphorus. The scene transitions from warm daylight into blue-hour neon as the city below comes alive. Cars create flowing light trails while the camera races through vibrant streets, revealing Istanbul’s futuristic energy beside historic architecture.
+
+[6–12s] — TECHNOLOGY & HISTORY
+Use rapid cinematic match cuts: a modern tram glides through the city, instantly transitioning into a close-up of a traditional Turkish coffee being prepared; a speeding ferry cuts across the Bosphorus, followed by a dramatic aerial reveal of the Hagia Sophia and Blue Mosque. Turkish street life, glowing shopfronts, crowded avenues, and modern architecture flash together in rhythmic visual transitions.
+
+[12–18s] — SPATIAL FOLD TO THE COAST
+A moving object passes directly across the lens and becomes a seamless transition into the Turkish coastline. The camera bursts over crystal-clear turquoise water near Antalya and races along dramatic Mediterranean cliffs. Speedboats cut through the sea, white spray exploding behind them. Transition toward Cappadocia as hot-air balloons suddenly fill the sky above the surreal rock formations.
+
+[18–24s] — TURKEY IN MOTION
+The camera dives between Cappadocia’s towering rock formations and rapidly transitions to a bustling Istanbul street at golden hour. Match-cut between a Turkish flag waving in the wind, a crowded bazaar, traditional architecture, modern city traffic, and people enjoying the coastline. Use fast but visually coherent transitions that emphasize Turkey’s contrast between ancient heritage and modern life.
+
+[24–30s] — THE GRAND FINALE
+Night falls instantly. The camera rises above Istanbul and reveals the Bosphorus illuminated by thousands of city lights. A massive coordinated drone light show forms elegant abstract shapes above the skyline while boats move across the glowing water below. The camera pulls rapidly backward and upward into an enormous aerial panorama, revealing Istanbul stretching across both sides of the Bosphorus.
+
+End with a powerful wide cinematic shot of the illuminated city, water, bridges, historic landmarks, and night sky.
+
+STYLE: ultra-realistic 8K cinematic travel film, photorealistic Turkey, extreme FPV drone cinematography, high-speed hyperlapse, seamless spatial transitions, dynamic match cuts, realistic crowds and vehicles, detailed architecture, natural atmospheric haze, volumetric light, cinematic depth of field, realistic reflections, subtle motion blur only during fast transitions, HDR, premium tourism-commercial quality.
+
+COLOR: begin with warm natural daylight, transition into cool blue and cyan tones during futuristic city sequences, use rich turquoise and golden tones along the coast, then finish with deep blue night and warm city lights.
+
+AUDIO: cinematic electronic pulse building with the speed of the visuals, Istanbul street ambience, ferry horns, traffic, waves, wind, subtle traditional Turkish instrumental textures, then a powerful musical rise for the final aerial reveal. No spoken dialogue.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-fpv-travel-film-showcasing-the-fut-10f862c76c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Burgundy-Haired Fashion Muse Among Newspapers
 
@@ -3466,38 +3466,6 @@ The duckling stands alone at a calm pond, then jumps in with a splash, wings out
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-sunny-forest-stream-pixar-style-3d-animation-a011f1d58b29?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Armored Soldier Battles Drones in a Ruined Factory
-
-> ⚡The last soldier. The last hope. The last battle. 🔥 Made with Seedance 2.5 on @supercool_hq Prompt: Ultra-realistic cinematic sci-fi war film, 15 seconds, 16:…
-
-[<img src="https://media.goodcase.ai/cases/fc9e3bbb6100.jpg" width="600" alt="Armored Soldier Battles Drones in a Ruined Factory">](https://goodcase.ai/cases/seedance-ultra-realistic-cinematic-sci-fi-war-film-15-seconds-16-9-60fps-handheld-ca-8b3a4a994544?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @itsSaira_1 | **Source:** [Original](https://x.com/itsSaira_1/status/2104432266235851168) | **Published:** 2026-09-28 | **Heat:** 49
-
-<details>
-<summary><b>Full prompt (14 lines, click to expand)</b></summary>
-
-```
-Ultra-realistic cinematic sci-fi war film, 15 seconds, 16:9, 60fps, handheld camera, desaturated gray-blue color grade, overcast sky, film grain. Keep the character from the reference image identical in every shot: same face, same weathered gray-green armor with clear visor helmet and glowing amber visor trim. Location: ruined industrial wasteland, rusted factory towers, smoking chimneys, scrap piles, small fires, puddles. Enemies: small hovering quad-drones with glowing blue eyes, one with a red eye.
-
-0-2s: Close-up of the soldier's face behind the visor, tense, dirt on face, drones flying behind him. Camera slowly pushes in.
-2-4s: Tight shot, he ducks and turns fast, armor shoulder fills the frame, red-eyed drone above.
-4-6s: Low wide shot, he crouches behind a concrete barrier, explosion and smoke in the background, blue light glowing on his wrist.
-6-8s: Side shot, he rises and fires a plasma rifle at a drone, sparks burst from the drone.
-8-10s: Wide shot, a hit drone flips and spins away through the air, he stands in firing stance, more drones circling.
-10-12s: Medium shot, he swings his arm with a glowing blue wrist gauntlet, then a close-up of the blue energy charging in his fist, face determined.
-12-13s: Wide shot, blue energy dome shield erupts around him at the barrier, drones fly around.
-13-15s: Camera slowly pulls back to a huge wide shot, tiny soldier in the center of the wrecked factory field, smoke and flames, drones in the sky.
-
-Negative prompt: face change, different character, armor change, cartoon, anime, CGI look, plastic skin, blur, low quality, distorted hands, extra limbs, deformed helmet, flicker, warping, text, watermark, logo, subtitles, oversaturated colors, bright daylight, morphing, inconsistent lighting
-
-#AIVideo #SciFi #CinematicAI #AIArt #FutureWar #Cinematic #AIFilm
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-ultra-realistic-cinematic-sci-fi-war-film-15-seconds-16-9-60fps-handheld-ca-8b3a4a994544?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Young Woman’s Elegant Everyday Life in Seoul
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic lifestyle video of a beautiful young Korean woman with long dark brown hair, natural makeup and delicate…
@@ -3683,6 +3651,38 @@ Final result should feel like a luxury streetwear campaign, futuristic fashion e
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-luxury-streetwear-fashion-film-combining-rapid-outfit-change-e7f858674b8c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Armored Soldier Battles Drones in a Ruined Factory
+
+> ⚡The last soldier. The last hope. The last battle. 🔥 Made with Seedance 2.5 on @supercool_hq Prompt: Ultra-realistic cinematic sci-fi war film, 15 seconds, 16:…
+
+[<img src="https://media.goodcase.ai/cases/fc9e3bbb6100.jpg" width="600" alt="Armored Soldier Battles Drones in a Ruined Factory">](https://goodcase.ai/cases/seedance-ultra-realistic-cinematic-sci-fi-war-film-15-seconds-16-9-60fps-handheld-ca-8b3a4a994544?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @itsSaira_1 | **Source:** [Original](https://x.com/itsSaira_1/status/2104432266235851168) | **Published:** 2026-09-28 | **Heat:** 48
+
+<details>
+<summary><b>Full prompt (14 lines, click to expand)</b></summary>
+
+```
+Ultra-realistic cinematic sci-fi war film, 15 seconds, 16:9, 60fps, handheld camera, desaturated gray-blue color grade, overcast sky, film grain. Keep the character from the reference image identical in every shot: same face, same weathered gray-green armor with clear visor helmet and glowing amber visor trim. Location: ruined industrial wasteland, rusted factory towers, smoking chimneys, scrap piles, small fires, puddles. Enemies: small hovering quad-drones with glowing blue eyes, one with a red eye.
+
+0-2s: Close-up of the soldier's face behind the visor, tense, dirt on face, drones flying behind him. Camera slowly pushes in.
+2-4s: Tight shot, he ducks and turns fast, armor shoulder fills the frame, red-eyed drone above.
+4-6s: Low wide shot, he crouches behind a concrete barrier, explosion and smoke in the background, blue light glowing on his wrist.
+6-8s: Side shot, he rises and fires a plasma rifle at a drone, sparks burst from the drone.
+8-10s: Wide shot, a hit drone flips and spins away through the air, he stands in firing stance, more drones circling.
+10-12s: Medium shot, he swings his arm with a glowing blue wrist gauntlet, then a close-up of the blue energy charging in his fist, face determined.
+12-13s: Wide shot, blue energy dome shield erupts around him at the barrier, drones fly around.
+13-15s: Camera slowly pulls back to a huge wide shot, tiny soldier in the center of the wrecked factory field, smoke and flames, drones in the sky.
+
+Negative prompt: face change, different character, armor change, cartoon, anime, CGI look, plastic skin, blur, low quality, distorted hands, extra limbs, deformed helmet, flicker, warping, text, watermark, logo, subtitles, oversaturated colors, bright daylight, morphing, inconsistent lighting
+
+#AIVideo #SciFi #CinematicAI #AIArt #FutureWar #Cinematic #AIFilm
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-ultra-realistic-cinematic-sci-fi-war-film-15-seconds-16-9-60fps-handheld-ca-8b3a4a994544?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Young Korean Woman Learns to Milk a Cow
 
@@ -5201,91 +5201,6 @@ Continuity: Real dogs and environmental actions. No repeated characters, distort
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-16-9-ultra-realistic-2000s-style-home-video-recordin-1fe5edfad3ab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Hanbok and Tea Diary in Jeonju Hanok Village
-
-> Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati
-
-[<img src="https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-8f11307a9239.jpg" width="600" alt="Hanbok and Tea Diary in Jeonju Hanok Village">](https://goodcase.ai/cases/oggii-0-seedance-ai-8f11307a9239?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @oggii_0 | **Source:** [Original](https://x.com/oggii_0/status/2091820691100496381) | **Published:** 2026-08-24 | **Heat:** 46
-
-<details>
-<summary><b>Full prompt (67 lines, click to expand)</b></summary>
-
-```
-FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
-
-Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from <<<image_1>>> throughout the entire video. The same woman must appear consistently in every shot.
-
-VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
-
-Outfit: rented pastel pink hanbok with a cream jeogori top, hair styled in a traditional low braid with a small ribbon, white cotton socks, black traditional flat shoes. The entire video must feel like one genuine recording captured by a friend on a daytime trip through Jeonju Hanok Village, South Korea, not a staged commercial or cinematic recreation.
-
-00:00–00:04 — DAYTIME ARRIVAL
-The woman walks down a sunny stone-paved lane lined with traditional hanok houses, tourists strolling nearby in colorful hanbok.
-The camera bounces gently behind her, then swings around to her smiling face.
-She says:
-"Look at me, I finally get to wear a hanbok!"
-
-00:04–00:08 — TRADITIONAL TEA HOUSE
-She steps into a small traditional tea house courtyard with wooden benches and hanging paper lanterns.
-The camera focus hunts between a steaming teapot and her face as she sits down.
-She watches an elderly tea master pour tea with careful, practiced movements.
-
-00:08–00:12 — FIRST SIP
-She picks up the small ceramic cup, blows on it, takes a sip.
-Her expression shows pleasant surprise.
-She turns to the camera and says:
-"It's so fragrant, I love it already."
-The camera operator chuckles softly off-screen.
-
-00:12–00:16 — CHATTING WITH THE TEA MASTER
-She sits cross-legged at the low table, chatting with the tea master, who explains something while gesturing at the teapot.
-She nods, laughs at a joke, and awkwardly attempts to pour tea herself, spilling a little.
-Everyone at the table laughs naturally, no exaggerated acting.
-
-00:16–00:20 — HANJI CRAFT ATTEMPT
-A nearby craft table has traditional hanji paper fans being decorated.
-She sits down and tries painting a simple pattern on a fan, her lines coming out slightly crooked.
-She holds it up to the camera, laughing, and says:
-"Okay, I'm definitely not an artist."
-
-00:20–00:24 — WALKING THE VILLAGE
-She walks along the hanok streets, fan in hand, passing shops, rooftops, and other tourists in hanbok.
-A group of children in hanbok run past giggling; she waves and laughs.
-The camera swings briefly toward the rooftops before returning to her.
-
-00:24–00:27 — QUIET MOMENT
-She stops at a scenic overlook where rows of curved hanok roofs stretch into the distance under the afternoon sun.
-For a moment there's no dialogue — just wind, distant chatter, and birds.
-She smiles and says:
-"This view is unreal."
-
-00:27–00:30 — NATURAL ENDING
-She starts walking again, then turns back toward the camera with a playful grin, fan waving gently.
-"Okay, hanbok day complete. See you next time!"
-She laughs, spins slightly in her hanbok, and keeps walking.
-The camera lingers a moment longer before the footage naturally ends with a slight shake and imperfect cut.
-
-AUDIO
-Natural location sound only:
-- wind rustling paper lanterns
-- distant tourist chatter
-- footsteps on stone pavement
-- teapot pouring sounds
-- birds
-- children laughing and playing
-- fabric rustling from hanbok movement
-- faint distant street vendor calls
-- subtle camera handling sounds
-
-No intentional background music track — only naturally occurring ambient sound from the environment.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/oggii-0-seedance-ai-8f11307a9239?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Woman Escapes a Zombie Reflection in a Nighttime Elevator
 
 > The Last Elevator Ride 🧟‍♀️ Made with Seedance 2.5 on @wavespeed_ai Prompt : Create an ultra-realistic Korean zombie-horror sequence inside an old apartment el…
@@ -5340,6 +5255,196 @@ The final result should feel like an actual 15-second travel vlog filmed spontan
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-eae9734adb51?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Volcanic Eruption Turns Into a Sea of Popcorn
+
+> Made with Seedance 2.5 Duration: 17 seconds Aspect Ratio: 16:9 Prompt: Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the …
+
+[<img src="https://media.goodcase.ai/cases/d81423b0e9e5.jpg" width="600" alt="Volcanic Eruption Turns Into a Sea of Popcorn">](https://goodcase.ai/cases/seedance-create-a-17-second-ultra-realistic-cinematic-vertical-video-featuring-the-woman-6be0338020cb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2104753404627268008) | **Published:** 2026-09-29 | **Heat:** 45
+
+<details>
+<summary><b>Full prompt (172 lines, click to expand)</b></summary>
+
+```
+Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the provided character reference.
+
+Use the newly provided female character reference as the ONLY identity reference for the main character. Do NOT use the face or identity of the woman visible in the storyboard.
+
+Use the provided 13-panel Master Storyboard as the exact visual, chronological and action guide for the entire video.
+
+CHARACTER CONSISTENCY:
+Preserve the exact facial identity of the provided woman throughout the entire video, including her facial structure, eyes, nose, lips, skin tone, long dark hair, body proportions and recognizable appearance.
+
+Her identity must remain unchanged in every shot.
+
+Keep the character visually consistent from beginning to end. No face drift, no identity change, no hairstyle transformation and no replacement character.
+
+The wardrobe should be adapted naturally for the volcanic adventure while maintaining a believable, consistent outfit throughout the sequence.
+
+IMPORTANT:
+The Master Storyboard controls the scenes, actions, camera progression, timing and visual composition.
+The provided character reference controls ONLY the identity and appearance of the main woman.
+
+Do not copy the storyboard woman's face.
+
+STORY AND ACTION:
+
+SHOT 1 — 0:00–0:02
+Begin with the woman holding an enormous transparent bag completely filled with unpopped popcorn kernels near the edge of a massive volcanic crater.
+
+Use a close-to-medium cinematic perspective showing her, the giant popcorn bag and the glowing crater in the background.
+
+She looks toward the crater with curious anticipation.
+
+SHOT 2 — 0:02–0:03
+Move closer as she looks down toward the crater.
+
+Her expression changes slightly as she watches the glowing lava below.
+
+The giant popcorn bag remains firmly in her hands.
+
+SHOT 3 — 0:03–0:04
+She releases the giant popcorn bag.
+
+The transparent bag begins falling downward into the crater.
+
+Use a dynamic camera movement following the falling bag.
+
+Keep the bag physically consistent and clearly visible.
+
+SHOT 4 — 0:04–0:05
+The bag hangs above the glowing lava crater.
+
+Use a dramatic overhead perspective looking down into the circular volcanic formation.
+
+The bag continues descending naturally under gravity.
+
+The glowing lava illuminates the transparent plastic and popcorn kernels.
+
+SHOT 5 — 0:05–0:06
+The bag falls closer toward the lava.
+
+Increase the sense of speed while maintaining realistic gravity and physical motion.
+
+The camera follows the bag toward the center of the crater.
+
+SHOT 6 — 0:06–0:08
+The crater suddenly erupts.
+
+A powerful vertical volcanic burst rises from the center.
+
+The popcorn bag is caught in the eruption.
+
+Use a dramatic wide overhead shot showing the full scale of the crater.
+
+SHOT 7 — 0:08–0:09
+The eruption transforms into an enormous explosion of freshly popped popcorn.
+
+Thousands of realistic popcorn pieces burst upward and outward.
+
+Use a fast cinematic camera push into the popcorn cloud.
+
+Each popcorn piece should have believable individual motion.
+
+SHOT 8 — 0:09–0:10
+The popcorn explosion fills the frame and transitions into the interior of a small vehicle or cabin.
+
+Popcorn rushes through the space and begins accumulating everywhere.
+
+Use strong forward motion as the popcorn wave moves toward the camera.
+
+SHOT 9 — 0:10–0:12
+The cabin rapidly fills with popcorn.
+
+Popcorn rises from the floor and piles naturally around the seats and interior surfaces.
+
+The volume increases continuously until the woman is surrounded.
+
+Do not make the popcorn appear instantaneously.
+
+SHOT 10 — 0:12–0:14
+The camera pushes through the popcorn toward the woman.
+
+She is partially buried in the enormous pile, with her upper body and face clearly visible.
+
+She looks toward the camera and begins laughing.
+
+Popcorn moves naturally around her shoulders and arms.
+
+SHOT 11 — 0:14–0:15
+Close-up of the woman emerging from the popcorn.
+
+She smiles directly toward the camera.
+
+A few popcorn pieces rest naturally in her hair and on her shoulders.
+
+Warm orange volcanic light illuminates her face.
+
+SHOT 12 — 0:15–0:16
+She gathers a large handful of popcorn with both hands.
+
+She brings it toward her mouth with a playful, delighted expression.
+
+Keep the popcorn pieces physically consistent and naturally positioned.
+
+SHOT 13 — 0:16–0:17
+Extreme close-up final moment.
+
+She happily eats the popcorn while looking toward the camera.
+
+She smiles playfully with popcorn around her.
+
+End on her satisfied expression.
+
+CAMERA:
+Use motivated cinematic camera movement throughout:
+handheld close-ups, overhead crater shots, dynamic tracking, dramatic push-ins, macro popcorn details and an intimate final close-up.
+
+Use subtle speed changes only where they enhance the eruption and popcorn explosion.
+
+PHYSICS:
+Realistic gravity.
+Realistic falling motion.
+Realistic volcanic eruption dynamics.
+Realistic popcorn expansion and flight.
+Realistic popcorn accumulation and weight.
+Realistic interaction between the woman and the popcorn.
+
+No teleportation.
+No duplicated character.
+No duplicate popcorn bags.
+No changing clothing.
+No face drift.
+No distorted hands.
+No floating objects without physical cause.
+
+AUDIO:
+Natural environmental sound combined with cinematic action sound design.
+
+Include wind around the crater, deep volcanic rumble, falling-object sounds, eruption impact, rushing air, popcorn impacts, cabin movement and the woman's natural laughter.
+
+No dialogue.
+No narration.
+No subtitles.
+No text overlays.
+No logos.
+No watermark.
+
+FINAL LOOK:
+Ultra-realistic live-action cinematic footage with a surreal comedy-adventure feeling.
+
+The sequence must follow the 13-panel Master Storyboard exactly in chronological order.
+
+The newly provided woman must remain the same recognizable person from the first frame to the last frame.
+
+Only the character identity is changed. Everything else from the storyboard remains unchanged.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-17-second-ultra-realistic-cinematic-vertical-video-featuring-the-woman-6be0338020cb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md)

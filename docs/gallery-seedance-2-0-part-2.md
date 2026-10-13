@@ -1,10 +1,28 @@
 # Seedance 2.0 — Full Gallery (Part 2/4)
 
-All 282 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 283 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 93–195 of 282.
+This page: cases 93–195 of 283.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.md) · [Part 4](./gallery-seedance-2-0-part-4.md)
+
+### Struggle and Chase on a Rainy City Street
+
+> Rain, suspense, and a cinematic night chase. A dramatic AI-generated scene brought to life with realistic motion and atmosphere. Created on seedance 2.0 Prompt:…
+
+[<img src="https://media.goodcase.ai/cases/6245452cb575.jpg" width="600" alt="Struggle and Chase on a Rainy City Street">](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Lianaalane | **Source:** [Original](https://x.com/Lianaalane/status/2100088243492385019) | **Published:** 2026-09-16 | **Heat:** 60
+
+**Stability:** 80/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 79.7) · [output](https://media.goodcase.ai/retests/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Husband Mistakes a Laundry Request for a Romantic Invitation
 
@@ -34,20 +52,6 @@ Comedy style: exaggerated facial expressions, fast misunderstanding setup, drama
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Dragon Chases a Woman Through a Container Port at Dusk
-
-> Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
-
-[<img src="https://media.goodcase.ai/cases/f28efeb610bf.jpg" width="600" alt="A Dragon Chases a Woman Through a Container Port at Dusk">](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2108380075796418791) | **Published:** 2026-10-09 | **Heat:** 59
-
-```
-Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Blue Gemstone Necklace in Morning Light
 
@@ -1068,6 +1072,37 @@ Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic trans
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Young Woman Enjoys a Facial at a Luxury Skincare Clinic
+
+> A little self-care, a little glow, and a whole lot of confidence. Because healthy-looking skin and a peaceful mind are always in style. Created on seedance 2.0 …
+
+[<img src="https://media.goodcase.ai/cases/506e89357e65.jpg" width="600" alt="A Young Woman Enjoys a Facial at a Luxury Skincare Clinic">](https://goodcase.ai/cases/seedance-2-0-create-a-27-second-ultra-realistic-cinematic-beauty-and-skincare-commercial-in-ece4e161de01?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Lianaalane | **Source:** [Original](https://x.com/Lianaalane/status/2109148182873845918) | **Published:** 2026-10-11 | **Heat:** 50
+
+<details>
+<summary><b>Full prompt (13 lines, click to expand)</b></summary>
+
+```
+Create a 27-second ultra-realistic cinematic beauty and skincare commercial in vertical 9:16 format. The video features a beautiful young Asian woman with long, soft dark-brown hair, natural glowing skin, and elegant makeup visiting a luxurious beauty and skincare clinic.
+
+Scene 1 (0–6 seconds): Show the woman walking gracefully into a premium skincare clinic. She wears a white fitted top, a cream cardigan, a pastel-pink mini skirt, and white sneakers, carrying a small luxury handbag. Warm golden lighting, elegant marble counters, beautiful floral arrangements, glass skincare displays, and a friendly receptionist create a sophisticated atmosphere. Use smooth tracking shots and natural walking movements.
+
+Scene 2 (6–19 seconds): Transition into a relaxing facial treatment room. The woman lies comfortably on a professional treatment bed with a white towel wrapped around her head and body. A skincare specialist wearing a neutral-colored uniform and a medical mask gently applies a creamy facial mask using a flat skincare brush, covering her cheeks and chin with careful, realistic movements. Capture close-up shots of the brush gliding across her skin, the creamy texture of the mask, her relaxed expression, and her naturally glowing complexion. Use soft diffused lighting, clean surroundings, and cinematic close-ups.
+
+Scene 3 (19–23 seconds): The specialist gently finishes the facial treatment using a soft cosmetic sponge or pad. The woman opens her eyes, smiles peacefully, and reveals fresh, hydrated, radiant-looking skin. Capture realistic skin texture, subtle highlights, and a calm spa atmosphere.
+
+Scene 4 (23–27 seconds): Show the woman sitting elegantly in the clinic lounge, holding a small hand mirror and admiring her refreshed appearance. She gently touches her cheek, smiles confidently, and adjusts her hair. End with a beautiful close-up of her glowing face and a luxurious skincare-clinic background.
+
+Visual style: Ultra-photorealistic beauty advertising, premium Korean skincare commercial aesthetic, warm champagne and cream color palette, soft golden lighting, realistic skin texture, natural facial expressions, smooth camera transitions, shallow depth of field, elegant composition, and high-end commercial cinematography.
+
+Maintain consistent facial identity, hairstyle, body proportions, and clothing throughout all scenes. Ensure realistic hands, natural movements, believable facial treatment techniques, and seamless transitions. No distorted facial features, extra fingers, flickering, or artificial-looking skin. 4K-quality details, 30 FPS, vertical 9:16 aspect ratio.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-create-a-27-second-ultra-realistic-cinematic-beauty-and-skincare-commercial-in-ece4e161de01?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Bubbles Lift a Woman Above Fruit Mountains and a Sparkling Sea
 
@@ -2788,39 +2823,6 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithminal-seedance-ai-3c0cb08ecc8b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Pet Owner's Day with Their Dog
-
-> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
-
-[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="A Pet Owner's Day with Their Dog">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithZeeshi | **Source:** [Original](https://x.com/AIwithZeeshi/status/2094663938491187561) | **Published:** 2026-09-01 | **Heat:** 27
-
-**Stability:** 78/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 78.3) · [output](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (11 lines, click to expand)</b></summary>
-
-```
-A Pet Owner’s Daily Routine
-
-A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
-
-Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
-
-Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
-
-Could you keep up with this daily routine? 🐾
-
-#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### The Robot and Robot Dog Who Wanted to Fly
 
 > An android and his robot dog living alone in an abandoned seaside facility glimpse a flying hero and repaint themselves with handmade flower pigments, though they never actually fly. Four reference images lock the characters and the building inside and out, for a restrained, photoreal sci-fi short.
@@ -2951,6 +2953,39 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-e7dccea90d44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Pet Owner's Day with Their Dog
+
+> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
+
+[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="A Pet Owner's Day with Their Dog">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithZeeshi | **Source:** [Original](https://x.com/AIwithZeeshi/status/2094663938491187561) | **Published:** 2026-09-01 | **Heat:** 26
+
+**Stability:** 78/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 78.3) · [output](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (11 lines, click to expand)</b></summary>
+
+```
+A Pet Owner’s Daily Routine
+
+A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
+
+Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
+
+Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
+
+Could you keep up with this daily routine? 🐾
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Silver-Haired Rider's Neon Highway Escape
 
@@ -3731,40 +3766,6 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Stop-Motion Clay Miniature Nutella Cafe
-
-> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
-
-[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="Stop-Motion Clay Miniature Nutella Cafe">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @MayaAiCreator | **Source:** [Original](https://x.com/MayaAiCreator/status/2091397686104588650) | **Published:** 2026-08-23 | **Heat:** 20
-
-**Stability:** 77/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/mayaaicreator-seedance-ai-99e38c199ba8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (12 lines, click to expand)</b></summary>
-
-```
-A prompt to recreate this stop-motion claymation style AI video:
-Seedance 2.0. 
-​Style & Aesthetics
-3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
-​Scene Sequence & Action
-​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
-​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
-​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
-​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
-​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
-​Technical Camera & Lighting
-Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.md) · [Part 4](./gallery-seedance-2-0-part-4.md)

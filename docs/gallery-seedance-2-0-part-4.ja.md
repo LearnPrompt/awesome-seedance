@@ -1,10 +1,48 @@
 # Seedance 2.0 — 全ケース（Part 4/4）
 
-Seedance 2.0 の全 282 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 283 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 282 件中 275–282 件目。
+このページ: 283 件中 274–283 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · **Part 4**
+
+### Korean Barbecue Cooking Process
+
+> A complex Seedance 2.0 prompt that turns a 9-step cooking project into a seamless, chronological video sequence performed by a chef.
+
+[<img src="https://media.goodcase.ai/media/poster/case-72e571e9353d.jpg" width="600" alt="Korean Barbecue Cooking Process">](https://goodcase.ai/cases/case-72e571e9353d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Strength04_X | **出典:** [元投稿](https://x.com/Strength04_X/status/2070471862522695793) | **公開日:** 2026-06-26 | **ヒート:** 1
+
+```
+CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard for a Korean BBQ Platter. Animate the chef seamlessly through these exact 9 steps in order. Start at Step 1 (Slice marinated galbi beef ribs), flow into Step 2 (Heat stone grill pan with oil), then Step 3 (Grill galbi strips). Continue through Step 4 (Add pork belly to grill), Step 5 (Flip meats to caramelize), Step 6 (Arrange banchan side dishes), Step 7 (Build ssam lettuce wrap), Step 8 (Cut grilled meat with scissors), finishing on Step 9 (Full BBQ spread hero shot). Prioritize the strict sequence of actions.
+No music. No subtitle.
+Location: Traditional Korean BBQ restaurant with stone tabletop grill.
+15 seconds, 16:9, realistic, cinematic, smoky, appetizing, natural camera movement.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-72e571e9353d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Showa-Era Retro Living Room Scene
+
+> A narrative prompt depicting a nostalgic Showa-era scene of a grandmother and grandchildren together, focusing on character interaction and dialogue.
+
+[<img src="https://media.goodcase.ai/media/poster/case-a845e1418b39.jpg" width="600" alt="Showa-Era Retro Living Room Scene">](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SanShiroH_X | **出典:** [元投稿](https://x.com/SanShiroH_X/status/2081189582553657528) | **公開日:** 2026-07-26 | **ヒート:** 0
+
+**安定度:** 78/100
+
+**再テスト:** 計 2 回
+
+- Grok Imagine · 2026-10-02 · ✅ 再現 (スコア 78) · [出力](https://media.goodcase.ai/retests/case-a845e1418b39/video-grok-imagine-20261002-phase1/generated.mp4)
+- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失敗 (スコア n/a)
+
+```
+居間でテレビを観ていた祖母が立ち上がり振り返って孫たちを見る、祖母が孫たちに「アンタたち、オフロ入ってきなさい！」と優しく声をかける、幼い姉妹たちが明るく「はぁ〜い！」と返事をし、脱いだ下駄を並べ裸足で居間へ上がっていく、年の離れた紫色の浴衣を着た姉がバケツを片付けながら幼い姉妹に「足ふきなさい！」と声をかける
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Hardcore Sci-Fi Anime Edit
 

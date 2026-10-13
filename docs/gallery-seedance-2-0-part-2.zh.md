@@ -1,10 +1,28 @@
 # Seedance 2.0 — 全量案例（第 2/4 页）
 
-Seedance 2.0 全部 282 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 283 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 93–195 条，共 282 条。
+本页：第 93–196 条，共 283 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
+
+### 雨夜街头的追逐与挣扎
+
+> Rain, suspense, and a cinematic night chase. A dramatic AI-generated scene brought to life with realistic motion and atmosphere. Created on seedance 2.0 Prompt:…
+
+[<img src="https://media.goodcase.ai/cases/6245452cb575.jpg" width="600" alt="雨夜街头的追逐与挣扎">](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2100088243492385019) | **发布:** 2026-09-16 | **热度:** 60
+
+**稳定度：** 80/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.7 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 丈夫误把洗衣求助当浪漫邀约
 
@@ -34,20 +52,6 @@ Comedy style: exaggerated facial expressions, fast misunderstanding setup, drama
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 暮色集装箱港口的巨龙追逐
-
-> Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
-
-[<img src="https://media.goodcase.ai/cases/f28efeb610bf.jpg" width="600" alt="暮色集装箱港口的巨龙追逐">](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **来源:** [原帖](https://x.com/Aiwithmaha/status/2108380075796418791) | **发布:** 2026-10-09 | **热度:** 59
-
-```
-Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 晨光中的蓝宝石项链
 
@@ -1068,6 +1072,37 @@ Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic trans
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 年轻女子在高端护肤诊所体验面部护理
+
+> A little self-care, a little glow, and a whole lot of confidence. Because healthy-looking skin and a peaceful mind are always in style. Created on seedance 2.0 …
+
+[<img src="https://media.goodcase.ai/cases/506e89357e65.jpg" width="600" alt="年轻女子在高端护肤诊所体验面部护理">](https://goodcase.ai/cases/seedance-2-0-create-a-27-second-ultra-realistic-cinematic-beauty-and-skincare-commercial-in-ece4e161de01?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2109148182873845918) | **发布:** 2026-10-11 | **热度:** 50
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+Create a 27-second ultra-realistic cinematic beauty and skincare commercial in vertical 9:16 format. The video features a beautiful young Asian woman with long, soft dark-brown hair, natural glowing skin, and elegant makeup visiting a luxurious beauty and skincare clinic.
+
+Scene 1 (0–6 seconds): Show the woman walking gracefully into a premium skincare clinic. She wears a white fitted top, a cream cardigan, a pastel-pink mini skirt, and white sneakers, carrying a small luxury handbag. Warm golden lighting, elegant marble counters, beautiful floral arrangements, glass skincare displays, and a friendly receptionist create a sophisticated atmosphere. Use smooth tracking shots and natural walking movements.
+
+Scene 2 (6–19 seconds): Transition into a relaxing facial treatment room. The woman lies comfortably on a professional treatment bed with a white towel wrapped around her head and body. A skincare specialist wearing a neutral-colored uniform and a medical mask gently applies a creamy facial mask using a flat skincare brush, covering her cheeks and chin with careful, realistic movements. Capture close-up shots of the brush gliding across her skin, the creamy texture of the mask, her relaxed expression, and her naturally glowing complexion. Use soft diffused lighting, clean surroundings, and cinematic close-ups.
+
+Scene 3 (19–23 seconds): The specialist gently finishes the facial treatment using a soft cosmetic sponge or pad. The woman opens her eyes, smiles peacefully, and reveals fresh, hydrated, radiant-looking skin. Capture realistic skin texture, subtle highlights, and a calm spa atmosphere.
+
+Scene 4 (23–27 seconds): Show the woman sitting elegantly in the clinic lounge, holding a small hand mirror and admiring her refreshed appearance. She gently touches her cheek, smiles confidently, and adjusts her hair. End with a beautiful close-up of her glowing face and a luxurious skincare-clinic background.
+
+Visual style: Ultra-photorealistic beauty advertising, premium Korean skincare commercial aesthetic, warm champagne and cream color palette, soft golden lighting, realistic skin texture, natural facial expressions, smooth camera transitions, shallow depth of field, elegant composition, and high-end commercial cinematography.
+
+Maintain consistent facial identity, hairstyle, body proportions, and clothing throughout all scenes. Ensure realistic hands, natural movements, believable facial treatment techniques, and seamless transitions. No distorted facial features, extra fingers, flickering, or artificial-looking skin. 4K-quality details, 30 FPS, vertical 9:16 aspect ratio.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-27-second-ultra-realistic-cinematic-beauty-and-skincare-commercial-in-ece4e161de01?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 汽泡托起少女飞越水果山海
 
@@ -2788,39 +2823,6 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithminal-seedance-ai-3c0cb08ecc8b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 宠物主与爱犬的一日陪伴
-
-> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
-
-[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="宠物主与爱犬的一日陪伴">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2094663938491187561) | **发布:** 2026-09-01 | **热度:** 27
-
-**稳定度：** 78/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.3 分) · [产物](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（11 行，点开展开）</b></summary>
-
-```
-A Pet Owner’s Daily Routine
-
-A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
-
-Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
-
-Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
-
-Could you keep up with this daily routine? 🐾
-
-#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 废弃工厂里想要飞翔的机器人与机械狗
 
 > 独居在海边废弃工厂的机器人和机械狗，瞥见飞行英雄后用手工花朵颜料重新装扮自己，但始终没有飞起来。四张参考图分别锁定角色与建筑内外景，情绪克制的写实科幻短片。
@@ -2951,6 +2953,39 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e7dccea90d44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 宠物主与爱犬的一日陪伴
+
+> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
+
+[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="宠物主与爱犬的一日陪伴">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2094663938491187561) | **发布:** 2026-09-01 | **热度:** 26
+
+**稳定度：** 78/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.3 分) · [产物](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（11 行，点开展开）</b></summary>
+
+```
+A Pet Owner’s Daily Routine
+
+A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
+
+Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
+
+Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
+
+Could you keep up with this daily routine? 🐾
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 银发骑手霓虹公路突围
 
