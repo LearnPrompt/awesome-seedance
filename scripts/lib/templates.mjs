@@ -7,10 +7,10 @@
 // 不读盘、不联网；数据由 generate-readme.mjs 准备好传进来。
 import { t, pickLang, displayTitle, githubSlug, fenceForPrompt, classifySeedance, bucketShortLabel } from "./render.mjs";
 import { escapeXml, CATEGORY_ICON } from "./sections.mjs";
+import { utmLinker } from "./utm.mjs";
 
 export const TEMPLATE_DOC_LANGS = ["zh", "en"];
 export const TEMPLATE_DOC_CASES = 12;
-const UTM = "utm_source=awesome-seedance";
 
 /** README 的语言 → 模板文件的语言。模板只有中英两版，日文 README 链英文模板。 */
 export function templateDocLang(lang) {
@@ -19,11 +19,6 @@ export function templateDocLang(lang) {
 
 function readmeFile(lang) {
   return lang === "zh" ? "README_zh.md" : lang === "ja" ? "README_ja.md" : "README.md";
-}
-
-export function withUtm(url) {
-  if (!url || /[?&]utm_source=/.test(url)) return url;
-  return `${url}${url.includes("?") ? "&" : "?"}${UTM}`;
 }
 
 // ---------------------------------------------------------------------------
@@ -103,11 +98,11 @@ export function renderCopyBlock(template, lang, exampleUrls = []) {
 // 模板文件
 // ---------------------------------------------------------------------------
 
-function posterStrip(cases, lang, max = 4, width = 200) {
+function posterStrip(cases, lang, max = 4, width = 200, link = (url) => url) {
   const shown = cases.filter((c) => c.posterUrl).slice(0, max);
   if (!shown.length) return "";
   const cells = shown.map(
-    (c) => `<td align="center" valign="top"><a href="${c.goodcaseUrl}"><img src="${c.posterUrl}" width="${width}" alt="${escapeXml(displayTitle(c, lang))}"></a></td>`
+    (c) => `<td align="center" valign="top"><a href="${link(c.goodcaseUrl)}"><img src="${c.posterUrl}" width="${width}" alt="${escapeXml(displayTitle(c, lang))}"></a></td>`
   );
   return `<table>\n<tr>\n${cells.join("\n")}\n</tr>\n</table>`;
 }
@@ -119,8 +114,9 @@ function exampleCasesOf(template, cases) {
 }
 
 /**
- * ctx: { cases: 该模板名下按热度排序的案例, prev, next: 相邻模板或 null, category, readmeAnchor }
- * lang 只能是 zh / en。
+ * ctx: { cases: 该模板名下按热度排序的案例, prev, next: 相邻模板或 null, category, readmeAnchor, campaign }
+ * lang 只能是 zh / en。ctx.campaign: utm_campaign；传了才给页首封面条（content strip）和案例表（content cases）里
+ * 指向 goodcase.ai 的链接打 UTM。「直接复制」代码块里的示例链接是要被复制走的文本，不打标记。
  */
 export function renderTemplateDoc(template, lang, ctx) {
   if (!TEMPLATE_DOC_LANGS.includes(lang)) throw new Error(`Template docs are zh/en only, got "${lang}"`);
@@ -129,6 +125,8 @@ export function renderTemplateDoc(template, lang, ctx) {
   const cases = ctx.cases || [];
   const examples = exampleCasesOf(template, cases);
   const exampleUrls = examples.map((c) => c.goodcaseUrl);
+  const stripLink = utmLinker(ctx.campaign, "strip");
+  const casesLink = utmLinker(ctx.campaign, "cases");
   const icon = CATEGORY_ICON[template.category] || "🧩";
   const title = pickLang(template.title, lang);
   const readme = `../../../${readmeFile(lang)}${ctx.readmeAnchor || ""}`;
@@ -147,7 +145,7 @@ export function renderTemplateDoc(template, lang, ctx) {
   lines.push("");
   lines.push(zh ? "<!-- 由 data/ 生成，请勿手改；改 data/templates-local.json 后跑 npm run generate -->" : "<!-- Generated from data/. Do not hand-edit; change data/templates-local.json and run npm run generate -->");
   lines.push("");
-  const strip = posterStrip(examples, lang);
+  const strip = posterStrip(examples, lang, 4, 200, stripLink);
   if (strip) lines.push(strip, "");
 
   lines.push(zh ? "## 直接复制" : "## Copy this");
@@ -190,16 +188,16 @@ export function renderTemplateDoc(template, lang, ctx) {
     lines.push("| --- | --- | --- | --- |");
     for (const c of shown) {
       const alt = escapeXml(displayTitle(c, lang));
-      const img = c.posterUrl ? `<a href="${c.goodcaseUrl}"><img src="${c.posterUrl}" width="160" alt="${alt}"></a>` : "-";
+      const img = c.posterUrl ? `<a href="${casesLink(c.goodcaseUrl)}"><img src="${c.posterUrl}" width="160" alt="${alt}"></a>` : "-";
       const name = displayTitle(c, lang).replace(/\|/g, "\\|");
-      lines.push(`| ${img} | [${name}](${c.goodcaseUrl}) | ${bucketShortLabel(classifySeedance(c), lang)} | ${c.heatScore ?? "-"} |`);
+      lines.push(`| ${img} | [${name}](${casesLink(c.goodcaseUrl)}) | ${bucketShortLabel(classifySeedance(c), lang)} | ${c.heatScore ?? "-"} |`);
     }
     lines.push("");
     if (cases.length > shown.length) {
       lines.push(
         zh
-          ? `其余 ${cases.length - shown.length} 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&${UTM}) 上。`
-          : `The other ${cases.length - shown.length} are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&${UTM}).`
+          ? `其余 ${cases.length - shown.length} 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](${casesLink("https://goodcase.ai/cases?filter=video&q=seedance")}) 上。`
+          : `The other ${cases.length - shown.length} are in the [full gallery](../../gallery.md) and on [goodcase.ai](${casesLink("https://goodcase.ai/cases?filter=video&q=seedance")}).`
       );
       lines.push("");
     }
@@ -261,6 +259,7 @@ export function renderTemplateIndex(library, lang, index, readmeAnchor = "") {
 // ---------------------------------------------------------------------------
 
 export function renderTemplateGrid(library, lang, index, opts = {}) {
+  const link = utmLinker(opts.campaign, "templates");
   const cols = opts.cols || 3;
   const width = Math.floor(100 / cols);
   const imgWidth = cols >= 4 ? 200 : 260;
@@ -301,7 +300,7 @@ export function renderTemplateGrid(library, lang, index, opts = {}) {
         const countLine = t(lang, { en: `${cases.length} cases filed`, zh: `已归类 ${cases.length} 条案例`, ja: `分類済み ${cases.length} 件` });
         const open = t(lang, { en: "Open template", zh: "打开模板", ja: "テンプレートを開く" });
         const topCase = t(lang, { en: "Top case", zh: "热度最高案例", ja: "トップケース" });
-        const links = `<a href="${href}"><b>${open}</b></a>${cases[0] ? ` · <a href="${cases[0].goodcaseUrl}">${topCase}</a>` : ""}`;
+        const links = `<a href="${href}"><b>${open}</b></a>${cases[0] ? ` · <a href="${link(cases[0].goodcaseUrl)}">${topCase}</a>` : ""}`;
         lines.push(
           `<td width="${width}%" valign="top" align="center"><b>${escapeXml(pickLang(tp.title, lang))}</b><br><sub>${escapeXml(countLine)}</sub><br><br>${img}<br><sub>${escapeXml(pickLang(tp.description, lang) || "")}</sub><br>${links}</td>`
         );
@@ -333,15 +332,17 @@ export function creatorMethodCount(skill, siteSkills) {
  * 取前 4 张有海报的拼成 2×2 小格，像 goodcase.ai 的 Skill 卡片那样一眼看到多种效果；不够 4 张就有几张放几张。
  * opts.siteSkills: data/site-skills.json。创作者方法不逐个列名，格子里只留一句数量，
  * 链到 docs/skills*.md 里该 Skill 的小节；网格下面再放一行链到整张总表。
+ * opts.campaign: utm_campaign；传了才给指向 goodcase.ai 的链接（标题、封面、更多 Skill）打 UTM，content 固定 skills-grid。
  */
 export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts = {}) {
+  const link = utmLinker(opts.campaign, "skills-grid");
   const cols = opts.cols || 3;
   const width = Math.floor(100 / cols);
   const skills = (skillsData && skillsData.skills) || [];
   const siteSkills = opts.siteSkills || null;
   const variantCount = skills.reduce((n, s) => n + creatorMethodCount(s, siteSkills), 0);
   const listHref = `./docs/${skillListFileName(lang)}`;
-  const moreUrl = withUtm((skillsData && skillsData.moreUrl) || "https://goodcase.ai/skills?category=video");
+  const moreUrl = link((skillsData && skillsData.moreUrl) || "https://goodcase.ai/skills?category=video");
   const coverCasesFor = opts.coverCasesFor || ((s) => (s.coverCase && casesBySlug.get(s.coverCase) ? [casesBySlug.get(s.coverCase)] : []));
   const lines = [skillsHeading(lang), ""];
   lines.push(
@@ -356,14 +357,14 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   for (let i = 0; i < skills.length; i += cols) {
     lines.push("<tr>");
     for (const s of skills.slice(i, i + cols)) {
-      const url = /goodcase\.ai/.test(s.url) ? withUtm(s.url) : s.url;
+      const url = link(s.url);
       const title = escapeXml(pickLang(s.title, lang));
       const covers = coverCasesFor(s).filter((c) => c && c.posterUrl).slice(0, 4);
-      const fallback = s.cover && s.cover.src ? [{ posterUrl: s.cover.src, goodcaseUrl: url }] : [];
+      const fallback = s.cover && s.cover.src ? [{ posterUrl: s.cover.src, goodcaseUrl: s.url }] : [];
       const shots = covers.length ? covers : fallback;
       let img = "";
       if (shots.length >= 2) {
-        const cell = (c) => `<td><a href="${c.goodcaseUrl}"><img src="${c.posterUrl}" width="128" alt=""></a></td>`;
+        const cell = (c) => `<td><a href="${link(c.goodcaseUrl)}"><img src="${c.posterUrl}" width="128" alt=""></a></td>`;
         const rows = [];
         for (let r = 0; r < shots.length; r += 2) rows.push(`<tr>${shots.slice(r, r + 2).map(cell).join("")}</tr>`);
         img = `<table><tbody>${rows.join("")}</tbody></table>`;

@@ -4,7 +4,8 @@
 // 创作者方法用表格不用列表（awesome-lint 会把目录之后的列表项当条目校验）。
 // 和其他渲染器一样：只吃数据吐字符串，不碰文件系统。
 import { t, pickLang, LANGS, readmeFileName } from "./render.mjs";
-import { withUtm, anchorOf, skillsHeading, skillListFileName } from "./templates.mjs";
+import { anchorOf, skillsHeading, skillListFileName } from "./templates.mjs";
+import { utmLinker } from "./utm.mjs";
 
 const LANG_LABELS = { en: "English", zh: "中文", ja: "日本語" };
 
@@ -58,7 +59,11 @@ function langSwitch(lang) {
   }).join(" | ");
 }
 
-export function renderSkillListDoc(siteSkills, lang) {
+/** opts.campaign: utm_campaign；传了才给 goodcase.ai 链接打 UTM，content 按章节：intro（页首）/ official（官方 Skill）/ methods（创作者方法表）。 */
+export function renderSkillListDoc(siteSkills, lang, opts = {}) {
+  const introLink = utmLinker(opts.campaign, "intro");
+  const officialLink = utmLinker(opts.campaign, "official");
+  const methodsLink = utmLinker(opts.campaign, "methods");
   const groups = groupSiteSkills(siteSkills);
   const counts = siteSkillCounts(siteSkills);
   const readme = `../${readmeFileName(lang)}${anchorOf(skillsHeading(lang))}`;
@@ -79,9 +84,9 @@ export function renderSkillListDoc(siteSkills, lang) {
   lines.push("");
   lines.push(
     t(lang, {
-      en: `Every video Skill on [goodcase.ai](${withUtm("https://goodcase.ai/skills?category=video")}): ${counts.official} official Skills plus ${counts.creatorMethods} creator methods, ${counts.total} in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.`,
-      zh: `[goodcase.ai](${withUtm("https://goodcase.ai/skills?category=video")}) 上的全部视频 Skill：${counts.official} 个官方 Skill，加 ${counts.creatorMethods} 个创作者方法，共 ${counts.total} 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。`,
-      ja: `[goodcase.ai](${withUtm("https://goodcase.ai/skills?category=video")}) のすべての動画 Skill です。公式 Skill ${counts.official} 個とクリエイターメソッド ${counts.creatorMethods} 個、計 ${counts.total} 個。Skill は Claude Code や Codex などのエージェントに入れる指示パックです。公式 Skill は同じ種類の動画について多くのクリエイターのケースから抽出し、クリエイターメソッドは一人のクリエイターが繰り返し使う手法から抽出して、そのスタイルを引き継ぎます。`,
+      en: `Every video Skill on [goodcase.ai](${introLink("https://goodcase.ai/skills?category=video")}): ${counts.official} official Skills plus ${counts.creatorMethods} creator methods, ${counts.total} in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.`,
+      zh: `[goodcase.ai](${introLink("https://goodcase.ai/skills?category=video")}) 上的全部视频 Skill：${counts.official} 个官方 Skill，加 ${counts.creatorMethods} 个创作者方法，共 ${counts.total} 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。`,
+      ja: `[goodcase.ai](${introLink("https://goodcase.ai/skills?category=video")}) のすべての動画 Skill です。公式 Skill ${counts.official} 個とクリエイターメソッド ${counts.creatorMethods} 個、計 ${counts.total} 個。Skill は Claude Code や Codex などのエージェントに入れる指示パックです。公式 Skill は同じ種類の動画について多くのクリエイターのケースから抽出し、クリエイターメソッドは一人のクリエイターが繰り返し使う手法から抽出して、そのスタイルを引き継ぎます。`,
     })
   );
   lines.push("");
@@ -127,7 +132,7 @@ export function renderSkillListDoc(siteSkills, lang) {
         ja: `${s.creatorCount} 人のクリエイターによる ${s.caseCount} ケース · クリエイターメソッド ${g.methods.length} 件`,
       });
       const open = t(lang, { en: "Open on goodcase.ai", zh: "在 goodcase.ai 打开", ja: "goodcase.ai で開く" });
-      lines.push(`${stats} · [${open}](${withUtm(s.url)})`);
+      lines.push(`${stats} · [${open}](${officialLink(s.url)})`);
       lines.push("");
       lines.push("```bash", s.install, "```");
       lines.push("");
@@ -140,7 +145,7 @@ export function renderSkillListDoc(siteSkills, lang) {
     lines.push(`| ${head.creator} | ${head.method} | ${head.cases} | ${head.install} | ${head.link} |`);
     lines.push("| --- | --- | --- | --- | --- |");
     for (const m of g.methods) {
-      lines.push(`| ${cell(m.creator)} | ${cell(methodLabel(m, lang))} | ${m.caseCount} | \`${cell(m.install)}\` | [goodcase.ai](${withUtm(m.url)}) |`);
+      lines.push(`| ${cell(m.creator)} | ${cell(methodLabel(m, lang))} | ${m.caseCount} | \`${cell(m.install)}\` | [goodcase.ai](${methodsLink(m.url)}) |`);
     }
     lines.push("");
   }

@@ -1,6 +1,7 @@
 // Pure rendering logic for awesome-seedance.
 // No I/O in this file — everything takes data in, returns strings out,
 // so it can be unit-tested without touching the filesystem.
+import { utmLinker } from "./utm.mjs";
 
 // README 体积目标：GitHub 超过 512KB 拒渲染，旧版 300KB 上限下 README 仍有 307KB，
 // 全球发布审计要求压到 ~120KB 以内。超预算时从 Top 榜表格尾部裁行（见 fitToSizeBudget）。
@@ -623,11 +624,13 @@ function uniqueHeading(title, usedHeadings) {
 /**
  * Render a single case entry in the YouMind-style one-block footer format.
  * opts.usedHeadings: Set，用于同一文档内标题去重；opts.level: 标题级别（默认 3）。
+ * opts.campaign: utm_campaign；传了才给指向 goodcase.ai 的两条链接（封面、View on goodcase.ai）打 UTM，content 固定 entry。
  */
 export function renderCaseEntry(caseObj, lang, opts = {}) {
   assertLang(lang);
   const t = LABELS[lang];
   const level = opts.level || 3;
+  const link = utmLinker(opts.campaign, "entry");
   const title = uniqueHeading(displayTitle(caseObj, lang), opts.usedHeadings);
   const summary = displaySummary(caseObj, lang);
   const lines = [];
@@ -641,7 +644,7 @@ export function renderCaseEntry(caseObj, lang, opts = {}) {
   // 封面先于 prompt，读者先看到效果再决定要不要展开几十行的 prompt。
   const imgSrc = caseObj.posterUrl || (caseObj.mediaType === "image" ? caseObj.mediaUrl : null);
   if (imgSrc) {
-    lines.push(`[<img src="${imgSrc}" width="600" alt="${escapeAttr(title)}">](${caseObj.goodcaseUrl})`);
+    lines.push(`[<img src="${imgSrc}" width="600" alt="${escapeAttr(title)}">](${link(caseObj.goodcaseUrl)})`);
     lines.push("");
   }
   lines.push(
@@ -660,7 +663,7 @@ export function renderCaseEntry(caseObj, lang, opts = {}) {
   lines.push("");
   lines.push(...renderPromptBlock(caseObj.promptFull || "", lang));
   lines.push("");
-  lines.push(`**[${t.viewOnGoodcase}](${caseObj.goodcaseUrl})**`);
+  lines.push(`**[${t.viewOnGoodcase}](${link(caseObj.goodcaseUrl)})**`);
   lines.push("");
   return lines.join("\n");
 }
@@ -767,11 +770,11 @@ function dateOnly(iso) {
 // Top 榜（README 内联的紧凑排行表）
 // ---------------------------------------------------------------------------
 
-/** 表格里的缩略图单元：封面链到 goodcase 记录页；没有封面给 "-"。 */
-export function thumbCell(caseObj, alt = "", width = THUMB_WIDTH) {
+/** 表格里的缩略图单元：封面链到 goodcase 记录页；没有封面给 "-"。link 是链接器（utmLinker），默认原样。 */
+export function thumbCell(caseObj, alt = "", width = THUMB_WIDTH, link = (url) => url) {
   const src = caseObj.posterUrl || (caseObj.mediaType === "image" ? caseObj.mediaUrl : null);
   if (!src) return "-";
-  return `[<img src="${src}" width="${width}" alt="${escapeAttr(alt)}">](${caseObj.goodcaseUrl})`;
+  return `[<img src="${src}" width="${width}" alt="${escapeAttr(alt)}">](${link(caseObj.goodcaseUrl)})`;
 }
 
 function retestCell(caseObj, lang) {
@@ -785,11 +788,13 @@ function retestCell(caseObj, lang) {
  * "🔥 Top N by heat" 表：一行一条，标题链到 goodcase 记录页，
  * 另给一个 "prompt" 链接跳到 docs/ 画廊里的完整条目（由 promptLinkFor(caseObj) 提供）。
  * 返回 { header: [表头两行], rows: [每条一行] }，方便 fitToSizeBudget 按行裁剪。
+ * opts.campaign: utm_campaign；传了才给缩略图和标题的 goodcase.ai 链接打 UTM，content 固定 top30。
  */
 export function renderTopTable(cases, lang, opts = {}) {
   assertLang(lang);
   const promptLinkFor = opts.promptLinkFor || (() => null);
   const startRank = opts.startRank || 1;
+  const link = utmLinker(opts.campaign, "top30");
   const headers = t(lang, {
     en: ["#", "Preview", "Case", "Version", "Heat", "Retest", "Links"],
     zh: ["#", "预览", "案例", "版本", "热度", "复测", "链接"],
@@ -797,7 +802,7 @@ export function renderTopTable(cases, lang, opts = {}) {
   });
   const rows = cases.map((c, i) => {
     const title = displayTitle(c, lang);
-    const thumb = thumbCell(c, title);
+    const thumb = thumbCell(c, title, THUMB_WIDTH, link);
     const promptHref = promptLinkFor(c);
     const links = [
       promptHref ? `[${t(lang, { en: "prompt", zh: "完整 prompt", ja: "プロンプト" })}](${promptHref})` : null,
@@ -808,7 +813,7 @@ export function renderTopTable(cases, lang, opts = {}) {
     return [
       String(startRank + i),
       thumb,
-      `[${title}](${c.goodcaseUrl})`,
+      `[${title}](${link(c.goodcaseUrl)})`,
       bucketShortLabel(classifySeedance(c), lang),
       String(c.heatScore ?? "-"),
       retestCell(c, lang),
@@ -861,6 +866,8 @@ export function galleryPartFileName(lang, partNo, totalParts, base = GALLERY_FIL
  * opts.bucket: "2.5" | "2.0"（决定标题与文件名）；opts.budget: 单片字节上限。
  * 返回每片 { markdown, partNo, totalParts, caseCount, fileName, entries:[{slug, heading, anchor}] }，
  * entries 供 README 的 Top 榜生成指向完整条目的锚点链接。
+ * opts.campaign: utm_campaign，传给每条案例的 goodcase.ai 链接。分片体积按不带 UTM 的条目算：
+ * UTM 只让每片多约 4%，仍远低于 GitHub 512KB 的渲染上限，但分页边界和锚点不会因为加了参数而整体位移。
  */
 export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDGET_BYTES) {
   assertLang(lang);
@@ -874,10 +881,12 @@ export function renderGalleryParts(cases, lang, budgetOrOpts = GALLERY_PART_BUDG
   let current = [];
   let currentBytes = 0;
   for (const c of cases) {
-    const entry = renderCaseEntry(c, lang, { usedHeadings });
+    // 先按不带 UTM 的版本量体积（用 usedHeadings 的副本，避免重复登记标题），再渲染真正落盘的条目。
+    const sizingEntry = opts.campaign ? renderCaseEntry(c, lang, { usedHeadings: new Set(usedHeadings) }) : null;
+    const entry = renderCaseEntry(c, lang, { usedHeadings, campaign: opts.campaign });
     const heading = entry.split("\n")[0].replace(/^#+\s*/, "");
     const item = { slug: c.slug, heading, anchor: githubSlug(heading), markdown: entry };
-    const entryBytes = byteLength(entry) + 1;
+    const entryBytes = byteLength(sizingEntry ?? entry) + 1;
     if (current.length > 0 && currentBytes + entryBytes > budget) {
       chunks.push(current);
       current = [];

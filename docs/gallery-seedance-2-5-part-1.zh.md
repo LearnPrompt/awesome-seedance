@@ -10,7 +10,7 @@ Seedance 2.5 全部 549 条案例，按热度分排序。由 data/cases.json 生
 
 > 一份 30 秒的时间冻结加倒放脚本：咖啡打翻的瞬间被锁死，镜头绕悬浮液带走完整圈，再让所有人和物倒回原位，最后一个招手把事故消解掉。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="600" alt="复古餐厅时间冻结与倒放">](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @techhalla | **来源:** [原帖](https://x.com/techhalla/status/2083389002552664385) | **发布:** 2026-08-01 | **热度:** 100
 
@@ -39,13 +39,13 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔地铁反击：女子将挑衅者扔进垃圾桶
 
 > Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
 
-[<img src="https://media.goodcase.ai/cases/e7a04f6d6d46.jpg" width="600" alt="首尔地铁反击：女子将挑衅者扔进垃圾桶">](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc)
+[<img src="https://media.goodcase.ai/cases/e7a04f6d6d46.jpg" width="600" alt="首尔地铁反击：女子将挑衅者扔进垃圾桶">](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2108760866422415701) | **发布:** 2026-10-10 | **热度:** 99
 
@@ -66,13 +66,13 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 护肤品自拍口播 UGC 广告
 
 > 用 GPT Image 2 先定死人物形象，再配一张正面产品实拍，交给 Seedance 2.5 出 15 秒竖版自拍口播广告；提示语把四段节拍、口播台词、手持相机质感和标签文字锁死，所以整条片子人脸不漂移、瓶身文字不被模型改写。
 
-[<img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="600" alt="护肤品自拍口播 UGC 广告">](https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1)
+[<img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="600" alt="护肤品自拍口播 UGC 广告">](https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @abxxai | **来源:** [原帖](https://x.com/abxxai/status/2095179656802844727) | **发布:** 2026-09-02 | **热度:** 99
 
@@ -133,13 +133,13 @@ Natural ambient audio only: faint breeze, distant birds, the small click of the 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔夏夜 Vlog
 
 > 一份详尽的脚本式提示词，用于创作一段展现首尔夏夜怀旧家庭录像风格的视频。
 
-[<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492)
+[<img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="600" alt="首尔夏夜 Vlog">](https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2092971211169100048) | **发布:** 2026-08-27 | **热度:** 99
 
@@ -151,13 +151,13 @@ Natural ambient audio only: faint breeze, distant birds, the small click of the 
 Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer evening in the life of a young Korean woman. No reference image. MAIN SUBJECT Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, relaxed and approachable personality. Long black hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and a simple silver necklace. Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video. SETTING A quiet older Seoul residential neighborhood during a warm summer evening. Narrow concrete lanes, small houses, potted plants, bicycles, old walls, utility poles, overhead wires, a tiny neighborhood bakery, a public water tap and large leafy trees casting shadows across the street. Everything should feel lived-in, ordinary and peaceful. CAMERA / VISUAL AESTHETIC Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder. Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections. — OUTSIDE THE HOUSE She steps outside carrying a small reusable shopping bag. She locks the door, adjusts her messy ponytail and looks toward the camera with a relaxed smile. — BAKERY STOP She reaches a tiny neighborhood bakery and buys a warm pastry. She steps outside, takes her first bite and immediately smiles because it tastes good. She notices her friend filming and holds the pastry toward the camera playfully before taking another bite. — WALKING HOME She continues down the narrow street while eating. A neighborhood cat follows her for a few steps. She notices it, crouches down and gently pets it. — SMALL ACCIDENT She walks beneath a large tree when a few leaves fall onto her hair. She stops, looks confused, then realizes what happened and laughs. — QUIET MOMENT She reaches a low concrete wall beside the street and sits down for a moment. — FINAL MOMENT She stands up and continues walking home.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-c8171f712492)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 双人 K-pop MV 逐镜分镜
 
 > 把 30 秒切成十几段两到四秒的镜头，每段写死机位、景别、背景和动作，两个女生用粉发和黑发做外观锚点贯穿全片。值钱的是这套时间码排镜法。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-kpop-mv-dual-idol.jpg" width="600" alt="双人 K-pop MV 逐镜分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2083422886686031982) | **发布:** 2026-08-01 | **热度:** 99
 
@@ -169,13 +169,13 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-kpop-mv-dual-idol?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### mini DV 咖啡 ASMR vlog
 
 > 用家用摄像机的缺陷反向做真实感：手抖、来回找焦、曝光漂移、磁带颗粒全写进提示词，再配一份 ASMR 声音清单和每段三秒的分镜节奏。
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)
+[<img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="600" alt="mini DV 咖啡 ASMR vlog">](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Strength04_X | **来源:** [原帖](https://x.com/Strength04_X/status/2083094742682787939) | **发布:** 2026-07-31 | **热度:** 99
 
@@ -208,13 +208,13 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雨天清晨赶往大学的咖啡日常
 
 > Some mornings begin with sunshine. Hers began with rain. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action university vlog of …
 
-[<img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="600" alt="雨天清晨赶往大学的咖啡日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888)
+[<img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="600" alt="雨天清晨赶往大学的咖啡日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2103337966416621703) | **发布:** 2026-09-25 | **热度:** 99
 
@@ -239,13 +239,13 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 幼儿开门学字母与单词
 
 > Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 
-[<img src="https://media.goodcase.ai/cases/88ca30c0568f.jpg" width="600" alt="幼儿开门学字母与单词">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-73b10f69e32a)
+[<img src="https://media.goodcase.ai/cases/88ca30c0568f.jpg" width="600" alt="幼儿开门学字母与单词">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-73b10f69e32a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2104764823091490851) | **发布:** 2026-09-29 | **热度:** 98
 
@@ -310,13 +310,13 @@ Smooth toddler walking and reaching movements, natural hand interaction with eve
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-73b10f69e32a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-73b10f69e32a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 黑衣女子静立于同步人群中央
 
 > I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 
-[<img src="https://media.goodcase.ai/cases/8ca97a85493c.jpg" width="600" alt="黑衣女子静立于同步人群中央">](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248)
+[<img src="https://media.goodcase.ai/cases/8ca97a85493c.jpg" width="600" alt="黑衣女子静立于同步人群中央">](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2099707375943066094) | **发布:** 2026-09-15 | **热度:** 98
 
@@ -348,13 +348,13 @@ Photorealistic live-action quality, cinematic composition, natural human movemen
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 夏日厨房里的日式猪排盖饭
 
 > So delicious 😋 Seedance 2.5 Prompt: Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirel…
 
-[<img src="https://media.goodcase.ai/cases/785fe38465cc.jpg" width="600" alt="夏日厨房里的日式猪排盖饭">](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1)
+[<img src="https://media.goodcase.ai/cases/785fe38465cc.jpg" width="600" alt="夏日厨房里的日式猪排盖饭">](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2098845134326808734) | **发布:** 2026-09-12 | **热度:** 98
 
@@ -421,13 +421,13 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 庭院吊床与清洗摩托的午后
 
 > Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
 
-[<img src="https://media.goodcase.ai/cases/d3f9b6377ec3.jpg" width="600" alt="庭院吊床与清洗摩托的午后">](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00)
+[<img src="https://media.goodcase.ai/cases/d3f9b6377ec3.jpg" width="600" alt="庭院吊床与清洗摩托的午后">](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2099836703729172540) | **发布:** 2026-09-15 | **热度:** 97
 
@@ -460,13 +460,13 @@ Format: 16:9.
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 萌娃学爸爸剃须，泡沫胡子逗笑父母
 
 > Made with seedance 2.5 Prompt 👇 Create a heartwarming and funny ultra-realistic 3D animated cinematic video in vertical 9:16 format. Scene: A cute little toddl…
 
-[<img src="https://media.goodcase.ai/cases/e7b938f20d48.jpg" width="600" alt="萌娃学爸爸剃须，泡沫胡子逗笑父母">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa)
+[<img src="https://media.goodcase.ai/cases/e7b938f20d48.jpg" width="600" alt="萌娃学爸爸剃须，泡沫胡子逗笑父母">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2106560621932384657) | **发布:** 2026-10-04 | **热度:** 96
 
@@ -496,13 +496,13 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 实验室寄生体感染突袭
 
 > A containment breach in the lab sent things wrong fast. Seedance 2.5 Prompt: Cinematic sci-fi horror-action short film set in a research laboratory, opens with …
 
-[<img src="https://media.goodcase.ai/cases/5929c428cd08.jpg" width="600" alt="实验室寄生体感染突袭">](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d)
+[<img src="https://media.goodcase.ai/cases/5929c428cd08.jpg" width="600" alt="实验室寄生体感染突袭">](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @auqibhabib | **来源:** [原帖](https://x.com/auqibhabib/status/2099725768310009982) | **发布:** 2026-09-15 | **热度:** 96
 
@@ -573,13 +573,13 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 蓝夹克双辫女剑士破框而出
 
 > 作者分享的 Seedance 2.5 破框特效：角色的剑、手、球鞋和衣摆反复越过上下固定黑边扑向镜头，prompt 写清了图层合成顺序、黑边锁定和整套剑术踢腿连招。需要自备一张角色参考图。
 
-[<img src="https://media.goodcase.ai/cases/4e5f9347c75d.jpg" width="600" alt="蓝夹克双辫女剑士破框而出">](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4)
+[<img src="https://media.goodcase.ai/cases/4e5f9347c75d.jpg" width="600" alt="蓝夹克双辫女剑士破框而出">](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2106044483863191748) | **发布:** 2026-10-02 | **热度:** 95
 
@@ -636,13 +636,13 @@ Fast real-time movement throughout, including the opening wipe. No slow motion, 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国女生的社区健身房晨练
 
 > Seedance 2.5 on @Flovaai @Flovaai_Japan My invite link https://t.co/4bi7Gg4te3 Skill used: script to video https://t.co/7uC3BJRHSL Prompt Create a **45-second u…
 
-[<img src="https://media.goodcase.ai/cases/8394fd6c092a.jpg" width="600" alt="韩国女生的社区健身房晨练">](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714)
+[<img src="https://media.goodcase.ai/cases/8394fd6c092a.jpg" width="600" alt="韩国女生的社区健身房晨练">](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @sipteaandcoffee | **来源:** [原帖](https://x.com/sipteaandcoffee/status/2104887547243774358) | **发布:** 2026-09-29 | **热度:** 95
 
@@ -771,13 +771,13 @@ She laughs, loses her rhythm for a second, then continues.
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 商场丧尸爆发中的保安与幸存者
 
 > A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
 
-[<img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="600" alt="商场丧尸爆发中的保安与幸存者">](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff)
+[<img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="600" alt="商场丧尸爆发中的保安与幸存者">](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @auqibhabib | **来源:** [原帖](https://x.com/auqibhabib/status/2104107269206237325) | **发布:** 2026-09-27 | **热度:** 95
 
@@ -822,13 +822,13 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔老街买面包与棉花糖的一天
 
 > Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
 
-[<img src="https://media.goodcase.ai/cases/f73ca1c9ee91.jpg" width="600" alt="首尔老街买面包与棉花糖的一天">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a)
+[<img src="https://media.goodcase.ai/cases/f73ca1c9ee91.jpg" width="600" alt="首尔老街买面包与棉花糖的一天">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104057858765791389) | **发布:** 2026-09-27 | **热度:** 95
 
@@ -855,13 +855,13 @@ Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, v
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔周五晨间散步
 
 > Best baddie in the town Made using Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman enjoying a relaxed Frida…
 
-[<img src="https://media.goodcase.ai/cases/efc88aa19bcf.jpg" width="600" alt="首尔周五晨间散步">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9)
+[<img src="https://media.goodcase.ai/cases/efc88aa19bcf.jpg" width="600" alt="首尔周五晨间散步">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2103329257149898940) | **发布:** 2026-09-25 | **热度:** 95
 
@@ -886,13 +886,13 @@ Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framin
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雨夜咖啡馆撞见恋人背叛
 
 > Pure emotions 😭 Can Hollywood match it ? Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic emotional live-action scene about a young woman discov…
 
-[<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="600" alt="雨夜咖啡馆撞见恋人背叛">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)
+[<img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="600" alt="雨夜咖啡馆撞见恋人背叛">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2096439253970395531) | **发布:** 2026-09-06 | **热度:** 95
 
@@ -962,13 +962,13 @@ NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, mel
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 原生 UGC 竖屏手机跟拍短片
 
 > Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
 
-[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)
+[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance 原生 UGC 竖屏手机跟拍短片">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @mightyking | **来源:** [原帖](https://x.com/mightyking/status/2089299068514148655) | **发布:** 2026-08-17 | **热度:** 95
 
@@ -1013,13 +1013,13 @@ Style: Raw amateur vertical phone footage, natural night lighting, warm street l
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底
 
 > 木马人（@cnyzgkc）揭晓一条引发 29 万次浏览的 AI 动态桌面壁纸视频由 Seedance 2.5 生成。作者在 @johnAGI168 的 prompt 基础上优化加料，完整复刻效果。Prompt 描述一段 29 秒固定机位超真实 AI 动态桌面互动视频：女主坐在黑色皮沙发上，根据画外男声指令换装三套学院风造型，全程一镜连续。Prompt 极其精细地控制了字幕界面（逐字打字效果、颜色区分说话人）、服装设计（三套造型逐件描述）和逐秒表演调度（00:00-00:29），是 Seedance 2.5 写实互动类 prompt 的典型范例。
 
-[<img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="600" alt="Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底">](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6)
+[<img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="600" alt="Seedance 2.5 超真实 AI 动态桌面壁纸：换装互动女主一镜到底">](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** 木马人 | **来源:** [原帖](https://x.com/cnyzgkc/status/2099029556434985065) | **发布:** 2026-09-13 | **热度:** 94
 
@@ -1107,13 +1107,13 @@ SINGLE CONTINUOUS SHOT（00:00-00:29）
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 千禧年代韩国女孩生日聚会
 
 > A birthday worth remembering 🎂 Generated with seedance 2.5 Prompt Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s…
 
-[<img src="https://media.goodcase.ai/cases/4f746779db27.jpg" width="600" alt="千禧年代韩国女孩生日聚会">](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691)
+[<img src="https://media.goodcase.ai/cases/4f746779db27.jpg" width="600" alt="千禧年代韩国女孩生日聚会">](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2105146792681832481) | **发布:** 2026-09-30 | **热度:** 94
 
@@ -1155,13 +1155,13 @@ FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every sc
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 奶奶与狸猫麻雀逛早市
 
 > Grandma is out here for the shopping with her pet sparrow. Seedance 2.5 on @Flovaai Use my referral link to get offer: https://t.co/l1lPYN3ENF Skill Used: GTA 6…
 
-[<img src="https://media.goodcase.ai/cases/8162eeaeac45.jpg" width="600" alt="奶奶与狸猫麻雀逛早市">](https://goodcase.ai/cases/seedance-grandma-is-out-here-for-the-shopping-with-her-pet-sparrow-d6d07e610943)
+[<img src="https://media.goodcase.ai/cases/8162eeaeac45.jpg" width="600" alt="奶奶与狸猫麻雀逛早市">](https://goodcase.ai/cases/seedance-grandma-is-out-here-for-the-shopping-with-her-pet-sparrow-d6d07e610943?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2103503970815930610) | **发布:** 2026-09-25 | **热度:** 94
 
@@ -1188,13 +1188,13 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-grandma-is-out-here-for-the-shopping-with-her-pet-sparrow-d6d07e610943)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-grandma-is-out-here-for-the-shopping-with-her-pet-sparrow-d6d07e610943?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 金发少女在高中走廊释放超能力
 
 > Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
 
-[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="600" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)
+[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="600" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2092119695201837059) | **发布:** 2026-08-25 | **热度:** 94
 
@@ -1231,13 +1231,13 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 印尼女生日常写实短片
 
 > Seedance 2.5 Prompt: Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow
 
-[<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="600" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)
+[<img src="https://media.goodcase.ai/media/poster/rishuavr-seedance-ai-ad4e6de3949d.jpg" width="600" alt="Seedance 2.5 印尼女生日常写实短片">](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @RishuaVR | **来源:** [原帖](https://x.com/RishuaVR/status/2089204108175741157) | **发布:** 2026-08-17 | **热度:** 94
 
@@ -1276,13 +1276,13 @@ Goal: Authentic Indonesian neighborhood life captured like a forgotten home vide
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/rishuavr-seedance-ai-ad4e6de3949d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 红围巾女特工决战暗黑教室
 
 > This video is crazy. Made with seedance 2.5 Prompt : Create a 60-second ultra-realistic cinematic Korean action-thriller scene featuring a young woman with stra…
 
-[<img src="https://media.goodcase.ai/cases/622f5c9aa42a.jpg" width="600" alt="红围巾女特工决战暗黑教室">](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-realistic-cinematic-korean-action-thriller-scene-featu-f31c9f4b3fc8)
+[<img src="https://media.goodcase.ai/cases/622f5c9aa42a.jpg" width="600" alt="红围巾女特工决战暗黑教室">](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-realistic-cinematic-korean-action-thriller-scene-featu-f31c9f4b3fc8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Noor_ul_ain43 | **来源:** [原帖](https://x.com/Noor_ul_ain43/status/2104793144743108833) | **发布:** 2026-09-29 | **热度:** 93
 
@@ -1348,13 +1348,13 @@ IMPORTANT CONSISTENCY INSTRUCTIONS
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-realistic-cinematic-korean-action-thriller-scene-featu-f31c9f4b3fc8)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-realistic-cinematic-korean-action-thriller-scene-featu-f31c9f4b3fc8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 日本公路巴士感染者突袭
 
 > Bus driver and conductor stop sudden attack, all passengers safe. Seedance 2.5 Prompt: Cinematic horror-action short film set aboard a Japanese highway bus duri…
 
-[<img src="https://media.goodcase.ai/cases/f5434503545d.jpg" width="600" alt="日本公路巴士感染者突袭">](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8)
+[<img src="https://media.goodcase.ai/cases/f5434503545d.jpg" width="600" alt="日本公路巴士感染者突袭">](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @auqibhabib | **来源:** [原帖](https://x.com/auqibhabib/status/2102265619416768799) | **发布:** 2026-09-22 | **热度:** 93
 
@@ -1427,13 +1427,13 @@ Made with seedance 2.5 on @SocialSight
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女子破窗反将嘲笑者拉出地铁
 
 > Girl with a B **** H mode 🥵 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exac…
 
-[<img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="600" alt="女子破窗反将嘲笑者拉出地铁">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1)
+[<img src="https://media.goodcase.ai/cases/c07aff74d745.jpg" width="600" alt="女子破窗反将嘲笑者拉出地铁">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2097168171367338428) | **发布:** 2026-09-08 | **热度:** 93
 
@@ -1458,13 +1458,13 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 绿裙女子召唤烈焰树灵迎战恶魔群
 
 > ⚡She didn’t summon a guardian—she awakened the wrath of the earth.🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy battle, 16:9, photoreal, shallow d…
 
-[<img src="https://media.goodcase.ai/cases/4a7f9d53f8c5.jpg" width="600" alt="绿裙女子召唤烈焰树灵迎战恶魔群">](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6)
+[<img src="https://media.goodcase.ai/cases/4a7f9d53f8c5.jpg" width="600" alt="绿裙女子召唤烈焰树灵迎战恶魔群">](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2107685928647160275) | **发布:** 2026-10-07 | **热度:** 92
 
@@ -1474,13 +1474,13 @@ Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorph
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 大学实验室感染失控，学生变成丧尸
 
 > The College Lab Infection 🧟‍♀️ Seedance 2.5 on @wavespeed_ai Prompt: Create a photorealistic live-action zombie-horror sequence inside a modern university scie…
 
-[<img src="https://media.goodcase.ai/cases/17336ecf1069.jpg" width="600" alt="大学实验室感染失控，学生变成丧尸">](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd)
+[<img src="https://media.goodcase.ai/cases/17336ecf1069.jpg" width="600" alt="大学实验室感染失控，学生变成丧尸">](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2106955772395659431) | **发布:** 2026-10-05 | **热度:** 92
 
@@ -1521,13 +1521,13 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 不会有人认为这是真的吧？😄
 
 > 不会有人认为这是真的吧？😄 Seedance 2.5 也过于逼真了啊🫠连影子都那么真实 上传自己的图片，加上下面的提示词，你也能这么跳😂 Seedance 2.5 prompt 👇 Duration: 10秒 Aspect rati
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="600" alt="不会有人认为这是真的吧？😄">](https://goodcase.ai/cases/seedance-269d1fc95820)
+[<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="600" alt="不会有人认为这是真的吧？😄">](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2095025524586193105) | **发布:** 2026-09-02 | **热度:** 92
 
@@ -1672,13 +1672,13 @@ Negative:
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-269d1fc95820)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩系情侣的街头约会日记
 
 > POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg" width="600" alt="韩系情侣的街头约会日记">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf)
+[<img src="https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg" width="600" alt="韩系情侣的街头约会日记">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2094997895187673489) | **发布:** 2026-09-02 | **热度:** 92
 
@@ -1705,13 +1705,13 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 狐狸在森林溪流边自拍漫游
 
 > Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
-[<img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="600" alt="狐狸在森林溪流边自拍漫游">](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259)
+[<img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="600" alt="狐狸在森林溪流边自拍漫游">](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @MrDasOnX | **来源:** [原帖](https://x.com/MrDasOnX/status/2089969922617266257) | **发布:** 2026-08-19 | **热度:** 92
 
@@ -1748,13 +1748,13 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 红裙女子提着食材登上云端山顶小屋
 
 > Somewhere between reality and a dream.🌫️✨ Created with Seedance 2.5 on @FishCreativeHQ PROMPT : Create a cinematic, photorealistic 30-second vertical video usi…
 
-[<img src="https://media.goodcase.ai/cases/ae2aea3e33c4.jpg" width="600" alt="红裙女子提着食材登上云端山顶小屋">](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-photorealistic-30-second-vertical-video-using-the-provided-9668ab5250ad)
+[<img src="https://media.goodcase.ai/cases/ae2aea3e33c4.jpg" width="600" alt="红裙女子提着食材登上云端山顶小屋">](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-photorealistic-30-second-vertical-video-using-the-provided-9668ab5250ad?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2107096810783461509) | **发布:** 2026-10-05 | **热度:** 91
 
@@ -1823,13 +1823,13 @@ Important: Keep the woman's identity perfectly consistent across every shot. No 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-photorealistic-30-second-vertical-video-using-the-provided-9668ab5250ad)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-photorealistic-30-second-vertical-video-using-the-provided-9668ab5250ad?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 千禧年代首尔情侣午后兜风
 
 > A Little Drive, A Little Love ❤️ Seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video of a young Korean c…
 
-[<img src="https://media.goodcase.ai/cases/64e9f9e3ac3b.jpg" width="600" alt="千禧年代首尔情侣午后兜风">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e)
+[<img src="https://media.goodcase.ai/cases/64e9f9e3ac3b.jpg" width="600" alt="千禧年代首尔情侣午后兜风">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104776214066188611) | **发布:** 2026-09-29 | **热度:** 91
 
@@ -1880,13 +1880,13 @@ No cinematic commercial look, no gimbal shots, no drone shots, no dramatic light
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 未来公路上的机车与超跑追逐
 
 > ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
 
-[<img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="600" alt="未来公路上的机车与超跑追逐">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea)
+[<img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="600" alt="未来公路上的机车与超跑追逐">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2104064261005709551) | **发布:** 2026-09-27 | **热度:** 91
 
@@ -1922,13 +1922,13 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 微型滑手穿越巨人暮色山丘
 
 > POV: your crush is the landscape and you’re late for work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic 10-second tracking shot at golden hour. A giant yo…
 
-[<img src="https://media.goodcase.ai/cases/7b93f99dd303.jpg" width="600" alt="微型滑手穿越巨人暮色山丘">](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089)
+[<img src="https://media.goodcase.ai/cases/7b93f99dd303.jpg" width="600" alt="微型滑手穿越巨人暮色山丘">](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2103420922376163808) | **发布:** 2026-09-25 | **热度:** 91
 
@@ -1951,13 +1951,13 @@ Camera is extremely low and close, starting at her legs and tracking forward and
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 地铁疾驰中的夏夜时尚女孩
 
 > Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
 
-[<img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="600" alt="地铁疾驰中的夏夜时尚女孩">](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5)
+[<img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="600" alt="地铁疾驰中的夏夜时尚女孩">](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2103032789910401038) | **发布:** 2026-09-24 | **热度:** 91
 
@@ -1976,13 +1976,13 @@ Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with l
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 偶像腿日训练后的踉跄健身日记
 
 > Made with seedance 2.5 on Flova AI Prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it o…
 
-[<img src="https://media.goodcase.ai/cases/ff2f2bf756c1.jpg" width="600" alt="偶像腿日训练后的踉跄健身日记">](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-dbd56441c7b6)
+[<img src="https://media.goodcase.ai/cases/ff2f2bf756c1.jpg" width="600" alt="偶像腿日训练后的踉跄健身日记">](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-dbd56441c7b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @QAiStudio | **来源:** [原帖](https://x.com/QAiStudio/status/2102992059938587000) | **发布:** 2026-09-24 | **热度:** 91
 
@@ -2032,13 +2032,13 @@ A gym in the evening — squat rack, leg press machine, a water fountain across 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-dbd56441c7b6)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-dbd56441c7b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 折叠成球的威尼斯送信之旅
 
 > Watch Venice become a sphere Seedance 2.5 on @FishCreativeHQ Prompt [Image 1](image_1) is the face and identity reference. A young Korean woman in her early twe…
 
-[<img src="https://media.goodcase.ai/cases/e5c7676644ab.jpg" width="600" alt="折叠成球的威尼斯送信之旅">](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b)
+[<img src="https://media.goodcase.ai/cases/e5c7676644ab.jpg" width="600" alt="折叠成球的威尼斯送信之旅">](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100541954685895043) | **发布:** 2026-09-17 | **热度:** 91
 
@@ -2073,13 +2073,13 @@ Prompt
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 人群同时转身凝视黑衣女子
 
 > STORM with a twist Seedance 2.5 Prompt : Create an ultra-realistic cinematic fashion/music video using the uploaded reference image as the exact visual referenc…
 
-[<img src="https://media.goodcase.ai/cases/15e425fa8f93.jpg" width="600" alt="人群同时转身凝视黑衣女子">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)
+[<img src="https://media.goodcase.ai/cases/15e425fa8f93.jpg" width="600" alt="人群同时转身凝视黑衣女子">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2100067816162636164) | **发布:** 2026-09-16 | **热度:** 91
 
@@ -2110,13 +2110,13 @@ No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphi
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 五点下班的办公室潜行
 
 > Leaving work at five shouldn’t require stealth mode, but her boss made it a mission. Seedance 2.5 0n @SJinn_Agent Prompt SCENE CONTEXT A 30-second realistic AAA…
 
-[<img src="https://media.goodcase.ai/cases/199c37ba7f84.jpg" width="600" alt="五点下班的办公室潜行">](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e)
+[<img src="https://media.goodcase.ai/cases/199c37ba7f84.jpg" width="600" alt="五点下班的办公室潜行">](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2099440985872933199) | **发布:** 2026-09-14 | **热度:** 91
 
@@ -2416,13 +2416,13 @@ Final notification: 【AFTER-HOURS TASK EVADED】.
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 修女化身天使，在废墟教堂中斩灭群魔
 
 > ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
 
-[<img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="600" alt="修女化身天使，在废墟教堂中斩灭群魔">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14)
+[<img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="600" alt="修女化身天使，在废墟教堂中斩灭群魔">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2108765927194198397) | **发布:** 2026-10-10 | **热度:** 90
 
@@ -2440,13 +2440,13 @@ blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女子在夜间粉色球场滑着滑板打网球
 
 > Too glam to play by the rules🖤🎾🛹 Created with Seedance 2.5 on @TapNow_AI PROMPT: Create a photorealistic cinematic fashion-sports video set on a pink tennis …
 
-[<img src="https://media.goodcase.ai/cases/322498c2ac13.jpg" width="600" alt="女子在夜间粉色球场滑着滑板打网球">](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5)
+[<img src="https://media.goodcase.ai/cases/322498c2ac13.jpg" width="600" alt="女子在夜间粉色球场滑着滑板打网球">](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithNatalia | **来源:** [原帖](https://x.com/AIwithNatalia/status/2107056982163402833) | **发布:** 2026-10-05 | **热度:** 90
 
@@ -2470,13 +2470,13 @@ Negative prompt: distorted face, changing identity, extra fingers, extra limbs, 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 微缩女子的便利店跑酷冒险
 
 > Turning a convenience store run into an extreme adventure. Seedance 2.5 on @higgsfield Prompt : STYLE: Photorealistic live-action miniature-person FX, cinematic…
 
-[<img src="https://media.goodcase.ai/cases/3b9300fbc51d.jpg" width="600" alt="微缩女子的便利店跑酷冒险">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd)
+[<img src="https://media.goodcase.ai/cases/3b9300fbc51d.jpg" width="600" alt="微缩女子的便利店跑酷冒险">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2106397932304191969) | **发布:** 2026-10-03 | **热度:** 90
 
@@ -2501,13 +2501,13 @@ NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated characte
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 黑衣剑客烈焰横扫暗影兽群
 
 > ⚡​"They brought an army. He brought the apocalypse."🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy wuxia action scene, low angle dynamic tracking s…
 
-[<img src="https://media.goodcase.ai/cases/6304957c914f.jpg" width="600" alt="黑衣剑客烈焰横扫暗影兽群">](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9)
+[<img src="https://media.goodcase.ai/cases/6304957c914f.jpg" width="600" alt="黑衣剑客烈焰横扫暗影兽群">](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2099006619988459985) | **发布:** 2026-09-13 | **热度:** 90
 
@@ -2529,13 +2529,13 @@ Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A ma
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 周一清晨的倒悬入水仪式
 
 > This is how it feels like to wake up on Monday to go to work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic indoor performance-art / fashion editorial vide…
 
-[<img src="https://media.goodcase.ai/cases/d86c8eb13364.jpg" width="600" alt="周一清晨的倒悬入水仪式">](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909)
+[<img src="https://media.goodcase.ai/cases/d86c8eb13364.jpg" width="600" alt="周一清晨的倒悬入水仪式">](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2104544058471502330) | **发布:** 2026-09-28 | **热度:** 89
 
@@ -2560,13 +2560,13 @@ Natural window light, muted filmic color palette, shallow depth of field, slight
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩流偶像的搞笑核心训练日
 
 > made with Seedance 2.5 prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on the floor …
 
-[<img src="https://media.goodcase.ai/cases/89d557bcc2fb.jpg" width="600" alt="韩流偶像的搞笑核心训练日">](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31)
+[<img src="https://media.goodcase.ai/cases/89d557bcc2fb.jpg" width="600" alt="韩流偶像的搞笑核心训练日">](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2103476205760774263) | **发布:** 2026-09-25 | **热度:** 89
 
@@ -2612,13 +2612,13 @@ A gym mat area in the evening — mirror wall nearby, water bottle on the floor,
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-23c133674a31?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 沙发上嬉闹亲吻的兔子情侣
 
 > Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy…
 
-[<img src="https://media.goodcase.ai/cases/270ba8ecea3b.jpg" width="600" alt="沙发上嬉闹亲吻的兔子情侣">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725)
+[<img src="https://media.goodcase.ai/cases/270ba8ecea3b.jpg" width="600" alt="沙发上嬉闹亲吻的兔子情侣">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2099683790717325390) | **发布:** 2026-09-15 | **热度:** 89
 
@@ -2642,13 +2642,13 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Boa Hancock Water Obstacle Race Prompt
 
 > A comprehensive video prompt for Seedance 2.5 designed to generate a 30-second water obstacle competition in the style of a Japanese variety show, emphasizing character consistency and complex camera work.
 
-[<img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="600" alt="Boa Hancock Water Obstacle Race Prompt">](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)
+[<img src="https://media.goodcase.ai/media/poster/boa-hancock-water-obstacle-race-prompt.jpg" width="600" alt="Boa Hancock Water Obstacle Race Prompt">](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2087458506123465088) | **发布:** 2026-08-12 | **热度:** 88
 
@@ -2982,13 +2982,13 @@ ENG 摄像机、摇臂摄像机、轨道跟拍、长焦、水面低机位、障�
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 烟歇遇袭的庭院女侠
 
 > This is what happens when you interrupt her smoke break Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second music-video sequence, widescreen 16:9, photorealis…
 
-[<img src="https://media.goodcase.ai/cases/4ef9719a2fa7.jpg" width="600" alt="烟歇遇袭的庭院女侠">](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712)
+[<img src="https://media.goodcase.ai/cases/4ef9719a2fa7.jpg" width="600" alt="烟歇遇袭的庭院女侠">](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2105196278217150537) | **发布:** 2026-09-30 | **热度:** 88
 
@@ -3015,13 +3015,13 @@ Mood: stylish, effortless, slightly surreal, high-fashion action, “she doesn�
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 海滩救援后的俏皮喷水
 
 > For a moment, everything stopped. Then She opened her eyes and gave him something to remember. ❤️ Seedance 2.5 Prompt PHOTOREALISTIC CINEMATIC VIDEO, 15 sec, 16…
 
-[<img src="https://media.goodcase.ai/cases/29026eab0155.jpg" width="600" alt="海滩救援后的俏皮喷水">](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4)
+[<img src="https://media.goodcase.ai/cases/29026eab0155.jpg" width="600" alt="海滩救援后的俏皮喷水">](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Harry_thingss | **来源:** [原帖](https://x.com/Harry_thingss/status/2104579594695409840) | **发布:** 2026-09-28 | **热度:** 88
 
@@ -3054,13 +3054,13 @@ NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 花天狂骨枯松心中决战
 
 > This AI is just cooking it 🔥 Seedance 2.5 on @ImagineArt_X @imagineart_creo Prompt 👇🏻 SCENE — KATEN KYŌKOTSU: KARAMATSU SHINJŪ DURATION: exactly 10 seconds F…
 
-[<img src="https://media.goodcase.ai/cases/2b89a640f391.jpg" width="600" alt="花天狂骨枯松心中决战">](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962)
+[<img src="https://media.goodcase.ai/cases/2b89a640f391.jpg" width="600" alt="花天狂骨枯松心中决战">](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itxabdullaa | **来源:** [原帖](https://x.com/itxabdullaa/status/2102609881677107243) | **发布:** 2026-09-23 | **热度:** 88
 
@@ -3121,13 +3121,13 @@ VISUAL RULES
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 地铁关门嘲笑引发的爆笑反击
 
 > Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
 
-[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="地铁关门嘲笑引发的爆笑反击">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)
+[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="地铁关门嘲笑引发的爆笑反击">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2098988104418050349) | **发布:** 2026-09-13 | **热度:** 88
 
@@ -3152,13 +3152,13 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 猫咪自拍记录温馨的一天
 
 > Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
 
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="600" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867)
+[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="600" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2091385137133219971) | **发布:** 2026-08-23 | **热度:** 88
 
@@ -3290,13 +3290,13 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 紫发少女跃过泳池巨浪
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
 
-[<img src="https://media.goodcase.ai/cases/5b534bd92cd2.jpg" width="600" alt="紫发少女跃过泳池巨浪">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1)
+[<img src="https://media.goodcase.ai/cases/5b534bd92cd2.jpg" width="600" alt="紫发少女跃过泳池巨浪">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zoyavelle | **来源:** [原帖](https://x.com/Zoyavelle/status/2100089287345951159) | **发布:** 2026-09-16 | **热度:** 87
 
@@ -3319,13 +3319,13 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 十秒自救的女巫把自己变成了鸭子
 
 > 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
 
-[<img src="https://media.goodcase.ai/cases/15792e0fa5ef.jpg" width="600" alt="十秒自救的女巫把自己变成了鸭子">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f)
+[<img src="https://media.goodcase.ai/cases/15792e0fa5ef.jpg" width="600" alt="十秒自救的女巫把自己变成了鸭子">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithNatalia | **来源:** [原帖](https://x.com/AIwithNatalia/status/2089170554725265625) | **发布:** 2026-08-17 | **热度:** 87
 
@@ -3369,13 +3369,13 @@ End text:
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 超写实微距延时：种子发芽十秒
 
 > Seedance 2.5 on @Vorla_AI ❤️ Prompt: Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the
 
-[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="600" alt="Seedance 2.5 超写实微距延时：种子发芽十秒">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85)
+[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="600" alt="Seedance 2.5 超写实微距延时：种子发芽十秒">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Yesandyou_ | **来源:** [原帖](https://x.com/Yesandyou_/status/2088998841395921185) | **发布:** 2026-08-16 | **热度:** 87
 
@@ -3402,13 +3402,13 @@ Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌,
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 宝宝模仿妈妈晨间瑜伽，最后温暖相拥
 
 > Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
 
-[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="宝宝模仿妈妈晨间瑜伽，最后温暖相拥">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25)
+[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="宝宝模仿妈妈晨间瑜伽，最后温暖相拥">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | **发布:** 2026-10-03 | **热度:** 86
 
@@ -3448,13 +3448,13 @@ Important: Maintain identical character appearances, clothing, facial features, 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 手持感旅行 Vlog：从公寓到海滩
 
 > 把 30 秒切成五个连续的生活场景，用同一张参考图锁定女主角的脸和身材，从公寓出门写到日落坐在海边，靠摄像机做旧和真实感描述而不是明星卡司，撑出一条像朋友随手拍的旅行 vlog。
 
-[<img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="600" alt="手持感旅行 Vlog：从公寓到海滩">](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)
+[<img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="600" alt="手持感旅行 Vlog：从公寓到海滩">](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @BubbleBrain | **来源:** [原帖](https://x.com/BubbleBrain/status/2083659648108990925) | **发布:** 2026-08-01 | **热度:** 86
 
@@ -3462,13 +3462,13 @@ Important: Maintain identical character appearances, clothing, facial features, 
 A realistic handheld travel vlog filmed by a friend following the main character throughout the day. Use the woman from the reference image as the main subject. Maintain her exact facial identity, hairstyle, facial features, and body proportions throughout the entire video. The camera feels like a real personal vlog camera, not a commercial production. Natural handheld movement, casual framing, imperfect human camera motion, authentic everyday atmosphere. No scripted acting. The woman behaves naturally, interacting with the environment like a real travel vlog. 0-5s: Morning departure. The woman leaves a cozy apartment with a small backpack. She checks her phone, smiles at the camera, adjusts her hair, and starts walking outside. The camera follows her from behind, slightly shaky like a friend filming. Morning sunlight, quiet neighborhood streets, people starting their day. 5-12s: Exploring the city. The camera follows her walking through local streets. She visits a small cafe, buys a drink, briefly talks to the camera, laughs naturally. She walks through a street market, looks at small shops, takes casual photos. The camera stays close, capturing spontaneous moments. 12-20s: Arriving at the beach. She takes public transportation or walks toward the coast. The environment gradually changes from city streets to a seaside town. Ocean breeze moves her hair. She looks excited when she sees the ocean. The camera follows her walking along the beach. She picks up a seashell, watches waves, and interacts naturally with people nearby. 20-27s: Summer beach afternoon. She meets friends at the beach. Everyone chats, laughs, plays near the water. The camera moves naturally between people, capturing real candid moments. She looks back at the camera and smiles. 27-30s: Ending moment. Golden hour sunset. She sits near the ocean, holding a drink, watching the sunset. The camera slowly moves backward, revealing the beach, waves, and the peaceful evening. A feeling of a real personal travel memory. Visual style: Authentic travel vlog footage. Realistic smartphone or mirrorless camera look. Natural daylight. Casual handheld movement. Slight camera shake. Real human reactions. Documentary realism. No cinematic commercial look. No dramatic posing. No artificial transitions. No text overlays. No logos. No face changes. No identity changes.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国女孩的社区健身房日常
 
 > Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
 
-[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="韩国女孩的社区健身房日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)
+[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="韩国女孩的社区健身房日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104408252670939438) | **发布:** 2026-09-28 | **热度:** 86
 
@@ -3501,13 +3501,13 @@ Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossibl
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 枪口下闪回的金色恋歌
 
 > This is not the ending you think it is. Seedance 2.5 on @FishCreativeHQ Prompt Opening (dark, tense, 0–10s) Dimly lit rustic wooden cabin interior, moody low-ke…
 
-[<img src="https://media.goodcase.ai/cases/ce27afa4b3de.jpg" width="600" alt="枪口下闪回的金色恋歌">](https://goodcase.ai/cases/seedance-this-is-not-the-ending-you-think-it-is-4b817978c02e)
+[<img src="https://media.goodcase.ai/cases/ce27afa4b3de.jpg" width="600" alt="枪口下闪回的金色恋歌">](https://goodcase.ai/cases/seedance-this-is-not-the-ending-you-think-it-is-4b817978c02e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2103857991917433061) | **发布:** 2026-09-26 | **热度:** 86
 
@@ -3538,13 +3538,13 @@ Cinematic 2.35:1 or 16:9, filmic grain, dramatic contrast in first half, warm an
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-not-the-ending-you-think-it-is-4b817978c02e)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-not-the-ending-you-think-it-is-4b817978c02e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 粉发女子漫步流逝的欧洲城
 
 > What if every beautiful moment disappears before we even realize it was happening? Seedance 2.5 on @TapNow_AI Prompt A cinematic fashion short film, ~20 seconds…
 
-[<img src="https://media.goodcase.ai/cases/78da937a2c39.jpg" width="600" alt="粉发女子漫步流逝的欧洲城">](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692)
+[<img src="https://media.goodcase.ai/cases/78da937a2c39.jpg" width="600" alt="粉发女子漫步流逝的欧洲城">](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2102013620066636225) | **发布:** 2026-09-21 | **热度:** 86
 
@@ -3590,13 +3590,13 @@ Cinematic fashion film, editorial movement, motion blur, anamorphic flares, gold
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 粉发女生食堂后空翻稳接餐盘
 
 > Walked past him like the backflip was the easy part of lunch. Seedance 2.5 on @FishCreativeHQ Prompt Cinematic Korean high-school drama, 22-second continuous sh…
 
-[<img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="600" alt="粉发女生食堂后空翻稳接餐盘">](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39)
+[<img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="600" alt="粉发女生食堂后空翻稳接餐盘">](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100836177821483349) | **发布:** 2026-09-18 | **热度:** 86
 
@@ -3634,13 +3634,13 @@ Negative: messy spills, broken tray, Western cafeteria, adult office clothes, ex
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 青柠西装女子静立躁动人群
 
 > I know I'm a bit late to the STORM trend, but it's better late than never! Created using Seedance 2.5 Prompt: Use the uploaded reference VIDEO as the exact moti…
 
-[<img src="https://media.goodcase.ai/cases/6fb950b9cf00.jpg" width="600" alt="青柠西装女子静立躁动人群">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc)
+[<img src="https://media.goodcase.ai/cases/6fb950b9cf00.jpg" width="600" alt="青柠西装女子静立躁动人群">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @john_my07 | **来源:** [原帖](https://x.com/john_my07/status/2100115896111161691) | **发布:** 2026-09-16 | **热度:** 86
 
@@ -3928,13 +3928,13 @@ NO EXTRA VERSION OF <image_1>.
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国女孩的夏日农场体验
 
 > Seedance 2.5 via @openart_ai made this farm day look way too real 😯 Prompt Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary su…
 
-[<img src="https://media.goodcase.ai/cases/38369ab7e574.jpg" width="600" alt="韩国女孩的夏日农场体验">](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c)
+[<img src="https://media.goodcase.ai/cases/38369ab7e574.jpg" width="600" alt="韩国女孩的夏日农场体验">](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2098742251472261330) | **发布:** 2026-09-12 | **热度:** 86
 
@@ -4004,13 +4004,13 @@ Completely believable real-life home-video footage. Slightly imperfect, spontane
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 巴厘岛梦幻夏日旅行日记
 
 > golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
-[<img src="https://media.goodcase.ai/cases/39b33ab9f88e.jpg" width="600" alt="巴厘岛梦幻夏日旅行日记">](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806)
+[<img src="https://media.goodcase.ai/cases/39b33ab9f88e.jpg" width="600" alt="巴厘岛梦幻夏日旅行日记">](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @eshal__ai | **来源:** [原帖](https://x.com/eshal__ai/status/2096840505355370629) | **发布:** 2026-09-07 | **热度:** 86
 
@@ -4047,13 +4047,13 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 京都女孩的平凡一日
 
 > Realism that makes ordinary life feel special Seedance 2.5 Prompt Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese …
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="600" alt="京都女孩的平凡一日">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)
+[<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="600" alt="京都女孩的平凡一日">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2096109540924141746) | **发布:** 2026-09-05 | **热度:** 86
 
@@ -4098,13 +4098,13 @@ Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 泥土中诞生的罐中小鸟
 
 > Made with Seedance 2.5 on @HighSignal_AI 🎬 MAIN VIDEO PROMPT Use the uploaded image as the exact visual reference. Crea
 
-[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-2a9dc20c947d.jpg" width="600" alt="泥土中诞生的罐中小鸟">](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d)
+[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-2a9dc20c947d.jpg" width="600" alt="泥土中诞生的罐中小鸟">](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Yesandyou_ | **来源:** [原帖](https://x.com/Yesandyou_/status/2090075447195480403) | **发布:** 2026-08-19 | **热度:** 86
 
@@ -4174,13 +4174,13 @@ Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, phys
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-2a9dc20c947d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 灾难现场拍还是跑：第一视角短片
 
 > Would you take out your phone to make videos or run first? Seedance 2.5 on @DomoAI_ prompt LIVE-ACTION CINEMATIC REALISM
 
-[<img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="600" alt="Seedance 灾难现场拍还是跑：第一视角短片">](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)
+[<img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="600" alt="Seedance 灾难现场拍还是跑：第一视角短片">](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2089578815219785888) | **发布:** 2026-08-18 | **热度:** 86
 
@@ -4239,13 +4239,13 @@ OUTPUT:
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 小女孩在幼儿园认识水果与英文名称
 
 > Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
 
-[<img src="https://media.goodcase.ai/cases/537cb34decad.jpg" width="600" alt="小女孩在幼儿园认识水果与英文名称">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041)
+[<img src="https://media.goodcase.ai/cases/537cb34decad.jpg" width="600" alt="小女孩在幼儿园认识水果与英文名称">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2108381024417993043) | **发布:** 2026-10-09 | **热度:** 85
 
@@ -4301,13 +4301,13 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 洗澡时快递上门，男子裹毛巾赶到门口
 
 > Sometimes the delivery comes at the worst possible time. Created with Seedance 2.5. Prompt: A young man is taking a normal shower in a modern apartment when his…
 
-[<img src="https://media.goodcase.ai/cases/18d636c8a022.jpg" width="600" alt="洗澡时快递上门，男子裹毛巾赶到门口">](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722)
+[<img src="https://media.goodcase.ai/cases/18d636c8a022.jpg" width="600" alt="洗澡时快递上门，男子裹毛巾赶到门口">](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2107317166995546481) | **发布:** 2026-10-06 | **热度:** 85
 
@@ -4328,13 +4328,13 @@ Photorealistic cinematic comedy, realistic water behavior, natural human movemen
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩巷夏日骑行的女孩
 
 > Something from our local street Seedance 2.5 at service again Prompt : Main subject: Young Korean woman, early 20s, wear
 
-[<img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg" width="600" alt="韩巷夏日骑行的女孩">](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b)
+[<img src="https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg" width="600" alt="韩巷夏日骑行的女孩">](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2091175465037746522) | **发布:** 2026-08-22 | **热度:** 85
 
@@ -4360,13 +4360,13 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 吊扇下躺在波斯地毯上的女子变装
 
 > Made with seedance 2.5 Prompt: A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living…
 
-[<img src="https://media.goodcase.ai/cases/8457e12426f4.jpg" width="600" alt="吊扇下躺在波斯地毯上的女子变装">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505)
+[<img src="https://media.goodcase.ai/cases/8457e12426f4.jpg" width="600" alt="吊扇下躺在波斯地毯上的女子变装">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zoyavelle | **来源:** [原帖](https://x.com/Zoyavelle/status/2108060187840180394) | **发布:** 2026-10-08 | **热度:** 84
 
@@ -4378,13 +4378,13 @@ Aspect ratio: 16:9.
 Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless transitions.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 黄昏郊区街头的感染突袭与邻里反击
 
 > Sudden outbreak on quiet suburban street, residents fight back and contain the threat. Seedance 2.5 Prompt: Cinematic horror-action short film, opens with an in…
 
-[<img src="https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg" width="600" alt="黄昏郊区街头的感染突袭与邻里反击">](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e)
+[<img src="https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg" width="600" alt="黄昏郊区街头的感染突袭与邻里反击">](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @auqibhabib | **来源:** [原帖](https://x.com/auqibhabib/status/2107346452494381298) | **发布:** 2026-10-06 | **热度:** 84
 
@@ -4453,13 +4453,13 @@ Made with seedance 2.5 on @SocialSight
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 丛林神庙水御伏击战
 
 > This AI video is absolutely amazing 🔥 Created with Seedance 2.5 Prompt : SCENE — WATERBENDING AMBUSH DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-pho…
 
-[<img src="https://media.goodcase.ai/cases/9191e59a045c.jpg" width="600" alt="丛林神庙水御伏击战">](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a)
+[<img src="https://media.goodcase.ai/cases/9191e59a045c.jpg" width="600" alt="丛林神庙水御伏击战">](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @itxsarmadd | **来源:** [原帖](https://x.com/itxsarmadd/status/2103694941260222603) | **发布:** 2026-09-26 | **热度:** 84
 
@@ -4536,13 +4536,13 @@ NO MUSIC.
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 废墟卧室中的白发女子与巨型黑猫
 
 > She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
 
-[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="废墟卧室中的白发女子与巨型黑猫">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)
+[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="废墟卧室中的白发女子与巨型黑猫">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2097594855946113177) | **发布:** 2026-09-09 | **热度:** 84
 
@@ -4555,13 +4555,13 @@ Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic
 Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔夏夜的树叶小插曲
 
 > It’s the little moments that make AI feel this real. Made with Seedance 2.5 PROMPT Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of …
 
-[<img src="https://media.goodcase.ai/cases/276528e2bcc8.jpg" width="600" alt="首尔夏夜的树叶小插曲">](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467)
+[<img src="https://media.goodcase.ai/cases/276528e2bcc8.jpg" width="600" alt="首尔夏夜的树叶小插曲">](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @SimplyAnnisa | **来源:** [原帖](https://x.com/SimplyAnnisa/status/2096931238460178592) | **发布:** 2026-09-07 | **热度:** 84
 
@@ -4668,13 +4668,13 @@ Natural human reactions, imperfect timing, realistic physics, consistent objects
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 风中追逐飞走的衣服
 
 > What happened there 😭 Seedance 2.5 Prompt : GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, black wavy hair tied into a messy side …
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg" width="600" alt="风中追逐飞走的衣服">](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863)
+[<img src="https://media.goodcase.ai/media/poster/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863.jpg" width="600" alt="风中追逐飞走的衣服">](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2095485437821464808) | **发布:** 2026-09-03 | **热度:** 84
 
@@ -4702,13 +4702,13 @@ Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 六十秒健身日常 day-in-life vlog
 
 > Come spend a gym day with me 🎥🤍 Created with Seedance 2.5 on @Flovaai Prompt: Create a 60-second realistic day-in-the-
 
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="600" alt="Seedance 六十秒健身日常 day-in-life vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b)
+[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="600" alt="Seedance 六十秒健身日常 day-in-life vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2089569072526823464) | **发布:** 2026-08-18 | **热度:** 84
 
@@ -4814,13 +4814,13 @@ All dialogue must be naturally spoken with visible lip movement. Use only dieget
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Nano Banana + Seedance 2.5 六十秒高中初恋微电影
 
 > Maybe it was never about the five minutes. It was about wanting to spend them together. ❤️ Made with Flova AI using Nano
 
-[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="600" alt="Nano Banana + Seedance 2.5 六十秒高中初恋微电影">](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951)
+[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="600" alt="Nano Banana + Seedance 2.5 六十秒高中初恋微电影">](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2089154775829074074) | **发布:** 2026-08-17 | **热度:** 84
 
@@ -5199,13 +5199,13 @@ The final result should look like a polished 60-second scene from a premium cine
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 19世纪托斯卡纳农家女子的乡间日常
 
 > This AI video is a Masterpiece 👏 Seedance 2.5 Prompt: 30-second ultra-realistic documentary slice-of-life video, early-2000s consumer DV camcorder aesthetic. A…
 
-[<img src="https://media.goodcase.ai/cases/d2a428b7016a.jpg" width="600" alt="19世纪托斯卡纳农家女子的乡间日常">](https://goodcase.ai/cases/seedance-2-5-30-second-ultra-realistic-documentary-slice-of-life-video-early-2000s-consumer-c3a9eabe6881)
+[<img src="https://media.goodcase.ai/cases/d2a428b7016a.jpg" width="600" alt="19世纪托斯卡纳农家女子的乡间日常">](https://goodcase.ai/cases/seedance-2-5-30-second-ultra-realistic-documentary-slice-of-life-video-early-2000s-consumer-c3a9eabe6881?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2107530733212590250) | **发布:** 2026-10-06 | **热度:** 83
 
@@ -5237,13 +5237,13 @@ AUDIO: natural ambience only -wind through wheat, birds, chickens, footsteps on 
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-30-second-ultra-realistic-documentary-slice-of-life-video-early-2000s-consumer-c3a9eabe6881)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-30-second-ultra-realistic-documentary-slice-of-life-video-early-2000s-consumer-c3a9eabe6881?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 单人 K-POP MV · Y2K 糖果世界逐秒分镜
 
 > 一份 30 秒逐秒 K-POP MV 脚本：用音频时间码把舞蹈、口型、剪辑和场景全钉死在真实节拍上，主角锁脸锁服装贯穿六个 Y2K 场景，伴舞人数和位置逐段精确控制，翻盖手机合盖硬停收尾。
 
-[<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="单人 K-POP MV · Y2K 糖果世界逐秒分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)
+[<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="单人 K-POP MV · Y2K 糖果世界逐秒分镜">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @aiwarts | **来源:** [原帖](https://x.com/aiwarts/status/2085736621685764503) | **发布:** 2026-08-07 | **热度:** 83
 
@@ -5494,7 +5494,7 @@ CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)

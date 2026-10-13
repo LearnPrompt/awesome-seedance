@@ -24,7 +24,7 @@
 - [テンプレート索引（1 テンプレート 1 ファイル、英語）](./templates/en/README.md)
 - [Agent Skill リファレンス（テンプレート全文）](../agents/skills/seedance-prompt-library/references/style-library.md)
 - [著作権と削除申請](../README_ja.md#著作権と削除申請)
-- [goodcase.ai のライブサイト](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance)
+- [goodcase.ai のライブサイト](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=index)
 
 ## おすすめエントリ
 
