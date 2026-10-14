@@ -1,10 +1,44 @@
 # Seedance 2.0 — 全量案例（第 3/4 页）
 
-Seedance 2.0 全部 283 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 284 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 197–280 条，共 283 条。
+本页：第 197–280 条，共 284 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
+
+### 黏土定格迷你能多益咖啡馆
+
+> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
+
+[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="黏土定格迷你能多益咖啡馆">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MayaAiCreator | **来源:** [原帖](https://x.com/MayaAiCreator/status/2091397686104588650) | **发布:** 2026-08-23 | **热度:** 20
+
+**稳定度：** 77/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/mayaaicreator-seedance-ai-99e38c199ba8/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（12 行，点开展开）</b></summary>
+
+```
+A prompt to recreate this stop-motion claymation style AI video:
+Seedance 2.0. 
+​Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence & Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 道士少女与巨人的山路追车
 
@@ -635,7 +669,7 @@ Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camer
 
 [<img src="https://media.goodcase.ai/media/poster/asmr-b99180475dc6.jpg" width="600" alt="动漫花卉书签 ASMR">](https://goodcase.ai/cases/asmr-b99180475dc6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2076415711375970372) | **发布:** 2026-07-12 | **热度:** 16
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2076415711375970372) | **发布:** 2026-07-12 | **热度:** 15
 
 **稳定度：** 87/100
 
@@ -1623,55 +1657,6 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e0d3b03f1aef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 音乐视频编舞与身份设定
-
-> 一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。
-
-[<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="音乐视频编舞与身份设定">](https://goodcase.ai/cases/case-24775a8dc979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2079968108303818827) | **发布:** 2026-07-22 | **热度:** 6
-
-**稳定度：** 50/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (50.1 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（27 行，点开展开）</b></summary>
-
-```
-Create a music video; the images are exclusive appearance references and @[blackout video] is the editorial clock. Keep four distinct members, continuous choreography, and an open rightward exit.
-
-Use @[image1] only for Vocal 1's final identity and wardrobe.
-Use @[image2] only for Vocal 2's final identity and wardrobe.
-Use @[image3] only for Vocal 3's final identity and wardrobe.
-Use @[image4] only for Vocal 4's final identity and wardrobe.
-Use @[blackout video]  only for vocal order, lip sync, hits and mix; add no words or voices.
-Only four performers exist: one instance each of @[image1], @[image2], @[image3] and @[image4]; no doubles, extras, reflections, shadow figures, partial bodies or spare limbs.
-
-LOOK + WORLD: Textured hand-painted 2D anime K-pop video with silhouettes, paper grain. Cycle through a crimson tunnel, cream-coral room, blue-gray rooftop, silver workshop and matte-black moon stage; nonreflective floors, red, cream and cyan light, wide-lens depth, mist.
-ACTION + CAMERA: Sharp weighted idol choreography locks to 148 BPM subdivisions. Cut on action with pose-matched set swaps and one stutter edit; rise from solo snaps through a three-cut burst into the chorus, then carry rightward without a final pose.
-VFX SYSTEM: Red-cyan light smears, tape-bloom halos and flat geometric flash panels appear only in P06, P07 and P11, never covering faces or lip sync.
-SOUND: Use @[blackout video]  unchanged: four distinct female vocals, syncopated snares, 16th-note hi-hats, synth stabs, sub-bass drops and frame-drum pulse; preserve tape saturation and plate reverb.
-
-BEATS:
-P01: Low front 3/4 WS, track: exactly four performers; Vocal 1 leads in the crimson tunnel with cap taps and elbow punches while the other three dance behind her.
-P02: Dutch profile MCU, push: Vocal 2 dances alone in the cream-coral room through alternating shoulder switches.
-P03: High front 3/4 FS, crane: Vocal 3 dances alone on the rooftop and lands a fast heel-toe chain.
-P04: Ground frontal MLS, tilt: Vocal 4 dances alone in the silver workshop and drops into a wide weighted step.
-P05: Frontal WS, locked: exactly four performers form one diamond in the crimson tunnel and load crossed forearms on the selected snare.
-P06: High front 3/4 WS, pull: exactly the same four burst-cut to the cream-coral room, open their elbows and widen the diamond as coral-white panels flash, then vanish.
-P07: Low frontal WS, push: exactly the same four burst-cut to the rooftop and release into a low stance; red-cyan smears rise from four floor contacts, then dissolve.
-P08: Rear 3/4 WS, track: exactly the same four cut to the silver workshop; three torso hits break the diamond and each member enters her assigned lane.
-P09: Top-down WS, crane: exactly four complete bodies kick-cut to the matte-black moon stage, cross in one X, two front and two rear, then open into one line.
-P10: Dutch side FS, track: exactly four members travel screen right through the chorus hook; the only stutter repeats one motion slice, never people or body parts.
-P11: Low front 3/4 WS, push: exactly four members connect an arm wave, chest hit and stomp beneath the full moon; its tape-bloom halo swells clear of faces, then settles.
-P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen right as the world cools into a moon-blue horizon; cut in motion, no final pose.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-24775a8dc979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 从蓝图到房屋的延时摄影变换
 
 > 一个复杂的建筑延时摄影提示词，将 2D 平面图和外观参考图转换为完全渲染、家具齐全的 3D 房屋，并保持精确的尺寸和布局。
@@ -2280,6 +2265,55 @@ Aの攻撃色とBの防御色が別々に立ち上がり、中心の狭い白熱
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c32e6c3bb2c5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 音乐视频编舞与身份设定
+
+> 一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。
+
+[<img src="https://media.goodcase.ai/media/poster/case-24775a8dc979.jpg" width="600" alt="音乐视频编舞与身份设定">](https://goodcase.ai/cases/case-24775a8dc979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2079968108303818827) | **发布:** 2026-07-22 | **热度:** 5
+
+**稳定度：** 50/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (50.1 分) · [产物](https://media.goodcase.ai/retests/case-24775a8dc979/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+Create a music video; the images are exclusive appearance references and @[blackout video] is the editorial clock. Keep four distinct members, continuous choreography, and an open rightward exit.
+
+Use @[image1] only for Vocal 1's final identity and wardrobe.
+Use @[image2] only for Vocal 2's final identity and wardrobe.
+Use @[image3] only for Vocal 3's final identity and wardrobe.
+Use @[image4] only for Vocal 4's final identity and wardrobe.
+Use @[blackout video]  only for vocal order, lip sync, hits and mix; add no words or voices.
+Only four performers exist: one instance each of @[image1], @[image2], @[image3] and @[image4]; no doubles, extras, reflections, shadow figures, partial bodies or spare limbs.
+
+LOOK + WORLD: Textured hand-painted 2D anime K-pop video with silhouettes, paper grain. Cycle through a crimson tunnel, cream-coral room, blue-gray rooftop, silver workshop and matte-black moon stage; nonreflective floors, red, cream and cyan light, wide-lens depth, mist.
+ACTION + CAMERA: Sharp weighted idol choreography locks to 148 BPM subdivisions. Cut on action with pose-matched set swaps and one stutter edit; rise from solo snaps through a three-cut burst into the chorus, then carry rightward without a final pose.
+VFX SYSTEM: Red-cyan light smears, tape-bloom halos and flat geometric flash panels appear only in P06, P07 and P11, never covering faces or lip sync.
+SOUND: Use @[blackout video]  unchanged: four distinct female vocals, syncopated snares, 16th-note hi-hats, synth stabs, sub-bass drops and frame-drum pulse; preserve tape saturation and plate reverb.
+
+BEATS:
+P01: Low front 3/4 WS, track: exactly four performers; Vocal 1 leads in the crimson tunnel with cap taps and elbow punches while the other three dance behind her.
+P02: Dutch profile MCU, push: Vocal 2 dances alone in the cream-coral room through alternating shoulder switches.
+P03: High front 3/4 FS, crane: Vocal 3 dances alone on the rooftop and lands a fast heel-toe chain.
+P04: Ground frontal MLS, tilt: Vocal 4 dances alone in the silver workshop and drops into a wide weighted step.
+P05: Frontal WS, locked: exactly four performers form one diamond in the crimson tunnel and load crossed forearms on the selected snare.
+P06: High front 3/4 WS, pull: exactly the same four burst-cut to the cream-coral room, open their elbows and widen the diamond as coral-white panels flash, then vanish.
+P07: Low frontal WS, push: exactly the same four burst-cut to the rooftop and release into a low stance; red-cyan smears rise from four floor contacts, then dissolve.
+P08: Rear 3/4 WS, track: exactly the same four cut to the silver workshop; three torso hits break the diamond and each member enters her assigned lane.
+P09: Top-down WS, crane: exactly four complete bodies kick-cut to the matte-black moon stage, cross in one X, two front and two rear, then open into one line.
+P10: Dutch side FS, track: exactly four members travel screen right through the chorus hook; the only stutter repeats one motion slice, never people or body parts.
+P11: Low front 3/4 WS, push: exactly four members connect an arm wave, chest hit and stomp beneath the full moon; its tape-bloom halo swells clear of faces, then settles.
+P12: Front 3/4 WS, pull: exactly the same four turn clockwise and dance screen right as the world cools into a moon-blue horizon; cut in motion, no final pose.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-24775a8dc979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 动态图生视频音乐可视化工具
 
@@ -3528,60 +3562,6 @@ Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Li
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 可爱兔兔厨师动漫烹饪
-
-> 一段令人愉悦的第一人称视角动漫烹饪视频提示词，包含一只小兔子助手和一位厨师在温馨的粉彩风厨房里制作蓬松欧姆蛋的场景。
-
-[<img src="https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg" width="600" alt="可爱兔兔厨师动漫烹饪">](https://goodcase.ai/cases/case-3d49f00e65c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Jiade05 | **来源:** [原帖](https://x.com/Jiade05/status/2080643134011412961) | **发布:** 2026-07-24 | **热度:** -
-
-**稳定度：** 82/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.7 分) · [产物](https://media.goodcase.ai/retests/case-3d49f00e65c0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（32 行，点开展开）</b></summary>
-
-```
-Create a 15-second Ultra HD 4K anime cooking show POV video inspired exactly by the provided cute omelet recipe image.
-
-STYLE:
-Premium Japanese kawaii anime cooking commercial. Pastel pink/cream chibi kitchen, warm soft lighting, cozy magical breakfast mood, highly detailed food animation.
-
-POV:
-First-person chef perspective. Only show cute female hands and arms (no face, head, or body). Delicate hands with pastel pink nails and frilly chef sleeves. Pink checkered countertop, cinematic camera movement, macro food shots, shallow depth of field.
-
-RECIPE:
-Follow the reference omelet recipe:
-Crack 3 eggs, add 2 tbsp milk, salt and pepper, whisk fluffy. Melt butter in pan, pour eggs, add cheese, mushrooms, red tomatoes, and green herbs. Fold into a golden fluffy omelet and garnish with herbs.
-
-FOOD:
-Make it extremely delicious: soft airy egg texture, melted cheese stretch, glossy mushrooms, juicy tomatoes, fresh herbs, gentle steam, satisfying cooking sounds.
-
-BUNNY HELPER:
-Add a tiny fluffy white anime bunny chef wearing a mini chef hat and apron. Cute, clumsy, playful helper:
-tries carrying ingredients, drops a mushroom then fixes it, struggles with a spoon, helps sprinkle herbs, gives a tiny thumbs-up, happily hops beside the finished omelet. Cute mascot style, not realistic.
-
-SEQUENCE:
-0-5s: Female hands start cooking, crack eggs, bunny joins excitedly.
-5-10s: Whisk eggs, butter melts, omelet cooks with fillings and close-up sizzling shots.
-10-15s: Hands fold omelet, bunny celebrates, final hero shot of beautiful fluffy omelet with cozy sparkles.
-
-QUALITY:
-4K UHD 3840x2160, 24fps cinematic animation, smooth hand movement, premium anime rendering, crisp textures, beautiful lighting, cinematic depth of field.
-
-MOOD:
-Fluffy • Savory • Cute • Playful • Heartwarming • Cozy.
-
-NEGATIVE:
-No face, no full body, no realistic human, no scary bunny, no dark mood, no burnt food, no wrong ingredients, no extra fingers, no deformed hands, no distorted bunny, no text, no watermark, no blur.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3d49f00e65c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)

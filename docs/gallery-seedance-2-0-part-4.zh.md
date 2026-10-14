@@ -1,10 +1,64 @@
 # Seedance 2.0 — 全量案例（第 4/4 页）
 
-Seedance 2.0 全部 283 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 284 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 281–283 条，共 283 条。
+本页：第 281–284 条，共 284 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · **Part 4**
+
+### 可爱兔兔厨师动漫烹饪
+
+> 一段令人愉悦的第一人称视角动漫烹饪视频提示词，包含一只小兔子助手和一位厨师在温馨的粉彩风厨房里制作蓬松欧姆蛋的场景。
+
+[<img src="https://media.goodcase.ai/media/poster/case-3d49f00e65c0.jpg" width="600" alt="可爱兔兔厨师动漫烹饪">](https://goodcase.ai/cases/case-3d49f00e65c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Jiade05 | **来源:** [原帖](https://x.com/Jiade05/status/2080643134011412961) | **发布:** 2026-07-24 | **热度:** -
+
+**稳定度：** 82/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.7 分) · [产物](https://media.goodcase.ai/retests/case-3d49f00e65c0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（32 行，点开展开）</b></summary>
+
+```
+Create a 15-second Ultra HD 4K anime cooking show POV video inspired exactly by the provided cute omelet recipe image.
+
+STYLE:
+Premium Japanese kawaii anime cooking commercial. Pastel pink/cream chibi kitchen, warm soft lighting, cozy magical breakfast mood, highly detailed food animation.
+
+POV:
+First-person chef perspective. Only show cute female hands and arms (no face, head, or body). Delicate hands with pastel pink nails and frilly chef sleeves. Pink checkered countertop, cinematic camera movement, macro food shots, shallow depth of field.
+
+RECIPE:
+Follow the reference omelet recipe:
+Crack 3 eggs, add 2 tbsp milk, salt and pepper, whisk fluffy. Melt butter in pan, pour eggs, add cheese, mushrooms, red tomatoes, and green herbs. Fold into a golden fluffy omelet and garnish with herbs.
+
+FOOD:
+Make it extremely delicious: soft airy egg texture, melted cheese stretch, glossy mushrooms, juicy tomatoes, fresh herbs, gentle steam, satisfying cooking sounds.
+
+BUNNY HELPER:
+Add a tiny fluffy white anime bunny chef wearing a mini chef hat and apron. Cute, clumsy, playful helper:
+tries carrying ingredients, drops a mushroom then fixes it, struggles with a spoon, helps sprinkle herbs, gives a tiny thumbs-up, happily hops beside the finished omelet. Cute mascot style, not realistic.
+
+SEQUENCE:
+0-5s: Female hands start cooking, crack eggs, bunny joins excitedly.
+5-10s: Whisk eggs, butter melts, omelet cooks with fillings and close-up sizzling shots.
+10-15s: Hands fold omelet, bunny celebrates, final hero shot of beautiful fluffy omelet with cozy sparkles.
+
+QUALITY:
+4K UHD 3840x2160, 24fps cinematic animation, smooth hand movement, premium anime rendering, crisp textures, beautiful lighting, cinematic depth of field.
+
+MOOD:
+Fluffy • Savory • Cute • Playful • Heartwarming • Cozy.
+
+NEGATIVE:
+No face, no full body, no realistic human, no scary bunny, no dark mood, no burnt food, no wrong ingredients, no extra fingers, no deformed hands, no distorted bunny, no text, no watermark, no blur.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3d49f00e65c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 90 年代迪士尼风格森林动画
 

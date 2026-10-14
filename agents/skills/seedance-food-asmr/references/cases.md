@@ -225,7 +225,7 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 
 ## E6 · Preparing Garlic Stir-Fried Greens in a Rustic Kitchen
 
-- Seedance 2.5 · creator: @aynellex · heat: 56
+- Seedance 2.5 · creator: @aynellex · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22) · [finished media](https://media.goodcase.ai/cases/6f57966c625c.mp4) · [poster](https://media.goodcase.ai/cases/11f308ce415a.jpg) · [original source](https://x.com/aynellex/status/2105869869216342141)
 - Summary: A simple bunch of greens turns into a beautifully glossy, restaurant-style stir-fry. 🌿🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic 17…
 

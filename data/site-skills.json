@@ -271,126 +271,6 @@
       "cover": "https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg"
     },
     {
-      "slug": "epic-fantasy-scifi-spectacle",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "shared",
-      "title": {
-        "en": "Epic fantasy and sci-fi spectacle",
-        "zh": "奇幻科幻大场面"
-      },
-      "description": {
-        "en": "Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.",
-        "zh": "巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 85,
-      "creatorCount": 60,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
-      "cover": "https://media.goodcase.ai/cases/6fd55edc6509.webp"
-    },
-    {
-      "slug": "epic-fantasy-scifi-spectacle-by-1r2e570",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "creator_method",
-      "title": {
-        "en": "Zyrellix · Epic fantasy and sci-fi spectacle",
-        "zh": "Zyrellix · 奇幻科幻大场面"
-      },
-      "description": {
-        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 6 published cases by Zyrellix.",
-        "zh": "从 Zyrellix 的 6 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
-      },
-      "styleTag": null,
-      "creator": "Zyrellix",
-      "caseCount": 6,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570",
-      "cover": "https://media.goodcase.ai/cases/46f4c2c64145.jpg"
-    },
-    {
-      "slug": "epic-fantasy-scifi-spectacle-by-1napzjr",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "creator_method",
-      "title": {
-        "en": "laviniavelle · Epic fantasy and sci-fi spectacle",
-        "zh": "laviniavelle · 奇幻科幻大场面"
-      },
-      "description": {
-        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 4 published cases by laviniavelle.",
-        "zh": "从 laviniavelle 的 4 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
-      },
-      "styleTag": null,
-      "creator": "laviniavelle",
-      "caseCount": 4,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr",
-      "cover": "https://media.goodcase.ai/cases/2037ea91856a.jpg"
-    },
-    {
-      "slug": "epic-fantasy-scifi-spectacle-by-1g5goov",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "creator_method",
-      "title": {
-        "en": "AvelyrahnAI · Epic fantasy and sci-fi spectacle",
-        "zh": "AvelyrahnAI · 奇幻科幻大场面"
-      },
-      "description": {
-        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by AvelyrahnAI.",
-        "zh": "从 AvelyrahnAI 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
-      },
-      "styleTag": null,
-      "creator": "AvelyrahnAI",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov",
-      "cover": "https://media.goodcase.ai/cases/d0acac113279.jpg"
-    },
-    {
-      "slug": "epic-fantasy-scifi-spectacle-by-1sduwzc",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "creator_method",
-      "title": {
-        "en": "Strength04_X · Epic fantasy and sci-fi spectacle",
-        "zh": "Strength04_X · 奇幻科幻大场面"
-      },
-      "description": {
-        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by Strength04_X.",
-        "zh": "从 Strength04_X 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
-      },
-      "styleTag": null,
-      "creator": "Strength04_X",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc",
-      "cover": "https://media.goodcase.ai/cases/7cb039af9658.jpg"
-    },
-    {
-      "slug": "epic-fantasy-scifi-spectacle-by-uaxh44",
-      "baseSlug": "epic-fantasy-scifi-spectacle",
-      "kind": "creator_method",
-      "title": {
-        "en": "CharaspowerAI · Epic fantasy and sci-fi spectacle",
-        "zh": "CharaspowerAI · 奇幻科幻大场面"
-      },
-      "description": {
-        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by CharaspowerAI.",
-        "zh": "从 CharaspowerAI 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
-      },
-      "styleTag": null,
-      "creator": "CharaspowerAI",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44",
-      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44",
-      "cover": "https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg"
-    },
-    {
       "slug": "action-continuity-choreography",
       "baseSlug": "action-continuity-choreography",
       "kind": "shared",
@@ -404,7 +284,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 84,
+      "caseCount": 85,
       "creatorCount": 61,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
@@ -552,6 +432,126 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-d5g808",
       "cover": "https://media.goodcase.ai/cases/50f3546b5a07.jpg"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "shared",
+      "title": {
+        "en": "Epic fantasy and sci-fi spectacle",
+        "zh": "奇幻科幻大场面"
+      },
+      "description": {
+        "en": "Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.",
+        "zh": "巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 85,
+      "creatorCount": 60,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
+      "cover": "https://media.goodcase.ai/cases/6fd55edc6509.webp"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-1r2e570",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "Zyrellix · Epic fantasy and sci-fi spectacle",
+        "zh": "Zyrellix · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 6 published cases by Zyrellix.",
+        "zh": "从 Zyrellix 的 6 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "Zyrellix",
+      "caseCount": 6,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570",
+      "cover": "https://media.goodcase.ai/cases/46f4c2c64145.jpg"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-1napzjr",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "laviniavelle · Epic fantasy and sci-fi spectacle",
+        "zh": "laviniavelle · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 4 published cases by laviniavelle.",
+        "zh": "从 laviniavelle 的 4 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "laviniavelle",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr",
+      "cover": "https://media.goodcase.ai/cases/2037ea91856a.jpg"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-1g5goov",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "AvelyrahnAI · Epic fantasy and sci-fi spectacle",
+        "zh": "AvelyrahnAI · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by AvelyrahnAI.",
+        "zh": "从 AvelyrahnAI 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "AvelyrahnAI",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov",
+      "cover": "https://media.goodcase.ai/cases/d0acac113279.jpg"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-1sduwzc",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "Strength04_X · Epic fantasy and sci-fi spectacle",
+        "zh": "Strength04_X · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by Strength04_X.",
+        "zh": "从 Strength04_X 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "Strength04_X",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc",
+      "cover": "https://media.goodcase.ai/cases/7cb039af9658.jpg"
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-uaxh44",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "CharaspowerAI · Epic fantasy and sci-fi spectacle",
+        "zh": "CharaspowerAI · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by CharaspowerAI.",
+        "zh": "从 CharaspowerAI 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "CharaspowerAI",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44",
+      "cover": "https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg"
     },
     {
       "slug": "product-ad-shot-design",
