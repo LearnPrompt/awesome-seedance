@@ -6,40 +6,6 @@ Seedance 2.0 全部 284 条案例，按热度分排序。由 data/cases.json 生
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
 
-### 黏土定格迷你能多益咖啡馆
-
-> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
-
-[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="黏土定格迷你能多益咖啡馆">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MayaAiCreator | **来源:** [原帖](https://x.com/MayaAiCreator/status/2091397686104588650) | **发布:** 2026-08-23 | **热度:** 20
-
-**稳定度：** 77/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/mayaaicreator-seedance-ai-99e38c199ba8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（12 行，点开展开）</b></summary>
-
-```
-A prompt to recreate this stop-motion claymation style AI video:
-Seedance 2.0. 
-​Style & Aesthetics
-3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
-​Scene Sequence & Action
-​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
-​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
-​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
-​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
-​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
-​Technical Camera & Lighting
-Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 道士少女与巨人的山路追车
 
 > Incredible character visuals and dialogue that actually hits! 🎬🔥 Stop wasting tokens on endless prompt tweaks. Seedanc
@@ -126,6 +92,47 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 3D 烘焙动画序列
+
+> 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
+
+[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D 烘焙动画序列">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @HaniaAi12 | **来源:** [原帖](https://x.com/HaniaAi12/status/2076979039747920309) | **发布:** 2026-07-14 | **热度:** 19
+
+<details>
+<summary><b>完整 prompt（23 行，点开展开）</b></summary>
+
+```
+Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
+
+0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
+
+1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
+
+2.50–3.75s: She gently whisks the cupcake batter while smiling.
+
+3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
+
+5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
+
+6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
+
+7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
+
+8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
+
+Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
+
+Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
+
+Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 高端热带饮品 UGC 广告
 

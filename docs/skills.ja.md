@@ -18,9 +18,9 @@
 | [Action continuity choreography](#action-continuity-choreography) | 85 | 7 |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 85 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 4 |
-| [Cinematic travel montage](#travel-city-walk) | 61 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 62 | 5 |
 | [Animation style and character consistency](#animation-style-consistency) | 57 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 52 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 53 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 45 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 44 | 0 |
 | [Process and transformation story](#process-transformation-story) | 40 | 0 |
@@ -129,7 +129,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-40 人のクリエイターによる 61 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+40 人のクリエイターによる 62 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -166,7 +166,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-30 人のクリエイターによる 52 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+30 人のクリエイターによる 53 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -174,7 +174,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
 
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
-| Zarnab_with_Ai | Pets and animals as the lead | 14 | `npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Zarnab_with_Ai | Pets and animals as the lead | 15 | `npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ayzalnooor24521 | Pets and animals as the lead | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="retro-dv-home-video"></a>

@@ -1220,6 +1220,45 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-21-second-vertical-9-16-cinematic-stop-motion-animation-557fa2797476?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Summer Walk by Young Lovers in Rural West Java
+
+> Kalau yang tadi di hujat karna keliatan AI slop banget wkwkw karna pake model nya bukan seedance Coba kalau yang ini nih, apakah masih terlihat AI ? Gua bikin n…
+
+[<img src="https://media.goodcase.ai/cases/2967965aebb4.jpg" width="600" alt="A Summer Walk by Young Lovers in Rural West Java">](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @bozzxyz | **出典:** [元投稿](https://x.com/bozzxyz/status/2104217955521482833) | **公開日:** 2026-09-27 | **ヒート:** 84
+
+<details>
+<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
+
+```
+30-second, 1080p ultra-realistic early-2000s consumer DV home video in rural West Java, warm afternoon in Indonesia.
+
+REFERENCE 1: female character. Preserve face, ponytail, proportions, pink crop top, white shorts, white sneakers, bracelet and earrings.
+REFERENCE 2: raised Sundanese house. Preserve woven bamboo bilik walls, timber, tiled roof, veranda and stairs.
+
+Sundanese Indonesian woman, long dark ponytail, Male friend in simple early-2000s clothes. Keep both consistent.
+
+00–05 — She exits the bilik house, closes the door, sees him and greets him.
+05–10 — At a warung, she picks up a bottled drink, shows it and says, “I want this one.” He laughs as she pays.
+10–15 — she opens and drinks it. The sour taste makes her react, then she laughs with him.
+15–21 — They sit on the veranda. He moves her loose hair. She smiles: “Thank you.”
+21–26 — They walk a village lane among banana trees and houses. She steps into sunlight, feels the heat, moves into shade and laughs.
+26–30 — They return to the bilik house. On the veranda they share a brief natural kiss, smile, and she turns toward the house. She looks back once. Camera keeps recording; autofocus loses focus, sunlight washes frame, then hard-cuts to black.
+
+Raw early-2000s DV: handheld shake, imperfect framing, accidental zooms, autofocus hunting, exposure shifts, faded colors, soft detail, noise and motion blur. No stabilization or polished cinematography.
+
+Rural Sundanese atmosphere: bamboo walls, raised houses, tiled roofs, dirt paths, tropical trees and rice fields.
+
+Ambience: footsteps, birds, insects, leaves, distant motorcycles, voices, warung sounds, bottle opening laughter. No music, narration, subtitles, captions, watermark.
+
+Ultra-realistic skin, hair, hands, clothing and movement; tropical light, shadows, sweat and fabric physics. No CGI, distorted faces, extra fingers, duplicated people or artificial acting.!
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Rivals Clash on a Street Basketball Court
 
 > #Thalaivar & Mark Antony as basketball players in an epic cartoon showdown with #Jailer2 BGM. 🏀🔥 The style. The mannerisms. That iconic smile. 😎 🎥 Powered b…
@@ -2197,45 +2236,6 @@ Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male st
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-9-16-school-classroom-scene-758330c6bd34?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Summer Walk by Young Lovers in Rural West Java
-
-> Kalau yang tadi di hujat karna keliatan AI slop banget wkwkw karna pake model nya bukan seedance Coba kalau yang ini nih, apakah masih terlihat AI ? Gua bikin n…
-
-[<img src="https://media.goodcase.ai/cases/2967965aebb4.jpg" width="600" alt="A Summer Walk by Young Lovers in Rural West Java">](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @bozzxyz | **出典:** [元投稿](https://x.com/bozzxyz/status/2104217955521482833) | **公開日:** 2026-09-27 | **ヒート:** 83
-
-<details>
-<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
-
-```
-30-second, 1080p ultra-realistic early-2000s consumer DV home video in rural West Java, warm afternoon in Indonesia.
-
-REFERENCE 1: female character. Preserve face, ponytail, proportions, pink crop top, white shorts, white sneakers, bracelet and earrings.
-REFERENCE 2: raised Sundanese house. Preserve woven bamboo bilik walls, timber, tiled roof, veranda and stairs.
-
-Sundanese Indonesian woman, long dark ponytail, Male friend in simple early-2000s clothes. Keep both consistent.
-
-00–05 — She exits the bilik house, closes the door, sees him and greets him.
-05–10 — At a warung, she picks up a bottled drink, shows it and says, “I want this one.” He laughs as she pays.
-10–15 — she opens and drinks it. The sour taste makes her react, then she laughs with him.
-15–21 — They sit on the veranda. He moves her loose hair. She smiles: “Thank you.”
-21–26 — They walk a village lane among banana trees and houses. She steps into sunlight, feels the heat, moves into shade and laughs.
-26–30 — They return to the bilik house. On the veranda they share a brief natural kiss, smile, and she turns toward the house. She looks back once. Camera keeps recording; autofocus loses focus, sunlight washes frame, then hard-cuts to black.
-
-Raw early-2000s DV: handheld shake, imperfect framing, accidental zooms, autofocus hunting, exposure shifts, faded colors, soft detail, noise and motion blur. No stabilization or polished cinematography.
-
-Rural Sundanese atmosphere: bamboo walls, raised houses, tiled roofs, dirt paths, tropical trees and rice fields.
-
-Ambience: footsteps, birds, insects, leaves, distant motorcycles, voices, warung sounds, bottle opening laughter. No music, narration, subtitles, captions, watermark.
-
-Ultra-realistic skin, hair, hands, clothing and movement; tropical light, shadows, sweat and fabric physics. No CGI, distorted faces, extra fingers, duplicated people or artificial acting.!
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Journey Through Poland's Landscapes and Culture
 
@@ -4435,20 +4435,6 @@ Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-14-6-second-action-scene-featuring-a-powerful-anthropomorphi-ae5f2011beaa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Cinematic Day-in-the-Life Vlog Prompt
-
-> A thorough video prompt for an ultra-realistic life vlog following its subject from the morning wash through to night, holding character consistency across every scene.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-543a49303376.jpg" width="600" alt="Cinematic Day-in-the-Life Vlog Prompt">](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ElsaSofia__AI | **出典:** [元投稿](https://x.com/ElsaSofia__AI/status/2091345498909319528) | **公開日:** 2026-08-23 | **ヒート:** 64
-
-```
-DURATION: 20 seconds ASPECT RATIO: 16:9 STYLE: Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading. REFERENCE ASSIGNMENT: @IMG1 = FEMALE HERO / MAIN CHARACTER @IMG2 = BEDROOM / MORNING @IMG3 = KITCHEN / BREAKFAST @IMG4 = WORK / DESK @IMG5 = OUTDOOR / CAFÉ @IMG6 = EVENING / NIGHT Use @IMG1 as the strict identity reference throughout the entire video. CHARACTER CONSISTENCY: The same woman must appear in every scene. Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity. Do not change her identity between scenes. 0–3 SECONDS — MORNING Start in the bedroom using @IMG2. The woman wakes up naturally and sits on the edge of the bed. Soft morning sunlight enters through the window. She gently opens the curtains and looks toward the morning light. Camera begins with a medium-wide shot and smoothly pushes toward her. Peaceful morning atmosphere. 3–6 SECONDS — BREAKFAST Smooth cinematic transition to @IMG3. The same woman prepares a simple breakfast in the kitchen. She pours coffee or tea into a ceramic mug and places breakfast on the counter. Natural steam rises from the hot drink. She briefly looks toward the camera with a relaxed morning smile. Use a natural medium tracking shot. 6–10 SECONDS — WORK Transition to @IMG4. The same woman sits at her desk and works on her laptop. She types briefly, checks the screen and writes a few notes in her notebook. Natural productive expression. Camera moves slowly from a side angle toward a three-quarter view. Keep the environment realistic and calm. 10–14 SECONDS — OUTDOOR / CAFÉ Transition naturally to @IMG5. The same woman leaves home and walks through a beautiful modern city street toward an outdoor café. Camera smoothly tracks backward while she walks toward it. She arrives at the café, places her handbag beside the table and sits down. She smiles naturally toward the camera. Warm daylight and realistic city background. 14–17 SECONDS — CAFÉ MOMENT Close cinematic shot. She picks up her coffee/drink and takes a relaxed sip. Subtle background movement from distant pedestrians. Natural handheld lifestyle-vlog feeling. 17–20 SECONDS — NIGHT Transition to @IMG6. The same woman is back home in her cozy bedroom at night. She places her phone on the bedside table and relaxes after the day. She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile. Camera slowly pushes into a close-up. End on her calm expression with warm bedroom lighting and soft city-light bokeh. CUT TO BLACK. CAMERA PRIORITY: Keep the camera cinematic and natural. Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement. Avoid excessive camera shake. Keep the woman as the visual focus. Maintain realistic transitions between locations. FINAL RULES: Same female character throughout. Same face and identity throughout. Natural realistic human movement. Realistic lighting and shadows. Realistic clothing and hair movement. No face changes. No character duplication. No extra main characters. No cartoon or anime appearance. No fantasy effects. No excessive motion blur. No distorted hands. No text. No logos. No watermark. The overall feeling should be: A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life. Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference. Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance. Create the same woman as a realistic modern lifestyle vlogger. Show her with natural feminine proportions and realistic anatomy. CHARACTER PRESENTATION: Create a clean professional character sheet containing: 1. Full-body front view 2. Full-body 3/4 view 3. Full-body side view 4. Back view 5. Close-up face portrait 6. Natural smiling expression 7. Neutral expression 8. Casual standing pose Keep the exact same woman in every view. CLOTHING: Use a simple modern casual lifestyle outfit suitable for a daily vlog: a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear. Keep the outfit realistic, modest and natural. STYLE: Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors. The character should look like a real woman photographed for a professional lifestyle vlog. IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY. Do not change her face. Do not change her hairstyle. Do not masculinize her. Do not make her look like a different person. Do not create an anime or cartoon appearance. No fantasy styling. No text. No logo. No watermark. Clean neutral studio background. This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Gray Cat Triggers a Chaotic Kitchen Mishap
 
 > A tiny paw started the biggest kitchen disaster. Sometimes the cutest troublemakers make the funniest memories. Created on seedance 2.0 Prompt: Created a video,…
@@ -4484,6 +4470,20 @@ Negative Prompt: No CGI look, teleportation, floating objects, weightless equipm
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Cinematic Day-in-the-Life Vlog Prompt
+
+> A thorough video prompt for an ultra-realistic life vlog following its subject from the morning wash through to night, holding character consistency across every scene.
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-543a49303376.jpg" width="600" alt="Cinematic Day-in-the-Life Vlog Prompt">](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ElsaSofia__AI | **出典:** [元投稿](https://x.com/ElsaSofia__AI/status/2091345498909319528) | **公開日:** 2026-08-23 | **ヒート:** 63
+
+```
+DURATION: 20 seconds ASPECT RATIO: 16:9 STYLE: Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading. REFERENCE ASSIGNMENT: @IMG1 = FEMALE HERO / MAIN CHARACTER @IMG2 = BEDROOM / MORNING @IMG3 = KITCHEN / BREAKFAST @IMG4 = WORK / DESK @IMG5 = OUTDOOR / CAFÉ @IMG6 = EVENING / NIGHT Use @IMG1 as the strict identity reference throughout the entire video. CHARACTER CONSISTENCY: The same woman must appear in every scene. Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity. Do not change her identity between scenes. 0–3 SECONDS — MORNING Start in the bedroom using @IMG2. The woman wakes up naturally and sits on the edge of the bed. Soft morning sunlight enters through the window. She gently opens the curtains and looks toward the morning light. Camera begins with a medium-wide shot and smoothly pushes toward her. Peaceful morning atmosphere. 3–6 SECONDS — BREAKFAST Smooth cinematic transition to @IMG3. The same woman prepares a simple breakfast in the kitchen. She pours coffee or tea into a ceramic mug and places breakfast on the counter. Natural steam rises from the hot drink. She briefly looks toward the camera with a relaxed morning smile. Use a natural medium tracking shot. 6–10 SECONDS — WORK Transition to @IMG4. The same woman sits at her desk and works on her laptop. She types briefly, checks the screen and writes a few notes in her notebook. Natural productive expression. Camera moves slowly from a side angle toward a three-quarter view. Keep the environment realistic and calm. 10–14 SECONDS — OUTDOOR / CAFÉ Transition naturally to @IMG5. The same woman leaves home and walks through a beautiful modern city street toward an outdoor café. Camera smoothly tracks backward while she walks toward it. She arrives at the café, places her handbag beside the table and sits down. She smiles naturally toward the camera. Warm daylight and realistic city background. 14–17 SECONDS — CAFÉ MOMENT Close cinematic shot. She picks up her coffee/drink and takes a relaxed sip. Subtle background movement from distant pedestrians. Natural handheld lifestyle-vlog feeling. 17–20 SECONDS — NIGHT Transition to @IMG6. The same woman is back home in her cozy bedroom at night. She places her phone on the bedside table and relaxes after the day. She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile. Camera slowly pushes into a close-up. End on her calm expression with warm bedroom lighting and soft city-light bokeh. CUT TO BLACK. CAMERA PRIORITY: Keep the camera cinematic and natural. Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement. Avoid excessive camera shake. Keep the woman as the visual focus. Maintain realistic transitions between locations. FINAL RULES: Same female character throughout. Same face and identity throughout. Natural realistic human movement. Realistic lighting and shadows. Realistic clothing and hair movement. No face changes. No character duplication. No extra main characters. No cartoon or anime appearance. No fantasy effects. No excessive motion blur. No distorted hands. No text. No logos. No watermark. The overall feeling should be: A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life. Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference. Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance. Create the same woman as a realistic modern lifestyle vlogger. Show her with natural feminine proportions and realistic anatomy. CHARACTER PRESENTATION: Create a clean professional character sheet containing: 1. Full-body front view 2. Full-body 3/4 view 3. Full-body side view 4. Back view 5. Close-up face portrait 6. Natural smiling expression 7. Neutral expression 8. Casual standing pose Keep the exact same woman in every view. CLOTHING: Use a simple modern casual lifestyle outfit suitable for a daily vlog: a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear. Keep the outfit realistic, modest and natural. STYLE: Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors. The character should look like a real woman photographed for a professional lifestyle vlog. IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY. Do not change her face. Do not change her hairstyle. Do not masculinize her. Do not make her look like a different person. Do not create an anime or cartoon appearance. No fantasy styling. No text. No logo. No watermark. Clean neutral studio background. This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Celestial Palace MiniDV Tour
 

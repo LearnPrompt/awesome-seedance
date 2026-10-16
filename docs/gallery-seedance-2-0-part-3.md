@@ -6,47 +6,6 @@ This page: cases 195–277 of 284.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.md)
 
-### 3D Baking Animation Sequence
-
-> This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
-
-[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @HaniaAi12 | **Source:** [Original](https://x.com/HaniaAi12/status/2076979039747920309) | **Published:** 2026-07-14 | **Heat:** 20
-
-<details>
-<summary><b>Full prompt (23 lines, click to expand)</b></summary>
-
-```
-Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
-
-0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
-
-1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
-
-2.50–3.75s: She gently whisks the cupcake batter while smiling.
-
-3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
-
-5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
-
-6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
-
-7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
-
-8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
-
-Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
-
-Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
-
-Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Fingertips on a Rainy Car Window at Night
 
 > Rainy windows, blurred city lights, and quiet moments that somehow say everything without a single word. Created with se
@@ -185,6 +144,47 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 3D Baking Animation Sequence
+
+> This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
+
+[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @HaniaAi12 | **Source:** [Original](https://x.com/HaniaAi12/status/2076979039747920309) | **Published:** 2026-07-14 | **Heat:** 19
+
+<details>
+<summary><b>Full prompt (23 lines, click to expand)</b></summary>
+
+```
+Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
+
+0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
+
+1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
+
+2.50–3.75s: She gently whisks the cupcake batter while smiling.
+
+3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
+
+5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
+
+6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
+
+7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
+
+8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
+
+Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
+
+Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
+
+Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Premium Tropical Drink UGC Ad
 

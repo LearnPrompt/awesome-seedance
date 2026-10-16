@@ -215,7 +215,7 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 
 ## E5 · Warm Coffee Moments in a Modern Café
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 58
+- Seedance 2.0 · creator: @Lianaalane · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-this-cozy-cinematic-coffee-video-featuring-the-beautiful-atmosphere-of-14430e640031) · [finished media](https://media.goodcase.ai/cases/29b1140d0e36.mp4) · [poster](https://media.goodcase.ai/cases/a567712ff52d.jpg) · [original source](https://x.com/Lianaalane/status/2102330407404572896)
 - Summary: A little coffee magic, brought to life with AI. Cinematic visuals, cozy vibes, and the perfect coffee moment. Created on seedance 2.0 Prompt: Created this cozy …
 
@@ -225,7 +225,7 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 
 ## E6 · Preparing Garlic Stir-Fried Greens in a Rustic Kitchen
 
-- Seedance 2.5 · creator: @aynellex · heat: 57
+- Seedance 2.5 · creator: @aynellex · heat: 56
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22) · [finished media](https://media.goodcase.ai/cases/6f57966c625c.mp4) · [poster](https://media.goodcase.ai/cases/11f308ce415a.jpg) · [original source](https://x.com/aynellex/status/2105869869216342141)
 - Summary: A simple bunch of greens turns into a beautifully glossy, restaurant-style stir-fry. 🌿🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic 17…
 

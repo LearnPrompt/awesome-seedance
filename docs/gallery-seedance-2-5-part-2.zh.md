@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 2/7 页）
 
-Seedance 2.5 全部 550 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 552 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 84–167 条，共 550 条。
+本页：第 84–168 条，共 552 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
 
@@ -2895,6 +2895,23 @@ Keep the entire sequence fast, casual, spontaneous, and realistic, with natural 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 萌娃与爱犬闹厨房，爸爸踩香蕉皮滑倒
+
+> Made with seedance 2.5 Prompt 👇 Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romp…
+
+[<img src="https://media.goodcase.ai/cases/f6f7ba3e361b.jpg" width="600" alt="萌娃与爱犬闹厨房，爸爸踩香蕉皮滑倒">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2d09fa99a65e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2110558398492348605) | **发布:** 2026-10-15 | **热度:** 77
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romper, a beautiful mother in a white sweater, a father in a dark business suit, and a playful golden-brown dog. Inside a cozy modern home, the baby creates a funny mess in the kitchen, plays with toys, and giggles mischievously. The curious dog follows the baby around while the mother reacts with surprise and amusement. Suddenly, the distracted father enters while looking at his phone, accidentally slips on a banana peel, and falls harmlessly onto a soft mat. The baby bursts into laughter as the father makes an exaggerated shocked expression. End with the baby smiling innocently while the father looks confused. Maintain consistent character faces, clothing, and proportions, with expressive facial animations, realistic textures, smooth movements, cinematic lighting, and perfectly timed comedic sound effects. Pixar-style 3D animation, vertical 9:16, 1080p, family-friendly, high-quality rendering.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2d09fa99a65e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 末日幸存者与感染犬
 
 > 一段感人至深的多镜头电影化序列，描绘了一名幸存者在废弃豪宅中与一只感染犬的相遇，随后发生了一场充满希望的转变。
@@ -3758,80 +3775,6 @@ Negative prompt: animation, cartoon, anime, CGI appearance, unrealistic physics,
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 米奇耳女孩智取土耳其冰淇淋
-
-> POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
-
-[<img src="https://media.goodcase.ai/cases/e9b53af60cec.jpg" width="600" alt="米奇耳女孩智取土耳其冰淇淋">](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2096542775709692255) | **发布:** 2026-09-06 | **热度:** 74
-
-**稳定度：** 84/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (83.7 分) · [产物](https://media.goodcase.ai/retests/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（52 行，点开展开）</b></summary>
-
-```
-CHARACTER:
-A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
-A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
-
-0–3 SEC — ORDER
-Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
-
-The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
-The vendor prepares a cone with a scoop of ice cream and extends it toward her.
-
-3–6 SEC — THE FIRST TEASE
-Cut to a medium shot.
-
-The girl eagerly reaches for the cone.
-
-Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
-She looks at him in surprise.
-
-He smiles mischievously and offers it again.
-
-6–9 SEC — MORE TEASING
-She reaches again.
-
-The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
-
-The girl follows the cone, laughing and becoming increasingly determined.
-
-Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
-9–11 SEC — THE NOSE TRICK
-The vendor finally brings the ice cream toward her.
-
-She confidently leans forward, expecting to receive it.
-
-Instead, he gently places a small dab of ice cream on the tip of her nose.
-
-Close-up on her shocked expression.
-
-She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
-11–15 SEC — SHE WINS
-Before the vendor can tease her again, she quickly grabs the cone from the paddle.
-
-She successfully gets the ice cream.
-
-The vendor laughs and raises his hands in playful defeat.
-
-She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
-
-CINEMATOGRAPHY:
-Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
-
-IMPORTANT:
-Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 韩国束草渔村清晨探访
 
 > Made with seedance 2.5 Prompt: FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacati
@@ -4204,6 +4147,80 @@ Reveal an extraordinary mirrored.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-one-door-e2d76fbb7712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 米奇耳女孩智取土耳其冰淇淋
+
+> POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
+
+[<img src="https://media.goodcase.ai/cases/e9b53af60cec.jpg" width="600" alt="米奇耳女孩智取土耳其冰淇淋">](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2096542775709692255) | **发布:** 2026-09-06 | **热度:** 73
+
+**稳定度：** 84/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (83.7 分) · [产物](https://media.goodcase.ai/retests/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（52 行，点开展开）</b></summary>
+
+```
+CHARACTER:
+A young woman wearing a cute, stylish amusement-park outfit with a clearly visible Mickey Mouse ears headband. Keep the headband consistent throughout the entire video. She is excited, playful, and expressive.
+A cheerful Turkish ice cream vendor stands behind a traditional Turkish ice cream stall, holding a long metal ice cream paddle.
+
+0–3 SEC — ORDER
+Start with a cinematic wide shot of the colorful amusement park, then smoothly move toward the Turkish ice cream stall.
+
+The girl approaches the counter, smiling excitedly. Her Mickey Mouse ears headband is clearly visible. She points toward the ice cream.
+The vendor prepares a cone with a scoop of ice cream and extends it toward her.
+
+3–6 SEC — THE FIRST TEASE
+Cut to a medium shot.
+
+The girl eagerly reaches for the cone.
+
+Just as she is about to grab it, the vendor smoothly pulls the ice cream away with the long paddle.
+She looks at him in surprise.
+
+He smiles mischievously and offers it again.
+
+6–9 SEC — MORE TEASING
+She reaches again.
+
+The vendor smoothly moves the cone from left to right, then slightly upward, always just out of reach.
+
+The girl follows the cone, laughing and becoming increasingly determined.
+
+Keep the interaction fluid, realistic, and playful, with natural body movement and timing.
+9–11 SEC — THE NOSE TRICK
+The vendor finally brings the ice cream toward her.
+
+She confidently leans forward, expecting to receive it.
+
+Instead, he gently places a small dab of ice cream on the tip of her nose.
+
+Close-up on her shocked expression.
+
+She pauses, looks cross-eyed toward the ice cream on her nose, then looks back at the vendor with a playful annoyed expression.
+11–15 SEC — SHE WINS
+Before the vendor can tease her again, she quickly grabs the cone from the paddle.
+
+She successfully gets the ice cream.
+
+The vendor laughs and raises his hands in playful defeat.
+
+She proudly holds up the cone, smiles toward the camera, wipes the ice cream from her nose, and takes a happy bite.
+
+CINEMATOGRAPHY:
+Photorealistic live-action, premium cinematic quality, warm golden-hour lighting, natural skin texture, realistic facial expressions, shallow depth of field, soft background bokeh, subtle anamorphic lens characteristics, natural motion blur, smooth gimbal movement, cinematic push-ins and tracking shots, realistic amusement-park atmosphere.
+
+IMPORTANT:
+Keep the Mickey Mouse ears headband clearly visible and consistent throughout the scene. Maintain consistent faces, wardrobe, hairstyle, ice cream cone, vendor paddle, and environment. All movements must be smooth and physically realistic. No exaggerated cartoon movement, no 3D animation, no jerky motion, no teleporting, no object duplication, and no unnatural hand movements.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 酷热健身房里的双人训练
 
 > AC’s been dead since morning Two girls. One scorching gym session. Made with seedance 2.5 Prompt: Two young attractive E
@@ -4276,6 +4293,20 @@ No subtitles, no logos, no watermark, no cartoon style."
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 韩国女孩的海滨咖啡漫游
+
+> A little coffee, ocean breeze, and cinematic Korean vibes. Created on seedance 2.5 Prompt: Created a 25 second video, beautiful Korean girls, cinematic lifestyl…
+
+[<img src="https://media.goodcase.ai/cases/cb8831f8b4b7.jpg" width="600" alt="韩国女孩的海滨咖啡漫游">](https://goodcase.ai/cases/seedance-2-5-created-a-25-second-video-beautiful-korean-girls-cinematic-lifestyle-film-set-72a46c0e7206?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2110600258871013510) | **发布:** 2026-10-15 | **热度:** 72
+
+```
+Created a 25 second video, beautiful Korean girls, cinematic lifestyle film set in a beautiful coastal city, capturing the peaceful and aesthetic moments of everyday life. Begin with a warm, cozy coffee shop scene featuring a barista serving a takeaway coffee on a wooden counter, followed by a cinematic reflection of a young Korean woman standing near a large glass window with soft city lights reflecting across the glass. Show close-up shots of her walking along a busy urban street, focusing on her sneakers stepping across the pavement, then transition to a wide low-angle shot of her standing in front of a striking modern architectural building, wearing a stylish beige trench coat, carrying a black shoulder bag, and looking peacefully toward the sky. Capture intimate side-profile shots of her holding a coffee cup beside a window, with natural sunlight illuminating her face and soft shadows creating a moody atmosphere. Transition smoothly to a beautiful seaside promenade where she stands beside a metal railing, holding her coffee and gazing at the sparkling blue ocean as a large cruise ship moves slowly in the background. Continue with breathtaking golden-hour shots of a beautiful Korean girl sitting on a lush green grassy hill overlooking the ocean, her long dark brown hair moving gently in the sea breeze, wearing a relaxed beige outfit and holding a takeaway coffee cup. Capture natural facial expressions, subtle movements, candid moments, and elegant close-ups of her face as she turns toward the camera. End with an expansive cinematic wide shot of the green coastal landscape, calm blue water, distant islands, and a cruise ship sailing peacefully along the horizon, with the girl appearing small against the beautiful scenery. Use photorealistic visuals, cinematic composition, smooth camera movements, shallow depth of field, natural skin texture, soft film grain, realistic lighting, warm golden-hour tones, muted earthy colors, subtle lens flares, and premium Korean fashion editorial aesthetics. The overall mood should feel peaceful, dreamy, elegant, emotional, and authentic, like a high-end Korean lifestyle film shot on a professional cinema camera, with seamless transitions, realistic motion, beautiful environmental details, and no artificial-looking faces or exaggerated movements.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-created-a-25-second-video-beautiful-korean-girls-cinematic-lifestyle-film-set-72a46c0e7206?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雾林中的女子化身黑豹
 
@@ -4722,118 +4753,6 @@ Natural Seoul neighborhood ambience only — footsteps, children chatting, bicyc
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 骤雨中共伞的校园邂逅
-
-> Sometimes the best stories begin with a little rain. Created on seedance 2.5 Prompt: Create a 30-second photorealistic live-action American university romance v…
-
-[<img src="https://media.goodcase.ai/cases/e164d2cec497.jpg" width="600" alt="骤雨中共伞的校园邂逅">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2096832969453543579) | **发布:** 2026-09-07 | **热度:** 71
-
-**稳定度：** 82/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (82 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second photorealistic live-action American university romance vlog set during a sudden afternoon rainstorm. A young female student gets caught in heavy rain without an umbrella, until a male student kindly shares his black umbrella. They walk together through a realistic U.S. college campus, joking and slowly becoming comfortable with each other.
-
-They escape to a cozy campus café, share hot coffee beside a rain-covered window, and have a subtle moment of connection. As the rain stops, golden sunlight breaks through the clouds and they walk together across the wet campus.
-
-Modern 2026 cinematic coming-of-age style, natural American English dialogue, realistic rain, wet hair and clothing, umbrella physics, puddle reflections, authentic student behavior, handheld smartphone-style camera, natural expressions and subtle romance. No exaggerated acting, CGI, animation, subtitles, music or watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-american-university-romance-vlog-263053d16e49?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 工业工厂中的间谍激战
-
-> Fast-paced action, cinematic atmosphere, and intense visuals. I created this with Seedance 2.5 on @weryai Create yours h
-
-[<img src="https://media.goodcase.ai/media/poster/xaroon-x-seedance-ai-7d4e6854009a.jpg" width="600" alt="工业工厂中的间谍激战">](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2092873962640519385) | **发布:** 2026-08-27 | **热度:** 71
-
-<details>
-<summary><b>完整 prompt（26 行，点开展开）</b></summary>
-
-```
-REFERENCE / IDENTITY LOCK
-Use Reference Image 1 as the exact identity lock for the adult male spy. Preserve identical face, facial proportions, black hairstyle, skin tone, physique, outfit and accessories throughout. No identity or wardrobe changes.
-
-15-SECOND CINEMATIC ACTION — 24FPS, REAL-TIME
-Photorealistic Hollywood spy-action, ARRI Alexa Mini, 27mm spherical lens, 4K, 24fps, realistic physics, sharp cinematic film grain, aggressive handheld camera, dynamic tracking, whip-pans, low-angle combat shots and realistic motion blur. 9:16 vertical.
-
-ENVIRONMENT
-Continue inside the same oil-soaked industrial factory. Thick smoke, flickering cyan-white fluorescent lights, sparks, steam bursts, broken glass, damaged machinery, oil-covered concrete, fallen enemies, barrels, conveyor belts, steel columns, overhead crane and elevated platforms. Maintain perfect continuity.
-
-0–4 SEC: Immediately after the final gunshot, two armed reinforcements burst through a steel security door while another enemy rappels from an overhead crane. The spy instantly sprints forward, steps onto a fallen crate and launches into a flying side kick, crushing Enemy 6 into the steel door. He seamlessly follows with a spinning tornado kick, knocking Enemy 7 from the rappel line into stacked barrels.
-
-4–7 SEC: Enemy 8 opens automatic fire. The spy rolls underneath the gunfire, draws a combat knife with his left hand, slashes the weapon arm and disarms him. He traps the wrist, pivots with precise Kung Fu footwork, throws Enemy 8 over his shoulder and finishes with a powerful downward axe kick.
-
-7–10 SEC: Warning alarms activate as a heavily armored operative with a ballistic shield charges. The spy sprints toward him, rebounds from a steel column, performs a short wall-run and launches an aerial bicycle kick, knocking the shield upward. He lands behind the operative, executes a rapid arm lock, elbows, knees and spinning back kick, sending him through a steel railing onto the lower floor.
-
-10–13 SEC: Enemies on elevated platforms open fire. The spy dives behind a moving conveyor, slides underneath it and fires four rapid tactical shots through narrow openings, eliminating two attackers. He emerges, grabs a hanging industrial chain, swings across a machinery gap and launches a flying double-foot kick into the final attacker, smashing him through reinforced safety glass.
-
-13–15 SEC: The spy lands in a controlled three-point stance. Red emergency lights replace the fluorescent lighting. A massive fuel pipeline ruptures behind him, creating a realistic towering wall of fire. Without looking back, he calmly turns toward a dark industrial corridor. Brief cinematic push-in, then hard cut to black at 15 seconds.
-
-CAMERA / LIGHTING: Aggressive handheld shaky-cam, fast dolly tracking, rapid whip-pans, dynamic low angles, close over-the-shoulder shots, realistic camera inertia. Cyan-white industrial lighting transitions into flashing red emergency lights and realistic orange fire illumination. Dense smoke, sparks, steam, muzzle flashes and realistic debris.
-
-PHYSICS: Grounded Kung Fu choreography, realistic human weight, momentum, impacts and ragdoll behavior. No wire-fu or superhero movement. Weapons and bodies remain physically consistent.
-
-NEGATIVE PROMPT: No slow motion, time-lapse, bullet-time, dreamy effects, superhero movement, unrealistic physics, exaggerated wire-fu, impossible parkour, poor anatomy, distorted face, identity changes, wardrobe changes, CGI artifacts, jitter, ghosting, duplicated limbs, weapon clipping, teleportation, unrealistic explosions, fake glass destruction, continuity errors or video-game movement.
-
-FINAL: 15 seconds, 9:16, 24fps, 4K, photorealistic Hollywood action, cinematic realism, sharp film grain.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/xaroon-x-seedance-ai-7d4e6854009a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 阳光下的清新洗衣日
-
-> Just a peaceful laundry day. Fresh clothes, fresh air, good vibes. Created with Seedance 2.5 Prompt: Create a 30-second
-
-[<img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="600" alt="阳光下的清新洗衣日">](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CaliraVal | **来源:** [原帖](https://x.com/CaliraVal/status/2091386310837862772) | **发布:** 2026-08-23 | **热度:** 71
-
-**稳定度：** 70/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（24 行，点开展开）</b></summary>
-
-```
-Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
-
-0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
-Voiceover: “Laundry day starts with one simple step.”
-
-5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
-Voiceover: “I just load all my clothes into the washing machine…”
-
-10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
-Voiceover: “…add my detergent…”
-
-13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
-Voiceover: “…and let the machine do the work.”
-
-17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
-Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
-
-22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
-Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
-
-28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
-Voiceover: “Clean, fresh, and ready to wear.”
-
-Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 古罗马角斗士在竞技场逆转获胜
 
 > One warrior, one arena, one fight for glory. Experience epic gladiator battles, cinematic action, and realistic visuals with Seedance 2.5 on @ImagineArt_X Promp…
@@ -4951,6 +4870,90 @@ A beautiful Korean girl in a realistic cinematic lifestyle vlog, starting inside
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-girl-in-a-realistic-cinematic-lifestyle-vlog-starting-insid-560e08eabe90?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 电影感湿货市场洪水逃生
+
+> 一个高度精细的电影级动作提示词，描绘了一名女性在暴雨中穿过被洪水淹没的亚洲湿货市场的生存场景。
+
+[<img src="https://media.goodcase.ai/media/poster/case-198b3f3748b3.jpg" width="600" alt="电影感湿货市场洪水逃生">](https://goodcase.ai/cases/case-198b3f3748b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2091036019076272229) | **发布:** 2026-08-22 | **热度:** 70
+
+**稳定度：** 79/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.4 分) · [产物](https://media.goodcase.ai/retests/case-198b3f3748b3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（17 行，点开展开）</b></summary>
+
+```
+Create a highly cinematic, realistic action sequence inside a crowded traditional Asian wet market during heavy rain and flooding. A young Asian woman with long dark wet hair, wearing a pink waterproof rain suit and black rubber boots, runs rapidly through the narrow market aisles while trying to escape from a massive rushing wave of water behind her.
+
+The market is packed with seafood and vegetable stalls, plastic crates, fish tanks, metal counters, hanging tarps, fluorescent ceiling lights, vendors and crowds. The floor is completely flooded with ankle-to-knee-deep dirty rainwater, creating strong reflections and splashes everywhere. Water violently rushes through the market, knocking over crates and flooding the stalls.
+
+Start with a close-up tracking shot of the frightened woman looking back over her shoulder while running. Follow her with a fast handheld camera as she runs through the narrow aisle. Use dynamic low-angle shots close to the water, capturing her boots hitting the flooded floor and creating dramatic splashes. Show water crashing through the market behind her, people running in panic, overturned crates floating in the water, and objects being swept away.
+
+Use realistic physics, natural human movement, detailed wet clothing, wet hair sticking to her face, realistic water droplets, splashes, reflections and motion blur. The camera should move dynamically with fast tracking shots, low-angle shots, side tracking shots and occasional wide shots revealing the scale of the flooding.
+
+At one point, show the woman jumping over obstacles and running across a market counter/raised surface while the floodwater continues rushing behind her. Keep her appearance, hairstyle, pink outfit and facial features consistent throughout the entire sequence.
+
+Dark cinematic atmosphere, overcast rainy lighting, cool blue-gray tones mixed with warm fluorescent market lights, dramatic contrast, realistic skin texture, photorealistic environment, volumetric lighting, atmospheric mist, cinematic depth of field, subtle film grain, high-detail textures, realistic reflections and physically accurate water simulation.
+
+The sequence should feel like a high-budget survival/action movie, extremely immersive and intense, with realistic camera shake and fast-paced movement.
+
+Add large cinematic white brush-stroke typography reading “RUN” briefly across the center of the screen during the action sequence.
+
+Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realistic physics, natural motion, 4K film quality, anamorphic lens look, dynamic composition, dramatic pacing, no cartoon look, no CGI appearance, no distorted anatomy, no extra fingers, no duplicated people, no face changes.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-198b3f3748b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 手工烘焙坊电影感商业广告
+
+> 一份为高端烘焙坊定制的 30 秒商业广告提示词，聚焦于糕点制作过程与产品展示，呈现奢华的美学质感。
+
+[<img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="600" alt="手工烘焙坊电影感商业广告">](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithAliya | **来源:** [原帖](https://x.com/AIwithAliya/status/2090780603872624826) | **发布:** 2026-08-21 | **热度:** 70
+
+**稳定度：** 67/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66.7 分) · [产物](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（23 行，点开展开）</b></summary>
+
+```
+follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
+
+Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
+
+0–6s  
+Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
+
+6–11s  
+Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
+
+11–16s  
+Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
+
+16–22s  
+Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
+
+22–26s  
+A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
+
+26–30s  
+Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
+
+Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)

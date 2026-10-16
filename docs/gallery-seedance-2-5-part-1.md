@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 1/7)
 
-All 550 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 552 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 1–83 of 550.
+This page: cases 1–83 of 552.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md)
 
@@ -3292,42 +3292,13 @@ The finished video should feel like a realistic, cozy smartphone vlog from a cat
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Lavender-Haired Girl Leaps Through a Pool Wave
-
-> Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
-
-[<img src="https://media.goodcase.ai/cases/5b534bd92cd2.jpg" width="600" alt="Lavender-Haired Girl Leaps Through a Pool Wave">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zoyavelle | **Source:** [Original](https://x.com/Zoyavelle/status/2100089287345951159) | **Published:** 2026-09-16 | **Heat:** 87
-
-**Stability:** 83/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.9) · [output](https://media.goodcase.ai/retests/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gray school-style blazer, white shirt with a blue bow tie, dark pleated skirt, white knee-high socks and black shoes, stands in the middle of a swimming pool surrounded by several young female swimmers wearing dark navy one-piece swimsuits.
-
-The scene begins with the lavender-haired girl standing face-to-face with a group of swimmers in a large indoor aquatic center, with tiled walls, industrial ceiling lights and a dramatic cool blue-gray color palette. Suddenly she moves through the shallow swimming pool as a massive wave of water crashes around her. She runs and jumps through the water with energetic, playful movement while the other swimmers react with surprise and excitement.
-
-Huge realistic water splashes, powerful waves, water droplets flying through the air, realistic wet surfaces, dynamic motion, cinematic slow-motion moments, natural human movement, detailed facial expressions, realistic skin and wet clothing, atmospheric mist and water spray.
-
-Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Wizard's Ten-Second Escape Plan: Become a Duck
 
 > A seven-beat, second-by-second storyboard (hook, spell, countdown, magic burst, twist, reaction, punchline) for a 30-second Seedance 2.5 comedy where a wizard escapes a charging monster by turning herself into a duck. The timed structure is easy to reuse.
 
 [<img src="https://media.goodcase.ai/cases/15792e0fa5ef.jpg" width="600" alt="A Wizard's Ten-Second Escape Plan: Become a Duck">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @AIwithNatalia | **Source:** [Original](https://x.com/AIwithNatalia/status/2089170554725265625) | **Published:** 2026-08-17 | **Heat:** 87
+**Author:** @AIwithNatalia | **Source:** [Original](https://x.com/AIwithNatalia/status/2089170554725265625) | **Published:** 2026-08-17 | **Heat:** 88
 
 **Stability:** 73/100
 
@@ -3370,6 +3341,35 @@ End text:
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Lavender-Haired Girl Leaps Through a Pool Wave
+
+> Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
+
+[<img src="https://media.goodcase.ai/cases/5b534bd92cd2.jpg" width="600" alt="Lavender-Haired Girl Leaps Through a Pool Wave">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zoyavelle | **Source:** [Original](https://x.com/Zoyavelle/status/2100089287345951159) | **Published:** 2026-09-16 | **Heat:** 87
+
+**Stability:** 83/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.9) · [output](https://media.goodcase.ai/retests/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (7 lines, click to expand)</b></summary>
+
+```
+Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gray school-style blazer, white shirt with a blue bow tie, dark pleated skirt, white knee-high socks and black shoes, stands in the middle of a swimming pool surrounded by several young female swimmers wearing dark navy one-piece swimsuits.
+
+The scene begins with the lavender-haired girl standing face-to-face with a group of swimmers in a large indoor aquatic center, with tiled walls, industrial ceiling lights and a dramatic cool blue-gray color palette. Suddenly she moves through the shallow swimming pool as a massive wave of water crashes around her. She runs and jumps through the water with energetic, playful movement while the other swimmers react with surprise and excitement.
+
+Huge realistic water splashes, powerful waves, water droplets flying through the air, realistic wet surfaces, dynamic motion, cinematic slow-motion moments, natural human movement, detailed facial expressions, realistic skin and wet clothing, atmospheric mist and water spray.
+
+Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Macro Time-Lapse: Ten Seconds of Germination
 
@@ -4362,6 +4362,118 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance Sixty-Second Gym Day-in-the-Life Vlog
+
+> Come spend a gym day with me 🎥🤍 Created with Seedance 2.5 on @Flovaai Prompt: Create a 60-second realistic day-in-the-
+
+[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="600" alt="Seedance Sixty-Second Gym Day-in-the-Life Vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ZaraIrahh | **Source:** [Original](https://x.com/ZaraIrahh/status/2089569072526823464) | **Published:** 2026-08-18 | **Heat:** 85
+
+**Stability:** 70/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70.3) · [output](https://media.goodcase.ai/retests/zarairahh-seedance-ai-3f362e9e352b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (90 lines, click to expand)</b></summary>
+
+```
+Create a 60-second realistic day-in-the-life gym vlog following the same young Korean woman in her early twenties from waking up at home, getting ready, going to the gym, working out, and returning home.
+
+Overall visual style
+
+One continuous handheld front-facing smartphone selfie vlog perspective. She always films herself with the phone in her own hand at arm’s length. No third-person camera, tripod, cinematic camera movements, drones, or external filming.
+
+Make everything look like authentic modern smartphone footage:
+
+- Natural handheld shake and small framing imperfections
+- Realistic walking movement and occasional autofocus hunting
+- Minor exposure changes
+- Natural front-camera lens distortion
+- Soft natural morning light indoors and outdoors
+- Realistic, unfiltered smartphone colors
+- No beauty filter, skin smoothing, or cinematic color grading
+- Same face and hair throughout the entire vlog
+- Natural expressions, movements, and body language
+- No subtitles, captions, logos, watermarks, or on-screen text
+- No background music; use only natural diegetic sound
+
+0–10 sec — Waking up
+
+She wakes up in her cozy bedroom wearing a cute, loose casual night suit. She grabs her phone from beside the bed and immediately starts filming herself selfie-style. She looks sleepy, messy-haired, and slightly tired, gives a small yawn, stretches, and smiles at the camera.
+
+She quietly says:
+
+“Good morning… I really don’t feel like going to the gym today.”
+
+She gets out of bed and walks toward the bathroom while holding the phone herself.
+
+10–18 sec — Brushing teeth
+
+In the bathroom, she films herself in the mirror/selfie view while brushing her teeth. Keep it casual and imperfect, with realistic bathroom ambience and running-water sounds.
+
+She briefly looks into the camera with a sleepy expression, then rinses her mouth and smiles.
+
+She says:
+
+“But I promised myself I’d go, so… let’s do it.”
+
+18–27 sec — Getting ready
+
+Quick natural transition back to her bedroom. She changes from her night suit into a stylish but realistic gym outfit: fitted athletic top, high-waisted leggings or comfortable athletic bottoms, clean sneakers, and minimal accessories.
+
+Show short selfie moments of her fixing her hair, adjusting her gym outfit, grabbing a water bottle and gym bag.
+
+She looks into the phone and says:
+
+“Okay, now I actually look ready.”
+
+27–35 sec — Going to the gym
+
+She leaves home with the phone in her hand. Film brief selfie moments while walking outside and naturally bouncing with her steps. Show quick glimpses of the street, morning traffic, buildings, and her gym bag.
+
+She arrives at the gym and turns the phone slightly to show the entrance before bringing it back to her face.
+
+Natural street and gym ambience only.
+
+35–52 sec — Workout
+
+Inside the gym, she starts with a short warm-up on a treadmill, then moves through a few exercises such as light strength training, squats, dumbbell exercises, and stretching.
+
+Keep the camera mostly front-facing and handheld, occasionally tilting naturally toward the equipment before returning to her face.
+
+She becomes slightly sweaty and out of breath but stays cheerful. She laughs and says:
+
+“Okay… this is harder than I remembered.”
+
+She takes a quick drink of water, catches her breath, then gives the camera a satisfied smile and continues her workout.
+
+Include realistic sounds of footsteps, treadmill movement, weights clanking, machines, distant conversations, and gym room tone.
+
+52–60 sec — Returning home
+
+After finishing her workout, she leaves the gym and walks home. She looks pleasantly exhausted but happy.
+
+Cut naturally to her back at home, still holding the phone. She drops her gym bag down, takes a drink of water, relaxes on the couch or bed, and looks into the camera with a tired smile.
+
+She gives a small wave and says:
+
+“Workout done. I’m exhausted… but I’m glad I went.”
+
+She smiles, gives one final sleepy wave, and lowers the phone for a natural ending.
+
+Final requirements
+
+Keep the entire vlog fast, spontaneous, cozy, and realistic, with natural transitions between locations. The woman must remain visually consistent throughout: same facial identity, same hair, and realistic appearance. Her outfit changes only once, from the casual night suit to the gym outfit.
+
+All dialogue must be naturally spoken with visible lip movement. Use only diegetic audio—bedroom ambience, bathroom sounds, footsteps, street noise, gym sounds, water bottle sounds, and home ambience. No music, captions, subtitles, logos, watermarks, or cinematic effects.
+#Flovaai #Flovacpp
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Woman Changes Outfits on a Persian Rug Beneath a Ceiling Fan
 
 > Made with seedance 2.5 Prompt: A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living…
@@ -4703,118 +4815,6 @@ Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance Sixty-Second Gym Day-in-the-Life Vlog
-
-> Come spend a gym day with me 🎥🤍 Created with Seedance 2.5 on @Flovaai Prompt: Create a 60-second realistic day-in-the-
-
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="600" alt="Seedance Sixty-Second Gym Day-in-the-Life Vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ZaraIrahh | **Source:** [Original](https://x.com/ZaraIrahh/status/2089569072526823464) | **Published:** 2026-08-18 | **Heat:** 84
-
-**Stability:** 70/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70.3) · [output](https://media.goodcase.ai/retests/zarairahh-seedance-ai-3f362e9e352b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (90 lines, click to expand)</b></summary>
-
-```
-Create a 60-second realistic day-in-the-life gym vlog following the same young Korean woman in her early twenties from waking up at home, getting ready, going to the gym, working out, and returning home.
-
-Overall visual style
-
-One continuous handheld front-facing smartphone selfie vlog perspective. She always films herself with the phone in her own hand at arm’s length. No third-person camera, tripod, cinematic camera movements, drones, or external filming.
-
-Make everything look like authentic modern smartphone footage:
-
-- Natural handheld shake and small framing imperfections
-- Realistic walking movement and occasional autofocus hunting
-- Minor exposure changes
-- Natural front-camera lens distortion
-- Soft natural morning light indoors and outdoors
-- Realistic, unfiltered smartphone colors
-- No beauty filter, skin smoothing, or cinematic color grading
-- Same face and hair throughout the entire vlog
-- Natural expressions, movements, and body language
-- No subtitles, captions, logos, watermarks, or on-screen text
-- No background music; use only natural diegetic sound
-
-0–10 sec — Waking up
-
-She wakes up in her cozy bedroom wearing a cute, loose casual night suit. She grabs her phone from beside the bed and immediately starts filming herself selfie-style. She looks sleepy, messy-haired, and slightly tired, gives a small yawn, stretches, and smiles at the camera.
-
-She quietly says:
-
-“Good morning… I really don’t feel like going to the gym today.”
-
-She gets out of bed and walks toward the bathroom while holding the phone herself.
-
-10–18 sec — Brushing teeth
-
-In the bathroom, she films herself in the mirror/selfie view while brushing her teeth. Keep it casual and imperfect, with realistic bathroom ambience and running-water sounds.
-
-She briefly looks into the camera with a sleepy expression, then rinses her mouth and smiles.
-
-She says:
-
-“But I promised myself I’d go, so… let’s do it.”
-
-18–27 sec — Getting ready
-
-Quick natural transition back to her bedroom. She changes from her night suit into a stylish but realistic gym outfit: fitted athletic top, high-waisted leggings or comfortable athletic bottoms, clean sneakers, and minimal accessories.
-
-Show short selfie moments of her fixing her hair, adjusting her gym outfit, grabbing a water bottle and gym bag.
-
-She looks into the phone and says:
-
-“Okay, now I actually look ready.”
-
-27–35 sec — Going to the gym
-
-She leaves home with the phone in her hand. Film brief selfie moments while walking outside and naturally bouncing with her steps. Show quick glimpses of the street, morning traffic, buildings, and her gym bag.
-
-She arrives at the gym and turns the phone slightly to show the entrance before bringing it back to her face.
-
-Natural street and gym ambience only.
-
-35–52 sec — Workout
-
-Inside the gym, she starts with a short warm-up on a treadmill, then moves through a few exercises such as light strength training, squats, dumbbell exercises, and stretching.
-
-Keep the camera mostly front-facing and handheld, occasionally tilting naturally toward the equipment before returning to her face.
-
-She becomes slightly sweaty and out of breath but stays cheerful. She laughs and says:
-
-“Okay… this is harder than I remembered.”
-
-She takes a quick drink of water, catches her breath, then gives the camera a satisfied smile and continues her workout.
-
-Include realistic sounds of footsteps, treadmill movement, weights clanking, machines, distant conversations, and gym room tone.
-
-52–60 sec — Returning home
-
-After finishing her workout, she leaves the gym and walks home. She looks pleasantly exhausted but happy.
-
-Cut naturally to her back at home, still holding the phone. She drops her gym bag down, takes a drink of water, relaxes on the couch or bed, and looks into the camera with a tired smile.
-
-She gives a small wave and says:
-
-“Workout done. I’m exhausted… but I’m glad I went.”
-
-She smiles, gives one final sleepy wave, and lowers the phone for a natural ending.
-
-Final requirements
-
-Keep the entire vlog fast, spontaneous, cozy, and realistic, with natural transitions between locations. The woman must remain visually consistent throughout: same facial identity, same hair, and realistic appearance. Her outfit changes only once, from the casual night suit to the gym outfit.
-
-All dialogue must be naturally spoken with visible lip movement. Use only diegetic audio—bedroom ambience, bathroom sounds, footsteps, street noise, gym sounds, water bottle sounds, and home ambience. No music, captions, subtitles, logos, watermarks, or cinematic effects.
-#Flovaai #Flovacpp
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Nano Banana + Seedance 2.5 High School First Love Film
 

@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 7/7 页）
 
-Seedance 2.5 全部 550 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 552 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 524–550 条，共 550 条。
+本页：第 526–552 条，共 552 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · **Part 7**
 
@@ -463,112 +463,6 @@ Seedance 2.5 prompt 👇
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 2.5 涩谷街头K-pop舞蹈同步字幕
-
-> Seedance 2.5 生成的涩谷街头K-pop快闪翻跳视频，四名舞者依次变换菱形、横排、V字三种队形完成舞蹈段落。画面叠加与舞点精确同步的复古大字字幕，逐句随节拍淡入淡出。
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 15
-
-**稳定度：** 73/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.2 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（46 行，点开展开）</b></summary>
-
-```
-30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
-Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
-TYPOGRAPHY STYLE
-Font: bold condensed display, poster-style
-Placement: upper third or side margin, never covering faces or hands
-Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
-Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
-One line active on screen at a time
-SCENE & LOCATION
-Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
-FRAME & CAMERA
-Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
-CHARACTERS — EXACTLY 4 DANCERS
-RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
-YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
-SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
-MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
-No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
-TIMELINE WITH SYNCED TYPOGRAPHY
-0–6s — OPENING DIAMOND
-RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
-Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
-6–10s — RINA HIGHLIGHT
-RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
-Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
-10–14s — DIAMOND → HORIZONTAL LINE
-Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
-Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
-14–19s — HORIZONTAL LINE CHORUS
-Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
-Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
-19–23s — RETURN TO DIAMOND + RIPPLE
-Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
-Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
-23–27s — FINAL CHORUS
-Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
-Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
-27–30s — FINAL V FORMATION + FREEZE
-RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
-Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
-VISUAL STYLE
-Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
-STRICT NEGATIVE REQUIREMENTS
-No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
-FINAL OUTPUT
-30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 咖啡机竖屏UGC广告
-
-> Seedance 2.5 生成的竖屏咖啡机UGC广告，创作者从开箱、注水磨豆到出品试饮完整走一遍产品使用流程，中间穿插台词。分镜按秒数安排特写与转场，模拟真实博主口播带货的镜头语言。
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SadiaMalik182 | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 15
-
-**稳定度：** 77/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（16 行，点开展开）</b></summary>
-
-```
-Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
-Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
-Scene 1 (0–5s)
-A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
-Scene 2 (5–10s)
-Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
-Scene 3 (10–17s)
-Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
-Scene 4 (17–23s)
-The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
-Scene 5 (23–27s)
-Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
-Scene 6 (27–30s)
-Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
-Requirements:
-Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Seedance 2.5 太阳镜UGC测评口播视频
 
 > Seedance 2.5 生成的太阳镜UGC测评口播视频，女主角在卧室开箱、试戴并对镜展示细节，全程配台词描述佩戴体验。人物与产品均锁定参考图外观，手持运镜模拟真实博主测评的拍摄质感。
@@ -778,6 +672,112 @@ Constraints:
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 涩谷街头K-pop舞蹈同步字幕
+
+> Seedance 2.5 生成的涩谷街头K-pop快闪翻跳视频，四名舞者依次变换菱形、横排、V字三种队形完成舞蹈段落。画面叠加与舞点精确同步的复古大字字幕，逐句随节拍淡入淡出。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 14
+
+**稳定度：** 73/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.2 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（46 行，点开展开）</b></summary>
+
+```
+30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
+Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
+TYPOGRAPHY STYLE
+Font: bold condensed display, poster-style
+Placement: upper third or side margin, never covering faces or hands
+Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
+Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
+One line active on screen at a time
+SCENE & LOCATION
+Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
+FRAME & CAMERA
+Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
+CHARACTERS — EXACTLY 4 DANCERS
+RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
+YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
+SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
+MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
+No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
+TIMELINE WITH SYNCED TYPOGRAPHY
+0–6s — OPENING DIAMOND
+RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
+Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
+6–10s — RINA HIGHLIGHT
+RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
+Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
+10–14s — DIAMOND → HORIZONTAL LINE
+Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
+Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
+14–19s — HORIZONTAL LINE CHORUS
+Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
+Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
+19–23s — RETURN TO DIAMOND + RIPPLE
+Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
+Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
+23–27s — FINAL CHORUS
+Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
+Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
+27–30s — FINAL V FORMATION + FREEZE
+RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
+Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
+VISUAL STYLE
+Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
+STRICT NEGATIVE REQUIREMENTS
+No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
+FINAL OUTPUT
+30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 咖啡机竖屏UGC广告
+
+> Seedance 2.5 生成的竖屏咖啡机UGC广告，创作者从开箱、注水磨豆到出品试饮完整走一遍产品使用流程，中间穿插台词。分镜按秒数安排特写与转场，模拟真实博主口播带货的镜头语言。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SadiaMalik182 | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 14
+
+**稳定度：** 77/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（16 行，点开展开）</b></summary>
+
+```
+Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
+Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
+Scene 1 (0–5s)
+A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
+Scene 2 (5–10s)
+Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
+Scene 3 (10–17s)
+Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
+Scene 4 (17–23s)
+The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
+Scene 5 (23–27s)
+Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
+Scene 6 (27–30s)
+Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
+Requirements:
+Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 夜街橡胶脸搞怪变形
 

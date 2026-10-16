@@ -1,10 +1,292 @@
 # Seedance 2.5 — Full Gallery (Part 6/7)
 
-All 550 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 552 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 451–521 of 550.
+This page: cases 451–521 of 552.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · **Part 6** · [Part 7](./gallery-seedance-2-5-part-7.md)
+
+### A Rainy Journey Across New Zealand’s Coast
+
+> Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand Made with Seedance 2.5 Prompt ↓ [GENERATION GOAL] 30-second cinematic …
+
+[<img src="https://media.goodcase.ai/cases/05aa6999193f.jpg" width="600" alt="A Rainy Journey Across New Zealand’s Coast">](https://goodcase.ai/cases/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Strength04_X | **Source:** [Original](https://x.com/Strength04_X/status/2097303258171949530) | **Published:** 2026-09-08 | **Heat:** 35
+
+**Stability:** 74/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 74.3) · [output](https://media.goodcase.ai/retests/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (206 lines, click to expand)</b></summary>
+
+```
+Rainy streets, green hills, black-sand beaches, and a little adventure across New Zealand
+
+Made with Seedance 2.5
+
+Prompt ↓ 
+
+[GENERATION GOAL]
+30-second cinematic fashion-travel music video following one beautiful sweet slim young woman across New Zealand — starting on a rainy Auckland street, moving through a coastal train journey, green countryside and finally a dramatic black-sand beach where she dances with a friend. She listens to music through white wired earphones and carries a Sony compact camera. Photoreal live-action, energetic editorial pacing, hard cuts only.
+
+[CORE LOOK]
+Premium outdoor fashion commercial meets cinematic road-trip film.
+Cool blue rain, emerald greens, volcanic black sand, warm sunset skin tones.
+Natural film grain, subtle lens bloom, realistic moisture and atmospheric perspective.
+24fps, 180-degree shutter.
+No artificial CGI look, no beauty smoothing, no warped faces, no duplicated people, no random text, no watermarks.
+
+[LEAD]
+Generate a new original beautiful sweet slim woman in her early 20s.
+Heart-shaped face, bright hazel-brown eyes, long dark wavy hair, soft straight brows, subtle brown eyeliner, naturally glossy peach lips, fair warm skin with realistic freckles across nose and cheeks, slim athletic figure, delicate hands, short glossy pale-pink nails.
+She has an innocent sweet smile and playful personality.
+No glasses.
+She never speaks.
+
+White wired earphones in both ears whenever she appears. Cable remains visible.
+
+[FRIEND]
+Appears from 22s onward.
+Young East-Asian woman, early 20s, short dark bob haircut, oversized pale-yellow sweatshirt, loose denim trousers, white sneakers.
+No earphones.
+
+[FASHION / PRODUCT]
+LOOK A 0–6.5s:
+Royal-blue Nike windbreaker, black straight-leg pants, white sneakers, small black shoulder bag. Sony RX100-style compact camera in hand.
+
+LOOK B 6.5–15.5s:
+Cream Nike cropped fleece jacket, forest-green cargo skirt over black leggings, silver watch, cream mini backpack.
+
+LOOK C 15.5–30s:
+Graphite Nike lightweight track jacket, loose black trousers, white sneakers, small silver hoop earrings.
+
+No Adidas. No Puma. Nike branding stays physically correct and understated.
+
+[LOCATIONS]
+LOC 1 — Auckland rainy street:
+Glass towers, wet pavement, neon reflections, green trees, moving pedestrians and buses.
+
+LOC 2 — Historic railway platform:
+Dark green station canopy, old benches, rain droplets, passengers waiting naturally.
+
+LOC 3 — Coastal train:
+Large window, ocean cliffs outside, woman seated beside window.
+
+LOC 4 — Train reflection:
+Close-up of her face reflected in rain-covered glass, city disappearing behind.
+
+LOC 5 — Countryside station:
+Wooden platform, green hills, sheep pasture in distance.
+
+LOC 6 — Mountain road:
+Long winding road through emerald hills.
+
+LOC 7 — Waterfall trail:
+Wet wooden walkway, huge waterfall behind mist.
+
+LOC 8 — Black-sand beach:
+Wide volcanic beach, dark rocks, crashing turquoise-grey ocean.
+
+LOC 9 — Cliff path:
+Grass-covered cliff edge, strong ocean wind.
+
+LOC 10 — Beach café:
+Small wooden café, surfboards, warm interior lights.
+
+LOC 11 — Coastal overlook:
+Two wooden benches facing ocean.
+
+LOC 12 — Final beach plaza:
+Open black-sand area with distant cliffs and sea.
+
+[30-SECOND TIMELINE]
+
+0.0–2.2s
+SHOT 1 — RAIN OPEN
+50mm handheld close-up. Woman walks beneath light rain in LOOK A. Drops collect on blue jacket. She smiles while listening to music.
+
+2.2–3.8s
+SHOT 2 — CAMERA DETAIL
+85mm ECU. Her fingers switch Sony camera mode. White earphone cable crosses jacket naturally.
+
+3.8–6.5s
+SHOT 3 — STREET CROSS
+35mm tracking shot. She crosses wet street, turns toward camera with a small smile. Bus passes behind, creating natural foreground wipe.
+
+6.5–8.6s
+SHOT 4 — PLATFORM CUT
+Hard cut on bus wipe. LOOK B. She walks onto railway platform holding camera and cream backpack.
+
+8.6–10.4s
+SHOT 5 — TRAIN ARRIVAL
+24mm. Train enters frame, wind moves her hair and fleece. She looks toward it.
+
+10.4–12.6s
+SHOT 6 — WINDOW
+50mm inside train. She sits beside window, earphones visible, cheek against glass, watching countryside.
+
+12.6–14.2s
+SHOT 7 — REFLECTION
+85mm close. Her face reflected in rain-streaked window. She closes eyes for a second and smiles.
+
+14.2–16.0s
+SHOT 8 — TITLE
+Hard cut to countryside station.
+She steps down from train.
+Huge yellow condensed text:
+【NEW ZEALAND】
+appears vertically beside her as she walks forward.
+
+16.0–18.0s
+SHOT 9 — GREEN HILLS
+24mm wide. LOOK C begins. She walks through a grassy mountain road, camera tracking sideways. Clouds move across distant hills.
+
+18.0–19.8s
+SHOT 10 — WATERFALL
+Wide 24mm. She stands near wet wooden trail, turns toward massive waterfall and laughs.
+
+19.8–21.6s
+SHOT 11 — OCEAN REVEAL
+Hard cut. She walks over grassy cliff path. Camera starts behind her and gently moves beside her, revealing black-sand beach below.
+
+21.6–23.2s
+SHOT 12 — FRIEND ARRIVAL
+Friend enters from frame right holding two takeaway drinks. Lead turns and laughs.
+
+23.2–25.0s
+SHOT 13 — BEACH WALK
+35mm two-shot. Both walk barefoot along black sand, shoes in hands, laughing naturally. Wind moves their clothes.
+
+25.0–26.4s
+SHOT 14 — CAMERA SNAP
+85mm. Friend takes Sony camera from lead and quickly photographs her. Lead laughs and covers face playfully.
+
+26.4–28.0s
+SHOT 15 — RUN TO WATER
+Wide 24mm. Both run toward shallow waves, jackets and hair moving naturally.
+
+28.0–30.0s
+SHOT 16 — DANCE + TITLE
+Wide-to-medium. They stop near beach café and dance freely to music, no choreography.
+At 28.6s bold yellow condensed text hits:
+【KEEP MOVING】
+Then at 29.3s:
+【KEEP DREAMING】
+Both stacked over the dancing pair.
+Lead throws one arm upward and laughs.
+Hard cut to black.
+
+[CAMERA / MOVEMENT]
+Rain shots: handheld 50mm.
+Train: locked and intimate 50–85mm.
+Landscape: 24mm with natural atmospheric depth.
+Beach: low 24mm and gentle lateral tracking.
+No drone orbit.
+No crash zoom.
+No artificial slow motion.
+Hard cuts motivated by movement.
+
+[PHYSICS]
+Rain beads remain physically attached to fabric.
+Wet pavement reflects real light.
+Hair reacts to wind and moisture.
+Earphone cable never vanishes.
+Camera has realistic weight.
+Fleece and nylon wrinkle naturally.
+Ocean spray moves independently.
+Footsteps disturb wet sand realistically.
+
+[LIGHTING]
+Auckland: cool cloudy daylight and practical city reflections.
+Train: soft window light.
+Countryside: diffused cloud light.
+Waterfall: cool mist bounce.
+Beach: overcast coastal light transitioning into warm late-day glow.
+Faces retain realistic skin texture and eye catchlights.
+
+[AUDIO]
+Rain hitting jacket.
+Street traffic.
+Train brakes and rail vibration.
+Camera shutter.
+Distant waterfall.
+Ocean wind.
+Footsteps on wet sand.
+Small natural laughs.
+No dialogue.
+No voiceover.
+No lyrics.
+Only two specified English title cards.
+
+[FINAL CONSISTENCY]
+One original lead throughout.
+Friend only from 21.6s.
+White wired earphones remain visible.
+Nike is the only fashion-sports brand.
+Sony compact camera remains consistent.
+Photoreal premium live-action.
+No anime, no 3D, no plastic skin.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-rainy-streets-green-hills-black-sand-beaches-and-a-little-adventure-across-n-0476951b6e15?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Korean Woman Shares Her New Camera on Monday Morning
+
+> UGC camera video Seedance 2.5 on Higgsfield Prompt : Create a 30-second, 1080p ultra-realistic UGC video of a young Korean woman in her own bedroom, casually ta…
+
+[<img src="https://media.goodcase.ai/cases/df9bd1886b16.jpg" width="600" alt="Korean Woman Shares Her New Camera on Monday Morning">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2096930655615758734) | **Published:** 2026-09-07 | **Heat:** 35
+
+**Stability:** 80/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 80.4) · [output](https://media.goodcase.ai/retests/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (32 lines, click to expand)</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic UGC video of a young Korean woman in her own bedroom, casually talking to the camera about the new camera she recently bought.
+MAIN SUBJECT
+Young Korean woman in her early 20s, naturally beautiful, realistic skin texture, minimal makeup, black wavy hair loosely tied into a messy side ponytail with a few loose strands around her face. Wearing a fitted pastel-blue short top, loose cream pajama-style pants and a simple silver necklace.
+Maintain her exact facial identity, hairstyle, outfit, body proportions and overall appearance consistently throughout the entire video.
+SETTING
+Her own cozy bedroom in a normal Korean apartment on a warm Monday morning. She is sitting comfortably on her bed with slightly rumpled white bedding, a pillow behind her, a small bedside table, a few everyday personal items and soft natural sunlight coming through the window.
+The room should feel lived-in and authentic, not staged or luxurious.
+UGC STYLE
+She is holding the camera herself or it is casually propped up on the bed in front of her. The framing is slightly imperfect, with natural handheld movement, small autofocus adjustments and occasional exposure changes.
+The video should feel like a genuine personal vlog recorded for her followers, not a polished advertisement.
+ACTION / DIALOGUE
+She sits cross-legged on the bed, looks into the lens and smiles.
+She says naturally:
+“Okay, I finally got this camera I’ve been talking about.”
+She laughs softly and picks up the camera to show it briefly.
+“I’ve only had it for like two days, but I already bring it everywhere.”
+She sets it back down and leans against the pillow.
+“I wanted something that feels a little more personal than just using my phone.”
+She looks around her room, then back at the lens.
+“The footage has this old-school look that I really love. It kind of feels like I’m recording memories instead of just posting videos.”
+She smiles and tucks a loose strand of hair behind her ear.
+Near the end she glances at the clock, laughs and says:
+“Anyway, it’s Monday, I should probably get out of bed.”
+She reaches toward the camera as if to stop recording, smiling naturally, and the video cuts off mid-motion.
+CAMERA / VISUAL LOOK
+Authentic UGC with a subtle early-2000s DV-inspired feel: soft digital detail, mild image noise, slight autofocus hunting, natural skin texture and warm morning light. No dramatic lighting or cinematic camera moves.
+AUDIO
+Only natural bedroom ambience, her voice, subtle fabric movement, distant neighborhood sounds and slight camera handling noise. No music, no narration.
+FINAL FEEL
+Relaxed Korean lifestyle creator content. Warm, feminine, intimate and believable, like a casual Monday-morning vlog filmed in her own room.
+NEGATIVE
+No commercial acting, no perfect studio lighting, no staged influencer poses, no identity drift, no outfit changes, no distorted hands, no extra fingers, no subtitles, logos, watermarks or AI artifacts.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-ugc-video-of-a-young-korean-woman-in-48f0e863374c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### White-Haired Agent Battles Pursuers at Night
 
@@ -177,40 +459,6 @@ She gives a small wave and ends the recording.
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-analog-morning-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden
-
-> Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
-
-[<img src="https://media.goodcase.ai/cases/c261173cd641.jpg" width="600" alt="Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | **Published:** 2026-09-22 | **Heat:** 34
-
-**Stability:** 89/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 88.8) · [output](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-aa16a9b40268/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (12 lines, click to expand)</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
-
-The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
-
-The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
-
-Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
-
-Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Werewolf Transformation in a Foggy Night Forest
 
@@ -732,6 +980,40 @@ Image2の姿勢から。カメラへ伸ばしていた右手を引き戻し、�
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-83f1f069fe6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden
+
+> Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
+
+[<img src="https://media.goodcase.ai/cases/c261173cd641.jpg" width="600" alt="Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | **Published:** 2026-09-22 | **Heat:** 33
+
+**Stability:** 89/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 88.8) · [output](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-aa16a9b40268/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (12 lines, click to expand)</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
+
+The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
+
+The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
+
+Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
+
+Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Baby Penguin Flies into a Loving Family Cuddle
 
@@ -4492,160 +4774,6 @@ Use karakter sheet - location 1 - location 2 (image)
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
-
-> A 30-second vertical cycling vlog cutting between action cam, phone front camera and a chase bike. 4K photoreal, overcast light, sweat and pores, no beauty filter, every cut hard-coded.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2086014766846275817) | **Published:** 2026-08-08 | **Heat:** 22
-
-**Stability:** 74/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.4) · [output](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (85 lines, click to expand)</b></summary>
-
-```
-确实是跟真的一样一样的😄
-
-30 秒更完整的叙事，Seedance 2.5 又将真实感提升了一个档次🎬
-
-Seedance 2.5 prompt 👇
-
-【风格】真实骑行 vlog（Authentic Cycling Vlog），运动相机 + 手机前摄 + 伴随车跟拍混剪，4K 真实摄影（Photorealistic），阴天柔光，皮肤有汗光与真实毛孔，无美颜无磨皮，竖屏 9:16
-
-【时长】30秒
-
-【场景】雨后山区盘山公路，路面湿滑泛着一层亮光，路侧金属护栏，远处山峦挂着流动的云雾，路边草木上挂着水珠
-
-【角色】骑行者（女性，白色公路头盔，蓝色镜面骑行眼镜，深灰色短袖骑行服（胸前城市街景印花、拉链到底、领口下方夹着黑色运动相机遥控器）、酒红色骑行短裤（侧缝两道白色缝线）、粉色运动手表，黑色碳纤维公路车、黑色刀圈轮组）
-
-【眼镜规则】只有全速骑行的镜头（镜头2、镜头5、镜头6）戴着眼镜；停车和自拍的镜头（镜头1、镜头3、镜头4、镜头7、镜头8）眼镜一律架在头盔前额上，整张脸和眼睛完全露出
-
-【全局约束】全程同一套骑行服与头盔，不换装；汗量随时间递增，不可倒退；行进中双手必须都在车把或手机上，不出现第三只手；不出现其他骑行者抢镜
-
-[00:00-00:04] 镜头1：低角度起步（Ground-level Low Angle）
-
-贴地极低机位，画面下缘是湿漉漉的沥青路面。她单脚撑地停在路边，眼镜架在头盔前额，脸完全露出来，低头看了眼镜头笑了一下。
-
-动作：她双手抬起把眼镜拉到眼睛上戴好，随后双手落回车把，脚扣"咔"地扣进踏板，曲柄转动，链条上链，前轮碾过一小片积水，水线甩向镜头两侧。
-
-镜头随车轮向前轻微跟移，湿路面被轮胎压出一道深色湿痕。
-
-音效：脚扣扣合的咔哒声、链条上链、轮胎压水的沙沙声。
-
-[00:04-00:08] 镜头2：侧面伴随跟拍（Car-to-car Side Tracking）
-
-正侧方伴随机位与她等速并行，全身入画。她压低上半身双手握下把，背部拉平，膝盖上下抽动，蓝色镜面眼镜戴在眼睛上。
-
-背景的护栏和云雾山体在她身后横向快速拉过，形成速度线。
-
-细节：额角渗出第一层汗，骑行服背部中缝出现一小块深色汗渍。
-
-[00:08-00:12] 镜头3：路边停车自拍（Front Camera Selfie POV）
-
-手机前置摄像头视角，画面轻微广角畸变。她已经停在路边单脚撑地，先用双手把眼镜推回头盔前额，露出整张脸和眼睛，再拿起手机举在斜前方。
-
-动作：她冲镜头咧嘴笑，喘着气对镜头说了句什么，说话时肩膀随呼吸起伏，另一只手扶着车把稳住车，接着用举手机的那只手把镜头转向前方，扫过弯道和云雾山景，再转回自己脸上。
-
-细节：额头和鼻尖有明显汗光，眼睛清晰可见，鬓角碎发被汗黏在脸上，风把耳边的碎发往后吹。画面有真实手持抖动和风噪爆音。
-
-[00:12-00:16] 镜头4：360全景环绕（360 Action Cam / Invisible Selfie Stick）
-
-模仿360全景运动相机效果，轻微鱼眼畸变，自拍杆被完全抹除。她仍在路边停着，双脚撑地跨在车上，眼镜架在头盔前额。镜头悬在她斜上方约一米处，围着她和车缓慢转一整圈。
-
-画面依次转过：她的正脸和头盔顶、身后的湿路面和护栏、车尾和后轮、路侧的云雾山谷、再回到正脸。
-
-动作：转到正脸时她抬头看镜头，笑着抬手做了个"往前走"的手势，另一只手扶着车把。
-
-细节：手臂皮肤上有细密汗珠，手表带内侧一圈汗渍。
-
-[00:16-00:20] 镜头5：爬坡喘息特写（Handheld Close-up / Uphill）
-
-侧面近景，只拍她的脸和肩膀，背景是缓慢后退的山体和护栏。坡度明显，她重新戴上了眼镜，踩踏频率变慢变重。
-
-动作：她咬着牙站起来摇车，双手死死握住车把，上半身左右摆动，嘴张开大口吸气，颈侧血管随呼吸起伏。一滴汗从太阳穴滑到下颌，被风甩飞。
-
-细节：整件骑行服前胸和后背已经湿透变成深色，紧贴身体，头盔带上有一圈汗渍，镜面眼镜下缘起了一层薄雾。
-
-[00:20-00:23] 镜头6：下坡第一视角（Handlebar POV / First-person）
-
-车把固定机位，第一人称视角。画面能看到黑色车把、缠着的把带、码表屏幕和她握把的双手。
-
-动作：车头快速冲下弯道，视线随身体压弯向左倾斜，路侧护栏和树木在画面两侧飞速掠过，前轮压过一小段积水溅起水花。她的手指按下刹车把，速度略降后再次放开。
-
-风噪骤然放大，画面因高速产生轻微抖动和边缘模糊。
-
-[00:23-00:27] 镜头7：终点擦汗（Static Medium Shot）
-
-固定机位中景。她把车靠在护栏上，跨下车，摘下头盔单手拎着，眼镜随头盔一起摘下来挂在手指上，另一只手把汗湿的刘海往后一捋，头发湿成一缕缕黏在额头上。
-
-动作：她放下头盔，双手拿起水壶仰头灌了一大口，水从嘴角流下脖子，用手背抹了一下下巴，然后长长呼出一口气，肩膀垮下来。
-
-细节：脱头盔后头顶有明显压痕，脸颊通红发亮，眼睛周围有被眼镜压出的浅印，颈侧和锁骨有汗流下来的亮线。
-
-[00:27-00:30] 镜头8：收尾比耶（Low Angle Pull-back）
-
-低角度仰拍，她重新戴回头盔，眼镜架在头盔前额，整张脸露出来。她站在车旁，一只手扶着车座，另一只手举到脸侧比耶，冲镜头笑，还带着喘。身后是整片流动的云雾山谷和湿亮的盘山公路。
-
-镜头缓缓向后下方拉远，人和车缩到画面下三分之一，山雾在她身后慢慢向上翻涌。
-
-音效：全程链条声、变速器咔哒声、轮胎压水声、真实的粗重呼吸声与风噪，背景无音乐，最后两秒只留下风声和喘息声。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Maldives Cycling Documentary in One Long Take
-
-> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2088099038839316601) | **Published:** 2026-08-14 | **Heat:** 21
-
-**Stability:** 80/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (25 lines, click to expand)</b></summary>
-
-```
-Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
-
-shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
-
-TIMELINE
-
-0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
-
-2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
-
-4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
-
-6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
-
-8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
-
-10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
-
-12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
-
-14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
-
-16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
-
-Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · **Part 6** · [Part 7](./gallery-seedance-2-5-part-7.md)

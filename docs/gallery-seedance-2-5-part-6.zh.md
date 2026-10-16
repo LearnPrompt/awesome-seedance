@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 6/7 页）
 
-Seedance 2.5 全部 550 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 552 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 453–523 条，共 550 条。
+本页：第 455–525 条，共 552 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · **Part 6** · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
 
@@ -68,40 +68,6 @@ She gives a small wave and ends the recording.
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/16mm-analog-morning-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 樱花园中手捧郁金香的白色萌宠
-
-> Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
-
-[<img src="https://media.goodcase.ai/cases/c261173cd641.jpg" width="600" alt="樱花园中手捧郁金香的白色萌宠">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | **发布:** 2026-09-22 | **热度:** 34
-
-**稳定度：** 89/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (88.8 分) · [产物](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-aa16a9b40268/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（12 行，点开展开）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
-
-The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
-
-The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
-
-Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
-
-Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雾夜森林中的狼人变身
 
@@ -623,6 +589,40 @@ Image2の姿勢から。カメラへ伸ばしていた右手を引き戻し、�
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-83f1f069fe6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 樱花园中手捧郁金香的白色萌宠
+
+> Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
+
+[<img src="https://media.goodcase.ai/cases/c261173cd641.jpg" width="600" alt="樱花园中手捧郁金香的白色萌宠">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | **发布:** 2026-09-22 | **热度:** 33
+
+**稳定度：** 89/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (88.8 分) · [产物](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-aa16a9b40268/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（12 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
+
+The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
+
+The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
+
+Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
+
+Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 企鹅宝宝飞扑拥抱家人
 

@@ -61,13 +61,31 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/pov-vlog-c94d5709daa4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Ghibli-Style Starbucks Ad
+
+> A warm and cheerful 2D animated Starbucks coffee ad prompt that blends Ghibli aesthetics, urban life scenes, and lively animation performance.
+
+[<img src="https://media.goodcase.ai/media/poster/starbucks-739b454ab5c1.jpg" width="600" alt="Ghibli-Style Starbucks Ad">](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorwithwifi | **出典:** [元投稿](https://x.com/noorwithwifi/status/2080914390782779861) | **公開日:** 2026-07-25 | **ヒート:** 20
+
+**安定度:** 81/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.3) · [出力](https://media.goodcase.ai/retests/starbucks-739b454ab5c1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Coffee featuring a young man enjoying a bright morning in the city. He picks up a Starbucks Caffè Latte from a convenience store, takes a refreshing sip, then works and socializes with friends in a cozy café while using his laptop and notebook. Warm sunlight, soft colors, expressive character animation, and upbeat acoustic music create a cheerful, inspiring atmosphere. End with a close-up of the Starbucks Caffè Latte bottles.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Smartwatch Product Lifestyle Ad
 
 > A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
 
 [<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2080519081959276735) | **公開日:** 2026-07-24 | **ヒート:** 21
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2080519081959276735) | **公開日:** 2026-07-24 | **ヒート:** 20
 
 **安定度:** 75/100
 
@@ -101,65 +119,6 @@ Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinem
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Ghibli-Style Starbucks Ad
-
-> A warm and cheerful 2D animated Starbucks coffee ad prompt that blends Ghibli aesthetics, urban life scenes, and lively animation performance.
-
-[<img src="https://media.goodcase.ai/media/poster/starbucks-739b454ab5c1.jpg" width="600" alt="Ghibli-Style Starbucks Ad">](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorwithwifi | **出典:** [元投稿](https://x.com/noorwithwifi/status/2080914390782779861) | **公開日:** 2026-07-25 | **ヒート:** 20
-
-**安定度:** 81/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.3) · [出力](https://media.goodcase.ai/retests/starbucks-739b454ab5c1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Coffee featuring a young man enjoying a bright morning in the city. He picks up a Starbucks Caffè Latte from a convenience store, takes a refreshing sip, then works and socializes with friends in a cozy café while using his laptop and notebook. Warm sunlight, soft colors, expressive character animation, and upbeat acoustic music create a cheerful, inspiring atmosphere. End with a close-up of the Starbucks Caffè Latte bottles.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 3D Baking Animation Sequence
-
-> This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
-
-[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @HaniaAi12 | **出典:** [元投稿](https://x.com/HaniaAi12/status/2076979039747920309) | **公開日:** 2026-07-14 | **ヒート:** 20
-
-<details>
-<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
-
-```
-Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
-
-0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
-
-1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
-
-2.50–3.75s: She gently whisks the cupcake batter while smiling.
-
-3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
-
-5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
-
-6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
-
-7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
-
-8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
-
-Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
-
-Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
-
-Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Fingertips on a Rainy Car Window at Night
 
@@ -299,6 +258,47 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 3D Baking Animation Sequence
+
+> This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
+
+[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @HaniaAi12 | **出典:** [元投稿](https://x.com/HaniaAi12/status/2076979039747920309) | **公開日:** 2026-07-14 | **ヒート:** 19
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
+
+0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
+
+1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
+
+2.50–3.75s: She gently whisks the cupcake batter while smiling.
+
+3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
+
+5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
+
+6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
+
+7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
+
+8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
+
+Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
+
+Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
+
+Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Premium Tropical Drink UGC Ad
 

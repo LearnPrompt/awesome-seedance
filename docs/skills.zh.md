@@ -18,9 +18,9 @@
 | [动作连续性编排](#action-continuity-choreography) | 85 | 7 |
 | [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 85 | 5 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 4 |
-| [电影感旅行漫游](#travel-city-walk) | 61 | 5 |
+| [电影感旅行漫游](#travel-city-walk) | 62 | 5 |
 | [动画风格与角色一致性](#animation-style-consistency) | 57 | 2 |
-| [宠物动物当主角](#pets-and-animals-lead) | 52 | 2 |
+| [宠物动物当主角](#pets-and-animals-lead) | 53 | 2 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 45 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 44 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 40 | 0 |
@@ -129,7 +129,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-61 个案例，来自 40 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+62 个案例，来自 40 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -166,7 +166,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-52 个案例，来自 30 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+53 个案例，来自 30 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -174,7 +174,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
 
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
-| Zarnab_with_Ai | 宠物动物当主角 | 14 | `npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Zarnab_with_Ai | 宠物动物当主角 | 15 | `npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ayzalnooor24521 | 宠物动物当主角 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="retro-dv-home-video"></a>

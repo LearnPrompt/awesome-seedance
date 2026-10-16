@@ -1,10 +1,164 @@
 # Seedance 2.5 — Full Gallery (Part 7/7)
 
-All 550 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 552 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 522–550 of 550.
+This page: cases 522–552 of 552.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · **Part 7**
+
+### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
+
+> A 30-second vertical cycling vlog cutting between action cam, phone front camera and a chase bike. 4K photoreal, overcast light, sweat and pores, no beauty filter, every cut hard-coded.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2086014766846275817) | **Published:** 2026-08-08 | **Heat:** 22
+
+**Stability:** 74/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.4) · [output](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (85 lines, click to expand)</b></summary>
+
+```
+确实是跟真的一样一样的😄
+
+30 秒更完整的叙事，Seedance 2.5 又将真实感提升了一个档次🎬
+
+Seedance 2.5 prompt 👇
+
+【风格】真实骑行 vlog（Authentic Cycling Vlog），运动相机 + 手机前摄 + 伴随车跟拍混剪，4K 真实摄影（Photorealistic），阴天柔光，皮肤有汗光与真实毛孔，无美颜无磨皮，竖屏 9:16
+
+【时长】30秒
+
+【场景】雨后山区盘山公路，路面湿滑泛着一层亮光，路侧金属护栏，远处山峦挂着流动的云雾，路边草木上挂着水珠
+
+【角色】骑行者（女性，白色公路头盔，蓝色镜面骑行眼镜，深灰色短袖骑行服（胸前城市街景印花、拉链到底、领口下方夹着黑色运动相机遥控器）、酒红色骑行短裤（侧缝两道白色缝线）、粉色运动手表，黑色碳纤维公路车、黑色刀圈轮组）
+
+【眼镜规则】只有全速骑行的镜头（镜头2、镜头5、镜头6）戴着眼镜；停车和自拍的镜头（镜头1、镜头3、镜头4、镜头7、镜头8）眼镜一律架在头盔前额上，整张脸和眼睛完全露出
+
+【全局约束】全程同一套骑行服与头盔，不换装；汗量随时间递增，不可倒退；行进中双手必须都在车把或手机上，不出现第三只手；不出现其他骑行者抢镜
+
+[00:00-00:04] 镜头1：低角度起步（Ground-level Low Angle）
+
+贴地极低机位，画面下缘是湿漉漉的沥青路面。她单脚撑地停在路边，眼镜架在头盔前额，脸完全露出来，低头看了眼镜头笑了一下。
+
+动作：她双手抬起把眼镜拉到眼睛上戴好，随后双手落回车把，脚扣"咔"地扣进踏板，曲柄转动，链条上链，前轮碾过一小片积水，水线甩向镜头两侧。
+
+镜头随车轮向前轻微跟移，湿路面被轮胎压出一道深色湿痕。
+
+音效：脚扣扣合的咔哒声、链条上链、轮胎压水的沙沙声。
+
+[00:04-00:08] 镜头2：侧面伴随跟拍（Car-to-car Side Tracking）
+
+正侧方伴随机位与她等速并行，全身入画。她压低上半身双手握下把，背部拉平，膝盖上下抽动，蓝色镜面眼镜戴在眼睛上。
+
+背景的护栏和云雾山体在她身后横向快速拉过，形成速度线。
+
+细节：额角渗出第一层汗，骑行服背部中缝出现一小块深色汗渍。
+
+[00:08-00:12] 镜头3：路边停车自拍（Front Camera Selfie POV）
+
+手机前置摄像头视角，画面轻微广角畸变。她已经停在路边单脚撑地，先用双手把眼镜推回头盔前额，露出整张脸和眼睛，再拿起手机举在斜前方。
+
+动作：她冲镜头咧嘴笑，喘着气对镜头说了句什么，说话时肩膀随呼吸起伏，另一只手扶着车把稳住车，接着用举手机的那只手把镜头转向前方，扫过弯道和云雾山景，再转回自己脸上。
+
+细节：额头和鼻尖有明显汗光，眼睛清晰可见，鬓角碎发被汗黏在脸上，风把耳边的碎发往后吹。画面有真实手持抖动和风噪爆音。
+
+[00:12-00:16] 镜头4：360全景环绕（360 Action Cam / Invisible Selfie Stick）
+
+模仿360全景运动相机效果，轻微鱼眼畸变，自拍杆被完全抹除。她仍在路边停着，双脚撑地跨在车上，眼镜架在头盔前额。镜头悬在她斜上方约一米处，围着她和车缓慢转一整圈。
+
+画面依次转过：她的正脸和头盔顶、身后的湿路面和护栏、车尾和后轮、路侧的云雾山谷、再回到正脸。
+
+动作：转到正脸时她抬头看镜头，笑着抬手做了个"往前走"的手势，另一只手扶着车把。
+
+细节：手臂皮肤上有细密汗珠，手表带内侧一圈汗渍。
+
+[00:16-00:20] 镜头5：爬坡喘息特写（Handheld Close-up / Uphill）
+
+侧面近景，只拍她的脸和肩膀，背景是缓慢后退的山体和护栏。坡度明显，她重新戴上了眼镜，踩踏频率变慢变重。
+
+动作：她咬着牙站起来摇车，双手死死握住车把，上半身左右摆动，嘴张开大口吸气，颈侧血管随呼吸起伏。一滴汗从太阳穴滑到下颌，被风甩飞。
+
+细节：整件骑行服前胸和后背已经湿透变成深色，紧贴身体，头盔带上有一圈汗渍，镜面眼镜下缘起了一层薄雾。
+
+[00:20-00:23] 镜头6：下坡第一视角（Handlebar POV / First-person）
+
+车把固定机位，第一人称视角。画面能看到黑色车把、缠着的把带、码表屏幕和她握把的双手。
+
+动作：车头快速冲下弯道，视线随身体压弯向左倾斜，路侧护栏和树木在画面两侧飞速掠过，前轮压过一小段积水溅起水花。她的手指按下刹车把，速度略降后再次放开。
+
+风噪骤然放大，画面因高速产生轻微抖动和边缘模糊。
+
+[00:23-00:27] 镜头7：终点擦汗（Static Medium Shot）
+
+固定机位中景。她把车靠在护栏上，跨下车，摘下头盔单手拎着，眼镜随头盔一起摘下来挂在手指上，另一只手把汗湿的刘海往后一捋，头发湿成一缕缕黏在额头上。
+
+动作：她放下头盔，双手拿起水壶仰头灌了一大口，水从嘴角流下脖子，用手背抹了一下下巴，然后长长呼出一口气，肩膀垮下来。
+
+细节：脱头盔后头顶有明显压痕，脸颊通红发亮，眼睛周围有被眼镜压出的浅印，颈侧和锁骨有汗流下来的亮线。
+
+[00:27-00:30] 镜头8：收尾比耶（Low Angle Pull-back）
+
+低角度仰拍，她重新戴回头盔，眼镜架在头盔前额，整张脸露出来。她站在车旁，一只手扶着车座，另一只手举到脸侧比耶，冲镜头笑，还带着喘。身后是整片流动的云雾山谷和湿亮的盘山公路。
+
+镜头缓缓向后下方拉远，人和车缩到画面下三分之一，山雾在她身后慢慢向上翻涌。
+
+音效：全程链条声、变速器咔哒声、轮胎压水声、真实的粗重呼吸声与风噪，背景无音乐，最后两秒只留下风声和喘息声。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Maldives Cycling Documentary in One Long Take
+
+> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2088099038839316601) | **Published:** 2026-08-14 | **Heat:** 21
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (25 lines, click to expand)</b></summary>
+
+```
+Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Girl’s Continuous Adventure Through Shifting Worlds
 
@@ -569,112 +723,6 @@ Seedance 2.5 prompt 👇
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs
-
-> A K-pop street flash-dance cover in Shibuya: four dancers move through diamond, line and V formations, overlaid with oversized retro subtitles that fade in and out exactly on the beat.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2086067758970851614) | **Published:** 2026-08-08 | **Heat:** 15
-
-**Stability:** 73/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 73.2) · [output](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (46 lines, click to expand)</b></summary>
-
-```
-30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
-Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
-TYPOGRAPHY STYLE
-Font: bold condensed display, poster-style
-Placement: upper third or side margin, never covering faces or hands
-Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
-Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
-One line active on screen at a time
-SCENE & LOCATION
-Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
-FRAME & CAMERA
-Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
-CHARACTERS — EXACTLY 4 DANCERS
-RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
-YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
-SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
-MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
-No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
-TIMELINE WITH SYNCED TYPOGRAPHY
-0–6s — OPENING DIAMOND
-RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
-Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
-6–10s — RINA HIGHLIGHT
-RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
-Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
-10–14s — DIAMOND → HORIZONTAL LINE
-Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
-Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
-14–19s — HORIZONTAL LINE CHORUS
-Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
-Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
-19–23s — RETURN TO DIAMOND + RIPPLE
-Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
-Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
-23–27s — FINAL CHORUS
-Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
-Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
-27–30s — FINAL V FORMATION + FREEZE
-RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
-Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
-VISUAL STYLE
-Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
-STRICT NEGATIVE REQUIREMENTS
-No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
-FINAL OUTPUT
-30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Vertical Coffee Machine UGC Ad
-
-> A vertical coffee-machine UGC ad walking the full flow from unboxing through grinding to the first sip, with dialogue in between and shots timed to the second.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 Vertical Coffee Machine UGC Ad">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @SadiaMalik182 | **Source:** [Original](https://x.com/SadiaMalik182/status/2085947010293883115) | **Published:** 2026-08-08 | **Heat:** 15
-
-**Stability:** 77/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (16 lines, click to expand)</b></summary>
-
-```
-Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
-Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
-Scene 1 (0–5s)
-A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
-Scene 2 (5–10s)
-Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
-Scene 3 (10–17s)
-Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
-Scene 4 (17–23s)
-The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
-Scene 5 (23–27s)
-Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
-Scene 6 (27–30s)
-Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
-Requirements:
-Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Seedance 2.5 Sunglasses UGC Review With Voiceover
 
 > A UGC sunglasses review: the host unboxes, tries on and shows details in a bedroom mirror while narrating the fit. Person and product are locked to reference images, shot handheld.
@@ -884,6 +932,112 @@ Constraints:
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs
+
+> A K-pop street flash-dance cover in Shibuya: four dancers move through diamond, line and V formations, overlaid with oversized retro subtitles that fade in and out exactly on the beat.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 Shibuya K-Pop Dance With Beat-Synced Subs">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2086067758970851614) | **Published:** 2026-08-08 | **Heat:** 14
+
+**Stability:** 73/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 73.2) · [output](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (46 lines, click to expand)</b></summary>
+
+```
+30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
+Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
+TYPOGRAPHY STYLE
+Font: bold condensed display, poster-style
+Placement: upper third or side margin, never covering faces or hands
+Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
+Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
+One line active on screen at a time
+SCENE & LOCATION
+Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
+FRAME & CAMERA
+Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
+CHARACTERS — EXACTLY 4 DANCERS
+RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
+YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
+SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
+MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
+No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
+TIMELINE WITH SYNCED TYPOGRAPHY
+0–6s — OPENING DIAMOND
+RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
+Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
+6–10s — RINA HIGHLIGHT
+RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
+Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
+10–14s — DIAMOND → HORIZONTAL LINE
+Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
+Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
+14–19s — HORIZONTAL LINE CHORUS
+Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
+Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
+19–23s — RETURN TO DIAMOND + RIPPLE
+Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
+Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
+23–27s — FINAL CHORUS
+Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
+Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
+27–30s — FINAL V FORMATION + FREEZE
+RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
+Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
+VISUAL STYLE
+Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
+STRICT NEGATIVE REQUIREMENTS
+No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
+FINAL OUTPUT
+30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Vertical Coffee Machine UGC Ad
+
+> A vertical coffee-machine UGC ad walking the full flow from unboxing through grinding to the first sip, with dialogue in between and shots timed to the second.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 Vertical Coffee Machine UGC Ad">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @SadiaMalik182 | **Source:** [Original](https://x.com/SadiaMalik182/status/2085947010293883115) | **Published:** 2026-08-08 | **Heat:** 14
+
+**Stability:** 77/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (16 lines, click to expand)</b></summary>
+
+```
+Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
+Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
+Scene 1 (0–5s)
+A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
+Scene 2 (5–10s)
+Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
+Scene 3 (10–17s)
+Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
+Scene 4 (17–23s)
+The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
+Scene 5 (23–27s)
+Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
+Scene 6 (27–30s)
+Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
+Requirements:
+Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Goofy Rubber-Face Transformations on a Night Street
 

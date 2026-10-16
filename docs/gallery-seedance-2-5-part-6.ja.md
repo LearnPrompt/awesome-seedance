@@ -1,10 +1,108 @@
 # Seedance 2.5 — 全ケース（Part 6/7）
 
-Seedance 2.5 の全 550 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 552 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 550 件中 448–518 件目。
+このページ: 552 件中 448–520 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · **Part 6** · [Part 7](./gallery-seedance-2-5-part-7.ja.md)
+
+### Absurd Package Chase That Ends in a Successful Delivery
+
+> GTA-style chaos, but the mission makes absolutely no sense. 😂 Created with Seedance 2.5 on @itsPolloAI Create a 30-second realistic AAA third-person open-world…
+
+[<img src="https://media.goodcase.ai/cases/b91f5f84dcb1.jpg" width="600" alt="Absurd Package Chase That Ends in a Successful Delivery">](https://goodcase.ai/cases/seedance-gta-style-chaos-but-the-mission-makes-absolutely-no-sense-b787f991daf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2098615400141619289) | **公開日:** 2026-09-12 | **ヒート:** 35
+
+<details>
+<summary><b>プロンプト全文（13 行、クリックで展開）</b></summary>
+
+```
+GTA-style chaos, but the mission makes absolutely no sense. 😂
+
+Created with Seedance 2.5 on @itsPolloAI 
+
+Create a 30-second realistic AAA third-person open-world game sequence in a lively local Japanese neighborhood. Use the uploaded image as the exact character reference: a young Korean woman in her early 20s with long black hair, pastel-lavender top, white cargo pants and sneakers. Keep her appearance consistent.
+
+She notices a delivery cyclist carrying a cardboard package, grabs the package, and runs. The cyclist chases her through the streets. She hides behind a parked kei truck, sneaks out, then accidentally crashes into another delivery worker, sending boxes everywhere. She ignores a “RETURN PACKAGE” prompt and runs again. She crosses a pedestrian bridge, briefly leaves the package beside a bench, grabs it when the cyclist arrives, and continues escaping.
+
+She eventually reaches the address printed on the package and realizes she has accidentally delivered it to the correct recipient. The recipient happily takes it while the exhausted cyclist arrives and looks completely confused. She gives him an innocent smile and walks away.
+
+Use authentic third-person gameplay graphics, realistic 3D characters, detailed village/neighborhood environment, believable physics and NPC reactions. Include a GTA-style HUD with minimap, health/stamina bars, controller prompts, mission objectives, alert markers and notifications such as “PACKAGE STOLEN,” “THEY FOUND YOU,” “BAD DECISION,” “DELIVERY COMPLETE,” “MISSION COMPLETE,” and “CHAOS +150.”
+
+No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, distorted characters, inconsistent objects, gore or unrealistic physics.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-gta-style-chaos-but-the-mission-makes-absolutely-no-sense-b787f991daf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Infected Attack Beyond the Train’s Glass Door
+
+> THE FINAL CARRIAGE From an idea to a cinematic nightmare. Made with Seedance 2.5 on @supercool_hq Prompt: Shot 1 (0.0–1.2s): Character A, face and outfit matchi…
+
+[<img src="https://media.goodcase.ai/cases/20e977da4dd0.jpg" width="600" alt="Infected Attack Beyond the Train’s Glass Door">](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @doctorwasif | **出典:** [元投稿](https://x.com/doctorwasif/status/2098081350205194721) | **公開日:** 2026-09-10 | **ヒート:** 35
+
+<details>
+<summary><b>プロンプト全文（49 行、クリックで展開）</b></summary>
+
+```
+Shot 1 (0.0–1.2s): Character A, face and outfit matching the reference image, sits calmly in a quiet train car, glancing toward the connecting glass door. Dim cinematic evening lighting, unaware calm before dread.
+
+Shot 2 (1.2–2.2s): Faint movement stirs in the next car behind the glass, blurred and distant.
+
+Shot 3 (2.2–3.2s): She leans forward slightly, noticing something is wrong, unease building silently.
+
+Shot 4 (3.2–4.4s): A passenger in the next car suddenly collapses and begins convulsing, completely silent through the glass.
+
+Shot 5 (4.4–5.6s): Wide view of the divider; the collapsed passenger convulses as nearby passengers begin noticing.
+
+Shot 6 (5.6–6.8s): Close-up of her face near the glass, confusion turning into fear.
+
+Shot 7 (6.8–8.0s): The fallen passenger seizes violently, dark veins spreading across the body.
+
+Shot 8 (8.0–9.2s): The passenger rises unnaturally, head twitching, eyes clouding white.
+
+Shot 9 (9.2–10.2s): It suddenly lunges at another passenger, triggering chaos.
+
+Shot 10 (10.2–11.4s): Survivors on this side recoil from the glass, realizing what is happening.
+
+Shot 11 (11.4–12.6s): Wide shot: the next car erupts into silent, distant chaos, passengers scrambling.
+
+Shot 12 (12.6–13.8s): She backs away from the glass, hand covering her mouth in horror.
+
+Shot 13 (13.8–15.0s): An infected passenger violently slams into the glass; the impact is finally heard.
+
+Shot 14 (15.0–16.0s): Survivors jump back as the glass rattles violently.
+
+Shot 15 (16.0–17.2s): More infected press against the glass, distorted faces and faint snarls bleeding through.
+
+Shot 16 (17.2–18.4s): Cracks spread rapidly across the glass under repeated impacts.
+
+Shot 17 (18.4–19.6s): Survivors desperately brace the door with a luggage rack and seat cushions.
+
+Shot 18 (19.6–20.8s): A clawed hand punches through the fractured glass, making everyone recoil.
+
+Shot 19 (20.8–22.0s): She grabs a metal pole and positions herself between the broken door and the survivors.
+
+Shot 20 (22.0–23.2s): The glass shatters completely; infected surge through the frame.
+
+Shot 21 (23.2–24.4s): She swings the pole into the first infected, knocking it backward in cinematic slow motion.
+
+Shot 22 (24.4–25.6s): Another survivor wedges a luggage rack into the doorway as a makeshift barrier.
+
+Shot 23 (25.6–26.8s): Infected claw through the gaps while survivors struggle to hold the barrier.
+
+Shot 24 (26.8–28.0s): Wide shot: shattered glass covers the floor as survivors guard the damaged divider.
+
+Shot 25 (28.0–30.0s): She stands at the front, pole in hand, staring through the shattered frame at the infected beyond. Cinematic dread-filled ending as silence returns.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-character-a-face-and-outfit-matching-the-reference-image-s-6d712bba22c5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Ranch Woman's Working Day from Sunrise to Sunset
 
@@ -488,40 +586,6 @@ She gives a small wave and ends the recording.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/16mm-analog-morning-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden
-
-> Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
-
-[<img src="https://media.goodcase.ai/cases/c261173cd641.jpg" width="600" alt="Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | **公開日:** 2026-09-22 | **ヒート:** 34
-
-**安定度:** 89/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 88.8) · [出力](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-aa16a9b40268/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
-
-The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
-
-The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
-
-Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
-
-Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Werewolf Transformation in a Foggy Night Forest
 
@@ -1043,6 +1107,40 @@ Image2の姿勢から。カメラへ伸ばしていた右手を引き戻し、�
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-83f1f069fe6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden
+
+> Made with seedance 2.5 Prompt 👇 Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white …
+
+[<img src="https://media.goodcase.ai/cases/c261173cd641.jpg" width="600" alt="Fluffy White Baby Animal Holding a Tulip in a Cherry Blossom Garden">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2102218121881014697) | **公開日:** 2026-09-22 | **ヒート:** 33
+
+**安定度:** 89/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 88.8) · [出力](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-aa16a9b40268/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create an ultra-cute cinematic 3D animated video of a tiny fluffy white baby animal with a round chubby body, soft dense white fur, huge glossy black eyes, tiny pink nose, rosy cheeks, and adorable innocent facial expressions.
+
+The character is standing in a beautiful dreamy spring garden beneath blooming pink cherry blossom trees, surrounded by soft pink flowers and petals scattered across a warm stone pathway. Golden-hour sunlight shines through the branches, creating a magical warm glow and soft cinematic bokeh in the background.
+
+The cute character gently holds a single fresh pink tulip in one paw, looks directly at the camera, and makes subtle adorable movements: gently blinking, slightly tilting its head, softly moving its ears and body, and giving a sweet innocent smile. Around the middle of the video, it makes a tiny surprised “ooh” expression before returning to a cute smile.
+
+Camera remains at the character’s eye level with a slow subtle cinematic push-in. Soft depth of field, realistic fluffy fur detail, delicate flower petals moving gently in the breeze, warm volumetric sunlight, dreamy atmosphere, polished high-end 3D animation, charming fairytale aesthetic, smooth natural motion, consistent character appearance throughout.
+
+Vertical 9:16 composition, centered character, close-to-medium shot, cinematic lighting, ultra-detailed, adorable, magical, high quality, smooth animation.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-aa16a9b40268?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Baby Penguin Flies into a Loving Family Cuddle
 
