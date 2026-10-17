@@ -1,5 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import { validateSubmission } from "./submissions.mjs";
 
 const good = {
@@ -48,4 +49,45 @@ test("missing fields, bad model names, aggregator sources, duplicates and bad fi
 test("non-object input is rejected", () => {
   assert.deepEqual(validateSubmission([]), ["top level must be a JSON object"]);
   assert.deepEqual(validateSubmission(null), ["top level must be a JSON object"]);
+});
+
+test("creator accepts Unicode handles, platform display names and emoji", () => {
+  for (const creator of ["@someone", "卡尔", "@你好", "映像クリエイター", "Jane Doe", "导演 🎬", "  袋鼠帝  "]) {
+    assert.deepEqual(validateSubmission({ ...good, creator }), [], creator);
+  }
+});
+
+test("creator length is independently limited to 60 Unicode code points", () => {
+  for (const character of ["a", "中", "🎬"]) {
+    assert.deepEqual(validateSubmission({ ...good, creator: character.repeat(60) }), []);
+    assert.deepEqual(validateSubmission({ ...good, creator: character.repeat(61) }), [
+      "creator must be at most 60 Unicode code points",
+    ]);
+  }
+  assert.deepEqual(validateSubmission({ ...good, creator: `  ${"🎬".repeat(60)}  ` }), []);
+});
+
+test("creator rejects non-string values and reports empty values only once", () => {
+  for (const creator of [42, true, false, {}, ["someone"]]) {
+    assert.deepEqual(validateSubmission({ ...good, creator }), ["creator must be a string"]);
+  }
+  for (const creator of [undefined, null, "", "   ", []]) {
+    assert.deepEqual(validateSubmission({ ...good, creator }), ["missing required field: creator"]);
+  }
+});
+
+test("creator rejects C0 and C1 controls, including those trimmed from the edges", () => {
+  for (const code of [...Array.from({ length: 32 }, (_, i) => i), ...Array.from({ length: 33 }, (_, i) => i + 127)]) {
+    const control = String.fromCodePoint(code);
+    for (const creator of [`Name${control}Here`, `${control}Name`, `Name${control}`]) {
+      assert.deepEqual(validateSubmission({ ...good, creator }), ["creator must not contain control characters"], `U+${code.toString(16)}`);
+    }
+  }
+});
+
+test("all existing case creators remain accepted", () => {
+  const { cases } = JSON.parse(readFileSync(new URL("../../data/cases.json", import.meta.url), "utf8"));
+  for (const { slug, creator } of cases) {
+    assert.deepEqual(validateSubmission({ ...good, creator }), [], slug);
+  }
 });

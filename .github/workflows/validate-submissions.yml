@@ -6,6 +6,9 @@ on:
   pull_request:
     paths:
       - "submissions/**"
+      - "scripts/lib/submissions.mjs"
+      - "scripts/lib/submissions.test.mjs"
+      - ".github/workflows/validate-submissions.yml"
   workflow_dispatch: {}
 
 permissions:

@@ -143,6 +143,7 @@ function renderLangSwitch(lang) {
 
 const COPY = {
   en: {
+    supportNote: "If these sources, templates or retest notes help your work, star this repository and [suggest a case or model to retest next](https://github.com/LearnPrompt/awesome-seedance/issues).",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
@@ -222,6 +223,7 @@ const COPY = {
       "Code in this repository is open source under the [MIT License](./LICENSE): use it, modify it, build on it, keep the license notice. Curation is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); prompts and media stay with their creators. Details above under [Copyright & Takedown Notice](#copyright--takedown-notice).",
   },
   zh: {
+    supportNote: "如果这些来源、模板或复测记录帮到了你，欢迎给仓库点个 Star，并[告诉我们下一步想复测的案例或模型](https://github.com/LearnPrompt/awesome-seedance/issues)。",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
     tagline: (s) =>
@@ -299,6 +301,7 @@ const COPY = {
       "本仓库代码基于 [MIT 许可证](./LICENSE)开源：可以自由使用、修改、分发并在此基础上构建，保留许可声明即可。策展内容为 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-hans)；prompt 与媒体版权归原作者。详见上方[版权与下架政策](#版权与下架政策)。",
   },
   ja: {
+    supportNote: "元投稿、テンプレート、再テスト記録が役立ったら、リポジトリに Star を付けて、[次に再テストしてほしいケースやモデル](https://github.com/LearnPrompt/awesome-seedance/issues)を教えてください。",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
     tagline: (s) =>
@@ -505,6 +508,8 @@ function buildReadme(lang) {
   head.push(renderBadges(lang, { all: anchors.all, retests: spotlight ? anchors.retests : null, templates: anchors.templates, skills: anchors.skills }, { campaign }));
   head.push("");
   head.push(tag(c.backlink, "hero"));
+  head.push("");
+  head.push(c.supportNote);
   head.push("");
   head.push(renderContents(allHeadings.slice(1), lang));
   const headMd = head.join("\n") + sections.map(renderSection).join("\n") + "\n";
