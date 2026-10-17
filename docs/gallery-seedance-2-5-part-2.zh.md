@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 2/7 页）
 
-Seedance 2.5 全部 552 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 556 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 84–168 条，共 552 条。
+本页：第 85–168 条，共 556 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
 
@@ -247,141 +247,6 @@ The vintage appearance must come from realistic MiniDV camera behavior, autofocu
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-video-made-me-question-what-ai-looking-even-means-anymore-c3cc664055dd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 粉发女孩的夜间体能训练挑战
-
-> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
-
-[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="粉发女孩的夜间体能训练挑战">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2104153857542553754) | **发布:** 2026-09-27 | **热度:** 83
-
-<details>
-<summary><b>完整 prompt（117 行，点开展开）</b></summary>
-
-```
-Why did I think this workout would be easier?
-
-Seedance 2.5 on @TapNow_AI 
-
-Prompt
-
-Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
-
-Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
-LOOK
-
-Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
-
-STYLE
-
-Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
-
-CHARACTER
-
-CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
-
-She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
-
-SETTING
-
-A smaller industrial-style functional training gym at night.
-
-Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
-
-A half-full water bottle and small towel sit beside a plyometric box.
-
-Background gym members occasionally pass naturally without acknowledging the camera.
-
-STORYBOARD — 15 SECONDS / 6 CUTS
-
-CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
-
-CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
-
-She points behind herself toward a wooden plyometric box.
-
-CHASE:
-“Trying something different tonight.”
-
-She turns the camera too quickly, creating a messy whip-pan.
-
-CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
-
-Camera sits slightly crooked on a low bench.
-
-CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
-
-Her ponytail bounces naturally.
-
-CHASE:
-“Why are step-ups already humbling me?”
-
-She laughs quietly while continuing.
-
-CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
-
-Camera has been repositioned near floor level.
-
-Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
-
-Autofocus briefly locks onto the box instead of her shoes.
-
-No dialogue.
-
-Natural sneaker impacts, distant equipment sounds and her breathing.
-
-CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
-
-A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
-
-The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
-
-After several waves she looks toward the camera with a surprised expression.
-
-CHASE:
-“Okay—this escalated fast.”
-
-Her voice carries a small laugh between breaths.
-
-CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
-
-CHASE grabs the camera immediately after stopping.
-
-The image shakes noticeably while autofocus searches for her sweaty face.
-
-She leans against the plyometric box, catching her breath.
-
-CHASE:
-“I said different. Not easier.”
-
-She gives the camera an exhausted little grin.
-
-CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
-
-Camera sits casually beside her water bottle.
-
-CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
-
-She looks sideways toward the camera.
-
-CHASE:
-“That’s enough character development for tonight.”
-
-She laughs, reaches toward the lens—
-
-The frame shakes as her hand accidentally bumps the camera.
-
-CUT.
-
-AUDIO
-
-Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 日本教室里的丧尸突袭
 
@@ -3478,6 +3343,111 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 穿行《最后的晚餐》的立体画境
+
+> What if you could see what Da Vinci NEVER painted? I went INSIDE The Last Supper using Seedance 2.5 in @FishCreativeHQ Prompt👇 upload the painting image as fir…
+
+[<img src="https://media.goodcase.ai/cases/88808feeb427.jpg" width="600" alt="穿行《最后的晚餐》的立体画境">](https://goodcase.ai/cases/seedance-2-5-what-if-you-could-see-what-da-vinci-never-painted-870128258984?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @abxxai | **来源:** [原帖](https://x.com/abxxai/status/2110709089710088537) | **发布:** 2026-10-15 | **热度:** 75
+
+<details>
+<summary><b>完整 prompt（87 行，点开展开）</b></summary>
+
+```
+What if you could see what Da Vinci NEVER painted?
+
+I went INSIDE The Last Supper using Seedance 2.5 in @FishCreativeHQ
+
+Prompt👇
+
+upload the painting image as first frame and use this video prompt
+
+[First-Frame.png] Create a 20-second vertical 9:16 image-to-video film, using the supplied image as the exact first frame and matching final frame. One continuous camera journey through the room, with macro detail, a gradual emotional reveal, an orbit behind the central figure and a seamless return.
+
+Build the supplied scene as complete 3D geometry while preserving its Renaissance oil-painted appearance. The table stands in real space, the tablecloth drapes over its edges, the food and vessels sit on its surface, and every figure has a fully dimensional body beneath their robes. As the camera passes around them, reveal the sides and rear surfaces hidden from the opening viewpoint. Retain the original brushwork, warm earthy colours, soft daylight and expressive faces.
+
+IDENTIFY AND PRESERVE THE FIGURES
+
+The central figure sits at the middle of the table. He has long wavy brown hair, a full brown beard and downcast, calm eyes. He wears a deep red robe with a rich blue mantle draped across his left shoulder and lap. His right hand rests palm-down on the tablecloth at the left of the frame; his left hand lies open, palm-up, beside a small glass of red wine.
+
+To his right (left of frame) sits a young apostle with long golden-brown hair, a green mantle over a red garment, his sorrowful gaze turned toward the centre. In front of him, a balding older man with a dark beard, wearing red and blue, leans in with a pointing gesture. A partly visible figure with curly hair sits at the far left edge.
+
+To his left (right of frame) a man with thick black curly hair and a dark beard, in a blue robe, turns to speak with a grey-bearded elder in an olive-green robe at the right edge, who raises both hands in an open, questioning gesture.
+
+Keep every pose, gesture, gaze direction and costume exactly as in the reference. No figure moves.
+
+THE ROOM AND TABLE
+
+A dark coffered wooden ceiling. A grey back wall with three tall windows opening onto a sunlit Tuscan landscape of blue hills, cypress trees, terracotta villas and a bell tower. Dark blue and gold damask panels on both side walls.
+
+A long table covered in white linen with a visible grid of fold creases, hanging almost to the floor. On it: scattered bread rolls and crumbs, pewter plates, a central plate of fish, the small glass of red wine, a bowl of green olives, a plate of red and green grapes at the right, a blue-and-white decorated bowl with bread at the left, and a dark glazed ceramic jug at the far left. Wooden trestle legs and the hems of robes are visible below the cloth.
+
+0–3 SECONDS — ENTER OVER THE BREAD
+
+Begin on the exact supplied image for approximately half a second.
+
+The camera then flies forward into the room and descends toward the bread roll resting on the tablecloth just left of centre. Pass macro-close above it.
+
+Reveal the roll's rounded volume, cracked golden crust, flour-dusted ridges and the small crumbs scattered around it, each casting a tiny shadow on the linen. The nearest crust passes softly out of focus beneath the lens as the camera glides on.
+
+The tablecloth has physical relief: woven threads, raised fold creases and shallow dips where objects press into it. The bread falls behind the moving camera while the central figure stays fixed farther into the room. This changing perspective establishes real depth immediately.
+
+3–7 SECONDS — GLIDE ACROSS THE TABLE TO THE WINE
+
+Travel low and smoothly across the linen toward the centre of the table, skimming past the rim of the fish plate. Reveal the plate's worn pewter edge, its curved depth and the painted fish resting inside.
+
+Continue to the small glass of red wine. Curve partly around it at macro distance, revealing the thickness of the glass, the flat surface of the wine, and daylight from the windows refracting through it as a soft red glow on the cloth.
+
+The glass crosses the near foreground, the open palm-up hand appears just beyond it, and the back wall shifts more slowly behind. Maintain forward momentum throughout.
+
+7–10 SECONDS — RISE ALONG THE OPEN HAND AND MANTLE
+
+Rise past the open hand, revealing the gentle curve of the fingers, the creases of the palm and its weight resting on the cloth.
+
+Continue upward along the blue mantle where it falls across his lap and left shoulder. Travel close to the fabric without touching it. Show the painted texture, the deep blue folds as dimensional surfaces: raised crests catch the window light, undersides fall into shadow, and the red robe shows beneath the mantle's edge.
+
+The blue fabric passes beside the lens as his face comes into view above.
+
+10–13 SECONDS — REVEAL THE CENTRAL FACE
+
+Curve inward and slightly upward toward his face.
+
+Approach a close view of his lowered eyes, calm brow, nose and the soft strands of his beard and hair. Preserve the exact face from the reference. Reveal the three-dimensional shape of the cheekbones and brow, and the subtle painted texture of the skin, fully connected to his neck and shoulders.
+
+Ease the camera's speed for approximately one second while continuing a gentle sideways drift. Let the stillness and quiet sorrow register. He does not move; the emotion comes from discovering the expression already present in the painting.
+
+13–17 SECONDS — ORBIT BEHIND HIM TO THE WINDOW
+
+Continue past the outside of his face, over his blue-draped left shoulder, and orbit smoothly behind him into the narrow space between his back and the central window.
+
+Reveal the back of his long wavy hair, the rear folds of the blue mantle and red robe, and the thickness of his shoulders beneath the fabric. His shoulder passes close beside the lens as a soft foreground shape.
+
+Turn gently to look past him through the central window: the sunlit Tuscan hills, cypresses and villas gain real depth, the far hills hazy and the near trees sharper. Then continue the arc so the view swings back over his other shoulder, revealing from behind the backs of the apostles' heads, the young apostle's green mantle, and the whole table spread out before them toward where the viewer began.
+
+17–20 SECONDS — RETURN TO THE ORIGINAL COMPOSITION
+
+Rise and retreat in one smooth arc over the table, passing above the grey-bearded elder's raised open hands at the right, then curving back onto the opening camera axis.
+
+Reveal all figures again in their exact positions. The bread, plates, wine glass, olives, grapes, decorated bowl and ceramic jug settle back onto the table as in the supplied image. The coffered ceiling, three windows and damask walls realign with the frame.
+
+Gently decelerate into the exact opening viewpoint, lens perspective, framing and lighting. End on a frame matching the supplied image so the next repetition flows directly into the opening movement.
+
+CAMERA, STYLE AND CONTINUITY
+
+Use one uninterrupted physical camera path: over the bread, across the table to the wine, up the open hand and blue mantle, to the central face, around behind him to the window, back over his shoulder and out to the original wide composition.
+
+Use natural motion blur and shallow depth of field during macro passes. Transfer focus smoothly to the next detail along the route. Foreground objects pass the lens because the camera moves around them; no figure changes pose, blinks, speaks or moves toward the camera.
+
+Maintain one coherent room with stable geometry and consistent warm daylight from the windows. Hidden surfaces belong to the existing figures, clothing, table and walls and match their visible design. Preserve the oil painting's brushwork, canvas texture and colour at every scale.
+
+No cuts, crash zooms, dissolves, flat canvas flyovers, wall-relief effects, scene morphing, additional people, new props, extra food, text or watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-what-if-you-could-see-what-da-vinci-never-painted-870128258984?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 幼儿园里爸爸追问偷吃糖的萌娃
 
 > Made with seedance 2.5 Prompt 👇 1. A cute chubby toddler boy, around 2–3 years old, with fair skin, huge expressive green eyes, short golden-blond hair with a …
@@ -4720,38 +4690,51 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-title-what-falls-from-the-plum-tree-d602a208ed88?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 首尔夏夜的邻里散步
+### 阳光下的清新洗衣日
 
-> Baddie is back 🥰 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older …
+> Just a peaceful laundry day. Fresh clothes, fresh air, good vibes. Created with Seedance 2.5 Prompt: Create a 30-second
 
-[<img src="https://media.goodcase.ai/cases/2d6299d5c5f8.jpg" width="600" alt="首尔夏夜的邻里散步">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="600" alt="阳光下的清新洗衣日">](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2099849272347021541) | **发布:** 2026-09-15 | **热度:** 71
+**作者:** @CaliraVal | **来源:** [原帖](https://x.com/CaliraVal/status/2091386310837862772) | **发布:** 2026-08-23 | **热度:** 71
+
+**稳定度：** 70/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 <details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+<summary><b>完整 prompt（24 行，点开展开）</b></summary>
 
 ```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
+Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
 
-She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
+0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
+Voiceover: “Laundry day starts with one simple step.”
 
-She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
+5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
+Voiceover: “I just load all my clothes into the washing machine…”
 
-A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
+10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
+Voiceover: “…add my detergent…”
 
-She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
+13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
+Voiceover: “…and let the machine do the work.”
 
-She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
+17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
+Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
 
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
+22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
+Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
 
-Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
+28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
+Voiceover: “Clean, fresh, and ready to wear.”
+
+Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 古罗马角斗士在竞技场逆转获胜
 
@@ -4909,51 +4892,6 @@ Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realisti
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-198b3f3748b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 手工烘焙坊电影感商业广告
-
-> 一份为高端烘焙坊定制的 30 秒商业广告提示词，聚焦于糕点制作过程与产品展示，呈现奢华的美学质感。
-
-[<img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="600" alt="手工烘焙坊电影感商业广告">](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithAliya | **来源:** [原帖](https://x.com/AIwithAliya/status/2090780603872624826) | **发布:** 2026-08-21 | **热度:** 70
-
-**稳定度：** 67/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (66.7 分) · [产物](https://media.goodcase.ai/retests/case-f62d402ccdf6/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（23 行，点开展开）</b></summary>
-
-```
-follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
-
-Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
-
-0–6s  
-Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
-
-6–11s  
-Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
-
-11–16s  
-Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
-
-16–22s  
-Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
-
-22–26s  
-A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
-
-26–30s  
-Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
-
-Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)

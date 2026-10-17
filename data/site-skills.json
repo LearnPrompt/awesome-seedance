@@ -271,169 +271,6 @@
       "cover": "https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg"
     },
     {
-      "slug": "action-continuity-choreography",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "shared",
-      "title": {
-        "en": "Action continuity choreography",
-        "zh": "动作连续性编排"
-      },
-      "description": {
-        "en": "Make action reproducible by specifying character, direction, rhythm, and shot continuity.",
-        "zh": "把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 85,
-      "creatorCount": 61,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography",
-      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-18paelt",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "itsSaira_1 · Action continuity choreography",
-        "zh": "itsSaira_1 · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 4 published cases by itsSaira_1.",
-        "zh": "从 itsSaira_1 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "itsSaira_1",
-      "caseCount": 4,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-18paelt",
-      "cover": "https://media.goodcase.ai/cases/6304957c914f.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-1picsey",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "Aiwithmaha · Action continuity choreography",
-        "zh": "Aiwithmaha · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 4 published cases by Aiwithmaha.",
-        "zh": "从 Aiwithmaha 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "Aiwithmaha",
-      "caseCount": 4,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1picsey",
-      "cover": "https://media.goodcase.ai/cases/f28efeb610bf.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-1wr1qau",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "Just_sharon7 · Action continuity choreography",
-        "zh": "Just_sharon7 · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 4 published cases by Just_sharon7.",
-        "zh": "从 Just_sharon7 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "Just_sharon7",
-      "caseCount": 4,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau",
-      "cover": "https://media.goodcase.ai/cases/0a766040d6e2.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-15zo1bq",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "itxabdullaa · Action continuity choreography",
-        "zh": "itxabdullaa · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 3 published cases by itxabdullaa.",
-        "zh": "从 itxabdullaa 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "itxabdullaa",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq",
-      "cover": "https://media.goodcase.ai/cases/5e41917cd901.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-1lcb8j2",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "haruuraeadss · Theatrical Cel-Shaded Fantasy",
-        "zh": "haruuraeadss · 剧场版赛璐珞奇幻"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 3 published cases by haruuraeadss.",
-        "zh": "从 haruuraeadss 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": {
-        "en": "Theatrical Cel-Shaded Fantasy",
-        "zh": "剧场版赛璐珞奇幻"
-      },
-      "creator": "haruuraeadss",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2",
-      "cover": "https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-cle9yv",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "Xaroon_x · Action continuity choreography",
-        "zh": "Xaroon_x · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 3 published cases by Xaroon_x.",
-        "zh": "从 Xaroon_x 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "Xaroon_x",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv",
-      "cover": "https://media.goodcase.ai/cases/6170bf3f7274.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-d5g808",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "itxsarmadd · Action continuity choreography",
-        "zh": "itxsarmadd · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 3 published cases by itxsarmadd.",
-        "zh": "从 itxsarmadd 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "itxsarmadd",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-d5g808",
-      "cover": "https://media.goodcase.ai/cases/50f3546b5a07.jpg"
-    },
-    {
       "slug": "epic-fantasy-scifi-spectacle",
       "baseSlug": "epic-fantasy-scifi-spectacle",
       "kind": "shared",
@@ -447,8 +284,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 85,
-      "creatorCount": 60,
+      "caseCount": 87,
+      "creatorCount": 61,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/cases/6fd55edc6509.webp"
@@ -552,6 +389,169 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44",
       "cover": "https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "shared",
+      "title": {
+        "en": "Action continuity choreography",
+        "zh": "动作连续性编排"
+      },
+      "description": {
+        "en": "Make action reproducible by specifying character, direction, rhythm, and shot continuity.",
+        "zh": "把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 86,
+      "creatorCount": 61,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography",
+      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-15zo1bq",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "itxabdullaa · Action continuity choreography",
+        "zh": "itxabdullaa · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 4 published cases by itxabdullaa.",
+        "zh": "从 itxabdullaa 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "itxabdullaa",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq",
+      "cover": "https://media.goodcase.ai/cases/51dbdca51c11.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-18paelt",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "itsSaira_1 · Action continuity choreography",
+        "zh": "itsSaira_1 · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 4 published cases by itsSaira_1.",
+        "zh": "从 itsSaira_1 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "itsSaira_1",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-18paelt",
+      "cover": "https://media.goodcase.ai/cases/6304957c914f.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-1picsey",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "Aiwithmaha · Action continuity choreography",
+        "zh": "Aiwithmaha · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 4 published cases by Aiwithmaha.",
+        "zh": "从 Aiwithmaha 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "Aiwithmaha",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1picsey",
+      "cover": "https://media.goodcase.ai/cases/f28efeb610bf.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-1wr1qau",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "Just_sharon7 · Action continuity choreography",
+        "zh": "Just_sharon7 · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 4 published cases by Just_sharon7.",
+        "zh": "从 Just_sharon7 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "Just_sharon7",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau",
+      "cover": "https://media.goodcase.ai/cases/0a766040d6e2.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-1lcb8j2",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "haruuraeadss · Theatrical Cel-Shaded Fantasy",
+        "zh": "haruuraeadss · 剧场版赛璐珞奇幻"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 3 published cases by haruuraeadss.",
+        "zh": "从 haruuraeadss 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": {
+        "en": "Theatrical Cel-Shaded Fantasy",
+        "zh": "剧场版赛璐珞奇幻"
+      },
+      "creator": "haruuraeadss",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2",
+      "cover": "https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-cle9yv",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "Xaroon_x · Action continuity choreography",
+        "zh": "Xaroon_x · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 3 published cases by Xaroon_x.",
+        "zh": "从 Xaroon_x 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "Xaroon_x",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv",
+      "cover": "https://media.goodcase.ai/cases/6170bf3f7274.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-d5g808",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "itxsarmadd · Action continuity choreography",
+        "zh": "itxsarmadd · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 3 published cases by itxsarmadd.",
+        "zh": "从 itxsarmadd 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "itxsarmadd",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-d5g808",
+      "cover": "https://media.goodcase.ai/cases/50f3546b5a07.jpg"
     },
     {
       "slug": "product-ad-shot-design",
@@ -859,8 +859,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 53,
-      "creatorCount": 30,
+      "caseCount": 56,
+      "creatorCount": 32,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
       "cover": "https://media.goodcase.ai/cases/ebfd507b2bc2.jpg"
@@ -1199,8 +1199,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 22,
-      "creatorCount": 13,
+      "caseCount": 23,
+      "creatorCount": 14,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
       "cover": "https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg"

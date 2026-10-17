@@ -15,12 +15,12 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 99 | 11 |
-| [Action continuity choreography](#action-continuity-choreography) | 85 | 7 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 85 | 5 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 87 | 5 |
+| [Action continuity choreography](#action-continuity-choreography) | 86 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 4 |
 | [Cinematic travel montage](#travel-city-walk) | 62 | 5 |
 | [Animation style and character consistency](#animation-style-consistency) | 57 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 53 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 56 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 45 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 44 | 0 |
 | [Process and transformation story](#process-transformation-story) | 40 | 0 |
@@ -28,7 +28,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | [Horror and suspense short](#horror-suspense-short) | 36 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 31 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 27 | 0 |
-| [3D cartoon character short](#3d-cartoon-character-short) | 22 | 1 |
+| [3D cartoon character short](#3d-cartoon-character-short) | 23 | 1 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 22 | 0 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
@@ -62,35 +62,13 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 | Goodmanprotocol | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | AIwithkhan | Korean Alley Home Video | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
-<a id="action-continuity-choreography"></a>
-
-### Action continuity choreography
-
-> Make action reproducible by specifying character, direction, rhythm, and shot continuity.
-
-85 cases from 61 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
-```
-
-| Creator | Method | Cases | Install | Page |
-| --- | --- | --- | --- | --- |
-| itsSaira_1 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Aiwithmaha | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Just_sharon7 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itxabdullaa | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| haruuraeadss | Theatrical Cel-Shaded Fantasy | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Xaroon_x | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itxsarmadd | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
 <a id="epic-fantasy-scifi-spectacle"></a>
 
 ### Epic fantasy and sci-fi spectacle
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-85 cases from 60 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+87 cases from 61 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -103,6 +81,28 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 | AvelyrahnAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Strength04_X | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | CharaspowerAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
+<a id="action-continuity-choreography"></a>
+
+### Action continuity choreography
+
+> Make action reproducible by specifying character, direction, rhythm, and shot continuity.
+
+86 cases from 61 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
+```
+
+| Creator | Method | Cases | Install | Page |
+| --- | --- | --- | --- | --- |
+| itxabdullaa | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itsSaira_1 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Aiwithmaha | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Just_sharon7 | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| haruuraeadss | Theatrical Cel-Shaded Fantasy | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Xaroon_x | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itxsarmadd | Action continuity choreography | 3 | `npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
 
@@ -166,7 +166,7 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-53 cases from 30 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+56 cases from 32 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -291,7 +291,7 @@ No creator methods yet.
 
 > One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.
 
-22 cases from 13 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+23 cases from 14 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short

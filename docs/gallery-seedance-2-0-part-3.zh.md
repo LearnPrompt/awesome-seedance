@@ -1,10 +1,158 @@
 # Seedance 2.0 — 全量案例（第 3/4 页）
 
-Seedance 2.0 全部 284 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 287 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 197–280 条，共 284 条。
+本页：第 195–278 条，共 287 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
+
+### 复古日式 POV Vlog
+
+> 一款为 Seedance 2.0 设计的 21 世纪初 MiniDV 摄像机怀旧风提示词，记录了一位日本女性在黄金时刻拍摄的趣味日常 Vlog。
+
+[<img src="https://media.goodcase.ai/media/poster/pov-vlog-c94d5709daa4.jpg" width="600" alt="复古日式 POV Vlog">](https://goodcase.ai/cases/pov-vlog-c94d5709daa4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SimplyAnnisa | **来源:** [原帖](https://x.com/SimplyAnnisa/status/2081342566524486102) | **发布:** 2026-07-26 | **热度:** 21
+
+**稳定度：** 79/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.5 分) · [产物](https://media.goodcase.ai/retests/pov-vlog-c94d5709daa4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（33 行，点开展开）</b></summary>
+
+```
+POV MiniDV camcorder vlog filmed entirely by the main character herself. The camcorder is never visible. Authentic early-2000s DV tape aesthetic with soft analog blur, subtle tape grain, faint tape hiss, slight colour bleed, blooming highlights, autofocus hunting, exposure breathing, muted contrast, imperfect white balance, realistic skin texture, natural motion blur, handheld shake, crooked framing, delayed focus, accidental head crops, awkward zooms, and genuine human camera movement. Documentary style, not cinematic perfection.
+
+Main Character:
+The same recurring fictional Japanese woman for every episode. Early 20s, very fair porcelain skin, naturally beautiful, long dark brown-black hair in a loose ponytail with soft face-framing strands, expressive brown eyes, natural makeup, slim petite build, oversized cream hoodie, black leggings, white sneakers, warm smile, playful and slightly clumsy personality.
+
+Location:
+Quiet Japanese neighbourhood during golden hour, tree-lined sidewalks, small local café, soft evening sunlight, peaceful atmosphere.
+
+Scene 1 (0–2s)
+Handheld selfie while leaving home.
+"Okay... today's mission is simple. One iced coffee... then straight home."
+
+Scene 2 (2–5s)
+Walking down the street. She notices a fluffy dog, crouches to pet it, laughs.
+"...No, stay focused... coffee first."
+
+Scene 3 (5–8s)
+Camera propped on the café counter. She reaches for her pocket to pay and suddenly freezes.
+"...Wait... where's my wallet?"
+
+Scene 4 (8–11s)
+Quick panic. She checks another hoodie pocket, finds it instantly, bursts into genuine laughter.
+"Never mind... false alarm!"
+
+Scene 5 (11–15s)
+Walking outside with the iced coffee during golden hour. Takes the first sip, smiles at the camera.
+"Mission accomplished... see you in tomorrow's chaos."
+
+Audio:
+No background music. Only authentic ambient sounds: birds, footsteps, distant traffic, café ambience, doors opening, soft wind, clothing movement, breathing, laughter, and natural voice.
+
+Overall feeling:
+Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary, social-media-friendly pacing, emotionally warm, subtly humorous, and designed to feel like viewers are spending 15 seconds with a real person rather than watching a scripted video.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/pov-vlog-c94d5709daa4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 智能手表产品生活方式广告
+
+> 一份高端智能手表生活方式广告提示词，以一位年轻女性在各种日常场景中的表现为特色，具有极高的制作水准。
+
+[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="智能手表产品生活方式广告">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2080519081959276735) | **发布:** 2026-07-24 | **热度:** 20
+
+**稳定度：** 75/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.7 分) · [产物](https://media.goodcase.ai/retests/case-146e12082f4d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（19 行，点开展开）</b></summary>
+
+```
+Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
+
+The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
+
+A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
+
+She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
+
+The scene transitions to a stylish café where she effortlessly pays for her coffee using the smartwatch. Cinematic close-ups highlight the contactless payment animation, subtle wrist gestures, and premium design.
+
+Later she walks through vibrant city streets, using the smartwatch for navigation, controlling her music, reading messages, checking the weather, and setting reminders. Natural lifestyle moments show her confidently interacting with the watch without ever reaching for her phone.
+
+Golden hour arrives as she relaxes on a rooftop overlooking the city skyline. She raises her wrist toward the sunset, and the smartwatch display transitions into a beautiful golden watch face. Macro shots emphasize the premium craftsmanship, slim profile, sapphire glass reflections, and luxury finish.
+
+The final cinematic hero shot shows her smiling warmly toward the camera while gently holding her wrist forward, making the smartwatch the focal point. The camera slowly circles around her before pulling back to reveal the glowing city skyline bathed in golden evening light.
+
+Natural ambient audio only: birds chirping, footsteps, gentle breeze, smartwatch tap sounds, subtle notification chimes, café ambience, coffee machine sounds, city ambience, leaves rustling. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
+
+Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinematography, smooth handheld and gimbal camera movement, cinematic push-ins, elegant orbit shots, realistic skin texture, physically accurate lighting, shallow depth of field, luxury lifestyle aesthetic, photorealistic product reflections, 4K HDR, 24fps, 16:9 widescreen.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 雨夜车窗上的指尖
+
+> Rainy windows, blurred city lights, and quiet moments that somehow say everything without a single word. Created with se
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithminal-seedance-ai-5612b068051f.jpg" width="600" alt="雨夜车窗上的指尖">](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithMinal | **来源:** [原帖](https://x.com/AIwithMinal/status/2093560634822762971) | **发布:** 2026-08-29 | **热度:** 20
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.5 分) · [产物](https://media.goodcase.ai/retests/aiwithminal-seedance-ai-5612b068051f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Cinematic close-up of a delicate feminine hand gently touching a rain-covered car window, tiny raindrops and water trails visible on the glass, blurred city lights glowing in blue, red, and white tones outside, dreamy nighttime atmosphere, emotional and melancholic mood, shallow depth of field, creamy bokeh, soft ambient lighting, realistic skin texture, cinematic color grading, ultra-realistic photography, 85mm lens, f/1.8, HDR, highly detailed, vertical 9:16 composition.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 黏土定格迷你能多益咖啡馆
+
+> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
+
+[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="黏土定格迷你能多益咖啡馆">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MayaAiCreator | **来源:** [原帖](https://x.com/MayaAiCreator/status/2091397686104588650) | **发布:** 2026-08-23 | **热度:** 20
+
+**稳定度：** 77/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/mayaaicreator-seedance-ai-99e38c199ba8/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（12 行，点开展开）</b></summary>
+
+```
+A prompt to recreate this stop-motion claymation style AI video:
+Seedance 2.0. 
+​Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence & Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 道士少女与巨人的山路追车
 
@@ -92,6 +240,24 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 吉卜力风格 Starbucks 广告
+
+> 一个温馨愉悦的 2D 动画风格 Starbucks 咖啡广告提示词，融合了吉卜力美学、都市生活场景及生动的动画表现。
+
+[<img src="https://media.goodcase.ai/media/poster/starbucks-739b454ab5c1.jpg" width="600" alt="吉卜力风格 Starbucks 广告">](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2080914390782779861) | **发布:** 2026-07-25 | **热度:** 19
+
+**稳定度：** 81/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.3 分) · [产物](https://media.goodcase.ai/retests/starbucks-739b454ab5c1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Coffee featuring a young man enjoying a bright morning in the city. He picks up a Starbucks Caffè Latte from a convenience store, takes a refreshing sip, then works and socializes with friends in a cozy café while using his laptop and notebook. Warm sunlight, soft colors, expressive character animation, and upbeat acoustic music create a cheerful, inspiring atmosphere. End with a close-up of the Starbucks Caffè Latte bottles.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 3D 烘焙动画序列
 
@@ -430,24 +596,6 @@ Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-def15f90bf27?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 混乱早晨动画短片
-
-> 一个关于一名男子混乱早晨日常的幽默动画短片叙事提示词，最终发现这一切只是一场噩梦。
-
-[<img src="https://media.goodcase.ai/media/poster/case-398be18644ee.jpg" width="600" alt="混乱早晨动画短片">](https://goodcase.ai/cases/case-398be18644ee?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2080354151750668360) | **发布:** 2026-07-23 | **热度:** 17
-
-**稳定度：** 72/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.5 分) · [产物](https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a humorous animated short showing a chaotic morning where a man oversleeps, wakes up in panic, rushes through his routine, grabs a quick breakfast, gets ready in a hurry, and runs through a rainy city trying to catch the bus. After arriving at work, he faces a stressful moment with his boss, only to suddenly fall backward and reveal it was all a nightmare. Use expressive characters, fast-paced action, exaggerated emotions, and a playful cartoon style.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-398be18644ee?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 可口可乐时尚转场广告
 
 > 一份全面的视频生成提示词，用于制作多场景可口可乐商业广告，包含拼贴风格图形和富有节奏感的服装转场。
@@ -608,6 +756,24 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f5315418af5f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 混乱早晨动画短片
+
+> 一个关于一名男子混乱早晨日常的幽默动画短片叙事提示词，最终发现这一切只是一场噩梦。
+
+[<img src="https://media.goodcase.ai/media/poster/case-398be18644ee.jpg" width="600" alt="混乱早晨动画短片">](https://goodcase.ai/cases/case-398be18644ee?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2080354151750668360) | **发布:** 2026-07-23 | **热度:** 16
+
+**稳定度：** 72/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.5 分) · [产物](https://media.goodcase.ai/retests/case-398be18644ee/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a humorous animated short showing a chaotic morning where a man oversleeps, wakes up in panic, rushes through his routine, grabs a quick breakfast, gets ready in a hurry, and runs through a rainy city trying to catch the bus. After arriving at work, he faces a stressful moment with his boss, only to suddenly fall backward and reveal it was all a nightmare. Use expressive characters, fast-paced action, exaggerated emotions, and a playful cartoon style.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-398be18644ee?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 吉卜力工作室风格牛角面包烘焙坊
 
@@ -805,51 +971,6 @@ Camera: fixed frontal composition throughout, 35mm full-body for character shots
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 海岛微缩模型港口城市蒙太奇
-
-> 一个专业的视频生成提示词，用于创建高端、细节丰富的海岛港口城市微缩模型，包含电影级光影和复杂的组装动画。
-
-[<img src="https://media.goodcase.ai/media/poster/case-8bdac964f9d4.jpg" width="600" alt="海岛微缩模型港口城市蒙太奇">](https://goodcase.ai/cases/case-8bdac964f9d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ai_lifehack55 | **来源:** [原帖](https://x.com/ai_lifehack55/status/2076503632988561413) | **发布:** 2026-07-13 | **热度:** 14
-
-**稳定度：** 81/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.8 分) · [产物](https://media.goodcase.ai/retests/case-8bdac964f9d4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（23 行，点开展开）</b></summary>
-
-```
-[CONDITION DEFINITION]
-1:1スクエア、15秒、参照画像なし。広大な島全体に港町が高速で組み上がる、シネマティックな高級ミニチュア・ジオラマ形成モンタージュ。方向性は、チープな玩具ではなく、高級な手作りジオラマ、高級コレクタートイ、映画撮影用の精密模型のような質感。可愛らしさ、整理された美しさ、模型ならではの楽しさを残しつつ、島全体が大きく広がる壮大感を出す。明るくクリアな昼光、青い海、白い波、赤・青・白の屋根、木の桟橋、石の岸壁、灯台、橋、運河、丘の上の街並み、複数の港区画を見せる。主役は人物ではなく、巨大な港島ジオラマそのもの。文字、ロゴ、透かし、字幕は不要。
-
-[SHOT/FLOW]
-0.0〜3.0秒：
-広角の高い俯瞰ショットから開始する。小さな箱庭ではなく、青い海に囲まれた大きな島全体を見せる。何もない島の地形に、海岸線、湾、防波堤、崖、丘、港口、運河、複数の岸壁、橋、主要道路、段差のある街区の輪郭が高速で現れ、まず島と港の大きな骨格が一気に完成する。最初から外海、湾、丘、港の広がりを見せ、こじんまりした印象を避ける。
-3.0〜6.5秒：
-カメラは広角を保ったまま、ゆるやかに下降しながら港側へ前進する。木の桟橋、石畳、階段、手すり、倉庫、漁具小屋、運河沿いの建物、赤・青・白の屋根の家並み、丘へ続く細い道が、カチッとはまるようにテンポよく組み上がる。寄りすぎず、常に港・丘・外海の奥行きが見える構図にする。
-6.5〜10.0秒：
-自然な場面転換を入れ、港の中距離ショットへ移る。複数の桟橋、小舟、帆船、係留ロープ、木箱、小型クレーン、街灯、旗、橋、運河、岸壁の石の継ぎ目、桟橋の板などの細部が連続して完成する。ここは形成の快感を最も強く見せる場面だが、小物の寄りだけにせず、広い港区画全体が一気に密度を増していくように見せる。
-10.0〜12.5秒：
-灯台、丘の上の街並み、複数の港区画、外海へ続く湾を見せる。灯台が完成し、屋根、窓、橋、街灯、船、旗が最後の仕上げとして整い、広大な港島ジオラマが完成形に近づく。ここで島全体のスケール感をもう一度強く見せる。
-12.5〜15.0秒：
-完成した港島に命が宿る。水面がきらめき、小舟が少し揺れ、旗とロープが風になびき、灯台の光がゆっくり回り、窓や街灯が小さく点灯する。最後は広角で大きく引いた壮大な全景。港, 丘, 灯台, 複数の桟橋, 外海まで含めて, 大きな高級ジオラマ島が可愛らしく息づき始めた余韻で締める。
-
-[CAMERA/EDITING]
-カメラは広角を重視し、島全体の広がりを常に感じさせる。開始は高い俯瞰、次に下降前進、港沿いの近接通過、灯台まわりの軽い回り込み、最後は大きく引いた全景。15秒内に2〜3回の自然な場面転換を入れる。寄りカットは入れてよいが、寄りすぎて小さな玩具だけに見えないようにする。前景・中景・遠景を重ね、港、丘、灯台、外海が同時に見える構図を作る。テンポは速く、形成の快感を重視する。単調な直線移動や長い静止は避ける。
-
-[SOUND]
-BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあるシネマティックな音楽。高級ジオラマが完成していく高揚感を支えるが、派手すぎない。効果音は小さな組み立て音、木や石がはまる音、軽いクリック音、水音、波のさざめき、ロープや旗の音、船のきしみ、遠いカモメ、灯台の小さな機械音。セリフなし、ナレーションなし。
-
-[NEGATIVE]
-小さすぎる島、こじんまりした箱庭、安い玩具感、チープなプラスチック感、雑なクラフト感、狭い港、数軒だけの町、スケールのない構図、暗い曇天、濁った海、実物大の巨大人間、人物主役化、文字、ロゴ、透かし、字幕、単調な直線カメラ、完成後に完全静止するだけのラストを避ける。
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8bdac964f9d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### K-Pop 偶像后台 Vlog
 
 > 一个为 Seedance 2.0 设计的专业 4K 分镜脚本提示词，展示了 K-pop 偶像在后台化妆间的场景，包含运镜指导及韩语对话。
@@ -906,20 +1027,6 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 手绘定格动画：暴风雪场景
-
-> 这是一个为 Seedance 2.0 设计的精细定格动画提示词，旨在呈现一种手绘 2D 风格，描绘暴风雪中狼群袭击哈萨克族毡房营地的场景。
-
-[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="手绘定格动画：暴风雪场景">](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @piotrbinkowski | **来源:** [原帖](https://x.com/piotrbinkowski/status/2078515110855753844) | **发布:** 2026-07-18 | **热度:** 13
-
-```
-Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 定格动画：狼群袭击序列
 
 > 这是一个为 Seedance 2.0 设计的写实定格动画提示词，描述了暴风雪中残酷的狼群袭击过程，重点强调物理效果和摄像机运动。
@@ -972,6 +1079,51 @@ REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, o
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-8a3e0b49e77b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 海岛微缩模型港口城市蒙太奇
+
+> 一个专业的视频生成提示词，用于创建高端、细节丰富的海岛港口城市微缩模型，包含电影级光影和复杂的组装动画。
+
+[<img src="https://media.goodcase.ai/media/poster/case-8bdac964f9d4.jpg" width="600" alt="海岛微缩模型港口城市蒙太奇">](https://goodcase.ai/cases/case-8bdac964f9d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ai_lifehack55 | **来源:** [原帖](https://x.com/ai_lifehack55/status/2076503632988561413) | **发布:** 2026-07-13 | **热度:** 13
+
+**稳定度：** 81/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.8 分) · [产物](https://media.goodcase.ai/retests/case-8bdac964f9d4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（23 行，点开展开）</b></summary>
+
+```
+[CONDITION DEFINITION]
+1:1スクエア、15秒、参照画像なし。広大な島全体に港町が高速で組み上がる、シネマティックな高級ミニチュア・ジオラマ形成モンタージュ。方向性は、チープな玩具ではなく、高級な手作りジオラマ、高級コレクタートイ、映画撮影用の精密模型のような質感。可愛らしさ、整理された美しさ、模型ならではの楽しさを残しつつ、島全体が大きく広がる壮大感を出す。明るくクリアな昼光、青い海、白い波、赤・青・白の屋根、木の桟橋、石の岸壁、灯台、橋、運河、丘の上の街並み、複数の港区画を見せる。主役は人物ではなく、巨大な港島ジオラマそのもの。文字、ロゴ、透かし、字幕は不要。
+
+[SHOT/FLOW]
+0.0〜3.0秒：
+広角の高い俯瞰ショットから開始する。小さな箱庭ではなく、青い海に囲まれた大きな島全体を見せる。何もない島の地形に、海岸線、湾、防波堤、崖、丘、港口、運河、複数の岸壁、橋、主要道路、段差のある街区の輪郭が高速で現れ、まず島と港の大きな骨格が一気に完成する。最初から外海、湾、丘、港の広がりを見せ、こじんまりした印象を避ける。
+3.0〜6.5秒：
+カメラは広角を保ったまま、ゆるやかに下降しながら港側へ前進する。木の桟橋、石畳、階段、手すり、倉庫、漁具小屋、運河沿いの建物、赤・青・白の屋根の家並み、丘へ続く細い道が、カチッとはまるようにテンポよく組み上がる。寄りすぎず、常に港・丘・外海の奥行きが見える構図にする。
+6.5〜10.0秒：
+自然な場面転換を入れ、港の中距離ショットへ移る。複数の桟橋、小舟、帆船、係留ロープ、木箱、小型クレーン、街灯、旗、橋、運河、岸壁の石の継ぎ目、桟橋の板などの細部が連続して完成する。ここは形成の快感を最も強く見せる場面だが、小物の寄りだけにせず、広い港区画全体が一気に密度を増していくように見せる。
+10.0〜12.5秒：
+灯台、丘の上の街並み、複数の港区画、外海へ続く湾を見せる。灯台が完成し、屋根、窓、橋、街灯、船、旗が最後の仕上げとして整い、広大な港島ジオラマが完成形に近づく。ここで島全体のスケール感をもう一度強く見せる。
+12.5〜15.0秒：
+完成した港島に命が宿る。水面がきらめき、小舟が少し揺れ、旗とロープが風になびき、灯台の光がゆっくり回り、窓や街灯が小さく点灯する。最後は広角で大きく引いた壮大な全景。港, 丘, 灯台, 複数の桟橋, 外海まで含めて, 大きな高級ジオラマ島が可愛らしく息づき始めた余韻で締める。
+
+[CAMERA/EDITING]
+カメラは広角を重視し、島全体の広がりを常に感じさせる。開始は高い俯瞰、次に下降前進、港沿いの近接通過、灯台まわりの軽い回り込み、最後は大きく引いた全景。15秒内に2〜3回の自然な場面転換を入れる。寄りカットは入れてよいが、寄りすぎて小さな玩具だけに見えないようにする。前景・中景・遠景を重ね、港、丘、灯台、外海が同時に見える構図を作る。テンポは速く、形成の快感を重視する。単調な直線移動や長い静止は避ける。
+
+[SOUND]
+BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあるシネマティックな音楽。高級ジオラマが完成していく高揚感を支えるが、派手すぎない。効果音は小さな組み立て音、木や石がはまる音、軽いクリック音、水音、波のさざめき、ロープや旗の音、船のきしみ、遠いカモメ、灯台の小さな機械音。セリフなし、ナレーションなし。
+
+[NEGATIVE]
+小さすぎる島、こじんまりした箱庭、安い玩具感、チープなプラスチック感、雑なクラフト感、狭い港、数軒だけの町、スケールのない構図、暗い曇天、濁った海、実物大の巨大人間、人物主役化、文字、ロゴ、透かし、字幕、単調な直線カメラ、完成後に完全静止するだけのラストを避ける。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8bdac964f9d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Stylized 3D Animation: Old Man and Pigeon
 
@@ -1072,23 +1224,19 @@ M-01. Hongdae Busking Street & Tattoo Shop Tour
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 无线耳机产品评测
+### 手绘定格动画：暴风雪场景
 
-> 一个商业风格的视频提示词，适用于年轻创作者评测无线耳机，结合了自然的互动与精致的产品特写镜头。
+> 这是一个为 Seedance 2.0 设计的精细定格动画提示词，旨在呈现一种手绘 2D 风格，描绘暴风雪中狼群袭击哈萨克族毡房营地的场景。
 
-[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="无线耳机产品评测">](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="手绘定格动画：暴风雪场景">](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2078490755958780363) | **发布:** 2026-07-18 | **热度:** 12
-
-**稳定度：** 84/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.9 分) · [产物](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @piotrbinkowski | **来源:** [原帖](https://x.com/piotrbinkowski/status/2078515110855753844) | **发布:** 2026-07-18 | **热度:** 12
 
 ```
-A young creator walks into a bright living room holding a pair of sleek wireless earbuds still inside their charging case. Looking directly into the camera, they smile and say, 'These have honestly become my everyday essential.' They open the case, put the earbuds in, and instantly transition into a quick montage of working on a laptop, making coffee, and taking a short walk outside while music plays. Close-up shots highlight the earbuds' premium design and secure fit. The creator finishes by holding the charging case toward the camera and says, 'Great sound, all-day comfort, and I barely need to recharge them.' End with a clean product hero shot on a table and on-screen text: 'Upgrade your everyday audio.' Natural facial expressions, smooth handheld camera movement, cinematic depth of field, authentic UGC feel, high-quality audio, realistic lighting, premium commercial quality.
+Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 电影感酸种面包烘焙延时摄影
 
@@ -1190,6 +1338,24 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-6f13437e4b40?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 无线耳机产品评测
+
+> 一个商业风格的视频提示词，适用于年轻创作者评测无线耳机，结合了自然的互动与精致的产品特写镜头。
+
+[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="无线耳机产品评测">](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Goodmanprotocol | **来源:** [原帖](https://x.com/Goodmanprotocol/status/2078490755958780363) | **发布:** 2026-07-18 | **热度:** 11
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.9 分) · [产物](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A young creator walks into a bright living room holding a pair of sleek wireless earbuds still inside their charging case. Looking directly into the camera, they smile and say, 'These have honestly become my everyday essential.' They open the case, put the earbuds in, and instantly transition into a quick montage of working on a laptop, making coffee, and taking a short walk outside while music plays. Close-up shots highlight the earbuds' premium design and secure fit. The creator finishes by holding the charging case toward the camera and says, 'Great sound, all-day comfort, and I barely need to recharge them.' End with a clean product hero shot on a table and on-screen text: 'Upgrade your everyday audio.' Natural facial expressions, smooth handheld camera movement, cinematic depth of field, authentic UGC feel, high-quality audio, realistic lighting, premium commercial quality.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Water Walking Xianxia Fraud
 
@@ -3410,165 +3576,6 @@ Location: Traditional Korean BBQ restaurant with stone tabletop grill.
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-72e571e9353d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 昭和时代复古客厅场景
-
-> 一个叙事性提示词，描绘了昭和时代祖孙共处的怀旧场景，重点在于人物互动与对话。
-
-[<img src="https://media.goodcase.ai/media/poster/case-a845e1418b39.jpg" width="600" alt="昭和时代复古客厅场景">](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SanShiroH_X | **来源:** [原帖](https://x.com/SanShiroH_X/status/2081189582553657528) | **发布:** 2026-07-26 | **热度:** 0
-
-**稳定度：** 78/100
-
-**复测：** 共 2 次
-
-- Grok Imagine · 2026-10-02 · ✅ 复现 (78 分) · [产物](https://media.goodcase.ai/retests/case-a845e1418b39/video-grok-imagine-20261002-phase1/generated.mp4)
-- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失败 (无评分)
-
-```
-居間でテレビを観ていた祖母が立ち上がり振り返って孫たちを見る、祖母が孫たちに「アンタたち、オフロ入ってきなさい！」と優しく声をかける、幼い姉妹たちが明るく「はぁ〜い！」と返事をし、脱いだ下駄を並べ裸足で居間へ上がっていく、年の離れた紫色の浴衣を着た姉がバケツを片付けながら幼い姉妹に「足ふきなさい！」と声をかける
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 硬核科幻动漫剪辑
-
-> 一段为角色 Kael Drayn 制作的超快节奏动漫动作剪辑，呈现硬核科幻美学与可变帧率效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-251215797a14.jpg" width="600" alt="硬核科幻动漫剪辑">](https://goodcase.ai/cases/case-251215797a14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsPixieVerse | **来源:** [原帖](https://x.com/itsPixieVerse/status/2081161446671651074) | **发布:** 2026-07-25 | **热度:** 0
-
-**稳定度：** 75/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.9 分) · [产物](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（36 行，点开展开）</b></summary>
-
-```
-KAEL DRAYN @[Image] — "Frontier Justice" | Action Sequence. 15-second montage, hyper-kinetic rhythmic editing, variable frame
-rates.
-
-Art Direction & Vibe: Premium key art. Unified style: high-end gritty sci-fi
-anime render, sharp graphic linework, cinematic spatial lighting. Setting:
-lawless outer-rim outpost, dusty streets, rusted corrugated metal, harsh desert
-sun.
-
-Color Discipline: Suppressed palette: sun-bleached beige, dry ochre, rusted
-iron, muted olive. Accents: his terra-cotta skin/markings, searing crimson enemy
-blaster bolts, and the blinding neon-green of his plasma sword. High contrast;
-the plasma blade casts stark green rim-light on kicking dust. Atmosphere:
-blowing sand, heat distortion, flying sparks, kinetic motion blur.
-
-The Character: Locked design (match reference): KAEL DRAYN, Outer Rim Sentinel.
-Patterned alien head-tails, dark facial markings, calm focused eyes. Earth-toned
-tactical gear, draped olive cowl, utility belts, combat boots. Wields a
-mechanical hilt emitting a neon-green plasma blade. Demeanor: disciplined,
-precise, unshakeable — zero wasted movement amidst chaos.
-
-Shot Design: Rotate combat grammar. Macros (thumb igniting hilt, green blade
-melting a crimson blaster bolt, tactical boot pivoting in sand) to wide
-acrobatic leaping strikes. Hard diagonals, dirty over-the-shoulder perspectives,
-dynamic low-angle hero framing. Lighting: blistering harsh daylight, intense
-neon-green ambient glow during strikes. 3 environmental combat frames: a
-scorching blast-mark on an adobe wall, sliced metal debris falling, wind
-sweeping dust over footprints.
-
-Story Arc: Open on tense stillness. Omens: shifting shadows, a mercenary's
-weapon clicking. Introduce in defense: mechanical hilt snaps up, blade ignites,
-tight macro framing of rapid blaster deflection. Escalate through the
-counter-attack: Kael fluidly advances through the crossfire, a blur of leaping
-strikes and spinning green light trails carving through the dust. Resolve
-climactic frame: Kael in a grounded low stance, sword sheathed, cowl blowing in
-the wind, completely unbothered amidst fallen adversaries. High-velocity
-whip-pans between beats; kinetic precision.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-251215797a14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 奢华美妆护肤 ASMR
-
-> 一个创意提示词，用于生成带有傲娇 ASMR 个性的高维护奢华美妆与护肤流程，呈现复古摄像机拍摄风格。
-
-[<img src="https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg" width="600" alt="奢华美妆护肤 ASMR">](https://goodcase.ai/cases/asmr-eb8937adce5b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @sebatheepan | **来源:** [原帖](https://x.com/sebatheepan/status/2080999511195828239) | **发布:** 2026-07-25 | **热度:** 0
-
-**稳定度：** 75/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.3 分) · [产物](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements- seedance 2.0 prompt
-
-CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror stand. Soft diffuse lighting, delicate lens flare, gentle zoom adjustments, subtle tape grain, polished high-end aesthetic. STYLE: High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements. Paws delicately patting bottles, slow blinks, arrogant pauses. SUBJECT: Fluffy white Persian cat with a flat smushed face, emerald green eyes, wearing a tiny silk hair wrap. Smug, unimpressed expression, regal demeanor. SETTING: Marble bathroom vanity with expensive serum glass bottles, jade roller, plush velvet towel, warm vanity light bulbs. STORYBOARD: → (2s, medium shot) Adjusts camera angle with one claw. "Good morning to everyone except my human who woke me up 3 minutes early." → (1.5s, detail shot) Taps a glass serum bottle with front paw. Crisp clinking glass ASMR sound. → (1.5s, close-up) Slowly pushes serum bottle off the counter while maintaining eye contact with camera. Loud shatter/thud sound below. "Oops. Gravity works. Moving on." → (2s, detail macro shot) Softly licks back of paw and wipes ear in slow motion. Soft grooming ASMR sound. → (1.5s, close-up) Gazes into mirror, tilting head. "Skin is glowing, pores are non-existent. You're welcome." → (1.5s, medium handheld shot) Uses jade roller on forehead using tiny paw. "Reducing puffiness from sleeping 18 hours instead of 19." → (1.5s, macro detail shot) Sniffs a tub of catnip cream, letting out a delicate sneezed 'achoo'. → (1.5s, medium shot) Sits tall, smoothing chest fur with arrogant posture. "If you can't afford this routine, just say that." → (1s, ending shot) Slow blinks condescendingly into lens. "Don't forget to subscribe. Or don't. I don't care." → (1s, final shot) Swats camera violently off vanity counter. Video cuts to static grid. AUDIO NOTES: Glass bottle clinking, soft licking/grooming sounds, heavy purring sub-bass, arrogant posh voice with refined lip movements. REALISM & COMEDY NOTES: Photorealistic white Persian fur physics, subtle whisker twitches, natural cat slow-blinks, hysterical condescending tone paired with classic cat chaotic behavior (knocking things off tables).
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-eb8937adce5b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 暗黑超现实镜面反射恐怖短片
-
-> 一个复杂的电影级视频提示词，呈现了一场关于男人与其感知反射影像的心理恐怖场景。镜头从对称的中景转换到戏剧性的慢动作镜面破碎，最终以无限镜像虚空和硬切至黑屏结束。
-
-[<img src="https://media.goodcase.ai/media/poster/case-50692082320d.jpg" width="600" alt="暗黑超现实镜面反射恐怖短片">](https://goodcase.ai/cases/case-50692082320d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Nexustechai1 | **来源:** [原帖](https://x.com/Nexustechai1/status/2081527386508611807) | **发布:** 2026-07-26 | **热度:** -
-
-<details>
-<summary><b>完整 prompt（6 行，点开展开）</b></summary>
-
-```
-@referance image As first frame. A sharply dressed man in a dark blazer and black shirt stands facing a tall ornate mirror in complete darkness. His reflection stares back — but the reflection smiles while he does not.
-0–2s: Medium shot, symmetrical composition — the man on the left, his reflection on the right. Camera holds perfectly still. A cold overhead spotlight illuminates only him and the mirror. His expression is stone-cold. His reflection slowly tilts its head and grins wider. In a deep voice with metallic reverb: "You're not me." The reflection mouths the words simultaneously but slightly delayed. A dissonant string tone swells underneath.
-2–5s: On the bass hit, he punches the mirror. Time shifts to extreme slow motion at the moment of impact. The glass cracks in a radial spiderweb pattern from his fist outward. Each crack emits a thin line of white light. Macro detail: his knuckles pressing into the fracture point, glass beginning to separate, light bleeding through. The shards start to lift outward toward the camera, each one containing a different version of his reflection — one laughing, one screaming, one calm, one looking away. Bass reverberates with a metallic distortion.
-5–9s: The music drives forward. He steps through the broken mirror frame into a mirrored void — infinite reflections of himself stretching in every direction. Camera pulls back into an extreme wide shot revealing thousands of copies. He walks forward, each copy mirroring his movement but one beat delayed, creating a cascading wave effect. Camera tracks alongside him in a smooth lateral dolly. The copies begin diverging — some stop walking, some turn to face him, some dissolve into particles. He keeps walking, unflinching.
-9–12s: The music reaches maximum intensity. He stops. Every copy stops. He turns to face the camera directly. Every copy turns to face him. Silence. Then on the final beat, every copy shatters simultaneously into mirror fragments that fly toward the camera. He remains standing, untouched, as thousands of reflective shards stream past the lens. Final frame: him alone in darkness, no mirror, no copies. One last shard floats past — in it, the smiling reflection winks. Hard cut to black.
-Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Lighting: cold overhead spot, white light through glass cracks, infinite reflections multiplying light sources. Audio: dissonant strings, metallic voice reverb, glass impact, slow-motion crack propagation, cascading footstep echoes, silence-to-shatter, massive final impact. 4K Ultra HD. Maintain consistency.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-50692082320d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 童年玩具对话提示词
-
-> 一段视频提示词，描述了朋友们在酒吧里讨论童年时期男孩和女孩玩具之间差异的对话。
-
-[<img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="600" alt="童年玩具对话提示词">](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @PixelAigc | **来源:** [原帖](https://x.com/PixelAigc/status/2081047344850845750) | **发布:** 2026-07-25 | **热度:** -
-
-**稳定度：** 90/100
-
-**复测：** 共 2 次
-
-- MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (90 分) · [产物](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-- MiniMax H3 768p · 2026-08-09 · ✅ 复现 (无评分) · [产物](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260809-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（11 行，点开展开）</b></summary>
-
-```
-主体：两个男人和一个女人，他们是朋友
-场景：一家酒吧，他们三个人围坐在一张桌子上喝茶
-这里，其中一个男人A说：
-“说一个有意思的事”
-女人说：“什么事？”
-男人B对男人A说：“你说”
-男人A说：“小的时候，男孩子都喜欢电动玩具，女孩子都喜欢娃娃”
-女人说：“是啊”
-男人A说：“等到长大后，好像就反过来了”
-女人楞了一下，突然反应过来，不好意思地笑了。
-男人B看一下男人A说：“哈，还真是这样”
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)

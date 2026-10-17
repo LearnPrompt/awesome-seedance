@@ -1,10 +1,169 @@
 # Seedance 2.0 — 全量案例（第 4/4 页）
 
-Seedance 2.0 全部 284 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 287 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 281–284 条，共 284 条。
+本页：第 279–287 条，共 287 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · **Part 4**
+
+### 昭和时代复古客厅场景
+
+> 一个叙事性提示词，描绘了昭和时代祖孙共处的怀旧场景，重点在于人物互动与对话。
+
+[<img src="https://media.goodcase.ai/media/poster/case-a845e1418b39.jpg" width="600" alt="昭和时代复古客厅场景">](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SanShiroH_X | **来源:** [原帖](https://x.com/SanShiroH_X/status/2081189582553657528) | **发布:** 2026-07-26 | **热度:** 0
+
+**稳定度：** 78/100
+
+**复测：** 共 2 次
+
+- Grok Imagine · 2026-10-02 · ✅ 复现 (78 分) · [产物](https://media.goodcase.ai/retests/case-a845e1418b39/video-grok-imagine-20261002-phase1/generated.mp4)
+- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失败 (无评分)
+
+```
+居間でテレビを観ていた祖母が立ち上がり振り返って孫たちを見る、祖母が孫たちに「アンタたち、オフロ入ってきなさい！」と優しく声をかける、幼い姉妹たちが明るく「はぁ〜い！」と返事をし、脱いだ下駄を並べ裸足で居間へ上がっていく、年の離れた紫色の浴衣を着た姉がバケツを片付けながら幼い姉妹に「足ふきなさい！」と声をかける
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 硬核科幻动漫剪辑
+
+> 一段为角色 Kael Drayn 制作的超快节奏动漫动作剪辑，呈现硬核科幻美学与可变帧率效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-251215797a14.jpg" width="600" alt="硬核科幻动漫剪辑">](https://goodcase.ai/cases/case-251215797a14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsPixieVerse | **来源:** [原帖](https://x.com/itsPixieVerse/status/2081161446671651074) | **发布:** 2026-07-25 | **热度:** 0
+
+**稳定度：** 75/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.9 分) · [产物](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（36 行，点开展开）</b></summary>
+
+```
+KAEL DRAYN @[Image] — "Frontier Justice" | Action Sequence. 15-second montage, hyper-kinetic rhythmic editing, variable frame
+rates.
+
+Art Direction & Vibe: Premium key art. Unified style: high-end gritty sci-fi
+anime render, sharp graphic linework, cinematic spatial lighting. Setting:
+lawless outer-rim outpost, dusty streets, rusted corrugated metal, harsh desert
+sun.
+
+Color Discipline: Suppressed palette: sun-bleached beige, dry ochre, rusted
+iron, muted olive. Accents: his terra-cotta skin/markings, searing crimson enemy
+blaster bolts, and the blinding neon-green of his plasma sword. High contrast;
+the plasma blade casts stark green rim-light on kicking dust. Atmosphere:
+blowing sand, heat distortion, flying sparks, kinetic motion blur.
+
+The Character: Locked design (match reference): KAEL DRAYN, Outer Rim Sentinel.
+Patterned alien head-tails, dark facial markings, calm focused eyes. Earth-toned
+tactical gear, draped olive cowl, utility belts, combat boots. Wields a
+mechanical hilt emitting a neon-green plasma blade. Demeanor: disciplined,
+precise, unshakeable — zero wasted movement amidst chaos.
+
+Shot Design: Rotate combat grammar. Macros (thumb igniting hilt, green blade
+melting a crimson blaster bolt, tactical boot pivoting in sand) to wide
+acrobatic leaping strikes. Hard diagonals, dirty over-the-shoulder perspectives,
+dynamic low-angle hero framing. Lighting: blistering harsh daylight, intense
+neon-green ambient glow during strikes. 3 environmental combat frames: a
+scorching blast-mark on an adobe wall, sliced metal debris falling, wind
+sweeping dust over footprints.
+
+Story Arc: Open on tense stillness. Omens: shifting shadows, a mercenary's
+weapon clicking. Introduce in defense: mechanical hilt snaps up, blade ignites,
+tight macro framing of rapid blaster deflection. Escalate through the
+counter-attack: Kael fluidly advances through the crossfire, a blur of leaping
+strikes and spinning green light trails carving through the dust. Resolve
+climactic frame: Kael in a grounded low stance, sword sheathed, cowl blowing in
+the wind, completely unbothered amidst fallen adversaries. High-velocity
+whip-pans between beats; kinetic precision.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-251215797a14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 奢华美妆护肤 ASMR
+
+> 一个创意提示词，用于生成带有傲娇 ASMR 个性的高维护奢华美妆与护肤流程，呈现复古摄像机拍摄风格。
+
+[<img src="https://media.goodcase.ai/media/poster/asmr-eb8937adce5b.jpg" width="600" alt="奢华美妆护肤 ASMR">](https://goodcase.ai/cases/asmr-eb8937adce5b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @sebatheepan | **来源:** [原帖](https://x.com/sebatheepan/status/2080999511195828239) | **发布:** 2026-07-25 | **热度:** 0
+
+**稳定度：** 75/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (75.3 分) · [产物](https://media.goodcase.ai/retests/asmr-eb8937adce5b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements- seedance 2.0 prompt
+
+CAMERA / LOOK: Propped iPhone/Mini DV camcorder footage on a sleek vanity mirror stand. Soft diffuse lighting, delicate lens flare, gentle zoom adjustments, subtle tape grain, polished high-end aesthetic. STYLE: High-maintenance luxury beauty/skincare routine with sassy, condescending ASMR elements. Paws delicately patting bottles, slow blinks, arrogant pauses. SUBJECT: Fluffy white Persian cat with a flat smushed face, emerald green eyes, wearing a tiny silk hair wrap. Smug, unimpressed expression, regal demeanor. SETTING: Marble bathroom vanity with expensive serum glass bottles, jade roller, plush velvet towel, warm vanity light bulbs. STORYBOARD: → (2s, medium shot) Adjusts camera angle with one claw. "Good morning to everyone except my human who woke me up 3 minutes early." → (1.5s, detail shot) Taps a glass serum bottle with front paw. Crisp clinking glass ASMR sound. → (1.5s, close-up) Slowly pushes serum bottle off the counter while maintaining eye contact with camera. Loud shatter/thud sound below. "Oops. Gravity works. Moving on." → (2s, detail macro shot) Softly licks back of paw and wipes ear in slow motion. Soft grooming ASMR sound. → (1.5s, close-up) Gazes into mirror, tilting head. "Skin is glowing, pores are non-existent. You're welcome." → (1.5s, medium handheld shot) Uses jade roller on forehead using tiny paw. "Reducing puffiness from sleeping 18 hours instead of 19." → (1.5s, macro detail shot) Sniffs a tub of catnip cream, letting out a delicate sneezed 'achoo'. → (1.5s, medium shot) Sits tall, smoothing chest fur with arrogant posture. "If you can't afford this routine, just say that." → (1s, ending shot) Slow blinks condescendingly into lens. "Don't forget to subscribe. Or don't. I don't care." → (1s, final shot) Swats camera violently off vanity counter. Video cuts to static grid. AUDIO NOTES: Glass bottle clinking, soft licking/grooming sounds, heavy purring sub-bass, arrogant posh voice with refined lip movements. REALISM & COMEDY NOTES: Photorealistic white Persian fur physics, subtle whisker twitches, natural cat slow-blinks, hysterical condescending tone paired with classic cat chaotic behavior (knocking things off tables).
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-eb8937adce5b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 暗黑超现实镜面反射恐怖短片
+
+> 一个复杂的电影级视频提示词，呈现了一场关于男人与其感知反射影像的心理恐怖场景。镜头从对称的中景转换到戏剧性的慢动作镜面破碎，最终以无限镜像虚空和硬切至黑屏结束。
+
+[<img src="https://media.goodcase.ai/media/poster/case-50692082320d.jpg" width="600" alt="暗黑超现实镜面反射恐怖短片">](https://goodcase.ai/cases/case-50692082320d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Nexustechai1 | **来源:** [原帖](https://x.com/Nexustechai1/status/2081527386508611807) | **发布:** 2026-07-26 | **热度:** -
+
+<details>
+<summary><b>完整 prompt（6 行，点开展开）</b></summary>
+
+```
+@referance image As first frame. A sharply dressed man in a dark blazer and black shirt stands facing a tall ornate mirror in complete darkness. His reflection stares back — but the reflection smiles while he does not.
+0–2s: Medium shot, symmetrical composition — the man on the left, his reflection on the right. Camera holds perfectly still. A cold overhead spotlight illuminates only him and the mirror. His expression is stone-cold. His reflection slowly tilts its head and grins wider. In a deep voice with metallic reverb: "You're not me." The reflection mouths the words simultaneously but slightly delayed. A dissonant string tone swells underneath.
+2–5s: On the bass hit, he punches the mirror. Time shifts to extreme slow motion at the moment of impact. The glass cracks in a radial spiderweb pattern from his fist outward. Each crack emits a thin line of white light. Macro detail: his knuckles pressing into the fracture point, glass beginning to separate, light bleeding through. The shards start to lift outward toward the camera, each one containing a different version of his reflection — one laughing, one screaming, one calm, one looking away. Bass reverberates with a metallic distortion.
+5–9s: The music drives forward. He steps through the broken mirror frame into a mirrored void — infinite reflections of himself stretching in every direction. Camera pulls back into an extreme wide shot revealing thousands of copies. He walks forward, each copy mirroring his movement but one beat delayed, creating a cascading wave effect. Camera tracks alongside him in a smooth lateral dolly. The copies begin diverging — some stop walking, some turn to face him, some dissolve into particles. He keeps walking, unflinching.
+9–12s: The music reaches maximum intensity. He stops. Every copy stops. He turns to face the camera directly. Every copy turns to face him. Silence. Then on the final beat, every copy shatters simultaneously into mirror fragments that fly toward the camera. He remains standing, untouched, as thousands of reflective shards stream past the lens. Final frame: him alone in darkness, no mirror, no copies. One last shard floats past — in it, the smiling reflection winks. Hard cut to black.
+Cinematic texture, film grain, anamorphic lens flare, shallow depth of field. Lighting: cold overhead spot, white light through glass cracks, infinite reflections multiplying light sources. Audio: dissonant strings, metallic voice reverb, glass impact, slow-motion crack propagation, cascading footstep echoes, silence-to-shatter, massive final impact. 4K Ultra HD. Maintain consistency.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-50692082320d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 童年玩具对话提示词
+
+> 一段视频提示词，描述了朋友们在酒吧里讨论童年时期男孩和女孩玩具之间差异的对话。
+
+[<img src="https://media.goodcase.ai/media/poster/case-19957ff473b6.jpg" width="600" alt="童年玩具对话提示词">](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @PixelAigc | **来源:** [原帖](https://x.com/PixelAigc/status/2081047344850845750) | **发布:** 2026-07-25 | **热度:** -
+
+**稳定度：** 90/100
+
+**复测：** 共 2 次
+
+- MiniMax H3 Max 768p · 2026-09-06 · ✅ 复现 (90 分) · [产物](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+- MiniMax H3 768p · 2026-08-09 · ✅ 复现 (无评分) · [产物](https://media.goodcase.ai/retests/case-19957ff473b6/video-minimax-h3-768p-20260809-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（11 行，点开展开）</b></summary>
+
+```
+主体：两个男人和一个女人，他们是朋友
+场景：一家酒吧，他们三个人围坐在一张桌子上喝茶
+这里，其中一个男人A说：
+“说一个有意思的事”
+女人说：“什么事？”
+男人B对男人A说：“你说”
+男人A说：“小的时候，男孩子都喜欢电动玩具，女孩子都喜欢娃娃”
+女人说：“是啊”
+男人A说：“等到长大后，好像就反过来了”
+女人楞了一下，突然反应过来，不好意思地笑了。
+男人B看一下男人A说：“哈，还真是这样”
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-19957ff473b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 可爱兔兔厨师动漫烹饪
 

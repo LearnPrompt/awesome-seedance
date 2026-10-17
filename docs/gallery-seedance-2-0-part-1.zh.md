@@ -1,8 +1,8 @@
 # Seedance 2.0 — 全量案例（第 1/4 页）
 
-Seedance 2.0 全部 284 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 287 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–92 条，共 284 条。
+本页：第 1–90 条，共 287 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
 
@@ -1220,6 +1220,20 @@ Negative prompt: cartoon, plastic-looking stones, exaggerated facial features, s
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-21-second-vertical-9-16-cinematic-stop-motion-animation-557fa2797476?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 背包烈焰爆发的电影感特效镜头
+
+> When a normal school day suddenly turns into absolute chaos. Created with seedance 2.0 Prompt: Create a cinematic, ultra-realistic 9:16 school classroom scene. …
+
+[<img src="https://media.goodcase.ai/cases/916888513d76.jpg" width="600" alt="背包烈焰爆发的电影感特效镜头">](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-9-16-school-classroom-scene-758330c6bd34?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithMinal | **来源:** [原帖](https://x.com/AIwithMinal/status/2105518415201083496) | **发布:** 2026-10-01 | **热度:** 84
+
+```
+Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male student with styled red hair suddenly reacts dramatically as a large burst of flames erupts from a backpack in front of him. Another student in a school uniform sits at a desk in the background, shocked and watching. Warm classroom lighting, realistic fire and smoke effects, dynamic movement, natural facial expressions, detailed environment, cinematic camera motion, shallow depth of field, realistic textures, dramatic atmosphere, high detail, 4K, photorealistic.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-9-16-school-classroom-scene-758330c6bd34?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 西爪哇乡村恋人的夏日漫步
 
 > Kalau yang tadi di hujat karna keliatan AI slop banget wkwkw karna pake model nya bukan seedance Coba kalau yang ini nih, apakah masih terlihat AI ? Gua bikin n…
@@ -2223,20 +2237,6 @@ Use exactly 2 uploaded image assets.\nimage1 = 成年女主唯一且最高优先
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/modern-action-comedy-video-prompt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 背包烈焰爆发的电影感特效镜头
-
-> When a normal school day suddenly turns into absolute chaos. Created with seedance 2.0 Prompt: Create a cinematic, ultra-realistic 9:16 school classroom scene. …
-
-[<img src="https://media.goodcase.ai/cases/916888513d76.jpg" width="600" alt="背包烈焰爆发的电影感特效镜头">](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-9-16-school-classroom-scene-758330c6bd34?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithMinal | **来源:** [原帖](https://x.com/AIwithMinal/status/2105518415201083496) | **发布:** 2026-10-01 | **热度:** 83
-
-```
-Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male student with styled red hair suddenly reacts dramatically as a large burst of flames erupts from a backpack in front of him. Another student in a school uniform sits at a desk in the background, shocked and watching. Warm classroom lighting, realistic fire and smoke effects, dynamic movement, natural facial expressions, detailed environment, cinematic camera motion, shallow depth of field, realistic textures, dramatic atmosphere, high detail, 4K, photorealistic.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-9-16-school-classroom-scene-758330c6bd34?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 波兰自然风光与文化之旅
 
 > "Poland is so beautiful" 🇵🇱 Opus 5.5 - jako orkiestrator i mózg operacji. Tym razem najnowszy model Claude Opus 5.5 ma za zadanie wyprodukować klip video prom…
@@ -2334,31 +2334,13 @@ Keep the scale relationship very clear: giant woman, tiny man, normal-size backg
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-15-second-cinematic-video-prompt-a-realistic-young-korean-schoolgirl-stands-in-b889578e95db?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Cats Chasing via Red Mini Motorcycle
-
-> A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
-
-[<img src="https://media.goodcase.ai/cases/80df57bc40f6.jpg" width="600" alt="Cats Chasing via Red Mini Motorcycle">](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2084901309988425731) | **发布:** 2026-08-05 | **热度:** 81
-
-**稳定度：** 89/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88.8 分) · [产物](https://media.goodcase.ai/retests/cats-chasing-via-red-mini-motorcycle/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 女高中生走廊反击恶作剧学长
 
 > festival committee by day, undefeated by literally always POV: you interrupt Yuki mid-decorating "do try to help next time, senpai" — the most polite threat eve…
 
 [<img src="https://media.goodcase.ai/cases/8eb2b56f694a.jpg" width="600" alt="女高中生走廊反击恶作剧学长">](https://goodcase.ai/cases/seedance-an-old-wooden-japanese-school-corridor-during-festival-prep-week-c86f23f6acfa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2100489249665740964) | **发布:** 2026-09-17 | **热度:** 81
+**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2100489249665740964) | **发布:** 2026-09-17 | **热度:** 82
 
 <details>
 <summary><b>完整 prompt（61 行，点开展开）</b></summary>
@@ -2430,6 +2412,24 @@ POSITIVE LOCKS
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-an-old-wooden-japanese-school-corridor-during-festival-prep-week-c86f23f6acfa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Cats Chasing via Red Mini Motorcycle
+
+> A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
+
+[<img src="https://media.goodcase.ai/cases/80df57bc40f6.jpg" width="600" alt="Cats Chasing via Red Mini Motorcycle">](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2084901309988425731) | **发布:** 2026-08-05 | **热度:** 81
+
+**稳定度：** 89/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88.8 分) · [产物](https://media.goodcase.ai/retests/cats-chasing-via-red-mini-motorcycle/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### GPT Image 2 + Seedance 深海惊魂战机飞行员短片
 
@@ -2574,6 +2574,191 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 厨房柜门异响竟是男子弯腰声
+
+> 推友们来讲讲你们什么时候开始出现这种状况的？ seedance prompt: 【真实系前缀】 15秒，竖屏9:16，30fps。以未经处理的iPhone原生相机录像风格呈现，自动曝光、自动白平衡、自动对焦，无美颜、滤镜、后期调色或电影化特效。 一名不入镜的旁观者站在厨房入口亲手持机，保持双人中全景。画面有真实呼吸起伏…
+
+[<img src="https://media.goodcase.ai/cases/c99fb2e95521.jpg" width="600" alt="厨房柜门异响竟是男子弯腰声">](https://goodcase.ai/cases/seedance-15-9-16-30fps-iphone-5335a2b35468?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2110921024069947764) | **发布:** 2026-10-16 | **热度:** 79
+
+<details>
+<summary><b>完整 prompt（167 行，点开展开）</b></summary>
+
+```
+【真实系前缀】
+
+15秒，竖屏9:16，30fps。以未经处理的iPhone原生相机录像风格呈现，自动曝光、自动白平衡、自动对焦，无美颜、滤镜、后期调色或电影化特效。
+
+一名不入镜的旁观者站在厨房入口亲手持机，保持双人中全景。画面有真实呼吸起伏、轻微不规则手腕抖动和偶尔偏斜的构图。人物突然弯腰或听见异响时，镜头稍迟半拍做小幅调整，不使用稳定器滑行、环绕或戏剧性推近。
+
+使用厨房实际顶灯和窗边自然光。画面整体平坦、略泛白，保留皮肤纹理、发丝、衣料褶皱、橱柜反光、暗部压缩噪点、边缘轻微软化和动作模糊。自动曝光及白平衡只随实际光线小幅变化，不添加霓虹或闪光灯。
+
+对焦偶尔在人物和柜门之间短暂搜索，随后恢复。女主开柜无声、柜门静止而男子弯腰发声，这两个关键验证过程必须清楚，不能被模糊、遮挡或剧烈抖动掩盖。
+
+整体像偶然录下的真实生活片段。人物先听见、再观察、再验证、最后明白，不提前对镜头暗示笑点。
+
+【人物与海妖风姿态】
+
+女主：@1784453e-362e-4524-8a01-57f6d8b2fa82成年女性，带着装饰眼镜@08d81baa-1563-44a8-b3e3-12915431a04a，穿着@7a3d2825-d0d6-45a8-b26b-6a1aa6eaefa5手持一个小白瓷碗。
+
+开场身体微侧形成自然S曲线，肩部放松下沉，颈部舒展，下巴略抬，胯部轻偏，双腿前后错位，眼皮略垂，神态平静、从容、有距离感。
+
+这是自然等候时的姿态，不单独走秀。听到异响后立刻转为疑惑和观察，不持续摆造型、不提前笑。双手拿碗时不同时摸头发或抚颈。
+
+男主：成年男性，黑色略蓬松中短发，深灰色宽松短袖衬衫、褪色蓝色牛仔裤。行动自然，开始时不扶腰、不表现疼痛，自己也以为是柜门出了问题。
+
+两人外貌、衣服、位置保持一致，不新增角色。
+
+【空间与道具】
+
+真实紧凑家庭厨房，奶油白上下橱柜、细长金色把手、浅色瓷砖墙和地面、白色操作台、黑色抽油烟机与燃气灶。
+
+灶上两口带盖粉色锅，墙边有粉色长柄勺。锅具不移动，不冒夸张烟雾。
+
+女主在画面左侧灶台旁，男主从右侧靠近下柜。全程只操作同一扇下柜门，铰链方向固定，向外打开，合拢后与柜体平齐。不能变成抽屉或更换另一扇门。
+
+女主检查柜门时左手拿碗、右手操作，碗不消失、不换手瞬移。
+
+【声音反转：最高优先级】
+
+“嘎——吱”是男主弯腰时产生的荒诞身体声，音色干涩、略拖长，类似旧柜门铰链摩擦。
+
+第一次，弯腰和开门同时发生，制造柜门响的错觉。
+
+女主单独开合柜门时，绝不出现这段嘎吱声。
+
+后来柜门完全不动，男主空手弯腰，同一种嘎吱声再次出现，证明声音来自他。
+
+最后再用一次小幅弯腰确认。
+
+每次嘎吱都与躯干弯曲同步，动作停止，声音随即结束；不要人物停住了，声音还持续。
+
+几次使用同一种音色，不变成放屁、惨叫、骨折、鞋底或锅盖声。
+
+第一次不突出腰部声源，揭晓时再让声音与男子位置明确对应。
+
+【0.00—0.70秒｜日常开场】
+
+双人中全景，同时看见人物表情、男子腰背与下柜门。
+
+女主双手捧碗于腹前，微侧身、肩颈舒展，呈现克制海妖风站姿。
+
+男主从右侧靠近柜子。两人都没有提前预知异响。
+
+【0.70—2.50秒｜开柜、弯腰、第一次嘎吱】
+
+男主右手拉住柜门把手，一边打开门，一边自然弯腰查看柜内。
+
+躯干明显折下与柜门转动重叠时，响起约0.6秒的干涩“嘎——吱”。
+
+镜头保持全景，不切腰部特写，不用表情提前泄露来源。
+
+女主听见后才低头看柜门，眉头轻皱。
+
+男主也停顿一下，随后直起身，轻轻把门关好。起身和关门不额外重复嘎吱声。
+
+【2.50—4.40秒｜误以为柜门老化】
+
+女主先看柜门，再抬眼问：
+
+女主：“啥声啊？”
+
+男主看一眼把手，随口回答：
+
+男主：“柜门老化了吧。”
+
+语气平常，两人真心相信这个解释。男主向右让开半步，保持直立。
+
+【4.40—6.80秒｜女主验证，开关柜门没有嘎吱】
+
+女主左手稳住碗，右手抓同一把手，轻微屈膝前倾，把柜门拉开，再轻轻合上。
+
+这一完整开合必须可见，不能用剪切省略。
+
+这里只有手碰把手、衣料摩擦和轻微合门声，没有嘎吱。
+
+男主站在右侧直立不动，不同时弯腰。
+
+女主看门缝，再看男主，疑惑地说：
+
+女主：“没有啊。”
+
+她站直，右手离开把手。门已经完全关闭。
+
+【6.80—9.30秒｜柜门不动，男子弯腰却响】
+
+男主不相信，向前探身查看。双手自然垂着，明显没有碰门、把手、台面或其他物品。
+
+同一画面清楚保留三个证据：
+
+柜门已经关好；
+
+门和把手完全不动；
+
+只有男主的躯干在弯曲。
+
+他弯到接近第一次的角度时，同样的“嘎——吱”再次响起，约0.6秒。
+
+男主立即停在半弯腰状态，声音随动作停止。
+
+女主视线先看静止的柜门，再移向他的腰背，最后看他的脸。眉头从疑惑逐渐松开，眼睛略睁大，但先不要笑。
+
+男主也意识到不对，慢慢站直。保留短暂安静，让观众自己发现。
+
+【9.30—12.00秒｜再弯一次，彻底确认】
+
+两人对视半拍。男主低头看一眼自己，带着不相信的表情，空手再做一次幅度更小的弯腰。
+
+柜门依然完全关闭、静止。
+
+身体刚折下，同音色的短促“嘎吱”再次出现，约0.35秒。他立刻停住，声音同步结束。
+
+男主站直，嘴角尴尬地动一下，低声说：
+
+男主：“哎哟喂。”
+
+女主先抿住嘴，随后嘴角压不住地扬起，肩膀轻轻颤一下。此时才露出真正明白后的笑意。
+
+【12.00—15.00秒｜忍笑与尴尬收尾】
+
+男主看看柜门，又看看女主，像终于承认“响的是自己”。一只手这时才自然扶一下后腰，动作克制，不表现受伤或剧痛，不摔倒。
+
+女主左手继续拿碗，右手将耳侧一缕发丝拨回，试图恢复从容，却仍忍不住轻笑。身体微侧，肩颈重新放松，带一点海妖风的淡淡笑意，但不是刻意挑逗或嘲讽。
+
+镜头始终保留两人和关闭的柜门。
+
+15秒在他们尴尬对视的生活化反应中结束，不补充解释、不定格、不淡出。
+
+【现场收音】
+
+手机内置麦克风质感，保留房间底噪、脚步、衣料摩擦、手碰把手和轻微合门声。对白自然，有实际空间感，不是干净棚录配音。
+
+无BGM、旁白、罐头笑声或揭晓提示音。
+
+嘎吱声是唯一突出的喜剧声音，不盖住台词。
+
+女主开柜验证时的“没有嘎吱”，必须留出可听见的安静，不用配乐或其他声音填满。
+
+结尾仅允许女主轻微自然笑声。
+
+【真实系后缀与硬约束】
+
+先误认柜门，再用开合无声排除柜门，最后用独立弯腰发声证明来源。因果顺序不可改变。
+
+禁止柜门和男主都发出同一种嘎吱声；禁止柜门在揭晓时晃动；禁止女主开柜时男主同时弯腰。
+
+禁止首次异响前扶腰、龇牙或提前笑；禁止字幕直接写出答案。
+
+“啥声啊”“没有啊”由女主说；“柜门老化了吧”“哎哟喂”由男主说，口型和说话人必须一致。
+
+禁止额外笑点、掉落物、抽屉、摔倒、物件瞬移、多余手臂、夸张身体变形、电影运镜、慢动作、标题、字幕和水印。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-15-9-16-30fps-iphone-5335a2b35468?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 加州落日海滨香水广告
 
@@ -4389,6 +4574,20 @@ Cinematic dynamic action scene full length shot of a fierce female Korean martia
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-dynamic-action-scene-full-length-shot-of-a-fierce-female-korean-marti-86a987ce7df4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 女子为巨型布偶猫洗澡吹毛
+
+> Even giant cats need a little pampering! From a refreshing bath to a fluffy blowout, pure cuteness! Created on seedance 2.0 Prompt: 30-second ultra-realistic ci…
+
+[<img src="https://media.goodcase.ai/cases/8ef7cfb8f43c.jpg" width="600" alt="女子为巨型布偶猫洗澡吹毛">](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **来源:** [原帖](https://x.com/Aiwithmaha/status/2110921969420177453) | **发布:** 2026-10-16 | **热度:** 65
+
+```
+30-second ultra-realistic cinematic video prompt: Create a heartwarming, funny, and visually stunning 30-second video featuring an enormous, fluffy white-and-gray Ragdoll cat with beautiful blue eyes, a pink nose, and extremely soft, thick fur, sitting outside a modern house. A beautiful young Korean woman with long, straight dark hair, a natural smile, and a casual navy-blue outfit approaches the giant cat on a sunny afternoon. She gently sprays water over the cat using a green garden hose, soaking its thick fur while the cat remains calm and adorable. Show realistic water droplets falling from its fur, with detailed wet hair and natural feline expressions. The woman smiles and laughs while carefully washing the giant cat in the driveway, surrounded by greenery and warm sunlight. Transition smoothly to a cozy garage scene where she uses a handheld hair dryer to dry the enormous cat's fluffy coat. The cat closes its eyes happily as warm air blows through its fur, making it look even bigger and funnier. Use realistic animal movements, natural human expressions, cinematic camera angles, soft golden-hour lighting, detailed fur physics, and seamless transitions. Maintain consistent character appearances throughout the video, with photorealistic quality, natural ambient sounds, and no text, logos, or watermarks.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 红衣青年在迷雾古林中躲避巨怪追击
 
 > When speed meets survival One chase, one chance, no room for mistakes. Created on seedance 2.0 Prompt: Create a 15-second cinematic photorealistic action sequen…
@@ -4421,6 +4620,45 @@ A Korean girl with straight dark hair, natural makeup, and a warm youthful appea
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 蓝色光窗与烟雾中的悬浮人影
+
+> "Sometimes you don't fall... you just slowly disappear"💫 Created with Seedance 2.0 Prompt: Create a 12.8-second surreal cinematic art video in 16:9 format, wit…
+
+[<img src="https://media.goodcase.ai/cases/b3031c9e97a3.jpg" width="600" alt="蓝色光窗与烟雾中的悬浮人影">](https://goodcase.ai/cases/seedance-2-0-create-a-12-8-second-surreal-cinematic-art-video-in-16-9-format-with-a-deep-bl-1c31702f9cce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2110947923412566187) | **发布:** 2026-10-16 | **热度:** 64
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
+
+```
+Create a 12.8-second surreal cinematic art video in 16:9 format, with a deep black background, electric-blue windows, and monochromatic smoke.
+
+SHOT 1 (0:00–0:01): A single glowing blue four-pane window contains a human figure floating horizontally above a faint rocky ledge.
+
+SHOT 2 (0:01–0:03): The window dissolves into darkness, leaving the same floating human figure in grayscale as thin smoky strands emerge around the body.
+
+SHOT 3 (0:03–0:05): Feather-like smoke filaments curl into an elongated elliptical ring around the suspended figure.
+
+SHOT 4 (0:05–0:07): Gray-white smoky ribbons sweep horizontally around the body, stretching and flowing through the black environment.
+
+SHOT 5 (0:07–0:08): The smoke dissolves as a glowing blue window smoothly reappears behind the floating figure.
+
+SHOT 6 (0:08–0:10): The single window expands into multiple irregularly arranged blue windows, each containing a human figure in a different floating pose.
+
+SHOT 7 (0:10–0:12.8): Reveal the complete installation of glowing blue windows against a dark textured background, with suspended figures and subtly shimmering light.
+
+STYLE & MOTION: Surreal fine-art cinematography, deep blacks, cold blue illumination, grayscale figures, delicate smoke, volumetric lighting, subtle film grain, smooth morphing transitions, steady wide camera, consistent human anatomy and clothing.
+
+NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fast spins, abrupt zooms, distorted anatomy, extra limbs, unintended duplication, text, logos, or watermarks.
+
+#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart #Darkfantasy
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-12-8-second-surreal-cinematic-art-video-in-16-9-format-with-a-deep-bl-1c31702f9cce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 橙虎战士在燃烧的城市废墟中激战
 
 > When the tiger enters the fight, everything changes.Power, action, and pure cinematic energy. Created on seedance 2.0 Prompt: Create a cinematic 14.6-second act…
@@ -4434,20 +4672,6 @@ Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-14-6-second-action-scene-featuring-a-powerful-anthropomorphi-ae5f2011beaa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 灰猫误触按钮引发厨房大乱
-
-> A tiny paw started the biggest kitchen disaster. Sometimes the cutest troublemakers make the funniest memories. Created on seedance 2.0 Prompt: Created a video,…
-
-[<img src="https://media.goodcase.ai/cases/6906113b3cd0.jpg" width="600" alt="灰猫误触按钮引发厨房大乱">](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2104431076089414068) | **发布:** 2026-09-28 | **热度:** 64
-
-```
-Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国山间夏日露营
 
@@ -4521,6 +4745,20 @@ Use the storyboard grid Image1 as the exact visual reference for character desig
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 灰猫误触按钮引发厨房大乱
+
+> A tiny paw started the biggest kitchen disaster. Sometimes the cutest troublemakers make the funniest memories. Created on seedance 2.0 Prompt: Created a video,…
+
+[<img src="https://media.goodcase.ai/cases/6906113b3cd0.jpg" width="600" alt="灰猫误触按钮引发厨房大乱">](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2104431076089414068) | **发布:** 2026-09-28 | **热度:** 63
+
+```
+Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 战壕里戴钢盔的橘猫士兵
 
 > Tiny soldier, big mission. This little commander is ready for duty! Created on seedance 2.0 prompt: Create a 15-second vertical 9:16 photorealistic cinematic vi…
@@ -4570,135 +4808,6 @@ A graceful young Korean woman with soft short wavy brown hair, delicate features
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-graceful-young-korean-woman-with-soft-short-wavy-brown-hair-delicate-feature-11d70672ecb9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 放学后少女沿海追着列车回眸
-
-> A little school-day journey filled with smiles, sunshine, and peaceful coastal views. Simple moments, beautifully captured. Created on seedance 2.0 Prompt: A ko…
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce.jpg" width="600" alt="放学后少女沿海追着列车回眸">](https://goodcase.ai/cases/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2096440173072674962) | **发布:** 2026-09-06 | **热度:** 62
-
-**稳定度：** 86/100
-
-**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (85.5 分) · [产物](https://media.goodcase.ai/retests/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce/video-grok-imagine-20261002-phase1/generated.mp4)
-
-```
-A korean girl, approximately 30-second cinematic video of a young East Asian schoolgirl with shoulder-length dark brown hair and soft bangs, wearing a classic school uniform consisting of a light blue collared shirt, cream-colored cardigan, navy blue pleated skirt, white socks, and brown loafers, carrying a beige tote bag. The video opens with close-up selfies of her smiling and waving inside a bright Japanese-style classroom filled with wooden desks, chairs, a green chalkboard, and white curtains by large windows, then shows her sitting at a desk writing in a notebook with a pink pencil case nearby, drinking from a bottle of Japanese tea, packing her bag, and walking through the empty classroom. It continues outdoors as she walks away from a school gate along quiet residential streets lined with houses, greenery, and utility poles, then along a scenic coastal path beside railway tracks with the blue ocean and distant mountains visible under clear sunny skies, turning to smile at the camera while a white train passes by in the background, capturing a natural, cheerful, and slice-of-life atmosphere with soft natural lighting throughout.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 霓虹未来舞台K-pop劲舞
-
-> Good vibes, smooth moves, and a beat you can’t resist. When the music hits, you just have to move. Made with Seedance 2.0 on @TopMediai Prompt: A cinematic K-po…
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6.jpg" width="600" alt="霓虹未来舞台K-pop劲舞">](https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CaliraVal | **来源:** [原帖](https://x.com/CaliraVal/status/2095734903883342292) | **发布:** 2026-09-04 | **热度:** 62
-
-**稳定度：** 77/100
-
-**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (77.4 分) · [产物](https://media.goodcase.ai/retests/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6/video-grok-imagine-20261002-phase1/generated.mp4)
-
-```
-A cinematic K-pop dance performance on a futuristic dark stage illuminated by vibrant purple and magenta neon lights. A confident female dancer with a high ponytail, wearing a fitted white crop top and oversized electric-blue pants, performs sharp, powerful choreography with two male backup dancers dressed in black. Start with a full-body symmetrical shot, then smoothly push the camera toward the lead dancer for an intense close-up. Include dynamic hand movements, precise choreography, subtle body motion, realistic facial expressions, flowing hair movement, dramatic stage lighting, glossy reflective floor, atmospheric haze, soft lens flares, and energetic concert visuals.
-
-Audio / Sound Design: Create an energetic modern K-pop instrumental with a powerful electronic beat, punchy bass, crisp kick and snare, rhythmic synths, atmospheric pads, and subtle crowd ambience. Sync the beat precisely with the dancers' movements, adding bass hits and impact sounds on major choreography transitions. Include smooth beat drops, rising synth effects, and cinematic whooshes during camera movements. No dialogue, no vocals, clean polished music-video audio, immersive stereo sound.
-
-Smooth cinematic camera movement, realistic human motion, detailed skin and fabric textures, high-end music-video cinematography, dramatic neon lighting, dynamic choreography, glossy reflections, 4K quality, vertical 9:16.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Analog Fitness Vlog Gym Diary
-
-> A detailed Seedance prompt for creating a realistic 16mm analog-style fitness vlog featuring a character named Chase in a gym setting.
-
-[<img src="https://media.goodcase.ai/media/poster/analog-fitness-vlog-gym-diary.jpg" width="600" alt="Analog Fitness Vlog Gym Diary">](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @YourAlphaMom | **来源:** [原帖](https://x.com/YourAlphaMom/status/2085035378151510274) | **发布:** 2026-08-05 | **热度:** 61
-
-**稳定度：** 80/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (80.4 分) · [产物](https://media.goodcase.ai/retests/analog-fitness-vlog-gym-diary/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（31 行，点开展开）</b></summary>
-
-```
-CAMERA:
-Handheld DV 16mm vlog footage. CHASE films herself at arm’s length and occasionally places the camera on a bench, gym bag, or near the stretching mat. Keep subtle hand movement, drifting composition, autofocus hunting, rushed reframing, uneven zooms, and brief accidental face cropping. The camera itself is never visible.
-
-LOOK:
-Warm analog tape texture with gentle grain, slightly reduced sharpness, soft halos around overhead lights, small exposure shifts, low contrast, and realistic skin tones.
-
-STYLE:
-An intimate end-of-workout diary filmed in a mostly empty gym. The mood is casual and unpolished: tired breathing, small pauses, quiet humor, relaxed movements, and natural smiles.
-
-CHARACTER:
-CHASE — a beautiful white Brazilian Instagram fitness model and lifestyle creator in her 20s. Long wavy chestnut-brown hair tied in a loose ponytail, expressive brown eyes, glowing skin, and a slim athletic figure. She wears a fitted long-sleeve workout top, high-waisted leggings, white socks, sneakers, and a towel loosely resting around her shoulders.
-
-SETTING:
-A quiet boutique gym late in the evening. Stretching mats, a mirrored wall, dumbbell racks, a workout bag, and a protein shake nearby. Warm overhead lighting with a few darker corners in the background.
-
-SCENES:
-CHASE drops onto the mat and catches her breath.
-“Okay… that session is officially over.”
-She stretches forward over one leg and smiles at the camera.
-“I definitely pushed that last set too far.”
-She rolls one shoulder and slowly switches sides.
-“Tomorrow is going to be interesting.”
-Close-up as she reaches into her gym bag and pulls out a protein shake.
-She takes a sip, pauses, and looks pleasantly surprised.
-“Wait… this one is actually good.”
-She raises both arms above her head and le both arms above her head and leans gently to the side.
-“I’d call today a solid eight and a half.”
-She rests her arms on one knee, still slightly out of breath.
-“Exhausted, but in the best way.”
-She stands, throws the bag over her shoulder, and gives the camera a small wave.
-“I’m calling it. See you at the next workout.”
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 雪山木屋里的冬日慢生活
-
-> A quiet winter escape where everything feels slower and more peaceful. From cozy cabin moments to snowy mountain views, this feels like a little dream brought t…
-
-[<img src="https://media.goodcase.ai/cases/ffa31eb53735.jpg" width="600" alt="雪山木屋里的冬日慢生活">](https://goodcase.ai/cases/seedance-create-a-highly-realistic-cinematic-winter-video-of-a-peaceful-woman-staying-in-d5e93fbf164d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2103359307874226667) | **发布:** 2026-09-25 | **热度:** 60
-
-**稳定度：** 82/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (81.7 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-highly-realistic-cinematic-winter-video-of-a-peaceful-woman-staying-in-d5e93fbf164d/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a highly realistic cinematic winter video of a peaceful woman staying in a cozy wooden cabin surrounded by a beautiful snow-covered mountain landscape. Start with an intimate close-up of the woman resting peacefully indoors as warm golden sunlight softly falls across her face through the window. Transition to a wide cinematic view of the snowy cabin balcony, tall pine trees, distant mountains, and a warm sunrise glowing over the landscape. Show small birds flying and landing on the snow-covered wooden railing as the woman gently reaches out to feed them. Capture detailed snow textures, natural bird movements, soft winter wind, and realistic sunlight. Then show her inside the cabin preparing a warm cup of tea beside a traditional kettle near the window. Focus on her hands, the steaming cup, the cozy knitted sweater, and the peaceful snowy scenery outside. Follow her as she walks slowly through a snow-covered wooden pathway wearing a warm cream sweater and dark pants. End with a wide cinematic aerial-style view of the quiet snow-covered cabins, pine forest, mountains, and glowing sunset or sunrise in the distance. Use photorealistic textures, natural human movement, realistic lighting, subtle depth of field, smooth camera motion, atmospheric winter details, and authentic cinematic color grading, making the entire video feel like real-life footage rather than AI-generated.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-highly-realistic-cinematic-winter-video-of-a-peaceful-woman-staying-in-d5e93fbf164d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 雨夜街头的追逐与挣扎
-
-> Rain, suspense, and a cinematic night chase. A dramatic AI-generated scene brought to life with realistic motion and atmosphere. Created on seedance 2.0 Prompt:…
-
-[<img src="https://media.goodcase.ai/cases/6245452cb575.jpg" width="600" alt="雨夜街头的追逐与挣扎">](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2100088243492385019) | **发布:** 2026-09-16 | **热度:** 60
-
-**稳定度：** 80/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.7 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second cinematic, ultra-realistic live-action video set on a rainy city street at night, with wet roads reflecting streetlights and passing car headlights. Show a person walking alone along the sidewalk in the heavy rain, carrying a shoulder bag and wearing a dark rain jacket. Capture the atmosphere with moody cinematic lighting, realistic rain droplets, reflections, mist, and natural nighttime shadows. Gradually introduce another person approaching from behind, creating a sense of tension and uncertainty. Show the main character suddenly reacting and struggling with the approaching person near the storefronts. Continue with both characters running through the rain toward a parked car while the camera follows with dynamic handheld movement. Use realistic human motion, natural body physics, detailed wet clothing, and authentic city ambience. End with the main character standing in the rainy street as headlights illuminate the scene, leaving a dramatic cinematic final moment.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-live-action-video-set-on-a-rainy-5022a7d3ecb8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · [Part 4](./gallery-seedance-2-0-part-4.zh.md)

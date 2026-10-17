@@ -1,22 +1,22 @@
 # Awesome Seedance — 画廊总览
 
-全部 836 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 843 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
 ## 分页
 
-- [Seedance 2.5 · 第 1/7 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–83 条，共 552 条.
-- [Seedance 2.5 · 第 2/7 页](./gallery-seedance-2-5-part-2.zh.md) - 第 84–168 条，共 552 条.
-- [Seedance 2.5 · 第 3/7 页](./gallery-seedance-2-5-part-3.zh.md) - 第 169–259 条，共 552 条.
-- [Seedance 2.5 · 第 4/7 页](./gallery-seedance-2-5-part-4.zh.md) - 第 260–358 条，共 552 条.
-- [Seedance 2.5 · 第 5/7 页](./gallery-seedance-2-5-part-5.zh.md) - 第 359–454 条，共 552 条.
-- [Seedance 2.5 · 第 6/7 页](./gallery-seedance-2-5-part-6.zh.md) - 第 455–525 条，共 552 条.
-- [Seedance 2.5 · 第 7/7 页](./gallery-seedance-2-5-part-7.zh.md) - 第 526–552 条，共 552 条.
-- [Seedance 2.0 · 第 1/4 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–92 条，共 284 条.
-- [Seedance 2.0 · 第 2/4 页](./gallery-seedance-2-0-part-2.zh.md) - 第 93–196 条，共 284 条.
-- [Seedance 2.0 · 第 3/4 页](./gallery-seedance-2-0-part-3.zh.md) - 第 197–280 条，共 284 条.
-- [Seedance 2.0 · 第 4/4 页](./gallery-seedance-2-0-part-4.zh.md) - 第 281–284 条，共 284 条.
+- [Seedance 2.5 · 第 1/7 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–84 条，共 556 条.
+- [Seedance 2.5 · 第 2/7 页](./gallery-seedance-2-5-part-2.zh.md) - 第 85–168 条，共 556 条.
+- [Seedance 2.5 · 第 3/7 页](./gallery-seedance-2-5-part-3.zh.md) - 第 169–259 条，共 556 条.
+- [Seedance 2.5 · 第 4/7 页](./gallery-seedance-2-5-part-4.zh.md) - 第 260–359 条，共 556 条.
+- [Seedance 2.5 · 第 5/7 页](./gallery-seedance-2-5-part-5.zh.md) - 第 360–455 条，共 556 条.
+- [Seedance 2.5 · 第 6/7 页](./gallery-seedance-2-5-part-6.zh.md) - 第 456–527 条，共 556 条.
+- [Seedance 2.5 · 第 7/7 页](./gallery-seedance-2-5-part-7.zh.md) - 第 528–556 条，共 556 条.
+- [Seedance 2.0 · 第 1/4 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–90 条，共 287 条.
+- [Seedance 2.0 · 第 2/4 页](./gallery-seedance-2-0-part-2.zh.md) - 第 91–194 条，共 287 条.
+- [Seedance 2.0 · 第 3/4 页](./gallery-seedance-2-0-part-3.zh.md) - 第 195–278 条，共 287 条.
+- [Seedance 2.0 · 第 4/4 页](./gallery-seedance-2-0-part-4.zh.md) - 第 279–287 条，共 287 条.
 
 ## 仓库里的其他入口
 

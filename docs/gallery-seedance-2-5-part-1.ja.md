@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 1/7）
 
-Seedance 2.5 の全 552 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 556 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 552 件中 1–83 件目。
+このページ: 556 件中 1–83 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md)
 
@@ -1523,6 +1523,48 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Futuristic Highway Chase with Motorcycles and Supercar
+
+> ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
+
+[<img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="600" alt="Futuristic Highway Chase with Motorcycles and Supercar">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2104064261005709551) | **公開日:** 2026-09-27 | **ヒート:** 92
+
+<details>
+<summary><b>プロンプト全文（24 行、クリックで展開）</b></summary>
+
+```
+Cinematic photorealistic sci-fi action sequence, moody desaturated color grade, dramatic lighting, hyper-detailed mechanical design, motion blur for speed, 4K film quality.
+
+Scene 1: Wide low-angle tracking shot of a futuristic armored rider in black tactical exosuit on a black-gold angular sci-fi motorcycle, speeding on empty highway, overcast sky.
+
+Scene 2: Close-up transformation shot — motorcycle's rear panels mechanically unfold like wings while riding at high speed, sparks of light on metal joints.
+
+Scene 3: Low-angle hero reveal shot of a sleek black Batmobile-style supercar with scissor/wing doors opening, front LED light strip glowing.
+
+Scene 4: Rear-tracking low-angle shot of two motorcycles riding side by side on the highway, wheels blurred with speed.
+
+Scene 5: Rear pursuit shot of the black supercar driving with glowing taillights, a motorcycle catching up close behind.
+
+Scene 6: Aerial drone top-down shot of a curving highway with the car and motorcycles racing, small flying drone visible above for scale.
+
+Scene 7: Close-up action shot of the car's front wheel with sparks flying off the road surface, high-speed drift feel.
+
+Scene 8: Interior POV shot from the car's dashboard, glowing speedometer, driving fast through a dark tunnel with lights streaking past.
+
+Scene 9: Tunnel chase shot — motorcycle and car entering/exiting a concrete tunnel, wet road reflections, cinematic light contrast.
+
+Negative prompt: blurry, low quality, distorted proportions, extra limbs, deformed hands, warped motorcycle frame, flickering lights, inconsistent lighting, cartoonish, low-res textures, watermark, text, logo, oversaturated colors, daytime bright sun (unless overcast), shaky unstable camera, jerky motion, unrealistic physics, plastic look, glitch artifacts.
+
+#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #VisualStorytelling #CinematicAI
+#GenerativeAI  #AICreator
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 2.5 Dance Clip Real Enough to Fool You
 
 > Nobody actually thinks this is real, right? Seedance 2.5 gets uncomfortably lifelike, right down to the shadows. Upload your own photo, add the prompt, and you dance too. 10 seconds.
@@ -1881,48 +1923,6 @@ No cinematic commercial look, no gimbal shots, no drone shots, no dramatic light
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Futuristic Highway Chase with Motorcycles and Supercar
-
-> ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
-
-[<img src="https://media.goodcase.ai/cases/1917351d85cd.jpg" width="600" alt="Futuristic Highway Chase with Motorcycles and Supercar">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2104064261005709551) | **公開日:** 2026-09-27 | **ヒート:** 91
-
-<details>
-<summary><b>プロンプト全文（24 行、クリックで展開）</b></summary>
-
-```
-Cinematic photorealistic sci-fi action sequence, moody desaturated color grade, dramatic lighting, hyper-detailed mechanical design, motion blur for speed, 4K film quality.
-
-Scene 1: Wide low-angle tracking shot of a futuristic armored rider in black tactical exosuit on a black-gold angular sci-fi motorcycle, speeding on empty highway, overcast sky.
-
-Scene 2: Close-up transformation shot — motorcycle's rear panels mechanically unfold like wings while riding at high speed, sparks of light on metal joints.
-
-Scene 3: Low-angle hero reveal shot of a sleek black Batmobile-style supercar with scissor/wing doors opening, front LED light strip glowing.
-
-Scene 4: Rear-tracking low-angle shot of two motorcycles riding side by side on the highway, wheels blurred with speed.
-
-Scene 5: Rear pursuit shot of the black supercar driving with glowing taillights, a motorcycle catching up close behind.
-
-Scene 6: Aerial drone top-down shot of a curving highway with the car and motorcycles racing, small flying drone visible above for scale.
-
-Scene 7: Close-up action shot of the car's front wheel with sparks flying off the road surface, high-speed drift feel.
-
-Scene 8: Interior POV shot from the car's dashboard, glowing speedometer, driving fast through a dark tunnel with lights streaking past.
-
-Scene 9: Tunnel chase shot — motorcycle and car entering/exiting a concrete tunnel, wet road reflections, cinematic light contrast.
-
-Negative prompt: blurry, low quality, distorted proportions, extra limbs, deformed hands, warped motorcycle frame, flickering lights, inconsistent lighting, cartoonish, low-res textures, watermark, text, logo, oversaturated colors, daytime bright sun (unless overcast), shaky unstable camera, jerky motion, unrealistic physics, plastic look, glitch artifacts.
-
-#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #VisualStorytelling #CinematicAI
-#GenerativeAI  #AICreator
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Tiny Skateboarder Crosses a Giant at Sunset
 
@@ -2531,6 +2531,45 @@ Cinematic dark fantasy wuxia action scene, low angle dynamic tracking shot. A ma
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-wuxia-action-scene-low-angle-dynamic-tracking-shot-756b1234acd9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Playful Splash After a Beach Rescue
+
+> For a moment, everything stopped. Then She opened her eyes and gave him something to remember. ❤️ Seedance 2.5 Prompt PHOTOREALISTIC CINEMATIC VIDEO, 15 sec, 16…
+
+[<img src="https://media.goodcase.ai/cases/29026eab0155.jpg" width="600" alt="A Playful Splash After a Beach Rescue">](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Harry_thingss | **出典:** [元投稿](https://x.com/Harry_thingss/status/2104579594695409840) | **公開日:** 2026-09-28 | **ヒート:** 89
+
+<details>
+<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
+
+```
+For a moment, everything stopped. Then She opened her eyes and gave him something to remember. ❤️
+
+Seedance 2.5 
+
+Prompt 
+
+PHOTOREALISTIC CINEMATIC VIDEO, 15 sec, 16:9, 35mm lens, shallow depth of field, warm golden-hour light, high-end film look.
+
+CHARACTERS (identical in every frame): Woman, mid-20s, curvy Indian/Latina, wavy shoulder-length brown hair (soaked, on sand), soft makeup, wet olive-green sleeveless bodycon midi dress, gold chain necklace, hoop earrings, watch on left wrist, small floral tattoo on right forearm. Realistic skin, water droplets, sand grains. Boyfriend: early-30s, athletic, wet white t-shirt, dark shorts, short wet hair.
+
+LOCATION: Quiet beach, wet sand, foaming waves behind, side sunlight with rim light on wet hair and skin, light sea breeze.
+
+0-5s: Wide-to-medium shot, slow push-in at sand level. She lies on her back, eyes closed. He drops to his knees, urgently tilts her head and performs rescue-style chest compressions, realistic and non-graphic. Worried, panicked face; water drips from his hair. A wave washes near her feet.
+
+5-10s: Close-up, slight handheld push-in on her hand and face. Her fingers twitch, hand curls, eyelids flutter, chest rises with a breath. He notices, freezes, panic turns to deep relief. Rack focus from her hand to his face.
+
+10-15s: Medium close-up at sand level, both in frame. Still lying down, she opens her eyes, smiles mischievously, and playfully spits a small burst of seawater at his face. Droplets arc slowly, catching sunlight. He recoils, blinks, then laughs in shock. She looks relieved and amused. End on a warm two-shot.
+
+CAMERA: smooth, slight handheld, slow push-ins, no sudden cuts.
+AUDIO: waves, seagulls, wind, her small cough, soft laughter, light emotional score.
+NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, no outfit or jewelry change, no text, no watermark, no cartoon or plastic skin.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Monday Morning’s Upside-Down Water Ritual
 
 > This is how it feels like to wake up on Monday to go to work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic indoor performance-art / fashion editorial vide…
@@ -3017,45 +3056,6 @@ Mood: stylish, effortless, slightly surreal, high-fashion action, “she doesn�
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-this-is-what-happens-when-you-interrupt-her-smoke-break-ee04b3355712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Playful Splash After a Beach Rescue
-
-> For a moment, everything stopped. Then She opened her eyes and gave him something to remember. ❤️ Seedance 2.5 Prompt PHOTOREALISTIC CINEMATIC VIDEO, 15 sec, 16…
-
-[<img src="https://media.goodcase.ai/cases/29026eab0155.jpg" width="600" alt="A Playful Splash After a Beach Rescue">](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Harry_thingss | **出典:** [元投稿](https://x.com/Harry_thingss/status/2104579594695409840) | **公開日:** 2026-09-28 | **ヒート:** 88
-
-<details>
-<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
-
-```
-For a moment, everything stopped. Then She opened her eyes and gave him something to remember. ❤️
-
-Seedance 2.5 
-
-Prompt 
-
-PHOTOREALISTIC CINEMATIC VIDEO, 15 sec, 16:9, 35mm lens, shallow depth of field, warm golden-hour light, high-end film look.
-
-CHARACTERS (identical in every frame): Woman, mid-20s, curvy Indian/Latina, wavy shoulder-length brown hair (soaked, on sand), soft makeup, wet olive-green sleeveless bodycon midi dress, gold chain necklace, hoop earrings, watch on left wrist, small floral tattoo on right forearm. Realistic skin, water droplets, sand grains. Boyfriend: early-30s, athletic, wet white t-shirt, dark shorts, short wet hair.
-
-LOCATION: Quiet beach, wet sand, foaming waves behind, side sunlight with rim light on wet hair and skin, light sea breeze.
-
-0-5s: Wide-to-medium shot, slow push-in at sand level. She lies on her back, eyes closed. He drops to his knees, urgently tilts her head and performs rescue-style chest compressions, realistic and non-graphic. Worried, panicked face; water drips from his hair. A wave washes near her feet.
-
-5-10s: Close-up, slight handheld push-in on her hand and face. Her fingers twitch, hand curls, eyelids flutter, chest rises with a breath. He notices, freezes, panic turns to deep relief. Rack focus from her hand to his face.
-
-10-15s: Medium close-up at sand level, both in frame. Still lying down, she opens her eyes, smiles mischievously, and playfully spits a small burst of seawater at his face. Droplets arc slowly, catching sunlight. He recoils, blinks, then laughs in shock. She looks relieved and amused. End on a warm two-shot.
-
-CAMERA: smooth, slight handheld, slow push-ins, no sudden cuts.
-AUDIO: waves, seagulls, wind, her small cough, soft laughter, light emotional score.
-NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, no outfit or jewelry change, no text, no watermark, no cartoon or plastic skin.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Katen Kyokotsu: Karamatsu Shinju Showdown
 
 > This AI is just cooking it 🔥 Seedance 2.5 on @ImagineArt_X @imagineart_creo Prompt 👇🏻 SCENE — KATEN KYŌKOTSU: KARAMATSU SHINJŪ DURATION: exactly 10 seconds F…
@@ -3342,6 +3342,52 @@ End text:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
+
+> Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
+
+[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | **公開日:** 2026-10-03 | **ヒート:** 87
+
+<details>
+<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
+
+Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
+
+Action Sequence:
+
+The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
+
+As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
+
+The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
+
+Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
+
+Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
+
+Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
+
+Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
+
+Duration: 20 seconds.
+
+Aspect Ratio: 16:9.
+
+Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Lavender-Haired Girl Leaps Through a Pool Wave
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
@@ -3403,52 +3449,6 @@ Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌,
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
-
-> Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
-
-[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | **公開日:** 2026-10-03 | **ヒート:** 86
-
-<details>
-<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
-
-Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
-
-Action Sequence:
-
-The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
-
-As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
-
-The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
-
-Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
-
-Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
-
-Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
-
-Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
-
-Duration: 20 seconds.
-
-Aspect Ratio: 16:9.
-
-Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Handheld Travel Vlog From Apartment to Beach
 
@@ -4330,6 +4330,25 @@ Photorealistic cinematic comedy, realistic water behavior, natural human movemen
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### White-Haired Woman and Giant Black Cat in a Ruined Bedroom
+
+> She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
+
+[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="White-Haired Woman and Giant Black Cat in a Ruined Bedroom">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zyrellix | **出典:** [元投稿](https://x.com/Zyrellix/status/2097594855946113177) | **公開日:** 2026-09-09 | **ヒート:** 85
+
+**安定度:** 83/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
+Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Girl Cycling Through a Korean Alley in Summer
 
 > Something from our local street Seedance 2.5 at service again Prompt : Main subject: Young Korean woman, early 20s, wear
@@ -4567,6 +4586,141 @@ Made with seedance 2.5 on @SocialSight
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Pink-Haired Girl’s Nighttime Functional Workout Challenge
+
+> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
+
+[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="Pink-Haired Girl’s Nighttime Functional Workout Challenge">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2104153857542553754) | **公開日:** 2026-09-27 | **ヒート:** 84
+
+<details>
+<summary><b>プロンプト全文（117 行、クリックで展開）</b></summary>
+
+```
+Why did I think this workout would be easier?
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
+
+Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
+LOOK
+
+Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
+
+STYLE
+
+Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
+
+CHARACTER
+
+CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
+
+She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
+
+SETTING
+
+A smaller industrial-style functional training gym at night.
+
+Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
+
+A half-full water bottle and small towel sit beside a plyometric box.
+
+Background gym members occasionally pass naturally without acknowledging the camera.
+
+STORYBOARD — 15 SECONDS / 6 CUTS
+
+CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
+
+CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
+
+She points behind herself toward a wooden plyometric box.
+
+CHASE:
+“Trying something different tonight.”
+
+She turns the camera too quickly, creating a messy whip-pan.
+
+CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
+
+Camera sits slightly crooked on a low bench.
+
+CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
+
+Her ponytail bounces naturally.
+
+CHASE:
+“Why are step-ups already humbling me?”
+
+She laughs quietly while continuing.
+
+CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
+
+Camera has been repositioned near floor level.
+
+Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
+
+Autofocus briefly locks onto the box instead of her shoes.
+
+No dialogue.
+
+Natural sneaker impacts, distant equipment sounds and her breathing.
+
+CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
+
+A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
+
+The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
+
+After several waves she looks toward the camera with a surprised expression.
+
+CHASE:
+“Okay—this escalated fast.”
+
+Her voice carries a small laugh between breaths.
+
+CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
+
+CHASE grabs the camera immediately after stopping.
+
+The image shakes noticeably while autofocus searches for her sweaty face.
+
+She leans against the plyometric box, catching her breath.
+
+CHASE:
+“I said different. Not easier.”
+
+She gives the camera an exhausted little grin.
+
+CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
+
+Camera sits casually beside her water bottle.
+
+CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
+
+She looks sideways toward the camera.
+
+CHASE:
+“That’s enough character development for tonight.”
+
+She laughs, reaches toward the lens—
+
+The frame shakes as her hand accidentally bumps the camera.
+
+CUT.
+
+AUDIO
+
+Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Waterbending Ambush at a Jungle Temple
 
 > This AI video is absolutely amazing 🔥 Created with Seedance 2.5 Prompt : SCENE — WATERBENDING AMBUSH DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-pho…
@@ -4649,25 +4803,6 @@ NO MUSIC.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### White-Haired Woman and Giant Black Cat in a Ruined Bedroom
-
-> She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
-
-[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="White-Haired Woman and Giant Black Cat in a Ruined Bedroom">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zyrellix | **出典:** [元投稿](https://x.com/Zyrellix/status/2097594855946113177) | **公開日:** 2026-09-09 | **ヒート:** 84
-
-**安定度:** 83/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
-Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### The Little Moments That Make AI Feel Real
 
@@ -5238,263 +5373,6 @@ AUDIO: natural ambience only -wind through wheat, birds, chickens, footsteps on 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-30-second-ultra-realistic-documentary-slice-of-life-video-early-2000s-consumer-c3a9eabe6881?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard
-
-> A 30-second, second-by-second K-POP MV script that locks choreography, lip-sync, editing, and scenes to the audio’s actual beats. The protagonist’s face and outfit remain fixed across six Y2K settings, the number and positions of backup dancers are precisely controlled segment by segment, and the ending hard-stops as a flip phone snaps shut.
-
-[<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwarts | **出典:** [元投稿](https://x.com/aiwarts/status/2085736621685764503) | **公開日:** 2026-08-07 | **ヒート:** 83
-
-**安定度:** 48/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 47.5) · [出力](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（235 行、クリックで展開）</b></summary>
-
-```
-使用@音频1《Zero to Pop》作为唯一音乐、节拍和口型依据，生成一支30秒、16:9、24fps的原创单人K-POP MV。
-
-视频必须完整覆盖音频的0.00–30.00秒，不得截断、延长、变速或自动淡出。不要重新生成背景音乐，不要加入另一首歌曲。
-
-全片只有@图1是主角和主唱。允许出现2—6名伴舞，但伴舞不能获得面部特写、不能对口型、不能遮挡主角或成为第二视觉中心。
-
-主角的脸、发型、发色、身材比例、服装和饰品全程锁定。只有主角按照@音频1中的实际人声精确对口型；没有人声的段落保持闭唇表演。
-
-【整体视觉】
-
-高预算真人K-POP MV，结合Y2K未来主义、怪诞糖果世界和千禧年数字文化：
-
-CRT电子宠物、透明翻盖手机、像素图标、果冻便利店、充气卧室、镭射洗车通道、巨型CD舞台、镀铬金属、透明塑料和CD彩虹衍射。
-
-色彩以泡泡糖粉、电光蓝、蓝莓紫、酸性绿和镀铬银为主。
-
-怪诞元素必须像真正搭建的实景、机械装置和高级视觉特效，不能像廉价AI拼贴、普通夜店或传统赛博朋克城市。
-
-【主角造型】
-
-主角穿原创Y2K未来女团服装：
-
-银白色不对称短夹克、糖果粉亮片内搭、蓝紫渐变低腰工装裤、透明树脂腰带、镀铬圆环饰品、银白厚底运动鞋，以及一个迷你透明翻盖手机挂饰。
-
-服装全程不变。金属、塑料、布料、头发和饰品必须表现真实重量、反光、惯性和自然摆动。
-
-【音频同步原则】
-
-歌曲约128 BPM，每个主节拍间隔约0.469秒。
-
-最重要的画面锁点：
-
-2.78秒：第一个强重拍，正式进入舞蹈。
-6.06秒：第一次换景。
-9.82秒：进入翻盖手机表演镜头。
-12.63秒：进入第一段收束动作。
-14.02秒：音乐明显降能量，切入失重卧室。
-17.78秒：节奏重新启动。
-21.07秒：高潮副歌和巨型CD舞台出现。
-24.82秒：音乐突然抽空，伴舞冻结。
-28.95秒：最后一句和最终特写。
-29.90—30.00秒：翻盖手机合上，画面硬停。
-
-所有剪辑、甩发、转身、手势、踩地、队形变化和摄影机冲击都必须落在@音频1的真实重拍上。
-
-【逐秒镜头时间线】
-
-0.00–0.47秒：
-
-黑暗中出现一条细窄的CRT扫描线，随歌曲第一个电子启动声闪亮。
-
-不要出现人物，不要添加片名或文字。
-
-0.47–1.88秒：
-
-扫描线展开为一台圆角CRT显示器。
-
-屏幕内出现一只原创像素电子宠物。它随着音频中的电子声睁开眼睛，头顶依次跳出像素爱心、电池和小星星。
-
-所有图标只使用抽象像素图形，不要出现品牌、角色或乱码文字。
-
-1.88–2.78秒：
-
-摄影机快速从CRT屏幕中后退，揭示完整的半透明粉色街机房。
-
-主角已经站在CRT前，侧身背对镜头。摄影机停稳时，她缓慢回头，眼神锁定镜头。
-
-她必须在2.78秒第一个强重拍准确击中开场姿势。
-
-2.78–6.06秒：
-
-低机位鱼眼单人中近景。
-
-主角进入第一段独舞：按键式手指动作、肩部弹动、手臂波浪、髋部重心切换和一次快速半转。
-
-所有动作根据@音频1逐拍执行，不要机械地平均分配动作。
-
-主角按照实际人声自然对口型。背景CRT里的像素宠物同步模仿她的节奏，但不能变成人类或复制她的脸。
-
-摄影机围绕主角移动约45度，同时缓慢推进。
-
-6.06秒，主角手掌拍向镜头，形成遮挡式硬切。
-
-6.06–9.82秒：
-
-进入外星果冻便利店。
-
-主角站在粉色自动传送带中央，4名伴舞从两侧货架后滑入，形成主角在最前方的V形队列。
-
-五人完成连续行进编舞：两步滑行、交叉手臂、肩部撞击、一次同步下沉和快速回弹。
-
-主角距离摄影机最近，服装颜色最鲜明，面部始终清晰。伴舞动作统一但幅度略小。
-
-摄影机正面后退，与传送带保持相同速度。
-
-9.82–12.63秒：
-
-中长焦主角单人镜头。
-
-伴舞退到背景并失焦。主角从货架上拿起一只巨大的透明果冻翻盖手机。
-
-她对着手机完成歌曲中这一段的实际对口型，通过眼神和嘴角表现出俏皮、略带嫌弃的态度。
-
-手机按键根据音乐节拍发光。摄影机在强音上做两次短促punch zoom，但不改变主角身份或面部结构。
-
-12.63–14.02秒：
-
-切回全身镜头。
-
-主角把果冻手机抛向空中，4名伴舞重新进入队形。
-
-全员在三个主要节拍上依次完成：
-
-第一拍：双臂向外展开；
-第二拍：快速转身并甩发；
-第三拍：身体下沉后锐利定格。
-
-主角踩亮地面上的圆形像素按钮。一道蓝紫色扫描光从脚底向上扫过所有人物。
-
-14.02秒，音乐降能量的瞬间完成场景转换。
-
-14.02–15.55秒：
-
-进入淡紫色失重充气卧室。
-
-画面由快速舞蹈突然转为稳定、梦幻的长镜头。主角坐在充气床边，房间和家具开始缓慢旋转，但主角仍保持正常垂直方向。
-
-不出现伴舞。
-
-摄影机缓慢靠近。主角根据实际音频进行克制、贴近耳语感的对口型，不做大幅度舞蹈。
-
-透明枕头、小型CD和银色耳机线缓慢漂浮。
-
-15.55–17.78秒：
-
-主角从床边站起，向摄影机走来。
-
-两名伴舞出现在旋转房间的左右墙面，制造重力方向错乱的视觉效果，但不能抢夺主角注意力。
-
-主角伸手触碰一张漂浮的小型CD。CD逐渐膨胀为彩虹色圆形入口。
-
-17.78秒节奏重新出现时，主角迈步穿过CD入口，摄影机紧随她穿过，形成无缝转场。
-
-17.78–21.07秒：
-
-进入镭射泡泡洗车隧道。
-
-节奏重新启动，主角带领4名伴舞向前完成行进式编舞：强力踏步、交叉手臂、头部转向、肩部重击和左右展开队形。
-
-镀铬拱门、粉蓝旋转软刷和彩灯按照真实节拍运动。透明泡泡从人物之间经过，但不得遮挡主角面部。
-
-摄影机在主角正前方快速后退，主角始终位于中心。
-
-20.60–21.07秒之间，主角踢向一个巨大的透明泡泡。泡泡表面转化为CD彩虹纹理。
-
-21.07秒高潮重拍时，泡泡爆开并完成换景。
-
-21.07–24.82秒：
-
-进入巨型CD终章舞台，这是全片能量最高的段落。
-
-主角站在直径12米的旋转CD中心，6名伴舞组成对称半圆。摄影机从高位快速下降至略低于腰部的英雄角度。
-
-主角按照歌曲高潮段落精确对口型，全员完成副歌核心编舞：
-
-两拍快速手臂切换；
-一次髋部重击；
-一次同步旋转；
-一次全身下沉；
-最后伴舞向两侧打开，把舞台中心完全让给主角。
-
-摄影机在主角旋转时绕行半圈，但不能越过轴线或造成左右翻转。
-
-CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
-
-24.82秒音乐突然抽空时，所有伴舞立刻冻结。
-
-24.82–27.00秒：
-
-主角继续保持运动，伴舞像卡顿的电子游戏角色一样定格在背景。
-
-主角独自向摄影机走两步。画面根据音频中的断奏出现克制的数字卡顿效果：同一个动作短暂重复1—2帧，但主角面部保持稳定。
-
-随着音乐继续变空，冻结的伴舞依次化为方形像素颗粒并消失。
-
-主角不得消失、复制或变形。
-
-27.00–28.95秒：
-
-舞台上只剩主角。
-
-巨型CD停止旋转，背景灯光大部分熄灭。摄影机缓慢推近主角面部。
-
-主角取下腰间的迷你透明翻盖手机，将它举到脸旁。她保持闭唇，直到@音频1最后一句人声真正开始。
-
-画面运动变得极简，把注意力完全留给最后一句和主角表情。
-
-28.95–29.90秒：
-
-主角精确对口型歌曲最后一句。
-
-她直视镜头，从冷静表情逐渐变成带有恶作剧感的轻微笑容。摄影机继续推进至面部特写。
-
-只保留银粉色轮廓光和眼睛里的小型方形反光。
-
-29.90–30.00秒：
-
-主角"啪"地合上翻盖手机。
-
-合盖动作必须与歌曲最终收尾音完全同步。背景灯光瞬间熄灭，画面硬切为黑色。
-
-不要淡出，不要延长尾音，不要字幕、Logo或额外结束镜头。
-
-【表演与口型】
-
-只允许主角对口型。口型必须依据@音频1中的真实语音和节奏生成，不要根据文字自行猜测，不要在纯器乐段随机张嘴。
-
-主角在快速舞蹈时仍保持自然呼吸、面部肌肉运动和稳定身份。表情变化需要与音乐能量一致：
-
-前半段俏皮、自信；
-14.02秒后变得梦幻、克制；
-17.78秒重新充满力量；
-21.07秒进入主打歌级舞台状态；
-24.82秒后变得冷静、带恶作剧感。
-
-【硬性限制】
-
-不得改变@音频1的速度、结构或长度。
-不得加入新的背景音乐、对白或无关人声。
-音效只能作为非常轻微的视觉反馈，不能覆盖原曲。
-主角从第一帧到最后一帧必须保持同一张脸。
-不得生成主角克隆体或第二名主唱。
-伴舞最多6名，面孔必须互不相同。
-禁止人物融合、额外肢体、畸形手指、脚底漂移、错误倒影、服装突变和随机换景。
-禁止乱码文字、品牌、商标、字幕和水印。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md)

@@ -1,10 +1,267 @@
 # Seedance 2.5 — Full Gallery (Part 2/7)
 
-All 552 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 556 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 84–167 of 552.
+This page: cases 84–164 of 556.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md)
+
+### Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard
+
+> A 30-second, second-by-second K-POP MV script that locks choreography, lip-sync, editing, and scenes to the audio’s actual beats. The protagonist’s face and outfit remain fixed across six Y2K settings, the number and positions of backup dancers are precisely controlled segment by segment, and the ending hard-stops as a flip phone snaps shut.
+
+[<img src="https://media.goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop/poster.jpg" width="600" alt="Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard">](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwarts | **Source:** [Original](https://x.com/aiwarts/status/2085736621685764503) | **Published:** 2026-08-07 | **Heat:** 83
+
+**Stability:** 48/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 47.5) · [output](https://media.goodcase.ai/retests/seedance-25-kpop-mv-zero-to-pop/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (235 lines, click to expand)</b></summary>
+
+```
+使用@音频1《Zero to Pop》作为唯一音乐、节拍和口型依据，生成一支30秒、16:9、24fps的原创单人K-POP MV。
+
+视频必须完整覆盖音频的0.00–30.00秒，不得截断、延长、变速或自动淡出。不要重新生成背景音乐，不要加入另一首歌曲。
+
+全片只有@图1是主角和主唱。允许出现2—6名伴舞，但伴舞不能获得面部特写、不能对口型、不能遮挡主角或成为第二视觉中心。
+
+主角的脸、发型、发色、身材比例、服装和饰品全程锁定。只有主角按照@音频1中的实际人声精确对口型；没有人声的段落保持闭唇表演。
+
+【整体视觉】
+
+高预算真人K-POP MV，结合Y2K未来主义、怪诞糖果世界和千禧年数字文化：
+
+CRT电子宠物、透明翻盖手机、像素图标、果冻便利店、充气卧室、镭射洗车通道、巨型CD舞台、镀铬金属、透明塑料和CD彩虹衍射。
+
+色彩以泡泡糖粉、电光蓝、蓝莓紫、酸性绿和镀铬银为主。
+
+怪诞元素必须像真正搭建的实景、机械装置和高级视觉特效，不能像廉价AI拼贴、普通夜店或传统赛博朋克城市。
+
+【主角造型】
+
+主角穿原创Y2K未来女团服装：
+
+银白色不对称短夹克、糖果粉亮片内搭、蓝紫渐变低腰工装裤、透明树脂腰带、镀铬圆环饰品、银白厚底运动鞋，以及一个迷你透明翻盖手机挂饰。
+
+服装全程不变。金属、塑料、布料、头发和饰品必须表现真实重量、反光、惯性和自然摆动。
+
+【音频同步原则】
+
+歌曲约128 BPM，每个主节拍间隔约0.469秒。
+
+最重要的画面锁点：
+
+2.78秒：第一个强重拍，正式进入舞蹈。
+6.06秒：第一次换景。
+9.82秒：进入翻盖手机表演镜头。
+12.63秒：进入第一段收束动作。
+14.02秒：音乐明显降能量，切入失重卧室。
+17.78秒：节奏重新启动。
+21.07秒：高潮副歌和巨型CD舞台出现。
+24.82秒：音乐突然抽空，伴舞冻结。
+28.95秒：最后一句和最终特写。
+29.90—30.00秒：翻盖手机合上，画面硬停。
+
+所有剪辑、甩发、转身、手势、踩地、队形变化和摄影机冲击都必须落在@音频1的真实重拍上。
+
+【逐秒镜头时间线】
+
+0.00–0.47秒：
+
+黑暗中出现一条细窄的CRT扫描线，随歌曲第一个电子启动声闪亮。
+
+不要出现人物，不要添加片名或文字。
+
+0.47–1.88秒：
+
+扫描线展开为一台圆角CRT显示器。
+
+屏幕内出现一只原创像素电子宠物。它随着音频中的电子声睁开眼睛，头顶依次跳出像素爱心、电池和小星星。
+
+所有图标只使用抽象像素图形，不要出现品牌、角色或乱码文字。
+
+1.88–2.78秒：
+
+摄影机快速从CRT屏幕中后退，揭示完整的半透明粉色街机房。
+
+主角已经站在CRT前，侧身背对镜头。摄影机停稳时，她缓慢回头，眼神锁定镜头。
+
+她必须在2.78秒第一个强重拍准确击中开场姿势。
+
+2.78–6.06秒：
+
+低机位鱼眼单人中近景。
+
+主角进入第一段独舞：按键式手指动作、肩部弹动、手臂波浪、髋部重心切换和一次快速半转。
+
+所有动作根据@音频1逐拍执行，不要机械地平均分配动作。
+
+主角按照实际人声自然对口型。背景CRT里的像素宠物同步模仿她的节奏，但不能变成人类或复制她的脸。
+
+摄影机围绕主角移动约45度，同时缓慢推进。
+
+6.06秒，主角手掌拍向镜头，形成遮挡式硬切。
+
+6.06–9.82秒：
+
+进入外星果冻便利店。
+
+主角站在粉色自动传送带中央，4名伴舞从两侧货架后滑入，形成主角在最前方的V形队列。
+
+五人完成连续行进编舞：两步滑行、交叉手臂、肩部撞击、一次同步下沉和快速回弹。
+
+主角距离摄影机最近，服装颜色最鲜明，面部始终清晰。伴舞动作统一但幅度略小。
+
+摄影机正面后退，与传送带保持相同速度。
+
+9.82–12.63秒：
+
+中长焦主角单人镜头。
+
+伴舞退到背景并失焦。主角从货架上拿起一只巨大的透明果冻翻盖手机。
+
+她对着手机完成歌曲中这一段的实际对口型，通过眼神和嘴角表现出俏皮、略带嫌弃的态度。
+
+手机按键根据音乐节拍发光。摄影机在强音上做两次短促punch zoom，但不改变主角身份或面部结构。
+
+12.63–14.02秒：
+
+切回全身镜头。
+
+主角把果冻手机抛向空中，4名伴舞重新进入队形。
+
+全员在三个主要节拍上依次完成：
+
+第一拍：双臂向外展开；
+第二拍：快速转身并甩发；
+第三拍：身体下沉后锐利定格。
+
+主角踩亮地面上的圆形像素按钮。一道蓝紫色扫描光从脚底向上扫过所有人物。
+
+14.02秒，音乐降能量的瞬间完成场景转换。
+
+14.02–15.55秒：
+
+进入淡紫色失重充气卧室。
+
+画面由快速舞蹈突然转为稳定、梦幻的长镜头。主角坐在充气床边，房间和家具开始缓慢旋转，但主角仍保持正常垂直方向。
+
+不出现伴舞。
+
+摄影机缓慢靠近。主角根据实际音频进行克制、贴近耳语感的对口型，不做大幅度舞蹈。
+
+透明枕头、小型CD和银色耳机线缓慢漂浮。
+
+15.55–17.78秒：
+
+主角从床边站起，向摄影机走来。
+
+两名伴舞出现在旋转房间的左右墙面，制造重力方向错乱的视觉效果，但不能抢夺主角注意力。
+
+主角伸手触碰一张漂浮的小型CD。CD逐渐膨胀为彩虹色圆形入口。
+
+17.78秒节奏重新出现时，主角迈步穿过CD入口，摄影机紧随她穿过，形成无缝转场。
+
+17.78–21.07秒：
+
+进入镭射泡泡洗车隧道。
+
+节奏重新启动，主角带领4名伴舞向前完成行进式编舞：强力踏步、交叉手臂、头部转向、肩部重击和左右展开队形。
+
+镀铬拱门、粉蓝旋转软刷和彩灯按照真实节拍运动。透明泡泡从人物之间经过，但不得遮挡主角面部。
+
+摄影机在主角正前方快速后退，主角始终位于中心。
+
+20.60–21.07秒之间，主角踢向一个巨大的透明泡泡。泡泡表面转化为CD彩虹纹理。
+
+21.07秒高潮重拍时，泡泡爆开并完成换景。
+
+21.07–24.82秒：
+
+进入巨型CD终章舞台，这是全片能量最高的段落。
+
+主角站在直径12米的旋转CD中心，6名伴舞组成对称半圆。摄影机从高位快速下降至略低于腰部的英雄角度。
+
+主角按照歌曲高潮段落精确对口型，全员完成副歌核心编舞：
+
+两拍快速手臂切换；
+一次髋部重击；
+一次同步旋转；
+一次全身下沉；
+最后伴舞向两侧打开，把舞台中心完全让给主角。
+
+摄影机在主角旋转时绕行半圈，但不能越过轴线或造成左右翻转。
+
+CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
+
+24.82秒音乐突然抽空时，所有伴舞立刻冻结。
+
+24.82–27.00秒：
+
+主角继续保持运动，伴舞像卡顿的电子游戏角色一样定格在背景。
+
+主角独自向摄影机走两步。画面根据音频中的断奏出现克制的数字卡顿效果：同一个动作短暂重复1—2帧，但主角面部保持稳定。
+
+随着音乐继续变空，冻结的伴舞依次化为方形像素颗粒并消失。
+
+主角不得消失、复制或变形。
+
+27.00–28.95秒：
+
+舞台上只剩主角。
+
+巨型CD停止旋转，背景灯光大部分熄灭。摄影机缓慢推近主角面部。
+
+主角取下腰间的迷你透明翻盖手机，将它举到脸旁。她保持闭唇，直到@音频1最后一句人声真正开始。
+
+画面运动变得极简，把注意力完全留给最后一句和主角表情。
+
+28.95–29.90秒：
+
+主角精确对口型歌曲最后一句。
+
+她直视镜头，从冷静表情逐渐变成带有恶作剧感的轻微笑容。摄影机继续推进至面部特写。
+
+只保留银粉色轮廓光和眼睛里的小型方形反光。
+
+29.90–30.00秒：
+
+主角"啪"地合上翻盖手机。
+
+合盖动作必须与歌曲最终收尾音完全同步。背景灯光瞬间熄灭，画面硬切为黑色。
+
+不要淡出，不要延长尾音，不要字幕、Logo或额外结束镜头。
+
+【表演与口型】
+
+只允许主角对口型。口型必须依据@音频1中的真实语音和节奏生成，不要根据文字自行猜测，不要在纯器乐段随机张嘴。
+
+主角在快速舞蹈时仍保持自然呼吸、面部肌肉运动和稳定身份。表情变化需要与音乐能量一致：
+
+前半段俏皮、自信；
+14.02秒后变得梦幻、克制；
+17.78秒重新充满力量；
+21.07秒进入主打歌级舞台状态；
+24.82秒后变得冷静、带恶作剧感。
+
+【硬性限制】
+
+不得改变@音频1的速度、结构或长度。
+不得加入新的背景音乐、对白或无关人声。
+音效只能作为非常轻微的视觉反馈，不能覆盖原曲。
+主角从第一帧到最后一帧必须保持同一张脸。
+不得生成主角克隆体或第二名主唱。
+伴舞最多6名，面孔必须互不相同。
+禁止人物融合、额外肢体、畸形手指、脚底漂移、错误倒影、服装突变和随机换景。
+禁止乱码文字、品牌、商标、字幕和水印。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Morning Kimchi Stew Stop at a Seoul Neighborhood Eatery
 
@@ -247,141 +504,6 @@ The vintage appearance must come from realistic MiniDV camera behavior, autofocu
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-this-ai-video-made-me-question-what-ai-looking-even-means-anymore-c3cc664055dd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Pink-Haired Girl’s Nighttime Functional Workout Challenge
-
-> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
-
-[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="Pink-Haired Girl’s Nighttime Functional Workout Challenge">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2104153857542553754) | **Published:** 2026-09-27 | **Heat:** 83
-
-<details>
-<summary><b>Full prompt (117 lines, click to expand)</b></summary>
-
-```
-Why did I think this workout would be easier?
-
-Seedance 2.5 on @TapNow_AI 
-
-Prompt
-
-Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
-
-Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
-LOOK
-
-Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
-
-STYLE
-
-Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
-
-CHARACTER
-
-CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
-
-She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
-
-SETTING
-
-A smaller industrial-style functional training gym at night.
-
-Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
-
-A half-full water bottle and small towel sit beside a plyometric box.
-
-Background gym members occasionally pass naturally without acknowledging the camera.
-
-STORYBOARD — 15 SECONDS / 6 CUTS
-
-CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
-
-CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
-
-She points behind herself toward a wooden plyometric box.
-
-CHASE:
-“Trying something different tonight.”
-
-She turns the camera too quickly, creating a messy whip-pan.
-
-CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
-
-Camera sits slightly crooked on a low bench.
-
-CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
-
-Her ponytail bounces naturally.
-
-CHASE:
-“Why are step-ups already humbling me?”
-
-She laughs quietly while continuing.
-
-CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
-
-Camera has been repositioned near floor level.
-
-Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
-
-Autofocus briefly locks onto the box instead of her shoes.
-
-No dialogue.
-
-Natural sneaker impacts, distant equipment sounds and her breathing.
-
-CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
-
-A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
-
-The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
-
-After several waves she looks toward the camera with a surprised expression.
-
-CHASE:
-“Okay—this escalated fast.”
-
-Her voice carries a small laugh between breaths.
-
-CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
-
-CHASE grabs the camera immediately after stopping.
-
-The image shakes noticeably while autofocus searches for her sweaty face.
-
-She leans against the plyometric box, catching her breath.
-
-CHASE:
-“I said different. Not easier.”
-
-She gives the camera an exhausted little grin.
-
-CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
-
-Camera sits casually beside her water bottle.
-
-CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
-
-She looks sideways toward the camera.
-
-CHASE:
-“That’s enough character development for tonight.”
-
-She laughs, reaches toward the lens—
-
-The frame shakes as her hand accidentally bumps the camera.
-
-CUT.
-
-AUDIO
-
-Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Zombie Attack in a Japanese Classroom
 
@@ -3478,6 +3600,111 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Journey Through The Last Supper in Three Dimensions
+
+> What if you could see what Da Vinci NEVER painted? I went INSIDE The Last Supper using Seedance 2.5 in @FishCreativeHQ Prompt👇 upload the painting image as fir…
+
+[<img src="https://media.goodcase.ai/cases/88808feeb427.jpg" width="600" alt="A Journey Through The Last Supper in Three Dimensions">](https://goodcase.ai/cases/seedance-2-5-what-if-you-could-see-what-da-vinci-never-painted-870128258984?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @abxxai | **Source:** [Original](https://x.com/abxxai/status/2110709089710088537) | **Published:** 2026-10-15 | **Heat:** 75
+
+<details>
+<summary><b>Full prompt (87 lines, click to expand)</b></summary>
+
+```
+What if you could see what Da Vinci NEVER painted?
+
+I went INSIDE The Last Supper using Seedance 2.5 in @FishCreativeHQ
+
+Prompt👇
+
+upload the painting image as first frame and use this video prompt
+
+[First-Frame.png] Create a 20-second vertical 9:16 image-to-video film, using the supplied image as the exact first frame and matching final frame. One continuous camera journey through the room, with macro detail, a gradual emotional reveal, an orbit behind the central figure and a seamless return.
+
+Build the supplied scene as complete 3D geometry while preserving its Renaissance oil-painted appearance. The table stands in real space, the tablecloth drapes over its edges, the food and vessels sit on its surface, and every figure has a fully dimensional body beneath their robes. As the camera passes around them, reveal the sides and rear surfaces hidden from the opening viewpoint. Retain the original brushwork, warm earthy colours, soft daylight and expressive faces.
+
+IDENTIFY AND PRESERVE THE FIGURES
+
+The central figure sits at the middle of the table. He has long wavy brown hair, a full brown beard and downcast, calm eyes. He wears a deep red robe with a rich blue mantle draped across his left shoulder and lap. His right hand rests palm-down on the tablecloth at the left of the frame; his left hand lies open, palm-up, beside a small glass of red wine.
+
+To his right (left of frame) sits a young apostle with long golden-brown hair, a green mantle over a red garment, his sorrowful gaze turned toward the centre. In front of him, a balding older man with a dark beard, wearing red and blue, leans in with a pointing gesture. A partly visible figure with curly hair sits at the far left edge.
+
+To his left (right of frame) a man with thick black curly hair and a dark beard, in a blue robe, turns to speak with a grey-bearded elder in an olive-green robe at the right edge, who raises both hands in an open, questioning gesture.
+
+Keep every pose, gesture, gaze direction and costume exactly as in the reference. No figure moves.
+
+THE ROOM AND TABLE
+
+A dark coffered wooden ceiling. A grey back wall with three tall windows opening onto a sunlit Tuscan landscape of blue hills, cypress trees, terracotta villas and a bell tower. Dark blue and gold damask panels on both side walls.
+
+A long table covered in white linen with a visible grid of fold creases, hanging almost to the floor. On it: scattered bread rolls and crumbs, pewter plates, a central plate of fish, the small glass of red wine, a bowl of green olives, a plate of red and green grapes at the right, a blue-and-white decorated bowl with bread at the left, and a dark glazed ceramic jug at the far left. Wooden trestle legs and the hems of robes are visible below the cloth.
+
+0–3 SECONDS — ENTER OVER THE BREAD
+
+Begin on the exact supplied image for approximately half a second.
+
+The camera then flies forward into the room and descends toward the bread roll resting on the tablecloth just left of centre. Pass macro-close above it.
+
+Reveal the roll's rounded volume, cracked golden crust, flour-dusted ridges and the small crumbs scattered around it, each casting a tiny shadow on the linen. The nearest crust passes softly out of focus beneath the lens as the camera glides on.
+
+The tablecloth has physical relief: woven threads, raised fold creases and shallow dips where objects press into it. The bread falls behind the moving camera while the central figure stays fixed farther into the room. This changing perspective establishes real depth immediately.
+
+3–7 SECONDS — GLIDE ACROSS THE TABLE TO THE WINE
+
+Travel low and smoothly across the linen toward the centre of the table, skimming past the rim of the fish plate. Reveal the plate's worn pewter edge, its curved depth and the painted fish resting inside.
+
+Continue to the small glass of red wine. Curve partly around it at macro distance, revealing the thickness of the glass, the flat surface of the wine, and daylight from the windows refracting through it as a soft red glow on the cloth.
+
+The glass crosses the near foreground, the open palm-up hand appears just beyond it, and the back wall shifts more slowly behind. Maintain forward momentum throughout.
+
+7–10 SECONDS — RISE ALONG THE OPEN HAND AND MANTLE
+
+Rise past the open hand, revealing the gentle curve of the fingers, the creases of the palm and its weight resting on the cloth.
+
+Continue upward along the blue mantle where it falls across his lap and left shoulder. Travel close to the fabric without touching it. Show the painted texture, the deep blue folds as dimensional surfaces: raised crests catch the window light, undersides fall into shadow, and the red robe shows beneath the mantle's edge.
+
+The blue fabric passes beside the lens as his face comes into view above.
+
+10–13 SECONDS — REVEAL THE CENTRAL FACE
+
+Curve inward and slightly upward toward his face.
+
+Approach a close view of his lowered eyes, calm brow, nose and the soft strands of his beard and hair. Preserve the exact face from the reference. Reveal the three-dimensional shape of the cheekbones and brow, and the subtle painted texture of the skin, fully connected to his neck and shoulders.
+
+Ease the camera's speed for approximately one second while continuing a gentle sideways drift. Let the stillness and quiet sorrow register. He does not move; the emotion comes from discovering the expression already present in the painting.
+
+13–17 SECONDS — ORBIT BEHIND HIM TO THE WINDOW
+
+Continue past the outside of his face, over his blue-draped left shoulder, and orbit smoothly behind him into the narrow space between his back and the central window.
+
+Reveal the back of his long wavy hair, the rear folds of the blue mantle and red robe, and the thickness of his shoulders beneath the fabric. His shoulder passes close beside the lens as a soft foreground shape.
+
+Turn gently to look past him through the central window: the sunlit Tuscan hills, cypresses and villas gain real depth, the far hills hazy and the near trees sharper. Then continue the arc so the view swings back over his other shoulder, revealing from behind the backs of the apostles' heads, the young apostle's green mantle, and the whole table spread out before them toward where the viewer began.
+
+17–20 SECONDS — RETURN TO THE ORIGINAL COMPOSITION
+
+Rise and retreat in one smooth arc over the table, passing above the grey-bearded elder's raised open hands at the right, then curving back onto the opening camera axis.
+
+Reveal all figures again in their exact positions. The bread, plates, wine glass, olives, grapes, decorated bowl and ceramic jug settle back onto the table as in the supplied image. The coffered ceiling, three windows and damask walls realign with the frame.
+
+Gently decelerate into the exact opening viewpoint, lens perspective, framing and lighting. End on a frame matching the supplied image so the next repetition flows directly into the opening movement.
+
+CAMERA, STYLE AND CONTINUITY
+
+Use one uninterrupted physical camera path: over the bread, across the table to the wine, up the open hand and blue mantle, to the central face, around behind him to the window, back over his shoulder and out to the original wide composition.
+
+Use natural motion blur and shallow depth of field during macro passes. Transfer focus smoothly to the next detail along the route. Foreground objects pass the lens because the camera moves around them; no figure changes pose, blinks, speaks or moves toward the camera.
+
+Maintain one coherent room with stable geometry and consistent warm daylight from the windows. Hidden surfaces belong to the existing figures, clothing, table and walls and match their visible design. Preserve the oil painting's brushwork, canvas texture and colour at every scale.
+
+No cuts, crash zooms, dissolves, flat canvas flyovers, wall-relief effects, scene morphing, additional people, new props, extra food, text or watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-what-if-you-could-see-what-da-vinci-never-painted-870128258984?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Dad Questions a Cheeky Toddler About Eating Sugar at Kindergarten
 
 > Made with seedance 2.5 Prompt 👇 1. A cute chubby toddler boy, around 2–3 years old, with fair skin, huge expressive green eyes, short golden-blond hair with a …
@@ -4720,195 +4947,51 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-title-what-falls-from-the-plum-tree-d602a208ed88?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Summer Evening Stroll Through a Seoul Neighborhood
+### A Fresh Laundry Day in the Sun
 
-> Baddie is back 🥰 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older …
+> Just a peaceful laundry day. Fresh clothes, fresh air, good vibes. Created with Seedance 2.5 Prompt: Create a 30-second
 
-[<img src="https://media.goodcase.ai/cases/2d6299d5c5f8.jpg" width="600" alt="A Summer Evening Stroll Through a Seoul Neighborhood">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="600" alt="A Fresh Laundry Day in the Sun">](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2099849272347021541) | **Published:** 2026-09-15 | **Heat:** 71
+**Author:** @CaliraVal | **Source:** [Original](https://x.com/CaliraVal/status/2091386310837862772) | **Published:** 2026-08-23 | **Heat:** 71
+
+**Stability:** 70/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 70.2) · [output](https://media.goodcase.ai/retests/caliraval-seedance-ai-380c4c6c543b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 <details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
 
 ```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
+Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
 
-She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
+0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
+Voiceover: “Laundry day starts with one simple step.”
 
-She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
+5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
+Voiceover: “I just load all my clothes into the washing machine…”
 
-A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
+10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
+Voiceover: “…add my detergent…”
 
-She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
+13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
+Voiceover: “…and let the machine do the work.”
 
-She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
+17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
+Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
 
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
+22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
+Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
 
-Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
+28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
+Voiceover: “Clean, fresh, and ready to wear.”
+
+Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.
 ```
 
 </details>
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Roman Gladiator Turns the Tide to Win in the Arena
-
-> One warrior, one arena, one fight for glory. Experience epic gladiator battles, cinematic action, and realistic visuals with Seedance 2.5 on @ImagineArt_X Promp…
-
-[<img src="https://media.goodcase.ai/cases/f88a396431c5.jpg" width="600" alt="Roman Gladiator Turns the Tide to Win in the Arena">](https://goodcase.ai/cases/seedance-2-5-scene-ancient-roman-amphitheater-at-golden-hour-packed-with-50-000-cheering-s-989ccb2d8ac8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2108921521142141421) | **Published:** 2026-10-10 | **Heat:** 70
-
-<details>
-<summary><b>Full prompt (33 lines, click to expand)</b></summary>
-
-```
-ROMAN GLADIATOR: FIGHT FOR GLORY
-
-Duration: 30 seconds | Format: 16:9, 24 FPS | Style: Photorealistic Hollywood cinema, ARRI ALEXA LF, anamorphic lenses, realistic physics, natural skin texture, fine film grain.
-
-SCENE: Ancient Roman amphitheater at golden hour, packed with 50,000 cheering spectators. A king and queen watch from a shaded imperial box. Golden sunlight comes consistently from screen-left, illuminating dusty sand, bronze armor, and flying particles.
-
-CHARACTERS:
-
-- Main character (@image1): Preserve 100% the reference face, hairstyle, skin tone, and athletic build. Dark-red wool tunic, leather chest harness, bronze shoulder guard, bracers, greaves, sandals, gladius in right hand, round bronze shield on left arm.
-- ENEMY: One-and-a-half heads taller, heavily muscled, scarred torso, polished bronze helmet with crimson crest, iron arm guard, broad sword, rectangular wooden shield with faded red emblem.
-- KING & QUEEN: King with grey-streaked beard, laurel wreath, purple-and-gold toga. Queen with dark braided updo, ivory-and-gold stola, gold jewelry.
-
-TIMED MULTISHOT — SIX SHOTS, HARD CUTS ONLY AT 5, 10, 15, 20, AND 25 SECONDS.
-
-SHOT 1 | 0–5s | REAL-TIME: High crane descends into the arena. The king raises his hand, then signals the duel with a horn blast. The hero and enemy raise their shields and approach from opposite sides.
-
-SHOT 2 | 5–10s | 2× SPEED: Ground-level handheld orbit. Both warriors charge and clash swords, producing sparks. The hero parries, ducks, sidesteps, and counters. The enemy lands a powerful shield bash, forcing the hero backward.
-
-SHOT 3 | 10–15s | 40% SLOW MOTION: The enemy smashes the hero's shield, splintering it. The hero drops his gladius and falls onto the sand. The enemy steps over him and raises his sword for the finishing strike. Rack focus from the fallen weapon to the hero's determined face.
-
-SHOT 4 | 15–20s | REAL-TIME: The enemy swings downward. The hero catches his forearm, stopping the blade inches from his throat. He strikes the enemy's ribs with an elbow, headbutts the bronze visor, then punches him hard. The enemy staggers backward and drops his shield.
-
-SHOT 5 | 20–25s | 40% SLOW MOTION, CLIMAX: The hero retrieves his gladius, rises, and charges. He slides beneath the enemy's horizontal sword swing, slashes across his torso, and drives his shoulder into the enemy's chest. The giant flies backward three meters, his sword spinning away, then crashes onto the sand in a dramatic dust explosion.
-
-SHOT 6 | 25–30s | REAL-TIME: The exhausted, bloodied hero stands over the motionless enemy and raises his gladius toward the imperial box, roaring triumphantly. The king rises in approval, the queen smiles, and the camera cranes upward and pulls back to reveal the roaring amphitheater.
-
-CAMERA & PHYSICS: Distinct cinematic framing for every shot, controlled camera movement, realistic sword impacts, natural body weight, flying sparks, falling wood splinters, authentic sand displacement, consistent contact shadows, stable faces and anatomy.
-
-LIGHTING & COLOR: Low golden sun from screen-left, bronze highlights, ochre sand, deep blue shadows, crimson accents, purple royal toga, volumetric dust, cinematic HDR and filmic highlights.
-
-AUDIO: Continuous crowd roar, horn blast, metallic sword clashes, shield impacts, grunts, accelerating taiko percussion, dramatic strings and choir at the climax, triumphant brass ending.
-
-CONTINUITY LOCKS: @image1 remains identical in every shot. Maintain the same outfits, faces, weapons, lighting direction, and arena layout. Shield intact until 10s, broken afterward. Enemy's shield drops by 20s; he retains his helmet and sword until the climax, then lies motionless from 25–30s. Only two fighters on the arena floor. Every shot fills its full five seconds with one consistent playback speed.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-scene-ancient-roman-amphitheater-at-golden-hour-packed-with-50-000-cheering-s-989ccb2d8ac8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Black Sedan Chase and Gunfire at Sunset
-
-> Action 🔥 Fast cars, cinematic shots, and intense action. All brought to life with Seedance 2.5. Exploring the next level of AI video generation with @ImagineAr…
-
-[<img src="https://media.goodcase.ai/cases/6170bf3f7274.jpg" width="600" alt="Black Sedan Chase and Gunfire at Sunset">](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2107838928992489968) | **Published:** 2026-10-07 | **Heat:** 70
-
-<details>
-<summary><b>Full prompt (35 lines, click to expand)</b></summary>
-
-```
-*30 seconds | 16:9 | image1 = Main Character
-
-STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic ARRI ALEXA LF look, real stunt photography, natural motion blur, light film grain. Golden-hour sun from camera-left throughout. Slow motion only at the two crashes.
-
-**CHARACTERS:** Hero = exact character from @image1 (same face, hair, build, clothing in every shot). His car: black modern Mercedes sports sedan. Chasers: red sports coupe and matte-grey SUV. Black rifle on the passenger seat.
-
-**LOCATION:** Packed city road with buses, trucks and overpasses, opening onto a long highway at golden hour.
-
-**00:00–00:03** Low rear-quarter chase shot, 28mm, fast tracking. The Mercedes weaves at high speed through dense traffic, overtaking cars, buses and trucks. The red coupe and grey SUV are both clearly visible behind it, also overtaking through traffic. Hero faintly visible through the rear windshield.
-
-**00:03–00:05** Close-up, 85mm, handheld push-in. @image1 hero grips the wheel, jaw tense, eyes flick to the mirror.
-
-**00:05–00:08** Low front-quarter tracking, 28mm. The Mercedes slips through a gap between a bus and a box truck by inches, then whip pan.
-
-**00:08–00:11** Side-profile tracking, 35mm. The Mercedes launches off a raised ramp, goes airborne and lands in a shower of sparks, cones scattering.
-
-**00:11–00:14** SLOW MOTION, low rear three-quarter, 35mm, slow orbit. The hero swerves clear and the red coupe clips a truck, spins and rolls once. The whole crash stays fully in frame, clear and sharp, with glass and debris glittering in the sun. Rack focus from the Mercedes to the wreck.
-
-**00:14–00:16** Extreme close-up, 100mm macro. His eyes in the mirror, the grey SUV small in the reflection. Smash cut.
-
-**00:16–00:18** Wide crane-style rise, 24mm. The Mercedes bursts onto an open highway, the SUV closing in.
-
-**00:18–00:20** Interior insert, 35mm. He steers with his left hand and grabs the rifle from the passenger seat with his right.
-
-**00:20–00:23** Over-the-shoulder, 50mm Steadicam. He leans out of the window and aims at the SUV's front tire, with a single muzzle flash.
-
-**00:23–00:26** SLOW MOTION, low side angle, 35mm. The tire bursts and the SUV flips and rolls across the highway in sparks and dust, fully visible. Mercedes sharp in the foreground.
-
-**00:26–00:28** Close-up, 85mm, slow push-in. @image1 hero gives a slow, confident victory smile and a small nod.
-
-**00:28–00:30** High-angle drone rise, 24mm. The Mercedes speeds toward the sunset, smoke rising from the wreck far behind. Fade out.
-
-**AUDIO:** Realistic engines, tire squeal, wind and impacts. Dark hybrid orchestral score with bass pulse, cellos and percussion building to a triumphant finish. Near-silence during both slow-motion crashes.
-
-**NEGATIVE:** No cartoon look, no CGI look, no plastic skin, no distorted anatomy, no face different from @image1, no face drift, no wardrobe change, no duplicated cars, no teleporting vehicles, no hidden or cropped crash, no impossible physics, no jitter, no flickering, no deformed hands or rifle, no text, no watermark, no logos.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery
-
-> Rainy streets, cozy vibes, and a little Korean city adventure. Just a simple day turned into a cinematic vlog full of calm moments and beautiful rainy views. Cr…
-
-[<img src="https://media.goodcase.ai/cases/44495a5166ef.jpg" width="600" alt="A Korean Girl’s Rainy Walk Through City Streets to a Cozy Eatery">](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-girl-in-a-realistic-cinematic-lifestyle-vlog-starting-insid-560e08eabe90?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Lianaalane | **Source:** [Original](https://x.com/Lianaalane/status/2106951270380802264) | **Published:** 2026-10-05 | **Heat:** 70
-
-```
-A beautiful Korean girl in a realistic cinematic lifestyle vlog, starting inside a cozy modern apartment on a rainy day, sitting quietly on a sofa near a large window overlooking a dense Korean cityscape covered in mist and rain, then getting ready in front of a bathroom mirror, tying her hair and preparing to go outside. She puts on a fitted dark outfit, grabs her black umbrella and bag, walks out of the apartment into the rainy street, and continues walking through a busy Korean neighborhood with wet roads, passing cars, glowing Korean shop signs, convenience stores and warm street lights. The camera follows her naturally from behind and from different handheld angles as she crosses the street in heavy rain, with realistic reflections on the wet asphalt, soft overcast daylight, natural city ambience, and subtle handheld camera movement. Near the end, she arrives at a small cozy Korean food shop, smiles naturally toward the camera while holding her umbrella, creating an intimate everyday-vlog feeling. Photorealistic Korean urban environment, authentic facial expressions, realistic skin and hair texture, natural body movement, cinematic depth of field, rainy atmosphere, soft filmic color grading, detailed reflections, realistic lighting, documentary-style handheld camera, no artificial beauty filter, no exaggerated movements, highly natural and immersive visual quality, 9:16 vertical video.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-girl-in-a-realistic-cinematic-lifestyle-vlog-starting-insid-560e08eabe90?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Cinematic Wet Market Flood Escape
-
-> A highly detailed cinematic action prompt following a woman's survival run through a flooded Asian wet market in torrential rain.
-
-[<img src="https://media.goodcase.ai/media/poster/case-198b3f3748b3.jpg" width="600" alt="Cinematic Wet Market Flood Escape">](https://goodcase.ai/cases/case-198b3f3748b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AiwithElisia | **Source:** [Original](https://x.com/AiwithElisia/status/2091036019076272229) | **Published:** 2026-08-22 | **Heat:** 70
-
-**Stability:** 79/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 79.4) · [output](https://media.goodcase.ai/retests/case-198b3f3748b3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (17 lines, click to expand)</b></summary>
-
-```
-Create a highly cinematic, realistic action sequence inside a crowded traditional Asian wet market during heavy rain and flooding. A young Asian woman with long dark wet hair, wearing a pink waterproof rain suit and black rubber boots, runs rapidly through the narrow market aisles while trying to escape from a massive rushing wave of water behind her.
-
-The market is packed with seafood and vegetable stalls, plastic crates, fish tanks, metal counters, hanging tarps, fluorescent ceiling lights, vendors and crowds. The floor is completely flooded with ankle-to-knee-deep dirty rainwater, creating strong reflections and splashes everywhere. Water violently rushes through the market, knocking over crates and flooding the stalls.
-
-Start with a close-up tracking shot of the frightened woman looking back over her shoulder while running. Follow her with a fast handheld camera as she runs through the narrow aisle. Use dynamic low-angle shots close to the water, capturing her boots hitting the flooded floor and creating dramatic splashes. Show water crashing through the market behind her, people running in panic, overturned crates floating in the water, and objects being swept away.
-
-Use realistic physics, natural human movement, detailed wet clothing, wet hair sticking to her face, realistic water droplets, splashes, reflections and motion blur. The camera should move dynamically with fast tracking shots, low-angle shots, side tracking shots and occasional wide shots revealing the scale of the flooding.
-
-At one point, show the woman jumping over obstacles and running across a market counter/raised surface while the floodwater continues rushing behind her. Keep her appearance, hairstyle, pink outfit and facial features consistent throughout the entire sequence.
-
-Dark cinematic atmosphere, overcast rainy lighting, cool blue-gray tones mixed with warm fluorescent market lights, dramatic contrast, realistic skin texture, photorealistic environment, volumetric lighting, atmospheric mist, cinematic depth of field, subtle film grain, high-detail textures, realistic reflections and physically accurate water simulation.
-
-The sequence should feel like a high-budget survival/action movie, extremely immersive and intense, with realistic camera shake and fast-paced movement.
-
-Add large cinematic white brush-stroke typography reading “RUN” briefly across the center of the screen during the action sequence.
-
-Photorealistic, ultra-detailed, cinematic Hollywood-style action scene, realistic physics, natural motion, 4K film quality, anamorphic lens look, dynamic composition, dramatic pacing, no cartoon look, no CGI appearance, no distorted anatomy, no extra fingers, no duplicated people, no face changes.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-198b3f3748b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md)

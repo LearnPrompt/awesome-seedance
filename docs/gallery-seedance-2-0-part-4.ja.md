@@ -1,10 +1,155 @@
 # Seedance 2.0 — 全ケース（Part 4/4）
 
-Seedance 2.0 の全 284 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 287 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 284 件中 274–284 件目。
+このページ: 287 件中 273–287 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · **Part 4**
+
+### Modern Dance Studio Music Video
+
+> A cinematic prompt for a 10-second music video set in a dark, neon-lit dance studio, featuring continuous dynamic camera movement.
+
+[<img src="https://media.goodcase.ai/media/poster/case-3ab1709b8447.jpg" width="600" alt="Modern Dance Studio Music Video">](https://goodcase.ai/cases/case-3ab1709b8447?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @PixelAigc | **出典:** [元投稿](https://x.com/PixelAigc/status/2078846287500439682) | **公開日:** 2026-07-19 | **ヒート:** 2
+
+**再テスト:** 計 2 回
+
+- MiniMax H3 Max 768p · 2026-09-06 · ❌ 失敗 (スコア n/a)
+- MiniMax H3 768p · 2026-08-09 · ✅ 再現 (スコア n/a) · [出力](https://media.goodcase.ai/retests/case-3ab1709b8447/video-minimax-h3-768p-20260809-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
+
+```
+生成视频：一部电影般的 10 秒音乐视频，拍摄于一个黑暗的现代舞蹈工作室，带有光滑的灰色反光地板、黑色墙壁和水平霓虹灯管。连续的动态摄像机运动，主要为中景和特写，绝不拉得太宽。女主角始终在移动，没有冻结或静态姿势。
+
+主要角色：20岁年轻东亚女性，凌乱的中长波浪黑发，前额刘海部分遮住脸庞，冷白皮，黑色眼睛，丰满光泽的嘴唇。她穿着白色真丝吊带连衣裙。她全程在唱歌，唇部同步清晰精确，嘴巴积极动作，强烈的感情表达。
+
+歌词：“ねえ、君は名前の入った箱をしまっているんだね / ベッド脇の引き出しの中に / ポラロイド写真やチケットの半券を / 赤いものの下に詰め込んで / 君はただ一つだけを持っていくんじゃなくて / 最後の残り火のすべてをさらっていく / そして、それぞれの秘められた心に / 小さな指の跡を残していくんだ”。
+
+0-2s：紧凑的中近景。她上身向后倾斜，头部侧倾，热情地唱歌，唇部同步强烈，头发垂落到脸上，身体弓起，一只手滑过胸膛。
+
+2-4s：摄像机缓慢推进并环绕。她从深弓姿势中恢复，躯干仍向前弯曲，双手放在大腿上，抬起头直视摄像机，同时以激进的唇部同步唱歌。三位外貌不同的男舞者（不同种族、发型和体型），穿着黑色背心和黑色宽松裤，已经靠近她周围，以低张力的姿势与她一同移动。另外两个男舞者在画面边缘可见，正在接近。
+
+4-6s：中近景。她向下蹲低，身体仍持续运动，头发摆动，激烈地唱歌，嘴巴动作清晰，头部锐利转动，眼睛锁定摄像机。男舞者保持靠近，他们的手在共同移动时轻轻触碰她。
+
+6-8s：中景，伴随缓慢的摄像机漂移。精确的五位外貌完全不同的男舞者，全都穿着黑色背心和黑色宽松裤，在地板上以密集交织的阵型紧紧包围她。她位于中心，身体仍在移动，上身上升和转移，以强烈的唇部同步唱歌。五位男舞者都与她微妙地移动，从不静态。男舞者绝不完全遮挡她的身体。
+
+8-10s：动态中景。五位多样化的男舞者将她举到空中，进入一个有力的深后弯姿势。她的身体完全伸展并弓起，头部向后甩，仍以清晰的唇部同步唱歌。他们托举着她，轻轻地随着节拍上下摇动。摄像机从她弓起身体的清晰侧视图开始，平滑过渡到她脸部的正面视图。结尾时，他们平滑地将她降落到脚上；她落地后立即继续唱歌，五位男舞者保持低姿势围绕在她周围。男舞者绝不完全遮挡她。
+
+高端时尚舞蹈能量，汗湿的皮肤，锐利的时机，女主角连续流畅的运动，每一帧都优先确保准确的唇部同步。
+
+规则：无手部变形，无身体扭曲，干净稳定的解剖结构，手指和手部在整个视频中保持一致和自然。，16:9
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-3ab1709b8447?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Realistic Chinese Latiao Commercial Advertisement
+
+> A prompt designed to use specific image references to maintain model and scene consistency, creating a professional snack advertisement.
+
+[<img src="https://media.goodcase.ai/media/poster/case-571927740e2f.jpg" width="600" alt="Realistic Chinese Latiao Commercial Advertisement">](https://goodcase.ai/cases/case-571927740e2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @kentdhani | **出典:** [元投稿](https://x.com/kentdhani/status/2080945278392406294) | **公開日:** 2026-07-25 | **ヒート:** 1
+
+<details>
+<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
+
+```
+Create a 15-second photorealistic Chinese latiao commercial using @image1 only as a visual reference for the adult female model, study room, snack package, rooftop gathering, food appearance, and scene progression. Convert it into continuous full-screen live-action footage. Do not reproduce the storyboard grid, numbers, timecodes, headings, captions, borders, or graphic overlays.
+
+A young Chinese woman studies alone late at night in a cozy bedroom. She looks tired, then notices a red-and-white package of latiao beside her books. Her expression brightens as she picks it up and says in Mandarin:
+
+「差点忘了，还有这个！」
+
+Show a premium macro shot of her opening the package, revealing glossy orange-red spicy snack sticks coated with chili oil, sesame, and subtle chili flakes. She takes one natural bite and says:
+
+「又香又辣，越嚼越带劲！」
+
+Her mood becomes brighter as she continues organizing her notes. Transition to a city rooftop at sunset, where she shares the latiao with four clearly adult Chinese friends. She says:
+
+「好吃的，当然要一起分享！」
+
+The friends bring their snack sticks together like a playful toast and say:
+
+「辣得开心！」
+
+End with a cinematic macro shot of the glossy latiao arranged on a black plate, followed by a premium product hero shot of the red-and-white package beside the snack. Final Mandarin narration:
+
+「辣得对味，快乐加倍。」
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-571927740e2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Anime DJ Girl Club Performance
+
+> This is a highly technical video prompt written for Seedance 2.0, intended to create an anime-style club scene starring a DJ girl, including a fisheye lens shooting effect and beat synchronization.
+
+[<img src="https://media.goodcase.ai/media/poster/dj-0f7bed87d7ec.jpg" width="600" alt="Anime DJ Girl Club Performance">](https://goodcase.ai/cases/dj-0f7bed87d7ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Yuupapa_free | **出典:** [元投稿](https://x.com/Yuupapa_free/status/2080550617043587535) | **公開日:** 2026-07-24 | **ヒート:** 1
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.3) · [出力](https://media.goodcase.ai/retests/dj-0f7bed87d7ec/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+anime style、10秒、one-take、カットなし。少女を主役として同一人物を厳密に維持する。淡い金髪の長いツインテール、赤いリボン、ややダークな瞳、白と紺のセーラー服、胸元の赤いリボン、首にかけた黒いヘッドホン。場所はクラブ内部のDJブース。巨大なウーファーと縦積みスピーカーが背後にそびえ、奥には観客のシルエット。赤、青、紫、黄緑のスポットライトが煙を切り裂き、明るいパーティーの熱気を作る。全編を一貫したスタイル、完璧な視覚的統一感で描く。塗りは光沢なしのマットなベタ塗りを基本にしつつ、線画はわずかにちらつき・揺らぎがあり、陰影は揺れるハッチング、画材のかすれを感じる半スケッチ調、伝統的な画材風の質感で統一する。カメラはfisheye lens、斜め上から少し見下ろす handheld。0.0s-2.5s、左右に大きく揺れながら前後に規則的に弾み、ビートに身を委ねる感覚でdolly in。少女は右手でターンテーブルをスクラッチし、左手でフェーダーとノブを刻む。肩、腰、膝でリズムを取り、上半身をしなやかにくねらせる。2.5s-5.5s、カメラは彼女の正面から少し右へ流れ、前後に周回するような滑らかな半円運動。風が吹き抜けるようにツインテールとリボンが跳ね、彼女は手を上げ、非言語的な手のダンスで音を操る。5.5s-7.5s、指先が首元、肩、腕をなぞる流れを見せ、カメラはその手を追ってclose-upし、遠近法の強い魚眼で指の軌跡を強調する。7.5s-10.0s、重低音の盛り上がりでカメラが上下しつつ後方へ引き、再び前へ寄る。少女は一瞬だけ視聴者へ向けて手で短いジェスチャーを見せ、その直後にカメラを見上げる。最後はスクラッチを決め、体を弾ませながら笑みに近い高揚感で締める。音声は歌なし。EDM寄りのテックハウス、重いキック、深いベース、スクラッチ音、フロアの歓声のみ。全体にダイナミックで不安定だが、動きは滑らかで優雅、洗練された流れを保つ。
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/dj-0f7bed87d7ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Multiverse Dimensional Portal Fall
+
+> A complex multi-portal journey prompt about a character falling through different dimensions, transforming from a realistic human into animated, voxel, and sci-fi versions.
+
+[<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="Multiverse Dimensional Portal Fall">](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @NababUddin2 | **出典:** [元投稿](https://x.com/NababUddin2/status/2079428121133240602) | **公開日:** 2026-07-21 | **ヒート:** 1
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80) · [出力](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（24 行、クリックで展開）</b></summary>
+
+```
+STYLE
+Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
+
+CHARACTER
+A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
+
+CAMERA
+Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
+
+LIGHTING
+Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
+
+TIMELINE
+
+0.0–4.0s | Scene 1
+Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
+8.0–12.0s | Scene 3
+He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
+12.0–16.0s | Scene 4
+Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
+16.0–20.0s | Scene 5
+He enters the final portal in one perfectly smooth transition. The environment transforms into a beautiful pastel-colored world with soft dreamy lighting, elegant architecture, colorful trees, and peaceful surroundings. His original casual outfit returns, reimagined in the same pastel artistic style. Still falling naturally, he looks at his hands, clothing, and surroundings in astonishment as life in every world continues normally, unaware of his journey. The sequence ends with him continuing his descent toward the vibrant landscape.
+DIRECTOR NOTES
+Maintain one continuous freefall throughout the entire sequence with accurate gravity, momentum, and natural body movement. Every portal transition should be fluid with no cuts or visual jumps. Each world should instantly transform around the character while preserving continuity. The character's appearance should adapt to each world's style while remaining instantly recognizable. Prioritize cinematic realism, believable reactions, and seamless world transitions.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pixar-Style Milkshake Storyboard Animation
 

@@ -217,7 +217,7 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 ## E5 · Female Rider Wins Mountain Bike Final by a Wheel
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 60 · stability: 76
+- Seedance 2.5 · creator: @nawalsehar · heat: 59 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
 - Summary: Two elite riders, one brutal final sprint, and a finish decided by inches. Created on seedance 2.5 Prompt: Ultra-photore
 

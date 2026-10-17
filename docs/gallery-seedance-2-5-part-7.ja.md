@@ -1,10 +1,143 @@
 # Seedance 2.5 — 全ケース（Part 7/7）
 
-Seedance 2.5 の全 552 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 556 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 552 件中 521–552 件目。
+このページ: 556 件中 521–556 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7**
+
+### Gyaru's Chaotic Flying Commute with Toast
+
+> The superwoman Made with Seedance 2.5 on ImagineArt Prompt: @image1 is the ONLY reference for the main character. It defines her identity — preserve her exact f…
+
+[<img src="https://media.goodcase.ai/cases/15ff3e55b62d.jpg" width="600" alt="Gyaru's Chaotic Flying Commute with Toast">](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2096105857402699891) | **公開日:** 2026-09-05 | **ヒート:** 24
+
+<details>
+<summary><b>プロンプト全文（22 行、クリックで展開）</b></summary>
+
+```
+@image1  is the ONLY reference for the main character. It defines her identity — preserve her exact face, makeup, and voluminous dark-brown spiral-curl hair in every shot — and it defines the design of her outfit: sheer light-blue off-shoulder top, long light-blue scarf, silver star necklace, white lace ruffled miniskirt, white lace tights, dalmatian-print leg warmers with blue bows, chunky black-and-white platform shoes. WHEN she wears this outfit is set only by the wardrobe timeline below. Do not use the sheet's white studio background, panel layout, or neutral standing poses. The same single woman appears throughout — no identity drift, no second copy of her.
+
+WARDROBE TIMELINE: 0–2 sec — rumpled plain pajamas, curls extra messy from sleep, no accessories. 2–6 sec — she dresses during the mirror timelapse described below. From 6 sec to the end — the exact complete outfit from @Image 1, unchanged.
+
+Create a chaotic 30-second Japanese live-action comedy video. Fast and physical, no dead time, rapid cuts and dynamic camera movement. All dialogue is Japanese only, and only she speaks — no other on-screen mouth ever syncs to any voice. Her voice is cute, high-pitched and bright.
+
+STYLE: Warm faded early-digital handheld footage with low-saturation color, soft focus, mild noise, slightly blown highlights and candid movement. No timestamp, date stamp or UI overlays. Not modern crisp digital. Speed changes exist ONLY in the two designated timelapse segments (2–6 sec and 20–23 sec); no slow motion anywhere, no speed ramps anywhere else.
+
+FLIGHT RULES: Her flight is played as physical and live-action. Every takeoff has a visible crouch, recoil and downdraft that shoves nearby objects; wind constantly drags her scarf, skirt and curls; landings carry real impact through her legs. She flies clumsily, like a new driver. No glowing aura, no energy effects, no cape, no superhero costume, no named superhero reference.
+
+SOUND: Playful upbeat Japanese gyaru dance-pop begins at the first frame and continues throughout. Sync cuts, the alarm clock, wardrobe snaps, the takeoff downdraft, whipping wind, flapping laundry, crow caws, train rumble, drone buzz, rain patter, landing impact and her footsteps to the beat. No silent sections.
+
+SETTING: A small messy Japanese bedroom with a bed, an alarm clock, a full-length mirror and clothes piled around; a slice of toast on a plate by the door. Outside: a Japanese residential street with laundry lines hung with white sheets, power lines, then a downtown district of office buildings, an elevated commuter train line, one small delivery drone, one crow, one small grey rain cloud, and a station square with ordinary Japanese pedestrians whose faces and outfits all differ. Japanese signage stays in the background.
+
+00:00–00:02 — WAKE-UP
+Extreme close-up of her eye snapping open under messy curls. She bolts upright in bed, grabs the alarm clock, stares at it and gasps. She kicks the blanket off. 00:02–00:06 — DRESSING TIMELAPSE
+Locked-off camera facing the full-length mirror. The room and the mirror frame stay pin-sharp and completely motionless — nothing in the background moves. Only she moves, in fast-forward with slight motion trails: pajamas off, top on, skirt on, scarf thrown, leg warmers yanked up, shoes buckled, necklace on, bag slung across. At 5.5 seconds the speed snaps back to normal with no ramp: she stands fully dressed in the exact @Image 1 outfit, jams the slice of toast in her mouth and strikes a quick check pose.
+
+00:06–00:08 — TAKEOFF
+On the front step she crouches deep, then launches vertically like a rocket, toast still in her mouth, mumbling through it: 「いってきま〜す！」 The downdraft knocks over a potted plant and sets the laundry flapping.
+
+00:08–00:11 — LOW-ALTITUDE OBSTACLES
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Nineteen-Second Cinematic Luxury Perfume Commercial
+
+> Luxury in every detail A cinematic fragrance experience crafted to leave a lasting impression. Made With Seedance 2.5 Prompt: Cinematic 19-second commercial ad …
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2.jpg" width="600" alt="Nineteen-Second Cinematic Luxury Perfume Commercial">](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @juliaevee | **出典:** [元投稿](https://x.com/juliaevee/status/2095745759027028252) | **公開日:** 2026-09-04 | **ヒート:** 24
+
+**安定度:** 83/100
+
+**再テスト:** Grok Imagine · 2026-10-02 · ✅ 再現 (スコア 82.6) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2/video-grok-imagine-20261002-phase1/generated.mp4)
+
+```
+Cinematic 19-second commercial ad for a luxury perfume. The video starts in pitch darkness, slowly revealing a dark blue glass perfume bottle with a round silver metallic cap resting on dark folded leather, labeled "BLUE BY ISHQ EAU DE PARFUM 50 ML". Dynamic lighting shifts with sharp rim highlights outlining the bottle. A fine mist spray fills the air with delicate water particles illuminated by a spotlight behind the bottle. The camera transitions through dramatic angles: a close-up tilt shot of the label, macro water drops splashing dynamically around the glass base, a close-up of a finger pressing the metallic nozzle spraying a fine fragrance mist in slow motion, and a smooth rotating camera motion. High-end moody aesthetic, dramatic music beat sync, 8k resolution, ultra-realistic product commercial photography.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### An Evening With Her Favorite Friends
+
+> She's spending the evening with her favorite friends. Created with seedance 2.5 Prompt ↓ Create a 30-second 16:9 ultra-r
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5.jpg" width="600" alt="An Evening With Her Favorite Friends">](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2095106155978596773) | **公開日:** 2026-09-02 | **ヒート:** 24
+
+**安定度:** 78/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78) · [出力](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（53 行、クリックで展開）</b></summary>
+
+```
+She's spending the evening with her favorite friends.
+
+Created with seedance 2.5
+
+Prompt ↓
+Create a 30-second 16:9 ultra-realistic casual smartphone lifestyle vlog featuring one young Korean woman going out to meet her friends, spending a fun time together, and then returning home.
+The entire video must look like genuine personal footage casually recorded on a real handheld smartphone. Mostly she films herself in selfie mode, with a few natural clips filmed by one of her friends. Use imperfect framing, subtle hand shake, realistic smartphone autofocus, automatic exposure changes, slight motion blur, walking jolts, natural background sounds and authentic real-world physics. No cinematic shots, no drone, no gimbal, no beauty filters, no commercial look.
+
+Character: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin and long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicate people. She speaks naturally in Korean with accurate lip synchronization.
+
+STORY — A DAY OUT WITH FRIENDS
+
+0:00–0:04 — Leaving Home
+She stands outside her home holding her phone in selfie mode, looking excited and ready to go out. She says naturally in Korean:
+
+“오늘 친구들이랑 만나러 가요!”
+
+She smiles, starts walking, and the phone shakes slightly with her steps.
+
+0:04–0:08 — Meeting Her Friends
+She arrives at a lively meeting spot and spots her friends waiting for her. Still holding her phone, she excitedly walks toward them. They naturally greet each other, smile, wave and share a quick friendly hug.
+
+She laughs and says:
+
+“드디어 만났다!”
+
+0:08–0:12 — Walking Together
+One of her friends casually films with a smartphone while the group walks together, laughing and talking naturally. The footage feels spontaneous, slightly imperfect and genuinely recorded by a friend.
+
+0:12–0:16 — Food and Fun
+They sit together at a casual café or restaurant. She records short clips of the food, then turns the phone toward herself and her friends while they laugh together and enjoy their meal.
+
+0:16–0:20 — Fun Activity Together
+The friends do a simple fun activity together, such as visiting an arcade, taking funny photo booth pictures, or playing a casual game. They laugh naturally and react spontaneously.
+
+0:20–0:24 — Happy Group Moment
+She records herself with all her friends gathered around. Everyone waves or makes playful expressions toward the phone camera. Keep the interaction natural and not posed like a professional photoshoot.
+
+0:24–0:27 — Saying Goodbye
+The friends say goodbye outside. They wave and casually hug before going in different directions. She watches them leave and smiles warmly.
+
+0:27–0:30 — Back Home
+Hard cut to her arriving back home. In selfie mode, looking happily tired after the day, she says:
+
+“오늘 진짜 너무 재밌었어요. 이제 집에 왔어요!”
+
+She smiles, waves at the camera and says:
+
+“안녕!”
+
+She naturally lowers the phone to end the vlog.
+
+CRITICAL REALISM REQUIREMENTS: Prioritize genuine smartphone vlog footage: arm-length selfie framing, natural switches between front and rear cameras, occasional imperfect composition, autofocus delays, exposure fluctuations, subtle hand shake, realistic walking movement, spontaneous laughter, natural blinking and breathing, authentic conversations and background activity. Friends should behave naturally like real friends, not actors posing for a commercial. The final result must look like a genuine personal day-out vlog recorded casually on a smartphone.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Lia’s Morning Walk from the Terrace to a Village Road
 
@@ -27,13 +160,78 @@ Use karakter sheet - location 1 - location 2 (image)
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog
+
+> A 30-second selfie-POV vlog: a girl in a yukata wanders a summer festival at night, buys takoyaki, plays a scooping game, watches the fireworks and waves goodbye to camera.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-8056757985cc.jpg" width="600" alt="Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2087407192031068528) | **公開日:** 2026-08-12 | **ヒート:** 22
+
+**安定度:** 82/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.3) · [出力](https://media.goodcase.ai/retests/seedance-2-5-vlog-8056757985cc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearing a pastel yukata explores a traditional Japanese summer festival at night. She films herself in selfie mode with natural handheld movement, realistic phone camera quality, and authentic ambient sounds. She walks through lantern-lit streets, buys fresh takoyaki and smiles after taking a bite, plays a traditional festival game and wins a small plush toy, then watches a spectacular fireworks display with the crowd, capturing her genuine excitement. She ends the vlog by waving at the camera and saying, "Thanks for coming with me. See you next time. Bye!" The video should feel natural, cinematic, and realistic with consistent appearance, smooth human motion, and authentic festival atmosphere.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Maldives Cycling Documentary in One Long Take
+
+> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088099038839316601) | **公開日:** 2026-08-14 | **ヒート:** 21
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80) · [出力](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
 
 > A 30-second vertical cycling vlog cutting between action cam, phone front camera and a chase bike. 4K photoreal, overcast light, sweat and pores, no beauty filter, every cut hard-coded.
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2086014766846275817) | **公開日:** 2026-08-08 | **ヒート:** 22
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2086014766846275817) | **公開日:** 2026-08-08 | **ヒート:** 21
 
 **安定度:** 74/100
 
@@ -133,53 +331,6 @@ Seedance 2.5 prompt 👇
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Maldives Cycling Documentary in One Long Take
-
-> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088099038839316601) | **公開日:** 2026-08-14 | **ヒート:** 21
-
-**安定度:** 80/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80) · [出力](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
-
-shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
-
-TIMELINE
-
-0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
-
-2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
-
-4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
-
-6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
-
-8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
-
-10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
-
-12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
-
-14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
-
-16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
-
-Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Girl’s Continuous Adventure Through Shifting Worlds
 
@@ -1243,7 +1394,7 @@ Seedance 2.5 prompt 👇
 
 [<img src="https://media.goodcase.ai/cases/4f0337074c6c.jpg" width="600" alt="Cinematic Matcha Tea Ceremony">](https://goodcase.ai/cases/case-348681e51fdd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @itsphotogptai | **出典:** [元投稿](https://x.com/itsphotogptai/status/2089672910520910279) | **公開日:** 2026-08-18 | **ヒート:** 10
+**作者:** @itsphotogptai | **出典:** [元投稿](https://x.com/itsphotogptai/status/2089672910520910279) | **公開日:** 2026-08-18 | **ヒート:** 9
 
 <details>
 <summary><b>プロンプト全文（24 行、クリックで展開）</b></summary>

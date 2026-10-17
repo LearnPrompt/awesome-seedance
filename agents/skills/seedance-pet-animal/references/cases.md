@@ -227,7 +227,7 @@ REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for
 
 ## E8 · Gray Cat Triggers a Chaotic Kitchen Mishap
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 64
+- Seedance 2.0 · creator: @Lianaalane · heat: 63
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d) · [finished media](https://media.goodcase.ai/cases/48173b9e2384.mp4) · [poster](https://media.goodcase.ai/cases/6906113b3cd0.jpg) · [original source](https://x.com/Lianaalane/status/2104431076089414068)
 - Summary: A tiny paw started the biggest kitchen disaster. Sometimes the cutest troublemakers make the funniest memories. Created on seedance 2.0 Prompt: Created a video,…
 

@@ -1,10 +1,171 @@
 # Seedance 2.5 — Full Gallery (Part 7/7)
 
-All 552 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 556 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 522–552 of 552.
+This page: cases 523–556 of 556.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · **Part 7**
+
+### An Evening With Her Favorite Friends
+
+> She's spending the evening with her favorite friends. Created with seedance 2.5 Prompt ↓ Create a 30-second 16:9 ultra-r
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5.jpg" width="600" alt="An Evening With Her Favorite Friends">](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2095106155978596773) | **Published:** 2026-09-02 | **Heat:** 24
+
+**Stability:** 78/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 78) · [output](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (53 lines, click to expand)</b></summary>
+
+```
+She's spending the evening with her favorite friends.
+
+Created with seedance 2.5
+
+Prompt ↓
+Create a 30-second 16:9 ultra-realistic casual smartphone lifestyle vlog featuring one young Korean woman going out to meet her friends, spending a fun time together, and then returning home.
+The entire video must look like genuine personal footage casually recorded on a real handheld smartphone. Mostly she films herself in selfie mode, with a few natural clips filmed by one of her friends. Use imperfect framing, subtle hand shake, realistic smartphone autofocus, automatic exposure changes, slight motion blur, walking jolts, natural background sounds and authentic real-world physics. No cinematic shots, no drone, no gimbal, no beauty filters, no commercial look.
+
+Character: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin and long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicate people. She speaks naturally in Korean with accurate lip synchronization.
+
+STORY — A DAY OUT WITH FRIENDS
+
+0:00–0:04 — Leaving Home
+She stands outside her home holding her phone in selfie mode, looking excited and ready to go out. She says naturally in Korean:
+
+“오늘 친구들이랑 만나러 가요!”
+
+She smiles, starts walking, and the phone shakes slightly with her steps.
+
+0:04–0:08 — Meeting Her Friends
+She arrives at a lively meeting spot and spots her friends waiting for her. Still holding her phone, she excitedly walks toward them. They naturally greet each other, smile, wave and share a quick friendly hug.
+
+She laughs and says:
+
+“드디어 만났다!”
+
+0:08–0:12 — Walking Together
+One of her friends casually films with a smartphone while the group walks together, laughing and talking naturally. The footage feels spontaneous, slightly imperfect and genuinely recorded by a friend.
+
+0:12–0:16 — Food and Fun
+They sit together at a casual café or restaurant. She records short clips of the food, then turns the phone toward herself and her friends while they laugh together and enjoy their meal.
+
+0:16–0:20 — Fun Activity Together
+The friends do a simple fun activity together, such as visiting an arcade, taking funny photo booth pictures, or playing a casual game. They laugh naturally and react spontaneously.
+
+0:20–0:24 — Happy Group Moment
+She records herself with all her friends gathered around. Everyone waves or makes playful expressions toward the phone camera. Keep the interaction natural and not posed like a professional photoshoot.
+
+0:24–0:27 — Saying Goodbye
+The friends say goodbye outside. They wave and casually hug before going in different directions. She watches them leave and smiles warmly.
+
+0:27–0:30 — Back Home
+Hard cut to her arriving back home. In selfie mode, looking happily tired after the day, she says:
+
+“오늘 진짜 너무 재밌었어요. 이제 집에 왔어요!”
+
+She smiles, waves at the camera and says:
+
+“안녕!”
+
+She naturally lowers the phone to end the vlog.
+
+CRITICAL REALISM REQUIREMENTS: Prioritize genuine smartphone vlog footage: arm-length selfie framing, natural switches between front and rear cameras, occasional imperfect composition, autofocus delays, exposure fluctuations, subtle hand shake, realistic walking movement, spontaneous laughter, natural blinking and breathing, authentic conversations and background activity. Friends should behave naturally like real friends, not actors posing for a commercial. The final result must look like a genuine personal day-out vlog recorded casually on a smartphone.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Lia’s Morning Walk from the Terrace to a Village Road
+
+> Kenalin lia hobinya mancing Seedance 2.5 prompt: Reference mode: Use karakter sheet - location 1 - location 2 (image) #
+
+[<img src="https://media.goodcase.ai/cases/3220eff0165d.jpg" width="600" alt="Lia’s Morning Walk from the Terrace to a Village Road">](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Cupang1997 | **Source:** [Original](https://x.com/Cupang1997/status/2091438364545446209) | **Published:** 2026-08-23 | **Heat:** 23
+
+**Stability:** 65/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 64.5) · [output](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Reference mode:
+Use karakter sheet - location 1 - location 2 (image)
+
+# Seedance 2.5 — Lia Morning Village Home Video — 30 Seconds FORMAT: Seedance 2.5 image-reference-to-video. Duration: exactly 30 seconds. Aspect ratio: 16:9. Photorealistic animated video from still-image references, rendered as believable live-action documentary footage rather than cartoon or CGI. Two continuous documentary scenes with only one intentional hard cut at approximately 17.5 seconds. REFERENCE ROLES: * gambar 1  = strict identity and appearance reference for LIA. Preserve Lia as the exact same adult woman throughout the entire video: same facial structure, eyes, nose, lips, skin tone, freckles/skin details, body proportions, tied-back dark brown hairstyle with naturally loose strands, earrings, white fitted top, brown patterned wrap skirt/sarong, and white sandals. Do not redesign or beautify her. * gambar 2  = strict environment and architectural reference for SCENE 1 only. Preserve the modest Indonesian house facade, open tiled front terrace, roof shape, terracotta roof feeling, columns, doors, windows, front yard, trees, plants, overhead electrical cables, scale, and spatial layout. Do not copy any character identity from this image. * gambar 3  = strict environment and composition reference for SCENE 2 only. Preserve the narrow asphalt village road, rice-field surroundings, village rooftops, utility lamp poles, tropical vegetation, distant green hill, open blue morning sky, and rural Indonesian spatial feeling. Do not copy character identity from this image. GLOBAL CHARACTER LOCK: Lia must remain visually identical to gambar 1 in both locations. Same face, body proportions, hairstyle, outfit, accessories, skin texture, and footwear. Her clothes should behave like real cotton and woven fabric, slightly worn and everyday rather than glossy or fashion-perfect. Lia's personality is relaxed and naturally playful. When she talks she becomes noticeably more excited and expressive: bright eyes, quick eyebrow lifts, small head tilts, spontaneous smiles and teasing expressions. Natural Indonesian speech with a light authentic Javanese-Indonesian accent, lively and conversational, never theatrical or caricatured. CAMERAMAN: The cameraman is always physically behind the camera and NEVER appears on screen, in reflections, windows, shadows, or background. His voice is recorded naturally from directly behind the camcorder. When the cameraman speaks, Lia does not lip-sync his dialogue. Lia only reacts with natural eye movement, a small smile, breathing, or subtle head movement. Only Lia's own spoken lines animate Lia's lips. VISUAL STYLE: Ultra-realistic documentary realism. Genuine candid behavior. Unscripted everyday slice-of-life feeling. Natural imperfect body language. Deep environmental authenticity of a rural Indonesian morning. The result should feel like a forgotten family home video recorded in Indonesia in the early 2000s: warm, mundane, affectionate, slightly funny, imperfect and deeply believable. Output may be high-resolution / 8K master quality, but the acquisition aesthetic must strongly emulate an early-2000s consumer DV camcorder: warm slightly faded colors, soft contrast, mild sensor noise, subtle digital compression, limited highlight latitude, natural motion blur, very mild rolling shutter, slightly imperfect white balance, no glossy modern HDR, no modern cinematic color grade, no beauty filter, no excessively shallow depth of field. HUMAN-OPERATED CAMERA: Camera movement must feel physically operated by a real friend holding a consumer camcorder. Use: subtle hand tremor, natural breathing drift, slightly imperfect horizon, small delayed reframing, occasional lens breathing, brief autofocus searching caused by subject movement, minor exposure pumping when moving between shade and bright sunlight. Every camera imperfection must have a physical reason. No gimbal stabilization. No drone. No orbit. No crane. No perfect tracking. No dramatic cinematic push-ins. No stylized speed ramp. No artificial cinematic camera choreography. SCENE 1 — TERRACE MORNING, based on gambar 2 00:00–00:02.8 Begin immediately with Lia already seated casually on the front terrace of the house from gambar 2. Use a loose eye-level medium-wide three-quarter shot, as if the cameraman is standing several steps in front of the terrace. Lia sits relaxed on the existing porch seating, shoulders loose, one foot slightly forward. Her LEFT hand naturally holds a simple glass cup of dark morning coffee. Her RIGHT hand holds one lit cigarette between index and middle finger. Keep object ownership consistent: coffee always remains in the left hand until she puts it down, cigarette remains in the right hand until she extinguishes it. A thin natural stream of cigarette smoke rises and bends with the morning air. Lia briefly takes a small sip of coffee, lowers the glass, casually looks toward the cameraman behind the lens and gives a tiny amused smile. Camera is not perfectly centered and slowly drifts a few centimeters while the operator settles his grip. Tropical morning sunlight illuminates the yard while Lia remains partially under terrace shade. Moving leaves create soft shifting dappled shadows. Exposure reacts slightly to the bright yard behind her. 00:02.8–00:04.5 CAMERAMAN speaks from behind the camera, playful and casually surprised: "widiihh lia santai amat" The cameraman remains completely off-screen. While listening, Lia keeps her lips closed except for a tiny amused smile. She glances toward the lens/operator, lightly raises her eyebrows and relaxes the cigarette hand near her knee. 00:04.5–00:09.7 LIA answers, conversational and excited with a natural light Javanese-Indonesian accent: "iya mas pagi hari itu wajib ngopi dan udud kalau ga bisa pusing loh" Accurate Indonesian lip sync ONLY for Lia. She speaks while sitting naturally rather than performing for camera. Small head movement, lively eyebrows, natural blinking, relaxed shoulders. She gestures once gently with the cigarette hand without waving it excessively. Smoke responds naturally to the movement. Toward the end of the sentence she gives a teasing half-smile. After finishing the spoken line, she takes a tiny relaxed breath; do not make her drink while her mouth is actively speaking. The camera operator makes a very small late correction to keep her face centered. Autofocus briefly breathes, then settles back on Lia. 00:09.7–00:11.5 CAMERAMAN asks from behind the camera: "habis udud mau kemana lia?" Lia remains silent while he speaks. No Lia lip-sync. She tilts her head slightly, looks amused and shifts her weight forward as if preparing to get up. 00:11.5–00:14.5 LIA answers with growing excitement and a playful inviting expression: "ayo ikut aku mancing mas mauu?" Accurate lip sync. On "mauu?" she lifts her eyebrows, smiles toward the cameraman and leans forward slightly, inviting him to follow. Keep the delivery spontaneous, like talking to a real friend, not presenting to an audience. 00:14.5–00:17.5 Dialogue pauses. Lia naturally completes the current activity before leaving. First she places the coffee glass down with her LEFT hand on the nearby terrace surface. Then she taps the cigarette once and extinguishes the cigarette completely in a small simple ashtray using her RIGHT hand. The cigarette state changes from LIT to EXTINGUISHED only after visible contact with the ashtray. After this moment there is no new cigarette smoke. She plants both sandal-covered feet firmly, shifts her weight forward, stands with believable human balance, straightens her skirt naturally and takes her first step away. Realistic cloth movement and hair secondary motion. Foley: soft glass contact, small ashtray tap, woven skirt rustle, sandal movement. CUT LOGIC: At approximately 00:17.5, make ONE simple hard cut after Lia has fully stood and started leaving. No transition effect. No dissolve. No montage. SCENE 2 — VILLAGE ROAD WALK, based on gambar 3 00:17.5–00:21.7 Hard cut directly to Lia already walking along the narrow asphalt village road from gambar 3. Camera follows approximately 2–3 meters BEHIND Lia at natural walking height. Medium-wide rear follow framing shows Lia's full walking movement and enough environment to clearly recognize the road, fields, utility poles, rooftops, tropical vegetation and distant green hill. The cameraman walks behind her, producing gentle vertical footstep bob, mild hand tremor and slightly imperfect framing. Lia walks at an unhurried natural pace. Real heel-to-toe steps. No sliding feet. Her patterned woven skirt reacts naturally to each stride. Her tied-back hair and loose strands respond subtly to the breeze. The cameraman occasionally falls a fraction behind, then naturally catches up. Do not turn this into a smooth professional tracking shot. 00:21.7–00:24.2 Without stopping completely, Lia slows slightly and turns her head and upper torso back over her shoulder toward the cameraman. The movement begins with her eyes, then head, then shoulders. Her lower body continues moving forward slowly. Because she unexpectedly turns back, the camera reacts a little late. Framing briefly drifts off-center and autofocus searches for her face for a fraction of a second before locking. LIA speaks toward the cameraman with teasing curiosity: "mas mau tau aku kemana?" Accurate natural lip sync. Excited light Javanese-Indonesian delivery. Playful half-smile. 00:24.2–00:25.4 CAMERAMAN responds from behind the camera: "kemana tuuuuh" He remains completely off-screen. Lia's mouth stops speaking while his line is heard. She keeps looking back with a mischievous expression, suppressing a laugh. Camera continues physically walking behind her with natural small shake. 00:25.4–00:29.2 LIA gives the punchline: "aku mau cari om om loh mas eee" She delivers it playfully and excitedly, building toward the final "eee". Accurate Indonesian lip sync. Immediately after finishing "eee", she bursts into a genuine spontaneous laugh. Her shoulders bounce naturally from laughter. She briefly squints, smiles widely and turns her face partly forward again while still chuckling. The laugh feels uncontrolled and candid, not like scripted acting. The cameraman reacts physically by momentarily losing perfect framing while continuing to walk. The camera dips slightly and catches up again. Do not add any new spoken words. 00:29.2–00:30.0 Lia is still walking and laughing softly. She begins turning her attention forward again while the cameraman follows. The framing drifts slightly toward one side because the operator is walking and laughing/reacting behind the camera. End imperfectly: the recording abruptly cuts to black MID-MOTION at exactly 30 seconds, without a polished ending, fade-out, pose, title or outro. ENVIRONMENTAL AUTHENTICITY: The environment must feel alive but never distract from Lia. SCENE 1 background: subtle tropical leaves moving in morning air, occasional distant motorbike passing outside the main foreground, one distant resident casually sweeping with a traditional broom when composition permits, small household plants moving, occasional water drip, overhead electrical cables, terracotta roofing, weathered concrete, real glass and ceramic surfaces, one cat may briefly react or cross far in the background only if naturally integrated. SCENE 2 background: rice and grasses moving gently in the breeze, distant village activity, occasional far motorbike, subtle birds, coconut or tropical foliage moving, utility poles remaining stable, no crowds, no staged extras. Background activity must continue independently of Lia as if the village exists beyond the scene. LIGHTING: Natural tropical morning light only. SCENE 1: bright morning yard with softer shade beneath the house terrace. Dappled foliage shadows shift subtly. Consumer camcorder exposure pumps very slightly when framing includes more bright yard or shaded Lia. SCENE 2: strong but natural morning daylight matching gambar 3. No artificial key light. No rim-light setup. No cinematic backlighting. Exposure may briefly adjust when Lia's face turns from forward light to backward-facing light. PHYSICAL MATERIAL DETAIL: Real skin texture with pores and tiny imperfections. No plastic skin. White cotton top moves subtly with breathing. Patterned woven skirt has visible fabric weight and folds. Sandals flex naturally at the feet. Concrete and tiled terrace retain worn real-world texture. Coffee is contained inside a real glass with believable reflections. Cigarette paper, ember and ash behave realistically before extinction. Terracotta roofing, asphalt, dry grass and green vegetation retain physically believable texture. AUDIO: Zero music. Zero narration. No voice-over other than the naturally recorded off-screen cameraman dialogue. No added soundtrack. Use authentic layered location sound. SCENE 1 close layer: Lia's clothing rustle, subtle breathing, glass touching the porch/table, small cigarette and ashtray contact, sandals shifting. Medium layer: broom brushing ground, occasional water drip, leaves rustling. Far layer: rooster crow, distant motorcycle, soft rural morning ambience. SCENE 2 close layer: Lia's sandal footsteps on asphalt, woven skirt swish, breathing and genuine laughter. Medium layer: grass and leaves moving in the breeze. Far layer: occasional rooster, distant motorcycle, birds and rural village ambience. Dialogue must remain clearly intelligible but retain realistic camcorder microphone perspective. The cameraman's voice should sound close to the microphone because he is holding the camera. Lia's voice becomes slightly more spatially distant during the rear-follow scene while remaining clear. MOTION QUALITY: Natural human-scale acceleration and deceleration. Stable foot contact. Correct left/right limb ownership. Real body weight and balance. Natural hip and shoulder counter-motion while walking. Believable hair and cloth secondary motion. No floating. No rubber limbs. No foot sliding. No teleporting. No sudden speed changes. CONTINUITY: Lia remains the exact same person from gambar 1 throughout both scenes. Same: face, skin, hair, hairstyle, body proportions, earrings, white top, brown patterned wrap skirt, white sandals. SCENE 1 prop continuity: coffee = left hand until placed down. cigarette = right hand until visibly extinguished. After Lia leaves the terrace: coffee remains behind at the house. cigarette remains extinguished at the house. Neither object appears in Lia's hands on the road. SCENE 2 begins only after the intentional hard cut. Do not visually morph gambar 2 into gambar 3. NEGATIVE CONSTRAINTS: No identity drift or face redesign. No hairstyle change. No wardrobe change. No changing Lia's body proportions. No beauty filter or plastic skin. No duplicate Lia. No cameraman visible anywhere. No random foreground characters interacting with Lia. No incorrect speaker lip-sync. Lia's lips stay silent during cameraman dialogue. No extra dialogue. No subtitles. No captions. No watermark. No logos. No duplicate coffee glass. No switching coffee between hands. No duplicate cigarette. No switching cigarette between hands. No cigarette magically relighting after extinction. No cigarette smoke during the road scene. No random location morphing. No unexplained teleportation. No random jump cuts. Only one intentional hard cut between the terrace and road scenes. No gimbal stabilization. No cinematic orbit. No drone shot. No glossy cinematic grading. No modern HDR look. No dramatic lens flare. No artificial slow motion. No speed ramps. No background music. No narrator. FINAL GOAL: A believable forgotten early-2000s Indonesian home video — candid, imperfect, funny, warm and unscripted. It should feel as though a real friend casually picked up a consumer DV camcorder one tropical morning, found Lia drinking coffee and smoking on her terrace, chatted with her spontaneously, then followed her down a village road while she jokingly teased the cameraman. The viewer should feel that life in the environment continues naturally whether or not the camera is recording.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog
+
+> A 30-second selfie-POV vlog: a girl in a yukata wanders a summer festival at night, buys takoyaki, plays a scooping game, watches the fireworks and waves goodbye to camera.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-8056757985cc.jpg" width="600" alt="Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @im_shahid7 | **Source:** [Original](https://x.com/im_shahid7/status/2087407192031068528) | **Published:** 2026-08-12 | **Heat:** 22
+
+**Stability:** 82/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 82.3) · [output](https://media.goodcase.ai/retests/seedance-2-5-vlog-8056757985cc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearing a pastel yukata explores a traditional Japanese summer festival at night. She films herself in selfie mode with natural handheld movement, realistic phone camera quality, and authentic ambient sounds. She walks through lantern-lit streets, buys fresh takoyaki and smiles after taking a bite, plays a traditional festival game and wins a small plush toy, then watches a spectacular fireworks display with the crowd, capturing her genuine excitement. She ends the vlog by waving at the camera and saying, "Thanks for coming with me. See you next time. Bye!" The video should feel natural, cinematic, and realistic with consistent appearance, smooth human motion, and authentic festival atmosphere.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Maldives Cycling Documentary in One Long Take
+
+> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2088099038839316601) | **Published:** 2026-08-14 | **Heat:** 21
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (25 lines, click to expand)</b></summary>
+
+```
+Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
 
@@ -12,7 +173,7 @@ This page: cases 522–552 of 552.
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2086014766846275817) | **Published:** 2026-08-08 | **Heat:** 22
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2086014766846275817) | **Published:** 2026-08-08 | **Heat:** 21
 
 **Stability:** 74/100
 
@@ -112,53 +273,6 @@ Seedance 2.5 prompt 👇
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Maldives Cycling Documentary in One Long Take
-
-> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2088099038839316601) | **Published:** 2026-08-14 | **Heat:** 21
-
-**Stability:** 80/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (25 lines, click to expand)</b></summary>
-
-```
-Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
-
-shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
-
-TIMELINE
-
-0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
-
-2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
-
-4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
-
-6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
-
-8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
-
-10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
-
-12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
-
-14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
-
-16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
-
-Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Girl’s Continuous Adventure Through Shifting Worlds
 
@@ -1222,7 +1336,7 @@ Seedance 2.5 prompt 👇
 
 [<img src="https://media.goodcase.ai/cases/4f0337074c6c.jpg" width="600" alt="Cinematic Matcha Tea Ceremony">](https://goodcase.ai/cases/case-348681e51fdd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @itsphotogptai | **Source:** [Original](https://x.com/itsphotogptai/status/2089672910520910279) | **Published:** 2026-08-18 | **Heat:** 10
+**Author:** @itsphotogptai | **Source:** [Original](https://x.com/itsphotogptai/status/2089672910520910279) | **Published:** 2026-08-18 | **Heat:** 9
 
 <details>
 <summary><b>Full prompt (24 lines, click to expand)</b></summary>

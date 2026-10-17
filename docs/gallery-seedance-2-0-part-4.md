@@ -1,10 +1,170 @@
 # Seedance 2.0 — Full Gallery (Part 4/4)
 
-All 284 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 287 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 278–284 of 284.
+This page: cases 276–287 of 287.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · **Part 4**
+
+### Multiverse Dimensional Portal Fall
+
+> A complex multi-portal journey prompt about a character falling through different dimensions, transforming from a realistic human into animated, voxel, and sci-fi versions.
+
+[<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="Multiverse Dimensional Portal Fall">](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @NababUddin2 | **Source:** [Original](https://x.com/NababUddin2/status/2079428121133240602) | **Published:** 2026-07-21 | **Heat:** 1
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+STYLE
+Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
+
+CHARACTER
+A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
+
+CAMERA
+Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
+
+LIGHTING
+Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
+
+TIMELINE
+
+0.0–4.0s | Scene 1
+Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
+8.0–12.0s | Scene 3
+He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
+12.0–16.0s | Scene 4
+Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
+16.0–20.0s | Scene 5
+He enters the final portal in one perfectly smooth transition. The environment transforms into a beautiful pastel-colored world with soft dreamy lighting, elegant architecture, colorful trees, and peaceful surroundings. His original casual outfit returns, reimagined in the same pastel artistic style. Still falling naturally, he looks at his hands, clothing, and surroundings in astonishment as life in every world continues normally, unaware of his journey. The sequence ends with him continuing his descent toward the vibrant landscape.
+DIRECTOR NOTES
+Maintain one continuous freefall throughout the entire sequence with accurate gravity, momentum, and natural body movement. Every portal transition should be fluid with no cuts or visual jumps. Each world should instantly transform around the character while preserving continuity. The character's appearance should adapt to each world's style while remaining instantly recognizable. Prioritize cinematic realism, believable reactions, and seamless world transitions.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Pixar-Style Milkshake Storyboard Animation
+
+> A detailed prompt for generating an infographic storyboard for a Pixar-style milkshake commercial, with vivid colors and 3D-rendered effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-749c98da9b7d.jpg" width="600" alt="Pixar-Style Milkshake Storyboard Animation">](https://goodcase.ai/cases/case-749c98da9b7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @gptproto | **Source:** [Original](https://x.com/gptproto/status/2071501518679998922) | **Published:** 2026-06-29 | **Heat:** 1
+
+**Stability:** 81/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.5) · [output](https://media.goodcase.ai/retests/case-749c98da9b7d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a crisp, clean infographic storyboard poster for THE MILKSHAKE MAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — creamy vanilla white, vivid red cherry, pure white whipped cream, chrome counter shine, warm diner neon glow, checkered floor red and white. Top header: THE MILKSHAKE MAKER TOTAL VIDEO TIME: 12 SECONDS 8 SHOTS · THICK · CREAMY · CLASSIC DINER Legend icons: ACTION, HEAT, TIME HINT, INGREDIENT Same Pixar-style young male soda jerk throughout — warm friendly smile, white paper hat, red bow tie, classic American diner setting, chrome counter, red vinyl stools, checkered floor, neon sign glowing in the window, warm afternoon light. 8 panels: Panel 1 — THE OPENER: Wide action shot. Soda jerk tosses the metal blender cup up with one hand and locks it firmly onto the mixer base with a confident flick of his wrist — motion frozen mid-action, his focused smile visible. Chrome counter, red vinyl stools and checkered floor visible around him. Different from the standing-and-presenting energy — this is action from frame one. Panel 2 — THE SCOOP: Close-up. Ice cream scoop digging deep into a tub of creamy vanilla ice cream — thick generous scoops lifted out and dropped into the metal blender cup one after another. Panel 3 — THE MILK: Wide medium with him fully visible. Soda jerk tilts a glass milk bottle, pouring a thick steady stream into the blender cup over the ice cream — his face focused, posture leaning slightly forward. Character back in frame. Panel 4 — THE BLEND: Dramatic close-up. Blender spinning at full speed — the milkshake swirling and churning vigorously inside the cup, a visible vortex forming, becoming completely smooth and impossibly thick. Panel 5 — THE POUR: Overhead locked shot looking straight down into the tall glass as the thick milkshake pours in from above — swirling and settling as it fills, the surface forming a slow spiral. Completely different angle from any other panel in the series. Panel 6 — THE CREAM: Wide medium with him fully visible. Soda jerk piping whipped cream in a tall perfect swirl on top of the milkshake — his hand steady and precise, face focused with concentration, the cream building higher with each pass. Panel 7 — THE CHERRY: Close-up dramatic, low side angle. A single bright red cherry falling from above into frame, about to land on the whipped cream peak — captured mid-fall at a completely different angle from the cream panel before it. Panel 8 — THE SIP: Wide warm shot, completely different setting energy from panel 1. Customer seated at the counter wraps both hands around the tall glass, leans in and takes the first sip through the straw — eyes closing in pure satisfaction, whipped cream on their nose. Soda jerk watching proudly from behind the counter, arms crossed, warm smile. Diner neon glowing softly behind them both. Footer: VIDEO FLOW: 8 shots × ~1.5s = 12 seconds. First scoop to first sip. CAMERA TIPS: wide action shot for the opener, close-up for the scoop, wide medium with him visible for the milk pour, dramatic close-up for the blend, overhead locked for the pour, wide medium with him visible for the whipped cream, close-up low side angle for the cherry, wide warm for the first sip LIGHT & STYLE: warm diner afternoon light, creamy vanilla white, vivid red cherry, pure white whipped cream, chrome counter shine, checkered floor, Pixar vivid warm colors throughout SODA JERK NOTES: one soda jerk, one glass, one perfect milkshake. Thick, creamy, and classic diner done right.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-749c98da9b7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Korean Barbecue Cooking Process
+
+> A complex Seedance 2.0 prompt that turns a 9-step cooking project into a seamless, chronological video sequence performed by a chef.
+
+[<img src="https://media.goodcase.ai/media/poster/case-72e571e9353d.jpg" width="600" alt="Korean Barbecue Cooking Process">](https://goodcase.ai/cases/case-72e571e9353d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Strength04_X | **Source:** [Original](https://x.com/Strength04_X/status/2070471862522695793) | **Published:** 2026-06-26 | **Heat:** 1
+
+```
+CRITICAL INSTRUCTION: The reference image contains a 9-step chronological cooking storyboard for a Korean BBQ Platter. Animate the chef seamlessly through these exact 9 steps in order. Start at Step 1 (Slice marinated galbi beef ribs), flow into Step 2 (Heat stone grill pan with oil), then Step 3 (Grill galbi strips). Continue through Step 4 (Add pork belly to grill), Step 5 (Flip meats to caramelize), Step 6 (Arrange banchan side dishes), Step 7 (Build ssam lettuce wrap), Step 8 (Cut grilled meat with scissors), finishing on Step 9 (Full BBQ spread hero shot). Prioritize the strict sequence of actions.
+No music. No subtitle.
+Location: Traditional Korean BBQ restaurant with stone tabletop grill.
+15 seconds, 16:9, realistic, cinematic, smoky, appetizing, natural camera movement.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-72e571e9353d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Showa-Era Retro Living Room Scene
+
+> A narrative prompt depicting a nostalgic Showa-era scene of a grandmother and grandchildren together, focusing on character interaction and dialogue.
+
+[<img src="https://media.goodcase.ai/media/poster/case-a845e1418b39.jpg" width="600" alt="Showa-Era Retro Living Room Scene">](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @SanShiroH_X | **Source:** [Original](https://x.com/SanShiroH_X/status/2081189582553657528) | **Published:** 2026-07-26 | **Heat:** 0
+
+**Stability:** 78/100
+
+**Retests:** 2 runs
+
+- Grok Imagine · 2026-10-02 · ✅ reproduced (score 78) · [output](https://media.goodcase.ai/retests/case-a845e1418b39/video-grok-imagine-20261002-phase1/generated.mp4)
+- MiniMax H3 Max 768p · 2026-09-07 · ❌ failed (score n/a)
+
+```
+居間でテレビを観ていた祖母が立ち上がり振り返って孫たちを見る、祖母が孫たちに「アンタたち、オフロ入ってきなさい！」と優しく声をかける、幼い姉妹たちが明るく「はぁ〜い！」と返事をし、脱いだ下駄を並べ裸足で居間へ上がっていく、年の離れた紫色の浴衣を着た姉がバケツを片付けながら幼い姉妹に「足ふきなさい！」と声をかける
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-a845e1418b39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Hardcore Sci-Fi Anime Edit
+
+> An ultra-fast-paced anime action edit for the character Kael Drayn, featuring a hardcore sci-fi aesthetic and variable frame-rate effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-251215797a14.jpg" width="600" alt="Hardcore Sci-Fi Anime Edit">](https://goodcase.ai/cases/case-251215797a14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @itsPixieVerse | **Source:** [Original](https://x.com/itsPixieVerse/status/2081161446671651074) | **Published:** 2026-07-25 | **Heat:** 0
+
+**Stability:** 75/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.9) · [output](https://media.goodcase.ai/retests/case-251215797a14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (36 lines, click to expand)</b></summary>
+
+```
+KAEL DRAYN @[Image] — "Frontier Justice" | Action Sequence. 15-second montage, hyper-kinetic rhythmic editing, variable frame
+rates.
+
+Art Direction & Vibe: Premium key art. Unified style: high-end gritty sci-fi
+anime render, sharp graphic linework, cinematic spatial lighting. Setting:
+lawless outer-rim outpost, dusty streets, rusted corrugated metal, harsh desert
+sun.
+
+Color Discipline: Suppressed palette: sun-bleached beige, dry ochre, rusted
+iron, muted olive. Accents: his terra-cotta skin/markings, searing crimson enemy
+blaster bolts, and the blinding neon-green of his plasma sword. High contrast;
+the plasma blade casts stark green rim-light on kicking dust. Atmosphere:
+blowing sand, heat distortion, flying sparks, kinetic motion blur.
+
+The Character: Locked design (match reference): KAEL DRAYN, Outer Rim Sentinel.
+Patterned alien head-tails, dark facial markings, calm focused eyes. Earth-toned
+tactical gear, draped olive cowl, utility belts, combat boots. Wields a
+mechanical hilt emitting a neon-green plasma blade. Demeanor: disciplined,
+precise, unshakeable — zero wasted movement amidst chaos.
+
+Shot Design: Rotate combat grammar. Macros (thumb igniting hilt, green blade
+melting a crimson blaster bolt, tactical boot pivoting in sand) to wide
+acrobatic leaping strikes. Hard diagonals, dirty over-the-shoulder perspectives,
+dynamic low-angle hero framing. Lighting: blistering harsh daylight, intense
+neon-green ambient glow during strikes. 3 environmental combat frames: a
+scorching blast-mark on an adobe wall, sliced metal debris falling, wind
+sweeping dust over footprints.
+
+Story Arc: Open on tense stillness. Omens: shifting shadows, a mercenary's
+weapon clicking. Introduce in defense: mechanical hilt snaps up, blade ignites,
+tight macro framing of rapid blaster deflection. Escalate through the
+counter-attack: Kael fluidly advances through the crossfire, a blur of leaping
+strikes and spinning green light trails carving through the dust. Resolve
+climactic frame: Kael in a grounded low stance, sword sheathed, cowl blowing in
+the wind, completely unbothered amidst fallen adversaries. High-velocity
+whip-pans between beats; kinetic precision.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-251215797a14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Luxury Beauty and Skincare ASMR
 

@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Futuristic Highway Chase with Motorcycles and Supercar
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 91
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 92
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) · [finished media](https://media.goodcase.ai/cases/750a092b1670.mp4) · [poster](https://media.goodcase.ai/cases/1917351d85cd.jpg) · [original source](https://x.com/itsSaira_1/status/2104064261005709551)
 - Summary: ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
 
@@ -205,7 +205,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E7 · Woman Biker Escapes an Alien Warship on an Apocalyptic Highway
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 57
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 56
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) · [finished media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) · [poster](https://media.goodcase.ai/cases/b48c78c785ba.jpg) · [original source](https://x.com/itsSaira_1/status/2104789066562547945)
 - Summary: ⚡The world is burning, the enemy is here, and she's ready for war. ⚔️ Made with Seedance 2.5 On @supercool_hq Prompt: CINEMATIC SHORT FILM, 46 sec, 16:9, photor…
 
