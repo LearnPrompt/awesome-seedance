@@ -10,6 +10,8 @@
 
 プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)
 
+元投稿、テンプレート、再テスト記録が役立ったら、リポジトリに Star を付けて、[次に再テストしてほしいケースやモデル](https://github.com/LearnPrompt/awesome-seedance/issues)を教えてください。
+
 ## 目次
 
 - [🚀 ここから始める](#-ここから始める)

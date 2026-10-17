@@ -56,8 +56,19 @@ export function validateSubmission(data, opts = {}) {
   if (typeof data.promptFull === "string" && data.promptFull.trim().length < 40) {
     problems.push("promptFull is suspiciously short (< 40 characters)");
   }
-  if (typeof data.creator === "string" && data.creator.trim() && !/^@?[\w.\-]+$/u.test(data.creator.trim()) && data.creator.trim().length > 60) {
-    problems.push("creator should be the handle as shown on the source platform");
+  // Platforms expose Unicode handles and display names; do not impose X's ASCII format.
+  // Required-field validation above owns empty values so they get one actionable error.
+  if (!problems.includes("missing required field: creator")) {
+    if (typeof data.creator !== "string") {
+      problems.push("creator must be a string");
+    } else {
+      if ([...data.creator.trim()].length > 60) {
+        problems.push("creator must be at most 60 Unicode code points");
+      }
+      if (/[\u0000-\u001f\u007f-\u009f]/u.test(data.creator)) {
+        problems.push("creator must not contain control characters");
+      }
+    }
   }
   return problems;
 }

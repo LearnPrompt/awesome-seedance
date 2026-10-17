@@ -10,6 +10,8 @@
 
 更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)
 
+如果这些来源、模板或复测记录帮到了你，欢迎给仓库点个 Star，并[告诉我们下一步想复测的案例或模型](https://github.com/LearnPrompt/awesome-seedance/issues)。
+
 ## 目录
 
 - [🚀 从这里开始](#-从这里开始)

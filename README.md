@@ -10,6 +10,8 @@
 
 More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)
 
+If these sources, templates or retest notes help your work, star this repository and [suggest a case or model to retest next](https://github.com/LearnPrompt/awesome-seedance/issues).
+
 ## Contents
 
 - [🚀 Start Here](#-start-here)
