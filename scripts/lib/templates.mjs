@@ -384,14 +384,18 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   lines.push("</table>");
   lines.push("");
   if (siteSkills) {
+    // 这一行要让读者把首屏总数加出来：总数 = 站上视频 Skill + 只在网格里的格子，三个数都现算。
     const entries = siteSkills.skills || [];
-    const total = entries.length;
+    const site = entries.length;
     const methods = entries.filter((x) => x.kind === "creator_method").length;
+    const official = site - methods;
+    const gridOnly = gridOnlySkills(skillsData, siteSkills).length;
+    const total = countSkills(skillsData, siteSkills);
     lines.push(
       t(lang, {
-        en: `**[All ${total} video Skills on goodcase.ai, including ${methods} creator methods →](${listHref})** One page, every install line.`,
-        zh: `**[goodcase.ai 上全部 ${total} 个视频 Skill，含 ${methods} 个创作者方法 →](${listHref})** 一页列全，每个都带安装命令。`,
-        ja: `**[goodcase.ai の動画 Skill 全 ${total} 個（クリエイターメソッド ${methods} 個を含む）→](${listHref})** 1 ページに全インストールコマンドを掲載。`,
+        en: `${total} AI video Skills in all: the ${site} on goodcase.ai (${official} official + ${methods} creator methods), plus ${gridOnly} that only ${gridOnly === 1 ? "appears" : "appear"} in the grid above. **[Full list of the ${site} goodcase.ai video Skills →](${listHref})** One page, every install line.`,
+        zh: `一共 ${total} 个 AI 视频 Skill：goodcase.ai 上的 ${site} 个（${official} 个官方 + ${methods} 个创作者方法），加上只在上面网格里的 ${gridOnly} 个。**[goodcase.ai 上 ${site} 个视频 Skill 的总表 →](${listHref})** 一页列全，每个都带安装命令。`,
+        ja: `AI 動画 Skill は合計 ${total} 個です。goodcase.ai の ${site} 個（公式 ${official} 個 + クリエイターメソッド ${methods} 個）と、上のグリッドにだけある ${gridOnly} 個。**[goodcase.ai の動画 Skill ${site} 個の一覧 →](${listHref})** 1 ページに全インストールコマンドを掲載。`,
       })
     );
     lines.push("");
@@ -406,10 +410,31 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   return lines.join("\n");
 }
 
-/** README 里 Skill 的总数：网格格子数 + 各格子名下的创作者方法数（来自 data/site-skills.json）。 */
+/**
+ * README 里 Skill 的总数：网格格子和 data/site-skills.json 去重后的并集（格子按 siteSlug，没有就按 id）。
+ * 网格里有站上没有的本仓 Skill，站上也有不进网格的官方 Skill，单算任何一边都会和另一处的数字对不上。
+ */
 export function countSkills(skillsData, siteSkills = null) {
-  const skills = (skillsData && skillsData.skills) || [];
-  return skills.length + skills.reduce((n, s) => n + creatorMethodCount(s, siteSkills), 0);
+  const keys = new Set(((siteSkills && siteSkills.skills) || []).map((x) => x.slug));
+  for (const s of (skillsData && skillsData.skills) || []) keys.add(s.siteSlug || s.id);
+  return keys.size;
+}
+
+/** 只在网格里、不在 site-skills 里的格子（本仓 seedance-* 和 goodcase 元 Skill 这类）。 */
+export function gridOnlySkills(skillsData, siteSkills = null) {
+  const onSite = new Set(((siteSkills && siteSkills.skills) || []).map((x) => x.slug));
+  return ((skillsData && skillsData.skills) || []).filter((s) => !onSite.has(s.siteSlug || s.id));
+}
+
+/**
+ * 站上的官方视频 Skill 既不在网格、也没登记在 skills.json 的 notInGrid 里：返回这些 slug。
+ * generate 只打 [skills-drift] 警告不失败，daily sync 会先跑 npm test，硬失败会卡住每天的案例同步。
+ */
+export function skillsDrift(skillsData, siteSkills) {
+  if (!siteSkills) return [];
+  const inGrid = new Set(((skillsData && skillsData.skills) || []).map((s) => s.siteSlug).filter(Boolean));
+  const excused = new Set(((skillsData && skillsData.notInGrid) || []).map((x) => x.slug));
+  return (siteSkills.skills || []).filter((x) => x.kind === "shared" && !inGrid.has(x.slug) && !excused.has(x.slug)).map((x) => x.slug);
 }
 
 // ---------------------------------------------------------------------------

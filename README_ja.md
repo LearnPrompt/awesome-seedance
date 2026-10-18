@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 843 ケースをすべて元投稿と照合、495 回のクロスモデル再テスト、27 個の再利用可能テンプレート、80 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1766 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 843 ケースをすべて元投稿と照合、495 回のクロスモデル再テスト、27 個の再利用可能テンプレート、81 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1766 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -44,7 +44,7 @@ AI 動画が初めてでも、この 5 ステップで自分のクリップが�
 | --- | --- | --- |
 | **向いている人** | 初心者、何もインストールしたくない人 | すでに Claude Code や Codex などのエージェントを使っている人 |
 | **使い方** | コピーして [角括弧] を置き換え、任意の AI チャットに貼る | コマンド 1 行で導入し、あとはエージェントに要望を伝えるだけ |
-| **カバー範囲** | カテゴリ別テンプレート 27 個 | ケースに基づくプロンプト構造と制作ワークフロー、計 80 個の Skill とクリエイターメソッド |
+| **カバー範囲** | カテゴリ別テンプレート 27 個 | ケースに基づくプロンプト構造と制作ワークフロー、計 81 個の Skill とクリエイターメソッド |
 | **得られるもの** | 確かなプロンプトを 1 本ずつ | Skill に応じて、プロンプトまたは制作計画と検証記録 |
 
 ケースを眺めたいだけなら[ヒート Top 30](#-ヒート-top-30) か[全ケース](#-全プロンプト)へ。プロンプトの再現性を確かめたいなら[クロスモデル再テスト](#-クロスモデル再テスト)をどうぞ。
@@ -209,7 +209,7 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 </tr>
 </table>
 
-**[goodcase.ai の動画 Skill 全 65 個（クリエイターメソッド 44 個を含む）→](./docs/skills.ja.md)** 1 ページに全インストールコマンドを掲載。
+AI 動画 Skill は合計 81 個です。goodcase.ai の 65 個（公式 21 個 + クリエイターメソッド 44 個）と、上のグリッドにだけある 16 個。**[goodcase.ai の動画 Skill 65 個の一覧 →](./docs/skills.ja.md)** 1 ページに全インストールコマンドを掲載。
 
 各インストールコマンドは [skills CLI](https://github.com/vercel-labs/skills) で動きます。`seedance-…` で始まる Skill はこのリポジトリの [agents/skills](./agents/skills) にあり、ライブラリと単一ジャンルのテンプレート Skill はケースデータから再生成され、制作ワークフロー Skill は別途保守されます。ライブラリ Skill は `npx seedance-prompt-library install` でも Claude Code と Codex に直接入ります。画像、コーディング、ライティング向けの Skill は [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid) にあります。
 

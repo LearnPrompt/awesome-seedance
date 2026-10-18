@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 843 条案例逐条核对过原帖，495 次跨模型复测，27 个可复用模板，80 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 1766 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
+**Seedance 2.5 / 2.0 提示词验证库。** 843 条案例逐条核对过原帖，495 次跨模型复测，27 个可复用模板，81 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 1766 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -44,7 +44,7 @@
 | --- | --- | --- |
 | **适合谁** | 新手，以及不想装任何东西的人 | 已经在用 Claude Code、Codex 这类 agent 的专业用户 |
 | **怎么用** | 复制，换掉【】，粘到任意 AI 对话 | 一行命令装好，之后直接跟 agent 说需求 |
-| **覆盖范围** | 27 个分类模板 | 有案例依据的提示语结构和制作工作流，共 80 个 Skill 与创作者方法 |
+| **覆盖范围** | 27 个分类模板 | 有案例依据的提示语结构和制作工作流，共 81 个 Skill 与创作者方法 |
 | **拿到什么** | 一次一条靠谱的提示语 | 根据所选 Skill，得到提示语，或制作计划与验收记录 |
 
 只想看案例，去[热度 Top 30](#-热度-top-30) 或[全部案例](#-全部案例)。想知道一条提示语靠不靠谱，看[跨模型复测](#-跨模型复测)。
@@ -209,7 +209,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 </tr>
 </table>
 
-**[goodcase.ai 上全部 65 个视频 Skill，含 44 个创作者方法 →](./docs/skills.zh.md)** 一页列全，每个都带安装命令。
+一共 81 个 AI 视频 Skill：goodcase.ai 上的 65 个（21 个官方 + 44 个创作者方法），加上只在上面网格里的 16 个。**[goodcase.ai 上 65 个视频 Skill 的总表 →](./docs/skills.zh.md)** 一页列全，每个都带安装命令。
 
 上面每条安装命令都走 [skills CLI](https://github.com/vercel-labs/skills)。名字以 `seedance-` 开头的 Skill 放在本仓的 [agents/skills](./agents/skills) 下：模板库和单片型 Skill 根据案例数据重新生成，制作工作流 Skill 则单独维护。模板库 Skill 也可以用 `npx seedance-prompt-library install` 一步装进 Claude Code 和 Codex。图像、编程、文案方向的更多 Skill 在 [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid)。
 

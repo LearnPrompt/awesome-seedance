@@ -59,6 +59,7 @@ import {
   templateDocLang,
   templatesHeading,
   skillsHeading,
+  skillsDrift,
   skillListFileName,
 } from "./lib/templates.mjs";
 import { renderSkillListDoc, siteSkillCounts } from "./lib/skill-list.mjs";
@@ -618,6 +619,11 @@ console.log(`Stats: ${JSON.stringify(snapshot)}`);
 if (siteSkills) {
   const sc = siteSkillCounts(siteSkills);
   console.log(`Skill list: ${sc.official} official + ${sc.creatorMethods} creator methods → docs/${LANGS.map(skillListFileName).join(", docs/")}`);
+  // 固定前缀给 goodcase 私仓的 run-awesome-sync.sh grep，命中就通知卡尔：站上新出了官方视频 Skill，要决定进不进网格。
+  const drift = skillsDrift(skillsData, siteSkills);
+  if (drift.length) {
+    console.warn(`[skills-drift] ${drift.length} official video Skill(s) on goodcase.ai are neither in the README grid nor listed under notInGrid in data/skills.json: ${drift.join(", ")}`);
+  }
 }
 const filedCount = cases.length - templateIndex.unassigned.length;
 console.log(`Templates: ${ordered.length} (${filedCount} cases filed, ${templateIndex.unassigned.length} not yet filed; run \`npm run taxonomy:todo\` to list them)`);
