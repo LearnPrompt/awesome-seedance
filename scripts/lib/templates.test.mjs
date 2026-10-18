@@ -11,6 +11,8 @@ import {
   copyPromptOf,
   countSkills,
   creatorMethodCount,
+  gridOnlySkills,
+  skillsDrift,
   orderedTemplates,
   renderCopyBlock,
   renderSkillGrid,
@@ -250,7 +252,11 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
   assert.match(md, /<a href="\.\/docs\/skills\.zh\.md#b">另有 2 个创作者方法<\/a>/);
   assert.equal((md.match(/个创作者方法<\/a>/g) || []).length, 1, "tile without siteSlug gets no variant line");
   assert.match(md, /下面是 2 个 Skill，另有 2 个创作者方法/, "intro total counts only methods under the grid's tiles");
-  assert.ok(md.includes("[goodcase.ai 上全部 5 个视频 Skill，含 3 个创作者方法 →](./docs/skills.zh.md)"), "line under the grid links the full list");
+  // 网格下方那行把首屏总数拆开：站上 5 个（2 官方 + 3 方法）+ 只在网格里的 a，共 6 个。
+  assert.ok(
+    md.includes("一共 6 个 AI 视频 Skill：goodcase.ai 上的 5 个（2 个官方 + 3 个创作者方法），加上只在上面网格里的 1 个。**[goodcase.ai 上 5 个视频 Skill 的总表 →](./docs/skills.zh.md)**"),
+    "line under the grid adds up to the headline total and links the full list"
+  );
   assert.ok(md.includes('href="https://goodcase.ai/skills/b"'), "without a campaign links are left untagged");
   assert.ok(md.includes('href="https://github.com/x/a"'), "non-goodcase links are left alone");
   const tagged = renderSkillGrid(skillsData, "zh", bySlug, { coverCasesFor: () => [], siteSkills, campaign: "readme-zh" });
@@ -259,7 +265,10 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
     "tile title links to goodcase.ai with the full UTM set"
   );
   assert.ok(tagged.includes('href="https://github.com/x/a"'), "non-goodcase links stay untagged under a campaign");
-  assert.equal(countSkills(skillsData, siteSkills), 4);
+  // 去重并集：网格 a、b 加站上 b、b-by-1、b-by-2、c、c-by-1，b 只算一次。c 是站上有、网格没有的官方 Skill。
+  assert.equal(countSkills(skillsData, siteSkills), 6);
+  assert.deepEqual(gridOnlySkills(skillsData, siteSkills).map((s) => s.id), ["a"]);
+  assert.equal(gridOnlySkills(skillsData, siteSkills).length + siteSkills.skills.length, countSkills(skillsData, siteSkills), "grid-only + site = total");
   assert.equal(countSkills(skillsData), 2, "without site-skills data only tiles are counted");
   assert.equal(creatorMethodCount(skillsData.skills[1], siteSkills), 2);
   assert.equal(creatorMethodCount(skillsData.skills[0], siteSkills), 0);
@@ -269,10 +278,18 @@ test("renderSkillGrid: one Skill per cell, 2x2 poster collage, install line, var
   const en = renderSkillGrid(skillsData, "en", bySlug, { coverCasesFor: () => [], siteSkills });
   assert.match(en, /the production workflow is maintained separately/);
   assert.match(en, /<a href="\.\/docs\/skills\.md#b">2 creator methods<\/a>/);
-  assert.ok(en.includes("[All 5 video Skills on goodcase.ai, including 3 creator methods →](./docs/skills.md)"));
+  assert.ok(en.includes("6 AI video Skills in all: the 5 on goodcase.ai (2 official + 3 creator methods), plus 1 that only appears in the grid above. **[Full list of the 5 goodcase.ai video Skills →](./docs/skills.md)**"));
   const ja = renderSkillGrid(skillsData, "ja", bySlug, { coverCasesFor: () => [], siteSkills });
   assert.match(ja, /制作ワークフロー Skill は別途保守されます/);
   assert.match(ja, /<a href="\.\/docs\/skills\.ja\.md#b">クリエイターメソッド 2 件<\/a>/);
+  assert.ok(ja.includes("AI 動画 Skill は合計 6 個です。goodcase.ai の 5 個（公式 2 個 + クリエイターメソッド 3 個）と、上のグリッドにだけある 1 個。"));
+});
+
+test("skillsDrift: official site Skills missing from the grid warn unless listed under notInGrid", () => {
+  assert.deepEqual(skillsDrift(skillsData, siteSkills), ["c"], "c is official on the site, not a tile, not excused");
+  assert.deepEqual(skillsDrift({ ...skillsData, notInGrid: [{ slug: "c", reason: "not a Seedance Skill" }] }, siteSkills), []);
+  assert.deepEqual(skillsDrift(skillsData, null), [], "no site-skills data: nothing to compare");
+  assert.equal(countSkills({ ...skillsData, notInGrid: [{ slug: "c" }] }, siteSkills), 6, "notInGrid never changes the total");
 });
 
 test("renderSkillGrid: Skill without any cover renders title and install line but no image", () => {

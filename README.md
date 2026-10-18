@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library.** 843 cases checked against their original posts, 495 cross-model retests, 27 reusable templates, and 80 installable AI-video Skills. The case library draws from goodcase.ai's 1766 verified AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
+**Verified Seedance 2.5 / 2.0 prompt library.** 843 cases checked against their original posts, 495 cross-model retests, 27 reusable templates, and 81 installable AI-video Skills. The case library draws from goodcase.ai's 1766 verified AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates-by-category) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#-skills) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -44,7 +44,7 @@ New to AI video? Follow these five steps and you will have your own clip. Nothin
 | --- | --- | --- |
 | **Who it is for** | Beginners, and anyone who does not want to install anything | People already working in Claude Code, Codex or another coding agent |
 | **How you use it** | Copy, replace the [brackets], paste into any AI chat | One install command, then just tell your agent what you want |
-| **What it covers** | 27 category templates | Case-backed prompt structures and production workflows across 80 Skills and creator methods |
+| **What it covers** | 27 category templates | Case-backed prompt structures and production workflows across 81 Skills and creator methods |
 | **What you get** | One solid prompt at a time | A prompt or a production plan and QA record, depending on the Skill |
 
 Just browsing? Go to [Top 30 by heat](#-top-30-by-heat) or [all cases](#-all-prompts). Want proof that a prompt holds up? See the [cross-model retests](#-cross-model-retests).
@@ -209,7 +209,7 @@ A Skill is an installable instruction pack for coding agents (Claude Code, Codex
 </tr>
 </table>
 
-**[All 65 video Skills on goodcase.ai, including 44 creator methods →](./docs/skills.md)** One page, every install line.
+81 AI video Skills in all: the 65 on goodcase.ai (21 official + 44 creator methods), plus 16 that only appear in the grid above. **[Full list of the 65 goodcase.ai video Skills →](./docs/skills.md)** One page, every install line.
 
 Every install line works with the [skills CLI](https://github.com/vercel-labs/skills). Skills named `seedance-…` live in this repo under [agents/skills](./agents/skills): the library and single-kind template Skills are regenerated from case data, while the production workflow is maintained separately. `npx seedance-prompt-library install` also drops the library Skill straight into Claude Code and Codex. More Skills across image, coding and writing live on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=skills-grid).
 
