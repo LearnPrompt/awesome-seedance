@@ -1,10 +1,56 @@
 # Seedance 2.0 — 全ケース（Part 3/4）
 
-Seedance 2.0 の全 287 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 289 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 287 件中 191–272 件目。
+このページ: 289 件中 191–271 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
+
+### Architectural Space Renovation Time-Lapse
+
+> A precise video prompt for creating a seamless architectural renovation animation, showing the transformation from an unfinished concrete room into a luxurious interior space.
+
+[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="Architectural Space Renovation Time-Lapse">](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Naiknelofar788 | **出典:** [元投稿](https://x.com/Naiknelofar788/status/2081371164728041980) | **公開日:** 2026-07-26 | **ヒート:** 22
+
+**安定度:** 78/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.3) · [出力](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（24 行、クリックで展開）</b></summary>
+
+```
+Create a 15-second seamless architectural space renovation animation.
+
+The camera remains completely fixed in the exact same position, angle, focal length, perspective, and composition throughout the entire video. No camera push-in, pull-out, panning, rotation, zoom, handheld shake, or reframing. Room dimensions, walls, windows, doors, ceiling height, and structural layout remain completely unchanged throughout the transformation.
+
+0–3 seconds:
+The scene begins as a rough, unfinished interior with exposed cement walls, raw concrete flooring, exposed ceiling, visible construction materials, and an empty space. Dust settles naturally while the environment remains static. The floor installation begins, gradually spreading from left to right until the entire concrete floor transforms into premium microcement or elegant large-format light grey tiles.
+
+3–6 seconds:
+Walls and ceiling begin transforming simultaneously. Rough cement walls smoothly become perfectly finished creamy-white walls. Wood veneer panels, decorative wall mouldings, built-in storage cabinets, TV feature walls, suspended ceiling structures, recessed lighting channels, and hidden LED strip lighting appear naturally in their correct architectural positions as though installed by invisible craftsmen.
+
+6–9 seconds:
+Electrical fixtures, doors, window frames, skirting boards, switches, sockets, and architectural details complete themselves with realistic construction logic. Ambient lighting gradually powers on, filling the room with soft, warm illumination while maintaining a natural daylight balance.
+
+9–12 seconds:
+Furniture and soft furnishings assemble sequentially. Luxury sofas, coffee tables, dining furniture, rugs, curtains, indoor plants, decorative artwork, lighting fixtures, books, cushions, and decorative accessories naturally move into place piece by piece, resembling a real construction and interior installation time-lapse.
+
+12–15 seconds:
+The renovation reaches its final premium interior design. Every object settles perfectly into position while the lighting subtly adjusts to create a luxurious atmosphere. The completed room remains perfectly still for the final second, allowing viewers to appreciate the finished transformation.
+
+Overall style:
+Ultra-realistic architectural visualization, photorealistic materials, premium luxury interior design portfolio quality, realistic construction time-lapse, physically accurate lighting, smooth seamless transitions, natural installation logic, cinematic realism, highly detailed textures, clean modern luxury aesthetic, 8K quality.
+
+Negative prompt:
+People, workers, text, logos, watermarks, camera movement, zoom, panning, rotation, handheld shake, changing room dimensions, structural deformation, floating objects, object misalignment, duplicate furniture, unrealistic assembly, blurry, low quality, flickering, artifacts, oversaturated colors, distorted perspective.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Cinematic Morning Fitness Routine
 
@@ -75,6 +121,51 @@ Negative Prompt: No text overlays, no subtitles, no watermarks, no distorted han
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-cbb9868317f8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Animated Pirate Action Sequence
+
+> A stylized 2D animation prompt for a high-intensity pirate battle sequence aboard a galleon in a storm, featuring multiple character perspectives and fast-paced action.
+
+[<img src="https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg" width="600" alt="Animated Pirate Action Sequence">](https://goodcase.ai/cases/case-30f9477f562c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsshara_ai | **出典:** [元投稿](https://x.com/itsshara_ai/status/2079565454436426187) | **公開日:** 2026-07-21 | **ヒート:** 22
+
+<details>
+<summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
+
+```
+Premium stylized 2D animated pirate action sequence, bold black ink-outline comic-animation style, flat cel-shaded coloring with dramatic high-contrast lighting, matching a high-end animated game-cinematic look. 15 seconds, fast-cut action-trailer pacing across 12 rapid scenes. Reference: THE CREW (@img1) — CAPTAIN, THE QUARTERMASTER, THE OLD NAVIGATOR — matching each character's exact face, outfit, and design throughout. Location: their own weathered galleon deck, at stormy dusk under bright overcast grey-white daylight (NOT pitch-black night — the storm clouds and rain are dramatic but the scene stays clearly lit throughout), in a torrential storm, under boarding attack from a rival pirate ship.
+
+(0:00–0:01.2) A rival pirate ship looms alongside through fog and rain, a cannon flash bursting bright against the pale overcast storm sky. Wide static low-angle shot.
+
+(0:01.2–0:02.2) THE OLD NAVIGATOR wrenches the ship's wheel hard, rain streaming down his weathered face, the deck tilting as a cannonball splashes close off the bow. Close handheld shot with subtle shake.
+
+(0:02.2–0:03.2) Grappling hooks fly through the rain-streaked air and bite into the deck railing with sharp metallic impacts. Fast tracking shot following a hook mid-flight.
+
+(0:03.2–0:04.2) Rival boarders swing across on ropes between the ships, clearly lit against the bright grey storm sky with a lightning flash adding a brief highlight. Wide low-angle composition, figures fully visible rather than in silhouette.
+
+(0:04.2–0:05.4) THE QUARTERMASTER draws his knife in one fluid, practiced motion, his scarred face clearly lit by the bright overcast daylight, feathers in his bandana whipping in the wind. Fast whip-pan into a tight close-up.
+
+(0:05.4–0:06.6) A sharp, fast knife-fight exchange between the Quartermaster and a boarding pirate — blades flash, coat fabric tears, rain sprays off with the impact of each parry. Tight handheld mid-shot with quick internal cuts.
+
+(0:06.6–0:07.6) THE CAPTAIN strides forward through the surrounding chaos, drawing his cutlass with calm, deliberate confidence, utterly unshaken by the fighting around him. Slow-motion push-in, a deliberate contrast to the frantic energy around him.
+
+(0:07.6–0:08.8) The rival ship's captain steps forward to meet him. The surrounding fight blurs into soft-focus background as a clean, symmetric one-on-one composition forms between the two captains. Wide symmetric two-shot.
+
+(0:08.8–0:10.2) Their blades clash — sparks burst off crossed steel, lit starkly by a cannon-fire flash from the background. Close dynamic shot with a slight dutch-angle tilt, fast cutting energy.
+
+(0:10.2–0:11.4) THE OLD NAVIGATOR, still gripping the wheel, ducks a swinging boom overhead and steadies the ship through a crashing wave, entirely unshaken. Side tracking shot.
+
+(0:11.4–0:13) THE CAPTAIN lands a decisive final strike, disarming the rival captain — his blade spins away and clatters to the deck. Slow-motion close-up on the disarming moment, rain frozen mid-splash.
+
+(0:13–0:15) THE CREW stands victorious as the rival boarders retreat, the Captain plants his cutlass point-down into the deck, all three crew members — Captain, Quartermaster, and Navigator — framed together in a triumphant hero composition, lightning flashing dramatically behind them. Wide pull-back crane shot, rising to reveal the full scene.
+
+Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consistent ink-outline linework and flat shadow blocking across every scene, rapid trailer-style cutting with a deliberately varied camera move per scene, storm-and-cannon-fire lighting as a recurring dramatic beat, all three crew members clearly distinguishable and in-character throughout. 16:9 or 9:16 (pick one), no on-screen text, no watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-30f9477f562c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### iPhone-shot Street Dance Music Video
 
@@ -757,24 +848,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-5c32e2bac894?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### FPV Space Voyage from a Spaceship Cockpit
-
-> An immersive first-person video prompt from the cockpit of a spaceship, showing high-speed maneuvers through an asteroid belt and planetary system.
-
-[<img src="https://media.goodcase.ai/media/poster/fpv-def15f90bf27.jpg" width="600" alt="FPV Space Voyage from a Spaceship Cockpit">](https://goodcase.ai/cases/fpv-def15f90bf27?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @LudovicCreator | **出典:** [元投稿](https://x.com/LudovicCreator/status/2080593896451473497) | **公開日:** 2026-07-24 | **ヒート:** 17
-
-**安定度:** 80/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.9) · [出力](https://media.goodcase.ai/retests/fpv-def15f90bf27/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, no interface, only the view through the canopy. The spacecraft launches into deep space with overwhelming acceleration, immediately performing violent high-G maneuvers. The camera dives through a dense asteroid field at impossible speed, snap-rolling between spinning boulders, knife-edging through razor-thin gaps, then slingshotting around a colossal ringed planet only meters above its atmosphere. It instantly transitions into a corkscrew climb through the wreckage of an ancient megastructure orbiting a dying star, weaving through gigantic rotating space stations, shattered capital ships, and kilometer-wide debris fields. Every movement is unpredictable,rapid S-turns, barrel rolls, split-S reversals, vertical dives toward black holes before pulling away at the last instant, power loops around luminous neutron stars, wall-hugging passes along enormous alien megastructures, and gravity-assisted slingshots around planets. The spacecraft flies through glowing wormholes, crystalline nebulae, collapsing stars, and colossal cosmic rings stretching for thousands of kilometers. Giant planets fill the entire sky, binary suns ignite the horizon, lightning storms rage inside colorful nebula clouds, and impossible alien architecture floats silently through space. The final acceleration becomes relentless as the ship races through an immense rotating Dyson sphere, threads the center of gigantic energy rings, narrowly avoids collapsing fragments of planets, and enters a tunnel of distorted spacetime where galaxies stretch into brilliant rivers of light before exploding into an infinite cosmic panorama filled with countless stars and celestial giants. Continuous first-person flight, no cuts, relentless acceleration, extreme high-speed FPV, aggressive banking, rapid direction changes, barrel rolls, corkscrews, split-S maneuvers, knife-edge turns, gravity slingshots, realistic inertia, cinematic motion blur, volumetric cosmic dust, dynamic lighting, hyper-detailed space environments, breathtaking sci-fi spectacle, blockbuster VFX, IMAX quality.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/fpv-def15f90bf27?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Coca-Cola Fashion Transition Ad
 
 > A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
@@ -935,6 +1008,24 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-f5315418af5f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### FPV Space Voyage from a Spaceship Cockpit
+
+> An immersive first-person video prompt from the cockpit of a spaceship, showing high-speed maneuvers through an asteroid belt and planetary system.
+
+[<img src="https://media.goodcase.ai/media/poster/fpv-def15f90bf27.jpg" width="600" alt="FPV Space Voyage from a Spaceship Cockpit">](https://goodcase.ai/cases/fpv-def15f90bf27?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @LudovicCreator | **出典:** [元投稿](https://x.com/LudovicCreator/status/2080593896451473497) | **公開日:** 2026-07-24 | **ヒート:** 16
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.9) · [出力](https://media.goodcase.ai/retests/fpv-def15f90bf27/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Immersive first-person spaceship cockpit perspective, no visible pilot, no HUD, no interface, only the view through the canopy. The spacecraft launches into deep space with overwhelming acceleration, immediately performing violent high-G maneuvers. The camera dives through a dense asteroid field at impossible speed, snap-rolling between spinning boulders, knife-edging through razor-thin gaps, then slingshotting around a colossal ringed planet only meters above its atmosphere. It instantly transitions into a corkscrew climb through the wreckage of an ancient megastructure orbiting a dying star, weaving through gigantic rotating space stations, shattered capital ships, and kilometer-wide debris fields. Every movement is unpredictable,rapid S-turns, barrel rolls, split-S reversals, vertical dives toward black holes before pulling away at the last instant, power loops around luminous neutron stars, wall-hugging passes along enormous alien megastructures, and gravity-assisted slingshots around planets. The spacecraft flies through glowing wormholes, crystalline nebulae, collapsing stars, and colossal cosmic rings stretching for thousands of kilometers. Giant planets fill the entire sky, binary suns ignite the horizon, lightning storms rage inside colorful nebula clouds, and impossible alien architecture floats silently through space. The final acceleration becomes relentless as the ship races through an immense rotating Dyson sphere, threads the center of gigantic energy rings, narrowly avoids collapsing fragments of planets, and enters a tunnel of distorted spacetime where galaxies stretch into brilliant rivers of light before exploding into an infinite cosmic panorama filled with countless stars and celestial giants. Continuous first-person flight, no cuts, relentless acceleration, extreme high-speed FPV, aggressive banking, rapid direction changes, barrel rolls, corkscrews, split-S maneuvers, knife-edge turns, gravity slingshots, realistic inertia, cinematic motion blur, volumetric cosmic dust, dynamic lighting, hyper-detailed space environments, breathtaking sci-fi spectacle, blockbuster VFX, IMAX quality.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/fpv-def15f90bf27?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Chaotic Morning Animated Short
 
@@ -1132,24 +1223,6 @@ Camera: fixed frontal composition throughout, 35mm full-body for character shots
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-181cb461432f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Blackboard Stick-Figure Karate Duel
-
-> A detailed 2D animation prompt describing a scene in which stick figures on a blackboard go from exchanging flowers to launching into an intense karate duel.
-
-[<img src="https://media.goodcase.ai/media/poster/case-de248f679b06.jpg" width="600" alt="Blackboard Stick-Figure Karate Duel">](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @mrdejie | **出典:** [元投稿](https://x.com/mrdejie/status/2079463899305476233) | **公開日:** 2026-07-21 | **ヒート:** 14
-
-**安定度:** 85/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 85.3) · [出力](https://media.goodcase.ai/retests/case-de248f679b06/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-15-second 2D animated video. Camera is completely steady and static the entire time. On the large green chalkboard in a elementary classroom, two simple white chalk stick figures are drawn facing each other (male on the left, female on the right with a ponytail). Sequence: 0–5 seconds: The male stick figure (left) reaches behind his back and pulls out a white chalk-drawn flower. He gently offers the flower to the female stick figure. Small white chalk hearts appear around them. The female stick figure becomes shy and kilig, covering her face slightly with one hand while little hearts float up. All hearts and effects stay strictly inside the green chalkboard. 5–7 seconds: Sudden pause. Both stick figures freeze for a moment. 7–15 seconds: They suddenly drop into intense karate fighting stances. The two stick figures start a very intense chalk-drawn karate fight — fast punches, high kicks, spins, and dramatic poses. White chalk motion lines, impact stars, and dust effects appear with every hit. All motion lines, stars, dust, and graphic effects remain completely inside the green chalkboard and never go outside the board edges. Everything stays as white chalk drawings on the green board. The classroom background, desks, chairs, and posters remain completely still and unchanged. No camera movement. Clean 2D animation style, simple chalk line art, white chalk only, highly detailed motion, 15 seconds. Negative prompt: 3D, realistic people, moving camera, colored chalk, effects going outside the board, changing background, blurry, low quality
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### K-Pop Idol Backstage Vlog
 
 > A professional 4K storyboard script prompt designed for Seedance 2.0, showing a K-pop idol backstage in a dressing room, including camera movement guidance and Korean dialogue.
@@ -1205,6 +1278,24 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Blackboard Stick-Figure Karate Duel
+
+> A detailed 2D animation prompt describing a scene in which stick figures on a blackboard go from exchanging flowers to launching into an intense karate duel.
+
+[<img src="https://media.goodcase.ai/media/poster/case-de248f679b06.jpg" width="600" alt="Blackboard Stick-Figure Karate Duel">](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @mrdejie | **出典:** [元投稿](https://x.com/mrdejie/status/2079463899305476233) | **公開日:** 2026-07-21 | **ヒート:** 13
+
+**安定度:** 85/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 85.3) · [出力](https://media.goodcase.ai/retests/case-de248f679b06/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+15-second 2D animated video. Camera is completely steady and static the entire time. On the large green chalkboard in a elementary classroom, two simple white chalk stick figures are drawn facing each other (male on the left, female on the right with a ponytail). Sequence: 0–5 seconds: The male stick figure (left) reaches behind his back and pulls out a white chalk-drawn flower. He gently offers the flower to the female stick figure. Small white chalk hearts appear around them. The female stick figure becomes shy and kilig, covering her face slightly with one hand while little hearts float up. All hearts and effects stay strictly inside the green chalkboard. 5–7 seconds: Sudden pause. Both stick figures freeze for a moment. 7–15 seconds: They suddenly drop into intense karate fighting stances. The two stick figures start a very intense chalk-drawn karate fight — fast punches, high kicks, spins, and dramatic poses. White chalk motion lines, impact stars, and dust effects appear with every hit. All motion lines, stars, dust, and graphic effects remain completely inside the green chalkboard and never go outside the board edges. Everything stays as white chalk drawings on the green board. The classroom background, desks, chairs, and posters remain completely still and unchanged. No camera movement. Clean 2D animation style, simple chalk line art, white chalk only, highly detailed motion, 15 seconds. Negative prompt: 3D, realistic people, moving camera, colored chalk, effects going outside the board, changing background, blurry, low quality
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Stop-Motion Animation: Wolf Pack Attack Sequence
 
@@ -1322,24 +1413,6 @@ BGMあり、効果音あり。BGMは明るく爽快で、少し冒険感のあ�
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/stylized-3d-animation-old-man-and-pigeon?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Battle of the Frozen Planet Fortress
-
-> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
-
-[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080669361237303417) | **公開日:** 2026-07-24 | **ヒート:** 12
-
-**安定度:** 66/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.1) · [出力](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Mythic Warrior Cinematic VFX Showcase
 
 > An epic 3D animation prompt showing a golden Garuda-style warrior battling a celestial goddess, featuring advanced cinematic camera techniques and energy effects.
@@ -1417,53 +1490,6 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Cinematic Sourdough Bread Baking Timelapse
-
-> A detailed multi-shot video prompt for generating a professional sourdough bread baking timelapse, including close-up shots of kneading, proofing, and baking, with warm cinematic lighting effects.
-
-[<img src="https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg" width="600" alt="Cinematic Sourdough Bread Baking Timelapse">](https://goodcase.ai/cases/case-179a06586ce5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2070862852735594771) | **公開日:** 2026-06-27 | **ヒート:** 12
-
-**安定度:** 85/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 85.4) · [出力](https://media.goodcase.ai/retests/case-179a06586ce5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-Cinematic 10-sec sourdough recipe timelapse. 
-Hands + ingredients only, NO faces. 
-Warm natural kitchen lighting throughout.
-
-[0:00-0:02] Overhead: Hands mixing flour and water 
-in silver bowl, flour clouds puffing, shaggy dough forming.
-
-[0:02-0:04] Side shot: Hands kneading smooth dough 
-on floured wooden board, rhythmic push-fold motion.
-
-[0:04-0:05.5] Overhead timelapse: Dough rising in 
-clear glass bowl on marble counter, doubling in size.
-
-[0:05.5-0:07] Close-up: Blade scoring confident slash 
-across round dough boule, surface opening cleanly.
-
-[0:07-0:08.5] Oven interior: Loaf baking on rack, 
-warm amber glow, steam rising, crust turning golden.
-
-[0:08.5-0:10] Slow push-in: Baked boule on wire rack, 
-steam rising, rustic ear crack, cinematic beauty shot.
-
-STYLE: Warm film tones, smooth dissolve cuts, 
-slow push-ins, no shaky cam, wrists/hands only, 
-soft window light from left, 9:16 widescreen.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-179a06586ce5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Martial Arts Alley Fight Scene
 
 > A dynamic, realistic action prompt describing an athletic woman using martial arts to fight multiple attackers in a sunny Korean city alley.
@@ -1518,6 +1544,24 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-6f13437e4b40?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Battle of the Frozen Planet Fortress
+
+> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
+
+[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080669361237303417) | **公開日:** 2026-07-24 | **ヒート:** 11
+
+**安定度:** 66/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.1) · [出力](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Wireless Earbuds Product Review
 
 > A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
@@ -1536,41 +1580,52 @@ A young creator walks into a bright living room holding a pair of sleek wireless
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Water Walking Xianxia Fraud
+### Cinematic Sourdough Bread Baking Timelapse
 
-> A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
+> A detailed multi-shot video prompt for generating a professional sourdough bread baking timelapse, including close-up shots of kneading, proofing, and baking, with warm cinematic lighting effects.
 
-[<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/case-179a06586ce5.jpg" width="600" alt="Cinematic Sourdough Bread Baking Timelapse">](https://goodcase.ai/cases/case-179a06586ce5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Soranlan | **出典:** [元投稿](https://x.com/Soranlan/status/2081379282442420321) | **公開日:** 2026-07-26 | **ヒート:** 10
+**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2070862852735594771) | **公開日:** 2026-06-27 | **ヒート:** 11
 
-**安定度:** 79/100
+**安定度:** 85/100
 
-**再テスト:** MiniMax H3 Max 768p · 2026-09-06 · ✅ 再現 (スコア 78.9) · [出力](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 85.4) · [出力](https://media.goodcase.ai/retests/case-179a06586ce5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
-```
-诗意仙侠冷面反转喜剧 【风格】 诗意仙侠冷面反转喜剧，写实真人，真实电影高清质感。 采用古典中国画式构图、克制的武侠表演、清晨柔雾、低饱和玉绿色与象牙白色调、优雅稳定的运镜。 前半段营造“轻功高深、仙气十足”的庄重氛围，后半段通过视觉揭晓完成冷面反转，拆穿女主精心维持的仙人形象。 全片为纯古代中国世界，不出现任何现代物品、现代语言、现代建筑、现代音效或现代设计元素。 喜剧效果依靠清楚的空间关系、前置铺垫、镜头揭晓和人物冷静补刀完成，避免夸张搞怪表演。 【时长】 15 秒，三镜头结构，2 人出镜。 【画幅】 16:9 横屏，24fps。 一、场景设定 【场景】 清晨僻静的山门荷塘边。 墨绿色平静水面倒映着一棵老柳、缓慢漂浮的薄雾、白石平台、远处木质水榭、错落荷叶和风化石灯。 全片始终保持同一片荷塘、同一棵垂柳、同样的薄雾、同一块白石平台、同一座远处水榭和同一组荷叶分布。 空间关系必须稳定清楚，便于最后揭晓水下石桩的真实位置。 二、角色锁定 【角色 A｜剑仙师姐】 25–30 岁东亚女性。 椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。 固定服装为：白色刺绣真丝汉服、半透明分层宽袖、浅银色腰封、玉佩、白色布靴。 气质清冷、自信、克制，始终努力维持高人姿态。 【角色 B｜小师妹】 20–25 岁东亚女性。 圆润灵动的脸，黑发编辫，身形娇小。 固定服装为：青绿色亚麻汉服、深色布腰带、木簪、黑色布鞋。 气质真诚、自然、崇拜师姐，但最终补刀平静直接，形成冷面喜剧效果。 三、分镜设计 【镜头 1｜0–5s】 【机位】低角度全景横向跟拍 【主要动作】剑仙师姐在水面上轻盈前行 清晨僻静的山门荷塘边，墨绿色平静水面上漂着薄雾，岸边有白石平台，远处有木质水榭，荷叶错落，老柳轻垂。 同一个剑仙师姐从左向右行走在水面上，从鞋到头完整可见，双手负后，下巴微抬，每一步都显得轻若无物，姿态优雅稳定。 同一个小师妹站在白石岸边，发自内心地仰望她。 镜头低角度横向跟拍，运镜平稳克制，突出她仿佛“踏水无痕”的仙气。 【声音】 庄重古琴、轻微晨风、水面细小涟漪声、远处鸟鸣。 【镜头 2｜5–10s】 【机位】中景侧面跟拍 【主要动作】小师妹提问，师姐一本正经回应 同一个小师妹沿岸跟随，抬头问道： “师姐，这就是踏水无痕？” 同一个剑仙师姐保持平静高深的微笑，回答： “心若无尘，水自承身。” 她继续向前迈步，脚下同一双白色布靴精准落在看似空无一物的水面上。 背景始终保持同一片荷塘、同一棵垂柳、同样的薄雾、白石平台和远处水榭。 镜头节奏从容，重点强化“她好像真能踏水而行”的错觉。 【声音】 对白使用原生普通话，口型准确。 古琴继续，环境声保持安静清晨质感。 【镜头 3｜10–15s】 【机位】水面低机位近景揭晓，随后硬切极近特写 【主要动作】揭晓水下石桩，完成反转 摄影机降低至荷塘水面高度，清楚揭示水面下方藏着一排笔直排列的方形石桩。 同一个剑仙师姐其实正一步不差地踩着这些石桩前行，根本不是真正踏水无痕。 同一个小师妹在岸边抬起脚边最后一根尚未放入水中的石桩，面无表情地说道： “师姐，剩下这些石桩，今晚还搬吗？” 古琴声在一个断音上突然停止。 随后硬切到剑仙师姐的极近特写。 她眉毛轻轻抽动，原本努力维持的高人微笑瞬间凝固，太阳穴旁浮现一滴细汗。 远处传来一声孤零零的蛙鸣。 画面停留在她强装镇定却明显破功的瞬间收尾。 四、表演要求 【剑仙师姐】 前 10 秒必须始终保持清冷、高深、克制、自信的仙人姿态。 反转后也不要夸张跳脚或大叫，笑点来自微表情失守。 重点表现：眉毛轻抽、笑容凝固、细汗浮现、尊严受损后的短暂僵住。 【小师妹】 前半段真诚崇拜。 最后一句补刀要平静自然，像认真在问一个实际问题。 语气越平静，喜剧效果越强。 五、技术执行要求 【连续性要求】 三个镜头必须是同一场景连续发生 人物面部、发型、服装、身材比例全程稳定 师姐始终从左向右前行 小师妹始终在岸边跟随 水下石桩位置必须与前面师姐踩踏的位置严格对应 不增加额外人物 不出现镜头跳变、人物瞬移、背景漂移、道具消失 【物理效果要求】 水面、薄雾、倒影、荷叶、头发、真丝衣料的物理效果真实 水面承托脚步时要有细微自然反馈 揭晓石桩时，水的透明感、折射感、石桩位置都要清楚可信 细汗、发丝和衣料的细节需符合近景电影质感 【声音要求】 原生普通话对白 口型准确 不生成字幕 不使用任何现代提示音或现代配乐 音效只保留古琴、晨风、水声、鸟鸣、远处蛙鸣等古风环境声音 【剪辑要求】 运镜优雅稳定 镜头切换干净 镜头 3 从揭晓到特写使用明确硬切 结尾停顿干净，保留冷面反转余味 六、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, captions, logo, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, hairstyle, face morphing, unstable face, background shift, glitching cuts, disappearing props; extra people, duplicated body, duplicated props, broken continuity, floating objects without logic, wrong lip sync; modern objects, modern architecture, modern costume details, modern language, modern sound effects, electronic sounds
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/water-walking-xianxia-fraud?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Cinematic Night Chase Shot
-
-> A fast-paced cinematic night chase sequence featuring extreme close-ups and rhythmic camera-flash effects.
-
-[<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="Cinematic Night Chase Shot">](https://goodcase.ai/cases/case-d30f8318a084?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @bmx_ai13 | **出典:** [元投稿](https://x.com/bmx_ai13/status/2081091640857702427) | **公開日:** 2026-07-25 | **ヒート:** 10
-
-**安定度:** 84/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.8) · [出力](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
 
 ```
-Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
+Cinematic 10-sec sourdough recipe timelapse. 
+Hands + ingredients only, NO faces. 
+Warm natural kitchen lighting throughout.
+
+[0:00-0:02] Overhead: Hands mixing flour and water 
+in silver bowl, flour clouds puffing, shaggy dough forming.
+
+[0:02-0:04] Side shot: Hands kneading smooth dough 
+on floured wooden board, rhythmic push-fold motion.
+
+[0:04-0:05.5] Overhead timelapse: Dough rising in 
+clear glass bowl on marble counter, doubling in size.
+
+[0:05.5-0:07] Close-up: Blade scoring confident slash 
+across round dough boule, surface opening cleanly.
+
+[0:07-0:08.5] Oven interior: Loaf baking on rack, 
+warm amber glow, steam rising, crust turning golden.
+
+[0:08.5-0:10] Slow push-in: Baked boule on wire rack, 
+steam rising, rustic ear crack, cinematic beauty shot.
+
+STYLE: Warm film tones, smooth dissolve cuts, 
+slow push-ins, no shaky cam, wrists/hands only, 
+soft window light from left, 9:16 widescreen.
 ```
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-d30f8318a084?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-179a06586ce5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Clay-Style Pirate Duck Adventure
 
@@ -1628,6 +1683,24 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-50ba683413ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Water Walking Xianxia Fraud
+
+> A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
+
+[<img src="https://media.goodcase.ai/media/poster/water-walking-xianxia-fraud.jpg" width="600" alt="Water Walking Xianxia Fraud">](https://goodcase.ai/cases/water-walking-xianxia-fraud?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Soranlan | **出典:** [元投稿](https://x.com/Soranlan/status/2081379282442420321) | **公開日:** 2026-07-26 | **ヒート:** 9
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-06 · ✅ 再現 (スコア 78.9) · [出力](https://media.goodcase.ai/retests/water-walking-xianxia-fraud/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+```
+诗意仙侠冷面反转喜剧 【风格】 诗意仙侠冷面反转喜剧，写实真人，真实电影高清质感。 采用古典中国画式构图、克制的武侠表演、清晨柔雾、低饱和玉绿色与象牙白色调、优雅稳定的运镜。 前半段营造“轻功高深、仙气十足”的庄重氛围，后半段通过视觉揭晓完成冷面反转，拆穿女主精心维持的仙人形象。 全片为纯古代中国世界，不出现任何现代物品、现代语言、现代建筑、现代音效或现代设计元素。 喜剧效果依靠清楚的空间关系、前置铺垫、镜头揭晓和人物冷静补刀完成，避免夸张搞怪表演。 【时长】 15 秒，三镜头结构，2 人出镜。 【画幅】 16:9 横屏，24fps。 一、场景设定 【场景】 清晨僻静的山门荷塘边。 墨绿色平静水面倒映着一棵老柳、缓慢漂浮的薄雾、白石平台、远处木质水榭、错落荷叶和风化石灯。 全片始终保持同一片荷塘、同一棵垂柳、同样的薄雾、同一块白石平台、同一座远处水榭和同一组荷叶分布。 空间关系必须稳定清楚，便于最后揭晓水下石桩的真实位置。 二、角色锁定 【角色 A｜剑仙师姐】 25–30 岁东亚女性。 椭圆脸，白皙自然肤色，深色杏眼，黑色长发半挽，以白玉簪固定，身材高挑纤细。 固定服装为：白色刺绣真丝汉服、半透明分层宽袖、浅银色腰封、玉佩、白色布靴。 气质清冷、自信、克制，始终努力维持高人姿态。 【角色 B｜小师妹】 20–25 岁东亚女性。 圆润灵动的脸，黑发编辫，身形娇小。 固定服装为：青绿色亚麻汉服、深色布腰带、木簪、黑色布鞋。 气质真诚、自然、崇拜师姐，但最终补刀平静直接，形成冷面喜剧效果。 三、分镜设计 【镜头 1｜0–5s】 【机位】低角度全景横向跟拍 【主要动作】剑仙师姐在水面上轻盈前行 清晨僻静的山门荷塘边，墨绿色平静水面上漂着薄雾，岸边有白石平台，远处有木质水榭，荷叶错落，老柳轻垂。 同一个剑仙师姐从左向右行走在水面上，从鞋到头完整可见，双手负后，下巴微抬，每一步都显得轻若无物，姿态优雅稳定。 同一个小师妹站在白石岸边，发自内心地仰望她。 镜头低角度横向跟拍，运镜平稳克制，突出她仿佛“踏水无痕”的仙气。 【声音】 庄重古琴、轻微晨风、水面细小涟漪声、远处鸟鸣。 【镜头 2｜5–10s】 【机位】中景侧面跟拍 【主要动作】小师妹提问，师姐一本正经回应 同一个小师妹沿岸跟随，抬头问道： “师姐，这就是踏水无痕？” 同一个剑仙师姐保持平静高深的微笑，回答： “心若无尘，水自承身。” 她继续向前迈步，脚下同一双白色布靴精准落在看似空无一物的水面上。 背景始终保持同一片荷塘、同一棵垂柳、同样的薄雾、白石平台和远处水榭。 镜头节奏从容，重点强化“她好像真能踏水而行”的错觉。 【声音】 对白使用原生普通话，口型准确。 古琴继续，环境声保持安静清晨质感。 【镜头 3｜10–15s】 【机位】水面低机位近景揭晓，随后硬切极近特写 【主要动作】揭晓水下石桩，完成反转 摄影机降低至荷塘水面高度，清楚揭示水面下方藏着一排笔直排列的方形石桩。 同一个剑仙师姐其实正一步不差地踩着这些石桩前行，根本不是真正踏水无痕。 同一个小师妹在岸边抬起脚边最后一根尚未放入水中的石桩，面无表情地说道： “师姐，剩下这些石桩，今晚还搬吗？” 古琴声在一个断音上突然停止。 随后硬切到剑仙师姐的极近特写。 她眉毛轻轻抽动，原本努力维持的高人微笑瞬间凝固，太阳穴旁浮现一滴细汗。 远处传来一声孤零零的蛙鸣。 画面停留在她强装镇定却明显破功的瞬间收尾。 四、表演要求 【剑仙师姐】 前 10 秒必须始终保持清冷、高深、克制、自信的仙人姿态。 反转后也不要夸张跳脚或大叫，笑点来自微表情失守。 重点表现：眉毛轻抽、笑容凝固、细汗浮现、尊严受损后的短暂僵住。 【小师妹】 前半段真诚崇拜。 最后一句补刀要平静自然，像认真在问一个实际问题。 语气越平静，喜剧效果越强。 五、技术执行要求 【连续性要求】 三个镜头必须是同一场景连续发生 人物面部、发型、服装、身材比例全程稳定 师姐始终从左向右前行 小师妹始终在岸边跟随 水下石桩位置必须与前面师姐踩踏的位置严格对应 不增加额外人物 不出现镜头跳变、人物瞬移、背景漂移、道具消失 【物理效果要求】 水面、薄雾、倒影、荷叶、头发、真丝衣料的物理效果真实 水面承托脚步时要有细微自然反馈 揭晓石桩时，水的透明感、折射感、石桩位置都要清楚可信 细汗、发丝和衣料的细节需符合近景电影质感 【声音要求】 原生普通话对白 口型准确 不生成字幕 不使用任何现代提示音或现代配乐 音效只保留古琴、晨风、水声、鸟鸣、远处蛙鸣等古风环境声音 【剪辑要求】 运镜优雅稳定 镜头切换干净 镜头 3 从揭晓到特写使用明确硬切 结尾停顿干净，保留冷面反转余味 六、负面词 blurry, bad quality, low quality, low resolution, noisy, jpeg artifacts, watermark, text, subtitles, captions, logo, error; deformed, mutated, bad anatomy, poorly drawn hands, bad composition, out of frame, disfigured; inconsistent character, changing clothes, hairstyle, face morphing, unstable face, background shift, glitching cuts, disappearing props; extra people, duplicated body, duplicated props, broken continuity, floating objects without logic, wrong lip sync; modern objects, modern architecture, modern costume details, modern language, modern sound effects, electronic sounds
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/water-walking-xianxia-fraud?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Phoenix Knight Transformation Sequence
 
 > A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
@@ -1647,6 +1720,24 @@ Made  in @LumaLabsAI #LumaCPP
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Cinematic Night Chase Shot
+
+> A fast-paced cinematic night chase sequence featuring extreme close-ups and rhythmic camera-flash effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-d30f8318a084.jpg" width="600" alt="Cinematic Night Chase Shot">](https://goodcase.ai/cases/case-d30f8318a084?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @bmx_ai13 | **出典:** [元投稿](https://x.com/bmx_ai13/status/2081091640857702427) | **公開日:** 2026-07-25 | **ヒート:** 9
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.8) · [出力](https://media.goodcase.ai/retests/case-d30f8318a084/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Open on an extreme close up of his face reflected in a rain covered bus stop glass panel, breathing hard while distant city lights distort behind him. Without warning, a passing bus completely wipes the frame, and when it clears he is already sprinting full speed down the opposite side of the street. Camera whips across traffic barriers and catches him only partially framed, creating the feeling the operator almost loses him. A flickering overhead streetlight briefly freezes his silhouette in three harsh photographic flashes synchronized to the beat. On the final flash, smash cut to a low rear chase shot as he disappears down a narrow fluorescent underground entrance.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-d30f8318a084?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Cyberpunk Cyberblade Battle
 
@@ -2008,41 +2099,6 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-e0d3b03f1aef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Blueprint-to-House Timelapse Transformation
-
-> A complex architectural timelapse prompt that turns a 2D floor plan and exterior reference image into a fully rendered, fully furnished 3D house while maintaining exact dimensions and layout.
-
-[<img src="https://media.goodcase.ai/media/poster/case-778d0c927488.jpg" width="600" alt="Blueprint-to-House Timelapse Transformation">](https://goodcase.ai/cases/case-778d0c927488?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @craftian_keskin | **出典:** [元投稿](https://x.com/craftian_keskin/status/2075669026508853393) | **公開日:** 2026-07-10 | **ヒート:** 6
-
-<details>
-<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
-
-```
-Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
-
-The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
-
-As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
-
-The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, and television materialize exactly matching the furniture arrangement from the blueprint. The garage forms around the parked car in the correct position.
-
-The roof structure grows over the house while maintaining the exterior silhouette from the reference image. Red brick textures spread across the exterior walls. Windows become reflective glass. The front entrance, garage door, landscaping, pathway, and surrounding lawn emerge organically. Sunlight gradually fills every room as if the home is coming alive.
-
-The transformation is smooth, continuous, and realistic, like watching months of construction compressed into seconds. Dust particles, tiny construction details, framing, roofing, drywall, painting, flooring, furnishing, and landscaping all appear in rapid but elegant timelapse.
-
-The final shot reveals the completed fully rendered house from a three-quarter aerial angle. The camera slowly circles a few degrees while sunlight reflects off the windows. Warm interior lighting glows naturally through the windows, emphasizing that every room perfectly matches the original floor plan.
-
-Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
-
-Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-778d0c927488?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 2D Sticker Capybara Kitchen Prank
 
@@ -2843,43 +2899,40 @@ output_rules:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yaml-629d172a4820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Vox-Style Historical Collage Animation
+### Blueprint-to-House Timelapse Transformation
 
-> An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
+> A complex architectural timelapse prompt that turns a 2D floor plan and exterior reference image into a fully rendered, fully furnished 3D house while maintaining exact dimensions and layout.
 
-[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox-Style Historical Collage Animation">](https://goodcase.ai/cases/vox-d5c357d5e75d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/case-778d0c927488.jpg" width="600" alt="Blueprint-to-House Timelapse Transformation">](https://goodcase.ai/cases/case-778d0c927488?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @MrLarus | **出典:** [元投稿](https://x.com/MrLarus/status/2076610529615831169) | **公開日:** 2026-07-13 | **ヒート:** 4
+**作者:** @craftian_keskin | **出典:** [元投稿](https://x.com/craftian_keskin/status/2075669026508853393) | **公開日:** 2026-07-10 | **ヒート:** 5
 
 <details>
-<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
 
 ```
-参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
+Use both attached images as strict reference material. The floor plan defines the exact room layout, dimensions, window placement, door locations, garage position, bathrooms, kitchen, living room, and bedroom. The exterior reference defines the exact architectural style, brick facade, roof shape, front entrance, and garage door. Throughout the transformation, the interior layout must remain perfectly consistent with the blueprint. No rooms may change position, size, or orientation.
 
-动画要求：
+The video begins with a perfectly flat, top-down 2D architectural blueprint floating on a clean white background. Thin blueprint lines glow softly. The camera slowly descends toward the plan.
 
-保持 paper cutout / scrapbook / stop-motion 拼贴风
-所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
-动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
+As the camera gently tilts from overhead into an isometric perspective, the blueprint begins transforming into reality through an elegant architectural timelapse. Walls rise vertically from the floor lines exactly where they exist in the blueprint. Interior partitions emerge first, followed by exterior brick walls. Window openings and doors appear in their precise blueprint locations.
 
-可以加入的小动作：
+The foundation becomes textured concrete. Wooden flooring spreads naturally through the living room, bedroom, and kitchen exactly matching the plan. Bathroom tiles gradually replace the blueprint markings. Kitchen counters, cabinets, island, sink, appliances, and fixtures assemble piece by piece exactly according to the blueprint. Bathroom fixtures, bathtub, toilet, vanity, and shower appear in their designated locations. The bedroom forms with the bed centered exactly where shown. The living room sofa, coffee table, rug, and television materialize exactly matching the furniture arrangement from the blueprint. The garage forms around the parked car in the correct position.
 
-箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
+The roof structure grows over the house while maintaining the exterior silhouette from the reference image. Red brick textures spread across the exterior walls. Windows become reflective glass. The front entrance, garage door, landscaping, pathway, and surrounding lawn emerge organically. Sunlight gradually fills every room as if the home is coming alive.
 
-注意：
-不要整张画面乱晃
-主构图和重要文字保持稳定
-每个画面有一个“明确的小事件”，而不是纯漂浮
+The transformation is smooth, continuous, and realistic, like watching months of construction compressed into seconds. Dust particles, tiny construction details, framing, roofing, drywall, painting, flooring, furnishing, and landscaping all appear in rapid but elegant timelapse.
 
-最后：
-把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
-整体节奏控制在每 4–5 秒切换一个知识点。
+The final shot reveals the completed fully rendered house from a three-quarter aerial angle. The camera slowly circles a few degrees while sunlight reflects off the windows. Warm interior lighting glows naturally through the windows, emphasizing that every room perfectly matches the original floor plan.
+
+Camera: Smooth cinematic movement beginning as a top-down blueprint, gradually tilting into an isometric angle and finishing with a slow cinematic orbit around the completed house. No abrupt cuts.
+
+Audio: Soft relaxing jazz with brushed drums, upright bass, warm piano, and mellow saxophone. Gentle construction ambience during the timelapse—wood assembling, subtle hammering, concrete settling, glass placement, light wind, birds near the end. No dialogue. No narration. No subtitles.
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vox-d5c357d5e75d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-778d0c927488?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video
 
@@ -3060,6 +3113,44 @@ A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with 
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Vox-Style Historical Collage Animation
+
+> An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
+
+[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox-Style Historical Collage Animation">](https://goodcase.ai/cases/vox-d5c357d5e75d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MrLarus | **出典:** [元投稿](https://x.com/MrLarus/status/2076610529615831169) | **公開日:** 2026-07-13 | **ヒート:** 3
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
+
+动画要求：
+
+保持 paper cutout / scrapbook / stop-motion 拼贴风
+所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
+动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
+
+可以加入的小动作：
+
+箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
+
+注意：
+不要整张画面乱晃
+主构图和重要文字保持稳定
+每个画面有一个“明确的小事件”，而不是纯漂浮
+
+最后：
+把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
+整体节奏控制在每 4–5 秒切换一个知识点。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vox-d5c357d5e75d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Tactile Papercut-Style Product Showcase
 
@@ -3448,133 +3539,6 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-c0cf557563b7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Epic Ice Fantasy: Titan Awakening
-
-> A grand cinematic prompt depicting a stunning scene of an ice titan breaking free from a glacier in a frozen valley.
-
-[<img src="https://media.goodcase.ai/media/poster/case-579dd9bdd240.jpg" width="600" alt="Epic Ice Fantasy: Titan Awakening">](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @abxxai | **出典:** [元投稿](https://x.com/abxxai/status/2081023473305162165) | **公開日:** 2026-07-25 | **ヒート:** 2
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
-
-```
-SCENE CONTEXT
-RIMEBORN. In a frozen valley of an original ice-fantasy world, a mountain-sized titan of layered ice and stone tears itself free from a millennia-old glacier as an army of armored wardens scrambles across the frozen field below, a war-horn ripping across the plain. Timed multishot, five hard cuts across 10 seconds, one shared valley, one titan, one army throughout.
-
-ACTIVE REFERENCES
-@titan: mountain-sized ice-and-stone colossus, humanoid silhouette, body built of fractured basalt slabs seamed by ancient blue ice, ice-plated shoulders and back crusted a meter thick with hoarfrost, joints and eye-sockets and rib-seams glowing with pale-cyan runes carved deep into the stone. Original design. 100% matches the reference.
-@wardens: armored foot-soldiers in weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, long spears and rimed shields, no faction crest or logo. Original design. 100% matches the reference.
-@warhorn: a curled black bone horn as long as a warden is tall, bound in leather and iron rings, held at chest height by a single horn-bearer.
-STYLE REFERENCE ONLY, not a fixed keyframe; model extends the world freely, never reproduced 1:1.
-
-LOCATION MAP
-Foreground: fractured glacier surface, blue-ice slabs shot through with dark grit, powder snow drifting sideways at 20 km/h. Midground: the wardens crossing the field 200 meters below the titan, tiny against the scale, spears and shields catching the flat light. Background: the glacier wall itself, kilometers of vertical ice cracking apart around the emerging titan, snow plumes rising several hundred meters into a leaden overcast sky. Camera moves along a chest-height and then rising line down the valley floor, always with the titan camera-right or dead-center.
-
-SCALE LOCK
-@titan stands as tall as roughly two hundred wardens stacked head to toe. A single warden reads as a fingernail against the titan's shin in the establishing wide. Ice slabs shearing off the titan's shoulder each read as wide as ten wardens laid head to toe. The size gap holds identical every frame.
-
-FIRST FRAME / BLOCKING
-Non-empty opening frame: @titan is already mid-tear-out, right arm already ripping free from the glacier wall with a sheet of ice already fracturing off the shoulder, @wardens already running across the ice below, the horn-bearer already lifting @warhorn. Nothing is frozen, everything is already in motion. Rule of thirds: the titan held on the right two-thirds vertical, the horizon line on the lower third, wardens on the lower left third.
-
-FORMAT MODE
-Timed multishot, exactly FOUR HARD CUTS at 2.5s, 4.5s, 6.5s, 8.0s. The camera does not cut on its own; cuts only at the specified points.
-0.0s to 2.5s — CUT 1, real time
-2.5s HARD CUT
-2.5s to 4.5s — CUT 2, real time
-4.5s HARD CUT
-4.5s to 6.5s — CUT 3, real time
-6.5s HARD CUT
-6.5s to 8.0s — CUT 4, real time
-8.0s HARD CUT
-8.0s to 10.0s — CUT 5, real time
-
-OPTICS
-CUT 1: EWS at 84° FOV sweeping wide establishing the full valley and titan. CUT 2: MS at 29° FOV portrait compression on the titan's shoulder as ice sheets shear off. CUT 3: WS at 63° FOV low across the crevasse rim as wardens dive clear. CUT 4: MCU at 29° FOV on the horn-bearer, horn lifted to lips. CUT 5: EWS at 107° FOV super-wide rectilinear on the full glacier splintering with runes flaring. Rectilinear with anamorphic optical flares, 180° shutter motion blur, prime-lens character, no drift mid-segment.
-
-CAMERA
-Handheld throughout with 3 to 5 cm of shake, shake spiking hard on every cracking impact from the titan. CUT 1: chest-height sweep at 15 km/h left-to-right across the valley floor, catching the full scale. CUT 2: whip-in and hold at 20 meters from the shoulder, camera flinching as slabs shear past. CUT 3: low-angle at knee-height on the crevasse edge, wardens diving over the lens. CUT 4: tight on the horn-bearer, camera pressing in 30 cm as the horn sounds. CUT 5: pulled back and rising crane to 80 meters above the valley floor, wide vantage, gimbal weighty. Wide tonal latitude, soft highlight roll-off, whites hold detail without clipping.
-
-ACTION
-CUT 1 — Subject: @titan tears its right arm and shoulder free from the glacier wall, basalt-and-ice mass grinding against ice, a wall of powder snow erupting behind it hundreds of meters high; @wardens sprint across the frozen field in a scattered line, spears and shields flashing. Camera: sweeping wide dolly along the valley floor at 15 km/h, shake spiking as the titan's arm lands its first step-load.
-CUT 2 — Subject: massive sheets of blue ice shear off @titan's shoulder and back, tumbling in slabs the size of buildings, hoarfrost crust exploding into powder mid-fall, runes along the shoulder flaring pale-cyan as the plates shed. Camera: whip-in, holds on the shoulder as three slabs fall past the frame, shake hard.
-CUT 3 — Subject: @wardens dive clear as a crevasse collapses under them, two soldiers throwing themselves flat and rolling as the ice gives way, spears skittering across the surface, powder snow plumes rising vertical. Camera: low-angle handheld, wardens leaping over the lens, shake violent on the collapse.
-CUT 4 — Subject: the horn-bearer lifts @warhorn to their lips and blows one long note, chest visibly expanding, breath fogging in the cold, the sound carrying across the field as other wardens turn their heads toward it. Camera: tight handheld, presses in 30 cm as the note sounds.
-CUT 5 — Subject: @titan pulls its full torso free of the glacier wall, the whole glacier splintering apart around it in a cascade of fracturing ice, runes along both arms and the ribcage flaring bright cyan at once, snow erupting in vast vertical plumes across the entire valley. Camera: pulled back to a vast super-wide, rising crane, catching the primordial scale in one held frame, HARD CUT at 10.0s.
-
-PERFORMANCE
-@titan performs with geological slowness and crushing weight — every movement loaded before it lands, joints grinding stone on stone, no theatrical flourish. @wardens read as terrified working soldiers, not heroes: eyes wide, mouths open, breath fogging hard, one soldier stumbling and being pulled up by another mid-cut. The horn-bearer reads as steady and old, jaw set, eyes tracking the titan. Pore-level realism on the horn-bearer's face: vellus hair, asymmetric moles, capillary flush from the cold, wet living eyes with catch-lights, visible breath and chest rise. Restrained and human across the army, never cartoonish. Top-tier cinematic restraint.
-
-PHYSICS
-Mass and inertia carry through every movement of @titan — the arm loads before it tears free and drags the whole torso with it. Ice slabs fall with real weight, not lightweight fragments; they shatter on impact with the glacier floor, not float. Snow plumes obey the crosswind vector at 20 km/h and shear leftward across the valley. Wardens have real body weight — diving bodies land hard, not softly, and slide on the ice with correct friction. The horn's vibration reads faintly in loose snow at the horn-bearer's feet. Nothing floats. Correct contact shadows read clearly where titan meets glacier and warden meets ice.
-
-LIGHTING
-WB locked 6500K cold overcast daylight, flat and even, sun fully occluded by leaden cloud. Key is a broad diffuse top-light with no direct sun. The only emitted light in the world is the pale-cyan 5500K rune glow along @titan's joints, eye-sockets, and rib-seams, which spills onto the surrounding hoarfrost and briefly reflects in the wardens' plate on close cuts. Camera on the shadow side of the titan across all wide cuts. Faint atmospheric haze at 30% at the glacier wall, thickening into the snow plumes.
-
-COLOR GRADE
-Stark white in the snow and powder, frozen blue in the deep ice seams, near-black in the fractured basalt of the titan's core, leaden grey in the sky; every cold tone comes from real material and light bounce, not a filter. Rune cyan lives only in the carved channels — joints, eye-sockets, ribcage seams — and its spill onto immediate hoarfrost. Warden plate reads as dark weathered steel with cold reflections. Blacks stay open with detail in the basalt, highlights roll off in the snow. Color tied to source and surface, not a flat list.
-
-WARDROBE
-@wardens wear weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, iron-rimmed shields, cold-numbed hands in gloves. Fur crusted with ice at the seams. No faction crest, no logo. The horn-bearer wears the same but with a heavier fur mantle and a leather baldric holding @warhorn.
-
-AUDIO
-NO MUSIC. SFX ONLY — diegetic sound and live audio throughout. No score, no soundtrack, no background music of any kind. CUT 1: sub-bass glacier groaning, ice cracking in long tearing sheets, wardens' plate rattling and boots crunching on ice, wind at 20 km/h. CUT 2: massive stone-on-ice grind, slabs shattering as they hit the glacier floor, rune flare with a low harmonic hum. CUT 3: sharp ice crack, powder snow whumphs, wardens' shouts and grunts, one spear clattering on ice. CUT 4: the horn's long low note, one held bass tone spreading across the valley, warden breath fogging audibly. CUT 5: a full-body glacier splintering roar, layered ice-shear, one titanic bass groan from @titan itself. No dialogue, no subtitles.
-
-STYLE
-8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, 35mm film character, crushing primordial-scale epic look, hyperdetailed ice, snow, hoarfrost, basalt, weathered steel.
-
-OUTPUT SETTINGS
-10 seconds, five cuts, 16:9, 8K ultra-high-definition, 24 fps, real-time throughout, anamorphic flare character on rune spill.
-
-POSITIVE LOCKS
-One shared valley, one @titan, same @wardens and @warhorn across all five cuts, identical every frame, no morphing, no drift. @titan stays mountain-sized against the wardens throughout — the scale relationship holds exactly: 200 wardens tall in every wide, one warden a fingernail against the shin. Runes stay pale cyan and stay carved into the stone, they do not migrate. Handheld shake spikes on every titan movement and every ice collapse, never smooths out. Camera stays third-person outside the army throughout the 10 seconds. Warden eyes stay natural — no eye glow; the only emitted light in the world is @titan's runes. Contact shadows read clearly where titan meets glacier and warden meets ice. Ice slabs fall with mass, never floating. Snow travels on one consistent wind vector. Clean frame throughout — no logos, no UI, no text overlays, no subtitles, no watermark, no dragons or unrelated creatures in shot.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Luxury Salon Beauty Transformation
-
-> A high-speed dynamic commercial prompt for a beauty transformation, showing a glamorous shift from a casual look to an alluring evening gown through match cuts.
-
-[<img src="https://media.goodcase.ai/media/poster/case-d087761bf321.jpg" width="600" alt="Luxury Salon Beauty Transformation">](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @KrevixAi | **出典:** [元投稿](https://x.com/KrevixAi/status/2080960631180570913) | **公開日:** 2026-07-25 | **ヒート:** 2
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/case-d087761bf321/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, hyper dynamic, seamless match cuts, speed ramps. Start in a bright minimalist studio with a static front-facing shot. A messy girl in an oversized gray T-shirt and round glasses stands with untidy hair, pale skin, tired expression, no makeup. Two black-gloved hands push her backward. Match cut: she lands in a luxury salon chair inside a dark premium salon. Camera switches to first-person stylist POV. Black cape on. Hair wash, shampoo massage, conditioner, rinse, towel dry. Hair is combed, sectioned, precision cut, textured, blow-dried with volume, softly curled, smoothed, finished with oil and shine spray. Makeup: primer, foundation, concealer, powder, contour, blush, highlighter, brows, soft eyeshadow, winged eyeliner, mascara, glossy red lips. Earrings added. Cape is pulled away, revealing a luxurious red evening dress. Final hair styling. The chair rotates to showcase the hairstyle, then returns front. Final reveal: a confident glamorous woman with flawless makeup, voluminous hair, sparkling earrings and radiant skin looks directly into the camera. Premium luxury beauty ad, perfect identity consistency, realistic hands, smooth motion, cinematic lighting, shallow depth of field, ultra-detailed skin and hair, 4K, no glitches, morphing, deformation, extra fingers or camera shake.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Ultra-Soothing ASMR Vlog
-
-> A lo-fi visual prompt that mimics the texture of a Mini DV camera, suitable for relaxing ASMR meditation vlogs in natural light.
-
-[<img src="https://media.goodcase.ai/media/poster/asmr-vlog-db7f7a2ad923.jpg" width="600" alt="Ultra-Soothing ASMR Vlog">](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @sebatheepan | **出典:** [元投稿](https://x.com/sebatheepan/status/2080942778293313949) | **公開日:** 2026-07-25 | **ヒート:** 2
-
-**安定度:** 63/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 63.1) · [出力](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by rising steam. Extremely smooth pan, ultra-relaxed pacing, natural soft warm sunlight through mist, calm consumer vlog framing. STYLE: Ultra-chill ASMR meditation vlog. Zero stress, monotonic deep voice, soothing water ripples, zen atmosphere. SUBJECT: Unbothered, majestic Capybara sitting submerged up to its neck in a steaming wooden hot tub, with a yellow Yuzu citrus fruit balanced perfectly on its flat head. SETTING: Outdoor Japanese hot spring (Onsen) tub surrounded by smooth stones, bamboo stalks, rising steam mist, soft morning sunbeams. STORYBOARD: → (2s, static medium shot) Capybara sitting in steam, looking directly into lens. "Welcome. Breathe in peace. Breathe out drama." → (1.5s, detail shot) Yuzu fruit wobbles slightly on head, but capybara remains motionless. Soft water ripple ASMR. → (1.5s, close-up) Takes slow, deep breath in through nose, nostrils expanding gently. Deep exhalation sound into microphone. → (2s, medium shot) A yellow rubber duck drifts into frame and bumps into capybara's cheek. Capybara doesn't even flinch. "Accept the duck. Become the duck." → (1.5s, macro detail shot) Takes a slow bite of a bamboo leaf floating by. Soft leaf crunch ASMR sound. → (1.5s, low angle shot) A small sparrow alights on his head right next to the fruit. "New subscriber just dropped. Welcome, bird." → (1.5s, close-up) Ear twitches once to shake off a drop of condensation. Soft water droplet splash sound. → (1.5s, medium shot) Sinks 1 inch deeper into warm water, eyelids dropping halfway. "Stress is optional. Water is warm." → (1s, warm ending shot) Looks at camera with ultimate tranquility. "Stay unbothered, my friends." → (1s, final shot) Steam rises, enveloping lens smoothly until screen fades to warm white mist. AUDIO NOTES: Soothing water trickling, deep slow breathing, soft leaf crunching, ultra-calm monotonic baritone voice synced smoothly to jaw movement. REALISM & COMEDY NOTES: Photorealistic Capybara coarse fur texture with water droplets, steady calm expression, hilarious comedic contrast between extreme zen energy and absurd head balance.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

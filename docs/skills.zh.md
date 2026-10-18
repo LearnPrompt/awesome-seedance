@@ -6,7 +6,7 @@
 
 <!-- 由 data/site-skills.json 生成，请勿手改；跑 npm run generate -->
 
-[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) 上的全部视频 Skill：21 个官方 Skill，加 44 个创作者方法，共 65 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。
+[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) 上的全部视频 Skill：21 个官方 Skill，加 43 个创作者方法，共 64 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。
 
 每个 Skill 都能用 [skills CLI](https://github.com/vercel-labs/skills) 一行命令装好，安装命令就在下面。标题和简介来自 goodcase.ai，这一页每天按站点目录刷新。
 
@@ -14,22 +14,22 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
-| [POV / Vlog 临场感](#pov-vlog-presence) | 99 | 11 |
+| [POV / Vlog 临场感](#pov-vlog-presence) | 100 | 11 |
 | [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 87 | 5 |
 | [动作连续性编排](#action-continuity-choreography) | 86 | 7 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 4 |
-| [电影感旅行漫游](#travel-city-walk) | 62 | 5 |
+| [电影感旅行漫游](#travel-city-walk) | 63 | 4 |
 | [动画风格与角色一致性](#animation-style-consistency) | 57 | 2 |
 | [宠物动物当主角](#pets-and-animals-lead) | 56 | 2 |
-| [早年 DV 家庭录像](#retro-dv-home-video) | 45 | 3 |
+| [早年 DV 家庭录像](#retro-dv-home-video) | 46 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 44 | 0 |
-| [过程与变换叙事](#process-transformation-story) | 40 | 0 |
+| [过程与变换叙事](#process-transformation-story) | 41 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 36 | 1 |
 | [恐怖悬疑短片](#horror-suspense-short) | 36 | 3 |
 | [美食特写与吃播 ASMR](#food-asmr) | 31 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 27 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 23 | 1 |
-| [汽车与载具速度片](#vehicles-at-speed) | 22 | 0 |
+| [汽车与载具速度片](#vehicles-at-speed) | 23 | 0 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 9 | 0 |
@@ -42,7 +42,7 @@
 
 > 用第一视角、手持运动和生活化细节制造可信的在场感。
 
-99 个案例，来自 55 位创作者 · 11 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+100 个案例，来自 55 位创作者 · 11 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
@@ -129,7 +129,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-62 个案例，来自 40 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+63 个案例，来自 40 位创作者 · 4 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -140,7 +140,6 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 | CaliraVal | 电影感旅行漫游 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | 电影感旅行漫游 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Just_sharon7 | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="animation-style-consistency"></a>
@@ -183,7 +182,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
 
 > 年代感靠机器缺陷清单和一件生活小事撑起来，整条像一盘真的旧带子。
 
-45 个案例，来自 33 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/retro-dv-home-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+46 个案例，来自 33 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/retro-dv-home-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video
@@ -215,7 +214,7 @@ npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait
 
 > 用明确起点、连续步骤和终态，把制作或变化过程压缩成可读叙事。
 
-40 个案例，来自 36 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+41 个案例，来自 37 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
@@ -307,7 +306,7 @@ npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
 
 > 机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。
 
-22 个案例，来自 17 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+23 个案例，来自 17 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed

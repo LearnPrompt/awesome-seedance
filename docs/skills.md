@@ -6,7 +6,7 @@
 
 <!-- Generated from data/site-skills.json. Do not hand-edit; run npm run generate -->
 
-Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 44 creator methods, 65 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
+Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 43 creator methods, 64 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
 
 Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog every day.
 
@@ -14,22 +14,22 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
-| [POV and vlog presence](#pov-vlog-presence) | 99 | 11 |
+| [POV and vlog presence](#pov-vlog-presence) | 100 | 11 |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 87 | 5 |
 | [Action continuity choreography](#action-continuity-choreography) | 86 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 4 |
-| [Cinematic travel montage](#travel-city-walk) | 62 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 63 | 4 |
 | [Animation style and character consistency](#animation-style-consistency) | 57 | 2 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 56 | 2 |
-| [Early-2000s DV home video](#retro-dv-home-video) | 45 | 3 |
+| [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 44 | 0 |
-| [Process and transformation story](#process-transformation-story) | 40 | 0 |
+| [Process and transformation story](#process-transformation-story) | 41 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 36 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 36 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 31 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 27 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 23 | 1 |
-| [Cars and vehicles at speed](#vehicles-at-speed) | 22 | 0 |
+| [Cars and vehicles at speed](#vehicles-at-speed) | 23 | 0 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
@@ -42,7 +42,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 > Create credible presence through first-person framing, handheld movement, and lived-in detail.
 
-99 cases from 55 creators · 11 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+100 cases from 55 creators · 11 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
@@ -129,7 +129,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-62 cases from 40 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+63 cases from 40 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -140,7 +140,6 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 | CaliraVal | Cinematic travel montage | 5 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Just_sharon7 | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="animation-style-consistency"></a>
@@ -183,7 +182,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
 
 > Period feel bought with a camcorder-flaw list and one small everyday event, so the clip plays like a real old tape.
 
-45 cases from 33 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+46 cases from 33 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video
@@ -215,7 +214,7 @@ No creator methods yet.
 
 > Compress making or transformation into a readable story with a clear start, continuous steps, and end state.
 
-40 cases from 36 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+41 cases from 37 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
@@ -307,7 +306,7 @@ npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-22 cases from 17 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+23 cases from 17 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed

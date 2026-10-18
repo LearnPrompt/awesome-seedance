@@ -112,7 +112,7 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 
 ## E3 · Infected Attack on a Japanese Highway Bus
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 93 · stability: 76
+- Seedance 2.5 · creator: @auqibhabib · heat: 94 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) · [finished media](https://media.goodcase.ai/cases/167033959b74.mp4) · [poster](https://media.goodcase.ai/cases/f5434503545d.jpg) · [original source](https://x.com/auqibhabib/status/2102265619416768799)
 - Summary: Bus driver and conductor stop sudden attack, all passengers safe. Seedance 2.5 Prompt: Cinematic horror-action short film set aboard a Japanese highway bus duri…
 
@@ -178,7 +178,7 @@ Natural diegetic sound throughout — gasping, screaming, bus brakes screeching,
 
 ## E4 · University Lab Infection Turns Students into Zombies
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 92
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 93
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) · [finished media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) · [poster](https://media.goodcase.ai/cases/17336ecf1069.jpg) · [original source](https://x.com/AIwithSynthia/status/2106955772395659431)
 - Summary: The College Lab Infection 🧟‍♀️ Seedance 2.5 on @wavespeed_ai Prompt: Create a photorealistic live-action zombie-horror sequence inside a modern university scie…
 
@@ -284,7 +284,7 @@ Made with seedance 2.5 on @SocialSight
 
 ## E6 · Zombie Attack in a Japanese Classroom
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 83
+- Seedance 2.5 · creator: @AIwithkhan · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) · [finished media](https://media.goodcase.ai/cases/679f1e6b50a2.mp4) · [poster](https://media.goodcase.ai/cases/bd58f9078734.jpg) · [original source](https://x.com/AIwithkhan/status/2100575957451153626)
 - Summary: One drop, one bite, and the safest place in school became a nightmare. 😳 Seedance 2.5 Prompt : Create a short, ultra-realistic Japanese high-school horror-acti…
 
