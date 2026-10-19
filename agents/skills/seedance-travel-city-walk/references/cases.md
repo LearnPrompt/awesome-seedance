@@ -140,7 +140,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ## E5 · A Korean Woman's Winter Journey Through England
 
-- Seedance 2.0 · creator: @Harry_thingss · heat: 75
+- Seedance 2.0 · creator: @Harry_thingss · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-second-ultra-realistic-4k-cinematic-winter-travel-vlog-set-in-england-6e26bca27e87) · [finished media](https://media.goodcase.ai/cases/72a97331532a.mp4) · [poster](https://media.goodcase.ai/cases/fad9a7d79ccd.jpg) · [original source](https://x.com/Harry_thingss/status/2102993120942346594)
 - Summary: What if your imagination looked like a blockbuster? ❄️ Winter mornings in England hit different ☕🇬🇧 From misty cobblestone streets to cozy Christmas markets —…
 

@@ -239,7 +239,7 @@ NEGATIVE PROMPT: cartoon, anime, CGI look, plastic skin, deformed face, bad hand
 
 ## E8 · Sports Car, Motorcycle, Tank and Fighter Jet Transform into Mecha
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 50
+- Seedance 2.5 · creator: @laviniavelle · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) · [finished media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) · [poster](https://media.goodcase.ai/cases/cc90787c2cf9.jpg) · [original source](https://x.com/laviniavelle/status/2108404878590857384)
 - Summary: When machines stop driving and start fighting Vehicles transform into powerful futuristic robots creating an epic sci-fi world. Made with Seedance 2.5 Prompt: A…
 

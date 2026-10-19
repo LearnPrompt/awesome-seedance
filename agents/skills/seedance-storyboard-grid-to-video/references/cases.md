@@ -133,7 +133,7 @@ Create a 12-second 16:9 animated croissant-making sequence that follows the 8-sh
 
 ## E3 · Survival Run Through a Collapsing Kuala Lumpur
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 76
+- Seedance 2.5 · creator: @Xaroon_x · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) · [finished media](https://media.goodcase.ai/cases/1634f009339b.mp4) · [poster](https://media.goodcase.ai/cases/a4fc7d20210a.jpg) · [original source](https://x.com/Xaroon_x/status/2097267405399396457)
 - Summary: When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
 
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · Elsa’s Midnight Croissants and the Empty Coffee Cup
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 47
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 46
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-premium-photorealistic-cinematic-30-second-live-action-food-commercial-67403ea43ed5) · [finished media](https://media.goodcase.ai/cases/adbb3917c618.mp4) · [poster](https://media.goodcase.ai/cases/e6bbd55f9455.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2095105440392818697)
 - Summary: Made with seedance 2.5 Prompt: ⤵️ Create a premium photorealistic cinematic 30-second live-action food commercial using
 
@@ -572,7 +572,7 @@ The volume increases continuously until the woman
 
 ## E8 · Flaming Spear Hero Battles the Stone Colossi
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 41
+- Seedance 2.5 · creator: @Xaroon_x · heat: 40
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) · [finished media](https://media.goodcase.ai/cases/3213936a04bc.mp4) · [poster](https://media.goodcase.ai/cases/4f05b16f382b.jpg) · [original source](https://x.com/Xaroon_x/status/2100595334833422793)
 - Summary: From ruins to a giant showdown. Created with Seedance 2.5 on @WizstarAI AEpic fantasy action, dynamic combat, and cinematic visuals brought to life with AI. Try…
 

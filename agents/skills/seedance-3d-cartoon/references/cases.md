@@ -111,7 +111,7 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 ## E4 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25) · [finished media](https://media.goodcase.ai/cases/cd474162c3c0.mp4) · [poster](https://media.goodcase.ai/cases/9f5595620b50.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2106347953711661482)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
 
