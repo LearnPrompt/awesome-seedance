@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 86
+- Seedance 2.5 · creator: @eshal__ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -70,7 +70,7 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 
 ## E3 · Her Autumn Day in the City
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 77
+- Seedance 2.5 · creator: @Chaemate_ · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
 - Summary: city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
 
@@ -163,7 +163,7 @@ Style: Photorealistic, authentic English winter mood (overcast, misty, not heavy
 
 ## E6 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 75 · stability: 60
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 76 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
 
@@ -196,7 +196,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 
 ## E7 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 72 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 73 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 

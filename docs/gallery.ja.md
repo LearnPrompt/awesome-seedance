@@ -6,17 +6,17 @@
 
 ## ページ
 
-- [Seedance 2.5 · Part 1/7](./gallery-seedance-2-5-part-1.ja.md) - 593 件中 1–84 件目.
-- [Seedance 2.5 · Part 2/7](./gallery-seedance-2-5-part-2.ja.md) - 593 件中 85–163 件目.
-- [Seedance 2.5 · Part 3/7](./gallery-seedance-2-5-part-3.ja.md) - 593 件中 164–259 件目.
-- [Seedance 2.5 · Part 4/7](./gallery-seedance-2-5-part-4.ja.md) - 593 件中 260–353 件目.
-- [Seedance 2.5 · Part 5/7](./gallery-seedance-2-5-part-5.ja.md) - 593 件中 354–449 件目.
-- [Seedance 2.5 · Part 6/7](./gallery-seedance-2-5-part-6.ja.md) - 593 件中 450–530 件目.
+- [Seedance 2.5 · Part 1/7](./gallery-seedance-2-5-part-1.ja.md) - 593 件中 1–85 件目.
+- [Seedance 2.5 · Part 2/7](./gallery-seedance-2-5-part-2.ja.md) - 593 件中 86–162 件目.
+- [Seedance 2.5 · Part 3/7](./gallery-seedance-2-5-part-3.ja.md) - 593 件中 163–258 件目.
+- [Seedance 2.5 · Part 4/7](./gallery-seedance-2-5-part-4.ja.md) - 593 件中 259–353 件目.
+- [Seedance 2.5 · Part 5/7](./gallery-seedance-2-5-part-5.ja.md) - 593 件中 354–448 件目.
+- [Seedance 2.5 · Part 6/7](./gallery-seedance-2-5-part-6.ja.md) - 593 件中 449–530 件目.
 - [Seedance 2.5 · Part 7/7](./gallery-seedance-2-5-part-7.ja.md) - 593 件中 531–593 件目.
 - [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 293 件中 1–89 件目.
 - [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 293 件中 90–192 件目.
-- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 293 件中 193–275 件目.
-- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 293 件中 276–293 件目.
+- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 293 件中 193–276 件目.
+- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 293 件中 277–293 件目.
 
 ## このリポジトリのその他の入口
 

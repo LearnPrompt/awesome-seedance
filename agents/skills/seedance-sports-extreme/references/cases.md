@@ -144,7 +144,7 @@ Negative:
 
 ## E2 · Woman Snowboarding and Catching Air at an Alpine Resort
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 80 · stability: 79
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 81 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg) · [original source](https://x.com/ayzalnooor24521/status/2094243156225315270)
 - Summary: Chasing the rush where snow meets the sky. Big jumps, fresh powder, and endless mountain energy. Created on seedance 2.0
 
@@ -158,7 +158,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 ## E3 · Blonde Woman Scores a Spectacular Goal in High Heels
 
-- Seedance 2.0 · creator: @Alexneyef · heat: 72
+- Seedance 2.0 · creator: @Alexneyef · heat: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c) · [finished media](https://media.goodcase.ai/cases/708b5580c270.mp4) · [poster](https://media.goodcase.ai/cases/0f6e8055f9d7.jpg) · [original source](https://x.com/Alexneyef/status/2099607916789563863)
 - Summary: OMG, what a strike 😭 Nobody expected her to pull THAT off. This is AI. And the crazy part is, you don’t need advanced skills, a pile of references, or some com…
 
@@ -197,7 +197,7 @@ Audio: natural park ambience, distant voices, ball impact, footsteps
 
 ## E4 · Bicycle Courier Racing Through the City
 
-- Seedance 2.5 · creator: @Elvorya · heat: 64 · stability: 81
+- Seedance 2.5 · creator: @Elvorya · heat: 65 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) · [finished media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) · [poster](https://media.goodcase.ai/cases/d9e8d052ad57.jpg) · [original source](https://x.com/Elvorya/status/2102622012351131832)
 - Summary: When a delivery ride turns into a cinematic city adventure. Created on seedance 2.5 Prompt:Create a 15-second photorealistic cinematic animated urban adventure …
 
@@ -217,7 +217,7 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 ## E5 · Female Rider Wins Mountain Bike Final by a Wheel
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 58 · stability: 76
+- Seedance 2.5 · creator: @nawalsehar · heat: 59 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
 - Summary: Two elite riders, one brutal final sprint, and a finish decided by inches. Created on seedance 2.5 Prompt: Ultra-photore
 
@@ -237,7 +237,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 ## E6 · Seedance Smooth Snowboard Run Through a Terrain Park
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 57 · stability: 73
+- Seedance 2.5 · creator: @nawalsehar · heat: 58 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
 - Summary: Some runs are all about the flow. Seedance 2.5 keeps every carve, jump, and landing feeling naturally smooth with seamle
 
@@ -247,7 +247,7 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 
 ## E7 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
-- Seedance 2.0 · creator: @aiwithaly · heat: 51 · stability: 79
+- Seedance 2.0 · creator: @aiwithaly · heat: 52 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
 - Summary: A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
 
@@ -263,7 +263,7 @@ Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female ride
 
 ## E8 · Over-Water Human Wall Crab Squat Challenge
 
-- Seedance 2.5 · creator: @johnAGI168 · heat: 49
+- Seedance 2.5 · creator: @johnAGI168 · heat: 50
 - Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36) · [finished media](https://media.goodcase.ai/cases/e77dd4feeff5.mp4) · [poster](https://media.goodcase.ai/cases/41f55c86bd5d.jpg) · [original source](https://x.com/johnAGI168/status/2092536240436363328)
 - Summary: 最近这个螃蟹蹲也是挺火的🔥咱也整一个📺 还是来源日本老哥丰富多彩的玩法😂 只需上传一张自己图片输入下面提示词即可生成同款视频🎬 Seedance 2.5 prompt 👇 SEEDANCE 2.5｜水上人形墙挑战 【风格】真人水上
 

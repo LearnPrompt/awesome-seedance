@@ -218,7 +218,7 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 ## E5 · Neighbors Fight Back Against an Infected Attack at Dusk
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 84
+- Seedance 2.5 · creator: @auqibhabib · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) · [finished media](https://media.goodcase.ai/cases/8f39846baced.mp4) · [poster](https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg) · [original source](https://x.com/auqibhabib/status/2107346452494381298)
 - Summary: Sudden outbreak on quiet suburban street, residents fight back and contain the threat. Seedance 2.5 Prompt: Cinematic horror-action short film, opens with an in…
 
@@ -331,7 +331,7 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 ## E8 · Infection Terror Aboard a Night Sleeper Train
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 78 · stability: 66
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 79 · stability: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
 - Summary: One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
 

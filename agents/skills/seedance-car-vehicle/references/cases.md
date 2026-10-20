@@ -86,7 +86,7 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 ## E4 · Motorcycle Racing Through a Mountain Road
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 76 · stability: 78
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 77 · stability: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
 - Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
 
@@ -195,7 +195,7 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 
 ## E6 · Post-Apocalyptic Desert Buggy Air Battle
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 69 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 70 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
 - Summary: Post apocalyptic chaos at full speed A rocket powered dune buggy explosive dogfights and insane cinematic action straigh
 
@@ -205,7 +205,7 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 ## E7 · Woman Biker Escapes an Alien Warship on an Apocalyptic Highway
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 56
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) · [finished media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) · [poster](https://media.goodcase.ai/cases/b48c78c785ba.jpg) · [original source](https://x.com/itsSaira_1/status/2104789066562547945)
 - Summary: ⚡The world is burning, the enemy is here, and she's ready for war. ⚔️ Made with Seedance 2.5 On @supercool_hq Prompt: CINEMATIC SHORT FILM, 46 sec, 16:9, photor…
 
@@ -239,7 +239,7 @@ NEGATIVE PROMPT: cartoon, anime, CGI look, plastic skin, deformed face, bad hand
 
 ## E8 · Sports Car, Motorcycle, Tank and Fighter Jet Transform into Mecha
 
-- Seedance 2.5 · creator: @laviniavelle · heat: 49
+- Seedance 2.5 · creator: @laviniavelle · heat: 50
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) · [finished media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) · [poster](https://media.goodcase.ai/cases/cc90787c2cf9.jpg) · [original source](https://x.com/laviniavelle/status/2108404878590857384)
 - Summary: When machines stop driving and start fighting Vehicles transform into powerful futuristic robots creating an epic sci-fi world. Made with Seedance 2.5 Prompt: A…
 

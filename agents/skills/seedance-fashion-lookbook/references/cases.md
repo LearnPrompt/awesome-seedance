@@ -101,7 +101,7 @@ AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, o
 
 ## E5 · Pink-Haired Woman Wandering Through a Fading European City
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 86
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692) · [finished media](https://media.goodcase.ai/cases/0440b58f61c0.mp4) · [poster](https://media.goodcase.ai/cases/78da937a2c39.jpg) · [original source](https://x.com/Just_sharon7/status/2102013620066636225)
 - Summary: What if every beautiful moment disappears before we even realize it was happening? Seedance 2.5 on @TapNow_AI Prompt A cinematic fashion short film, ~20 seconds…
 
@@ -146,7 +146,7 @@ Cinematic fashion film, editorial movement, motion blur, anamorphic flares, gold
 
 ## E6 · A Woman Changes Outfits on a Persian Rug Beneath a Ceiling Fan
 
-- Seedance 2.5 · creator: @Zoyavelle · heat: 84
+- Seedance 2.5 · creator: @Zoyavelle · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505) · [finished media](https://media.goodcase.ai/cases/6c0160709a73.mp4) · [poster](https://media.goodcase.ai/cases/8457e12426f4.jpg) · [original source](https://x.com/Zoyavelle/status/2108060187840180394)
 - Summary: Made with seedance 2.5 Prompt: A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living…
 
@@ -160,7 +160,7 @@ Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless tr
 
 ## E7 · Model and Fashion Items in Synchronized 360° Rotation
 
-- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 80 · stability: 60
+- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 81 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) · [finished media](https://media.goodcase.ai/cases/0d093f32d701.mp4) · [poster](https://media.goodcase.ai/cases/04e386463d97.jpg) · [original source](https://x.com/AI__TSUBAKI/status/2102459655700287648)
 - Summary: Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
 

@@ -200,7 +200,7 @@ She continues walking past traditional houses. A small
 
 ## E4 · Restaurant Chef’s Flaming Wok Performance
 
-- Seedance 2.5 · creator: @AynahhX · heat: 58 · stability: 88
+- Seedance 2.5 · creator: @AynahhX · heat: 59 · stability: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e) · [finished media](https://media.goodcase.ai/cases/5d8839944958.mp4) · [poster](https://media.goodcase.ai/cases/23cf7e177f01.jpg) · [original source](https://x.com/AynahhX/status/2102946546035945875)
 - Summary: When the chef turns dinner into a whole performance. 🔥👨‍🍳🥘 Created with Seedance 2.5 Prompt Create a 15-second cinematic 3D animated cooking sequence inside…
 
@@ -215,7 +215,7 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 
 ## E5 · Warm Coffee Moments in a Modern Café
 
-- Seedance 2.0 · creator: @Lianaalane · heat: 57
+- Seedance 2.0 · creator: @Lianaalane · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-this-cozy-cinematic-coffee-video-featuring-the-beautiful-atmosphere-of-14430e640031) · [finished media](https://media.goodcase.ai/cases/29b1140d0e36.mp4) · [poster](https://media.goodcase.ai/cases/a567712ff52d.jpg) · [original source](https://x.com/Lianaalane/status/2102330407404572896)
 - Summary: A little coffee magic, brought to life with AI. Cinematic visuals, cozy vibes, and the perfect coffee moment. Created on seedance 2.0 Prompt: Created this cozy …
 
@@ -225,7 +225,7 @@ Created this cozy cinematic coffee video, featuring the beautiful atmosphere of 
 
 ## E6 · Preparing Garlic Stir-Fried Greens in a Rustic Kitchen
 
-- Seedance 2.5 · creator: @aynellex · heat: 56
+- Seedance 2.5 · creator: @aynellex · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22) · [finished media](https://media.goodcase.ai/cases/6f57966c625c.mp4) · [poster](https://media.goodcase.ai/cases/11f308ce415a.jpg) · [original source](https://x.com/aynellex/status/2105869869216342141)
 - Summary: A simple bunch of greens turns into a beautifully glossy, restaurant-style stir-fry. 🌿🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic 17…
 
@@ -245,7 +245,7 @@ Ultra-photorealistic cinematic live-action food commercial, authentic Asian home
 
 ## E7 · Making Crispy Korean-Style Glazed Chicken
 
-- Seedance 2.5 · creator: @aynellex · heat: 50
+- Seedance 2.5 · creator: @aynellex · heat: 51
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-30-second-live-action-food-sequence-showing-f550d5208324) · [finished media](https://media.goodcase.ai/cases/2b4640c69cab.mp4) · [poster](https://media.goodcase.ai/cases/bf247d7db513.jpg) · [original source](https://x.com/aynellex/status/2105532781258571918)
 - Summary: A simple kitchen recipe turns into the crispiest, most satisfying Korean-style chicken. 🍗🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic…
 
@@ -263,7 +263,7 @@ Ultra-photorealistic cinematic live-action food commercial, realistic human hand
 
 ## E8 · Korean Woman Melts Down During a Spicy Food Challenge
 
-- Seedance 2.5 · creator: @oggii_0 · heat: 49 · stability: 82
+- Seedance 2.5 · creator: @oggii_0 · heat: 50 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) · [finished media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) · [poster](https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg) · [original source](https://x.com/oggii_0/status/2094267751477232053)
 - Summary: When AI starts making fake memories that feel this real… things get interesting. Made with Seedance 2.5. Prompt: Create
 

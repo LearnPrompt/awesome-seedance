@@ -6,23 +6,242 @@ This page: cases 277–293 of 293.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · **Part 4**
 
-### Luxury Salon Beauty Transformation
+### Gladiator Arena Duel Action
 
-> A high-speed dynamic commercial prompt for a beauty transformation, showing a glamorous shift from a casual look to an alluring evening gown through match cuts.
+> A detailed description of a gladiator arena battle scene between a nimble female swordswoman and a burly, heavily armored orc.
 
-[<img src="https://media.goodcase.ai/media/poster/case-d087761bf321.jpg" width="600" alt="Luxury Salon Beauty Transformation">](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/case-c0cf557563b7.jpg" width="600" alt="Gladiator Arena Duel Action">](https://goodcase.ai/cases/case-c0cf557563b7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @KrevixAi | **Source:** [Original](https://x.com/KrevixAi/status/2080960631180570913) | **Published:** 2026-07-25 | **Heat:** 2
+**Author:** @viperstudios4 | **Source:** [Original](https://x.com/viperstudios4/status/2081137523536109682) | **Published:** 2026-07-25 | **Heat:** 2
 
-**Stability:** 77/100
+**Stability:** 74/100
 
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 76.8) · [output](https://media.goodcase.ai/retests/case-d087761bf321/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 73.7) · [output](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (215 lines, click to expand)</b></summary>
 
 ```
-Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, hyper dynamic, seamless match cuts, speed ramps. Start in a bright minimalist studio with a static front-facing shot. A messy girl in an oversized gray T-shirt and round glasses stands with untidy hair, pale skin, tired expression, no makeup. Two black-gloved hands push her backward. Match cut: she lands in a luxury salon chair inside a dark premium salon. Camera switches to first-person stylist POV. Black cape on. Hair wash, shampoo massage, conditioner, rinse, towel dry. Hair is combed, sectioned, precision cut, textured, blow-dried with volume, softly curled, smoothed, finished with oil and shine spray. Makeup: primer, foundation, concealer, powder, contour, blush, highlighter, brows, soft eyeshadow, winged eyeliner, mascara, glossy red lips. Earrings added. Cape is pulled away, revealing a luxurious red evening dress. Final hair styling. The chair rotates to showcase the hairstyle, then returns front. Final reveal: a confident glamorous woman with flawless makeup, voluminous hair, sparkling earrings and radiant skin looks directly into the camera. Premium luxury beauty ad, perfect identity consistency, realistic hands, smooth motion, cinematic lighting, shallow depth of field, ultra-detailed skin and hair, 4K, no glitches, morphing, deformation, extra fingers or camera shake.
+Choreography sheet #1
+
+# STORYBOARD PROMPT — VIPER vs ORC FIGHT CHOREOGRAPHY (v1)
+
+Create a 16:9 pencil-and-ink choreography storyboard for a duel between an agile katana swordswoman and a massive 8-foot club-wielding orc. Lock staging, and do not render bracketed labels.
+
+[HEADER]
+Title block, top edge of sheet, clean hand-lettered style: "ROGUE VIPER — EP3 | VIPER vs ORC — FIGHT CHOREOGRAPHY | BOARD 1 of 1 | ARRI ALEXA 35". Panels numbered 1–12 in small ink numerals at the top-left corner of each panel frame.
+
+[BOARD]
+Single 16:9 sheet. 12 panels in a 4-column × 3-row grid, uniform gutters, thin ruled ink panel borders. Each panel is itself framed 16:9. Every panel captures figures mid-motion — blades and club always in transit, weight always committed, feet leaving or striking the ground. The sequence opens mid-swing.
+
+[STYLE]
+Graphite pencil construction lines with ink line-over on white paper. Loose gestural draftsmanship, confident single-stroke action lines, light construction skeletons visible under the ink. Both figures are featureless mannequins — blank oval heads, no faces, no costume detail beyond silhouette. Flat line drawing throughout; shading limited to sparse hatching for ground shadows. Laban movement analysis overlays are the only color on the sheet: GOLD directional lines for the swordswoman (sudden, light, free effort — thin whip-fast arcs, dart vectors, spiral roll paths, slash trajectories with motion-order arrowheads) and RED directional lines for the orc (strong, direct, bound effort — thick blunt sweep arcs, downward crush vectors, short heavy charge lines). Everything else stays monochrome pencil/ink.
+
+[REFERENCES]
+
+@char_RV_Viper — silhouette only: slender athletic female mannequin, long hair mass, single katana, high-boot leg line. Featureless.
+@char_RV_Orc — silhouette only: 8-foot hulking mannequin, hunched armored shoulder mass, oversized two-handed club. Featureless.
+
+Scale lock: orc stands roughly 1.5× the swordswoman's height and 3× her mass in every panel.
+
+[CONTINUITY]
+Staging is a bare choreography floor: a single ruled ground line and hatched contact shadows per figure — nothing else in the environment. Screen direction locked: swordswoman enters and works frame-left, orc holds frame-right; the overhead panels preserve this axis. The katana stays in the swordswoman's grip in all 12 panels; the club stays two-handed except the one-hand backhand in panel 4.
+
+[RULES]
+Five camera setups across the sequence — A: wide full-figure profile, B: low angle from floor height, C: top-down overhead, D: over-the-shoulder from behind the orc, E: close lateral tracking at torso height. Pencil/ink linework only; figures stay blank mannequins with zero facial or costume detail; color appears exclusively in the gold and red Laban lines. No sculptural volume, no rendered lighting, no finished-illustration polish, no bracketed labels on the sheet.
+
+[BEATS]
+1. (A — wide profile) Open mid-action: the orc's club is halfway through a flat horizontal swing at chest height; the swordswoman is already dropping under it into a low knee-slide, katana drawn and trailing. RED: thick horizontal sweep arc. GOLD: low forward slide vector under the arc.
+2. (A — wide profile) The club hammers the floor where she was — impact burst lines, cracked ground hatching — as she shoulder-rolls left past his planted leg. RED: steep downward crush vector with impact star. GOLD: tight spiral roll path curling around his leg line.
+
+3. (B — low angle) From floor height: she springs up inside his reach, katana slashing upward across his forearm. RED: recoil pull-back of the club haft. GOLD: rising diagonal slash arc with arrowhead.
+4. (B — low angle) The orc backhands one-armed with the club haft; she arches backward under it, blade sweeping overhead as counterweight. RED: flat backhand arc crossing the frame. GOLD: backward C-curve of her spine-line plus overhead blade arc.
+5. (C — overhead) Top-down footwork map: she circles fast to his blind side in a wide arc while he pivots heavily on planted feet, club dragging. GOLD: long smooth orbit arc with three step-ticks. RED: short stubby rotation arc at his center.
+6. (C — overhead) He hoists the club vertical for a two-handed overhead smash; she darts straight inside his stance. RED: coiled vertical wind-up spiral. GOLD: straight penetration dart to his center.
+7. (D — over the orc's shoulder) The overhead smash detonates on empty floor past her; she is mid-sidestep, katana biting across his flank. RED: full-commitment vertical crush vector with impact star. GOLD: lateral sidestep hook ending in a flank slash arc.
+8. (D — over the orc's shoulder) He staggers a half-step from the flank hit; she rebounds off the floor into a leaping strike toward his shoulder line. RED: broken stumble tick-marks. GOLD: steep launch vector, body extended, blade cocked.
+9. (E — close lateral) Mid-air she meets a rising club sweep — she blocks on the flat of the katana and the impact hurls her backward. RED: rising uppercut arc with impact star at contact. GOLD: sharp deflection kink then a long recoil vector.
+10. (A — wide profile) Full-width panel beat: she is airborne mid back-flip recovering, katana still gripped; the orc is already charging after her, club dragging a gouge line. GOLD: aerial flip loop with landing prediction dash. RED: heavy straight charge vector, low and accelerating.
+11. (B — low angle) She lands in a deep skid, blade coming to horizontal guard as the orc's charge fills the frame, club winding into a full-body 180° swing. GOLD: skid friction ticks into a coiled ready spiral. RED: massive wind-up arc wrapping behind his shoulder mass.
+12. (E — close lateral) FREEZE ON THE CLIFFHANGER: club and katana converging in mid-air, both fighters at full commitment, an instant before contact — the collision point left undrawn. RED and GOLD arcs converge on a single empty gap at frame center.
+
+Choreography Sheet #2
+
+# STORYBOARD PROMPT — VIPER vs ORC FINISHER (BOARD 2, v1)
+
+Create a 16:9 pencil-and-ink choreography storyboard for the finish of a duel between an agile katana swordswoman and a massive 8-foot club-wielding orc. Lock staging, and do not render bracketed labels.
+
+[HEADER]
+Title block, top edge of sheet, clean hand-lettered style: "ROGUE VIPER — EP3 | VIPER vs ORC — FINISHER | BOARD 2 of 2 | ARRI ALEXA 35". Panels numbered 1–12 in small ink numerals at the top-left corner of each panel frame.
+
+[BOARD]
+Single 16:9 sheet. 12 panels in a 4-column × 3-row grid, uniform gutters, thin ruled ink panel borders. Each panel is itself framed 16:9. The sequence opens mid-collision — the exact instant the previous board froze on — and every panel captures figures mid-motion with weight committed.
+
+[STYLE]
+Graphite pencil construction lines with ink line-over on white paper. Loose gestural draftsmanship, confident single-stroke action lines, light construction skeletons visible under the ink. Both figures are featureless mannequins — blank oval heads, no faces, no costume detail beyond silhouette. Flat line drawing throughout; shading limited to sparse hatching for ground shadows. Blood appears as small contained monochrome ink-droplet spray clusters — brief spurts of a few fine droplets, drawn in the same black ink as the linework. Laban movement analysis overlays are the only color on the sheet: GOLD directional lines for the swordswoman (sudden, light, free effort — thin whip-fast arcs, dart vectors, thrust lines with motion-order arrowheads) and RED directional lines for the orc (strong, direct, bound effort — thick blunt arcs that degrade panel by panel into broken stumble ticks and collapse folds as he fails). Everything else stays monochrome pencil/ink.
+
+[REFERENCES]
+@char_RV_Viper — silhouette only: slender athletic female mannequin, long hair mass, single katana, high-boot leg line. Featureless.
+@char_RV_Orc — silhouette only: 8-foot hulking mannequin, hunched armored shoulder mass, oversized two-handed club. Featureless.
+
+Scale lock: orc stands roughly 1.5× the swordswoman's height standing; once he drops to his knees his head sits level with hers.
+
+[CONTINUITY]
+Staging is a bare choreography floor: a single ruled ground line and hatched contact shadows per figure — nothing else in the environment. Screen direction locked: swordswoman works frame-left, orc holds frame-right. The katana stays in her grip through all 12 panels. The club leaves the orc's grip at panel 6 and stays on the ground thereafter. Dismemberment continuity is absolute: the orc's LEFT arm is severed mid-forearm at panel 6, and from panel 6 through panel 12 his left arm ends in a blunt stump at mid-forearm in every panel — no left hand, no left forearm below the cut, in any panel from 6 onward. His right arm stays whole throughout. The severed left forearm and hand lie on the ground where they land from panel 7 onward, visible in frame wherever the camera setup allows.
+
+[RULES]
+Five camera setups across the sequence — A: wide full-figure profile, B: low angle from floor height, C: top-down overhead, D: over-the-shoulder from behind the orc, E: close lateral tracking at torso height. Pencil/ink linework only; figures stay blank mannequins with zero facial or costume detail; color appears exclusively in the gold and red Laban lines; blood stays monochrome ink droplets, small and contained. No sculptural volume, no rendered lighting, no finished-illustration polish, no bracketed labels on the sheet.
+
+[BEATS]
+1. (E — close lateral) Open on the collision the last board froze before: katana meets club at full commitment — she angles the blade and the club glances off with a shock burst of impact lines. GOLD: sharp deflection kink redirecting the force downward. RED: thick arc breaking into a glance-off deflection.
+2. (A — wide profile) The parried swing carries the orc into deep overextension, head down, club plowing a gouge into the floor; she rides the rebound into a tight spin toward him. RED: long overshoot vector diving into the ground line. GOLD: compact spin spiral advancing frame-right.
+
+3. (C — overhead) Top-down: her spiral path cuts inside his stance to dead-center in front of his pitched-forward mass. GOLD: tightening inward spiral ending at his center line. RED: broad forward-tipped weight arc, off-balance.
+4. (B — low angle) FINISHER OPENS — from floor height: planted under his hips, she drives a rising snap kick straight up between his legs, boot line at full extension, katana swept clear in one hand; the orc jack-knifes, shoulders snapping forward and down. GOLD: short brutal vertical kick vector along her leg line. RED: body-fold arcs collapsing inward at the hips.
+5. (E — close lateral) His LEFT hand releases the club and that arm flails wide for balance, fully extended at shoulder height — the club tips out of his right hand. RED: broken stagger ticks plus a wide loose flail arc along the extended left arm. GOLD: coiled wind-up spiral at her shoulders as she loads the next cut.
+6. (A — wide profile) Full-body horizontal cut through the extended LEFT forearm — the severed left forearm and hand separate from him in mid-air alongside the falling club, a small contained spray of fine ink droplets arcing from the cut point; his left arm now ends in a blunt mid-forearm stump. GOLD: wide clean horizontal slash arc passing through the left arm line. RED: short falling vectors on the severed left forearm and dropping club.
+7. (B — low angle) The severed left forearm and the club strike the floor in the foreground; behind them the orc rears back howling, left-arm stump raised with a brief small droplet spurt flicking off it, right arm whole and clawing at the air. RED: rearing back-arch arc with tremor ticks. GOLD: low ready stance line as she stalks forward.
+8. (C — overhead) His mass spirals down — both knees crash to the floor with impact hatching; from above, his LEFT arm reads clearly as a short blunt stump ending at mid-forearm while his right arm is whole with the hand splayed on the ground; the severed left forearm lies on the floor at frame edge. She squares to face his lowered head. RED: heavy downward collapse spiral ending in twin knee impact stars. GOLD: short straight approach vector to his center.
+9. (D — over the orc's shoulder) From behind his slumped shoulder mass: she stands before his kneeling bulk, blade point rising level with his blank head, tip aimed between the eyes. His LEFT arm hangs as a blunt mid-forearm stump against his side, right arm whole. GOLD: rising aim line terminating in a hover point at his brow. RED: faint sagging droop arcs on his frame.
+10. (E — close lateral) The thrust — full extension, blade point entering between the eyes, a small contained spurt of fine droplets at the entry point; his LEFT arm still ends in the blunt stump, right arm whole and jerking once. GOLD: single straight thrust vector driven through the head line. RED: one terminal shudder tick.
+11. (D — over the orc's shoulder) Held beat: her arm at full extension, blade seated, the orc's whole silhouette slackening — shoulders dropping, his whole RIGHT arm hanging limp, his LEFT arm a blunt mid-forearm stump hanging beside it. GOLD: steady horizontal hold line. RED: limp vertical sag vectors draining down his frame.
+12. (A — wide profile) She withdraws the blade with a sharp flick — a thin trail of droplets snapping off the tip — as the orc topples backward full-length, dust burst on impact; sprawled on his back, his LEFT arm reads as a blunt mid-forearm stump and his right arm lies whole, the severed left forearm on the ground nearby; she stands over him, katana lowered at her side. GOLD: crisp flick arc off the blade tip. RED: final topple arc ending flat along the ground line.
+
+Seedance 2.0 prompt #1:
+
+SCENE CONTEXT
+Inside a vast open-air gladiator arena with a polished white circular floor, a lithe swordswoman duels a hulking armored orc gladiator while packed tiered stands of spectators surround the fight. She works frame-left; he holds frame-right.
+
+ACTIVE REFERENCES
+@ref_choreography — 12-panel fight board; blocking, motion paths, and camera setups only; rendered output is live-action photoreal footage.
+@loc_arena — environment and architecture: circular white stone arena floor with radial seam lines, steep tiered stands, colonnaded upper gallery, open sky above the ring. 100% matches the reference for architecture; the stands are filled to capacity with spectators in every cut.
+@char_RV_Viper — athletic female fighter, long black hair, black leather bodysuit with gold seam piping, mandarin collar, gold cobra belt buckle, thigh-high heeled boots, drop-leg twin holster harness. 100% matches the reference.
+@char_RV_Orc — green-skinned bald orc gladiator with lower tusks, gunmetal-and-bronze plated armor, massive two-handed spiked club. Stands half a body taller than the swordswoman, three times her mass. 100% matches the reference.
+@prop_katana — steel katana, black silk-wrapped hilt with gold diamond menuki, round engraved brass tsuba. 100% matches the reference.
+@prop_pistols — matte black suppressed pistols seated in black leather drop-leg thigh holsters. 100% matches the reference.
+
+LOCATION MAP
+Foreground: polished white stone arena floor with radial seam lines and light scuff marks, a hard-edged pool of direct sunlight falling across the duel circle. Midground: the low white perimeter wall ringing the floor. Background: steep tiered stands packed shoulder-to-shoulder with spectators, rising to a colonnaded upper gallery; open daylight sky above the ring, haze at 80 meters depth softening the far side of the bowl. Sun sits high camera-left above the gallery rim. Operator holds the shadow side in every setup.
+
+FIRST FRAME / BLOCKING
+First frame opens mid-action: wide profile two-shot inside the sunlight pool — the orc frame-right halfway through a flat horizontal club swing at chest height, the swordswoman frame-left already dropping into a low knee-slide beneath the swing arc, katana drawn and trailing. Screen direction locked for the full clip: she attacks from frame-left, he holds frame-right.
+
+FORMAT MODE
+Timed multishot. Hard cuts at the stated seconds only; cuts only at the specified points, the camera does not cut on its own.
+
+OPTICS
+CUT 1: 63° wide profile. CUT 2: 84° low angle. CUT 3: 47° overhead. CUT 4: 47° over-the-shoulder. CUT 5: 29° lateral medium. CUT 6: 63° wide profile. Fixed FOV per segment, no drift mid-segment. 35mm anamorphic character, oval bokeh, fine grain.
+
+CAMERA
+Wide tonal latitude, soft highlight roll-off. CUT 1 and CUT 6 locked at chest height; CUT 2 locked at floor height angled up; CUT 3 directly overhead, static, the full duel circle and packed lower rows in frame; CUT 4 anchored behind the orc's right shoulder; CUT 5 tracking laterally at torso height, matching her speed.
+
+ACTION
+0.0s to 2.5s — Wide profile: the club head sweeps through at 60 km/h; she slides under it at 25 km/h; the club hammers the white floor where she was — cracks spider out along the radial seams, dust ring — as she shoulder-rolls left past his planted leg.
+2.5s HARD CUT
+2.5s to 5.0s — Low angle: she springs up inside his reach, rising diagonal slash across his armored forearm — sparks; he backhands one-armed with the club haft; she arches backward under it, blade sweeping overhead as counterweight; packed stands and open sky behind them.
+5.0s HARD CUT
+5.0s to 7.0s — Overhead: she circles fast to his blind side in a wide arc at 20 km/h while he pivots heavily on planted feet, then hoists the club vertical for a two-handed overhead smash; their shadows stretch across the sunlit white floor.
+7.0s HARD CUT
+7.0s to 9.5s — Over the orc's shoulder: the smash detonates on empty white floor — dust ring, floor cracks; she is mid-sidestep, katana biting across his flank plate with a spark trail; he staggers a half-step.
+9.5s HARD CUT
+9.5s to 12.0s — Lateral medium: she rebounds off the floor into a leaping strike toward his shoulder line; a rising club sweep meets her mid-air; she blocks on the flat of the katana and the impact hurls her backward across frame.
+12.0s HARD CUT
+12.0s to 15.0s — Wide profile: she back-flips airborne, katana still gripped, lands in a deep skid, blade snapping to horizontal guard; the orc charges at 30 km/h, club winding into a full-body swing; final frame holds at 15.0s on club and katana converging in mid-air an instant before contact.
+
+PERFORMANCE
+Her eyes stay locked on the orc through every exchange, jaw set, controlled sharp exhales; hair whips on each direction change. The orc grimaces around his tusks on the flank hit, chest heaving on the final charge.
+
+PHYSICS
+The orc moves with visible mass — floor shudders on his steps, full-body follow-through on every swing, dust kicked from each footfall. She is light and sudden: sharp direction changes, boots skidding with friction marks on the polished stone. Sparks where steel meets armor plate; holster straps and hair react to inertia; grounded contact shadows under both fighters in the direct sun.
+
+LIGHTING
+Hard direct sunlight from high camera-left above the gallery rim, 5600K, throwing a bright pool across the duel circle; cool open-sky fill from above; the stands sit one stop down in bounced light; fighters carry crisp single sun shadows plus soft sky fill.
+
+COLOR GRADE
+Steel blue-grey palette, moderate desaturation, crushed blacks, retained midtones; the sunlit floor reads clean paper-white against cooler shaded stands; her gold seam piping and the brass tsuba catch the sun as the only warm accents.
+
+AUDIO
+Deep concussive club impacts, blade whoosh and metallic ring on armor contact, boot skids on polished stone, open-air crowd roar rising in waves that spike on each impact.
+
+STYLE
+Photoreal live-action, 35mm anamorphic film character, fine grain, bloodless stylized combat.
+
+OUTPUT SETTINGS
+16:9, all segments real-time speed.
+
+POSITIVE LOCKS
+Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh holsters in every cut. She works frame-left, the orc holds frame-right, in every cut. Every seat in the stands is occupied — the arena is packed to capacity in all six cuts. Same arena, same daylight, same wardrobe, same prop state across all cuts. Fighters alone on the floor; the crowd stays in the stands. Impacts read through sparks, dust, and knockback — combat stays bloodless. Rendered output is live-action footage; the choreography sheet serves as motion reference only.
+
+Seedance 2.0 prompt #2:
+
+SCENE CONTEXT
+Inside a vast open-air gladiator arena with a polished white circular floor, a lithe swordswoman finishes a duel against a hulking armored orc gladiator before a capacity crowd of thousands filling every tier of the stands. She works frame-left; he holds frame-right.
+
+ACTIVE REFERENCES
+@ref_choreography — 12-panel finisher board; blocking, motion paths, and camera setups only; rendered output is live-action photoreal footage.
+@loc_arena — architecture only: circular white stone arena floor with radial seam lines, steep tiered stands, colonnaded upper gallery, open sky above the ring. 100% matches the reference for structure and materials; the empty seats shown in the reference are replaced by a capacity crowd — every row of every tier filled with seated and standing spectators in every frame of every cut.
+@char_RV_Viper — athletic female fighter, long black hair, black leather bodysuit with gold seam piping, mandarin collar, gold cobra belt buckle, thigh-high heeled boots, drop-leg twin holster harness. 100% matches the reference.
+@char_RV_Orc — green-skinned bald orc gladiator with lower tusks, gunmetal-and-bronze plated armor, massive two-handed spiked club. Stands half a body taller than the swordswoman standing; kneeling, his head sits level with her shoulders. Both arms whole at the start of the clip. 100% matches the reference.
+@prop_katana — steel katana, black silk-wrapped hilt with gold diamond menuki, round engraved brass tsuba. 100% matches the reference.
+@prop_pistols — matte black suppressed pistols seated in black leather drop-leg thigh holsters. 100% matches the reference.
+
+LOCATION MAP
+Foreground: polished white stone arena floor with radial seam lines, scuff marks and cracks from the earlier exchanges, a hard-edged pool of direct sunlight across the duel circle. Midground: the low white perimeter wall, spectators packed against its railing. Background: steep tiered stands filled shoulder-to-shoulder with thousands of spectators — a dense textured mass of bodies, faces, and waving arms in every row, rising to a colonnaded upper gallery with more spectators standing between the columns; open daylight sky, haze at 80 meters depth on the far side of the bowl. Sun high camera-left above the gallery rim. Operator holds the shadow side in every setup.
+
+FIRST FRAME / BLOCKING
+First frame opens mid-collision: lateral medium two-shot inside the sunlight pool — the orc frame-right at full swing commitment with both arms whole, the swordswoman frame-left meeting his club on the angled flat of her katana, sparks at the contact point; behind them the packed stands read as a wall of spectators from the first frame. Screen direction locked for the full clip: she works frame-left, he holds frame-right.
+
+FORMAT MODE
+Timed multishot. Hard cuts at the stated seconds only; cuts only at the specified points, the camera does not cut on its own.
+
+OPTICS
+CUT 1: 29° lateral medium. CUT 2: 84° low angle. CUT 3: 63° wide profile. CUT 4: 84° low angle. CUT 5: 47° over-the-shoulder. CUT 6: 63° wide profile. Fixed FOV per segment, no drift mid-segment. 35mm anamorphic character, oval bokeh, fine grain.
+
+CAMERA
+Wide tonal latitude, soft highlight roll-off. CUT 1 tracking laterally at torso height; CUT 2 and CUT 4 locked at floor height angled up; CUT 3 and CUT 6 locked at chest height, full figures in frame with the crowded stands behind them; CUT 5 anchored behind the orc's slumped shoulder, her figure framed past it.
+
+ACTION
+0.0s to 2.5s — Lateral medium: the club strikes her angled blade and glances off with a spark burst; the deflected swing carries the orc into deep overextension, head down, club plowing a gouge across the white stone; both his arms are whole in this segment; the packed crowd blurs soft behind them.
+2.5s HARD CUT
+2.5s to 5.0s — Low angle: she spins inside his stance at 25 km/h and drives a rising snap kick straight up between his legs, boot at full extension, katana swept clear in one hand; the orc jack-knifes, shoulders snapping forward and down; both his arms are still whole in this segment; filled tiers and spectators at the gallery rail rise above them against the sky.
+5.0s HARD CUT
+5.0s to 7.5s — Wide profile: his LEFT hand releases the club and that arm flails wide for balance at shoulder height; she pivots through a full-body horizontal cut that severs the extended LEFT forearm — the severed left forearm and hand fall away alongside the dropping club, a small contained spray of fine dark droplets arcing from the cut; from this instant his left arm ends in a blunt mid-forearm stump while his right arm stays whole; the crowd behind them surges to its feet.
+7.5s HARD CUT
+7.5s to 10.0s — Low angle: the severed left forearm and the club land in the foreground with dust puffs and stay on the ground; behind them the orc rears back howling with his LEFT-arm stump raised — the arm clearly ending in a blunt cut at mid-forearm with a brief small droplet spurt, his right arm whole and clawing the air — then crashes down onto both knees, floor shudder, dust ring; packed rows of spectators fill the frame edges above the perimeter wall.
+10.0s HARD CUT
+10.0s to 12.5s — Over the orc's shoulder: he kneels with his LEFT arm still ending in the blunt mid-forearm stump and his right arm whole; she stands before his kneeling bulk, blade point rising level with his brow, then drives a single straight thrust — the point enters between the eyes with a small contained spurt of fine droplets; his frame stiffens, then slackens; the crowd mass behind her holds a sudden stillness.
+12.5s HARD CUT
+12.5s to 15.0s — Wide profile: she withdraws the blade with a sharp flick, a thin trail of droplets snapping off the tip; the orc topples backward full-length, dust bursting on impact, sprawled with his LEFT arm ending in the blunt mid-forearm stump and his right arm lying whole, the severed left forearm resting on the stone nearby; final frame holds at 15.0s on her standing over him, katana lowered at her side, chest rising and falling, the packed stands erupting behind her — arms up in every row.
+
+PERFORMANCE
+Her eyes stay fixed on the orc through every beat, jaw set, movements economical and final; a single controlled exhale on the thrust; after the topple her shoulders drop half an inch as the tension releases. The orc's tusked face contorts on the kick, his howl reads through thrown-back head and corded neck, then his features go slack after the thrust.
+
+PHYSICS
+The orc carries visible mass — the floor shudders when his knees land, dust kicks from every impact, the severed left forearm and the club fall with dead weight and settle without bounce, then stay put on the stone. She is light and precise: sharp pivots, boot friction marks on the polished stone. Blood reads as small contained sprays of fine droplets that fall and dot the white floor; sparks where steel meets armor; grounded contact shadows under both fighters in the direct sun. The crowd moves as a living mass — individual spectators shifting, leaning, rising and throwing arms up in reaction to each impact.
+
+LIGHTING
+Hard direct sunlight from high camera-left above the gallery rim, 5600K, throwing a bright pool across the duel circle; cool open-sky fill from above; the packed stands sit one stop down in bounced light, crowd texture readable in the shade; fighters carry crisp single sun shadows plus soft sky fill.
+
+COLOR GRADE
+Steel blue-grey palette, moderate desaturation, crushed blacks, retained midtones; the sunlit floor reads clean paper-white against the cooler shaded mass of the crowd; her gold seam piping and the brass tsuba catch the sun as the only warm accents; the droplet spatter reads as dark specks on the white stone.
+
+AUDIO
+Sparks and metallic ring on the deflection, a deep concussive thud on the kick, one clean blade hiss on the severing cut, the orc's roar dropping to a choked grunt on the thrust, the full-length body slam on the topple; the crowd of thousands roars in waves that spike on each impact, drops to a collective gasp on the thrust, then erupts to a sustained peak as he falls.
+
+STYLE
+Photoreal live-action, 35mm anamorphic film character, fine grain, stylized contained violence.
+
+OUTPUT SETTINGS
+16:9, all segments real-time speed.
+
+POSITIVE LOCKS
+DISMEMBERMENT CONTINUITY — HARD LOCK: the orc has both arms whole in CUT 1 and CUT 2 only. His LEFT forearm is severed at the 5.0s–7.5s cut. From that instant through the end of the clip — every frame of CUT 3 after the cut, and all of CUT 4, CUT 5 and CUT 6 — his left arm ends in a blunt stump at mid-forearm with no hand and no forearm below the cut, visible in frame in each of those cuts. His right arm stays whole and intact for the entire clip. The severed left forearm and hand remain lying on the arena floor from the moment they land through the final frame.
+Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh holsters in every cut. She works frame-left, the orc holds frame-right, in every cut. The club leaves his grip in CUT 3 and stays on the floor from then on. Every seat in every tier holds a spectator — the arena is packed to capacity, crowd visible in the background of all six cuts, spectators standing at the gallery rail. Same arena, same daylight, same wardrobe across all cuts. Blood stays as small contained droplet sprays. Rendered output is live-action footage; the choreography sheet serves as motion reference only.
 ```
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c0cf557563b7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Ultra-Soothing ASMR Vlog
 
