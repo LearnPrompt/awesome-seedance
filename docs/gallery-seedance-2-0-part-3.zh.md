@@ -1,10 +1,118 @@
 # Seedance 2.0 — 全量案例（第 3/4 页）
 
-Seedance 2.0 全部 293 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 295 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 197–280 条，共 293 条。
+本页：第 196–278 条，共 295 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
+
+### 创业披萨店从清晨到火热营业
+
+> This isn’t pizza—it’s a cinematic story. Watch passion rise, bake, and explode. Made by using GPT Image 2 + Seedance 2.0
+
+[<img src="https://media.goodcase.ai/cases/745efbd5cfe1.jpg" width="600" alt="创业披萨店从清晨到火热营业">](https://goodcase.ai/cases/heyfatema-seedance-ai-b3b41609bc87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @heyfatema | **来源:** [原帖](https://x.com/heyfatema/status/2093288705448685975) | **发布:** 2026-08-28 | **热度:** 24
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.2 分) · [产物](https://media.goodcase.ai/retests/heyfatema-seedance-ai-b3b41609bc87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+This isn’t pizza—it’s a cinematic story.
+
+Watch passion rise, bake, and explode.
+
+Made by using GPT Image 2 + Seedance 2.0 on @openart_ai
+
+Prompt 👇
+
+A warm, energetic 15-second ultra-realistic food commercial opens wide on a sunlit neighborhood pizza storefront with glowing signage as a young entrepreneur-chef in a black tee and tan apron unlocks the door and steps into the morning light, a gentle dolly in catching the first excited smile; cut to a tight overhead macro glide across a wooden prep table loaded with fresh mozzarella, tomatoes, basil, mushrooms, pepperoni, onions, and colorful vegetables as clean hands wash and organize the ingredients; cut to a medium anamorphic arc around the dough station as the chef kneads and stretches the dough with growing confidence, flour lifting through warm amber light against stainless counters and the stone oven beyond; cut tighter with a low close-up dolly toward the oven mouth as the pizza slides into orange flame, cheese bubbling and crust turning golden in intense heat; finish with a rising wide reveal from the active counter and branded pizza box handoff to a busy thriving shop, customers gathering, staff moving fast, and the storefront glowing with success in warm amber, tomato red, and basil green commercial polish.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/heyfatema-seedance-ai-b3b41609bc87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 建筑空间改造延时摄影
+
+> 一段精准的视频提示词，用于制作无缝衔接的建筑改造动画，展示从毛坯混凝土房间到奢华室内空间的蜕变。
+
+[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="建筑空间改造延时摄影">](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Naiknelofar788 | **来源:** [原帖](https://x.com/Naiknelofar788/status/2081371164728041980) | **发布:** 2026-07-26 | **热度:** 23
+
+**稳定度：** 78/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.3 分) · [产物](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（24 行，点开展开）</b></summary>
+
+```
+Create a 15-second seamless architectural space renovation animation.
+
+The camera remains completely fixed in the exact same position, angle, focal length, perspective, and composition throughout the entire video. No camera push-in, pull-out, panning, rotation, zoom, handheld shake, or reframing. Room dimensions, walls, windows, doors, ceiling height, and structural layout remain completely unchanged throughout the transformation.
+
+0–3 seconds:
+The scene begins as a rough, unfinished interior with exposed cement walls, raw concrete flooring, exposed ceiling, visible construction materials, and an empty space. Dust settles naturally while the environment remains static. The floor installation begins, gradually spreading from left to right until the entire concrete floor transforms into premium microcement or elegant large-format light grey tiles.
+
+3–6 seconds:
+Walls and ceiling begin transforming simultaneously. Rough cement walls smoothly become perfectly finished creamy-white walls. Wood veneer panels, decorative wall mouldings, built-in storage cabinets, TV feature walls, suspended ceiling structures, recessed lighting channels, and hidden LED strip lighting appear naturally in their correct architectural positions as though installed by invisible craftsmen.
+
+6–9 seconds:
+Electrical fixtures, doors, window frames, skirting boards, switches, sockets, and architectural details complete themselves with realistic construction logic. Ambient lighting gradually powers on, filling the room with soft, warm illumination while maintaining a natural daylight balance.
+
+9–12 seconds:
+Furniture and soft furnishings assemble sequentially. Luxury sofas, coffee tables, dining furniture, rugs, curtains, indoor plants, decorative artwork, lighting fixtures, books, cushions, and decorative accessories naturally move into place piece by piece, resembling a real construction and interior installation time-lapse.
+
+12–15 seconds:
+The renovation reaches its final premium interior design. Every object settles perfectly into position while the lighting subtly adjusts to create a luxurious atmosphere. The completed room remains perfectly still for the final second, allowing viewers to appreciate the finished transformation.
+
+Overall style:
+Ultra-realistic architectural visualization, photorealistic materials, premium luxury interior design portfolio quality, realistic construction time-lapse, physically accurate lighting, smooth seamless transitions, natural installation logic, cinematic realism, highly detailed textures, clean modern luxury aesthetic, 8K quality.
+
+Negative prompt:
+People, workers, text, logos, watermarks, camera movement, zoom, panning, rotation, handheld shake, changing room dimensions, structural deformation, floating objects, object misalignment, duplicate furniture, unrealistic assembly, blurry, low quality, flickering, artifacts, oversaturated colors, distorted perspective.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 电影感晨间健身日常
+
+> 一个 15 秒的电影感 GRWM 视频提示词，用于户外晨间健身，并保持参考角色的身份一致性。
+
+[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="电影感晨间健身日常">](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2081222954659234074) | **发布:** 2026-07-26 | **热度:** 23
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.4 分) · [产物](https://media.goodcase.ai/retests/case-3bdeb046587d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+Using the attached character reference, create a 15-second ultra-realistic cinematic GRWM (Get Ready With Me) video featuring the exact same young Korean East Asian woman with consistent facial features, hairstyle, glowing skin, body proportions, and identity throughout the sequence. She wears a white fitted athletic crop top, high-waisted red leggings, white running sneakers, a lightweight smartwatch, and a high ponytail throughout the outdoor workout.
+
+The video opens with her peacefully waking up in a bright modern bedroom as soft sunrise light streams through the curtains. She smiles, stretches naturally, washes her face, brushes her teeth, completes a quick skincare routine, and changes into her white crop top and red leggings. She ties her hair into a neat high ponytail, fastens her smartwatch, laces her sneakers, picks up a yoga mat, reusable water bottle, and wireless earbuds, then heads outside.
+
+She steps onto a lush green lawn surrounded by blooming flowers and tall trees glowing in the golden morning light. She begins with gentle stretching, yoga poses, squats, lunges, planks, push-ups, jumping jacks, and light jogging across the grass. Cinematic tracking shots capture realistic hair movement, natural breathing, and dew sparkling beneath her shoes. Macro shots highlight her smartwatch tracking heart rate, shoes brushing fresh grass, hands reaching toward the sky, and sunlight illuminating her face.
+
+After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh strawberry smoothie in a modern kitchen, pours it into a glass, walks to a sunlit window, notices the camera, smiles warmly, raises the smoothie toward the viewer in a friendly toast, and enjoys the peaceful morning as the camera slowly pulls back.
+
+Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimbal camera movement, shallow depth of field, premium lifestyle cinematography, realistic skin texture, natural hair physics, physically accurate sunrise lighting, warm golden-hour atmosphere, glossy commercial-quality color grading, 4K HDR, 16:9, with natural ambient audio only (birds chirping, gentle breeze, rustling leaves, footsteps on grass, breathing, water bottle opening, smoothie blending), no background music, subtitles, logos, watermarks, or on-screen text.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 芒果汁商业广告
 
@@ -493,49 +601,6 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 高端热带饮品 UGC 广告
-
-> 一份详细的多场景视频提示词，用于高端热带饮品广告，展示了一位女性在海滩上的场景，包含电影感手持镜头和微距特写。
-
-[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="高端热带饮品 UGC 广告">](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2076908363913613653) | **发布:** 2026-07-14 | **热度:** 20
-
-**稳定度：** 77/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
-
-The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
-
-She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
-
-She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
-
-She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
-
-The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
-
-As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
-
-The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
-
-The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
-
-Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
-
-Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 无声手语之恋
 
 > Spent a lot of time with Velvet Skies 🌌❤️, incorporating every scene, and shots tried to get those emotions without spe
@@ -752,6 +817,49 @@ The video should have realistic smartphone camera quality, natural handheld move
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-f1f4b662e370?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 高端热带饮品 UGC 广告
+
+> 一份详细的多场景视频提示词，用于高端热带饮品广告，展示了一位女性在海滩上的场景，包含电影感手持镜头和微距特写。
+
+[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="高端热带饮品 UGC 广告">](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2076908363913613653) | **发布:** 2026-07-14 | **热度:** 19
+
+**稳定度：** 77/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
+
+```
+Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
+
+The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
+
+She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
+
+She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
+
+She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
+
+The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
+
+As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
+
+The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
+
+The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
+
+Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
+
+Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 可口可乐时尚转场广告
 
@@ -1336,6 +1444,24 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 神话战士电影级 VFX 展示
+
+> 一个史诗般的 3D 动画提示词，展示了金色的迦楼罗式战士与天界女神的战斗，呈现了先进的电影级摄像机技术和能量特效。
+
+[<img src="https://media.goodcase.ai/media/poster/vfx-47bf458a20a3.jpg" width="600" alt="神话战士电影级 VFX 展示">](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2079150941648150607) | **发布:** 2026-07-20 | **热度:** 13
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83 分) · [产物](https://media.goodcase.ai/retests/vfx-47bf458a20a3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Garuda-like mythical warrior battling a celestial masked goddess above floating islands and glowing clouds. Demonstrate a sequence of cinematic camera techniques including extreme wide aerial shots, low-angle monster introductions, tracking circles, dynamic orbits, spirals, close-ups, and fast action angles as both characters unleash fiery orange and cyan energy attacks that culminate in a colossal mid-air beam clash and shockwave explosion. Display a 16-panel storyboard reference grid along the bottom of the screen labeled with each camera move and lens focal length, with the active camera technique highlighted by a glowing white border as the sequence progresses.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 写实男性网红故事板
 
 > 一套全面的多场景视频提示词，旨在确保角色在不同地点和服装下的连贯性，并包含快速剪辑和手持摄像机运动效果。
@@ -1430,24 +1556,6 @@ A massive human fortress built into the cliffs of a frozen planet faces a final 
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 神话战士电影级 VFX 展示
-
-> 一个史诗般的 3D 动画提示词，展示了金色的迦楼罗式战士与天界女神的战斗，呈现了先进的电影级摄像机技术和能量特效。
-
-[<img src="https://media.goodcase.ai/media/poster/vfx-47bf458a20a3.jpg" width="600" alt="神话战士电影级 VFX 展示">](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2079150941648150607) | **发布:** 2026-07-20 | **热度:** 12
-
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83 分) · [产物](https://media.goodcase.ai/retests/vfx-47bf458a20a3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Garuda-like mythical warrior battling a celestial masked goddess above floating islands and glowing clouds. Demonstrate a sequence of cinematic camera techniques including extreme wide aerial shots, low-angle monster introductions, tracking circles, dynamic orbits, spirals, close-ups, and fast action angles as both characters unleash fiery orange and cyan energy attacks that culminate in a colossal mid-air beam clash and shockwave explosion. Display a 16-panel storyboard reference grid along the bottom of the screen labeled with each camera move and lens focal length, with the active camera technique highlighted by a glowing white border as the sequence progresses.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 无线耳机产品评测
 
@@ -3334,342 +3442,6 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 角斗场决斗动作
-
-> 一段关于轻盈女剑士与魁梧重甲兽人之间角斗场战斗场景的详细描述。
-
-[<img src="https://media.goodcase.ai/media/poster/case-c0cf557563b7.jpg" width="600" alt="角斗场决斗动作">](https://goodcase.ai/cases/case-c0cf557563b7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @viperstudios4 | **来源:** [原帖](https://x.com/viperstudios4/status/2081137523536109682) | **发布:** 2026-07-25 | **热度:** 2
-
-**稳定度：** 74/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.7 分) · [产物](https://media.goodcase.ai/retests/case-c0cf557563b7/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（215 行，点开展开）</b></summary>
-
-```
-Choreography sheet #1
-
-# STORYBOARD PROMPT — VIPER vs ORC FIGHT CHOREOGRAPHY (v1)
-
-Create a 16:9 pencil-and-ink choreography storyboard for a duel between an agile katana swordswoman and a massive 8-foot club-wielding orc. Lock staging, and do not render bracketed labels.
-
-[HEADER]
-Title block, top edge of sheet, clean hand-lettered style: "ROGUE VIPER — EP3 | VIPER vs ORC — FIGHT CHOREOGRAPHY | BOARD 1 of 1 | ARRI ALEXA 35". Panels numbered 1–12 in small ink numerals at the top-left corner of each panel frame.
-
-[BOARD]
-Single 16:9 sheet. 12 panels in a 4-column × 3-row grid, uniform gutters, thin ruled ink panel borders. Each panel is itself framed 16:9. Every panel captures figures mid-motion — blades and club always in transit, weight always committed, feet leaving or striking the ground. The sequence opens mid-swing.
-
-[STYLE]
-Graphite pencil construction lines with ink line-over on white paper. Loose gestural draftsmanship, confident single-stroke action lines, light construction skeletons visible under the ink. Both figures are featureless mannequins — blank oval heads, no faces, no costume detail beyond silhouette. Flat line drawing throughout; shading limited to sparse hatching for ground shadows. Laban movement analysis overlays are the only color on the sheet: GOLD directional lines for the swordswoman (sudden, light, free effort — thin whip-fast arcs, dart vectors, spiral roll paths, slash trajectories with motion-order arrowheads) and RED directional lines for the orc (strong, direct, bound effort — thick blunt sweep arcs, downward crush vectors, short heavy charge lines). Everything else stays monochrome pencil/ink.
-
-[REFERENCES]
-
-@char_RV_Viper — silhouette only: slender athletic female mannequin, long hair mass, single katana, high-boot leg line. Featureless.
-@char_RV_Orc — silhouette only: 8-foot hulking mannequin, hunched armored shoulder mass, oversized two-handed club. Featureless.
-
-Scale lock: orc stands roughly 1.5× the swordswoman's height and 3× her mass in every panel.
-
-[CONTINUITY]
-Staging is a bare choreography floor: a single ruled ground line and hatched contact shadows per figure — nothing else in the environment. Screen direction locked: swordswoman enters and works frame-left, orc holds frame-right; the overhead panels preserve this axis. The katana stays in the swordswoman's grip in all 12 panels; the club stays two-handed except the one-hand backhand in panel 4.
-
-[RULES]
-Five camera setups across the sequence — A: wide full-figure profile, B: low angle from floor height, C: top-down overhead, D: over-the-shoulder from behind the orc, E: close lateral tracking at torso height. Pencil/ink linework only; figures stay blank mannequins with zero facial or costume detail; color appears exclusively in the gold and red Laban lines. No sculptural volume, no rendered lighting, no finished-illustration polish, no bracketed labels on the sheet.
-
-[BEATS]
-1. (A — wide profile) Open mid-action: the orc's club is halfway through a flat horizontal swing at chest height; the swordswoman is already dropping under it into a low knee-slide, katana drawn and trailing. RED: thick horizontal sweep arc. GOLD: low forward slide vector under the arc.
-2. (A — wide profile) The club hammers the floor where she was — impact burst lines, cracked ground hatching — as she shoulder-rolls left past his planted leg. RED: steep downward crush vector with impact star. GOLD: tight spiral roll path curling around his leg line.
-
-3. (B — low angle) From floor height: she springs up inside his reach, katana slashing upward across his forearm. RED: recoil pull-back of the club haft. GOLD: rising diagonal slash arc with arrowhead.
-4. (B — low angle) The orc backhands one-armed with the club haft; she arches backward under it, blade sweeping overhead as counterweight. RED: flat backhand arc crossing the frame. GOLD: backward C-curve of her spine-line plus overhead blade arc.
-5. (C — overhead) Top-down footwork map: she circles fast to his blind side in a wide arc while he pivots heavily on planted feet, club dragging. GOLD: long smooth orbit arc with three step-ticks. RED: short stubby rotation arc at his center.
-6. (C — overhead) He hoists the club vertical for a two-handed overhead smash; she darts straight inside his stance. RED: coiled vertical wind-up spiral. GOLD: straight penetration dart to his center.
-7. (D — over the orc's shoulder) The overhead smash detonates on empty floor past her; she is mid-sidestep, katana biting across his flank. RED: full-commitment vertical crush vector with impact star. GOLD: lateral sidestep hook ending in a flank slash arc.
-8. (D — over the orc's shoulder) He staggers a half-step from the flank hit; she rebounds off the floor into a leaping strike toward his shoulder line. RED: broken stumble tick-marks. GOLD: steep launch vector, body extended, blade cocked.
-9. (E — close lateral) Mid-air she meets a rising club sweep — she blocks on the flat of the katana and the impact hurls her backward. RED: rising uppercut arc with impact star at contact. GOLD: sharp deflection kink then a long recoil vector.
-10. (A — wide profile) Full-width panel beat: she is airborne mid back-flip recovering, katana still gripped; the orc is already charging after her, club dragging a gouge line. GOLD: aerial flip loop with landing prediction dash. RED: heavy straight charge vector, low and accelerating.
-11. (B — low angle) She lands in a deep skid, blade coming to horizontal guard as the orc's charge fills the frame, club winding into a full-body 180° swing. GOLD: skid friction ticks into a coiled ready spiral. RED: massive wind-up arc wrapping behind his shoulder mass.
-12. (E — close lateral) FREEZE ON THE CLIFFHANGER: club and katana converging in mid-air, both fighters at full commitment, an instant before contact — the collision point left undrawn. RED and GOLD arcs converge on a single empty gap at frame center.
-
-Choreography Sheet #2
-
-# STORYBOARD PROMPT — VIPER vs ORC FINISHER (BOARD 2, v1)
-
-Create a 16:9 pencil-and-ink choreography storyboard for the finish of a duel between an agile katana swordswoman and a massive 8-foot club-wielding orc. Lock staging, and do not render bracketed labels.
-
-[HEADER]
-Title block, top edge of sheet, clean hand-lettered style: "ROGUE VIPER — EP3 | VIPER vs ORC — FINISHER | BOARD 2 of 2 | ARRI ALEXA 35". Panels numbered 1–12 in small ink numerals at the top-left corner of each panel frame.
-
-[BOARD]
-Single 16:9 sheet. 12 panels in a 4-column × 3-row grid, uniform gutters, thin ruled ink panel borders. Each panel is itself framed 16:9. The sequence opens mid-collision — the exact instant the previous board froze on — and every panel captures figures mid-motion with weight committed.
-
-[STYLE]
-Graphite pencil construction lines with ink line-over on white paper. Loose gestural draftsmanship, confident single-stroke action lines, light construction skeletons visible under the ink. Both figures are featureless mannequins — blank oval heads, no faces, no costume detail beyond silhouette. Flat line drawing throughout; shading limited to sparse hatching for ground shadows. Blood appears as small contained monochrome ink-droplet spray clusters — brief spurts of a few fine droplets, drawn in the same black ink as the linework. Laban movement analysis overlays are the only color on the sheet: GOLD directional lines for the swordswoman (sudden, light, free effort — thin whip-fast arcs, dart vectors, thrust lines with motion-order arrowheads) and RED directional lines for the orc (strong, direct, bound effort — thick blunt arcs that degrade panel by panel into broken stumble ticks and collapse folds as he fails). Everything else stays monochrome pencil/ink.
-
-[REFERENCES]
-@char_RV_Viper — silhouette only: slender athletic female mannequin, long hair mass, single katana, high-boot leg line. Featureless.
-@char_RV_Orc — silhouette only: 8-foot hulking mannequin, hunched armored shoulder mass, oversized two-handed club. Featureless.
-
-Scale lock: orc stands roughly 1.5× the swordswoman's height standing; once he drops to his knees his head sits level with hers.
-
-[CONTINUITY]
-Staging is a bare choreography floor: a single ruled ground line and hatched contact shadows per figure — nothing else in the environment. Screen direction locked: swordswoman works frame-left, orc holds frame-right. The katana stays in her grip through all 12 panels. The club leaves the orc's grip at panel 6 and stays on the ground thereafter. Dismemberment continuity is absolute: the orc's LEFT arm is severed mid-forearm at panel 6, and from panel 6 through panel 12 his left arm ends in a blunt stump at mid-forearm in every panel — no left hand, no left forearm below the cut, in any panel from 6 onward. His right arm stays whole throughout. The severed left forearm and hand lie on the ground where they land from panel 7 onward, visible in frame wherever the camera setup allows.
-
-[RULES]
-Five camera setups across the sequence — A: wide full-figure profile, B: low angle from floor height, C: top-down overhead, D: over-the-shoulder from behind the orc, E: close lateral tracking at torso height. Pencil/ink linework only; figures stay blank mannequins with zero facial or costume detail; color appears exclusively in the gold and red Laban lines; blood stays monochrome ink droplets, small and contained. No sculptural volume, no rendered lighting, no finished-illustration polish, no bracketed labels on the sheet.
-
-[BEATS]
-1. (E — close lateral) Open on the collision the last board froze before: katana meets club at full commitment — she angles the blade and the club glances off with a shock burst of impact lines. GOLD: sharp deflection kink redirecting the force downward. RED: thick arc breaking into a glance-off deflection.
-2. (A — wide profile) The parried swing carries the orc into deep overextension, head down, club plowing a gouge into the floor; she rides the rebound into a tight spin toward him. RED: long overshoot vector diving into the ground line. GOLD: compact spin spiral advancing frame-right.
-
-3. (C — overhead) Top-down: her spiral path cuts inside his stance to dead-center in front of his pitched-forward mass. GOLD: tightening inward spiral ending at his center line. RED: broad forward-tipped weight arc, off-balance.
-4. (B — low angle) FINISHER OPENS — from floor height: planted under his hips, she drives a rising snap kick straight up between his legs, boot line at full extension, katana swept clear in one hand; the orc jack-knifes, shoulders snapping forward and down. GOLD: short brutal vertical kick vector along her leg line. RED: body-fold arcs collapsing inward at the hips.
-5. (E — close lateral) His LEFT hand releases the club and that arm flails wide for balance, fully extended at shoulder height — the club tips out of his right hand. RED: broken stagger ticks plus a wide loose flail arc along the extended left arm. GOLD: coiled wind-up spiral at her shoulders as she loads the next cut.
-6. (A — wide profile) Full-body horizontal cut through the extended LEFT forearm — the severed left forearm and hand separate from him in mid-air alongside the falling club, a small contained spray of fine ink droplets arcing from the cut point; his left arm now ends in a blunt mid-forearm stump. GOLD: wide clean horizontal slash arc passing through the left arm line. RED: short falling vectors on the severed left forearm and dropping club.
-7. (B — low angle) The severed left forearm and the club strike the floor in the foreground; behind them the orc rears back howling, left-arm stump raised with a brief small droplet spurt flicking off it, right arm whole and clawing at the air. RED: rearing back-arch arc with tremor ticks. GOLD: low ready stance line as she stalks forward.
-8. (C — overhead) His mass spirals down — both knees crash to the floor with impact hatching; from above, his LEFT arm reads clearly as a short blunt stump ending at mid-forearm while his right arm is whole with the hand splayed on the ground; the severed left forearm lies on the floor at frame edge. She squares to face his lowered head. RED: heavy downward collapse spiral ending in twin knee impact stars. GOLD: short straight approach vector to his center.
-9. (D — over the orc's shoulder) From behind his slumped shoulder mass: she stands before his kneeling bulk, blade point rising level with his blank head, tip aimed between the eyes. His LEFT arm hangs as a blunt mid-forearm stump against his side, right arm whole. GOLD: rising aim line terminating in a hover point at his brow. RED: faint sagging droop arcs on his frame.
-10. (E — close lateral) The thrust — full extension, blade point entering between the eyes, a small contained spurt of fine droplets at the entry point; his LEFT arm still ends in the blunt stump, right arm whole and jerking once. GOLD: single straight thrust vector driven through the head line. RED: one terminal shudder tick.
-11. (D — over the orc's shoulder) Held beat: her arm at full extension, blade seated, the orc's whole silhouette slackening — shoulders dropping, his whole RIGHT arm hanging limp, his LEFT arm a blunt mid-forearm stump hanging beside it. GOLD: steady horizontal hold line. RED: limp vertical sag vectors draining down his frame.
-12. (A — wide profile) She withdraws the blade with a sharp flick — a thin trail of droplets snapping off the tip — as the orc topples backward full-length, dust burst on impact; sprawled on his back, his LEFT arm reads as a blunt mid-forearm stump and his right arm lies whole, the severed left forearm on the ground nearby; she stands over him, katana lowered at her side. GOLD: crisp flick arc off the blade tip. RED: final topple arc ending flat along the ground line.
-
-Seedance 2.0 prompt #1:
-
-SCENE CONTEXT
-Inside a vast open-air gladiator arena with a polished white circular floor, a lithe swordswoman duels a hulking armored orc gladiator while packed tiered stands of spectators surround the fight. She works frame-left; he holds frame-right.
-
-ACTIVE REFERENCES
-@ref_choreography — 12-panel fight board; blocking, motion paths, and camera setups only; rendered output is live-action photoreal footage.
-@loc_arena — environment and architecture: circular white stone arena floor with radial seam lines, steep tiered stands, colonnaded upper gallery, open sky above the ring. 100% matches the reference for architecture; the stands are filled to capacity with spectators in every cut.
-@char_RV_Viper — athletic female fighter, long black hair, black leather bodysuit with gold seam piping, mandarin collar, gold cobra belt buckle, thigh-high heeled boots, drop-leg twin holster harness. 100% matches the reference.
-@char_RV_Orc — green-skinned bald orc gladiator with lower tusks, gunmetal-and-bronze plated armor, massive two-handed spiked club. Stands half a body taller than the swordswoman, three times her mass. 100% matches the reference.
-@prop_katana — steel katana, black silk-wrapped hilt with gold diamond menuki, round engraved brass tsuba. 100% matches the reference.
-@prop_pistols — matte black suppressed pistols seated in black leather drop-leg thigh holsters. 100% matches the reference.
-
-LOCATION MAP
-Foreground: polished white stone arena floor with radial seam lines and light scuff marks, a hard-edged pool of direct sunlight falling across the duel circle. Midground: the low white perimeter wall ringing the floor. Background: steep tiered stands packed shoulder-to-shoulder with spectators, rising to a colonnaded upper gallery; open daylight sky above the ring, haze at 80 meters depth softening the far side of the bowl. Sun sits high camera-left above the gallery rim. Operator holds the shadow side in every setup.
-
-FIRST FRAME / BLOCKING
-First frame opens mid-action: wide profile two-shot inside the sunlight pool — the orc frame-right halfway through a flat horizontal club swing at chest height, the swordswoman frame-left already dropping into a low knee-slide beneath the swing arc, katana drawn and trailing. Screen direction locked for the full clip: she attacks from frame-left, he holds frame-right.
-
-FORMAT MODE
-Timed multishot. Hard cuts at the stated seconds only; cuts only at the specified points, the camera does not cut on its own.
-
-OPTICS
-CUT 1: 63° wide profile. CUT 2: 84° low angle. CUT 3: 47° overhead. CUT 4: 47° over-the-shoulder. CUT 5: 29° lateral medium. CUT 6: 63° wide profile. Fixed FOV per segment, no drift mid-segment. 35mm anamorphic character, oval bokeh, fine grain.
-
-CAMERA
-Wide tonal latitude, soft highlight roll-off. CUT 1 and CUT 6 locked at chest height; CUT 2 locked at floor height angled up; CUT 3 directly overhead, static, the full duel circle and packed lower rows in frame; CUT 4 anchored behind the orc's right shoulder; CUT 5 tracking laterally at torso height, matching her speed.
-
-ACTION
-0.0s to 2.5s — Wide profile: the club head sweeps through at 60 km/h; she slides under it at 25 km/h; the club hammers the white floor where she was — cracks spider out along the radial seams, dust ring — as she shoulder-rolls left past his planted leg.
-2.5s HARD CUT
-2.5s to 5.0s — Low angle: she springs up inside his reach, rising diagonal slash across his armored forearm — sparks; he backhands one-armed with the club haft; she arches backward under it, blade sweeping overhead as counterweight; packed stands and open sky behind them.
-5.0s HARD CUT
-5.0s to 7.0s — Overhead: she circles fast to his blind side in a wide arc at 20 km/h while he pivots heavily on planted feet, then hoists the club vertical for a two-handed overhead smash; their shadows stretch across the sunlit white floor.
-7.0s HARD CUT
-7.0s to 9.5s — Over the orc's shoulder: the smash detonates on empty white floor — dust ring, floor cracks; she is mid-sidestep, katana biting across his flank plate with a spark trail; he staggers a half-step.
-9.5s HARD CUT
-9.5s to 12.0s — Lateral medium: she rebounds off the floor into a leaping strike toward his shoulder line; a rising club sweep meets her mid-air; she blocks on the flat of the katana and the impact hurls her backward across frame.
-12.0s HARD CUT
-12.0s to 15.0s — Wide profile: she back-flips airborne, katana still gripped, lands in a deep skid, blade snapping to horizontal guard; the orc charges at 30 km/h, club winding into a full-body swing; final frame holds at 15.0s on club and katana converging in mid-air an instant before contact.
-
-PERFORMANCE
-Her eyes stay locked on the orc through every exchange, jaw set, controlled sharp exhales; hair whips on each direction change. The orc grimaces around his tusks on the flank hit, chest heaving on the final charge.
-
-PHYSICS
-The orc moves with visible mass — floor shudders on his steps, full-body follow-through on every swing, dust kicked from each footfall. She is light and sudden: sharp direction changes, boots skidding with friction marks on the polished stone. Sparks where steel meets armor plate; holster straps and hair react to inertia; grounded contact shadows under both fighters in the direct sun.
-
-LIGHTING
-Hard direct sunlight from high camera-left above the gallery rim, 5600K, throwing a bright pool across the duel circle; cool open-sky fill from above; the stands sit one stop down in bounced light; fighters carry crisp single sun shadows plus soft sky fill.
-
-COLOR GRADE
-Steel blue-grey palette, moderate desaturation, crushed blacks, retained midtones; the sunlit floor reads clean paper-white against cooler shaded stands; her gold seam piping and the brass tsuba catch the sun as the only warm accents.
-
-AUDIO
-Deep concussive club impacts, blade whoosh and metallic ring on armor contact, boot skids on polished stone, open-air crowd roar rising in waves that spike on each impact.
-
-STYLE
-Photoreal live-action, 35mm anamorphic film character, fine grain, bloodless stylized combat.
-
-OUTPUT SETTINGS
-16:9, all segments real-time speed.
-
-POSITIVE LOCKS
-Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh holsters in every cut. She works frame-left, the orc holds frame-right, in every cut. Every seat in the stands is occupied — the arena is packed to capacity in all six cuts. Same arena, same daylight, same wardrobe, same prop state across all cuts. Fighters alone on the floor; the crowd stays in the stands. Impacts read through sparks, dust, and knockback — combat stays bloodless. Rendered output is live-action footage; the choreography sheet serves as motion reference only.
-
-Seedance 2.0 prompt #2:
-
-SCENE CONTEXT
-Inside a vast open-air gladiator arena with a polished white circular floor, a lithe swordswoman finishes a duel against a hulking armored orc gladiator before a capacity crowd of thousands filling every tier of the stands. She works frame-left; he holds frame-right.
-
-ACTIVE REFERENCES
-@ref_choreography — 12-panel finisher board; blocking, motion paths, and camera setups only; rendered output is live-action photoreal footage.
-@loc_arena — architecture only: circular white stone arena floor with radial seam lines, steep tiered stands, colonnaded upper gallery, open sky above the ring. 100% matches the reference for structure and materials; the empty seats shown in the reference are replaced by a capacity crowd — every row of every tier filled with seated and standing spectators in every frame of every cut.
-@char_RV_Viper — athletic female fighter, long black hair, black leather bodysuit with gold seam piping, mandarin collar, gold cobra belt buckle, thigh-high heeled boots, drop-leg twin holster harness. 100% matches the reference.
-@char_RV_Orc — green-skinned bald orc gladiator with lower tusks, gunmetal-and-bronze plated armor, massive two-handed spiked club. Stands half a body taller than the swordswoman standing; kneeling, his head sits level with her shoulders. Both arms whole at the start of the clip. 100% matches the reference.
-@prop_katana — steel katana, black silk-wrapped hilt with gold diamond menuki, round engraved brass tsuba. 100% matches the reference.
-@prop_pistols — matte black suppressed pistols seated in black leather drop-leg thigh holsters. 100% matches the reference.
-
-LOCATION MAP
-Foreground: polished white stone arena floor with radial seam lines, scuff marks and cracks from the earlier exchanges, a hard-edged pool of direct sunlight across the duel circle. Midground: the low white perimeter wall, spectators packed against its railing. Background: steep tiered stands filled shoulder-to-shoulder with thousands of spectators — a dense textured mass of bodies, faces, and waving arms in every row, rising to a colonnaded upper gallery with more spectators standing between the columns; open daylight sky, haze at 80 meters depth on the far side of the bowl. Sun high camera-left above the gallery rim. Operator holds the shadow side in every setup.
-
-FIRST FRAME / BLOCKING
-First frame opens mid-collision: lateral medium two-shot inside the sunlight pool — the orc frame-right at full swing commitment with both arms whole, the swordswoman frame-left meeting his club on the angled flat of her katana, sparks at the contact point; behind them the packed stands read as a wall of spectators from the first frame. Screen direction locked for the full clip: she works frame-left, he holds frame-right.
-
-FORMAT MODE
-Timed multishot. Hard cuts at the stated seconds only; cuts only at the specified points, the camera does not cut on its own.
-
-OPTICS
-CUT 1: 29° lateral medium. CUT 2: 84° low angle. CUT 3: 63° wide profile. CUT 4: 84° low angle. CUT 5: 47° over-the-shoulder. CUT 6: 63° wide profile. Fixed FOV per segment, no drift mid-segment. 35mm anamorphic character, oval bokeh, fine grain.
-
-CAMERA
-Wide tonal latitude, soft highlight roll-off. CUT 1 tracking laterally at torso height; CUT 2 and CUT 4 locked at floor height angled up; CUT 3 and CUT 6 locked at chest height, full figures in frame with the crowded stands behind them; CUT 5 anchored behind the orc's slumped shoulder, her figure framed past it.
-
-ACTION
-0.0s to 2.5s — Lateral medium: the club strikes her angled blade and glances off with a spark burst; the deflected swing carries the orc into deep overextension, head down, club plowing a gouge across the white stone; both his arms are whole in this segment; the packed crowd blurs soft behind them.
-2.5s HARD CUT
-2.5s to 5.0s — Low angle: she spins inside his stance at 25 km/h and drives a rising snap kick straight up between his legs, boot at full extension, katana swept clear in one hand; the orc jack-knifes, shoulders snapping forward and down; both his arms are still whole in this segment; filled tiers and spectators at the gallery rail rise above them against the sky.
-5.0s HARD CUT
-5.0s to 7.5s — Wide profile: his LEFT hand releases the club and that arm flails wide for balance at shoulder height; she pivots through a full-body horizontal cut that severs the extended LEFT forearm — the severed left forearm and hand fall away alongside the dropping club, a small contained spray of fine dark droplets arcing from the cut; from this instant his left arm ends in a blunt mid-forearm stump while his right arm stays whole; the crowd behind them surges to its feet.
-7.5s HARD CUT
-7.5s to 10.0s — Low angle: the severed left forearm and the club land in the foreground with dust puffs and stay on the ground; behind them the orc rears back howling with his LEFT-arm stump raised — the arm clearly ending in a blunt cut at mid-forearm with a brief small droplet spurt, his right arm whole and clawing the air — then crashes down onto both knees, floor shudder, dust ring; packed rows of spectators fill the frame edges above the perimeter wall.
-10.0s HARD CUT
-10.0s to 12.5s — Over the orc's shoulder: he kneels with his LEFT arm still ending in the blunt mid-forearm stump and his right arm whole; she stands before his kneeling bulk, blade point rising level with his brow, then drives a single straight thrust — the point enters between the eyes with a small contained spurt of fine droplets; his frame stiffens, then slackens; the crowd mass behind her holds a sudden stillness.
-12.5s HARD CUT
-12.5s to 15.0s — Wide profile: she withdraws the blade with a sharp flick, a thin trail of droplets snapping off the tip; the orc topples backward full-length, dust bursting on impact, sprawled with his LEFT arm ending in the blunt mid-forearm stump and his right arm lying whole, the severed left forearm resting on the stone nearby; final frame holds at 15.0s on her standing over him, katana lowered at her side, chest rising and falling, the packed stands erupting behind her — arms up in every row.
-
-PERFORMANCE
-Her eyes stay fixed on the orc through every beat, jaw set, movements economical and final; a single controlled exhale on the thrust; after the topple her shoulders drop half an inch as the tension releases. The orc's tusked face contorts on the kick, his howl reads through thrown-back head and corded neck, then his features go slack after the thrust.
-
-PHYSICS
-The orc carries visible mass — the floor shudders when his knees land, dust kicks from every impact, the severed left forearm and the club fall with dead weight and settle without bounce, then stay put on the stone. She is light and precise: sharp pivots, boot friction marks on the polished stone. Blood reads as small contained sprays of fine droplets that fall and dot the white floor; sparks where steel meets armor; grounded contact shadows under both fighters in the direct sun. The crowd moves as a living mass — individual spectators shifting, leaning, rising and throwing arms up in reaction to each impact.
-
-LIGHTING
-Hard direct sunlight from high camera-left above the gallery rim, 5600K, throwing a bright pool across the duel circle; cool open-sky fill from above; the packed stands sit one stop down in bounced light, crowd texture readable in the shade; fighters carry crisp single sun shadows plus soft sky fill.
-
-COLOR GRADE
-Steel blue-grey palette, moderate desaturation, crushed blacks, retained midtones; the sunlit floor reads clean paper-white against the cooler shaded mass of the crowd; her gold seam piping and the brass tsuba catch the sun as the only warm accents; the droplet spatter reads as dark specks on the white stone.
-
-AUDIO
-Sparks and metallic ring on the deflection, a deep concussive thud on the kick, one clean blade hiss on the severing cut, the orc's roar dropping to a choked grunt on the thrust, the full-length body slam on the topple; the crowd of thousands roars in waves that spike on each impact, drops to a collective gasp on the thrust, then erupts to a sustained peak as he falls.
-
-STYLE
-Photoreal live-action, 35mm anamorphic film character, fine grain, stylized contained violence.
-
-OUTPUT SETTINGS
-16:9, all segments real-time speed.
-
-POSITIVE LOCKS
-DISMEMBERMENT CONTINUITY — HARD LOCK: the orc has both arms whole in CUT 1 and CUT 2 only. His LEFT forearm is severed at the 5.0s–7.5s cut. From that instant through the end of the clip — every frame of CUT 3 after the cut, and all of CUT 4, CUT 5 and CUT 6 — his left arm ends in a blunt stump at mid-forearm with no hand and no forearm below the cut, visible in frame in each of those cuts. His right arm stays whole and intact for the entire clip. The severed left forearm and hand remain lying on the arena floor from the moment they land through the final frame.
-Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh holsters in every cut. She works frame-left, the orc holds frame-right, in every cut. The club leaves his grip in CUT 3 and stays on the floor from then on. Every seat in every tier holds a spectator — the arena is packed to capacity, crowd visible in the background of all six cuts, spectators standing at the gallery rail. Same arena, same daylight, same wardrobe across all cuts. Blood stays as small contained droplet sprays. Rendered output is live-action footage; the choreography sheet serves as motion reference only.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-c0cf557563b7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 超治愈 ASMR Vlog
-
-> 一种模仿 Mini DV 摄像机质感的低保真（lo-fi）视觉提示词，适用于自然光下的放松类 ASMR 冥想 Vlog。
-
-[<img src="https://media.goodcase.ai/media/poster/asmr-vlog-db7f7a2ad923.jpg" width="600" alt="超治愈 ASMR Vlog">](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @sebatheepan | **来源:** [原帖](https://x.com/sebatheepan/status/2080942778293313949) | **发布:** 2026-07-25 | **热度:** 2
-
-**稳定度：** 63/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (63.1 分) · [产物](https://media.goodcase.ai/retests/asmr-vlog-db7f7a2ad923/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by rising steam. Extremely smooth pan, ultra-relaxed pacing, natural soft warm sunlight through mist, calm consumer vlog framing. STYLE: Ultra-chill ASMR meditation vlog. Zero stress, monotonic deep voice, soothing water ripples, zen atmosphere. SUBJECT: Unbothered, majestic Capybara sitting submerged up to its neck in a steaming wooden hot tub, with a yellow Yuzu citrus fruit balanced perfectly on its flat head. SETTING: Outdoor Japanese hot spring (Onsen) tub surrounded by smooth stones, bamboo stalks, rising steam mist, soft morning sunbeams. STORYBOARD: → (2s, static medium shot) Capybara sitting in steam, looking directly into lens. "Welcome. Breathe in peace. Breathe out drama." → (1.5s, detail shot) Yuzu fruit wobbles slightly on head, but capybara remains motionless. Soft water ripple ASMR. → (1.5s, close-up) Takes slow, deep breath in through nose, nostrils expanding gently. Deep exhalation sound into microphone. → (2s, medium shot) A yellow rubber duck drifts into frame and bumps into capybara's cheek. Capybara doesn't even flinch. "Accept the duck. Become the duck." → (1.5s, macro detail shot) Takes a slow bite of a bamboo leaf floating by. Soft leaf crunch ASMR sound. → (1.5s, low angle shot) A small sparrow alights on his head right next to the fruit. "New subscriber just dropped. Welcome, bird." → (1.5s, close-up) Ear twitches once to shake off a drop of condensation. Soft water droplet splash sound. → (1.5s, medium shot) Sinks 1 inch deeper into warm water, eyelids dropping halfway. "Stress is optional. Water is warm." → (1s, warm ending shot) Looks at camera with ultimate tranquility. "Stay unbothered, my friends." → (1s, final shot) Steam rises, enveloping lens smoothly until screen fades to warm white mist. AUDIO NOTES: Soothing water trickling, deep slow breathing, soft leaf crunching, ultra-calm monotonic baritone voice synced smoothly to jaw movement. REALISM & COMEDY NOTES: Photorealistic Capybara coarse fur texture with water droplets, steady calm expression, hilarious comedic contrast between extreme zen energy and absurd head balance.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 现代舞室音乐视频
-
-> 一段 10 秒音乐视频的电影感提示词，场景设定在霓虹灯闪烁的暗调舞室中，包含持续的动态运镜。
-
-[<img src="https://media.goodcase.ai/media/poster/case-3ab1709b8447.jpg" width="600" alt="现代舞室音乐视频">](https://goodcase.ai/cases/case-3ab1709b8447?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @PixelAigc | **来源:** [原帖](https://x.com/PixelAigc/status/2078846287500439682) | **发布:** 2026-07-19 | **热度:** 2
-
-**复测：** 共 2 次
-
-- MiniMax H3 Max 768p · 2026-09-06 · ❌ 失败 (无评分)
-- MiniMax H3 768p · 2026-08-09 · ✅ 复现 (无评分) · [产物](https://media.goodcase.ai/retests/case-3ab1709b8447/video-minimax-h3-768p-20260809-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（19 行，点开展开）</b></summary>
-
-```
-生成视频：一部电影般的 10 秒音乐视频，拍摄于一个黑暗的现代舞蹈工作室，带有光滑的灰色反光地板、黑色墙壁和水平霓虹灯管。连续的动态摄像机运动，主要为中景和特写，绝不拉得太宽。女主角始终在移动，没有冻结或静态姿势。
-
-主要角色：20岁年轻东亚女性，凌乱的中长波浪黑发，前额刘海部分遮住脸庞，冷白皮，黑色眼睛，丰满光泽的嘴唇。她穿着白色真丝吊带连衣裙。她全程在唱歌，唇部同步清晰精确，嘴巴积极动作，强烈的感情表达。
-
-歌词：“ねえ、君は名前の入った箱をしまっているんだね / ベッド脇の引き出しの中に / ポラロイド写真やチケットの半券を / 赤いものの下に詰め込んで / 君はただ一つだけを持っていくんじゃなくて / 最後の残り火のすべてをさらっていく / そして、それぞれの秘められた心に / 小さな指の跡を残していくんだ”。
-
-0-2s：紧凑的中近景。她上身向后倾斜，头部侧倾，热情地唱歌，唇部同步强烈，头发垂落到脸上，身体弓起，一只手滑过胸膛。
-
-2-4s：摄像机缓慢推进并环绕。她从深弓姿势中恢复，躯干仍向前弯曲，双手放在大腿上，抬起头直视摄像机，同时以激进的唇部同步唱歌。三位外貌不同的男舞者（不同种族、发型和体型），穿着黑色背心和黑色宽松裤，已经靠近她周围，以低张力的姿势与她一同移动。另外两个男舞者在画面边缘可见，正在接近。
-
-4-6s：中近景。她向下蹲低，身体仍持续运动，头发摆动，激烈地唱歌，嘴巴动作清晰，头部锐利转动，眼睛锁定摄像机。男舞者保持靠近，他们的手在共同移动时轻轻触碰她。
-
-6-8s：中景，伴随缓慢的摄像机漂移。精确的五位外貌完全不同的男舞者，全都穿着黑色背心和黑色宽松裤，在地板上以密集交织的阵型紧紧包围她。她位于中心，身体仍在移动，上身上升和转移，以强烈的唇部同步唱歌。五位男舞者都与她微妙地移动，从不静态。男舞者绝不完全遮挡她的身体。
-
-8-10s：动态中景。五位多样化的男舞者将她举到空中，进入一个有力的深后弯姿势。她的身体完全伸展并弓起，头部向后甩，仍以清晰的唇部同步唱歌。他们托举着她，轻轻地随着节拍上下摇动。摄像机从她弓起身体的清晰侧视图开始，平滑过渡到她脸部的正面视图。结尾时，他们平滑地将她降落到脚上；她落地后立即继续唱歌，五位男舞者保持低姿势围绕在她周围。男舞者绝不完全遮挡她。
-
-高端时尚舞蹈能量，汗湿的皮肤，锐利的时机，女主角连续流畅的运动，每一帧都优先确保准确的唇部同步。
-
-规则：无手部变形，无身体扭曲，干净稳定的解剖结构，手指和手部在整个视频中保持一致和自然。，16:9
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-3ab1709b8447?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 写实风格中国辣条商业广告
-
-> 一个旨在利用特定图像参考来保持模特和场景一致性，从而创作专业零食广告的提示词。
-
-[<img src="https://media.goodcase.ai/media/poster/case-571927740e2f.jpg" width="600" alt="写实风格中国辣条商业广告">](https://goodcase.ai/cases/case-571927740e2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @kentdhani | **来源:** [原帖](https://x.com/kentdhani/status/2080945278392406294) | **发布:** 2026-07-25 | **热度:** 1
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a 15-second photorealistic Chinese latiao commercial using @image1 only as a visual reference for the adult female model, study room, snack package, rooftop gathering, food appearance, and scene progression. Convert it into continuous full-screen live-action footage. Do not reproduce the storyboard grid, numbers, timecodes, headings, captions, borders, or graphic overlays.
-
-A young Chinese woman studies alone late at night in a cozy bedroom. She looks tired, then notices a red-and-white package of latiao beside her books. Her expression brightens as she picks it up and says in Mandarin:
-
-「差点忘了，还有这个！」
-
-Show a premium macro shot of her opening the package, revealing glossy orange-red spicy snack sticks coated with chili oil, sesame, and subtle chili flakes. She takes one natural bite and says:
-
-「又香又辣，越嚼越带劲！」
-
-Her mood becomes brighter as she continues organizing her notes. Transition to a city rooftop at sunset, where she shares the latiao with four clearly adult Chinese friends. She says:
-
-「好吃的，当然要一起分享！」
-
-The friends bring their snack sticks together like a playful toast and say:
-
-「辣得开心！」
-
-End with a cinematic macro shot of the glossy latiao arranged on a black plate, followed by a premium product hero shot of the red-and-white package beside the snack. Final Mandarin narration:
-
-「辣得对味，快乐加倍。」
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-571927740e2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)

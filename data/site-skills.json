@@ -284,11 +284,11 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 92,
-      "creatorCount": 62,
+      "caseCount": 93,
+      "creatorCount": 63,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
-      "cover": "https://media.goodcase.ai/cases/6fd55edc6509.webp"
+      "cover": "https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261020/6ad4b41e000000000c009966/poster-cover.webp"
     },
     {
       "slug": "epic-fantasy-scifi-spectacle-by-1r2e570",
@@ -404,11 +404,31 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 87,
-      "creatorCount": 62,
+      "caseCount": 89,
+      "creatorCount": 63,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
+    },
+    {
+      "slug": "action-continuity-choreography-by-18paelt",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "itsSaira_1 · Action continuity choreography",
+        "zh": "itsSaira_1 · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 5 published cases by itsSaira_1.",
+        "zh": "从 itsSaira_1 的 5 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "itsSaira_1",
+      "caseCount": 5,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-18paelt",
+      "cover": "https://media.goodcase.ai/cases/5c410994d4f4.jpg"
     },
     {
       "slug": "action-continuity-choreography-by-15zo1bq",
@@ -429,26 +449,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq",
       "cover": "https://media.goodcase.ai/cases/51dbdca51c11.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-18paelt",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "itsSaira_1 · Action continuity choreography",
-        "zh": "itsSaira_1 · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 4 published cases by itsSaira_1.",
-        "zh": "从 itsSaira_1 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "itsSaira_1",
-      "caseCount": 4,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-18paelt",
-      "cover": "https://media.goodcase.ai/cases/6304957c914f.jpg"
     },
     {
       "slug": "action-continuity-choreography-by-1picsey",
@@ -567,7 +567,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 71,
+      "caseCount": 72,
       "creatorCount": 46,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
@@ -1159,11 +1159,31 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 28,
-      "creatorCount": 25,
+      "caseCount": 29,
+      "creatorCount": 26,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg"
+    },
+    {
+      "slug": "vehicles-at-speed",
+      "baseSlug": "vehicles-at-speed",
+      "kind": "shared",
+      "title": {
+        "en": "Cars and vehicles at speed",
+        "zh": "汽车与载具速度片"
+      },
+      "description": {
+        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
+        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 26,
+      "creatorCount": 18,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
+      "url": "https://goodcase.ai/skills/vehicles-at-speed",
+      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
     {
       "slug": "3d-cartoon-character-short",
@@ -1204,26 +1224,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf",
       "cover": "https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-4baf2c6b5a8c.jpg"
-    },
-    {
-      "slug": "vehicles-at-speed",
-      "baseSlug": "vehicles-at-speed",
-      "kind": "shared",
-      "title": {
-        "en": "Cars and vehicles at speed",
-        "zh": "汽车与载具速度片"
-      },
-      "description": {
-        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
-        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 24,
-      "creatorCount": 17,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
-      "url": "https://goodcase.ai/skills/vehicles-at-speed",
-      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
     {
       "slug": "cinematic-drama-scene",

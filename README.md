@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library.** 886 cases checked against their original posts, 495 cross-model retests, 27 reusable templates, and 80 installable AI-video Skills. The case library draws from goodcase.ai's 1885 verified AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
+**Verified Seedance 2.5 / 2.0 prompt library.** 894 cases checked against their original posts, 495 cross-model retests, 27 reusable templates, and 80 installable AI-video Skills. The case library draws from goodcase.ai's 1885 verified AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates-by-category) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#-skills) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -38,7 +38,7 @@ New to AI video? Follow these five steps and you will have your own clip. Nothin
 | 4 | Send it to any AI chat (ChatGPT, Claude, Gemini) along with your reference images. You get back a finished prompt. |
 | 5 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If it looks off, read the template's pitfalls and re-run. |
 
-**Templates or Skills?** Templates are distilled from 886 verified cases. Skills can apply those structures or guide other parts of production.
+**Templates or Skills?** Templates are distilled from 894 verified cases. Skills can apply those structures or guide other parts of production.
 
 |  | [Prompt templates](#-prompt-templates-by-category) | [Skills](#-skills) |
 | --- | --- | --- |
@@ -276,10 +276,10 @@ Every run costs real inference money: over US$300 across 495 runs so far, at lis
 
 ## 🎬 All Prompts
 
-All 886 cases, with full prompts, live in the gallery under `docs/` (sharded so GitHub renders every page). Start from the [gallery index](./docs/gallery.md), or jump to a version:
+All 894 cases, with full prompts, live in the gallery under `docs/` (sharded so GitHub renders every page). Start from the [gallery index](./docs/gallery.md), or jump to a version:
 
-- Seedance 2.5 - 593 cases: [Part 1 (cases 1–85)](./docs/gallery-seedance-2-5-part-1.md) · [Part 2 (cases 86–162)](./docs/gallery-seedance-2-5-part-2.md) · [Part 3 (cases 163–259)](./docs/gallery-seedance-2-5-part-3.md) · [Part 4 (cases 260–354)](./docs/gallery-seedance-2-5-part-4.md) · [Part 5 (cases 355–452)](./docs/gallery-seedance-2-5-part-5.md) · [Part 6 (cases 453–533)](./docs/gallery-seedance-2-5-part-6.md) · [Part 7 (cases 534–593)](./docs/gallery-seedance-2-5-part-7.md).
-- Seedance 2.0 - 293 cases: [Part 1 (cases 1–89)](./docs/gallery-seedance-2-0-part-1.md) · [Part 2 (cases 90–193)](./docs/gallery-seedance-2-0-part-2.md) · [Part 3 (cases 194–276)](./docs/gallery-seedance-2-0-part-3.md) · [Part 4 (cases 277–293)](./docs/gallery-seedance-2-0-part-4.md).
+- Seedance 2.5 - 599 cases: [Part 1 (cases 1–86)](./docs/gallery-seedance-2-5-part-1.md) · [Part 2 (cases 87–162)](./docs/gallery-seedance-2-5-part-2.md) · [Part 3 (cases 163–258)](./docs/gallery-seedance-2-5-part-3.md) · [Part 4 (cases 259–355)](./docs/gallery-seedance-2-5-part-4.md) · [Part 5 (cases 356–449)](./docs/gallery-seedance-2-5-part-5.md) · [Part 6 (cases 450–532)](./docs/gallery-seedance-2-5-part-6.md) · [Part 7 (cases 533–599)](./docs/gallery-seedance-2-5-part-7.md).
+- Seedance 2.0 - 295 cases: [Part 1 (cases 1–89)](./docs/gallery-seedance-2-0-part-1.md) · [Part 2 (cases 90–192)](./docs/gallery-seedance-2-0-part-2.md) · [Part 3 (cases 193–278)](./docs/gallery-seedance-2-0-part-3.md) · [Part 4 (cases 279–295)](./docs/gallery-seedance-2-0-part-4.md).
 
 ## 🌐 Browse on goodcase.ai
 
@@ -301,13 +301,13 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 
 | Metric                      | Value                     |
 | --------------------------- | ------------------------- |
-| Seedance cases in this repo | 886                       |
-| Seedance 2.5                | 593                       |
-| Seedance 2.0                | 293                       |
-| Unique authors              | 201                       |
+| Seedance cases in this repo | 894                       |
+| Seedance 2.5                | 599                       |
+| Seedance 2.0                | 295                       |
+| Unique authors              | 202                       |
 | Re-run on other models      | 483 cases / 495 runs      |
 | Stability score (measured)  | 478 cases / avg 78.0      |
-| Last updated                | 2026-10-21                |
+| Last updated                | 2026-10-22                |
 | goodcase.ai, all categories | 1885 cases / 460 creators |
 | goodcase.ai, AI video       | 1111 cases                |
 
