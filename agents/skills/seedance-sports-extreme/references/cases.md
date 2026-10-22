@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seedance 2.5 Dance Clip Real Enough to Fool You
 
-- Seedance 2.5 · creator: @johnAGI168 · heat: 92 · stability: 51
+- Seedance 2.5 · creator: @johnAGI168 · heat: 93 · stability: 51
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-269d1fc95820) · [finished media](https://media.goodcase.ai/media/video/seedance-269d1fc95820.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg) · [original source](https://x.com/johnAGI168/status/2095025524586193105)
 - Summary: 不会有人认为这是真的吧？😄 Seedance 2.5 也过于逼真了啊🫠连影子都那么真实 上传自己的图片，加上下面的提示词，你也能这么跳😂 Seedance 2.5 prompt 👇 Duration: 10秒 Aspect rati
 
@@ -247,7 +247,7 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 
 ## E7 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
-- Seedance 2.0 · creator: @aiwithaly · heat: 52 · stability: 79
+- Seedance 2.0 · creator: @aiwithaly · heat: 51 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
 - Summary: A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
 
@@ -263,7 +263,7 @@ Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female ride
 
 ## E8 · Over-Water Human Wall Crab Squat Challenge
 
-- Seedance 2.5 · creator: @johnAGI168 · heat: 50
+- Seedance 2.5 · creator: @johnAGI168 · heat: 49
 - Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36) · [finished media](https://media.goodcase.ai/cases/e77dd4feeff5.mp4) · [poster](https://media.goodcase.ai/cases/41f55c86bd5d.jpg) · [original source](https://x.com/johnAGI168/status/2092536240436363328)
 - Summary: 最近这个螃蟹蹲也是挺火的🔥咱也整一个📺 还是来源日本老哥丰富多彩的玩法😂 只需上传一张自己图片输入下面提示词即可生成同款视频🎬 Seedance 2.5 prompt 👇 SEEDANCE 2.5｜水上人形墙挑战 【风格】真人水上
 

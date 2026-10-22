@@ -15,20 +15,20 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 102 | 11 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 93 | 5 |
-| [Action continuity choreography](#action-continuity-choreography) | 89 | 7 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 94 | 5 |
+| [Action continuity choreography](#action-continuity-choreography) | 91 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 4 |
-| [Cinematic travel montage](#travel-city-walk) | 65 | 4 |
+| [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 59 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 58 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
+| [Twist-ending comedy skit](#twist-comedy-skit) | 38 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
-| [Twist-ending comedy skit](#twist-comedy-skit) | 37 | 1 |
 | [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 29 | 0 |
-| [Cars and vehicles at speed](#vehicles-at-speed) | 26 | 0 |
+| [Cars and vehicles at speed](#vehicles-at-speed) | 27 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 25 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-93 cases from 63 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+94 cases from 64 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-89 cases from 63 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+91 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -129,7 +129,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-65 cases from 42 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+66 cases from 42 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -137,7 +137,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 | Creator | Method | Cases | Install | Page |
 | --- | --- | --- | --- | --- |
-| CaliraVal | Cinematic travel montage | 5 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| CaliraVal | Cinematic travel montage | 6 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
@@ -222,6 +222,22 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 No creator methods yet.
 
+<a id="twist-comedy-skit"></a>
+
+### Twist-ending comedy skit
+
+> Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
+
+38 cases from 28 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
+```
+
+| Creator | Method | Cases | Install | Page |
+| --- | --- | --- | --- | --- |
+| Ciri_ai | Twist-ending comedy skit | 4 | `npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="horror-suspense-short"></a>
 
 ### Horror and suspense short
@@ -239,22 +255,6 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | doctorwasif | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | AIwithSynthia | Horror and suspense short | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | Horror and suspense short | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="twist-comedy-skit"></a>
-
-### Twist-ending comedy skit
-
-> Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
-
-37 cases from 27 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
-```
-
-| Creator | Method | Cases | Install | Page |
-| --- | --- | --- | --- | --- |
-| Ciri_ai | Twist-ending comedy skit | 4 | `npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="food-asmr"></a>
 
@@ -290,7 +290,7 @@ No creator methods yet.
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-26 cases from 18 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+27 cases from 19 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed

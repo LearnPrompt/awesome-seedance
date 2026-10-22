@@ -1,10 +1,81 @@
-# Seedance 2.5 — Full Gallery (Part 2/7)
+# Seedance 2.5 — Full Gallery (Part 2/8)
 
-All 599 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 607 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 87–162 of 599.
+This page: cases 87–162 of 607.
 
-← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md)
+← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md)
+
+### Coffee and Breakfast Mishaps in a Sunlit Kitchen
+
+> Cozy Sunrise Breakfast Vlog on @makeugc Seedance 2.5 Prompt Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, …
+
+[<img src="https://media.goodcase.ai/cases/1f63ecf6f0b1.jpg" width="600" alt="Coffee and Breakfast Mishaps in a Sunlit Kitchen">](https://goodcase.ai/cases/seedance-2-5-cozy-sunrise-breakfast-vlog-on-e4403a512028?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2109259050726920221) | **Published:** 2026-10-11 | **Heat:** 84
+
+<details>
+<summary><b>Full prompt (53 lines, click to expand)</b></summary>
+
+```
+Cozy Sunrise Breakfast Vlog on @makeugc 
+
+Seedance 2.5
+
+Prompt
+
+Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic Southeast Asian/Korean woman. No changes in appearance between shots.
+
+Scene: A cozy apartment kitchen at sunrise, wooden countertops, small window overlooking a quiet neighborhood, ceramic mugs, fresh fruit, bread, eggs, and a little potted plant. Warm golden sunlight enters through the window. Peaceful, intimate morning atmosphere.
+
+Style: RAW HANDHELD REALISM, early-2000s home-video aesthetic, casual camera sway, micro-shakes, frequent reframing, natural autofocus hunting, imperfect framing, occasional motion blur, slightly soft image quality, realistic skin texture, visible pores, natural facial expressions. Candid, spontaneous, unposed feeling. Camera operated casually by a friend, with occasional direct-to-camera interaction.
+
+Timeline & Dialogues
+
+00:00–00:04 — Sleepy Morning
+She enters the kitchen, yawning slightly, rubbing her eyes, and opening the curtains. Golden sunlight fills the room.
+
+Dialogue (sleepy, softly laughing): "Good morning... I seriously need coffee."
+00:04–00:08 — Making Coffee
+She scoops coffee into a mug, pours hot water, and stirs slowly. The camera moves closer to capture the steam.
+Dialogue (playful): "Okay, first things first. Coffee before anything else."
+
+00:08–00:12 — Breakfast Preparation
+She cracks an egg into a frying pan, accidentally drops a tiny piece of shell, and laughs while removing it.
+Dialogue (laughing naturally): "Oh my God... I'm such a professional chef."
+
+00:12–00:16 — Toast Disaster
+She checks her toast, realizes one side is slightly burnt, and holds it toward the camera with a disappointed expression.
+
+Dialogue (sarcastically): "Wow. Five-star breakfast, everyone."
+00:16–00:21 — Preparing the Plate
+She arranges scrambled eggs, toast, and sliced strawberries on a small ceramic plate. She steals a strawberry and eats it while glancing mischievously at the camera.
+Dialogue (cheerful): "Actually... this looks pretty good!"
+
+00:21–00:25 — First Bite
+
+She sits beside the window, takes a bite of toast, chews naturally, and nods with a satisfied smile. The handheld camera drifts slightly out of focus before recovering.
+Dialogue (after swallowing): "Mmm. Okay, that's better than I expected."
+
+00:25–00:30 — Funny Ending
+
+She lifts her coffee mug toward the camera, takes a sip, then immediately reacts because it's too hot. She laughs and gently puts the mug down.
+Dialogue (laughing): "Ah! Too hot! Okay... good morning to me."
+
+The camera shakes slightly as the person filming laughs. Natural abrupt cut.
+
+Camera & Audio
+Camera: Handheld consumer MiniDV camcorder, imperfect zooms, spontaneous close-ups, occasional cropped headroom, natural exposure fluctuations, authentic home-video texture. No cinematic camera movement, no beauty filters, no artificial skin smoothing.
+
+Audio: Natural kitchen ambience, birds outside, frying sounds, ceramic dishes, coffee stirring, soft footsteps, natural breathing, and clearly audible conversational dialogue. No background music, subtitles, or voiceover.
+Dialogue delivery: Casual American-accented English, spontaneous delivery, natural pauses, little laughs, subtle changes in tone, realistic lip synchronization. She speaks only during the assigned moments, with enough time for each sentence.
+
+Output: 30 seconds, 16:9 landscape, photorealistic, continuous character and outfit consistency, natural human motion, realistic hand-object interactions, believable everyday atmosphere.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-cozy-sunrise-breakfast-vlog-on-e4403a512028?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard
 
@@ -1359,6 +1430,75 @@ Cut exactly on impact. Preserve across the cut: leg extension, torso rotation, b
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-bedroom-chaos-turns-into-midnight-confidence-with-a-seamless-transition-that-hi-641d5d0012fa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Finding Old Earphones While Tidying the Kitchen
+
+> The goal isn’t to make AI look perfect. It’s to make you forget you’re watching AI in the first place. Seedance 2.5 on @DomoAI_ Prompt A young Korean woman @[Im…
+
+[<img src="https://media.goodcase.ai/cases/fd35d97ac629.jpg" width="600" alt="Finding Old Earphones While Tidying the Kitchen">](https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2098681428280279512) | **Published:** 2026-09-12 | **Heat:** 83
+
+**Stability:** 78/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.8) · [output](https://media.goodcase.ai/retests/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (47 lines, click to expand)</b></summary>
+
+```
+The goal isn’t to make AI look perfect. It’s to make you forget you’re watching AI in the first place.
+
+Seedance 2.5 on @DomoAI_ 
+
+Prompt
+
+A young Korean woman @[Image 1](image_1) is casually organizing her small apartment kitchen and dining area alone. (Image) provides only her face and hairstyle; She is the only person who appears throughout. @[Image 1](image_1)
+The environment is a compact, lived-in apartment kitchen connected to a small dining space. The room feels naturally cluttered but comfortable: a few grocery bags near the counter, dishes drying beside the sink, a half-open cabinet, a small wooden dining table with a ceramic mug and unopened mail, a dish towel hanging unevenly from the oven handle, a refrigerator covered with a few small magnets and handwritten notes, and a couple of reusable shopping bags resting near the doorway. Warm orange evening sunlight enters through partially open blinds, creating realistic patches of light across the floor and countertops.
+Her behavior is quiet, casual, and completely unperformed. She is simply doing ordinary household chores when she unexpectedly notices something behind the refrigerator.
+The sequence should feel like an authentic personal phone recording rather than a professionally produced commercial or cinematic scene.
+SHOT 1 — 0–2s:
+She wipes down the kitchen counter with a slightly damp cloth while casually moving a few everyday objects out of the way. The camera is handheld from a slightly low side angle, as if someone casually holding a phone while standing nearby. The framing is imperfect and slightly tilted. She quietly hums under her breath while cleaning.
+Audio: cloth rubbing against the countertop, faint refrigerator hum, distant neighborhood ambience.
+SHOT 2 — 2–4s:
+As she reaches toward the floor to pick up a reusable shopping bag, she notices something small wedged behind the refrigerator. She pauses and leans down to see it better. The camera quickly tilts downward and moves closer with a natural handheld wobble.
+She quietly says:
+"어? 저게 뭐야?"
+("Huh? What's that?")
+Audio remains completely live and imperfect.
+SHOT 3 — 4–6s:
+She crouches beside the refrigerator and reaches one hand into the narrow gap behind it. She struggles slightly to reach the object, shifting her body and pulling the shopping bag out of the way. Her sweatshirt naturally wrinkles and moves with her body.
+The camera moves closer from above her shoulder, briefly losing focus before refocusing on her hand.
+She murmurs:
+"잠깐만…"
+("Wait a second…")
+SHOT 4 — 6–8s:
+She finally manages to pull the object free. It is an old pair of wired earphones tangled into a small knot, clearly something she had forgotten months ago. She holds them in front of her and looks genuinely confused for a moment.
+She turns the earphones over in her fingers, inspecting them naturally.
+She says softly:
+"이게 왜 여기 있어?"
+("Why is this here?")
+No exaggerated reaction.
+SHOT 5 — 8–10s:
+Close handheld shot from slightly below eye level. She suddenly recognizes the earphones and gives a small, genuine laugh. Her expression changes from confusion to amused realization.
+She says:
+"아… 예전에 쓰던 거네."
+("Ah… these are the ones I used to use.")
+The camera gently drifts closer, with realistic smartphone autofocus briefly shifting between her face and the earphones.
+SHOT 6 — 10–13s:
+She looks around the messy kitchen and realizes there are still several things left to organize. She gives a tiny tired sigh, places the old earphones on the dining table beside the mug, then picks up the cloth again.
+She quietly mutters with a faint smile:
+"정리할 게 왜 이렇게 많아…"
+("Why is there so much to clean up…")
+She immediately continues wiping the counter.
+SHOT 7 — 13–15s:
+The camera slowly backs away toward the entrance of the apartment, still handheld and slightly shaky. She continues casually cleaning the kitchen without acknowledging the camera. The warm evening sunlight remains visible through the blinds while the apartment feels naturally quiet and lived-in.
+The final moment should feel completely ordinary, as though the recording simply happened to capture a tiny unexpected discovery during a normal evening.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Late-Night Oden Tasting in a Hotel Room
 
 > Have you ever tasted this broth? Nano Banana 2 + Seedance 2.5 on @DomoAI_ prompt Image1 : SHARON'S REAL FACE — sole sour
@@ -1688,75 +1828,6 @@ ABSOLUTE LOCKS: Exactly one hard cut at 27s. First 27 seconds completely continu
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Finding Old Earphones While Tidying the Kitchen
-
-> The goal isn’t to make AI look perfect. It’s to make you forget you’re watching AI in the first place. Seedance 2.5 on @DomoAI_ Prompt A young Korean woman @[Im…
-
-[<img src="https://media.goodcase.ai/cases/fd35d97ac629.jpg" width="600" alt="Finding Old Earphones While Tidying the Kitchen">](https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2098681428280279512) | **Published:** 2026-09-12 | **Heat:** 82
-
-**Stability:** 78/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.8) · [output](https://media.goodcase.ai/retests/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (47 lines, click to expand)</b></summary>
-
-```
-The goal isn’t to make AI look perfect. It’s to make you forget you’re watching AI in the first place.
-
-Seedance 2.5 on @DomoAI_ 
-
-Prompt
-
-A young Korean woman @[Image 1](image_1) is casually organizing her small apartment kitchen and dining area alone. (Image) provides only her face and hairstyle; She is the only person who appears throughout. @[Image 1](image_1)
-The environment is a compact, lived-in apartment kitchen connected to a small dining space. The room feels naturally cluttered but comfortable: a few grocery bags near the counter, dishes drying beside the sink, a half-open cabinet, a small wooden dining table with a ceramic mug and unopened mail, a dish towel hanging unevenly from the oven handle, a refrigerator covered with a few small magnets and handwritten notes, and a couple of reusable shopping bags resting near the doorway. Warm orange evening sunlight enters through partially open blinds, creating realistic patches of light across the floor and countertops.
-Her behavior is quiet, casual, and completely unperformed. She is simply doing ordinary household chores when she unexpectedly notices something behind the refrigerator.
-The sequence should feel like an authentic personal phone recording rather than a professionally produced commercial or cinematic scene.
-SHOT 1 — 0–2s:
-She wipes down the kitchen counter with a slightly damp cloth while casually moving a few everyday objects out of the way. The camera is handheld from a slightly low side angle, as if someone casually holding a phone while standing nearby. The framing is imperfect and slightly tilted. She quietly hums under her breath while cleaning.
-Audio: cloth rubbing against the countertop, faint refrigerator hum, distant neighborhood ambience.
-SHOT 2 — 2–4s:
-As she reaches toward the floor to pick up a reusable shopping bag, she notices something small wedged behind the refrigerator. She pauses and leans down to see it better. The camera quickly tilts downward and moves closer with a natural handheld wobble.
-She quietly says:
-"어? 저게 뭐야?"
-("Huh? What's that?")
-Audio remains completely live and imperfect.
-SHOT 3 — 4–6s:
-She crouches beside the refrigerator and reaches one hand into the narrow gap behind it. She struggles slightly to reach the object, shifting her body and pulling the shopping bag out of the way. Her sweatshirt naturally wrinkles and moves with her body.
-The camera moves closer from above her shoulder, briefly losing focus before refocusing on her hand.
-She murmurs:
-"잠깐만…"
-("Wait a second…")
-SHOT 4 — 6–8s:
-She finally manages to pull the object free. It is an old pair of wired earphones tangled into a small knot, clearly something she had forgotten months ago. She holds them in front of her and looks genuinely confused for a moment.
-She turns the earphones over in her fingers, inspecting them naturally.
-She says softly:
-"이게 왜 여기 있어?"
-("Why is this here?")
-No exaggerated reaction.
-SHOT 5 — 8–10s:
-Close handheld shot from slightly below eye level. She suddenly recognizes the earphones and gives a small, genuine laugh. Her expression changes from confusion to amused realization.
-She says:
-"아… 예전에 쓰던 거네."
-("Ah… these are the ones I used to use.")
-The camera gently drifts closer, with realistic smartphone autofocus briefly shifting between her face and the earphones.
-SHOT 6 — 10–13s:
-She looks around the messy kitchen and realizes there are still several things left to organize. She gives a tiny tired sigh, places the old earphones on the dining table beside the mug, then picks up the cloth again.
-She quietly mutters with a faint smile:
-"정리할 게 왜 이렇게 많아…"
-("Why is there so much to clean up…")
-She immediately continues wiping the counter.
-SHOT 7 — 13–15s:
-The camera slowly backs away toward the entrance of the apartment, still handheld and slightly shaky. She continues casually cleaning the kitchen without acknowledging the camera. The warm evening sunlight remains visible through the blinds while the apartment feels naturally quiet and lived-in.
-The final moment should feel completely ordinary, as though the recording simply happened to capture a tiny unexpected discovery during a normal evening.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-the-goal-isn-t-to-make-ai-look-perfect-1afdf422cbe7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### POV: A Lazy Summer Morning With Him in Seoul
 
@@ -2115,6 +2186,337 @@ No character morphing, extra fingers, duplicated objects, inconsistent clothing,
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Yoriichi vs. the Hundred Demons
+
+> Once the Infinity Castle BGM kicks in, it is Yoriichi vs. the Hundred Demons, pure fighting thrills. Seedance 2.5 prompt. Basic setup: 30 seconds, 16:9, dark fantasy painted-animation style with rough thick brushwork, hard-edged light and shadow, simplified color blocks and clear silhouettes...
+
+[<img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="600" alt="Yoriichi vs. the Hundred Demons">](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Chengzilhy | **Source:** [Original](https://x.com/Chengzilhy/status/2102586866302345657) | **Published:** 2026-09-23 | **Heat:** 81
+
+<details>
+<summary><b>Full prompt (313 lines, click to expand)</b></summary>
+
+```
+无限城 BGM 一响，
+缘一 VS 百鬼  ⚔️💥
+纯粹的战斗爽感！
+
+Seedance 2.5 
+Prompt 🔽
+
+【基础设定】
+
+30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。
+
+人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。
+
+高速运动中保持人物、刀锋、命中位置清楚。
+
+头发、衣摆、碎木、灰烬具有真实惯性与重量。
+
+整体色调以墨黑、灰青、旧木褐为主，人物暗红服装作为主要识别色。
+
+【参考图绑定】
+图片1= 战场建筑与空间结构参考。
+仅采用悬空木平台、栏杆、回廊、阶梯、大殿及上下交错建筑关系。
+图片2 = 敌群外观参考。
+提取不同体型、皮肤、眼睛、獠牙、长爪、破旧衣物与异化轮廓，扩展为高密度敌潮。
+图片3= 主角唯一身份与服装参考。
+锁定脸型、长发、暗红外衣、敞领、腰带、宽裤、绑腿与鞋履。
+
+【角色规则】
+
+全片始终只有一名主角。
+始终使用同一把实体刀，刀鞘固定腰侧。
+
+右手主握，重斩时左手辅助同一刀柄。
+
+人物面部克制，视线始终寻找下一处敌阵缺口。
+
+所有攻击必须由真实身体动作驱动：
+
+蹬地 → 转髋 → 挥刀 → 回腕 → 连续落步。
+
+高速移动过程中人物本体始终连续可追踪。
+
+禁止瞬移。
+
+禁止实体分身。
+
+禁止第二把刀。
+
+【敌群规则】
+
+敌人数百只。
+
+中央平台、两侧回廊、远端阶梯与建筑阴影始终存在大量敌人。
+
+前景使用肩背、头部、爪子压住画面边缘。
+
+中景多排敌人包围人物移动路线。
+
+背景敌群一直延伸至建筑深处。
+
+敌人必须持续：
+
+扑入、夹击、绕侧、封路、补位。
+
+人物移动到哪里，新的敌群就从前方与侧翼压入。
+
+人物经过之后才允许留下局部缺口。
+
+24秒之前禁止大面积清空战场。
+
+【核心战斗逻辑】
+
+模式：
+
+流光割草 + 极限连招密度。
+
+全片以：
+
+高速穿群
+移动旋斩
+横扫
+反手斩
+斜劈
+短跃下劈
+
+作为主要动作。
+
+目标约26组短连招。
+
+每组动作必须：
+
+起手 → 接招 → 收招，无缝连接。
+
+上一刀的收刀方向，直接成为下一组攻击的起始方向。
+
+禁止攻击后站住重新摆姿势。
+
+禁止三刀打一组然后停顿。
+
+人物始终边打边移动。
+【空间规则】
+主平台远端阶梯 = 北。
+入口 = 南。
+左右两侧分别为东、西。
+人物移动路线：
+
+南部
+→ 东侧
+→ 中央
+→ 西侧
+→ 北部。
+
+摄影机始终朝向尚未清除的敌群推进。
+
+人物身前必须持续存在新的敌阵。
+
+身后逐渐形成已经战斗过的路径。
+
+空间、建筑地标、人物方向必须保持连续。
+
+【镜头结构】
+
+全片10个镜头段。
+
+每段约3秒。
+
+Shot 1｜0–3s
+
+Wide，高位斜俯视追踪。
+
+人物直接高速切入右侧敌群。
+
+突入横斩
+→ 反手回切
+→ 移动回旋
+→ 再次斜切进入下一排。
+
+没有登场。
+
+没有拔刀。
+
+没有蓄力。
+第一秒直接进入战斗。
+Shot 2｜3–6s
+FS，贴地侧前跟拍。
+人物沿东侧战区高速向北推进。
+
+连续横扫、反手斩、斜劈。
+
+敌人从正面和侧面不断补入。
+
+摄影机倒退跟拍，同时保留前方大量敌群。
+
+Shot 3｜6–9s
+
+Wide，升高斜俯视追踪。
+
+人物从东侧切向平台中央。
+
+连续三组移动旋斩。
+
+每一次旋转都改变人物所在位置。
+
+禁止原地转圈。
+
+镜头展示人物身后逐渐形成的战斗路线。
+
+Shot 4｜9–12s
+
+FS，低位跟进。
+人物进入中央最密集敌阵。
+横扫
+→ 反撩
+→ 斜切
+→ 上挑
+→ 踏进压斩
+→ 短跃下劈。
+上层回廊与地面敌人同时压入。
+
+人物必须同时应对上下两个方向。
+
+Shot 5｜12–15s
+
+FS，侧面短弧环绕。
+
+人物折向西侧。
+
+移动旋斩
+→ 短跃
+→ 下劈
+→ 落地反手横扫。
+
+完成后立即进入下一群敌人。
+
+禁止落地停顿。
+
+Shot 6｜15–18s
+
+Wide，斜俯视折返追踪。
+
+人物切进西侧敌阵后向北折返。
+
+连续横斩、反斩、回旋压斩。
+
+新的敌群从西侧回廊持续补入。
+
+北侧阶梯始终作为远处空间地标。
+
+Shot 7｜18–21s
+
+MS → FS。
+
+先短暂靠近人物。
+
+展示一次真实的近距离攻防：
+
+敌人双爪封路。
+
+人物低身闪开攻击，同时转髋反切。
+
+随后镜头立即拉开。
+
+继续展示范围穿群动作。
+
+禁止变成单挑。
+
+Shot 8｜21–24s
+
+Wide。
+人物进入北部中央区域。
+沿敌潮内部连续折线移动。
+斜切进入
+→ 回旋扫开
+→ 反手穿出
+→ 再改变方向。
+东西两侧残余敌群继续向中心补位。
+Shot 9｜24–27s
+
+FS → Wide。
+
+人物切入最后的大规模密集敌阵。
+
+横扫
+→ 反手斩
+→ 压斩
+→ 回旋
+→ 反撩
+→ 前冲斜劈。
+
+镜头逐渐拉开。
+
+明确展示人物已经打通的路线，与前方最后敌阵的位置。
+
+Shot 10｜27–30s
+
+FS → Wide。
+人物冲入北阶前最后一批敌人。
+27–28秒完成最后一组连续攻击。
+28秒后停止攻击。
+
+刀尖自然随收势垂下。
+
+镜头缓慢后拉。
+
+展示整个已经清理完成的平台。
+
+主角成为画面中唯一站立的人物。
+
+衣摆、长发、灰烬、碎屑继续自然运动。
+
+【摄影规则】
+
+摄影机必须跟随：
+
+人物移动路线
+攻击方向
+敌群变化
+空间地标。
+
+远景与全景负责展示敌潮规模。
+
+中近景只用于短暂展示身体动作与刀锋。
+
+禁止长期贴脸。
+
+禁止把范围战斗拍成逐个单挑。
+
+禁止依靠疯狂切镜制造速度。
+
+速度必须来自：
+
+人物移动
+敌群运动
+身体动作
+前景掠过
+摄影机追踪。
+
+【声音】
+
+No dialogue.
+
+No battle cries.
+
+No subtitles.
+
+No background music.
+
+保留：
+脚步声
+挥刀声
+撞击声
+木构破裂声
+环境空间回响。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Model and Fashion Items in Synchronized 360° Rotation
 
 > Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
@@ -2405,6 +2807,53 @@ No text, no subtitles, no logos, no watermark.
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Static-Awakened Girl Fights Back in a School Gym
+
+> Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
+
+[<img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="600" alt="Static-Awakened Girl Fights Back in a School Gym">](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2091388398153994395) | **Published:** 2026-08-23 | **Heat:** 81
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.4) · [output](https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (25 lines, click to expand)</b></summary>
+
+```
+30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
+
+SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
+
+00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
+
+03–06: He swings again.
+
+06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
+
+09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
+
+12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
+
+17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
+
+22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
+
+27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
+
+COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
+
+STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
+
+CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully
 
@@ -2736,337 +3185,6 @@ STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Yoriichi vs. the Hundred Demons
-
-> Once the Infinity Castle BGM kicks in, it is Yoriichi vs. the Hundred Demons, pure fighting thrills. Seedance 2.5 prompt. Basic setup: 30 seconds, 16:9, dark fantasy painted-animation style with rough thick brushwork, hard-edged light and shadow, simplified color blocks and clear silhouettes...
-
-[<img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="600" alt="Yoriichi vs. the Hundred Demons">](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Chengzilhy | **Source:** [Original](https://x.com/Chengzilhy/status/2102586866302345657) | **Published:** 2026-09-23 | **Heat:** 80
-
-<details>
-<summary><b>Full prompt (313 lines, click to expand)</b></summary>
-
-```
-无限城 BGM 一响，
-缘一 VS 百鬼  ⚔️💥
-纯粹的战斗爽感！
-
-Seedance 2.5 
-Prompt 🔽
-
-【基础设定】
-
-30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。
-
-人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。
-
-高速运动中保持人物、刀锋、命中位置清楚。
-
-头发、衣摆、碎木、灰烬具有真实惯性与重量。
-
-整体色调以墨黑、灰青、旧木褐为主，人物暗红服装作为主要识别色。
-
-【参考图绑定】
-图片1= 战场建筑与空间结构参考。
-仅采用悬空木平台、栏杆、回廊、阶梯、大殿及上下交错建筑关系。
-图片2 = 敌群外观参考。
-提取不同体型、皮肤、眼睛、獠牙、长爪、破旧衣物与异化轮廓，扩展为高密度敌潮。
-图片3= 主角唯一身份与服装参考。
-锁定脸型、长发、暗红外衣、敞领、腰带、宽裤、绑腿与鞋履。
-
-【角色规则】
-
-全片始终只有一名主角。
-始终使用同一把实体刀，刀鞘固定腰侧。
-
-右手主握，重斩时左手辅助同一刀柄。
-
-人物面部克制，视线始终寻找下一处敌阵缺口。
-
-所有攻击必须由真实身体动作驱动：
-
-蹬地 → 转髋 → 挥刀 → 回腕 → 连续落步。
-
-高速移动过程中人物本体始终连续可追踪。
-
-禁止瞬移。
-
-禁止实体分身。
-
-禁止第二把刀。
-
-【敌群规则】
-
-敌人数百只。
-
-中央平台、两侧回廊、远端阶梯与建筑阴影始终存在大量敌人。
-
-前景使用肩背、头部、爪子压住画面边缘。
-
-中景多排敌人包围人物移动路线。
-
-背景敌群一直延伸至建筑深处。
-
-敌人必须持续：
-
-扑入、夹击、绕侧、封路、补位。
-
-人物移动到哪里，新的敌群就从前方与侧翼压入。
-
-人物经过之后才允许留下局部缺口。
-
-24秒之前禁止大面积清空战场。
-
-【核心战斗逻辑】
-
-模式：
-
-流光割草 + 极限连招密度。
-
-全片以：
-
-高速穿群
-移动旋斩
-横扫
-反手斩
-斜劈
-短跃下劈
-
-作为主要动作。
-
-目标约26组短连招。
-
-每组动作必须：
-
-起手 → 接招 → 收招，无缝连接。
-
-上一刀的收刀方向，直接成为下一组攻击的起始方向。
-
-禁止攻击后站住重新摆姿势。
-
-禁止三刀打一组然后停顿。
-
-人物始终边打边移动。
-【空间规则】
-主平台远端阶梯 = 北。
-入口 = 南。
-左右两侧分别为东、西。
-人物移动路线：
-
-南部
-→ 东侧
-→ 中央
-→ 西侧
-→ 北部。
-
-摄影机始终朝向尚未清除的敌群推进。
-
-人物身前必须持续存在新的敌阵。
-
-身后逐渐形成已经战斗过的路径。
-
-空间、建筑地标、人物方向必须保持连续。
-
-【镜头结构】
-
-全片10个镜头段。
-
-每段约3秒。
-
-Shot 1｜0–3s
-
-Wide，高位斜俯视追踪。
-
-人物直接高速切入右侧敌群。
-
-突入横斩
-→ 反手回切
-→ 移动回旋
-→ 再次斜切进入下一排。
-
-没有登场。
-
-没有拔刀。
-
-没有蓄力。
-第一秒直接进入战斗。
-Shot 2｜3–6s
-FS，贴地侧前跟拍。
-人物沿东侧战区高速向北推进。
-
-连续横扫、反手斩、斜劈。
-
-敌人从正面和侧面不断补入。
-
-摄影机倒退跟拍，同时保留前方大量敌群。
-
-Shot 3｜6–9s
-
-Wide，升高斜俯视追踪。
-
-人物从东侧切向平台中央。
-
-连续三组移动旋斩。
-
-每一次旋转都改变人物所在位置。
-
-禁止原地转圈。
-
-镜头展示人物身后逐渐形成的战斗路线。
-
-Shot 4｜9–12s
-
-FS，低位跟进。
-人物进入中央最密集敌阵。
-横扫
-→ 反撩
-→ 斜切
-→ 上挑
-→ 踏进压斩
-→ 短跃下劈。
-上层回廊与地面敌人同时压入。
-
-人物必须同时应对上下两个方向。
-
-Shot 5｜12–15s
-
-FS，侧面短弧环绕。
-
-人物折向西侧。
-
-移动旋斩
-→ 短跃
-→ 下劈
-→ 落地反手横扫。
-
-完成后立即进入下一群敌人。
-
-禁止落地停顿。
-
-Shot 6｜15–18s
-
-Wide，斜俯视折返追踪。
-
-人物切进西侧敌阵后向北折返。
-
-连续横斩、反斩、回旋压斩。
-
-新的敌群从西侧回廊持续补入。
-
-北侧阶梯始终作为远处空间地标。
-
-Shot 7｜18–21s
-
-MS → FS。
-
-先短暂靠近人物。
-
-展示一次真实的近距离攻防：
-
-敌人双爪封路。
-
-人物低身闪开攻击，同时转髋反切。
-
-随后镜头立即拉开。
-
-继续展示范围穿群动作。
-
-禁止变成单挑。
-
-Shot 8｜21–24s
-
-Wide。
-人物进入北部中央区域。
-沿敌潮内部连续折线移动。
-斜切进入
-→ 回旋扫开
-→ 反手穿出
-→ 再改变方向。
-东西两侧残余敌群继续向中心补位。
-Shot 9｜24–27s
-
-FS → Wide。
-
-人物切入最后的大规模密集敌阵。
-
-横扫
-→ 反手斩
-→ 压斩
-→ 回旋
-→ 反撩
-→ 前冲斜劈。
-
-镜头逐渐拉开。
-
-明确展示人物已经打通的路线，与前方最后敌阵的位置。
-
-Shot 10｜27–30s
-
-FS → Wide。
-人物冲入北阶前最后一批敌人。
-27–28秒完成最后一组连续攻击。
-28秒后停止攻击。
-
-刀尖自然随收势垂下。
-
-镜头缓慢后拉。
-
-展示整个已经清理完成的平台。
-
-主角成为画面中唯一站立的人物。
-
-衣摆、长发、灰烬、碎屑继续自然运动。
-
-【摄影规则】
-
-摄影机必须跟随：
-
-人物移动路线
-攻击方向
-敌群变化
-空间地标。
-
-远景与全景负责展示敌潮规模。
-
-中近景只用于短暂展示身体动作与刀锋。
-
-禁止长期贴脸。
-
-禁止把范围战斗拍成逐个单挑。
-
-禁止依靠疯狂切镜制造速度。
-
-速度必须来自：
-
-人物移动
-敌群运动
-身体动作
-前景掠过
-摄影机追踪。
-
-【声音】
-
-No dialogue.
-
-No battle cries.
-
-No subtitles.
-
-No background music.
-
-保留：
-脚步声
-挥刀声
-撞击声
-木构破裂声
-环境空间回响。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Three Children Search for a Mysterious Station Beneath the Snow
 
 > A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
@@ -3123,53 +3241,6 @@ Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Static-Awakened Girl Fights Back in a School Gym
-
-> Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
-
-[<img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="600" alt="Static-Awakened Girl Fights Back in a School Gym">](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2091388398153994395) | **Published:** 2026-08-23 | **Heat:** 80
-
-**Stability:** 80/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.4) · [output](https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (25 lines, click to expand)</b></summary>
-
-```
-30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
-
-SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
-
-00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
-
-03–06: He swings again.
-
-06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
-
-09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
-
-12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
-
-17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
-
-22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
-
-27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
-
-COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
-
-STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
-
-CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
 
@@ -4721,6 +4792,20 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### White Supercar Soars Across Seoul’s River and Lands on a Rooftop
+
+> A futuristic supercar, a fearless driver, and an unbelievable ride through the city. When luxury meets imagination, anything becomes possible. Created on seedan…
+
+[<img src="https://media.goodcase.ai/cases/9c32b67ed90d.jpg" width="600" alt="White Supercar Soars Across Seoul’s River and Lands on a Rooftop">](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwithaayat | **Source:** [Original](https://x.com/aiwithaayat/status/2112025080335339907) | **Published:** 2026-10-19 | **Heat:** 75
+
+```
+Created a video, 30 second, featuring a futuristic white supercar driving through heavy traffic on a modern highway in Seoul during golden hour. The video begins with a wide aerial shot of multiple cars, buses, and trucks moving along a busy elevated road, with a beautiful city skyline in the background and warm sunlight reflecting off the vehicles. The camera slowly moves closer to a sleek, futuristic white sports car with sharp aerodynamic lines, a low-profile body, and an aggressive modern design. Inside the car, a beautiful young Korean woman with long, straight black hair is driving calmly, wearing an elegant cream-colored outfit. Capture her natural facial expressions, realistic skin texture, and focused eyes as she holds the steering wheel with confidence. Show cinematic close-up shots of her face through the side window and a reflection of her face in the rearview mirror, creating a luxurious automotive commercial atmosphere. The camera then cuts to a detailed rear view of the white supercar, highlighting its distinctive red LED taillight strip, sculpted rear bodywork, and futuristic exhaust design. Suddenly, the car accelerates powerfully, releasing thick white smoke from the rear tires as it performs a dramatic high-speed maneuver between the surrounding vehicles. Capture the tires spinning, smoke spreading across the highway, and nearby cars slowing down as the supercar surges forward. The camera follows the vehicle from behind and then switches to a wide cinematic side angle as the futuristic car launches into an impossible airborne leap above the highway, soaring over the river with the city skyline glowing in the background. Transition to a sophisticated glass-walled luxury café overlooking the river, where two elegantly dressed people sit across from each other at a table with coffee cups, reacting with surprise as the flying supercar passes outside the enormous windows. Show the white sports car soaring above the city buildings before revealing a rooftop helipad on a modern skyscraper. The car lands smoothly on the rooftop, creating a spectacular futuristic cinematic moment. End with a close-up of the vehicle parked against the panoramic city skyline, its scissor-style door opening upward as the female driver begins to step out. Maintain consistent car design, character identity, hairstyle, and clothing throughout every scene. Use photorealistic CGI, ultra-detailed automotive textures, realistic reflections, volumetric smoke, natural golden-hour lighting, smooth camera movements, dynamic drone shots, dramatic tracking shots, and premium luxury-car commercial cinematography. Use a cinematic 16:9 aspect ratio, 24 fps, realistic motion blur, high dynamic range, and seamless transitions between scenes. The overall mood should feel luxurious, futuristic, thrilling, and visually spectacular, with no unwanted text, subtitles, logos, watermarks, or character distortions.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Journey Through The Last Supper in Three Dimensions
 
 > What if you could see what Da Vinci NEVER painted? I went INSIDE The Last Supper using Seedance 2.5 in @FishCreativeHQ Prompt👇 upload the painting image as fir…
@@ -5292,114 +5377,5 @@ NEGATIVE: Cartoon, artificial CGI appearance, plastic skin, face changes, incons
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-crimson-flashpoint-48-seconds-16-9-12-shots-4-seconds-eaef000addde?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Zombie Outbreak on a Train
 
-> A complex shot-by-shot video storyboard prompt for a horror zombie outbreak aboard a train, focused on mutation detail and chaotic action.
-
-[<img src="https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg" width="600" alt="Zombie Outbreak on a Train">](https://goodcase.ai/cases/case-3b1796c66ab4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2094285140247896553) | **Published:** 2026-08-31 | **Heat:** 73
-
-**Stability:** 64/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 64) · [output](https://media.goodcase.ai/retests/case-3b1796c66ab4/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (43 lines, click to expand)</b></summary>
-
-```
-Shot 1 (0–1.2s): Character A, matching reference face/outfit, sits beside a passenger on a dim train, feverish, sweating, staring strangely at him.
-
-Shot 2 (1.2–2.4s): Close-up: her trembling hand, faint dark veins appearing, shallow unnatural breathing.
-
-Shot 3 (2.4–3.6s): Her head tilts unnaturally toward him, glassy unfocused eyes, tense profile close-up.
-
-Shot 4 (3.6–4.8s): She suddenly lunges and bites his forearm, teeth breaking skin, his face frozen in shock.
-
-Shot 5 (4.8–6s): Close-up of the wound as dark veins rapidly branch outward, skin blackening.
-
-Shot 6 (6–7.2s): Veins race toward his elbow; skin pales, sweat beads on his forehead.
-
-Shot 7 (7.2–8.5s): His eyes cloud milky white, pupils dilate, breathing becomes wet and ragged.
-
-Shot 8 (8.5–9.7s): His body stiffens and twitches; black veins spread across his neck and jaw.
-
-Shot 9 (9.7–11s): He throws his head back and screams inhumanly, face covered in black veins, slow motion.
-
-Shot 10 (11–12.2s): His head snaps forward; bloodshot empty eyes and slightly unhinged jaw reveal the completed transformation.
-
-Shot 11 (12.2–13.5s): He instantly lunges at another passenger and bites them, sudden violent impact.
-
-Shot 12 (13.5–14.8s): Wider shot: nearby passengers turn, confusion becoming horror.
-
-Shot 13 (14.8–16s): The bitten passenger stumbles back, clutching the wound as dark veins spread up the arm.
-
-Shot 14 (16–17.3s): Passengers rise in panic, grabbing bags and backing away, wide cinematic shot.
-
-Shot 15 (17.3–18.5s): The new victim convulses violently in the aisle as passengers recoil; overhead lights flicker.
-
-Shot 16 (18.5–19.7s): Eyes roll back, then open bloodshot and empty; jaw twitches—the second transformation complete.
-
-Shot 17 (19.7–21s): He lunges at the nearest passenger; screams erupt as the car descends into chaos, handheld camera.
-
-Shot 18 (21–22.5s): Passengers scramble over seats and luggage toward the exit, bags spilling everywhere.
-
-Shot 19 (22.5–24s): A group rushes toward the connecting door, looking back as infection spreads behind them.
-
-Shot 20 (24–25.5s): Door slams shut; survivors barricade it with luggage and cushions as infected hands pound from behind.
-
-Shot 21 (25.5–27.5s): Close-up through the glass: infected faces press against it as cracks spread, emergency lights pulsing.
-
-Shot 22 (27.5–30s): Survivors huddle against the far wall, breathing hard and staring at the shaking door as train lights streak outside, cinematic outbreak ending.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3b1796c66ab4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### The Tiny Chef’s Pancake Adventure
-
-> Concept: Tiny Chef, Giant Kitchen 👩‍🍳 Made using Seedance 2.5 Prompt : Subject A miniature hand-drawn 2D animated girl with curly black hair, a yellow apron, …
-
-[<img src="https://media.goodcase.ai/cases/17a2133f0f57.jpg" width="600" alt="The Tiny Chef’s Pancake Adventure">](https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-curly-black-hair-a-yellow-apron-e8eb28cbd332?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2105129836750786993) | **Published:** 2026-09-30 | **Heat:** 73
-
-<details>
-<summary><b>Full prompt (26 lines, click to expand)</b></summary>
-
-```
-Subject
-A miniature hand-drawn 2D animated girl with curly black hair, a yellow apron, red sneakers, and a tiny wooden spoon, cooking inside a realistic full-sized kitchen.
-
-Style
-Mixed-reality hybrid animation combining playful 2D hand-drawn doodle character art with a photorealistic live-action kitchen. Whimsical stop-motion physics, expressive line animation, exaggerated scale, warm cinematic lighting, and playful cooking sound effects.
-
-Camera & Framing
-Macro close-ups, low-angle tracking shots, overhead kitchen perspectives, dramatic push-ins, and shallow depth of field emphasizing the tiny chef against oversized kitchen objects.
-
-Audio & Scene Breakdown
-
-Visual: The tiny chef stands beside a giant mixing bowl, struggling to climb onto a wooden spoon before using it as a makeshift ladder.
-
-Visual: She jumps into the bowl and rapidly mixes pancake batter while the whisk spins around her like a giant amusement-park ride.
-
-Visual: She slides down a stream of pancake batter onto a massive frying pan, narrowly avoiding a falling blueberry.
-
-Visual: The pancake suddenly flips into the air. She jumps onto it and rides it like a surfboard as it spins above the pan.
-
-Visual: She lands on a giant plate, then uses a strawberry as a trampoline to bounce onto a stack of pancakes.
-
-Visual: She proudly places a tiny strawberry on top, but the strawberry rolls away. She chases it across the enormous plate.
-
-Visual: The camera pulls back to reveal the finished pancake breakfast. The tiny chef sits on the edge holding her spoon proudly—then a giant fork suddenly enters frame and lifts the entire pancake stack away. She freezes in disbelief.
-
-Audio: Playful kitchen ambience, whisking, batter splashes, pancake flip, tiny footsteps, comedic impact sounds, subtle upbeat music, no dialogue.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-miniature-hand-drawn-2d-animated-girl-with-curly-black-hair-a-yellow-apron-e8eb28cbd332?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-
-← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md)
+← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md)

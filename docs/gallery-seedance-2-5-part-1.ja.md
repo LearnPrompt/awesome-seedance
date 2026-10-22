@@ -1,10 +1,10 @@
-# Seedance 2.5 — 全ケース（Part 1/7）
+# Seedance 2.5 — 全ケース（Part 1/8）
 
-Seedance 2.5 の全 599 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 607 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 599 件中 1–85 件目。
+このページ: 607 件中 1–85 件目。
 
-← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md)
+← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)
 
 ### Frozen Time and Rewind in a 1950s Diner
 
@@ -575,6 +575,39 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Day Buying Bread and Cotton Candy in Old Seoul
+
+> Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
+
+[<img src="https://media.goodcase.ai/cases/f73ca1c9ee91.jpg" width="600" alt="A Day Buying Bread and Cotton Candy in Old Seoul">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2104057858765791389) | **公開日:** 2026-09-27 | **ヒート:** 96
+
+<details>
+<summary><b>プロンプト全文（15 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, cheerful day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and overall appearance consistent throughout. She has long black hair tied in a casual ponytail and wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet.
+
+She steps out of her home with a small smile, closes the door behind her and walks casually through the quiet neighborhood. She enters a tiny local convenience store, picks up a fresh loaf of bread, pays the shopkeeper with coins, holds the bread in one hand and walks back outside.
+
+While walking down the lane, she suddenly spots her female friend approaching from the opposite direction. Her friend smiles, they greet each other warmly and share a natural friendly hug before saying goodbye. She continues walking with the bread in her hand.
+
+A little farther down the street, she notices a bicycle cotton-candy vendor parked beside the road. She stops, smiles, takes a few coins from her pocket and gives them to the vendor. He prepares a fluffy colorful cotton candy and hands it to her. She happily takes a bite while continuing her walk.
+
+She reaches a nearby outdoor water tap, places the bread carefully on a clean ledge beside her, bends down and drinks fresh water directly from the tap. She wipes her mouth with the back of her hand, picks up the bread again and continues walking.
+
+Near the end, she walks slowly down the quiet residential lane with the bread in one hand and cotton candy in the other, takes another happy bite, then turns toward the camera, smiles naturally and says “Bye bye!” before walking away.
+
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms, realistic skin texture and authentic home-video imperfections.
+
+Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, vendor conversations, distant traffic, birds, water running from the tap, children playing and light wind through the trees. No music, no narration, no subtitles, no polished commercial cinematography, no beauty filter, no CGI look.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Braided Swordswoman Breaks Out of the Letterbox Frame
 
 > A Seedance 2.5 frame-breaking effect shared by the author: the character's sword, hands, sneakers and clothing hem repeatedly cross the fixed top and bottom black bars toward the camera. The prompt spells out layer order, black bar locking and the full sword-and-kick combo. A character reference image is required.
@@ -823,39 +856,6 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Day Buying Bread and Cotton Candy in Old Seoul
-
-> Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
-
-[<img src="https://media.goodcase.ai/cases/f73ca1c9ee91.jpg" width="600" alt="A Day Buying Bread and Cotton Candy in Old Seoul">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2104057858765791389) | **公開日:** 2026-09-27 | **ヒート:** 95
-
-<details>
-<summary><b>プロンプト全文（15 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, cheerful day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and overall appearance consistent throughout. She has long black hair tied in a casual ponytail and wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet.
-
-She steps out of her home with a small smile, closes the door behind her and walks casually through the quiet neighborhood. She enters a tiny local convenience store, picks up a fresh loaf of bread, pays the shopkeeper with coins, holds the bread in one hand and walks back outside.
-
-While walking down the lane, she suddenly spots her female friend approaching from the opposite direction. Her friend smiles, they greet each other warmly and share a natural friendly hug before saying goodbye. She continues walking with the bread in her hand.
-
-A little farther down the street, she notices a bicycle cotton-candy vendor parked beside the road. She stops, smiles, takes a few coins from her pocket and gives them to the vendor. He prepares a fluffy colorful cotton candy and hands it to her. She happily takes a bite while continuing her walk.
-
-She reaches a nearby outdoor water tap, places the bread carefully on a clean ledge beside her, bends down and drinks fresh water directly from the tap. She wipes her mouth with the back of her hand, picks up the bread again and continues walking.
-
-Near the end, she walks slowly down the quiet residential lane with the bread in one hand and cotton candy in the other, takes another happy bite, then turns toward the camera, smiles naturally and says “Bye bye!” before walking away.
-
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms, realistic skin texture and authentic home-video imperfections.
-
-Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, vendor conversations, distant traffic, birds, water running from the tap, children playing and light wind through the trees. No music, no narration, no subtitles, no polished commercial cinematography, no beauty filter, no CGI look.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Friday Morning Walk in Seoul
 
@@ -1523,6 +1523,157 @@ IMPORTANT CONSISTENCY INSTRUCTIONS
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-realistic-cinematic-korean-action-thriller-scene-featu-f31c9f4b3fc8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 Dance Clip Real Enough to Fool You
+
+> Nobody actually thinks this is real, right? Seedance 2.5 gets uncomfortably lifelike, right down to the shadows. Upload your own photo, add the prompt, and you dance too. 10 seconds.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="600" alt="Seedance 2.5 Dance Clip Real Enough to Fool You">](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2095025524586193105) | **公開日:** 2026-09-02 | **ヒート:** 93
+
+**安定度:** 51/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 50.9) · [出力](https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（129 行、クリックで展開）</b></summary>
+
+```
+不会有人认为这是真的吧？😄
+
+Seedance 2.5 也过于逼真了啊🫠连影子都那么真实
+
+上传自己的图片，加上下面的提示词，你也能这么跳😂
+
+Seedance 2.5 prompt 👇
+
+Duration: 10秒
+Aspect ratio: 9:16
+Reference: @图片1，锁定主角面部、发型和人物造型，不额外描述或更换穿着
+Audio: 真实城市夜景环境声、助跑脚步、强风呼啸、弹性装置低频回弹声、落地闷响、朋友欢呼；无对白、无旁白、无字幕
+Overall style: 极限运动手机实拍，真实高空距离，强烈临场感，一镜到底，轻微手持与高速运动模糊，拒绝游戏CG感
+
+GLOBAL CONTINUITY
+
+Setting:
+夜晚城市高楼屋顶，绿色直升机停机坪，黄色圆形标线，低矮水泥护墙。两栋高楼之间形成垂直街道峡谷，地面可见车辆、路灯和十字路口。
+
+Lower apparatus:
+街道中央设置一座巨大的圆形黑色弹性回弹装置，中心为深黑色弹性面，外圈环绕连续彩虹灯带。装置尺寸巨大，正对屋顶边缘，作为主角下落和反弹的准确落点。
+
+Main subject:
+@图片1为唯一主角。人物身份、面部和造型全程一致。
+
+Bystanders:
+三至四名朋友站在屋顶左侧，用手机拍摄并等待主角返回。不能抢占主体。
+
+CAMERA CONTINUITY
+
+全片为屋顶朋友手持手机拍摄的一镜到底。
+
+摄影者先在主角身后跟拍助跑；主角跃下后，摄影者迅速冲到护墙边俯拍；随后镜头持续锁定主角，从垂直向下逐渐抬向天空；主角反弹回到屋顶后，镜头恢复平视。
+
+不切镜、不瞬移、不更换视角。
+
+STUNT ENGINE
+
+动作闭环必须固定：
+
+屋顶助跑 → 飞越护墙 → 高空下落 → 命中圆形弹性面中心 → 装置深度下陷 → 强力回弹 → 主角高速升空 → 空中团身翻腾 → 展体定位 → 双脚返回同一屋顶 → 屈膝落地 → 欢呼庆祝。
+
+SHOT 1（00:00-00:10）高空反弹往返特技
+
+Subject:
+@图片1主角站在屋顶停机坪后方，正对远处护墙。朋友位于画面左侧拍摄。
+
+Action:
+
+00:00-00:01.50｜快速助跑
+
+主角背对镜头，从停机坪中央快速冲向屋顶边缘。步幅逐渐加大，身体前倾，双臂自然摆动。
+
+摄影者手持手机紧跟主角向前跑，画面产生真实脚步震动。朋友站在左侧举起手机，紧张注视。
+
+00:01.50-00:02.30｜跃出屋顶
+
+主角最后一步用力蹬地，身体越过低矮护墙。离开屋顶的瞬间，双臂向左右展开，身体稍微前倾，主动朝两栋高楼之间俯冲。
+
+摄影者冲到护墙边，镜头快速向下俯转，始终把主角保持在画面中央。
+
+00:02.30-00:04.80｜高空下落
+
+镜头接近垂直俯拍。主角沿楼宇之间的空间快速下降，身体由前倾逐渐调整为面向下方，双臂保持展开以稳定方向。
+
+随着主角下降，街道、车辆和十字路口迅速显现。巨型黑色圆形弹性装置从画面下方出现，彩虹灯环照亮周围建筑。
+
+主角的下降轨迹必须准确对准黑色弹性面的圆心，不能偏向灯环或撞向建筑。
+
+00:04.80-00:05.50｜命中中心
+
+主角身体落在黑色弹性面正中心。弹性面受到冲击后明显向下形成深凹，彩虹灯环保持固定，装置不能破裂。
+
+短暂压缩后，弹性面以巨大力量恢复原状，将主角垂直向上弹出。
+
+必须清楚表现“接触—下陷—压缩—回弹”四个阶段，不能在接触前提前反向飞行。
+
+00:05.50-00:08.20｜高速反弹与空中翻腾
+
+摄影者仍站在屋顶护墙边。画面底部短暂出现摄影者的双脚，强化真实第一视角和高空距离。
+
+主角从圆形装置中心高速升起，沿原来的垂直路线返回屋顶。摄影机从垂直向下持续向上抬起，跟随主角穿过城市楼宇之间的空间。
+
+主角升空后收紧腰腹，双膝靠近胸口，双臂抱住小腿，形成紧凑团身，在空中完成连续快速翻腾。不要锁定具体翻转方向，以自然连续旋转为准。
+
+主角接近屋顶高度时开始打开身体：松开双腿、抬起头寻找屋顶、双脚转向下方，双臂向两侧展开保持平衡。
+
+00:08.20-00:09.40｜返回屋顶
+
+主角高速接近镜头，从屋顶护墙外侧越回停机坪。双脚同时接触绿色地面，膝盖和髋部深度弯曲，以低位蹲姿吸收落地冲击。
+
+落地必须具有明显重量：鞋底或脚掌接触、腿部压缩、身体下沉、轻微反弹恢复。不能站直着轻飘落地。
+
+摄影者快速后退半步，避免主角撞上镜头，同时继续保持正面近景。
+
+00:09.40-00:10.00｜真实庆祝
+
+主角从蹲姿快速站起，兴奋地看向镜头，张口欢呼。屋顶朋友冲进画面，举着手机围过来，拍肩、挥拳、大声庆祝。
+
+镜头因人群靠近产生轻微晃动，以真实手机自拍视频状态结束。
+
+Environment:
+高楼灯光、街道车辆和彩虹灯环保持空间位置稳定。下落和上升必须发生在同一条垂直路线，主角最后返回起跳的同一栋屋顶。
+
+Camera:
+24mm手机广角，一镜到底。开始为背后低位跟拍；跃下后变为越肩俯拍；回弹时由垂直俯拍连续抬升至仰拍；最后恢复平视近景。
+
+Style:
+真实夜间手机曝光，高楼具有准确透视和尺度。下落阶段风声增强，城市灯光形成自然运动拖影；主角返回屋顶时速度极快，但人体轮廓仍然清晰。
+
+Constraints:
+这是经过专业布置的虚构极限运动场景。必须完整显示圆形弹性装置承接并反弹主角，不能表现为无保护自由坠落。
+
+主角下降和上升必须连续可追踪。回弹来自黑色弹性面的物理压缩，不是飞行、瞬移、绳索拖拽或超能力。
+
+---
+Negative:
+
+改变@图片1人物造型，重新设计服装，服装漂移，面部漂移，人物替换，
+中途切镜，机位瞬移，场景跳变，摄影者突然出现在地面，第三人称航拍，
+主角直接飞行，悬浮，隐形绳索拉升，反重力，瞬间返回屋顶，
+没有弹性装置，错误落点，落在彩虹灯环，撞击建筑，撞击护墙，
+接触前提前反弹，弹性面没有下陷，装置破裂，装置变形消失，
+下落方向改变，上升路线偏移，身体穿过弹性面，人物尺寸异常，
+翻腾时四肢扭曲，多余手臂，多余腿，关节反折，身体融化，复制人物，
+落地无重量，站直落地，脚部穿透地面，跌倒受伤，血液，严重伤害，
+朋友提前挡住镜头，群众冻结，手机变形，高楼弯曲，车辆漂浮，
+动漫渲染，游戏CG，塑料皮肤，廉价绿幕，过度光效，过度慢动作，
+字幕，屏幕文字，水印，品牌标志，旁白，额外对白
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Fox’s Self-Filmed Walk Along a Forest Stream
 
 > Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
@@ -2061,157 +2212,6 @@ Final notification: 【AFTER-HOURS TASK EVADED】.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Dance Clip Real Enough to Fool You
-
-> Nobody actually thinks this is real, right? Seedance 2.5 gets uncomfortably lifelike, right down to the shadows. Upload your own photo, add the prompt, and you dance too. 10 seconds.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg" width="600" alt="Seedance 2.5 Dance Clip Real Enough to Fool You">](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2095025524586193105) | **公開日:** 2026-09-02 | **ヒート:** 92
-
-**安定度:** 51/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 50.9) · [出力](https://media.goodcase.ai/retests/seedance-269d1fc95820/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（129 行、クリックで展開）</b></summary>
-
-```
-不会有人认为这是真的吧？😄
-
-Seedance 2.5 也过于逼真了啊🫠连影子都那么真实
-
-上传自己的图片，加上下面的提示词，你也能这么跳😂
-
-Seedance 2.5 prompt 👇
-
-Duration: 10秒
-Aspect ratio: 9:16
-Reference: @图片1，锁定主角面部、发型和人物造型，不额外描述或更换穿着
-Audio: 真实城市夜景环境声、助跑脚步、强风呼啸、弹性装置低频回弹声、落地闷响、朋友欢呼；无对白、无旁白、无字幕
-Overall style: 极限运动手机实拍，真实高空距离，强烈临场感，一镜到底，轻微手持与高速运动模糊，拒绝游戏CG感
-
-GLOBAL CONTINUITY
-
-Setting:
-夜晚城市高楼屋顶，绿色直升机停机坪，黄色圆形标线，低矮水泥护墙。两栋高楼之间形成垂直街道峡谷，地面可见车辆、路灯和十字路口。
-
-Lower apparatus:
-街道中央设置一座巨大的圆形黑色弹性回弹装置，中心为深黑色弹性面，外圈环绕连续彩虹灯带。装置尺寸巨大，正对屋顶边缘，作为主角下落和反弹的准确落点。
-
-Main subject:
-@图片1为唯一主角。人物身份、面部和造型全程一致。
-
-Bystanders:
-三至四名朋友站在屋顶左侧，用手机拍摄并等待主角返回。不能抢占主体。
-
-CAMERA CONTINUITY
-
-全片为屋顶朋友手持手机拍摄的一镜到底。
-
-摄影者先在主角身后跟拍助跑；主角跃下后，摄影者迅速冲到护墙边俯拍；随后镜头持续锁定主角，从垂直向下逐渐抬向天空；主角反弹回到屋顶后，镜头恢复平视。
-
-不切镜、不瞬移、不更换视角。
-
-STUNT ENGINE
-
-动作闭环必须固定：
-
-屋顶助跑 → 飞越护墙 → 高空下落 → 命中圆形弹性面中心 → 装置深度下陷 → 强力回弹 → 主角高速升空 → 空中团身翻腾 → 展体定位 → 双脚返回同一屋顶 → 屈膝落地 → 欢呼庆祝。
-
-SHOT 1（00:00-00:10）高空反弹往返特技
-
-Subject:
-@图片1主角站在屋顶停机坪后方，正对远处护墙。朋友位于画面左侧拍摄。
-
-Action:
-
-00:00-00:01.50｜快速助跑
-
-主角背对镜头，从停机坪中央快速冲向屋顶边缘。步幅逐渐加大，身体前倾，双臂自然摆动。
-
-摄影者手持手机紧跟主角向前跑，画面产生真实脚步震动。朋友站在左侧举起手机，紧张注视。
-
-00:01.50-00:02.30｜跃出屋顶
-
-主角最后一步用力蹬地，身体越过低矮护墙。离开屋顶的瞬间，双臂向左右展开，身体稍微前倾，主动朝两栋高楼之间俯冲。
-
-摄影者冲到护墙边，镜头快速向下俯转，始终把主角保持在画面中央。
-
-00:02.30-00:04.80｜高空下落
-
-镜头接近垂直俯拍。主角沿楼宇之间的空间快速下降，身体由前倾逐渐调整为面向下方，双臂保持展开以稳定方向。
-
-随着主角下降，街道、车辆和十字路口迅速显现。巨型黑色圆形弹性装置从画面下方出现，彩虹灯环照亮周围建筑。
-
-主角的下降轨迹必须准确对准黑色弹性面的圆心，不能偏向灯环或撞向建筑。
-
-00:04.80-00:05.50｜命中中心
-
-主角身体落在黑色弹性面正中心。弹性面受到冲击后明显向下形成深凹，彩虹灯环保持固定，装置不能破裂。
-
-短暂压缩后，弹性面以巨大力量恢复原状，将主角垂直向上弹出。
-
-必须清楚表现“接触—下陷—压缩—回弹”四个阶段，不能在接触前提前反向飞行。
-
-00:05.50-00:08.20｜高速反弹与空中翻腾
-
-摄影者仍站在屋顶护墙边。画面底部短暂出现摄影者的双脚，强化真实第一视角和高空距离。
-
-主角从圆形装置中心高速升起，沿原来的垂直路线返回屋顶。摄影机从垂直向下持续向上抬起，跟随主角穿过城市楼宇之间的空间。
-
-主角升空后收紧腰腹，双膝靠近胸口，双臂抱住小腿，形成紧凑团身，在空中完成连续快速翻腾。不要锁定具体翻转方向，以自然连续旋转为准。
-
-主角接近屋顶高度时开始打开身体：松开双腿、抬起头寻找屋顶、双脚转向下方，双臂向两侧展开保持平衡。
-
-00:08.20-00:09.40｜返回屋顶
-
-主角高速接近镜头，从屋顶护墙外侧越回停机坪。双脚同时接触绿色地面，膝盖和髋部深度弯曲，以低位蹲姿吸收落地冲击。
-
-落地必须具有明显重量：鞋底或脚掌接触、腿部压缩、身体下沉、轻微反弹恢复。不能站直着轻飘落地。
-
-摄影者快速后退半步，避免主角撞上镜头，同时继续保持正面近景。
-
-00:09.40-00:10.00｜真实庆祝
-
-主角从蹲姿快速站起，兴奋地看向镜头，张口欢呼。屋顶朋友冲进画面，举着手机围过来，拍肩、挥拳、大声庆祝。
-
-镜头因人群靠近产生轻微晃动，以真实手机自拍视频状态结束。
-
-Environment:
-高楼灯光、街道车辆和彩虹灯环保持空间位置稳定。下落和上升必须发生在同一条垂直路线，主角最后返回起跳的同一栋屋顶。
-
-Camera:
-24mm手机广角，一镜到底。开始为背后低位跟拍；跃下后变为越肩俯拍；回弹时由垂直俯拍连续抬升至仰拍；最后恢复平视近景。
-
-Style:
-真实夜间手机曝光，高楼具有准确透视和尺度。下落阶段风声增强，城市灯光形成自然运动拖影；主角返回屋顶时速度极快，但人体轮廓仍然清晰。
-
-Constraints:
-这是经过专业布置的虚构极限运动场景。必须完整显示圆形弹性装置承接并反弹主角，不能表现为无保护自由坠落。
-
-主角下降和上升必须连续可追踪。回弹来自黑色弹性面的物理压缩，不是飞行、瞬移、绳索拖拽或超能力。
-
----
-Negative:
-
-改变@图片1人物造型，重新设计服装，服装漂移，面部漂移，人物替换，
-中途切镜，机位瞬移，场景跳变，摄影者突然出现在地面，第三人称航拍，
-主角直接飞行，悬浮，隐形绳索拉升，反重力，瞬间返回屋顶，
-没有弹性装置，错误落点，落在彩虹灯环，撞击建筑，撞击护墙，
-接触前提前反弹，弹性面没有下陷，装置破裂，装置变形消失，
-下落方向改变，上升路线偏移，身体穿过弹性面，人物尺寸异常，
-翻腾时四肢扭曲，多余手臂，多余腿，关节反折，身体融化，复制人物，
-落地无重量，站直落地，脚部穿透地面，跌倒受伤，血液，严重伤害，
-朋友提前挡住镜头，群众冻结，手机变形，高楼弯曲，车辆漂浮，
-动漫渲染，游戏CG，塑料皮肤，廉价绿幕，过度光效，过度慢动作，
-字幕，屏幕文字，水印，品牌标志，旁白，额外对白
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### POV: Korean Baddie Meets Her Boyfriend in the US
 
@@ -3274,6 +3274,41 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Devil Woman and Monsters in Halloween Night Mayhem
+
+> Bro, this is NOT how Halloween was supposed to go Unlimited Seedance 2.5 on @makeugc prompt Video Prompt: STYLE: Photoreal raw flash footage, like a found Hallo…
+
+[<img src="https://media.goodcase.ai/cases/e251cf9af08a.jpg" width="600" alt="Devil Woman and Monsters in Halloween Night Mayhem">](https://goodcase.ai/cases/seedance-2-5-heavy-camcorder-noise-video-grain-slight-interlacing-smeared-motion-blur-au-334705abfd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2112154192534241709) | **公開日:** 2026-10-19 | **ヒート:** 88
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+STYLE: Photoreal raw flash footage, like a found Halloween night tape. Shot on a cheap early-2000s consumer camcorder with a fisheye lens: strong barrel distortion, harsh on-camera flash/light blasting whatever is close to the lens with blown-out highlights and hard shadows, everything past a few meters falls off into an underexposed, near-black background. 
+
+Heavy camcorder noise, video grain, slight interlacing, smeared motion blur, auto-exposure pumping, occasional focus hunting, slightly crushed and green-tinted digital color. Chaotic documentary realism: the operator is a person running and reacting in real time, frantic handheld whip-pans, crash zooms, the camera bumping into things, subjects shoved right up into the fisheye lens. Meme energy: absurd moments played totally real. 
+
+FAST pace: hard jump cuts every 0.5-1 second, no transitions. No on-screen text, no timestamp overlay, no titles, no logos, no watermark. CAST: @image (15) the devil woman. 
+
+Dale the werewolf: a huge, hulking, shaggy grey-brown werewolf with glowing yellow eyes, a long snarling snout full of teeth, and matted fur. He wears a torn red varsity-style bowling jacket hanging off his massive frame, shredded at the sleeves. The skeletons: a trio of full-body human skeletons with bleached off-white bones, wearing mirrored aviator sunglasses and black tactical vests. One of them wears a bright orange baseball cap and white sneakers. The elderly witch: a frail, wrinkled old woman with wild grey hair, wearing a black feathered cape and sharp cat-eye glasses, with a pointed witch's hat and a crooked grin. The Headless Horseman: a tall rider in a burgundy velvet coat with no head, seated on a powerful black horse with a flowing mane. Shot 1 (0-2.2s): Flash-lit fisheye shot at a gas station at night, the devil woman bored against an old pickup, camera close on her face; out of the black behind her, the werewolf sprints into the flash and leaps straight at the lens; she swings up a shotgun and fires, muzzle flash whiting out the frame, camera knocked sideways. Shot 2 (2.2-2.8s): Whip-pan into a dark alley: three skeletons on a low wall lit only by the flash, one raises his rifle and they jump down at the camera. Shot 3 (2.8-3.6s): The devil woman leaps out of a black archway right past the lens, her red tulle skirt and sheer sleeves flaring and filling the frame, firing a rifle. Shot 4 (3.6-4s): Flash-blown close-up of muzzle flash and sparks, camera shaking. Shot 5 (4-5s): Running handheld through a dark farmyard toward a shed with propane tanks; the elderly witch zooms past the lens on a ride-on lawnmower, cape flapping, straight into the tanks. 
+
+Shot 6 (5-6s): Massive fireball overexposes the camera; the witch is blasted up into the black sky; operator falls back. Shot 7 (6-6.6s): Pitch black cornfield, flash pops on: her broom stabs into the dirt right in front of the lens. Shot 8 (6.6-7.8s): 
+
+City street at night, camera on the sidewalk; the Headless Horseman gallops inches past the fisheye lens holding a flaming jack-o'-lantern, fire flaring the image. Shot 9 (7.8-8.8s): 
+
+A parked old sedan explodes, camera recoils, image clips to white then auto-exposes back. Shot 10 (8.8-12.2s): Packed barn Halloween party, flash on, crowd in witch hats and bedsheet ghosts screaming and holding up phones. 
+
+Dance battle filmed from the front row: the devil woman, in her full devil costume with horns and heels, hits a sharp freeze right in the fisheye lens; the skeleton in the orange cap and white sneakers does a headspin, then collapses into a pile of loose bones. 
+
+Crowd goes insane, camera shaking. Shot 11 (12.2-14s): Camera drops to the floor: harsh flash on scattered bones, the skull rolls straight into the lens and stops, distorted by the fisheye, background black. Hold. AUDIO: Raw camcorder mic audio, clipping and distorted: wind, werewolf roar, shotgun blast, people yelling 'YO!', lawnmower engine, explosions blowing out the mic, hooves, party crowd screaming, bones clattering, skull rolling. No music, no score.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-heavy-camcorder-noise-video-grain-slight-interlacing-smeared-motion-blur-au-334705abfd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Tiny Woman’s Bathroom Survival Escape
 
 > Apparently, Taking a Shower Is Now an Extreme Sport 🚿 Made using Seedance 2.5 on Higgsfield Prompt: Create a 30-second, photorealistic live-action miniature-pe…
@@ -3951,6 +3986,57 @@ Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent cha
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Realism That Makes Ordinary Life Feel Special
+
+> Realism that makes ordinary life feel special Seedance 2.5 Prompt Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese …
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="600" alt="Realism That Makes Ordinary Life Feel Special">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2096109540924141746) | **公開日:** 2026-09-05 | **ヒート:** 87
+
+**安定度:** 69/100
+
+**再テスト:** Grok Imagine · 2026-10-02 · ⚠️ 劣化 (スコア 69.3) · [出力](https://media.goodcase.ai/retests/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（29 行、クリックで展開）</b></summary>
+
+```
+Realism that makes ordinary life feel special
+
+Seedance 2.5 
+
+Prompt
+
+Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese woman in her 20s through an ordinary day in Kyoto. Keep her face, identity, hairstyle, body, outfit, accessories, and proportions perfectly consistent.
+
+She wears a fitted pastel yellow short top, straight-leg light denim jeans, yellow canvas sneakers, a small tan tote bag, and thin gold hoop earrings throughout.
+
+Style: Genuine footage filmed casually by a close friend on a smartphone/compact camera. Handheld shake, imperfect framing, autofocus/exposure shifts, natural motion blur, mild digital noise, realistic skin texture, occasional late camera reactions. No gimbal, drone, cinematic choreography, slow motion, beauty filter, or commercial look.
+
+0–5s: Quiet residential Kyoto street, narrow lane with wooden facades. She steps out of her apartment, glances at her phone, notices the camera, smiles softly, tucks her hair behind her ear and says naturally: "今日も一緒に行こう。"
+
+5–11s: Enters a small neighborhood bakery/konbini-style shop, notices a fresh melon pan and says: "これ、いい匂いがする。" Buys it, takes a bite outside, and smiles at the camera.
+
+11–17s: Boards a local city bus and sits by the window. Kyoto streets and old buildings pass outside with realistic reflections and sunlight. She quietly says: "こういう日は、歩きたくなるな。"
+
+17–23s: Gets off near a canal-side walking path. Buys a drink from a small vending machine or cart. A cyclist passes unexpectedly close; she steps aside, laughs, and says: "今、ちょっとびっくりした。"
+
+23–27s: Golden-hour canal-side scene. She sits on a low stone ledge or bench, places her drink beside her, removes one earbud, watches the water, and gives a small genuine smile as the wind moves her hair.
+
+27–30s: She stands and walks away. After a few steps, looks back and says: "次は一緒に来てね。" She continues walking as the camera follows behind. Recording naturally ends around 29.5s.
+
+REALISM: Accurate human biomechanics, grounded feet, continuous objects, realistic bus movement, natural walking/eating/sitting, consistent architecture and wardrobe. No teleportation, morphing, identity drift, duplicated/disappearing objects, distorted hands or limbs.
+
+AUDIO: Natural Japanese dialogue with accurate lip-sync, phone-mic quality, footsteps, traffic, birds, bakery sounds, bus engine, bicycle bell, wind and city ambience. No music, narrator, or cinematic SFX.
+
+Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Tiny Bird Emerging from Mud in a Glass Jar
 
 > Made with Seedance 2.5 on @HighSignal_AI 🎬 MAIN VIDEO PROMPT Use the uploaded image as the exact visual reference. Crea
@@ -4610,57 +4696,6 @@ Completely believable real-life home-video footage. Slightly imperfect, spontane
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Realism That Makes Ordinary Life Feel Special
-
-> Realism that makes ordinary life feel special Seedance 2.5 Prompt Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese …
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="600" alt="Realism That Makes Ordinary Life Feel Special">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2096109540924141746) | **公開日:** 2026-09-05 | **ヒート:** 86
-
-**安定度:** 69/100
-
-**再テスト:** Grok Imagine · 2026-10-02 · ⚠️ 劣化 (スコア 69.3) · [出力](https://media.goodcase.ai/retests/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff/video-grok-imagine-20261002-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（29 行、クリックで展開）</b></summary>
-
-```
-Realism that makes ordinary life feel special
-
-Seedance 2.5 
-
-Prompt
-
-Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese woman in her 20s through an ordinary day in Kyoto. Keep her face, identity, hairstyle, body, outfit, accessories, and proportions perfectly consistent.
-
-She wears a fitted pastel yellow short top, straight-leg light denim jeans, yellow canvas sneakers, a small tan tote bag, and thin gold hoop earrings throughout.
-
-Style: Genuine footage filmed casually by a close friend on a smartphone/compact camera. Handheld shake, imperfect framing, autofocus/exposure shifts, natural motion blur, mild digital noise, realistic skin texture, occasional late camera reactions. No gimbal, drone, cinematic choreography, slow motion, beauty filter, or commercial look.
-
-0–5s: Quiet residential Kyoto street, narrow lane with wooden facades. She steps out of her apartment, glances at her phone, notices the camera, smiles softly, tucks her hair behind her ear and says naturally: "今日も一緒に行こう。"
-
-5–11s: Enters a small neighborhood bakery/konbini-style shop, notices a fresh melon pan and says: "これ、いい匂いがする。" Buys it, takes a bite outside, and smiles at the camera.
-
-11–17s: Boards a local city bus and sits by the window. Kyoto streets and old buildings pass outside with realistic reflections and sunlight. She quietly says: "こういう日は、歩きたくなるな。"
-
-17–23s: Gets off near a canal-side walking path. Buys a drink from a small vending machine or cart. A cyclist passes unexpectedly close; she steps aside, laughs, and says: "今、ちょっとびっくりした。"
-
-23–27s: Golden-hour canal-side scene. She sits on a low stone ledge or bench, places her drink beside her, removes one earbud, watches the water, and gives a small genuine smile as the wind moves her hair.
-
-27–30s: She stands and walks away. After a few steps, looks back and says: "次は一緒に来てね。" She continues walking as the camera follows behind. Recording naturally ends around 29.5s.
-
-REALISM: Accurate human biomechanics, grounded feet, continuous objects, realistic bus movement, natural walking/eating/sitting, consistent architecture and wardrobe. No teleportation, morphing, identity drift, duplicated/disappearing objects, distorted hands or limbs.
-
-AUDIO: Natural Japanese dialogue with accurate lip-sync, phone-mic quality, footsteps, traffic, birds, bakery sounds, bus engine, bicycle bell, wind and city ambience. No music, narrator, or cinematic SFX.
-
-Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Girl Cycling Through a Korean Alley in Summer
 
 > Something from our local street Seedance 2.5 at service again Prompt : Main subject: Young Korean woman, early 20s, wear
@@ -5028,117 +5063,5 @@ Natural human reactions, imperfect timing, realistic physics, consistent objects
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance Sixty-Second Gym Day-in-the-Life Vlog
 
-> Come spend a gym day with me 🎥🤍 Created with Seedance 2.5 on @Flovaai Prompt: Create a 60-second realistic day-in-the-
-
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="600" alt="Seedance Sixty-Second Gym Day-in-the-Life Vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ZaraIrahh | **出典:** [元投稿](https://x.com/ZaraIrahh/status/2089569072526823464) | **公開日:** 2026-08-18 | **ヒート:** 85
-
-**安定度:** 70/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 70.3) · [出力](https://media.goodcase.ai/retests/zarairahh-seedance-ai-3f362e9e352b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（90 行、クリックで展開）</b></summary>
-
-```
-Create a 60-second realistic day-in-the-life gym vlog following the same young Korean woman in her early twenties from waking up at home, getting ready, going to the gym, working out, and returning home.
-
-Overall visual style
-
-One continuous handheld front-facing smartphone selfie vlog perspective. She always films herself with the phone in her own hand at arm’s length. No third-person camera, tripod, cinematic camera movements, drones, or external filming.
-
-Make everything look like authentic modern smartphone footage:
-
-- Natural handheld shake and small framing imperfections
-- Realistic walking movement and occasional autofocus hunting
-- Minor exposure changes
-- Natural front-camera lens distortion
-- Soft natural morning light indoors and outdoors
-- Realistic, unfiltered smartphone colors
-- No beauty filter, skin smoothing, or cinematic color grading
-- Same face and hair throughout the entire vlog
-- Natural expressions, movements, and body language
-- No subtitles, captions, logos, watermarks, or on-screen text
-- No background music; use only natural diegetic sound
-
-0–10 sec — Waking up
-
-She wakes up in her cozy bedroom wearing a cute, loose casual night suit. She grabs her phone from beside the bed and immediately starts filming herself selfie-style. She looks sleepy, messy-haired, and slightly tired, gives a small yawn, stretches, and smiles at the camera.
-
-She quietly says:
-
-“Good morning… I really don’t feel like going to the gym today.”
-
-She gets out of bed and walks toward the bathroom while holding the phone herself.
-
-10–18 sec — Brushing teeth
-
-In the bathroom, she films herself in the mirror/selfie view while brushing her teeth. Keep it casual and imperfect, with realistic bathroom ambience and running-water sounds.
-
-She briefly looks into the camera with a sleepy expression, then rinses her mouth and smiles.
-
-She says:
-
-“But I promised myself I’d go, so… let’s do it.”
-
-18–27 sec — Getting ready
-
-Quick natural transition back to her bedroom. She changes from her night suit into a stylish but realistic gym outfit: fitted athletic top, high-waisted leggings or comfortable athletic bottoms, clean sneakers, and minimal accessories.
-
-Show short selfie moments of her fixing her hair, adjusting her gym outfit, grabbing a water bottle and gym bag.
-
-She looks into the phone and says:
-
-“Okay, now I actually look ready.”
-
-27–35 sec — Going to the gym
-
-She leaves home with the phone in her hand. Film brief selfie moments while walking outside and naturally bouncing with her steps. Show quick glimpses of the street, morning traffic, buildings, and her gym bag.
-
-She arrives at the gym and turns the phone slightly to show the entrance before bringing it back to her face.
-
-Natural street and gym ambience only.
-
-35–52 sec — Workout
-
-Inside the gym, she starts with a short warm-up on a treadmill, then moves through a few exercises such as light strength training, squats, dumbbell exercises, and stretching.
-
-Keep the camera mostly front-facing and handheld, occasionally tilting naturally toward the equipment before returning to her face.
-
-She becomes slightly sweaty and out of breath but stays cheerful. She laughs and says:
-
-“Okay… this is harder than I remembered.”
-
-She takes a quick drink of water, catches her breath, then gives the camera a satisfied smile and continues her workout.
-
-Include realistic sounds of footsteps, treadmill movement, weights clanking, machines, distant conversations, and gym room tone.
-
-52–60 sec — Returning home
-
-After finishing her workout, she leaves the gym and walks home. She looks pleasantly exhausted but happy.
-
-Cut naturally to her back at home, still holding the phone. She drops her gym bag down, takes a drink of water, relaxes on the couch or bed, and looks into the camera with a tired smile.
-
-She gives a small wave and says:
-
-“Workout done. I’m exhausted… but I’m glad I went.”
-
-She smiles, gives one final sleepy wave, and lowers the phone for a natural ending.
-
-Final requirements
-
-Keep the entire vlog fast, spontaneous, cozy, and realistic, with natural transitions between locations. The woman must remain visually consistent throughout: same facial identity, same hair, and realistic appearance. Her outfit changes only once, from the casual night suit to the gym outfit.
-
-All dialogue must be naturally spoken with visible lip movement. Use only diegetic audio—bedroom ambience, bathroom sounds, footsteps, street noise, gym sounds, water bottle sounds, and home ambience. No music, captions, subtitles, logos, watermarks, or cinematic effects.
-#Flovaai #Flovacpp
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-
-← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md)
+← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)

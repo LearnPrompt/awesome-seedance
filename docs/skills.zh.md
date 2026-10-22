@@ -15,20 +15,20 @@
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 102 | 11 |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 93 | 5 |
-| [动作连续性编排](#action-continuity-choreography) | 89 | 7 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 94 | 5 |
+| [动作连续性编排](#action-continuity-choreography) | 91 | 7 |
 | [产品广告镜头](#product-ad-shot-design) | 72 | 4 |
-| [电影感旅行漫游](#travel-city-walk) | 65 | 4 |
+| [电影感旅行漫游](#travel-city-walk) | 66 | 4 |
 | [宠物动物当主角](#pets-and-animals-lead) | 59 | 2 |
 | [动画风格与角色一致性](#animation-style-consistency) | 58 | 2 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 46 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 45 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 41 | 0 |
+| [反转搞笑短片](#twist-comedy-skit) | 38 | 1 |
 | [恐怖悬疑短片](#horror-suspense-short) | 38 | 3 |
-| [反转搞笑短片](#twist-comedy-skit) | 37 | 1 |
 | [美食特写与吃播 ASMR](#food-asmr) | 32 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 29 | 0 |
-| [汽车与载具速度片](#vehicles-at-speed) | 26 | 0 |
+| [汽车与载具速度片](#vehicles-at-speed) | 27 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 25 | 1 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-93 个案例，来自 63 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+94 个案例，来自 64 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > 把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。
 
-89 个案例，来自 63 位创作者 · 7 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+91 个案例，来自 64 位创作者 · 7 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -129,7 +129,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-65 个案例，来自 42 位创作者 · 4 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+66 个案例，来自 42 位创作者 · 4 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -137,7 +137,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
-| CaliraVal | 电影感旅行漫游 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| CaliraVal | 电影感旅行漫游 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | 电影感旅行漫游 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
@@ -222,6 +222,22 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 暂时还没有创作者方法。
 
+<a id="twist-comedy-skit"></a>
+
+### 反转搞笑短片
+
+> 所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。
+
+38 个案例，来自 28 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
+```
+
+| 创作者 | 方法 | 案例 | 安装 | 页面 |
+| --- | --- | --- | --- | --- |
+| Ciri_ai | 反转搞笑短片 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="horror-suspense-short"></a>
 
 ### 恐怖悬疑短片
@@ -239,22 +255,6 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | doctorwasif | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | AIwithSynthia | 恐怖悬疑短片 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | 恐怖悬疑短片 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="twist-comedy-skit"></a>
-
-### 反转搞笑短片
-
-> 所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。
-
-37 个案例，来自 27 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
-```
-
-| 创作者 | 方法 | 案例 | 安装 | 页面 |
-| --- | --- | --- | --- | --- |
-| Ciri_ai | 反转搞笑短片 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="food-asmr"></a>
 
@@ -290,7 +290,7 @@ npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts
 
 > 机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。
 
-26 个案例，来自 18 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+27 个案例，来自 19 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed

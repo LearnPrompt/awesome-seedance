@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Meilin-Element Kung Fu Performance
 
-- Seedance 2.0 · creator: @aimikoda · heat: 88 · stability: 86
+- Seedance 2.0 · creator: @aimikoda · heat: 87 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/real-case-06-aimikoda) · [finished media](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.mp4) · [poster](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg) · [original source](https://x.com/aimikoda/status/2054460932068200517)
 - Summary: 来自 X / 𝕏 的真实 视频 案例，由 @aimikoda 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
 
@@ -468,7 +468,7 @@ SHOT 4 — 0:06–0
 
 ## E7 · Volcanic Eruption Turns Into a Sea of Popcorn
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 45
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 44
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-17-second-ultra-realistic-cinematic-vertical-video-featuring-the-woman-6be0338020cb) · [finished media](https://media.goodcase.ai/cases/75519cb11dc5.mp4) · [poster](https://media.goodcase.ai/cases/d81423b0e9e5.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2104753404627268008)
 - Summary: Made with Seedance 2.5 Duration: 17 seconds Aspect Ratio: 16:9 Prompt: Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the …
 
