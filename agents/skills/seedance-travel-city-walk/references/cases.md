@@ -118,7 +118,7 @@ ACTION
 
 ## E4 · A Slow Autumn Travel Vlog in Kyoto
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 78
+- Seedance 2.5 · creator: @Chaemate_ · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) · [finished media](https://media.goodcase.ai/cases/784165cb489a.mp4) · [poster](https://media.goodcase.ai/cases/587b89f01743.jpg) · [original source](https://x.com/Chaemate_/status/2099439262106083704)
 - Summary: A quiet day in Kyoto, captured like a memory you almost forgot you had. 🍂 Created with Seedance 2.5 on @FishCreativeHQ Prompt: Create a photorealistic 30-secon…
 

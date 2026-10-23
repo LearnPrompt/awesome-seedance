@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · Elsa’s Midnight Croissants and the Empty Coffee Cup
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 47
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 46
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-premium-photorealistic-cinematic-30-second-live-action-food-commercial-67403ea43ed5) · [finished media](https://media.goodcase.ai/cases/adbb3917c618.mp4) · [poster](https://media.goodcase.ai/cases/e6bbd55f9455.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2095105440392818697)
 - Summary: Made with seedance 2.5 Prompt: ⤵️ Create a premium photorealistic cinematic 30-second live-action food commercial using
 

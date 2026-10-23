@@ -1,10 +1,93 @@
 # Seedance 2.0 — 全ケース（Part 3/4）
 
-Seedance 2.0 の全 296 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 300 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 296 件中 192–278 件目。
+このページ: 300 件中 195–277 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
+
+### Yellow Supercar Racing Through the Dubai Skyline
+
+> What a ride! Made by using GPT Image 2 + Seedance 2.0 on @FishCreativeHQ Prompt reference_handling: "Image generation st
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithaliya-seedance-ai-cf398f743859.jpg" width="600" alt="Yellow Supercar Racing Through the Dubai Skyline">](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithAliya | **出典:** [元投稿](https://x.com/AIwithAliya/status/2093022598187954484) | **公開日:** 2026-08-27 | **ヒート:** 25
+
+<details>
+<summary><b>プロンプト全文（65 行、クリックで展開）</b></summary>
+
+```
+What a ride! 
+
+Made by using GPT Image 2 + Seedance 2.0 on @FishCreativeHQ  
+
+Prompt
+
+reference_handling: "Image generation strictly for driver facial and wardrobe styling reference only — calm, composed features silver wristwatch on left wrist Image strictly for sports car styling and cabin reference only — low, wide Italian wedge-shaped body + bright yellow paint + strongly geometric body lines + hexagonal front intake + Y-shaped LED headlights + gloss black multi-spoke wheels + black leather cabin with orange stitching + left-hand-drive cabin (driver seat on left) + across this sequence the driver-side window (left side of car) is rolled down only for the cockpit reveal shot, all other windows remain as-is throughout. Image strictly for spire architectural geometry, Dubai downtown skyline, and warm hazy midday atmosphere reference only — tapered glass-and-steel spire that widens progressively toward the base + dense glass high-rise skyline below + wide multi-lane boulevard. Do not reproduce any specific camera angle, composition, or caption elements from the reference images"
+
+style: "REAL AERIAL + AUTOMOTIVE CINEMATOGRAPHY PLATE — not CGI rendering, not game-engine rendering, not an animated/illustrated look."
+
+visual_feel: "Strong overhead midday light + warm hazy atmosphere softening the horizon. Color strictly natural and true-to-life — not oversaturated, not faded, not washed out. Continuous soft haze and atmospheric layering from spire tip down to street level. Every camera move, whether aerial or ground-tracking, strictly gimbal-level smooth — absolutely no handheld feel, no shake, no roll or tilt, even during the FPV-paced dive segment or the accelerating side-pass segments. 16:9 frame + no stylized film-grain treatment, aiming for genuine cinematography texture across every shot"
+
+duration: "30 seconds (8-shot sequence)"
+
+aspect_ratio: "16:9"
+
+character_modeling:
+
+driver_suited_woman: base: " appearance and wardrobe strictly per Image generation reference. Present in the car throughout the sequence, but the face is strictly clearly visible only during the 0:20–0:21 cockpit reveal shot — in every other shot the face is strictly not shown or not resolvable, whether by camera position, angle, or framing" wardrobe: silver wristwatch on left wrist . complete, with no wrinkling, misalignment, or missing pieces throughout" presence: "In shots where the driver is not the subject (0:01–0:19, 0:22–0:30), the driver strictly remains seated in the left-side driving position, present but strictly not resolved facially due to camera side, distance, or angle. During the 0:20–0:21 cockpit reveal shot only, the face and posture are strictly fully clear — visibility achieved via a right-side cockpit camera position looking across the cabin, with natural light and open sightline entering through the already-lowered driver-side window (left side of car) forming an angled depth-of-view channel — strictly NOT via looking directly through a window immediately adjacent to the camera"
+
+sports_car_yellow: identity: "Low, wide Italian wedge-shaped supercar + bright yellow paint + strongly geometric body + hexagonal front intake + Y-shaped LED headlights + gloss black multi-spoke wheels + black leather cabin with orange stitching + left-hand-drive cabin, driver seat on left — appearance strictly per image2 reference. Strictly only this one car appears across all 8 shots + doors strictly closed throughout + strictly only the driver-side window (left side of car) is rolled down, and only for the 0:20–0:21 cockpit shot + all other windows strictly remain closed/unchanged throughout + left-hand-drive position strictly remains on the left side of the car in every shot — not mirrored, not flipped, regardless of which side the camera is on" physics: "In every shot showing the car in motion, tires strictly show real, visible load deformation on turns + suspension strictly compresses and rebounds continuously with road surface undulation + body strictly shows slight roll and pitch matching cornering or acceleration — strictly not a rigid-glide, zero-deformation model feel. The car strictly stays lane-centered along the boulevard's true path — strictly no crossing lines, no drifting, no hugging the curb"
+
+environment_spire_and_skyline: setting_lock: "Tapered glass-and-steel spire structure — body progressively widens toward the base + spire tip is the sequence's starting point + below is Dubai downtown's dense glass high-rise skyline and wide multi-lane boulevard + warm hazy midday light, architectural geometry, skyline, and atmosphere strictly per image3 reference. Shot 1 (0:01–0:12) strictly covers the spire exterior and the high-altitude-to-street transition. Shots 2–8 (0:12–0:30) strictly take place entirely at street level, on or beside the boulevard, with the skyline visible as background context only"
+
+cinematic_storyboard:
+
+shot_1_spire_descent_0_01_0_12: camera: "Continuous aerial dive — the same FPV-paced descent arc as the master establishing move: 0:01–0:02 camera approaches and briefly hovers directly above the spire tip, gimbal strictly steady, no roll or tilt. 0:02–0:12 camera descends along one continuous curved arc, vertical speed component smoothly decaying while horizontal speed component smoothly increasing, no perceptible docking point or speed jump. As the arc resolves near street level, the camera settles into a position that spotlights the yellow car on the right side of frame — car held in the right third of the composition as the shot closes. Lens strictly 35–50mm cine prime throughout, no zoom, no digital zoom, straight architectural lines keep true perspective." action: "Spire tip and city grid fill the frame at the open, then dissolve into recognizable streets and blocks as the dive continues. The yellow car appears as a small point mid-descent and grows continuously larger, coming to rest spotlighted on the right side of frame by 0:12, driving forward along the boulevard, wheels rotating forward, no reverse." lighting: "Strong overhead midday light at the spire tip with long shadows; as the descent continues, glass-facade and ground reflections shift continuously and smoothly with the changing angle — no abrupt lens-flare flicker." vfx: "Ground detail and color progressively sharpen through the descent, no sudden clarity jump. Ground shadows strictly limited to the car's own cast shadow — no operator or camera-rig shadow anywhere in frame." sfx: "High-altitude wind roar at the open, fading continuously into rising engine sound and city ambience as the car comes into view. No music, no voiceover, no captions."
+
+shot_2_side_pass_0_12_0_15: camera: "Hard cut to a static lateral profile position — camera holds a fixed side-view framing of the car, 35–50mm cine prime, gimbal-locked, no handheld sway. As the car accelerates, the camera lets it pull ahead and overtake past the camera's position, exiting frame screen-right." action: "Car holds briefly in profile, then accelerates hard — visible squat of the rear suspension under acceleration, tires gripping without slip, body pitching slightly rearward under load — before overtaking and leaving frame past the camera." lighting: "Even natural daylight, sun still overhead-midday, car's yellow paint reading true and saturated against the boulevard背景, no flat frontal wash." vfx: "Real suspension compression and rebound as the car surges forward. No motion blur artifacts beyond natural shutter response; no CG float." sfx: "Engine note rises sharply with the acceleration, a clean Doppler pass as the car overtakes the camera position; no music."
+
+shot_3_center_mirror_0_15_0_17: camera: "Hard cut to an interior point-of-view through the car's center rear-view mirror — camera framed as if looking through the mirror glass from just behind/above the driver's eyeline, mirror surface visibly framing the receding view." action: "Through the mirror, the boulevard and the Dubai skyline recede behind the car as it continues forward at speed; slight natural mirror-glass vignette at the frame edge." lighting: "Cabin interior in soft ambient light, mirror glass reflecting the bright exterior daylight and skyline without glare washing out the reflected image." vfx: "Mirror reflection stays optically clean and stable — no double image, no warping; road and skyline motion in the reflection reads as physically continuous with forward travel." sfx: "Muffled cabin-interior tone to engine and wind noise (heard as if from inside the car); no music, no dialogue."
+
+shot_4_front_view_0_18_0_19: camera: "Hard cut to a nose-on front view of the car — camera positioned directly ahead on the boulevard, framing the grille, headlights, and hood centered in frame, lens 35–50mm cine prime, static or minimal push, gimbal-steady." action: "Car approaches head-on at a steady, controlled speed, Y-shaped LED headlights and hexagonal intake clearly readable, wheels visibly rotating forward." lighting: "Overhead midday sun catches the hood and windshield with clean natural highlights, no artificial front-fill look." vfx: "Subtle heat-haze shimmer off the hot asphalt ahead of the car for realism; no CG gloss on the paint." sfx: "Engine sound growing louder as the car closes distance toward camera; no music."
+
+shot_5_cockpit_reveal_0_20_0_21: camera: "Hard cut to a right-side cockpit angle — camera positioned to the right-front of the car, sightline crossing through the windshield and, aided by the already-lowered driver-side (left) window, resolving the driver clearly inside the cabin. This is the sequence's only driver-reveal shot." action: "Driver's face and posture are fully visible — one hand resting lightly on the wheel, eyes on the road ahead, expression calm and composed, natural unstiff posture. Car maintains the same forward direction and steady speed with no lens or vehicle behavior change during the shot." lighting: "Even natural daylight, light falling cleanly across the yellow paint, windshield, and driver's face; windshield reflection kept light enough not to obscure visibility." vfx: "Windshield glass stays transparent and reflection-light, no glare occlusion of the driver." sfx: "Steady engine hum plus faint city ambience; strictly no dramatic sound swell or music entering at the reveal moment."
+
+shot_6_straight_road_rear_3_4_0_22_0_24: camera: "Hard cut to a rear-bumper 3/4 angle — camera positioned low and behind, off to one side, framing the car driving away down a straight stretch of boulevard, lens 35–50mm cine prime, gimbal-smooth tracking that holds pace with the car." action: "Car drives straight down the boulevard at a steady cruising speed, lane-centered, taillights and rear three-quarter bodywork clearly visible, wheels rotating forward, no drift or lane departure." lighting: "Overhead midday sun, road surface and rear bodywork evenly lit, skyline visible in soft haze in the background." vfx: "Light heat-shimmer off the straight road surface; ground shadow strictly limited to the car's own cast shadow." sfx: "Steady, sustained engine tone at cruising speed plus ambient city sound; no music."
+
+shot_7_side_pass_0_25_0_28: camera: "Hard cut back to a static lateral profile position, mirroring shot 2's setup — camera holds the side view of the car, gimbal-locked, no handheld sway." action: "Car holds briefly in profile again, then accelerates a second time and overtakes past the camera, exiting frame — same physical behavior as the first side-pass (visible suspension squat, tire grip, body pitch)." lighting: "Consistent overhead midday daylight, same natural exposure as shot 2 for continuity." vfx: "Real suspension compression and rebound under acceleration; clean natural motion, no CG float." sfx: "Engine note rising sharply into the pass, clean Doppler effect as the car overtakes camera; no music."
+
+shot_8_static_3_4_close_0_29_0_30: camera: "Hard cut to a static, locked-off 3/4 angle — camera fixed in position, no movement, gimbal-perfect stillness, framing a 3/4 view of the boulevard as the car enters and exits frame to close the sequence." action: "Car drives through the static frame at a steady speed and exits, completing the sequence; wheels rotating forward, no reverse, no lingering hold after exit." lighting: "Same consistent overhead midday daylight and natural color grade as the rest of the sequence, no shift in exposure for the closing shot." vfx: "Ground shadow strictly limited to the car's own cast shadow; no operator or rig shadow in frame." sfx: "Engine sound passing through and fading as the car exits frame; no music, no voiceover, no captions at any point in the closing shot."
+
+production_notes:
+
+multi_shot_cut_lock: "This sequence is strictly 8 distinct shots joined by hard cuts at the following points: 0:12, 0:15, 0:18, 0:20, 0:22, 0:25, 0:29 — strictly no smooth transitions, no cross-dissolves, no whip-pans between shots, no morphing between camera setups. Each shot is a clean cut to a new fixed or moving camera setup as specified; only shot 1 (0:01–0:12) is itself one continuous unbroken aerial move. Across every cut, the following must remain continuous: the car's identity and paint color, the boulevard geography and skyline, the direction of travel, the lighting direction and quality, and the absence of music/dialogue/captions."
+
+gimbal_stabilization_lock: "Every shot, aerial or ground-based, strictly holds gimbal-level smoothness — absolutely no handheld shake, no roll, no tilt, no high-frequency jitter, in any of the 8 shots, including the accelerating side-pass shots."
+
+optics_lock: "Every ground/tracking shot strictly uses a 35–50mm cinema prime feel (Sony Cine prime lens character), unchanged within each shot — strictly no zoom in, no zoom out, no digital zoom of any kind in any shot. Straight lines of buildings and roads strictly retain true perspective — strictly no wide-angle distortion, no fisheye curvature."
+
+forward_motion_lock: "In every shot, the car strictly drives forward — nose pointed in the direction of travel except where explicitly framed nose-on toward camera (shot 4), and never reversing. Wheels strictly rotate continuously in the direction of travel, reverse rotation strictly forbidden in any shot."
+
+vehicle_structural_identity_lock: "Strictly only this one car appears across all 8 shots — a second car of the same or different model is strictly forbidden. Doors strictly remain closed in every shot. Left-hand-drive layout strictly remains unchanged across all 8 shots — driver's seat strictly on the left side of the car in every shot, never mirrored or flipped regardless of camera side. The driver-side (left) window is strictly rolled down only during shot 5 (cockpit reveal, 0:20–0:21); in every other shot all windows strictly remain closed/unchanged."
+
+driver_appearance_window_lock: "The driver's face is strictly clearly visible only during shot 5 (0:20–0:21) — in shots 1–4 and 6–8 the face is strictly not resolved, whether due to distance, angle, motion, or framing. During shot 5, visibility is strictly achieved via the right-side cockpit camera angle through the windshield, aided by the already-lowered driver-side window — strictly NOT via a window directly facing the camera."
+
+no_operator_shadow_lock: "In every shot, the ground strictly shows only the car's own cast shadow — strictly no human-shaped shadow, camera-operator silhouette, photographer's figure, or rig shadow cast anywhere in any of the 8 shots. The aerial shot (shot 1) is strictly pure drone photography with no physical rig or ground-crew trace; the ground shots (2–8) are strictly framed with no visible operator, crew, or equipment in frame."
+
+audio_lock: "Sound throughout the sequence is strictly authentic diegetic sound only — wind, engine, and city ambience, shifting naturally shot to shot — strictly no background music or score of any kind, including any hidden musical layer, in any of the 8 shots + strictly no voiceover or dialogue of any kind + strictly no captions or on-screen text of any kind at any point."
+
+critical_constraint: "8 hard-cut shots across 30 seconds, cut points strictly at 0:12, 0:15, 0:18, 0:20, 0:22, 0:25, 0:29 — strictly no dissolves or blended transitions. Shot 1 is one continuous uncut aerial descent from the spire tip to street level, ending with the car spotlighted screen-right. Shots 2 and 7 are matching static side-profile setups where the car accelerates and passes the camera. Shot 5 is the sequence's only driver-face reveal, via the right-side cockpit angle through the windshield with the driver-side window down — strictly not visible in any other shot. The car is strictly the same single yellow LHD supercar throughout, doors closed except for the driver-side window during shot 5, always driving forward, wheels never reversing. All camera work is strictly gimbal-smooth with a 35–50mm cine-prime feel, no zoom, no distortion, no handheld shake in any shot. Ground shadows throughout strictly show only the car's own shadow, no operator or rig trace. Audio is strictly diegetic only — no music, no voiceover, no captions, throughout the entire 30 seconds."
+
+avoid: "dissolves, cross-fades, morphs, or whip-pans between shots — cuts must be hard cuts only, any shot other than shot 5 showing the driver's face clearly, the driver-side window rolled down in any shot other than shot 5, the passenger-side or any other window rolled down at any point, a second car appearing in any shot, car doors opening in any shot, the car reversing or wheels rotating backward in any shot, mirrored or flipped left-hand-drive layout, driver's seat appearing on the right side of the car, human-shaped shadow, camera-operator silhouette, or rig shadow in any of the 8 shots, camera shake, handheld feel, roll, tilt, or high-frequency jitter in any shot, zoom in, zoom out, digital zoom, wide-angle distortion, fisheye distortion, or curved building/road lines in any shot, smooth continuous single-take treatment of the whole 30 seconds (the sequence is strictly multi-shot with hard cuts, not one unbroken take beyond shot 1), background music, score, melody, hidden musical layer, voiceover, dialogue, narration, captions, or on-screen text at any point, CGI-rendered look, game-engine feel, plasticky car-paint gloss, static hovering with no sense of gravity"
+
+animation_style: "Shot 1 plays out as one continuous real-time aerial move; shots 2–8 are each a distinct, clean hard-cut setup, every shot internally in real time with no speed ramping — the sense of pace across the sequence comes from the editing rhythm of the cuts, not from slow motion or time manipulation within any single shot"
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaliya-seedance-ai-cf398f743859?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### One-Take Breakout on a Shrine Bridge in the Storm Void
 
@@ -1066,59 +1149,6 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no product labels
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Coca-Cola Fashion Transition Ad
-
-> A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
-
-[<img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="600" alt="Coca-Cola Fashion Transition Ad">](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2079810430252331482) | **公開日:** 2026-07-22 | **ヒート:** 18
-
-<details>
-<summary><b>プロンプト全文（35 行、クリックで展開）</b></summary>
-
-```
-【风格】潮流饮料变装广告（Fashion Transition Ad），竖屏9:16，真实摄影（Photorealistic）+ 平面抠像拼贴风（Cutout Collage Graphic），丝滑卡点变装，8K超清，可乐红#E61A27/纯黑/纯白三色体系
-【时长】15秒
-【场景】开场为纯白摄影棚背景；第2秒起切换为可乐红纯色背景+画面中央巨大白色曲线可乐瓶形抠像框（经典弧线瓶身剪影），背景压一层深红色"COLA"斜体大字；全程无真实品牌logo
-【角色】主角@图片1（保持参考图容貌与发型；开场穿黑色插肩长袖+黑色阔腿短裤；各段变装均为红黑白配色）
-
-[00:00-00:02] 镜头1：拧盖卡点（White Studio Open）
-纯白背景中景：主角@图片1手持无标识可乐瓶（深棕色汽水+红色瓶标），双臂交叉做两次卡点拧盖动作，第三拍"啵"一声拧开瓶盖，气泡嘶声升起。
-音效：两声节拍音、瓶盖"啵"、碳酸气泡嘶嘶声。
-
-[00:02-00:03] 镜头2：一口切世界（Snap Transition）
-她仰头喝一口，吞咽瞬间背景"啪"地整体切换：可乐红背景+白色瓶形抠像框罩住全身，深红"COLA"斜体字横贯背景。
-音效：吞咽声+重低音"咚"一声定格。
-
-[00:03-00:07] 镜头3：变装1·街头节奏（Transition Pop / Floating Props）
-瞬切变装：反戴红色棒球帽、头架白色墨镜、黑色马甲叠穿红色背心、白底黑波点裤袜+黑色短裤、红色厚底鞋，手持可乐瓶。
-她在瓶形框内做轻快跳跃舞步：单脚跳、扭胯、举瓶摆拍。
-周围漂浮红白配色道具：磁带随身听、拍立得相机、头戴耳机、采样器，白色3D立体字"气泡拉满"分布四角。
-音效：卡点节拍+道具飞入的"咻咻"声。
-
-[00:07-00:10] 镜头4：变装2·活力当下（Kick Jump Pose）
-瞬切变装：白色棒球帽、白T印红色图案、红黑外套系在腰间、黑色短裤、红色高帮帆布鞋。
-她做踢腿跳跃定格姿态，随后落地转身摆胯。
-漂浮道具换成：红色帆布鞋、白色鸭舌帽、红白相机、墨镜，3D立体字换为"痛快当夏"。
-音效：节拍延续+跳跃落地"砰"。
-
-[00:10-00:13] 镜头5：变装3·夏日漂浮（Floating Summer）
-瞬切变装：白色一字肩短上衣、红白条纹短裤、赤足，身体呈漂浮泳姿斜躺在瓶形框中，手持可乐瓶。
-周围漂浮：红白条纹泳圈、小黄鸭、红色人字拖、白色网兜包，3D立体字"离开地心引力"。
-音效：节拍转轻盈+水泡"咕噜"声。
-
-[00:13-00:15] 镜头6：产品海报收尾（End Card）
-瞬切至海报画面：红黑斜切双色背景，中央一瓶无标识可乐瓶特写（深棕汽水、红瓶标、白色"COLA"字样），瓶身挂着细密水珠。
-白色斜体大字从两侧弹入："可乐爽人瓶"，下方一行小字"#爽出你的痛快#"。
-画面定格，不淡出。
-音效：最后一记重音+气泡嘶声收尾。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Claymation Cat World Transformation
 
 > A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
@@ -1242,6 +1272,59 @@ Anime visual reference sheet, Studio Ghibli art style, clean cream white backgro
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-fecae6e34928?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Coca-Cola Fashion Transition Ad
+
+> A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
+
+[<img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="600" alt="Coca-Cola Fashion Transition Ad">](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2079810430252331482) | **公開日:** 2026-07-22 | **ヒート:** 17
+
+<details>
+<summary><b>プロンプト全文（35 行、クリックで展開）</b></summary>
+
+```
+【风格】潮流饮料变装广告（Fashion Transition Ad），竖屏9:16，真实摄影（Photorealistic）+ 平面抠像拼贴风（Cutout Collage Graphic），丝滑卡点变装，8K超清，可乐红#E61A27/纯黑/纯白三色体系
+【时长】15秒
+【场景】开场为纯白摄影棚背景；第2秒起切换为可乐红纯色背景+画面中央巨大白色曲线可乐瓶形抠像框（经典弧线瓶身剪影），背景压一层深红色"COLA"斜体大字；全程无真实品牌logo
+【角色】主角@图片1（保持参考图容貌与发型；开场穿黑色插肩长袖+黑色阔腿短裤；各段变装均为红黑白配色）
+
+[00:00-00:02] 镜头1：拧盖卡点（White Studio Open）
+纯白背景中景：主角@图片1手持无标识可乐瓶（深棕色汽水+红色瓶标），双臂交叉做两次卡点拧盖动作，第三拍"啵"一声拧开瓶盖，气泡嘶声升起。
+音效：两声节拍音、瓶盖"啵"、碳酸气泡嘶嘶声。
+
+[00:02-00:03] 镜头2：一口切世界（Snap Transition）
+她仰头喝一口，吞咽瞬间背景"啪"地整体切换：可乐红背景+白色瓶形抠像框罩住全身，深红"COLA"斜体字横贯背景。
+音效：吞咽声+重低音"咚"一声定格。
+
+[00:03-00:07] 镜头3：变装1·街头节奏（Transition Pop / Floating Props）
+瞬切变装：反戴红色棒球帽、头架白色墨镜、黑色马甲叠穿红色背心、白底黑波点裤袜+黑色短裤、红色厚底鞋，手持可乐瓶。
+她在瓶形框内做轻快跳跃舞步：单脚跳、扭胯、举瓶摆拍。
+周围漂浮红白配色道具：磁带随身听、拍立得相机、头戴耳机、采样器，白色3D立体字"气泡拉满"分布四角。
+音效：卡点节拍+道具飞入的"咻咻"声。
+
+[00:07-00:10] 镜头4：变装2·活力当下（Kick Jump Pose）
+瞬切变装：白色棒球帽、白T印红色图案、红黑外套系在腰间、黑色短裤、红色高帮帆布鞋。
+她做踢腿跳跃定格姿态，随后落地转身摆胯。
+漂浮道具换成：红色帆布鞋、白色鸭舌帽、红白相机、墨镜，3D立体字换为"痛快当夏"。
+音效：节拍延续+跳跃落地"砰"。
+
+[00:10-00:13] 镜头5：变装3·夏日漂浮（Floating Summer）
+瞬切变装：白色一字肩短上衣、红白条纹短裤、赤足，身体呈漂浮泳姿斜躺在瓶形框中，手持可乐瓶。
+周围漂浮：红白条纹泳圈、小黄鸭、红色人字拖、白色网兜包，3D立体字"离开地心引力"。
+音效：节拍转轻盈+水泡"咕噜"声。
+
+[00:13-00:15] 镜头6：产品海报收尾（End Card）
+瞬切至海报画面：红黑斜切双色背景，中央一瓶无标识可乐瓶特写（深棕汽水、红瓶标、白色"COLA"字样），瓶身挂着细密水珠。
+白色斜体大字从两侧弹入："可乐爽人瓶"，下方一行小字"#爽出你的痛快#"。
+画面定格，不淡出。
+音效：最后一记重音+气泡嘶声收尾。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### High-End Lifestyle Lipstick Commercial Video
 
@@ -3170,6 +3253,24 @@ output_rules:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yaml-629d172a4820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Retro Soda Ad Crimson Cola
+
+> An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
+
+[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="Retro Soda Ad Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @DjajaYerry75 | **出典:** [元投稿](https://x.com/DjajaYerry75/status/2080666062690140315) | **公開日:** 2026-07-24 | **ヒート:** 4
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 84.3) · [出力](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Vox-Style Historical Collage Animation
 
 > An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
@@ -3391,244 +3492,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-96017ad7706f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Epic Ice Fantasy: Titan Awakening
-
-> A grand cinematic prompt depicting a stunning scene of an ice titan breaking free from a glacier in a frozen valley.
-
-[<img src="https://media.goodcase.ai/media/poster/case-579dd9bdd240.jpg" width="600" alt="Epic Ice Fantasy: Titan Awakening">](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @abxxai | **出典:** [元投稿](https://x.com/abxxai/status/2081023473305162165) | **公開日:** 2026-07-25 | **ヒート:** 3
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
-
-```
-SCENE CONTEXT
-RIMEBORN. In a frozen valley of an original ice-fantasy world, a mountain-sized titan of layered ice and stone tears itself free from a millennia-old glacier as an army of armored wardens scrambles across the frozen field below, a war-horn ripping across the plain. Timed multishot, five hard cuts across 10 seconds, one shared valley, one titan, one army throughout.
-
-ACTIVE REFERENCES
-@titan: mountain-sized ice-and-stone colossus, humanoid silhouette, body built of fractured basalt slabs seamed by ancient blue ice, ice-plated shoulders and back crusted a meter thick with hoarfrost, joints and eye-sockets and rib-seams glowing with pale-cyan runes carved deep into the stone. Original design. 100% matches the reference.
-@wardens: armored foot-soldiers in weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, long spears and rimed shields, no faction crest or logo. Original design. 100% matches the reference.
-@warhorn: a curled black bone horn as long as a warden is tall, bound in leather and iron rings, held at chest height by a single horn-bearer.
-STYLE REFERENCE ONLY, not a fixed keyframe; model extends the world freely, never reproduced 1:1.
-
-LOCATION MAP
-Foreground: fractured glacier surface, blue-ice slabs shot through with dark grit, powder snow drifting sideways at 20 km/h. Midground: the wardens crossing the field 200 meters below the titan, tiny against the scale, spears and shields catching the flat light. Background: the glacier wall itself, kilometers of vertical ice cracking apart around the emerging titan, snow plumes rising several hundred meters into a leaden overcast sky. Camera moves along a chest-height and then rising line down the valley floor, always with the titan camera-right or dead-center.
-
-SCALE LOCK
-@titan stands as tall as roughly two hundred wardens stacked head to toe. A single warden reads as a fingernail against the titan's shin in the establishing wide. Ice slabs shearing off the titan's shoulder each read as wide as ten wardens laid head to toe. The size gap holds identical every frame.
-
-FIRST FRAME / BLOCKING
-Non-empty opening frame: @titan is already mid-tear-out, right arm already ripping free from the glacier wall with a sheet of ice already fracturing off the shoulder, @wardens already running across the ice below, the horn-bearer already lifting @warhorn. Nothing is frozen, everything is already in motion. Rule of thirds: the titan held on the right two-thirds vertical, the horizon line on the lower third, wardens on the lower left third.
-
-FORMAT MODE
-Timed multishot, exactly FOUR HARD CUTS at 2.5s, 4.5s, 6.5s, 8.0s. The camera does not cut on its own; cuts only at the specified points.
-0.0s to 2.5s — CUT 1, real time
-2.5s HARD CUT
-2.5s to 4.5s — CUT 2, real time
-4.5s HARD CUT
-4.5s to 6.5s — CUT 3, real time
-6.5s HARD CUT
-6.5s to 8.0s — CUT 4, real time
-8.0s HARD CUT
-8.0s to 10.0s — CUT 5, real time
-
-OPTICS
-CUT 1: EWS at 84° FOV sweeping wide establishing the full valley and titan. CUT 2: MS at 29° FOV portrait compression on the titan's shoulder as ice sheets shear off. CUT 3: WS at 63° FOV low across the crevasse rim as wardens dive clear. CUT 4: MCU at 29° FOV on the horn-bearer, horn lifted to lips. CUT 5: EWS at 107° FOV super-wide rectilinear on the full glacier splintering with runes flaring. Rectilinear with anamorphic optical flares, 180° shutter motion blur, prime-lens character, no drift mid-segment.
-
-CAMERA
-Handheld throughout with 3 to 5 cm of shake, shake spiking hard on every cracking impact from the titan. CUT 1: chest-height sweep at 15 km/h left-to-right across the valley floor, catching the full scale. CUT 2: whip-in and hold at 20 meters from the shoulder, camera flinching as slabs shear past. CUT 3: low-angle at knee-height on the crevasse edge, wardens diving over the lens. CUT 4: tight on the horn-bearer, camera pressing in 30 cm as the horn sounds. CUT 5: pulled back and rising crane to 80 meters above the valley floor, wide vantage, gimbal weighty. Wide tonal latitude, soft highlight roll-off, whites hold detail without clipping.
-
-ACTION
-CUT 1 — Subject: @titan tears its right arm and shoulder free from the glacier wall, basalt-and-ice mass grinding against ice, a wall of powder snow erupting behind it hundreds of meters high; @wardens sprint across the frozen field in a scattered line, spears and shields flashing. Camera: sweeping wide dolly along the valley floor at 15 km/h, shake spiking as the titan's arm lands its first step-load.
-CUT 2 — Subject: massive sheets of blue ice shear off @titan's shoulder and back, tumbling in slabs the size of buildings, hoarfrost crust exploding into powder mid-fall, runes along the shoulder flaring pale-cyan as the plates shed. Camera: whip-in, holds on the shoulder as three slabs fall past the frame, shake hard.
-CUT 3 — Subject: @wardens dive clear as a crevasse collapses under them, two soldiers throwing themselves flat and rolling as the ice gives way, spears skittering across the surface, powder snow plumes rising vertical. Camera: low-angle handheld, wardens leaping over the lens, shake violent on the collapse.
-CUT 4 — Subject: the horn-bearer lifts @warhorn to their lips and blows one long note, chest visibly expanding, breath fogging in the cold, the sound carrying across the field as other wardens turn their heads toward it. Camera: tight handheld, presses in 30 cm as the note sounds.
-CUT 5 — Subject: @titan pulls its full torso free of the glacier wall, the whole glacier splintering apart around it in a cascade of fracturing ice, runes along both arms and the ribcage flaring bright cyan at once, snow erupting in vast vertical plumes across the entire valley. Camera: pulled back to a vast super-wide, rising crane, catching the primordial scale in one held frame, HARD CUT at 10.0s.
-
-PERFORMANCE
-@titan performs with geological slowness and crushing weight — every movement loaded before it lands, joints grinding stone on stone, no theatrical flourish. @wardens read as terrified working soldiers, not heroes: eyes wide, mouths open, breath fogging hard, one soldier stumbling and being pulled up by another mid-cut. The horn-bearer reads as steady and old, jaw set, eyes tracking the titan. Pore-level realism on the horn-bearer's face: vellus hair, asymmetric moles, capillary flush from the cold, wet living eyes with catch-lights, visible breath and chest rise. Restrained and human across the army, never cartoonish. Top-tier cinematic restraint.
-
-PHYSICS
-Mass and inertia carry through every movement of @titan — the arm loads before it tears free and drags the whole torso with it. Ice slabs fall with real weight, not lightweight fragments; they shatter on impact with the glacier floor, not float. Snow plumes obey the crosswind vector at 20 km/h and shear leftward across the valley. Wardens have real body weight — diving bodies land hard, not softly, and slide on the ice with correct friction. The horn's vibration reads faintly in loose snow at the horn-bearer's feet. Nothing floats. Correct contact shadows read clearly where titan meets glacier and warden meets ice.
-
-LIGHTING
-WB locked 6500K cold overcast daylight, flat and even, sun fully occluded by leaden cloud. Key is a broad diffuse top-light with no direct sun. The only emitted light in the world is the pale-cyan 5500K rune glow along @titan's joints, eye-sockets, and rib-seams, which spills onto the surrounding hoarfrost and briefly reflects in the wardens' plate on close cuts. Camera on the shadow side of the titan across all wide cuts. Faint atmospheric haze at 30% at the glacier wall, thickening into the snow plumes.
-
-COLOR GRADE
-Stark white in the snow and powder, frozen blue in the deep ice seams, near-black in the fractured basalt of the titan's core, leaden grey in the sky; every cold tone comes from real material and light bounce, not a filter. Rune cyan lives only in the carved channels — joints, eye-sockets, ribcage seams — and its spill onto immediate hoarfrost. Warden plate reads as dark weathered steel with cold reflections. Blacks stay open with detail in the basalt, highlights roll off in the snow. Color tied to source and surface, not a flat list.
-
-WARDROBE
-@wardens wear weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, iron-rimmed shields, cold-numbed hands in gloves. Fur crusted with ice at the seams. No faction crest, no logo. The horn-bearer wears the same but with a heavier fur mantle and a leather baldric holding @warhorn.
-
-AUDIO
-NO MUSIC. SFX ONLY — diegetic sound and live audio throughout. No score, no soundtrack, no background music of any kind. CUT 1: sub-bass glacier groaning, ice cracking in long tearing sheets, wardens' plate rattling and boots crunching on ice, wind at 20 km/h. CUT 2: massive stone-on-ice grind, slabs shattering as they hit the glacier floor, rune flare with a low harmonic hum. CUT 3: sharp ice crack, powder snow whumphs, wardens' shouts and grunts, one spear clattering on ice. CUT 4: the horn's long low note, one held bass tone spreading across the valley, warden breath fogging audibly. CUT 5: a full-body glacier splintering roar, layered ice-shear, one titanic bass groan from @titan itself. No dialogue, no subtitles.
-
-STYLE
-8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, 35mm film character, crushing primordial-scale epic look, hyperdetailed ice, snow, hoarfrost, basalt, weathered steel.
-
-OUTPUT SETTINGS
-10 seconds, five cuts, 16:9, 8K ultra-high-definition, 24 fps, real-time throughout, anamorphic flare character on rune spill.
-
-POSITIVE LOCKS
-One shared valley, one @titan, same @wardens and @warhorn across all five cuts, identical every frame, no morphing, no drift. @titan stays mountain-sized against the wardens throughout — the scale relationship holds exactly: 200 wardens tall in every wide, one warden a fingernail against the shin. Runes stay pale cyan and stay carved into the stone, they do not migrate. Handheld shake spikes on every titan movement and every ice collapse, never smooths out. Camera stays third-person outside the army throughout the 10 seconds. Warden eyes stay natural — no eye glow; the only emitted light in the world is @titan's runes. Contact shadows read clearly where titan meets glacier and warden meets ice. Ice slabs fall with mass, never floating. Snow travels on one consistent wind vector. Clean frame throughout — no logos, no UI, no text overlays, no subtitles, no watermark, no dragons or unrelated creatures in shot.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Emotional Kyoto Travel Vlog Animation
-
-> A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg" width="600" alt="Emotional Kyoto Travel Vlog Animation">](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MrDasOnX | **出典:** [元投稿](https://x.com/MrDasOnX/status/2080908954079760476) | **公開日:** 2026-07-25 | **ヒート:** 3
-
-```
-<<<image_1>>> Animate each of the 12 frames into a smooth, connected emotional vlog. Natural handheld camera movement with gentle shake. Flow the scenes naturally: sakura walk → teahouse → Philosopher’s Path → torii gate → bamboo grove → street food → temple → bicycle ride → ryokan rest → rainy umbrella → Kamo River sunset → zen garden moment. Keep the woman’s graceful presence, flowing hair, and soft expressions. Add subtle cherry blossom petals drifting, gentle wind, and authentic ambient sounds. Cinematic color grading, nostalgic film look, 24fps, vertical phone-style aspect with slight letterboxing if needed. Emotional, peaceful travel vlog atmosphere.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Retro Soda Ad Crimson Cola
-
-> An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
-
-[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="Retro Soda Ad Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @DjajaYerry75 | **出典:** [元投稿](https://x.com/DjajaYerry75/status/2080666062690140315) | **公開日:** 2026-07-24 | **ヒート:** 3
-
-**安定度:** 84/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 84.3) · [出力](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Tactile Papercut-Style Product Showcase
-
-> A luxury perfume product showcase prompt designed for Seedance 2.0, using a tactile papercut stop-motion style.
-
-[<img src="https://media.goodcase.ai/media/poster/case-7aea1313f63b.jpg" width="600" alt="Tactile Papercut-Style Product Showcase">](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @thesocialalpha_ | **出典:** [元投稿](https://x.com/thesocialalpha_/status/2073075642996777159) | **公開日:** 2026-07-03 | **ヒート:** 3
-
-<details>
-<summary><b>プロンプト全文（10 行、クリックで展開）</b></summary>
-
-```
-Use @image1 as the exact final hero-frame composition. Use @image2 as the strict product identity lock.
-Animate like a premium tactile editorial paper-cut product reveal: layered cardstock pieces slide, fold, pop up, and settle with tiny stop-motion overshoot. Mostly locked camera, subtle tabletop parallax only. Physical paper shadows under every layer.
-PRODUCT LOCK: preserve the perfume bottle silhouette, white geometric lattice, aqua-blue inner body, square cap, central RAYHAAN plaque, front-facing readability, and luxury material finish from @image2.
-SHOT 1, 16:9, 6 seconds:
-0-1.2s: The Dubai paper city comes to life. Skyscrapers lift in staggered layers, small clouds slide, and aqua paper water waves shimmer forward.
-1.2-2.6s: The product folds into place. White panels flip inward, the aqua inner body slides behind the lattice, the cap drops on, and the bottle settles cleanly on the plinth.
-2.6-4.2s: Ingredients animate once around the product. Bergamot and lemon slices rotate gently, grapefruit blossoms open, Calone waves ripple, and sandalwood strips slide into a neat base.
-4.2-6s: The note cards fold in top-to-bottom: TOP “Bergamot, Lemon”, MIDDLE “Grapefruit blossom”, BASE “Calone, Sandalwood”. Preserve exact readable text. End fully settled on @image1.
-Sound design: crisp paper slides, dry cardstock flicks, soft paper taps, tiny adhesive-peel folds, subtle paper-water shimmer. No music, no voiceover, no extra captions.
-Constraints: no new text, no misspellings, no duplicated labels, no warped product, no melting or liquid morphing, no CGI camera flythrough, no hands, no people, no watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Rooftop Chase Action Phrase
-
-> A detailed action phrase for Seedance 2.0, describing a chase scene in which a character crouches on the edge of a rooftop under a spotlight and leaps across a gap.
-
-[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="Rooftop Chase Action Phrase">](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @LANDCASTER_92 | **出典:** [元投稿](https://x.com/LANDCASTER_92/status/2081432738683314614) | **公開日:** 2026-07-26 | **ヒート:** 2
-
-**安定度:** 70/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 69.8) · [出力](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（47 行、クリックで展開）</b></summary>
-
-```
-Urban Escape Scene
-
-Models ( GPT Image-2 + Seedance 2.0)
-
-Seedance Prompts 2/3
-
-MOTION PHRASES:
-
-P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
-
-P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
-
-P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
-
-P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
-
-P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
-
-P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
-
-P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
-
-P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
-
-P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
-
-Seedance Prompts 3/3
-
-MOTION PHRASES:
-
-P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
-
-P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
-
-P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
-
-P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
-
-P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
-
-P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
-
-P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
-
-P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
-
-P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### FPV Drone Flight in New York
-
-> A hyperrealistic, highly cinematic drone flight prompt set in New York City, featuring complex FPV control techniques and golden-hour lighting effects.
-
-[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="FPV Drone Flight in New York">](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @KrevixAi | **出典:** [元投稿](https://x.com/KrevixAi/status/2081427105435255093) | **公開日:** 2026-07-26 | **ヒート:** 2
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

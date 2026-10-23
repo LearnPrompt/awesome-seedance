@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 903 ケースをすべて元投稿と照合、495 回のクロスモデル再テスト、27 個の再利用可能テンプレート、80 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1951 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
+**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 915 ケースをすべて元投稿と照合、495 回のクロスモデル再テスト、27 個の再利用可能テンプレート、80 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 1951 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -38,7 +38,7 @@ AI 動画が初めてでも、この 5 ステップで自分のクリップが�
 | 4 | 参照画像と一緒に任意の AI チャット（ChatGPT、Claude、Gemini）に送ると、完成したプロンプトが返ってきます。 |
 | 5 | そのプロンプトを Seedance（Dreamina / 即夢）に貼って生成します。うまくいかないときはテンプレートの落とし穴を確認して再実行します。 |
 
-**テンプレートと Skill、どちらを使う？** テンプレートは 903 件の検証済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。
+**テンプレートと Skill、どちらを使う？** テンプレートは 915 件の検証済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。
 
 |  | [プロンプトテンプレート](#-カテゴリ別プロンプトテンプレート) | [Skill](#-skill) |
 | --- | --- | --- |
@@ -276,10 +276,10 @@ AI 動画 Skill は合計 80 個です。goodcase.ai の 64 個（公式 21 個 
 
 ## 🎬 全プロンプト
 
-全 903 ケースのプロンプト全文は `docs/` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:
+全 915 ケースのプロンプト全文は `docs/` 配下のギャラリーにあります（GitHub が描画できるようページ分割）。[ギャラリー索引](./docs/gallery.ja.md)から入るか、バージョンへ直接ジャンプ:
 
-- Seedance 2.5 - 607 件: [Part 1（1–85 件目）](./docs/gallery-seedance-2-5-part-1.ja.md) · [Part 2（86–160 件目）](./docs/gallery-seedance-2-5-part-2.ja.md) · [Part 3（161–256 件目）](./docs/gallery-seedance-2-5-part-3.ja.md) · [Part 4（257–352 件目）](./docs/gallery-seedance-2-5-part-4.ja.md) · [Part 5（353–446 件目）](./docs/gallery-seedance-2-5-part-5.ja.md) · [Part 6（447–530 件目）](./docs/gallery-seedance-2-5-part-6.ja.md) · [Part 7（531–598 件目）](./docs/gallery-seedance-2-5-part-7.ja.md) · [Part 8（599–607 件目）](./docs/gallery-seedance-2-5-part-8.ja.md)。
-- Seedance 2.0 - 296 件: [Part 1（1–89 件目）](./docs/gallery-seedance-2-0-part-1.ja.md) · [Part 2（90–191 件目）](./docs/gallery-seedance-2-0-part-2.ja.md) · [Part 3（192–278 件目）](./docs/gallery-seedance-2-0-part-3.ja.md) · [Part 4（279–296 件目）](./docs/gallery-seedance-2-0-part-4.ja.md)。
+- Seedance 2.5 - 615 件: [Part 1（1–82 件目）](./docs/gallery-seedance-2-5-part-1.ja.md) · [Part 2（83–156 件目）](./docs/gallery-seedance-2-5-part-2.ja.md) · [Part 3（157–253 件目）](./docs/gallery-seedance-2-5-part-3.ja.md) · [Part 4（254–351 件目）](./docs/gallery-seedance-2-5-part-4.ja.md) · [Part 5（352–442 件目）](./docs/gallery-seedance-2-5-part-5.ja.md) · [Part 6（443–532 件目）](./docs/gallery-seedance-2-5-part-6.ja.md) · [Part 7（533–600 件目）](./docs/gallery-seedance-2-5-part-7.ja.md) · [Part 8（601–615 件目）](./docs/gallery-seedance-2-5-part-8.ja.md)。
+- Seedance 2.0 - 300 件: [Part 1（1–89 件目）](./docs/gallery-seedance-2-0-part-1.ja.md) · [Part 2（90–194 件目）](./docs/gallery-seedance-2-0-part-2.ja.md) · [Part 3（195–277 件目）](./docs/gallery-seedance-2-0-part-3.ja.md) · [Part 4（278–300 件目）](./docs/gallery-seedance-2-0-part-4.ja.md)。
 
 ## 🌐 goodcase.ai で閲覧
 
@@ -301,13 +301,13 @@ AI 動画 Skill は合計 80 個です。goodcase.ai の 64 個（公式 21 個 
 
 | 指標                    | 値                     |
 | --------------------- | --------------------- |
-| このリポジトリの Seedance ケース | 903                   |
-| Seedance 2.5          | 607                   |
-| Seedance 2.0          | 296                   |
-| 作者数                   | 202                   |
+| このリポジトリの Seedance ケース | 915                   |
+| Seedance 2.5          | 615                   |
+| Seedance 2.0          | 300                   |
+| 作者数                   | 204                   |
 | 他モデルでの再テスト            | 483 件 / 495 回         |
 | 安定度スコア（測定済み）          | 478 件 / 平均 78.0       |
-| 最終更新                  | 2026-10-23            |
+| 最終更新                  | 2026-10-24            |
 | goodcase.ai 全カテゴリ     | 1951 件 / クリエイター 466 人 |
 | goodcase.ai AI 動画     | 1132 件                |
 

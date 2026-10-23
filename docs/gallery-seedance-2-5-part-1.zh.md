@@ -1,10 +1,10 @@
-# Seedance 2.5 — 全量案例（第 1/7 页）
+# Seedance 2.5 — 全量案例（第 1/8 页）
 
-Seedance 2.5 全部 607 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 615 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–86 条，共 607 条。
+本页：第 1–84 条，共 615 条。
 
-← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
+← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 
 ### 复古餐厅时间冻结与倒放
 
@@ -1716,6 +1716,134 @@ The camera naturally lowers a little as he walks further along the path beside t
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 2050年粉发女子驾车穿行空中车流下
+
+> Situations in 2050 be like Seedance 2.5 on @DomoAI_ prompt TITLE: POV — DRIVING IN 2050 Create a 10-second ultra-photorealistic futuristic video showing a beaut…
+
+[<img src="https://media.goodcase.ai/cases/4fad348af447.jpg" width="600" alt="2050年粉发女子驾车穿行空中车流下">](https://goodcase.ai/cases/seedance-2-5-situations-in-2050-be-like-0a938337ddb0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2112913908617158822) | **发布:** 2026-10-21 | **热度:** 92
+
+<details>
+<summary><b>完整 prompt（110 行，点开展开）</b></summary>
+
+```
+Situations in 2050 be like
+
+Seedance 2.5 on @DomoAI_ 
+
+prompt
+
+TITLE: POV — DRIVING IN 2050
+
+Create a 10-second ultra-photorealistic futuristic video showing a beautiful young woman casually driving along a highway in the year 2050, while hundreds of autonomous flying vehicles travel overhead in perfectly organized aerial traffic lanes.
+
+MAIN CHARACTER — STRICT IDENTITY CONSISTENCY
+
+A beautiful 23-year-old woman with long, straight pastel-pink hair, delicate facial features, realistic fair skin with visible natural texture, soft pink makeup, and subtle glossy lips.
+
+She wears:
+A fitted blue denim sleeveless top.
+A futuristic metallic silver choker necklace.
+Bright blue statement earrings.
+A black seatbelt across her chest.
+
+Maintain her exact face, hairstyle, outfit, proportions, and accessories throughout.
+
+SCENE 1 — 0:00–0:02 | INSIDE THE CAR
+Start with a fixed dashboard-mounted smartphone camera facing the woman from the passenger side.
+
+She sits behind the steering wheel of a modern luxury vehicle, driving casually.
+
+Warm golden-hour sunlight streams through the side window, illuminating her pink hair and face.
+
+She looks ahead at the road, then briefly glances toward the camera with a subtle, amused smile.
+
+The vehicle interior is realistic, with black leather seats, a dark roof, and natural windshield reflections.
+
+SCENE 2 — 0:02–0:04 | THE FUTURISTIC HIGHWAY REVEAL
+
+Hard cut to a spectacular elevated wide-angle view of a massive multilane highway at sunset.
+A dark luxury SUV drives along the nearly empty highway.
+
+Above the highway, hundreds of futuristic autonomous flying vehicles hover and travel in tightly organized aerial traffic lanes.
+
+The flying vehicles have compact aerodynamic bodies, metallic silver and dark-gray surfaces, and advanced concealed propulsion systems.
+
+They move smoothly in synchronized formations, maintaining precise distances from one another.
+
+Some fly directly above the highway while others stretch toward the horizon, creating a dense futuristic transportation network.
+
+Golden sunlight reflects off their metallic surfaces.
+
+SCENE 3 — 0:04–0:06 | BACK TO THE DRIVER
+
+Hard cut back to the same dashboard camera angle.
+
+The pink-haired woman continues driving completely unfazed by the extraordinary traffic system outside.
+She rests one hand naturally on the steering wheel and looks toward the windshield with a playful, slightly impressed expression.
+
+Sunlight shifts across her face as the vehicle moves.
+
+Her facial movements are subtle, natural, and believable.
+
+SCENE 4 — 0:06–0:08 | MASSIVE AERIAL TRAFFIC
+
+Cut to a dramatic elevated tracking shot following the dark SUV along the highway.
+
+The camera reveals an enormous formation of flying vehicles stretching across the sky.
+
+Several vehicles glide directly above the camera while hundreds more move across multiple aerial levels.
+The futuristic traffic looks technologically advanced but physically believable.
+
+Below, the dark SUV continues along the sunlit road, appearing tiny beneath the immense aerial transportation network.
+
+Warm orange sunlight, long road shadows, atmospheric haze, and realistic metallic reflections create a spectacular cinematic atmosphere.
+
+SCENE 5 — 0:08–0:10 | FINAL REACTION
+
+Cut back inside the car.
+
+The same pink-haired woman looks toward the camera and gives a small, knowing smile before returning her attention to the road.
+
+Golden sunlight illuminates her face.
+
+End on her calm, confident expression.
+CAMERA AND VISUAL STYLE
+
+Authentic smartphone dashboard-camera footage for interior shots.
+
+Spectacular aerial cinematography for exterior shots.
+
+Realistic handheld micro-vibrations inside the moving car.
+
+Natural sunlight, believable shadows, and atmospheric depth.
+
+Photorealistic flying vehicles with convincing scale, movement, and reflections.
+
+Smooth aerial tracking with realistic motion blur.
+Warm sunset color palette.
+Natural skin texture, visible pores, realistic hair movement.
+Strong contrast between ordinary everyday driving and extraordinary futuristic transportation.
+ON-SCREEN TEXT
+Small, simple white text reading "2050" positioned near the top center throughout the video.
+AUDIO
+Natural road noise, soft futuristic electric propulsion hums, subtle wind sounds, and a dreamy futuristic electronic soundtrack.
+NEGATIVE PROMPT
+
+No cartoon rendering, no anime, no video-game graphics, no artificial CGI-looking humans, no face morphing, no changing hair color, no inconsistent outfits, no distorted steering wheel, no extra fingers, no unrealistic flying vehicle collisions, no chaotic flight patterns, no flickering objects, no unnatural facial expressions, no excessive neon lighting, no dark nighttime setting.
+
+FINAL GOAL
+
+Make the video feel like an authentic viral social media clip recorded in the year 2050, where flying cars have become so ordinary that the woman barely reacts to hundreds of them passing overhead.
+
+#DomoAI #DomoAICPP
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-situations-in-2050-be-like-0a938337ddb0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 金甲骑士在废墟教堂中抵御恶魔
 
@@ -4211,6 +4339,255 @@ Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌,
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 老妇珍藏的红围巾与枫树下的初恋
+
+> MEET ME UNDER THE MAPLE TREE A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autum…
+
+[<img src="https://media.goodcase.ai/cases/e1f01c1e6101.jpg" width="600" alt="老妇珍藏的红围巾与枫树下的初恋">](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @JuliaClarky | **来源:** [原帖](https://x.com/JuliaClarky/status/2112763209836835000) | **发布:** 2026-10-21 | **热度:** 86
+
+<details>
+<summary><b>完整 prompt（231 行，点开展开）</b></summary>
+
+```
+MEET ME UNDER THE MAPLE TREE
+
+A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autumn romance in 1998 to a nostalgic moment in the present, this animated cinematic story brings timeless love to life with Seedance 2.5 on @openart_ai.
+
+What memory would you keep forever? 
+
+Prompt
+
+Duration: 20 seconds | Cinematic 3D Animation | Korean Romance | Autumn Nostalgia | 16:9
+ANIMATION STYLE AND VISUAL DIRECTION
+Create a stunning, high-quality cinematic 3D animated short film set in South Korea. Use sophisticated character animation, beautifully detailed environments, realistic fabric textures, expressive faces, delicate lighting, and fluid natural movements.
+The visual style should combine the charm of a beautifully animated romantic film with the emotional depth and cinematic composition of a nostalgic Korean love story.
+Characters should have elegant, attractive facial features, expressive eyes, beautifully animated hair, and subtly stylized proportions while maintaining believable anatomy. Skin, knitted fabric, wood, falling leaves, and lighting should have rich, detailed textures.
+
+Use warm autumn colors, golden sunlight, burgundy-red accents, soft atmospheric depth, delicate depth of field, and subtle film grain.
+
+Important: This is a fully animated 3D film, not live-action. Avoid flat 2D animation, exaggerated cartoon proportions, childish character designs, anime styling, or plastic-looking 3D characters.
+
+CHARACTER DESIGN AND CONTINUITY
+
+THE ELDERLY WOMAN — PRESENT DAY
+
+A graceful, exceptionally beautiful 72-year-old Korean woman with delicate facial features, expressive dark eyes, elegant silver-black hair tied loosely at the back, and naturally detailed age lines.
+
+Her face should communicate kindness, wisdom, warmth, and a lifetime of beautiful memories. Her wrinkles should be delicately rendered rather than exaggerated. Give her a gentle smile and expressive eyes that can communicate happiness and nostalgia without dialogue.
+
+She wears a vintage cream knitted cardigan over a muted-brown dress.
+
+Her home is an old, cozy Korean wooden house featuring traditional wooden windows, faded curtains, aged furniture, a small wooden cabinet, an old analogue clock, and warm afternoon sunlight streaming inside.
+
+On a wooden table sits an old keepsake box containing a faded photograph and a carefully preserved deep-red knitted scarf.
+
+THE YOUNG WOMAN — 1998 FLASHBACK
+
+The exact same character at 23 years old.
+
+She is exceptionally beautiful, with delicate Korean facial features, large expressive dark eyes, smooth skin, long glossy black hair with soft bangs, and a naturally charming smile.
+
+Her character design should feel elegant, romantic, and timeless, with subtle stylization, detailed hair strands, expressive facial animation, and graceful movements.
+
+She wears a vintage cream wool coat, an ivory blouse, a dark pleated skirt, and a beautiful deep-red knitted scarf given to her by her first love.
+
+The scarf must have detailed wool fibers, visible knitted patterns, soft folds, and natural movement.
+
+THE BOYFRIEND — 1998 FLASHBACK
+
+An exceptionally handsome 25-year-old Korean man with expressive dark eyes, a naturally defined jawline, thick black hair styled in a classic late-1990s Korean fashion, and a warm, sincere smile.
+
+He wears a charcoal wool overcoat, a cream knitted sweater, dark trousers, and vintage leather shoes.
+
+His animated expressions should be subtle and believable. His smile should feel shy, affectionate, and genuine.
+
+Both characters must remain visually consistent throughout the flashback, with matching facial features, hairstyles, clothing, and proportions.
+
+SCENE 1 — THE KEEPSAKE
+
+TIME: 0–5 SECONDS
+
+Inside a cozy old Korean wooden house, golden autumn sunlight streams through faded curtains.
+
+Outside the window, red, amber, and golden maple leaves drift gently through the air.
+
+The elderly woman sits beside a wooden table and slowly opens an old wooden keepsake box.
+
+Inside is a faded photograph of her younger self standing beside a handsome young Korean man beneath a maple tree.
+
+A deep-red knitted scarf rests carefully beneath the photograph.
+
+She gently lifts the scarf with both hands. Her fingers softly move across its knitted texture.
+
+A small, affectionate smile appears on her face. Her eyes glisten with a subtle tear as she remembers her first love.
+
+Her expression is peaceful, happy, and filled with gratitude.
+
+CAMERA: Slow cinematic push-in, beginning with a medium shot of the woman before moving into detailed close-ups of her hands, the red scarf, and the faded photograph.
+
+ANIMATION DETAILS: Subtle hand movements, natural blinking, gentle breathing, delicate facial expressions, and softly moving curtains.
+
+LIGHTING: Warm amber sunlight, soft shadows, beautiful highlights on the knitted wool, and realistic light bouncing off the wooden furniture.
+
+SCENE 2 — A HAPPY MEMORY
+
+TIME: 5–10 SECONDS
+
+The camera slowly moves toward the old photograph.
+
+The photograph fills the screen, and its image gradually transforms into a living, animated memory.
+
+Suddenly, we are transported to autumn 1998.
+
+A beautiful young Korean woman stands beneath a magnificent maple tree in a peaceful university garden. Golden leaves float around her as a gentle breeze moves her long black hair.
+
+She wears her cream wool coat and the deep-red knitted scarf.
+
+Her exceptionally handsome boyfriend approaches, carrying a small paper bag from an old-fashioned Korean bakery.
+
+He smiles shyly and gently adjusts the scarf around her neck.
+
+She looks up at him and laughs softly.
+
+He brushes a loose strand of hair away from her face. They exchange a warm, affectionate smile.
+
+Their expressions should communicate the excitement and tenderness of young love.
+
+VISUAL EFFECT: A dreamy, softly glowing atmosphere with delicate floating leaves, gentle sunlight filtering through the maple canopy, subtle depth of field, and beautifully rendered autumn colors.
+
+The memory should feel warm, happy, and precious, as though the elderly woman is reliving her favorite moment.
+
+CAMERA: Gentle tracking movement, intimate close-ups, and graceful transitions between their expressions.
+
+SCENE 3 — THEIR LITTLE WORLD
+
+TIME: 10–15 SECONDS
+
+The young couple walks along an old stone pathway covered in colorful fallen maple leaves.
+
+The young man playfully steps on a dry leaf, making it crackle.
+
+The woman laughs and lightly taps his arm.
+
+He reaches for her hand. Their fingers gently interlock.
+
+She looks at him with a playful smile before resting her head briefly against his shoulder.
+
+They stop beneath the magnificent maple tree.
+
+He gently adjusts the deep-red scarf around her neck and looks into her eyes.
+
+BOYFRIEND — NATURAL KOREAN DIALOGUE:
+
+"너한테 잘 어울려."
+
+ENGLISH SUBTITLE:
+
+"It looks beautiful on you."
+
+The woman smiles shyly, lowers her eyes, and then looks back at him.
+
+GIRL — NATURAL KOREAN DIALOGUE:
+
+"정말?"
+
+ENGLISH SUBTITLE:
+
+"Really?"
+
+He nods and smiles warmly.
+
+She laughs softly.
+
+A few maple leaves float between them as they continue looking at each other.
+
+ANIMATION DETAILS: Fluid body movement, natural eye contact, subtle smiles, gentle hair movement, realistic scarf physics, and leaves responding naturally to the breeze.
+
+The scene should feel intimate, playful, innocent, and genuinely happy.
+
+SCENE 4 — THE MEMORY SHE KEPT
+
+TIME: 15–20 SECONDS
+
+A close-up of the young woman's joyful smile.
+
+The image softly dissolves back into the present day.
+
+The elderly woman sits beside the window in her wooden home, holding the same deep-red scarf against her chest.
+
+She smiles tenderly at the photograph.
+
+Her eyes glisten with nostalgic tears, but she does not look heartbroken. Instead, she looks peaceful and grateful to have experienced such beautiful love.
+
+She carefully places the scarf beside the photograph and gently smooths its folded edge.
+
+Outside the window, a golden maple leaf floats past.
+
+She looks toward the autumn trees and whispers in Korean:
+
+"행복했어… 정말."
+
+ENGLISH SUBTITLE:
+
+"I was happy… truly."
+
+FINAL SHOT
+
+A beautifully composed close-up of the faded photograph beside the preserved red scarf.
+
+Warm sunlight falls across the wooden table. Tiny dust particles drift through the light.
+
+The camera slowly pulls backward, revealing the peaceful room as golden leaves move beyond the window.
+
+Fade to black.
+
+FINAL TEXT:
+
+"Some memories never grow old."
+
+The text appears elegantly in the center of the screen, accompanied by a final gentle piano note.
+
+CINEMATIC ANIMATION AND LIGHTING
+
+High-end cinematic 3D animation with beautifully detailed character models, expressive facial animation, natural movement, realistic cloth simulation, detailed knitted fabric, individual hair strands, atmospheric lighting, and richly textured environments.
+
+Use a warm autumn palette of amber, muted gold, burgundy, cream, and soft brown.
+
+The present-day scenes should feel intimate, peaceful, and softly illuminated.
+
+The flashback should feel brighter, warmer, and slightly dreamy, with delicate glowing sunlight and floating maple leaves.
+
+Use smooth camera movement, cinematic composition, subtle depth of field, soft volumetric lighting, and gentle transitions.
+
+Maintain consistent character identities and preserve the exact same deep-red scarf throughout the entire film.
+
+AUDIO AND SUBTITLES
+
+Soft nostalgic piano blended with gentle acoustic guitar.
+
+Include delicate autumn ambience, rustling leaves, quiet footsteps, and subtle knitted-fabric sounds.
+
+The Korean dialogue must sound natural, softly spoken, and emotionally authentic.
+
+Display accurate English subtitles synchronized with the Korean dialogue. Use small, elegant white text with a subtle dark outline at the bottom of the frame.
+
+No English voice-over.
+
+NEGATIVE PROMPT
+
+Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi characters, overly exaggerated facial expressions, plastic-looking skin, uncanny faces, distorted anatomy, inconsistent character designs, changing hairstyles, changing clothing, changing scarf color, unrealistic scarf physics, poorly animated hands, extra fingers, stiff movements, unnatural walking, excessive crying, horror atmosphere, dark depressing lighting, oversaturated colors, excessive blur, modern objects in the 1998 flashback, incorrect Korean subtitles, random text, logos, and watermarks.
+
+FINAL OUTPUT
+
+20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 小女孩在幼儿园认识水果与英文名称
 
 > Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
@@ -4848,332 +5225,5 @@ Photorealistic cinematic comedy, realistic water behavior, natural human movemen
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 丛林神庙水御伏击战
 
-> This AI video is absolutely amazing 🔥 Created with Seedance 2.5 Prompt : SCENE — WATERBENDING AMBUSH DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-pho…
-
-[<img src="https://media.goodcase.ai/cases/9191e59a045c.jpg" width="600" alt="丛林神庙水御伏击战">](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itxsarmadd | **来源:** [原帖](https://x.com/itxsarmadd/status/2103694941260222603) | **发布:** 2026-09-26 | **热度:** 85
-
-**稳定度：** 61/100
-
-**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (61.3 分) · [产物](https://media.goodcase.ai/retests/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（61 行，点开展开）</b></summary>
-
-```
-SCENE — WATERBENDING AMBUSH
-DURATION: exactly 10 seconds
-FORMAT: 16:9
-STYLE: ultra-photorealistic live-action fantasy action, grounded CGI, realistic water physics, Hollywood stunt choreography, practical jungle-temple location, handheld cinematography, seamless VFX integration, no digital-art appearance.
-PACE: extremely fast continuous combat, zero pauses, zero idle moments, action already in progress.
-
-REFERENCES
-
-IMAGE 1 — ARMAN
-Preserve facial identity, hairstyle, body proportions, costume, and appearance exactly.
-
-IMAGE 2 — MASTER ENVIRONMENT SHEET
-Preserve environment, architecture, vegetation, atmosphere, and location identity exactly.
-
-IMAGE 3 — ENEMY REFERENCE
-Preserve enemy armor, silhouette, proportions, and visual identity exactly.
-
-ACTION
-
-0.0–2.5 SECONDS — SURROUNDED
-Fight begins mid-combat. Five armored enemies attack from multiple directions. Arman pivots beneath a frontal strike while a large mass of water is already orbiting around him. He redirects the flow to deflect Enemy A. Several sections split from the moving water, instantly freeze into sharp ice shards, and fire toward attacking enemies. Camera performs fast handheld lateral tracking.
-
-2.5–5.0 SECONDS — ROTATING PRESSURE
-Enemy C closes from behind. Arman ducks beneath an attack and transitions into a continuous spinning movement. The main water mass whips around him with believable inertia, striking, deflecting, and creating openings. Multiple ice shards separate from the flowing water and launch toward different attackers, forcing evasions and interrupting attacks. Camera reacts with quick pans and target switching.
-
-5.0–7.5 SECONDS — WATER IMPACT
-Enemy A attacks again. Arman redirects the entire water mass into a powerful lateral strike. Water impact throws the enemy sideways onto wet stone. While the enemy falls, additional ice shards fire toward advancing attackers. Arman immediately turns toward the next threat without stopping.
-
-7.5–10.0 SECONDS — COMBO CONTINUES
-Enemies close from opposite directions. Arman performs rapid circular footwork while continuously controlling the moving water flow. Fresh ice shards split from the leading edge and fire toward multiple enemies. Enemy C charges directly into range. Arman pivots and accelerates the main water mass toward him.
-
-END BEFORE IMPACT.
-
-SMASH CUT. ACTION INTERRUPTED MID-COMBO. END.
-
-VISUAL RULES
-
-- Five active enemies remain engaged throughout.
-- No enemy stands and watches.
-- Combat never slows down.
-- Water remains a single continuous moving mass.
-- Ice shards separate from the moving water, instantly freeze, and launch as sharp translucent projectiles.
-- No glowing effects, energy beams, neon trails, or anime aura.
-- Grounded CGI integrated into live-action photography.
-- Every action directly causes the next event.
-- Continuous movement, zero pauses, zero dead frames.
-- Final frame preserves active combat momentum for Scene 02.
-
-CAMERA
-
-Reactive handheld Hollywood action camera. Fast but readable movement, medium-wide coverage, brief wider shots for major impacts, natural motion blur, occasional water spray crossing lens. No floating virtual camera.
-
-ENVIRONMENT
-
-Ancient jungle temple ruins. Wet stone, moss, roots, ferns, waterfalls, dense tropical vegetation, humid atmosphere, realistic live-action location photography.
-
-SOUND
-
-Raw action only. Footsteps, armor movement, weapons cutting air, rushing water, splashes, ice projectiles, impact sounds, bodies hitting wet ground, distant waterfalls and jungle ambience.
-
-NO MUSIC.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 废墟卧室中的白发女子与巨型黑猫
-
-> She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
-
-[<img src="https://media.goodcase.ai/cases/70fd0a62397d.jpg" width="600" alt="废墟卧室中的白发女子与巨型黑猫">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2097594855946113177) | **发布:** 2026-09-09 | **热度:** 85
-
-**稳定度：** 83/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (83.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
-Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 首尔夏夜的树叶小插曲
-
-> It’s the little moments that make AI feel this real. Made with Seedance 2.5 PROMPT Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of …
-
-[<img src="https://media.goodcase.ai/cases/276528e2bcc8.jpg" width="600" alt="首尔夏夜的树叶小插曲">](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SimplyAnnisa | **来源:** [原帖](https://x.com/SimplyAnnisa/status/2096931238460178592) | **发布:** 2026-09-07 | **热度:** 85
-
-**稳定度：** 86/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (85.8 分) · [产物](https://media.goodcase.ai/retests/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（91 行，点开展开）</b></summary>
-
-```
-It’s the little moments that make AI feel this real.
-
-Made with Seedance 2.5
-
-PROMPT
-
-Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having an ordinary but unexpectedly memorable summer evening in an older Seoul neighborhood.
-
-A naturally pretty Korean woman in her early 20s, realistic skin, minimal makeup, long black slightly wavy hair, pale-blue knit top, loose cream trousers, white sneakers, brown crossbody bag, and silver watch. Keep her identity, face, outfit, hairstyle, and proportions perfectly consistent.
-
-SETTING
-
-A quiet older Seoul residential street with concrete lanes, apartment buildings, potted plants, bicycles, utility poles, leafy trees, and a tiny neighborhood convenience shop. Lived-in and authentic. No brands, logos, advertisements, or tourist locations.
-
-CAMERA STYLE
-
-Raw footage from a cheap early-2000s DV camcorder: shaky handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft detail, mild tape noise, accidental zooms, and natural camera mistakes. No stabilization or cinematic shots.
-
-00:00–00:06 — THE MYSTERY
-
-She walks down the street holding a small plastic bag when she suddenly hears a faint jingling sound behind her.
-
-She stops and looks around.
-
-The camera quickly zooms toward her confused face.
-
-She says:
-
-“Did you hear that?”
-
-00:06–00:12 — THE LITTLE DISCOVERY
-
-She follows the sound and finds a small old bicycle with a tiny bell stuck slightly open.
-
-She gently taps the bell.
-
-Ding.
-
-She looks at the camera and laughs.
-
-Then she notices a small handwritten-looking paper tag hanging from the bicycle, but the writing is too unclear to read.
-
-00:12–00:18 — THE WIND
-
-A sudden breeze blows several dry leaves across the street.
-
-One lands directly on her head.
-
-She doesn't notice.
-
-The camera operator laughs.
-
-She looks confused, then realizes and removes the leaf.
-
-She gives the camera an embarrassed stare.
-
-00:18–00:24 — THE SMALL CHALLENGE
-
-She places the leaf on the bicycle seat and tries to balance it there.
-
-The wind immediately blows it away.
-
-She tries again.
-
-It falls again.
-
-She laughs and finally gives up.
-
-00:24–00:30 — THE MEMORY
-
-She picks up the leaf, puts it into her small bag, and starts walking home.
-
-After a few steps, she turns toward the camera and says:
-
-“Okay, that was pointless.”
-
-She smiles and keeps walking.
-
-The camera follows her for a few seconds before abruptly cutting to black.
-
-AUDIO
-
-Natural location sound only: footsteps, distant traffic, bicycle bell, summer insects, leaves, wind, neighborhood ambience, and natural laughter.
-
-No music, narration, subtitles, captions, logos, watermarks, or on-screen text.
-
-REALISM
-
-Natural human reactions, imperfect timing, realistic physics, consistent objects, authentic Korean neighborhood details, and believable DV-camera imperfections. No CGI look, distorted hands, extra fingers, duplicated people, identity drift, or outfit changes.
-
-16:9 aspect ratio.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 六十秒健身日常 day-in-life vlog
-
-> Come spend a gym day with me 🎥🤍 Created with Seedance 2.5 on @Flovaai Prompt: Create a 60-second realistic day-in-the-
-
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-3f362e9e352b.jpg" width="600" alt="Seedance 六十秒健身日常 day-in-life vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2089569072526823464) | **发布:** 2026-08-18 | **热度:** 85
-
-**稳定度：** 70/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.3 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-3f362e9e352b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（90 行，点开展开）</b></summary>
-
-```
-Create a 60-second realistic day-in-the-life gym vlog following the same young Korean woman in her early twenties from waking up at home, getting ready, going to the gym, working out, and returning home.
-
-Overall visual style
-
-One continuous handheld front-facing smartphone selfie vlog perspective. She always films herself with the phone in her own hand at arm’s length. No third-person camera, tripod, cinematic camera movements, drones, or external filming.
-
-Make everything look like authentic modern smartphone footage:
-
-- Natural handheld shake and small framing imperfections
-- Realistic walking movement and occasional autofocus hunting
-- Minor exposure changes
-- Natural front-camera lens distortion
-- Soft natural morning light indoors and outdoors
-- Realistic, unfiltered smartphone colors
-- No beauty filter, skin smoothing, or cinematic color grading
-- Same face and hair throughout the entire vlog
-- Natural expressions, movements, and body language
-- No subtitles, captions, logos, watermarks, or on-screen text
-- No background music; use only natural diegetic sound
-
-0–10 sec — Waking up
-
-She wakes up in her cozy bedroom wearing a cute, loose casual night suit. She grabs her phone from beside the bed and immediately starts filming herself selfie-style. She looks sleepy, messy-haired, and slightly tired, gives a small yawn, stretches, and smiles at the camera.
-
-She quietly says:
-
-“Good morning… I really don’t feel like going to the gym today.”
-
-She gets out of bed and walks toward the bathroom while holding the phone herself.
-
-10–18 sec — Brushing teeth
-
-In the bathroom, she films herself in the mirror/selfie view while brushing her teeth. Keep it casual and imperfect, with realistic bathroom ambience and running-water sounds.
-
-She briefly looks into the camera with a sleepy expression, then rinses her mouth and smiles.
-
-She says:
-
-“But I promised myself I’d go, so… let’s do it.”
-
-18–27 sec — Getting ready
-
-Quick natural transition back to her bedroom. She changes from her night suit into a stylish but realistic gym outfit: fitted athletic top, high-waisted leggings or comfortable athletic bottoms, clean sneakers, and minimal accessories.
-
-Show short selfie moments of her fixing her hair, adjusting her gym outfit, grabbing a water bottle and gym bag.
-
-She looks into the phone and says:
-
-“Okay, now I actually look ready.”
-
-27–35 sec — Going to the gym
-
-She leaves home with the phone in her hand. Film brief selfie moments while walking outside and naturally bouncing with her steps. Show quick glimpses of the street, morning traffic, buildings, and her gym bag.
-
-She arrives at the gym and turns the phone slightly to show the entrance before bringing it back to her face.
-
-Natural street and gym ambience only.
-
-35–52 sec — Workout
-
-Inside the gym, she starts with a short warm-up on a treadmill, then moves through a few exercises such as light strength training, squats, dumbbell exercises, and stretching.
-
-Keep the camera mostly front-facing and handheld, occasionally tilting naturally toward the equipment before returning to her face.
-
-She becomes slightly sweaty and out of breath but stays cheerful. She laughs and says:
-
-“Okay… this is harder than I remembered.”
-
-She takes a quick drink of water, catches her breath, then gives the camera a satisfied smile and continues her workout.
-
-Include realistic sounds of footsteps, treadmill movement, weights clanking, machines, distant conversations, and gym room tone.
-
-52–60 sec — Returning home
-
-After finishing her workout, she leaves the gym and walks home. She looks pleasantly exhausted but happy.
-
-Cut naturally to her back at home, still holding the phone. She drops her gym bag down, takes a drink of water, relaxes on the couch or bed, and looks into the camera with a tired smile.
-
-She gives a small wave and says:
-
-“Workout done. I’m exhausted… but I’m glad I went.”
-
-She smiles, gives one final sleepy wave, and lowers the phone for a natural ending.
-
-Final requirements
-
-Keep the entire vlog fast, spontaneous, cozy, and realistic, with natural transitions between locations. The woman must remain visually consistent throughout: same facial identity, same hair, and realistic appearance. Her outfit changes only once, from the casual night suit to the gym outfit.
-
-All dialogue must be naturally spoken with visible lip movement. Use only diegetic audio—bedroom ambience, bathroom sounds, footsteps, street noise, gym sounds, water bottle sounds, and home ambience. No music, captions, subtitles, logos, watermarks, or cinematic effects.
-#Flovaai #Flovacpp
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-
-← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md)
+← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)

@@ -14,12 +14,12 @@
 
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
-| [POV and vlog presence](#pov-vlog-presence) | 102 | 11 |
+| [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 94 | 5 |
 | [Action continuity choreography](#action-continuity-choreography) | 91 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 4 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 59 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 60 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 58 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
@@ -27,7 +27,7 @@
 | [Twist-ending comedy skit](#twist-comedy-skit) | 38 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
-| [Sports and extreme stunts](#sports-extreme-stunts) | 29 | 0 |
+| [Sports and extreme stunts](#sports-extreme-stunts) | 30 | 0 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 27 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 25 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
@@ -42,7 +42,7 @@
 
 > Create credible presence through first-person framing, handheld movement, and lived-in detail.
 
-55 人のクリエイターによる 102 ケース · クリエイターメソッド 11 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+55 人のクリエイターによる 103 ケース · クリエイターメソッド 11 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
@@ -148,7 +148,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-34 人のクリエイターによる 59 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+34 人のクリエイターによる 60 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -276,7 +276,7 @@ npx skills add LearnPrompt/goodcase-lite --skill food-asmr
 
 > It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
 
-26 人のクリエイターによる 29 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+26 人のクリエイターによる 30 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts

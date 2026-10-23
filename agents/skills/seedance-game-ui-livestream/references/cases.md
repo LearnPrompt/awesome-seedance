@@ -315,7 +315,7 @@ Sequence:
 
 ## E6 · Rio Street Chase Over a Misplaced Package
 
-- Seedance 2.5 · creator: @john_my07 · heat: 58
+- Seedance 2.5 · creator: @john_my07 · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-sequenc-70896856a838) · [finished media](https://media.goodcase.ai/cases/3d47a3342470.mp4) · [poster](https://media.goodcase.ai/cases/a766a24fcbfe.jpg) · [original source](https://x.com/john_my07/status/2099832403305079015)
 - Summary: GTA in Brazil 🇧🇷 All this chaos just to deliver the package to the right house! Created using Seedance 2.5 on Pollo AI Prompt: Create a 30-second ultra-realis…
 
@@ -492,7 +492,7 @@ AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency 
 
 ## E8 · Theft and Escape at a Rural Japanese Station
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 51
+- Seedance 2.5 · creator: @AIwithkhan · heat: 50
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-video-s-405ad1ebb338) · [finished media](https://media.goodcase.ai/cases/890304e94a79.mp4) · [poster](https://media.goodcase.ai/cases/5864458476ef.jpg) · [original source](https://x.com/AIwithkhan/status/2099464101525393596)
 - Summary: She really woke up and chose GTA-style chaos. 🔥 No hesitation, just straight into the mission. Created with Seedance 2.5 on @itsPolloAI Prompt : Create a 30-se…
 

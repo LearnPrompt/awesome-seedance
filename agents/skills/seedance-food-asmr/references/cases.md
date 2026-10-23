@@ -245,7 +245,7 @@ Ultra-photorealistic cinematic live-action food commercial, authentic Asian home
 
 ## E7 · Making Crispy Korean-Style Glazed Chicken
 
-- Seedance 2.5 · creator: @aynellex · heat: 51
+- Seedance 2.5 · creator: @aynellex · heat: 50
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-30-second-live-action-food-sequence-showing-f550d5208324) · [finished media](https://media.goodcase.ai/cases/2b4640c69cab.mp4) · [poster](https://media.goodcase.ai/cases/bf247d7db513.jpg) · [original source](https://x.com/aynellex/status/2105532781258571918)
 - Summary: A simple kitchen recipe turns into the crispiest, most satisfying Korean-style chicken. 🍗🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic…
 
@@ -263,7 +263,7 @@ Ultra-photorealistic cinematic live-action food commercial, realistic human hand
 
 ## E8 · Korean Woman Melts Down During a Spicy Food Challenge
 
-- Seedance 2.5 · creator: @oggii_0 · heat: 50 · stability: 82
+- Seedance 2.5 · creator: @oggii_0 · heat: 49 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) · [finished media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) · [poster](https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg) · [original source](https://x.com/oggii_0/status/2094267751477232053)
 - Summary: When AI starts making fake memories that feel this real… things get interesting. Made with Seedance 2.5. Prompt: Create
 
