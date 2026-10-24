@@ -15,8 +15,8 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 94 | 5 |
-| [Action continuity choreography](#action-continuity-choreography) | 91 | 7 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 95 | 5 |
+| [Action continuity choreography](#action-continuity-choreography) | 92 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 4 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 60 | 2 |
@@ -24,10 +24,10 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
-| [Twist-ending comedy skit](#twist-comedy-skit) | 38 | 1 |
+| [Twist-ending comedy skit](#twist-comedy-skit) | 39 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
-| [Sports and extreme stunts](#sports-extreme-stunts) | 30 | 0 |
+| [Sports and extreme stunts](#sports-extreme-stunts) | 31 | 0 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 27 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 25 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-94 cases from 64 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+95 cases from 65 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-91 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+92 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -228,7 +228,7 @@ No creator methods yet.
 
 > Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
 
-38 cases from 28 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+39 cases from 29 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
@@ -276,7 +276,7 @@ No creator methods yet.
 
 > It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
 
-30 cases from 26 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+31 cases from 27 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts

@@ -70,7 +70,7 @@ Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, v
 
 ## E4 · A Korean Woman’s Morning Workout at a Neighborhood Gym
 
-- Seedance 2.5 · creator: @sipteaandcoffee · heat: 95
+- Seedance 2.5 · creator: @sipteaandcoffee · heat: 96
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714) · [finished media](https://media.goodcase.ai/cases/c1c742ff910f.mp4) · [poster](https://media.goodcase.ai/cases/8394fd6c092a.jpg) · [original source](https://x.com/sipteaandcoffee/status/2104887547243774358)
 - Summary: Seedance 2.5 on @Flovaai @Flovaai_Japan My invite link https://t.co/4bi7Gg4te3 Skill used: script to video https://t.co/7uC3BJRHSL Prompt Create a **45-second u…
 
