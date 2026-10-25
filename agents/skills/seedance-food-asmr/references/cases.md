@@ -245,7 +245,7 @@ Ultra-photorealistic cinematic live-action food commercial, authentic Asian home
 
 ## E7 · Making Crispy Korean-Style Glazed Chicken
 
-- Seedance 2.5 · creator: @aynellex · heat: 51
+- Seedance 2.5 · creator: @aynellex · heat: 50
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-30-second-live-action-food-sequence-showing-f550d5208324) · [finished media](https://media.goodcase.ai/cases/2b4640c69cab.mp4) · [poster](https://media.goodcase.ai/cases/bf247d7db513.jpg) · [original source](https://x.com/aynellex/status/2105532781258571918)
 - Summary: A simple kitchen recipe turns into the crispiest, most satisfying Korean-style chicken. 🍗🔥 Created on Seedance 2.5 Prompt: Create a cinematic, ultra-realistic…
 

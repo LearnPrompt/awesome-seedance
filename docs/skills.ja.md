@@ -6,7 +6,7 @@
 
 <!-- data/site-skills.json から生成。手編集不可。npm run generate を実行 -->
 
-[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) のすべての動画 Skill です。公式 Skill 21 個とクリエイターメソッド 43 個、計 64 個。Skill は Claude Code や Codex などのエージェントに入れる指示パックです。公式 Skill は同じ種類の動画について多くのクリエイターのケースから抽出し、クリエイターメソッドは一人のクリエイターが繰り返し使う手法から抽出して、そのスタイルを引き継ぎます。
+[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) のすべての動画 Skill です。公式 Skill 21 個とクリエイターメソッド 42 個、計 63 個。Skill は Claude Code や Codex などのエージェントに入れる指示パックです。公式 Skill は同じ種類の動画について多くのクリエイターのケースから抽出し、クリエイターメソッドは一人のクリエイターが繰り返し使う手法から抽出して、そのスタイルを引き継ぎます。
 
 各 Skill は [skills CLI](https://github.com/vercel-labs/skills) で 1 行でインストールでき、コマンドは下に載せています。タイトルと説明は goodcase.ai のもので（日本語訳はなく英語のまま）、このページは毎日サイトのカタログから更新されます。
 
@@ -15,12 +15,12 @@
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 95 | 5 |
-| [Action continuity choreography](#action-continuity-choreography) | 92 | 7 |
-| [Product ad shot design](#product-ad-shot-design) | 72 | 4 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 97 | 5 |
+| [Action continuity choreography](#action-continuity-choreography) | 94 | 7 |
+| [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 60 | 2 |
-| [Animation style and character consistency](#animation-style-consistency) | 58 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 62 | 2 |
+| [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
@@ -28,8 +28,8 @@
 | [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 31 | 0 |
-| [Cars and vehicles at speed](#vehicles-at-speed) | 27 | 0 |
-| [3D cartoon character short](#3d-cartoon-character-short) | 25 | 1 |
+| [Cars and vehicles at speed](#vehicles-at-speed) | 28 | 0 |
+| [3D cartoon character short](#3d-cartoon-character-short) | 27 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-65 人のクリエイターによる 95 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+67 人のクリエイターによる 97 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-64 人のクリエイターによる 92 ケース · クリエイターメソッド 7 件 · [goodcase.ai で開く](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+64 人のクリエイターによる 94 ケース · クリエイターメソッド 7 件 · [goodcase.ai で開く](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -110,7 +110,7 @@ npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
 
 > Turn a product benefit into an opening hook, usage scene, and branded closing shot.
 
-46 人のクリエイターによる 72 ケース · クリエイターメソッド 4 件 · [goodcase.ai で開く](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+46 人のクリエイターによる 72 ケース · クリエイターメソッド 3 件 · [goodcase.ai で開く](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
@@ -118,7 +118,6 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
-| AIwithSynthia | Luxury Macro Beauty | 6 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | johnAGI168 | Cutout Collage Transition | 3 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1d090cw` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1d090cw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | laviniavelle | Pixar Glass-Skin Beauty | 3 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | Product ad shot design | 3 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
@@ -148,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-34 人のクリエイターによる 60 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+35 人のクリエイターによる 62 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -165,7 +164,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-47 人のクリエイターによる 58 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+47 人のクリエイターによる 59 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
@@ -290,7 +289,7 @@ npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-19 人のクリエイターによる 27 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+20 人のクリエイターによる 28 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
@@ -304,7 +303,7 @@ npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
 
 > One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.
 
-15 人のクリエイターによる 25 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+17 人のクリエイターによる 27 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short

@@ -3,7 +3,7 @@
   "category": "video",
   "counts": {
     "official": 21,
-    "creatorMethods": 43
+    "creatorMethods": 42
   },
   "skills": [
     {
@@ -284,8 +284,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 95,
-      "creatorCount": 65,
+      "caseCount": 97,
+      "creatorCount": 67,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261020/6ad4b41e000000000c009966/poster-cover.webp"
@@ -404,7 +404,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 92,
+      "caseCount": 94,
       "creatorCount": 64,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
@@ -572,29 +572,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
       "cover": "https://media.goodcase.ai/cases/bbddd507c773.jpg"
-    },
-    {
-      "slug": "product-ad-shot-design-by-1ktgmlf",
-      "baseSlug": "product-ad-shot-design",
-      "kind": "creator_method",
-      "title": {
-        "en": "AIwithSynthia · Luxury Macro Beauty",
-        "zh": "AIwithSynthia · 奢华微距美妆"
-      },
-      "description": {
-        "en": "A recurring product ad shot design method derived from 6 published cases by AIwithSynthia.",
-        "zh": "从 AIwithSynthia 的 6 个已发布 Case 中归纳出的「产品广告镜头」方法。"
-      },
-      "styleTag": {
-        "en": "Luxury Macro Beauty",
-        "zh": "奢华微距美妆"
-      },
-      "creator": "AIwithSynthia",
-      "caseCount": 6,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1ktgmlf",
-      "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1ktgmlf",
-      "cover": "https://media.goodcase.ai/cases/dfa401edffbd.jpg"
     },
     {
       "slug": "product-ad-shot-design-by-1d090cw",
@@ -776,8 +753,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 60,
-      "creatorCount": 34,
+      "caseCount": 62,
+      "creatorCount": 35,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
       "cover": "https://media.goodcase.ai/cases/ebfd507b2bc2.jpg"
@@ -836,7 +813,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 58,
+      "caseCount": 59,
       "creatorCount": 47,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency",
       "url": "https://goodcase.ai/skills/animation-style-consistency",
@@ -1179,8 +1156,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 27,
-      "creatorCount": 19,
+      "caseCount": 28,
+      "creatorCount": 20,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
       "url": "https://goodcase.ai/skills/vehicles-at-speed",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
@@ -1199,8 +1176,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 25,
-      "creatorCount": 15,
+      "caseCount": 27,
+      "creatorCount": 17,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
       "cover": "https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg"

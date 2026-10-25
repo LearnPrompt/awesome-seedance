@@ -232,7 +232,7 @@ FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every sc
 
 ## E6 · POV: Korean Baddie Meets Her Boyfriend in the US
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 92
+- Seedance 2.5 · creator: @AIwithkhan · heat: 93
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf) · [finished media](https://media.goodcase.ai/media/video/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg) · [original source](https://x.com/AIwithkhan/status/2094997895187673489)
 - Summary: POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
 

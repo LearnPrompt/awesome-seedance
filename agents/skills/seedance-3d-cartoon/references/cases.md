@@ -223,32 +223,70 @@ Begin with a wide establishing shot inside a cozy Italian restaurant filled with
 Style: polished cinematic 3D animation, expressive facial animation, charming family-friendly comedy, detailed character models, realistic food textures, warm Italian restaurant atmosphere, soft depth of field, smooth camera movement, cinematic composition, natural motion, high-quality animated-film rendering, consistent characters and environment throughout, no flickering, no character deformation, no identity drift, no text, no watermark.
 ```
 
-## E8 · A Pajama-Clad Family Comedy Sparked by a Girl's Backpack
+## E8 · Eight Cute Animals and Their English Names in a Storybook Meadow
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 83
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-cf82b3d398ba) · [finished media](https://media.goodcase.ai/cases/af8be06138da.mp4) · [poster](https://media.goodcase.ai/cases/d9dce07d0659.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2105120880926019827)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a heartwarming cinematic 3D animated family scene in a high-quality Pixar-style aesthetic, with expressive characters, s…
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 82
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-91d794271aa6) · [finished media](https://media.goodcase.ai/cases/05a1d97b6864.mp4) · [poster](https://media.goodcase.ai/cases/f8ef714634dd.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2107293811714191628)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation s…
 
 ```text
-Create a heartwarming cinematic 3D animated family scene in a high-quality Pixar-style aesthetic, with expressive characters, soft realistic lighting, detailed facial expressions, and smooth natural animation.
+Made with seedance 2.5
 
-Scene 1: A cute little girl with big expressive eyes, short dark brown hair tied into small pigtails, wearing adorable cream-colored pajamas, stands beside a small pink children's backpack in a cozy modern living room. She looks worried and emotional.
+Prompt 👇 
+Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation style.
 
-Scene 2: A young father with short dark brown hair, wearing blue checkered pajamas, is sitting and then getting down to the little girl's level. He looks at her with a caring and slightly concerned expression. The little girl stays close to him while holding her pink backpack.
+SCENE & BACKGROUND:
+A beautiful cheerful meadow in a magical children's storybook world. Lush green grass, colorful wildflowers in the foreground, rounded green trees, a few pink and orange trees, distant rolling hills and mountains, bright blue sky with fluffy white clouds. Warm sunny daylight, soft shadows, vibrant colors, clean polished 3D rendering.
 
-Scene 3: The father sits on the floor beside his daughter. They look at each other emotionally. Use gentle camera movement and close-up shots to emphasize their facial expressions and their loving father-daughter relationship.
+STYLE:
+Cute premium 3D animated children's content, friendly and adorable animal designs, large expressive eyes, soft rounded shapes, colorful cinematic lighting, playful educational atmosphere, high detail but simple enough for young children.
 
-Scene 4: Cut to an extreme close-up of the father's face. His expression becomes emotional and exaggerated in a cute animated style. His eyes appear watery and tired, with colorful makeup-like details around his eyes and cheeks, creating a humorous emotional moment.
+CAMERA:
+Vertical composition, mostly static front-facing camera at children's eye level. Medium/full-body framing of each animal. Smooth subtle camera movement only. Keep the environment consistent throughout the video.
 
-Scene 5: The father sits on the floor looking exhausted and emotional while the little girl stands beside him, looking up at him innocently.
+SEQUENCE:
+Start with an empty beautiful meadow for a moment.
 
-Scene 6: A young mother enters the room. She has dark brown hair, warm facial features, and wears soft pink pajamas. She looks surprised and concerned after seeing the situation.
+Then introduce animals one by one, each appearing clearly in the center of the frame:
 
-Scene 7: Close-up of the little girl's face. Her huge expressive eyes brighten and she gives a sweet innocent smile.
+1. TIGER — a cute orange tiger with black stripes, big expressive eyes and a friendly smile.
+Display the word "TIGER" above the animal in large colorful playful children's typography.
 
-Scene 8: Close-up of the mother as her expression suddenly changes into a big joyful laugh. She closes her eyes and laughs warmly, creating a funny and heartwarming ending.
+2. ELEPHANT — a cute friendly gray elephant with large ears, short trunk and adorable expressive eyes.
+Display "ELEPHANT" above it.
 
-Style: high-end cinematic 3D animation, adorable family characters, exaggerated expressive faces, realistic skin and hair details, soft warm indoor lighting, cozy modern home interior, smooth character animation, natural body movements, emotional storytelling, shallow depth of field, cinematic camera angles, detailed textures, vibrant but soft colors, professional animated movie quality, 4K, polished rendering.
+3. RHINOCEROS — a cute gray baby rhinoceros with a small horn, big eyes and friendly expression.
+Display "RHINOCEROS" above it.
 
-Keep the characters' identities, clothing, hairstyle, proportions, and facial features consistent throughout the entire video. Focus strongly on facial expressions, emotional reactions, family chemistry, and comedic timing.
+4. HIPPOPOTAMUS — a cute chubby purple-gray hippopotamus with a big smile and playful expression.
+Display "HIPPOPOTAMUS" above it.
+
+5. LEOPARD — an adorable golden-yellow leopard covered with dark spots, big expressive eyes and a friendly smile.
+Display "LEOPARD" above it.
+
+6. WOLF — a cute fluffy gray-and-white wolf with large expressive eyes and a friendly appearance.
+Display "WOLF" above it.
+
+7. GIRAFFE — a cute tall giraffe with a warm orange-yellow coat and brown patches, smiling gently.
+Display "GIRAFFE" above it.
+
+8. CROCODILE — a cute green crocodile with a rounded friendly body, big eyes and a playful smile.
+Display "CROCODILE" above it.
+
+For every animal:
+The animal should enter or appear naturally, look toward the camera, make a small cute movement such as blinking, smiling, waving, walking a few steps or moving its head, then remain clearly visible for children to recognize.
+
+TEXT:
+Use large bold rounded children's lettering above each animal.
+Letters should be colorful, playful, highly readable and visually exciting.
+Add small colorful celebratory shapes such as stars or confetti when an animal appears.
+
+TRANSITIONS:
+Smooth playful transitions between animals while keeping the same meadow environment.
+No scary movements, no aggressive behavior, no dark scenes.
+
+FINAL SHOT:
+Return to the empty colorful meadow for a short moment.
+
+Overall feeling: cheerful, wholesome, educational, playful, colorful preschool animal-learning video, premium 3D cartoon quality.
 ```

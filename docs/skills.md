@@ -6,7 +6,7 @@
 
 <!-- Generated from data/site-skills.json. Do not hand-edit; run npm run generate -->
 
-Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 43 creator methods, 64 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
+Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 42 creator methods, 63 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
 
 Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog every day.
 
@@ -15,12 +15,12 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 95 | 5 |
-| [Action continuity choreography](#action-continuity-choreography) | 92 | 7 |
-| [Product ad shot design](#product-ad-shot-design) | 72 | 4 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 97 | 5 |
+| [Action continuity choreography](#action-continuity-choreography) | 94 | 7 |
+| [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 60 | 2 |
-| [Animation style and character consistency](#animation-style-consistency) | 58 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 62 | 2 |
+| [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
@@ -28,8 +28,8 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 31 | 0 |
-| [Cars and vehicles at speed](#vehicles-at-speed) | 27 | 0 |
-| [3D cartoon character short](#3d-cartoon-character-short) | 25 | 1 |
+| [Cars and vehicles at speed](#vehicles-at-speed) | 28 | 0 |
+| [3D cartoon character short](#3d-cartoon-character-short) | 27 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-95 cases from 65 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+97 cases from 67 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-92 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+94 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -110,7 +110,7 @@ npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
 
 > Turn a product benefit into an opening hook, usage scene, and branded closing shot.
 
-72 cases from 46 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+72 cases from 46 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
@@ -118,7 +118,6 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 | Creator | Method | Cases | Install | Page |
 | --- | --- | --- | --- | --- |
-| AIwithSynthia | Luxury Macro Beauty | 6 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | johnAGI168 | Cutout Collage Transition | 3 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1d090cw` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1d090cw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | laviniavelle | Pixar Glass-Skin Beauty | 3 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | Product ad shot design | 3 | `npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
@@ -148,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-60 cases from 34 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+62 cases from 35 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -165,7 +164,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-58 cases from 47 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+59 cases from 47 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
@@ -290,7 +289,7 @@ No creator methods yet.
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-27 cases from 19 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+28 cases from 20 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
@@ -304,7 +303,7 @@ No creator methods yet.
 
 > One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.
 
-25 cases from 15 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+27 cases from 17 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
