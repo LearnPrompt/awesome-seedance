@@ -1,6 +1,6 @@
 # Case evidence · Pets and animals as the lead
 
-19 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+26 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -191,7 +191,67 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, dolphins singing opera.
 ```
 
-## E6 · Kitten Steals a Hair Tie and Pounces at the Camera
+## E6 · A Husky Meets Two Rabbits in Snowy Mountains at Sunset
+
+- Seedance 2.5 · creator: @RizwanAly07 · heat: 75
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-most-unexpected-friendship-in-the-snow-fc70546ac916) · [finished media](https://media.goodcase.ai/cases/cbe8aa2d79b8.mp4) · [poster](https://media.goodcase.ai/cases/0d95cc091f2c.jpg) · [original source](https://x.com/RizwanAly07/status/2110654938472952253)
+- Summary: The Most Unexpected Friendship in the Snow! ❄️🐺🐰 Seedance 2.5 PROMPT ⬇️ Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husk…
+
+```text
+The Most Unexpected Friendship in the Snow! ❄️🐺🐰
+
+Seedance 2.5
+
+PROMPT ⬇️ 
+Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husky with striking blue eyes exploring a snowy mountain landscape at sunset. The environment features pristine white snow, snow-covered pine trees, enormous snow-covered rocks, distant blue mountains, and warm golden sunlight illuminating the snow. Every animal must look completely realistic, with detailed fur, natural movements, and believable interactions.
+
+SCENE 1 — THE HUSKY APPROACHES 
+A beautiful black-and-white Siberian Husky walks slowly through deep, powdery snow. Its paws sink naturally into the snow, sending tiny snow particles into the air. The camera follows the dog from a low angle as it lowers its head and sniffs the ground curiously. Warm sunset light illuminates its fur.
+
+SCENE 2 — SOMETHING MOVES 
+The Husky suddenly notices movement near a large snow-covered rock. It stops, raises its head, and turns its blue eyes toward the rock. Its ears stand upright, and its nose twitches as it investigates. The camera smoothly moves closer to capture its curious expression.
+
+SCENE 3 — THE SURPRISE 
+A tiny, fluffy brown bunny cautiously peeks out from behind the rock. A second, smaller white bunny appears just behind it. Both rabbits have realistic fur, twitching noses, upright ears, and tiny paws. The Husky watches them with curiosity while maintaining a natural, relaxed posture.
+
+SCENE 4 — THE ADORABLE MOMENT 
+The brown bunny hops forward through the fresh snow, followed by the tiny white bunny. The Husky gently lowers its head toward them, sniffing the snow nearby. The rabbits pause and look toward the dog. Their contrasting sizes create a beautiful cinematic composition.
+
+SCENE 5 — THE HEARTWARMING ENDING 
+Both bunnies hop closer to the Husky. The dog remains calm and gently tilts its head, watching their movements with curious blue eyes. The camera slowly pulls back to reveal the three animals together in the glowing snowy landscape, surrounded by majestic mountains and warm sunset light.
+
+🎥 Camera & Quality Instructions
+
+Photorealistic animal fur, eyes, whiskers, paws, and facial expressions.
+
+Natural animal anatomy and believable movement.
+
+Smooth cinematic tracking shots with realistic depth of field.
+
+Golden-hour lighting with cool blue shadows across the snow.
+
+Realistic snow particles, pawprints, and subtle wind.
+
+Natural ambient audio: soft winter wind, paws crunching in snow, and gentle rabbit movements.
+
+No dialogue, text, subtitles, logos, or watermarks.
+
+No cartoon appearance, artificial CGI look, distorted anatomy, duplicated animals, or sudden scene transitions.
+
+Maintain consistent animal appearances throughout the entire video.
+```
+
+## E7 · Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night
+
+- Seedance 2.5 · creator: @MahiraEhan · heat: 70
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c) · [finished media](https://media.goodcase.ai/cases/24f4c2455c1d.mp4) · [poster](https://media.goodcase.ai/cases/e12da6fb5033.jpg) · [original source](https://x.com/MahiraEhan/status/2109875307675017668)
+- Summary: Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
+
+```text
+A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.
+```
+
+## E8 · Kitten Steals a Hair Tie and Pounces at the Camera
 
 - Seedance 2.5 · creator: @Strength04_X · heat: 70 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
@@ -205,32 +265,4 @@ But the kitten had other plans 😅
 Seedance 2.5
 
 Prompt - REFERENCE & SUBJECT Use "@<image1" as the exact visual reference for the woman. Preserve her identity, face, hairstyle, clothing, skin texture, body proportions, and natural appearance throughout the entire clip. Exactly ONE small tabby kitten. The same kitten remains continuous throughout. No other animal, no duplicate kitten. FORMAT 30-second vertical 9:16 handheld front-camera selfie. Indoor room beside a window on a rainy day. Soft gray natural daylight through the glass. Very subtle window reflections and realistic ambient room sound. No color grading, no cinematic lighting, no beauty filter. --- 0–5 SEC — QUIET RAINY MOMENT The woman stands beside the window holding the kitten against her chest. Rain droplets are visible softly on the window behind her. She looks at the kitten and gently touches its forehead with her finger. The kitten watches her hand. She gives a quiet smile and casually says: "You're being good today, huh?" The phone remains slightly imperfect and handheld. --- 5–10 SEC — HAIR TIE CATCHES ATTENTION She reaches toward the back of her tied hair with her free hand and adjusts the hair tie. The kitten suddenly notices the small hair tie around her wrist. Its ears move forward. It stretches one paw toward it. She notices and pulls her wrist away. A small nose-laugh escapes. --- 10–15 SEC — THEFT The kitten reaches again and catches the hair tie between its paws. She reacts with surprise. The kitten pulls it toward itself. She laughs and tries to gently retrieve it. The phone shakes subtly from her laughter. She says: "Hey, that's not yours." The kitten refuses to release it. --- 15–20 SEC — PLAYFUL TUG The kitten squirms against her chest while holding the hair tie. She supports its body securely with her other hand. She gently tries to take the hair tie back. The kitten suddenly turns its head away. She laughs harder. A few strands of her hair fall loose near her cheek. The rain remains softly visible in the background. --- 20–25 SEC — KITTEN CLIMBS The kitten begins climbing toward her shoulder while still holding the hair tie. Its paws grip the fabric of her top. She gives a small surprised yelp followed by laughter. Her phone hand moves upward slightly. The camera briefly loses perfect framing and then naturally re-centers. --- 25–30 SEC — FINAL CAMERA ATTACK The kitten reaches her shoulder and then suddenly turns toward the phone. Its nose and whiskers approach the lens. She pulls her face backward while laughing. The kitten raises one paw toward the camera. She starts: "You really want—" Her sentence breaks apart into laughter. The paw reaches the near corner of the lens. The phone dips naturally. The clip ends mid-laugh. AUDIO Rain ambience through the window, fabric rustling, kitten movement, one tiny mewl, woman's natural voice, breathing, nose-laughs and genuine laughter. No background music. No subtitles. No text. No logo. No watermark. No cuts. No zoom. Exactly one kitten.
-```
-
-## E7 · Dog Steals the Spotlight in a Mirror Selfie
-
-- Seedance 2.5 · creator: @Strength04_X · heat: 67 · stability: 62
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-you-wanted-a-cute-mirror-selfie-but-your-dog-wanted-to-be-the-main-charac-3d3e83219d46) · [finished media](https://media.goodcase.ai/cases/07f0e5bcf1bf.mp4) · [poster](https://media.goodcase.ai/cases/c7768b152872.jpg) · [original source](https://x.com/Strength04_X/status/2097616213371478242)
-- Summary: POV: you wanted a cute mirror selfie, but your dog wanted to be the main character Made with Seedance 2.5 Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@<image1…
-
-```text
-POV: you wanted a cute mirror selfie, but your dog wanted to be the main character
-
-Made with Seedance 2.5 
-
-Prompt ↓
-
-REFERENCE & SUBJECT CONSISTENCY Use "@<image1" as the exact visual reference for the woman. Maintain identical identity, face, hairstyle, clothing, body proportions, skin texture, and natural appearance. Use exactly ONE small playful dog throughout the entire video. The dog must remain the same individual throughout. No duplicate animal and no other animal. FORMAT 30-second continuous vertical smartphone selfie video. The woman is standing in front of a full-length indoor mirror while holding the phone in one hand. The phone camera is the only camera. Natural window daylight enters from the side. Realistic mirror reflection. No cuts, no transition, no zoom. Natural handheld phone movement. --- 0–5 SEC — MIRROR SELFIE The woman is casually filming herself through the mirror. She adjusts a strand of hair while looking at the phone screen. The dog is initially lower in frame, partially beside her legs. She does not notice it immediately. The camera remains slightly imperfectly framed. --- 5–9 SEC — DOG APPEARS The dog slowly walks into the reflection behind her. She notices movement in the mirror. She turns her head. Her expression changes from neutral to amused surprise. She looks down toward the dog. The dog looks directly back at her. --- 9–14 SEC — FIRST JUMP The dog suddenly jumps upward toward her. She reacts with a surprised laugh. The phone hand moves upward instinctively. The mirror framing becomes slightly tilted. She tries to keep herself and the dog inside frame. The dog lands and immediately looks up again. --- 14–19 SEC — BLOCKING HER FACE The dog jumps again. Its head rises into the center of the mirror reflection and partially blocks her face. She laughs and tries moving sideways. The dog follows her movement. She says: "Can you move?" The dog stays directly in front of her. --- 19–24 SEC — SELFIE CHAOS She gently tries to guide the dog lower with one hand while keeping the phone raised. The dog keeps moving toward the phone. Her laughter becomes louder and less controlled. The phone shakes naturally. The reflection remains physically consistent. Her hair moves slightly as she turns. --- 24–27 SEC — DOG APPROACHES LENS The dog suddenly notices the phone itself. It moves directly toward the camera. Its nose approaches the lens. The woman's face remains visible behind it in the mirror. She laughs and pulls the phone slightly backward. The framing becomes tighter. --- 27–30 SEC — LENS BLOCK The dog reaches the phone. Its nose fills a large part of the frame. Whiskers and fur become sharply visible. The woman laughs behind the camera and starts saying: "You little—" She cuts herself off laughing. The phone dips slightly. The dog's nose remains close to the lens. The image briefly loses focus and then regains it. The clip ends naturally with the dog still trying to investigate the camera. AUDIO Natural room ambience only. Dog paws against floor, light collar movement if visible, clothing movement, woman's breathing, surprise reaction, genuine laughter and dialogue. No music. No voice-over. No subtitles. No text. No logo. No watermark. No artificial sound effects. STRICT CONSTRAINTS Exactly one woman. Exactly one dog. No other animal. No duplicate reflection. No duplicate woman. No impossible mirror behavior. No extra limbs. No face distortion. No cuts. No zoom. No camera operator. No cinematic effects. Maintain
-
-[… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · Gray Cat Triggers a Chaotic Kitchen Mishap
-
-- Seedance 2.0 · creator: @Lianaalane · heat: 63
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-video-a-cinematic-cartoon-style-kitchen-story-featuring-a-curly-red-a64a9ed0a27d) · [finished media](https://media.goodcase.ai/cases/48173b9e2384.mp4) · [poster](https://media.goodcase.ai/cases/6906113b3cd0.jpg) · [original source](https://x.com/Lianaalane/status/2104431076089414068)
-- Summary: A tiny paw started the biggest kitchen disaster. Sometimes the cutest troublemakers make the funniest memories. Created on seedance 2.0 Prompt: Created a video,…
-
-```text
-Created a video, a cinematic cartoon-style kitchen story featuring a curly red-haired woman and a cute fluffy gray cat in a warm, cozy home kitchen. The video begins with the woman entering the kitchen while the curious gray cat stays nearby, creating a playful and innocent atmosphere. The camera then moves closer to the cat as it reaches toward a button on the kitchen counter with its tiny paw. Suddenly, a funny kitchen mishap begins, filling the room with clouds of flour and food flying through the air. The woman reacts with surprise as the cat remains at the center of the chaos, making the scene humorous and energetic. Show dynamic camera movements, expressive facial reactions, detailed character animation, and natural body movement throughout the sequence. Gradually reveal the messy kitchen with flour, food, and ingredients scattered across the counters and floor. End with the woman and the cat sitting together in the messy kitchen, looking innocent and confused after the hilarious disaster. Keep the same characters, appearance, hairstyle, clothing, kitchen environment, lighting, and visual style consistent from beginning to end, with polished cinematic cartoon-quality animation.
 ```

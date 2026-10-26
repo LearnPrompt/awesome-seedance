@@ -1,6 +1,6 @@
 # Case evidence · 3D cartoon character short
 
-50 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+62 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -92,7 +92,36 @@ Style: high-quality 3D animated family comedy, adorable toddler expressions, rea
 Keep the characters consistent throughout the entire video. Preserve the toddler's hairstyle, clothing, facial features, and proportions. Smooth motion, believable hand movements, natural eye direction, cinematic composition, highly detailed animation, no text, no subtitles, no watermark.
 ```
 
-## E3 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
+## E3 · A Stern Toddler Doctor and Her Nervous Adult Patient
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c) · [finished media](https://media.goodcase.ai/cases/366adc3963e9.mp4) · [poster](https://media.goodcase.ai/cases/7e3154d06ba2.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2113820262743646446)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has b…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has big expressive brown eyes, soft fair skin, short light-brown hair, and a serious, grumpy facial expression. She wears a miniature white doctor's coat, a white nurse cap with a red medical cross, and a pink stethoscope with a heart-shaped chest piece.
+
+Scene 1: A young adult man wearing a red T-shirt lies on a medical examination bed while the tiny doctor carefully examines his chest with her stethoscope. The baby doctor looks extremely serious and unimpressed, as if she is a highly experienced physician.
+
+Scene 2: Show close-up shots of the toddler doctor frowning, narrowing her eyes, and examining the patient with exaggerated expressions. The patient looks nervous and confused, creating a funny contrast between his adult appearance and the tiny doctor's bossy attitude.
+
+Scene 3: The baby doctor suddenly looks directly at the camera with huge expressive eyes, then returns to her stern expression. Show her confidently holding medical equipment and acting like she is in charge of the entire hospital.
+
+Scene 4: A young woman enters the room wearing a casual white top and blue jeans. She watches the examination with surprise and amusement. The baby doctor continues her serious medical duties while the patient reacts comically.
+
+Scene 5: End with the tiny doctor standing confidently beside the patient, holding a medical syringe or medical instrument, with a determined expression. The patient looks worried, creating a humorous final moment.
+
+Visual Style: Ultra-detailed 3D animated family-movie aesthetic, Pixar-inspired character design, realistic skin shading, soft baby facial features, expressive eyes, cinematic warm indoor lighting, detailed hospital room, smooth character animation, realistic fabric textures, shallow depth of field, close-up reaction shots, gentle camera movements, humorous storytelling, polished 3D rendering, 4K quality.
+
+Camera and Motion: Use smooth cinematic tracking shots, medium shots, facial close-ups, and reaction shots. Keep the toddler doctor's face, hairstyle, outfit, and body proportions consistent throughout every scene. Natural body movement, accurate hand gestures, expressive facial animation, and seamless scene transitions.
+
+Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 3D animation, family-friendly comedy, no subtitles, no text overlays, no logos.
+```
+
+## E4 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 89 · stability: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
@@ -109,7 +138,7 @@ The pink rabbit applies lipstick while making funny, confident expressions. She 
 Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
 ```
 
-## E4 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
+## E5 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25) · [finished media](https://media.goodcase.ai/cases/cd474162c3c0.mp4) · [poster](https://media.goodcase.ai/cases/9f5595620b50.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2106347953711661482)
@@ -146,7 +175,7 @@ Aspect Ratio: 16:9.
 Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
 ```
 
-## E5 · A Little Girl Learns Fruits and Their English Names at Preschool
+## E6 · A Little Girl Learns Fruits and Their English Names at Preschool
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041) · [finished media](https://media.goodcase.ai/cases/5a31f9968740.mp4) · [poster](https://media.goodcase.ai/cases/537cb34decad.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2108381024417993043)
@@ -199,7 +228,7 @@ Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children'
 No scary elements, no distorted faces, no extra fingers, and no character changes.
 ```
 
-## E6 · Seedance Two-Character 3D Cartoon: Little Butterfly
+## E7 · Seedance Two-Character 3D Cartoon: Little Butterfly
 
 - Seedance 2.0 · creator: @ayzalnooor24521 · heat: 85 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg) · [original source](https://x.com/ayzalnooor24521/status/2089559741718548578)
@@ -209,7 +238,7 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 Create a cute cinematic 14-second 3D cartoon using the two reference characters, keeping their faces, hairstyles, clothes and appearance consistent. A young woman in a pink outfit walks through a sunny green park with a cute blonde little boy in a dinosaur T-shirt. The boy notices a colorful butterfly, points excitedly, and they happily follow it through the flowers. The boy picks a small flower and gives it to the woman, and she smiles and gently hugs him. Use smooth expressive animation, soft cinematic lighting, vibrant colors, detailed park scenery, natural camera movement and a warm family-friendly atmosphere. No character changes, face distortion, extra characters, outfit changes, flickering, deformed hands, text or watermark. 16:9 vertical, high-quality cinematic 3D animation.
 ```
 
-## E7 · A Ketchup Mix-Up at an Italian Restaurant
+## E8 · A Ketchup Mix-Up at an Italian Restaurant
 
 - Seedance 2.5 · creator: @Elvorya · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-high-quality-cinematic-3d-animated-restaurant-sequence-with-92b216cb0d21) · [finished media](https://media.goodcase.ai/cases/3120a05c7986.mp4) · [poster](https://media.goodcase.ai/cases/620edbf4016f.jpg) · [original source](https://x.com/Elvorya/status/2106974836887318797)
@@ -221,72 +250,4 @@ Create a 15-second high-quality cinematic 3D animated restaurant sequence with e
 Begin with a wide establishing shot inside a cozy Italian restaurant filled with wooden tables, red-and-white checkered tablecloths, framed food artwork, warm pendant lights, brick arches, and customers enjoying their meals → reveal a young man with messy brown hair sitting at a table with a young brunette woman, both waiting for their food while the busy restaurant continues around them → transition into a close-up as the young man gives an enthusiastic thumbs-up while a red ketchup bottle is squeezed dramatically over a plate of spaghetti, creating a playful food moment → cut to the chef in his white chef uniform and tall chef hat standing in the kitchen, reacting with a concerned and confused expression while holding a wooden spoon → transition to a medium shot of a waiter carrying plates through the restaurant as several customers suddenly look toward the commotion with surprised expressions → cut back to the young couple at their table as the chef approaches them holding a ketchup bottle, gesturing animatedly and trying to explain something → show the chef and the young man exchanging confused but humorous expressions while the woman watches curiously → transition into a dramatic close-up of the chef carefully presenting a beautifully plated spaghetti dish topped with tomato sauce, grated parmesan, and fresh basil → cut to an extreme close-up of a fork lifting a large portion of spaghetti, long noodles stretching upward with rich tomato sauce and steam rising from the freshly prepared food → transition back to the table as the young man and woman happily react while the chef proudly stands behind the dish → final shot becomes a warm cinematic wide shot of the restaurant, with the chef smiling proudly between the young couple as they enjoy their spaghetti, surrounding customers laughing and smiling, warm golden restaurant lighting creating a cozy happy ending.
 
 Style: polished cinematic 3D animation, expressive facial animation, charming family-friendly comedy, detailed character models, realistic food textures, warm Italian restaurant atmosphere, soft depth of field, smooth camera movement, cinematic composition, natural motion, high-quality animated-film rendering, consistent characters and environment throughout, no flickering, no character deformation, no identity drift, no text, no watermark.
-```
-
-## E8 · Eight Cute Animals and Their English Names in a Storybook Meadow
-
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 82
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-91d794271aa6) · [finished media](https://media.goodcase.ai/cases/05a1d97b6864.mp4) · [poster](https://media.goodcase.ai/cases/f8ef714634dd.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2107293811714191628)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation s…
-
-```text
-Made with seedance 2.5
-
-Prompt 👇 
-Create a 50-second vertical 9:16 educational children's animal video in a bright, colorful, high-quality 3D cartoon animation style.
-
-SCENE & BACKGROUND:
-A beautiful cheerful meadow in a magical children's storybook world. Lush green grass, colorful wildflowers in the foreground, rounded green trees, a few pink and orange trees, distant rolling hills and mountains, bright blue sky with fluffy white clouds. Warm sunny daylight, soft shadows, vibrant colors, clean polished 3D rendering.
-
-STYLE:
-Cute premium 3D animated children's content, friendly and adorable animal designs, large expressive eyes, soft rounded shapes, colorful cinematic lighting, playful educational atmosphere, high detail but simple enough for young children.
-
-CAMERA:
-Vertical composition, mostly static front-facing camera at children's eye level. Medium/full-body framing of each animal. Smooth subtle camera movement only. Keep the environment consistent throughout the video.
-
-SEQUENCE:
-Start with an empty beautiful meadow for a moment.
-
-Then introduce animals one by one, each appearing clearly in the center of the frame:
-
-1. TIGER — a cute orange tiger with black stripes, big expressive eyes and a friendly smile.
-Display the word "TIGER" above the animal in large colorful playful children's typography.
-
-2. ELEPHANT — a cute friendly gray elephant with large ears, short trunk and adorable expressive eyes.
-Display "ELEPHANT" above it.
-
-3. RHINOCEROS — a cute gray baby rhinoceros with a small horn, big eyes and friendly expression.
-Display "RHINOCEROS" above it.
-
-4. HIPPOPOTAMUS — a cute chubby purple-gray hippopotamus with a big smile and playful expression.
-Display "HIPPOPOTAMUS" above it.
-
-5. LEOPARD — an adorable golden-yellow leopard covered with dark spots, big expressive eyes and a friendly smile.
-Display "LEOPARD" above it.
-
-6. WOLF — a cute fluffy gray-and-white wolf with large expressive eyes and a friendly appearance.
-Display "WOLF" above it.
-
-7. GIRAFFE — a cute tall giraffe with a warm orange-yellow coat and brown patches, smiling gently.
-Display "GIRAFFE" above it.
-
-8. CROCODILE — a cute green crocodile with a rounded friendly body, big eyes and a playful smile.
-Display "CROCODILE" above it.
-
-For every animal:
-The animal should enter or appear naturally, look toward the camera, make a small cute movement such as blinking, smiling, waving, walking a few steps or moving its head, then remain clearly visible for children to recognize.
-
-TEXT:
-Use large bold rounded children's lettering above each animal.
-Letters should be colorful, playful, highly readable and visually exciting.
-Add small colorful celebratory shapes such as stars or confetti when an animal appears.
-
-TRANSITIONS:
-Smooth playful transitions between animals while keeping the same meadow environment.
-No scary movements, no aggressive behavior, no dark scenes.
-
-FINAL SHOT:
-Return to the empty colorful meadow for a short moment.
-
-Overall feeling: cheerful, wholesome, educational, playful, colorful preschool animal-learning video, premium 3D cartoon quality.
 ```

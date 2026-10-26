@@ -1,6 +1,6 @@
 # Case evidence · Twist-ending comedy skit
 
-32 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+40 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -174,7 +174,35 @@ His eyes remain wide while he tries
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E4 · Tiny Skateboarder Crosses a Giant at Sunset
+## E4 · Woman Splashes Attacker with Coffee and Bins Him in Seoul Subway
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-realistic-live-action-revenge-comedy-scene-inside-a-seoul-subway-9029fc876a3a) · [finished media](https://media.goodcase.ai/cases/8c85e8b4f989.mp4) · [poster](https://media.goodcase.ai/cases/86aa94cd154a.jpg) · [original source](https://x.com/AIwithkhan/status/2113841913065615450)
+- Summary: Guess why he slapped her 🤔 Seedance 2.5 Prompt : Create a ultra-realistic live-action revenge-comedy scene inside a Seoul subway station. Natural handheld came…
+
+```text
+Create a ultra-realistic live-action revenge-comedy scene inside a Seoul subway station. Natural handheld camera movement, cold fluorescent lighting, authentic subway ambience, realistic physical interactions, fast-paced action, and spontaneous facial expressions. The scene should feel like a real Korean action-comedy film, not animation or a video game.
+
+CHARACTER: A Korean woman in her 20s with a short black bob, sunglasses resting on her head, a fitted crop top, high-waisted blue jeans, black boots, and a brown shoulder bag. She holds an iced takeaway coffee and her smartphone while walking down the subway platform.
+
+ACTION SEQUENCE:
+
+0–4 seconds: A Korean man with messy dark hair featuring blonde tips, wearing a dark-green bomber jacket and black pants, suddenly slaps her across the face as he passes her and laughs mockingly. Her smartphone flies out of her hand, hits the tiled floor, and slides several feet away. She stumbles, catches herself against the handrail, and stares at him in disbelief. He turns around, points at her, and laughs even harder.
+
+4–7 seconds: She slowly turns toward him, her expression changing from shock to cold anger. Without saying a word, she lifts her iced coffee and suddenly throws the entire drink directly into his face. Coffee splashes across his hair, jacket, and face, with ice cubes scattering onto the platform. His laughter immediately stops. He stands frozen, blinking in disbelief as coffee drips from his chin.
+
+7–13 seconds: He angrily steps toward her, but she grabs the front of his bomber jacket, pivots, and uses a fast, exaggerated but physically convincing action-comedy throw to send him tumbling backward into a large metal rubbish bin beside a pillar. His legs briefly stick out over the rim as the bin rocks violently. He looks up in complete shock.
+
+13–17 seconds: She walks over calmly, looks down at him, and says in a firm, icy voice: “Don't f* with me.”** She grabs the lid and slams it shut. The metal lid CLANGS loudly. The bin rattles as he struggles inside, then goes completely still.
+
+17–20 seconds: She picks up her phone, checks the screen, brushes off her jeans, and walks away without looking back. Behind her, the rubbish-bin lid slowly lifts an inch as the man tries to escape, then drops shut again with a final metallic CLANG.
+
+SOUND DESIGN: Authentic Seoul subway announcements in the background, footsteps, phone hitting tile, the man's mocking laughter, a wet coffee splash, shoes scraping the floor, a heavy metallic bin impact, and the final lid slam. Dialogue must be clear, natural, and synchronized with the characters' mouths. No background music overpowering the action.
+
+VISUAL REQUIREMENTS: Maintain consistent faces, hairstyles, outfits, and location throughout. Show the phone falling clearly before the revenge begins. The coffee must visibly hit his face before she throws him into the bin. Make the entire throw readable in one continuous shot, with believable momentum and a comedic landing. The lid must close completely over him. Non-gory action, realistic skin texture, natural movement, restrained cinematic color grading, and authentic live-action footage. No supernatural powers, no excessive slow motion, no cartoon physics, and no scene transitions that skip the key actions.
+```
+
+## E5 · Tiny Skateboarder Crosses a Giant at Sunset
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089) · [finished media](https://media.goodcase.ai/cases/04133376ac7d.mp4) · [poster](https://media.goodcase.ai/cases/7b93f99dd303.jpg) · [original source](https://x.com/Just_sharon7/status/2103420922376163808)
@@ -194,7 +222,7 @@ A tiny man (normal human scale relative to her) skateboards along her body. He h
 Camera is extremely low and close, starting at her legs and tracking forward and slightly upward with the skateboarder. Strong motion blur on the nearest skin and fabric in the foreground. Shallow depth of field, warm rim light on her face and hair, slight wind in her hair and the robe. Photorealistic, high-end commercial look, 9:16 vertical, smooth continuous camera move, no cuts.
 ```
 
-## E5 · Monday Morning’s Upside-Down Water Ritual
+## E6 · Monday Morning’s Upside-Down Water Ritual
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909) · [finished media](https://media.goodcase.ai/cases/71885692ca73.mp4) · [poster](https://media.goodcase.ai/cases/d86c8eb13364.jpg) · [original source](https://x.com/Just_sharon7/status/2104544058471502330)
@@ -216,7 +244,7 @@ An off-camera operator slowly pumps the opposite end of the lever, tilting the b
 Natural window light, muted filmic color palette, shallow depth of field, slight handheld camera movement that stays locked on the woman and the barrel. Slow, rhythmic, slightly surreal and elegant rather than slapstick. No text, no logos.
 ```
 
-## E6 · A Wizard's Ten-Second Escape Plan: Become a Duck
+## E7 · A Wizard's Ten-Second Escape Plan: Become a Duck
 
 - Seedance 2.5 · creator: @AIwithNatalia · heat: 88 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f) · [finished media](https://media.goodcase.ai/cases/4cabc64762f9.mp4) · [poster](https://media.goodcase.ai/cases/15792e0fa5ef.jpg) · [original source](https://x.com/AIwithNatalia/status/2089170554725265625)
@@ -253,7 +281,7 @@ End text:
 ✨ Never rush a spell. 🦆
 ```
 
-## E7 · A Hilarious Payback After the Subway Doors Close
+## E8 · A Hilarious Payback After the Subway Doors Close
 
 - Seedance 2.5 · creator: @AIwithSynthia · heat: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66) · [finished media](https://media.goodcase.ai/cases/d26ae0e3eb73.mp4) · [poster](https://media.goodcase.ai/cases/101f63c774b7.jpg) · [original source](https://x.com/AIwithSynthia/status/2098988104418050349)
@@ -273,22 +301,4 @@ One passenger starts laughing, then everyone bursts into laughter while the man 
 She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
 Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
 No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
-```
-
-## E8 · Man Rushes from Shower in a Towel to Find His Delivery
-
-- Seedance 2.5 · creator: @AIwithZeeshi · heat: 85
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722) · [finished media](https://media.goodcase.ai/cases/7fd0591d8bd6.mp4) · [poster](https://media.goodcase.ai/cases/18d636c8a022.jpg) · [original source](https://x.com/AIwithZeeshi/status/2107317166995546481)
-- Summary: Sometimes the delivery comes at the worst possible time. Created with Seedance 2.5. Prompt: A young man is taking a normal shower in a modern apartment when his…
-
-```text
-A young man is taking a normal shower in a modern apartment when his phone suddenly shows a delivery notification.
-
-He hears the doorbell and quickly turns off the shower, grabs a towel, and rushes toward the entrance. His wet feet leave small realistic footprints as he carefully runs across the floor.
-
-He finally opens the door, but the delivery driver is already walking away. The package is sitting safely on the doormat.
-
-He looks at the package, then at the driver, completely exhausted.
-
-Photorealistic cinematic comedy, realistic water behavior, natural human movement, believable gravity and friction, consistent character appearance, realistic wet hair and fabric, natural facial expressions, smooth camera tracking, accurate shadows, realistic apartment lighting, and physically believable interactions throughout.
 ```

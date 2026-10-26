@@ -1,6 +1,6 @@
 # Case evidence · Horror and suspense
 
-27 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+29 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -216,7 +216,31 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E5 · Neighbors Fight Back Against an Infected Attack at Dusk
+## E5 · A Woman Turns Zombie and Hunts Survivors in a Parking Garage
+
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-0-3s-a-young-korean-woman-in-a-fitted-blue-crop-top-and-white-shorts-walks-thr-3c95ae30346a) · [finished media](https://media.goodcase.ai/cases/4188ecfb268c.mp4) · [poster](https://media.goodcase.ai/cases/d1ba7a99ee62.jpg) · [original source](https://x.com/AIwithSynthia/status/2113840061104206005)
+- Summary: AI can do extraordinary things . 👇is one such example Made using Seedance 2.5 Prompt : 0–3s: A young Korean woman in a fitted blue crop top and white shorts wa…
+
+```text
+0–3s: A young Korean woman in a fitted blue crop top and white shorts walks through an underground parking garage, jokingly waving at the security guard.
+
+3–6s: Her smile freezes, her eyes turn completely white, and dark veins appear across her face. She coughs, revealing blood around her lips.
+
+6–9s: She tilts her head unnaturally, laughs hysterically, and suddenly slams her bloody palm against the security booth glass.
+
+9–13s: The terrified guard runs away as she chases him between parked cars, moving with frightening speed.
+
+13–18s: A resident exits the elevator, mistakes the situation for a prank, then screams as the zombie suddenly charges at him.
+
+18–24s: Emergency sprinklers activate. Soaked and twitching, the zombie crawls beneath a closing metal shutter while the survivors watch in horror.
+
+24–30s: Everyone races toward the exit. The zombie smashes against the glass door, revealing her white eyes and blood-smeared grin before the lights suddenly go out.
+
+STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realistic blood smears, sudden jerky movements, flickering lights, handheld camera shake, dark humor, cinematic 4K. No cartoon, anime, excessive gore, subtitles, or watermark.
+```
+
+## E6 · Neighbors Fight Back Against an Infected Attack at Dusk
 
 - Seedance 2.5 · creator: @auqibhabib · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) · [finished media](https://media.goodcase.ai/cases/8f39846baced.mp4) · [poster](https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg) · [original source](https://x.com/auqibhabib/status/2107346452494381298)
@@ -282,7 +306,7 @@ Cinematic horror-action short film, opens with an instant attack, no slow build,
 Made with seedance 2.5 on @SocialSight
 ```
 
-## E6 · Zombie Attack in a Japanese Classroom
+## E7 · Zombie Attack in a Japanese Classroom
 
 - Seedance 2.5 · creator: @AIwithkhan · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) · [finished media](https://media.goodcase.ai/cases/679f1e6b50a2.mp4) · [poster](https://media.goodcase.ai/cases/bd58f9078734.jpg) · [original source](https://x.com/AIwithkhan/status/2100575957451153626)
@@ -294,7 +318,7 @@ Create a short, ultra-realistic Japanese high-school horror-action sequence feat
 Photorealistic live-action, practical-effects horror, realistic Japanese classroom, natural handheld camera, authentic reactions, realistic physics, muted cinematic grading, diegetic sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon, CGI look, distorted anatomy, subtitles, text, or watermark.
 ```
 
-## E7 · The Zombie Express, Cut to the Tenth of a Second
+## E8 · The Zombie Express, Cut to the Tenth of a Second
 
 - Seedance 2.5 · creator: @doctorwasif · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) · [finished media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg) · [original source](https://x.com/doctorwasif/status/2095373753983369666)
@@ -327,18 +351,4 @@ Shot 23 (24.0–25.5s): Close-up of infected faces pressing against the door win
 Shot 24 (25.5–27.0s): A survivor pulls two children close, shielding them as the pounding grows louder.
 Shot 25 (27.0–28.5s): Wide shot of survivors huddled in the next car, sealed door shuddering behind them under red emergency lights.
 Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the night, sleeper windows flickering with chaos inside, ominous ending.
-```
-
-## E8 · Infection Terror Aboard a Night Sleeper Train
-
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 79 · stability: 66
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e) · [finished media](https://media.goodcase.ai/cases/c6330616b2bc.mp4) · [poster](https://media.goodcase.ai/cases/86a341e46f5f.jpg) · [original source](https://x.com/AIwithSynthia/status/2100803982197502368)
-- Summary: One passenger woke up. Everyone paid the price. 👀 Made using Seedance 2.5 on @wavespeed_ai Prompt : Preserve the exact face, hairstyle, golden-cream dress, tat…
-
-```text
-Preserve the exact face, hairstyle, golden-cream dress, tattoos, necklace, and overall appearance. She lies feverish and restless in the upper bunk of a dark sleeper train, slowly waking as her fingers tremble and dark veins appear. Her eyes turn cloudy white, her expression becomes unnaturally blank, and a dark drop falls onto the passenger below. She suddenly leans over, drops onto the lower bunk, and attacks the sleeping passenger non-graphically. Dark veins spread across him as he convulses, his eyes turn white, and he releases an inhuman scream.
-
-The infected passenger rushes into the corridor, awakening others and triggering chaos throughout the carriage. Curtains fly open, luggage falls, passengers scramble to escape, and more people become infected. A conductor grabs a fire extinguisher and blasts the approaching infected with white foam, giving survivors time to reach the connecting door. They slam it shut and barricade it with luggage and a fold-down seat as infected hands pound against the glass. Cracks begin spreading while terrified passengers retreat.
-
-End with survivors huddled together beneath flashing red emergency lights, protecting two children as the sealed door violently shakes behind them. Cut to an exterior wide shot of the train speeding through the dark countryside, sleeper-car windows flickering with red emergency light and chaotic silhouettes inside. Ultra-realistic cinematic zombie horror, authentic sleeper-train interior, blue night lighting, red emergency lights, realistic characters, handheld camera during chaos, practical effects, atmospheric shadows, tense sound design, no background music, no excessive gore, no subtitles, no watermark, no anime or cartoon style.
 ```

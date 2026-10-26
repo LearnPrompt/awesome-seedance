@@ -1,6 +1,6 @@
 # Case evidence · Cinematic travel vlog montage
 
-31 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+37 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -32,7 +32,20 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E2 · A Pink-Haired Girl’s Lazy Playground Wander
+## E2 · A Journey Through Poland's Landscapes and Culture
+
+- Seedance 2.0 · creator: @KinasRemek · heat: 83
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-celem-jest-wykonanie-maksymalnie-90-sekundowego-klipu-promocyjnego-pod-tytu-11f2fef80247) · [finished media](https://media.goodcase.ai/cases/3fb2f495050f.mp4) · [poster](https://media.goodcase.ai/cases/f9e8f51d5d01.jpg) · [original source](https://x.com/KinasRemek/status/2102728913579327722)
+- Summary: "Poland is so beautiful" 🇵🇱 Opus 5.5 - jako orkiestrator i mózg operacji. Tym razem najnowszy model Claude Opus 5.5 ma za zadanie wyprodukować klip video prom…
+
+````text
+```Celem jest wykonanie maksymalnie 90 sekundowego klipu promocyjnego pod tytułem "Poland is so beautiful". Ma to być film promujący Polskę jej najpiękniejsze miejsca, obyczaje kulturowe, spokój, bezpieczeństwo, dorobek historyczny. Używaj rzeczywistych scen i obrazów. Przy generowaniu filmu  użyj Higgsfield plugin lub serwera MCP do tej aplikacji. Realistyczny film, cinematic, ujęcia obiektywem anamorficznym.```
+
+Harness: Codex i  Higgsfield
+Zadanie: Model ma wykonać zadanie bzez pomoicy ze strony człowieka.
+````
+
+## E3 · A Pink-Haired Girl’s Lazy Playground Wander
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 81 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
@@ -68,7 +81,7 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · Her Autumn Day in the City
+## E4 · Her Autumn Day in the City
 
 - Seedance 2.5 · creator: @Chaemate_ · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
@@ -116,7 +129,7 @@ ACTION
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E4 · A Slow Autumn Travel Vlog in Kyoto
+## E5 · A Slow Autumn Travel Vlog in Kyoto
 
 - Seedance 2.5 · creator: @Chaemate_ · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) · [finished media](https://media.goodcase.ai/cases/784165cb489a.mp4) · [poster](https://media.goodcase.ai/cases/587b89f01743.jpg) · [original source](https://x.com/Chaemate_/status/2099439262106083704)
@@ -138,7 +151,7 @@ Use realistic handheld camera movement, subtle autofocus, natural exposure chang
 The goal is simple: make it feel like an actual travel vlog someone happened to capture during a real day in Kyoto, not an AI-generated commercial.
 ```
 
-## E5 · A Korean Woman's Winter Journey Through England
+## E6 · A Korean Woman's Winter Journey Through England
 
 - Seedance 2.0 · creator: @Harry_thingss · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-second-ultra-realistic-4k-cinematic-winter-travel-vlog-set-in-england-6e26bca27e87) · [finished media](https://media.goodcase.ai/cases/72a97331532a.mp4) · [poster](https://media.goodcase.ai/cases/fad9a7d79ccd.jpg) · [original source](https://x.com/Harry_thingss/status/2102993120942346594)
@@ -161,7 +174,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 Style: Photorealistic, authentic English winter mood (overcast, misty, not heavy snow), natural cinematic lighting, accurate hands, consistent identity/outfit, no face changes, distortion, cartoon or CGI — real cinema-quality footage.
 ```
 
-## E6 · A Korean Woman’s 30-Second Taiwan Travel Vlog
+## E7 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 75 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
@@ -194,7 +207,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E7 · Mediterranean Hillside Villa Interior and Aerial Tour
+## E8 · Mediterranean Hillside Villa Interior and Aerial Tour
 
 - Seedance 2.0 · creator: @noorlewisx · heat: 73 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
@@ -204,27 +217,4 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 Cinematic luxury real estate drone and interior tour of a stunning white Mediterranean-style villa with terracotta roof, set on a hillside surrounded by lush green trees, cypress trees, and manicured gardens. Smooth aerial shots circling the elegant multi-story mansion with a private swimming pool, formal gardens, stone fountain, and winding driveway leading to a grand black iron gate marked with the number 8.
 Soft natural sunlight filtering through large multi-pane windows, golden hour and sunset lighting with lens flares. Interiors feature high ceilings, dark navy blue paneled walls, white curved modern sofas, abstract art, crystal and metal chandeliers, a wooden pool table, ornate white fireplace, open-plan living rooms with large windows overlooking greenery, a bright white kitchen with marble island, pendant lights, and professional range, elegant dining room with long dark table and white chairs, spiral staircase with black iron railings.
 Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.
-```
-
-## E8 · Helicopter Night Tour Over Tokyo
-
-- Seedance 2.5 · creator: @noorlewisx · heat: 69 · stability: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-f8e8235cd94a) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-f8e8235cd94a.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-f8e8235cd94a.jpg) · [original source](https://x.com/noorlewisx/status/2093567063357088065)
-- Summary: A Night to Remember in Tokyo From a Helicopter Ride to Shibuya After Dark Made with seedance 2.5 on @itsPolloAI Prompt:
-
-```text
-A cinematic first-person and selfie-style night video of a beautiful young East Asian woman with long dark hair in a ponytail, wearing a maroon ribbed halter top, cream wide-leg pants, and black slide sandals. She is taking a helicopter night tour over Tokyo. No watermark, no logo, no text overlay, no brand names.
-Scene 1: On a green-lit rooftop helipad at night. She smiles at the camera holding it selfie-style. A white Robinson-style helicopter is behind her with spinning blades. Tokyo city lights and water in the background. She says she is getting on a helicopter in Tokyo.
-Scene 2: Inside the helicopter cockpit. She wears a green aviation headset with boom mic and a black 4-point harness. A small fuzzy lavalier mic is clipped to her top. She looks at the camera, slightly nervous then smiling, adjusting her seatbelt. Night city lights visible through the open side.
-Scene 3: Helicopter lifts off from the helipad. Wide view of Tokyo Bay at night, Tokyo Tower glowing orange on the left, Rainbow Bridge lit up on the right, dark water below.
-Scene 4: Open-door helicopter flight. Strong wind blows her hair. She laughs excitedly, eyes squinting, mouth open in joy, saying there is no door at all. Below: a cargo ship on the water and glittering city skyline.
-Scene 5: POV looking down between her legs — cream pants and black sandals dangling over a dense sea of Tokyo skyscrapers and streets glowing at night.
-Scene 6: Close selfie next to the brightly lit orange Tokyo Tower. She looks at camera and says “That’s Tokyo Tower.”
-Scene 7: Aerial shot flying over Tokyo Skytree glowing purple and white, her feet visible at the bottom of frame, highways and dense city lights below.
-Scene 8: Flying low along Rainbow Bridge at night — white cables, cars with headlights, city skyline behind.
-Scene 9: After landing, she steps off the white helicopter onto the green helipad, walking toward camera holding the headset in one hand, wearing the same outfit.
-Scene 10: She is now standing in crowded Shibuya Crossing at night, neon signs everywhere, yellow taxi and people crossing behind her. She smiles at the camera, waves, and says “Alright everyone, bye!” then “Bye!”
-Style: realistic handheld selfie + aerial footage, night city lights, slight wind, natural skin, warm street lighting mixed with cool night sky. Smooth cuts, 30-second duration, vertical or 16:9 cinematic look. Photorealistic, no text, no watermark, no logo anywhere.
-
-#polloai
 ```

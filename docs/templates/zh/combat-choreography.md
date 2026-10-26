@@ -64,7 +64,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 78 条，按热度）
+## 这一类的案例（已归类 89 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -81,7 +81,7 @@
 | <a href="https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/19cf0f9fde2b.jpg" width="160" alt="湿冷地铁站台格斗"></a> | [湿冷地铁站台格斗](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 78 |
 | <a href="https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="160" alt="地铁站破墙现身的武打女主"></a> | [地铁站破墙现身的武打女主](https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 78 |
 
-其余 66 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) 上。
+其余 77 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) 上。
 
 ---
 

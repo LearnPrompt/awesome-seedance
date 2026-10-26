@@ -1,6 +1,6 @@
 # Case evidence · Sports and extreme stunts
 
-12 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+14 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -235,7 +235,17 @@ Bright natural daylight, realistic shadows, detailed mud and gravel textures, ci
 No CGI appearance, no extra racers, no spectators blocking the riders, no impossible jumps, no teleportation, no floating bikes, no unrealistic physics, no distorted anatomy, no changing riders or equipment, no excessive camera shake, no text, no logos, no watermark.
 ```
 
-## E6 · Seedance Smooth Snowboard Run Through a Terrain Park
+## E6 · White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake
+
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 59
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) · [finished media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) · [poster](https://media.goodcase.ai/cases/a396247022dc.jpg) · [original source](https://x.com/ayzalnooor24521/status/2113128549930729895)
+- Summary: Grace, balance, and breathtaking moves come together in this stunning acrobatic performance above the water. Created on seedance 2.0 Prompt: Create it 30-second…
+
+```text
+Create it 30-second video featuring a breathtaking cinematic acrobatic performance above a beautiful turquoise lake surrounded by lush green mountains, misty cliffs, and soft cloudy skies. A graceful female acrobat wearing a flowing white outfit performs incredible flips, handstands, aerial rotations, and perfectly controlled balancing moves on a series of tall, narrow wooden poles rising above the water. The camera captures her movements from wide cinematic angles and smooth tracking shots, highlighting her strength, flexibility, and balance against the stunning natural landscape. She leaps gracefully from one pole to another, spins through the air, and lands with precision on a wooden platform beside the lake, finishing with an elegant martial-arts-inspired pose with her arms extended. Use realistic human anatomy, natural body movements, accurate physics, fluid transitions, soft daylight, atmospheric mountain fog, crystal-clear water reflections, and ultra-realistic cinematic details. Keep the acrobat's face, hairstyle, outfit, and body proportions consistent throughout the video. The final result should look like a professionally filmed real-life acrobatic performance, with smooth camera movement, breathtaking scenery, and no text, logos, or visual distortions.
+```
+
+## E7 · Seedance Smooth Snowboard Run Through a Terrain Park
 
 - Seedance 2.5 · creator: @nawalsehar · heat: 57 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
@@ -245,7 +255,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 A young snowboarder drops into an alpine terrain park, carves smoothly down the slope, performs a controlled 180° jump and freestyle butter, then finishes with a clean stop. Ultra-realistic winter sports documentary, physically accurate snowboard physics, authentic human movement, natural English lip-sync, bright winter daylight, immersive mountain ambience, and seamless story continuity throughout.
 ```
 
-## E7 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
+## E8 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
 - Seedance 2.0 · creator: @aiwithaly · heat: 51 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
@@ -259,184 +269,4 @@ Created with Seedance 2.5.
 Prompt
 
 Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
-```
-
-## E8 · Over-Water Human Wall Crab Squat Challenge
-
-- Seedance 2.5 · creator: @johnAGI168 · heat: 49
-- Evidence: [GoodCase](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36) · [finished media](https://media.goodcase.ai/cases/e77dd4feeff5.mp4) · [poster](https://media.goodcase.ai/cases/41f55c86bd5d.jpg) · [original source](https://x.com/johnAGI168/status/2092536240436363328)
-- Summary: 最近这个螃蟹蹲也是挺火的🔥咱也整一个📺 还是来源日本老哥丰富多彩的玩法😂 只需上传一张自己图片输入下面提示词即可生成同款视频🎬 Seedance 2.5 prompt 👇 SEEDANCE 2.5｜水上人形墙挑战 【风格】真人水上
-
-```text
-最近这个螃蟹蹲也是挺火的🔥咱也整一个📺
-
-还是来源日本老哥丰富多彩的玩法😂
-
-只需上传一张自己图片输入下面提示词即可生成同款视频🎬
-
-Seedance 2.5 prompt  👇
-
-SEEDANCE 2.5｜水上人形墙挑战
-
-【风格】真人水上综艺闯关节目（Live-Action Water Game Show），明快饱和色彩，盛夏正午自然光，真实广播级摄影，快速剪辑，轻喜剧节奏，真实重力与水体物理，4K高清
-【时长】15秒
-【画幅】16:9横屏
-【语言】中文男声画外解说，主角没有正式台词，仅保留呼吸、用力声和落水前的短促惊叫；无字幕
-【场景】大型户外水上综艺竞技场，碧蓝泳池中央架设橙色狭长挑战平台，平台尽头是一块沿隐藏轨道匀速前进的浅蓝色厚实人形墙板；墙板中央开着“头部居中、双肘横向打开、双手抱头、双腿大幅分开下蹲”的螃蟹深蹲人形孔洞。泳池对面是坐满观众的半圆形看台，上方覆盖大型白色遮阳棚。
-
-【人物角色卡】
-@图片1 命名“夏妍”，水上综艺闯关者。人物脸部、身形、发型、妆容、服装及配饰完全继承参考图，不增加或修改任何外观元素。
-角色目标：在移动人形墙到达前，快速看懂孔洞姿势并让身体穿过。
-表演轨迹：自信亮相 → 看清题目后短暂震惊 → 急忙调整姿势 → 以为已经成功 → 察觉尺寸不合 → 被墙体推落水 → 浮出水面后不服气地瞪向镜头。
-表演方式：偏真实综艺反应，不故意卖萌，不从第一秒就夸张；所有表情变化必须由墙体移动、身体接触和落水结果依次触发。
-
-[00:00-00:02.00] 镜头1：第二关开始（Close-up Hook）
-正面近景：夏妍站在橙色平台中央，泳池和浅蓝色人形墙板位于她身后。镜头使用中长焦压缩背景，观众席轻微虚化。
-
-[00:00-00:00.80]
-夏妍直视镜头，保持自信从容的笑容，肩膀自然放松。背景传来机械装置启动的“咔嗒”声和低沉电机声。
-
-【中文男声画外解说】“第二关，开始！”
-
-解说声音明亮有力，像现场综艺主持人，不能使用新闻播音腔。
-
-[00:00-00:00.80-00:02.00]
-机械运转声逐渐接近。夏妍的笑容停住，眼睛突然睁大，嘴唇自然张成小圆形；她先看镜头，再迅速转动眼睛观察身后的挑战墙。
-
-反应不能提前出现，必须在机械声响起之后才从自信变为意外。
-
-【中文男声画外解说】“这次是——超级螃蟹蹲！”
-
-“超级螃蟹蹲”提高音量并拉长尾音，配短促综艺铜管音效。
-
-[00:02.00-00:05.00] 镜头2：看懂姿势，马上就位（Wide Shot → Rear Three-quarter）
-硬切全景：完整展示橙色平台、泳池、浅蓝色人形墙板和观众席。人形墙从平台远端沿直线轨道缓慢向夏妍移动，全程保持垂直，速度稳定。
-
-[00:02.00-00:03.00]
-夏妍迅速转身面向人形孔洞，先上下扫视孔洞轮廓，确认头、双肘、躯干和双腿的位置。
-
-她小跑两步靠近墙板前方的定位区域，脚底与平台接触真实，不打滑、不瞬移。
-
-[00:03.00-00:05.00]
-后侧三分之二机位：夏妍双手抬到脑后，手指交叠，双肘向左右打开；双脚快速向两侧分开，膝盖向外，身体重心逐渐下沉。
-
-【中文男声画外解说】“双腿打开，重心压低，双手抱头！”
-
-解说节奏与动作同步：
-
-“双腿打开”对应双脚向两侧移动；
-“重心压低”对应身体进入深蹲；
-“双手抱头”对应双手在脑后交叠。
-
-身体动作必须依次完成，禁止三种动作同一帧突然出现。
-
-[00:05.00-00:09.00] 镜头3：姿势对了，尺寸不对（Symmetrical Front Shot）
-切到墙板正面的对称全景。摄影机隔着人形孔洞拍摄夏妍，她的头、手臂、躯干和双腿分别对准对应开口。
-
-[00:05.00-00:06.20]
-夏妍保持双手抱头和宽距深蹲，左右调整脚步，再把身体向孔洞中心移动几厘米。
-
-她先低头检查双脚位置，再抬眼看向正在接近的墙板。嘴唇轻轻抿住，呼吸加快。
-
-[00:06.20-00:07.50]
-墙板继续沿轨道匀速前进。夏妍把重心压得更低，让双肘和双腿尽量贴合孔洞边缘。
-
-她短暂闭眼用力，肩膀轻微抬高；重新睁眼时，瞳孔扩大，嘴唇张开，发现孔洞比预想中更紧。
-
-【中文男声画外解说】“姿势很标准——”
-
-前半句语气兴奋，像在宣布她即将成功。
-
-[00:07.50-00:09.00]
-墙板距离她越来越近。她保持姿势不敢乱动，只能轻微转动眼睛观察两侧孔洞边缘。
-
-孔洞边缘逐渐靠近她的双肘和腿部，但尚未发生接触。她脸上的自信一点点消失，嘴巴微张，呼吸停顿半拍。
-
-【中文男声画外解说】“可这个洞……好像小了点！”
-
-“可这个洞”后停顿约0.3秒；“小了点”降低音量，带明显不妙的预感。
-
-背景音乐在此处暂停一个重拍，只留下墙体机械声和观众吸气声。
-
-[00:09.00-00:10.50] 镜头4：没穿过去（Side Shot / Physical Comedy）
-切到平台侧面中全景，同时看见人形墙、夏妍和她身后的泳池边缘。
-
-[00:09.00-00:09.50]
-墙板到达夏妍的位置。孔洞边缘先轻轻接触她身体外侧，她立即意识到无法完全穿过，双眼睁大，手从脑后松开，掌心向前寻找支撑。
-
-反应必须由接触触发，禁止提前站起或提前后仰。
-
-【中文男声画外解说】“糟了，没卡进去！”
-
-[00:09.50-00:10.50]
-墙板继续保持原有速度向前，无法通过孔洞的夏妍被平稳推向平台边缘。
-
-她的重心逐渐越过脚后跟，脚掌先在平台上向后滑动小段距离；随后膝盖伸展、身体向后倾斜、双臂在身体两侧快速摆动维持平衡。
-
-到达平台边缘时，她先半坐到边缘，双腿因惯性向上抬起，然后整个身体向后落入泳池。
-
-禁止墙板突然加速，禁止夏妍主动起跳；落水必须来自墙板持续推动和身体重心后移。
-
-夏妍在离开平台瞬间发出短促自然的“啊！”声。
-
-[00:10.50-00:12.50] 镜头5：巨大落水水花（Water Impact / Real Fluid Physics）
-[00:10.50-00:11.20]
-侧面宽景：夏妍背部和身体后侧首先接触水面，双腿随后落水。
-
-入水点瞬间炸开大片白色水花，水柱向上和向两侧扩散；细小水滴形成真实抛物线，较重水团迅速回落。
-
-【中文男声画外解说】“还是被推下水了！”
-
-“下水了”与最大水花同时出现。
-
-【音效】低沉落水声、大片水花声、观众惊呼。
-
-[00:11.20-00:12.50]
-镜头继续停留在落水区域。夏妍完全没入水中，只剩白色泡沫、扩散涟漪和逐渐回落的水滴。
-
-泡沫由密到疏，水面波纹向泳池四周传播。人形墙停在平台边缘，不能倒下、弯曲或落入水中。
-
-背景音乐短暂停顿，随后以轻快鼓点重新进入。
-
-[00:12.50-00:15.00] 镜头6：不服气的回马枪（Water-level Push-in）
-切到接近水面的正面中景。
-
-[00:12.50-00:13.20]
-夏妍从水下浮出，先露出头部，再露出肩膀。她闭着眼睛呼出一口气，水从脸部和下巴连续滴落。
-
-她张开双臂划水保持身体稳定。湿水只能改变表面状态，不得改变人物脸部、发型结构、服装结构或身份特征。
-
-[00:13.20-00:14.00]
-夏妍睁开眼睛，确认镜头就在前方。她没有立刻生气，而是先抿紧嘴唇，把两边脸颊缓慢鼓起来。
-
-摄影机在水面高度轻轻向前推进，景别由中景变为近景。背景观众和平台逐渐虚化。
-
-【中文男声画外解说】“挑战失败——”
-
-在“失败”后停顿，让观众看清她逐渐变化的表情。
-
-[00:14.00-00:15.00]
-近景：夏妍鼓着脸颊，微微压低眉毛，直勾勾盯住镜头，像是在责怪节目组把洞做小了。
-
-她保持这个表情到最后一帧，不能提前松气、微笑或移开视线。下巴滴下一条连续水线，水面围绕肩膀产生细小波纹。
-
-【中文男声画外解说】“但是气势满分！”
-
-“满分”与观众欢呼和掌声同步。最后0.3秒定格在她鼓脸瞪镜头的表情上，形成明确喜剧收束。
-
-【完整中文旁白】
-“第二关，开始！”
-“这次是——超级螃蟹蹲！”
-“双腿打开，重心压低，双手抱头！”
-“姿势很标准——可这个洞……好像小了点！”
-“糟了，没卡进去！”
-“还是被推下水了！”
-“挑战失败——但是气势满分！”
-
-【声音设计】
-全程使用活泼、节奏明确的中文水上综艺男声解说，语气自然、有现场感，不使用机械播音腔。
-背景音乐为轻快综艺铜管、鼓点和短促悬念停顿；不能遮盖解说和关键音效。
-保
-
-[… truncated, full prompt on the goodcase.ai page]
 ```

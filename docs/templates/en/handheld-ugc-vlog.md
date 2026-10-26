@@ -65,7 +65,7 @@ Buy believability with camera defects. Name a specific consumer camera era, list
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (118 filed, by heat)
+## Cases in this category (127 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
@@ -82,7 +82,7 @@ Buy believability with camera defects. Name a specific consumer camera era, list
 | <a href="https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/38369ab7e574.jpg" width="160" alt="A Korean Woman’s Summer Day on a Traditional Farm"></a> | [A Korean Woman’s Summer Day on a Traditional Farm](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 86 |
 | <a href="https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/youmind-travel-vlog-city-to-beach.jpg" width="160" alt="Handheld Travel Vlog From Apartment to Beach"></a> | [Handheld Travel Vlog From Apartment to Beach](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 86 |
 
-The other 106 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases).
+The other 115 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases).
 
 ---
 

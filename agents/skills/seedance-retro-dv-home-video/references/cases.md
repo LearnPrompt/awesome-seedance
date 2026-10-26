@@ -1,6 +1,6 @@
 # Case evidence · Early-2000s DV home video
 
-35 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+41 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -254,7 +254,85 @@ Audio: Natural street ambience, footsteps, distant traffic, birds, casual conver
 Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
 ```
 
-## E7 · Early-2000s Seoul Couple's Afternoon Drive
+## E7 · A Girl’s Retro Selfie Diary on Seoul’s Shopping Streets
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 92
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-on-14a9d2540b85) · [finished media](https://media.goodcase.ai/cases/bd0828053242.mp4) · [poster](https://media.goodcase.ai/cases/40eec7295c01.jpg) · [original source](https://x.com/Just_sharon7/status/2109218767620444331)
+- Summary: Seedance 2.5 on @DomoAI_ Prompt CAMERA: Early-2010s smartphone front-camera selfie vlog, filmed on an old iPhone 4 or Samsung Galaxy S2. The girl holds the phon…
+
+```text
+Seedance 2.5 on @DomoAI_ 
+
+Prompt
+
+CAMERA:
+Early-2010s smartphone front-camera selfie vlog, filmed on an old iPhone 4 or Samsung Galaxy S2. The girl holds the phone at arm's length, occasionally switching to the rear camera to show her surroundings. Natural hand tremors, awkward framing, accidental finger covering the lens, shaky walking footage, imperfect autofocus, and sudden camera tilts. No professional camera movements.
+VIDEO QUALITY:
+Authentic 2010–2012 smartphone footage, 480p resolution, low dynamic range, washed-out colors, visible digital noise, blocky compression artifacts, slightly blurry moving subjects, rolling-shutter wobble, overexposed skies, and automatic white-balance shifts. Looks like a forgotten YouTube vlog uploaded in 2011.
+
+CHARACTER:
+MILA — a cheerful 22-year-old East Asian girl with a Korean-Chinese appearance, long straight black hair with side-swept bangs, naturally fair skin, soft pink lip tint, minimal makeup, and expressive dark-brown eyes. Wearing a loose pastel-yellow cardigan over a white graphic T-shirt, a short denim skirt, white sneakers, and a small brown leather shoulder bag. Her appearance, hairstyle, outfit, and facial features remain identical throughout.
+LOCATION:
+A lively Seoul shopping neighborhood on a sunny afternoon. Narrow pedestrian streets, colorful Korean storefronts, clothing racks outside shops, stationery stores, photo booths, flower stands, parked scooters, and pedestrians walking naturally in the background.
+
+STYLE:
+Spontaneous, playful, slightly chaotic 2011 YouTube lifestyle vlog. Casual conversations directly into the phone, unscripted facial expressions, awkward pauses, spontaneous laughter, and quick amateur cuts.
+SHOT-BY-SHOT SEQUENCE
+
+0–2.5s — The Flower Shop
+Front-camera selfie. MILA walks past a tiny flower shop, notices a beautiful bouquet, and suddenly stops.
+
+Dialogue: "Wait, these flowers are literally so pretty!"
+She turns the phone toward the flowers, briefly losing focus.
+
+2.5–5s — The Photo Booth
+
+Quick shaky cut. MILA squeezes inside a tiny Korean photo booth. The camera is held too close to her face. She makes an exaggerated silly expression and flashes a peace sign as the booth flashes.
+
+Dialogue: "Oh my gosh, why do I look like that?!"
+
+She bursts into laughter.
+
+5–7.5s — The Claw Machine
+
+MILA stands in front of a small arcade claw machine, filming herself and the machine alternately. She presses the button, the claw grabs a tiny plush bunny but drops it at the last second.
+
+Dialogue: "Nooo! I almost got it!"
+
+She dramatically pouts at the camera.
+
+7.5–10s — The Sunglasses
+
+Quick cut to a sidewalk accessories stand. MILA tries on oversized heart-shaped pink sunglasses, turns the front camera toward herself, and tilts her head.
+
+Dialogue: "Okay, wait... kinda iconic!"
+
+She laughs and adjusts the glasses.
+
+10–12.5s — The Unexpected Wind
+
+Walking down the street, a sudden breeze blows her bangs across her face. She tries to fix her hair while still holding the phone. The frame tilts awkwardly.
+
+Dialogue: "Ahh! My hair! Seriously?!"
+
+She giggles, brushing her bangs away.
+
+12.5–15s — Goodbye
+
+MILA stops beside a colorful storefront, holds up her photo-booth pictures, smiles brightly, and gives a little wave.
+
+Dialogue: "Best random day ever! Byeee!"
+
+She reaches toward the phone screen. Her finger partially covers the lens, followed by an abrupt cut to black.
+
+AUDIO
+
+Authentic low-quality smartphone microphone. Distant Korean street conversations, footsteps, shop
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E8 · Early-2000s Seoul Couple's Afternoon Drive
 
 - Seedance 2.5 · creator: @AIwithkhan · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e) · [finished media](https://media.goodcase.ai/cases/0c1a24cc546f.mp4) · [poster](https://media.goodcase.ai/cases/64e9f9e3ac3b.jpg) · [original source](https://x.com/AIwithkhan/status/2104776214066188611)
@@ -298,47 +376,4 @@ Built-in camcorder microphone only. Car engine, road noise, turn signals, window
 Keep the same couple, faces, hairstyles, outfits, accessories and car throughout. Natural Korean facial features, realistic hands and fingers, believable walking, sitting, driving and kissing. Hair and clothing react naturally to the breeze and movement. Genuine expressions rather than exa
 
 [… truncated, full prompt on the goodcase.ai page]
-```
-
-## E8 · An Idol's Wobbly Post–Leg Day Gym Diary
-
-- Seedance 2.5 · creator: @QAiStudio · heat: 91 · stability: 79
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-dv-16mm-tape-camcorder-handheld-feel-dbd56441c7b6) · [finished media](https://media.goodcase.ai/cases/f2d117418aa1.mp4) · [poster](https://media.goodcase.ai/cases/ff2f2bf756c1.jpg) · [original source](https://x.com/QAiStudio/status/2102992059938587000)
-- Summary: Made with seedance 2.5 on Flova AI Prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it o…
-
-```text
-**CAMERA:**
-DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it on a rack or bench. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
-
-**LOOK:**
-Soft, slightly blurry tape quality, faint tape noise, bloomed highlights under gym lighting, flickering auto-exposure, muted contrast, realistic skin tones.
-
-**STYLE:**
-Playful, self-deprecating gym-vlog tone — exaggerated complaining, genuine laughs, exhausted-but-amused energy. Quick handheld cuts, slightly wobbly camera movement matching her shaky legs.
-
-**Character**
-
-CHASE — Korean idol in her 20s. Long black hair in a high ponytail, glowing skin with a heavy post-workout sheen, big expressive eyes. Slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings (arms and torso fully covered), sneakers, towel around neck, no jewelry.
-
-**Setting**
-
-A gym in the evening — squat rack, leg press machine, a water fountain across the room, mirror wall, soft overhead lighting.
-
-**Storyboard**
-
-1. *(~2s, propped camera at squat rack, medium shot)* She stands, hands on hips, catching her breath, dramatic exhale. CHASE: "Okay... leg day is not it today."
-
-2. *(~2s, handheld, close on her face)* She winces, shaking out one leg, laughing at herself. CHASE: "Why did I do that many reps—"
-
-3. *(~2s, medium propped shot, leg press machine)* She sits down, pushes through a rep, face straining, then flops back with a groan. CHASE: "Okay that's it, I'm done, I'm so done."
-
-4. *(~1.5s, macro insert, shallow DOF)* Close-up on her hand gripping the machine handle, knuckles slightly tense. No dialogue — ambient gym sound only.
-
-5. *(~2s, handheld, walking, camera wobbling)* She stands up and immediately wobbles, grabbing the rack for balance, bursting into laughter. CHASE: "Wait— okay my legs are literally shaking—"
-
-6. *(~2s, handheld, unsteady walk)* She takes exaggerated, wobbly steps toward the water fountain, camera bouncing with her uneven gait. CHASE (laughing): "This is so embarrassing, someone help me—"
-
-7. *(~1.5s, close handheld, at the fountain)* She leans down for a sip of water, sighs in relief, wipes her mouth with the back of her hand. CHASE: "Okay... water is life right now."
-
-8. *(~2s, arm's-length selfie finish)* She leans against the wall, still catching her breath, grinning tiredly at the lens. CHASE: "Never doing legs again — see you guys, I'm going to go lie down somewhere."
 ```

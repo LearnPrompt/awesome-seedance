@@ -64,7 +64,7 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 41 条，按热度）
+## 这一类的案例（已归类 44 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
@@ -77,11 +77,11 @@
 | <a href="https://goodcase.ai/cases/luxury-skincare-commercial?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/luxury-skincare-commercial.jpg" width="160" alt="奢华护肤品广告"></a> | [奢华护肤品广告](https://goodcase.ai/cases/luxury-skincare-commercial?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 72 |
 | <a href="https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/caliraval-seedance-ai-380c4c6c543b.jpg" width="160" alt="阳光下的清新洗衣日"></a> | [阳光下的清新洗衣日](https://goodcase.ai/cases/caliraval-seedance-ai-380c4c6c543b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 71 |
 | <a href="https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/a7f53c61f405.jpg" width="160" alt="手工烘焙坊电影感商业广告"></a> | [手工烘焙坊电影感商业广告](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 70 |
+| <a href="https://goodcase.ai/cases/case-6aa3c63f7d5d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/2ad23277f1eb.jpg" width="160" alt="高预算敞篷跑车商业广告"></a> | [高预算敞篷跑车商业广告](https://goodcase.ai/cases/case-6aa3c63f7d5d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 67 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-premium-european-luxury-beauty-commercial-using-the-provided-character-498f8092c2f7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/1619a962d4f5.jpg" width="160" alt="金发模特演绎树莓红唇油广告"></a> | [金发模特演绎树莓红唇油广告](https://goodcase.ai/cases/seedance-create-a-premium-european-luxury-beauty-commercial-using-the-provided-character-498f8092c2f7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 64 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-skincare-video-featuring-a-young-korean-woman-202c9f1e5d6e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/5f156f26b598.jpg" width="160" alt="韩系女子晨光护肤时刻"></a> | [韩系女子晨光护肤时刻](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-skincare-video-featuring-a-young-korean-woman-202c9f1e5d6e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 62 |
-| <a href="https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-luxury-jewelry-advertisement-video-in-a-warm-and-8d47861d9581?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/bd48ebbd5b7e.jpg" width="160" alt="晨光中的蓝宝石项链"></a> | [晨光中的蓝宝石项链](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-luxury-jewelry-advertisement-video-in-a-warm-and-8d47861d9581?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 59 |
 
-其余 29 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) 上。
+其余 32 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) 上。
 
 ---
 

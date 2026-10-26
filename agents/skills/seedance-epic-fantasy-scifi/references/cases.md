@@ -1,6 +1,6 @@
 # Case evidence · Epic fantasy and sci-fi spectacle
 
-49 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+66 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -16,7 +16,34 @@ Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorph
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
 ```
 
-## E2 · A Delivery Through Venice as It Folds into a Sphere
+## E2 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
+- Summary: From her pain, a dark power rises, unleashing a force that even the shadows fear. ⚡ Created with Seedance 2.5 Prompt: Sequence of shots for a dark fantasy cinem…
+
+```text
+Sequence of shots for a dark fantasy cinematic video:
+
+[Shot 1] 
+Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
+
+[Shot 2] 
+Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
+
+[Shot 3] 
+Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
+
+[Shot 4]
+Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
+
+Negative prompt: 
+blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
+
+#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+## E3 · A Delivery Through Venice as It Folds into a Sphere
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b) · [finished media](https://media.goodcase.ai/cases/6fad135f851f.mp4) · [poster](https://media.goodcase.ai/cases/e5c7676644ab.jpg) · [original source](https://x.com/Just_sharon7/status/2100541954685895043)
@@ -45,7 +72,7 @@ Prompt
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
+## E4 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
@@ -60,7 +87,32 @@ blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
-## E4 · Lavender-Haired Girl Leaps Through a Pool Wave
+## E5 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 90
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce) · [finished media](https://media.goodcase.ai/cases/ab75ef7be18f.mp4) · [poster](https://media.goodcase.ai/cases/04e5a525e474.jpg) · [original source](https://x.com/itsSaira_1/status/2109129359441457193)
+- Summary: When magic awakens, everything changes. ✨ Created with Seedance 2.5 Prompt: SCENE 1: Wand & Trolls Setup (0:00 - 0:03) Cinematic wide shot, a muscular long-hair…
+
+```text
+SCENE 1: Wand & Trolls Setup (0:00 - 0:03) 
+Cinematic wide shot, a muscular long-haired bearded man sitting on the marble floor of a grand gothic cathedral, surrounded by four menacing fantasy trolls. He holds a glowing pink magical heart wand, shouting with an intense facial expression, dramatic lighting, photorealistic, 4k.
+
+ SCENE 2: Levitation & Transformation (0:04 - 0:09) 
+Cinematic shot, a muscular bearded man floating in mid-air inside a cathedral, glowing full moon visible through stained glass. Swirling pink magical sparkles and stardust transform his clothing into a magical sailor guardian uniform with a dark cape, white gloves, and red boots, highly detailed.
+
+SCENE 3: Close-up Tiara & Glowing Eyes (0:10 - 0:11)
+Extreme close-up shot of the muscular man's face, a glowing golden crescent moon tiara materializing on his forehead with a pink gem, his eyes flashing bright pink magical light, cinematic lighting, 8k resolution.
+
+SCENE 4: Dynamic Landing & Moon Staff Pose (0:12 - 0:16)
+Cinematic wide shot, a muscular man in a sailor guardian costume landing dynamically on the cathedral floor, holding a tall glowing crescent moon staff, magical smoke and dust swirling, four trolls standing in background, epic movie action shot.
+
+NEGATIVE PROMPT (Use for all scenes) 
+low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, deformed hands, missing fingers, bad lighting, grainy, noise, glitch, cartoonish, low budget CGI, flickering, duplicate characters, distorted text.
+
+#AIArt #VisualStorytelling #AI
+```
+
+## E6 · Lavender-Haired Girl Leaps Through a Pool Wave
 
 - Seedance 2.5 · creator: @Zoyavelle · heat: 87 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1) · [finished media](https://media.goodcase.ai/cases/65eb83d5a0fd.mp4) · [poster](https://media.goodcase.ai/cases/5b534bd92cd2.jpg) · [original source](https://x.com/Zoyavelle/status/2100089287345951159)
@@ -76,7 +128,7 @@ Huge realistic water splashes, powerful waves, water droplets flying through the
 Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
 ```
 
-## E5 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
+## E7 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
 - Seedance 2.5 · creator: @Zyrellix · heat: 85 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
@@ -87,71 +139,28 @@ Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic
 Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
 ```
 
-## E6 · Warrior and White Dragon Shatter a Molten Celestial Orb
+## E8 · A Young Woman Secretly Feeds a Pink Baby Dragon in a Stone Cottage
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 83 · stability: 81
-- Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-5fa856d9472a) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-5fa856d9472a.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-5fa856d9472a.jpg) · [original source](https://x.com/Zyrellix/status/2092121112746287527)
-- Summary: Darkness awakens A warrior an ancient dragon and a celestial power collide in an epic fantasy battle. Made with seedance
-
-```text
-A cinematic dark fantasy epic video in 8K resolution. Extreme macro close-up of a female warrior's eye, iris reflecting a burning molten celestial orb swirling inside dark storm clouds. Low-angle tracking shot as an East Asian female warrior clad in sleek black leather-and-steel armor walks through shallow water carrying an ornate key. She steps onto a circular stone platform engraved with glowing golden runes, surrounded by mist, cascading waterfalls, and ancient temple ruins. Above, a colossal magma-veined celestial sphere looms within a vortex of swirling clouds. She inserts the key into a moss-covered stone altar, triggering a massive circular runic array that launches vertical high-pressure water geysers into the sky. A giant, majestic white serpentine dragon with fiery orange eyes emerges from the mist. The warrior extends her hand as her eyes glow bright golden, establishing a powerful magical bond. The dragon turns upwards, soaring into the sky and unleashing a beam of pure radiant white energy directly into the celestial orb, causing it to shatter into shockwaves of blinding light. Epic cinematic scale, volumetric fog, photorealistic visual effects, Unreal Engine 5 render style, dark gray and golden color grading, hyper-detailed.
-```
-
-## E7 · Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 81
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215) · [finished media](https://media.goodcase.ai/cases/0852e7298781.mp4) · [poster](https://media.goodcase.ai/cases/680efb813c0b.jpg) · [original source](https://x.com/itsSaira_1/status/2108049177259462719)
-- Summary: From darkness to divinity — one final stand against the demons.⚡ Made with Seedance 2.5 Prompt: Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, e…
+- Seedance 2.5 · creator: @SadiaMalik182 · heat: 84
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401) · [finished media](https://media.goodcase.ai/cases/175d30b71143.mp4) · [poster](https://media.goodcase.ai/cases/7d24caf7d8c6.jpg) · [original source](https://x.com/SadiaMalik182/status/2113908264387981758)
+- Summary: She raised it in secret, fed it by hand... and now it trusts her completely Dark Fantasy • Forbidden Bond • Hidden Truth Made with Seedance 2.5 Prompt 👇 A cine…
 
 ```text
-Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, emerald-green glowing magic, dramatic low light, film grain. Generate in 3 parts of about 10 seconds each.
+She raised it in secret, fed it by hand... and now it trusts her completely 
 
-PART 1
-Scene 1: Dark horned demons charge through a ruined cathedral, blurred motion.
-Scene 2: Extreme close-up of a young nun in a white wimple, her fist glowing bright green, intense stare.
-Scene 3: A green energy dome forms around her as hundreds of demons surround it, wide high-angle shot.
+Dark Fantasy • Forbidden Bond • Hidden Truth 
 
-PART 2 (use the LAST FRAME of Part 1 as reference image; keep the exact same face, body, outfit and cathedral)
-Scene 4: Her habit turns into a glowing green-white gown, then she transforms into a radiant angel with huge translucent glowing wings, a halo and a white-green gown, standing inside a clear green bubble.
-Scene 5: She fights the demons with a glowing green spear and a round glowing shield, spinning slashes, motion blur.
+Made with Seedance 2.5
 
-PART 3 (use the LAST FRAME of Part 2 as reference image; keep the exact same angel face, wings, halo and gown)
-Scene 6: She wields a glowing green chainsaw, cutting demons in half, green energy bursts and orange sparks, low-angle hero shots.
-Scene 7: Green laser pillars rain from above, she crouches in the green dome as a huge green explosion and smoke engulf the cathedral.
-Scene 8: Smoke clears, the demons are gone, the angel stands alone on the glowing floor emblem, wings spread, calm, slow zoom out.
+Prompt 👇
 
-Continuity rule for every part: same face, same lighting, same green color grade, same camera style as the previous part.
+A cinematic dark-fantasy medieval scene inside a rustic stone cottage. A young woman with long, dark, tousled hair, wearing a cream lace-trimmed dress and dark woolen cloak, secretly cares for a tiny baby dragon with translucent pink skin, delicate frilled fins, glossy dark eyes, and tiny sharp claws.
 
-Negative prompt: cartoon, anime, low quality, blurry, face change, different person, extra limbs, bad hands, deformed wings, text, watermark, logo, flickering, overexposed, duplicate characters.
+The baby dragon crouches on a rough wooden table, curiously sniffing a gleaming gold coin. Warm firelight flickers across its realistic, moist skin while cool daylight enters through a small stone window.
 
-#AI #Cinematic #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualArt @ming_ai
-```
+The woman gently offers it a small piece of food. The dragon eagerly opens its mouth, revealing tiny sharp teeth, and flutters its delicate fins excitedly. She smiles affectionately as it leans toward her hand.
 
-## E8 · GPT Image 2 + Seedance From the Deep: One Jet, One Shot
+End with an intimate close-up of the dragon playfully taking the food while the woman watches with a tender smile, their secret bond growing stronger.
 
-- Seedance 2.0 · creator: @Weeleey6 · heat: 81 · stability: 84
-- Evidence: [GoodCase](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168) · [finished media](https://media.goodcase.ai/media/video/weeleey6-seedance-ai-b03a5481e168.mp4) · [poster](https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg) · [original source](https://x.com/Weeleey6/status/2089244905960821226)
-- Summary: FROM THE DEEP - GPT Image 2 x Seedance 2.0 It rose from the bay to tear the city apart. One jet, one shot, one shot to s
-
-```text
-Pilot = a fighter pilot around 35, rugged focused face with light stubble, sharp determined eyes, wearing a helmet with visor and oxygen mask, full flight suit. Intense and battle-focused. Face per reference. Appearance only.
-
-Seabaycity = a modern coastal city on a sea bay, skyline of skyscrapers along a waterfront bordering the open sea, harbor, bridges, dramatic overcast sky, buildings smoking and crumbling, fires and dust clouds rising, a city under attack. Moody desaturated blue-grey palette with orange fire glow. Environment only.
-
-Monster = a colossal towering lizard-like kaiju, skyscraper-sized reptilian creature with dark grey-green armored scales, huge clawed limbs, a long heavy tail, a fanged head with glowing eyes, spines down its back, standing in the sea bay smashing buildings. Terrifying and destructive. Appearance only.
-
-Jet = a modern military fighter jet, sleek grey afterburners glowing, missiles mounted, screaming through the sky at high speed. Vehicle only.
-
-SCENE: a cinematic kaiju action sequence. A colossal lizard monster rampages through a coastal city's sea bay, destroying skyscrapers along the waterfront. A lone fighter jet approaches from the distance across the sea, the pilot locking on with fierce focus, and fires missiles that strike the monster, driving it crashing down into the bay. Epic, intense, blockbuster disaster-film scale.
-
-TECHNICAL: 16:9, cinematic anamorphic-style lens, epic blockbuster scale, dynamic camera — sweeping aerial shots, fast jet tracking, dramatic low angles on the monster — moody desaturated blue-grey grade with orange explosion glow, heavy atmosphere, smoke, dust, lens flare, motion blur, fine film grain, photorealistic disaster-film quality.
-
-CUTS:
-CUT 1 (0-4s): Establishing shot — the colossal lizard monster towering over the sea-bay city, roaring and smashing a skyscraper along the waterfront, buildings crumbling and smoking, debris raining into the bay. Dramatic low angle conveying its massive scale.
-CUT 2 (4-7s): Wide shot across the sea — a lone fighter jet screams into frame from the distant horizon, low over the water, approaching the city and the monster at high speed. Fast tracking shot conveying speed and purpose.
-CUT 3 (7-10s): COCKPIT FACE ZOOM — cut inside the cockpit, camera pushes in on the pilot's intense focused face behind his visor and mask, glowing instruments around him, his eyes locked on the target. He grips the controls and fires.
-CUT 4 (10-13s): Missiles streak from the jet toward the monster and slam into it in a burst of fire and explosions, the creature reeling from the impact, staggering amid smoke and flame.
-CUT 5 (13-15s): The monster crashes down into the sea bay in an enormous explosion of water and debris, defeated, as the jet roars past overhead. Epic final beat, huge splash and spray. Camera holds on the aftermath.
-
-RULES: References are appearance only, do not recreate. The monster is a stylized fictional kaiju — scaled, non-human, skyscraper-sized. Keep the pilot's face consistent in the cockpit shot. Epic blockbuster scale throughout — sell the size of the monster with low angles and the city for scale. Moody desaturated blue-grey grade with orange fire glow, never fully desaturate. Sound design — cinematic and immersive: the monster's deep roar, crumbling buildings, the scream of the jet engines, missile launches, huge explosions, a driving epic orchestral score. Final frame on the monster crashing into the bay, stable and clean.
+Photorealistic creature textures, realistic anatomy, natural human expressions, cinematic camera movement, shallow depth of field, warm amber firelight contrasted with cool grey daylight, muted earthy colors, subtle film grain, prestige television quality, 16:9 widescreen, 24fps, no cartoon appearance, consistent character design, believable creature movement, emotional storytelling.
 ```

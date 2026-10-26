@@ -64,7 +64,7 @@ Fights read as real when the prompt specifies biomechanics, contact points and a
 | 2 | Send it to any AI chat and get back a Seedance prompt written to this structure. |
 | 3 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If the result is off, check the pitfalls first, then adjust and re-run. |
 
-## Cases in this category (78 filed, by heat)
+## Cases in this category (89 filed, by heat)
 
 | Preview | Case | Version | Heat |
 | --- | --- | --- | --- |
@@ -81,7 +81,7 @@ Fights read as real when the prompt specifies biomechanics, contact points and a
 | <a href="https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/19cf0f9fde2b.jpg" width="160" alt="Fight on a Rain-Slicked Subway Platform"></a> | [Fight on a Rain-Slicked Subway Platform](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 78 |
 | <a href="https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="160" alt="Action Heroine Bursts Through a Subway Pillar"></a> | [Action Heroine Bursts Through a Subway Pillar](https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 78 |
 
-The other 66 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases).
+The other 77 are in the [full gallery](../../gallery.md) and on [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases).
 
 ---
 

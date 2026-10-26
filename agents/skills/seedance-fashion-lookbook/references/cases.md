@@ -1,6 +1,6 @@
 # Case evidence · Fashion lookbook and portrait film
 
-43 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+47 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -158,7 +158,47 @@ Aspect ratio: 16:9.
 Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless transitions.
 ```
 
-## E7 · Model and Fashion Items in Synchronized 360° Rotation
+## E7 · A Seoul Girl’s Day from Morning Makeup to City Strolls
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 83
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-shot-1-ecu-85mm-push-in-close-up-of-a-smartphone-alarm-vibrating-beside-a-k-e0b5d7d74a37) · [finished media](https://media.goodcase.ai/cases/1be66a61eacc.mp4) · [poster](https://media.goodcase.ai/cases/6d751a665387.jpg) · [original source](https://x.com/AIwithkhan/status/2113244959990329635)
+- Summary: A Day in the Life of a Korean Baddie 💋 Seedance 2.5 just got us amazed Prompt : STYLE: Hyper-realistic cinematic K-fashion editorial, Seoul street aesthetic, c…
+
+```text
+STYLE: Hyper-realistic cinematic K-fashion editorial, Seoul street aesthetic, confident baddie energy, dynamic camera transitions, natural skin texture, glossy highlights, premium music-video cinematography, 4K, 
+
+SHOT 1: ECU, 85mm push-in / Close-up of a smartphone alarm vibrating beside a Korean girl with long, silky black hair, flawless glam makeup, and glossy lips, sleeping in a fitted crop top and shorts. She opens her eyes and gives the camera a confident, unbothered stare / SFX: alarm buzz, bedsheet rustle.
+
+SHOT 2: WS, 35mm handheld / She sits up, stretches casually, tosses her hair back, and swings her legs off the bed. Morning sunlight illuminates her stylish bedroom, full of Korean beauty products and fashion accessories / SFX: mattress bounce, fabric rustle.
+
+SHOT 3: MCU, 50mm mirror slide / She washes her face, applies skincare, and studies her reflection before beginning her beauty routine. Water droplets catch the bathroom lighting / SFX: faucet rush, skincare bottle clicks.
+
+SHOT 4: ECU, 85mm macro / Match cuts of her applying eyeliner, shaping her brows, adding glossy lip tint, and placing delicate silver earrings. Every movement is precise and confident / SFX: makeup brush swishes, cosmetic cap clicks.
+
+SHOT 5: Bird's-eye, 35mm overhead / Her wardrobe opens to reveal trendy streetwear. She selects a fitted black top, a cropped leather jacket, a pleated mini skirt, knee-high boots, and a designer-style shoulder bag / SFX: hanger clinks, fabric movement, zipper pull.
+
+SHOT 6: MCU, 50mm push-in / She completes her outfit, adjusts her jacket, puts on sunglasses, and gives herself a final look in the mirror. A subtle smirk reveals her confident attitude / SFX: heel click, jewelry jingle.
+
+SHOT 7: WS, 24mm low-angle tracking / She walks through a stylish Seoul apartment corridor with effortless confidence, boots striking the floor as the camera tracks backward / SFX: rhythmic footsteps, door latch.
+
+SHOT 8: MS, 35mm gimbal tracking / Whip-pan transition to the streets of Gangnam. She walks past fashionable boutiques, glowing Korean signs, and sleek storefronts while pedestrians blur behind her / SFX: city ambience, traffic, footsteps.
+
+SHOT 9: MCU, 85mm slow-motion push-in / She removes her sunglasses, looks directly into the camera, and brushes her hair over one shoulder. Neon reflections shimmer across her glossy lips and jewelry / SFX: subtle whoosh, street ambience.
+
+SHOT 10: MS, 35mm handheld / She enters a trendy Korean café, orders an iced Americano, and casually checks her phone while leaning against the counter / SFX: café chatter, espresso machine, ice clinking.
+
+SHOT 11: Insert, 50mm macro / Close-up of manicured fingers holding an iced coffee cup, condensation sliding down the glass, followed by a stylish mirror selfie with her entire outfit visible / SFX: ice rattling, phone camera click.
+
+SHOT 12: WS, 24mm cinematic tracking / She steps into a luxury shopping district, passing glass storefronts and fashionable pedestrians. The camera follows her confident walk with smooth lateral movement and strong foreground parallax / SFX: heels clicking, distant traffic.
+
+SHOT 13: MCU, 50mm snap zoom / She stops at a crosswalk, lowers her sunglasses slightly, and gives the camera a playful, intimidating stare before the pedestrian signal changes / SFX: crosswalk beep, traffic passing.
+
+SHOT 14: WS, 35mm orbit / Golden-hour rooftop scene overlooking Seoul. She poses against the skyline, jacket moving gently in the breeze, th
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E8 · Model and Fashion Items in Synchronized 360° Rotation
 
 - Seedance 2.5 · creator: @AI__TSUBAKI · heat: 81 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) · [finished media](https://media.goodcase.ai/cases/0d093f32d701.mp4) · [poster](https://media.goodcase.ai/cases/04e386463d97.jpg) · [original source](https://x.com/AI__TSUBAKI/status/2102459655700287648)
@@ -172,14 +212,4 @@ The model on the right turns a full 360° on the spot the way a real fashion mod
 At the same time, every product cutout inside the item panel rotates in place on its own vertical axis, like a luxury product display render, revealing front, side and back. Each item stays centered in its own slot, keeps its size, and completes exactly one full rotation in sync with the model's turn, ending in its original orientation.
 
 The panel, divider lines, captions, crown icons and wordmark stay perfectly fixed; only the model moves and the products rotate. Camera locked off, no zoom, no pan. Soft studio lighting with realistic shadows under the model and the products. Smooth, natural motion, clean commercial fashion-ad aesthetic, ultra-sharp details, luxury catalog presentation.
-```
-
-## E8 · Red Dress Transformation on the Streets of Paris
-
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 80 · stability: 87
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707) · [finished media](https://media.goodcase.ai/cases/bbba04e9636b.mp4) · [poster](https://media.goodcase.ai/cases/6fd799c4ee96.jpg) · [original source](https://x.com/ayzalnooor24521/status/2100456445900710158)
-- Summary: From elegant white to bold red A little magic, a lot of Parisian style. Created on seedance 2.0 Prompt: Created a cinematic fashion transformation video featuri…
-
-```text
-Created a cinematic fashion transformation video featuring a beautiful young woman walking through elegant Parisian streets. She begins in a clean white summer dress, walking naturally along a stylish city sidewalk surrounded by classic architecture, cafés, shops, and pedestrians. The camera smoothly follows her with realistic cinematic movement and shallow depth of field. As she passes a storefront, glowing red light trails swirl around her body, creating a magical fashion-transition effect. Her outfit transforms seamlessly from white into a sophisticated red sleeveless dress. Continue with dynamic street-level shots as she confidently walks through a busy Paris intersection. Finish with a beautiful close-up of her in the red dress, gently holding and eating an ice cream while looking naturally toward the camera. Photorealistic details, elegant fashion-film aesthetic, natural daylight, smooth transitions, realistic skin texture, cinematic lens, subtle background motion, premium commercial look.
 ```

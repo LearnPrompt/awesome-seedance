@@ -1,6 +1,6 @@
 # Case evidence · Cars and vehicles at speed
 
-17 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+20 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -149,7 +149,42 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E5 · Black Sedan Chase and Gunfire at Sunset
+## E5 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
+
+- Seedance 2.5 · creator: @CharaspowerAI · heat: 71
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) · [finished media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) · [poster](https://media.goodcase.ai/cases/68b308e11fb0.jpg) · [original source](https://x.com/CharaspowerAI/status/2111517673276240251)
+- Summary: Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
+
+```text
+Perfect AI cinematography is overrated.
+Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀
+
+This Seedance 2.5 experiment proves it.
+Full prompt below 👇
+Ultra-realistic viral helicopter pursuit footage, raw local-news style, filmed entirely from one helicopter in bright Los Angeles daylight. Long-lens aerial camera, unstable vibration, abrupt zooms, compression artifacts, heat haze, autofocus breathing, imperfect framing, rotor thump, distant radio chatter, harsh California sun, no cinematic polish, believable amateur-news realism.
+
+Main subject: one motocross rider on a dirt bike, full helmet and motocross gear, highly skilled, aggressive but controlled riding. Keep the same rider and same bike throughout.
+
+Los Angeles daytime: palm-lined boulevard, parking lots, freeway ramps, concrete flood channel, industrial blocks, overpasses, service roads and distant skyline.
+
+0-5s: Immediate viral hook The helicopter camera is already searching frantically when the rider suddenly blasts into frame between moving cars. Operator snaps into a shaky zoom. The rider jumps a curb, cuts across a parking lot and nearly disappears behind palm trees.
+
+5-10s: Chaotic tracking He rejoins a boulevard, threads through traffic, then veers up a sloped driveway and launches over a low divider. Camera over-zooms, loses him for half a second, then catches him landing cleanly.
+
+10-15s: Escalation The rider enters a concrete flood channel. Huge aerial reveal. He accelerates along the channel floor while the helicopter banks hard overhead. Dust trails behind the bike. Quick zoom on spinning rear wheel and suspension.
+
+15-20s: Viral stunt beat He rides up the angled concrete wall, holds a dramatic high line for a moment, then drops back down smoothly. Camera shakes violently trying to follow. Rotor vibration and radio chatter intensify.
+
+20-25s: Big surprise The rider exits through a service ramp, crosses beneath an overpass, then unexpectedly appears on a parallel industrial road. The operator pans late and barely recovers him. He hits a natural rise and gets long airtime in full daylight.
+
+25-30s: Iconic ending He lands, accelerates toward another overpass and vanishes into shadow underneath. The helicopter overshoots, circles, zooms wildly across multiple roads, but he is gone. Reporter voice, stunned: “We just lost him.” Hold on shaky wide aerial of Los Angeles. Hard cut.
+
+One continuous helicopter perspective, strong amateur-news authenticity, same rider throughout, realistic motocross physics, believable Los Angeles geography, harsh daylight, imperfect tracking, viral unpredictability, readable stunts, no crash, no gore, no readable text, no logos.
+
+#DreaminaCPP  @dreamina_ai
+```
+
+## E6 · Black Sedan Chase and Gunfire at Sunset
 
 - Seedance 2.5 · creator: @Xaroon_x · heat: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) · [finished media](https://media.goodcase.ai/cases/75e713901ea3.mp4) · [poster](https://media.goodcase.ai/cases/6170bf3f7274.jpg) · [original source](https://x.com/Xaroon_x/status/2107838928992489968)
@@ -193,7 +228,7 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 **NEGATIVE:** No cartoon look, no CGI look, no plastic skin, no distorted anatomy, no face different from @image1, no face drift, no wardrobe change, no duplicated cars, no teleporting vehicles, no hidden or cropped crash, no impossible physics, no jitter, no flickering, no deformed hands or rifle, no text, no watermark, no logos.
 ```
 
-## E6 · Post-Apocalyptic Desert Buggy Air Battle
+## E7 · Post-Apocalyptic Desert Buggy Air Battle
 
 - Seedance 2.0 · creator: @Zyrellix · heat: 70 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
@@ -203,46 +238,12 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune buggy with flaming rocket boosters speeds along a metallic futuristic pipeline track through a desert canyon during golden hour. A leather-clad warrior swings a spiked flail attached to a heavy chain, smashing an enemy combat helicopter mid-air into fiery explosions. A gunner on the buggy fires a massive rotary flamethrower minigun, turning another enemy drone aircraft into a massive fireball. The buggy leaps off a ramp over huge fiery explosions and dynamic missile strikes, landing smoothly on the reflective glass pipeline track and racing toward a giant ruined cooling tower in the distant wasteland. Cinematic lighting, photorealistic physics, slow-motion action shots, sparks, dynamic camera pans, hyper-detailed textures, volumetric smoke, cinematic color grading, 8k resolution, photorealistic CGI action film style.
 ```
 
-## E7 · Woman Biker Escapes an Alien Warship on an Apocalyptic Highway
+## E8 · Policewoman Pursues a Flying-Car Fugitive Through Desert Canyons
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 56
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152) · [finished media](https://media.goodcase.ai/cases/d7ba735094ad.mp4) · [poster](https://media.goodcase.ai/cases/b48c78c785ba.jpg) · [original source](https://x.com/itsSaira_1/status/2104789066562547945)
-- Summary: ⚡The world is burning, the enemy is here, and she's ready for war. ⚔️ Made with Seedance 2.5 On @supercool_hq Prompt: CINEMATIC SHORT FILM, 46 sec, 16:9, photor…
-
-```text
-CINEMATIC SHORT FILM, 46 sec, 16:9, photorealistic Hollywood sci-fi action, dystopian highway apocalypse. Cold steel-grey sky, burning orange explosions, volumetric god rays, anamorphic lens, film grain. HERO: muscular woman, curly dark hair, olive tank top, black jeans and boots, fierce expression. BIKE: matte-black futuristic armored motorcycle, twin fat front wheels, white glowing headlights, mounted cannon.
-
-1 (0-2s): Low-angle front tracking, hero races toward camera on a wrecked highway, burning car and black smoke behind.
-2 (2-4s): Side-front tracking, bike leans through a curve under an overpass, headlights flaring.
-3 (5-6s): Extreme close-up of the bike's armored cannon and engine, her hand on the handlebar, motion blur.
-4 (7-9s): Tight close-up of her face low over the bike, intense eyes, wind-blown curls, shallow depth of field.
-5 (10-11s): Wide low-angle, giant black alien warship over the highway fires an orange beam, ground explosion.
-6 (12-14s): Huge fireball erupts, hero's tiny silhouette speeds away, yellow car blurs past.
-7 (15-16s): Side close-up, hero crouched on the bike, engulfed in orange fire and smoke.
-8 (17-18s): Ground-level shot of rusted abandoned cars, open doors, a boot flies through the frame.
-9 (19-21s): Blonde woman in black leather jacket aims a heavy sci-fi rifle at camera, burning wreckage behind.
-10 (22-23s): Frontal tracking, hero bursts out from under a dark overpass, smoke columns behind.
-11 (24-26s): Driver POV down the highway, collapsed overpass and debris ahead, lone black car in the lane.
-12 (27-28s): Wide side shot, bike launches off a broken concrete slab, front wheel high.
-13 (29-33s): Slow-motion low-angle, hero and bike airborne against dramatic clouds and god rays, red taillight glowing.
-14 (34-36s): Close-up, rear wheel hits a broken slab and explodes in a fireball, sparks and debris, slow motion.
-15 (37-38s): Wide ground-level, debris-covered highway, overturned burning car, tiny hero falling through the sky.
-16 (39-42s): Hero lands and skids into a low crouch, one knee and hand down, fire behind her.
-17 (43-46s): Medium close-up, she rises, fierce eyes, wall of orange fire exploding behind her, freeze on hero pose.
-
-MOTION: fast tracking, whip pans, slow-motion airborne beat, handheld shake on explosions, realistic physics, consistent character and bike design.
-
-NEGATIVE PROMPT: cartoon, anime, CGI look, plastic skin, deformed face, bad hands, extra limbs, extra wheels, changing bike design, inconsistent character, blurry, low resolution, flicker, morphing, warped anatomy, text, subtitles, watermark, logo, oversaturated, duplicate characters, unnatural motion
-
-#AIVideo #AIArt #AIFilm #CinematicAI #SciFi #ActionScene #Midjourney #GenerativeAI
-```
-
-## E8 · Sports Car, Motorcycle, Tank and Fighter Jet Transform into Mecha
-
-- Seedance 2.5 · creator: @laviniavelle · heat: 49
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-silver-sports-car-driving-down-a-city-highway-smoothly-transforms-into-a-gian-4c149ba1934a) · [finished media](https://media.goodcase.ai/cases/2d97c43f9b67.mp4) · [poster](https://media.goodcase.ai/cases/cc90787c2cf9.jpg) · [original source](https://x.com/laviniavelle/status/2108404878590857384)
-- Summary: When machines stop driving and start fighting Vehicles transform into powerful futuristic robots creating an epic sci-fi world. Made with Seedance 2.5 Prompt: A…
+- Seedance 2.5 · creator: @aiwithaly · heat: 64
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-30-second-ultra-realistic-hollywood-style-sci-fi-action-sequence-set-above-a-3b2d1f35cd52) · [finished media](https://media.goodcase.ai/cases/21e2a90e264d.mp4) · [poster](https://media.goodcase.ai/cases/acaf4e3601a1.jpg) · [original source](https://x.com/aiwithaly/status/2112391782164287977)
+- Summary: A fearless officer takes the chase to the skies in a high-speed battle of futuristic machines, impossible stunts, and explosive action. Made with Seedance 2.5 o…
 
 ```text
-A silver sports car driving down a city highway smoothly transforms into a giant silver running robot a futuristic neon lit motorcycle on a coastal highway morphs into a running blue cybernetic robot; a camouflage military tank driving across a sandy desert transforms into a walking heavy combat mecha a fighter jet on an aircraft carrier deck unfolds and transforms into a standing robot warrior, sci-fi action style high tech mechanical transformation, dynamic camera tracking shot, cinematic photorealistic 8k render.
+A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a vast desert highway at golden hour. A futuristic silver flying sports car races through towering red-rock canyons, pursued by a heavily armored black police interceptor with glowing blue emergency lights and powerful jet thrusters. A fearless female police officer in a fitted black tactical uniform leaps from the interceptor onto the moving sports car, performing a breathtaking aerial rotation before landing hard on its roof. She uses a magnetic anchor to stabilize herself, breaks through the reinforced sunroof, and confronts a mysterious blond male driver inside the cockpit. He shouts, “You should've stayed on the ground!” She responds coldly, “Pull over. Now!” A violent aerial maneuver triggers an energy-core malfunction, sending the sports car spiraling toward the highway below. The vehicle crashes in a shower of sparks and erupts into a massive fireball. Through the smoke and glowing embers, the officer emerges with the subdued suspect in magnetic restraints. Dynamic FPV drone shots, sweeping camera movements, realistic vehicle physics, high-speed aerial choreography, detailed metallic reflections, authentic facial expressions, synchronized dialogue, dramatic explosions, volumetric golden-hour lighting, anamorphic lens flares, cinematic motion blur, HDR, 4K, rich teal-and-orange color grading, powerful orchestral soundtrack, realistic engine roars, and immersive action sound effects. Exactly 30 seconds, landscape 16:9, continuous high-energy action, strong opening hook, consistent character identity, realistic gravity, no black-screen opening, no subtitles, no on-screen text, no logos, no watermark.
 ```
