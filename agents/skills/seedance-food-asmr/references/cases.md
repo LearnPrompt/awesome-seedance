@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Katsudon in a Sunlit Japanese Kitchen
 
-- Seedance 2.5 · creator: @Goodmanprotocol · heat: 98
+- Seedance 2.5 · creator: @Goodmanprotocol · heat: 99
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1) · [finished media](https://media.goodcase.ai/cases/52ed4ff0dd97.mp4) · [poster](https://media.goodcase.ai/cases/785fe38465cc.jpg) · [original source](https://x.com/Goodmanprotocol/status/2098845134326808734)
 - Summary: So delicious 😋 Seedance 2.5 Prompt: Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirel…
 

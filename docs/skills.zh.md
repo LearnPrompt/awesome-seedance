@@ -19,7 +19,7 @@
 | [动作连续性编排](#action-continuity-choreography) | 94 | 7 |
 | [产品广告镜头](#product-ad-shot-design) | 72 | 3 |
 | [电影感旅行漫游](#travel-city-walk) | 66 | 4 |
-| [宠物动物当主角](#pets-and-animals-lead) | 62 | 2 |
+| [宠物动物当主角](#pets-and-animals-lead) | 63 | 2 |
 | [动画风格与角色一致性](#animation-style-consistency) | 59 | 2 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 46 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 45 | 0 |
@@ -32,7 +32,7 @@
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 27 | 1 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
-| [分镜网格转视频](#storyboard-grid-to-video) | 9 | 0 |
+| [分镜网格转视频](#storyboard-grid-to-video) | 10 | 0 |
 | [游戏实机录屏与直播叠层](#game-ui-livestream) | 7 | 0 |
 | [代码渲染讲解动画](#code-rendered-explainer-video) | 6 | 0 |
 
@@ -147,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-62 个案例，来自 35 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+63 个案例，来自 35 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -347,7 +347,7 @@ npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video
 
 > 两步走：先用图像模型出一张带编号格子的分镜图，再把它当参考喂给 Seedance；顺序、构图和时长由分镜图定死。
 
-9 个案例，来自 9 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/storyboard-grid-to-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+10 个案例，来自 9 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/storyboard-grid-to-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video

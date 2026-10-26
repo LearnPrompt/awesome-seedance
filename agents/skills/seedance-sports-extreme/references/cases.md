@@ -158,7 +158,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 ## E3 · Blonde Woman Scores a Spectacular Goal in High Heels
 
-- Seedance 2.0 · creator: @Alexneyef · heat: 73
+- Seedance 2.0 · creator: @Alexneyef · heat: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c) · [finished media](https://media.goodcase.ai/cases/708b5580c270.mp4) · [poster](https://media.goodcase.ai/cases/0f6e8055f9d7.jpg) · [original source](https://x.com/Alexneyef/status/2099607916789563863)
 - Summary: OMG, what a strike 😭 Nobody expected her to pull THAT off. This is AI. And the crazy part is, you don’t need advanced skills, a pile of references, or some com…
 

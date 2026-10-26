@@ -19,7 +19,7 @@
 | [Action continuity choreography](#action-continuity-choreography) | 94 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 62 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 63 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
@@ -32,7 +32,7 @@
 | [3D cartoon character short](#3d-cartoon-character-short) | 27 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
-| [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
+| [Storyboard grid to video](#storyboard-grid-to-video) | 10 | 0 |
 | [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 7 | 0 |
 | [Code-rendered explainer video](#code-rendered-explainer-video) | 6 | 0 |
 
@@ -147,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-35 人のクリエイターによる 62 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+35 人のクリエイターによる 63 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -347,7 +347,7 @@ npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video
 
 > Two stages: first a single sheet of numbered panels from an image model, then that sheet fed to Seedance as the reference; order, framing and timing live on the sheet.
 
-9 人のクリエイターによる 9 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/storyboard-grid-to-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+9 人のクリエイターによる 10 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/storyboard-grid-to-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video
