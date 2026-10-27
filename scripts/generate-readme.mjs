@@ -5,7 +5,7 @@
 // Run: node scripts/generate-readme.mjs
 //
 // README 结构（两种语言相同，2026-09-13 对标 awesome-gpt-image-2 定稿）：
-// hero.svg → 标题 + 带数量的一句话 → 动态徽章 → goodcase 反链 → Quick Links → Contents →
+// hero.svg → 标题 + 带数量的一句话 → 动态徽章 → 44 秒演示动图（assets/demo/，有才出）→ goodcase 反链 → Quick Links → Contents →
 // Install → Why → 🔁 Cross-model retests（聚焦区，前置）→ ⭐ Featured → 🗂 Category Overview →
 // 🧩 Prompt Templates（按分类紧凑表）→ 🔥 Top 30（带预览图）→ 🎬 All Prompts → 🌐 Browse on goodcase.ai →
 // Statistics → 🚀 How to use → Contribute → Acknowledgements → Copyright → Star History → License。
@@ -104,6 +104,10 @@ const retestPosterFor = (caseObj) => {
   const rel = `assets/retests/${caseObj.slug}.jpg`;
   return existsSync(path.join(ROOT, rel)) ? `./${rel}` : null;
 };
+// 首屏演示：GitHub 会剥掉 README 里的 <video>，能自动播放的只有动图，所以放一张无声循环的 animated WebP
+// （由视频工程 awesome-seedance-demo-motion 导出）。文件不在就不出这一行。
+const DEMO_IMAGE = "assets/demo/awesome-seedance-demo.webp";
+const demoImage = existsSync(path.join(ROOT, DEMO_IMAGE)) ? `./${DEMO_IMAGE}` : null;
 const cases = casesData.cases || [];
 const templates = library.templates || [];
 const categories = library.categories || [];
@@ -147,6 +151,7 @@ const COPY = {
     supportNote: "If these sources, templates or retest notes help your work, star this repository and [suggest a case or model to retest next](https://github.com/LearnPrompt/awesome-seedance/issues).",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
+    demoAlt: "44-second walkthrough: style wall, template catalog, Skills, source and full prompt, cross-model retest",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
     tagline: (s) =>
       `**Verified Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates, and ${s.skills} installable AI-video Skills.${
@@ -227,6 +232,7 @@ const COPY = {
     supportNote: "如果这些来源、模板或复测记录帮到了你，欢迎给仓库点个 Star，并[告诉我们下一步想复测的案例或模型](https://github.com/LearnPrompt/awesome-seedance/issues)。",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
+    demoAlt: "44 秒实录：画风墙、模板目录、Skill、来源与完整提示词、跨模型复测",
     tagline: (s) =>
       `**Seedance 2.5 / 2.0 提示词验证库。** ${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill。${
         s.siteTotalCases ? `案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例。` : ""
@@ -305,6 +311,7 @@ const COPY = {
     supportNote: "元投稿、テンプレート、再テスト記録が役立ったら、リポジトリに Star を付けて、[次に再テストしてほしいケースやモデル](https://github.com/LearnPrompt/awesome-seedance/issues)を教えてください。",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
     heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
+    demoAlt: "44 秒のウォークスルー：スタイルウォール、テンプレート一覧、Skill、出典と全文プロンプト、クロスモデル再テスト",
     tagline: (s) =>
       `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill。${
         s.siteTotalCases ? `ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケースです。` : ""
@@ -508,6 +515,10 @@ function buildReadme(lang) {
   head.push("");
   head.push(renderBadges(lang, { all: anchors.all, retests: spotlight ? anchors.retests : null, templates: anchors.templates, skills: anchors.skills }, { campaign }));
   head.push("");
+  if (demoImage) {
+    head.push(`<img src="${demoImage}" width="100%" alt="${c.demoAlt}">`);
+    head.push("");
+  }
   head.push(tag(c.backlink, "hero"));
   head.push("");
   head.push(c.supportNote);
