@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Woman in Green Summons a Fiery Tree Guardian Against Demons
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 93
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 92
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6) · [finished media](https://media.goodcase.ai/cases/ead498a1b98b.mp4) · [poster](https://media.goodcase.ai/cases/4a7f9d53f8c5.jpg) · [original source](https://x.com/itsSaira_1/status/2107685928647160275)
 - Summary: ⚡She didn’t summon a guardian—she awakened the wrath of the earth.🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy battle, 16:9, photoreal, shallow d…
 
@@ -16,34 +16,7 @@ Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorph
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
 ```
 
-## E2 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 91
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
-- Summary: From her pain, a dark power rises, unleashing a force that even the shadows fear. ⚡ Created with Seedance 2.5 Prompt: Sequence of shots for a dark fantasy cinem…
-
-```text
-Sequence of shots for a dark fantasy cinematic video:
-
-[Shot 1] 
-Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
-
-[Shot 2] 
-Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
-
-[Shot 3] 
-Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
-
-[Shot 4]
-Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
-
-Negative prompt: 
-blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
-
-#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
-```
-
-## E3 · A Delivery Through Venice as It Folds into a Sphere
+## E2 · A Delivery Through Venice as It Folds into a Sphere
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b) · [finished media](https://media.goodcase.ai/cases/6fad135f851f.mp4) · [poster](https://media.goodcase.ai/cases/e5c7676644ab.jpg) · [original source](https://x.com/Just_sharon7/status/2100541954685895043)
@@ -72,22 +45,7 @@ Prompt
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E4 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 90
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
-- Summary: ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
-
-```text
-A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
-
-Negative Prompt:
-blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
-
-#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
-```
-
-## E5 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
+## E3 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce) · [finished media](https://media.goodcase.ai/cases/ab75ef7be18f.mp4) · [poster](https://media.goodcase.ai/cases/04e5a525e474.jpg) · [original source](https://x.com/itsSaira_1/status/2109129359441457193)
@@ -112,6 +70,48 @@ low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, d
 #AIArt #VisualStorytelling #AI
 ```
 
+## E4 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 90
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
+- Summary: From her pain, a dark power rises, unleashing a force that even the shadows fear. ⚡ Created with Seedance 2.5 Prompt: Sequence of shots for a dark fantasy cinem…
+
+```text
+Sequence of shots for a dark fantasy cinematic video:
+
+[Shot 1] 
+Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
+
+[Shot 2] 
+Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
+
+[Shot 3] 
+Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
+
+[Shot 4]
+Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
+
+Negative prompt: 
+blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
+
+#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+## E5 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 89
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
+- Summary: ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
+
+```text
+A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+Negative Prompt:
+blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
 ## E6 · Lavender-Haired Girl Leaps Through a Pool Wave
 
 - Seedance 2.5 · creator: @Zoyavelle · heat: 87 · stability: 83
@@ -130,7 +130,7 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 
 ## E7 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
-- Seedance 2.5 · creator: @Zyrellix · heat: 85 · stability: 83
+- Seedance 2.5 · creator: @Zyrellix · heat: 84 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
 - Summary: She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
 
@@ -141,7 +141,7 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 
 ## E8 · A Young Woman Secretly Feeds a Pink Baby Dragon in a Stone Cottage
 
-- Seedance 2.5 · creator: @SadiaMalik182 · heat: 84
+- Seedance 2.5 · creator: @SadiaMalik182 · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401) · [finished media](https://media.goodcase.ai/cases/175d30b71143.mp4) · [poster](https://media.goodcase.ai/cases/7d24caf7d8c6.jpg) · [original source](https://x.com/SadiaMalik182/status/2113908264387981758)
 - Summary: She raised it in secret, fed it by hand... and now it trusts her completely Dark Fantasy • Forbidden Bond • Hidden Truth Made with Seedance 2.5 Prompt 👇 A cine…
 

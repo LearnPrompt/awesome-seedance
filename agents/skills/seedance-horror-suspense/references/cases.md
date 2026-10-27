@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Parasite Infection Outbreak in a Research Lab
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 97 · stability: 74
+- Seedance 2.5 · creator: @auqibhabib · heat: 96 · stability: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) · [finished media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) · [poster](https://media.goodcase.ai/cases/5929c428cd08.jpg) · [original source](https://x.com/auqibhabib/status/2099725768310009982)
 - Summary: A containment breach in the lab sent things wrong fast. Seedance 2.5 Prompt: Cinematic sci-fi horror-action short film set in a research laboratory, opens with …
 
@@ -242,7 +242,7 @@ STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realisti
 
 ## E6 · Neighbors Fight Back Against an Infected Attack at Dusk
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 85
+- Seedance 2.5 · creator: @auqibhabib · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) · [finished media](https://media.goodcase.ai/cases/8f39846baced.mp4) · [poster](https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg) · [original source](https://x.com/auqibhabib/status/2107346452494381298)
 - Summary: Sudden outbreak on quiet suburban street, residents fight back and contain the threat. Seedance 2.5 Prompt: Cinematic horror-action short film, opens with an in…
 
@@ -308,7 +308,7 @@ Made with seedance 2.5 on @SocialSight
 
 ## E7 · Zombie Attack in a Japanese Classroom
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 83
+- Seedance 2.5 · creator: @AIwithkhan · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) · [finished media](https://media.goodcase.ai/cases/679f1e6b50a2.mp4) · [poster](https://media.goodcase.ai/cases/bd58f9078734.jpg) · [original source](https://x.com/AIwithkhan/status/2100575957451153626)
 - Summary: One drop, one bite, and the safest place in school became a nightmare. 😳 Seedance 2.5 Prompt : Create a short, ultra-realistic Japanese high-school horror-acti…
 

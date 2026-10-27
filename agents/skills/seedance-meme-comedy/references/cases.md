@@ -24,7 +24,7 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 
 ## E2 · Woman Pulls Laughing Man Out Through a Shattered Subway Window
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 94
+- Seedance 2.5 · creator: @AIwithkhan · heat: 93
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) · [finished media](https://media.goodcase.ai/cases/93018061e73f.mp4) · [poster](https://media.goodcase.ai/cases/c07aff74d745.jpg) · [original source](https://x.com/AIwithkhan/status/2097168171367338428)
 - Summary: Girl with a B **** H mode 🥵 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exac…
 
@@ -174,9 +174,29 @@ His eyes remain wide while he tries
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E4 · Woman Splashes Attacker with Coffee and Bins Him in Seoul Subway
+## E4 · Tiny Skateboarder Crosses a Giant at Sunset
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 91
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089) · [finished media](https://media.goodcase.ai/cases/04133376ac7d.mp4) · [poster](https://media.goodcase.ai/cases/7b93f99dd303.jpg) · [original source](https://x.com/Just_sharon7/status/2103420922376163808)
+- Summary: POV: your crush is the landscape and you’re late for work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic 10-second tracking shot at golden hour. A giant yo…
+
+```text
+POV: your crush is the landscape and you’re late for work.
+
+Seedance 2.5 on @FishCreativeHQ 
+
+Prompt
+
+A cinematic 10-second tracking shot at golden hour. A giant young East Asian woman with long wavy honey-blonde hair tied with black satin ribbons lies on her side on a grassy hill, filling most of the frame. She wears a black-and-white polka-dot halter crop top, a thin black choker with a silver chain, dark lipstick, and a long flowing black robe that drapes over her hips and legs like fabric hills. One arm is bent, hand near her cheek; the other rests on a long smooth wooden staff lying in the grass. Soft sunset light, peach-and-lavender clouds, distant city skyline on the horizon.
+
+A tiny man (normal human scale relative to her) skateboards along her body. He has short dark hair, a dark gray t-shirt, beige trousers, black sneakers, and a small olive-green crossbody bag. He starts on her pale, sunlit thigh and rides up the curve of her hip and the black fabric of her robe toward her midriff and chest.
+
+Camera is extremely low and close, starting at her legs and tracking forward and slightly upward with the skateboarder. Strong motion blur on the nearest skin and fabric in the foreground. Shallow depth of field, warm rim light on her face and hair, slight wind in her hair and the robe. Photorealistic, high-end commercial look, 9:16 vertical, smooth continuous camera move, no cuts.
+```
+
+## E5 · Woman Splashes Attacker with Coffee and Bins Him in Seoul Subway
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-realistic-live-action-revenge-comedy-scene-inside-a-seoul-subway-9029fc876a3a) · [finished media](https://media.goodcase.ai/cases/8c85e8b4f989.mp4) · [poster](https://media.goodcase.ai/cases/86aa94cd154a.jpg) · [original source](https://x.com/AIwithkhan/status/2113841913065615450)
 - Summary: Guess why he slapped her 🤔 Seedance 2.5 Prompt : Create a ultra-realistic live-action revenge-comedy scene inside a Seoul subway station. Natural handheld came…
 
@@ -202,29 +222,9 @@ SOUND DESIGN: Authentic Seoul subway announcements in the background, footsteps,
 VISUAL REQUIREMENTS: Maintain consistent faces, hairstyles, outfits, and location throughout. Show the phone falling clearly before the revenge begins. The coffee must visibly hit his face before she throws him into the bin. Make the entire throw readable in one continuous shot, with believable momentum and a comedic landing. The lid must close completely over him. Non-gory action, realistic skin texture, natural movement, restrained cinematic color grading, and authentic live-action footage. No supernatural powers, no excessive slow motion, no cartoon physics, and no scene transitions that skip the key actions.
 ```
 
-## E5 · Tiny Skateboarder Crosses a Giant at Sunset
-
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089) · [finished media](https://media.goodcase.ai/cases/04133376ac7d.mp4) · [poster](https://media.goodcase.ai/cases/7b93f99dd303.jpg) · [original source](https://x.com/Just_sharon7/status/2103420922376163808)
-- Summary: POV: your crush is the landscape and you’re late for work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic 10-second tracking shot at golden hour. A giant yo…
-
-```text
-POV: your crush is the landscape and you’re late for work.
-
-Seedance 2.5 on @FishCreativeHQ 
-
-Prompt
-
-A cinematic 10-second tracking shot at golden hour. A giant young East Asian woman with long wavy honey-blonde hair tied with black satin ribbons lies on her side on a grassy hill, filling most of the frame. She wears a black-and-white polka-dot halter crop top, a thin black choker with a silver chain, dark lipstick, and a long flowing black robe that drapes over her hips and legs like fabric hills. One arm is bent, hand near her cheek; the other rests on a long smooth wooden staff lying in the grass. Soft sunset light, peach-and-lavender clouds, distant city skyline on the horizon.
-
-A tiny man (normal human scale relative to her) skateboards along her body. He has short dark hair, a dark gray t-shirt, beige trousers, black sneakers, and a small olive-green crossbody bag. He starts on her pale, sunlit thigh and rides up the curve of her hip and the black fabric of her robe toward her midriff and chest.
-
-Camera is extremely low and close, starting at her legs and tracking forward and slightly upward with the skateboarder. Strong motion blur on the nearest skin and fabric in the foreground. Shallow depth of field, warm rim light on her face and hair, slight wind in her hair and the robe. Photorealistic, high-end commercial look, 9:16 vertical, smooth continuous camera move, no cuts.
-```
-
 ## E6 · Monday Morning’s Upside-Down Water Ritual
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 89
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909) · [finished media](https://media.goodcase.ai/cases/71885692ca73.mp4) · [poster](https://media.goodcase.ai/cases/d86c8eb13364.jpg) · [original source](https://x.com/Just_sharon7/status/2104544058471502330)
 - Summary: This is how it feels like to wake up on Monday to go to work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic indoor performance-art / fashion editorial vide…
 
@@ -246,7 +246,7 @@ Natural window light, muted filmic color palette, shallow depth of field, slight
 
 ## E7 · A Wizard's Ten-Second Escape Plan: Become a Duck
 
-- Seedance 2.5 · creator: @AIwithNatalia · heat: 88 · stability: 73
+- Seedance 2.5 · creator: @AIwithNatalia · heat: 87 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f) · [finished media](https://media.goodcase.ai/cases/4cabc64762f9.mp4) · [poster](https://media.goodcase.ai/cases/15792e0fa5ef.jpg) · [original source](https://x.com/AIwithNatalia/status/2089170554725265625)
 - Summary: 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
 
@@ -283,7 +283,7 @@ End text:
 
 ## E8 · A Hilarious Payback After the Subway Doors Close
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 88
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66) · [finished media](https://media.goodcase.ai/cases/d26ae0e3eb73.mp4) · [poster](https://media.goodcase.ai/cases/101f63c774b7.jpg) · [original source](https://x.com/AIwithSynthia/status/2098988104418050349)
 - Summary: Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
 

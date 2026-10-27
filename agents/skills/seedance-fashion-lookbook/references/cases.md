@@ -35,7 +35,7 @@ Photorealistic live-action quality, cinematic composition, natural human movemen
 
 ## E2 · Summer-Night Fashion Girl by a Speeding Metro
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5) · [finished media](https://media.goodcase.ai/cases/92c1b19a1f3a.mp4) · [poster](https://media.goodcase.ai/cases/d6bbdc164e90.jpg) · [original source](https://x.com/Just_sharon7/status/2103032789910401038)
 - Summary: Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
 
@@ -49,28 +49,7 @@ Prompt
 Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
 ```
 
-## E3 · Woman Playing Tennis on a Skateboard on a Pink Court at Night
-
-- Seedance 2.5 · creator: @AIwithNatalia · heat: 90
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5) · [finished media](https://media.goodcase.ai/cases/6d94ac862edd.mp4) · [poster](https://media.goodcase.ai/cases/322498c2ac13.jpg) · [original source](https://x.com/AIwithNatalia/status/2107056982163402833)
-- Summary: Too glam to play by the rules🖤🎾🛹 Created with Seedance 2.5 on @TapNow_AI PROMPT: Create a photorealistic cinematic fashion-sports video set on a pink tennis …
-
-```text
-Create a photorealistic cinematic fashion-sports video set on a pink tennis court at night. The woman is standing and riding on a skateboard while simultaneously playing tennis. 
-She wears the black-and-white tennis-inspired bodysuit, layered pearl necklaces, white leg warmers, sunglasses, and black high heels shown in the reference.  
-She pushes off and smoothly skates across the tennis court on the skateboard, maintaining believable balance. She holds a tennis racket in one hand and hits tennis balls coming toward her while continuing to roll forward. 
-Her movements should feel confident, stylish, athletic, and controlled—not exaggerated or cartoonish. Her long dark-red hair moves naturally with the motion.  
-Shot sequence: 
-0–3 sec: Low-angle close-up of the skateboard rolling across the pink court, wheels moving naturally as tennis balls bounce nearby. 
-3–7 sec: Wide side-tracking shot showing her riding the skateboard across the court while returning a tennis ball with a clean forehand. 
-7–11 sec: Smooth camera orbit around her as she continues skating and hits another incoming ball, with her hair and jewelry moving naturally. 
-11–15 sec: Front-facing tracking shot as she rides toward the camera, performs one final stylish tennis swing, then smoothly passes the camera.  
-Visual style: luxury fashion campaign meets futuristic tennis commercial, nighttime stadium lighting, glossy pink court, realistic shadows and reflections, cinematic depth of field, subtle slow motion during racket impacts, smooth stabilized camera movement, realistic human anatomy, realistic skateboard physics, natural facial expression, detailed skin and hair, high-end editorial photography, photorealistic.  
-Format: 15 seconds, 24 fps, high resolution.  
-Negative prompt: distorted face, changing identity, extra fingers, extra limbs, duplicated tennis rackets, warped skateboard, floating wheels, impossible body positions, broken anatomy, jittery motion, unnatural hair, flickering clothing, changing outfit, cartoon appearance, CGI-looking skin, blurry face, camera shake.
-```
-
-## E4 · Cinematic Paris Fashion Campaign, Five Shots
+## E3 · Cinematic Paris Fashion Campaign, Five Shots
 
 - Seedance 2.0 · creator: @Just_sharon7 · heat: 90 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/youmind-paris-fashion-campaign-streetwear) · [finished media](https://media.goodcase.ai/media/video/youmind-paris-fashion-campaign-streetwear.mp4) · [poster](https://media.goodcase.ai/media/poster/youmind-paris-fashion-campaign-streetwear.jpg) · [original source](https://x.com/Just_sharon7/status/2083793251132186998)
@@ -99,9 +78,30 @@ camera movement, real people in background every scene, hyper-realistic photogra
 AVOID: cartoon, CGI, plastic skin, robotic movement, stiff poses, blurry face, overexposed, watermark, text overlay, logo, AI generated look, jerky motion, empty streets, studio background, fake crowd, extra fingers, deformed
 ```
 
+## E4 · Woman Playing Tennis on a Skateboard on a Pink Court at Night
+
+- Seedance 2.5 · creator: @AIwithNatalia · heat: 89
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5) · [finished media](https://media.goodcase.ai/cases/6d94ac862edd.mp4) · [poster](https://media.goodcase.ai/cases/322498c2ac13.jpg) · [original source](https://x.com/AIwithNatalia/status/2107056982163402833)
+- Summary: Too glam to play by the rules🖤🎾🛹 Created with Seedance 2.5 on @TapNow_AI PROMPT: Create a photorealistic cinematic fashion-sports video set on a pink tennis …
+
+```text
+Create a photorealistic cinematic fashion-sports video set on a pink tennis court at night. The woman is standing and riding on a skateboard while simultaneously playing tennis. 
+She wears the black-and-white tennis-inspired bodysuit, layered pearl necklaces, white leg warmers, sunglasses, and black high heels shown in the reference.  
+She pushes off and smoothly skates across the tennis court on the skateboard, maintaining believable balance. She holds a tennis racket in one hand and hits tennis balls coming toward her while continuing to roll forward. 
+Her movements should feel confident, stylish, athletic, and controlled—not exaggerated or cartoonish. Her long dark-red hair moves naturally with the motion.  
+Shot sequence: 
+0–3 sec: Low-angle close-up of the skateboard rolling across the pink court, wheels moving naturally as tennis balls bounce nearby. 
+3–7 sec: Wide side-tracking shot showing her riding the skateboard across the court while returning a tennis ball with a clean forehand. 
+7–11 sec: Smooth camera orbit around her as she continues skating and hits another incoming ball, with her hair and jewelry moving naturally. 
+11–15 sec: Front-facing tracking shot as she rides toward the camera, performs one final stylish tennis swing, then smoothly passes the camera.  
+Visual style: luxury fashion campaign meets futuristic tennis commercial, nighttime stadium lighting, glossy pink court, realistic shadows and reflections, cinematic depth of field, subtle slow motion during racket impacts, smooth stabilized camera movement, realistic human anatomy, realistic skateboard physics, natural facial expression, detailed skin and hair, high-end editorial photography, photorealistic.  
+Format: 15 seconds, 24 fps, high resolution.  
+Negative prompt: distorted face, changing identity, extra fingers, extra limbs, duplicated tennis rackets, warped skateboard, floating wheels, impossible body positions, broken anatomy, jittery motion, unnatural hair, flickering clothing, changing outfit, cartoon appearance, CGI-looking skin, blurry face, camera shake.
+```
+
 ## E5 · Pink-Haired Woman Wandering Through a Fading European City
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 87
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692) · [finished media](https://media.goodcase.ai/cases/0440b58f61c0.mp4) · [poster](https://media.goodcase.ai/cases/78da937a2c39.jpg) · [original source](https://x.com/Just_sharon7/status/2102013620066636225)
 - Summary: What if every beautiful moment disappears before we even realize it was happening? Seedance 2.5 on @TapNow_AI Prompt A cinematic fashion short film, ~20 seconds…
 
@@ -146,7 +146,7 @@ Cinematic fashion film, editorial movement, motion blur, anamorphic flares, gold
 
 ## E6 · A Woman Changes Outfits on a Persian Rug Beneath a Ceiling Fan
 
-- Seedance 2.5 · creator: @Zoyavelle · heat: 85
+- Seedance 2.5 · creator: @Zoyavelle · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-top-down-overhead-shot-of-a-young-asian-woman-lying-barefoot-on-an-279944014505) · [finished media](https://media.goodcase.ai/cases/6c0160709a73.mp4) · [poster](https://media.goodcase.ai/cases/8457e12426f4.jpg) · [original source](https://x.com/Zoyavelle/status/2108060187840180394)
 - Summary: Made with seedance 2.5 Prompt: A cinematic top-down overhead shot of a young Asian woman lying barefoot on an elegant vintage Persian rug in a warm, cozy living…
 
@@ -200,7 +200,7 @@ SHOT 14: WS, 35mm orbit / Golden-hour rooftop scene overlooking Seoul. She poses
 
 ## E8 · Model and Fashion Items in Synchronized 360° Rotation
 
-- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 81 · stability: 60
+- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 80 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) · [finished media](https://media.goodcase.ai/cases/0d093f32d701.mp4) · [poster](https://media.goodcase.ai/cases/04e386463d97.jpg) · [original source](https://x.com/AI__TSUBAKI/status/2102459655700287648)
 - Summary: Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
 

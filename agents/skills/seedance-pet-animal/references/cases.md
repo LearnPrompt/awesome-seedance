@@ -32,7 +32,7 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 
 ## E2 · Fox’s Self-Filmed Walk Along a Forest Stream
 
-- Seedance 2.5 · creator: @MrDasOnX · heat: 93 · stability: 75
+- Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
 - Summary: Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
@@ -62,7 +62,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 ## E3 · A Cat's Cozy Day Filmed as a Selfie Vlog
 
-- Seedance 2.5 · creator: @ZaraIrahh · heat: 88 · stability: 70
+- Seedance 2.5 · creator: @ZaraIrahh · heat: 87 · stability: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg) · [original source](https://x.com/ZaraIrahh/status/2091385137133219971)
 - Summary: Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
 
@@ -173,7 +173,7 @@ Abso
 
 ## E4 · Cats Chasing via Red Mini Motorcycle
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 81 · stability: 89
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 80 · stability: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) · [finished media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) · [poster](https://media.goodcase.ai/cases/80df57bc40f6.jpg) · [original source](https://x.com/Just_sharon7/status/2084901309988425731)
 - Summary: A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
 
@@ -253,7 +253,7 @@ A high-definition 4K cinematic video of a white and orange tabby cat sitting in 
 
 ## E8 · Kitten Steals a Hair Tie and Pounces at the Camera
 
-- Seedance 2.5 · creator: @Strength04_X · heat: 70 · stability: 75
+- Seedance 2.5 · creator: @Strength04_X · heat: 69 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-she-thought-it-was-going-to-be-a-peaceful-rainy-day-selfie-f0bf765977dd) · [finished media](https://media.goodcase.ai/cases/b97cc5690b39.mp4) · [poster](https://media.goodcase.ai/cases/71d7b3358a28.jpg) · [original source](https://x.com/Strength04_X/status/2098256490238755226)
 - Summary: She thought it was going to be a peaceful rainy-day selfie But the kitten had other plans 😅 Seedance 2.5 Prompt - REFERENCE & SUBJECT Use "@<image1" as the exa…
 

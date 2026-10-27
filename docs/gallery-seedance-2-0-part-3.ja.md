@@ -1,8 +1,8 @@
 # Seedance 2.0 — 全ケース（Part 3/4）
 
-Seedance 2.0 の全 301 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 302 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 301 件中 196–278 件目。
+このページ: 302 件中 197–279 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
 
@@ -691,75 +691,6 @@ Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinem
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Taoist Warrior and Giant on a Mountain Road Chase
-
-> Incredible character visuals and dialogue that actually hits! 🎬🔥 Stop wasting tokens on endless prompt tweaks. Seedanc
-
-[<img src="https://media.goodcase.ai/media/poster/seharshinwari-seedance-ai-ce8e8937181f.jpg" width="600" alt="Taoist Warrior and Giant on a Mountain Road Chase">](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SeharShinwari | **出典:** [元投稿](https://x.com/SeharShinwari/status/2090046273952915887) | **公開日:** 2026-08-19 | **ヒート:** 21
-
-<details>
-<summary><b>プロンプト全文（51 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
-Visual style: high-end Western animated feature film, stylized realism, expressive characters, cinematic lighting, detailed environments, polished 3D animation, natural physics, expressive facial animation, comedic timing, dynamic cinematic camera movement.
-Keep the character designs completely consistent throughout the entire video.
-Scene 1, 0-5s: The New Target
-Begin with a quiet atmospheric mountain landscape.
-A gentle mountain breeze passes through the frame. The camera slowly tilts downward, revealing the top of a large woven bamboo conical hat [from the reference image]
-The girl's long dark hair moves naturally in the wind beneath the hat. The camera continues slowly downward until her face [from the reference image] is revealed.
-She looks completely calm and slightly annoyed.
-She picks up the phone and says in a casual, matter-of-fact voice:
-"He's the new target? Got it."
-She rolls her eyes.
-Subtle wind, distant birds, soft mountain ambience, cinematic silence before the dialogue.
-Scene 2, 5-11s: The Reluctant Partner
-Cut to a dramatic wide shot.
-The female Taoist stands on the edge of a huge mountain cliff [from the reference image]. Vast mountains, mist and clouds stretch into the distance.
-Behind her, the gigantic blue-gray stone-skinned giant [from the reference image] is crouching on the ground, taking a rest. His enormous body towers over the landscape.
-She casually turns toward him and says:
-"Time to work."
-The giant slowly raises his head with an exhausted expression.
-He looks deeply annoyed.
-"I haven't rested enough yet!"
-His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
-The Taoist remains completely unfazed.
-Scene 3, 11-23s: The Car Argument
-Cut to the Taoist walking confidently toward a rugged vintage open-top convertible [from the reference image] parked nearby.
-She gets into the driver's seat, starts the engine and casually says:
-"Come on, come on. Let's go."
-The giant stands behind the vehicle, looking at the tiny car with disbelief.
-He complains:
-"Why do YOU get to drive while I have to run again?"
-The Taoist looks back at him without sympathy.
-"Then build a car big enough for you."
-She immediately turns forward and drives away.
-The giant stands frozen for a beat.
-The vehicle disappears down the mountain road, leaving a small cloud of exhaust and dust drifting directly into his face.
-He slowly wipes the dust from his face with an irritated expression.
-Comedic timing, exaggerated facial animation, but grounded physical movement.
-Scene 4, 23-30s: The Road Trip
-Cut to a beautiful cinematic mountain highway.
-The Taoist drives the tiny open-top convertible through the winding road.
-Far behind her, the gigantic stone-skinned giant is running after the car.
-His enormous footsteps shake small pieces of dust from the road.
-The camera pulls progressively wider, revealing the absurd scale difference between them.
-The Taoist casually drives ahead, completely relaxed.
-The giant runs behind her, visibly exhausted and still complaining.
-End on a wide cinematic shot of the tiny car and enormous giant traveling together through the vast mountain landscape.
-The final feeling should be: two completely mismatched partners who somehow work perfectly together.
-Camera language: slow atmospheric opening, dramatic reveal, fast comedic cuts in the middle, energetic tracking shot at the end.
-Sound design: mountain wind, subtle birds, footsteps, engine ignition, gravel and tire sounds, giant footsteps, dust, natural environmental ambience. Dialogue should be crisp and clearly synchronized with lip movement.
-No superhero references, no existing copyrighted characters, no green superhero appearance, no logos, no text overlays.
-#Seedance25 #HIXAI
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Ghibli-Style Starbucks Ad
 
 > A warm and cheerful 2D animated Starbucks coffee ad prompt that blends Ghibli aesthetics, urban life scenes, and lively animation performance.
@@ -870,6 +801,75 @@ Smooth isometric and eye-level camera transitions, macro lens perspective, warm 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Taoist Warrior and Giant on a Mountain Road Chase
+
+> Incredible character visuals and dialogue that actually hits! 🎬🔥 Stop wasting tokens on endless prompt tweaks. Seedanc
+
+[<img src="https://media.goodcase.ai/media/poster/seharshinwari-seedance-ai-ce8e8937181f.jpg" width="600" alt="Taoist Warrior and Giant on a Mountain Road Chase">](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SeharShinwari | **出典:** [元投稿](https://x.com/SeharShinwari/status/2090046273952915887) | **公開日:** 2026-08-19 | **ヒート:** 20
+
+<details>
+<summary><b>プロンプト全文（51 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+Visual style: high-end Western animated feature film, stylized realism, expressive characters, cinematic lighting, detailed environments, polished 3D animation, natural physics, expressive facial animation, comedic timing, dynamic cinematic camera movement.
+Keep the character designs completely consistent throughout the entire video.
+Scene 1, 0-5s: The New Target
+Begin with a quiet atmospheric mountain landscape.
+A gentle mountain breeze passes through the frame. The camera slowly tilts downward, revealing the top of a large woven bamboo conical hat [from the reference image]
+The girl's long dark hair moves naturally in the wind beneath the hat. The camera continues slowly downward until her face [from the reference image] is revealed.
+She looks completely calm and slightly annoyed.
+She picks up the phone and says in a casual, matter-of-fact voice:
+"He's the new target? Got it."
+She rolls her eyes.
+Subtle wind, distant birds, soft mountain ambience, cinematic silence before the dialogue.
+Scene 2, 5-11s: The Reluctant Partner
+Cut to a dramatic wide shot.
+The female Taoist stands on the edge of a huge mountain cliff [from the reference image]. Vast mountains, mist and clouds stretch into the distance.
+Behind her, the gigantic blue-gray stone-skinned giant [from the reference image] is crouching on the ground, taking a rest. His enormous body towers over the landscape.
+She casually turns toward him and says:
+"Time to work."
+The giant slowly raises his head with an exhausted expression.
+He looks deeply annoyed.
+"I haven't rested enough yet!"
+His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+The Taoist remains completely unfazed.
+Scene 3, 11-23s: The Car Argument
+Cut to the Taoist walking confidently toward a rugged vintage open-top convertible [from the reference image] parked nearby.
+She gets into the driver's seat, starts the engine and casually says:
+"Come on, come on. Let's go."
+The giant stands behind the vehicle, looking at the tiny car with disbelief.
+He complains:
+"Why do YOU get to drive while I have to run again?"
+The Taoist looks back at him without sympathy.
+"Then build a car big enough for you."
+She immediately turns forward and drives away.
+The giant stands frozen for a beat.
+The vehicle disappears down the mountain road, leaving a small cloud of exhaust and dust drifting directly into his face.
+He slowly wipes the dust from his face with an irritated expression.
+Comedic timing, exaggerated facial animation, but grounded physical movement.
+Scene 4, 23-30s: The Road Trip
+Cut to a beautiful cinematic mountain highway.
+The Taoist drives the tiny open-top convertible through the winding road.
+Far behind her, the gigantic stone-skinned giant is running after the car.
+His enormous footsteps shake small pieces of dust from the road.
+The camera pulls progressively wider, revealing the absurd scale difference between them.
+The Taoist casually drives ahead, completely relaxed.
+The giant runs behind her, visibly exhausted and still complaining.
+End on a wide cinematic shot of the tiny car and enormous giant traveling together through the vast mountain landscape.
+The final feeling should be: two completely mismatched partners who somehow work perfectly together.
+Camera language: slow atmospheric opening, dramatic reveal, fast comedic cuts in the middle, energetic tracking shot at the end.
+Sound design: mountain wind, subtle birds, footsteps, engine ignition, gravel and tire sounds, giant footsteps, dust, natural environmental ambience. Dialogue should be crisp and clearly synchronized with lip movement.
+No superhero references, no existing copyrighted characters, no green superhero appearance, no logos, no text overlays.
+#Seedance25 #HIXAI
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Retro 16mm Aerobics Fitness Vlog
 
@@ -3253,6 +3253,44 @@ output_rules:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yaml-629d172a4820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Vox-Style Historical Collage Animation
+
+> An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
+
+[<img src="https://media.goodcase.ai/media/poster/vox-d5c357d5e75d.jpg" width="600" alt="Vox-Style Historical Collage Animation">](https://goodcase.ai/cases/vox-d5c357d5e75d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MrLarus | **出典:** [元投稿](https://x.com/MrLarus/status/2076610529615831169) | **公開日:** 2026-07-13 | **ヒート:** 4
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+参考图作为唯一画面基础，生成 5 秒、9:16、无声图生视频。
+
+动画要求：
+
+保持 paper cutout / scrapbook / stop-motion 拼贴风
+所有元素（人物、地图、字卡、铜钱、车轨、箭头等）作为独立剪贴块运动
+动作要有：抽帧感、纸片轻微抖动、分段位移、贴纸弹跳
+
+可以加入的小动作：
+
+箭头推进、路线延伸、铜钱旋转、印章盖下、竹简展开、砝码校准、马车抽帧前进、模块逐个激活
+
+注意：
+不要整张画面乱晃
+主构图和重要文字保持稳定
+每个画面有一个“明确的小事件”，而不是纯漂浮
+
+最后：
+把 9 段视频剪在一起 → 加 AI 口播 → 字幕 → BGM
+整体节奏控制在每 4–5 秒切换一个知识点。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vox-d5c357d5e75d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Japanese Anime-Style Pork-Wrapped Asparagus Cooking Video
 
 > A highly detailed prompt for a Japanese anime-style cooking video featuring pork-wrapped asparagus. It covers visual consistency, kitchen physics, and a specific scene sequence to ensure the animation is both realistic and appetizing.
@@ -3527,20 +3565,6 @@ One shared valley, one @titan, same @wardens and @warhorn across all five cuts, 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Emotional Kyoto Travel Vlog Animation
-
-> A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg" width="600" alt="Emotional Kyoto Travel Vlog Animation">](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MrDasOnX | **出典:** [元投稿](https://x.com/MrDasOnX/status/2080908954079760476) | **公開日:** 2026-07-25 | **ヒート:** 3
-
-```
-<<<image_1>>> Animate each of the 12 frames into a smooth, connected emotional vlog. Natural handheld camera movement with gentle shake. Flow the scenes naturally: sakura walk → teahouse → Philosopher’s Path → torii gate → bamboo grove → street food → temple → bicycle ride → ryokan rest → rainy umbrella → Kamo River sunset → zen garden moment. Keep the woman’s graceful presence, flowing hair, and soft expressions. Add subtle cherry blossom petals drifting, gentle wind, and authentic ambient sounds. Cinematic color grading, nostalgic film look, 24fps, vertical phone-style aspect with slight letterboxing if needed. Emotional, peaceful travel vlog atmosphere.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

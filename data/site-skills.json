@@ -284,8 +284,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 97,
-      "creatorCount": 67,
+      "caseCount": 102,
+      "creatorCount": 71,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261020/6ad4b41e000000000c009966/poster-cover.webp"
@@ -996,7 +996,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 39,
+      "caseCount": 40,
       "creatorCount": 29,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
       "url": "https://goodcase.ai/skills/twist-comedy-skit",
@@ -1143,26 +1143,6 @@
       "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg"
     },
     {
-      "slug": "vehicles-at-speed",
-      "baseSlug": "vehicles-at-speed",
-      "kind": "shared",
-      "title": {
-        "en": "Cars and vehicles at speed",
-        "zh": "汽车与载具速度片"
-      },
-      "description": {
-        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
-        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 28,
-      "creatorCount": 20,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
-      "url": "https://goodcase.ai/skills/vehicles-at-speed",
-      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
-    },
-    {
       "slug": "3d-cartoon-character-short",
       "baseSlug": "3d-cartoon-character-short",
       "kind": "shared",
@@ -1176,8 +1156,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 27,
-      "creatorCount": 17,
+      "caseCount": 29,
+      "creatorCount": 18,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
       "cover": "https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg"
@@ -1201,6 +1181,26 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf",
       "cover": "https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-4baf2c6b5a8c.jpg"
+    },
+    {
+      "slug": "vehicles-at-speed",
+      "baseSlug": "vehicles-at-speed",
+      "kind": "shared",
+      "title": {
+        "en": "Cars and vehicles at speed",
+        "zh": "汽车与载具速度片"
+      },
+      "description": {
+        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
+        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 28,
+      "creatorCount": 20,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
+      "url": "https://goodcase.ai/skills/vehicles-at-speed",
+      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
     {
       "slug": "cinematic-drama-scene",

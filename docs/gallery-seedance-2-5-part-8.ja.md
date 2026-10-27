@@ -1,10 +1,185 @@
 # Seedance 2.5 — 全ケース（Part 8/8）
 
-Seedance 2.5 の全 633 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 642 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 633 件中 607–633 件目。
+このページ: 642 件中 611–642 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · **Part 8**
+
+### Lia’s Morning Walk from the Terrace to a Village Road
+
+> Kenalin lia hobinya mancing Seedance 2.5 prompt: Reference mode: Use karakter sheet - location 1 - location 2 (image) #
+
+[<img src="https://media.goodcase.ai/cases/3220eff0165d.jpg" width="600" alt="Lia’s Morning Walk from the Terrace to a Village Road">](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Cupang1997 | **出典:** [元投稿](https://x.com/Cupang1997/status/2091438364545446209) | **公開日:** 2026-08-23 | **ヒート:** 23
+
+**安定度:** 65/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 64.5) · [出力](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Reference mode:
+Use karakter sheet - location 1 - location 2 (image)
+
+# Seedance 2.5 — Lia Morning Village Home Video — 30 Seconds FORMAT: Seedance 2.5 image-reference-to-video. Duration: exactly 30 seconds. Aspect ratio: 16:9. Photorealistic animated video from still-image references, rendered as believable live-action documentary footage rather than cartoon or CGI. Two continuous documentary scenes with only one intentional hard cut at approximately 17.5 seconds. REFERENCE ROLES: * gambar 1  = strict identity and appearance reference for LIA. Preserve Lia as the exact same adult woman throughout the entire video: same facial structure, eyes, nose, lips, skin tone, freckles/skin details, body proportions, tied-back dark brown hairstyle with naturally loose strands, earrings, white fitted top, brown patterned wrap skirt/sarong, and white sandals. Do not redesign or beautify her. * gambar 2  = strict environment and architectural reference for SCENE 1 only. Preserve the modest Indonesian house facade, open tiled front terrace, roof shape, terracotta roof feeling, columns, doors, windows, front yard, trees, plants, overhead electrical cables, scale, and spatial layout. Do not copy any character identity from this image. * gambar 3  = strict environment and composition reference for SCENE 2 only. Preserve the narrow asphalt village road, rice-field surroundings, village rooftops, utility lamp poles, tropical vegetation, distant green hill, open blue morning sky, and rural Indonesian spatial feeling. Do not copy character identity from this image. GLOBAL CHARACTER LOCK: Lia must remain visually identical to gambar 1 in both locations. Same face, body proportions, hairstyle, outfit, accessories, skin texture, and footwear. Her clothes should behave like real cotton and woven fabric, slightly worn and everyday rather than glossy or fashion-perfect. Lia's personality is relaxed and naturally playful. When she talks she becomes noticeably more excited and expressive: bright eyes, quick eyebrow lifts, small head tilts, spontaneous smiles and teasing expressions. Natural Indonesian speech with a light authentic Javanese-Indonesian accent, lively and conversational, never theatrical or caricatured. CAMERAMAN: The cameraman is always physically behind the camera and NEVER appears on screen, in reflections, windows, shadows, or background. His voice is recorded naturally from directly behind the camcorder. When the cameraman speaks, Lia does not lip-sync his dialogue. Lia only reacts with natural eye movement, a small smile, breathing, or subtle head movement. Only Lia's own spoken lines animate Lia's lips. VISUAL STYLE: Ultra-realistic documentary realism. Genuine candid behavior. Unscripted everyday slice-of-life feeling. Natural imperfect body language. Deep environmental authenticity of a rural Indonesian morning. The result should feel like a forgotten family home video recorded in Indonesia in the early 2000s: warm, mundane, affectionate, slightly funny, imperfect and deeply believable. Output may be high-resolution / 8K master quality, but the acquisition aesthetic must strongly emulate an early-2000s consumer DV camcorder: warm slightly faded colors, soft contrast, mild sensor noise, subtle digital compression, limited highlight latitude, natural motion blur, very mild rolling shutter, slightly imperfect white balance, no glossy modern HDR, no modern cinematic color grade, no beauty filter, no excessively shallow depth of field. HUMAN-OPERATED CAMERA: Camera movement must feel physically operated by a real friend holding a consumer camcorder. Use: subtle hand tremor, natural breathing drift, slightly imperfect horizon, small delayed reframing, occasional lens breathing, brief autofocus searching caused by subject movement, minor exposure pumping when moving between shade and bright sunlight. Every camera imperfection must have a physical reason. No gimbal stabilization. No drone. No orbit. No crane. No perfect tracking. No dramatic cinematic push-ins. No stylized speed ramp. No artificial cinematic camera choreography. SCENE 1 — TERRACE MORNING, based on gambar 2 00:00–00:02.8 Begin immediately with Lia already seated casually on the front terrace of the house from gambar 2. Use a loose eye-level medium-wide three-quarter shot, as if the cameraman is standing several steps in front of the terrace. Lia sits relaxed on the existing porch seating, shoulders loose, one foot slightly forward. Her LEFT hand naturally holds a simple glass cup of dark morning coffee. Her RIGHT hand holds one lit cigarette between index and middle finger. Keep object ownership consistent: coffee always remains in the left hand until she puts it down, cigarette remains in the right hand until she extinguishes it. A thin natural stream of cigarette smoke rises and bends with the morning air. Lia briefly takes a small sip of coffee, lowers the glass, casually looks toward the cameraman behind the lens and gives a tiny amused smile. Camera is not perfectly centered and slowly drifts a few centimeters while the operator settles his grip. Tropical morning sunlight illuminates the yard while Lia remains partially under terrace shade. Moving leaves create soft shifting dappled shadows. Exposure reacts slightly to the bright yard behind her. 00:02.8–00:04.5 CAMERAMAN speaks from behind the camera, playful and casually surprised: "widiihh lia santai amat" The cameraman remains completely off-screen. While listening, Lia keeps her lips closed except for a tiny amused smile. She glances toward the lens/operator, lightly raises her eyebrows and relaxes the cigarette hand near her knee. 00:04.5–00:09.7 LIA answers, conversational and excited with a natural light Javanese-Indonesian accent: "iya mas pagi hari itu wajib ngopi dan udud kalau ga bisa pusing loh" Accurate Indonesian lip sync ONLY for Lia. She speaks while sitting naturally rather than performing for camera. Small head movement, lively eyebrows, natural blinking, relaxed shoulders. She gestures once gently with the cigarette hand without waving it excessively. Smoke responds naturally to the movement. Toward the end of the sentence she gives a teasing half-smile. After finishing the spoken line, she takes a tiny relaxed breath; do not make her drink while her mouth is actively speaking. The camera operator makes a very small late correction to keep her face centered. Autofocus briefly breathes, then settles back on Lia. 00:09.7–00:11.5 CAMERAMAN asks from behind the camera: "habis udud mau kemana lia?" Lia remains silent while he speaks. No Lia lip-sync. She tilts her head slightly, looks amused and shifts her weight forward as if preparing to get up. 00:11.5–00:14.5 LIA answers with growing excitement and a playful inviting expression: "ayo ikut aku mancing mas mauu?" Accurate lip sync. On "mauu?" she lifts her eyebrows, smiles toward the cameraman and leans forward slightly, inviting him to follow. Keep the delivery spontaneous, like talking to a real friend, not presenting to an audience. 00:14.5–00:17.5 Dialogue pauses. Lia naturally completes the current activity before leaving. First she places the coffee glass down with her LEFT hand on the nearby terrace surface. Then she taps the cigarette once and extinguishes the cigarette completely in a small simple ashtray using her RIGHT hand. The cigarette state changes from LIT to EXTINGUISHED only after visible contact with the ashtray. After this moment there is no new cigarette smoke. She plants both sandal-covered feet firmly, shifts her weight forward, stands with believable human balance, straightens her skirt naturally and takes her first step away. Realistic cloth movement and hair secondary motion. Foley: soft glass contact, small ashtray tap, woven skirt rustle, sandal movement. CUT LOGIC: At approximately 00:17.5, make ONE simple hard cut after Lia has fully stood and started leaving. No transition effect. No dissolve. No montage. SCENE 2 — VILLAGE ROAD WALK, based on gambar 3 00:17.5–00:21.7 Hard cut directly to Lia already walking along the narrow asphalt village road from gambar 3. Camera follows approximately 2–3 meters BEHIND Lia at natural walking height. Medium-wide rear follow framing shows Lia's full walking movement and enough environment to clearly recognize the road, fields, utility poles, rooftops, tropical vegetation and distant green hill. The cameraman walks behind her, producing gentle vertical footstep bob, mild hand tremor and slightly imperfect framing. Lia walks at an unhurried natural pace. Real heel-to-toe steps. No sliding feet. Her patterned woven skirt reacts naturally to each stride. Her tied-back hair and loose strands respond subtly to the breeze. The cameraman occasionally falls a fraction behind, then naturally catches up. Do not turn this into a smooth professional tracking shot. 00:21.7–00:24.2 Without stopping completely, Lia slows slightly and turns her head and upper torso back over her shoulder toward the cameraman. The movement begins with her eyes, then head, then shoulders. Her lower body continues moving forward slowly. Because she unexpectedly turns back, the camera reacts a little late. Framing briefly drifts off-center and autofocus searches for her face for a fraction of a second before locking. LIA speaks toward the cameraman with teasing curiosity: "mas mau tau aku kemana?" Accurate natural lip sync. Excited light Javanese-Indonesian delivery. Playful half-smile. 00:24.2–00:25.4 CAMERAMAN responds from behind the camera: "kemana tuuuuh" He remains completely off-screen. Lia's mouth stops speaking while his line is heard. She keeps looking back with a mischievous expression, suppressing a laugh. Camera continues physically walking behind her with natural small shake. 00:25.4–00:29.2 LIA gives the punchline: "aku mau cari om om loh mas eee" She delivers it playfully and excitedly, building toward the final "eee". Accurate Indonesian lip sync. Immediately after finishing "eee", she bursts into a genuine spontaneous laugh. Her shoulders bounce naturally from laughter. She briefly squints, smiles widely and turns her face partly forward again while still chuckling. The laugh feels uncontrolled and candid, not like scripted acting. The cameraman reacts physically by momentarily losing perfect framing while continuing to walk. The camera dips slightly and catches up again. Do not add any new spoken words. 00:29.2–00:30.0 Lia is still walking and laughing softly. She begins turning her attention forward again while the cameraman follows. The framing drifts slightly toward one side because the operator is walking and laughing/reacting behind the camera. End imperfectly: the recording abruptly cuts to black MID-MOTION at exactly 30 seconds, without a polished ending, fade-out, pose, title or outro. ENVIRONMENTAL AUTHENTICITY: The environment must feel alive but never distract from Lia. SCENE 1 background: subtle tropical leaves moving in morning air, occasional distant motorbike passing outside the main foreground, one distant resident casually sweeping with a traditional broom when composition permits, small household plants moving, occasional water drip, overhead electrical cables, terracotta roofing, weathered concrete, real glass and ceramic surfaces, one cat may briefly react or cross far in the background only if naturally integrated. SCENE 2 background: rice and grasses moving gently in the breeze, distant village activity, occasional far motorbike, subtle birds, coconut or tropical foliage moving, utility poles remaining stable, no crowds, no staged extras. Background activity must continue independently of Lia as if the village exists beyond the scene. LIGHTING: Natural tropical morning light only. SCENE 1: bright morning yard with softer shade beneath the house terrace. Dappled foliage shadows shift subtly. Consumer camcorder exposure pumps very slightly when framing includes more bright yard or shaded Lia. SCENE 2: strong but natural morning daylight matching gambar 3. No artificial key light. No rim-light setup. No cinematic backlighting. Exposure may briefly adjust when Lia's face turns from forward light to backward-facing light. PHYSICAL MATERIAL DETAIL: Real skin texture with pores and tiny imperfections. No plastic skin. White cotton top moves subtly with breathing. Patterned woven skirt has visible fabric weight and folds. Sandals flex naturally at the feet. Concrete and tiled terrace retain worn real-world texture. Coffee is contained inside a real glass with believable reflections. Cigarette paper, ember and ash behave realistically before extinction. Terracotta roofing, asphalt, dry grass and green vegetation retain physically believable texture. AUDIO: Zero music. Zero narration. No voice-over other than the naturally recorded off-screen cameraman dialogue. No added soundtrack. Use authentic layered location sound. SCENE 1 close layer: Lia's clothing rustle, subtle breathing, glass touching the porch/table, small cigarette and ashtray contact, sandals shifting. Medium layer: broom brushing ground, occasional water drip, leaves rustling. Far layer: rooster crow, distant motorcycle, soft rural morning ambience. SCENE 2 close layer: Lia's sandal footsteps on asphalt, woven skirt swish, breathing and genuine laughter. Medium layer: grass and leaves moving in the breeze. Far layer: occasional rooster, distant motorcycle, birds and rural village ambience. Dialogue must remain clearly intelligible but retain realistic camcorder microphone perspective. The cameraman's voice should sound close to the microphone because he is holding the camera. Lia's voice becomes slightly more spatially distant during the rear-follow scene while remaining clear. MOTION QUALITY: Natural human-scale acceleration and deceleration. Stable foot contact. Correct left/right limb ownership. Real body weight and balance. Natural hip and shoulder counter-motion while walking. Believable hair and cloth secondary motion. No floating. No rubber limbs. No foot sliding. No teleporting. No sudden speed changes. CONTINUITY: Lia remains the exact same person from gambar 1 throughout both scenes. Same: face, skin, hair, hairstyle, body proportions, earrings, white top, brown patterned wrap skirt, white sandals. SCENE 1 prop continuity: coffee = left hand until placed down. cigarette = right hand until visibly extinguished. After Lia leaves the terrace: coffee remains behind at the house. cigarette remains extinguished at the house. Neither object appears in Lia's hands on the road. SCENE 2 begins only after the intentional hard cut. Do not visually morph gambar 2 into gambar 3. NEGATIVE CONSTRAINTS: No identity drift or face redesign. No hairstyle change. No wardrobe change. No changing Lia's body proportions. No beauty filter or plastic skin. No duplicate Lia. No cameraman visible anywhere. No random foreground characters interacting with Lia. No incorrect speaker lip-sync. Lia's lips stay silent during cameraman dialogue. No extra dialogue. No subtitles. No captions. No watermark. No logos. No duplicate coffee glass. No switching coffee between hands. No duplicate cigarette. No switching cigarette between hands. No cigarette magically relighting after extinction. No cigarette smoke during the road scene. No random location morphing. No unexplained teleportation. No random jump cuts. Only one intentional hard cut between the terrace and road scenes. No gimbal stabilization. No cinematic orbit. No drone shot. No glossy cinematic grading. No modern HDR look. No dramatic lens flare. No artificial slow motion. No speed ramps. No background music. No narrator. FINAL GOAL: A believable forgotten early-2000s Indonesian home video — candid, imperfect, funny, warm and unscripted. It should feel as though a real friend casually picked up a consumer DV camcorder one tropical morning, found Lia drinking coffee and smoking on her terrace, chatted with her spontaneously, then followed her down a village road while she jokingly teased the cameraman. The viewer should feel that life in the environment continues naturally whether or not the camera is recording.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
+
+> A 30-second vertical cycling vlog cutting between action cam, phone front camera and a chase bike. 4K photoreal, overcast light, sweat and pores, no beauty filter, every cut hard-coded.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-30-3b85f315bb08.jpg" width="600" alt="Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit">](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2086014766846275817) | **公開日:** 2026-08-08 | **ヒート:** 22
+
+**安定度:** 74/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.4) · [出力](https://media.goodcase.ai/retests/seedance-2-5-vlog-30-3b85f315bb08/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（85 行、クリックで展開）</b></summary>
+
+```
+确实是跟真的一样一样的😄
+
+30 秒更完整的叙事，Seedance 2.5 又将真实感提升了一个档次🎬
+
+Seedance 2.5 prompt 👇
+
+【风格】真实骑行 vlog（Authentic Cycling Vlog），运动相机 + 手机前摄 + 伴随车跟拍混剪，4K 真实摄影（Photorealistic），阴天柔光，皮肤有汗光与真实毛孔，无美颜无磨皮，竖屏 9:16
+
+【时长】30秒
+
+【场景】雨后山区盘山公路，路面湿滑泛着一层亮光，路侧金属护栏，远处山峦挂着流动的云雾，路边草木上挂着水珠
+
+【角色】骑行者（女性，白色公路头盔，蓝色镜面骑行眼镜，深灰色短袖骑行服（胸前城市街景印花、拉链到底、领口下方夹着黑色运动相机遥控器）、酒红色骑行短裤（侧缝两道白色缝线）、粉色运动手表，黑色碳纤维公路车、黑色刀圈轮组）
+
+【眼镜规则】只有全速骑行的镜头（镜头2、镜头5、镜头6）戴着眼镜；停车和自拍的镜头（镜头1、镜头3、镜头4、镜头7、镜头8）眼镜一律架在头盔前额上，整张脸和眼睛完全露出
+
+【全局约束】全程同一套骑行服与头盔，不换装；汗量随时间递增，不可倒退；行进中双手必须都在车把或手机上，不出现第三只手；不出现其他骑行者抢镜
+
+[00:00-00:04] 镜头1：低角度起步（Ground-level Low Angle）
+
+贴地极低机位，画面下缘是湿漉漉的沥青路面。她单脚撑地停在路边，眼镜架在头盔前额，脸完全露出来，低头看了眼镜头笑了一下。
+
+动作：她双手抬起把眼镜拉到眼睛上戴好，随后双手落回车把，脚扣"咔"地扣进踏板，曲柄转动，链条上链，前轮碾过一小片积水，水线甩向镜头两侧。
+
+镜头随车轮向前轻微跟移，湿路面被轮胎压出一道深色湿痕。
+
+音效：脚扣扣合的咔哒声、链条上链、轮胎压水的沙沙声。
+
+[00:04-00:08] 镜头2：侧面伴随跟拍（Car-to-car Side Tracking）
+
+正侧方伴随机位与她等速并行，全身入画。她压低上半身双手握下把，背部拉平，膝盖上下抽动，蓝色镜面眼镜戴在眼睛上。
+
+背景的护栏和云雾山体在她身后横向快速拉过，形成速度线。
+
+细节：额角渗出第一层汗，骑行服背部中缝出现一小块深色汗渍。
+
+[00:08-00:12] 镜头3：路边停车自拍（Front Camera Selfie POV）
+
+手机前置摄像头视角，画面轻微广角畸变。她已经停在路边单脚撑地，先用双手把眼镜推回头盔前额，露出整张脸和眼睛，再拿起手机举在斜前方。
+
+动作：她冲镜头咧嘴笑，喘着气对镜头说了句什么，说话时肩膀随呼吸起伏，另一只手扶着车把稳住车，接着用举手机的那只手把镜头转向前方，扫过弯道和云雾山景，再转回自己脸上。
+
+细节：额头和鼻尖有明显汗光，眼睛清晰可见，鬓角碎发被汗黏在脸上，风把耳边的碎发往后吹。画面有真实手持抖动和风噪爆音。
+
+[00:12-00:16] 镜头4：360全景环绕（360 Action Cam / Invisible Selfie Stick）
+
+模仿360全景运动相机效果，轻微鱼眼畸变，自拍杆被完全抹除。她仍在路边停着，双脚撑地跨在车上，眼镜架在头盔前额。镜头悬在她斜上方约一米处，围着她和车缓慢转一整圈。
+
+画面依次转过：她的正脸和头盔顶、身后的湿路面和护栏、车尾和后轮、路侧的云雾山谷、再回到正脸。
+
+动作：转到正脸时她抬头看镜头，笑着抬手做了个"往前走"的手势，另一只手扶着车把。
+
+细节：手臂皮肤上有细密汗珠，手表带内侧一圈汗渍。
+
+[00:16-00:20] 镜头5：爬坡喘息特写（Handheld Close-up / Uphill）
+
+侧面近景，只拍她的脸和肩膀，背景是缓慢后退的山体和护栏。坡度明显，她重新戴上了眼镜，踩踏频率变慢变重。
+
+动作：她咬着牙站起来摇车，双手死死握住车把，上半身左右摆动，嘴张开大口吸气，颈侧血管随呼吸起伏。一滴汗从太阳穴滑到下颌，被风甩飞。
+
+细节：整件骑行服前胸和后背已经湿透变成深色，紧贴身体，头盔带上有一圈汗渍，镜面眼镜下缘起了一层薄雾。
+
+[00:20-00:23] 镜头6：下坡第一视角（Handlebar POV / First-person）
+
+车把固定机位，第一人称视角。画面能看到黑色车把、缠着的把带、码表屏幕和她握把的双手。
+
+动作：车头快速冲下弯道，视线随身体压弯向左倾斜，路侧护栏和树木在画面两侧飞速掠过，前轮压过一小段积水溅起水花。她的手指按下刹车把，速度略降后再次放开。
+
+风噪骤然放大，画面因高速产生轻微抖动和边缘模糊。
+
+[00:23-00:27] 镜头7：终点擦汗（Static Medium Shot）
+
+固定机位中景。她把车靠在护栏上，跨下车，摘下头盔单手拎着，眼镜随头盔一起摘下来挂在手指上，另一只手把汗湿的刘海往后一捋，头发湿成一缕缕黏在额头上。
+
+动作：她放下头盔，双手拿起水壶仰头灌了一大口，水从嘴角流下脖子，用手背抹了一下下巴，然后长长呼出一口气，肩膀垮下来。
+
+细节：脱头盔后头顶有明显压痕，脸颊通红发亮，眼睛周围有被眼镜压出的浅印，颈侧和锁骨有汗流下来的亮线。
+
+[00:27-00:30] 镜头8：收尾比耶（Low Angle Pull-back）
+
+低角度仰拍，她重新戴回头盔，眼镜架在头盔前额，整张脸露出来。她站在车旁，一只手扶着车座，另一只手举到脸侧比耶，冲镜头笑，还带着喘。身后是整片流动的云雾山谷和湿亮的盘山公路。
+
+镜头缓缓向后下方拉远，人和车缩到画面下三分之一，山雾在她身后慢慢向上翻涌。
+
+音效：全程链条声、变速器咔哒声、轮胎压水声、真实的粗重呼吸声与风噪，背景无音乐，最后两秒只留下风声和喘息声。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Maldives Cycling Documentary in One Long Take
+
+> An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-f3651857750b.jpg" width="600" alt="Seedance 2.5 Maldives Cycling Documentary in One Long Take">](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088099038839316601) | **公開日:** 2026-08-14 | **ヒート:** 21
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80) · [出力](https://media.goodcase.ai/retests/seedance-2-5-f3651857750b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy,  subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Girl’s Continuous Adventure Through Shifting Worlds
 
@@ -111,6 +286,39 @@ Quick cut to a locked low-angle shot — the basketball drops onto the cracked a
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Paper Airplane Flies Through Four Seasons in the Old City
+
+> Seedance 2.5’s scene transitions are pretty smooth. I made a short film: To My Grown-Up Self. Theme: A paper airplane flies through the city’s four seasons and finally lands in the hands of its owner’s childhood self. Prompt: Generate a 15-second, 16:9, 720p photorealistic cinematic fantasy short film. Use the same ivory hand-folded paper airplane as the sole protagonist throughout
+
+[<img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-10c1ac4f1c20.jpg" width="600" alt="A Paper Airplane Flies Through Four Seasons in the Old City">](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @liyue_ai | **出典:** [元投稿](https://x.com/liyue_ai/status/2092147008895426977) | **公開日:** 2026-08-25 | **ヒート:** 21
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.8) · [出力](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
+
+```
+生成一支15秒、16:9、720p的写实电影质感奇幻短片。全片以同一架米白色手折纸飞机为唯一主角，纸张纹理、折痕、尺寸和飞行方向始终一致。采用一镜到底的低空跟随镜头，镜头位于纸飞机后侧约半米，平稳向前移动，不突然切镜，不穿模。
+
+0至3.5秒，清晨的老城区春日街道，樱花花瓣随微风掠过，纸飞机从一扇打开的教室窗户飞出，镜头立即跟上。柔和晨光，空气清透，只听见风声、远处鸟鸣和很轻的钢琴前奏。
+
+3.5至7秒，纸飞机从一棵近景树冠后掠过，遮挡完成自然转场。街道进入盛夏午后，绿荫浓密，短暂阵雨落下，纸面沾上少量水珠但不破损、不变形。镜头保持相同距离和运动方向，雨声与钢琴节奏略微增强。
+
+7至10.5秒，纸飞机贴近一辆驶过的旧公交车，利用车身遮挡转入深秋黄昏。金黄色落叶沿同一风向卷起，夕阳从画面右侧照亮纸飞机折痕。它短暂下坠后重新被气流托起，动作符合空气阻力，不瞬移。
+
+10.5至15秒，纸飞机穿过一团近景白雾，街道进入安静冬夜，屋檐和路面覆有薄雪。镜头逐渐绕到纸飞机侧前方，露出巷口一名约八岁、穿深蓝棉衣的男孩。他抬手接住纸飞机，低头看见机翼内侧有一行稚嫩铅笔字「给长大后的我」。男孩停顿一秒，抬头望向纸飞机飞来的方向，钢琴只留下一个尾音，画面自然停住。
+
+四季必须发生在同一条街道和同一飞行路径上，建筑空间、屏幕方向和镜头轴线连续。纸飞机全程只有一架，不改变颜色、材质、折法和大小。季节变化只通过遮挡转场、光线、植被、天气与环境声完成。禁止额外纸飞机、人物突然出现或消失、文字乱码、纸张融化、镜头跳切、画面闪烁、平台水印、字幕、旁白和多余对白。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Fitness Girl Training Vlog Short Video
 
@@ -265,6 +473,66 @@ Seedance 2.5 prompt 👇
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-3b9beb9a46d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take
+
+> A 30-second continuous bodycam raid in four stages: breach, clear, find a pineapple pizza production line, restrain the suspects. Gear, floor plan, lighting and ambience are all locked down.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088036921184223468) | **公開日:** 2026-08-13 | **ヒート:** 20
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.8) · [出力](https://media.goodcase.ai/retests/seedance-2-5-d68024212dfc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（38 行、クリックで展開）</b></summary>
+
+```
+【生成目标】
+Generate a continuous 30-second single-take bodycam video. Core subject is an FBI tactical agent’s first-person POV during a high-risk residential raid. Main event is a real-time dynamic entry and room-clearing operation that ends with the discovery of an active pineapple-on-pizza production line inside a dirty kitchen.
+
+【阶段一 0-6s】
+开始时：Night exterior, rundown two-story house on a neglected urban street under sparse sodium streetlights. Bodycam is chest-mounted on the point agent, slight wide-angle distortion, natural handheld micro-shake. Three other FBI agents in full dark tactical gear with visible FBI patches are stacked tight against the wall beside a weathered front door. Agent’s gloved hands are visible at the bottom of frame holding a ballistic shield and the door-breaching tool.
+主要事件：Loud verbal announcement “FBI! Search warrant!” followed by immediate forced entry. Door is driven open with a single controlled ram strike; the team surges inside in a tight stack.
+结束时：Bodycam crosses the threshold into a dim, cluttered living room. Doorframe still visible at the edges of frame.
+
+【阶段二 6-15s】
+承接上一阶段：Same continuous bodycam POV, same agents, same identity and gear. No cuts.
+主要事件：Fast room clearing through the living area and short hallway. Several disheveled, pale, thin individuals (junkie appearance) are scattered on sofas, floor and against walls. Agents issue clear commands “Hands where I can see them! Get down!” while moving past. Two suspects are already being secured on the floor with hands behind their backs; plastic restraints are applied. Bodycam advances steadily, scanning left and right, flashlight beam briefly cutting across dirty walls and scattered trash.
+结束时：Bodycam reaches the kitchen doorway. Harsh fluorescent kitchen light is now visible ahead.
+
+【阶段三 15-24s】
+承接上一阶段：Unbroken first-person movement into the kitchen. Same agents remaining in formation behind and to the sides.
+主要事件：Kitchen is brightly lit by overhead fluorescents and under-cabinet lights yet extremely dirty. Thick white flour covers every counter surface, the floor, the fronts of cabinets and the clothing of the people inside. Four individuals stand at a large central work table and along the counters, actively slicing fresh pineapple rings with knives and placing the slices onto raw pizza dough bases. Flour dust hangs in the air. Agents flood the room, weapons low but ready, shouting “Nobody move! Hands up! Step away from the table!”
+结束时：All four kitchen workers have raised empty hands. Flour-covered pizza dough and cut pineapple pieces remain clearly visible on the table directly in front of the bodycam.
+
+【阶段四 24-30s】
+承接上一阶段：Same continuous bodycam, same lighting and spatial layout.
+主要事件：Agents begin securing the kitchen workers one by one, guiding their hands behind their backs and applying restraints. Bodycam slowly pans across the work surface, lingering on the flour-dusted dough, the open cans of pineapple, the knives, and the half-assembled pineapple pizzas. Radio chatter is audible in the background confirming “Kitchen clear, subjects in custody.”
+结束时：Final frame holds on a close view of a flour-covered hand being restrained next to a pizza topped with fresh pineapple slices. Bodycam remains steady but still shows natural micro-movement.
+
+【视觉风格与摄影】
+Authentic real-world bodycam footage only. Continuous single take, no cuts, no slow-motion, no cinematic grading. Slight wide-angle lens distortion, natural motion blur on rapid movement, realistic handheld sway and vertical bob from walking. Exterior is low-key sodium-vapor night lighting with visible grain; interior is harsh, uneven fluorescent practical lighting that keeps everything clearly visible yet still gritty and dirty. Clothing, faces, and environments stay consistent and photorealistic throughout.
+
+【音频】
+No music. No subtitles.
+Language: American English.
+Clear radio and verbal commands in natural American law-enforcement cadence:
+{FBI! Search warrant!}
+{Hands where I can see them! Get down!}
+{Nobody move! Hands up!}
+{Kitchen clear, subjects in custody.}
+Realistic ambience only: heavy breathing, boot steps on dirty floors, door impact, plastic restraint zip sounds, distant radio static, kitchen ambient noise of knives on cutting boards and flour being disturbed. Keep all dialogue, footsteps and room tone natural and continuous.
+
+【保持一致】
+Single continuous first-person bodycam POV of one FBI agent for the entire 30 seconds. Agent count, tactical gear, house layout, lighting direction and the exact number of kitchen workers remain stable. No violence, no blood, no weapons discharged. The only “contraband” activity is the preparation of pineapple pizza under a layer of flour.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Sailed Ship Warriors Battle a Whirlpool Giant
 

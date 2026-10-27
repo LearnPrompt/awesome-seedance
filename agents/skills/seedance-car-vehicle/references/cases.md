@@ -39,7 +39,7 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 ## E2 · Urban Police Chase and Explosive Getaway
 
-- Seedance 2.0 · creator: @Aria_Nawi · heat: 89
+- Seedance 2.0 · creator: @Aria_Nawi · heat: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-police-chase-621254905333) · [finished media](https://media.goodcase.ai/cases/166c1a2a5127.mp4) · [poster](https://media.goodcase.ai/cases/dcc163d4e56d.jpg) · [original source](https://x.com/Aria_Nawi/status/2098461817555374451)
 - Summary: Police chase. Explosion. A cinematic 3D world built with GPT-6 Astra. Made by @PixVerse. Available on PixVerse and in ChatGPT via the PixVerse Plugin. Prompt ↓ …
 
@@ -149,42 +149,7 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E5 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
-
-- Seedance 2.5 · creator: @CharaspowerAI · heat: 71
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) · [finished media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) · [poster](https://media.goodcase.ai/cases/68b308e11fb0.jpg) · [original source](https://x.com/CharaspowerAI/status/2111517673276240251)
-- Summary: Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
-
-```text
-Perfect AI cinematography is overrated.
-Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀
-
-This Seedance 2.5 experiment proves it.
-Full prompt below 👇
-Ultra-realistic viral helicopter pursuit footage, raw local-news style, filmed entirely from one helicopter in bright Los Angeles daylight. Long-lens aerial camera, unstable vibration, abrupt zooms, compression artifacts, heat haze, autofocus breathing, imperfect framing, rotor thump, distant radio chatter, harsh California sun, no cinematic polish, believable amateur-news realism.
-
-Main subject: one motocross rider on a dirt bike, full helmet and motocross gear, highly skilled, aggressive but controlled riding. Keep the same rider and same bike throughout.
-
-Los Angeles daytime: palm-lined boulevard, parking lots, freeway ramps, concrete flood channel, industrial blocks, overpasses, service roads and distant skyline.
-
-0-5s: Immediate viral hook The helicopter camera is already searching frantically when the rider suddenly blasts into frame between moving cars. Operator snaps into a shaky zoom. The rider jumps a curb, cuts across a parking lot and nearly disappears behind palm trees.
-
-5-10s: Chaotic tracking He rejoins a boulevard, threads through traffic, then veers up a sloped driveway and launches over a low divider. Camera over-zooms, loses him for half a second, then catches him landing cleanly.
-
-10-15s: Escalation The rider enters a concrete flood channel. Huge aerial reveal. He accelerates along the channel floor while the helicopter banks hard overhead. Dust trails behind the bike. Quick zoom on spinning rear wheel and suspension.
-
-15-20s: Viral stunt beat He rides up the angled concrete wall, holds a dramatic high line for a moment, then drops back down smoothly. Camera shakes violently trying to follow. Rotor vibration and radio chatter intensify.
-
-20-25s: Big surprise The rider exits through a service ramp, crosses beneath an overpass, then unexpectedly appears on a parallel industrial road. The operator pans late and barely recovers him. He hits a natural rise and gets long airtime in full daylight.
-
-25-30s: Iconic ending He lands, accelerates toward another overpass and vanishes into shadow underneath. The helicopter overshoots, circles, zooms wildly across multiple roads, but he is gone. Reporter voice, stunned: “We just lost him.” Hold on shaky wide aerial of Los Angeles. Hard cut.
-
-One continuous helicopter perspective, strong amateur-news authenticity, same rider throughout, realistic motocross physics, believable Los Angeles geography, harsh daylight, imperfect tracking, viral unpredictability, readable stunts, no crash, no gore, no readable text, no logos.
-
-#DreaminaCPP  @dreamina_ai
-```
-
-## E6 · Black Sedan Chase and Gunfire at Sunset
+## E5 · Black Sedan Chase and Gunfire at Sunset
 
 - Seedance 2.5 · creator: @Xaroon_x · heat: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) · [finished media](https://media.goodcase.ai/cases/75e713901ea3.mp4) · [poster](https://media.goodcase.ai/cases/6170bf3f7274.jpg) · [original source](https://x.com/Xaroon_x/status/2107838928992489968)
@@ -226,6 +191,41 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 **AUDIO:** Realistic engines, tire squeal, wind and impacts. Dark hybrid orchestral score with bass pulse, cellos and percussion building to a triumphant finish. Near-silence during both slow-motion crashes.
 
 **NEGATIVE:** No cartoon look, no CGI look, no plastic skin, no distorted anatomy, no face different from @image1, no face drift, no wardrobe change, no duplicated cars, no teleporting vehicles, no hidden or cropped crash, no impossible physics, no jitter, no flickering, no deformed hands or rifle, no text, no watermark, no logos.
+```
+
+## E6 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
+
+- Seedance 2.5 · creator: @CharaspowerAI · heat: 70
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) · [finished media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) · [poster](https://media.goodcase.ai/cases/68b308e11fb0.jpg) · [original source](https://x.com/CharaspowerAI/status/2111517673276240251)
+- Summary: Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
+
+```text
+Perfect AI cinematography is overrated.
+Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀
+
+This Seedance 2.5 experiment proves it.
+Full prompt below 👇
+Ultra-realistic viral helicopter pursuit footage, raw local-news style, filmed entirely from one helicopter in bright Los Angeles daylight. Long-lens aerial camera, unstable vibration, abrupt zooms, compression artifacts, heat haze, autofocus breathing, imperfect framing, rotor thump, distant radio chatter, harsh California sun, no cinematic polish, believable amateur-news realism.
+
+Main subject: one motocross rider on a dirt bike, full helmet and motocross gear, highly skilled, aggressive but controlled riding. Keep the same rider and same bike throughout.
+
+Los Angeles daytime: palm-lined boulevard, parking lots, freeway ramps, concrete flood channel, industrial blocks, overpasses, service roads and distant skyline.
+
+0-5s: Immediate viral hook The helicopter camera is already searching frantically when the rider suddenly blasts into frame between moving cars. Operator snaps into a shaky zoom. The rider jumps a curb, cuts across a parking lot and nearly disappears behind palm trees.
+
+5-10s: Chaotic tracking He rejoins a boulevard, threads through traffic, then veers up a sloped driveway and launches over a low divider. Camera over-zooms, loses him for half a second, then catches him landing cleanly.
+
+10-15s: Escalation The rider enters a concrete flood channel. Huge aerial reveal. He accelerates along the channel floor while the helicopter banks hard overhead. Dust trails behind the bike. Quick zoom on spinning rear wheel and suspension.
+
+15-20s: Viral stunt beat He rides up the angled concrete wall, holds a dramatic high line for a moment, then drops back down smoothly. Camera shakes violently trying to follow. Rotor vibration and radio chatter intensify.
+
+20-25s: Big surprise The rider exits through a service ramp, crosses beneath an overpass, then unexpectedly appears on a parallel industrial road. The operator pans late and barely recovers him. He hits a natural rise and gets long airtime in full daylight.
+
+25-30s: Iconic ending He lands, accelerates toward another overpass and vanishes into shadow underneath. The helicopter overshoots, circles, zooms wildly across multiple roads, but he is gone. Reporter voice, stunned: “We just lost him.” Hold on shaky wide aerial of Los Angeles. Hard cut.
+
+One continuous helicopter perspective, strong amateur-news authenticity, same rider throughout, realistic motocross physics, believable Los Angeles geography, harsh daylight, imperfect tracking, viral unpredictability, readable stunts, no crash, no gore, no readable text, no logos.
+
+#DreaminaCPP  @dreamina_ai
 ```
 
 ## E7 · Post-Apocalyptic Desert Buggy Air Battle

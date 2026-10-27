@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seedance 2.5 Dance Clip Real Enough to Fool You
 
-- Seedance 2.5 · creator: @johnAGI168 · heat: 93 · stability: 51
+- Seedance 2.5 · creator: @johnAGI168 · heat: 92 · stability: 51
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-269d1fc95820) · [finished media](https://media.goodcase.ai/media/video/seedance-269d1fc95820.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-269d1fc95820.jpg) · [original source](https://x.com/johnAGI168/status/2095025524586193105)
 - Summary: 不会有人认为这是真的吧？😄 Seedance 2.5 也过于逼真了啊🫠连影子都那么真实 上传自己的图片，加上下面的提示词，你也能这么跳😂 Seedance 2.5 prompt 👇 Duration: 10秒 Aspect rati
 
@@ -144,7 +144,7 @@ Negative:
 
 ## E2 · Woman Snowboarding and Catching Air at an Alpine Resort
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 81 · stability: 79
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 80 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg) · [original source](https://x.com/ayzalnooor24521/status/2094243156225315270)
 - Summary: Chasing the rush where snow meets the sky. Big jumps, fresh powder, and endless mountain energy. Created on seedance 2.0
 
@@ -197,7 +197,7 @@ Audio: natural park ambience, distant voices, ball impact, footsteps
 
 ## E4 · Bicycle Courier Racing Through the City
 
-- Seedance 2.5 · creator: @Elvorya · heat: 65 · stability: 81
+- Seedance 2.5 · creator: @Elvorya · heat: 64 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) · [finished media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) · [poster](https://media.goodcase.ai/cases/d9e8d052ad57.jpg) · [original source](https://x.com/Elvorya/status/2102622012351131832)
 - Summary: When a delivery ride turns into a cinematic city adventure. Created on seedance 2.5 Prompt:Create a 15-second photorealistic cinematic animated urban adventure …
 
@@ -217,7 +217,7 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 ## E5 · Female Rider Wins Mountain Bike Final by a Wheel
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 59 · stability: 76
+- Seedance 2.5 · creator: @nawalsehar · heat: 58 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
 - Summary: Two elite riders, one brutal final sprint, and a finish decided by inches. Created on seedance 2.5 Prompt: Ultra-photore
 
@@ -237,7 +237,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 ## E6 · White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 59
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) · [finished media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) · [poster](https://media.goodcase.ai/cases/a396247022dc.jpg) · [original source](https://x.com/ayzalnooor24521/status/2113128549930729895)
 - Summary: Grace, balance, and breathtaking moves come together in this stunning acrobatic performance above the water. Created on seedance 2.0 Prompt: Create it 30-second…
 

@@ -46,7 +46,7 @@ Format: 16:9.
 
 ## E3 · A Day Buying Bread and Cotton Candy in Old Seoul
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 96
+- Seedance 2.5 · creator: @AIwithkhan · heat: 95
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a) · [finished media](https://media.goodcase.ai/cases/60b9bcdc9e88.mp4) · [poster](https://media.goodcase.ai/cases/f73ca1c9ee91.jpg) · [original source](https://x.com/AIwithkhan/status/2104057858765791389)
 - Summary: Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
 
@@ -70,7 +70,7 @@ Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, v
 
 ## E4 · A Korean Woman’s Morning Workout at a Neighborhood Gym
 
-- Seedance 2.5 · creator: @sipteaandcoffee · heat: 96
+- Seedance 2.5 · creator: @sipteaandcoffee · heat: 95
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714) · [finished media](https://media.goodcase.ai/cases/c1c742ff910f.mp4) · [poster](https://media.goodcase.ai/cases/8394fd6c092a.jpg) · [original source](https://x.com/sipteaandcoffee/status/2104887547243774358)
 - Summary: Seedance 2.5 on @Flovaai @Flovaai_Japan My invite link https://t.co/4bi7Gg4te3 Skill used: script to video https://t.co/7uC3BJRHSL Prompt Create a **45-second u…
 
@@ -232,7 +232,7 @@ FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every sc
 
 ## E6 · POV: Korean Baddie Meets Her Boyfriend in the US
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 93
+- Seedance 2.5 · creator: @AIwithkhan · heat: 92
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf) · [finished media](https://media.goodcase.ai/media/video/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg) · [original source](https://x.com/AIwithkhan/status/2094997895187673489)
 - Summary: POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
 
@@ -256,7 +256,7 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 
 ## E7 · A Girl’s Retro Selfie Diary on Seoul’s Shopping Streets
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 92
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-on-14a9d2540b85) · [finished media](https://media.goodcase.ai/cases/bd0828053242.mp4) · [poster](https://media.goodcase.ai/cases/40eec7295c01.jpg) · [original source](https://x.com/Just_sharon7/status/2109218767620444331)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt CAMERA: Early-2010s smartphone front-camera selfie vlog, filmed on an old iPhone 4 or Samsung Galaxy S2. The girl holds the phon…
 

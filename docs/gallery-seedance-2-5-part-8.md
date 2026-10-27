@@ -1,10 +1,150 @@
 # Seedance 2.5 — Full Gallery (Part 8/8)
 
-All 633 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 642 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 610–633 of 633.
+This page: cases 617–642 of 642.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · **Part 8**
+
+### Seedance 2.5 Fitness Girl Training Vlog Short Video
+
+> A photoreal gym training vlog for a fitness girl, cut to a dense beat-synced rhythm in sports-commercial style.
+
+[<img src="https://media.goodcase.ai/cases/35da6d19164d.jpg" width="600" alt="Seedance 2.5 Fitness Girl Training Vlog Short Video">](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2089622062369243210) | **Published:** 2026-08-18 | **Heat:** 21
+
+<details>
+<summary><b>Full prompt (122 lines, click to expand)</b></summary>
+
+```
+健身女孩 vlog 视频📺
+
+Seedance 2.5 prompt 👇
+
+【风格】真人写实健身房训练短片（Photorealistic Fitness Video），高密度卡点剪辑（Beat-synced Rapid Cuts），运动广告质感，真实力量与器械物理反馈，4K高清，自然皮肤、汗水与布料纹理
+【时长】12秒
+【比例】9:16竖屏
+【场景】现代商业健身房，黑灰色力量器械、深色橡胶地面、大面积墙镜、黑色天花板与连续白色线性灯带；背景仅有少量虚化健身者，不抢镜
+【角色】单女主@图片1；脸型、五官和身材比例严格参考图片。深色长发扎成自然低丸子头，两侧留少量碎发；穿深炭灰色长袖修身短款亨利领运动上衣、灰色高腰修身运动裤、白色罗纹中筒袜、米白色厚底运动鞋
+【声音】无对白、无字幕；节奏清晰的运动电子音乐，杠铃片碰撞声、器械滑轨声、呼吸声与跑步机脚步声精准踩点
+
+[00:00-00:02.25] 镜头1：杠铃硬拉·由局部推进人物（Deadlift Reveal）
+第一帧直接使用低机位特写：女主双手正握杠铃，双脚约与髋同宽，米白色运动鞋稳稳踩在黑色橡胶地面上，杠铃两侧安装相同尺寸的黑色重量片。
+
+女主保持背部自然平直，双脚压住地面，杠铃紧贴小腿向上移动。镜头沿杠铃杆由下向上跟拍（Vertical Tracking），依次经过双手、灰色高腰运动裤、深炭灰色短款上衣，最终来到女主面部。
+
+她通过腿部和髋部同时发力站直，杠铃沿小腿和大腿近距离上升；到达最高点时身体直立、肩膀自然下沉，不夸张后仰。
+
+切面部近景：女主目光集中看向前方，嘴唇微张，短促呼出一口气；额头和脸颊带有少量真实运动汗水。
+
+杠铃在最高点短暂停留，重量片产生轻微晃动，配合一声低沉的金属碰撞。
+
+[00:02.25-00:03.33] 镜头2：第二次硬拉·完整动作（Full Deadlift）
+硬切至侧后方全身中景，女主与完整杠铃同时入画。
+
+女主先向后推髋并弯曲膝盖，身体下降，双手稳定握住杠铃；随后双脚发力，杠铃离开地面，沿着小腿和大腿平稳上升。
+
+完整表现：
+
+向后推髋并降低身体；
+双手握紧杠铃；
+杠铃离开地面；
+杠铃贴近双腿上升；
+女主站直；
+杠铃在大腿前方短暂停顿。
+
+女主全程保持身体稳定，目光向前，头部不随杠铃上下晃动。
+
+[00:03.33-00:04.08] 镜头3：硬拉力量特写（Power Close-up）
+切换至低角度侧后方近景。
+
+女主开始下一次硬拉。镜头重点表现杠铃贴近腿部向上移动、运动裤布料随着肌肉发力产生轻微拉伸，以及重量片受到惯性影响产生的短促震动。
+
+女主站直的一刻精准踩中音乐重拍，随后立即硬切至下一项训练。
+
+[00:04.08-00:05.29] 镜头4：杠铃臀推（Barbell Hip Thrust）
+女主上背部靠在平板训练凳边缘，双脚踩稳地面，膝盖弯曲；一根带有保护垫的杠铃横放在髋部。
+
+低机位侧拍：女主从髋部较低的位置开始，双脚向下发力，把髋部和杠铃稳定推高。
+
+到达最高点时，肩膀、髋部与膝盖形成稳定斜线。髋部短暂停顿，随后控制杠铃缓慢下降。
+
+在约1.2秒内完成一次清楚的臀推动作，不能快速弹跳，不能过度拱腰。双手始终自然扶住杠铃保护垫。
+
+[00:05.29-00:06.70] 镜头5：倒蹬机第一角度（Leg Press）
+女主坐进倾斜式倒蹬机，背部和头部贴住黑色靠垫，双手握住座椅两侧把手。
+
+侧面中景：双脚约与肩同宽踩在踏板中央，米白色厚底运动鞋和白色中筒袜清晰可见。
+
+女主先控制踏板下降，双膝向身体靠近；到达舒适深度后立即反向发力，把踏板平稳推远。
+
+双腿接近伸直时保留轻微弯曲，不完全锁死膝盖。完成一次完整的“屈膝下降→双脚发力→踏板上升”，器械滑轨产生真实机械声。
+
+[00:06.70-00:08.45] 镜头6：倒蹬机连续训练（Leg Press Rhythm）
+切换到更低、更靠近脚部的侧面机位。
+
+女主继续完成两次节奏清楚的倒蹬：
+
+第一次以中等速度下降和推出；
+第二次随着音乐加快，下降稍快、推出更加有力。
+
+镜头重点表现膝盖屈伸、鞋底压住踏板和倾斜滑轨移动。女主的臀部、背部与头部始终贴住靠垫，不能离开座椅。
+
+最后一次推出后，双腿在安全范围内保持约0.2秒，音乐短暂停顿，随即切换到跑步机。
+
+[00:08.45-00:09.50] 镜头7：跑步机脚步卡点（Treadmill Footwork）
+跑步机履带超近特写。
+
+米白色厚底运动鞋交替落在快速向后移动的黑色履带上，白色罗纹中筒袜和灰色运动裤裤脚清晰可见。
+
+左右脚按照音乐节拍连续落地，鞋底每次接触履带后迅速蹬离；其中一个瞬间双脚短暂同时离开履带，形成自然的跑步悬空状态。
+
+镜头贴近履带低角度跟拍（Low-angle Tracking），表现真实脚步冲击、鞋底压缩和履带运动。
+
+[00:09.50-00:10.67] 镜头8：跑步中的面部特写（Running Close-up）
+镜头从跑步鞋快速向上摇至女主上半身与面部。
+
+女主保持稳定跑步节奏，双臂在身体两侧自然前后摆动，肩膀放松；短款上衣和运动裤随着跑动产生细微自然褶皱。
+
+切面部近景：几缕碎发随着跑动轻轻摆动，女主目光看向前方，嘴唇微张、呼吸稍快，脸颊带有少量真实汗水。
+
+动作保持自然克制，不看镜头，不摆拍。
+
+[00:10.67-00:12.00] 镜头9：训练结束·镜前自拍（Mirror Selfie）
+快速硬切至健身房镜前自拍。
+
+女主站在镜子正前方，身体略微侧向镜面，一只手在胸前举着手机拍摄；手机位置低于眼睛，不完全遮住脸。
+
+另一只手向镜子举起大拇指。女主先轻轻抿嘴，随后露出克制满意的微笑，肩膀放松，胸口随着训练后的呼吸轻微起伏。
+
+镜头由上半身缓慢拉远至大腿位置，展示深炭灰色长袖短款上衣、灰色高腰运动裤和自然低丸子头造型。
+
+最后0.4秒保持竖起大拇指的姿势，女主通过镜面看向手机屏幕，定格结束。
+
+【动作与连续性要求】
+训练顺序固定：杠铃硬拉→杠铃臀推→倒蹬机→跑步机→镜前自拍。
+杠铃硬拉必须让杠铃贴近小腿和大腿上升，不能变成深蹲、杠铃划船或挺举。
+臀推必须由髋部带动杠铃上下移动，不能生成成卧推。
+倒蹬必须让踏板沿倾斜滑轨运动，人物身体不能在器械上滑动。
+跑步机履带持续向后运动，女主身体保持在跑步机中央。
+每次切换器械使用音乐重拍硬切，不使用烟雾、粒子或身体变形转场。
+
+【负面约束】
+不要第二名主要角色，不要教练辅助，不要复制女主。
+不要人物换脸、发型改变、服装变色或上下装漂移。
+不要多余手臂、多余腿、多余手指、双脚粘连或关节反向弯曲。
+不要杠铃穿过身体、重量片改变数量、器械变形或踏板漂浮。
+不要严重弓背、膝盖内扣、臀推过度拱腰或倒蹬完全锁死膝盖。
+不要让运动动作失去负重感，不要慢吞吞摆拍。
+不要复杂镜面重复人物，不要镜中出现额外女主或错误动作。
+不要对白、字幕、标题、健身数据贴纸、Logo、水印或乱码文字。
+不要动漫、卡通、塑料CG皮肤、过度磨皮或夸张汗水特效。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/johnagi168-seedance-ai-556a7495c74b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance Cinematic Breakup Performance Prompt
 
@@ -19,6 +159,66 @@ This page: cases 610–633 of 633.
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-3b9beb9a46d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take
+
+> A 30-second continuous bodycam raid in four stages: breach, clear, find a pineapple pizza production line, restrain the suspects. Gear, floor plan, lighting and ambience are all locked down.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2088036921184223468) | **Published:** 2026-08-13 | **Heat:** 20
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 79.8) · [output](https://media.goodcase.ai/retests/seedance-2-5-d68024212dfc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (38 lines, click to expand)</b></summary>
+
+```
+【生成目标】
+Generate a continuous 30-second single-take bodycam video. Core subject is an FBI tactical agent’s first-person POV during a high-risk residential raid. Main event is a real-time dynamic entry and room-clearing operation that ends with the discovery of an active pineapple-on-pizza production line inside a dirty kitchen.
+
+【阶段一 0-6s】
+开始时：Night exterior, rundown two-story house on a neglected urban street under sparse sodium streetlights. Bodycam is chest-mounted on the point agent, slight wide-angle distortion, natural handheld micro-shake. Three other FBI agents in full dark tactical gear with visible FBI patches are stacked tight against the wall beside a weathered front door. Agent’s gloved hands are visible at the bottom of frame holding a ballistic shield and the door-breaching tool.
+主要事件：Loud verbal announcement “FBI! Search warrant!” followed by immediate forced entry. Door is driven open with a single controlled ram strike; the team surges inside in a tight stack.
+结束时：Bodycam crosses the threshold into a dim, cluttered living room. Doorframe still visible at the edges of frame.
+
+【阶段二 6-15s】
+承接上一阶段：Same continuous bodycam POV, same agents, same identity and gear. No cuts.
+主要事件：Fast room clearing through the living area and short hallway. Several disheveled, pale, thin individuals (junkie appearance) are scattered on sofas, floor and against walls. Agents issue clear commands “Hands where I can see them! Get down!” while moving past. Two suspects are already being secured on the floor with hands behind their backs; plastic restraints are applied. Bodycam advances steadily, scanning left and right, flashlight beam briefly cutting across dirty walls and scattered trash.
+结束时：Bodycam reaches the kitchen doorway. Harsh fluorescent kitchen light is now visible ahead.
+
+【阶段三 15-24s】
+承接上一阶段：Unbroken first-person movement into the kitchen. Same agents remaining in formation behind and to the sides.
+主要事件：Kitchen is brightly lit by overhead fluorescents and under-cabinet lights yet extremely dirty. Thick white flour covers every counter surface, the floor, the fronts of cabinets and the clothing of the people inside. Four individuals stand at a large central work table and along the counters, actively slicing fresh pineapple rings with knives and placing the slices onto raw pizza dough bases. Flour dust hangs in the air. Agents flood the room, weapons low but ready, shouting “Nobody move! Hands up! Step away from the table!”
+结束时：All four kitchen workers have raised empty hands. Flour-covered pizza dough and cut pineapple pieces remain clearly visible on the table directly in front of the bodycam.
+
+【阶段四 24-30s】
+承接上一阶段：Same continuous bodycam, same lighting and spatial layout.
+主要事件：Agents begin securing the kitchen workers one by one, guiding their hands behind their backs and applying restraints. Bodycam slowly pans across the work surface, lingering on the flour-dusted dough, the open cans of pineapple, the knives, and the half-assembled pineapple pizzas. Radio chatter is audible in the background confirming “Kitchen clear, subjects in custody.”
+结束时：Final frame holds on a close view of a flour-covered hand being restrained next to a pizza topped with fresh pineapple slices. Bodycam remains steady but still shows natural micro-movement.
+
+【视觉风格与摄影】
+Authentic real-world bodycam footage only. Continuous single take, no cuts, no slow-motion, no cinematic grading. Slight wide-angle lens distortion, natural motion blur on rapid movement, realistic handheld sway and vertical bob from walking. Exterior is low-key sodium-vapor night lighting with visible grain; interior is harsh, uneven fluorescent practical lighting that keeps everything clearly visible yet still gritty and dirty. Clothing, faces, and environments stay consistent and photorealistic throughout.
+
+【音频】
+No music. No subtitles.
+Language: American English.
+Clear radio and verbal commands in natural American law-enforcement cadence:
+{FBI! Search warrant!}
+{Hands where I can see them! Get down!}
+{Nobody move! Hands up!}
+{Kitchen clear, subjects in custody.}
+Realistic ambience only: heavy breathing, boot steps on dirty floors, door impact, plastic restraint zip sounds, distant radio static, kitchen ambient noise of knives on cutting boards and flour being disturbed. Keep all dialogue, footsteps and room tone natural and continuous.
+
+【保持一致】
+Single continuous first-person bodycam POV of one FBI agent for the entire 30 seconds. Agent count, tactical gear, house layout, lighting direction and the exact number of kitchen workers remain stable. No violence, no blood, no weapons discharged. The only “contraband” activity is the preparation of pineapple pizza under a layer of flour.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Sailed Ship Warriors Battle a Whirlpool Giant
 

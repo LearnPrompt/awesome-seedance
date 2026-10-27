@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 87
+- Seedance 2.5 · creator: @eshal__ai · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · A Journey Through Poland's Landscapes and Culture
 
-- Seedance 2.0 · creator: @KinasRemek · heat: 83
+- Seedance 2.0 · creator: @KinasRemek · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-celem-jest-wykonanie-maksymalnie-90-sekundowego-klipu-promocyjnego-pod-tytu-11f2fef80247) · [finished media](https://media.goodcase.ai/cases/3fb2f495050f.mp4) · [poster](https://media.goodcase.ai/cases/f9e8f51d5d01.jpg) · [original source](https://x.com/KinasRemek/status/2102728913579327722)
 - Summary: "Poland is so beautiful" 🇵🇱 Opus 5.5 - jako orkiestrator i mózg operacji. Tym razem najnowszy model Claude Opus 5.5 ma za zadanie wyprodukować klip video prom…
 
@@ -47,7 +47,7 @@ Zadanie: Model ma wykonać zadanie bzez pomoicy ze strony człowieka.
 
 ## E3 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 81 · stability: 85
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 80 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
 - Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
 
@@ -83,7 +83,7 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 
 ## E4 · Her Autumn Day in the City
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 78
+- Seedance 2.5 · creator: @Chaemate_ · heat: 77
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
 - Summary: city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
 
@@ -209,7 +209,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 
 ## E8 · Mediterranean Hillside Villa Interior and Aerial Tour
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 73 · stability: 86
+- Seedance 2.0 · creator: @noorlewisx · heat: 72 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
 - Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
 

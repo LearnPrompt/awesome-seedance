@@ -15,7 +15,7 @@
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 103 | 11 |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 97 | 5 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 102 | 5 |
 | [动作连续性编排](#action-continuity-choreography) | 94 | 7 |
 | [产品广告镜头](#product-ad-shot-design) | 72 | 3 |
 | [电影感旅行漫游](#travel-city-walk) | 66 | 4 |
@@ -24,12 +24,12 @@
 | [早年 DV 家庭录像](#retro-dv-home-video) | 46 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 45 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 41 | 0 |
-| [反转搞笑短片](#twist-comedy-skit) | 39 | 1 |
+| [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
 | [恐怖悬疑短片](#horror-suspense-short) | 38 | 3 |
 | [美食特写与吃播 ASMR](#food-asmr) | 32 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 31 | 0 |
+| [3D 卡通角色短片](#3d-cartoon-character-short) | 29 | 1 |
 | [汽车与载具速度片](#vehicles-at-speed) | 28 | 0 |
-| [3D 卡通角色短片](#3d-cartoon-character-short) | 27 | 1 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 10 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-97 个案例，来自 67 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+102 个案例，来自 71 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -227,7 +227,7 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 > 所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。
 
-39 个案例，来自 29 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+40 个案例，来自 29 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
@@ -283,6 +283,22 @@ npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts
 
 暂时还没有创作者方法。
 
+<a id="3d-cartoon-character-short"></a>
+
+### 3D 卡通角色短片
+
+> 一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。
+
+29 个案例，来自 18 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
+```
+
+| 创作者 | 方法 | 案例 | 安装 | 页面 |
+| --- | --- | --- | --- | --- |
+| Zarnab_with_Ai | 3D 卡通角色短片 | 8 | `npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="vehicles-at-speed"></a>
 
 ### 汽车与载具速度片
@@ -296,22 +312,6 @@ npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
 ```
 
 暂时还没有创作者方法。
-
-<a id="3d-cartoon-character-short"></a>
-
-### 3D 卡通角色短片
-
-> 一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。
-
-27 个案例，来自 17 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
-```
-
-| 创作者 | 方法 | 案例 | 安装 | 页面 |
-| --- | --- | --- | --- | --- |
-| Zarnab_with_Ai | 3D 卡通角色短片 | 8 | `npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="cinematic-drama-scene"></a>
 

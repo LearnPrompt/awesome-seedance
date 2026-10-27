@@ -140,7 +140,7 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 ## E5 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25) · [finished media](https://media.goodcase.ai/cases/cd474162c3c0.mp4) · [poster](https://media.goodcase.ai/cases/9f5595620b50.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2106347953711661482)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
 
@@ -177,7 +177,7 @@ Important: Maintain identical character appearances, clothing, facial features, 
 
 ## E6 · A Little Girl Learns Fruits and Their English Names at Preschool
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041) · [finished media](https://media.goodcase.ai/cases/5a31f9968740.mp4) · [poster](https://media.goodcase.ai/cases/537cb34decad.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2108381024417993043)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
 
@@ -230,7 +230,7 @@ No scary elements, no distorted faces, no extra fingers, and no character change
 
 ## E7 · Seedance Two-Character 3D Cartoon: Little Butterfly
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 85 · stability: 86
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 84 · stability: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg) · [original source](https://x.com/ayzalnooor24521/status/2089559741718548578)
 - Summary: A little butterfly, a sweet flower, and a beautiful moment. Sometimes the smallest moments make the cutest memories. Cre
 
@@ -240,7 +240,7 @@ Create a cute cinematic 14-second 3D cartoon using the two reference characters,
 
 ## E8 · A Ketchup Mix-Up at an Italian Restaurant
 
-- Seedance 2.5 · creator: @Elvorya · heat: 83
+- Seedance 2.5 · creator: @Elvorya · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-high-quality-cinematic-3d-animated-restaurant-sequence-with-92b216cb0d21) · [finished media](https://media.goodcase.ai/cases/3120a05c7986.mp4) · [poster](https://media.goodcase.ai/cases/620edbf4016f.jpg) · [original source](https://x.com/Elvorya/status/2106974836887318797)
 - Summary: A little pasta, a lot of chaos 😂🍝 Created with seedance 2.5 Prompt: Create a 15-second high-quality cinematic 3D animated restaurant sequence with expressive …
 

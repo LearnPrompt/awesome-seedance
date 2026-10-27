@@ -15,7 +15,7 @@
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 97 | 5 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 102 | 5 |
 | [Action continuity choreography](#action-continuity-choreography) | 94 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
@@ -24,12 +24,12 @@
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
-| [Twist-ending comedy skit](#twist-comedy-skit) | 39 | 1 |
+| [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 31 | 0 |
+| [3D cartoon character short](#3d-cartoon-character-short) | 29 | 1 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 28 | 0 |
-| [3D cartoon character short](#3d-cartoon-character-short) | 27 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 10 | 0 |
@@ -68,7 +68,7 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-67 人のクリエイターによる 97 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+71 人のクリエイターによる 102 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -227,7 +227,7 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 > Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
 
-29 人のクリエイターによる 39 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+29 人のクリエイターによる 40 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
@@ -283,6 +283,22 @@ npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts
 
 クリエイターメソッドはまだありません。
 
+<a id="3d-cartoon-character-short"></a>
+
+### 3D cartoon character short
+
+> One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.
+
+18 人のクリエイターによる 29 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
+```
+
+| クリエイター | メソッド | ケース | インストール | ページ |
+| --- | --- | --- | --- | --- |
+| Zarnab_with_Ai | 3D cartoon character short | 8 | `npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="vehicles-at-speed"></a>
 
 ### Cars and vehicles at speed
@@ -296,22 +312,6 @@ npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
 ```
 
 クリエイターメソッドはまだありません。
-
-<a id="3d-cartoon-character-short"></a>
-
-### 3D cartoon character short
-
-> One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.
-
-17 人のクリエイターによる 27 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
-```
-
-| クリエイター | メソッド | ケース | インストール | ページ |
-| --- | --- | --- | --- | --- |
-| Zarnab_with_Ai | 3D cartoon character short | 8 | `npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="cinematic-drama-scene"></a>
 

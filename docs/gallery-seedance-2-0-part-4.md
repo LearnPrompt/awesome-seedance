@@ -1,10 +1,157 @@
 # Seedance 2.0 — Full Gallery (Part 4/4)
 
-All 301 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 302 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 284–301 of 301.
+This page: cases 281–302 of 302.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · **Part 4**
+
+### Emotional Kyoto Travel Vlog Animation
+
+> A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-4317b7fdff57.jpg" width="600" alt="Emotional Kyoto Travel Vlog Animation">](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @MrDasOnX | **Source:** [Original](https://x.com/MrDasOnX/status/2080908954079760476) | **Published:** 2026-07-25 | **Heat:** 3
+
+```
+<<<image_1>>> Animate each of the 12 frames into a smooth, connected emotional vlog. Natural handheld camera movement with gentle shake. Flow the scenes naturally: sakura walk → teahouse → Philosopher’s Path → torii gate → bamboo grove → street food → temple → bicycle ride → ryokan rest → rainy umbrella → Kamo River sunset → zen garden moment. Keep the woman’s graceful presence, flowing hair, and soft expressions. Add subtle cherry blossom petals drifting, gentle wind, and authentic ambient sounds. Cinematic color grading, nostalgic film look, 24fps, vertical phone-style aspect with slight letterboxing if needed. Emotional, peaceful travel vlog atmosphere.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Retro Soda Ad Crimson Cola
+
+> An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
+
+[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="Retro Soda Ad Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @DjajaYerry75 | **Source:** [Original](https://x.com/DjajaYerry75/status/2080666062690140315) | **Published:** 2026-07-24 | **Heat:** 3
+
+**Stability:** 84/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 84.3) · [output](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Tactile Papercut-Style Product Showcase
+
+> A luxury perfume product showcase prompt designed for Seedance 2.0, using a tactile papercut stop-motion style.
+
+[<img src="https://media.goodcase.ai/media/poster/case-7aea1313f63b.jpg" width="600" alt="Tactile Papercut-Style Product Showcase">](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @thesocialalpha_ | **Source:** [Original](https://x.com/thesocialalpha_/status/2073075642996777159) | **Published:** 2026-07-03 | **Heat:** 3
+
+<details>
+<summary><b>Full prompt (10 lines, click to expand)</b></summary>
+
+```
+Use @image1 as the exact final hero-frame composition. Use @image2 as the strict product identity lock.
+Animate like a premium tactile editorial paper-cut product reveal: layered cardstock pieces slide, fold, pop up, and settle with tiny stop-motion overshoot. Mostly locked camera, subtle tabletop parallax only. Physical paper shadows under every layer.
+PRODUCT LOCK: preserve the perfume bottle silhouette, white geometric lattice, aqua-blue inner body, square cap, central RAYHAAN plaque, front-facing readability, and luxury material finish from @image2.
+SHOT 1, 16:9, 6 seconds:
+0-1.2s: The Dubai paper city comes to life. Skyscrapers lift in staggered layers, small clouds slide, and aqua paper water waves shimmer forward.
+1.2-2.6s: The product folds into place. White panels flip inward, the aqua inner body slides behind the lattice, the cap drops on, and the bottle settles cleanly on the plinth.
+2.6-4.2s: Ingredients animate once around the product. Bergamot and lemon slices rotate gently, grapefruit blossoms open, Calone waves ripple, and sandalwood strips slide into a neat base.
+4.2-6s: The note cards fold in top-to-bottom: TOP “Bergamot, Lemon”, MIDDLE “Grapefruit blossom”, BASE “Calone, Sandalwood”. Preserve exact readable text. End fully settled on @image1.
+Sound design: crisp paper slides, dry cardstock flicks, soft paper taps, tiny adhesive-peel folds, subtle paper-water shimmer. No music, no voiceover, no extra captions.
+Constraints: no new text, no misspellings, no duplicated labels, no warped product, no melting or liquid morphing, no CGI camera flythrough, no hands, no people, no watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Rooftop Chase Action Phrase
+
+> A detailed action phrase for Seedance 2.0, describing a chase scene in which a character crouches on the edge of a rooftop under a spotlight and leaps across a gap.
+
+[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="Rooftop Chase Action Phrase">](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @LANDCASTER_92 | **Source:** [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | **Published:** 2026-07-26 | **Heat:** 2
+
+**Stability:** 70/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 69.8) · [output](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (47 lines, click to expand)</b></summary>
+
+```
+Urban Escape Scene
+
+Models ( GPT Image-2 + Seedance 2.0)
+
+Seedance Prompts 2/3
+
+MOTION PHRASES:
+
+P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
+
+P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
+
+P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+
+P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+
+P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+
+P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+
+P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+
+P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+
+P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+
+Seedance Prompts 3/3
+
+MOTION PHRASES:
+
+P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+
+P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+
+P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
+
+P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
+
+P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
+
+P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
+
+P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
+
+P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
+
+P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### FPV Drone Flight in New York
+
+> A hyperrealistic, highly cinematic drone flight prompt set in New York City, featuring complex FPV control techniques and golden-hour lighting effects.
+
+[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="FPV Drone Flight in New York">](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @KrevixAi | **Source:** [Original](https://x.com/KrevixAi/status/2081427105435255093) | **Published:** 2026-07-26 | **Heat:** 2
+
+**Stability:** 77/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 76.8) · [output](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Gladiator Arena Duel Action
 
@@ -243,24 +390,6 @@ Katana stays in her grip in all six cuts. Both pistols stay seated in the thigh 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c0cf557563b7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Luxury Salon Beauty Transformation
-
-> A high-speed dynamic commercial prompt for a beauty transformation, showing a glamorous shift from a casual look to an alluring evening gown through match cuts.
-
-[<img src="https://media.goodcase.ai/media/poster/case-d087761bf321.jpg" width="600" alt="Luxury Salon Beauty Transformation">](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @KrevixAi | **Source:** [Original](https://x.com/KrevixAi/status/2080960631180570913) | **Published:** 2026-07-25 | **Heat:** 2
-
-**Stability:** 77/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 76.8) · [output](https://media.goodcase.ai/retests/case-d087761bf321/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, hyper dynamic, seamless match cuts, speed ramps. Start in a bright minimalist studio with a static front-facing shot. A messy girl in an oversized gray T-shirt and round glasses stands with untidy hair, pale skin, tired expression, no makeup. Two black-gloved hands push her backward. Match cut: she lands in a luxury salon chair inside a dark premium salon. Camera switches to first-person stylist POV. Black cape on. Hair wash, shampoo massage, conditioner, rinse, towel dry. Hair is combed, sectioned, precision cut, textured, blow-dried with volume, softly curled, smoothed, finished with oil and shine spray. Makeup: primer, foundation, concealer, powder, contour, blush, highlighter, brows, soft eyeshadow, winged eyeliner, mascara, glossy red lips. Earrings added. Cape is pulled away, revealing a luxurious red evening dress. Final hair styling. The chair rotates to showcase the hairstyle, then returns front. Final reveal: a confident glamorous woman with flawless makeup, voluminous hair, sparkling earrings and radiant skin looks directly into the camera. Premium luxury beauty ad, perfect identity consistency, realistic hands, smooth motion, cinematic lighting, shallow depth of field, ultra-detailed skin and hair, 4K, no glitches, morphing, deformation, extra fingers or camera shake.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Ultra-Soothing ASMR Vlog
 
 > A lo-fi visual prompt that mimics the texture of a Mini DV camera, suitable for relaxing ASMR meditation vlogs in natural light.
@@ -278,6 +407,52 @@ CAMERA / LOOK: Propped Mini DV camera on a wooden deck ledge, surrounded by risi
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/asmr-vlog-db7f7a2ad923?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Multiverse Dimensional Portal Fall
+
+> A complex multi-portal journey prompt about a character falling through different dimensions, transforming from a realistic human into animated, voxel, and sci-fi versions.
+
+[<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="Multiverse Dimensional Portal Fall">](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @NababUddin2 | **Source:** [Original](https://x.com/NababUddin2/status/2079428121133240602) | **Published:** 2026-07-21 | **Heat:** 2
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+STYLE
+Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
+
+CHARACTER
+A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
+
+CAMERA
+Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
+
+LIGHTING
+Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
+
+TIMELINE
+
+0.0–4.0s | Scene 1
+Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
+8.0–12.0s | Scene 3
+He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
+12.0–16.0s | Scene 4
+Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
+16.0–20.0s | Scene 5
+He enters the final portal in one perfectly smooth transition. The environment transforms into a beautiful pastel-colored world with soft dreamy lighting, elegant architecture, colorful trees, and peaceful surroundings. His original casual outfit returns, reimagined in the same pastel artistic style. Still falling naturally, he looks at his hands, clothing, and surroundings in astonishment as life in every world continues normally, unaware of his journey. The sequence ends with him continuing his descent toward the vibrant landscape.
+DIRECTOR NOTES
+Maintain one continuous freefall throughout the entire sequence with accurate gravity, momentum, and natural body movement. Every portal transition should be fluid with no cuts or visual jumps. Each world should instantly transform around the character while preserving continuity. The character's appearance should adapt to each world's style while remaining instantly recognizable. Prioritize cinematic realism, believable reactions, and seamless world transitions.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Modern Dance Studio Music Video
 
@@ -377,52 +552,6 @@ anime style、10秒、one-take、カットなし。少女を主役として同�
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/dj-0f7bed87d7ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Multiverse Dimensional Portal Fall
-
-> A complex multi-portal journey prompt about a character falling through different dimensions, transforming from a realistic human into animated, voxel, and sci-fi versions.
-
-[<img src="https://media.goodcase.ai/media/poster/case-b8e777843103.jpg" width="600" alt="Multiverse Dimensional Portal Fall">](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @NababUddin2 | **Source:** [Original](https://x.com/NababUddin2/status/2079428121133240602) | **Published:** 2026-07-21 | **Heat:** 1
-
-**Stability:** 80/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80) · [output](https://media.goodcase.ai/retests/case-b8e777843103/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (24 lines, click to expand)</b></summary>
-
-```
-STYLE
-Ultra-realistic cinematic adventure, live-action quality, blockbuster filmmaking, photorealistic, seamless visual transitions, grounded physics, natural daylight, HDR, immersive storytelling.
-
-CHARACTER
-A handsome young adult male with short dark hair, athletic build, wearing a black jacket over a gray T-shirt, dark jeans, and sneakers. Natural facial expressions and believable reactions.
-
-CAMERA
-Shot on an ARRI Alexa 65 with anamorphic lenses. Smooth cinematic tracking, aerial camera movements, realistic motion blur, shallow depth of field, seamless transitions.
-
-LIGHTING
-Bright natural daylight with physically accurate sunlight, realistic shadows and atmospheric haze.
-
-TIMELINE
-
-0.0–4.0s | Scene 1
-Real life like realistic style, natural lighting, The man standing on the rooftop of a tall building overlooking a busy modern city. A massive glowing dimensional portal suddenly opens high in the sky beyond the rooftop in front of him. The camera smoothly circles behind him into an over-the-shoulder view. Curious, he begins running toward the mysterious phenomenon. As he reaches it, gravity suddenly shifts, lifting him off the rooftop and pulling him into the portal. He immediately enters a continuous high-speed freefall through an endless sky. His expression changes from curiosity to complete shock. 4.0–8.0s | Scene 2, Still falling with realistic body movement and accurate wind interaction, a glowing portal appears below him. He passes smoothly through it without interruption. Instantly, the entire environment transforms into a vibrant animated city. Buildings, streets, vehicles, people, and even the character become high-quality animation while preserving his hairstyle, facial features, and clothing design. He looks at his animated hands and outfit in amazement while continuing to fall naturally. Another glowing portal appears below.
-8.0–12.0s | Scene 3
-He falls through the next portal in one seamless motion. The world instantly transforms into a detailed voxel-style universe with block-built cities, roads, trees, clouds, vehicles, and people. His appearance changes into the same voxel style while keeping the same exact outfit and proportions. He continues falling with believable physics, examining his transformed body before spotting another portal beneath him.
-12.0–16.0s | Scene 4
-Passing through the next portal, everything transforms into a realistic futuristic sci-fi metropolis with advanced architecture, hovering vehicles, holographic displays, and cutting-edge technology. His clothing naturally changes into a sleek high-tech suit matching the environment, still his face and hands visible as the same character . Still falling continuously, he looks at his futuristic gloves and suit with disbelief while another glowing portal forms below.
-16.0–20.0s | Scene 5
-He enters the final portal in one perfectly smooth transition. The environment transforms into a beautiful pastel-colored world with soft dreamy lighting, elegant architecture, colorful trees, and peaceful surroundings. His original casual outfit returns, reimagined in the same pastel artistic style. Still falling naturally, he looks at his hands, clothing, and surroundings in astonishment as life in every world continues normally, unaware of his journey. The sequence ends with him continuing his descent toward the vibrant landscape.
-DIRECTOR NOTES
-Maintain one continuous freefall throughout the entire sequence with accurate gravity, momentum, and natural body movement. Every portal transition should be fluid with no cuts or visual jumps. Each world should instantly transform around the character while preserving continuity. The character's appearance should adapt to each world's style while remaining instantly recognizable. Prioritize cinematic realism, believable reactions, and seamless world transitions.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b8e777843103?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pixar-Style Milkshake Storyboard Animation
 
