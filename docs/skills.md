@@ -16,17 +16,17 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | --- | --- | --- |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 102 | 5 |
-| [Action continuity choreography](#action-continuity-choreography) | 94 | 7 |
+| [Action continuity choreography](#action-continuity-choreography) | 95 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 63 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
-| [Process and transformation story](#process-transformation-story) | 41 | 0 |
+| [Process and transformation story](#process-transformation-story) | 42 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
-| [Horror and suspense short](#horror-suspense-short) | 38 | 3 |
-| [Food close-ups and eating ASMR](#food-asmr) | 32 | 0 |
+| [Horror and suspense short](#horror-suspense-short) | 40 | 3 |
+| [Food close-ups and eating ASMR](#food-asmr) | 33 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 31 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 29 | 1 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 28 | 0 |
@@ -88,7 +88,7 @@ npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-94 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+95 cases from 64 creators · 7 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography
@@ -213,7 +213,7 @@ No creator methods yet.
 
 > Compress making or transformation into a readable story with a clear start, continuous steps, and end state.
 
-41 cases from 37 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+42 cases from 38 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
@@ -243,7 +243,7 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 
 > Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
 
-38 cases from 19 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+40 cases from 20 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
@@ -252,7 +252,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 | Creator | Method | Cases | Install | Page |
 | --- | --- | --- | --- | --- |
 | doctorwasif | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithSynthia | Horror and suspense short | 6 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AIwithSynthia | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | Horror and suspense short | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="food-asmr"></a>
@@ -261,7 +261,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 
 > Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
 
-32 cases from 26 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+33 cases from 26 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill food-asmr

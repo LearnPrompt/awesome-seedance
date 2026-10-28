@@ -404,7 +404,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 94,
+      "caseCount": 95,
       "creatorCount": 64,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
@@ -976,8 +976,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 41,
-      "creatorCount": 37,
+      "caseCount": 42,
+      "creatorCount": 38,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story",
       "url": "https://goodcase.ai/skills/process-transformation-story",
       "cover": "https://media.goodcase.ai/cases/11dbc9caba04.jpg"
@@ -1036,8 +1036,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 38,
-      "creatorCount": 19,
+      "caseCount": 40,
+      "creatorCount": 20,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
       "cover": "https://media.goodcase.ai/cases/faca8b99131c.jpg"
@@ -1071,12 +1071,12 @@
         "zh": "AIwithSynthia · 恐怖悬疑短片"
       },
       "description": {
-        "en": "A recurring horror and suspense short method derived from 6 published cases by AIwithSynthia.",
-        "zh": "从 AIwithSynthia 的 6 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
+        "en": "A recurring horror and suspense short method derived from 7 published cases by AIwithSynthia.",
+        "zh": "从 AIwithSynthia 的 7 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
       },
       "styleTag": null,
       "creator": "AIwithSynthia",
-      "caseCount": 6,
+      "caseCount": 7,
       "creatorCount": 1,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf",
@@ -1116,7 +1116,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 32,
+      "caseCount": 33,
       "creatorCount": 26,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill food-asmr",
       "url": "https://goodcase.ai/skills/food-asmr",
