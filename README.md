@@ -69,6 +69,7 @@ Cross-cutting skeletons that almost every other template builds on: how to slice
 
 ### 📱 Realism and UGC (4 templates)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 Templates that buy believability by describing camera flaws, body wear and consumer-grade optics instead of asking for quality.
 
 <table>
