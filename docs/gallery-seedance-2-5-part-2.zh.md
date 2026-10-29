@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 2/8 页）
 
-Seedance 2.5 全部 644 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 645 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 87–160 条，共 644 条。
+本页：第 87–160 条，共 645 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 
@@ -2815,6 +2815,37 @@ Negative prompt: cartoon, anime, low quality, blurry, face change, different per
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 韩国女孩在首尔老街迎接冬日初雪
+
+> First snow. Instant happiness. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Kor…
+
+[<img src="https://media.goodcase.ai/cases/6996e38a6eb3.jpg" width="600" alt="韩国女孩在首尔老街迎接冬日初雪">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-af75581b34cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2106251329085874184) | **发布:** 2026-10-03 | **热度:** 81
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman experiencing Seoul’s first snowfall of winter. Use the attached image as the character reference and keep her face, hairstyle, body proportions, outfit and identity consistent throughout.
+
+She notices the first snow from her window, excitedly grabs her coat and scarf, rushes outside and catches snowflakes in her hand. She runs briefly through the residential lane, crouches to make a tiny snowball, shows it proudly to the camera and tosses it. The snowball follows realistic gravity and breaks apart naturally on impact.
+
+She continues walking through the snowy older Seoul neighborhood, leaving believable footprints as snow gradually settles on bicycles, cars, rooftops and bushes. Her hair, scarf and coat move naturally in the winter breeze, with subtle visible breath in the cold air.
+
+At the end, she stops beneath a streetlight, looks into the camera, catches a snowflake in her palm and softly says, “First snow.” She smiles and walks away as the handheld camera follows.
+
+Authentic early-2000s consumer DV look: shaky handheld framing, autofocus hunting, slight exposure/white-balance shifts, soft digital detail, CCD noise, subtle interlacing, cool white balance, natural motion blur, limited dynamic range and occasional awkward zooms. The camera operator reacts imperfectly like a real home-video recording.
+
+Natural diegetic audio only: wind, footsteps crunching snow, breathing, doors, fabric movement, distant traffic, birds and neighborhood ambience. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.
+
+Negative prompt: inconsistent face, changing clothes, morphing, distorted hands, extra fingers, unnatural physics, floating snow, instant snowballs, impossible trajectories, teleportation, clipping, plastic skin, cinematic camera, excessive stabilization, commercial look, logos, watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-af75581b34cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 2.5 生成 GoPro 钓鱼到烤鱼全流程
 
 > 作者用 Seedance 2.5 生成 30 秒胸挂 GoPro 第一人称短片，以四段硬切完成抛竿、处理鳟鱼、篝火烧烤和进食；提示词锁定参考物、镜头焦段、动作、物理、光色与现场声音。
@@ -2929,6 +2960,154 @@ Photorealistic, ultra-detailed wind and hair physics, perfect motion blur only o
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-rollercoaster-wig-time-freeze?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 幼童帮兔子寻找三种水果
+
+> Made with Seedance 2.5 Prompt 👇 Create a high-quality 15-second vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme styl…
+
+[<img src="https://media.goodcase.ai/cases/89f1e48bc9f5.jpg" width="600" alt="幼童帮兔子寻找三种水果">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @abs_uiux | **来源:** [原帖](https://x.com/abs_uiux/status/2105238474387234897) | **发布:** 2026-09-30 | **热度:** 81
+
+<details>
+<summary><b>完整 prompt（83 行，点开展开）</b></summary>
+
+```
+Create a high-quality 15-second vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style.
+
+Main character:
+A cute 2-year-old toddler boy with chubby cheeks, big expressive brown eyes, short light-brown hair, a bright blue T-shirt, yellow shorts, and colorful sneakers. Keep his appearance perfectly consistent throughout the entire video.
+
+Story concept:
+The toddler discovers a glowing magical map and follows it on a very short learning adventure to help a cute rabbit find three missing fruits.
+
+0–3 sec — The Discovery
+
+The toddler is playing in a colorful room when a glowing rainbow map suddenly appears.
+
+The map shows three missing fruits:
+
+🍎 Apple
+🍌 Banana
+🍊 Orange
+
+A cute rabbit appears looking worried.
+
+The toddler points toward the map and excitedly begins the adventure.
+
+3–6 sec — Find the Apple
+
+Fast magical transition into a colorful fruit garden.
+
+A shiny red apple falls gently from a tree.
+
+The toddler catches it and smiles.
+
+Display large clear text:
+
+“APPLE 🍎”
+
+6–9 sec — Find the Banana
+
+The toddler runs a few steps and notices a bright yellow banana.
+
+He picks it up happily.
+
+Display:
+
+“BANANA 🍌”
+
+9–12 sec — Find the Orange
+
+A bright orange rolls across the grass toward the toddler.
+
+He stops it with both hands and laughs.
+
+Display:
+
+“ORANGE 🍊”
+
+12–15 sec — Happy Ending
+
+The toddler places all three fruits into the rabbit’s basket.
+
+The rabbit jumps happily.
+
+A colorful rainbow appears behind them.
+
+The toddler and rabbit wave toward the camera.
+
+Display:
+
+“Great Job! 🌈”
+
+Animation:
+Fast but smooth storytelling, natural toddler movements, expressive reactions, accurate hand-object interaction, playful running, picking up fruit, smiling, pointing, and waving.
+
+Camera:
+Vertical 9:16, quick child-height tracking shots, gentle push-ins, clear close-ups of each fruit, smooth magical transitions, no confusing cuts.
+
+Visual style:
+Premium polished 3D children’s animation, vibrant colors, soft cinematic lighting, glossy surfaces, cute rounded shapes, cheerful preschool atmosphere, clean backgrounds, expressive character animation.
+
+Important:
+Keep the entire video within 15 seconds.
+Use only one main action per shot.
+Keep text large and readable.
+Do not overcrowd scenes.
+No character morphing, extra fingers, duplicated objects, inconsistent clothing, flickering, warped fruit, or sudden background changes.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 粉发女孩的慵懒游乐场漫游
+
+> That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
+
+[<img src="https://media.goodcase.ai/cases/d031a8c7bd1d.jpg" width="600" alt="粉发女孩的慵懒游乐场漫游">](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100983315381829840) | **发布:** 2026-09-18 | **热度:** 81
+
+**稳定度：** 85/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (84.5 分) · [产物](https://media.goodcase.ai/retests/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（25 行，点开展开）</b></summary>
+
+```
+That's me all the time at home, lazy ass
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high detail, natural outdoor lighting, slightly melancholic and dreamy atmosphere, soft color grade with muted greens, concrete greys, and pastel pinks. Consistent single female character throughout every shot. 
+Character (lock this identity):
+Young East-Asian woman @[Image 1](image_1), mid-20s, long straight pastel-pink hair with darker roots and lighter tips, fair skin, delicate makeup with reddish lips, slightly tired or distant expression. Wearing a light-green denim baseball cap decorated with a row of white pearls along the brim. Light-green cropped ribbed knit sweater with black ribbon bows tied along both sleeves. pink-and-white plaid flannel shirt tied around her waist. Baggy light-wash distressed jeans. Small silver necklace. Occasional black backpack in later shots. Same face, hair length, outfit, and body proportions in every scene.
+Shot sequence (smooth cuts, slow camera moves, 2–4 seconds each):
+Medium-wide: She lies on her side on weathered grey concrete stadium steps, head resting against the riser, one arm along the step, looking softly at camera. Background: empty sandy sports field and distant people.
+Medium: She hangs from the top white crossbar of a soccer goal, both hands gripping the bar, body dangling in front of the net, looking straight at camera. Green hills and a second goal in the background.
+Medium: She is inside a stainless-steel cage packed with orange basketballs, eyes closed, cheek resting on a basketball as if sleeping. Soft natural light.
+Medium: She reclines against a colorful red-yellow-green playground tube slide, eyes half-closed or looking down, same outfit, playground equipment and trees behind.
+Medium-wide: She sits still on a chain swing in a playground, looking down, legs hanging, empty swing beside her. Blue rubber flooring, red and blue poles.
+Medium-wide: She sits on a low concrete wall in the playground, an orange traffic cone placed on her head like a hat, staring forward with a blank expression. Colorful play structures and trees behind.
+Medium: Outdoor ping-pong table. She stands holding a red-and-black paddle, then leans forward and rests her head and arms on the blue table surface, paddle still in hand, looking sideways at camera.
+Medium close: She stands at a stainless-steel outdoor drinking fountain, presses the button, water arcs up; she leans in as if to drink, then looks down at the basin.
+Wide then medium: Large concrete stadium steps with metal railings and trees. She walks slowly past a black backpack on a step, stops, looks up at the sky, then sits and leans back against the steps, eyes closed or looking upward, legs extended.
+Camera & motion:
+Slow pans and gentle dollies, shallow-to-medium depth of field, natural handheld-but-stable feel. Soft overcast or late-afternoon light. Subtle wind in hair and clothes. No fast cuts, no zooms that break character consistency.
+Mood & audio suggestion:
+Quiet, introspective, slightly surreal “lost in thought” feeling. Pair with the Indonesian song snippet “Pikiranku tak dapat ku mengerti / kaki di kepala kepala di kaki…” (Peterpan / Noah – Di Atas Normal) or a similar melancholic indie track. Soft ambient outdoor sound (distant voices, wind, faint playground noise).
+Quality tags:
+Photorealistic, 4K, cinematic lighting, consistent character, natural skin texture, fabric detail on sweater and jeans, realistic physics on hanging/sitting/leaning poses.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女高中生盗取钻石项链逃上列车
 
@@ -3106,37 +3285,6 @@ STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 韩国女孩在首尔老街迎接冬日初雪
-
-> First snow. Instant happiness. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Kor…
-
-[<img src="https://media.goodcase.ai/cases/6996e38a6eb3.jpg" width="600" alt="韩国女孩在首尔老街迎接冬日初雪">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-af75581b34cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @nawalsehar | **来源:** [原帖](https://x.com/nawalsehar/status/2106251329085874184) | **发布:** 2026-10-03 | **热度:** 80
-
-<details>
-<summary><b>完整 prompt（13 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-photorealistic early-2000s Korean DV-camcorder home video of a young Korean woman experiencing Seoul’s first snowfall of winter. Use the attached image as the character reference and keep her face, hairstyle, body proportions, outfit and identity consistent throughout.
-
-She notices the first snow from her window, excitedly grabs her coat and scarf, rushes outside and catches snowflakes in her hand. She runs briefly through the residential lane, crouches to make a tiny snowball, shows it proudly to the camera and tosses it. The snowball follows realistic gravity and breaks apart naturally on impact.
-
-She continues walking through the snowy older Seoul neighborhood, leaving believable footprints as snow gradually settles on bicycles, cars, rooftops and bushes. Her hair, scarf and coat move naturally in the winter breeze, with subtle visible breath in the cold air.
-
-At the end, she stops beneath a streetlight, looks into the camera, catches a snowflake in her palm and softly says, “First snow.” She smiles and walks away as the handheld camera follows.
-
-Authentic early-2000s consumer DV look: shaky handheld framing, autofocus hunting, slight exposure/white-balance shifts, soft digital detail, CCD noise, subtle interlacing, cool white balance, natural motion blur, limited dynamic range and occasional awkward zooms. The camera operator reacts imperfectly like a real home-video recording.
-
-Natural diegetic audio only: wind, footsteps crunching snow, breathing, doors, fabric movement, distant traffic, birds and neighborhood ambience. No music, narration, subtitles, CGI, beauty filters, cinematic grading, slow motion or polished camera movement.
-
-Negative prompt: inconsistent face, changing clothes, morphing, distorted hands, extra fingers, unnatural physics, floating snow, instant snowballs, impossible trajectories, teleportation, clipping, plastic skin, cinematic camera, excessive stabilization, commercial look, logos, watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-af75581b34cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 韩国女生户外泳池 Vlog
 
 > 一段充满 2000 年代怀旧 DV 摄像机风格的 Vlog，记录了一位年轻韩国女生在安静的社区泳池享受阳光午后的时光。
@@ -3169,107 +3317,6 @@ Goal: A playful, refreshing pool afternoon cheerful, light, authentic.
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-9decd38e99a4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 幼童帮兔子寻找三种水果
-
-> Made with Seedance 2.5 Prompt 👇 Create a high-quality 15-second vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme styl…
-
-[<img src="https://media.goodcase.ai/cases/89f1e48bc9f5.jpg" width="600" alt="幼童帮兔子寻找三种水果">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @abs_uiux | **来源:** [原帖](https://x.com/abs_uiux/status/2105238474387234897) | **发布:** 2026-09-30 | **热度:** 80
-
-<details>
-<summary><b>完整 prompt（83 行，点开展开）</b></summary>
-
-```
-Create a high-quality 15-second vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style.
-
-Main character:
-A cute 2-year-old toddler boy with chubby cheeks, big expressive brown eyes, short light-brown hair, a bright blue T-shirt, yellow shorts, and colorful sneakers. Keep his appearance perfectly consistent throughout the entire video.
-
-Story concept:
-The toddler discovers a glowing magical map and follows it on a very short learning adventure to help a cute rabbit find three missing fruits.
-
-0–3 sec — The Discovery
-
-The toddler is playing in a colorful room when a glowing rainbow map suddenly appears.
-
-The map shows three missing fruits:
-
-🍎 Apple
-🍌 Banana
-🍊 Orange
-
-A cute rabbit appears looking worried.
-
-The toddler points toward the map and excitedly begins the adventure.
-
-3–6 sec — Find the Apple
-
-Fast magical transition into a colorful fruit garden.
-
-A shiny red apple falls gently from a tree.
-
-The toddler catches it and smiles.
-
-Display large clear text:
-
-“APPLE 🍎”
-
-6–9 sec — Find the Banana
-
-The toddler runs a few steps and notices a bright yellow banana.
-
-He picks it up happily.
-
-Display:
-
-“BANANA 🍌”
-
-9–12 sec — Find the Orange
-
-A bright orange rolls across the grass toward the toddler.
-
-He stops it with both hands and laughs.
-
-Display:
-
-“ORANGE 🍊”
-
-12–15 sec — Happy Ending
-
-The toddler places all three fruits into the rabbit’s basket.
-
-The rabbit jumps happily.
-
-A colorful rainbow appears behind them.
-
-The toddler and rabbit wave toward the camera.
-
-Display:
-
-“Great Job! 🌈”
-
-Animation:
-Fast but smooth storytelling, natural toddler movements, expressive reactions, accurate hand-object interaction, playful running, picking up fruit, smiling, pointing, and waving.
-
-Camera:
-Vertical 9:16, quick child-height tracking shots, gentle push-ins, clear close-ups of each fruit, smooth magical transitions, no confusing cuts.
-
-Visual style:
-Premium polished 3D children’s animation, vibrant colors, soft cinematic lighting, glossy surfaces, cute rounded shapes, cheerful preschool atmosphere, clean backgrounds, expressive character animation.
-
-Important:
-Keep the entire video within 15 seconds.
-Use only one main action per shot.
-Keep text large and readable.
-Do not overcrowd scenes.
-No character morphing, extra fingers, duplicated objects, inconsistent clothing, flickering, warped fruit, or sudden background changes.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 缘一 VS 百鬼 ⚔️💥
 
@@ -3630,53 +3677,6 @@ The panel, divider lines, captions, crown icons and wordmark stay perfectly fixe
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 粉发女孩的慵懒游乐场漫游
-
-> That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
-
-[<img src="https://media.goodcase.ai/cases/d031a8c7bd1d.jpg" width="600" alt="粉发女孩的慵懒游乐场漫游">](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100983315381829840) | **发布:** 2026-09-18 | **热度:** 80
-
-**稳定度：** 85/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (84.5 分) · [产物](https://media.goodcase.ai/retests/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（25 行，点开展开）</b></summary>
-
-```
-That's me all the time at home, lazy ass
-
-Seedance 2.5 on @TapNow_AI 
-
-Prompt
-
-Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high detail, natural outdoor lighting, slightly melancholic and dreamy atmosphere, soft color grade with muted greens, concrete greys, and pastel pinks. Consistent single female character throughout every shot. 
-Character (lock this identity):
-Young East-Asian woman @[Image 1](image_1), mid-20s, long straight pastel-pink hair with darker roots and lighter tips, fair skin, delicate makeup with reddish lips, slightly tired or distant expression. Wearing a light-green denim baseball cap decorated with a row of white pearls along the brim. Light-green cropped ribbed knit sweater with black ribbon bows tied along both sleeves. pink-and-white plaid flannel shirt tied around her waist. Baggy light-wash distressed jeans. Small silver necklace. Occasional black backpack in later shots. Same face, hair length, outfit, and body proportions in every scene.
-Shot sequence (smooth cuts, slow camera moves, 2–4 seconds each):
-Medium-wide: She lies on her side on weathered grey concrete stadium steps, head resting against the riser, one arm along the step, looking softly at camera. Background: empty sandy sports field and distant people.
-Medium: She hangs from the top white crossbar of a soccer goal, both hands gripping the bar, body dangling in front of the net, looking straight at camera. Green hills and a second goal in the background.
-Medium: She is inside a stainless-steel cage packed with orange basketballs, eyes closed, cheek resting on a basketball as if sleeping. Soft natural light.
-Medium: She reclines against a colorful red-yellow-green playground tube slide, eyes half-closed or looking down, same outfit, playground equipment and trees behind.
-Medium-wide: She sits still on a chain swing in a playground, looking down, legs hanging, empty swing beside her. Blue rubber flooring, red and blue poles.
-Medium-wide: She sits on a low concrete wall in the playground, an orange traffic cone placed on her head like a hat, staring forward with a blank expression. Colorful play structures and trees behind.
-Medium: Outdoor ping-pong table. She stands holding a red-and-black paddle, then leans forward and rests her head and arms on the blue table surface, paddle still in hand, looking sideways at camera.
-Medium close: She stands at a stainless-steel outdoor drinking fountain, presses the button, water arcs up; she leans in as if to drink, then looks down at the basin.
-Wide then medium: Large concrete stadium steps with metal railings and trees. She walks slowly past a black backpack on a step, stops, looks up at the sky, then sits and leans back against the steps, eyes closed or looking upward, legs extended.
-Camera & motion:
-Slow pans and gentle dollies, shallow-to-medium depth of field, natural handheld-but-stable feel. Soft overcast or late-afternoon light. Subtle wind in hair and clothes. No fast cuts, no zooms that break character consistency.
-Mood & audio suggestion:
-Quiet, introspective, slightly surreal “lost in thought” feeling. Pair with the Indonesian song snippet “Pikiranku tak dapat ku mengerti / kaki di kepala kepala di kaki…” (Peterpan / Noah – Di Atas Normal) or a similar melancholic indie track. Soft ambient outdoor sound (distant voices, wind, faint playground noise).
-Quality tags:
-Photorealistic, 4K, cinematic lighting, consistent character, natural skin texture, fabric detail on sweater and jeans, realistic physics on hanging/sitting/leaning poses.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 月光池塘里的迷你青蛙大厨
 
@@ -5440,6 +5440,66 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 少女以异能摧毁坦克军团
+
+> ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
+
+[<img src="https://media.goodcase.ai/cases/e28bdc9038b1.jpg" width="600" alt="少女以异能摧毁坦克军团">](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2101205826895827053) | **发布:** 2026-09-19 | **热度:** 77
+
+<details>
+<summary><b>完整 prompt（42 行，点开展开）</b></summary>
+
+```
+GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
+
+SCENE 1 — 0:00–0:02.5
+Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
+
+SCENE 2 — 0:02.5–0:04.5
+The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
+
+SCENE 3 — 0:04.5–0:07
+Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
+
+SCENE 4 — 0:07–0:09.5
+Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
+
+SCENE 5 — 0:09.5–0:11.5
+The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
+
+SCENE 6 — 0:11.5–0:14
+A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
+
+SCENE 7 — 0:14–0:16.5
+Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
+
+SCENE 8 — 0:16.5–0:19
+Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
+
+SCENE 9 — 0:19–0:21.5
+The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
+
+SCENE 10 — 0:21.5–0:24
+A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
+
+SCENE 11 — 0:24–0:26
+Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
+
+SCENE 12 — 0:26–0:27.5
+Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
+
+NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
+
+#Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
+@Flovaai @itsPolloAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 模特与穿搭单品同步旋转展示
 
 > Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…
@@ -5628,82 +5688,6 @@ Photorealistic fur detail combined with stylized 3D animation, cinematic composi
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-71bc731fe900?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 吉隆坡崩塌都市极限逃生
-
-> When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
-
-[<img src="https://media.goodcase.ai/cases/a4fc7d20210a.jpg" width="600" alt="吉隆坡崩塌都市极限逃生">](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2097267405399396457) | **发布:** 2026-09-08 | **热度:** 77
-
-<details>
-<summary><b>完整 prompt（58 行，点开展开）</b></summary>
-
-```
-TITLE: THE SURVIVAL RUN
-
-Create a single-page, premium Hollywood disaster-action storyboard in 16:9 widescreen format with 12 cinematic panels covering one continuous 30-second survival sequence.
-
-REFERENCE IMAGE 1 (Image1):
-Use as the EXACT main character reference. Maintain the same facial identity, hairstyle, beard, body proportions, black shirt, black pants and overall appearance consistently in every panel. No character, face, hairstyle or clothing changes. Dust and debris may gradually appear as the disaster progresses.
-
-REFERENCE IMAGE 2 (Image2):
-Use as the EXACT storyboard design and layout reference. Match its premium cinematic panel arrangement, numbering, timecodes, black caption strips, typography hierarchy, borders and professional Hollywood storyboard presentation.
-
-STYLE:
-Photorealistic live-action Hollywood disaster film, ARRI Alexa 35, anamorphic cinematic lens, realistic Kuala Lumpur, Malaysia, practical stunt realism, believable destruction physics, handheld tracking, cinematic lighting, motion blur, dust, shattered glass, sparks and realistic debris.
-
-CORE RULE:
-ONE CONTINUOUS SURVIVAL SHOT. Every movement must logically connect. No teleportation or unexplained location changes. The same man constantly runs, stumbles, recovers, jumps, slides and changes direction while the collapsing city becomes the antagonist.
-
-STORYBOARD PANELS:
-
-1. 00:00–00:03 — EARTHQUAKE
-Low-angle behind his feet as he runs through Kuala Lumpur. The ground shakes, buildings tremble, glass explodes and concrete crashes behind him. He looks back and accelerates.
-
-2. 00:03–00:06 — COLLAPSE
-Front tracking shot. A building façade collapses behind him. He changes direction and jumps over a metal barrier as debris destroys his original path.
-
-3. 00:06–00:09 — CAR IMPACT
-At an intersection, vehicles slide toward him. He dives at the last second, a car passes overhead, he rolls, recovers and keeps running.
-
-4. 00:09–00:12 — ROAD CRACK
-A huge fissure tears across the road. He runs onto a damaged car as a springboard and leaps across collapsing pavement.
-
-5. 00:12–00:15 — FALLING GLASS
-Side tracking shot. High-rise windows explode above him. Glass rains down as he shields his face and ducks beneath a falling sign.
-
-6. 00:15–00:18 — COLLAPSE
-A building collapses ahead. He spots a narrow gap, drops low and slides beneath falling debris, then emerges dusty and runs.
-
-7. 00:18–00:21 — VEHICLE CHAOS
-A bus crashes into cars. A spinning vehicle approaches. He jumps onto its hood, springs over the roof and lands on the opposite sidewalk.
-
-8. 00:21–00:24 — ELEVATED ROAD FAILURE
-An elevated road collapses ahead. He performs a desperate full-body gap jump, lands hard, rolls, recovers and runs.
-
-9. 00:24–00:27 — DEBRIS CHASE
-Heavy dust reduces visibility. Falling streetlights and concrete force sudden direction changes. He stumbles against a wall and pushes forward.
-
-10. 00:27–00:30 — FINAL COLLAPSE
-Camera faces him as he runs toward it. Massive buildings collapse behind him. He jumps a concrete barrier as a gigantic slab crashes down.
-
-11. FINAL SHOT — STILL RUNNING
-He emerges through a huge dust cloud, exhausted and covered in debris but clearly recognizable as Reference Image 1, still running toward camera.
-
-12. CUT TO BLACK
-Black screen with:
-“THE SURVIVAL RUN”
-“SOME DISASTERS YOU CAN’T OUTRUN”
-
-CAMERA:
-Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans and ground-level movement. Camera always follows his momentum. No drones, floating cameras or impossible rotations.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)

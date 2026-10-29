@@ -1732,63 +1732,13 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Hand-Drawn Stop Motion: Blizzard Scene
-
-> A refined stop-motion animation prompt designed for Seedance 2.0, aiming to present a hand-drawn 2D style and depict a wolf pack attacking a Kazakh yurt camp in a blizzard.
-
-[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="Hand-Drawn Stop Motion: Blizzard Scene">](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @piotrbinkowski | **出典:** [元投稿](https://x.com/piotrbinkowski/status/2078515110855753844) | **公開日:** 2026-07-18 | **ヒート:** 13
-
-```
-Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Battle of the Frozen Planet Fortress
-
-> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
-
-[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080669361237303417) | **公開日:** 2026-07-24 | **ヒート:** 12
-
-**安定度:** 66/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.1) · [出力](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Mythic Warrior Cinematic VFX Showcase
-
-> An epic 3D animation prompt showing a golden Garuda-style warrior battling a celestial goddess, featuring advanced cinematic camera techniques and energy effects.
-
-[<img src="https://media.goodcase.ai/media/poster/vfx-47bf458a20a3.jpg" width="600" alt="Mythic Warrior Cinematic VFX Showcase">](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorwithwifi | **出典:** [元投稿](https://x.com/noorwithwifi/status/2079150941648150607) | **公開日:** 2026-07-20 | **ヒート:** 12
-
-**安定度:** 83/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83) · [出力](https://media.goodcase.ai/retests/vfx-47bf458a20a3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Garuda-like mythical warrior battling a celestial masked goddess above floating islands and glowing clouds. Demonstrate a sequence of cinematic camera techniques including extreme wide aerial shots, low-angle monster introductions, tracking circles, dynamic orbits, spirals, close-ups, and fast action angles as both characters unleash fiery orange and cyan energy attacks that culminate in a colossal mid-air beam clash and shockwave explosion. Display a 16-panel storyboard reference grid along the bottom of the screen labeled with each camera move and lens focal length, with the active camera technique highlighted by a glowing white border as the sequence progresses.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Realistic Male Influencer Storyboard
 
 > A comprehensive set of multi-scene video prompts designed to ensure character consistency across different locations and outfits, including fast cuts and handheld camera movement effects.
 
 [<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="Realistic Male Influencer Storyboard">](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Shorelyn_ | **出典:** [元投稿](https://x.com/Shorelyn_/status/2079066277650600170) | **公開日:** 2026-07-20 | **ヒート:** 12
+**作者:** @Shorelyn_ | **出典:** [元投稿](https://x.com/Shorelyn_/status/2079066277650600170) | **公開日:** 2026-07-20 | **ヒート:** 13
 
 <details>
 <summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
@@ -1826,6 +1776,74 @@ M-01. Hongdae Busking Street & Tattoo Shop Tour
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Hand-Drawn Stop Motion: Blizzard Scene
+
+> A refined stop-motion animation prompt designed for Seedance 2.0, aiming to present a hand-drawn 2D style and depict a wolf pack attacking a Kazakh yurt camp in a blizzard.
+
+[<img src="https://media.goodcase.ai/media/poster/case-0287a838e662.jpg" width="600" alt="Hand-Drawn Stop Motion: Blizzard Scene">](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @piotrbinkowski | **出典:** [元投稿](https://x.com/piotrbinkowski/status/2078515110855753844) | **公開日:** 2026-07-18 | **ヒート:** 13
+
+```
+Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAND-PAINTED 2D . True 12 frames per second, ANIMATED ON TWOS: 12 distinct hand-painted drawings per second, each pose held two frames then snapping to the next, never gliding. Constant painterly BOIL — brushstrokes and outlines subtly alive frame to frame. NO smooth interpolation, NO motion blur, NO morphing, real frame-by-frame animation not AI slop. Style from <<<image_1>>>, the yurt camp from <<<image_2>>>, the wolves from <<<image_3>>> — lean steppe wolves, coal-black with cold sheen, pale eyes. THE HERDSMAN from <<<image_4>>> (on foot). RIDER 1 from <<<image_5>>> riding HIS horse from <<<image_6>>> — keep this man and this horse together as one consistent pair. RIDER 2 from <<<image_7>>> riding HIS horse from <<<image_8>>> — a second consistent pair. Never mix the riders onto each other's horses. Atmospheric motion (blowing snow, blizzard haze) moves SMOOTHLY; figures, horses and wolves step on twos with secondary action. DIRECTOR'S NOTES: 1. THE SCENE — dusk, a blizzard rising over the Kazakh yurt camp. Wolves have come down on the herds. Panic erupts: THE HERDSMAN screams the alarm, men run, RIDER 1 is the first into the saddle and the first to tear out into the storm, RIDER 2 right behind him shouting orders. 2. RISING ENERGY — the sequence builds from dread to chaos: the dark wolf shapes at the herd, then the scream, then the explosive mounting and gallop. Each shot more energy than the last. 3. RIDER 1 IS THE LEAD — give RIDER 1 a clearly readable beat: he is the first to vault into the saddle of his horse (<<<image_6>>>) and the first to spur out of the camp, leading the charge, grim and silent, his face readable for a moment so the audience will know him again. RIDER 2 mounts shouting and follows. 4. AGGRESSIVE HANDHELD — the camera is in human hands in a panic: constant restless motion, jerky corrections, vertical bounce from running steps, buffeted by wind gusts, the horizon never level, never gimbal-smooth, never tripod-locked. Raw documentary chaos. 5. REAL PHYSICS — horses wheel and rear with weight, men vault into saddles with effort, snow is kicked up by hooves and boots as bursts of loose powder (drawn snow-spray effects on twos), cloth and manes whip in the wind with follow-through. 6. SECONDARY ACTION on twos on everything: chapan skirts and fur hats whipping, horse manes and tails streaming, breath-vapor of men and horses torn off by wind, harness straps swinging. 7. LIGHT — failing dusk in a blizzard, dim cold blue-grey storm light, soft and diffuse, no rays, no beams, no god rays; one or two struggling torch flames as small warm accents whipping in the wind. Correct neutral white balance, NOT a blue filter, muted desaturated, the wolves near-black masses. SHOT 1 — WIDE, ~35mm, aggressive handheld, the yurt camp at dusk in driving snow. COMPOSITION: the pale domed yurts low across the LOWER-RIGHT third, the churning panicked herd a dark restless mass on the LEFT third — and along the far edge of the herd, low dark wolf shapes from <<<image_3>>> flowing fast between the snow-veils, barely readable, a dark current, varied in tone and stride, never mirrored, never cloned. Blizzard haze drifts smoothly, figures and animals on twos. The herd wheels and screams. Energy rising. HARD CUT to SHOT 2 — MEDIUM, ~35mm, aggressive handheld running with him: THE HERDSMAN (<<<image_4>>>) bursts between the yurts toward camera, stumbling in the snow, waving an arm, his chapan and fur hat whipping with follow-through, breath-vapor tearing away, screaming raw over the wind, lips on twos: "Böri-i-iler!! BÖRILER!!!" Figures scramble behind him, a torch flame struggling and whipping. Snow bursts from his boots as drawn powder on twos. HARD CUT to SHOT 3 — MEDIUM, ~50mm, aggressive handheld in the chaos, on RIDER 1: he reaches his horse (<<<image_6>>>) at a run, the horse wheeling with real weight, and VAULTS into the saddle in two hard stepped poses, grim and silent, his weathered face readable for one beat in the torch-glow — then he wrenches the horse around and spurs it, the first one driving out into the storm, snow bursting from the hooves, his chapan and the mane streaming with follow-through. Behind him RIDER 2 (<<<image_7>>>) swings up onto his own horse (<<<image_8>>>), shouting hoarse over the wind, lips on twos: "Attardy qutqar!!" HARD CUT to SHOT 4 — WIDE, ~35mm, aggressive handheld, the edge of the camp: RIDER 1 already a dark mass at full gallop tearing toward the UPPER-LEFT into the blizzard, leading; RIDER 2 and one or two further silhouetted riders breaking after him from the LOWER-RIGHT, hooves drumming, powder bursting, manes tails and chapans streaming on twos, the pale yurts falling behind in the snow-haze, the dark storm ahead as the negative space they ride into. Camera buffeted, horizon tilting. The hoofbeats swallowed by the wind. End. Audio: NO MUSIC — the roar of the blizzard wind, panicked horses screaming and stamping, the herdsman's raw cries, men shouting, drumming hooves fading into the storm, distant wolf snarls under the wind. No subtitles. Natural diegetic sound only, absolutely no music. Constraints: stop-motion stepped cadence on twos at 12fps with painterly boil, figures horses and wolves stepping pose to pose never gliding, NO smooth interpolation NO motion blur NO morphing, blizzard haze and blowing snow smooth while all living things and drawn snow-spray effects step on twos, hand-painted oil look from <<<image_2>>> not photoreal not 3D, four shots with hard cuts rising in energy — wide wolves-at-the-herd, medium the screaming alarm "Böriler!!" from THE HERDSMAN <<<image_4>>>, medium RIDER 1 <<<image_5>>> vaulting onto his horse <<<image_6>>> grim and silent his face readable one beat and spurring out FIRST while RIDER 2 <<<image_7>>> mounts his horse <<<image_8>>> shouting "Attardy qutqar!!", wide the riders tearing out into the storm RIDER 1 leading — each rider stays on his own horse the pairs never mixed, AGGRESSIVE HANDHELD constant restless jerky motion vertical bounce wind-buffeted horizon never level never gimbal-smooth, REAL PHYSICS horses wheeling and rearing with weight men vaulting with effort snow kicked as loose powder bursts, SECONDARY ACTION on twos chapans fur hats manes tails harness breath-vapor all whipping with follow-through, dusk blizzard dim cold storm light soft no rays no beams torch flames as small warm whipping accents, correct neutral white balance not a blue filter muted desaturated, wolves from <<<image_3>>> varied never mirrored never cloned, spoken Kazakh in Latin transliteration pronounced as written not Russian-accented, NO MUSIC only storm and voices.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Cinematic Paragliding Travel Vlog
+
+> A detailed cinematic video prompt for filming a travel vlog of an East Asian woman paragliding above a tropical coastline.
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-065189cb9adb.jpg" width="600" alt="Cinematic Paragliding Travel Vlog">](https://goodcase.ai/cases/vlog-065189cb9adb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Goodmanprotocol | **出典:** [元投稿](https://x.com/Goodmanprotocol/status/2081028788771815678) | **公開日:** 2026-07-25 | **ヒート:** 12
+
+**安定度:** 88/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 87.7) · [出力](https://media.goodcase.ai/retests/vlog-065189cb9adb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animation, NO game graphics, NO artificial visual effects. A young East Asian woman with long layered maroon hair, wearing the EXACT SAME professional paragliding outfit throughout both videos: matte white certified paragliding helmet, navy blue lightweight windproof paragliding jacket with subtle reflective details, black moisture-wicking performance base layer, black certified tandem paragliding harness with properly secured leg straps and chest buckle, black stretch outdoor pants, gray high-ankle hiking boots with strong ankle support, lightweight black paragliding gloves, sport sunglasses tucked into the jacket collar. Location: a real tropical coastal mountain paragliding launch site with lush green cliffs overlooking turquoise ocean, white sandy beaches, and distant mountain ranges under bright morning sunlight. Montage sequence: • Walking confidently toward the launch area while smiling naturally at the vlog camera. • Close-up tightening the helmet strap and checking the harness buckles. • Instructor performing a final safety check as she laughs and gives a thumbs-up. • Holding the brake toggles correctly while facing the wind. • Running naturally down the grassy launch slope. • The wing inflates smoothly overhead and both feet lift naturally from the ground. • Ending with a breathtaking wide shot as she glides away above the coastline. Natural handheld vlog camera mixed with cinematic tracking shots, realistic wind interaction, authentic paragliding procedures, practical lighting, ARRI Alexa 35, ARRI Signature Prime lenses, subtle film grain, warm cinematic color grading, documentary realism, realistic physics.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-065189cb9adb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Battle of the Frozen Planet Fortress
+
+> An epic sci-fi battle prompt describing an insectoid alien assault on a cliffside fortress on a frozen planet.
+
+[<img src="https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg" width="600" alt="Battle of the Frozen Planet Fortress">](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080669361237303417) | **公開日:** 2026-07-24 | **ヒート:** 12
+
+**安定度:** 66/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.1) · [出力](https://media.goodcase.ai/retests/case-1b3b8865bca8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A massive human fortress built into the cliffs of a frozen planet faces a final assault from an endless ocean of armored insectoid aliens advancing across the ice beneath a violent magnetic storm, defensive cannons rotating into position as thousands of infantry soldiers line the walls and prepare to fire; the battle begins with synchronized railgun blasts ripping through the front ranks, missiles streaking overhead and enormous creatures using smaller bodies as bridges across defensive trenches, while flying aliens dive through lightning and crash into watchtowers; a gigantic siege beast covered in crystalline armor charges through the main gate, scattering tanks and soldiers, then climbs the fortress wall as defenders fire point-blank into its glowing joints; the fortress commander runs along a collapsing battlement, jumps onto a rotating cannon platform and manually redirects the weapon toward a deep fracture beneath the enemy swarm, but the siege beast tears the cannon loose just as it fires; start with a majestic ultra-wide panorama showing the impossible scale of the invasion, push rapidly through the storm toward the fortress, combine sweeping crane movements with visceral ground-level combat and dramatic low-angle shots of the siege beast, use a brief slow-motion moment as lightning strikes the cannon, icy blue ambient lighting contrasted with red emergency lights and orange explosions, dense snowfall, vapor clouds, electrical arcs and shattered ice, desperate mythic last-stand atmosphere, ending with the cannon blast splitting the frozen battlefield from horizon to horizon, swallowing the entire swarm into a glowing abyss while the ruined fortress remains standing above the collapsing ice.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1b3b8865bca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Mythic Warrior Cinematic VFX Showcase
+
+> An epic 3D animation prompt showing a golden Garuda-style warrior battling a celestial goddess, featuring advanced cinematic camera techniques and energy effects.
+
+[<img src="https://media.goodcase.ai/media/poster/vfx-47bf458a20a3.jpg" width="600" alt="Mythic Warrior Cinematic VFX Showcase">](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorwithwifi | **出典:** [元投稿](https://x.com/noorwithwifi/status/2079150941648150607) | **公開日:** 2026-07-20 | **ヒート:** 12
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83) · [出力](https://media.goodcase.ai/retests/vfx-47bf458a20a3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Garuda-like mythical warrior battling a celestial masked goddess above floating islands and glowing clouds. Demonstrate a sequence of cinematic camera techniques including extreme wide aerial shots, low-angle monster introductions, tracking circles, dynamic orbits, spirals, close-ups, and fast action angles as both characters unleash fiery orange and cyan energy attacks that culminate in a colossal mid-air beam clash and shockwave explosion. Display a 16-panel storyboard reference grid along the bottom of the screen labeled with each camera move and lens focal length, with the active camera technique highlighted by a glowing white border as the sequence progresses.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Wireless Earbuds Product Review
 
@@ -1910,24 +1928,6 @@ Cinematic Korean action sequence in a narrow sunlit urban alleyway lined with br
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-f7e7c1862f38?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Cinematic Paragliding Travel Vlog
-
-> A detailed cinematic video prompt for filming a travel vlog of an East Asian woman paragliding above a tropical coastline.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-065189cb9adb.jpg" width="600" alt="Cinematic Paragliding Travel Vlog">](https://goodcase.ai/cases/vlog-065189cb9adb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Goodmanprotocol | **出典:** [元投稿](https://x.com/Goodmanprotocol/status/2081028788771815678) | **公開日:** 2026-07-25 | **ヒート:** 11
-
-**安定度:** 88/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 87.7) · [出力](https://media.goodcase.ai/retests/vlog-065189cb9adb/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-realistic live-action cinematic travel vlog, absolutely NO CGI, NO animation, NO game graphics, NO artificial visual effects. A young East Asian woman with long layered maroon hair, wearing the EXACT SAME professional paragliding outfit throughout both videos: matte white certified paragliding helmet, navy blue lightweight windproof paragliding jacket with subtle reflective details, black moisture-wicking performance base layer, black certified tandem paragliding harness with properly secured leg straps and chest buckle, black stretch outdoor pants, gray high-ankle hiking boots with strong ankle support, lightweight black paragliding gloves, sport sunglasses tucked into the jacket collar. Location: a real tropical coastal mountain paragliding launch site with lush green cliffs overlooking turquoise ocean, white sandy beaches, and distant mountain ranges under bright morning sunlight. Montage sequence: • Walking confidently toward the launch area while smiling naturally at the vlog camera. • Close-up tightening the helmet strap and checking the harness buckles. • Instructor performing a final safety check as she laughs and gives a thumbs-up. • Holding the brake toggles correctly while facing the wind. • Running naturally down the grassy launch slope. • The wing inflates smoothly overhead and both feet lift naturally from the ground. • Ending with a breathtaking wide shot as she glides away above the coastline. Natural handheld vlog camera mixed with cinematic tracking shots, realistic wind interaction, authentic paragliding procedures, practical lighting, ARRI Alexa 35, ARRI Signature Prime lenses, subtle film grain, warm cinematic color grading, documentary realism, realistic physics.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-065189cb9adb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Premium Chocolate Bar UGC Ad Prompt
 
 > A UGC-style promotional video prompt for a chocolate bar ad, set in a cozy home office during golden hour.
@@ -1967,6 +1967,41 @@ Bathroom fantasy world with bubbles, towels as cliffs and warm light reflecting 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-21aab321f762?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Stop-Motion Playing Card Art Short
+
+> An experimental art short prompt designed for Seedance 2.0, showing rhythmic stop-motion transformations of hand-drawn playing cards on a deep red background.
+
+[<img src="https://media.goodcase.ai/media/poster/case-50ba683413ff.jpg" width="600" alt="Stop-Motion Playing Card Art Short">](https://goodcase.ai/cases/case-50ba683413ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @bmx_ai13 | **出典:** [元投稿](https://x.com/bmx_ai13/status/2077208527840391188) | **公開日:** 2026-07-15 | **ヒート:** 11
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+Create an 8 second square 1:1 experimental art film featuring a small stack of handmade playing cards placed in the exact center of a deep crimson red textured surface. Use a perfectly locked top down overhead camera with a clean, symmetrical composition. The frame should feel balanced and minimal, with the deck centered and enough negative space around it. No camera movement, no hands, and no surrounding objects.
+
+The cards are warm off white with slightly uneven handmade edges, softly bent corners, subtle paper fibers, realistic thickness, delicate contact shadows, and a faint shadow beneath the deck. The background is a rich dark red textured surface, resembling paper, fabric, or velvet, with soft studio lighting, a gentle vignette, and darker edges.
+
+Animate the top card using rapid rhythmic stop-motion jump cuts. Replace the card approximately every three frames, creating around eight sharp transformations per second. Each new card should remain briefly frozen before instantly changing into another design. Add extremely subtle deck wobble, tiny positional shifts, slight changes in rotation, natural paper vibration, and occasional one frame motion smears during transitions.
+
+Each card contains a different bold editorial illustration created only with black, white, and vivid scarlet-red ink. Cycle through surreal minimalist artwork such as: horse riders, galloping horses, elegant female silhouettes, dancers, abstract human faces, expressive eyes, red lips, flowers, fashion portraits, masked figures, brush painted bodies, geometric facial fragments, mysterious black shadows, and poetic botanical symbols.
+
+Use rough ink strokes, screen printed textures, imperfect paint edges, dry brush marks, vintage European graphic design, contemporary fashion branding, handmade collage aesthetics, and refined artistic playing card composition. Include small abstract playing card rank and suit markings in opposite corners, but no readable sentences, logos, captions, or watermarks.
+
+Keep the white deck consistently centered while only the illustration, card markings, slight card shape, and tiny rotation change. Synchronize every transformation to a fast sequence of crisp mechanical clicks, card tapping sounds, and minimalist percussion. Build a hypnotic rhythm that becomes slightly more intense toward the end.
+
+Finish on a clean card featuring a graceful black human silhouette with one strong red accent. Hold the final image sharply for a brief moment before ending with a direct cut.
+
+Visual quality: premium studio photography, realistic paper texture, sharp graphic details, deep red and black contrast, soft cinematic shadows, polished art direction, subtle film grain, high end editorial branding film, smooth 24 fps output while preserving the deliberate 8 fps stop motion transformation rhythm.
+
+Avoid: moving camera, zooming, human hands, floating cards, cards flying away, messy background, colorful rainbow palette, blue or green tones, readable words, distorted card stacks, melting paper, excessive 3D effects, smooth morphing between illustrations, cartoon animation, subtitles, or watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-50ba683413ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Water Walking Xianxia Fraud
 
 > A comedic xianxia prompt featuring a swordswoman 'gracefully' walking on a pond, only for the camera to reveal she is stepping on submerged stone pillars.
@@ -2003,68 +2038,13 @@ Open on an extreme close up of his face reflected in a rain covered bus stop gla
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-d30f8318a084?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Stop-Motion Playing Card Art Short
-
-> An experimental art short prompt designed for Seedance 2.0, showing rhythmic stop-motion transformations of hand-drawn playing cards on a deep red background.
-
-[<img src="https://media.goodcase.ai/media/poster/case-50ba683413ff.jpg" width="600" alt="Stop-Motion Playing Card Art Short">](https://goodcase.ai/cases/case-50ba683413ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @bmx_ai13 | **出典:** [元投稿](https://x.com/bmx_ai13/status/2077208527840391188) | **公開日:** 2026-07-15 | **ヒート:** 10
-
-<details>
-<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
-
-```
-Create an 8 second square 1:1 experimental art film featuring a small stack of handmade playing cards placed in the exact center of a deep crimson red textured surface. Use a perfectly locked top down overhead camera with a clean, symmetrical composition. The frame should feel balanced and minimal, with the deck centered and enough negative space around it. No camera movement, no hands, and no surrounding objects.
-
-The cards are warm off white with slightly uneven handmade edges, softly bent corners, subtle paper fibers, realistic thickness, delicate contact shadows, and a faint shadow beneath the deck. The background is a rich dark red textured surface, resembling paper, fabric, or velvet, with soft studio lighting, a gentle vignette, and darker edges.
-
-Animate the top card using rapid rhythmic stop-motion jump cuts. Replace the card approximately every three frames, creating around eight sharp transformations per second. Each new card should remain briefly frozen before instantly changing into another design. Add extremely subtle deck wobble, tiny positional shifts, slight changes in rotation, natural paper vibration, and occasional one frame motion smears during transitions.
-
-Each card contains a different bold editorial illustration created only with black, white, and vivid scarlet-red ink. Cycle through surreal minimalist artwork such as: horse riders, galloping horses, elegant female silhouettes, dancers, abstract human faces, expressive eyes, red lips, flowers, fashion portraits, masked figures, brush painted bodies, geometric facial fragments, mysterious black shadows, and poetic botanical symbols.
-
-Use rough ink strokes, screen printed textures, imperfect paint edges, dry brush marks, vintage European graphic design, contemporary fashion branding, handmade collage aesthetics, and refined artistic playing card composition. Include small abstract playing card rank and suit markings in opposite corners, but no readable sentences, logos, captions, or watermarks.
-
-Keep the white deck consistently centered while only the illustration, card markings, slight card shape, and tiny rotation change. Synchronize every transformation to a fast sequence of crisp mechanical clicks, card tapping sounds, and minimalist percussion. Build a hypnotic rhythm that becomes slightly more intense toward the end.
-
-Finish on a clean card featuring a graceful black human silhouette with one strong red accent. Hold the final image sharply for a brief moment before ending with a direct cut.
-
-Visual quality: premium studio photography, realistic paper texture, sharp graphic details, deep red and black contrast, soft cinematic shadows, polished art direction, subtle film grain, high end editorial branding film, smooth 24 fps output while preserving the deliberate 8 fps stop motion transformation rhythm.
-
-Avoid: moving camera, zooming, human hands, floating cards, cards flying away, messy background, colorful rainbow palette, blue or green tones, readable words, distorted card stacks, melting paper, excessive 3D effects, smooth morphing between illustrations, cartoon animation, subtitles, or watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-50ba683413ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Phoenix Knight Transformation Sequence
-
-> A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
-
-[<img src="https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg" width="600" alt="Phoenix Knight Transformation Sequence">](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @LudovicCreator | **出典:** [元投稿](https://x.com/LudovicCreator/status/2081092171428401560) | **公開日:** 2026-07-25 | **ヒート:** 9
-
-**安定度:** 88/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 88.1) · [出力](https://media.goodcase.ai/retests/case-4306bf4e075c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere
-
-Made  in @LumaLabsAI #LumaCPP
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Cyberpunk Cyberblade Battle
 
 > A cinematic battle prompt designed for Seedance 2.0, featuring a silver-haired young man in a dystopian industrial city, with precise swordplay and digital particle effects.
 
 [<img src="https://media.goodcase.ai/media/poster/case-1a9a2c659866.jpg" width="600" alt="Cyberpunk Cyberblade Battle">](https://goodcase.ai/cases/case-1a9a2c659866?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @luxaios | **出典:** [元投稿](https://x.com/luxaios/status/2080628740955218120) | **公開日:** 2026-07-24 | **ヒート:** 9
+**作者:** @luxaios | **出典:** [元投稿](https://x.com/luxaios/status/2080628740955218120) | **公開日:** 2026-07-24 | **ヒート:** 10
 
 **安定度:** 60/100
 
@@ -2108,6 +2088,44 @@ Negative prompt: blood, gore, wounds, severed limbs, visible injury, slow clumsy
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-1a9a2c659866?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Phoenix Knight Transformation Sequence
+
+> A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
+
+[<img src="https://media.goodcase.ai/media/poster/case-4306bf4e075c.jpg" width="600" alt="Phoenix Knight Transformation Sequence">](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @LudovicCreator | **出典:** [元投稿](https://x.com/LudovicCreator/status/2081092171428401560) | **公開日:** 2026-07-25 | **ヒート:** 9
+
+**安定度:** 88/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 88.1) · [出力](https://media.goodcase.ai/retests/case-4306bf4e075c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere
+
+Made  in @LumaLabsAI #LumaCPP
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Epic Knight Battle on a Ruined Bridge
+
+> A cinematic video prompt for an epic fantasy battle scene, telling the story of a battle-hardened knight who faces an enemy army alone on a collapsing bridge during a thunderstorm.
+
+[<img src="https://media.goodcase.ai/media/poster/case-b1405ee458d3.jpg" width="600" alt="Epic Knight Battle on a Ruined Bridge">](https://goodcase.ai/cases/case-b1405ee458d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2081031751598535092) | **公開日:** 2026-07-25 | **ヒート:** 9
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.5) · [出力](https://media.goodcase.ai/retests/case-b1405ee458d3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A battle-worn knight in blackened plate armor stands alone on a ruined stone bridge above a bottomless canyon as an army of orcs, trolls and armored war beasts charges through a thunderstorm, the knight lowers a massive glowing sword, sprints into the first ranks, cuts through shields, slides beneath a giant’s axe and climbs onto the creature’s back while lightning tears across the sky; the bridge begins collapsing under the weight of the army, forcing the knight to leap between falling sections, drive the sword into the giant’s skull and release a wave of blue magical energy through the ancient stones; begin with an immense ultra-wide aerial view of the bridge and approaching army, descend into a low-angle tracking shot beside the knight, transition into brutal handheld combat, sharp telephoto impacts and brief slow motion during the final leap, cold moonlight mixed with orange fire, rain, sparks, flying rubble and volumetric mist, desperate mythic atmosphere, ending with the bridge exploding into glowing fragments beneath the invading army while the knight lands safely on the opposite cliff, silhouetted against a colossal lightning strike.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b1405ee458d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Japanese Anime-Style Mapo Tofu Cooking Process
 
@@ -2257,23 +2275,23 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-a9ab0266f96a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Epic Knight Battle on a Ruined Bridge
+### Legendary Knight Fortress Battle
 
-> A cinematic video prompt for an epic fantasy battle scene, telling the story of a battle-hardened knight who faces an enemy army alone on a collapsing bridge during a thunderstorm.
+> An epic fantasy prompt depicting a legendary knight battling a dragon and horned demons on a crumbling fortress, with dynamic camera movement and IMAX-level image quality.
 
-[<img src="https://media.goodcase.ai/media/poster/case-b1405ee458d3.jpg" width="600" alt="Epic Knight Battle on a Ruined Bridge">](https://goodcase.ai/cases/case-b1405ee458d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="Legendary Knight Fortress Battle">](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2081031751598535092) | **公開日:** 2026-07-25 | **ヒート:** 8
+**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080306973220725206) | **公開日:** 2026-07-23 | **ヒート:** 8
 
-**安定度:** 83/100
+**安定度:** 81/100
 
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.5) · [出力](https://media.goodcase.ai/retests/case-b1405ee458d3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.9) · [出力](https://media.goodcase.ai/retests/case-c726edc4268d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 ```
-A battle-worn knight in blackened plate armor stands alone on a ruined stone bridge above a bottomless canyon as an army of orcs, trolls and armored war beasts charges through a thunderstorm, the knight lowers a massive glowing sword, sprints into the first ranks, cuts through shields, slides beneath a giant’s axe and climbs onto the creature’s back while lightning tears across the sky; the bridge begins collapsing under the weight of the army, forcing the knight to leap between falling sections, drive the sword into the giant’s skull and release a wave of blue magical energy through the ancient stones; begin with an immense ultra-wide aerial view of the bridge and approaching army, descend into a low-angle tracking shot beside the knight, transition into brutal handheld combat, sharp telephoto impacts and brief slow motion during the final leap, cold moonlight mixed with orange fire, rain, sparks, flying rubble and volumetric mist, desperate mythic atmosphere, ending with the bridge exploding into glowing fragments beneath the invading army while the knight lands safely on the opposite cliff, silhouetted against a colossal lightning strike.
+A legendary female knight with long platinum hair, striking green eyes, athletic physique, intricately engraved black steel armor with a flowing crimson cape and a massive enchanted greatsword stands alone atop the crumbling walls of an ancient fortress overlooking a vast battlefield where tens of thousands of soldiers, cavalry and towering siege engines are locked in brutal combat, a colossal dragon suddenly bursts through the clouds breathing an ocean of fire across the battlefield as a gigantic horned demon emerges from a collapsing mountain, without hesitation she leaps from the castle wall, falling hundreds of meters before landing with earth-shattering force that sends armored warriors flying in every direction, immediately charging straight toward the demon while dodging collapsing towers and dragon fire, climbing across the creature's massive body as it tears apart the landscape before driving her glowing sword directly through its skull, triggering an enormous magical explosion that tears open the storm clouds and floods the battlefield with golden light, cinematic IMAX aerial photography, seamless FPV dive, dynamic crane shots, dramatic orbit camera, slow-motion impacts, ultra-photorealistic medieval fantasy, volumetric sunlight, practical debris, cinematic smoke, epic orchestral atmosphere, blockbuster realism, Unreal Engine 5 quality.
 ```
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-b1405ee458d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 1990s Retro VHS Fitness Vlog
 
@@ -2335,67 +2353,13 @@ POV 第一人称视角，由 CHASE 自己拍摄。她偶尔手持拍摄，偶尔
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/90-vhs-vlog-ae90c46cb606?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Stop-Motion Animation of Odysseus and the Cyclops
-
-> A humorous 3D clay animation-style prompt depicting a funny scene where Odysseus distracts the Cyclops with a giant olive and pilots a small boat.
-
-[<img src="https://media.goodcase.ai/media/poster/case-95a5c01a9b87.jpg" width="600" alt="Stop-Motion Animation of Odysseus and the Cyclops">](https://goodcase.ai/cases/case-95a5c01a9b87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @miilesus | **出典:** [元投稿](https://x.com/miilesus/status/2080744222571848176) | **公開日:** 2026-07-24 | **ヒート:** 7
-
-**安定度:** 82/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.8) · [出力](https://media.goodcase.ai/retests/case-95a5c01a9b87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a 3D claymation style animation of a cute caricature of Odysseus, wearing weathered bronze armor, a deep red cape, leather sandals, and windswept hair, sailing alone across a miniature stormy sea in a tiny wooden ship. A gigantic Cyclops suddenly rises from the water and reaches toward him. Odysseus calmly pulls out an enormous olive, launches it into the Cyclops’s mouth with a tiny catapult, and watches as the confused giant begins chewing happily. The storm instantly clears, the Cyclops gives him a thumbs up, and Odysseus takes a triumphant selfie with the giant in the background. Smooth expressive clay animation, epic orchestral music mixed with playful sound effects, handcrafted textures, cinematic lighting, mythological scale, absurd humor, viral energy.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-95a5c01a9b87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Legendary Knight Fortress Battle
-
-> An epic fantasy prompt depicting a legendary knight battling a dragon and horned demons on a crumbling fortress, with dynamic camera movement and IMAX-level image quality.
-
-[<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="Legendary Knight Fortress Battle">](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CharaspowerAI | **出典:** [元投稿](https://x.com/CharaspowerAI/status/2080306973220725206) | **公開日:** 2026-07-23 | **ヒート:** 7
-
-**安定度:** 81/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.9) · [出力](https://media.goodcase.ai/retests/case-c726edc4268d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A legendary female knight with long platinum hair, striking green eyes, athletic physique, intricately engraved black steel armor with a flowing crimson cape and a massive enchanted greatsword stands alone atop the crumbling walls of an ancient fortress overlooking a vast battlefield where tens of thousands of soldiers, cavalry and towering siege engines are locked in brutal combat, a colossal dragon suddenly bursts through the clouds breathing an ocean of fire across the battlefield as a gigantic horned demon emerges from a collapsing mountain, without hesitation she leaps from the castle wall, falling hundreds of meters before landing with earth-shattering force that sends armored warriors flying in every direction, immediately charging straight toward the demon while dodging collapsing towers and dragon fire, climbing across the creature's massive body as it tears apart the landscape before driving her glowing sword directly through its skull, triggering an enormous magical explosion that tears open the storm clouds and floods the battlefield with golden light, cinematic IMAX aerial photography, seamless FPV dive, dynamic crane shots, dramatic orbit camera, slow-motion impacts, ultra-photorealistic medieval fantasy, volumetric sunlight, practical debris, cinematic smoke, epic orchestral atmosphere, blockbuster realism, Unreal Engine 5 quality.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Stop-Motion Animation: Stacked Potato Chips
-
-> A stop-motion animation prompt describing potato chips automatically stacking into a brand logo, then bursting apart.
-
-[<img src="https://media.goodcase.ai/media/poster/case-7a9235e91c71.jpg" width="600" alt="Stop-Motion Animation: Stacked Potato Chips">](https://goodcase.ai/cases/case-7a9235e91c71?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @abs_uiux | **出典:** [元投稿](https://x.com/abs_uiux/status/2074744763505324502) | **公開日:** 2026-07-08 | **ヒート:** 7
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.5) · [出力](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or brand initials, then explode apart — playful, highly shareable.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-7a9235e91c71?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Tom Sawyer Whitewashing the Fence Scene
 
 > A narrative-based prompt designed to recreate the classic fence-whitewashing scene from The Adventures of Tom Sawyer, emphasizing character consistency and classic cinematography rules.
 
 [<img src="https://media.goodcase.ai/media/poster/case-e0d3b03f1aef.jpg" width="600" alt="Tom Sawyer Whitewashing the Fence Scene">](https://goodcase.ai/cases/case-e0d3b03f1aef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @airina_xyz | **出典:** [元投稿](https://x.com/airina_xyz/status/2081078057386021026) | **公開日:** 2026-07-25 | **ヒート:** 6
+**作者:** @airina_xyz | **出典:** [元投稿](https://x.com/airina_xyz/status/2081078057386021026) | **公開日:** 2026-07-25 | **ヒート:** 7
 
 **安定度:** 84/100
 
@@ -2418,6 +2382,42 @@ Scene: Sunny morning outside a wooden house in a small Missouri town. Tom slowly
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-e0d3b03f1aef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Stop-Motion Animation of Odysseus and the Cyclops
+
+> A humorous 3D clay animation-style prompt depicting a funny scene where Odysseus distracts the Cyclops with a giant olive and pilots a small boat.
+
+[<img src="https://media.goodcase.ai/media/poster/case-95a5c01a9b87.jpg" width="600" alt="Stop-Motion Animation of Odysseus and the Cyclops">](https://goodcase.ai/cases/case-95a5c01a9b87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @miilesus | **出典:** [元投稿](https://x.com/miilesus/status/2080744222571848176) | **公開日:** 2026-07-24 | **ヒート:** 7
+
+**安定度:** 82/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.8) · [出力](https://media.goodcase.ai/retests/case-95a5c01a9b87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 3D claymation style animation of a cute caricature of Odysseus, wearing weathered bronze armor, a deep red cape, leather sandals, and windswept hair, sailing alone across a miniature stormy sea in a tiny wooden ship. A gigantic Cyclops suddenly rises from the water and reaches toward him. Odysseus calmly pulls out an enormous olive, launches it into the Cyclops’s mouth with a tiny catapult, and watches as the confused giant begins chewing happily. The storm instantly clears, the Cyclops gives him a thumbs up, and Odysseus takes a triumphant selfie with the giant in the background. Smooth expressive clay animation, epic orchestral music mixed with playful sound effects, handcrafted textures, cinematic lighting, mythological scale, absurd humor, viral energy.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-95a5c01a9b87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Stop-Motion Animation: Stacked Potato Chips
+
+> A stop-motion animation prompt describing potato chips automatically stacking into a brand logo, then bursting apart.
+
+[<img src="https://media.goodcase.ai/media/poster/case-7a9235e91c71.jpg" width="600" alt="Stop-Motion Animation: Stacked Potato Chips">](https://goodcase.ai/cases/case-7a9235e91c71?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @abs_uiux | **出典:** [元投稿](https://x.com/abs_uiux/status/2074744763505324502) | **公開日:** 2026-07-08 | **ヒート:** 7
+
+**安定度:** 77/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.5) · [出力](https://media.goodcase.ai/retests/case-7a9235e91c71/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or brand initials, then explode apart — playful, highly shareable.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-7a9235e91c71?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Music Video Choreography and Identity Setup
 
@@ -3253,6 +3253,24 @@ output_rules:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yaml-629d172a4820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Retro Soda Ad Crimson Cola
+
+> An 8K cinematic advertising prompt for a retro soda brand, with the scene transitioning from a desert sunrise to a futuristic 1950s city.
+
+[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="Retro Soda Ad Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @DjajaYerry75 | **出典:** [元投稿](https://x.com/DjajaYerry75/status/2080666062690140315) | **公開日:** 2026-07-24 | **ヒート:** 4
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 84.3) · [出力](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Vox-Style Historical Collage Animation
 
 > An animation prompt for Seedance that transforms a static collage image into a 5-second stop-motion-style video with paper jitter and sticker-bounce effects.
@@ -3474,97 +3492,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-96017ad7706f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Epic Ice Fantasy: Titan Awakening
-
-> A grand cinematic prompt depicting a stunning scene of an ice titan breaking free from a glacier in a frozen valley.
-
-[<img src="https://media.goodcase.ai/media/poster/case-579dd9bdd240.jpg" width="600" alt="Epic Ice Fantasy: Titan Awakening">](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @abxxai | **出典:** [元投稿](https://x.com/abxxai/status/2081023473305162165) | **公開日:** 2026-07-25 | **ヒート:** 3
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/case-579dd9bdd240/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
-
-```
-SCENE CONTEXT
-RIMEBORN. In a frozen valley of an original ice-fantasy world, a mountain-sized titan of layered ice and stone tears itself free from a millennia-old glacier as an army of armored wardens scrambles across the frozen field below, a war-horn ripping across the plain. Timed multishot, five hard cuts across 10 seconds, one shared valley, one titan, one army throughout.
-
-ACTIVE REFERENCES
-@titan: mountain-sized ice-and-stone colossus, humanoid silhouette, body built of fractured basalt slabs seamed by ancient blue ice, ice-plated shoulders and back crusted a meter thick with hoarfrost, joints and eye-sockets and rib-seams glowing with pale-cyan runes carved deep into the stone. Original design. 100% matches the reference.
-@wardens: armored foot-soldiers in weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, long spears and rimed shields, no faction crest or logo. Original design. 100% matches the reference.
-@warhorn: a curled black bone horn as long as a warden is tall, bound in leather and iron rings, held at chest height by a single horn-bearer.
-STYLE REFERENCE ONLY, not a fixed keyframe; model extends the world freely, never reproduced 1:1.
-
-LOCATION MAP
-Foreground: fractured glacier surface, blue-ice slabs shot through with dark grit, powder snow drifting sideways at 20 km/h. Midground: the wardens crossing the field 200 meters below the titan, tiny against the scale, spears and shields catching the flat light. Background: the glacier wall itself, kilometers of vertical ice cracking apart around the emerging titan, snow plumes rising several hundred meters into a leaden overcast sky. Camera moves along a chest-height and then rising line down the valley floor, always with the titan camera-right or dead-center.
-
-SCALE LOCK
-@titan stands as tall as roughly two hundred wardens stacked head to toe. A single warden reads as a fingernail against the titan's shin in the establishing wide. Ice slabs shearing off the titan's shoulder each read as wide as ten wardens laid head to toe. The size gap holds identical every frame.
-
-FIRST FRAME / BLOCKING
-Non-empty opening frame: @titan is already mid-tear-out, right arm already ripping free from the glacier wall with a sheet of ice already fracturing off the shoulder, @wardens already running across the ice below, the horn-bearer already lifting @warhorn. Nothing is frozen, everything is already in motion. Rule of thirds: the titan held on the right two-thirds vertical, the horizon line on the lower third, wardens on the lower left third.
-
-FORMAT MODE
-Timed multishot, exactly FOUR HARD CUTS at 2.5s, 4.5s, 6.5s, 8.0s. The camera does not cut on its own; cuts only at the specified points.
-0.0s to 2.5s — CUT 1, real time
-2.5s HARD CUT
-2.5s to 4.5s — CUT 2, real time
-4.5s HARD CUT
-4.5s to 6.5s — CUT 3, real time
-6.5s HARD CUT
-6.5s to 8.0s — CUT 4, real time
-8.0s HARD CUT
-8.0s to 10.0s — CUT 5, real time
-
-OPTICS
-CUT 1: EWS at 84° FOV sweeping wide establishing the full valley and titan. CUT 2: MS at 29° FOV portrait compression on the titan's shoulder as ice sheets shear off. CUT 3: WS at 63° FOV low across the crevasse rim as wardens dive clear. CUT 4: MCU at 29° FOV on the horn-bearer, horn lifted to lips. CUT 5: EWS at 107° FOV super-wide rectilinear on the full glacier splintering with runes flaring. Rectilinear with anamorphic optical flares, 180° shutter motion blur, prime-lens character, no drift mid-segment.
-
-CAMERA
-Handheld throughout with 3 to 5 cm of shake, shake spiking hard on every cracking impact from the titan. CUT 1: chest-height sweep at 15 km/h left-to-right across the valley floor, catching the full scale. CUT 2: whip-in and hold at 20 meters from the shoulder, camera flinching as slabs shear past. CUT 3: low-angle at knee-height on the crevasse edge, wardens diving over the lens. CUT 4: tight on the horn-bearer, camera pressing in 30 cm as the horn sounds. CUT 5: pulled back and rising crane to 80 meters above the valley floor, wide vantage, gimbal weighty. Wide tonal latitude, soft highlight roll-off, whites hold detail without clipping.
-
-ACTION
-CUT 1 — Subject: @titan tears its right arm and shoulder free from the glacier wall, basalt-and-ice mass grinding against ice, a wall of powder snow erupting behind it hundreds of meters high; @wardens sprint across the frozen field in a scattered line, spears and shields flashing. Camera: sweeping wide dolly along the valley floor at 15 km/h, shake spiking as the titan's arm lands its first step-load.
-CUT 2 — Subject: massive sheets of blue ice shear off @titan's shoulder and back, tumbling in slabs the size of buildings, hoarfrost crust exploding into powder mid-fall, runes along the shoulder flaring pale-cyan as the plates shed. Camera: whip-in, holds on the shoulder as three slabs fall past the frame, shake hard.
-CUT 3 — Subject: @wardens dive clear as a crevasse collapses under them, two soldiers throwing themselves flat and rolling as the ice gives way, spears skittering across the surface, powder snow plumes rising vertical. Camera: low-angle handheld, wardens leaping over the lens, shake violent on the collapse.
-CUT 4 — Subject: the horn-bearer lifts @warhorn to their lips and blows one long note, chest visibly expanding, breath fogging in the cold, the sound carrying across the field as other wardens turn their heads toward it. Camera: tight handheld, presses in 30 cm as the note sounds.
-CUT 5 — Subject: @titan pulls its full torso free of the glacier wall, the whole glacier splintering apart around it in a cascade of fracturing ice, runes along both arms and the ribcage flaring bright cyan at once, snow erupting in vast vertical plumes across the entire valley. Camera: pulled back to a vast super-wide, rising crane, catching the primordial scale in one held frame, HARD CUT at 10.0s.
-
-PERFORMANCE
-@titan performs with geological slowness and crushing weight — every movement loaded before it lands, joints grinding stone on stone, no theatrical flourish. @wardens read as terrified working soldiers, not heroes: eyes wide, mouths open, breath fogging hard, one soldier stumbling and being pulled up by another mid-cut. The horn-bearer reads as steady and old, jaw set, eyes tracking the titan. Pore-level realism on the horn-bearer's face: vellus hair, asymmetric moles, capillary flush from the cold, wet living eyes with catch-lights, visible breath and chest rise. Restrained and human across the army, never cartoonish. Top-tier cinematic restraint.
-
-PHYSICS
-Mass and inertia carry through every movement of @titan — the arm loads before it tears free and drags the whole torso with it. Ice slabs fall with real weight, not lightweight fragments; they shatter on impact with the glacier floor, not float. Snow plumes obey the crosswind vector at 20 km/h and shear leftward across the valley. Wardens have real body weight — diving bodies land hard, not softly, and slide on the ice with correct friction. The horn's vibration reads faintly in loose snow at the horn-bearer's feet. Nothing floats. Correct contact shadows read clearly where titan meets glacier and warden meets ice.
-
-LIGHTING
-WB locked 6500K cold overcast daylight, flat and even, sun fully occluded by leaden cloud. Key is a broad diffuse top-light with no direct sun. The only emitted light in the world is the pale-cyan 5500K rune glow along @titan's joints, eye-sockets, and rib-seams, which spills onto the surrounding hoarfrost and briefly reflects in the wardens' plate on close cuts. Camera on the shadow side of the titan across all wide cuts. Faint atmospheric haze at 30% at the glacier wall, thickening into the snow plumes.
-
-COLOR GRADE
-Stark white in the snow and powder, frozen blue in the deep ice seams, near-black in the fractured basalt of the titan's core, leaden grey in the sky; every cold tone comes from real material and light bounce, not a filter. Rune cyan lives only in the carved channels — joints, eye-sockets, ribcage seams — and its spill onto immediate hoarfrost. Warden plate reads as dark weathered steel with cold reflections. Blacks stay open with detail in the basalt, highlights roll off in the snow. Color tied to source and surface, not a flat list.
-
-WARDROBE
-@wardens wear weathered dark steel plate over black padded gambesons, snow-crusted fur mantles at the shoulders, iron-rimmed shields, cold-numbed hands in gloves. Fur crusted with ice at the seams. No faction crest, no logo. The horn-bearer wears the same but with a heavier fur mantle and a leather baldric holding @warhorn.
-
-AUDIO
-NO MUSIC. SFX ONLY — diegetic sound and live audio throughout. No score, no soundtrack, no background music of any kind. CUT 1: sub-bass glacier groaning, ice cracking in long tearing sheets, wardens' plate rattling and boots crunching on ice, wind at 20 km/h. CUT 2: massive stone-on-ice grind, slabs shattering as they hit the glacier floor, rune flare with a low harmonic hum. CUT 3: sharp ice crack, powder snow whumphs, wardens' shouts and grunts, one spear clattering on ice. CUT 4: the horn's long low note, one held bass tone spreading across the valley, warden breath fogging audibly. CUT 5: a full-body glacier splintering roar, layered ice-shear, one titanic bass groan from @titan itself. No dialogue, no subtitles.
-
-STYLE
-8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, 35mm film character, crushing primordial-scale epic look, hyperdetailed ice, snow, hoarfrost, basalt, weathered steel.
-
-OUTPUT SETTINGS
-10 seconds, five cuts, 16:9, 8K ultra-high-definition, 24 fps, real-time throughout, anamorphic flare character on rune spill.
-
-POSITIVE LOCKS
-One shared valley, one @titan, same @wardens and @warhorn across all five cuts, identical every frame, no morphing, no drift. @titan stays mountain-sized against the wardens throughout — the scale relationship holds exactly: 200 wardens tall in every wide, one warden a fingernail against the shin. Runes stay pale cyan and stay carved into the stone, they do not migrate. Handheld shake spikes on every titan movement and every ice collapse, never smooths out. Camera stays third-person outside the army throughout the 10 seconds. Warden eyes stay natural — no eye glow; the only emitted light in the world is @titan's runes. Contact shadows read clearly where titan meets glacier and warden meets ice. Ice slabs fall with mass, never floating. Snow travels on one consistent wind vector. Clean frame throughout — no logos, no UI, no text overlays, no subtitles, no watermark, no dragons or unrelated creatures in shot.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

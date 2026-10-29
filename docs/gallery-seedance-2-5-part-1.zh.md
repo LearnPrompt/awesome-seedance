@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/8 页）
 
-Seedance 2.5 全部 644 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 645 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–86 条，共 644 条。
+本页：第 1–86 条，共 645 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 

@@ -47,7 +47,7 @@ Zadanie: Model ma wykonać zadanie bzez pomoicy ze strony człowieka.
 
 ## E3 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 80 · stability: 85
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 81 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
 - Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
 
@@ -153,7 +153,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ## E6 · A Korean Woman's Winter Journey Through England
 
-- Seedance 2.0 · creator: @Harry_thingss · heat: 75
+- Seedance 2.0 · creator: @Harry_thingss · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-second-ultra-realistic-4k-cinematic-winter-travel-vlog-set-in-england-6e26bca27e87) · [finished media](https://media.goodcase.ai/cases/72a97331532a.mp4) · [poster](https://media.goodcase.ai/cases/fad9a7d79ccd.jpg) · [original source](https://x.com/Harry_thingss/status/2102993120942346594)
 - Summary: What if your imagination looked like a blockbuster? ❄️ Winter mornings in England hit different ☕🇬🇧 From misty cobblestone streets to cozy Christmas markets —…
 

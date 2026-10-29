@@ -14,8 +14,8 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 103 | 5 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 103 | 11 |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 102 | 5 |
 | [动作连续性编排](#action-continuity-choreography) | 95 | 7 |
 | [产品广告镜头](#product-ad-shot-design) | 72 | 3 |
 | [电影感旅行漫游](#travel-city-walk) | 66 | 4 |
@@ -26,7 +26,7 @@
 | [过程与变换叙事](#process-transformation-story) | 42 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
 | [恐怖悬疑短片](#horror-suspense-short) | 40 | 3 |
-| [美食特写与吃播 ASMR](#food-asmr) | 33 | 0 |
+| [美食特写与吃播 ASMR](#food-asmr) | 34 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 31 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 29 | 1 |
 | [汽车与载具速度片](#vehicles-at-speed) | 28 | 0 |
@@ -35,6 +35,26 @@
 | [分镜网格转视频](#storyboard-grid-to-video) | 10 | 0 |
 | [游戏实机录屏与直播叠层](#game-ui-livestream) | 7 | 0 |
 | [代码渲染讲解动画](#code-rendered-explainer-video) | 6 | 0 |
+
+<a id="epic-fantasy-scifi-spectacle"></a>
+
+### 奇幻科幻大场面
+
+> 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
+
+103 个案例，来自 71 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
+```
+
+| 创作者 | 方法 | 案例 | 安装 | 页面 |
+| --- | --- | --- | --- | --- |
+| Zyrellix | 奇幻科幻大场面 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| laviniavelle | 奇幻科幻大场面 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AvelyrahnAI | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Strength04_X | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| CharaspowerAI | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="pov-vlog-presence"></a>
 
@@ -61,26 +81,6 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 | oggii_0 | POV / Vlog 临场感 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | techhalla | 90年代西海岸16mm | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-6moylp` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-6moylp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Goodmanprotocol | POV / Vlog 临场感 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="epic-fantasy-scifi-spectacle"></a>
-
-### 奇幻科幻大场面
-
-> 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
-
-102 个案例，来自 71 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
-```
-
-| 创作者 | 方法 | 案例 | 安装 | 页面 |
-| --- | --- | --- | --- | --- |
-| Zyrellix | 奇幻科幻大场面 | 6 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| laviniavelle | 奇幻科幻大场面 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AvelyrahnAI | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Strength04_X | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| CharaspowerAI | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="action-continuity-choreography"></a>
 
@@ -261,7 +261,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 
 > 烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。
 
-33 个案例，来自 26 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+34 个案例，来自 27 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill food-asmr

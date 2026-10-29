@@ -14,8 +14,8 @@
 
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 103 | 5 |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 102 | 5 |
 | [Action continuity choreography](#action-continuity-choreography) | 95 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
@@ -26,7 +26,7 @@
 | [Process and transformation story](#process-transformation-story) | 42 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Horror and suspense short](#horror-suspense-short) | 40 | 3 |
-| [Food close-ups and eating ASMR](#food-asmr) | 33 | 0 |
+| [Food close-ups and eating ASMR](#food-asmr) | 34 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 31 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 29 | 1 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 28 | 0 |
@@ -35,6 +35,26 @@
 | [Storyboard grid to video](#storyboard-grid-to-video) | 10 | 0 |
 | [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 7 | 0 |
 | [Code-rendered explainer video](#code-rendered-explainer-video) | 6 | 0 |
+
+<a id="epic-fantasy-scifi-spectacle"></a>
+
+### Epic fantasy and sci-fi spectacle
+
+> Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
+
+71 人のクリエイターによる 103 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
+```
+
+| クリエイター | メソッド | ケース | インストール | ページ |
+| --- | --- | --- | --- | --- |
+| Zyrellix | Epic fantasy and sci-fi spectacle | 6 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| laviniavelle | Epic fantasy and sci-fi spectacle | 5 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AvelyrahnAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Strength04_X | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| CharaspowerAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="pov-vlog-presence"></a>
 
@@ -61,26 +81,6 @@ npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence
 | oggii_0 | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | techhalla | 90s West Coast 16mm | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-6moylp` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-6moylp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Goodmanprotocol | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="epic-fantasy-scifi-spectacle"></a>
-
-### Epic fantasy and sci-fi spectacle
-
-> Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
-
-71 人のクリエイターによる 102 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
-```
-
-| クリエイター | メソッド | ケース | インストール | ページ |
-| --- | --- | --- | --- | --- |
-| Zyrellix | Epic fantasy and sci-fi spectacle | 6 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| laviniavelle | Epic fantasy and sci-fi spectacle | 5 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AvelyrahnAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Strength04_X | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| CharaspowerAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="action-continuity-choreography"></a>
 
@@ -261,7 +261,7 @@ npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
 
 > Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
 
-26 人のクリエイターによる 33 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+27 人のクリエイターによる 34 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill food-asmr
