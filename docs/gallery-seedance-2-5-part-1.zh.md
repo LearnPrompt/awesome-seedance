@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/8 页）
 
-Seedance 2.5 全部 645 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 646 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–86 条，共 645 条。
+本页：第 1–86 条，共 646 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 
@@ -2947,6 +2947,30 @@ low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, d
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 修女化身天使，在废墟教堂中斩灭群魔
+
+> ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
+
+[<img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="600" alt="修女化身天使，在废墟教堂中斩灭群魔">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2108765927194198397) | **发布:** 2026-10-10 | **热度:** 90
+
+<details>
+<summary><b>完整 prompt（6 行，点开展开）</b></summary>
+
+```
+A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+Negative Prompt:
+blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 红裙女子提着食材登上云端山顶小屋
 
 > Somewhere between reality and a dream.🌫️✨ Created with Seedance 2.5 on @FishCreativeHQ PROMPT : Create a cinematic, photorealistic 30-second vertical video usi…
@@ -3144,30 +3168,6 @@ FORMAT: Vertical 9:16, consistent characters, smooth transitions, realistic moti
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-the-shadow-dragon-awakens-7717a96f1fd3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 修女化身天使，在废墟教堂中斩灭群魔
-
-> ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
-
-[<img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="600" alt="修女化身天使，在废墟教堂中斩灭群魔">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2108765927194198397) | **发布:** 2026-10-10 | **热度:** 89
-
-<details>
-<summary><b>完整 prompt（6 行，点开展开）</b></summary>
-
-```
-A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
-
-Negative Prompt:
-blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
-
-#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女子在夜间粉色球场滑着滑板打网球
 
@@ -3822,6 +3822,144 @@ VISUAL RULES
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 猫咪自拍记录温馨的一天
+
+> Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
+
+[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="600" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2091385137133219971) | **发布:** 2026-08-23 | **热度:** 88
+
+**稳定度：** 70/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（116 行，点开展开）</b></summary>
+
+```
+Create a 60-second realistic day-in-the-life cat vlog, following the same cute cat from waking up in the morning until falling asleep at night.
+
+Critical Requirement
+
+NO HUMAN SPEECH AND NO DIALOGUE.
+
+The cat must not speak any words at any point. Do not use narration, voice-over, human voices, subtitles, captions, or text.
+
+The story must be communicated entirely through the cat’s actions, facial expressions, body language, meows, purrs, chirps, yawns, and natural environmental sounds.
+
+Overall Visual Style
+
+One continuous handheld front-facing smartphone selfie-vlog perspective. The cat holds the phone itself with its paw and films its own day.
+
+- Realistic modern smartphone footage
+- Natural handheld shake
+- Slight framing imperfections
+- Occasional autofocus hunting
+- Natural front-camera lens distortion
+- Realistic unfiltered smartphone colors
+- Soft natural morning, afternoon, and evening lighting
+- Same cat, face, fur pattern, eyes, and body throughout
+- Cute but believable cat behavior
+- Natural expressions and movements
+- No cinematic camera movements
+- No third-person camera
+- No tripod or external camera
+- No beauty filter or cinematic color grading
+- No logos, watermarks, subtitles, captions, or on-screen text
+- No background music
+
+0–10 sec — Wake Up
+
+The cat wakes up in a cozy bed.
+
+It picks up the phone with its paw and starts filming itself selfie-style.
+
+It looks sleepy, yawns, stretches, rubs its face with its paws, and looks into the camera with sleepy eyes.
+
+It gives a tiny “meow”, then climbs out of bed.
+
+10–20 sec — Breakfast
+
+The cat walks into the kitchen while filming itself.
+
+It sees its food bowl and immediately becomes excited.
+
+It prepares or receives its breakfast, eagerly eats, then drinks water.
+
+It looks happily into the camera and gives a couple of excited little meows.
+
+Include realistic food-bowl sounds, chewing, drinking, and kitchen ambience.
+
+20–30 sec — Playtime
+
+The cat grabs its favorite toy.
+
+It runs around the house, chases the toy, jumps onto the couch, bats at it with its paws, and playfully rolls around.
+
+The phone shakes naturally during the energetic movement.
+
+The cat stops for a moment, looks directly into the camera, gives a playful chirp/meow, then immediately runs off again.
+
+30–40 sec — Exploring
+
+The cat explores the house.
+
+It looks through a window, watches birds outside, investigates a strange sound, walks into another room, and sniffs interesting objects.
+
+It notices something outside and becomes curious.
+
+The cat makes a soft “mrrp” sound and continues exploring.
+
+Keep the behavior authentically feline rather than human-like.
+
+40–50 sec — Afternoon Adventure
+
+The cat safely goes outside into a garden or quiet courtyard.
+
+It walks around while filming itself, sniffs flowers and plants, watches birds, investigates leaves, and explores its surroundings.
+
+The cat pauses, looks excitedly at something off-camera, then gives a small curious meow.
+
+Use natural outdoor sounds such as birds, wind, leaves, distant traffic, and footsteps.
+
+50–60 sec — Evening & Bedtime
+
+The cat returns home as the light becomes warm and soft.
+
+It has its evening meal, drinks some water, then climbs onto the couch or back into its bed.
+
+It grooms itself, yawns, becomes sleepy, and curls into a comfortable position.
+
+It looks into the phone one last time, gives a tiny sleepy meow, slowly closes its eyes, and lowers the phone naturally.
+
+End with quiet nighttime home ambience.
+
+Final Audio Requirements
+
+Absolutely no dialogue. No words. No narration. No human voice. No talking cat.
+
+Use only natural diegetic sounds:
+
+- Cat meows
+- Purring
+- Chirping
+- Yawning
+- Footsteps
+- Food and water sounds
+- Toy sounds
+- Household ambience
+- Birds and outdoor sounds
+- Wind and leaves
+- Natural nighttime ambience
+
+The finished video should feel like a realistic, cozy smartphone vlog from a cat’s perspective, showing what the cat naturally does throughout an entire day without saying a single word.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 壁炉旁的小龙用魔法把少女金发变成爆炸头
 
 > A magical baby dragon gives a young woman the most unexpected hairstyle transformation! 🐉✨ Made with Seedance 2.5 Prompt below ⤵️ 💬
@@ -4008,144 +4146,6 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 猫咪自拍记录温馨的一天
-
-> Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
-
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="600" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2091385137133219971) | **发布:** 2026-08-23 | **热度:** 87
-
-**稳定度：** 70/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（116 行，点开展开）</b></summary>
-
-```
-Create a 60-second realistic day-in-the-life cat vlog, following the same cute cat from waking up in the morning until falling asleep at night.
-
-Critical Requirement
-
-NO HUMAN SPEECH AND NO DIALOGUE.
-
-The cat must not speak any words at any point. Do not use narration, voice-over, human voices, subtitles, captions, or text.
-
-The story must be communicated entirely through the cat’s actions, facial expressions, body language, meows, purrs, chirps, yawns, and natural environmental sounds.
-
-Overall Visual Style
-
-One continuous handheld front-facing smartphone selfie-vlog perspective. The cat holds the phone itself with its paw and films its own day.
-
-- Realistic modern smartphone footage
-- Natural handheld shake
-- Slight framing imperfections
-- Occasional autofocus hunting
-- Natural front-camera lens distortion
-- Realistic unfiltered smartphone colors
-- Soft natural morning, afternoon, and evening lighting
-- Same cat, face, fur pattern, eyes, and body throughout
-- Cute but believable cat behavior
-- Natural expressions and movements
-- No cinematic camera movements
-- No third-person camera
-- No tripod or external camera
-- No beauty filter or cinematic color grading
-- No logos, watermarks, subtitles, captions, or on-screen text
-- No background music
-
-0–10 sec — Wake Up
-
-The cat wakes up in a cozy bed.
-
-It picks up the phone with its paw and starts filming itself selfie-style.
-
-It looks sleepy, yawns, stretches, rubs its face with its paws, and looks into the camera with sleepy eyes.
-
-It gives a tiny “meow”, then climbs out of bed.
-
-10–20 sec — Breakfast
-
-The cat walks into the kitchen while filming itself.
-
-It sees its food bowl and immediately becomes excited.
-
-It prepares or receives its breakfast, eagerly eats, then drinks water.
-
-It looks happily into the camera and gives a couple of excited little meows.
-
-Include realistic food-bowl sounds, chewing, drinking, and kitchen ambience.
-
-20–30 sec — Playtime
-
-The cat grabs its favorite toy.
-
-It runs around the house, chases the toy, jumps onto the couch, bats at it with its paws, and playfully rolls around.
-
-The phone shakes naturally during the energetic movement.
-
-The cat stops for a moment, looks directly into the camera, gives a playful chirp/meow, then immediately runs off again.
-
-30–40 sec — Exploring
-
-The cat explores the house.
-
-It looks through a window, watches birds outside, investigates a strange sound, walks into another room, and sniffs interesting objects.
-
-It notices something outside and becomes curious.
-
-The cat makes a soft “mrrp” sound and continues exploring.
-
-Keep the behavior authentically feline rather than human-like.
-
-40–50 sec — Afternoon Adventure
-
-The cat safely goes outside into a garden or quiet courtyard.
-
-It walks around while filming itself, sniffs flowers and plants, watches birds, investigates leaves, and explores its surroundings.
-
-The cat pauses, looks excitedly at something off-camera, then gives a small curious meow.
-
-Use natural outdoor sounds such as birds, wind, leaves, distant traffic, and footsteps.
-
-50–60 sec — Evening & Bedtime
-
-The cat returns home as the light becomes warm and soft.
-
-It has its evening meal, drinks some water, then climbs onto the couch or back into its bed.
-
-It grooms itself, yawns, becomes sleepy, and curls into a comfortable position.
-
-It looks into the phone one last time, gives a tiny sleepy meow, slowly closes its eyes, and lowers the phone naturally.
-
-End with quiet nighttime home ambience.
-
-Final Audio Requirements
-
-Absolutely no dialogue. No words. No narration. No human voice. No talking cat.
-
-Use only natural diegetic sounds:
-
-- Cat meows
-- Purring
-- Chirping
-- Yawning
-- Footsteps
-- Food and water sounds
-- Toy sounds
-- Household ambience
-- Birds and outdoor sounds
-- Wind and leaves
-- Natural nighttime ambience
-
-The finished video should feel like a realistic, cozy smartphone vlog from a cat’s perspective, showing what the cat naturally does throughout an entire day without saying a single word.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 十秒自救的女巫把自己变成了鸭子
 

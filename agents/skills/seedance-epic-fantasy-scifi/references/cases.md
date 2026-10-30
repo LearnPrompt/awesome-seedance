@@ -45,7 +45,22 @@ Prompt
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
+## E3 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
+
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 90
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
+- Summary: ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
+
+```text
+A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+Negative Prompt:
+blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+## E4 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce) · [finished media](https://media.goodcase.ai/cases/ab75ef7be18f.mp4) · [poster](https://media.goodcase.ai/cases/04e5a525e474.jpg) · [original source](https://x.com/itsSaira_1/status/2109129359441457193)
@@ -70,7 +85,7 @@ low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, d
 #AIArt #VisualStorytelling #AI
 ```
 
-## E4 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
+## E5 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
@@ -95,21 +110,6 @@ Negative prompt:
 blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
 
 #Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
-```
-
-## E5 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 89
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
-- Summary: ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
-
-```text
-A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
-
-Negative Prompt:
-blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
-
-#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
 ## E6 · Lavender-Haired Girl Leaps Through a Pool Wave
