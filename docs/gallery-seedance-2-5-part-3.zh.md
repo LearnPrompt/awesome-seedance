@@ -1,86 +1,10 @@
 # Seedance 2.5 — 全量案例（第 3/8 页）
 
-Seedance 2.5 全部 646 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 648 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 161–253 条，共 646 条。
+本页：第 163–256 条，共 648 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
-
-### 吉隆坡崩塌都市极限逃生
-
-> When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
-
-[<img src="https://media.goodcase.ai/cases/a4fc7d20210a.jpg" width="600" alt="吉隆坡崩塌都市极限逃生">](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2097267405399396457) | **发布:** 2026-09-08 | **热度:** 77
-
-<details>
-<summary><b>完整 prompt（58 行，点开展开）</b></summary>
-
-```
-TITLE: THE SURVIVAL RUN
-
-Create a single-page, premium Hollywood disaster-action storyboard in 16:9 widescreen format with 12 cinematic panels covering one continuous 30-second survival sequence.
-
-REFERENCE IMAGE 1 (Image1):
-Use as the EXACT main character reference. Maintain the same facial identity, hairstyle, beard, body proportions, black shirt, black pants and overall appearance consistently in every panel. No character, face, hairstyle or clothing changes. Dust and debris may gradually appear as the disaster progresses.
-
-REFERENCE IMAGE 2 (Image2):
-Use as the EXACT storyboard design and layout reference. Match its premium cinematic panel arrangement, numbering, timecodes, black caption strips, typography hierarchy, borders and professional Hollywood storyboard presentation.
-
-STYLE:
-Photorealistic live-action Hollywood disaster film, ARRI Alexa 35, anamorphic cinematic lens, realistic Kuala Lumpur, Malaysia, practical stunt realism, believable destruction physics, handheld tracking, cinematic lighting, motion blur, dust, shattered glass, sparks and realistic debris.
-
-CORE RULE:
-ONE CONTINUOUS SURVIVAL SHOT. Every movement must logically connect. No teleportation or unexplained location changes. The same man constantly runs, stumbles, recovers, jumps, slides and changes direction while the collapsing city becomes the antagonist.
-
-STORYBOARD PANELS:
-
-1. 00:00–00:03 — EARTHQUAKE
-Low-angle behind his feet as he runs through Kuala Lumpur. The ground shakes, buildings tremble, glass explodes and concrete crashes behind him. He looks back and accelerates.
-
-2. 00:03–00:06 — COLLAPSE
-Front tracking shot. A building façade collapses behind him. He changes direction and jumps over a metal barrier as debris destroys his original path.
-
-3. 00:06–00:09 — CAR IMPACT
-At an intersection, vehicles slide toward him. He dives at the last second, a car passes overhead, he rolls, recovers and keeps running.
-
-4. 00:09–00:12 — ROAD CRACK
-A huge fissure tears across the road. He runs onto a damaged car as a springboard and leaps across collapsing pavement.
-
-5. 00:12–00:15 — FALLING GLASS
-Side tracking shot. High-rise windows explode above him. Glass rains down as he shields his face and ducks beneath a falling sign.
-
-6. 00:15–00:18 — COLLAPSE
-A building collapses ahead. He spots a narrow gap, drops low and slides beneath falling debris, then emerges dusty and runs.
-
-7. 00:18–00:21 — VEHICLE CHAOS
-A bus crashes into cars. A spinning vehicle approaches. He jumps onto its hood, springs over the roof and lands on the opposite sidewalk.
-
-8. 00:21–00:24 — ELEVATED ROAD FAILURE
-An elevated road collapses ahead. He performs a desperate full-body gap jump, lands hard, rolls, recovers and runs.
-
-9. 00:24–00:27 — DEBRIS CHASE
-Heavy dust reduces visibility. Falling streetlights and concrete force sudden direction changes. He stumbles against a wall and pushes forward.
-
-10. 00:27–00:30 — FINAL COLLAPSE
-Camera faces him as he runs toward it. Massive buildings collapse behind him. He jumps a concrete barrier as a gigantic slab crashes down.
-
-11. FINAL SHOT — STILL RUNNING
-He emerges through a huge dust cloud, exhausted and covered in debris but clearly recognizable as Reference Image 1, still running toward camera.
-
-12. CUT TO BLACK
-Black screen with:
-“THE SURVIVAL RUN”
-“SOME DISASTERS YOU CAN’T OUTRUN”
-
-CAMERA:
-Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans and ground-level movement. Camera always follows his momentum. No drones, floating cameras or impossible rotations.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 少年与小狐狸在金色山间草甸相遇
 
@@ -131,26 +55,6 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/underwater-animal-orchestra?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 韩国乡村女子的农场晨间日常
-
-> There’s something special about a morning spent close to nature. Created on Seedance 2.5 Prompt: Create a 30-second photorealistic Korean countryside lifestyle …
-
-[<img src="https://media.goodcase.ai/cases/12a504af8dee.jpg" width="600" alt="韩国乡村女子的农场晨间日常">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2097556131623432569) | **发布:** 2026-09-09 | **热度:** 76
-
-**稳定度：** 70/100
-
-**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (70 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
-
-Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-korean-countryside-lifestyle-vlog-following-a-bfe06d409d66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国海港一日手持旅行日志
 
@@ -968,6 +872,242 @@ Extra slow motion beyond the takeoff, hovering or floating mid-air, smooth cinem
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-hidden-volcanic-spring-canyon-deep-in-a-pacific-northwest-pine-forest-on-a-br-ff48a4636c95?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 亡母来电阻止雨夜山路车祸
+
+> Created with Seedance 2.5 A cinematic thriller about a mysterious warning, a dangerous turn, and a call that may have saved her life. Prompt: Create a 30-second…
+
+[<img src="https://media.goodcase.ai/cases/b1e40650a69c.jpg" width="600" alt="亡母来电阻止雨夜山路车祸">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @RuzainaMeer | **来源:** [原帖](https://x.com/RuzainaMeer/status/2097193955230405007) | **发布:** 2026-09-08 | **热度:** 73
+
+**稳定度：** 84/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (84.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（80 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
+MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
+
+SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
+
+0–5 SECONDS
+
+Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
+
+5–10 SECONDS
+
+Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
+
+Caller ID: “MOM”
+
+The woman freezes.
+
+Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
+
+10–17 SECONDS
+
+Extreme close-up of her face as she listens.
+
+A faint, emotional female voice comes through the phone:
+
+“Don't take the next turn.”
+
+The woman's expression changes from confusion to fear.
+
+The call suddenly disconnects.
+
+She looks at the phone.
+
+The screen reads: CALL ENDED
+
+Outside the windshield, a sharp mountain turn approaches through the heavy rain.
+
+17–23 SECONDS
+
+She immediately slows the car.
+
+Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
+
+Suddenly, distant headlights appear through the rain around the corner.
+
+The woman looks toward them.
+
+A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
+
+The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
+
+23–27 SECONDS
+
+Silence after the crash.
+
+The woman sits completely still, breathing heavily, visibly shaken.
+
+She slowly looks down at her phone.
+
+The phone screen now shows:
+
+NO SIM — NO SIGNAL
+
+She looks confused and terrified.
+
+27–30 SECONDS
+
+Extreme close-up of her eyes filling with tears.
+
+She looks toward the empty passenger seat.
+
+A subtle emotional pause.
+
+In a trembling whisper, she says:
+
+“Mom?”
+
+Cut instantly to black.
+
+FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 穿越五重奇境的神秘之门
+
+> One door. Five worlds. Endless possibilities. Where would you go? ✨🌍 made with Seedance 2.5 on @TapNow_AI . Here is the prompt🔽🔽🔽 Create a 28-second ultra-c…
+
+[<img src="https://media.goodcase.ai/cases/07f71f422450.jpg" width="600" alt="穿越五重奇境的神秘之门">](https://goodcase.ai/cases/seedance-one-door-e2d76fbb7712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @IsabelWhite24 | **来源:** [原帖](https://x.com/IsabelWhite24/status/2096638350174101539) | **发布:** 2026-09-06 | **热度:** 73
+
+<details>
+<summary><b>完整 prompt（116 行，点开展开）</b></summary>
+
+```
+One door. Five worlds. Endless possibilities. Where would you go? ✨🌍
+
+made with Seedance 2.5 on @TapNow_AI .
+ 
+Here is the prompt🔽🔽🔽
+
+Create a 28-second ultra-cinematic surreal fashion adventure starring my female AI model. Preserve her EXACT facial identity, facial structure, hairstyle, skin tone, body proportions and recognizable appearance throughout the entire video.
+
+The film must feel like ONE continuous impossible journey, not separate AI-generated clips. Photorealistic, mysterious, premium and visually spectacular.
+
+0–4 SEC — THE MYSTERIOUS HOTEL
+
+Begin with an extreme cinematic close-up of my model's eyes.
+
+Camera smoothly pulls backward, revealing her standing inside an impossibly long, luxurious old-European hotel corridor at night.
+
+Warm golden wall lamps illuminate hundreds of identical doors stretching into the distance.
+
+She wears an elegant flowing black evening dress with subtle jewellery.
+
+She looks toward one particular door and confidently approaches it.
+
+CAMERA: Slow dolly backward → smooth over-the-shoulder orbit as her hand reaches toward the brass handle.
+
+She opens the door.
+
+Intense white light floods through it and completely fills the lens.
+
+SEAMLESS TRANSITION THROUGH THE LIGHT.
+
+4–9 SEC — STORMY ICELAND
+
+The camera passes through the doorway directly behind her.
+
+Without stopping her walking motion, she emerges onto a spectacular Icelandic black-sand beach.
+
+Towering dark cliffs, crashing ocean waves, mist and light rain surround her.
+
+Strong wind naturally moves her hair and black dress.
+
+CAMERA: Begin low beside her feet → rapidly rise into a cinematic tracking orbit around her.
+
+Standing completely alone on the beach is another mysterious hotel door.
+
+She reaches it and immediately opens it.
+
+Camera follows directly through.
+
+9–14 SEC — FUTURISTIC TOKYO
+
+She steps through the same doorway directly into a futuristic Tokyo street at midnight.
+
+Her walking movement continues seamlessly.
+
+Wet streets reflect enormous neon signs, futuristic architecture and passing autonomous vehicles.
+
+Crowds naturally move around her while she confidently walks toward camera.
+
+CAMERA: 35mm anamorphic backward tracking shot → subtle handheld micro-movement → gentle push toward her face.
+
+A sleek futuristic motorcycle suddenly races extremely close across the foreground.
+
+For a fraction of a second, the motorcycle completely covers the camera.
+
+USE THE MOTORCYCLE AS THE TRANSITION.
+
+14–19 SEC — UNDERWATER BALLROOM
+
+As the motorcycle clears the lens, she is suddenly walking through an enormous abandoned luxury ballroom deep underwater.
+
+She does NOT wear diving equipment.
+
+She walks normally while her dress and hair gently react to the surrounding water.
+
+Gigantic floor-to-ceiling windows reveal the deep ocean outside.
+
+A huge whale silently glides past the windows behind her.
+
+Blue sunlight beams penetrate through the water while thousands of tiny particles float naturally through the scene.
+
+CAMERA: Slow cinematic 180° orbit around her as she turns slightly toward the whale.
+
+Suddenly hundreds of shimmering silver fish rush directly toward and across the camera.
+
+They completely fill the frame.
+
+19–23 SEC — GOLDEN DESERT
+
+The silver fish seamlessly transform into thousands of glowing golden particles carried by desert wind.
+
+Camera pushes through the particles.
+
+Reveal my model walking along the crest of an enormous golden sand dune during sunset.
+
+Her outfit has seamlessly transformed into an elegant flowing ivory desert outfit.
+
+HER FACE AND IDENTITY MUST REMAIN EXACTLY THE SAME.
+
+Wind dramatically moves the fabric.
+
+CAMERA: Start extremely wide → rapidly fly toward her → smooth orbit around her body.
+
+Reveal one final mysterious door standing alone at the top of the dune.
+
+She opens it.
+
+Brilliant golden-white sunlight bursts through.
+
+23–28 SEC — ABOVE THE CLOUDS
+
+She steps through the door.
+
+Camera follows immediately.
+
+Reveal an extraordinary mirrored.
+#AICinema #Seedance25
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-one-door-e2d76fbb7712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 米奇耳女孩智取土耳其冰淇淋
 
 > POV: You thought you were getting ice cream… but the Turkish ice cream guy had other plans 😂🍦 Created with Seedance 2.5 on @budgetpixel PROMPT : CHARACTER: A …
@@ -1059,6 +1199,61 @@ Two young attractive East Asian women working out together in a small indoor gym
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/noorlewisx-seedance-ai-90bc76157819?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 预见未来十秒的机器：悬念短片
+
+> He built a machine that could see 10 seconds into the future. Then he saw himself standing behind him. Create your versi
+
+[<img src="https://media.goodcase.ai/cases/5405d393af23.jpg" width="600" alt="Seedance 2.5 预见未来十秒的机器：悬念短片">](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @iam_nafisahmed | **来源:** [原帖](https://x.com/iam_nafisahmed/status/2088964392528527702) | **发布:** 2026-08-16 | **热度:** 73
+
+**稳定度：** 80/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.8 分) · [产物](https://media.goodcase.ai/retests/iam-nafisahmed-seedance-ai-b462f981ffa8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（33 行，点开展开）</b></summary>
+
+```
+He built a machine that could see 10 seconds into the future.
+
+Then he saw himself standing behind him.
+
+Create your version on @budgetpixel  using Seedance 2.5 
+
+Prompt below if you want to make your own.👇
+
+"Create a 10-second photorealistic cinematic sci-fi thriller.
+
+A young scientist stands inside a dark futuristic laboratory beside a glowing experimental time machine. He activates it and sees exactly 10 seconds into the future.
+
+At first, he smiles in amazement as the machine shows the laboratory still intact.
+
+Suddenly, the future image changes.
+
+The same laboratory is now completely destroyed—glass shattered, machines burning, sparks flying, smoke everywhere.
+
+The scientist looks around in panic.
+
+A countdown appears on the machine: 10... 9... 8... 7...
+
+He notices the machine's glowing energy core rapidly overheating.
+
+3... 2... 1...
+
+He realizes the machine is about to explode.
+
+The screen instantly cuts to black as a massive white flash fills the laboratory.
+
+Ultra-photorealistic, cinematic sci-fi thriller, realistic futuristic laboratory, dramatic lighting, realistic fire and sparks, intense suspense, fast pacing, believable technology, realistic physics, cinematic camera movement, premium Hollywood VFX, subtle film grain, highly detailed, 4K.
+
+No subtitles, no logos, no watermark, no cartoon style."
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国女孩的海滨咖啡漫游
 
@@ -1300,242 +1495,6 @@ Avoid text, subtitles, logos, watermarks, distorted facial features, extra limbs
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-4cfd04335a3a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 亡母来电阻止雨夜山路车祸
-
-> Created with Seedance 2.5 A cinematic thriller about a mysterious warning, a dangerous turn, and a call that may have saved her life. Prompt: Create a 30-second…
-
-[<img src="https://media.goodcase.ai/cases/b1e40650a69c.jpg" width="600" alt="亡母来电阻止雨夜山路车祸">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @RuzainaMeer | **来源:** [原帖](https://x.com/RuzainaMeer/status/2097193955230405007) | **发布:** 2026-09-08 | **热度:** 72
-
-**稳定度：** 84/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (84.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（80 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-photorealistic Hollywood-level cinematic thriller scene titled “THE LAST CALL.” The entire sequence must feel like a scene from a high-budget live-action feature film, with realistic human acting, natural facial expressions, physically accurate movement, realistic rain, practical lighting, believable vehicle physics, detailed environments, cinematic depth of field, subtle film grain, natural skin texture, realistic reflections, and professional Hollywood cinematography. No anime, no CGI-looking visuals, no fantasy aesthetic, no cyberpunk, no neon lighting, no exaggerated visual effects.
-MAIN CHARACTER: A realistic young woman in her late 20s, natural appearance, expressive eyes, shoulder-length dark hair slightly damp from the humid weather, wearing a simple dark jacket. Maintain the exact same woman, face, hairstyle, clothing, car, weather and environment consistently throughout the entire sequence.
-
-SETTING: A remote mountain road at night during heavy but realistic rainfall. Dark forested mountains surround the narrow winding road. Wet asphalt reflects only natural headlights and road markings. The atmosphere is tense, isolated and believable.
-
-0–5 SECONDS
-
-Interior of a moving car at night. Medium shot from the passenger side showing the woman driving alone. Rain continuously hits the windshield and realistic windshield wipers move back and forth. Dashboard illumination softly lights her face. She looks tired and emotionally distant while concentrating on the road. Camera slowly pushes toward her face. Natural breathing, subtle blinking and realistic micro-expressions.
-
-5–10 SECONDS
-
-Her smartphone suddenly begins ringing in the center console. Cut to an extremely realistic close-up of the phone screen.
-
-Caller ID: “MOM”
-
-The woman freezes.
-
-Her eyes widen slightly. Her hands tighten around the steering wheel. She looks at the phone in disbelief. She hesitates for a moment, then reaches down and answers the call.
-
-10–17 SECONDS
-
-Extreme close-up of her face as she listens.
-
-A faint, emotional female voice comes through the phone:
-
-“Don't take the next turn.”
-
-The woman's expression changes from confusion to fear.
-
-The call suddenly disconnects.
-
-She looks at the phone.
-
-The screen reads: CALL ENDED
-
-Outside the windshield, a sharp mountain turn approaches through the heavy rain.
-
-17–23 SECONDS
-
-She immediately slows the car.
-
-Camera moves to a forward-facing perspective through the windshield. The road curves sharply ahead.
-
-Suddenly, distant headlights appear through the rain around the corner.
-
-The woman looks toward them.
-
-A large truck suddenly loses control and crashes through the roadside barrier at the exact location where her car would have been if she had continued driving.
-
-The crash must look physically realistic and grounded, with believable vehicle momentum, rain, debris and impact. No exaggerated explosions.
-
-23–27 SECONDS
-
-Silence after the crash.
-
-The woman sits completely still, breathing heavily, visibly shaken.
-
-She slowly looks down at her phone.
-
-The phone screen now shows:
-
-NO SIM — NO SIGNAL
-
-She looks confused and terrified.
-
-27–30 SECONDS
-
-Extreme close-up of her eyes filling with tears.
-
-She looks toward the empty passenger seat.
-
-A subtle emotional pause.
-
-In a trembling whisper, she says:
-
-“Mom?”
-
-Cut instantly to black.
-
-FINAL AUDIO: Heavy rain, windshield wipers, realistic car interior ambience, distant thunder, phone ringing, muffled female voice, sudden silence after the crash, then only the woman's breathing.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-hollywood-level-cinematic-thriller-scen-364b9e454242?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 穿越五重奇境的神秘之门
-
-> One door. Five worlds. Endless possibilities. Where would you go? ✨🌍 made with Seedance 2.5 on @TapNow_AI . Here is the prompt🔽🔽🔽 Create a 28-second ultra-c…
-
-[<img src="https://media.goodcase.ai/cases/07f71f422450.jpg" width="600" alt="穿越五重奇境的神秘之门">](https://goodcase.ai/cases/seedance-one-door-e2d76fbb7712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @IsabelWhite24 | **来源:** [原帖](https://x.com/IsabelWhite24/status/2096638350174101539) | **发布:** 2026-09-06 | **热度:** 72
-
-<details>
-<summary><b>完整 prompt（116 行，点开展开）</b></summary>
-
-```
-One door. Five worlds. Endless possibilities. Where would you go? ✨🌍
-
-made with Seedance 2.5 on @TapNow_AI .
- 
-Here is the prompt🔽🔽🔽
-
-Create a 28-second ultra-cinematic surreal fashion adventure starring my female AI model. Preserve her EXACT facial identity, facial structure, hairstyle, skin tone, body proportions and recognizable appearance throughout the entire video.
-
-The film must feel like ONE continuous impossible journey, not separate AI-generated clips. Photorealistic, mysterious, premium and visually spectacular.
-
-0–4 SEC — THE MYSTERIOUS HOTEL
-
-Begin with an extreme cinematic close-up of my model's eyes.
-
-Camera smoothly pulls backward, revealing her standing inside an impossibly long, luxurious old-European hotel corridor at night.
-
-Warm golden wall lamps illuminate hundreds of identical doors stretching into the distance.
-
-She wears an elegant flowing black evening dress with subtle jewellery.
-
-She looks toward one particular door and confidently approaches it.
-
-CAMERA: Slow dolly backward → smooth over-the-shoulder orbit as her hand reaches toward the brass handle.
-
-She opens the door.
-
-Intense white light floods through it and completely fills the lens.
-
-SEAMLESS TRANSITION THROUGH THE LIGHT.
-
-4–9 SEC — STORMY ICELAND
-
-The camera passes through the doorway directly behind her.
-
-Without stopping her walking motion, she emerges onto a spectacular Icelandic black-sand beach.
-
-Towering dark cliffs, crashing ocean waves, mist and light rain surround her.
-
-Strong wind naturally moves her hair and black dress.
-
-CAMERA: Begin low beside her feet → rapidly rise into a cinematic tracking orbit around her.
-
-Standing completely alone on the beach is another mysterious hotel door.
-
-She reaches it and immediately opens it.
-
-Camera follows directly through.
-
-9–14 SEC — FUTURISTIC TOKYO
-
-She steps through the same doorway directly into a futuristic Tokyo street at midnight.
-
-Her walking movement continues seamlessly.
-
-Wet streets reflect enormous neon signs, futuristic architecture and passing autonomous vehicles.
-
-Crowds naturally move around her while she confidently walks toward camera.
-
-CAMERA: 35mm anamorphic backward tracking shot → subtle handheld micro-movement → gentle push toward her face.
-
-A sleek futuristic motorcycle suddenly races extremely close across the foreground.
-
-For a fraction of a second, the motorcycle completely covers the camera.
-
-USE THE MOTORCYCLE AS THE TRANSITION.
-
-14–19 SEC — UNDERWATER BALLROOM
-
-As the motorcycle clears the lens, she is suddenly walking through an enormous abandoned luxury ballroom deep underwater.
-
-She does NOT wear diving equipment.
-
-She walks normally while her dress and hair gently react to the surrounding water.
-
-Gigantic floor-to-ceiling windows reveal the deep ocean outside.
-
-A huge whale silently glides past the windows behind her.
-
-Blue sunlight beams penetrate through the water while thousands of tiny particles float naturally through the scene.
-
-CAMERA: Slow cinematic 180° orbit around her as she turns slightly toward the whale.
-
-Suddenly hundreds of shimmering silver fish rush directly toward and across the camera.
-
-They completely fill the frame.
-
-19–23 SEC — GOLDEN DESERT
-
-The silver fish seamlessly transform into thousands of glowing golden particles carried by desert wind.
-
-Camera pushes through the particles.
-
-Reveal my model walking along the crest of an enormous golden sand dune during sunset.
-
-Her outfit has seamlessly transformed into an elegant flowing ivory desert outfit.
-
-HER FACE AND IDENTITY MUST REMAIN EXACTLY THE SAME.
-
-Wind dramatically moves the fabric.
-
-CAMERA: Start extremely wide → rapidly fly toward her → smooth orbit around her body.
-
-Reveal one final mysterious door standing alone at the top of the dune.
-
-She opens it.
-
-Brilliant golden-white sunlight bursts through.
-
-23–28 SEC — ABOVE THE CLOUDS
-
-She steps through the door.
-
-Camera follows immediately.
-
-Reveal an extraordinary mirrored.
-#AICinema #Seedance25
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-one-door-e2d76fbb7712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 古堡苏醒的吸血鬼与命定少女
 
 > One forbidden door. One ancient vampire. One destiny they can’t escape. Made with Seedance 2.5 on @openart_ai Prompt: Cr
@@ -1650,60 +1609,49 @@ Cinematic action sequence, dynamic tracking shot in a modern glass-and-concrete 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/avelyrahnai-seedance-ai-50f8f8d3144f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 2.5 预见未来十秒的机器：悬念短片
+### 直升机追踪洛杉矶街头越野摩托特技骑手
 
-> He built a machine that could see 10 seconds into the future. Then he saw himself standing behind him. Create your versi
+> Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
 
-[<img src="https://media.goodcase.ai/cases/5405d393af23.jpg" width="600" alt="Seedance 2.5 预见未来十秒的机器：悬念短片">](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/68b308e11fb0.jpg" width="600" alt="直升机追踪洛杉矶街头越野摩托特技骑手">](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @iam_nafisahmed | **来源:** [原帖](https://x.com/iam_nafisahmed/status/2088964392528527702) | **发布:** 2026-08-16 | **热度:** 72
-
-**稳定度：** 80/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (79.8 分) · [产物](https://media.goodcase.ai/retests/iam-nafisahmed-seedance-ai-b462f981ffa8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @CharaspowerAI | **来源:** [原帖](https://x.com/CharaspowerAI/status/2111517673276240251) | **发布:** 2026-10-17 | **热度:** 71
 
 <details>
-<summary><b>完整 prompt（33 行，点开展开）</b></summary>
+<summary><b>完整 prompt（26 行，点开展开）</b></summary>
 
 ```
-He built a machine that could see 10 seconds into the future.
+Perfect AI cinematography is overrated.
+Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀
 
-Then he saw himself standing behind him.
+This Seedance 2.5 experiment proves it.
+Full prompt below 👇
+Ultra-realistic viral helicopter pursuit footage, raw local-news style, filmed entirely from one helicopter in bright Los Angeles daylight. Long-lens aerial camera, unstable vibration, abrupt zooms, compression artifacts, heat haze, autofocus breathing, imperfect framing, rotor thump, distant radio chatter, harsh California sun, no cinematic polish, believable amateur-news realism.
 
-Create your version on @budgetpixel  using Seedance 2.5 
+Main subject: one motocross rider on a dirt bike, full helmet and motocross gear, highly skilled, aggressive but controlled riding. Keep the same rider and same bike throughout.
 
-Prompt below if you want to make your own.👇
+Los Angeles daytime: palm-lined boulevard, parking lots, freeway ramps, concrete flood channel, industrial blocks, overpasses, service roads and distant skyline.
 
-"Create a 10-second photorealistic cinematic sci-fi thriller.
+0-5s: Immediate viral hook The helicopter camera is already searching frantically when the rider suddenly blasts into frame between moving cars. Operator snaps into a shaky zoom. The rider jumps a curb, cuts across a parking lot and nearly disappears behind palm trees.
 
-A young scientist stands inside a dark futuristic laboratory beside a glowing experimental time machine. He activates it and sees exactly 10 seconds into the future.
+5-10s: Chaotic tracking He rejoins a boulevard, threads through traffic, then veers up a sloped driveway and launches over a low divider. Camera over-zooms, loses him for half a second, then catches him landing cleanly.
 
-At first, he smiles in amazement as the machine shows the laboratory still intact.
+10-15s: Escalation The rider enters a concrete flood channel. Huge aerial reveal. He accelerates along the channel floor while the helicopter banks hard overhead. Dust trails behind the bike. Quick zoom on spinning rear wheel and suspension.
 
-Suddenly, the future image changes.
+15-20s: Viral stunt beat He rides up the angled concrete wall, holds a dramatic high line for a moment, then drops back down smoothly. Camera shakes violently trying to follow. Rotor vibration and radio chatter intensify.
 
-The same laboratory is now completely destroyed—glass shattered, machines burning, sparks flying, smoke everywhere.
+20-25s: Big surprise The rider exits through a service ramp, crosses beneath an overpass, then unexpectedly appears on a parallel industrial road. The operator pans late and barely recovers him. He hits a natural rise and gets long airtime in full daylight.
 
-The scientist looks around in panic.
+25-30s: Iconic ending He lands, accelerates toward another overpass and vanishes into shadow underneath. The helicopter overshoots, circles, zooms wildly across multiple roads, but he is gone. Reporter voice, stunned: “We just lost him.” Hold on shaky wide aerial of Los Angeles. Hard cut.
 
-A countdown appears on the machine: 10... 9... 8... 7...
+One continuous helicopter perspective, strong amateur-news authenticity, same rider throughout, realistic motocross physics, believable Los Angeles geography, harsh daylight, imperfect tracking, viral unpredictability, readable stunts, no crash, no gore, no readable text, no logos.
 
-He notices the machine's glowing energy core rapidly overheating.
-
-3... 2... 1...
-
-He realizes the machine is about to explode.
-
-The screen instantly cuts to black as a massive white flash fills the laboratory.
-
-Ultra-photorealistic, cinematic sci-fi thriller, realistic futuristic laboratory, dramatic lighting, realistic fire and sparks, intense suspense, fast pacing, believable technology, realistic physics, cinematic camera movement, premium Hollywood VFX, subtle film grain, highly detailed, 4K.
-
-No subtitles, no logos, no watermark, no cartoon style."
+#DreaminaCPP  @dreamina_ai
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/iam-nafisahmed-seedance-ai-b462f981ffa8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 梅树下掉落的心上人
 
@@ -1799,50 +1747,6 @@ A 15-second ultra-realistic cinematic martial arts battle inspired by classic Ho
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-15-second-ultra-realistic-cinematic-martial-arts-battle-inspired-by-classic-h-bf44f11cdc60?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 直升机追踪洛杉矶街头越野摩托特技骑手
-
-> Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
-
-[<img src="https://media.goodcase.ai/cases/68b308e11fb0.jpg" width="600" alt="直升机追踪洛杉矶街头越野摩托特技骑手">](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CharaspowerAI | **来源:** [原帖](https://x.com/CharaspowerAI/status/2111517673276240251) | **发布:** 2026-10-17 | **热度:** 70
-
-<details>
-<summary><b>完整 prompt（26 行，点开展开）</b></summary>
-
-```
-Perfect AI cinematography is overrated.
-Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀
-
-This Seedance 2.5 experiment proves it.
-Full prompt below 👇
-Ultra-realistic viral helicopter pursuit footage, raw local-news style, filmed entirely from one helicopter in bright Los Angeles daylight. Long-lens aerial camera, unstable vibration, abrupt zooms, compression artifacts, heat haze, autofocus breathing, imperfect framing, rotor thump, distant radio chatter, harsh California sun, no cinematic polish, believable amateur-news realism.
-
-Main subject: one motocross rider on a dirt bike, full helmet and motocross gear, highly skilled, aggressive but controlled riding. Keep the same rider and same bike throughout.
-
-Los Angeles daytime: palm-lined boulevard, parking lots, freeway ramps, concrete flood channel, industrial blocks, overpasses, service roads and distant skyline.
-
-0-5s: Immediate viral hook The helicopter camera is already searching frantically when the rider suddenly blasts into frame between moving cars. Operator snaps into a shaky zoom. The rider jumps a curb, cuts across a parking lot and nearly disappears behind palm trees.
-
-5-10s: Chaotic tracking He rejoins a boulevard, threads through traffic, then veers up a sloped driveway and launches over a low divider. Camera over-zooms, loses him for half a second, then catches him landing cleanly.
-
-10-15s: Escalation The rider enters a concrete flood channel. Huge aerial reveal. He accelerates along the channel floor while the helicopter banks hard overhead. Dust trails behind the bike. Quick zoom on spinning rear wheel and suspension.
-
-15-20s: Viral stunt beat He rides up the angled concrete wall, holds a dramatic high line for a moment, then drops back down smoothly. Camera shakes violently trying to follow. Rotor vibration and radio chatter intensify.
-
-20-25s: Big surprise The rider exits through a service ramp, crosses beneath an overpass, then unexpectedly appears on a parallel industrial road. The operator pans late and barely recovers him. He hits a natural rise and gets long airtime in full daylight.
-
-25-30s: Iconic ending He lands, accelerates toward another overpass and vanishes into shadow underneath. The helicopter overshoots, circles, zooms wildly across multiple roads, but he is gone. Reporter voice, stunned: “We just lost him.” Hold on shaky wide aerial of Los Angeles. Hard cut.
-
-One continuous helicopter perspective, strong amateur-news authenticity, same rider throughout, realistic motocross physics, believable Los Angeles geography, harsh daylight, imperfect tracking, viral unpredictability, readable stunts, no crash, no gore, no readable text, no logos.
-
-#DreaminaCPP  @dreamina_ai
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 夜色敞篷车里，橘白猫为猫狗同伴唱歌
 
@@ -3583,6 +3487,46 @@ Negative prompt: No animation, cartoon visuals, CGI-looking characters, artifici
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-terrifying-halloween-night-unfolds-on-a-rain-soaked-wooden-porch-where-a-rea-1d5d12feaa79?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 萌娃喂爸爸钞票，母女合伙讨玩具钱
+
+> Made with seedance 2.5 Prompt 👇 Create a 22-second, high-quality 3D animated family comedy with a polished Pixar-inspired aesthetic. Set the scene in a luxurio…
+
+[<img src="https://media.goodcase.ai/cases/e29d44178764.jpg" width="600" alt="萌娃喂爸爸钞票，母女合伙讨玩具钱">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c1454b276785?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2113094951684931713) | **发布:** 2026-10-22 | **热度:** 66
+
+<details>
+<summary><b>完整 prompt（22 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇
+Create a 22-second, high-quality 3D animated family comedy with a polished Pixar-inspired aesthetic. Set the scene in a luxurious, warmly lit living room with soft golden lighting, elegant furniture, and cinematic depth of field.
+
+A stylish, curly-haired man wearing a black suit, gold chain, and luxury watch sits on a sofa beside his adorable toddler daughter. The little girl wears a pink knitted outfit, has big expressive eyes, and carries a colorful toy hammer. Her beautiful young mother stands nearby wearing a white blouse and elegant pink trousers.
+
+Scene sequence:
+
+- 0–4 seconds: The toddler approaches her father with a small banknote, innocently trying to feed it to him. He leans forward, confused but amused.
+- 4–8 seconds: The father humorously pretends to bite the money while the little girl watches with excitement. Use close-up shots of their expressive faces.
+- 8–12 seconds: The toddler turns toward her mother and proudly shows her the money. The mother smiles playfully and produces a colorful toy hammer.
+- 12–17 seconds: The father suddenly realizes what is happening. His eyes widen in shock as he sees the toy hammer and the money exchange. The mother and daughter exchange mischievous smiles.
+- 17–22 seconds: The mother holds up the money while the toddler happily grips her toy hammer. The father leans backward in exaggerated comic panic, raising his hands as if he has been tricked into paying for the toy.
+
+Visual style: Ultra-detailed 3D character animation, realistic fabric textures, expressive facial movements, natural body motion, cinematic camera angles, smooth transitions, warm ambient lighting, shallow depth of field, professional animated-movie quality.
+
+Audio: Playful orchestral comedy music, subtle footsteps, soft paper rustling, toy handling sounds, and humorous reaction sound effects. No dialogue or subtitles.
+
+Consistency requirements: Maintain identical character designs, clothing, hairstyles, facial features, and proportions throughout every shot. Smooth animation, coherent actions, accurate hand movements, no flickering, no extra fingers, no character distortion, and no sudden scene changes.
+
+Format: 16:9, 4K quality, 24 fps, approximately 22 seconds, family-friendly comedic storytelling.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c1454b276785?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 高预算敞篷跑车商业广告
 
 > 一份详细的提示词，用于制作一段 28 秒的高预算真人实拍汽车广告，主角为一款敞篷跑车，包含具体的场景、资产及物理真实感指令。
@@ -3780,6 +3724,165 @@ Negative prompt:No text, subtitles, logos, watermarks, extra fingers, distorted 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-ultra-detailed-3d-animated-family-comedy-set-insi-288d14ba8e57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 银发双刀女剑士突袭日式城堡
+
+> Five elite samurai surrounded her. The whole castle is coming next. ⚔️🍃 Created with Seedance 2.5 on @TapNow_AI Prompt: KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE…
+
+[<img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="600" alt="银发双刀女剑士突袭日式城堡">](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105958420088328486) | **发布:** 2026-10-02 | **热度:** 66
+
+<details>
+<summary><b>完整 prompt（141 行，点开展开）</b></summary>
+
+```
+KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
+Duration: 30 seconds | Aspect Ratio: 16:9 | No music
+
+ONE-TAKE LOCK:
+This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
+ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
+ZERO scene resets. The camera never leaves the action and every location
+change happens physically inside the shot: the camera passes through torn
+doors, over railings and up the roof with Kazemiru. Time runs in real time.
+
+STYLE:
+Ultra-photorealistic live-action Japanese dark-action cinema with restrained
+subtle VFX. Impossible anime-inspired dual-sword choreography performed by
+real human bodies. Large-format cinema look, natural daylight, muted earthy
+color palette, soft realistic shadows, no oversaturated colors.
+
+@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
+ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
+earrings in every frame.
+@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
+
+POSITIVE LOCKS (true for all 30 seconds):
+- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
+  hand, both always visible and independently controlled.
+- Her face always matches @Image1.
+- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
+- Her body physically crosses every distance, with no teleportation.
+- It is always daytime with bright natural light.
+
+PERSONALITY:
+Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
+eyes. Her hunger shows through relentless speed and escalating ferocity,
+never through grinning or shouting.
+
+JADE-WIND EFFECT:
+Every fast movement leaves a thin, soft jade-green wind trace that follows
+her exact physical path and fades almost instantly: sword arcs leave fine
+blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
+bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
+No aura, no smoke, no glowing body, no effects moving on their own.
+
+CAMERA (one continuous handheld-style pursuit):
+Constant dutch angle of 25–35°. Wide field of view around 75° in the
+interior and courtyard, tightening to about 50° for the rooftop duel.
+Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
+overshoot, correct, reacquire at the moment of contact. The camera flows
+through rear over-the-shoulder, low-angle pursuit, side tracking,
+ground-level chase and front three-quarter retreat, always in one connected
+movement. Never static, never perfectly smooth.
+
+══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
+Setting: bright daylight through large shoji panels, gold folding screens,
+tall dark timber pillars, tatami sections, raised platform, armor displays,
+low lacquer tables, silk curtains.
+
+0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
+on both hilts. BURST: a thin jade streak snaps across the hall and the silk
+curtains whip. The camera loses her, whip-pans, and finds her inside
+Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
+a reverse cut. He drops.
+
+0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
+a pillar and pushes off, dust bursting from the wood. Mid-air her left
+sword deflects Guard 2 and her right sword cuts down. She lands on the edge
+of a lacquer table, which slides back, and rebounds straight toward Guard 3.
+
+0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
+separate jade trails. She lands low and bursts across the floor. Guard 4's
+spear thrusts: she runs two steps up a wall, flips off, and cuts him down
+through a folding screen. Guard 5 charges: she catches his blade with one
+sword, vaults the railing above him, and finishes with a cross-slash as she
+lands behind him.
+
+══ 0:10–0:20: THE PALACE COURTYARD ══
+Transition inside the same shot: she does not pose. Both swords still in
+hand, she drives straight through the paper doors in one burst. The torn
+paper flutters past the lens as the camera follows her through the doorway
+onto the wooden veranda and out into a stone courtyard with lanterns, a koi
+pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
+below and archers on the roofs.
+
+0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
+double slash and a third grazes her sleeve. She sprints along the veranda,
+pivoting off each post, a jade ripple following her feet.
+
+0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
+bridge railing. Three swordsmen charge. She runs along the rail, slashes the
+first, flips over the second, and lands in the koi pond with a huge splash.
+In the water she parries two blades and cuts both guards. Droplets scatter
+across the lens.
+
+0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
+steps. The camera tilts up with her. She launches onto the roof among the
+archers: left sword disarms, right sword strikes, roof tiles scatter. Two
+archers fall.
+
+══ 0:20–0:30: THE ROOFTOP DUEL ══
+Transition inside the same shot: she keeps climbing over the roof ridge and
+the camera rises with her, tightening to a 50° field of view. The tiled
+castle rooftop opens up with wind in her ponytail and the town far below.
+Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
+
+0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
+down the sloping tiles, and crosses both swords to stop the blade. Sharp
+metal sound as his strength pushes her back a step. Her expression stays
+cold.
+
+0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
+his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
+off the shaft, and flips over him. Mid-air she cuts both swords across his
+back armor. Tiles crack under their feet and a faint jade wake curves around
+her path. He staggers, strikes back, and she narrowly dodges as the blade
+cuts a roof beam.
+
+0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
+brighter but still thin. She slides under the naginata, and as she rises
+both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
+one knee, defeated but alive. Kazemiru stands, both swords still in hand,
+and the last jade filaments disappear. She turns her cold eyes toward the
+courtyard far below, where dozens more guards pour in. The camera slowly
+pulls back and up to a wide shot of the whole castle. She lowers her body for
+the next burst. THE FIGHT CONTINUES.
+
+AUDIO:
+Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
+and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
+wind over the rooftops. No dialogue, no music.
+
+HUMAN-FIRST LOCK:
+Kazemiru is always a real human: natural skin pores, real eyes, individual
+hair strands, believable anatomy and cloth physics. Only her choreography is
+anime-level impossible.
+
+NEGATIVE:
+cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
+shots, single-sword fighting, missing or duplicate sword, duplicate
+Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
+oversaturated colors, detached VFX, random flips, decorative acrobatics,
+idle pose, static camera, perfectly smooth tracking, slow combat, floating,
+broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
+logos, watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 害羞仓鼠捧玫瑰告白
 
@@ -4021,46 +4124,6 @@ Prioritize natural behavior, consistent identity, believable physics, imperfect 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/sheldon056-seedance-ai-0a8ddaad9132?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 萌娃喂爸爸钞票，母女合伙讨玩具钱
-
-> Made with seedance 2.5 Prompt 👇 Create a 22-second, high-quality 3D animated family comedy with a polished Pixar-inspired aesthetic. Set the scene in a luxurio…
-
-[<img src="https://media.goodcase.ai/cases/e29d44178764.jpg" width="600" alt="萌娃喂爸爸钞票，母女合伙讨玩具钱">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c1454b276785?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2113094951684931713) | **发布:** 2026-10-22 | **热度:** 65
-
-<details>
-<summary><b>完整 prompt（22 行，点开展开）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇
-Create a 22-second, high-quality 3D animated family comedy with a polished Pixar-inspired aesthetic. Set the scene in a luxurious, warmly lit living room with soft golden lighting, elegant furniture, and cinematic depth of field.
-
-A stylish, curly-haired man wearing a black suit, gold chain, and luxury watch sits on a sofa beside his adorable toddler daughter. The little girl wears a pink knitted outfit, has big expressive eyes, and carries a colorful toy hammer. Her beautiful young mother stands nearby wearing a white blouse and elegant pink trousers.
-
-Scene sequence:
-
-- 0–4 seconds: The toddler approaches her father with a small banknote, innocently trying to feed it to him. He leans forward, confused but amused.
-- 4–8 seconds: The father humorously pretends to bite the money while the little girl watches with excitement. Use close-up shots of their expressive faces.
-- 8–12 seconds: The toddler turns toward her mother and proudly shows her the money. The mother smiles playfully and produces a colorful toy hammer.
-- 12–17 seconds: The father suddenly realizes what is happening. His eyes widen in shock as he sees the toy hammer and the money exchange. The mother and daughter exchange mischievous smiles.
-- 17–22 seconds: The mother holds up the money while the toddler happily grips her toy hammer. The father leans backward in exaggerated comic panic, raising his hands as if he has been tricked into paying for the toy.
-
-Visual style: Ultra-detailed 3D character animation, realistic fabric textures, expressive facial movements, natural body motion, cinematic camera angles, smooth transitions, warm ambient lighting, shallow depth of field, professional animated-movie quality.
-
-Audio: Playful orchestral comedy music, subtle footsteps, soft paper rustling, toy handling sounds, and humorous reaction sound effects. No dialogue or subtitles.
-
-Consistency requirements: Maintain identical character designs, clothing, hairstyles, facial features, and proportions throughout every shot. Smooth animation, coherent actions, accurate hand movements, no flickering, no extra fingers, no character distortion, and no sudden scene changes.
-
-Format: 16:9, 4K quality, 24 fps, approximately 22 seconds, family-friendly comedic storytelling.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c1454b276785?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 宠物幼龙偷吃晚餐引发庭院闹剧
 
 > THE DRAGON STOLE MY DINNER Pure cinematic chaos created with Seedance 2.5 on @ImagineArt_X @imagineart_creo Hollywood-style fantasy comedy, made with AI Prompt…
@@ -4148,165 +4211,6 @@ Negative prompt: inconsistent face, changing outfit, morphing, distorted hands, 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-a1843d10235f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 银发双刀女剑士突袭日式城堡
-
-> Five elite samurai surrounded her. The whole castle is coming next. ⚔️🍃 Created with Seedance 2.5 on @TapNow_AI Prompt: KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE…
-
-[<img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="600" alt="银发双刀女剑士突袭日式城堡">](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105958420088328486) | **发布:** 2026-10-02 | **热度:** 65
-
-<details>
-<summary><b>完整 prompt（141 行，点开展开）</b></summary>
-
-```
-KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
-Duration: 30 seconds | Aspect Ratio: 16:9 | No music
-
-ONE-TAKE LOCK:
-This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
-ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
-ZERO scene resets. The camera never leaves the action and every location
-change happens physically inside the shot: the camera passes through torn
-doors, over railings and up the roof with Kazemiru. Time runs in real time.
-
-STYLE:
-Ultra-photorealistic live-action Japanese dark-action cinema with restrained
-subtle VFX. Impossible anime-inspired dual-sword choreography performed by
-real human bodies. Large-format cinema look, natural daylight, muted earthy
-color palette, soft realistic shadows, no oversaturated colors.
-
-@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
-ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
-earrings in every frame.
-@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
-
-POSITIVE LOCKS (true for all 30 seconds):
-- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
-  hand, both always visible and independently controlled.
-- Her face always matches @Image1.
-- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
-- Her body physically crosses every distance, with no teleportation.
-- It is always daytime with bright natural light.
-
-PERSONALITY:
-Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
-eyes. Her hunger shows through relentless speed and escalating ferocity,
-never through grinning or shouting.
-
-JADE-WIND EFFECT:
-Every fast movement leaves a thin, soft jade-green wind trace that follows
-her exact physical path and fades almost instantly: sword arcs leave fine
-blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
-bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
-No aura, no smoke, no glowing body, no effects moving on their own.
-
-CAMERA (one continuous handheld-style pursuit):
-Constant dutch angle of 25–35°. Wide field of view around 75° in the
-interior and courtyard, tightening to about 50° for the rooftop duel.
-Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
-overshoot, correct, reacquire at the moment of contact. The camera flows
-through rear over-the-shoulder, low-angle pursuit, side tracking,
-ground-level chase and front three-quarter retreat, always in one connected
-movement. Never static, never perfectly smooth.
-
-══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
-Setting: bright daylight through large shoji panels, gold folding screens,
-tall dark timber pillars, tatami sections, raised platform, armor displays,
-low lacquer tables, silk curtains.
-
-0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
-on both hilts. BURST: a thin jade streak snaps across the hall and the silk
-curtains whip. The camera loses her, whip-pans, and finds her inside
-Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
-a reverse cut. He drops.
-
-0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
-a pillar and pushes off, dust bursting from the wood. Mid-air her left
-sword deflects Guard 2 and her right sword cuts down. She lands on the edge
-of a lacquer table, which slides back, and rebounds straight toward Guard 3.
-
-0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
-separate jade trails. She lands low and bursts across the floor. Guard 4's
-spear thrusts: she runs two steps up a wall, flips off, and cuts him down
-through a folding screen. Guard 5 charges: she catches his blade with one
-sword, vaults the railing above him, and finishes with a cross-slash as she
-lands behind him.
-
-══ 0:10–0:20: THE PALACE COURTYARD ══
-Transition inside the same shot: she does not pose. Both swords still in
-hand, she drives straight through the paper doors in one burst. The torn
-paper flutters past the lens as the camera follows her through the doorway
-onto the wooden veranda and out into a stone courtyard with lanterns, a koi
-pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
-below and archers on the roofs.
-
-0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
-double slash and a third grazes her sleeve. She sprints along the veranda,
-pivoting off each post, a jade ripple following her feet.
-
-0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
-bridge railing. Three swordsmen charge. She runs along the rail, slashes the
-first, flips over the second, and lands in the koi pond with a huge splash.
-In the water she parries two blades and cuts both guards. Droplets scatter
-across the lens.
-
-0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
-steps. The camera tilts up with her. She launches onto the roof among the
-archers: left sword disarms, right sword strikes, roof tiles scatter. Two
-archers fall.
-
-══ 0:20–0:30: THE ROOFTOP DUEL ══
-Transition inside the same shot: she keeps climbing over the roof ridge and
-the camera rises with her, tightening to a 50° field of view. The tiled
-castle rooftop opens up with wind in her ponytail and the town far below.
-Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
-
-0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
-down the sloping tiles, and crosses both swords to stop the blade. Sharp
-metal sound as his strength pushes her back a step. Her expression stays
-cold.
-
-0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
-his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
-off the shaft, and flips over him. Mid-air she cuts both swords across his
-back armor. Tiles crack under their feet and a faint jade wake curves around
-her path. He staggers, strikes back, and she narrowly dodges as the blade
-cuts a roof beam.
-
-0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
-brighter but still thin. She slides under the naginata, and as she rises
-both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
-one knee, defeated but alive. Kazemiru stands, both swords still in hand,
-and the last jade filaments disappear. She turns her cold eyes toward the
-courtyard far below, where dozens more guards pour in. The camera slowly
-pulls back and up to a wide shot of the whole castle. She lowers her body for
-the next burst. THE FIGHT CONTINUES.
-
-AUDIO:
-Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
-and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
-wind over the rooftops. No dialogue, no music.
-
-HUMAN-FIRST LOCK:
-Kazemiru is always a real human: natural skin pores, real eyes, individual
-hair strands, believable anatomy and cloth physics. Only her choreography is
-anime-level impossible.
-
-NEGATIVE:
-cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
-shots, single-sword fighting, missing or duplicate sword, duplicate
-Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
-oversaturated colors, detached VFX, random flips, decorative acrobatics,
-idle pose, static camera, perfectly smooth tracking, slow combat, floating,
-broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
-logos, watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Sci-Fi Mystery Message from 2100
 
@@ -4645,6 +4549,150 @@ NEGATIVE: CGI, anime, cartoon, game graphics, glow, beams, duplicate katana, dup
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-white-dragon-ascension-10s-16-9-7b649210fd48?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 末日撤离信号下的外星真相
+
+> The greatest evacuation in human history had one terrifying secret. Created with Seedance 2.5 on @movoaiofficial Prompt: Create a 45-second ultra-photorealistic…
+
+[<img src="https://media.goodcase.ai/cases/454b60b334cc.jpg" width="600" alt="末日撤离信号下的外星真相">](https://goodcase.ai/cases/seedance-create-a-45-second-ultra-photorealistic-cinematic-sci-fi-thriller-action-sequen-e362d6ad57d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2095400351142682842) | **发布:** 2026-09-03 | **热度:** 65
+
+<details>
+<summary><b>完整 prompt（73 行，点开展开）</b></summary>
+
+```
+Create a 45-second ultra-photorealistic cinematic sci-fi thriller/action sequence with the visual quality of a high-budget Hollywood blockbuster.
+
+CONCEPT
+
+In a futuristic megacity at night, a mysterious global emergency signal orders humanity to evacuate Earth immediately. A lone 25-year-old female survivor races toward an orbital evacuation station while millions flee the city. Everyone believes a catastrophic disaster is approaching, but the truth is far more terrifying: something enormous has entered Earth's orbit, and humanity was never the one being evacuated.
+
+MAIN CHARACTER
+
+A beautiful young adult female survivor, approximately 25 years old, with a natural oval face, expressive brown eyes, realistic skin texture, subtle facial imperfections and long slightly messy dark-brown hair. She wears dark charcoal futuristic tactical clothing, lightweight armor, gloves, utility belt, dark pants and rugged combat boots. She carries a compact futuristic rifle and blue-white handheld scanner. Maintain perfect facial identity, hairstyle, body proportions, clothing, weapon and scanner throughout the video.
+
+ENVIRONMENT
+
+A massive futuristic megacity during a violent nighttime storm, filled with towering skyscrapers, holographic emergency warnings, wet streets, abandoned vehicles, evacuation towers, military aircraft, orbital elevators, smoke, steam, rain and flashing red emergency lights. The atmosphere should feel chaotic, enormous and realistic.
+
+0–5 SECONDS — THE WARNING
+
+Begin with a huge aerial shot of the futuristic city. Every screen suddenly displays: "GLOBAL EVACUATION — LEAVE EARTH IMMEDIATELY." Sirens erupt as crowds panic and spacecraft launch. The female survivor stands in the rain, looking at her scanner as it detects an enormous unidentified object approaching Earth.
+
+5–10 SECONDS — THE EVACUATION
+
+She runs toward a massive orbital evacuation station through terrified crowds. Military spacecraft launch overhead. Emergency countdowns flash across buildings. Her scanner begins malfunctioning as a strange blue glow spreads across the clouds.
+
+10–15 SECONDS — SOMETHING ARRIVES
+
+She reaches an elevated platform and looks upward. The clouds slowly open, revealing an impossibly enormous alien structure emerging from orbit. It is far larger than any human spacecraft, with gigantic geometric surfaces and thousands of blue-white lights. The Moon appears tiny beside it.
+
+15–20 SECONDS — THE REVELATION
+
+The entire city falls silent. The colossal structure moves closer without visible propulsion. Every aircraft stops. Her scanner suddenly receives a transmission from the object. Every screen on Earth turns black.
+
+20–25 SECONDS — THE MESSAGE
+
+Every screen simultaneously displays the same mysterious alien symbol. A calm distorted voice comes through her scanner: "Earth evacuation confirmed." She looks around in confusion as humanity realizes the message did not come from human authorities.
+
+25–30 SECONDS — THE SKY OPENS
+
+The enormous structure positions itself around Earth instead of attacking. Thousands of blue-white lights activate across its surface. Massive beams descend toward the planet, scanning cities, oceans and continents. No explosions. No weapons fire.
+
+30–35 SECONDS — THE HIDDEN SIGNALS
+
+Her scanner suddenly reveals thousands of mysterious signals beneath Earth's surface. The signals exist beneath oceans, mountains and cities, forming a gigantic planetary network. She realizes the structure is searching for something that has been hidden on Earth for thousands of years.
+
+35–40 SECONDS — THE TRUTH
+
+A powerful blue-white pulse surrounds the planet. She experiences a brief vision of ancient Earth, where enormous alien structures already existed beneath the surface. The vision disappears. Her scanner displays: "SUBJECT LOCATED."
+
+40–45 SECONDS — FINAL CLIFFHANGER
+
+The camera rapidly pulls away from the city and rises into orbit. Reveal Earth surrounded by the enormous alien structure. Hundreds of additional unidentified spacecraft suddenly appear behind it, silently filling the sky. Cut back to the survivor staring upward in terror. Her scanner activates one final time. The voice whispers: "You were never the ones being evacuated." CUT TO BLACK.
+
+CINEMATOGRAPHY
+
+Professional Hollywood science-fiction cinematography using massive aerial shots, atmospheric tracking, handheld evacuation footage, extreme close-ups, macro technology shots, low-angle perspectives, dynamic tracking and dramatic orbital-scale pull-outs. Camera movement must feel physically motivated and cinematic.
+
+VISUAL STYLE
+
+Ultra-photorealistic live-action, 4K HDR, realistic human skin, detailed futuristic architecture, realistic spacecraft, wet reflective surfaces, rain, fog, smoke, steam, dust, natural motion blur, cinematic depth of field, subtle film grain and anamorphic lens characteristics.
+
+LIGHTING
+
+Dark nighttime atmosphere with cold blue ambient light, red emergency lighting, lightning, blue-white alien illumination, volumetric beams, wet reflections, deep shadows and realistic light falloff.
+
+REALISM
+
+Realistic human movement, crowds, aircraft, spacecraft, rain and environmental physics. The alien structure must feel unimaginably massive, physically believable and extremely slow-moving. No weightless objects or artificial-looking CGI.
+
+CONTINUITY
+
+Maintain identical female character identity, face, hair, clothing, weapon, scanner, city, spacecraft and alien structure throughout the sequence. No morphing, redesigns, outfit changes or inconsistent scale.
+
+NEGATIVE PROMPT
+
+No cartoon, anime, video-game graphics, plastic CGI, unrealistic physics, gore, blood, distorted faces, extra fingers, extra limbs, character morphing, outfit changes, creature redesigns, random explosions, excessive lens effects, flickering objects, teleportation, floating debris or unrealistic lighting.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-45-second-ultra-photorealistic-cinematic-sci-fi-thriller-action-sequen-e362d6ad57d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 韩国女生写实人像短片
+
+> Made with SeeDance 2.5 Prompt: Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeu
+
+[<img src="https://media.goodcase.ai/cases/a1d77f744c57.jpg" width="600" alt="Seedance 2.5 韩国女生写实人像短片">](https://goodcase.ai/cases/iamahmedfaraz66-seedance-ai-ce12dc209ee3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @iamahmedfaraz66 | **来源:** [原帖](https://x.com/iamahmedfaraz66/status/2089198029496889755) | **发布:** 2026-08-17 | **热度:** 65
+
+**稳定度：** 72/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (71.8 分) · [产物](https://media.goodcase.ai/retests/iamahmedfaraz66-seedance-ai-ce12dc209ee3/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（17 行，点开展开）</b></summary>
+
+```
+Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple casual outfit. Preserve her exact identity, facial features, hairstyle, and appearance throughout.
+
+Location: Quiet Seoul apartment or residential rooftop during a warm late afternoon. Soft natural sunlight, gentle breeze, everyday surroundings.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged, handheld shake, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft contrast, DV compression, slight motion blur and microphone noise. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands casually in front of the camera, trying to tie her long hair into a ponytail. A few strands keep slipping out.
+
+00:04–00:08: She tries again, struggling with the hair tie. Her expression gradually becomes adorably irritated as the ponytail falls apart once more.
+
+00:08–00:11: She sighs, slightly scrunches her face in frustration, then suddenly notices the camera watching her.
+
+00:11–00:15: She looks directly into the lens, breaks into a genuine laugh at herself, and shakes her head. A few strands fall across her face as she gives up fixing them.
+
+Audio: Natural location sound only—soft wind, distant neighborhood sounds, subtle clothing and hair movement. No music or added sound effects.
+
+Goal: Cute, spontaneous and intimate, like a tiny everyday moment accidentally captured on an old home video. Her irritation should feel natural and playful, ending in a genuine laugh toward the camera.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/iamahmedfaraz66-seedance-ai-ce12dc209ee3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 女警在荒漠峡谷追捕飞车逃犯
+
+> A fearless officer takes the chase to the skies in a high-speed battle of futuristic machines, impossible stunts, and explosive action. Made with Seedance 2.5 o…
+
+[<img src="https://media.goodcase.ai/cases/acaf4e3601a1.jpg" width="600" alt="女警在荒漠峡谷追捕飞车逃犯">](https://goodcase.ai/cases/seedance-2-5-a-30-second-ultra-realistic-hollywood-style-sci-fi-action-sequence-set-above-a-3b2d1f35cd52?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2112391782164287977) | **发布:** 2026-10-20 | **热度:** 64
+
+```
+A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a vast desert highway at golden hour. A futuristic silver flying sports car races through towering red-rock canyons, pursued by a heavily armored black police interceptor with glowing blue emergency lights and powerful jet thrusters. A fearless female police officer in a fitted black tactical uniform leaps from the interceptor onto the moving sports car, performing a breathtaking aerial rotation before landing hard on its roof. She uses a magnetic anchor to stabilize herself, breaks through the reinforced sunroof, and confronts a mysterious blond male driver inside the cockpit. He shouts, “You should've stayed on the ground!” She responds coldly, “Pull over. Now!” A violent aerial maneuver triggers an energy-core malfunction, sending the sports car spiraling toward the highway below. The vehicle crashes in a shower of sparks and erupts into a massive fireball. Through the smoke and glowing embers, the officer emerges with the subdued suspect in magnetic restraints. Dynamic FPV drone shots, sweeping camera movements, realistic vehicle physics, high-speed aerial choreography, detailed metallic reflections, authentic facial expressions, synchronized dialogue, dramatic explosions, volumetric golden-hour lighting, anamorphic lens flares, cinematic motion blur, HDR, 4K, rich teal-and-orange color grading, powerful orchestral soundtrack, realistic engine roars, and immersive action sound effects. Exactly 30 seconds, landscape 16:9, continuous high-energy action, strong opening hook, consistent character identity, realistic gravity, no black-screen opening, no subtitles, no on-screen text, no logos, no watermark.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-30-second-ultra-realistic-hollywood-style-sci-fi-action-sequence-set-above-a-3b2d1f35cd52?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)

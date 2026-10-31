@@ -1,10 +1,119 @@
 # Seedance 2.5 — 全ケース（Part 5/8）
 
-Seedance 2.5 の全 646 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 648 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 646 件中 349–443 件目。
+このページ: 648 件中 350–444 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)
+
+### GPT Image 2 + Seedance 2.5 Thirty-Second Cinematic Short
+
+> Gpt image 2 + Seedance 2.5 on Higgsfield Prompt: 30-SECOND CINEMATIC SHORT Create a 30-second cinematic sequence with th
+
+[<img src="https://media.goodcase.ai/cases/540ec77e9e16.jpg" width="600" alt="GPT Image 2 + Seedance 2.5 Thirty-Second Cinematic Short">](https://goodcase.ai/cases/chillaikalan-seedance-ai-20190731dd06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ChillaiKalan__ | **出典:** [元投稿](https://x.com/ChillaiKalan__/status/2088866007918268515) | **公開日:** 2026-08-16 | **ヒート:** 55
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.9) · [出力](https://media.goodcase.ai/retests/chillaikalan-seedance-ai-20190731dd06/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（87 行、クリックで展開）</b></summary>
+
+```
+30-SECOND CINEMATIC SHORT
+Create a 30-second cinematic sequence with the visual discipline of a major feature film. The world is entirely made from paper, cardboard, ink, and delicate handcrafted materials.
+00:00–00:05 — THE FIRST FOLD
+Begin with an extreme macro shot of a blank sheet of textured paper.
+A single fold slowly forms across its surface.
+Lens: 100mm macro
+Camera: Completely static
+Soft daylight moves across the paper as the fold continues.
+Cut precisely as the paper reaches its final shape.
+00:05–00:11 — THE CITY EMERGES
+Transition into a 50mm shot.
+The folded paper begins forming miniature streets and architectural structures.
+Buildings rise naturally from the surface through carefully constructed paper folds.
+The camera slowly tracks sideways.
+Tiny windows catch the light.
+Nothing feels computer-generated; every surface should have believable paper fibers, folds, shadows, and imperfections.
+00:11–00:17 — THE REVEAL
+Move into a 35mm shot.
+The camera pulls backward.
+The small arrangement is revealed as an enormous handcrafted paper city stretching across a large table.
+Roads connect different districts.
+Bridges cross miniature rivers.
+Paper trees move gently from an unseen breeze.
+00:17–00:23 — MORNING
+Transition into a slow overhead crane shot.
+Warm sunlight gradually spreads across the paper city.
+Shadows from the buildings become longer and more defined.
+Tiny paper windows begin reflecting the sunlight.
+The camera continues rising, revealing the geometric relationship between the streets and buildings.
+00:23–00:27 — THE DETAIL
+Cut to an 85mm close-up.
+Focus on a tiny paper clock mounted on one building.
+The clock moves forward by one minute.
+Rack focus from the clock to the miniature skyline behind it.
+00:27–00:30 — FINAL IMAGE
+Return to an extreme wide shot.
+The entire paper city sits beneath a large studio window.
+The morning light completely fills the miniature world.
+Camera slowly pulls backward until the city becomes a small object within the larger room.
+Fade to black.
+CINEMATOGRAPHY
+Large-format feature-film aesthetic.
+100mm macro for texture.
+85mm for detail.
+50mm for natural perspective.
+35mm for environmental shots.
+Controlled dolly and crane movements.
+Realistic depth of field.
+Natural focus transitions.
+Soft motion blur.
+Subtle lens imperfections.
+No artificial camera shake.
+MATERIAL DIRECTION
+Every surface must visibly behave like physical paper.
+Visible paper fibers.
+Natural folds.
+Tiny imperfections.
+Soft cardboard edges.
+Realistic contact shadows.
+Believable paper thickness.
+Natural material deformation.
+LIGHTING
+Soft morning daylight.
+Large window as the primary source.
+Natural bounce light.
+Gentle shadows.
+Subtle warm highlights.
+No artificial neon effects.
+No excessive visual effects.
+CONTINUITY
+The same paper city throughout the entire sequence.
+Buildings maintain identical shapes and positions.
+Roads remain connected.
+Paper materials remain consistent.
+No random transformations.
+No flickering.
+No duplicated structures.
+No sudden environmental changes.
+DIRECTOR’S NOTE
+Treat this as a miniature feature film, not a visual-effects demonstration.
+The camera should discover the world gradually.
+Start intimate.
+Reveal scale.
+Return to detail.
+Finish wide.
+The audience should feel that they are watching a real handcrafted world photographed with a cinema camera.
+Photorealistic 4K • tactile materials • feature-film cinematography • sophisticated lighting • realistic miniature photography • cinematic depth • precise camera movement • seamless visual continuity.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/chillaikalan-seedance-ai-20190731dd06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman Battles Ten Masked Fighters in a Rain-Soaked Tea Garden
 
@@ -171,52 +280,6 @@ A Korean girl created a video, showing a cozy and natural lifestyle moment in a 
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-korean-girl-created-a-video-showing-a-cozy-and-natural-lifestyle-moment-in-a-379af9561c48?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Tiny Woman in a Tabletop Dessert World
-
-> Made with GPT image 2.5 + seedance 2.5 Prompt: 16:9 widescreen, 30 seconds, Dola Continuous Engine. STYLE LOCK: Inspired by classic late-1960s Irwin Allen telev…
-
-[<img src="https://media.goodcase.ai/cases/076ab7ec2e3c.jpg" width="600" alt="Tiny Woman in a Tabletop Dessert World">](https://goodcase.ai/cases/seedance-16-9-widescreen-30-seconds-dola-continuous-engine-f6be640f9715?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @oggii_0 | **出典:** [元投稿](https://x.com/oggii_0/status/2100474286599500015) | **公開日:** 2026-09-17 | **ヒート:** 54
-
-**安定度:** 55/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 54.8) · [出力](https://media.goodcase.ai/retests/seedance-16-9-widescreen-30-seconds-dola-continuous-engine-f6be640f9715/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（24 行、クリックで展開）</b></summary>
-
-```
-16:9 widescreen, 30 seconds, Dola Continuous Engine.
-STYLE LOCK: Inspired by classic late-1960s Irwin Allen television production "Land of the Giants". Authentic 1968 television aesthetic. Practical miniature sets. Optical compositing. Slight matte-line separation between actress and background. Rear-projection feel. Eastmancolor television colors: warm skin, saturated red and yellow, slightly cyan shadows. Soft image sharpness. Mild film grain. Analog broadcast texture. Vintage studio lighting: one hard key from upper left, warm fill from the right, no rim light. Camera: static wide shots and slow television zoom lens only. No handheld. No modern lens flare.
-CHARACTER LOCK: @[Image 1](image_1)  is the only person. She remains identical in every frame:  1960s Korean mini dress  with [sleeve and neckline  classic 1960s makeup with winged liner and pale pink lips, white heels. Dress, hair, makeup and shoes never change .
-SETTING LOCK: an enormous 1960s dining table seen from her scale; she is the size of a salt shaker. White tablecloth hanging from the edge to the floor in long vertical folds. On the tabletop from left to right: a tall glass of milk with condensation beads, a giant slice of chocolate layer cake with thick frosting and a single lit birthday candle, a large silver spoon and fork crossed beside it, a bowl of vanilla ice cream with one huge cherry on top, a folded white napkin. Warm wooden tabletop. Pale yellow wall in the background. Props are practical scale with slightly soft edges.
-0–4 seconds:
-Static wide from floor level. The tiny woman climbs the hanging tablecloth, gripping the folds with both hands, one heel finding a fold below her. The cloth sways slightly under her weight. She looks up toward the table edge.
-4–7 seconds:
-Slow zoom in as she pulls herself over the edge, kneels, then stands upright on the tabletop. Her eyes widen and her mouth opens, gaze drawn toward the flickering candle flame on the cake. Her hands stay half raised.
-7–11 seconds:
-Static wide from behind her at her eye level. The dessert spread stretches across the table like a city skyline: the cake slice looms like a frosted mountain, the candle flame taller than she is, the milk glass glowing like a white tower, the spoon lying across the foreground like a bridge.
-11–15 seconds:
-She walks toward the cake, heels tapping the tabletop. Thick ridges of frosting drip down its side. The lit candle flickers above, casting warm moving light across her face. She touches the frosting edge with one hand and looks up along the flame.
-15–19 seconds:
-She climbs onto the cake's bottom layer, sits, scoops a bit of frosting with both hands, smiles, tastes it, licks her fingers, and looks left and right. Medium shot, slow zoom in to her face, candlelight flickering warmly on her skin.
-19–23 seconds:
-She stands and walks farther across the tabletop, stepping around the giant cherry from the ice cream bowl, passing between the spoon and the napkin. Static wide, then a slow pan following her.
-23–26 seconds:
-She stops beside the milk glass, looks up along the tall glass, and laughs with one hand resting on it. Condensation beads glisten and catch the light on her face.
-26–28 seconds:
-A massive shadow sweeps across the tabletop from the right and covers the milk glass and the cake. Her laugh stops. She lowers her hand and turns to face the right side of frame.
-28–30 seconds:
-HOLD. Camera fully static medium-wide shot. She stands facing screen right, feet together, right hand half raised at chest height, left hand at her side. The milk glass directly at her left, the cake slice behind her, the shadow across the whole tabletop. Her face is turned to the right, not yet tilted upward. Nothing moves for two full seconds.
-Audio
-Cheerful 1960s adventure television music, playful brass and strings. At 26 seconds the music thins to one held string note that continues to the end, with a faint fading birthday-music-box
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-16-9-widescreen-30-seconds-dola-continuous-engine-f6be640f9715?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Sixty-Second Korean Summer Beach Travel Vlog
 
@@ -1649,6 +1712,61 @@ No text, no subtitles, no watermark, no distorted faces, no extra fingers, no du
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Golden Warrior Battles Two Monsters in a Flooded Cathedral
+
+> Darkness rises. A hero awakens. ⚡ An epic AI powered dark fantasy created with Seedance 2.5 using the Cinema Studio on @wavespeed_ai Monsters, lightning & cinem…
+
+[<img src="https://media.goodcase.ai/cases/7bacb6c61cff.jpg" width="600" alt="Golden Warrior Battles Two Monsters in a Flooded Cathedral">](https://goodcase.ai/cases/seedance-2-5-genre-supernatural-dark-fantasy-superhero-cinema-824e27973cef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2113500487328706937) | **公開日:** 2026-10-23 | **ヒート:** 49
+
+<details>
+<summary><b>プロンプト全文（37 行、クリックで展開）</b></summary>
+
+```
+THE LAST LIGHT OF SAINT VARCHEN
+
+[ENGINE DIRECTIVE]
+Genre: Supernatural dark-fantasy superhero cinema. Duration: exactly 30 seconds. Format: 16:9, 60fps where supported. Photorealistic Hollywood realism, realistic skin, wet materials, volumetric rain, cinematic lighting and natural motion blur.
+
+HERO LOCK: Use @image1 as the sole hero. Preserve the exact face, skin tone, hairstyle, beard, age, body proportions and identity. Begin in the reference outfit, then transform into a matte midnight-graphite tactical suit with segmented armor and glowing gold energy seams. Face remains uncovered. No cape, helmet, logos or clones. Combat uses fists, bracers and gold kinetic energy.
+
+CREATURES:
+
+1. THE HOLLOWHORN: A towering 4-meter revenant with a skeletal stag skull, broken antlers, rusted chains, black smoke and pale-blue glowing eyes. Heavy, powerful attacks.
+2. THE SPLINTER: A fast, long-limbed ash wraith with a cracked porcelain mask, elongated fingers and a translucent body.
+
+LOCATION: Flooded, ruined Cathedral of Saint Varchen at night. Violent storm, shattered rose window, broken pillars, ankle-deep black water, blue-white candles and a collapsed roof. Creatures attack from frame-right.
+
+[30-SECOND TIMELINE]
+
+00:00–00:05 | THE DROWNED NAVE
+Descend through the broken roof into the flooded cathedral. Show rippling water, candle reflections and the hero standing still in the original outfit. Two blue eyes open in the darkness. Thunder strikes at 00:04.
+
+00:05–00:10 | THE WARDENS AWAKEN
+The Hollowhorn crashes into the water, chains swinging, while the Splinter clings upside down to a pillar. The hero raises one hand as gold energy gathers. At 00:09, lightning strikes through the roof.
+
+00:10–00:15 | TRANSFORMATION
+In slow motion, gold particles replace the outfit as graphite armor assembles across the body. Gold seams ignite and a shockwave blasts both creatures backward. The Splinter lunges; the hero catches its wrist and throws it into a pillar.
+
+00:15–00:20 | THE REVERSAL
+The hero dodges a chain, lands a gold-powered uppercut, then gets smashed into a pillar. The Splinter pins the hero while the Hollowhorn lifts the hero by the throat. Gold energy flickers.
+
+00:20–00:25 | THE BREAK
+Near-silence at 00:21. The hero reignites, breaks the Hollowhorn's grip, strikes through the Splinter's torso and slams it into the marble, cracking the floor. The Hollowhorn charges.
+
+00:25–00:30 | FINAL STRIKE
+The hero leaps and punches through the Hollowhorn's skull with a gold-powered fist at 00:26.5. Both creatures disintegrate into embers and ash. The hero lands, rises, and faces dawn illuminating the shattered rose window. Cut to black exactly at 00:30.
+
+[AUDIO] Original orchestral dark-fantasy score, deep drones, choir, taiko, heavy brass and percussion. Sync thunder at 00:04, lightning impact at 00:09, transformation bass drop at 00:11, fight impacts from 00:13, near-silence at 00:21 and final boom at 00:26.5. End with heroic brass, soft rain and silence at 00:30.
+
+CONTINUITY: Physically grounded impacts, consistent damage, readable action, motivated camera movement, selective slow motion and no identity changes.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-genre-supernatural-dark-fantasy-superhero-cinema-824e27973cef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Sports Car, Motorcycle, Tank and Fighter Jet Transform into Mecha
 
 > When machines stop driving and start fighting Vehicles transform into powerful futuristic robots creating an epic sci-fi world. Made with Seedance 2.5 Prompt: A…
@@ -1774,6 +1892,22 @@ NEGATIVE: character identity drift, different woman, generic face, 3D, CGI, anim
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-character-reference-main-character-identity-aab5b85707ca?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Mysterious Smile in a Frozen Crowd
+
+> My STORM is here to give chills Seedance 2.5 on @itsPolloAI Prompt : Create an ultra-realistic cinematic live-action video using the uploaded reference image as…
+
+[<img src="https://media.goodcase.ai/cases/15605829a601.jpg" width="600" alt="A Mysterious Smile in a Frozen Crowd">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2100414408069669001) | **公開日:** 2026-09-17 | **ヒート:** 49
+
+```
+Create an ultra-realistic cinematic live-action video using the uploaded reference image as the exact visual reference for the woman, her face, hairstyle, outfit, proportions, crowd, environment, lighting, and composition. A young woman with a sleek short dark bob, fitted black turtleneck, black trousers, black shoes, and minimal jewelry walks calmly through a dense crowd. She reaches the center and stops completely still while the surrounding people suddenly begin moving in rapid, perfectly synchronized motion—turning their heads, shifting positions, raising their arms, and stepping in unison. The woman remains completely motionless and expressionless as the chaotic movement suddenly stops, leaving the entire crowd frozen mid-action.
+
+The woman remains standing perfectly still at the center of the frozen crowd, calmly looking around while every person remains locked in their exact position. The camera slowly pushes closer toward her as the silent crowd stays completely motionless in the background. She then looks directly into the lens and gives a subtle mysterious smile. Photorealistic skin, realistic anatomy, natural lighting, believable physics, shallow depth of field, authentic handheld camera movement, and natural ambient sound. No anime, cartoon, illustration, CGI look, morphing, duplicated people, distorted faces, teleportation, floating objects, exaggerated effects, subtitles, logos, or watermark.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Summer Water-Gun Chase in a Korean Village
 
@@ -2313,61 +2447,6 @@ Cinematic lighting, detailed scales, realistic flames, expressive acting, smooth
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-this-ai-video-looks-straight-out-of-a-fantasy-movie-6c935f731999?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Golden Warrior Battles Two Monsters in a Flooded Cathedral
-
-> Darkness rises. A hero awakens. ⚡ An epic AI powered dark fantasy created with Seedance 2.5 using the Cinema Studio on @wavespeed_ai Monsters, lightning & cinem…
-
-[<img src="https://media.goodcase.ai/cases/7bacb6c61cff.jpg" width="600" alt="Golden Warrior Battles Two Monsters in a Flooded Cathedral">](https://goodcase.ai/cases/seedance-2-5-genre-supernatural-dark-fantasy-superhero-cinema-824e27973cef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2113500487328706937) | **公開日:** 2026-10-23 | **ヒート:** 48
-
-<details>
-<summary><b>プロンプト全文（37 行、クリックで展開）</b></summary>
-
-```
-THE LAST LIGHT OF SAINT VARCHEN
-
-[ENGINE DIRECTIVE]
-Genre: Supernatural dark-fantasy superhero cinema. Duration: exactly 30 seconds. Format: 16:9, 60fps where supported. Photorealistic Hollywood realism, realistic skin, wet materials, volumetric rain, cinematic lighting and natural motion blur.
-
-HERO LOCK: Use @image1 as the sole hero. Preserve the exact face, skin tone, hairstyle, beard, age, body proportions and identity. Begin in the reference outfit, then transform into a matte midnight-graphite tactical suit with segmented armor and glowing gold energy seams. Face remains uncovered. No cape, helmet, logos or clones. Combat uses fists, bracers and gold kinetic energy.
-
-CREATURES:
-
-1. THE HOLLOWHORN: A towering 4-meter revenant with a skeletal stag skull, broken antlers, rusted chains, black smoke and pale-blue glowing eyes. Heavy, powerful attacks.
-2. THE SPLINTER: A fast, long-limbed ash wraith with a cracked porcelain mask, elongated fingers and a translucent body.
-
-LOCATION: Flooded, ruined Cathedral of Saint Varchen at night. Violent storm, shattered rose window, broken pillars, ankle-deep black water, blue-white candles and a collapsed roof. Creatures attack from frame-right.
-
-[30-SECOND TIMELINE]
-
-00:00–00:05 | THE DROWNED NAVE
-Descend through the broken roof into the flooded cathedral. Show rippling water, candle reflections and the hero standing still in the original outfit. Two blue eyes open in the darkness. Thunder strikes at 00:04.
-
-00:05–00:10 | THE WARDENS AWAKEN
-The Hollowhorn crashes into the water, chains swinging, while the Splinter clings upside down to a pillar. The hero raises one hand as gold energy gathers. At 00:09, lightning strikes through the roof.
-
-00:10–00:15 | TRANSFORMATION
-In slow motion, gold particles replace the outfit as graphite armor assembles across the body. Gold seams ignite and a shockwave blasts both creatures backward. The Splinter lunges; the hero catches its wrist and throws it into a pillar.
-
-00:15–00:20 | THE REVERSAL
-The hero dodges a chain, lands a gold-powered uppercut, then gets smashed into a pillar. The Splinter pins the hero while the Hollowhorn lifts the hero by the throat. Gold energy flickers.
-
-00:20–00:25 | THE BREAK
-Near-silence at 00:21. The hero reignites, breaks the Hollowhorn's grip, strikes through the Splinter's torso and slams it into the marble, cracking the floor. The Hollowhorn charges.
-
-00:25–00:30 | FINAL STRIKE
-The hero leaps and punches through the Hollowhorn's skull with a gold-powered fist at 00:26.5. Both creatures disintegrate into embers and ash. The hero lands, rises, and faces dawn illuminating the shattered rose window. Cut to black exactly at 00:30.
-
-[AUDIO] Original orchestral dark-fantasy score, deep drones, choir, taiko, heavy brass and percussion. Sync thunder at 00:04, lightning impact at 00:09, transformation bass drop at 00:11, fight impacts from 00:13, near-silence at 00:21 and final boom at 00:26.5. End with heroic brass, soft rain and silence at 00:30.
-
-CONTINUITY: Physically grounded impacts, consistent damage, readable action, motivated camera movement, selective slow motion and no identity changes.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-genre-supernatural-dark-fantasy-superhero-cinema-824e27973cef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Modern Man Tidies Up a Medieval Coronation
 
 > POV: A random guy enters a medieval movie, fixes the coronation, and leaves like he owns the production. Created with GPT 2.0 and Seedance 2.5 on @FishCreativeH…
@@ -2781,22 +2860,6 @@ Cinematic photorealistic lifestyle video of a beautiful young Korean woman with 
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-lifestyle-video-of-a-beautiful-young-korean-woman-with-cdc93272602d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Mysterious Smile in a Frozen Crowd
-
-> My STORM is here to give chills Seedance 2.5 on @itsPolloAI Prompt : Create an ultra-realistic cinematic live-action video using the uploaded reference image as…
-
-[<img src="https://media.goodcase.ai/cases/15605829a601.jpg" width="600" alt="A Mysterious Smile in a Frozen Crowd">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2100414408069669001) | **公開日:** 2026-09-17 | **ヒート:** 48
-
-```
-Create an ultra-realistic cinematic live-action video using the uploaded reference image as the exact visual reference for the woman, her face, hairstyle, outfit, proportions, crowd, environment, lighting, and composition. A young woman with a sleek short dark bob, fitted black turtleneck, black trousers, black shoes, and minimal jewelry walks calmly through a dense crowd. She reaches the center and stops completely still while the surrounding people suddenly begin moving in rapid, perfectly synchronized motion—turning their heads, shifting positions, raising their arms, and stepping in unison. The woman remains completely motionless and expressionless as the chaotic movement suddenly stops, leaving the entire crowd frozen mid-action.
-
-The woman remains standing perfectly still at the center of the frozen crowd, calmly looking around while every person remains locked in their exact position. The camera slowly pushes closer toward her as the silent crowd stays completely motionless in the background. She then looks directly into the lens and gives a subtle mysterious smile. Photorealistic skin, realistic anatomy, natural lighting, believable physics, shallow depth of field, authentic handheld camera movement, and natural ambient sound. No anime, cartoon, illustration, CGI look, morphing, duplicated people, distorted faces, teleportation, floating objects, exaggerated effects, subtitles, logos, or watermark.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-live-action-video-using-the-uploaded-refere-4e8d758c342e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Eyed Sorceress Shatters a Castle with a Colossal Boulder
 
@@ -4089,6 +4152,58 @@ The result should feel professionally directed, beautifully photographed, physic
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-premium-photorealistic-cinematic-30-second-live-action-food-commercial-67403ea43ed5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Motorcyclist Chases Kidnappers and Rescues a Woman
+
+> From a high-speed superbike chase to an epic martial arts showdown. Exploring Seedance 2.5 on @frameo_ai to create my latest cinematic Al sequence. #MadeWithFra…
+
+[<img src="https://media.goodcase.ai/cases/45e13252a14d.jpg" width="600" alt="Motorcyclist Chases Kidnappers and Rescues a Woman">](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2115374004529664166) | **公開日:** 2026-10-28 | **ヒート:** 45
+
+<details>
+<summary><b>プロンプト全文（34 行、クリックで展開）</b></summary>
+
+```
+ASPHALT RESCUE — 30-SECOND CINEMATIC ACTION FILM
+
+FORMAT: 30 seconds, 16:9, photorealistic Hollywood action, 60fps where supported. Golden-hour lighting, realistic physics, natural motion blur, tire smoke, cinematic camera movement.
+
+CHARACTER LOCK:
+@image1 = Hero. Preserve exact face, hairstyle, beard, body, and outfit. He rides a black-and-red superbike; no helmet unless shown in reference.
+@image2 = Four masked male kidnappers in black tactical clothing, each with a distinct build.
+@image3 = Kidnapped woman in a light-colored outfit.
+@image4 = Golden-hour highway, exit ramp, and empty industrial road.
+Vehicle: Same black armored SUV throughout. No identity drift, clones, or costume changes.
+
+TIMELINE:
+
+00:00–00:05 — ABDUCTION & CHASE
+Aerial 24mm shot: black SUV speeds through busy highway traffic. The bound woman pounds on the rear window. Low tracking shot reveals @image1 accelerating toward the SUV on his superbike. Engines roar, horns blare, percussion builds.
+
+00:05–00:10 — HIGHWAY DANGER
+Side tracking shot: hero narrowly threads between two trucks in controlled slow motion. The SUV brakes suddenly. Hero performs a controlled stoppie, swerves past it, and ducks as a masked attacker swings a metal pipe. Tire screeches and metal clangs.
+
+00:10–00:15 — ESCAPE & HEROIC BLOCK
+SUV exits onto an empty industrial road. Hero follows, lands a short controlled shoulder jump, overtakes the SUV, and performs a sliding 180-degree stop across its path. Dust and tire smoke rise. SUV stops just short of the bike. Music drops nearly silent at impact.
+
+00:15–00:22 — MARTIAL ARTS SHOWDOWN
+Four masked men exit and surround the hero. In readable, continuous choreography, he counters the first with a Muay Thai knee and elbow, traps the second with Wing Chun hand techniques, then delivers a spinning heel kick that sends the third into a concrete barrier. Handheld tracking, brief slow motion, synchronized impact sounds.
+
+00:22–00:27 — FINAL TAKEDOWN & RESCUE
+The largest attacker charges. Hero executes a Judo hip throw onto the SUV hood, visibly denting it. All four attackers remain down. Hero opens the rear door, gently removes the woman's gag, cuts her bindings, and helps her out. Music shifts to warm emotional strings.
+
+00:27–00:30 — SUNSET ESCAPE
+Extreme wide shot: the woman sits behind the hero on the superbike, holding his waist. They ride down the empty industrial road toward the orange sunset. The damaged black SUV and defeated attackers remain behind.
+
+AUDIO: Original 140 BPM action score, deep synth bass, taiko percussion, distorted brass, superbike engine, SUV V8, tire screeches, fight impacts, breathing, then a heroic orchestral finish exactly at 00:30.
+
+CONTINUITY: Left-to-right chase direction, consistent vehicle damage, outfits, identities, lighting, and spatial positions. Clear action beats, realistic movement, no unnecessary cuts.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-hero-3bbddb5476e5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Toddler Bounces on Colorful Balls amid Paint Splashes
 
@@ -5429,37 +5544,6 @@ VISUAL & AUDIO: Ultra-realistic skin textures, natural hair movement, detailed f
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-live-action-japanese-supernatural-action-sequenc-842f89421ca2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Blue-Haired Martial Artist Battles Multiple Foes in a Dark Warehouse
-
-> Never Underestimate Her 🔥 I created this epic martial arts action on @CuddlerAI using Seedance 2.5 #cuddler Prompt: Create a 30-sec thrilling martial arts acti…
-
-[<img src="https://media.goodcase.ai/cases/8937e8a81dc3.jpg" width="600" alt="Blue-Haired Martial Artist Battles Multiple Foes in a Dark Warehouse">](https://goodcase.ai/cases/seedance-2-5-create-a-30-sec-thrilling-martial-arts-action-sequence-8495b37f2959?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MissDelulu9 | **出典:** [元投稿](https://x.com/MissDelulu9/status/2114222496769864105) | **公開日:** 2026-10-25 | **ヒート:** 43
-
-<details>
-<summary><b>プロンプト全文（13 行、クリックで展開）</b></summary>
-
-```
-Create a 30-sec thrilling martial arts action sequence. 
-
-A adult female martial artist with long, silky dark-blue hair, mesmerizing eyes, beautiful facial features, natural glowing skin, and an athletic physique. She wears a stylish fitted black sports top, white Taekwondo pants, and a black belt, barefoot, inside a dark industrial warehouse.
-
-0–5s: She makes a stunning cinematic entrance, confidently walking forward as her long blue hair flows dramatically. She adjusts her black belt and takes a powerful fighting stance. Full-body shot, dramatic lighting.
-
-5–10s: Several male fighters enter from different sides, surround her, and suddenly charge toward her. She remains calm and fearless.
-
-10–20s: Intense Taekwondo combat begins. She blocks punches, dodges attacks, and delivers powerful high roundhouse kicks. Every kick impact features spectacular slow motion, flowing hair, realistic reactions, and dramatic dust bursts. Return to fast speed between strikes.
-
-20–27s: More fighters attack together. She performs breathtaking jumping spin kicks and a perfect 360-degree aerial roundhouse kick. The camera rotates around her as the opponents fall backward in dramatic slow motion.
-
-27–30s: She lands gracefully in a powerful fighting pose among the defeated opponents. Her blue hair flows as dust fills the air. Finish with a gorgeous close-up of her confident face and fierce eyes.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-sec-thrilling-martial-arts-action-sequence-8495b37f2959?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)

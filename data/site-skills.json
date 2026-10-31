@@ -404,7 +404,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 95,
+      "caseCount": 97,
       "creatorCount": 64,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
@@ -491,6 +491,26 @@
       "cover": "https://media.goodcase.ai/cases/0a766040d6e2.jpg"
     },
     {
+      "slug": "action-continuity-choreography-by-cle9yv",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "Xaroon_x · Action continuity choreography",
+        "zh": "Xaroon_x · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 4 published cases by Xaroon_x.",
+        "zh": "从 Xaroon_x 的 4 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "Xaroon_x",
+      "caseCount": 4,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv",
+      "cover": "https://media.goodcase.ai/cases/6170bf3f7274.jpg"
+    },
+    {
       "slug": "action-continuity-choreography-by-1lcb8j2",
       "baseSlug": "action-continuity-choreography",
       "kind": "creator_method",
@@ -512,26 +532,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2",
       "cover": "https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg"
-    },
-    {
-      "slug": "action-continuity-choreography-by-cle9yv",
-      "baseSlug": "action-continuity-choreography",
-      "kind": "creator_method",
-      "title": {
-        "en": "Xaroon_x · Action continuity choreography",
-        "zh": "Xaroon_x · 动作连续性编排"
-      },
-      "description": {
-        "en": "A recurring action continuity choreography method derived from 3 published cases by Xaroon_x.",
-        "zh": "从 Xaroon_x 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
-      },
-      "styleTag": null,
-      "creator": "Xaroon_x",
-      "caseCount": 3,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv",
-      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv",
-      "cover": "https://media.goodcase.ai/cases/6170bf3f7274.jpg"
     },
     {
       "slug": "action-continuity-choreography-by-d5g808",
@@ -1136,8 +1136,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 31,
-      "creatorCount": 27,
+      "caseCount": 32,
+      "creatorCount": 28,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg"
@@ -1196,8 +1196,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 28,
-      "creatorCount": 20,
+      "caseCount": 29,
+      "creatorCount": 21,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
       "url": "https://goodcase.ai/skills/vehicles-at-speed",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"

@@ -4,7 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 948 条案例逐条核对过原帖，495 次跨模型复测，27 个可复用模板，79 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2028 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
+**Seedance 2.5 / 2.0 提示词验证库。** 950 条案例逐条核对过原帖，495 次跨模型复测，27 个可复用模板，79 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2028 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)
 
@@ -40,7 +40,7 @@
 | 4 | 连同参考图一起发给任意 AI 对话（ChatGPT、Claude、豆包都行），拿到一条写好的提示语。 |
 | 5 | 把提示语粘到 Seedance（即梦 / Dreamina）生成。效果不对，先看模板里的常见坑，改完再跑。 |
 
-**用模板还是用 Skill？** 模板从 948 条已验证案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。
+**用模板还是用 Skill？** 模板从 950 条已验证案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。
 
 |  | [提示语模板](#-分类提示语模板) | [Skill](#-skill) |
 | --- | --- | --- |
@@ -278,10 +278,10 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 ## 🎬 全部案例
 
-全部 948 条案例（含完整 prompt）都在 `docs/` 下的画廊里，按版本分文件、超长自动分页以保证 GitHub 能渲染。从[画廊总览](./docs/gallery.zh.md)进，或直接跳到某个版本：
+全部 950 条案例（含完整 prompt）都在 `docs/` 下的画廊里，按版本分文件、超长自动分页以保证 GitHub 能渲染。从[画廊总览](./docs/gallery.zh.md)进，或直接跳到某个版本：
 
-- Seedance 2.5 - 646 条：[第 1 页（第 1–86 条）](./docs/gallery-seedance-2-5-part-1.zh.md) · [第 2 页（第 87–160 条）](./docs/gallery-seedance-2-5-part-2.zh.md) · [第 3 页（第 161–253 条）](./docs/gallery-seedance-2-5-part-3.zh.md) · [第 4 页（第 254–353 条）](./docs/gallery-seedance-2-5-part-4.zh.md) · [第 5 页（第 354–450 条）](./docs/gallery-seedance-2-5-part-5.zh.md) · [第 6 页（第 451–546 条）](./docs/gallery-seedance-2-5-part-6.zh.md) · [第 7 页（第 547–618 条）](./docs/gallery-seedance-2-5-part-7.zh.md) · [第 8 页（第 619–646 条）](./docs/gallery-seedance-2-5-part-8.zh.md)。
-- Seedance 2.0 - 302 条：[第 1 页（第 1–91 条）](./docs/gallery-seedance-2-0-part-1.zh.md) · [第 2 页（第 92–197 条）](./docs/gallery-seedance-2-0-part-2.zh.md) · [第 3 页（第 198–285 条）](./docs/gallery-seedance-2-0-part-3.zh.md) · [第 4 页（第 286–302 条）](./docs/gallery-seedance-2-0-part-4.zh.md)。
+- Seedance 2.5 - 648 条：[第 1 页（第 1–87 条）](./docs/gallery-seedance-2-5-part-1.zh.md) · [第 2 页（第 88–162 条）](./docs/gallery-seedance-2-5-part-2.zh.md) · [第 3 页（第 163–256 条）](./docs/gallery-seedance-2-5-part-3.zh.md) · [第 4 页（第 257–356 条）](./docs/gallery-seedance-2-5-part-4.zh.md) · [第 5 页（第 357–453 条）](./docs/gallery-seedance-2-5-part-5.zh.md) · [第 6 页（第 454–549 条）](./docs/gallery-seedance-2-5-part-6.zh.md) · [第 7 页（第 550–621 条）](./docs/gallery-seedance-2-5-part-7.zh.md) · [第 8 页（第 622–648 条）](./docs/gallery-seedance-2-5-part-8.zh.md)。
+- Seedance 2.0 - 302 条：[第 1 页（第 1–90 条）](./docs/gallery-seedance-2-0-part-1.zh.md) · [第 2 页（第 91–197 条）](./docs/gallery-seedance-2-0-part-2.zh.md) · [第 3 页（第 198–285 条）](./docs/gallery-seedance-2-0-part-3.zh.md) · [第 4 页（第 286–302 条）](./docs/gallery-seedance-2-0-part-4.zh.md)。
 
 ## 🌐 在 goodcase.ai 上浏览
 
@@ -303,13 +303,13 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 | 指标                          | 数值                |
 | --------------------------- | ----------------- |
-| 本仓库 Seedance 案例             | 948               |
-| Seedance 2.5                | 646               |
+| 本仓库 Seedance 案例             | 950               |
+| Seedance 2.5                | 648               |
 | Seedance 2.0                | 302               |
 | 作者数                         | 210               |
 | 跨模型复测                       | 483 条 / 495 次     |
 | 稳定度分（已测）                    | 478 条 / 均分 78.0   |
-| 最近更新                        | 2026-10-31        |
+| 最近更新                        | 2026-11-01        |
 | goodcase.ai 全站（含非 Seedance） | 2028 条 / 482 位创作者 |
 | goodcase.ai AI 视频           | 1181 条            |
 

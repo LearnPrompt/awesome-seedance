@@ -1,19 +1,19 @@
 # Awesome Seedance — Gallery Index
 
-All 948 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 950 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
 ## Pages
 
-- [Seedance 2.5 · Part 1/8](./gallery-seedance-2-5-part-1.md) - cases 1–86 of 646.
-- [Seedance 2.5 · Part 2/8](./gallery-seedance-2-5-part-2.md) - cases 87–160 of 646.
-- [Seedance 2.5 · Part 3/8](./gallery-seedance-2-5-part-3.md) - cases 161–253 of 646.
-- [Seedance 2.5 · Part 4/8](./gallery-seedance-2-5-part-4.md) - cases 254–352 of 646.
-- [Seedance 2.5 · Part 5/8](./gallery-seedance-2-5-part-5.md) - cases 353–449 of 646.
-- [Seedance 2.5 · Part 6/8](./gallery-seedance-2-5-part-6.md) - cases 450–545 of 646.
-- [Seedance 2.5 · Part 7/8](./gallery-seedance-2-5-part-7.md) - cases 546–616 of 646.
-- [Seedance 2.5 · Part 8/8](./gallery-seedance-2-5-part-8.md) - cases 617–646 of 646.
+- [Seedance 2.5 · Part 1/8](./gallery-seedance-2-5-part-1.md) - cases 1–87 of 648.
+- [Seedance 2.5 · Part 2/8](./gallery-seedance-2-5-part-2.md) - cases 88–161 of 648.
+- [Seedance 2.5 · Part 3/8](./gallery-seedance-2-5-part-3.md) - cases 162–253 of 648.
+- [Seedance 2.5 · Part 4/8](./gallery-seedance-2-5-part-4.md) - cases 254–351 of 648.
+- [Seedance 2.5 · Part 5/8](./gallery-seedance-2-5-part-5.md) - cases 352–449 of 648.
+- [Seedance 2.5 · Part 6/8](./gallery-seedance-2-5-part-6.md) - cases 450–545 of 648.
+- [Seedance 2.5 · Part 7/8](./gallery-seedance-2-5-part-7.md) - cases 546–617 of 648.
+- [Seedance 2.5 · Part 8/8](./gallery-seedance-2-5-part-8.md) - cases 618–648 of 648.
 - [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.md) - cases 1–90 of 302.
 - [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.md) - cases 91–196 of 302.
 - [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.md) - cases 197–280 of 302.
