@@ -1,10 +1,125 @@
 # Seedance 2.0 — 全量案例（第 4/4 页）
 
-Seedance 2.0 全部 302 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 304 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 286–302 条，共 302 条。
+本页：第 285–304 条，共 304 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · **Part 4**
+
+### 触感剪纸风格产品展示
+
+> 一个为 Seedance 2.0 设计的奢华香水产品展示提示词，采用触感剪纸定格动画风格。
+
+[<img src="https://media.goodcase.ai/media/poster/case-7aea1313f63b.jpg" width="600" alt="触感剪纸风格产品展示">](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @thesocialalpha_ | **来源:** [原帖](https://x.com/thesocialalpha_/status/2073075642996777159) | **发布:** 2026-07-03 | **热度:** 3
+
+<details>
+<summary><b>完整 prompt（10 行，点开展开）</b></summary>
+
+```
+Use @image1 as the exact final hero-frame composition. Use @image2 as the strict product identity lock.
+Animate like a premium tactile editorial paper-cut product reveal: layered cardstock pieces slide, fold, pop up, and settle with tiny stop-motion overshoot. Mostly locked camera, subtle tabletop parallax only. Physical paper shadows under every layer.
+PRODUCT LOCK: preserve the perfume bottle silhouette, white geometric lattice, aqua-blue inner body, square cap, central RAYHAAN plaque, front-facing readability, and luxury material finish from @image2.
+SHOT 1, 16:9, 6 seconds:
+0-1.2s: The Dubai paper city comes to life. Skyscrapers lift in staggered layers, small clouds slide, and aqua paper water waves shimmer forward.
+1.2-2.6s: The product folds into place. White panels flip inward, the aqua inner body slides behind the lattice, the cap drops on, and the bottle settles cleanly on the plinth.
+2.6-4.2s: Ingredients animate once around the product. Bergamot and lemon slices rotate gently, grapefruit blossoms open, Calone waves ripple, and sandalwood strips slide into a neat base.
+4.2-6s: The note cards fold in top-to-bottom: TOP “Bergamot, Lemon”, MIDDLE “Grapefruit blossom”, BASE “Calone, Sandalwood”. Preserve exact readable text. End fully settled on @image1.
+Sound design: crisp paper slides, dry cardstock flicks, soft paper taps, tiny adhesive-peel folds, subtle paper-water shimmer. No music, no voiceover, no extra captions.
+Constraints: no new text, no misspellings, no duplicated labels, no warped product, no melting or liquid morphing, no CGI camera flythrough, no hands, no people, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 屋顶追逐动作短语
+
+> 针对 Seedance 2.0 的详细动作短语，描述了一个角色在聚光灯下于屋顶边缘蹲伏并跃过缝隙的追逐场景。
+
+[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="屋顶追逐动作短语">](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @LANDCASTER_92 | **来源:** [原帖](https://x.com/LANDCASTER_92/status/2081432738683314614) | **发布:** 2026-07-26 | **热度:** 2
+
+**稳定度：** 70/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (69.8 分) · [产物](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（47 行，点开展开）</b></summary>
+
+```
+Urban Escape Scene
+
+Models ( GPT Image-2 + Seedance 2.0)
+
+Seedance Prompts 2/3
+
+MOTION PHRASES:
+
+P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
+
+P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
+
+P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+
+P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+
+P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+
+P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+
+P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+
+P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+
+P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+
+Seedance Prompts 3/3
+
+MOTION PHRASES:
+
+P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+
+P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+
+P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
+
+P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
+
+P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
+
+P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
+
+P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
+
+P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
+
+P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 纽约 FPV 无人机飞行
+
+> 一段关于纽约市超写实、极具电影感的无人机飞行提示词，包含复杂的 FPV 操控技巧和黄金时刻的灯光效果。
+
+[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="纽约 FPV 无人机飞行">](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @KrevixAi | **来源:** [原帖](https://x.com/KrevixAi/status/2081427105435255093) | **发布:** 2026-07-26 | **热度:** 2
+
+**稳定度：** 77/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 角斗场决斗动作
 

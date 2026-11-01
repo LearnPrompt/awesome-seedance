@@ -24,7 +24,7 @@ Maintain identical faces, hairstyles, outfits, and location throughout. Include 
 
 ## E2 · Woman Pulls Laughing Man Out Through a Shattered Subway Window
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 93
+- Seedance 2.5 · creator: @AIwithkhan · heat: 94
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1) · [finished media](https://media.goodcase.ai/cases/93018061e73f.mp4) · [poster](https://media.goodcase.ai/cases/c07aff74d745.jpg) · [original source](https://x.com/AIwithkhan/status/2097168171367338428)
 - Summary: Girl with a B **** H mode 🥵 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exac…
 

@@ -1,10 +1,469 @@
 # Seedance 2.5 — 全ケース（Part 8/8）
 
-Seedance 2.5 の全 648 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 658 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 648 件中 617–648 件目。
+このページ: 658 件中 617–658 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · **Part 8**
+
+### A Girl by the Railway at Dawn in Seoul
+
+> Made with seedance 2.5 Prompt: Main Subject: young korean woman <<<image_1>>>, naturally attractive, realistic skin, min
+
+[<img src="https://media.goodcase.ai/cases/f25e7ef53c4e.jpg" width="600" alt="A Girl by the Railway at Dawn in Seoul">](https://goodcase.ai/cases/ciri-ai-seedance-ai-8a682520c2fe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2091403033817272690) | **公開日:** 2026-08-23 | **ヒート:** 27
+
+<details>
+<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
+
+```
+Main Subject: young korean woman <<<image_1>>>, naturally attractive, realistic skin, minimal makeup, long dark hair loosely tied back. Wearing an oversized faded blue sweatshirt, loose beige pants, white sneakers, and a thin silver necklace. Preserve her exact identity, facial features, hairstyle, and appearance throughout.
+
+Location: Quiet Seoul neighborhood just before sunrise. Narrow residential streets, old apartment buildings, utility poles, parked cars, tangled overhead wires, small shops with shutters still closed, and an elevated railway visible beyond the rooftops. Cool early-morning haze slowly turning warm as the sun rises.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Candid, quiet and completely unstaged. Handheld shake, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft contrast, DV compression, slight motion blur and low-level microphone noise. No stabilization or modern cinematic movement.
+
+00:00–00:03: She walks quietly through the nearly empty neighborhood, hands tucked into her sweatshirt pockets. The camera follows several steps behind, occasionally drifting toward the empty street.
+
+00:03–00:06: She reaches a small pedestrian overlook near the elevated railway and leans against the railing. She looks tired but peaceful, watching the tracks below.
+
+00:06–00:09: The distant sound of a train grows louder. She turns toward the tracks and waits. The camera struggles to focus in the dim morning light.
+
+00:09–00:12: The first train suddenly rushes past. The camera shakes from the operator's reaction, briefly losing her behind the moving train. Morning light reflects across the windows.
+
+00:12–00:15: She looks back toward the camera with a sleepy little smile, then turns toward the brightening skyline. The camera slowly drifts toward the railway and hazy rooftops as the recording ends.
+
+Audio: Natural morning ambience only—distant train sounds, railway vibrations, birds, footsteps, faint traffic, wind, electrical hum and a few distant voices. No music, narration, or added effects.
+
+Goal: Make it feel like a forgotten MiniDV recording from an ordinary morning in Seoul. Quiet, intimate, slightly lonely but comforting, with the nostalgia coming from the mundane setting, early-morning atmosphere, and imperfect home-video camera rather than cinematic staging.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ciri-ai-seedance-ai-8a682520c2fe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Storm Harbor Disaster Movie Sequence
+
+> A 30-second Hollywood-style disaster sequence in six shots: storm harbor escape, explosions and flooding, sheltering indoors, and a giant sea monster finale, with camera and water physics specified.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="600" alt="Seedance 2.5 Storm Harbor Disaster Movie Sequence">](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Noor_ul_ain43 | **出典:** [元投稿](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **公開日:** 2026-08-13 | **ヒート:** 26
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.6) · [出力](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second ultra-realistic cinematic disaster sequence with a dark, intense, Hollywood-blockbuster atmosphere.
+
+Main character: A young woman with short, messy dark hair, wearing a soaked white T-shirt and light-colored shorts. Keep her appearance consistent throughout the entire video. Her face should remain realistic and expressive, showing fear, shock, exhaustion, and determination.
+
+Scene 1 — 0–5 seconds:
+Open with an extreme close-up of the woman running toward the camera through a dark industrial shipping yard at night. Heavy rain is falling, her hair and clothes are completely wet, and she is breathing heavily. Behind her, bright industrial lights glow through thick smoke and mist. The camera moves backward smoothly while maintaining focus on her face. Add realistic rain droplets on the camera lens, dramatic backlighting, atmospheric fog, and handheld cinematic movement.
+
+Scene 2 — 5–10 seconds:
+Cut to a wider shot as she runs through the flooded container yard. Large shipping containers surround her, emergency lights flash in the distance, and explosions/fire erupt behind her. She looks over her shoulder in panic while continuing to run. Water splashes dramatically around her legs with every step. Use realistic fire, smoke, debris, rain, and volumetric lighting.
+
+Scene 3 — 10–15 seconds:
+She suddenly loses her balance and falls into the flooded ground. Show the impact in slow motion for a moment, with water splashing around her. She quickly pushes herself back up while terrified people run in the background. A massive wave of smoke, debris, and water moves through the shipping yard behind them. Use a low-angle camera close to the ground for a powerful disaster-movie perspective.
+
+Scene 4 — 15–21 seconds:
+She gets back on her feet and starts sprinting toward safety. The camera tracks alongside her at high speed. Containers shake, debris flies through the air, vehicles and objects are pushed around by the powerful force behind her. Keep her face and body consistent. Alternate between close-ups of her frightened expression and wide shots showing the enormous scale of destruction.
+
+Scene 5 — 21–25 seconds:
+She reaches a large modern building filled with terrified people. The camera follows her inside as everyone rushes toward safety. People are falling, crawling, and helping each other while water and debris can be seen outside through the entrance. The lighting changes from cold blue-gray exterior lighting to dramatic warm interior lighting.
+
+Scene 6 — 25–30 seconds:
+Suddenly transition to a massive luxury yacht in the middle of a violent ocean. Huge dark waves surround the vessel under a stormy sky. The camera starts behind the yacht and slowly reveals an enormous shark-like sea creature emerging from the ocean directly behind it, creating a terrifying final reveal. The creature rises through the waves with water cascading from its body. End with a gigantic wave crashing toward the yacht.
+
+Visual style: photorealistic Hollywood disaster film, cinematic color grading, realistic skin texture, physically accurate water and rain, volumetric fog, dramatic practical lighting, realistic fire and smoke, detailed environments, natural motion blur, shallow depth of field, dynamic camera movement, high contrast, atmospheric storm clouds, extremely detailed CGI, 4K cinematic quality.
+
+Camera: mixture of handheld close-ups, smooth tracking shots, wide establishing shots, low-angle disaster shots, slow-motion impact moments, and dramatic aerial/wide shots.
+
+Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming crowds, footsteps splashing through water, crashing metal, deep cinematic bass, roaring waves, and an intense rising orchestral score that builds toward the final creature reveal.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Singing Man Uses Street Powers and Transforms His Outfit
+
+> Seedance 2.5 almighty prompt is below 👇 A 2000s studio-comedy film shot, 16:9, 35mm, moderate film grain, bright Americ
+
+[<img src="https://media.goodcase.ai/media/poster/techhalla-seedance-ai-81e09066a66b.jpg" width="600" alt="Singing Man Uses Street Powers and Transforms His Outfit">](https://goodcase.ai/cases/techhalla-seedance-ai-81e09066a66b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2094570657929363710) | **公開日:** 2026-08-31 | **ヒート:** 26
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.4) · [出力](https://media.goodcase.ai/retests/techhalla-seedance-ai-81e09066a66b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（35 行、クリックで展開）</b></summary>
+
+```
+Seedance 2.5 almighty prompt is below 👇
+
+A 2000s studio-comedy film shot, 16:9, 35mm, moderate film grain, bright American daylight, tracking camera at chest height following a man along a city sidewalk. Smooth dolly/track with him, no handheld phone, no gimbal whip, no drone, no cuts. The camera stays with him the whole 30 seconds, medium-wide, the street readable behind him.
+
+IMAGE REFERENCES
+
+[image_ref] is the opening frame AND the identity lock: the bald man with the thick dark beard, open grey plaid flannel over a white t-shirt, mid-stride on this exact sunlit sidewalk. Keep his exact face, bald scalp, beard, body. Keep this street: Sherman Brothers shop, cafe table, stone steps and arched doorway, red fire hydrant, American flag, storefronts. Start on this composition, then the camera travels with him down the block. Do not redesign his face.
+
+He sings out loud, diegetic, the lyrics "I've got the power" in a loud off-key enthusiastic voice, the whole walk. No extra score under it. Street air, footsteps, then the gags.
+
+TIMELINE
+
+0-4s: [Tracking medium-wide, opening on image_1] He is already walking, already singing, mouth wide, chest out, a little strut. The camera slides with him. Daylight, grain. He is having the time of his life.
+
+4-8s: [Tracking, he twists his torso toward the hydrant without stopping] He points two fingers at the red fire hydrant on the sidewalk. The hydrant cap blows and three hard jets of water blast out in different directions, high, violent, real water physics, mist in the sun. He keeps walking and singing, does not look back for long. Camera stays on him, hydrant geysers in the background.
+
+8-13s: [Tracking, still singing] He keeps the strut. Water still arcing behind him. Pedestrians flinch at the spray. He grins, points at the sky on a lyric, never breaks stride.
+
+13-18s: [Tracking as he passes a woman coming the other way] A woman in a knee-length dress walks toward him. As they cross, a sudden gust hits only her: the hem lifts a little, Marilyn sidewalk-vent style but modest, a brief flip then it drops. She grabs the fabric, startled. He keeps walking, still singing, a tiny glance, no contact. Camera never leaves him.
+
+18-23s: [Tracking slows as he reaches a shop window] He stops in front of a big storefront glass, still humming. Leans in. We see him and his reflection clearly: bald head, beard, plaid, white tee. He studies himself, tilts his chin.
+
+23-28s: [Held on him and the reflection] In the glass and on his body at the same time, the clothes change in one continuous morph: the flannel and tee become a sharp white open-collar suit, jacket, tailored trousers, a gold chain. No cut, no flash, the fabric rewrites itself. He checks the new look in the window, pleased, shoulders back.
+
+28-30s: [Medium, still on him] He licks the tip of his index finger, taps it to his hip, and a little puff of white steam hisses off the fabric like a hot iron being quenched. He mouths the last "power," smug. Clip ends on that beat. Camera never cut.
+
+AUDIO
+
+His live singing of "I've got the power" the whole way, a bit pitchy, full of himself. Hydrant blast and falling water. Dress flutter. A soft whoosh on the clothes change. A tiny sizzle and steam hiss on the hip. City air, footsteps, one woman gasp. No extra music bed. No commentator. 2000s film production sound, not a phone video.
+
+STYLE & QUALITY
+
+Looks like a real early-2000s movie production still that started moving: 35mm grain, anamorphic-adjacent daylight, stable faces, real water, real wind on fabric, real cloth morph, real steam. Continuous take. No morphing of the face, no extra people popping in, no text, no logos, no watermark, no phone look, no CGI sheen.
+
+The ref image is exactly the first frame. Enjoy! 😎
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/techhalla-seedance-ai-81e09066a66b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### High-Energy Spicy Potato Chips Commercial Storyboard
+
+> Nano Banana 2 × Seedance 2.5 Prompt b- TITLE: Premium Spicy Potato Chips Product Commercial Storyboard FORMAT: • Single-
+
+[<img src="https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-be4ae9f1e375.jpg" width="600" alt="High-Energy Spicy Potato Chips Commercial Storyboard">](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Strength04_X | **出典:** [元投稿](https://x.com/Strength04_X/status/2094298786122379298) | **公開日:** 2026-08-31 | **ヒート:** 25
+
+**安定度:** 82/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.6) · [出力](https://media.goodcase.ai/retests/strength04-x-seedance-ai-be4ae9f1e375/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（49 行、クリックで展開）</b></summary>
+
+```
+Nano Banana 2 × Seedance 2.5 
+
+Prompt b- TITLE:
+Premium Spicy Potato Chips Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet snack advertising campaign
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• Premium advertising agency presentation
+
+HEADER:
+• Bold modern typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: High-Energy Food Commercial
+  - Product: Spicy Potato Chips
+  - Audio: Crunch ASMR + Fast Beat
+• Why This Style Works section
+• Deep red, orange and cream aesthetic
+• Minimal chili and spice decorative elements
+
+STORYBOARD:
+1. Premium chips packet standing dramatically on a dark surface
+2. Packet opening with chips bursting upward
+3. Extreme macro of crispy ridged chip texture
+4. Red chili seasoning falling onto chips in slow motion
+5. Chips rotating through a dramatic spice cloud
+6. One chip snapping with tiny crumbs flying outward
+7. Full bowl of seasoned chips beside the hero packet
+8. Final product packshot with chips and dramatic seasoning splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, high-speed photography, slow-motion seasoning, dynamic push-in, controlled food splash, dramatic hero framing.
+
+STYLE:
+Ultra-realistic snack commercial, detailed crispy texture, realistic seasoning particles, sharp packaging details, dramatic studio lighting, premium food photography, 8K.
+
+@itsPolloAI #PolloAl #Pollomarketingstudio
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/strength04-x-seedance-ai-be4ae9f1e375?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Spring Morning in a European Old Town
+
+> Seedance 2.5 on @wavespeed_ai Prompt - Create a 30-second, 1080p ultra-realistic documentary-style personal home video s
+
+[<img src="https://media.goodcase.ai/media/poster/strength04-x-seedance-ai-89d154123b94.jpg" width="600" alt="A Spring Morning in a European Old Town">](https://goodcase.ai/cases/strength04-x-seedance-ai-89d154123b94?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Strength04_X | **出典:** [元投稿](https://x.com/Strength04_X/status/2093317303916237120) | **公開日:** 2026-08-28 | **ヒート:** 25
+
+**安定度:** 75/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 74.7) · [出力](https://media.goodcase.ai/retests/strength04-x-seedance-ai-89d154123b94/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（45 行、クリックで展開）</b></summary>
+
+```
+Seedance 2.5 on @wavespeed_ai 
+
+Prompt - Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary spring morning in the life of a young European man. The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
+MAIN SUBJECT
+The same young man in his mid-20s throughout the entire video.
+Naturally handsome, realistic skin texture, relaxed sleepy expression, light stubble.
+He has short wavy light-brown hair, slightly tousled from sleep.
+He wears an open denim jacket over a plain white T-shirt, straight dark jeans, worn leather boots, and a thin brown leather bracelet.
+Keep his face, identity, body proportions, hairstyle, and clothing completely consistent from beginning to end.
+LOCATION
+A quiet cobblestone old-town street in early spring morning. Pastel-colored buildings, wrought-iron balconies, a small bakery with steam on its windows, scattered pigeons, a stone fountain, and soft morning mist.
+The street should feel authentic and lived-in. No crowds, tourist attractions, advertisements, or recognizable brands.
+CAMERA / VISUAL STYLE
+Authentic casual personal-video footage from an older consumer digital camera, handheld by a friend walking nearby.
+Natural camera shake, imperfect framing, autofocus adjusting to morning mist and soft light, soft detail, mild motion blur, subtle digital noise, slightly muted pastel colors, imperfect white balance.
+No stabilization, gimbal movement, drone shots, cinematic lighting, slow motion, or polished color grading.
+00:00–00:05 — OUTSIDE THE BAKERY
+He stands outside a small bakery, breathing in the smell of fresh bread, holding a warm paper bag.
+He glances at the camera, smiles sleepily, and takes a small bite of pastry.
+00:05–00:10 — WALKING THE COBBLESTONE STREET
+He walks slowly across uneven cobblestones, one hand in his jacket pocket.
+The camera follows a few steps behind, wobbling slightly on the uneven stones.
+00:10–00:14 — SMALL EVERYDAY MOMENT
+He notices pigeons near the fountain and gently claps his hands, scattering them briefly.
+He laughs quietly as they resettle a few feet away.
+00:14–00:19 — FOUNTAIN PAUSE
+He sits on the edge of the stone fountain, finishing his pastry.
+He dips his fingers in the water briefly and shakes them dry, smiling.
+Faint distant church bells are heard.
+00:19–00:23 — SUDDEN LIGHT BREEZE
+A light spring breeze scatters flower petals from a nearby tree across the street.
+He looks up, mildly amused, and brushes a petal off his shoulder.
+00:23–00:27 — QUIET MOMENT
+He stands near a pastel-colored wall, morning light catching the mist behind him.
+He looks toward the camera and gives a small, genuine, half-awake smile.
+00:27–00:30 — WALKING AWAY
+He turns and walks down the misty street, hands back in his pockets.
+He glances back once, gives a small nod, and continues walking.
+At approximately 00:29, the recording abruptly cuts to black mid-motion. No fade-out.
+PHYSICAL REALISM
+Maintain believable physics for the pastry bag, water droplets, pigeons, petals, and his footing on cobblestones throughout. No distorted anatomy, floating objects, or sudden transformations.
+AUDIO
+Natural environmental audio only: footsteps on cobblestone, distant church bells, pigeons, wind, fountain water, faint bakery sounds. No music, no narration, no artificial sound effects.
+FINAL FEEL
+Quiet, masculine, youthful, nostalgic, soft, unhurried, and deeply human a forgotten personal recording of an ordinary spring morning in an old European town.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/strength04-x-seedance-ai-89d154123b94?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Hyperreal Selfie From a Reference
+
+> Seedance 2.5 on Higgsfield. Prompt: Ultra-realistic 15-second selfie video of the exact woman from the reference image (
+
+[<img src="https://media.goodcase.ai/media/poster/rovvmut-seedance-ai-228f58be0ecb.jpg" width="600" alt="Seedance 2.5 Hyperreal Selfie From a Reference">](https://goodcase.ai/cases/rovvmut-seedance-ai-228f58be0ecb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @rovvmut_ | **出典:** [元投稿](https://x.com/rovvmut_/status/2088872188321636593) | **公開日:** 2026-08-16 | **ヒート:** 25
+
+<details>
+<summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
+
+```
+Ultra-realistic 15-second selfie video of the exact woman from the reference image (precise facial structure, skin tone, hair, features, expression locked 1:1 — zero identity drift).
+Setting: inside a luxury mansion living room. Marble columns, ornate white ceiling with detailed molding, large crystal chandelier, soft grey walls, elegant grey couch visible behind her. Background remains completely identical and static the entire time — no scene change, no camera movement beyond natural handheld micro-sway.
+Camera: selfie mode, held close to her face, slightly wide lens (≈24-28mm equivalent). Natural indoor daylight coming from the front/side, soft and flattering. Extremely crisp focus on her face with shallow depth of field; background gently falls off. Handheld natural motion only.
+
+Action sequence (strict timeline):
+0.0–3.5s
+She looks into the lens, warm genuine smile, and speaks clearly:
+“Simbaaaa... simba come here... I'm making a video for Instagram, they wanna see you... good boy...”
+3.5–7.0s
+From behind the couch, a large fully realistic adult male lion slowly walks into frame. Soft, deliberate paw steps on the floor. Tail swaying gently. He sniffs the air as he approaches. He moves toward her right shoulder.
+7.0–9.5s
+She notices the lion over her shoulder, turns her head slightly, and laughs nervously while still holding the phone steady.
+9.5–13.5s
+The lion rubs his massive head against her cheek and neck exactly like a giant affectionate cat. Soft low growl/snort. Then he gently licks her face with a large realistic tongue.
+She laughs genuinely and says:
+“Aww good boy...”
+13.5–15.0s
+She continues smiling and laughing lightly as the lion stays close, nuzzling. Hold on the intimate interaction.
+Extreme realism requirements:
+Visible skin pores, fine facial hairs, natural micro-texture, subtle stubble if present in reference, realistic subsurface scattering and soft shadows on skin.
+Lion: dense individual fur strands, accurate mane and body spots, realistic whiskers, wet black nose, detailed eyes, authentic tongue texture and saliva sheen when licking.
+Natural physics on fur movement, weight, and contact.
+Perfect facial consistency of the woman throughout - no morphing, no warping, no age/skin change.
+
+Technical & style:
+Ultra-sharp 8K detail, 64K micro-detail rendering, clean natural color grading, cinematic yet documentary realism, zero flicker, zero temporal warping, zero face distortion. Soft natural indoor light only.
+Reference image locked for character identity.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/rovvmut-seedance-ai-228f58be0ecb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Gyaru's Chaotic Flying Commute with Toast
+
+> The superwoman Made with Seedance 2.5 on ImagineArt Prompt: @image1 is the ONLY reference for the main character. It defines her identity — preserve her exact f…
+
+[<img src="https://media.goodcase.ai/cases/15ff3e55b62d.jpg" width="600" alt="Gyaru's Chaotic Flying Commute with Toast">](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2096105857402699891) | **公開日:** 2026-09-05 | **ヒート:** 24
+
+<details>
+<summary><b>プロンプト全文（22 行、クリックで展開）</b></summary>
+
+```
+@image1  is the ONLY reference for the main character. It defines her identity — preserve her exact face, makeup, and voluminous dark-brown spiral-curl hair in every shot — and it defines the design of her outfit: sheer light-blue off-shoulder top, long light-blue scarf, silver star necklace, white lace ruffled miniskirt, white lace tights, dalmatian-print leg warmers with blue bows, chunky black-and-white platform shoes. WHEN she wears this outfit is set only by the wardrobe timeline below. Do not use the sheet's white studio background, panel layout, or neutral standing poses. The same single woman appears throughout — no identity drift, no second copy of her.
+
+WARDROBE TIMELINE: 0–2 sec — rumpled plain pajamas, curls extra messy from sleep, no accessories. 2–6 sec — she dresses during the mirror timelapse described below. From 6 sec to the end — the exact complete outfit from @Image 1, unchanged.
+
+Create a chaotic 30-second Japanese live-action comedy video. Fast and physical, no dead time, rapid cuts and dynamic camera movement. All dialogue is Japanese only, and only she speaks — no other on-screen mouth ever syncs to any voice. Her voice is cute, high-pitched and bright.
+
+STYLE: Warm faded early-digital handheld footage with low-saturation color, soft focus, mild noise, slightly blown highlights and candid movement. No timestamp, date stamp or UI overlays. Not modern crisp digital. Speed changes exist ONLY in the two designated timelapse segments (2–6 sec and 20–23 sec); no slow motion anywhere, no speed ramps anywhere else.
+
+FLIGHT RULES: Her flight is played as physical and live-action. Every takeoff has a visible crouch, recoil and downdraft that shoves nearby objects; wind constantly drags her scarf, skirt and curls; landings carry real impact through her legs. She flies clumsily, like a new driver. No glowing aura, no energy effects, no cape, no superhero costume, no named superhero reference.
+
+SOUND: Playful upbeat Japanese gyaru dance-pop begins at the first frame and continues throughout. Sync cuts, the alarm clock, wardrobe snaps, the takeoff downdraft, whipping wind, flapping laundry, crow caws, train rumble, drone buzz, rain patter, landing impact and her footsteps to the beat. No silent sections.
+
+SETTING: A small messy Japanese bedroom with a bed, an alarm clock, a full-length mirror and clothes piled around; a slice of toast on a plate by the door. Outside: a Japanese residential street with laundry lines hung with white sheets, power lines, then a downtown district of office buildings, an elevated commuter train line, one small delivery drone, one crow, one small grey rain cloud, and a station square with ordinary Japanese pedestrians whose faces and outfits all differ. Japanese signage stays in the background.
+
+00:00–00:02 — WAKE-UP
+Extreme close-up of her eye snapping open under messy curls. She bolts upright in bed, grabs the alarm clock, stares at it and gasps. She kicks the blanket off. 00:02–00:06 — DRESSING TIMELAPSE
+Locked-off camera facing the full-length mirror. The room and the mirror frame stay pin-sharp and completely motionless — nothing in the background moves. Only she moves, in fast-forward with slight motion trails: pajamas off, top on, skirt on, scarf thrown, leg warmers yanked up, shoes buckled, necklace on, bag slung across. At 5.5 seconds the speed snaps back to normal with no ramp: she stands fully dressed in the exact @Image 1 outfit, jams the slice of toast in her mouth and strikes a quick check pose.
+
+00:06–00:08 — TAKEOFF
+On the front step she crouches deep, then launches vertically like a rocket, toast still in her mouth, mumbling through it: 「いってきま〜す！」 The downdraft knocks over a potted plant and sets the laundry flapping.
+
+00:08–00:11 — LOW-ALTITUDE OBSTACLES
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Nineteen-Second Cinematic Luxury Perfume Commercial
+
+> Luxury in every detail A cinematic fragrance experience crafted to leave a lasting impression. Made With Seedance 2.5 Prompt: Cinematic 19-second commercial ad …
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2.jpg" width="600" alt="Nineteen-Second Cinematic Luxury Perfume Commercial">](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @juliaevee | **出典:** [元投稿](https://x.com/juliaevee/status/2095745759027028252) | **公開日:** 2026-09-04 | **ヒート:** 24
+
+**安定度:** 83/100
+
+**再テスト:** Grok Imagine · 2026-10-02 · ✅ 再現 (スコア 82.6) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2/video-grok-imagine-20261002-phase1/generated.mp4)
+
+```
+Cinematic 19-second commercial ad for a luxury perfume. The video starts in pitch darkness, slowly revealing a dark blue glass perfume bottle with a round silver metallic cap resting on dark folded leather, labeled "BLUE BY ISHQ EAU DE PARFUM 50 ML". Dynamic lighting shifts with sharp rim highlights outlining the bottle. A fine mist spray fills the air with delicate water particles illuminated by a spotlight behind the bottle. The camera transitions through dramatic angles: a close-up tilt shot of the label, macro water drops splashing dynamically around the glass base, a close-up of a finger pressing the metallic nozzle spraying a fine fragrance mist in slow motion, and a smooth rotating camera motion. High-end moody aesthetic, dramatic music beat sync, 8k resolution, ultra-realistic product commercial photography.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-19-second-commercial-ad-for-a-luxury-perfume-142bf48ed0d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### An Evening With Her Favorite Friends
+
+> She's spending the evening with her favorite friends. Created with seedance 2.5 Prompt ↓ Create a 30-second 16:9 ultra-r
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5.jpg" width="600" alt="An Evening With Her Favorite Friends">](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2095106155978596773) | **公開日:** 2026-09-02 | **ヒート:** 24
+
+**安定度:** 78/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78) · [出力](https://media.goodcase.ai/retests/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（53 行、クリックで展開）</b></summary>
+
+```
+She's spending the evening with her favorite friends.
+
+Created with seedance 2.5
+
+Prompt ↓
+Create a 30-second 16:9 ultra-realistic casual smartphone lifestyle vlog featuring one young Korean woman going out to meet her friends, spending a fun time together, and then returning home.
+The entire video must look like genuine personal footage casually recorded on a real handheld smartphone. Mostly she films herself in selfie mode, with a few natural clips filmed by one of her friends. Use imperfect framing, subtle hand shake, realistic smartphone autofocus, automatic exposure changes, slight motion blur, walking jolts, natural background sounds and authentic real-world physics. No cinematic shots, no drone, no gimbal, no beauty filters, no commercial look.
+
+Character: The same Korean woman throughout the entire video, petite oval face, brown eyes, natural coral lips, realistic fair skin and long black hair. Maintain perfect character consistency with no face morphing, identity drift or duplicate people. She speaks naturally in Korean with accurate lip synchronization.
+
+STORY — A DAY OUT WITH FRIENDS
+
+0:00–0:04 — Leaving Home
+She stands outside her home holding her phone in selfie mode, looking excited and ready to go out. She says naturally in Korean:
+
+“오늘 친구들이랑 만나러 가요!”
+
+She smiles, starts walking, and the phone shakes slightly with her steps.
+
+0:04–0:08 — Meeting Her Friends
+She arrives at a lively meeting spot and spots her friends waiting for her. Still holding her phone, she excitedly walks toward them. They naturally greet each other, smile, wave and share a quick friendly hug.
+
+She laughs and says:
+
+“드디어 만났다!”
+
+0:08–0:12 — Walking Together
+One of her friends casually films with a smartphone while the group walks together, laughing and talking naturally. The footage feels spontaneous, slightly imperfect and genuinely recorded by a friend.
+
+0:12–0:16 — Food and Fun
+They sit together at a casual café or restaurant. She records short clips of the food, then turns the phone toward herself and her friends while they laugh together and enjoy their meal.
+
+0:16–0:20 — Fun Activity Together
+The friends do a simple fun activity together, such as visiting an arcade, taking funny photo booth pictures, or playing a casual game. They laugh naturally and react spontaneously.
+
+0:20–0:24 — Happy Group Moment
+She records herself with all her friends gathered around. Everyone waves or makes playful expressions toward the phone camera. Keep the interaction natural and not posed like a professional photoshoot.
+
+0:24–0:27 — Saying Goodbye
+The friends say goodbye outside. They wave and casually hug before going in different directions. She watches them leave and smiles warmly.
+
+0:27–0:30 — Back Home
+Hard cut to her arriving back home. In selfie mode, looking happily tired after the day, she says:
+
+“오늘 진짜 너무 재밌었어요. 이제 집에 왔어요!”
+
+She smiles, waves at the camera and says:
+
+“안녕!”
+
+She naturally lowers the phone to end the vlog.
+
+CRITICAL REALISM REQUIREMENTS: Prioritize genuine smartphone vlog footage: arm-length selfie framing, natural switches between front and rear cameras, occasional imperfect composition, autofocus delays, exposure fluctuations, subtle hand shake, realistic walking movement, spontaneous laughter, natural blinking and breathing, authentic conversations and background activity. Friends should behave naturally like real friends, not actors posing for a commercial. The final result must look like a genuine personal day-out vlog recorded casually on a smartphone.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Lia’s Morning Walk from the Terrace to a Village Road
 
@@ -26,6 +485,24 @@ Use karakter sheet - location 1 - location 2 (image)
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog
+
+> A 30-second selfie-POV vlog: a girl in a yukata wanders a summer festival at night, buys takoyaki, plays a scooping game, watches the fireworks and waves goodbye to camera.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-vlog-8056757985cc.jpg" width="600" alt="Seedance 2.5 Japanese Summer Festival Yukata Selfie Vlog">](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2087407192031068528) | **公開日:** 2026-08-12 | **ヒート:** 22
+
+**安定度:** 82/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 82.3) · [出力](https://media.goodcase.ai/retests/seedance-2-5-vlog-8056757985cc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearing a pastel yukata explores a traditional Japanese summer festival at night. She films herself in selfie mode with natural handheld movement, realistic phone camera quality, and authentic ambient sounds. She walks through lantern-lit streets, buys fresh takoyaki and smiles after taking a bite, plays a traditional festival game and wins a small plush toy, then watches a spectacular fireworks display with the crowd, capturing her genuine excitement. She ends the vlog by waving at the camera and saying, "Thanks for coming with me. See you next time. Bye!" The video should feel natural, cinematic, and realistic with consistent appearance, smooth human motion, and authentic festival atmosphere.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Realistic Cycling Vlog: 30-Second Action Cam + Front Camera + Tracking Shot Edit
 
@@ -134,39 +611,6 @@ Seedance 2.5 prompt 👇
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Paper Airplane Flies Through Four Seasons in the Old City
-
-> Seedance 2.5’s scene transitions are pretty smooth. I made a short film: To My Grown-Up Self. Theme: A paper airplane flies through the city’s four seasons and finally lands in the hands of its owner’s childhood self. Prompt: Generate a 15-second, 16:9, 720p photorealistic cinematic fantasy short film. Use the same ivory hand-folded paper airplane as the sole protagonist throughout
-
-[<img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-10c1ac4f1c20.jpg" width="600" alt="A Paper Airplane Flies Through Four Seasons in the Old City">](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @liyue_ai | **出典:** [元投稿](https://x.com/liyue_ai/status/2092147008895426977) | **公開日:** 2026-08-25 | **ヒート:** 22
-
-**安定度:** 79/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.8) · [出力](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
-
-```
-生成一支15秒、16:9、720p的写实电影质感奇幻短片。全片以同一架米白色手折纸飞机为唯一主角，纸张纹理、折痕、尺寸和飞行方向始终一致。采用一镜到底的低空跟随镜头，镜头位于纸飞机后侧约半米，平稳向前移动，不突然切镜，不穿模。
-
-0至3.5秒，清晨的老城区春日街道，樱花花瓣随微风掠过，纸飞机从一扇打开的教室窗户飞出，镜头立即跟上。柔和晨光，空气清透，只听见风声、远处鸟鸣和很轻的钢琴前奏。
-
-3.5至7秒，纸飞机从一棵近景树冠后掠过，遮挡完成自然转场。街道进入盛夏午后，绿荫浓密，短暂阵雨落下，纸面沾上少量水珠但不破损、不变形。镜头保持相同距离和运动方向，雨声与钢琴节奏略微增强。
-
-7至10.5秒，纸飞机贴近一辆驶过的旧公交车，利用车身遮挡转入深秋黄昏。金黄色落叶沿同一风向卷起，夕阳从画面右侧照亮纸飞机折痕。它短暂下坠后重新被气流托起，动作符合空气阻力，不瞬移。
-
-10.5至15秒，纸飞机穿过一团近景白雾，街道进入安静冬夜，屋檐和路面覆有薄雪。镜头逐渐绕到纸飞机侧前方，露出巷口一名约八岁、穿深蓝棉衣的男孩。他抬手接住纸飞机，低头看见机翼内侧有一行稚嫩铅笔字「给长大后的我」。男孩停顿一秒，抬头望向纸飞机飞来的方向，钢琴只留下一个尾音，画面自然停住。
-
-四季必须发生在同一条街道和同一飞行路径上，建筑空间、屏幕方向和镜头轴线连续。纸飞机全程只有一架，不改变颜色、材质、折法和大小。季节变化只通过遮挡转场、光线、植被、天气与环境声完成。禁止额外纸飞机、人物突然出现或消失、文字乱码、纸张融化、镜头跳切、画面闪烁、平台水印、字幕、旁白和多余对白。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Seedance 2.5 Maldives Cycling Documentary in One Long Take
 
 > An 18-second documentary follow-cam of a Maldives resort bike ride, with a two-second-per-beat timeline choreographing guests, staff, tortoises, parrots, manta rays and whales.
@@ -213,66 +657,6 @@ Photorealistic, heavy natural film grain, sharp skin and fabric detail, realisti
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-f3651857750b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take
-
-> A 30-second continuous bodycam raid in four stages: breach, clear, find a pineapple pizza production line, restrain the suspects. Gear, floor plan, lighting and ambience are all locked down.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088036921184223468) | **公開日:** 2026-08-13 | **ヒート:** 21
-
-**安定度:** 80/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.8) · [出力](https://media.goodcase.ai/retests/seedance-2-5-d68024212dfc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（38 行、クリックで展開）</b></summary>
-
-```
-【生成目标】
-Generate a continuous 30-second single-take bodycam video. Core subject is an FBI tactical agent’s first-person POV during a high-risk residential raid. Main event is a real-time dynamic entry and room-clearing operation that ends with the discovery of an active pineapple-on-pizza production line inside a dirty kitchen.
-
-【阶段一 0-6s】
-开始时：Night exterior, rundown two-story house on a neglected urban street under sparse sodium streetlights. Bodycam is chest-mounted on the point agent, slight wide-angle distortion, natural handheld micro-shake. Three other FBI agents in full dark tactical gear with visible FBI patches are stacked tight against the wall beside a weathered front door. Agent’s gloved hands are visible at the bottom of frame holding a ballistic shield and the door-breaching tool.
-主要事件：Loud verbal announcement “FBI! Search warrant!” followed by immediate forced entry. Door is driven open with a single controlled ram strike; the team surges inside in a tight stack.
-结束时：Bodycam crosses the threshold into a dim, cluttered living room. Doorframe still visible at the edges of frame.
-
-【阶段二 6-15s】
-承接上一阶段：Same continuous bodycam POV, same agents, same identity and gear. No cuts.
-主要事件：Fast room clearing through the living area and short hallway. Several disheveled, pale, thin individuals (junkie appearance) are scattered on sofas, floor and against walls. Agents issue clear commands “Hands where I can see them! Get down!” while moving past. Two suspects are already being secured on the floor with hands behind their backs; plastic restraints are applied. Bodycam advances steadily, scanning left and right, flashlight beam briefly cutting across dirty walls and scattered trash.
-结束时：Bodycam reaches the kitchen doorway. Harsh fluorescent kitchen light is now visible ahead.
-
-【阶段三 15-24s】
-承接上一阶段：Unbroken first-person movement into the kitchen. Same agents remaining in formation behind and to the sides.
-主要事件：Kitchen is brightly lit by overhead fluorescents and under-cabinet lights yet extremely dirty. Thick white flour covers every counter surface, the floor, the fronts of cabinets and the clothing of the people inside. Four individuals stand at a large central work table and along the counters, actively slicing fresh pineapple rings with knives and placing the slices onto raw pizza dough bases. Flour dust hangs in the air. Agents flood the room, weapons low but ready, shouting “Nobody move! Hands up! Step away from the table!”
-结束时：All four kitchen workers have raised empty hands. Flour-covered pizza dough and cut pineapple pieces remain clearly visible on the table directly in front of the bodycam.
-
-【阶段四 24-30s】
-承接上一阶段：Same continuous bodycam, same lighting and spatial layout.
-主要事件：Agents begin securing the kitchen workers one by one, guiding their hands behind their backs and applying restraints. Bodycam slowly pans across the work surface, lingering on the flour-dusted dough, the open cans of pineapple, the knives, and the half-assembled pineapple pizzas. Radio chatter is audible in the background confirming “Kitchen clear, subjects in custody.”
-结束时：Final frame holds on a close view of a flour-covered hand being restrained next to a pizza topped with fresh pineapple slices. Bodycam remains steady but still shows natural micro-movement.
-
-【视觉风格与摄影】
-Authentic real-world bodycam footage only. Continuous single take, no cuts, no slow-motion, no cinematic grading. Slight wide-angle lens distortion, natural motion blur on rapid movement, realistic handheld sway and vertical bob from walking. Exterior is low-key sodium-vapor night lighting with visible grain; interior is harsh, uneven fluorescent practical lighting that keeps everything clearly visible yet still gritty and dirty. Clothing, faces, and environments stay consistent and photorealistic throughout.
-
-【音频】
-No music. No subtitles.
-Language: American English.
-Clear radio and verbal commands in natural American law-enforcement cadence:
-{FBI! Search warrant!}
-{Hands where I can see them! Get down!}
-{Nobody move! Hands up!}
-{Kitchen clear, subjects in custody.}
-Realistic ambience only: heavy breathing, boot steps on dirty floors, door impact, plastic restraint zip sounds, distant radio static, kitchen ambient noise of knives on cutting boards and flour being disturbed. Keep all dialogue, footsteps and room tone natural and continuous.
-
-【保持一致】
-Single continuous first-person bodycam POV of one FBI agent for the entire 30 seconds. Agent count, tactical gear, house layout, lighting direction and the exact number of kitchen workers remain stable. No violence, no blood, no weapons discharged. The only “contraband” activity is the preparation of pineapple pizza under a layer of flour.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Girl’s Continuous Adventure Through Shifting Worlds
 
@@ -379,6 +763,39 @@ Quick cut to a locked low-angle shot — the basketball drops onto the cracked a
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Paper Airplane Flies Through Four Seasons in the Old City
+
+> Seedance 2.5’s scene transitions are pretty smooth. I made a short film: To My Grown-Up Self. Theme: A paper airplane flies through the city’s four seasons and finally lands in the hands of its owner’s childhood self. Prompt: Generate a 15-second, 16:9, 720p photorealistic cinematic fantasy short film. Use the same ivory hand-folded paper airplane as the sole protagonist throughout
+
+[<img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-10c1ac4f1c20.jpg" width="600" alt="A Paper Airplane Flies Through Four Seasons in the Old City">](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @liyue_ai | **出典:** [元投稿](https://x.com/liyue_ai/status/2092147008895426977) | **公開日:** 2026-08-25 | **ヒート:** 21
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 78.8) · [出力](https://media.goodcase.ai/retests/liyue-ai-seedance-ai-10c1ac4f1c20/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
+
+```
+生成一支15秒、16:9、720p的写实电影质感奇幻短片。全片以同一架米白色手折纸飞机为唯一主角，纸张纹理、折痕、尺寸和飞行方向始终一致。采用一镜到底的低空跟随镜头，镜头位于纸飞机后侧约半米，平稳向前移动，不突然切镜，不穿模。
+
+0至3.5秒，清晨的老城区春日街道，樱花花瓣随微风掠过，纸飞机从一扇打开的教室窗户飞出，镜头立即跟上。柔和晨光，空气清透，只听见风声、远处鸟鸣和很轻的钢琴前奏。
+
+3.5至7秒，纸飞机从一棵近景树冠后掠过，遮挡完成自然转场。街道进入盛夏午后，绿荫浓密，短暂阵雨落下，纸面沾上少量水珠但不破损、不变形。镜头保持相同距离和运动方向，雨声与钢琴节奏略微增强。
+
+7至10.5秒，纸飞机贴近一辆驶过的旧公交车，利用车身遮挡转入深秋黄昏。金黄色落叶沿同一风向卷起，夕阳从画面右侧照亮纸飞机折痕。它短暂下坠后重新被气流托起，动作符合空气阻力，不瞬移。
+
+10.5至15秒，纸飞机穿过一团近景白雾，街道进入安静冬夜，屋檐和路面覆有薄雪。镜头逐渐绕到纸飞机侧前方，露出巷口一名约八岁、穿深蓝棉衣的男孩。他抬手接住纸飞机，低头看见机翼内侧有一行稚嫩铅笔字「给长大后的我」。男孩停顿一秒，抬头望向纸飞机飞来的方向，钢琴只留下一个尾音，画面自然停住。
+
+四季必须发生在同一条街道和同一飞行路径上，建筑空间、屏幕方向和镜头轴线连续。纸飞机全程只有一架，不改变颜色、材质、折法和大小。季节变化只通过遮挡转场、光线、植被、天气与环境声完成。禁止额外纸飞机、人物突然出现或消失、文字乱码、纸张融化、镜头跳切、画面闪烁、平台水印、字幕、旁白和多余对白。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-10c1ac4f1c20?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Fitness Girl Training Vlog Short Video
 
@@ -533,6 +950,66 @@ Seedance 2.5 prompt 👇
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-3b9beb9a46d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take
+
+> A 30-second continuous bodycam raid in four stages: breach, clear, find a pineapple pizza production line, restrain the suspects. Gear, floor plan, lighting and ambience are all locked down.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-d68024212dfc.jpg" width="600" alt="Seedance 2.5 Pineapple Pizza Raid in One Bodycam Take">](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2088036921184223468) | **公開日:** 2026-08-13 | **ヒート:** 20
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.8) · [出力](https://media.goodcase.ai/retests/seedance-2-5-d68024212dfc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（38 行、クリックで展開）</b></summary>
+
+```
+【生成目标】
+Generate a continuous 30-second single-take bodycam video. Core subject is an FBI tactical agent’s first-person POV during a high-risk residential raid. Main event is a real-time dynamic entry and room-clearing operation that ends with the discovery of an active pineapple-on-pizza production line inside a dirty kitchen.
+
+【阶段一 0-6s】
+开始时：Night exterior, rundown two-story house on a neglected urban street under sparse sodium streetlights. Bodycam is chest-mounted on the point agent, slight wide-angle distortion, natural handheld micro-shake. Three other FBI agents in full dark tactical gear with visible FBI patches are stacked tight against the wall beside a weathered front door. Agent’s gloved hands are visible at the bottom of frame holding a ballistic shield and the door-breaching tool.
+主要事件：Loud verbal announcement “FBI! Search warrant!” followed by immediate forced entry. Door is driven open with a single controlled ram strike; the team surges inside in a tight stack.
+结束时：Bodycam crosses the threshold into a dim, cluttered living room. Doorframe still visible at the edges of frame.
+
+【阶段二 6-15s】
+承接上一阶段：Same continuous bodycam POV, same agents, same identity and gear. No cuts.
+主要事件：Fast room clearing through the living area and short hallway. Several disheveled, pale, thin individuals (junkie appearance) are scattered on sofas, floor and against walls. Agents issue clear commands “Hands where I can see them! Get down!” while moving past. Two suspects are already being secured on the floor with hands behind their backs; plastic restraints are applied. Bodycam advances steadily, scanning left and right, flashlight beam briefly cutting across dirty walls and scattered trash.
+结束时：Bodycam reaches the kitchen doorway. Harsh fluorescent kitchen light is now visible ahead.
+
+【阶段三 15-24s】
+承接上一阶段：Unbroken first-person movement into the kitchen. Same agents remaining in formation behind and to the sides.
+主要事件：Kitchen is brightly lit by overhead fluorescents and under-cabinet lights yet extremely dirty. Thick white flour covers every counter surface, the floor, the fronts of cabinets and the clothing of the people inside. Four individuals stand at a large central work table and along the counters, actively slicing fresh pineapple rings with knives and placing the slices onto raw pizza dough bases. Flour dust hangs in the air. Agents flood the room, weapons low but ready, shouting “Nobody move! Hands up! Step away from the table!”
+结束时：All four kitchen workers have raised empty hands. Flour-covered pizza dough and cut pineapple pieces remain clearly visible on the table directly in front of the bodycam.
+
+【阶段四 24-30s】
+承接上一阶段：Same continuous bodycam, same lighting and spatial layout.
+主要事件：Agents begin securing the kitchen workers one by one, guiding their hands behind their backs and applying restraints. Bodycam slowly pans across the work surface, lingering on the flour-dusted dough, the open cans of pineapple, the knives, and the half-assembled pineapple pizzas. Radio chatter is audible in the background confirming “Kitchen clear, subjects in custody.”
+结束时：Final frame holds on a close view of a flour-covered hand being restrained next to a pizza topped with fresh pineapple slices. Bodycam remains steady but still shows natural micro-movement.
+
+【视觉风格与摄影】
+Authentic real-world bodycam footage only. Continuous single take, no cuts, no slow-motion, no cinematic grading. Slight wide-angle lens distortion, natural motion blur on rapid movement, realistic handheld sway and vertical bob from walking. Exterior is low-key sodium-vapor night lighting with visible grain; interior is harsh, uneven fluorescent practical lighting that keeps everything clearly visible yet still gritty and dirty. Clothing, faces, and environments stay consistent and photorealistic throughout.
+
+【音频】
+No music. No subtitles.
+Language: American English.
+Clear radio and verbal commands in natural American law-enforcement cadence:
+{FBI! Search warrant!}
+{Hands where I can see them! Get down!}
+{Nobody move! Hands up!}
+{Kitchen clear, subjects in custody.}
+Realistic ambience only: heavy breathing, boot steps on dirty floors, door impact, plastic restraint zip sounds, distant radio static, kitchen ambient noise of knives on cutting boards and flour being disturbed. Keep all dialogue, footsteps and room tone natural and continuous.
+
+【保持一致】
+Single continuous first-person bodycam POV of one FBI agent for the entire 30 seconds. Agent count, tactical gear, house layout, lighting direction and the exact number of kitchen workers remain stable. No violence, no blood, no weapons discharged. The only “contraband” activity is the preparation of pineapple pizza under a layer of flour.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-d68024212dfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Sailed Ship Warriors Battle a Whirlpool Giant
 

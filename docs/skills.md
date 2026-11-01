@@ -14,18 +14,18 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 103 | 5 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 104 | 5 |
 | [POV and vlog presence](#pov-vlog-presence) | 103 | 11 |
 | [Action continuity choreography](#action-continuity-choreography) | 97 | 7 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
-| [Cinematic travel montage](#travel-city-walk) | 66 | 4 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 63 | 2 |
+| [Cinematic travel montage](#travel-city-walk) | 67 | 4 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 64 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 46 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
 | [Process and transformation story](#process-transformation-story) | 42 | 0 |
+| [Horror and suspense short](#horror-suspense-short) | 42 | 3 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
-| [Horror and suspense short](#horror-suspense-short) | 40 | 3 |
 | [Food close-ups and eating ASMR](#food-asmr) | 34 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 32 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 29 | 1 |
@@ -42,7 +42,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-103 cases from 71 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+104 cases from 71 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -128,7 +128,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-66 cases from 42 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+67 cases from 43 creators · 4 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -147,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-63 cases from 35 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+64 cases from 35 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -221,6 +221,24 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 No creator methods yet.
 
+<a id="horror-suspense-short"></a>
+
+### Horror and suspense short
+
+> Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
+
+42 cases from 22 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
+```
+
+| Creator | Method | Cases | Install | Page |
+| --- | --- | --- | --- | --- |
+| doctorwasif | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AIwithSynthia | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| auqibhabib | Horror and suspense short | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="twist-comedy-skit"></a>
 
 ### Twist-ending comedy skit
@@ -236,24 +254,6 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 | Creator | Method | Cases | Install | Page |
 | --- | --- | --- | --- | --- |
 | Ciri_ai | Twist-ending comedy skit | 4 | `npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="horror-suspense-short"></a>
-
-### Horror and suspense short
-
-> Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
-
-40 cases from 20 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
-```
-
-| Creator | Method | Cases | Install | Page |
-| --- | --- | --- | --- | --- |
-| doctorwasif | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithSynthia | Horror and suspense short | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| auqibhabib | Horror and suspense short | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="food-asmr"></a>
 

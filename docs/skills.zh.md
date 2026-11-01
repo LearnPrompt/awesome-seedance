@@ -14,18 +14,18 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 103 | 5 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 104 | 5 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 103 | 11 |
 | [动作连续性编排](#action-continuity-choreography) | 97 | 7 |
 | [产品广告镜头](#product-ad-shot-design) | 72 | 3 |
-| [电影感旅行漫游](#travel-city-walk) | 66 | 4 |
-| [宠物动物当主角](#pets-and-animals-lead) | 63 | 2 |
+| [电影感旅行漫游](#travel-city-walk) | 67 | 4 |
+| [宠物动物当主角](#pets-and-animals-lead) | 64 | 2 |
 | [动画风格与角色一致性](#animation-style-consistency) | 59 | 2 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 46 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 45 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 42 | 0 |
+| [恐怖悬疑短片](#horror-suspense-short) | 42 | 3 |
 | [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
-| [恐怖悬疑短片](#horror-suspense-short) | 40 | 3 |
 | [美食特写与吃播 ASMR](#food-asmr) | 34 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 32 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 29 | 1 |
@@ -42,7 +42,7 @@
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-103 个案例，来自 71 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+104 个案例，来自 71 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle
@@ -128,7 +128,7 @@ npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-66 个案例，来自 42 位创作者 · 4 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+67 个案例，来自 43 位创作者 · 4 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
@@ -147,7 +147,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-63 个案例，来自 35 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+64 个案例，来自 35 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -221,6 +221,24 @@ npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story
 
 暂时还没有创作者方法。
 
+<a id="horror-suspense-short"></a>
+
+### 恐怖悬疑短片
+
+> 每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。
+
+42 个案例，来自 22 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
+```
+
+| 创作者 | 方法 | 案例 | 安装 | 页面 |
+| --- | --- | --- | --- | --- |
+| doctorwasif | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AIwithSynthia | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| auqibhabib | 恐怖悬疑短片 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="twist-comedy-skit"></a>
 
 ### 反转搞笑短片
@@ -236,24 +254,6 @@ npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | Ciri_ai | 反转搞笑短片 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="horror-suspense-short"></a>
-
-### 恐怖悬疑短片
-
-> 每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。
-
-40 个案例，来自 20 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short
-```
-
-| 创作者 | 方法 | 案例 | 安装 | 页面 |
-| --- | --- | --- | --- | --- |
-| doctorwasif | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithSynthia | 恐怖悬疑短片 | 7 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| auqibhabib | 恐怖悬疑短片 | 5 | `npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="food-asmr"></a>
 

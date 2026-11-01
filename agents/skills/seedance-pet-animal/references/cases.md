@@ -32,7 +32,7 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 
 ## E2 · Fox’s Self-Filmed Walk Along a Forest Stream
 
-- Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
+- Seedance 2.5 · creator: @MrDasOnX · heat: 93 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
 - Summary: Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
@@ -243,7 +243,7 @@ Maintain consistent animal appearances throughout the entire video.
 
 ## E7 · Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night
 
-- Seedance 2.5 · creator: @MahiraEhan · heat: 70
+- Seedance 2.5 · creator: @MahiraEhan · heat: 69
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c) · [finished media](https://media.goodcase.ai/cases/24f4c2455c1d.mp4) · [poster](https://media.goodcase.ai/cases/e12da6fb5033.jpg) · [original source](https://x.com/MahiraEhan/status/2109875307675017668)
 - Summary: Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
 

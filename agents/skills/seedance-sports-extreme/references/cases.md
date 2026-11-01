@@ -257,7 +257,7 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 
 ## E8 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
 
-- Seedance 2.0 · creator: @aiwithaly · heat: 51 · stability: 79
+- Seedance 2.0 · creator: @aiwithaly · heat: 50 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
 - Summary: A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
 

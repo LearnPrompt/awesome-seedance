@@ -202,7 +202,7 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ## E4 · Apartment Arrival Storyboard Animation
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 64
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 63
 - Evidence: [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) · [finished media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) · [poster](https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg) · [original source](https://x.com/Just_sharon7/status/2083912532692001128)
 - Summary: A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
 
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · Elsa’s Midnight Croissants and the Empty Coffee Cup
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 46
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 45
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-premium-photorealistic-cinematic-30-second-live-action-food-commercial-67403ea43ed5) · [finished media](https://media.goodcase.ai/cases/adbb3917c618.mp4) · [poster](https://media.goodcase.ai/cases/e6bbd55f9455.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2095105440392818697)
 - Summary: Made with seedance 2.5 Prompt: ⤵️ Create a premium photorealistic cinematic 30-second live-action food commercial using
 
@@ -468,7 +468,7 @@ SHOT 4 — 0:06–0
 
 ## E7 · Volcanic Eruption Turns Into a Sea of Popcorn
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 44
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 43
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-17-second-ultra-realistic-cinematic-vertical-video-featuring-the-woman-6be0338020cb) · [finished media](https://media.goodcase.ai/cases/75519cb11dc5.mp4) · [poster](https://media.goodcase.ai/cases/d81423b0e9e5.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2104753404627268008)
 - Summary: Made with Seedance 2.5 Duration: 17 seconds Aspect Ratio: 16:9 Prompt: Create a 17-second ultra-realistic cinematic vertical video featuring the woman from the …
 
