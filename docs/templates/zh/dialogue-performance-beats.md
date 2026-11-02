@@ -64,10 +64,11 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 11 条，按热度）
+## 这一类的案例（已归类 12 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
+| <a href="https://goodcase.ai/cases/seedance-2-5-photorealistic-medieval-fantasy-film-8ed9c8bbccd4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/d8c6515c3939.jpg" width="160" alt="少女教巨龙用小火烤爱心面包"></a> | [少女教巨龙用小火烤爱心面包](https://goodcase.ai/cases/seedance-2-5-photorealistic-medieval-fantasy-film-8ed9c8bbccd4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 96 |
 | <a href="https://goodcase.ai/cases/seedance-25-couple-pov-bedroom-teasing-30s?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/9e3e27e76494.jpg" width="160" alt="Seedance 2.5 生成 30 秒情侣卧室 POV：男友不会哄人只会捏脸"></a> | [Seedance 2.5 生成 30 秒情侣卧室 POV：男友不会哄人只会捏脸](https://goodcase.ai/cases/seedance-25-couple-pov-bedroom-teasing-30s?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-b2d98861daf9.jpg" width="160" alt="Seedance 十五秒连续对白健身房 vlog"></a> | [Seedance 十五秒连续对白健身房 vlog](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 67 |
 | <a href="https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/youmind-surprise-visit-romance-trailer.jpg" width="160" alt="《惊喜探访》浪漫短片"></a> | [《惊喜探访》浪漫短片](https://goodcase.ai/cases/youmind-surprise-visit-romance-trailer?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 67 |

@@ -1,6 +1,6 @@
 # Case evidence · Cars and vehicles at speed
 
-20 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+22 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -149,7 +149,17 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E5 · Black Sedan Chase and Gunfire at Sunset
+## E5 · White Supercar Soars Across Seoul’s River and Lands on a Rooftop
+
+- Seedance 2.5 · creator: @aiwithaayat · heat: 75
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0) · [finished media](https://media.goodcase.ai/cases/7dc3776da6dc.mp4) · [poster](https://media.goodcase.ai/cases/9c32b67ed90d.jpg) · [original source](https://x.com/aiwithaayat/status/2112025080335339907)
+- Summary: A futuristic supercar, a fearless driver, and an unbelievable ride through the city. When luxury meets imagination, anything becomes possible. Created on seedan…
+
+```text
+Created a video, 30 second, featuring a futuristic white supercar driving through heavy traffic on a modern highway in Seoul during golden hour. The video begins with a wide aerial shot of multiple cars, buses, and trucks moving along a busy elevated road, with a beautiful city skyline in the background and warm sunlight reflecting off the vehicles. The camera slowly moves closer to a sleek, futuristic white sports car with sharp aerodynamic lines, a low-profile body, and an aggressive modern design. Inside the car, a beautiful young Korean woman with long, straight black hair is driving calmly, wearing an elegant cream-colored outfit. Capture her natural facial expressions, realistic skin texture, and focused eyes as she holds the steering wheel with confidence. Show cinematic close-up shots of her face through the side window and a reflection of her face in the rearview mirror, creating a luxurious automotive commercial atmosphere. The camera then cuts to a detailed rear view of the white supercar, highlighting its distinctive red LED taillight strip, sculpted rear bodywork, and futuristic exhaust design. Suddenly, the car accelerates powerfully, releasing thick white smoke from the rear tires as it performs a dramatic high-speed maneuver between the surrounding vehicles. Capture the tires spinning, smoke spreading across the highway, and nearby cars slowing down as the supercar surges forward. The camera follows the vehicle from behind and then switches to a wide cinematic side angle as the futuristic car launches into an impossible airborne leap above the highway, soaring over the river with the city skyline glowing in the background. Transition to a sophisticated glass-walled luxury café overlooking the river, where two elegantly dressed people sit across from each other at a table with coffee cups, reacting with surprise as the flying supercar passes outside the enormous windows. Show the white sports car soaring above the city buildings before revealing a rooftop helipad on a modern skyscraper. The car lands smoothly on the rooftop, creating a spectacular futuristic cinematic moment. End with a close-up of the vehicle parked against the panoramic city skyline, its scissor-style door opening upward as the female driver begins to step out. Maintain consistent car design, character identity, hairstyle, and clothing throughout every scene. Use photorealistic CGI, ultra-detailed automotive textures, realistic reflections, volumetric smoke, natural golden-hour lighting, smooth camera movements, dynamic drone shots, dramatic tracking shots, and premium luxury-car commercial cinematography. Use a cinematic 16:9 aspect ratio, 24 fps, realistic motion blur, high dynamic range, and seamless transitions between scenes. The overall mood should feel luxurious, futuristic, thrilling, and visually spectacular, with no unwanted text, subtitles, logos, watermarks, or character distortions.
+```
+
+## E6 · Black Sedan Chase and Gunfire at Sunset
 
 - Seedance 2.5 · creator: @Xaroon_x · heat: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) · [finished media](https://media.goodcase.ai/cases/75e713901ea3.mp4) · [poster](https://media.goodcase.ai/cases/6170bf3f7274.jpg) · [original source](https://x.com/Xaroon_x/status/2107838928992489968)
@@ -193,7 +203,7 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 **NEGATIVE:** No cartoon look, no CGI look, no plastic skin, no distorted anatomy, no face different from @image1, no face drift, no wardrobe change, no duplicated cars, no teleporting vehicles, no hidden or cropped crash, no impossible physics, no jitter, no flickering, no deformed hands or rifle, no text, no watermark, no logos.
 ```
 
-## E6 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
+## E7 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
 
 - Seedance 2.5 · creator: @CharaspowerAI · heat: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) · [finished media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) · [poster](https://media.goodcase.ai/cases/68b308e11fb0.jpg) · [original source](https://x.com/CharaspowerAI/status/2111517673276240251)
@@ -228,7 +238,7 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 #DreaminaCPP  @dreamina_ai
 ```
 
-## E7 · Post-Apocalyptic Desert Buggy Air Battle
+## E8 · Post-Apocalyptic Desert Buggy Air Battle
 
 - Seedance 2.0 · creator: @Zyrellix · heat: 69 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
@@ -236,14 +246,4 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 
 ```text
 Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune buggy with flaming rocket boosters speeds along a metallic futuristic pipeline track through a desert canyon during golden hour. A leather-clad warrior swings a spiked flail attached to a heavy chain, smashing an enemy combat helicopter mid-air into fiery explosions. A gunner on the buggy fires a massive rotary flamethrower minigun, turning another enemy drone aircraft into a massive fireball. The buggy leaps off a ramp over huge fiery explosions and dynamic missile strikes, landing smoothly on the reflective glass pipeline track and racing toward a giant ruined cooling tower in the distant wasteland. Cinematic lighting, photorealistic physics, slow-motion action shots, sparks, dynamic camera pans, hyper-detailed textures, volumetric smoke, cinematic color grading, 8k resolution, photorealistic CGI action film style.
-```
-
-## E8 · Policewoman Pursues a Flying-Car Fugitive Through Desert Canyons
-
-- Seedance 2.5 · creator: @aiwithaly · heat: 64
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-30-second-ultra-realistic-hollywood-style-sci-fi-action-sequence-set-above-a-3b2d1f35cd52) · [finished media](https://media.goodcase.ai/cases/21e2a90e264d.mp4) · [poster](https://media.goodcase.ai/cases/acaf4e3601a1.jpg) · [original source](https://x.com/aiwithaly/status/2112391782164287977)
-- Summary: A fearless officer takes the chase to the skies in a high-speed battle of futuristic machines, impossible stunts, and explosive action. Made with Seedance 2.5 o…
-
-```text
-A 30-second ultra-realistic Hollywood-style sci-fi action sequence set above a vast desert highway at golden hour. A futuristic silver flying sports car races through towering red-rock canyons, pursued by a heavily armored black police interceptor with glowing blue emergency lights and powerful jet thrusters. A fearless female police officer in a fitted black tactical uniform leaps from the interceptor onto the moving sports car, performing a breathtaking aerial rotation before landing hard on its roof. She uses a magnetic anchor to stabilize herself, breaks through the reinforced sunroof, and confronts a mysterious blond male driver inside the cockpit. He shouts, “You should've stayed on the ground!” She responds coldly, “Pull over. Now!” A violent aerial maneuver triggers an energy-core malfunction, sending the sports car spiraling toward the highway below. The vehicle crashes in a shower of sparks and erupts into a massive fireball. Through the smoke and glowing embers, the officer emerges with the subdued suspect in magnetic restraints. Dynamic FPV drone shots, sweeping camera movements, realistic vehicle physics, high-speed aerial choreography, detailed metallic reflections, authentic facial expressions, synchronized dialogue, dramatic explosions, volumetric golden-hour lighting, anamorphic lens flares, cinematic motion blur, HDR, 4K, rich teal-and-orange color grading, powerful orchestral soundtrack, realistic engine roars, and immersive action sound effects. Exactly 30 seconds, landscape 16:9, continuous high-energy action, strong opening hook, consistent character identity, realistic gravity, no black-screen opening, no subtitles, no on-screen text, no logos, no watermark.
 ```

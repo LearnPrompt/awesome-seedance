@@ -1,6 +1,6 @@
 # Case evidence · Cinematic travel vlog montage
 
-37 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+38 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -207,14 +207,28 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E8 · Mediterranean Hillside Villa Interior and Aerial Tour
+## E8 · A Korean Woman’s Autumn Forest Hike and Mountain Summit Journey
 
-- Seedance 2.0 · creator: @noorlewisx · heat: 72 · stability: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/noorlewisx-seedance-ai-3a8b37309451) · [finished media](https://media.goodcase.ai/media/video/noorlewisx-seedance-ai-3a8b37309451.mp4) · [poster](https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg) · [original source](https://x.com/noorlewisx/status/2092109145055150431)
-- Summary: A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
+- Seedance 2.5 · creator: @alixbuilds · heat: 73
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-cinematic-travel-vlog-featuring-a-young-adult-korean-5ab099618e98) · [finished media](https://media.goodcase.ai/cases/13b946df0959.mp4) · [poster](https://media.goodcase.ai/cases/16feb5f7b8a2.jpg) · [original source](https://x.com/alixbuilds/status/2116381998499721651)
+- Summary: Chasing mountain views and collecting unforgettable moments. Made with Seedance 2.5 Prompt: Create an ultra-realistic cinematic travel vlog featuring a young ad…
 
 ```text
-Cinematic luxury real estate drone and interior tour of a stunning white Mediterranean-style villa with terracotta roof, set on a hillside surrounded by lush green trees, cypress trees, and manicured gardens. Smooth aerial shots circling the elegant multi-story mansion with a private swimming pool, formal gardens, stone fountain, and winding driveway leading to a grand black iron gate marked with the number 8.
-Soft natural sunlight filtering through large multi-pane windows, golden hour and sunset lighting with lens flares. Interiors feature high ceilings, dark navy blue paneled walls, white curved modern sofas, abstract art, crystal and metal chandeliers, a wooden pool table, ornate white fireplace, open-plan living rooms with large windows overlooking greenery, a bright white kitchen with marble island, pendant lights, and professional range, elegant dining room with long dark table and white chairs, spiral staircase with black iron railings.
-Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.
+Create an ultra-realistic cinematic travel vlog featuring a young adult Korean woman hiking through a beautiful mountain forest on a sunny autumn day. She has long, natural dark brown hair, soft facial features, and a cheerful, friendly expression. She wears a light beige long-sleeve athletic top, a dark hiking backpack, and comfortable outdoor clothing.
+
+Scene 1: Begin with a handheld selfie shot as she smiles at the camera while walking along a peaceful forest trail. Sunlight filters beautifully through the trees.
+
+Scene 2: Show cinematic POV shots of the rugged hiking path, exposed tree roots, fallen leaves, and other hikers walking uphill.
+
+Scene 3: Capture close-up selfie footage of her climbing the rocky mountain trail, occasionally looking surprised, laughing, and enjoying the adventure.
+
+Scene 4: Transition to breathtaking panoramic shots of layered mountain peaks beneath a clear blue sky. Show her reaching the summit and enjoying the beautiful scenery.
+
+Scene 5: She sits at a wooden mountain viewpoint, enjoying the peaceful atmosphere and looking at the distant mountains.
+
+Final Scene: Return to a close-up selfie shot. She smiles, waves goodbye to the camera, and enjoys the warm golden sunlight.
+
+Visual Style: Photorealistic Korean travel vlog, natural facial expressions, realistic skin texture, handheld camera movements, authentic selfie perspective, cinematic wide-angle mountain shots, warm autumn sunlight, natural colors, smooth transitions, 4K detail.
+
+Aspect Ratio: 16:9 Duration: 30 seconds Audio: Natural forest ambience, gentle wind, footsteps, and cheerful travel vlog background music.
 ```

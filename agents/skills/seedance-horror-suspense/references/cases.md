@@ -1,6 +1,6 @@
 # Case evidence · Horror and suspense
 
-29 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+36 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -306,7 +306,31 @@ Cinematic horror-action short film, opens with an instant attack, no slow build,
 Made with seedance 2.5 on @SocialSight
 ```
 
-## E7 · Zombie Attack in a Japanese Classroom
+## E7 · 韩国惊悚片电梯恐怖续写提示词
+
+- Seedance 2.5 · creator: @navi_Ai2 · heat: 83
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-5be984665a55) · [finished media](https://media.goodcase.ai/cases/3740eeb93988.mp4) · [poster](https://media.goodcase.ai/cases/bd59842ddacc.jpg) · [original source](https://x.com/navi_Ai2/status/2115811148796678209)
+- Summary: 使用 Seedance 2.5 生成的悬疑续写提示词，讲述一名男子在电梯中通过手机屏幕看到自己分身（doppelganger）的韩国真人惊悚故事。
+
+```text
+Create an original 30-second continuation of Part 1, in 16:9 widescreen, 4K photorealistic Korean live-action thriller.
+
+Continue from the exact final frame of Part 1. Use the same Korean man, identical face, hairstyle, dark jacket, backpack, and apartment building.
+
+0–8 seconds: He enters the dark elevator and shines his phone flashlight around. The walls are covered with handwritten notes bearing tomorrow's date. One note reads, “You never left.”
+
+8–16 seconds: His phone suddenly displays live footage of the corridor. In the video, another version of him stands directly behind him. He turns around immediately, but the real corridor is empty.
+
+16–23 seconds: The phone screen glitches. His double moves close to the camera and whispers, “You're watching the wrong side.” The screen goes black, leaving only his reflection.
+
+23–30 seconds: In the dark phone screen, his reflection begins smiling while he remains terrified. The reflection slowly raises its hand and points behind him. He hears a metallic click and turns sharply. The elevator doors begin closing, but a smiling version of him is visible in the narrowing gap. Cut to black with a final heavy metallic sound.
+
+Ultra-realistic Korean cinema, consistent character identity, natural acting, suspenseful pacing, detailed environments, realistic reflections, cinematic lighting, and professional sound design.
+
+No existing movie references, no copyrighted characters, no logos, no watermarks, no random transitions, no distorted anatomy. Exactly 30 seconds, horizontal 16:9.
+```
+
+## E8 · Zombie Attack in a Japanese Classroom
 
 - Seedance 2.5 · creator: @AIwithkhan · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) · [finished media](https://media.goodcase.ai/cases/679f1e6b50a2.mp4) · [poster](https://media.goodcase.ai/cases/bd58f9078734.jpg) · [original source](https://x.com/AIwithkhan/status/2100575957451153626)
@@ -316,39 +340,4 @@ Made with seedance 2.5 on @SocialSight
 Create a short, ultra-realistic Japanese high-school horror-action sequence featuring the female teacher from the reference image. She is teaching normally when a single drop of blood falls onto a student’s notebook. Everyone looks up as the ceiling suddenly cracks and a zombie crashes into the classroom, sending students into panic. As they rush for the exit, another student suddenly reveals he is already infected, turning the classroom into chaos. The teacher grabs a heavy wooden bench and fights back while several students use chairs and desks to defend themselves. They eventually knock down the attackers and barricade the door. Just as the room becomes silent, a deep zombie groan echoes from the hallway. The teacher slowly turns toward the blocked door as the handle begins to move.
 
 Photorealistic live-action, practical-effects horror, realistic Japanese classroom, natural handheld camera, authentic reactions, realistic physics, muted cinematic grading, diegetic sound only. No music, narration, excessive gore, graphic injuries, animation, anime, cartoon, CGI look, distorted anatomy, subtitles, text, or watermark.
-```
-
-## E8 · The Zombie Express, Cut to the Tenth of a Second
-
-- Seedance 2.5 · creator: @doctorwasif · heat: 82
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e) · [finished media](https://media.goodcase.ai/media/video/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e.jpg) · [original source](https://x.com/doctorwasif/status/2095373753983369666)
-- Summary: The Zombie Express. Made with Seedance 2.5 on @openart_ai Prompt: Shot 1 (0.0–1.2s): <<<image_1>>>, face and outfit matching reference, lying in upper bunk of a…
-
-```text
-Shot 1 (0.0–1.2s): <<<image_1>>>, face and outfit matching reference, lying in upper bunk of a dim sleeper cabin, feverish and sweating, eyes fluttering open, curtain half-drawn.
-Shot 2 (1.2–2.2s): Close-up of her hand gripping the bunk edge, dark veins emerging beneath the skin, shallow breathing, blue nightlight.
-Shot 3 (2.2–3.3s): Her eyes cloud milky white as her head stiffly tilts toward the bunk edge, eerie stillness.
-Shot 4 (3.3–4.3s): Dark blood drips from her lips onto the curtain below, extreme close-up, slow motion.
-Shot 5 (4.3–5.3s): A sleeping passenger stirs as another blood drop lands on his forehead.
-Shot 6 (5.3–6.3s): Wide view of the stacked bunks, her silhouette slowly leaning over the edge above the sleeping passenger.
-Shot 7 (6.3–7.5s): She drops silently onto the lower bunk, straddling him; curtain sways as her feral bloodshot eyes fill the frame.
-Shot 8 (7.5–8.7s): She bites deeply into his neck; his eyes snap open in shock and pain, slow-motion impact.
-Shot 9 (8.7–9.8s): Close-up of the wound as dark veins rapidly branch across his skin.
-Shot 10 (9.8–10.8s): His body convulses violently, curtain thrashing as the cabin light flickers.
-Shot 11 (10.8–11.8s): His eyes turn milky white, jaw twitching as dark veins spread across his face.
-Shot 12 (11.8–12.8s): He throws his head back with an inhuman scream, ripping the curtain open.
-Shot 13 (12.8–13.8s): A nearby passenger wakes and cautiously peers from his bunk into the corridor.
-Shot 14 (13.8–14.8s): The infected passenger suddenly lunges into the corridor and attacks him.
-Shot 15 (14.8–15.8s): Chaos erupts; curtains rip open as passengers wake to screams, handheld frantic camera.
-Shot 16 (15.8–16.8s): A newly bitten passenger convulses against the wall as dark veins spread, others retreat in panic.
-Shot 17 (16.8–17.8s): The infected turns and lunges at nearby passengers, spreading chaos through the narrow corridor.
-Shot 18 (17.8–18.8s): Passengers scramble over each other to escape, luggage and curtains tumbling around them.
-Shot 19 (18.8–19.8s): A conductor grabs a fire extinguisher, bracing himself as infected rush toward him.
-Shot 20 (19.8–21.0s): He blasts an infected passenger with white extinguisher foam, filling the corridor as it recoils.
-Shot 21 (21.0–22.5s): Survivors rush to the connecting door and slam it shut as infected hands claw through.
-Shot 22 (22.5–24.0s): They wedge luggage and a fold-down seat against the door, breathing hard as pounding continues.
-Shot 23 (24.0–25.5s): Close-up of infected faces pressing against the door window, cracks spreading across the glass.
-Shot 24 (25.5–27.0s): A survivor pulls two children close, shielding them as the pounding grows louder.
-Shot 25 (27.0–28.5s): Wide shot of survivors huddled in the next car, sealed door shuddering behind them under red emergency lights.
-Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the night, sleeper windows flickering with chaos inside, ominous ending.
 ```

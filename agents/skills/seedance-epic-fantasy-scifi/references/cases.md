@@ -1,6 +1,6 @@
 # Case evidence · Epic fantasy and sci-fi spectacle
 
-66 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+71 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -16,7 +16,102 @@ Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorph
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
 ```
 
-## E2 · A Delivery Through Venice as It Folds into a Sphere
+## E2 · A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-situations-in-2050-be-like-0a938337ddb0) · [finished media](https://media.goodcase.ai/cases/f5e2b235f62b.mp4) · [poster](https://media.goodcase.ai/cases/4fad348af447.jpg) · [original source](https://x.com/Just_sharon7/status/2112913908617158822)
+- Summary: Situations in 2050 be like Seedance 2.5 on @DomoAI_ prompt TITLE: POV — DRIVING IN 2050 Create a 10-second ultra-photorealistic futuristic video showing a beaut…
+
+```text
+Situations in 2050 be like
+
+Seedance 2.5 on @DomoAI_ 
+
+prompt
+
+TITLE: POV — DRIVING IN 2050
+
+Create a 10-second ultra-photorealistic futuristic video showing a beautiful young woman casually driving along a highway in the year 2050, while hundreds of autonomous flying vehicles travel overhead in perfectly organized aerial traffic lanes.
+
+MAIN CHARACTER — STRICT IDENTITY CONSISTENCY
+
+A beautiful 23-year-old woman with long, straight pastel-pink hair, delicate facial features, realistic fair skin with visible natural texture, soft pink makeup, and subtle glossy lips.
+
+She wears:
+A fitted blue denim sleeveless top.
+A futuristic metallic silver choker necklace.
+Bright blue statement earrings.
+A black seatbelt across her chest.
+
+Maintain her exact face, hairstyle, outfit, proportions, and accessories throughout.
+
+SCENE 1 — 0:00–0:02 | INSIDE THE CAR
+Start with a fixed dashboard-mounted smartphone camera facing the woman from the passenger side.
+
+She sits behind the steering wheel of a modern luxury vehicle, driving casually.
+
+Warm golden-hour sunlight streams through the side window, illuminating her pink hair and face.
+
+She looks ahead at the road, then briefly glances toward the camera with a subtle, amused smile.
+
+The vehicle interior is realistic, with black leather seats, a dark roof, and natural windshield reflections.
+
+SCENE 2 — 0:02–0:04 | THE FUTURISTIC HIGHWAY REVEAL
+
+Hard cut to a spectacular elevated wide-angle view of a massive multilane highway at sunset.
+A dark luxury SUV drives along the nearly empty highway.
+
+Above the highway, hundreds of futuristic autonomous flying vehicles hover and travel in tightly organized aerial traffic lanes.
+
+The flying vehicles have compact aerodynamic bodies, metallic silver and dark-gray surfaces, and advanced concealed propulsion systems.
+
+They move smoothly in synchronized formations, maintaining precise distances from one another.
+
+Some fly directly above the highway while others stretch toward the horizon, creating a dense futuristic transportation network.
+
+Golden sunlight reflects off their metallic surfaces.
+
+SCENE 3 — 0:04–0:06 | BACK TO THE DRIVER
+
+Hard cut back to the same dashboard camera angle.
+
+The pink-haired woman continues driving completely unfazed by the extraordinary traffic system outside.
+She rests one hand naturally on the steering wheel and looks toward the windshield with a playful, slightly impressed expression.
+
+Sunlight shifts across her face as the vehicle moves.
+
+Her facial movements are subtle, natural, and believable.
+
+SCENE 4 — 0:06–0:08 | MASSIVE AERIAL TRAFFIC
+
+Cut to a dramatic elevated tracking shot following the dark SUV along the highway.
+
+The camera reveals an enormous formation of flying vehicles stretching across the sky.
+
+Several vehicles glide directly above the camera while hundreds more move across multiple aerial levels.
+The futuristic traffic looks technologically advanced but physically believable.
+
+Below, the dark SUV continues along the sunlit road, appearing tiny beneath the immense aerial transportation network.
+
+Warm orange sunlight, long road shadows, atmospheric haze, and realistic metallic reflections create a spectacular cinematic atmosphere.
+
+SCENE 5 — 0:08–0:10 | FINAL REACTION
+
+Cut back inside the car.
+
+The same pink-haired woman looks toward the camera and gives a small, knowing smile before returning her attention to the road.
+
+Golden sunlight illuminates her face.
+
+End on her calm, confident expression.
+CAMERA AND VISUAL STYLE
+
+Auth
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E3 · A Delivery Through Venice as It Folds into a Sphere
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b) · [finished media](https://media.goodcase.ai/cases/6fad135f851f.mp4) · [poster](https://media.goodcase.ai/cases/e5c7676644ab.jpg) · [original source](https://x.com/Just_sharon7/status/2100541954685895043)
@@ -45,7 +140,7 @@ Prompt
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
+## E4 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
@@ -60,7 +155,7 @@ blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
-## E4 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
+## E5 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce) · [finished media](https://media.goodcase.ai/cases/ab75ef7be18f.mp4) · [poster](https://media.goodcase.ai/cases/04e5a525e474.jpg) · [original source](https://x.com/itsSaira_1/status/2109129359441457193)
@@ -85,7 +180,7 @@ low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, d
 #AIArt #VisualStorytelling #AI
 ```
 
-## E5 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
+## E6 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
@@ -112,7 +207,37 @@ blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern cloth
 #Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
-## E6 · Lavender-Haired Girl Leaps Through a Pool Wave
+## E7 · Female Shinobi Summons a Black Dragon to Battle a Temple Demon
+
+- Seedance 2.5 · creator: @AiWithHani · heat: 89
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-shadow-dragon-awakens-7717a96f1fd3) · [finished media](https://media.goodcase.ai/cases/47abc8c22df0.jpg) · [original source](https://x.com/AiWithHani/status/2114920377491374508)
+- Summary: Say Hello to AI and Bye to Hollywood 🔥 🎬 Seedance 2.5 on Higgsfield 🧩 Prompt: The Shadow Dragon Awakens 🐉 Create an ultra-photorealistic Japanese dark fanta…
+
+```text
+The Shadow Dragon Awakens 🐉
+
+Create an ultra-photorealistic Japanese dark fantasy action scene with Hollywood-level VFX and realistic physics.
+
+A mysterious female shinobi with long black hair and a detailed black ninja outfit stands among the ruins of an ancient Japanese temple. Dark clouds, swirling dust, broken stone structures, and powerful winds create an intense atmosphere.
+
+THE AWAKENING: She performs rapid ninja hand seals and shouts, 「黒龍降臨！」 (KOKURYŪ KŌRIN!). The ground cracks as a gigantic black dragon emerges, spreading its enormous wings and revealing glowing crimson eyes.
+
+THE BATTLE: An armored demon charges toward her with a massive sword. The shinobi vanishes into black smoke as the dragon attacks, smashing ancient pillars with its powerful tail. Sparks fly when the dragon catches the demon's sword between its jaws.
+
+THE FINAL ATTACK: The dragon gathers dark energy in its mouth and unleashes a devastating blast. A massive shockwave tears through the battlefield, sending rocks, dust, and debris flying.
+
+THE ENDING: The defeated demon falls among the ruins. The dragon dissolves into black particles and merges with the woman's shadow. She calmly walks into the mist beneath a giant full moon as the camera pulls back for an epic cinematic ending.
+
+VISUALS: Photorealistic characters, realistic dragon scales, natural hair movement, cinematic lighting, volumetric fog, detailed destruction, dynamic camera movements, and premium Hollywood-quality VFX.
+
+AUDIO: No music, narration, or subtitles. Only wind, dragon roars, cracking earth, metallic impacts, and supernatural energy sounds.
+
+NEGATIVE PROMPT: Anime, cartoon, cheap CGI, plastic skin, distorted faces, extra limbs, unrealistic physics, flickering, excessive glow, blood, and gore.
+
+FORMAT: Vertical 9:16, consistent characters, smooth transitions, realistic motion, and maximum cinematic realism.
+```
+
+## E8 · Lavender-Haired Girl Leaps Through a Pool Wave
 
 - Seedance 2.5 · creator: @Zoyavelle · heat: 87 · stability: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1) · [finished media](https://media.goodcase.ai/cases/65eb83d5a0fd.mp4) · [poster](https://media.goodcase.ai/cases/5b534bd92cd2.jpg) · [original source](https://x.com/Zoyavelle/status/2100089287345951159)
@@ -126,41 +251,4 @@ The scene begins with the lavender-haired girl standing face-to-face with a grou
 Huge realistic water splashes, powerful waves, water droplets flying through the air, realistic wet surfaces, dynamic motion, cinematic slow-motion moments, natural human movement, detailed facial expressions, realistic skin and wet clothing, atmospheric mist and water spray.
 
 Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
-```
-
-## E7 · White-Haired Woman and Giant Black Cat in a Ruined Bedroom
-
-- Seedance 2.5 · creator: @Zyrellix · heat: 84 · stability: 83
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3) · [finished media](https://media.goodcase.ai/cases/b00b46531982.mp4) · [poster](https://media.goodcase.ai/cases/70fd0a62397d.jpg) · [original source](https://x.com/Zyrellix/status/2097594855946113177)
-- Summary: She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
-
-```text
-Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
-Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.
-```
-
-## E8 · A Young Woman Secretly Feeds a Pink Baby Dragon in a Stone Cottage
-
-- Seedance 2.5 · creator: @SadiaMalik182 · heat: 83
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401) · [finished media](https://media.goodcase.ai/cases/175d30b71143.mp4) · [poster](https://media.goodcase.ai/cases/7d24caf7d8c6.jpg) · [original source](https://x.com/SadiaMalik182/status/2113908264387981758)
-- Summary: She raised it in secret, fed it by hand... and now it trusts her completely Dark Fantasy • Forbidden Bond • Hidden Truth Made with Seedance 2.5 Prompt 👇 A cine…
-
-```text
-She raised it in secret, fed it by hand... and now it trusts her completely 
-
-Dark Fantasy • Forbidden Bond • Hidden Truth 
-
-Made with Seedance 2.5
-
-Prompt 👇
-
-A cinematic dark-fantasy medieval scene inside a rustic stone cottage. A young woman with long, dark, tousled hair, wearing a cream lace-trimmed dress and dark woolen cloak, secretly cares for a tiny baby dragon with translucent pink skin, delicate frilled fins, glossy dark eyes, and tiny sharp claws.
-
-The baby dragon crouches on a rough wooden table, curiously sniffing a gleaming gold coin. Warm firelight flickers across its realistic, moist skin while cool daylight enters through a small stone window.
-
-The woman gently offers it a small piece of food. The dragon eagerly opens its mouth, revealing tiny sharp teeth, and flutters its delicate fins excitedly. She smiles affectionately as it leans toward her hand.
-
-End with an intimate close-up of the dragon playfully taking the food while the woman watches with a tender smile, their secret bond growing stronger.
-
-Photorealistic creature textures, realistic anatomy, natural human expressions, cinematic camera movement, shallow depth of field, warm amber firelight contrasted with cool grey daylight, muted earthy colors, subtle film grain, prestige television quality, 16:9 widescreen, 24fps, no cartoon appearance, consistent character design, believable creature movement, emotional storytelling.
 ```

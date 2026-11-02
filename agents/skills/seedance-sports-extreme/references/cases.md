@@ -1,6 +1,6 @@
 # Case evidence · Sports and extreme stunts
 
-14 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+15 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -215,7 +215,102 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E5 · Female Rider Wins Mountain Bike Final by a Wheel
+## E5 · Elephant Launches Acrobat into Flips and a Horseback Landing
+
+- Seedance 2.5 · creator: @sipteaandcoffee · heat: 62
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-i-m-a-flexible-girl-0a4d9719d867) · [finished media](https://media.goodcase.ai/cases/9c865aa2ff52.mp4) · [poster](https://media.goodcase.ai/cases/ec4e8d1301a8.jpg) · [original source](https://x.com/sipteaandcoffee/status/2107060987157524524)
+- Summary: I'm a flexible girl Seedance 2.5 on @TapNow_AI Prompt Create a 15-second ultra-realistic vertical 9:16 circus performance video, filmed casually by an audience …
+
+```text
+I'm a flexible girl
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+Create a 15-second ultra-realistic vertical 9:16 circus performance video, filmed casually by an audience member from the seating area of a large traditional indoor circus arena.
+
+The video should feel like a **real viral phone recording of an unbelievable live stunt**, not a polished commercial or cinematic production.
+
+### SETTING
+
+Inside a huge traditional circus tent with a circular **light-tan sand performance ring**, dark audience seating packed with spectators, red barriers around the arena, tall structural poles, and a dark striped circus canopy overhead.
+
+Warm practical circus lights illuminate the center of the ring while the audience remains comparatively dark.
+
+The bottom foreground occasionally contains **dark silhouettes of spectators’ heads and raised phones**, making it obvious that the footage is being recorded from the audience.
+
+In the center of the arena is a **small circular trampoline with a bright blue padded rim and silver metal legs**.
+
+### CHARACTERS
+
+**Female Acrobat:**  
+A young blonde female circus performer with an athletic build. She wears a fitted **light-pink short-sleeve top, short green plaid performance skirt, white socks and white athletic shoes**. Her blonde hair moves naturally during the flips.
+
+**Elephant:**  
+A large realistic adult gray elephant with natural wrinkled skin, heavy body movement, large ears and a long expressive trunk.
+
+**Horse:**  
+A realistic dark-brown circus horse with a black mane and tail, walking calmly around the ring.
+
+### 0:00–0:03 — ELEPHANT LAUNCH
+
+Begin from the audience viewpoint.
+
+The elephant stands beside the small blue trampoline.
+
+The blonde acrobat runs toward the elephant and trampoline.
+
+The elephant lowers and then powerfully raises its trunk, **launching the acrobat upward into the air**.
+
+She immediately begins rotating backward.
+
+The action must look spectacular but physically coherent, with believable momentum and body weight.
+
+### 0:03–0:07 — MASSIVE AERIAL FLIPS
+
+The camera operator quickly tilts the phone upward to follow her.
+
+The woman flies extraordinarily high above the circus ring while performing **multiple tight backward somersaults**.
+
+Her knees tuck toward her chest, arms control her rotation, skirt and hair react naturally to the movement, and her body maintains realistic anatomy.
+
+The elephant remains visible far below beside the trampoline, emphasizing the incredible height.
+
+Allow slight handheld camera shake as the person filming struggles to keep her centered.
+
+### 0:07–0:10 — HORSE ENTERS
+
+While she continues flipping through the air, a **dark-brown horse calmly enters beneath her** and walks across the circus ring.
+
+The acrobat gradually opens her body from the tucked rotation and prepares for landing.
+
+The camera pans and tilts downward with her trajectory.
+
+### 0:10–0:12 — PERFECT LANDING
+
+She completes the final rotation and lands **upright with both feet directly on the horse’s back** while the horse continues moving forward.
+
+The landing is surprisingly smooth.
+
+Her knees bend naturally to absorb the impact before she straightens her body and regains perfect balance.
+
+No cuts during the stunt.
+
+### 0:12–0:15 — TRIUMPHANT FINISH
+
+Standing confidently on the moving horse, she raises **both arms wide in a victorious circus pose**.
+
+The horse continues calmly walking around the arena.
+
+The elephant can still be seen moving in the background.
+
+Audience members react enthusiasti
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E6 · Female Rider Wins Mountain Bike Final by a Wheel
 
 - Seedance 2.5 · creator: @nawalsehar · heat: 58 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
@@ -235,7 +330,7 @@ Bright natural daylight, realistic shadows, detailed mud and gravel textures, ci
 No CGI appearance, no extra racers, no spectators blocking the riders, no impossible jumps, no teleportation, no floating bikes, no unrealistic physics, no distorted anatomy, no changing riders or equipment, no excessive camera shake, no text, no logos, no watermark.
 ```
 
-## E6 · White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake
+## E7 · White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake
 
 - Seedance 2.0 · creator: @ayzalnooor24521 · heat: 58
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) · [finished media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) · [poster](https://media.goodcase.ai/cases/a396247022dc.jpg) · [original source](https://x.com/ayzalnooor24521/status/2113128549930729895)
@@ -245,7 +340,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 Create it 30-second video featuring a breathtaking cinematic acrobatic performance above a beautiful turquoise lake surrounded by lush green mountains, misty cliffs, and soft cloudy skies. A graceful female acrobat wearing a flowing white outfit performs incredible flips, handstands, aerial rotations, and perfectly controlled balancing moves on a series of tall, narrow wooden poles rising above the water. The camera captures her movements from wide cinematic angles and smooth tracking shots, highlighting her strength, flexibility, and balance against the stunning natural landscape. She leaps gracefully from one pole to another, spins through the air, and lands with precision on a wooden platform beside the lake, finishing with an elegant martial-arts-inspired pose with her arms extended. Use realistic human anatomy, natural body movements, accurate physics, fluid transitions, soft daylight, atmospheric mountain fog, crystal-clear water reflections, and ultra-realistic cinematic details. Keep the acrobat's face, hairstyle, outfit, and body proportions consistent throughout the video. The final result should look like a professionally filmed real-life acrobatic performance, with smooth camera movement, breathtaking scenery, and no text, logos, or visual distortions.
 ```
 
-## E7 · Seedance Smooth Snowboard Run Through a Terrain Park
+## E8 · Seedance Smooth Snowboard Run Through a Terrain Park
 
 - Seedance 2.5 · creator: @nawalsehar · heat: 57 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
@@ -253,20 +348,4 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 
 ```text
 A young snowboarder drops into an alpine terrain park, carves smoothly down the slope, performs a controlled 180° jump and freestyle butter, then finishes with a clean stop. Ultra-realistic winter sports documentary, physically accurate snowboard physics, authentic human movement, natural English lip-sync, bright winter daylight, immersive mountain ambience, and seamless story continuity throughout.
-```
-
-## E8 · Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
-
-- Seedance 2.0 · creator: @aiwithaly · heat: 50 · stability: 79
-- Evidence: [GoodCase](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13) · [finished media](https://media.goodcase.ai/media/video/aiwithaly-seedance-ai-bb7055074a13.mp4) · [poster](https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg) · [original source](https://x.com/aiwithaly/status/2092111337686262077)
-- Summary: A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
-
-```text
-A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view.
-
-Created with Seedance 2.5.
-
-Prompt
-
-Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
 ```
