@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/8 页）
 
-Seedance 2.5 全部 658 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 666 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–87 条，共 658 条。
+本页：第 1–86 条，共 666 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 
@@ -1725,6 +1725,266 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 耳机女英雄以念力操纵车辆击退尸潮
+
+> This AI video looks like Marvel cut its special effects budget Created by Seedance 2.5 on @makeugc Do you think it should have been made more dynamic and given …
+
+[<img src="https://media.goodcase.ai/cases/a96e127522cd.jpg" width="600" alt="耳机女英雄以念力操纵车辆击退尸潮">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-superhero-apocalypse-movie-scene-c82709fe5d51?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZentrixHQ | **来源:** [原帖](https://x.com/ZentrixHQ/status/2116844865279451613) | **发布:** 2026-11-01 | **热度:** 92
+
+<details>
+<summary><b>完整 prompt（242 行，点开展开）</b></summary>
+
+```
+Create a 30-second photorealistic LIVE-ACTION superhero apocalypse movie scene. Landscape 16:9. Real actress, real stunt performers, physical city location, full-size vehicles, natural lighting, and seamless feature-film visual effects.
+
+REFERENCE
+Use only Image Reference 1, the supplied photograph of the adult heroine. Preserve her exact face, hairstyle, hair colors, proportions, outfit, footwear, and accessories throughout. Render any stylized details as real skin, hair, fabric, and physical materials. Natural pores, expressive eyes, individual hair strands, clothing seams and folds.
+
+No video reference is supplied. Construct everything from this description.
+
+STORY
+A woman calmly faces a charging zombie horde. She inserts white wireless earbuds, starts her music, and clears the avenue with effortless telekinesis. She knocks back the front ranks, blocks a flanking alley with a taxi, sends a bus through the main horde, and collapses a damaged pedestrian skybridge onto the bus and remaining zombies. She walks away through a clear side street.
+
+One continuous event, one coherent location, exactly thirty seconds. No survivors, rescue subplot, dialogue, or flashbacks.
+
+LIVE-ACTION STYLE
+Everything resembles a finished theatrical film. The heroine looks like a real actress on location. Zombies resemble stunt performers in practical prosthetic makeup. Vehicles and buildings have real scale, weight, texture, and photographic lighting.
+
+Natural acting, realistic anatomy, cinematic editing, believable collisions, and physically convincing destruction. No gameplay framing, game-engine appearance, animated characters, plastic skin, repetitive combat animations, HUD, health bars, damage numbers, or targeting effects.
+
+HER POWER
+Her telekinesis is overwhelmingly powerful and completely effortless. Moving a bus is as easy as moving a feather.
+
+Relaxed shoulders, steady breathing, small finger and wrist gestures. Never show strain, trembling, clenched teeth, exhaustion, bracing, or loss of balance.
+
+She is quietly confident, with a faint smile and subtle head movements to the music. No exaggerated dancing.
+
+Telekinesis is invisible. Show it through object movement, displaced air, disturbed puddles, and sliding papers. No beams, glowing hands, magical symbols, or luminous shields.
+
+Objects retain realistic material behavior. Suspension extends when lifted; metal deforms; glass breaks; impacts have weight and inertia. Her power supplies the force without making objects look weightless.
+
+Each action has clear cause and effect: she looks toward a specific target, gestures, and that target immediately responds.
+
+LOCATION
+A wide downtown intersection after rain, under overcast daylight. Wet asphalt, puddles, isolated fires, thin smoke, damaged brick buildings, broken shop windows, abandoned vehicles, scattered glass and papers. Visibility remains clear.
+
+Keep this geography consistent:
+- The heroine stands at the intersection, facing north along the avenue.
+- The main horde starts thirty meters ahead, sprinting toward her.
+- An alley opens eight meters ahead on her right. A yellow taxi stands beside its entrance, with a white delivery van farther inside.
+- An empty city bus stands ten meters to her left, level with her, facing north.
+- The intersection has at least twenty-four meters of clear space for moving and rotating the bus.
+- The avenue provides eighteen meters of clear width along the bus's path.
+- A damaged enclosed pedestrian skybridge spans the avenue forty meters ahead. Missing glass, sagging central section, cracked connections.
+- Abandoned cars stand immediately beyond the bridge and will stop the bus directly beneath it.
+- The side street on her left is clear beyond the parked bus. Once the bus is lifted away, this exit is open.
+
+Establish these objects before using them. All vehicles and the bridge are empty.
+
+The heroine advances only two short steps and stays near the intersection, far from the final collapse.
+
+ZOMBIES
+Dozens of distinct adult infected people in dirty, torn everyday clothing, with pallid skin, clouded eyes, and convincing practical makeup.
+
+Aggressive, varied running: stumbling, splashing, reaching, and navigating obstacles. No duplicated faces or synchronized movement.
+
+They never wait motionless during her attacks. Their delays come from knockback, falling, recovering, and negotiating wreckage.
+
+The first wave creates time for the taxi action. During that action, the main horde visibly recovers in the background. They resume advancing during the bus lift.
+
+Threats come only from the established avenue and right alley. No unexplained attackers appear behind her. Emphasize impacts without graphic injury close-ups.
+
+EARBUDS
+Small white wireless earbuds resembling Apple AirPods: rounded earpieces with short white stems pointing downward. Correct size and natural fit. No wires, headband, or glowing details.
+
+She already holds one in each hand at the start of the close-up. She inserts both and taps the right one. No case or phone. They remain in her ears afterward.
+
+TIMELINE
+
+00:00–00:03 — ESTABLISH THE THREAT
+Eye-level wide shot from a three-quarter angle behind and beside the heroine.
+
+The first frame clearly shows her full figure in the foreground, the charging horde in the middle distance, and the open street separating them. Keep her off-center so she does not hide the attackers.
+
+Immediately establish the taxi, bus, skybridge, and open intersection.
+
+The zombies start thirty meters away and rapidly gain ground. She remains calm and motionless. Use a restrained forward camera move.
+
+Sound: running footsteps, splashing water, growls, distant fire, rattling metal. No music.
+
+No low-angle opening, ground-level view, feet close-up, or delayed reveal.
+
+00:03–00:05 — EARBUDS
+Cut to a stable frontal chest-up close-up.
+
+Holding one white earbud in each hand, she smoothly inserts both, releases them, and taps the right one. Natural fingers and correct earbud placement.
+
+She raises her eyes toward the attackers with a slight smile.
+
+At the tap, environmental sound becomes muffled from her listening perspective. An original dark electronic instrumental track begins, its first strong bass beat landing at 00:05.
+
+00:05–00:09 — FIRST STRIKE
+Eye-level medium-wide three-quarter shot showing her, the leading attacker, and the front ranks.
+
+The first zombie lunges with arms extended.
+
+She raises one palm. He stops in midair sixty centimeters from her hand, feet off the road. His torso stops first; limbs and clothing retain brief residual movement.
+
+After less than half a second, she flicks her palm forward.
+
+He shoots backward into the horde. The same gesture sends a broad directional pressure wave up the avenue, knocking the front ranks ten to fifteen meters backward.
+
+Bodies tumble and collide, obstructing the following ranks. Water fans forward and papers rush away from her.
+
+Clearly show the newly opened gap. This buys time for the next action.
+
+She lowers her hand and takes two measured steps. The fallen zombies begin recovering immediately.
+
+00:09–00:14 — TAXI
+A lateral tracking shot reveals zombies emerging from the right alley.
+
+She glances right and turns her wrist upward.
+
+The yellow taxi rises one meter. All wheels leave the road, suspension extends, and water drips from the chassis. The lift is effortless.
+
+Briefly show her, the floating taxi, and the flanking group together.
+
+She sweeps two fingers toward the alley. The taxi travels sideways, broadside first, driving the attackers back inside. It crashes into the white van and stops diagonally across the entrance.
+
+Metal buckles, glass breaks, and the van shifts backward. The wrecked vehicles completely block the alley and remain there.
+
+She stays outside the trajectory. The main horde continues recovering in the background.
+
+Sound: suspension creak, breaking glass, heavy metal impact.
+
+00:14–00:18 — POSITION THE BUS
+Cut wide: heroine near the intersection, bus to her left, horde farther ahead.
+
+She looks left and slightly raises her palm.
+
+The bus lifts one and a half meters. Wheels hang, fittings vibrate, and water falls from the wheel arches.
+
+She guides it diagonally forward into the open intersection, keeping its entire path clear of her.
+
+A turn of her wrist rotates it ninety degrees. It finishes broadside across the avenue, several meters ahead of her.
+
+Maintain at least three meters of clearance from her throughout. No intersection with buildings or street furniture.
+
+Clearly show: heroine behind, bus ahead, zombies farther north. No zombie remains between her and the bus.
+
+Her posture stays loose, with no lifting strain.
+
+00:18–00:23 — BUS STRIKE
+She makes a small forward push.
+
+The bus accelerates away from her, broadside first. It descends to the wet road and continues sliding under telekinetic force.
+
+Tires skid sideways. Lower metal edges scrape the asphalt, producing sparks and water spray.
+
+It knocks down the approaching ranks and sweeps through the main group. Show convincing mass and momentum.
+
+Briefly track from a three-quarter side angle so its direction and impacts remain readable.
+
+It crashes into the abandoned cars beyond the skybridge. The cars crumple and stop it directly beneath the bridge's central span.
+
+Establish the final position: bus under bridge, crushed cars beyond, remaining zombies on the far side.
+
+No zombies have crossed the bus. They are only beginning to gather against it.
+
+No fireball. Use deformation, glass, sparks, and heavy impact sound.
+
+The heroine remains near the original intersection.
+
+00:23–00:25 — FINAL TARGET
+Over her shoulder, show the bus under the damaged bridge.
+
+Zombies reach upward from the far side but have not climbed over.
+
+She looks up and casually raises her hand, gently curling her fingers.
+
+A brief structural insert shows existing cracks widening and damaged connections bending under her force. Small fragments fall.
+
+Her face remains calm. The music builds.
+
+00:25–00:28 — COLLAPSE
+Return wide, connecting her gesture with the distant bridge.
+
+She lowers her hand effortlessly.
+
+The central span breaks free and falls directly onto the bus and the street immediately behind it. It crushes the bus roof and blocks the remaining horde.
+
+Concrete, twisted steel, and the wrecked bus create one continuous barrier across the avenue.
+
+The released span falls with believable gravity. Steel bends, concrete fractures, glass breaks, and dust expands around the impact.
+
+Heavy debris stays in the distant collapse zone. Only the bridge and its damaged connections fail; both surrounding buildings remain standing.
+
+She remains safely near the intersection.
+
+The impact lands on the strongest musical accent: deep rumbling, tearing metal, falling masonry.
+
+00:28–00:30 — EXIT
+Eye-level medium-wide shot from inside the clear side street to her left, looking back toward the intersection.
+
+She turns into it and takes a few confident steps toward the retreating camera. Her route is open because the bus has been removed.
+
+The blocked avenue and rising dust remain visible behind her.
+
+A subtle head movement follows the music. Hands relaxed, normal breathing, no fatigue. No additional earbud adjustment.
+
+A faint breeze moves her hair. No heavy debris reaches her.
+
+End at exactly thirty seconds on her forward movement. No extra scene or title.
+
+CAMERA AND EDITING
+Coherent live-action movie coverage, motivated cuts, and readable trajectories.
+
+Use eye-level wide and medium-wide shots for major actions. Show the heroine, controlled object, and target together when possible.
+
+Close-ups only for earbuds, facial performance, and brief structural details.
+
+Maintain screen direction and recognizable landmarks. Controlled tracking, natural perspective, realistic motion blur, restrained impact vibration.
+
+No constant shaking, random whip pans, spinning camera, extreme distortion, gameplay camera, or cuts that hide impacts. No prolonged slow motion.
+
+LIGHTING AND MATERIALS
+Soft gray daylight, natural skin tones, restrained orange fire reflections.
+
+Realistic skin, hair, fabric, wet asphalt, dirty glass, heavy steel, and concrete dust. Preserve reference colors without making hair or clothing glow.
+
+Telekinesis is supernatural; everything affected behaves like real physical material.
+
+No cartoon rendering, plastic faces, excessive bloom, or game-engine surfaces.
+
+AUDIO
+Exposed apocalypse ambience until the earbud tap, then a shift into her listening perspective and an original dark electronic instrumental with strong bass and percussion.
+
+Music continues through all cuts. Gestures and major impacts align with accents. Keep collisions and destruction audible above it.
+
+No lyrics, dialogue, narration, or subtitles.
+
+CONTINUITY
+One consistent heroine matching the photo. Earbuds stay in place.
+Objects exist before moving; wreckage persists afterward.
+Zombies recover and advance instead of waiting.
+The bus starts beside her, moves ahead, then attacks.
+No zombies remain between her and the deployed bus.
+The bus stops beneath the bridge.
+The bridge falls before zombies cross the bus.
+No teleportation, duplication, disappearing objects, resetting damage, extra fingers, or intersecting bodies.
+Every major movement follows her gesture. She never strains or becomes tired.
+
+No low-angle opening, civilians, rescue subplot, game aesthetic, interface, glowing outlines, text, logos, watermarks, captions, or end title.
+
+The result must feel like a real actress in a cinematic superhero apocalypse film, with physically convincing destruction and seamless feature-film visual effects.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-superhero-apocalypse-movie-scene-c82709fe5d51?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 绿裙女子召唤烈焰树灵迎战恶魔群
 
 > ⚡She didn’t summon a guardian—she awakened the wrath of the earth.🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy battle, 16:9, photoreal, shallow d…
@@ -3312,6 +3572,37 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 孕妇的梦幻橄榄球
+
+> 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
+
+[<img src="https://media.goodcase.ai/cases/573c7eaac41b.jpg" width="600" alt="孕妇的梦幻橄榄球">](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2116718625474396498) | **发布:** 2026-11-01 | **热度:** 88
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+Create a 20-second cinematic 3D animated short film in a high-quality Pixar-inspired style.
+
+Scene 1 (0–4 seconds): A beautiful pregnant blonde woman wearing a yellow-and-white striped tank top is lying in bed at night. She gently places her hands on her baby bump, looking surprised and curious. The bedroom is illuminated by soft blue moonlight.
+
+Scene 2 (4–10 seconds): Transition into a magical fantasy football world inside the mother's imagination. A cute, chubby baby boy with blonde hair, big expressive blue eyes, and a tiny curl on his head appears wearing a white T-shirt with a blue star and blue shorts. He runs across a green football field, kicks a blue-and-white star-patterned soccer ball, and performs an adorable goalkeeper jump to catch it.
+
+Scene 3 (10–14 seconds): The baby celebrates his football skills with a joyful smile. He then falls asleep peacefully, hugging the soccer ball like his favorite toy.
+
+Scene 4 (14–20 seconds): Return to the blue moonlit bedroom. The pregnant woman is sleeping beside her husband. Suddenly, a small black-and-white cat jumps onto the bed and lands near her baby bump. She wakes up with a shocked expression, creating a funny and unexpected ending.
+
+Visual Style: Ultra-detailed 3D Pixar-inspired animation, adorable character design, expressive facial emotions, cinematic camera movements, realistic fabric textures, beautiful lighting, smooth transitions, magical atmosphere, professional animated movie quality, 4K resolution, vertical 9:16 aspect ratio.
+
+Audio: Soft magical background music, gentle nighttime ambience, cute baby sounds, playful football sound effects, and a funny surprise sound at the ending.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 废城街头的砍刀求生战
 
 > One survivor. A city full of zombies. No way out. Created with Seedance 2.5 on @frameo_ai Bringing cinematic AI action to life. #MadeWithFrameo Prompt: ZOMBIE C…
@@ -4858,176 +5149,6 @@ NO EXTRA VERSION OF <image_1>.
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 韩国女孩的夏日农场体验
-
-> Seedance 2.5 via @openart_ai made this farm day look way too real 😯 Prompt Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary su…
-
-[<img src="https://media.goodcase.ai/cases/38369ab7e574.jpg" width="600" alt="韩国女孩的夏日农场体验">](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @saniaspeaks_ | **来源:** [原帖](https://x.com/saniaspeaks_/status/2098742251472261330) | **发布:** 2026-09-12 | **热度:** 86
-
-**稳定度：** 77/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (76.7 分) · [产物](https://media.goodcase.ai/retests/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（54 行，点开展开）</b></summary>
-
-```
-Seedance 2.5 via @openart_ai made this farm day look way too real 😯
-
-Prompt 
-
-Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman visiting a small traditional farm and helping with the animals. No reference image.
-
-A naturally pretty beautiful Korean woman in her early 20s, realistic natural skin texture, minimal makeup, relaxed and cheerful personality. Long black hair tied in a loose low ponytail. She wears a loose white cotton T-shirt, light olive-green cargo pants, brown ankle boots, and a beige canvas crossbody bag. Keep the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.
-
-A small traditional countryside farm outside Seoul during a warm summer afternoon. Wooden fences, green fields, an old farmhouse, barn, hay bales, vegetable patches, chickens, cows, buckets, farming tools, trees and natural countryside surroundings. The farm feels ordinary and lived-in, not like a tourist attraction.
-
-The camera is ALWAYS positioned IN FRONT OF THE GIRL, never behind her. A friend stands or walks in front of her, casually filming her with a handheld consumer DV camcorder/smartphone. Her front face must remain clearly visible during the important moments. The camera naturally moves backward while she walks toward it. Use imperfect handheld movement, small shakes, slightly uneven framing, autofocus hunting, occasional exposure changes, natural motion blur, soft digital detail, mild image noise, faded early-2000s home-video colors, and occasional accidental zooms.
-
-Absolutely NO rear-view shots, NO filming from behind, NO drone, NO gimbal, NO cinematic tracking shots, NO polished commercial look, NO beauty filter. It should genuinely feel like a friend casually recorded this afternoon.
-
-TIMELINE
-
-0:00–0:05 — Arriving at the Farm
-
-The girl walks toward the farm entrance while the friend walks backward in front of her filming. She smiles naturally and looks around at the animals and fields. She says casually in Korean:
-
-“오늘 농장에 왔어요.”
-
-Natural footsteps, birds, insects and distant farm sounds.
-
-0:05–0:10 — Feeding the Cow
-
-Still filmed from the front, the girl approaches a calm cow and holds out fresh vegetables. The cow gently eats from her hand. She laughs naturally and looks at the camera, then back at the cow.
-
-0:10–0:15 — Helping With Vegetables
-
-Hard cut. The camera remains in front of her as she walks through a vegetable patch and picks fresh vegetables. She holds them up toward the camera with a happy smile.
-
-0:15–0:20 — Chickens
-
-Hard cut. Several chickens suddenly walk across the path in front of her. The camera stays facing her from the front as she laughs and carefully steps around them. One chicken comes close to her boots.
-
-0:20–0:25 — Farmhouse Break
-
-She sits outside the farmhouse with a basket of freshly picked vegetables and eats a piece of fresh fruit. She looks relaxed and slightly tired from working. She smiles at the camera and says:
-
-“생각보다 재밌어요.”
-
-0:25–0:30 — Walking Away / Goodbye
-She gets up and walks toward the camera, then stops near the farm entrance. The friend keeps filming from directly in front of her. She gives a small wave and says:
-
-“다음에 또 올게요. 안녕!”
-
-She walks past the camera as the recording ends naturally.
-
-AUDIO:
-Only authentic location sound: birds, chickens, cows, insects, footsteps, leaves, distant farm activity and natural conversation. No background music, no narration, no artificial sound effects.
-
-FINAL LOOK:
-Completely believable real-life home-video footage. Slightly imperfect, spontaneous, unpolished and human. Front-facing camera coverage throughout the story, with the girl's face clearly visible.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-via-made-this-farm-day-look-way-too-real-37f7dfec4b6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 巴厘岛梦幻夏日旅行日记
-
-> golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
-
-[<img src="https://media.goodcase.ai/cases/39b33ab9f88e.jpg" width="600" alt="巴厘岛梦幻夏日旅行日记">](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @eshal__ai | **来源:** [原帖](https://x.com/eshal__ai/status/2096840505355370629) | **发布:** 2026-09-07 | **热度:** 86
-
-**复测：** Grok Imagine · 2026-10-03 · ❌ 失败 (无评分)
-
-<details>
-<summary><b>完整 prompt（23 行，点开展开）</b></summary>
-
-```
-A cinematic 30-second tropical travel vlog montage featuring a beautiful 20-year-old East Asian woman with dark hair exploring Bali during a dreamy summer getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft golden-hour sunlight, dreamy 35mm film aesthetics, warm vintage color grading, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, elegant summer outfits, relaxed happy expression. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, warm color palette, travel documentary style.
-
-Scene 1 (0-4s) — Arrival & Village Street: A warm Balinese morning. The woman strolls down a narrow street lined with frangipani trees and stone shrines, wearing a linen wrap dress, sunglasses pushed up into her hair. Motorbikes pass softly blurred in the background, incense smoke drifts from a doorway offering. Camera trails her from behind, then swings into a close-up as she glances back over her shoulder and laughs, saying softly, "Okay, I think I already love it here."
-
-Scene 2 (4-8s) — Cliffside Beach Discovery: She descends stone steps onto a narrow cliffside beach, turquoise water crashing against limestone cliffs behind her. She walks barefoot at the tideline, dress hem lifted slightly, waves curling over her feet. Low-angle shots of her footprints filling with foam, sunlight scattering across the water, jagged cliffs framing the horizon.
-
-Scene 3 (8-12s) — Rice Terrace & Jungle Moments: A worm's-eye view looking up through banana leaves and bamboo, sunlight cutting through in warm shafts with soft lens flares. Cut to a close-up of her standing at the edge of an emerald rice terrace, wind lifting loose strands of hair as she looks out, quietly murmuring, "It's so green it doesn't look real."
-
-Scene 4 (12-16s) — Warung Cafe & Slow Living: She sits alone at a small open-air warung overlooking the jungle, sipping fresh coconut water through a paper straw. Sunlight filters through woven bamboo shades. Close-up shots of her hands wrapped around the coconut, condensation beading on the shell, her contented half-smile as she watches the trees sway.
-
-Scene 5 (16-20s) — Ocean Adventure: She paddles a wooden longboard through a calm turquoise lagoon, sunlight sparkling across the surface. Camera circles her at water level, capturing gentle ripples and distant green cliffs. She loses balance slightly, laughs out loud, and calls toward the camera, "Don't film this part — actually, keep filming it."
-
-Scene 6 (20-24s) — Night Market Exploration: A glowing Balinese night market strung with paper lanterns, satay smoke curling into the air, vendors calling out prices. She weaves through the crowd sampling grilled skewers and mango sticky rice, her face lit by warm string lights and passing motorbike headlights. Cinematic close-ups of her eyes widening at the taste, lanterns blurred into soft bokeh behind her.
-
-Scene 7 (24-27s) — Golden Sunset Ending: A wide silhouette shot of her standing at the shoreline as the sun sinks into the sea, sky burning orange and violet, reflections rippling across the wet sand. Waves wash gently around her ankles as she tilts her face toward the last light, one hand shielding her eyes.
-
-Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a glittering coastal skyline at night. She leans against the railing in a simple white dress, curtain of hair moving in the breeze, city lights reflected in her eyes. Final intimate close-up of her curled up on the hotel bed, propped on one elbow, looking directly into the lens with a soft, warm smile as she says, "Goodnight from Bali."
-
-Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
-
-Visual Style: Dreamy Bali vacation film, boutique travel-brand aesthetic, soft golden sunlight, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, warm atmospheric tones, natural unscripted expressions, emotional storytelling.
-
-Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 京都女孩的平凡一日
-
-> Realism that makes ordinary life feel special Seedance 2.5 Prompt Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese …
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff.jpg" width="600" alt="京都女孩的平凡一日">](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2096109540924141746) | **发布:** 2026-09-05 | **热度:** 86
-
-**稳定度：** 69/100
-
-**复测：** Grok Imagine · 2026-10-02 · ⚠️ 降级 (69.3 分) · [产物](https://media.goodcase.ai/retests/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff/video-grok-imagine-20261002-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（29 行，点开展开）</b></summary>
-
-```
-Realism that makes ordinary life feel special
-
-Seedance 2.5 
-
-Prompt
-
-Create a 30-second, 16:9 ultra-realistic handheld lifestyle vlog following the young Japanese woman in her 20s through an ordinary day in Kyoto. Keep her face, identity, hairstyle, body, outfit, accessories, and proportions perfectly consistent.
-
-She wears a fitted pastel yellow short top, straight-leg light denim jeans, yellow canvas sneakers, a small tan tote bag, and thin gold hoop earrings throughout.
-
-Style: Genuine footage filmed casually by a close friend on a smartphone/compact camera. Handheld shake, imperfect framing, autofocus/exposure shifts, natural motion blur, mild digital noise, realistic skin texture, occasional late camera reactions. No gimbal, drone, cinematic choreography, slow motion, beauty filter, or commercial look.
-
-0–5s: Quiet residential Kyoto street, narrow lane with wooden facades. She steps out of her apartment, glances at her phone, notices the camera, smiles softly, tucks her hair behind her ear and says naturally: "今日も一緒に行こう。"
-
-5–11s: Enters a small neighborhood bakery/konbini-style shop, notices a fresh melon pan and says: "これ、いい匂いがする。" Buys it, takes a bite outside, and smiles at the camera.
-
-11–17s: Boards a local city bus and sits by the window. Kyoto streets and old buildings pass outside with realistic reflections and sunlight. She quietly says: "こういう日は、歩きたくなるな。"
-
-17–23s: Gets off near a canal-side walking path. Buys a drink from a small vending machine or cart. A cyclist passes unexpectedly close; she steps aside, laughs, and says: "今、ちょっとびっくりした。"
-
-23–27s: Golden-hour canal-side scene. She sits on a low stone ledge or bench, places her drink beside her, removes one earbud, watches the water, and gives a small genuine smile as the wind moves her hair.
-
-27–30s: She stands and walks away. After a few steps, looks back and says: "次は一緒に来てね。" She continues walking as the camera follows behind. Recording naturally ends around 29.5s.
-
-REALISM: Accurate human biomechanics, grounded feet, continuous objects, realistic bus movement, natural walking/eating/sitting, consistent architecture and wardrobe. No teleportation, morphing, identity drift, duplicated/disappearing objects, distorted hands or limbs.
-
-AUDIO: Natural Japanese dialogue with accurate lip-sync, phone-mic quality, footsteps, traffic, birds, bakery sounds, bus engine, bicycle bell, wind and city ambience. No music, narrator, or cinematic SFX.
-
-Absolutely no subtitles, captions, on-screen text, logos, watermarks, or UI.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-realism-that-makes-ordinary-life-feel-special-aa5751af1eff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
