@@ -1,10 +1,227 @@
 # Seedance 2.5 — 全量案例（第 8/8 页）
 
-Seedance 2.5 全部 666 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 672 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 626–666 条，共 666 条。
+本页：第 628–672 条，共 672 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · **Part 8**
+
+### 屋顶训练室女子晚间健身
+
+> Made with Seedance 2.5 Prompt: 30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout.
+
+[<img src="https://media.goodcase.ai/cases/ac0d4f78ea21.jpg" width="600" alt="屋顶训练室女子晚间健身">](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @kingofdairyque | **来源:** [原帖](https://x.com/kingofdairyque/status/2089951161789092255) | **发布:** 2026-08-19 | **热度:** 27
+
+**稳定度：** 78/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.8 分) · [产物](https://media.goodcase.ai/retests/kingofdairyque-seedance-ai-d37a2e5fa395/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（51 行，点开展开）</b></summary>
+
+```
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+
+Audio:
+Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
+
+Negative:
+No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.Made with Seedance 2.5
+
+Prompt:
+
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 生成暴雨港口灾难电影序列
+
+> 作者用 Seedance 2.5 生成 30 秒好莱坞式灾难序列，以六个分镜串联暴雨港口逃生、爆炸洪水、室内避难与巨型海怪结尾，并完整规定角色一致性、镜头运动、水体物理和声音设计。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-3f70c2f28d22.jpg" width="600" alt="Seedance 2.5 生成暴雨港口灾难电影序列">](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Noor_ul_ain43 | **来源:** [原帖](https://x.com/Noor_ul_ain43/status/2087774014957850843) | **发布:** 2026-08-13 | **热度:** 26
+
+**稳定度：** 79/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (78.6 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-3f70c2f28d22/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-realistic cinematic disaster sequence with a dark, intense, Hollywood-blockbuster atmosphere.
+
+Main character: A young woman with short, messy dark hair, wearing a soaked white T-shirt and light-colored shorts. Keep her appearance consistent throughout the entire video. Her face should remain realistic and expressive, showing fear, shock, exhaustion, and determination.
+
+Scene 1 — 0–5 seconds:
+Open with an extreme close-up of the woman running toward the camera through a dark industrial shipping yard at night. Heavy rain is falling, her hair and clothes are completely wet, and she is breathing heavily. Behind her, bright industrial lights glow through thick smoke and mist. The camera moves backward smoothly while maintaining focus on her face. Add realistic rain droplets on the camera lens, dramatic backlighting, atmospheric fog, and handheld cinematic movement.
+
+Scene 2 — 5–10 seconds:
+Cut to a wider shot as she runs through the flooded container yard. Large shipping containers surround her, emergency lights flash in the distance, and explosions/fire erupt behind her. She looks over her shoulder in panic while continuing to run. Water splashes dramatically around her legs with every step. Use realistic fire, smoke, debris, rain, and volumetric lighting.
+
+Scene 3 — 10–15 seconds:
+She suddenly loses her balance and falls into the flooded ground. Show the impact in slow motion for a moment, with water splashing around her. She quickly pushes herself back up while terrified people run in the background. A massive wave of smoke, debris, and water moves through the shipping yard behind them. Use a low-angle camera close to the ground for a powerful disaster-movie perspective.
+
+Scene 4 — 15–21 seconds:
+She gets back on her feet and starts sprinting toward safety. The camera tracks alongside her at high speed. Containers shake, debris flies through the air, vehicles and objects are pushed around by the powerful force behind her. Keep her face and body consistent. Alternate between close-ups of her frightened expression and wide shots showing the enormous scale of destruction.
+
+Scene 5 — 21–25 seconds:
+She reaches a large modern building filled with terrified people. The camera follows her inside as everyone rushes toward safety. People are falling, crawling, and helping each other while water and debris can be seen outside through the entrance. The lighting changes from cold blue-gray exterior lighting to dramatic warm interior lighting.
+
+Scene 6 — 25–30 seconds:
+Suddenly transition to a massive luxury yacht in the middle of a violent ocean. Huge dark waves surround the vessel under a stormy sky. The camera starts behind the yacht and slowly reveals an enormous shark-like sea creature emerging from the ocean directly behind it, creating a terrifying final reveal. The creature rises through the waves with water cascading from its body. End with a gigantic wave crashing toward the yacht.
+
+Visual style: photorealistic Hollywood disaster film, cinematic color grading, realistic skin texture, physically accurate water and rain, volumetric fog, dramatic practical lighting, realistic fire and smoke, detailed environments, natural motion blur, shallow depth of field, dynamic camera movement, high contrast, atmospheric storm clouds, extremely detailed CGI, 4K cinematic quality.
+
+Camera: mixture of handheld close-ups, smooth tracking shots, wide establishing shots, low-angle disaster shots, slow-motion impact moments, and dramatic aerial/wide shots.
+
+Sound design: heavy rainfall, thunder, distant explosions, sirens, screaming crowds, footsteps splashing through water, crashing metal, deep cinematic bass, roaring waves, and an intense rising orchestral score that builds toward the final creature reveal.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 浴袍奶奶驾驶武装警用直升机逃亡
+
+> Created with Seedance 2.5 on Rezona Lab @rezona_ai Prompt 👇 Generate a continuous 30-second raw live USA television news helicopter coverage of the ongoing aft…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e.jpg" width="600" alt="浴袍奶奶驾驶武装警用直升机逃亡">](https://goodcase.ai/cases/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2095804336328872106) | **发布:** 2026-09-04 | **热度:** 26
+
+**稳定度：** 75/100
+
+**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (75 分) · [产物](https://media.goodcase.ai/retests/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（36 行，点开展开）</b></summary>
+
+```
+Created with Seedance 2.5 on Rezona Lab 
+
+@rezona_ai 
+
+Prompt 👇
+
+Generate a continuous 30-second raw live USA television news helicopter coverage of the ongoing aftermath of a stolen police helicopter incident. Core subject is the same overweight elderly woman in a floral bathrobe, now confidently piloting the stolen police helicopter across the city, who discovers the aircraft is somehow armed with rockets and begins using them with GTA-videogame-player logic — firing at absurd non-human targets while police pursue helplessly below. Style is unpolished live TV news helicopter footage only: continuous single high-altitude shot with aggressive tracking, natural organic shake, realistic physics with comedic timing, bright daylight, no cinematic grading, no slow motion, no film look. Tone is unintentionally hilarious live news chaos — the humor comes from a grandma treating a police helicopter like a video game, with spectacular but harmless property destruction. Nobody is ever injured on screen.
+
+阶段一
+开始时：Distant high news-helicopter view tracking the stolen police helicopter flying unsteadily but confidently over city rooftops. The elderly woman in the floral bathrobe is visible in the pilot seat, bathrobe sleeve resting out the window. A dozen police cars stream along the streets far below, sirens flashing, uselessly following her shadow.
+主要事件：She experimentally flips switches in the cockpit — the helicopter's landing lights flash, then the PA siren whoops once, then suddenly a rocket fires accidentally with a bright plume, streaking away and blowing up an empty billboard advertising a retirement home. The billboard collapses in a shower of debris onto an empty parking lot.
+结束时：Smoke rising from the destroyed billboard, the helicopter wobbling from the recoil, police cars below screeching to a stop in disbelief.
+
+阶段二
+承接上一阶段：Same continuous distant helicopter tracking shot, same woman, same stolen police helicopter over the city.
+主要事件：Realizing what the button does, she leans into it with visible delight. She banks the helicopter in a wide clumsy arc and deliberately fires two rockets at a row of porta-potties staged in an empty construction site — they erupt in a geyser of blue liquid and debris, raining harmlessly over empty dirt. Construction workers far off to the side throw their helmets down and run in circles.
+结束时：Blue mist settling over the empty construction site, the helicopter completing its wobbly arc, police below rerouting frantically.
+
+阶段三
+承接上一阶段：Continuous same high-angle news helicopter framing, identities and aircraft unchanged.
+主要事件：Police deploy a spike-strip truck and a drone to intercept. She out-flies the drone by accident — her erratic piloting is impossible to predict — and the drone crashes into a fountain. She then fires a rocket at an abandoned condemned parking garage scheduled for demolition (a huge "DEMOLITION SITE — KEEP CLEAR" banner visible); the garage pancakes down in a perfect controlled-style collapse, dust billowing outward, accidentally doing the demolition crew's job. The demolition crew, watching from their safe distance, slow-clap.
+结束时：Dust cloud rolling across the empty demolition zone, the demolition foreman checking his clipboard confused, the helicopter hovering proudly above.
+
+阶段四
+承接上一阶段：Identical continuous helicopter shot, no cut, same aircraft and pilot.
+主要事件：A police negotiation helicopter rises to hover at a careful distance, an officer with a megaphone pleading. She responds by firing her last rocket straight up into the sky like a celebration firework — it detonates high above in a harmless starburst, showering sparks like a fireworks show. The negotiation helicopter backs away slowly, the megaphone officer lowering his megaphone in defeat. Below, an entire intersection of stopped drivers exits their cars to film with phones.
+主要事件结束时：The firework starburst fading in the sky, crowds filming from below, the police helicopter retreating, her helicopter doing a small proud wiggle.
+
+阶段五
+承接上一阶段：Same continuous distant high-altitude news helicopter tracking, same identity and aircraft.
+主要事件：Out of rockets, she shrugs visibly through the cockpit glass, pats the helicopter's dashboard like a loyal horse, and flies toward the setting sun over the harbor at full speed. Police boats join the chase in the water below, spraying wakes, equally hopeless. Her floral bathrobe sleeve gives one final wave out the window — the signature taunt.
+结束时：The stolen helicopter shrinking into the golden horizon over the water, a fleet of useless police boats and cars gridlocked below, the news helicopter holding its distant tracking shot as the escape completes.
+
+保持一致：Maintain the exact same overweight elderly woman in the same floral bathrobe, the same stolen marked police helicopter, continuous single distant high-altitude helicopter camera with natural live-news shake and aggressive tracking, the same bright daylight shifting toward golden hour in the final stage, realistic aircraft and explosion physics with comedic timing (humor from absurd contrast and GTA-player logic, not cartoon physics), and zero cuts for the entire 30 seconds. All rocket targets are explicitly empty, abandoned, or inanimate — no people are ever near the explosions and nobody is injured. No cinematic camera work, no slow motion, no dramatic color grade.
+
+Audio: heavy continuous helicopter rotor from both aircraft, rocket launch whooshes and echoing booms, debris clatter, the PA siren whoop, distant police sirens below, the drone buzzing then splashing into the fountain, the garage collapse rumble, the firework detonation crackle, faint crowd cheering and phone-camera chatter from street level, boat engines in the harbor, wind. No music. No subtitles. No voice-over.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-with-seedance-2-5-on-rezona-lab-0a707a78155e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 耳机少女的日本漫游
+
+> POV: You pressed play and Japan happened Seedance 2.5 perfection is here Prompt: Create a photorealistic cinematic trave
+
+[<img src="https://media.goodcase.ai/cases/4f40686a84a0.jpg" width="600" alt="耳机少女的日本漫游">](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2094640515895460285) | **发布:** 2026-09-01 | **热度:** 26
+
+<details>
+<summary><b>完整 prompt（19 行，点开展开）</b></summary>
+
+```
+Create a photorealistic cinematic travel music video of a young Japanese woman exploring Japan. Use the uploaded image as her exact identity reference and maintain the same face, hair, skin tone and proportions throughout. She wears white wired earphones in every shot.
+
+She begins in a quiet Tokyo neighborhood wearing a red Adidas track jacket, listening to music while walking and checking her phone.
+
+Hard cut to a traditional Japanese shrine where she changes into a forest-green Adidas outfit. She walks through red torii gates, climbs stone steps, touches a wish plaque and smiles at the camera.
+
+Cut to a bamboo forest and mountain viewpoint. She briefly spins, whipping her hair naturally as misty mountains appear behind her.
+
+Hard cut to a black Adidas outfit as she crosses a traditional wooden bridge and explores a lantern-lit Japanese street. Show quick atmospheric shots of koi, incense smoke, temples and misty mountains.
+
+She meets a female friend in a Tokyo plaza. They laugh, dance together and move naturally to the music.
+
+End with a bold yellow “JAPAN” title over the dancing scene.
+
+Style: Premium travel music video, photorealistic live-action, 35mm/50mm cinematic look, subtle film grain, natural skin, realistic hair and clothing movement, handheld camera, warm Japanese colors, cool mountain mist, natural motion blur, 24fps, hard cuts only.
+
+Audio: Upbeat Japanese-inspired electronic music mixed with natural street, shrine, bamboo, water and city ambience. No dialogue.
+
+Negative: No CGI look, plastic skin, identity drift, distorted anatomy, extra limbs, warped architecture, random text, subtitles or watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithsynthia-seedance-ai-ab4f303de473?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 街头唱歌男施展超能力变装
 
@@ -283,46 +500,6 @@ Reference image locked for character identity.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/rovvmut-seedance-ai-228f58be0ecb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 辣妹叼着吐司慌乱飞行通勤
-
-> The superwoman Made with Seedance 2.5 on ImagineArt Prompt: @image1 is the ONLY reference for the main character. It defines her identity — preserve her exact f…
-
-[<img src="https://media.goodcase.ai/cases/15ff3e55b62d.jpg" width="600" alt="辣妹叼着吐司慌乱飞行通勤">](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2096105857402699891) | **发布:** 2026-09-05 | **热度:** 24
-
-<details>
-<summary><b>完整 prompt（22 行，点开展开）</b></summary>
-
-```
-@image1  is the ONLY reference for the main character. It defines her identity — preserve her exact face, makeup, and voluminous dark-brown spiral-curl hair in every shot — and it defines the design of her outfit: sheer light-blue off-shoulder top, long light-blue scarf, silver star necklace, white lace ruffled miniskirt, white lace tights, dalmatian-print leg warmers with blue bows, chunky black-and-white platform shoes. WHEN she wears this outfit is set only by the wardrobe timeline below. Do not use the sheet's white studio background, panel layout, or neutral standing poses. The same single woman appears throughout — no identity drift, no second copy of her.
-
-WARDROBE TIMELINE: 0–2 sec — rumpled plain pajamas, curls extra messy from sleep, no accessories. 2–6 sec — she dresses during the mirror timelapse described below. From 6 sec to the end — the exact complete outfit from @Image 1, unchanged.
-
-Create a chaotic 30-second Japanese live-action comedy video. Fast and physical, no dead time, rapid cuts and dynamic camera movement. All dialogue is Japanese only, and only she speaks — no other on-screen mouth ever syncs to any voice. Her voice is cute, high-pitched and bright.
-
-STYLE: Warm faded early-digital handheld footage with low-saturation color, soft focus, mild noise, slightly blown highlights and candid movement. No timestamp, date stamp or UI overlays. Not modern crisp digital. Speed changes exist ONLY in the two designated timelapse segments (2–6 sec and 20–23 sec); no slow motion anywhere, no speed ramps anywhere else.
-
-FLIGHT RULES: Her flight is played as physical and live-action. Every takeoff has a visible crouch, recoil and downdraft that shoves nearby objects; wind constantly drags her scarf, skirt and curls; landings carry real impact through her legs. She flies clumsily, like a new driver. No glowing aura, no energy effects, no cape, no superhero costume, no named superhero reference.
-
-SOUND: Playful upbeat Japanese gyaru dance-pop begins at the first frame and continues throughout. Sync cuts, the alarm clock, wardrobe snaps, the takeoff downdraft, whipping wind, flapping laundry, crow caws, train rumble, drone buzz, rain patter, landing impact and her footsteps to the beat. No silent sections.
-
-SETTING: A small messy Japanese bedroom with a bed, an alarm clock, a full-length mirror and clothes piled around; a slice of toast on a plate by the door. Outside: a Japanese residential street with laundry lines hung with white sheets, power lines, then a downtown district of office buildings, an elevated commuter train line, one small delivery drone, one crow, one small grey rain cloud, and a station square with ordinary Japanese pedestrians whose faces and outfits all differ. Japanese signage stays in the background.
-
-00:00–00:02 — WAKE-UP
-Extreme close-up of her eye snapping open under messy curls. She bolts upright in bed, grabs the alarm clock, stares at it and gasps. She kicks the blanket off. 00:02–00:06 — DRESSING TIMELAPSE
-Locked-off camera facing the full-length mirror. The room and the mirror frame stay pin-sharp and completely motionless — nothing in the background moves. Only she moves, in fast-forward with slight motion trails: pajamas off, top on, skirt on, scarf thrown, leg warmers yanked up, shoes buckled, necklace on, bag slung across. At 5.5 seconds the speed snaps back to normal with no ramp: she stands fully dressed in the exact @Image 1 outfit, jams the slice of toast in her mouth and strikes a quick check pose.
-
-00:06–00:08 — TAKEOFF
-On the front step she crouches deep, then launches vertically like a rocket, toast still in her mouth, mumbling through it: 「いってきま〜す！」 The downdraft knocks over a potted plant and sets the laundry flapping.
-
-00:08–00:11 — LOW-ALTITUDE OBSTACLES
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 暗蓝香水瓶雾光广告
 
 > Luxury in every detail A cinematic fragrance experience crafted to leave a lasting impression. Made With Seedance 2.5 Prompt: Cinematic 19-second commercial ad …
@@ -416,26 +593,45 @@ CRITICAL REALISM REQUIREMENTS: Prioritize genuine smartphone vlog footage: arm-l
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-she-s-spending-the-evening-with-her-favorite-friends-3a0cab11c8a5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 莉娅清晨从露台走向乡间小路
+### 辣妹叼着吐司慌乱飞行通勤
 
-> Kenalin lia hobinya mancing Seedance 2.5 prompt: Reference mode: Use karakter sheet - location 1 - location 2 (image) #
+> The superwoman Made with Seedance 2.5 on ImagineArt Prompt: @image1 is the ONLY reference for the main character. It defines her identity — preserve her exact f…
 
-[<img src="https://media.goodcase.ai/cases/3220eff0165d.jpg" width="600" alt="莉娅清晨从露台走向乡间小路">](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/15ff3e55b62d.jpg" width="600" alt="辣妹叼着吐司慌乱飞行通勤">](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Cupang1997 | **来源:** [原帖](https://x.com/Cupang1997/status/2091438364545446209) | **发布:** 2026-08-23 | **热度:** 23
+**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2096105857402699891) | **发布:** 2026-09-05 | **热度:** 23
 
-**稳定度：** 65/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (64.5 分) · [产物](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+<details>
+<summary><b>完整 prompt（22 行，点开展开）</b></summary>
 
 ```
-Reference mode:
-Use karakter sheet - location 1 - location 2 (image)
+@image1  is the ONLY reference for the main character. It defines her identity — preserve her exact face, makeup, and voluminous dark-brown spiral-curl hair in every shot — and it defines the design of her outfit: sheer light-blue off-shoulder top, long light-blue scarf, silver star necklace, white lace ruffled miniskirt, white lace tights, dalmatian-print leg warmers with blue bows, chunky black-and-white platform shoes. WHEN she wears this outfit is set only by the wardrobe timeline below. Do not use the sheet's white studio background, panel layout, or neutral standing poses. The same single woman appears throughout — no identity drift, no second copy of her.
 
-# Seedance 2.5 — Lia Morning Village Home Video — 30 Seconds FORMAT: Seedance 2.5 image-reference-to-video. Duration: exactly 30 seconds. Aspect ratio: 16:9. Photorealistic animated video from still-image references, rendered as believable live-action documentary footage rather than cartoon or CGI. Two continuous documentary scenes with only one intentional hard cut at approximately 17.5 seconds. REFERENCE ROLES: * gambar 1  = strict identity and appearance reference for LIA. Preserve Lia as the exact same adult woman throughout the entire video: same facial structure, eyes, nose, lips, skin tone, freckles/skin details, body proportions, tied-back dark brown hairstyle with naturally loose strands, earrings, white fitted top, brown patterned wrap skirt/sarong, and white sandals. Do not redesign or beautify her. * gambar 2  = strict environment and architectural reference for SCENE 1 only. Preserve the modest Indonesian house facade, open tiled front terrace, roof shape, terracotta roof feeling, columns, doors, windows, front yard, trees, plants, overhead electrical cables, scale, and spatial layout. Do not copy any character identity from this image. * gambar 3  = strict environment and composition reference for SCENE 2 only. Preserve the narrow asphalt village road, rice-field surroundings, village rooftops, utility lamp poles, tropical vegetation, distant green hill, open blue morning sky, and rural Indonesian spatial feeling. Do not copy character identity from this image. GLOBAL CHARACTER LOCK: Lia must remain visually identical to gambar 1 in both locations. Same face, body proportions, hairstyle, outfit, accessories, skin texture, and footwear. Her clothes should behave like real cotton and woven fabric, slightly worn and everyday rather than glossy or fashion-perfect. Lia's personality is relaxed and naturally playful. When she talks she becomes noticeably more excited and expressive: bright eyes, quick eyebrow lifts, small head tilts, spontaneous smiles and teasing expressions. Natural Indonesian speech with a light authentic Javanese-Indonesian accent, lively and conversational, never theatrical or caricatured. CAMERAMAN: The cameraman is always physically behind the camera and NEVER appears on screen, in reflections, windows, shadows, or background. His voice is recorded naturally from directly behind the camcorder. When the cameraman speaks, Lia does not lip-sync his dialogue. Lia only reacts with natural eye movement, a small smile, breathing, or subtle head movement. Only Lia's own spoken lines animate Lia's lips. VISUAL STYLE: Ultra-realistic documentary realism. Genuine candid behavior. Unscripted everyday slice-of-life feeling. Natural imperfect body language. Deep environmental authenticity of a rural Indonesian morning. The result should feel like a forgotten family home video recorded in Indonesia in the early 2000s: warm, mundane, affectionate, slightly funny, imperfect and deeply believable. Output may be high-resolution / 8K master quality, but the acquisition aesthetic must strongly emulate an early-2000s consumer DV camcorder: warm slightly faded colors, soft contrast, mild sensor noise, subtle digital compression, limited highlight latitude, natural motion blur, very mild rolling shutter, slightly imperfect white balance, no glossy modern HDR, no modern cinematic color grade, no beauty filter, no excessively shallow depth of field. HUMAN-OPERATED CAMERA: Camera movement must feel physically operated by a real friend holding a consumer camcorder. Use: subtle hand tremor, natural breathing drift, slightly imperfect horizon, small delayed reframing, occasional lens breathing, brief autofocus searching caused by subject movement, minor exposure pumping when moving between shade and bright sunlight. Every camera imperfection must have a physical reason. No gimbal stabilization. No drone. No orbit. No crane. No perfect tracking. No dramatic cinematic push-ins. No stylized speed ramp. No artificial cinematic camera choreography. SCENE 1 — TERRACE MORNING, based on gambar 2 00:00–00:02.8 Begin immediately with Lia already seated casually on the front terrace of the house from gambar 2. Use a loose eye-level medium-wide three-quarter shot, as if the cameraman is standing several steps in front of the terrace. Lia sits relaxed on the existing porch seating, shoulders loose, one foot slightly forward. Her LEFT hand naturally holds a simple glass cup of dark morning coffee. Her RIGHT hand holds one lit cigarette between index and middle finger. Keep object ownership consistent: coffee always remains in the left hand until she puts it down, cigarette remains in the right hand until she extinguishes it. A thin natural stream of cigarette smoke rises and bends with the morning air. Lia briefly takes a small sip of coffee, lowers the glass, casually looks toward the cameraman behind the lens and gives a tiny amused smile. Camera is not perfectly centered and slowly drifts a few centimeters while the operator settles his grip. Tropical morning sunlight illuminates the yard while Lia remains partially under terrace shade. Moving leaves create soft shifting dappled shadows. Exposure reacts slightly to the bright yard behind her. 00:02.8–00:04.5 CAMERAMAN speaks from behind the camera, playful and casually surprised: "widiihh lia santai amat" The cameraman remains completely off-screen. While listening, Lia keeps her lips closed except for a tiny amused smile. She glances toward the lens/operator, lightly raises her eyebrows and relaxes the cigarette hand near her knee. 00:04.5–00:09.7 LIA answers, conversational and excited with a natural light Javanese-Indonesian accent: "iya mas pagi hari itu wajib ngopi dan udud kalau ga bisa pusing loh" Accurate Indonesian lip sync ONLY for Lia. She speaks while sitting naturally rather than performing for camera. Small head movement, lively eyebrows, natural blinking, relaxed shoulders. She gestures once gently with the cigarette hand without waving it excessively. Smoke responds naturally to the movement. Toward the end of the sentence she gives a teasing half-smile. After finishing the spoken line, she takes a tiny relaxed breath; do not make her drink while her mouth is actively speaking. The camera operator makes a very small late correction to keep her face centered. Autofocus briefly breathes, then settles back on Lia. 00:09.7–00:11.5 CAMERAMAN asks from behind the camera: "habis udud mau kemana lia?" Lia remains silent while he speaks. No Lia lip-sync. She tilts her head slightly, looks amused and shifts her weight forward as if preparing to get up. 00:11.5–00:14.5 LIA answers with growing excitement and a playful inviting expression: "ayo ikut aku mancing mas mauu?" Accurate lip sync. On "mauu?" she lifts her eyebrows, smiles toward the cameraman and leans forward slightly, inviting him to follow. Keep the delivery spontaneous, like talking to a real friend, not presenting to an audience. 00:14.5–00:17.5 Dialogue pauses. Lia naturally completes the current activity before leaving. First she places the coffee glass down with her LEFT hand on the nearby terrace surface. Then she taps the cigarette once and extinguishes the cigarette completely in a small simple ashtray using her RIGHT hand. The cigarette state changes from LIT to EXTINGUISHED only after visible contact with the ashtray. After this moment there is no new cigarette smoke. She plants both sandal-covered feet firmly, shifts her weight forward, stands with believable human balance, straightens her skirt naturally and takes her first step away. Realistic cloth movement and hair secondary motion. Foley: soft glass contact, small ashtray tap, woven skirt rustle, sandal movement. CUT LOGIC: At approximately 00:17.5, make ONE simple hard cut after Lia has fully stood and started leaving. No transition effect. No dissolve. No montage. SCENE 2 — VILLAGE ROAD WALK, based on gambar 3 00:17.5–00:21.7 Hard cut directly to Lia already walking along the narrow asphalt village road from gambar 3. Camera follows approximately 2–3 meters BEHIND Lia at natural walking height. Medium-wide rear follow framing shows Lia's full walking movement and enough environment to clearly recognize the road, fields, utility poles, rooftops, tropical vegetation and distant green hill. The cameraman walks behind her, producing gentle vertical footstep bob, mild hand tremor and slightly imperfect framing. Lia walks at an unhurried natural pace. Real heel-to-toe steps. No sliding feet. Her patterned woven skirt reacts naturally to each stride. Her tied-back hair and loose strands respond subtly to the breeze. The cameraman occasionally falls a fraction behind, then naturally catches up. Do not turn this into a smooth professional tracking shot. 00:21.7–00:24.2 Without stopping completely, Lia slows slightly and turns her head and upper torso back over her shoulder toward the cameraman. The movement begins with her eyes, then head, then shoulders. Her lower body continues moving forward slowly. Because she unexpectedly turns back, the camera reacts a little late. Framing briefly drifts off-center and autofocus searches for her face for a fraction of a second before locking. LIA speaks toward the cameraman with teasing curiosity: "mas mau tau aku kemana?" Accurate natural lip sync. Excited light Javanese-Indonesian delivery. Playful half-smile. 00:24.2–00:25.4 CAMERAMAN responds from behind the camera: "kemana tuuuuh" He remains completely off-screen. Lia's mouth stops speaking while his line is heard. She keeps looking back with a mischievous expression, suppressing a laugh. Camera continues physically walking behind her with natural small shake. 00:25.4–00:29.2 LIA gives the punchline: "aku mau cari om om loh mas eee" She delivers it playfully and excitedly, building toward the final "eee". Accurate Indonesian lip sync. Immediately after finishing "eee", she bursts into a genuine spontaneous laugh. Her shoulders bounce naturally from laughter. She briefly squints, smiles widely and turns her face partly forward again while still chuckling. The laugh feels uncontrolled and candid, not like scripted acting. The cameraman reacts physically by momentarily losing perfect framing while continuing to walk. The camera dips slightly and catches up again. Do not add any new spoken words. 00:29.2–00:30.0 Lia is still walking and laughing softly. She begins turning her attention forward again while the cameraman follows. The framing drifts slightly toward one side because the operator is walking and laughing/reacting behind the camera. End imperfectly: the recording abruptly cuts to black MID-MOTION at exactly 30 seconds, without a polished ending, fade-out, pose, title or outro. ENVIRONMENTAL AUTHENTICITY: The environment must feel alive but never distract from Lia. SCENE 1 background: subtle tropical leaves moving in morning air, occasional distant motorbike passing outside the main foreground, one distant resident casually sweeping with a traditional broom when composition permits, small household plants moving, occasional water drip, overhead electrical cables, terracotta roofing, weathered concrete, real glass and ceramic surfaces, one cat may briefly react or cross far in the background only if naturally integrated. SCENE 2 background: rice and grasses moving gently in the breeze, distant village activity, occasional far motorbike, subtle birds, coconut or tropical foliage moving, utility poles remaining stable, no crowds, no staged extras. Background activity must continue independently of Lia as if the village exists beyond the scene. LIGHTING: Natural tropical morning light only. SCENE 1: bright morning yard with softer shade beneath the house terrace. Dappled foliage shadows shift subtly. Consumer camcorder exposure pumps very slightly when framing includes more bright yard or shaded Lia. SCENE 2: strong but natural morning daylight matching gambar 3. No artificial key light. No rim-light setup. No cinematic backlighting. Exposure may briefly adjust when Lia's face turns from forward light to backward-facing light. PHYSICAL MATERIAL DETAIL: Real skin texture with pores and tiny imperfections. No plastic skin. White cotton top moves subtly with breathing. Patterned woven skirt has visible fabric weight and folds. Sandals flex naturally at the feet. Concrete and tiled terrace retain worn real-world texture. Coffee is contained inside a real glass with believable reflections. Cigarette paper, ember and ash behave realistically before extinction. Terracotta roofing, asphalt, dry grass and green vegetation retain physically believable texture. AUDIO: Zero music. Zero narration. No voice-over other than the naturally recorded off-screen cameraman dialogue. No added soundtrack. Use authentic layered location sound. SCENE 1 close layer: Lia's clothing rustle, subtle breathing, glass touching the porch/table, small cigarette and ashtray contact, sandals shifting. Medium layer: broom brushing ground, occasional water drip, leaves rustling. Far layer: rooster crow, distant motorcycle, soft rural morning ambience. SCENE 2 close layer: Lia's sandal footsteps on asphalt, woven skirt swish, breathing and genuine laughter. Medium layer: grass and leaves moving in the breeze. Far layer: occasional rooster, distant motorcycle, birds and rural village ambience. Dialogue must remain clearly intelligible but retain realistic camcorder microphone perspective. The cameraman's voice should sound close to the microphone because he is holding the camera. Lia's voice becomes slightly more spatially distant during the rear-follow scene while remaining clear. MOTION QUALITY: Natural human-scale acceleration and deceleration. Stable foot contact. Correct left/right limb ownership. Real body weight and balance. Natural hip and shoulder counter-motion while walking. Believable hair and cloth secondary motion. No floating. No rubber limbs. No foot sliding. No teleporting. No sudden speed changes. CONTINUITY: Lia remains the exact same person from gambar 1 throughout both scenes. Same: face, skin, hair, hairstyle, body proportions, earrings, white top, brown patterned wrap skirt, white sandals. SCENE 1 prop continuity: coffee = left hand until placed down. cigarette = right hand until visibly extinguished. After Lia leaves the terrace: coffee remains behind at the house. cigarette remains extinguished at the house. Neither object appears in Lia's hands on the road. SCENE 2 begins only after the intentional hard cut. Do not visually morph gambar 2 into gambar 3. NEGATIVE CONSTRAINTS: No identity drift or face redesign. No hairstyle change. No wardrobe change. No changing Lia's body proportions. No beauty filter or plastic skin. No duplicate Lia. No cameraman visible anywhere. No random foreground characters interacting with Lia. No incorrect speaker lip-sync. Lia's lips stay silent during cameraman dialogue. No extra dialogue. No subtitles. No captions. No watermark. No logos. No duplicate coffee glass. No switching coffee between hands. No duplicate cigarette. No switching cigarette between hands. No cigarette magically relighting after extinction. No cigarette smoke during the road scene. No random location morphing. No unexplained teleportation. No random jump cuts. Only one intentional hard cut between the terrace and road scenes. No gimbal stabilization. No cinematic orbit. No drone shot. No glossy cinematic grading. No modern HDR look. No dramatic lens flare. No artificial slow motion. No speed ramps. No background music. No narrator. FINAL GOAL: A believable forgotten early-2000s Indonesian home video — candid, imperfect, funny, warm and unscripted. It should feel as though a real friend casually picked up a consumer DV camcorder one tropical morning, found Lia drinking coffee and smoking on her terrace, chatted with her spontaneously, then followed her down a village road while she jokingly teased the cameraman. The viewer should feel that life in the environment continues naturally whether or not the camera is recording.
+WARDROBE TIMELINE: 0–2 sec — rumpled plain pajamas, curls extra messy from sleep, no accessories. 2–6 sec — she dresses during the mirror timelapse described below. From 6 sec to the end — the exact complete outfit from @Image 1, unchanged.
+
+Create a chaotic 30-second Japanese live-action comedy video. Fast and physical, no dead time, rapid cuts and dynamic camera movement. All dialogue is Japanese only, and only she speaks — no other on-screen mouth ever syncs to any voice. Her voice is cute, high-pitched and bright.
+
+STYLE: Warm faded early-digital handheld footage with low-saturation color, soft focus, mild noise, slightly blown highlights and candid movement. No timestamp, date stamp or UI overlays. Not modern crisp digital. Speed changes exist ONLY in the two designated timelapse segments (2–6 sec and 20–23 sec); no slow motion anywhere, no speed ramps anywhere else.
+
+FLIGHT RULES: Her flight is played as physical and live-action. Every takeoff has a visible crouch, recoil and downdraft that shoves nearby objects; wind constantly drags her scarf, skirt and curls; landings carry real impact through her legs. She flies clumsily, like a new driver. No glowing aura, no energy effects, no cape, no superhero costume, no named superhero reference.
+
+SOUND: Playful upbeat Japanese gyaru dance-pop begins at the first frame and continues throughout. Sync cuts, the alarm clock, wardrobe snaps, the takeoff downdraft, whipping wind, flapping laundry, crow caws, train rumble, drone buzz, rain patter, landing impact and her footsteps to the beat. No silent sections.
+
+SETTING: A small messy Japanese bedroom with a bed, an alarm clock, a full-length mirror and clothes piled around; a slice of toast on a plate by the door. Outside: a Japanese residential street with laundry lines hung with white sheets, power lines, then a downtown district of office buildings, an elevated commuter train line, one small delivery drone, one crow, one small grey rain cloud, and a station square with ordinary Japanese pedestrians whose faces and outfits all differ. Japanese signage stays in the background.
+
+00:00–00:02 — WAKE-UP
+Extreme close-up of her eye snapping open under messy curls. She bolts upright in bed, grabs the alarm clock, stares at it and gasps. She kicks the blanket off. 00:02–00:06 — DRESSING TIMELAPSE
+Locked-off camera facing the full-length mirror. The room and the mirror frame stay pin-sharp and completely motionless — nothing in the background moves. Only she moves, in fast-forward with slight motion trails: pajamas off, top on, skirt on, scarf thrown, leg warmers yanked up, shoes buckled, necklace on, bag slung across. At 5.5 seconds the speed snaps back to normal with no ramp: she stands fully dressed in the exact @Image 1 outfit, jams the slice of toast in her mouth and strikes a quick check pose.
+
+00:06–00:08 — TAKEOFF
+On the front step she crouches deep, then launches vertically like a rocket, toast still in her mouth, mumbling through it: 「いってきま〜す！」 The downdraft knocks over a potted plant and sets the laundry flapping.
+
+00:08–00:11 — LOW-ALTITUDE OBSTACLES
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-is-the-only-reference-for-the-main-character-1c1e9dd8e18b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 日本夏日祭浴衣自拍 vlog
 
@@ -454,6 +650,27 @@ A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearin
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-vlog-8056757985cc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 莉娅清晨从露台走向乡间小路
+
+> Kenalin lia hobinya mancing Seedance 2.5 prompt: Reference mode: Use karakter sheet - location 1 - location 2 (image) #
+
+[<img src="https://media.goodcase.ai/cases/3220eff0165d.jpg" width="600" alt="莉娅清晨从露台走向乡间小路">](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Cupang1997 | **来源:** [原帖](https://x.com/Cupang1997/status/2091438364545446209) | **发布:** 2026-08-23 | **热度:** 22
+
+**稳定度：** 65/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (64.5 分) · [产物](https://media.goodcase.ai/retests/cupang1997-seedance-ai-ab735378c9e2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Reference mode:
+Use karakter sheet - location 1 - location 2 (image)
+
+# Seedance 2.5 — Lia Morning Village Home Video — 30 Seconds FORMAT: Seedance 2.5 image-reference-to-video. Duration: exactly 30 seconds. Aspect ratio: 16:9. Photorealistic animated video from still-image references, rendered as believable live-action documentary footage rather than cartoon or CGI. Two continuous documentary scenes with only one intentional hard cut at approximately 17.5 seconds. REFERENCE ROLES: * gambar 1  = strict identity and appearance reference for LIA. Preserve Lia as the exact same adult woman throughout the entire video: same facial structure, eyes, nose, lips, skin tone, freckles/skin details, body proportions, tied-back dark brown hairstyle with naturally loose strands, earrings, white fitted top, brown patterned wrap skirt/sarong, and white sandals. Do not redesign or beautify her. * gambar 2  = strict environment and architectural reference for SCENE 1 only. Preserve the modest Indonesian house facade, open tiled front terrace, roof shape, terracotta roof feeling, columns, doors, windows, front yard, trees, plants, overhead electrical cables, scale, and spatial layout. Do not copy any character identity from this image. * gambar 3  = strict environment and composition reference for SCENE 2 only. Preserve the narrow asphalt village road, rice-field surroundings, village rooftops, utility lamp poles, tropical vegetation, distant green hill, open blue morning sky, and rural Indonesian spatial feeling. Do not copy character identity from this image. GLOBAL CHARACTER LOCK: Lia must remain visually identical to gambar 1 in both locations. Same face, body proportions, hairstyle, outfit, accessories, skin texture, and footwear. Her clothes should behave like real cotton and woven fabric, slightly worn and everyday rather than glossy or fashion-perfect. Lia's personality is relaxed and naturally playful. When she talks she becomes noticeably more excited and expressive: bright eyes, quick eyebrow lifts, small head tilts, spontaneous smiles and teasing expressions. Natural Indonesian speech with a light authentic Javanese-Indonesian accent, lively and conversational, never theatrical or caricatured. CAMERAMAN: The cameraman is always physically behind the camera and NEVER appears on screen, in reflections, windows, shadows, or background. His voice is recorded naturally from directly behind the camcorder. When the cameraman speaks, Lia does not lip-sync his dialogue. Lia only reacts with natural eye movement, a small smile, breathing, or subtle head movement. Only Lia's own spoken lines animate Lia's lips. VISUAL STYLE: Ultra-realistic documentary realism. Genuine candid behavior. Unscripted everyday slice-of-life feeling. Natural imperfect body language. Deep environmental authenticity of a rural Indonesian morning. The result should feel like a forgotten family home video recorded in Indonesia in the early 2000s: warm, mundane, affectionate, slightly funny, imperfect and deeply believable. Output may be high-resolution / 8K master quality, but the acquisition aesthetic must strongly emulate an early-2000s consumer DV camcorder: warm slightly faded colors, soft contrast, mild sensor noise, subtle digital compression, limited highlight latitude, natural motion blur, very mild rolling shutter, slightly imperfect white balance, no glossy modern HDR, no modern cinematic color grade, no beauty filter, no excessively shallow depth of field. HUMAN-OPERATED CAMERA: Camera movement must feel physically operated by a real friend holding a consumer camcorder. Use: subtle hand tremor, natural breathing drift, slightly imperfect horizon, small delayed reframing, occasional lens breathing, brief autofocus searching caused by subject movement, minor exposure pumping when moving between shade and bright sunlight. Every camera imperfection must have a physical reason. No gimbal stabilization. No drone. No orbit. No crane. No perfect tracking. No dramatic cinematic push-ins. No stylized speed ramp. No artificial cinematic camera choreography. SCENE 1 — TERRACE MORNING, based on gambar 2 00:00–00:02.8 Begin immediately with Lia already seated casually on the front terrace of the house from gambar 2. Use a loose eye-level medium-wide three-quarter shot, as if the cameraman is standing several steps in front of the terrace. Lia sits relaxed on the existing porch seating, shoulders loose, one foot slightly forward. Her LEFT hand naturally holds a simple glass cup of dark morning coffee. Her RIGHT hand holds one lit cigarette between index and middle finger. Keep object ownership consistent: coffee always remains in the left hand until she puts it down, cigarette remains in the right hand until she extinguishes it. A thin natural stream of cigarette smoke rises and bends with the morning air. Lia briefly takes a small sip of coffee, lowers the glass, casually looks toward the cameraman behind the lens and gives a tiny amused smile. Camera is not perfectly centered and slowly drifts a few centimeters while the operator settles his grip. Tropical morning sunlight illuminates the yard while Lia remains partially under terrace shade. Moving leaves create soft shifting dappled shadows. Exposure reacts slightly to the bright yard behind her. 00:02.8–00:04.5 CAMERAMAN speaks from behind the camera, playful and casually surprised: "widiihh lia santai amat" The cameraman remains completely off-screen. While listening, Lia keeps her lips closed except for a tiny amused smile. She glances toward the lens/operator, lightly raises her eyebrows and relaxes the cigarette hand near her knee. 00:04.5–00:09.7 LIA answers, conversational and excited with a natural light Javanese-Indonesian accent: "iya mas pagi hari itu wajib ngopi dan udud kalau ga bisa pusing loh" Accurate Indonesian lip sync ONLY for Lia. She speaks while sitting naturally rather than performing for camera. Small head movement, lively eyebrows, natural blinking, relaxed shoulders. She gestures once gently with the cigarette hand without waving it excessively. Smoke responds naturally to the movement. Toward the end of the sentence she gives a teasing half-smile. After finishing the spoken line, she takes a tiny relaxed breath; do not make her drink while her mouth is actively speaking. The camera operator makes a very small late correction to keep her face centered. Autofocus briefly breathes, then settles back on Lia. 00:09.7–00:11.5 CAMERAMAN asks from behind the camera: "habis udud mau kemana lia?" Lia remains silent while he speaks. No Lia lip-sync. She tilts her head slightly, looks amused and shifts her weight forward as if preparing to get up. 00:11.5–00:14.5 LIA answers with growing excitement and a playful inviting expression: "ayo ikut aku mancing mas mauu?" Accurate lip sync. On "mauu?" she lifts her eyebrows, smiles toward the cameraman and leans forward slightly, inviting him to follow. Keep the delivery spontaneous, like talking to a real friend, not presenting to an audience. 00:14.5–00:17.5 Dialogue pauses. Lia naturally completes the current activity before leaving. First she places the coffee glass down with her LEFT hand on the nearby terrace surface. Then she taps the cigarette once and extinguishes the cigarette completely in a small simple ashtray using her RIGHT hand. The cigarette state changes from LIT to EXTINGUISHED only after visible contact with the ashtray. After this moment there is no new cigarette smoke. She plants both sandal-covered feet firmly, shifts her weight forward, stands with believable human balance, straightens her skirt naturally and takes her first step away. Realistic cloth movement and hair secondary motion. Foley: soft glass contact, small ashtray tap, woven skirt rustle, sandal movement. CUT LOGIC: At approximately 00:17.5, make ONE simple hard cut after Lia has fully stood and started leaving. No transition effect. No dissolve. No montage. SCENE 2 — VILLAGE ROAD WALK, based on gambar 3 00:17.5–00:21.7 Hard cut directly to Lia already walking along the narrow asphalt village road from gambar 3. Camera follows approximately 2–3 meters BEHIND Lia at natural walking height. Medium-wide rear follow framing shows Lia's full walking movement and enough environment to clearly recognize the road, fields, utility poles, rooftops, tropical vegetation and distant green hill. The cameraman walks behind her, producing gentle vertical footstep bob, mild hand tremor and slightly imperfect framing. Lia walks at an unhurried natural pace. Real heel-to-toe steps. No sliding feet. Her patterned woven skirt reacts naturally to each stride. Her tied-back hair and loose strands respond subtly to the breeze. The cameraman occasionally falls a fraction behind, then naturally catches up. Do not turn this into a smooth professional tracking shot. 00:21.7–00:24.2 Without stopping completely, Lia slows slightly and turns her head and upper torso back over her shoulder toward the cameraman. The movement begins with her eyes, then head, then shoulders. Her lower body continues moving forward slowly. Because she unexpectedly turns back, the camera reacts a little late. Framing briefly drifts off-center and autofocus searches for her face for a fraction of a second before locking. LIA speaks toward the cameraman with teasing curiosity: "mas mau tau aku kemana?" Accurate natural lip sync. Excited light Javanese-Indonesian delivery. Playful half-smile. 00:24.2–00:25.4 CAMERAMAN responds from behind the camera: "kemana tuuuuh" He remains completely off-screen. Lia's mouth stops speaking while his line is heard. She keeps looking back with a mischievous expression, suppressing a laugh. Camera continues physically walking behind her with natural small shake. 00:25.4–00:29.2 LIA gives the punchline: "aku mau cari om om loh mas eee" She delivers it playfully and excitedly, building toward the final "eee". Accurate Indonesian lip sync. Immediately after finishing "eee", she bursts into a genuine spontaneous laugh. Her shoulders bounce naturally from laughter. She briefly squints, smiles widely and turns her face partly forward again while still chuckling. The laugh feels uncontrolled and candid, not like scripted acting. The cameraman reacts physically by momentarily losing perfect framing while continuing to walk. The camera dips slightly and catches up again. Do not add any new spoken words. 00:29.2–00:30.0 Lia is still walking and laughing softly. She begins turning her attention forward again while the cameraman follows. The framing drifts slightly toward one side because the operator is walking and laughing/reacting behind the camera. End imperfectly: the recording abruptly cuts to black MID-MOTION at exactly 30 seconds, without a polished ending, fade-out, pose, title or outro. ENVIRONMENTAL AUTHENTICITY: The environment must feel alive but never distract from Lia. SCENE 1 background: subtle tropical leaves moving in morning air, occasional distant motorbike passing outside the main foreground, one distant resident casually sweeping with a traditional broom when composition permits, small household plants moving, occasional water drip, overhead electrical cables, terracotta roofing, weathered concrete, real glass and ceramic surfaces, one cat may briefly react or cross far in the background only if naturally integrated. SCENE 2 background: rice and grasses moving gently in the breeze, distant village activity, occasional far motorbike, subtle birds, coconut or tropical foliage moving, utility poles remaining stable, no crowds, no staged extras. Background activity must continue independently of Lia as if the village exists beyond the scene. LIGHTING: Natural tropical morning light only. SCENE 1: bright morning yard with softer shade beneath the house terrace. Dappled foliage shadows shift subtly. Consumer camcorder exposure pumps very slightly when framing includes more bright yard or shaded Lia. SCENE 2: strong but natural morning daylight matching gambar 3. No artificial key light. No rim-light setup. No cinematic backlighting. Exposure may briefly adjust when Lia's face turns from forward light to backward-facing light. PHYSICAL MATERIAL DETAIL: Real skin texture with pores and tiny imperfections. No plastic skin. White cotton top moves subtly with breathing. Patterned woven skirt has visible fabric weight and folds. Sandals flex naturally at the feet. Concrete and tiled terrace retain worn real-world texture. Coffee is contained inside a real glass with believable reflections. Cigarette paper, ember and ash behave realistically before extinction. Terracotta roofing, asphalt, dry grass and green vegetation retain physically believable texture. AUDIO: Zero music. Zero narration. No voice-over other than the naturally recorded off-screen cameraman dialogue. No added soundtrack. Use authentic layered location sound. SCENE 1 close layer: Lia's clothing rustle, subtle breathing, glass touching the porch/table, small cigarette and ashtray contact, sandals shifting. Medium layer: broom brushing ground, occasional water drip, leaves rustling. Far layer: rooster crow, distant motorcycle, soft rural morning ambience. SCENE 2 close layer: Lia's sandal footsteps on asphalt, woven skirt swish, breathing and genuine laughter. Medium layer: grass and leaves moving in the breeze. Far layer: occasional rooster, distant motorcycle, birds and rural village ambience. Dialogue must remain clearly intelligible but retain realistic camcorder microphone perspective. The cameraman's voice should sound close to the microphone because he is holding the camera. Lia's voice becomes slightly more spatially distant during the rear-follow scene while remaining clear. MOTION QUALITY: Natural human-scale acceleration and deceleration. Stable foot contact. Correct left/right limb ownership. Real body weight and balance. Natural hip and shoulder counter-motion while walking. Believable hair and cloth secondary motion. No floating. No rubber limbs. No foot sliding. No teleporting. No sudden speed changes. CONTINUITY: Lia remains the exact same person from gambar 1 throughout both scenes. Same: face, skin, hair, hairstyle, body proportions, earrings, white top, brown patterned wrap skirt, white sandals. SCENE 1 prop continuity: coffee = left hand until placed down. cigarette = right hand until visibly extinguished. After Lia leaves the terrace: coffee remains behind at the house. cigarette remains extinguished at the house. Neither object appears in Lia's hands on the road. SCENE 2 begins only after the intentional hard cut. Do not visually morph gambar 2 into gambar 3. NEGATIVE CONSTRAINTS: No identity drift or face redesign. No hairstyle change. No wardrobe change. No changing Lia's body proportions. No beauty filter or plastic skin. No duplicate Lia. No cameraman visible anywhere. No random foreground characters interacting with Lia. No incorrect speaker lip-sync. Lia's lips stay silent during cameraman dialogue. No extra dialogue. No subtitles. No captions. No watermark. No logos. No duplicate coffee glass. No switching coffee between hands. No duplicate cigarette. No switching cigarette between hands. No cigarette magically relighting after extinction. No cigarette smoke during the road scene. No random location morphing. No unexplained teleportation. No random jump cuts. Only one intentional hard cut between the terrace and road scenes. No gimbal stabilization. No cinematic orbit. No drone shot. No glossy cinematic grading. No modern HDR look. No dramatic lens flare. No artificial slow motion. No speed ramps. No background music. No narrator. FINAL GOAL: A believable forgotten early-2000s Indonesian home video — candid, imperfect, funny, warm and unscripted. It should feel as though a real friend casually picked up a consumer DV camcorder one tropical morning, found Lia drinking coffee and smoking on her terrace, chatted with her spontaneously, then followed her down a village road while she jokingly teased the cameraman. The viewer should feel that life in the environment continues naturally whether or not the camera is recording.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/cupang1997-seedance-ai-ab735378c9e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 生成马尔代夫骑行纪录片长镜头
 
@@ -1172,13 +1389,119 @@ Seedance 2.5 prompt 👇
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-140908f952bd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 涩谷街头K-pop舞蹈同步字幕
+
+> Seedance 2.5 生成的涩谷街头K-pop快闪翻跳视频，四名舞者依次变换菱形、横排、V字三种队形完成舞蹈段落。画面叠加与舞点精确同步的复古大字字幕，逐句随节拍淡入淡出。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 15
+
+**稳定度：** 73/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.2 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（46 行，点开展开）</b></summary>
+
+```
+30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
+Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
+TYPOGRAPHY STYLE
+Font: bold condensed display, poster-style
+Placement: upper third or side margin, never covering faces or hands
+Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
+Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
+One line active on screen at a time
+SCENE & LOCATION
+Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
+FRAME & CAMERA
+Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
+CHARACTERS — EXACTLY 4 DANCERS
+RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
+YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
+SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
+MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
+No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
+TIMELINE WITH SYNCED TYPOGRAPHY
+0–6s — OPENING DIAMOND
+RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
+Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
+6–10s — RINA HIGHLIGHT
+RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
+Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
+10–14s — DIAMOND → HORIZONTAL LINE
+Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
+Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
+14–19s — HORIZONTAL LINE CHORUS
+Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
+Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
+19–23s — RETURN TO DIAMOND + RIPPLE
+Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
+Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
+23–27s — FINAL CHORUS
+Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
+Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
+27–30s — FINAL V FORMATION + FREEZE
+RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
+Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
+VISUAL STYLE
+Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
+STRICT NEGATIVE REQUIREMENTS
+No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
+FINAL OUTPUT
+30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 咖啡机竖屏UGC广告
+
+> Seedance 2.5 生成的竖屏咖啡机UGC广告，创作者从开箱、注水磨豆到出品试饮完整走一遍产品使用流程，中间穿插台词。分镜按秒数安排特写与转场，模拟真实博主口播带货的镜头语言。
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SadiaMalik182 | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 15
+
+**稳定度：** 77/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（16 行，点开展开）</b></summary>
+
+```
+Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
+Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
+Scene 1 (0–5s)
+A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
+Scene 2 (5–10s)
+Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
+Scene 3 (10–17s)
+Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
+Scene 4 (17–23s)
+The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
+Scene 5 (23–27s)
+Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
+Scene 6 (27–30s)
+Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
+Requirements:
+Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 2.5 太阳镜UGC测评口播视频
 
 > Seedance 2.5 生成的太阳镜UGC测评口播视频，女主角在卧室开箱、试戴并对镜展示细节，全程配台词描述佩戴体验。人物与产品均锁定参考图外观，手持运镜模拟真实博主测评的拍摄质感。
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-69e79f387106.jpg" width="600" alt="Seedance 2.5 太阳镜UGC测评口播视频">](https://goodcase.ai/cases/seedance-2-5-ugc-69e79f387106?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2084608509837275231) | **发布:** 2026-08-04 | **热度:** 16
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2084608509837275231) | **发布:** 2026-08-04 | **热度:** 15
 
 <details>
 <summary><b>完整 prompt（8 行，点开展开）</b></summary>
@@ -1204,7 +1527,7 @@ Ultra-realistic UGC fashion content, authentic creator review, cinematic handhel
 
 [<img src="https://media.goodcase.ai/cases/c9c3b92466ec.jpg" width="600" alt="Seedance 2.5 抖音风机车炫酷转场竖屏短片">](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2089727243471696233) | **发布:** 2026-08-18 | **热度:** 16
+**作者:** @johnAGI168 | **来源:** [原帖](https://x.com/johnAGI168/status/2089727243471696233) | **发布:** 2026-08-18 | **热度:** 15
 
 <details>
 <summary><b>完整 prompt（166 行，点开展开）</b></summary>
@@ -1381,112 +1704,6 @@ Constraints:
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/johnagi168-seedance-ai-6289b5b000a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 涩谷街头K-pop舞蹈同步字幕
-
-> Seedance 2.5 生成的涩谷街头K-pop快闪翻跳视频，四名舞者依次变换菱形、横排、V字三种队形完成舞蹈段落。画面叠加与舞点精确同步的复古大字字幕，逐句随节拍淡入淡出。
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-k-pop-87e2d00e2fe8.jpg" width="600" alt="Seedance 2.5 涩谷街头K-pop舞蹈同步字幕">](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2086067758970851614) | **发布:** 2026-08-08 | **热度:** 15
-
-**稳定度：** 73/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.2 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-k-pop-87e2d00e2fe8/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（46 行，点开展开）</b></summary>
-
-```
-30-SECOND K-POP PUBLIC DANCE COVER — SHIBUYA, TOKYO (with synced typography)
-Generate a 30-second horizontal 4:3 realistic live-action K-pop girl group public dance cover video, using the provided first frame as the exact visual starting point, with retro bold-typography captions appearing in sync with the choreography, styled like halftone poster-text overlays (bold condensed display font, high-contrast color against the scene, subtle grain texture matching the background).
-TYPOGRAPHY STYLE
-Font: bold condensed display, poster-style
-Placement: upper third or side margin, never covering faces or hands
-Animation: quick fade/slide-in synced to the beat, holds for its duration, clean fade-out before the next line
-Color: high-contrast against Tokyo evening tones (cream/gold/white lettering with soft drop shadow)
-One line active on screen at a time
-SCENE & LOCATION
-Shibuya street, Tokyo, Japan, natural evening light, authentic public dance-cover environment — kanji/hiragana/katakana shop signs, convenience stores, cafés, boutiques, vending machines, parked bicycles, overhead wires, glass reflections, soft neon beginning to glow, blurred distant pedestrians. No recognizable logos or brand signage.
-FRAME & CAMERA
-Horizontal 4:3, fixed frontal camera, eye-level, ~5 meters distance, full-body framing, stable documentary style. Subtle push-in only during RINA's highlight, then returns to full frame. No cuts, rotation, extreme zooms, or handheld shake.
-CHARACTERS — EXACTLY 4 DANCERS
-RINA (center): long straight black hair, babypink cropped racing jacket, ivory crop top, charcoal cargo shorts, brown ankle boots
-YERI (left): light brown high ponytail, light blue cropped knit jacket, beige camisole, faded black wide-leg jeans, cream sneakers
-SOO (right): silver-grey hair, navy off-shoulder top, rose-gold waist chain, charcoal pleated skirt, black platform shoes
-MINA (back): dark reddish-brown curly hair, olive bomber jacket, grey crop tee, navy straight-leg pants, off-white platform sneakers
-No fifth dancer, no duplicates, no overlapping bodies, no identity swaps.
-TIMELINE WITH SYNCED TYPOGRAPHY
-0–6s — OPENING DIAMOND
-RINA center-front, YERI front-left, SOO front-right, MINA back-center. Hand opening, side steps, shoulder rhythms, crossed-arm accents, face-framing gestures, hip accents.
-Caption: "SAME STREET, NEW BEAT" — fades in at 1s, holds to 5s, fades out.
-6–10s — RINA HIGHLIGHT
-RINA: chest pop, head tilt, direct eye contact, finger point to camera. Others restrained, framing her. Subtle push-in then return.
-Caption: "ALL EYES, ONE GIRL"* — appears exactly as RINA points at camera (6.5s), holds through push-in, fades by 9.5s.
-10–14s — DIAMOND → HORIZONTAL LINE
-Smooth half-step transitions, MINA steps out from behind RINA into full visibility. Wrist flicks, arm sweeps, hip accents, toe taps once stabilized.
-Caption: "SHIFT THE SHAPE" — slides in as formation begins moving (10s), fades out once line stabilizes (13.5s).
-14–19s — HORIZONTAL LINE CHORUS
-Heel-toe shuffles, knee bounces, chest pops, shoulder rhythms, toe taps. SOO performs controlled body-wave highlight on the right.
-Caption: "WAVE IT OUT" — appears as SOO's body-wave begins (15s), fades before formation shifts (18.5s).
-19–23s — RETURN TO DIAMOND + RIPPLE
-Diamond reforms, MINA repositions opposite RINA, fully visible. YERI initiates ripple body wave: YERI → RINA → SOO → MINA.
-Caption: "RIPPLE THROUGH" — timed to appear exactly as the ripple starts at YERI (20s), fades as it reaches MINA (22.5s).
-23–27s — FINAL CHORUS
-Upward arm points, hip accents, shoulder rhythms, toe taps, chest pops, rising energy, natural hair/clothing movement.
-Caption: "TURN IT UP" — appears on the first upward arm point (23.5s), fades before final transition (26.5s).
-27–30s — FINAL V FORMATION + FREEZE
-RINA front-middle, YERI back-left, SOO back-right, MINA mid-back-right. Coordinated freeze pose, symmetrical arm lines, feet planted, completely still for the final second.
-Caption: "FREEZE FRAME" — slides in as the freeze locks (28s), holds steady and crisp through the final loop-ready frame (30s) — no fade-out, ends on screen.
-VISUAL STYLE
-Realistic live-action street photography — genuine skin texture, individual hair strands, realistic clothing materials, accurate body proportions, natural shadows, evening illumination, storefront reflections, documentary cinematic composition. Typography sits as a poster-style overlay layer, not baked into the environment — legible, clean, and non-intrusive to the dancers.
-STRICT NEGATIVE REQUIREMENTS
-No anime, cartoon, 3D/CGI look, stage lights, studio set, extra dancers, duplicated people, overlapping bodies, distorted anatomy/hands/feet, teleportation, sudden formation changes, rapid camera movement, camera rotation, extreme zoom, watermarks, subtitles unrelated to the timed captions, or recognizable copyrighted logos/signage. Captions must stay legible and never obscure faces or hands.
-FINAL OUTPUT
-30 seconds, horizontal 4:3, realistic live-action K-pop public dance cover, Shibuya street, Tokyo, exactly 4 consistent dancers, full-body frontal camera, three formations, synchronized choreography with six timed typography captions matching each beat, stable camera, natural evening lighting, c
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-k-pop-87e2d00e2fe8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 咖啡机竖屏UGC广告
-
-> Seedance 2.5 生成的竖屏咖啡机UGC广告，创作者从开箱、注水磨豆到出品试饮完整走一遍产品使用流程，中间穿插台词。分镜按秒数安排特写与转场，模拟真实博主口播带货的镜头语言。
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-ugc-7de9338ecfc9.jpg" width="600" alt="Seedance 2.5 咖啡机竖屏UGC广告">](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SadiaMalik182 | **来源:** [原帖](https://x.com/SadiaMalik182/status/2085947010293883115) | **发布:** 2026-08-08 | **热度:** 15
-
-**稳定度：** 77/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.3 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-ugc-7de9338ecfc9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（16 行，点开展开）</b></summary>
-
-```
-Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
-Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
-Scene 1 (0–5s)
-A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
-Scene 2 (5–10s)
-Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
-Scene 3 (10–17s)
-Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
-Scene 4 (17–23s)
-The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
-Scene 5 (23–27s)
-Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
-Scene 6 (27–30s)
-Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
-Requirements:
-Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ugc-7de9338ecfc9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 夜街橡胶脸搞怪变形
 

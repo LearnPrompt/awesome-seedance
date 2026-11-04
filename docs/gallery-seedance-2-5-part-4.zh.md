@@ -1,10 +1,169 @@
 # Seedance 2.5 — 全量案例（第 4/8 页）
 
-Seedance 2.5 全部 666 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 672 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 257–352 条，共 666 条。
+本页：第 258–352 条，共 672 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
+
+### 银发双刀女剑士突袭日式城堡
+
+> Five elite samurai surrounded her. The whole castle is coming next. ⚔️🍃 Created with Seedance 2.5 on @TapNow_AI Prompt: KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE…
+
+[<img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="600" alt="银发双刀女剑士突袭日式城堡">](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105958420088328486) | **发布:** 2026-10-02 | **热度:** 65
+
+<details>
+<summary><b>完整 prompt（141 行，点开展开）</b></summary>
+
+```
+KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
+Duration: 30 seconds | Aspect Ratio: 16:9 | No music
+
+ONE-TAKE LOCK:
+This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
+ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
+ZERO scene resets. The camera never leaves the action and every location
+change happens physically inside the shot: the camera passes through torn
+doors, over railings and up the roof with Kazemiru. Time runs in real time.
+
+STYLE:
+Ultra-photorealistic live-action Japanese dark-action cinema with restrained
+subtle VFX. Impossible anime-inspired dual-sword choreography performed by
+real human bodies. Large-format cinema look, natural daylight, muted earthy
+color palette, soft realistic shadows, no oversaturated colors.
+
+@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
+ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
+earrings in every frame.
+@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
+
+POSITIVE LOCKS (true for all 30 seconds):
+- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
+  hand, both always visible and independently controlled.
+- Her face always matches @Image1.
+- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
+- Her body physically crosses every distance, with no teleportation.
+- It is always daytime with bright natural light.
+
+PERSONALITY:
+Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
+eyes. Her hunger shows through relentless speed and escalating ferocity,
+never through grinning or shouting.
+
+JADE-WIND EFFECT:
+Every fast movement leaves a thin, soft jade-green wind trace that follows
+her exact physical path and fades almost instantly: sword arcs leave fine
+blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
+bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
+No aura, no smoke, no glowing body, no effects moving on their own.
+
+CAMERA (one continuous handheld-style pursuit):
+Constant dutch angle of 25–35°. Wide field of view around 75° in the
+interior and courtyard, tightening to about 50° for the rooftop duel.
+Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
+overshoot, correct, reacquire at the moment of contact. The camera flows
+through rear over-the-shoulder, low-angle pursuit, side tracking,
+ground-level chase and front three-quarter retreat, always in one connected
+movement. Never static, never perfectly smooth.
+
+══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
+Setting: bright daylight through large shoji panels, gold folding screens,
+tall dark timber pillars, tatami sections, raised platform, armor displays,
+low lacquer tables, silk curtains.
+
+0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
+on both hilts. BURST: a thin jade streak snaps across the hall and the silk
+curtains whip. The camera loses her, whip-pans, and finds her inside
+Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
+a reverse cut. He drops.
+
+0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
+a pillar and pushes off, dust bursting from the wood. Mid-air her left
+sword deflects Guard 2 and her right sword cuts down. She lands on the edge
+of a lacquer table, which slides back, and rebounds straight toward Guard 3.
+
+0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
+separate jade trails. She lands low and bursts across the floor. Guard 4's
+spear thrusts: she runs two steps up a wall, flips off, and cuts him down
+through a folding screen. Guard 5 charges: she catches his blade with one
+sword, vaults the railing above him, and finishes with a cross-slash as she
+lands behind him.
+
+══ 0:10–0:20: THE PALACE COURTYARD ══
+Transition inside the same shot: she does not pose. Both swords still in
+hand, she drives straight through the paper doors in one burst. The torn
+paper flutters past the lens as the camera follows her through the doorway
+onto the wooden veranda and out into a stone courtyard with lanterns, a koi
+pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
+below and archers on the roofs.
+
+0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
+double slash and a third grazes her sleeve. She sprints along the veranda,
+pivoting off each post, a jade ripple following her feet.
+
+0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
+bridge railing. Three swordsmen charge. She runs along the rail, slashes the
+first, flips over the second, and lands in the koi pond with a huge splash.
+In the water she parries two blades and cuts both guards. Droplets scatter
+across the lens.
+
+0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
+steps. The camera tilts up with her. She launches onto the roof among the
+archers: left sword disarms, right sword strikes, roof tiles scatter. Two
+archers fall.
+
+══ 0:20–0:30: THE ROOFTOP DUEL ══
+Transition inside the same shot: she keeps climbing over the roof ridge and
+the camera rises with her, tightening to a 50° field of view. The tiled
+castle rooftop opens up with wind in her ponytail and the town far below.
+Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
+
+0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
+down the sloping tiles, and crosses both swords to stop the blade. Sharp
+metal sound as his strength pushes her back a step. Her expression stays
+cold.
+
+0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
+his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
+off the shaft, and flips over him. Mid-air she cuts both swords across his
+back armor. Tiles crack under their feet and a faint jade wake curves around
+her path. He staggers, strikes back, and she narrowly dodges as the blade
+cuts a roof beam.
+
+0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
+brighter but still thin. She slides under the naginata, and as she rises
+both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
+one knee, defeated but alive. Kazemiru stands, both swords still in hand,
+and the last jade filaments disappear. She turns her cold eyes toward the
+courtyard far below, where dozens more guards pour in. The camera slowly
+pulls back and up to a wide shot of the whole castle. She lowers her body for
+the next burst. THE FIGHT CONTINUES.
+
+AUDIO:
+Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
+and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
+wind over the rooftops. No dialogue, no music.
+
+HUMAN-FIRST LOCK:
+Kazemiru is always a real human: natural skin pores, real eyes, individual
+hair strands, believable anatomy and cloth physics. Only her choreography is
+anime-level impossible.
+
+NEGATIVE:
+cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
+shots, single-sword fighting, missing or duplicate sword, duplicate
+Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
+oversaturated colors, detached VFX, random flips, decorative acrobatics,
+idle pose, static camera, perfectly smooth tracking, slow combat, floating,
+broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
+logos, watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Sci-Fi Mystery Message from 2100
 
@@ -221,83 +380,6 @@ Output a complete, polished J-pop/K-pop idol MV that feels expensive, magnetic, 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-seedance-2-5-model-j-pop-idol-mv-skill-105b52156ccd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 白衣女子与同步黑衣人群
-
-> Taking X by " STORM " Made this viral video using Seedance 2.5 Prompt : Use the uploaded image as the exact visual reference for the characters, wardrobe, compo…
-
-[<img src="https://media.goodcase.ai/cases/fe0787f4a98e.jpg" width="600" alt="白衣女子与同步黑衣人群">](https://goodcase.ai/cases/seedance-use-the-uploaded-image-as-the-exact-visual-reference-for-the-characters-wardro-9c0e5931cab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2099340937684258828) | **发布:** 2026-09-14 | **热度:** 65
-
-<details>
-<summary><b>完整 prompt（59 行，点开展开）</b></summary>
-
-```
-Use the uploaded image as the exact visual reference for the characters, wardrobe, composition, lighting, and overall cinematic look. Create a photorealistic live-action video, 
-
-A young woman wearing a long, fully closed ivory-white tailored coat, black sunglasses, and black pointed heels walks slowly and confidently straight toward the large crowd. Her posture is elegant and controlled, her arms relaxed naturally at her sides, and her expression remains serious and calm.
-
-Start with a medium-wide frontal shot. The woman walks directly toward the camera and toward the center of the crowd. The camera smoothly tracks backward at the same pace, keeping her perfectly centered. The crowd remains completely still, watching forward.
-
-She reaches the front-center position of the crowd and comes to a complete stop. Her feet settle naturally, arms remain at her sides, shoulders relaxed. She looks directly into the camera through her black sunglasses.
-
-The woman remains 100% completely still.
-
-Then, precisely behind her, the entire crowd suddenly begins moving in perfect synchronized rhythm.
-
-Their movement should be sharp and unsettling:
-
-heads jerk quickly to one side
-
-shoulders snap upward
-
-upper bodies briefly lean forward
-
-they suddenly snap upright again
-
-repeat the movement together like a perfectly synchronized group
-
-The movement happens across the entire crowd, from the closest people to the deepest background rows.
-
-The woman does absolutely nothing.
-No head movement.
-No body movement.
-No hand movement.
-No walking.
-No reaction.
-
-She simply stands motionless while everyone behind her moves aggressively in synchronization.
-
-The camera slowly pushes closer toward the woman while the crowd continues its synchronized movements behind her. Keep her face and white coat sharply focused while the moving crowd has subtle cinematic depth-of-field blur.
-
-End with a powerful centered close/medium shot. The woman is completely motionless in the foreground while the crowd performs one final synchronized head-and-shoulder snap behind her.
-
-Hold on her still expression for the final moment.
-
-Visual Direction
-
-Dark, cold, high-end cinematic fashion aesthetic. Raw concrete environment, deep shadows, soft overhead lighting, realistic skin and fabric, natural hair physics, realistic human movement.
-
-The central visual contrast is extremely important:
-ONE perfectly still woman in white + a large crowd in black moving violently in perfect synchronization behind her.
-
-No duplicate lead.
-No additional white outfits.
-No men.
-No cartoon or animation.
-No CGI appearance.
-No exaggerated camera shake.
-No text.
-No subtitles.
-No logos.
-No sudden scene changes.
-No extra characters appearing or disappearing.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-image-as-the-exact-visual-reference-for-the-characters-wardro-9c0e5931cab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 白衣忍者斩破烟雾天龙
 
@@ -603,6 +685,42 @@ Goal: Cute, spontaneous and intimate, like a tiny everyday moment accidentally c
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/iamahmedfaraz66-seedance-ai-ce12dc209ee3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 萌娃搭积木，妈妈偷吃零食心虚张望
+
+> Made with seedance 2.5 Prompt 👇 Create a high-quality, adorable 3D animated family comedy scene in a warm, modern home. Two cute toddler girls with oversized e…
+
+[<img src="https://media.goodcase.ai/cases/ba8180d7380c.jpg" width="600" alt="萌娃搭积木，妈妈偷吃零食心虚张望">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5adc028b3ba2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2117442957347606909) | **发布:** 2026-11-03 | **热度:** 64
+
+<details>
+<summary><b>完整 prompt（18 行，点开展开）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a high-quality, adorable 3D animated family comedy scene in a warm, modern home.
+
+Two cute toddler girls with oversized expressive eyes, chubby cheeks, soft skin, and beautifully detailed hairstyles are sitting on a cozy living-room rug, playing with a wooden stacking block tower. One toddler wears a purple outfit with a pink hair clip, while the other wears a cream-colored outfit with a knitted cardigan.
+
+In the background, their young mother, wearing a cozy cream-colored outfit, secretly sneaks into the kitchen pantry and grabs a packet of crunchy snacks. She carefully opens the packet, trying not to make any noise because she doesn't want the toddlers to notice.
+
+Show cinematic close-up shots of her hands opening the shiny red snack packet, followed by an extreme close-up of her secretly eating a crunchy snack. Her cheeks puff up adorably as she chews, and her eyes look around nervously.
+
+Suddenly, she realizes someone might be watching her. Show a hilarious close-up of her wide-open eyes, surprised facial expression, and puffed cheeks.
+
+Use expressive facial animation, adorable character movements, realistic snack packaging details, smooth cinematic camera transitions, warm golden indoor lighting, soft shadows, detailed textures, and polished Pixar-inspired 3D animation.
+
+Style: Cinematic 3D animated family comedy, adorable characters, humorous storytelling, ultra-detailed rendering, expressive facial emotions, professional animation.
+
+Format: Vertical 9:16, 4K quality, smooth 24 FPS animation.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5adc028b3ba2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 黑衣女巫在朝鲜王朝夜市击退持刀围攻
 
@@ -1053,6 +1171,83 @@ Using the reference image as the exact final frame, create a 10-second stop-moti
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-using-the-reference-image-as-the-exact-final-frame-create-a-10-second-stop-mot-eb31041e1c1d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 白衣女子与同步黑衣人群
+
+> Taking X by " STORM " Made this viral video using Seedance 2.5 Prompt : Use the uploaded image as the exact visual reference for the characters, wardrobe, compo…
+
+[<img src="https://media.goodcase.ai/cases/fe0787f4a98e.jpg" width="600" alt="白衣女子与同步黑衣人群">](https://goodcase.ai/cases/seedance-use-the-uploaded-image-as-the-exact-visual-reference-for-the-characters-wardro-9c0e5931cab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2099340937684258828) | **发布:** 2026-09-14 | **热度:** 64
+
+<details>
+<summary><b>完整 prompt（59 行，点开展开）</b></summary>
+
+```
+Use the uploaded image as the exact visual reference for the characters, wardrobe, composition, lighting, and overall cinematic look. Create a photorealistic live-action video, 
+
+A young woman wearing a long, fully closed ivory-white tailored coat, black sunglasses, and black pointed heels walks slowly and confidently straight toward the large crowd. Her posture is elegant and controlled, her arms relaxed naturally at her sides, and her expression remains serious and calm.
+
+Start with a medium-wide frontal shot. The woman walks directly toward the camera and toward the center of the crowd. The camera smoothly tracks backward at the same pace, keeping her perfectly centered. The crowd remains completely still, watching forward.
+
+She reaches the front-center position of the crowd and comes to a complete stop. Her feet settle naturally, arms remain at her sides, shoulders relaxed. She looks directly into the camera through her black sunglasses.
+
+The woman remains 100% completely still.
+
+Then, precisely behind her, the entire crowd suddenly begins moving in perfect synchronized rhythm.
+
+Their movement should be sharp and unsettling:
+
+heads jerk quickly to one side
+
+shoulders snap upward
+
+upper bodies briefly lean forward
+
+they suddenly snap upright again
+
+repeat the movement together like a perfectly synchronized group
+
+The movement happens across the entire crowd, from the closest people to the deepest background rows.
+
+The woman does absolutely nothing.
+No head movement.
+No body movement.
+No hand movement.
+No walking.
+No reaction.
+
+She simply stands motionless while everyone behind her moves aggressively in synchronization.
+
+The camera slowly pushes closer toward the woman while the crowd continues its synchronized movements behind her. Keep her face and white coat sharply focused while the moving crowd has subtle cinematic depth-of-field blur.
+
+End with a powerful centered close/medium shot. The woman is completely motionless in the foreground while the crowd performs one final synchronized head-and-shoulder snap behind her.
+
+Hold on her still expression for the final moment.
+
+Visual Direction
+
+Dark, cold, high-end cinematic fashion aesthetic. Raw concrete environment, deep shadows, soft overhead lighting, realistic skin and fabric, natural hair physics, realistic human movement.
+
+The central visual contrast is extremely important:
+ONE perfectly still woman in white + a large crowd in black moving violently in perfect synchronization behind her.
+
+No duplicate lead.
+No additional white outfits.
+No men.
+No cartoon or animation.
+No CGI appearance.
+No exaggerated camera shake.
+No text.
+No subtitles.
+No logos.
+No sudden scene changes.
+No extra characters appearing or disappearing.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-image-as-the-exact-visual-reference-for-the-characters-wardro-9c0e5931cab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 复古粉色卧室晨间变装
 
@@ -2489,57 +2684,6 @@ Maintain the same girl, clothing, hairstyle, monster truck and robot designs thr
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-30-second-photorealistic-sci-fi-short-film-set-in-a-futurist-92e51942d184?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 智能手机旅行 Vlog：日本武道馆体验
-
-> 一段轻松的智能手机 Vlog，记录了一位韩国女性在传统的日本乡村道场学习武术的过程。
-
-[<img src="https://media.goodcase.ai/cases/c1c5e14de6d8.jpg" width="600" alt="智能手机旅行 Vlog：日本武道馆体验">](https://goodcase.ai/cases/vlog-867cf0ce0743?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SimplyAnnisa | **来源:** [原帖](https://x.com/SimplyAnnisa/status/2093978574692679983) | **发布:** 2026-08-30 | **热度:** 59
-
-**稳定度：** 80/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.8 分) · [产物](https://media.goodcase.ai/retests/vlog-867cf0ce0743/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（29 行，点开展开）</b></summary>
-
-```
-Create a 20-second ultra-realistic casual smartphone travel vlog featuring the same Korean woman in her early 20s throughout. She has a petite oval face, brown eyes, natural coral lips, fair realistic skin and long straight black hair. Maintain identical facial identity, hairstyle, body proportions and appearance with no morphing or identity drift.
-
-TRAVEL OUTFIT: Cream oversized knit sweater, dark blue straight-leg jeans, white low-top sneakers and small crossbody bag. Hair in a loose low ponytail with natural strands.
-
-TRAINING OUTFIT: Off-white cotton keikogi-style jacket, matching white training pants and plain dark navy beginner belt. No logos, text or patterns. Keep this outfit identical throughout training.
-
-STYLE: Genuine handheld smartphone footage, imperfect framing, subtle camera shake, autofocus shifts, natural exposure, slight motion blur, realistic skin, blinking and body movement. No cinematic shots, drones, gimbals, beauty filters or commercial look.
-
-LOCATION: Quiet Japanese countryside neighborhood and a small authentic wooden dojo with traditional architecture, wooden floors and natural daylight. No famous landmarks.
-
-0:00–0:04: She walks toward the dojo while filming herself, excited and curious. She says naturally in Korean:
-“오늘은 일본 무술을 직접 배워볼게요!”
-She briefly shows the dojo entrance, then returns to selfie mode.
-
-0:04–0:07: Inside the dojo, she is now wearing the training uniform. She adjusts her sleeves. A friendly instructor bows respectfully; she bows back slightly awkwardly and smiles.
-
-0:07–0:11: Instructor demonstrates a simple beginner stance and controlled hand movement. She copies it awkwardly, places one foot incorrectly, then tries again after the instructor calmly corrects her posture.
-
-0:11–0:15: She attempts a slow beginner stance transition with controlled defensive arm movement, briefly loses balance, regains footing and laughs naturally. Instructor smiles encouragingly. Keep movements safe and beginner-friendly.
-
-0:15–0:18: Natural jump cut. Same woman and identical outfit/appearance. She repeats the sequence with noticeably better balance but still looks like a beginner. She smiles proudly.
-
-0:18–0:20: Outside the dojo in soft late-afternoon light, she films herself, slightly out of breath and smiling. She says:
-“생각보다 어렵지만 정말 재미있어요!”
-She gives a small wave and lowers the phone.
-
-AUDIO: Natural Korean female voice with accurate lip-sync. Footsteps, fabric movement, dojo ambience, distant neighborhood sounds and light wind. No music or dramatic effects.
-
-FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and beginner-level martial arts. No fighting, exaggerated movements, action choreography, famous landmarks, logos, brands, subtitles, text, watermarks or visual effects.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-867cf0ce0743?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 复古DV视角下的晚间健身训练
 
 > No soft reps, no safe limits how much burn can you really handle? 🔥 Crafted with Seedance 2.5 Prompt:- CAMERA: DV 16mm tape camcorder handheld feel. POV of CHA…
@@ -2756,52 +2900,6 @@ Ultra-realistic human movement, authentic fight choreography, detailed facial ex
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 红眼少女极速营救人质
-
-> 💫Cute look, deadly speed. Next-gen cinematic combat sequence! ⚡️ Created with Seedance 2.5 on @runwayml Prompt: Cinematic, photorealistic, 4k resolution, super…
-
-[<img src="https://media.goodcase.ai/cases/1d5facbe8c0a.jpg" width="600" alt="红眼少女极速营救人质">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-4k-resolution-superhero-action-scene-glowing-red-e-d960726b74ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2101911598889857028) | **发布:** 2026-09-21 | **热度:** 59
-
-<details>
-<summary><b>完整 prompt（28 行，点开展开）</b></summary>
-
-```
-Cinematic, photorealistic, 4k resolution, superhero action scene, glowing red eyes VFX, pink glowing energy trails, super-speed motion blur, slow-motion impact shots, highly detailed urban daylight street setting.
-
-[SCENE-BY-SCENE BREAKDOWN]
-
-SCENE 1 (0:00 - 0:01) - The Hostage Situation:
-Daytime outside a modern corporate building. Three masked criminals in tactical gear hold a woman in a beige coat hostage, aiming a handgun directly at her head. Cops and a police car with drawn weapons are visible in the background.
-
-SCENE 2 (0:01 - 0:02) - The Hero's Awakening:
-Close-up shot of a young blonde girl wearing a casual white off-the-shoulder sweater, black pleated mini-skirt, and backpack. Deadpan expression as her eyes suddenly illuminate with intense, glowing red light VFX.
-
-SCENE 3 (0:03 - 0:07) - Super-Speed Strike:
-The blonde girl dashes forward with supernatural speed, leaving bright pink glowing energy trails and sparks behind her feet. She punches a criminal in a blur, sending his gun flying high into the air in slow motion while the hostage looks shocked.
-
-SCENE 4 (0:08 - 0:24) - Martial Arts Combat:
-Fast-paced martial arts choreography mixed with slow-motion impacts. The girl performs a high flying roundhouse kick into a criminal's chest, creating a shockwave of glowing pink lightning VFX and floating magical petals. She fluidly takes down the remaining criminals with rapid super-speed kicks.
-
-SCENE 5 (0:25 - 0:27) - The Rescue:
-The girl kneels on the sidewalk beside the unconscious hostage as pink energy arcs around her arm. She then effortlessly carries the woman in her arms in a bridal style toward a police car and hands her to stunned police officers.
-
-SCENE 6 (0:28 - 0:31) - The Super-Speed Exit:
-Wide street shot. Cops inspect unconscious criminals lying on the pavement. The girl instantly zips out of the frame using super-speed, leaving behind a fading trail of pink lightning and a gust of wind.
-
-[NEGATIVE PROMPT]
-Cartoon, 3d render, animation, anime, painting, illustration, low quality, low resolution, blurry, distorted faces, mutated hands, bad anatomy, missing limbs, extra limbs, poorly drawn weapons, text, watermarks, logo.
-
-​#VisualStorytelling #AIVideo #VFX
-#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AI @Flovaai @Flovaai_Japan 
-@PixVerse @itsPolloAI
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-4k-resolution-superhero-action-scene-glowing-red-e-d960726b74ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 少女携信穿越镜像威尼斯
 
 > Running through a world where reality has no limits A surreal cinematic journey through Venice. Made With Seedance 2.5 Prompt: A cinematic dynamic action video …
@@ -2938,6 +3036,57 @@ STRICT CONSISTENCY: No cartoon or anime style, artificial CGI look, morphing, ex
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-breathtaking-24-second-live-action-fantasy-short-featuring-a-tiny-gold-8bc28535dc6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 智能手机旅行 Vlog：日本武道馆体验
+
+> 一段轻松的智能手机 Vlog，记录了一位韩国女性在传统的日本乡村道场学习武术的过程。
+
+[<img src="https://media.goodcase.ai/cases/c1c5e14de6d8.jpg" width="600" alt="智能手机旅行 Vlog：日本武道馆体验">](https://goodcase.ai/cases/vlog-867cf0ce0743?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SimplyAnnisa | **来源:** [原帖](https://x.com/SimplyAnnisa/status/2093978574692679983) | **发布:** 2026-08-30 | **热度:** 58
+
+**稳定度：** 80/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.8 分) · [产物](https://media.goodcase.ai/retests/vlog-867cf0ce0743/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（29 行，点开展开）</b></summary>
+
+```
+Create a 20-second ultra-realistic casual smartphone travel vlog featuring the same Korean woman in her early 20s throughout. She has a petite oval face, brown eyes, natural coral lips, fair realistic skin and long straight black hair. Maintain identical facial identity, hairstyle, body proportions and appearance with no morphing or identity drift.
+
+TRAVEL OUTFIT: Cream oversized knit sweater, dark blue straight-leg jeans, white low-top sneakers and small crossbody bag. Hair in a loose low ponytail with natural strands.
+
+TRAINING OUTFIT: Off-white cotton keikogi-style jacket, matching white training pants and plain dark navy beginner belt. No logos, text or patterns. Keep this outfit identical throughout training.
+
+STYLE: Genuine handheld smartphone footage, imperfect framing, subtle camera shake, autofocus shifts, natural exposure, slight motion blur, realistic skin, blinking and body movement. No cinematic shots, drones, gimbals, beauty filters or commercial look.
+
+LOCATION: Quiet Japanese countryside neighborhood and a small authentic wooden dojo with traditional architecture, wooden floors and natural daylight. No famous landmarks.
+
+0:00–0:04: She walks toward the dojo while filming herself, excited and curious. She says naturally in Korean:
+“오늘은 일본 무술을 직접 배워볼게요!”
+She briefly shows the dojo entrance, then returns to selfie mode.
+
+0:04–0:07: Inside the dojo, she is now wearing the training uniform. She adjusts her sleeves. A friendly instructor bows respectfully; she bows back slightly awkwardly and smiles.
+
+0:07–0:11: Instructor demonstrates a simple beginner stance and controlled hand movement. She copies it awkwardly, places one foot incorrectly, then tries again after the instructor calmly corrects her posture.
+
+0:11–0:15: She attempts a slow beginner stance transition with controlled defensive arm movement, briefly loses balance, regains footing and laughs naturally. Instructor smiles encouragingly. Keep movements safe and beginner-friendly.
+
+0:15–0:18: Natural jump cut. Same woman and identical outfit/appearance. She repeats the sequence with noticeably better balance but still looks like a beginner. She smiles proudly.
+
+0:18–0:20: Outside the dojo in soft late-afternoon light, she films herself, slightly out of breath and smiling. She says:
+“생각보다 어렵지만 정말 재미있어요!”
+She gives a small wave and lowers the phone.
+
+AUDIO: Natural Korean female voice with accurate lip-sync. Footsteps, fabric movement, dojo ambience, distant neighborhood sounds and light wind. No music or dramatic effects.
+
+FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and beginner-level martial arts. No fighting, exaggerated movements, action choreography, famous landmarks, logos, brands, subtitles, text, watermarks or visual effects.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-867cf0ce0743?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 年轻女游客的伦敦城市之旅
 
 > Exploring London, one moment at a time A journey filled with beautiful memories. Made with seedance 2.5 on @Flovaai Prompt: Character consistency: Same young ad…
@@ -3034,6 +3183,52 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 红眼少女极速营救人质
+
+> 💫Cute look, deadly speed. Next-gen cinematic combat sequence! ⚡️ Created with Seedance 2.5 on @runwayml Prompt: Cinematic, photorealistic, 4k resolution, super…
+
+[<img src="https://media.goodcase.ai/cases/1d5facbe8c0a.jpg" width="600" alt="红眼少女极速营救人质">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-4k-resolution-superhero-action-scene-glowing-red-e-d960726b74ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2101911598889857028) | **发布:** 2026-09-21 | **热度:** 58
+
+<details>
+<summary><b>完整 prompt（28 行，点开展开）</b></summary>
+
+```
+Cinematic, photorealistic, 4k resolution, superhero action scene, glowing red eyes VFX, pink glowing energy trails, super-speed motion blur, slow-motion impact shots, highly detailed urban daylight street setting.
+
+[SCENE-BY-SCENE BREAKDOWN]
+
+SCENE 1 (0:00 - 0:01) - The Hostage Situation:
+Daytime outside a modern corporate building. Three masked criminals in tactical gear hold a woman in a beige coat hostage, aiming a handgun directly at her head. Cops and a police car with drawn weapons are visible in the background.
+
+SCENE 2 (0:01 - 0:02) - The Hero's Awakening:
+Close-up shot of a young blonde girl wearing a casual white off-the-shoulder sweater, black pleated mini-skirt, and backpack. Deadpan expression as her eyes suddenly illuminate with intense, glowing red light VFX.
+
+SCENE 3 (0:03 - 0:07) - Super-Speed Strike:
+The blonde girl dashes forward with supernatural speed, leaving bright pink glowing energy trails and sparks behind her feet. She punches a criminal in a blur, sending his gun flying high into the air in slow motion while the hostage looks shocked.
+
+SCENE 4 (0:08 - 0:24) - Martial Arts Combat:
+Fast-paced martial arts choreography mixed with slow-motion impacts. The girl performs a high flying roundhouse kick into a criminal's chest, creating a shockwave of glowing pink lightning VFX and floating magical petals. She fluidly takes down the remaining criminals with rapid super-speed kicks.
+
+SCENE 5 (0:25 - 0:27) - The Rescue:
+The girl kneels on the sidewalk beside the unconscious hostage as pink energy arcs around her arm. She then effortlessly carries the woman in her arms in a bridal style toward a police car and hands her to stunned police officers.
+
+SCENE 6 (0:28 - 0:31) - The Super-Speed Exit:
+Wide street shot. Cops inspect unconscious criminals lying on the pavement. The girl instantly zips out of the frame using super-speed, leaving behind a fading trail of pink lightning and a gust of wind.
+
+[NEGATIVE PROMPT]
+Cartoon, 3d render, animation, anime, painting, illustration, low quality, low resolution, blurry, distorted faces, mutated hands, bad anatomy, missing limbs, extra limbs, poorly drawn weapons, text, watermarks, logo.
+
+​#VisualStorytelling #AIVideo #VFX
+#AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #AI @Flovaai @Flovaai_Japan 
+@PixVerse @itsPolloAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-4k-resolution-superhero-action-scene-glowing-red-e-d960726b74ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 彩铅武士大闹书桌后归位
 
@@ -3721,130 +3916,6 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 赖床少年穿错鞋的上学早晨
-
-> Created with Seedance 2.5 on @budgetpixel “Just five more minutes…” sounds harmless until you wake up late, rush through
-
-[<img src="https://media.goodcase.ai/media/poster/seharshinwari-seedance-ai-fef37a593d87.jpg" width="600" alt="赖床少年穿错鞋的上学早晨">](https://goodcase.ai/cases/seharshinwari-seedance-ai-fef37a593d87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SeharShinwari | **来源:** [原帖](https://x.com/SeharShinwari/status/2091810238836220283) | **发布:** 2026-08-24 | **热度:** 58
-
-**稳定度：** 74/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.5 分) · [产物](https://media.goodcase.ai/retests/seharshinwari-seedance-ai-fef37a593d87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（102 行，点开展开）</b></summary>
-
-```
-Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.”
-
-FORMAT & STYLE:
-Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic film look, natural early-morning lighting, realistic skin, hair, fabric and physics, subtle handheld camera movement, smooth tracking shots, shallow depth of field, natural color grading and professional filmmaking. The scene should feel like a genuine family moment filmed in a real home, with natural acting and believable expressions.
-
-CHARACTER CONSISTENCY:
-MOTHER — South Asian woman around 40, medium complexion, dark hair tied in a simple low bun, wearing a comfortable light-grey long-sleeve home outfit. Warm but slightly frustrated personality.
-
-SON — South Asian teenage boy, 16–17 years old, medium complexion, messy dark-brown hair, wearing a navy-blue T-shirt and grey sweatpants. Sleepy, slightly lazy teenage personality.
-
-Keep both characters exactly consistent throughout the entire video: same faces, age, hairstyle, clothing, body proportions and skin tone.
-
-LOCATION:
-A realistic, comfortable family home in the morning. The son's bedroom contains a single bed with a grey-and-white striped blanket, wooden bedside table, digital alarm clock, school backpack, books and everyday personal items. The hallway, stairs and kitchen must clearly belong to the same house. Warm sunlight enters through the bedroom window.
-
-0–4 SEC — FIRST WAKE-UP:
-Wide cinematic shot of the bedroom. The alarm clock reads 7:00 AM. The son is deeply asleep under the blanket. The mother quietly opens the door, enters and looks at him.
-
-She says naturally:
-“Wake up, it's time for school.”
-
-The son barely reacts.
-
-4–7 SEC — FIVE MORE MINUTES:
-Close-up of the sleepy son. He slowly opens one eye, pulls the blanket closer and quietly mumbles:
-“Five more minutes…”
-
-He immediately turns away and falls asleep again.
-
-The mother looks at him with a tired, slightly frustrated expression.
-
-7–10 SEC — AGAIN:
-The mother returns and gently shakes his shoulder.
-
-“Come on, get up now.”
-
-The son pulls the blanket over his head.
-
-“Five more minutes…”
-
-The mother pauses, takes a breath and looks toward the ceiling in disbelief. Keep the humor subtle and realistic.
-
-10–17 SEC — MORNING CHAOS:
-Create a quick, coherent montage showing the mother's attempts to get him ready:
-• She opens the curtains.
-• She prepares breakfast in the kitchen.
-• She calls him from the hallway.
-• She picks up his school backpack.
-• She searches around the bedroom for a missing shoe.
-• She returns to find him still lying in bed.
-
-The son remains sleepy but gradually wakes up. Keep the same house, wardrobe and props throughout.
-
-17–21 SEC — TOO LATE:
-The son suddenly notices the time and realizes he is late.
-
-His expression changes instantly.
-
-He jumps out of bed, quickly gets dressed, grabs his backpack and rushes downstairs. The mother follows behind him, amused and frustrated.
-
-21–24 SEC — FINALLY READY:
-At the front door, the son stands ready to leave with his backpack.
-
-The mother looks relieved.
-
-Finally.
-
-He opens the door.
-
-She suddenly notices something and stops him.
-
-24–27 SEC — THE REVEAL:
-Close-up of the son's feet.
-
-He is wearing two completely different sneakers:
-one black sneaker and one grey sneaker.
-
-He slowly looks down at them.
-
-His expression changes from confidence to complete disbelief.
-
-27–30 SEC — FUNNY ENDING:
-Two-shot of mother and son.
-
-They look at each other for one silent second.
-
-Both suddenly start laughing.
-
-The son shakes his head and runs back upstairs to change his shoes while the mother remains at the door laughing.
-
-End naturally on the mother's amused expression.
-
-CINEMATOGRAPHY:
-Use realistic 35mm and 50mm cinematic lens aesthetics, natural rack focus, smooth camera pushes, subtle handheld movement, realistic motion blur and shallow depth of field. Use wider shots to establish the home and close-ups for the comedy beats. Avoid excessive camera movement.
-
-AUDIO:
-Natural morning ambience, birds outside, distant traffic, footsteps, fabric movement, alarm clock and household sounds. Use natural-sounding dialogue with realistic pauses. Add very subtle playful background music during the montage and ending.
-
-STRICT CONSISTENCY & QUALITY:
-Keep the same two characters, bedroom, hallway, kitchen, backpack, alarm clock and clothing throughout. The two mismatched shoes must remain visually consistent in the final reveal. No changing faces, hairstyles, ages or outfits. No duplicate characters, extra fingers, extra limbs, distorted hands, warped faces, floating objects, sudden environment changes, unrealistic physics, random props, logos or watermarks. No supernatural effects or exaggerated VFX.
-
-The final result should look like a professionally filmed, relatable family comedy with natural performances, clear storytelling and a satisfying visual punchline.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seharshinwari-seedance-ai-fef37a593d87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 微缩女子的家电卖场跑酷冒险
 
 > A tiny world of creativity brought to life inside an electronics showroom using just one prompt on @darkwoodslabs 🔥 The AI agent manages everything from crafti…
@@ -4381,6 +4452,130 @@ No teleportation, instant acceleration, floating objects, distorted anatomy, cha
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/nawalsehar-seedance-ai-669ce18aacb5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 赖床少年穿错鞋的上学早晨
+
+> Created with Seedance 2.5 on @budgetpixel “Just five more minutes…” sounds harmless until you wake up late, rush through
+
+[<img src="https://media.goodcase.ai/media/poster/seharshinwari-seedance-ai-fef37a593d87.jpg" width="600" alt="赖床少年穿错鞋的上学早晨">](https://goodcase.ai/cases/seharshinwari-seedance-ai-fef37a593d87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SeharShinwari | **来源:** [原帖](https://x.com/SeharShinwari/status/2091810238836220283) | **发布:** 2026-08-24 | **热度:** 57
+
+**稳定度：** 74/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (73.5 分) · [产物](https://media.goodcase.ai/retests/seharshinwari-seedance-ai-fef37a593d87/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（102 行，点开展开）</b></summary>
+
+```
+Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.”
+
+FORMAT & STYLE:
+Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic film look, natural early-morning lighting, realistic skin, hair, fabric and physics, subtle handheld camera movement, smooth tracking shots, shallow depth of field, natural color grading and professional filmmaking. The scene should feel like a genuine family moment filmed in a real home, with natural acting and believable expressions.
+
+CHARACTER CONSISTENCY:
+MOTHER — South Asian woman around 40, medium complexion, dark hair tied in a simple low bun, wearing a comfortable light-grey long-sleeve home outfit. Warm but slightly frustrated personality.
+
+SON — South Asian teenage boy, 16–17 years old, medium complexion, messy dark-brown hair, wearing a navy-blue T-shirt and grey sweatpants. Sleepy, slightly lazy teenage personality.
+
+Keep both characters exactly consistent throughout the entire video: same faces, age, hairstyle, clothing, body proportions and skin tone.
+
+LOCATION:
+A realistic, comfortable family home in the morning. The son's bedroom contains a single bed with a grey-and-white striped blanket, wooden bedside table, digital alarm clock, school backpack, books and everyday personal items. The hallway, stairs and kitchen must clearly belong to the same house. Warm sunlight enters through the bedroom window.
+
+0–4 SEC — FIRST WAKE-UP:
+Wide cinematic shot of the bedroom. The alarm clock reads 7:00 AM. The son is deeply asleep under the blanket. The mother quietly opens the door, enters and looks at him.
+
+She says naturally:
+“Wake up, it's time for school.”
+
+The son barely reacts.
+
+4–7 SEC — FIVE MORE MINUTES:
+Close-up of the sleepy son. He slowly opens one eye, pulls the blanket closer and quietly mumbles:
+“Five more minutes…”
+
+He immediately turns away and falls asleep again.
+
+The mother looks at him with a tired, slightly frustrated expression.
+
+7–10 SEC — AGAIN:
+The mother returns and gently shakes his shoulder.
+
+“Come on, get up now.”
+
+The son pulls the blanket over his head.
+
+“Five more minutes…”
+
+The mother pauses, takes a breath and looks toward the ceiling in disbelief. Keep the humor subtle and realistic.
+
+10–17 SEC — MORNING CHAOS:
+Create a quick, coherent montage showing the mother's attempts to get him ready:
+• She opens the curtains.
+• She prepares breakfast in the kitchen.
+• She calls him from the hallway.
+• She picks up his school backpack.
+• She searches around the bedroom for a missing shoe.
+• She returns to find him still lying in bed.
+
+The son remains sleepy but gradually wakes up. Keep the same house, wardrobe and props throughout.
+
+17–21 SEC — TOO LATE:
+The son suddenly notices the time and realizes he is late.
+
+His expression changes instantly.
+
+He jumps out of bed, quickly gets dressed, grabs his backpack and rushes downstairs. The mother follows behind him, amused and frustrated.
+
+21–24 SEC — FINALLY READY:
+At the front door, the son stands ready to leave with his backpack.
+
+The mother looks relieved.
+
+Finally.
+
+He opens the door.
+
+She suddenly notices something and stops him.
+
+24–27 SEC — THE REVEAL:
+Close-up of the son's feet.
+
+He is wearing two completely different sneakers:
+one black sneaker and one grey sneaker.
+
+He slowly looks down at them.
+
+His expression changes from confidence to complete disbelief.
+
+27–30 SEC — FUNNY ENDING:
+Two-shot of mother and son.
+
+They look at each other for one silent second.
+
+Both suddenly start laughing.
+
+The son shakes his head and runs back upstairs to change his shoes while the mother remains at the door laughing.
+
+End naturally on the mother's amused expression.
+
+CINEMATOGRAPHY:
+Use realistic 35mm and 50mm cinematic lens aesthetics, natural rack focus, smooth camera pushes, subtle handheld movement, realistic motion blur and shallow depth of field. Use wider shots to establish the home and close-ups for the comedy beats. Avoid excessive camera movement.
+
+AUDIO:
+Natural morning ambience, birds outside, distant traffic, footsteps, fabric movement, alarm clock and household sounds. Use natural-sounding dialogue with realistic pauses. Add very subtle playful background music during the montage and ending.
+
+STRICT CONSISTENCY & QUALITY:
+Keep the same two characters, bedroom, hallway, kitchen, backpack, alarm clock and clothing throughout. The two mismatched shoes must remain visually consistent in the final reveal. No changing faces, hairstyles, ages or outfits. No duplicate characters, extra fingers, extra limbs, distorted hands, warped faces, floating objects, sudden environment changes, unrealistic physics, random props, logos or watermarks. No supernatural effects or exaggerated VFX.
+
+The final result should look like a professionally filmed, relatable family comedy with natural performances, clear storytelling and a satisfying visual punchline.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seharshinwari-seedance-ai-fef37a593d87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 单板滑雪地形公园流畅滑行短片
 
 > Some runs are all about the flow. Seedance 2.5 keeps every carve, jump, and landing feeling naturally smooth with seamle
@@ -4516,58 +4711,6 @@ Important: Maintain the same character identity, clothing, hairstyle, backpack, 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-c3ee1b92a0e5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 小女孩的紫色闪亮美甲与遥控器难题
-
-> Made with seedance 2.5 Prompt 👇 AI Video Prompt — Little Girl’s Glitter Nail Polish Adventure Create a high-quality, ultra-detailed 3D animated cartoon video, …
-
-[<img src="https://media.goodcase.ai/cases/1da7a92e92c7.jpg" width="600" alt="小女孩的紫色闪亮美甲与遥控器难题">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-82cc9d1a834e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2109231900430569762) | **发布:** 2026-10-11 | **热度:** 56
-
-<details>
-<summary><b>完整 prompt（34 行，点开展开）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-AI Video Prompt — Little Girl’s Glitter Nail Polish Adventure
-
-Create a high-quality, ultra-detailed 3D animated cartoon video, approximately 26 seconds long, in vertical 9:16 format. Use a cute, cinematic Pixar-inspired animation style with realistic textures, soft lighting, expressive facial animation, and smooth camera movements.
-
-Main Character: A ridiculously adorable toddler girl with a round face, huge sparkling blue eyes, rosy cheeks, a tiny nose, blonde hair styled in two small buns with pink bows, and a playful personality. She wears a cozy white sweater featuring a teddy bear and pink pajama pants decorated with little black hearts.
-
-Scene 1 (0–4 seconds): Applying Nail Polish
-Begin with an extreme close-up of the little girl sitting at a small table in a warm, pink-themed living room. She carefully examines her tiny fingers, which have long, glossy white artificial-looking nails. She concentrates intensely, furrowing her eyebrows and slightly sticking out her tongue while trying to paint her nails. Her facial expressions are adorable and funny.
-
-Scene 2 (4–7 seconds): Purple Glitter Polish
-Show a detailed close-up of her tiny hand holding a nail polish brush. She carefully applies sparkling purple glitter nail polish to her long nails. A small open bottle of purple glitter polish sits on the table. Capture the glossy liquid, sparkling particles, delicate brush movements, and her focused expression. Use shallow depth of field and cinematic macro photography.
-
-Scene 3 (7–12 seconds): Proud Little Girl
-Cut to a medium shot revealing her finished purple glitter nails. She raises both hands in front of her face, spreads her fingers, and admires her beautiful nails with a huge, delighted smile. She wiggles her fingers excitedly and looks from one hand to the other. The room features soft pink curtains, a comfortable pink sofa, warm lamps, and cute decorative objects.
-
-Scene 4 (12–17 seconds): The Remote Control Problem
-The little girl walks toward the table while admiring her extra-long purple glitter nails. She notices a television remote control lying on the tabletop. She reaches toward it, attempting to press its colorful buttons with her long nails. Her movements become awkward and clumsy. Show an extreme close-up of her shiny nails hovering over the buttons as she struggles to operate the remote. One tiny piece of purple glitter nail polish accidentally falls onto the table, creating a funny surprise.
-
-Scene 5 (17–21 seconds): Funny Reaction
-Show her staring at her nails and the remote control with wide-open eyes and a shocked, confused expression. She opens her mouth in surprise, lifts both hands, and carefully examines her fingertips. After a brief pause, her expression changes from shock to excitement as she realizes how shiny her nails look.
-
-Scene 6 (21–26 seconds): Happy Ending
-Cut to a warm medium shot of the toddler sitting comfortably on a pink sofa, watching a colorful cartoon on the television. She happily raises her hands and admires her sparkling purple nails while smiling with pure childlike joy. The television casts a soft pink and blue glow across her face. Finish with a charming final shot of her smiling and showing off her glittery nails.
-
-Visual Style: Premium 3D animated family-friendly comedy, adorable toddler proportions, oversized expressive blue eyes, realistic skin shading, finely detailed blonde hair, glossy purple glitter nail polish, pastel pink interiors, cinematic depth of field, soft golden sunlight, smooth character animation, natural hand movements, detailed close-ups, consistent character design, and polished professional rendering.
-
-Camera Direction: Alternate between extreme close-ups, macro nail-polish shots, facial close-ups, and medium-wide living-room shots. Use gentle camera push-ins, smooth cuts, and expressive reaction shots. Maintain clear visual continuity between every scene.
-
-Audio: Soft, playful background music with subtle nail-polish brush sounds, gentle tapping on the remote buttons, and cute comedic sound effects during the surprised reaction. No dialogue or subtitles.
-
-Important Requirements: Maintain the same toddler's face, hairstyle, clothing, proportions, and environment throughout the entire video. Preserve the purple glitter nails after they are painted. Keep the animation smooth, visually coherent, adorable, and humorous. Vertical 9:16 composition, high detail, clean rendering, no flickering, no distorted fingers, no extra limbs, no unwanted text, and no watermarks.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-82cc9d1a834e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女大学生在意外降雪的清晨踏雪上学
 
@@ -4820,77 +4963,6 @@ Live-action anime-style hybrid fox girl Kitsune Gumiho warrior with long blonde 
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/laviniavelle-seedance-ai-760bfc70f748?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 第一视角重温2000年孩子的一天
-
-> Pov : You are in 2000s Generated with Seedance 2.5 on @higgsfield Try it with prompt : STYLE RULE: First-person POV throughout, shot like a 2000 home camcorder …
-
-[<img src="https://media.goodcase.ai/cases/63271b813f41.jpg" width="600" alt="第一视角重温2000年孩子的一天">](https://goodcase.ai/cases/seedance-2-5-style-rule-first-person-pov-throughout-shot-like-a-2000-home-camcorder-minid-7ad53794bcff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Diplomeme | **来源:** [原帖](https://x.com/Diplomeme/status/2112745556644946344) | **发布:** 2026-10-21 | **热度:** 55
-
-<details>
-<summary><b>完整 prompt（17 行，点开展开）</b></summary>
-
-```
-STYLE RULE: First-person POV throughout, shot like a 2000 home camcorder (MiniDV): soft focus, slight color bleed, warm grain, 4:3 feel, orange timestamp "OCT 21 2000" in the corner. Our hands are always visible: a kid's hands, baggy hoodie sleeves, a cheap digital watch. Same hands and clothes in every shot. No celebrities, no logos, no brand names.
-
-[0-5s] SHOT 1, MORNING AT HOME: POV waking up in a small bedroom with posters on the wall and a CRT TV in the corner. Hand slaps a wind-up alarm clock. Walk down the hallway past a wall-mounted landline phone with a curly cord. Sit at the kitchen table with a bowl of cereal while cartoons play on a small TV. Dad reads a newspaper, Mom calls "Hurry up, the bus is coming!" Camera: handheld, slightly shaky, warm morning window light.
-
-[5-10s] SHOT 2, WALK AND SCHOOL BUS: POV grabbing a heavy backpack and running out the door. A friend waves from across the street and joins the walk. Board a yellow school bus, sit by the window, friends trade stickers and a folded note. Outside: quiet suburban street, soft sun flare. Camera: handheld, glancing between friend and window.
-
-[10-15s] SHOT 3, CLASSROOM: POV at a wooden desk with gel pens and a pencil case. Teacher writes on a green chalkboard, an overhead projector hums. Secretly pass a note folded into a triangle to a friend, who passes one back. Beige computer in the corner of the room. Camera: slow pan across the class, then close on the note.
-
-[15-20s] SHOT 4, LUNCH AND PLAYGROUND: POV in the loud cafeteria with a tray, pizza and chocolate milk, friends laughing. Cut to the playground: trade cards and stickers on the ground, chase friends, hopscotch and tag. Camera: wide, turning left and right, bright overcast daylight.
-
-[20-25s] SHOT 5, AFTER SCHOOL: POV riding a bike down the street with friends, scooters and rollerblades beside us, golden hour light. Stop at a corner shop, buy candy with coins. Later at a friend's house: sit on carpet in front of a CRT TV playing a 90s console game, controllers in hand, snacks everywhere, friends shouting and bumping shoulders. Camera: handheld, intimate, tilting to the screen.
-
-[25-30s] SHOT 6, EVENING: POV at the family dinner table, parents and siblings passing plates. Sit on the couch, family sitcom on the one living-room TV. Then at the shared family computer: dial-up screeches, a chat window pops up with a friend. Mom calls "Time for bed!" Fade to a dark room lit only by the monitor glow. Camera: slow push-in to the screen.
-
-CAMERA RULE: Handheld first-person only, no third-person angles, shallow depth, warm lens flare, subtle VHS tracking glitch at each cut.
-
-SOUND RULE: Layered ambient audio: alarm bell, cartoon TV, bus chatter, chalkboard scratch, cafeteria roar, bike wheels, console sounds, dial-up modem screech. Soft nostalgic instrumental music in the background. Only short kid voices and parents calling, no narration.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-style-rule-first-person-pov-throughout-shot-like-a-2000-home-camcorder-minid-7ad53794bcff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 宝宝打疫苗，爸爸吓哭惹她笑
-
-> Made with seedance 2.5 Prompt 👇 Create a high-quality, ultra-detailed 3D animated comedy video set inside a bright, modern pediatric clinic. A cute, chubby bab…
-
-[<img src="https://media.goodcase.ai/cases/a970eede1568.jpg" width="600" alt="宝宝打疫苗，爸爸吓哭惹她笑">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-0bfa12dd80b5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2111280639295275309) | **发布:** 2026-10-17 | **热度:** 55
-
-<details>
-<summary><b>完整 prompt（18 行，点开展开）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a high-quality, ultra-detailed 3D animated comedy video set inside a bright, modern pediatric clinic. A cute, chubby baby wearing a light green floral romper sits on her father's lap. The father is a heavyset man with messy brown hair, an orange T-shirt, and blue jeans. A blonde female nurse wearing a white uniform, surgical mask, and gloves prepares to give the baby a vaccination.
-
-As the nurse approaches with the syringe, the father becomes increasingly terrified, his eyes widening and his hair standing straight up in exaggerated cartoon fashion. The baby initially looks confused and nervous. When the nurse gives the injection, the father screams dramatically with his mouth wide open, tears streaming down his cheeks, while the baby watches him in surprise.
-
-The nurse calmly continues the procedure, showing a funny contrast between her professional attitude and the father's over-the-top reaction. Finally, the father realizes the injection is over, relaxes, and smiles with relief. The baby bursts into laughter at her father's ridiculous reaction.
-
-Visual Style: Premium 3D animated movie quality, Pixar-inspired character design, expressive facial animations, realistic skin shading, detailed clothing textures, cinematic lighting, soft shadows, vibrant colors, vertical 9:16 composition.
-
-Camera: Medium shot transitioning into close-ups of the father's terrified expressions, the baby's reactions, and the nurse's calm movements. Smooth camera motion and consistent character designs throughout.
-
-Duration: 10 seconds.
-
-Audio: Funny cartoon sound effects, exaggerated scream, subtle clinic ambience, and joyful baby laughter. No dialogue or subtitles.
-
-Important: Maintain consistent character appearances, natural body movements, accurate hand anatomy, and smooth facial expressions. Make the scene humorous, family-friendly, and visually engaging.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-0bfa12dd80b5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)

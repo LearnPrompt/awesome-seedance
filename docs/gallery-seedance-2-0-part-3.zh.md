@@ -2,7 +2,7 @@
 
 Seedance 2.0 全部 304 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 199–284 条，共 304 条。
+本页：第 199–283 条，共 304 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
 
@@ -209,51 +209,6 @@ Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bic
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 动画海盗动作序列
-
-> 一个风格化的 2D 动画提示词，用于表现暴风雨中大帆船上的高强度海盗战斗序列，包含多个角色视角和快节奏动作。
-
-[<img src="https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg" width="600" alt="动画海盗动作序列">](https://goodcase.ai/cases/case-30f9477f562c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsshara_ai | **来源:** [原帖](https://x.com/itsshara_ai/status/2079565454436426187) | **发布:** 2026-07-21 | **热度:** 23
-
-<details>
-<summary><b>完整 prompt（27 行，点开展开）</b></summary>
-
-```
-Premium stylized 2D animated pirate action sequence, bold black ink-outline comic-animation style, flat cel-shaded coloring with dramatic high-contrast lighting, matching a high-end animated game-cinematic look. 15 seconds, fast-cut action-trailer pacing across 12 rapid scenes. Reference: THE CREW (@img1) — CAPTAIN, THE QUARTERMASTER, THE OLD NAVIGATOR — matching each character's exact face, outfit, and design throughout. Location: their own weathered galleon deck, at stormy dusk under bright overcast grey-white daylight (NOT pitch-black night — the storm clouds and rain are dramatic but the scene stays clearly lit throughout), in a torrential storm, under boarding attack from a rival pirate ship.
-
-(0:00–0:01.2) A rival pirate ship looms alongside through fog and rain, a cannon flash bursting bright against the pale overcast storm sky. Wide static low-angle shot.
-
-(0:01.2–0:02.2) THE OLD NAVIGATOR wrenches the ship's wheel hard, rain streaming down his weathered face, the deck tilting as a cannonball splashes close off the bow. Close handheld shot with subtle shake.
-
-(0:02.2–0:03.2) Grappling hooks fly through the rain-streaked air and bite into the deck railing with sharp metallic impacts. Fast tracking shot following a hook mid-flight.
-
-(0:03.2–0:04.2) Rival boarders swing across on ropes between the ships, clearly lit against the bright grey storm sky with a lightning flash adding a brief highlight. Wide low-angle composition, figures fully visible rather than in silhouette.
-
-(0:04.2–0:05.4) THE QUARTERMASTER draws his knife in one fluid, practiced motion, his scarred face clearly lit by the bright overcast daylight, feathers in his bandana whipping in the wind. Fast whip-pan into a tight close-up.
-
-(0:05.4–0:06.6) A sharp, fast knife-fight exchange between the Quartermaster and a boarding pirate — blades flash, coat fabric tears, rain sprays off with the impact of each parry. Tight handheld mid-shot with quick internal cuts.
-
-(0:06.6–0:07.6) THE CAPTAIN strides forward through the surrounding chaos, drawing his cutlass with calm, deliberate confidence, utterly unshaken by the fighting around him. Slow-motion push-in, a deliberate contrast to the frantic energy around him.
-
-(0:07.6–0:08.8) The rival ship's captain steps forward to meet him. The surrounding fight blurs into soft-focus background as a clean, symmetric one-on-one composition forms between the two captains. Wide symmetric two-shot.
-
-(0:08.8–0:10.2) Their blades clash — sparks burst off crossed steel, lit starkly by a cannon-fire flash from the background. Close dynamic shot with a slight dutch-angle tilt, fast cutting energy.
-
-(0:10.2–0:11.4) THE OLD NAVIGATOR, still gripping the wheel, ducks a swinging boom overhead and steadies the ship through a crashing wave, entirely unshaken. Side tracking shot.
-
-(0:11.4–0:13) THE CAPTAIN lands a decisive final strike, disarming the rival captain — his blade spins away and clatters to the deck. Slow-motion close-up on the disarming moment, rain frozen mid-splash.
-
-(0:13–0:15) THE CREW stands victorious as the rival boarders retreat, the Captain plants his cutlass point-down into the deck, all three crew members — Captain, Quartermaster, and Navigator — framed together in a triumphant hero composition, lightning flashing dramatically behind them. Wide pull-back crane shot, rising to reveal the full scene.
-
-Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consistent ink-outline linework and flat shadow blocking across every scene, rapid trailer-style cutting with a deliberately varied camera move per scene, storm-and-cannon-fire lighting as a recurring dramatic beat, all three crew members clearly distinguishable and in-character throughout. 16:9 or 9:16 (pick one), no on-screen text, no watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-30f9477f562c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 高端口红美妆广告
 
@@ -486,6 +441,51 @@ Negative Prompt: No text overlays, no subtitles, no watermarks, no distorted han
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-cbb9868317f8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 动画海盗动作序列
+
+> 一个风格化的 2D 动画提示词，用于表现暴风雨中大帆船上的高强度海盗战斗序列，包含多个角色视角和快节奏动作。
+
+[<img src="https://media.goodcase.ai/media/poster/case-30f9477f562c.jpg" width="600" alt="动画海盗动作序列">](https://goodcase.ai/cases/case-30f9477f562c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsshara_ai | **来源:** [原帖](https://x.com/itsshara_ai/status/2079565454436426187) | **发布:** 2026-07-21 | **热度:** 22
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+Premium stylized 2D animated pirate action sequence, bold black ink-outline comic-animation style, flat cel-shaded coloring with dramatic high-contrast lighting, matching a high-end animated game-cinematic look. 15 seconds, fast-cut action-trailer pacing across 12 rapid scenes. Reference: THE CREW (@img1) — CAPTAIN, THE QUARTERMASTER, THE OLD NAVIGATOR — matching each character's exact face, outfit, and design throughout. Location: their own weathered galleon deck, at stormy dusk under bright overcast grey-white daylight (NOT pitch-black night — the storm clouds and rain are dramatic but the scene stays clearly lit throughout), in a torrential storm, under boarding attack from a rival pirate ship.
+
+(0:00–0:01.2) A rival pirate ship looms alongside through fog and rain, a cannon flash bursting bright against the pale overcast storm sky. Wide static low-angle shot.
+
+(0:01.2–0:02.2) THE OLD NAVIGATOR wrenches the ship's wheel hard, rain streaming down his weathered face, the deck tilting as a cannonball splashes close off the bow. Close handheld shot with subtle shake.
+
+(0:02.2–0:03.2) Grappling hooks fly through the rain-streaked air and bite into the deck railing with sharp metallic impacts. Fast tracking shot following a hook mid-flight.
+
+(0:03.2–0:04.2) Rival boarders swing across on ropes between the ships, clearly lit against the bright grey storm sky with a lightning flash adding a brief highlight. Wide low-angle composition, figures fully visible rather than in silhouette.
+
+(0:04.2–0:05.4) THE QUARTERMASTER draws his knife in one fluid, practiced motion, his scarred face clearly lit by the bright overcast daylight, feathers in his bandana whipping in the wind. Fast whip-pan into a tight close-up.
+
+(0:05.4–0:06.6) A sharp, fast knife-fight exchange between the Quartermaster and a boarding pirate — blades flash, coat fabric tears, rain sprays off with the impact of each parry. Tight handheld mid-shot with quick internal cuts.
+
+(0:06.6–0:07.6) THE CAPTAIN strides forward through the surrounding chaos, drawing his cutlass with calm, deliberate confidence, utterly unshaken by the fighting around him. Slow-motion push-in, a deliberate contrast to the frantic energy around him.
+
+(0:07.6–0:08.8) The rival ship's captain steps forward to meet him. The surrounding fight blurs into soft-focus background as a clean, symmetric one-on-one composition forms between the two captains. Wide symmetric two-shot.
+
+(0:08.8–0:10.2) Their blades clash — sparks burst off crossed steel, lit starkly by a cannon-fire flash from the background. Close dynamic shot with a slight dutch-angle tilt, fast cutting energy.
+
+(0:10.2–0:11.4) THE OLD NAVIGATOR, still gripping the wheel, ducks a swinging boom overhead and steadies the ship through a crashing wave, entirely unshaken. Side tracking shot.
+
+(0:11.4–0:13) THE CAPTAIN lands a decisive final strike, disarming the rival captain — his blade spins away and clatters to the deck. Slow-motion close-up on the disarming moment, rain frozen mid-splash.
+
+(0:13–0:15) THE CREW stands victorious as the rival boarders retreat, the Captain plants his cutlass point-down into the deck, all three crew members — Captain, Quartermaster, and Navigator — framed together in a triumphant hero composition, lightning flashing dramatically behind them. Wide pull-back crane shot, rising to reveal the full scene.
+
+Overall: premium stylized 2D/cel-shaded animated quality throughout, bold consistent ink-outline linework and flat shadow blocking across every scene, rapid trailer-style cutting with a deliberately varied camera move per scene, storm-and-cannon-fire lighting as a recurring dramatic beat, all three crew members clearly distinguishable and in-character throughout. 16:9 or 9:16 (pick one), no on-screen text, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-30f9477f562c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### iPhone-shot Street Dance Music Video
 
 > A comprehensive 15-second prompt for a continuous, handheld-style iPhone video featuring a street dancer walking and performing in a Japanese city.
@@ -709,47 +709,6 @@ Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinem
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 3D 烘焙动画序列
-
-> 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
-
-[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D 烘焙动画序列">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @HaniaAi12 | **来源:** [原帖](https://x.com/HaniaAi12/status/2076979039747920309) | **发布:** 2026-07-14 | **热度:** 20
-
-<details>
-<summary><b>完整 prompt（23 行，点开展开）</b></summary>
-
-```
-Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
-
-0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
-
-1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
-
-2.50–3.75s: She gently whisks the cupcake batter while smiling.
-
-3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
-
-5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
-
-6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
-
-7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
-
-8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
-
-Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
-
-Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
-
-Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 雨夜车窗上的指尖
 
 > Rainy windows, blurred city lights, and quiet moments that somehow say everything without a single word. Created with se
@@ -888,6 +847,47 @@ DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera 
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 3D 烘焙动画序列
+
+> 这是一个为 Seedance 2.0 设计的综合提示词，旨在将视觉故事板转化为一段 10 秒的 3D 动画，展示女孩烘焙纸杯蛋糕的特定时间轴动作。
+
+[<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D 烘焙动画序列">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @HaniaAi12 | **来源:** [原帖](https://x.com/HaniaAi12/status/2076979039747920309) | **发布:** 2026-07-14 | **热度:** 19
+
+<details>
+<summary><b>完整 prompt（23 行，点开展开）</b></summary>
+
+```
+Use the uploaded storyboard image as a visual reference only. Create a single 10-second cinematic 3D animation by recreating every storyboard panel in sequence. Do NOT animate the storyboard page itself. Rebuild every scene as a real animated environment while keeping the exact same girl, outfit, hairstyle, facial features, kitchen, colors, lighting, props, and overall style from the storyboard.
+
+0.00–1.25s: The girl happily waves at the camera and points toward the cupcake ingredients on the table.
+
+1.25–2.50s: She pours flour into a clear glass bowl. Soft flour particles float naturally.
+
+2.50–3.75s: She gently whisks the cupcake batter while smiling.
+
+3.75–5.00s: Extreme close-up of creamy batter being poured into colorful cupcake liners.
+
+5.00–6.25s: She sprinkles rainbow sprinkles over the cupcake batter.
+
+6.25–7.50s: Top-down shot of the cupcake tray as she carefully places it into the oven.
+
+7.50–8.75s: Inside the oven, the cupcakes rise into fluffy golden cupcakes with warm glowing light.
+
+8.75–10.00s: She removes the cupcakes, proudly presents them to the camera, smiles brightly, and gives a cute thumbs-up.
+
+Style: Pixar-quality 3D animation, ultra-cute, cozy bakery kitchen, warm golden lighting, soft pastel colors, cinematic depth of field, smooth camera movements, realistic hand movements, natural facial expressions, seamless transitions, high detail, 4K look.
+
+Camera: Follow the storyboard camera angles exactly (wide shot, medium shot, close-up, extreme close-up, top-down, close-up, wide shot).
+
+Important: Treat the uploaded storyboard only as a reference. Never animate the storyboard page itself. Recreate every scene from scratch in full 3D animation. Do not show storyboard borders or text.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 高端热带饮品 UGC 广告
 
@@ -1149,24 +1149,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-f1f4b662e370?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 黏土动画猫咪世界大变身
-
-> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2078535850745626926) | **发布:** 2026-07-18 | **热度:** 18
-
-**稳定度：** 87/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Luxury Rooftop Helicopter Party
 
 > A multi-shot cinematic video prompt for Seedance 2.0 featuring fashion models at a high-end rooftop terrace party with a helicopter background and sophisticated camera movements.
@@ -1307,6 +1289,24 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 黏土动画猫咪世界大变身
+
+> 一个充满奇思妙想的动画提示词：一只顽皮的黏土猫咪每走一步，都能将灰色的世界变成充满活力的天堂，呈现出皮克斯级别的光影效果和手工质感。
+
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="黏土动画猫咪世界大变身">](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorwithwifi | **来源:** [原帖](https://x.com/noorwithwifi/status/2078535850745626926) | **发布:** 2026-07-18 | **热度:** 17
+
+**稳定度：** 87/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.7 分) · [产物](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 高端生活方式口红商业广告视频
 
@@ -1732,51 +1732,6 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 写实男性网红故事板
-
-> 一套全面的多场景视频提示词，旨在确保角色在不同地点和服装下的连贯性，并包含快速剪辑和手持摄像机运动效果。
-
-[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="写实男性网红故事板">](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Shorelyn_ | **来源:** [原帖](https://x.com/Shorelyn_/status/2079066277650600170) | **发布:** 2026-07-20 | **热度:** 13
-
-<details>
-<summary><b>完整 prompt（27 行，点开展开）</b></summary>
-
-```
-Character Consistency: The subject is the young male influencer from the reference image @Image 1. In every time period and from every angle, the face shape, facial features, and skin tone must match @Image 1 exactly. Do not alter or distort the face.
-
-Outfit: In every scene, wear stylish and luxurious black casual, streetwear, or suit outfits. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
-
-Format: 9:16 vertical.
-
-Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
-
-Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
-
----
-
-M-01. Hongdae Busking Street & Tattoo Shop Tour
-
-0 to 2 seconds: [Hongdae Walking Street] A low angle shot holding a selfie stick high above while quickly spinning to capture both yourself and the crowd in the middle of a busy busking street.
-
-2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quick transition to your face looking at the camera while lightly biting your lip with a slightly nervous expression.
-
-4 to 6 seconds: [Tattoo Workstation] A forearm shot rolling up the sleeve of an oversized black T shirt, rapidly cross edited with a shot of your face smiling while enduring the pain.
-
-6 to 8 seconds: [In Front of the Shop Mirror] A tight shot checking the linework of the newly completed tattoo in the mirror, followed by your face making eye contact with the camera through the mirror and nodding with satisfaction.
-
-8 to 10 seconds: [Hongdae Alley] A close up taking one bite of a street waffle, then blowing on it because it is hot while smiling at the camera.
-
-10 to 12 seconds: [Select Shop Hallway] A handheld tracking shot from behind as you walk slowly with a shopping bag over one shoulder. The screen naturally shakes in sync with your footsteps.
-
-12 to 15 seconds: [Hongdae Station Entrance] In front of the station exit, playfully extend your fiste toward the camera in a fist bump pose. End with a front facing full body shot frozen on the final frame.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 手绘定格动画：暴风雪场景
 
 > 这是一个为 Seedance 2.0 设计的精细定格动画提示词，旨在呈现一种手绘 2D 风格，描绘暴风雪中狼群袭击哈萨克族毡房营地的场景。
@@ -1844,6 +1799,51 @@ Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Gar
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 写实男性网红故事板
+
+> 一套全面的多场景视频提示词，旨在确保角色在不同地点和服装下的连贯性，并包含快速剪辑和手持摄像机运动效果。
+
+[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="写实男性网红故事板">](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Shorelyn_ | **来源:** [原帖](https://x.com/Shorelyn_/status/2079066277650600170) | **发布:** 2026-07-20 | **热度:** 12
+
+<details>
+<summary><b>完整 prompt（27 行，点开展开）</b></summary>
+
+```
+Character Consistency: The subject is the young male influencer from the reference image @Image 1. In every time period and from every angle, the face shape, facial features, and skin tone must match @Image 1 exactly. Do not alter or distort the face.
+
+Outfit: In every scene, wear stylish and luxurious black casual, streetwear, or suit outfits. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
+
+Format: 9:16 vertical.
+
+Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
+
+Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
+
+---
+
+M-01. Hongdae Busking Street & Tattoo Shop Tour
+
+0 to 2 seconds: [Hongdae Walking Street] A low angle shot holding a selfie stick high above while quickly spinning to capture both yourself and the crowd in the middle of a busy busking street.
+
+2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quick transition to your face looking at the camera while lightly biting your lip with a slightly nervous expression.
+
+4 to 6 seconds: [Tattoo Workstation] A forearm shot rolling up the sleeve of an oversized black T shirt, rapidly cross edited with a shot of your face smiling while enduring the pain.
+
+6 to 8 seconds: [In Front of the Shop Mirror] A tight shot checking the linework of the newly completed tattoo in the mirror, followed by your face making eye contact with the camera through the mirror and nodding with satisfaction.
+
+8 to 10 seconds: [Hongdae Alley] A close up taking one bite of a street waffle, then blowing on it because it is hot while smiling at the camera.
+
+10 to 12 seconds: [Select Shop Hallway] A handheld tracking shot from behind as you walk slowly with a shopping bag over one shoulder. The screen naturally shakes in sync with your footsteps.
+
+12 to 15 seconds: [Hongdae Station Entrance] In front of the station exit, playfully extend your fiste toward the camera in a fist bump pose. End with a front facing full body shot frozen on the final frame.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 无线耳机产品评测
 
@@ -2419,48 +2419,6 @@ Stop-Motion Chip Stacking — Chips stack themselves into the logo shape or bran
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-7a9235e91c71?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 魔幻都市奇幻战斗动画
-
-> 一个设定在雨中魔幻都市的史诗级高奇幻动漫战斗提示词。包含涉及多个魔法门和针对巨龙的射线攻击等复杂视觉特效，侧重于影院级质量和 3D 卡通渲染美学。
-
-[<img src="https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg" width="600" alt="魔幻都市奇幻战斗动画">](https://goodcase.ai/cases/case-16429da4be7b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080976327231107259) | **发布:** 2026-07-25 | **热度:** 6
-
-<details>
-<summary><b>完整 prompt（24 行，点开展开）</b></summary>
-
-```
-高品質アニメ映像。高密度3Dトゥーン／セルルック。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。舞台は雨に濡れた壮麗な魔法都市。映画的なハイファンタジー・アクションRPGとして描く。参照画像のキャラクターが、自身の前方に展開した主ゲートと、周囲に展開した複数の収束ゲートから連続ビームを放ち、巨大な黒竜を最後は全ゲート同時斉射でオーバーキル気味に撃破する。
-
-【参照キャラクター固定】
-ソース参照画像のキャラクターを参照し、同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラーだけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミングは再現しない。表情、視線、口元、ポーズ、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴の混合、顔の平均化、衣装交換、別人化、クローン化、余計な人物の追加は禁止。装備品やアクセサリーは参照画像にあるものを保持し、勝手な増殖や別装備の追加をしない。攻撃は必ずキャラクター本人の掌前ゲート群から行い、腰の装備や小物から発射しない。
-【キャラ適応ルール】
-固定シーンの内容と戦闘展開は維持するが、背景の装飾、小物、魔法意匠、色味、発光色、空気感は参照キャラクターに合わせて調整する。都市の基礎構造は石造りの壮麗な魔法都市で固定しつつ、欄干意匠、魔法灯、水路、水晶柱、紋様、霧、反射色は参照キャラクターの世界観とカラーに寄せる。ビーム、ゲート、爆発、粒子、床反射も参照キャラクターの固有色を主軸に組み直す。色はキャラクターの魅力を最優先し、背景は一段暗く抑えて主役を埋もれさせない。
-
-【3Dスタイル固定】
-全編で繊細なセルルックを維持する。線は細く、顔・髪・衣装には明快な二段から三段のセルシェーディングと透明感のある中間影を入れる。瞳と髪には多層ハイライト。布、革、金属、宝石、濡れた石床、ガラス、水たまりを異なる反射と粗さで描き分ける。魔法だけは高輝度のグラフィックアニメVFX、体積光、加算発光、屈折波、方向性モーションブラーを用いる。太い黒輪郭、平坦な単層セル影、汎用的な3D顔、低密度背景、半写実、画風混合にしない。
-【主人公と敵の固定】
-主人公は画面左、敵は画面右。主人公は両脚を広げて膝を曲げ、後脚へ重心を残し、片方の掌を竜の胸へ向けて開く。もう片方の手はその腕や手首を支えてよい。掌、手首、肘、肩の接続を読ませ、ゲートで腕全体を隠しすぎない。反動は手首、肩、腰、支持脚へ連続して返り、髪、衣装、装飾が時間差で後方へなびく。敵は右側の巨大な黒い四足翼竜一体のみ。主人公の約四倍の高さ。頭は一つ、角は二本、目は二つ、脚は四本、翼は左右一対、尻尾は一本。着弾点は胸中央で固定。余分な頭、脚、翼、尻尾を作らない。
-
-【舞台とカメラ】
-舞台は雨上がりの巨大な魔法都市にある、空中へ張り出した広い石造りの魔法大通り。濡れた石板、浅い水たまり、古い亀裂、魔導金属の欄干、周囲の魔法塔、尖塔、アーチ橋、空中回廊、浮遊小塔、巨大結晶柱、魔力灯、発光水路、低い霧を配置する。これらの意匠と発光色は参照キャラクターに合わせて調整する。主人公は左、黒竜は右を維持し、主ゲート中心、各副ゲート、ビーム軸、黒竜の胸が同じ攻撃線へ収束する。カメラは顔が読める緩い近距離弧移動から始まり、ゲートの円弧がレンズを覆う遮蔽ワイプで低い後方三分の四ワイドへ移る。ビームに沿った横移動では欄干、雨粒、床紋様、水たまり反射、浮遊灯を異なる速度で流し、着弾圧で短く押し戻され、煙が開く時だけ静かに寄る。無目的な周回やランダム手ぶれにしない。
-【攻撃展開】
-開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前後へ離れ、異なる速度で逆回転する。短い目盛り、放射線、電光が発射軸へ集まり、掌の光が三度脈動し、三度目でリングが圧縮される。同時に主人公の周囲にも複数の副ゲートが次々と発生する。位置は右肩上、左上後方、前方上空、脇前方、背後上空など、深度差を持って主人公を囲むように配置する。数は多いが整理され、前景・中景・後景へ分かれる。顔と両目は常に読めるよう残し、リングで完全に隠さない。
-
-最初の攻撃では主ゲートから太い高出力ビームを放つ。コア、外殻、中間層、縁の色は参照キャラクターの固有色で構成し、細い棒状にしない。直後、周囲の副ゲートが時間差で順番に発射し、黒竜の胸中央へ連続着弾する。各ビームは十分に太く、雨、霧、水滴を外側へ押し分ける。黒竜の胸鱗は押し込まれ、前爪が濡れた石床を削り、翼膜、首、尻尾へ衝撃が遅れて伝わる。床には主人公の固有色に対応した太い反射帯が走る。
-【オーバーキルと撃破】
-連続照射の後、全ゲートが最大出力へ再圧縮される。主人公は左下で踏ん張ったまま掌を固定し、周囲の全副ゲートも同じ着弾点へ狙いを合わせる。主ゲートを含む全ゲートが同一フレームで一斉斉射し、複数の極太ビームが黒竜の胸中央へ集中する。各ビームは太さ、輝度、軸を落とさず持続し、内部に圧縮波が走る。最後の圧縮波が胸へ到達した同一フレームで、全ビームを発射口から着弾点まで完全に消す。細い残光を残さない。その瞬間、胸中央に白熱核が発生し、局所的な半球状衝撃ドームが一度だけ膨張して裂ける。そこから参照キャラクターの固有色を主軸にした巨大な炎状魔力爆発が上方と左右へ立体的に噴き上がる。鋭い炎の先端、太い体積光、透明な屈折波、細い電光、外向きの速度線を深度差付きで展開する。濡れた床には発光亀裂が走り、水、蒸気、黒い鱗片、石片が外向きへ吹き飛ぶ。
-
-直後、灰煙と黒い鱗片が前景へ重なり、黒竜の全身を完全に隠す。煙の中央が裂けると、黒竜は胸の着弾点をこちらへ向けて跪いている。胸中央から主人公の固有色に対応した魔力亀裂が全身へ走り、翼端と尾先から黒い鱗が灰へほどけ、微細な発光粒子へ変わる。翼膜、翼骨、尻尾、四肢、胴、首、頭へ連続して崩壊し、最後に胸の魔力核、角、両目の光が粒子へ砕け、肉体、影、床の反射まで完全に消える。死体を残さない。終端は戦闘結果の一枚絵。前景左に主人公、後景右には黒竜がいた空の濡れた路面と、消えかける灰と発光粒子だけを残す。主人公は警戒を保ったまま掌をわずかに下げ、呼吸とともに髪と衣装が落ち着く。最後の粒子が上昇し、黒竜の影と反射が完全に消えた瞬間に切る。
-【重大な破綻防止】
-文字、字幕、ロゴ、透かし、UIなし。ビームの細線化、短時間化、途中減衰、早すぎる爆発、ビームと爆発の長い同時表示、消え残るレーザーなし。平面的で左右対称な花形爆発、同じ大きさの丸煙、全画面白飛びなし。黒竜を煙が消える前に見せない。竜の立ち直り、瞬間消失、透明化、死体残留、切断された翼や尻尾、複数尻尾なし。
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-16429da4be7b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 音乐视频编舞与身份设定
 
 > 一个复杂的 Seedance 2.0 视频提示词，用于制作多人音乐视频，通过图像参考来确定角色身份，并使用视频来把控节奏。
@@ -2599,6 +2557,48 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-779580528a24?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 魔幻都市奇幻战斗动画
+
+> 一个设定在雨中魔幻都市的史诗级高奇幻动漫战斗提示词。包含涉及多个魔法门和针对巨龙的射线攻击等复杂视觉特效，侧重于影院级质量和 3D 卡通渲染美学。
+
+[<img src="https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg" width="600" alt="魔幻都市奇幻战斗动画">](https://goodcase.ai/cases/case-16429da4be7b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @haruuraeadss | **来源:** [原帖](https://x.com/haruuraeadss/status/2080976327231107259) | **发布:** 2026-07-25 | **热度:** 5
+
+<details>
+<summary><b>完整 prompt（24 行，点开展开）</b></summary>
+
+```
+高品質アニメ映像。高密度3Dトゥーン／セルルック。劇場版クラスのキーアニメーション、上質なコンポジット、透明感のある照明、密度の高い背景美術。舞台は雨に濡れた壮麗な魔法都市。映画的なハイファンタジー・アクションRPGとして描く。参照画像のキャラクターが、自身の前方に展開した主ゲートと、周囲に展開した複数の収束ゲートから連続ビームを放ち、巨大な黒竜を最後は全ゲート同時斉射でオーバーキル気味に撃破する。
+
+【参照キャラクター固定】
+ソース参照画像のキャラクターを参照し、同じ人物として維持する。参照画像はキャラクターの顔、目の形、虹彩色、髪型、髪色、衣装、装飾、体格、シルエット、雰囲気、キャラクターカラーだけに使用する。参照画像そのものの背景、部屋、家具、ポーズ、画角、フレーミングは再現しない。表情、視線、口元、ポーズ、呼吸、自然な髪と衣装の揺れだけ変化してよい。特徴の混合、顔の平均化、衣装交換、別人化、クローン化、余計な人物の追加は禁止。装備品やアクセサリーは参照画像にあるものを保持し、勝手な増殖や別装備の追加をしない。攻撃は必ずキャラクター本人の掌前ゲート群から行い、腰の装備や小物から発射しない。
+【キャラ適応ルール】
+固定シーンの内容と戦闘展開は維持するが、背景の装飾、小物、魔法意匠、色味、発光色、空気感は参照キャラクターに合わせて調整する。都市の基礎構造は石造りの壮麗な魔法都市で固定しつつ、欄干意匠、魔法灯、水路、水晶柱、紋様、霧、反射色は参照キャラクターの世界観とカラーに寄せる。ビーム、ゲート、爆発、粒子、床反射も参照キャラクターの固有色を主軸に組み直す。色はキャラクターの魅力を最優先し、背景は一段暗く抑えて主役を埋もれさせない。
+
+【3Dスタイル固定】
+全編で繊細なセルルックを維持する。線は細く、顔・髪・衣装には明快な二段から三段のセルシェーディングと透明感のある中間影を入れる。瞳と髪には多層ハイライト。布、革、金属、宝石、濡れた石床、ガラス、水たまりを異なる反射と粗さで描き分ける。魔法だけは高輝度のグラフィックアニメVFX、体積光、加算発光、屈折波、方向性モーションブラーを用いる。太い黒輪郭、平坦な単層セル影、汎用的な3D顔、低密度背景、半写実、画風混合にしない。
+【主人公と敵の固定】
+主人公は画面左、敵は画面右。主人公は両脚を広げて膝を曲げ、後脚へ重心を残し、片方の掌を竜の胸へ向けて開く。もう片方の手はその腕や手首を支えてよい。掌、手首、肘、肩の接続を読ませ、ゲートで腕全体を隠しすぎない。反動は手首、肩、腰、支持脚へ連続して返り、髪、衣装、装飾が時間差で後方へなびく。敵は右側の巨大な黒い四足翼竜一体のみ。主人公の約四倍の高さ。頭は一つ、角は二本、目は二つ、脚は四本、翼は左右一対、尻尾は一本。着弾点は胸中央で固定。余分な頭、脚、翼、尻尾を作らない。
+
+【舞台とカメラ】
+舞台は雨上がりの巨大な魔法都市にある、空中へ張り出した広い石造りの魔法大通り。濡れた石板、浅い水たまり、古い亀裂、魔導金属の欄干、周囲の魔法塔、尖塔、アーチ橋、空中回廊、浮遊小塔、巨大結晶柱、魔力灯、発光水路、低い霧を配置する。これらの意匠と発光色は参照キャラクターに合わせて調整する。主人公は左、黒竜は右を維持し、主ゲート中心、各副ゲート、ビーム軸、黒竜の胸が同じ攻撃線へ収束する。カメラは顔が読める緩い近距離弧移動から始まり、ゲートの円弧がレンズを覆う遮蔽ワイプで低い後方三分の四ワイドへ移る。ビームに沿った横移動では欄干、雨粒、床紋様、水たまり反射、浮遊灯を異なる速度で流し、着弾圧で短く押し戻され、煙が開く時だけ静かに寄る。無目的な周回やランダム手ぶれにしない。
+【攻撃展開】
+開始時、主人公の掌前に主ゲートが形成される。二層から四層の不完全な同心円ゲートで、各リングは前後へ離れ、異なる速度で逆回転する。短い目盛り、放射線、電光が発射軸へ集まり、掌の光が三度脈動し、三度目でリングが圧縮される。同時に主人公の周囲にも複数の副ゲートが次々と発生する。位置は右肩上、左上後方、前方上空、脇前方、背後上空など、深度差を持って主人公を囲むように配置する。数は多いが整理され、前景・中景・後景へ分かれる。顔と両目は常に読めるよう残し、リングで完全に隠さない。
+
+最初の攻撃では主ゲートから太い高出力ビームを放つ。コア、外殻、中間層、縁の色は参照キャラクターの固有色で構成し、細い棒状にしない。直後、周囲の副ゲートが時間差で順番に発射し、黒竜の胸中央へ連続着弾する。各ビームは十分に太く、雨、霧、水滴を外側へ押し分ける。黒竜の胸鱗は押し込まれ、前爪が濡れた石床を削り、翼膜、首、尻尾へ衝撃が遅れて伝わる。床には主人公の固有色に対応した太い反射帯が走る。
+【オーバーキルと撃破】
+連続照射の後、全ゲートが最大出力へ再圧縮される。主人公は左下で踏ん張ったまま掌を固定し、周囲の全副ゲートも同じ着弾点へ狙いを合わせる。主ゲートを含む全ゲートが同一フレームで一斉斉射し、複数の極太ビームが黒竜の胸中央へ集中する。各ビームは太さ、輝度、軸を落とさず持続し、内部に圧縮波が走る。最後の圧縮波が胸へ到達した同一フレームで、全ビームを発射口から着弾点まで完全に消す。細い残光を残さない。その瞬間、胸中央に白熱核が発生し、局所的な半球状衝撃ドームが一度だけ膨張して裂ける。そこから参照キャラクターの固有色を主軸にした巨大な炎状魔力爆発が上方と左右へ立体的に噴き上がる。鋭い炎の先端、太い体積光、透明な屈折波、細い電光、外向きの速度線を深度差付きで展開する。濡れた床には発光亀裂が走り、水、蒸気、黒い鱗片、石片が外向きへ吹き飛ぶ。
+
+直後、灰煙と黒い鱗片が前景へ重なり、黒竜の全身を完全に隠す。煙の中央が裂けると、黒竜は胸の着弾点をこちらへ向けて跪いている。胸中央から主人公の固有色に対応した魔力亀裂が全身へ走り、翼端と尾先から黒い鱗が灰へほどけ、微細な発光粒子へ変わる。翼膜、翼骨、尻尾、四肢、胴、首、頭へ連続して崩壊し、最後に胸の魔力核、角、両目の光が粒子へ砕け、肉体、影、床の反射まで完全に消える。死体を残さない。終端は戦闘結果の一枚絵。前景左に主人公、後景右には黒竜がいた空の濡れた路面と、消えかける灰と発光粒子だけを残す。主人公は警戒を保ったまま掌をわずかに下げ、呼吸とともに髪と衣装が落ち着く。最後の粒子が上昇し、黒竜の影と反射が完全に消えた瞬間に切る。
+【重大な破綻防止】
+文字、字幕、ロゴ、透かし、UIなし。ビームの細線化、短時間化、途中減衰、早すぎる爆発、ビームと爆発の長い同時表示、消え残るレーザーなし。平面的で左右対称な花形爆発、同じ大きさの丸煙、全画面白飛びなし。黒竜を煙が消える前に見せない。竜の立ち直り、瞬間消失、透明化、死体残留、切断された翼や尻尾、複数尻尾なし。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-16429da4be7b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 暗黑奇幻动漫召唤仪式
 
@@ -3253,24 +3253,6 @@ output_rules:
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yaml-629d172a4820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 复古汽水广告 Crimson Cola
-
-> 一个用于复古汽水品牌的 8K 电影级广告提示词，场景从沙漠日出过渡到充满未来感的 1950 年代城市。
-
-[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="复古汽水广告 Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @DjajaYerry75 | **来源:** [原帖](https://x.com/DjajaYerry75/status/2080666062690140315) | **发布:** 2026-07-24 | **热度:** 4
-
-**稳定度：** 84/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.3 分) · [产物](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Vox 风格历史拼贴动画
 
 > 一个用于 Seedance 的动画提示词，可将静态拼贴图像转换为具有纸张抖动和贴纸弹跳效果的 5 秒定格动画风格视频。
@@ -3584,24 +3566,6 @@ One shared valley, one @titan, same @wardens and @warhorn across all five cuts, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-579dd9bdd240?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 奢华沙龙美妆变身
-
-> 一个用于美妆变身的高速动态商业提示词，通过匹配剪辑展现从休闲造型到迷人晚礼服的华丽转变。
-
-[<img src="https://media.goodcase.ai/media/poster/case-d087761bf321.jpg" width="600" alt="奢华沙龙美妆变身">](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @KrevixAi | **来源:** [原帖](https://x.com/KrevixAi/status/2080960631180570913) | **发布:** 2026-07-25 | **热度:** 3
-
-**稳定度：** 77/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.8 分) · [产物](https://media.goodcase.ai/retests/case-d087761bf321/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, hyper dynamic, seamless match cuts, speed ramps. Start in a bright minimalist studio with a static front-facing shot. A messy girl in an oversized gray T-shirt and round glasses stands with untidy hair, pale skin, tired expression, no makeup. Two black-gloved hands push her backward. Match cut: she lands in a luxury salon chair inside a dark premium salon. Camera switches to first-person stylist POV. Black cape on. Hair wash, shampoo massage, conditioner, rinse, towel dry. Hair is combed, sectioned, precision cut, textured, blow-dried with volume, softly curled, smoothed, finished with oil and shine spray. Makeup: primer, foundation, concealer, powder, contour, blush, highlighter, brows, soft eyeshadow, winged eyeliner, mascara, glossy red lips. Earrings added. Cape is pulled away, revealing a luxurious red evening dress. Final hair styling. The chair rotates to showcase the hairstyle, then returns front. Final reveal: a confident glamorous woman with flawless makeup, voluminous hair, sparkling earrings and radiant skin looks directly into the camera. Premium luxury beauty ad, perfect identity consistency, realistic hands, smooth motion, cinematic lighting, shallow depth of field, ultra-detailed skin and hair, 4K, no glitches, morphing, deformation, extra fingers or camera shake.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d087761bf321?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 京都情感旅行 Vlog 动画
 
 > 这是一个为 Seedance 2.0 设计的视频生成提示词，旨在将一系列照片快照转化为连贯且富有情感的旅行 Vlog，并呈现自然的掌机拍摄效果。
@@ -3615,6 +3579,24 @@ Ultra-realistic cinematic beauty transformation, 15s, luxury salon commercial, h
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-4317b7fdff57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 复古汽水广告 Crimson Cola
+
+> 一个用于复古汽水品牌的 8K 电影级广告提示词，场景从沙漠日出过渡到充满未来感的 1950 年代城市。
+
+[<img src="https://media.goodcase.ai/media/poster/crimson-cola-99e9ec88e937.jpg" width="600" alt="复古汽水广告 Crimson Cola">](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @DjajaYerry75 | **来源:** [原帖](https://x.com/DjajaYerry75/status/2080666062690140315) | **发布:** 2026-07-24 | **热度:** 3
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (84.3 分) · [产物](https://media.goodcase.ai/retests/crimson-cola-99e9ec88e937/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A premium 15-second cinematic 8K commercial for a retro soda brand. Begins with a slow camera push-in on a chilled, rocket-shaped glass bottle with sparkling condensation in a sepia-toned desert sunrise. The bottle cap pops open in slow motion, releasing a burst of fizzy red carbonation and glowing crimson energy. Dynamic FPV drone sweep following the crimson energy as it transforms the barren desert into a vibrant, colorful 1950s raygun-gothic retro-futuristic city. Cheering people in vintage blue and yellow jumpsuits celebrate, a floating metallic retro robot serves drinks, and a character in a heavy dieselpunk armor suit toasts with a bottle. The camera pans up to a magnificent rocket-styled soda fountain under warm golden-hour light, ending on a hero shot of the bottle overlooking the radiant neon city. Anamorphic lens, 8K resolution, volumetric lighting, smooth camera motion, luxury advertising aesthetic.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/crimson-cola-99e9ec88e937?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · [Part 2](./gallery-seedance-2-0-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.zh.md)

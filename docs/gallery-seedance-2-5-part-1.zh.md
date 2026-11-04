@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/8 页）
 
-Seedance 2.5 全部 666 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 672 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–86 条，共 666 条。
+本页：第 1–86 条，共 672 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 
@@ -4541,6 +4541,39 @@ End text:
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 超写实微距延时：种子发芽十秒
+
+> Seedance 2.5 on @Vorla_AI ❤️ Prompt: Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the
+
+[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="600" alt="Seedance 2.5 超写实微距延时：种子发芽十秒">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Yesandyou_ | **来源:** [原帖](https://x.com/Yesandyou_/status/2088998841395921185) | **发布:** 2026-08-16 | **热度:** 87
+
+<details>
+<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+
+```
+Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the provided reference image as the exact visual starting point. Begin with the same tiny green seedling 🌱 emerging from dark, rich, slightly moist soil. Keep the camera completely locked and stationary 📷, preserving the same composition, camera angle, depth of field, warm natural sunlight ☀️, soft background bokeh, and realistic soil texture throughout the entire video.
+
+0–2 seconds 🌱: The tiny seedling slowly pushes upward from beneath the soil. Small cracks and subtle soil movement appear naturally around its base as the plant emerges. The thin green stem gradually becomes taller while the two young leaves slowly unfold and expand 🍃.
+
+2–4 seconds 🌿: The seedling continues growing into a young tomato plant. The stem becomes thicker and taller, while additional green leaves and small branches gradually emerge. Each leaf unfolds naturally with visible veins and realistic botanical detail 🍃✨. Gentle sunlight passes through the leaves ☀️, creating beautiful natural highlights.
+
+4–6 seconds 🌼: The plant grows fuller and stronger. Small yellow tomato flowers 🌼 begin appearing on the branches. The flowers gradually develop and bloom one by one, with delicate petals opening naturally. The plant continues extending upward and outward in a smooth time-lapse 🌿.
+
+6–8 seconds 🍅: After flowering 🌼, tiny green tomatoes 🍅 begin forming beneath the flowers. The fruits slowly enlarge from tiny green buds into recognizable round tomatoes. More tomatoes develop across the branches while fresh leaves continue growing around them 🌿🍃.
+
+8–10 seconds 🍅❤️: The green tomatoes gradually mature and transform into large, ripe, vibrant red tomatoes 🍅❤️. End with a healthy, fully grown tomato plant 🌿 surrounded by several beautiful ripe tomatoes hanging naturally from its branches.
+
+Make the entire transformation smooth, continuous, organic, and biologically believable 🌱➡️🌿➡️🌼➡️🍅. Use photorealistic textures, realistic plant anatomy, detailed leaves and veins, natural soil particles, subtle wind movement 🍃, warm golden-hour sunlight ☀️, cinematic depth of field 🎥, soft background bokeh ✨, realistic shadows, macro photography quality, and highly detailed 4K visuals.
+
+Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌, no camera shake ❌, no text ❌, no people ❌, no hands ❌, and no artificial-looking morphing ❌. The plant must grow progressively from the exact location of the original seedling, with every stage naturally connected to the previous stage. The final result should look like a real professional botanical time-lapse 🌱🎥🍅, showing the complete journey from a tiny seedling to a mature tomato plant full of ripe red tomatoes. 🍅✨
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 粉发女子在午夜公路爆炸前从容走来
 
 > Imagine being so dangerous that even explosions are just background effects. Seedance 2.5 @FishCreativeHQ Prompt VISUAL STYLE Ultra-photorealistic Hollywood blo…
@@ -4855,300 +4888,6 @@ Negative: messy spills, broken tray, Western cafeteria, adult office clothes, ex
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 青柠西装女子静立躁动人群
-
-> I know I'm a bit late to the STORM trend, but it's better late than never! Created using Seedance 2.5 Prompt: Use the uploaded reference VIDEO as the exact moti…
-
-[<img src="https://media.goodcase.ai/cases/6fb950b9cf00.jpg" width="600" alt="青柠西装女子静立躁动人群">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @john_my07 | **来源:** [原帖](https://x.com/john_my07/status/2100115896111161691) | **发布:** 2026-09-16 | **热度:** 86
-
-<details>
-<summary><b>完整 prompt（276 行，点开展开）</b></summary>
-
-```
-Use the uploaded reference VIDEO as the exact motion, choreography, camera, framing, timing, pacing, shot duration and cut-point reference.
-
-Use <image_1> as the STRICT identity reference for the MAIN WOMAN.
-
-The final video should feel like the SAME original video, but with the original central man completely replaced by the woman from <image_1>.
-
-Do NOT recreate or preserve the original man's face or identity.
-
-IDENTITY <image_1>
-
-The central character is the exact same woman shown in <image_1>.
-
-Preserve her:
-
-- exact face
-- facial structure
-- jawline
-- cheekbones
-- nose
-- eyes
-- eyebrows
-- lips
-- ears
-- skin tone
-- natural facial proportions
-- hairstyle
-- hair length, volume and texture
-- any facial features visible in the reference
-- natural body proportions
-
-Maximum identity preservation throughout the entire video.
-
-She must remain recognizably the same person from the uploaded photograph in every shot and every angle.
-
-NO face morphing.
-NO identity drift.
-NO changing facial structure.
-NO different hairstyle.
-NO unwanted hair changes.
-NO beautification or artificial facial retouching.
-NO age changes.
-NO facial distortion.
-
-CHARACTER REPLACEMENT
-
-Replace ONLY the original central man with the woman from <image_1>.
-
-Keep the exact position, scale, body movement, gestures, walking path, head movements, smoking actions and timing from the reference video.
-
-Everything the original central character does in the reference video should be performed by the <image_1> woman at the same moment and with the same choreography.
-
-Do not reinterpret or redesign the choreography simply because the replacement character is female.
-
-WARDROBE
-
-Dress <image_1> in the same character-reference outfit, adapted naturally for the woman:
-
-Acid lime green single-breasted blazer, notch lapels, two buttons, buttoned closed, slightly oversized shoulders.
-
-Plain white cotton shirt underneath.
-
-Narrow black knitted tie, neatly knotted.
-
-Straight black trousers.
-
-Plain black leather ankle boots, low heel.
-
-No jewellery.
-No watch.
-No belt.
-No bag.
-No phone.
-No logos or patterns.
-
-The lime blazer must remain exactly throughout the entire video.
-
-IMPORTANT:
-Do not let the wardrobe replacement change the original choreography, body positioning, composition or pacing.
-
-SMOKING ACTION
-
-Preserve the smoking sequence from the reference video exactly.
-
-At the beginning, the main woman holds a cigarette naturally between her fingers and brings it to her mouth.
-
-She lights the cigarette using the same hand movements, timing and body positioning as the reference video.
-
-She takes a drag and naturally exhales smoke.
-
-Preserve the original:
-
-- hand position
-- cigarette position
-- lighter movement
-- timing
-- head movement
-- facial expression
-- smoke timing
-- arm movement
-
-The smoking action should look physically natural and cinematic.
-
-Do not exaggerate the smoke.
-Do not create excessive smoke.
-No smoking action should occur from any other character.
-
-All other characters remain unchanged.
-
-EXACT ORIGINAL ACTION / TIMING
-
-0–4 SECONDS:
-
-Match the reference video exactly.
-
-The central woman is shown smoking.
-
-She brings the cigarette toward her mouth, lights it, takes a drag and exhales.
-
-Match the original close framing, facial positioning, hand movements and timing.
-
-4–11 SECONDS:
-
-Match the reference video exactly.
-
-The woman turns away from camera and moves forward into the crowd using the exact same movement and timing as the original central character.
-
-Preserve her body position, walking speed, direction and camera framing.
-
-11–17 SECONDS:
-
-Match the original choreography exactly.
-
-The woman moves back toward the central position and performs the same gestures and movements as the original central character.
-
-Do not invent new actions.
-
-17–22 SECONDS:
-
-The woman reaches and holds the same central position as the reference.
-
-She becomes calm and composed.
-
-Maintain the exact same camera composition.
-
-22–30 SECONDS:
-
-The crowd begins the same synchronized chaotic movement from the reference.
-
-The central woman remains calm and controlled in the center while the surrounding crowd moves violently and rhythmically around her.
-
-Match the exact timing, intensity and choreography of the original crowd movement.
-
-The central woman must remain clearly identifiable and visually separated from the crowd.
-
-CAMERA
-
-COPY THE REFERENCE VIDEO'S CAMERA LANGUAGE EXACTLY.
-
-Preserve:
-
-- camera position
-- camera height
-- camera distance
-- lens perspective
-- focal length feel
-- framing
-- depth of field
-- camera movement
-- push/pull movement
-- tracking
-- camera shake if present
-- zoom
-- subject scale
-- transitions
-- shot duration
-- exact cut points
-
-Do NOT create new shots.
-
-Do NOT add new camera movements.
-
-Do NOT change the original video's pacing.
-
-The output should have the same visual rhythm and edit structure as the reference video.
-
-CROWD
-
-Keep the original crowd concept and choreography from the reference video.
-
-Large group of young men surrounding the central woman.
-
-Preserve their:
-
-- positions
-- density
-- formation
-- movements
-- synchronized choreography
-- timing
-- background behavior
-
-Do not replace the crowd with women.
-
-Do not introduce new characters.
-
-Do not allow anyone else to become visually dominant over the main woman.
-
-Only the central character is replaced.
-
-LOCATION
-
-Preserve the same environment and architecture as the reference video.
-
-Keep the same:
-
-- concrete/architectural setting
-- stairs
-- background structure
-- crowd arrangement
-- environmental depth
-- overall composition
-
-Do not redesign the location.
-
-Do not introduce new buildings or props.
-
-LIGHTING / COLOR
-
-Preserve the reference video's overall cinematic lighting and color grading.
-
-Keep the dark, moody atmosphere.
-
-The acid lime blazer should be the distinctive color of the central character.
-
-Keep natural skin tones.
-
-Realistic shadows and highlights.
-
-No artificial glow.
-No haze.
-No bloom.
-No excessive smoke.
-No fantasy lighting.
-
-VISUAL STYLE
-
-Photorealistic cinematic live-action footage.
-
-Natural human motion.
-Natural body physics.
-Realistic fabric.
-Realistic hair.
-Realistic skin.
-Realistic cigarette smoke.
-Realistic lighting.
-
-No CGI appearance.
-No animation.
-No cartoon.
-No plastic skin.
-No face distortion.
-No duplicated main character.
-
-CRITICAL INSTRUCTION
-
-REFERENCE VIDEO = controls EVERYTHING about the original video's motion.
-
-<image_1> = controls ONLY the identity and appearance of the replacement central woman.
-
-Replace the original central man with the woman from <image_1> while preserving the original video's actions, choreography, camera, timing, pacing, framing and cuts as closely as possible.
-
-The result should look like the original video was filmed with <image_1> instead of the original actor.
-
-ONE MAIN CHARACTER ONLY.
-NO IDENTITY DRIFT.
-NO EXTRA VERSION OF <image_1>.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-video-as-the-exact-motion-choreography-camera-fra-33097e57d4dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)

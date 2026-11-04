@@ -263,7 +263,7 @@ Ultra-photorealistic cinematic live-action food commercial, realistic human hand
 
 ## E8 · Korean Woman Melts Down During a Spicy Food Challenge
 
-- Seedance 2.5 · creator: @oggii_0 · heat: 49 · stability: 82
+- Seedance 2.5 · creator: @oggii_0 · heat: 48 · stability: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) · [finished media](https://media.goodcase.ai/media/video/oggii-0-seedance-ai-5ed8176ffb89.mp4) · [poster](https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg) · [original source](https://x.com/oggii_0/status/2094267751477232053)
 - Summary: When AI starts making fake memories that feel this real… things get interesting. Made with Seedance 2.5. Prompt: Create
 

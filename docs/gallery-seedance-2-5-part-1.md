@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 1/8)
 
-All 666 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 672 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 1–85 of 666.
+This page: cases 1–86 of 672.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md)
 
@@ -4540,6 +4540,39 @@ End text:
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Macro Time-Lapse: Ten Seconds of Germination
+
+> Seedance 2.5 on @Vorla_AI ❤️ Prompt: Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the
+
+[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="600" alt="Seedance 2.5 Macro Time-Lapse: Ten Seconds of Germination">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Yesandyou_ | **Source:** [Original](https://x.com/Yesandyou_/status/2088998841395921185) | **Published:** 2026-08-16 | **Heat:** 87
+
+<details>
+<summary><b>Full prompt (15 lines, click to expand)</b></summary>
+
+```
+Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the provided reference image as the exact visual starting point. Begin with the same tiny green seedling 🌱 emerging from dark, rich, slightly moist soil. Keep the camera completely locked and stationary 📷, preserving the same composition, camera angle, depth of field, warm natural sunlight ☀️, soft background bokeh, and realistic soil texture throughout the entire video.
+
+0–2 seconds 🌱: The tiny seedling slowly pushes upward from beneath the soil. Small cracks and subtle soil movement appear naturally around its base as the plant emerges. The thin green stem gradually becomes taller while the two young leaves slowly unfold and expand 🍃.
+
+2–4 seconds 🌿: The seedling continues growing into a young tomato plant. The stem becomes thicker and taller, while additional green leaves and small branches gradually emerge. Each leaf unfolds naturally with visible veins and realistic botanical detail 🍃✨. Gentle sunlight passes through the leaves ☀️, creating beautiful natural highlights.
+
+4–6 seconds 🌼: The plant grows fuller and stronger. Small yellow tomato flowers 🌼 begin appearing on the branches. The flowers gradually develop and bloom one by one, with delicate petals opening naturally. The plant continues extending upward and outward in a smooth time-lapse 🌿.
+
+6–8 seconds 🍅: After flowering 🌼, tiny green tomatoes 🍅 begin forming beneath the flowers. The fruits slowly enlarge from tiny green buds into recognizable round tomatoes. More tomatoes develop across the branches while fresh leaves continue growing around them 🌿🍃.
+
+8–10 seconds 🍅❤️: The green tomatoes gradually mature and transform into large, ripe, vibrant red tomatoes 🍅❤️. End with a healthy, fully grown tomato plant 🌿 surrounded by several beautiful ripe tomatoes hanging naturally from its branches.
+
+Make the entire transformation smooth, continuous, organic, and biologically believable 🌱➡️🌿➡️🌼➡️🍅. Use photorealistic textures, realistic plant anatomy, detailed leaves and veins, natural soil particles, subtle wind movement 🍃, warm golden-hour sunlight ☀️, cinematic depth of field 🎥, soft background bokeh ✨, realistic shadows, macro photography quality, and highly detailed 4K visuals.
+
+Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌, no camera shake ❌, no text ❌, no people ❌, no hands ❌, and no artificial-looking morphing ❌. The plant must grow progressively from the exact location of the original seedling, with every stage naturally connected to the previous stage. The final result should look like a real professional botanical time-lapse 🌱🎥🍅, showing the complete journey from a tiny seedling to a mature tomato plant full of ripe red tomatoes. 🍅✨
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion
 

@@ -1,10 +1,27 @@
 # Seedance 2.5 — 全量案例（第 3/8 页）
 
-Seedance 2.5 全部 666 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 672 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 161–256 条，共 666 条。
+本页：第 160–257 条，共 672 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
+
+### 萌娃与爱犬闹厨房，爸爸踩香蕉皮滑倒
+
+> Made with seedance 2.5 Prompt 👇 Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romp…
+
+[<img src="https://media.goodcase.ai/cases/f6f7ba3e361b.jpg" width="600" alt="萌娃与爱犬闹厨房，爸爸踩香蕉皮滑倒">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2d09fa99a65e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2110558398492348605) | **发布:** 2026-10-15 | **热度:** 77
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create an ultra-realistic, cinematic 3D animated family comedy featuring an adorable chubby baby wearing a blue teddy-bear romper, a beautiful mother in a white sweater, a father in a dark business suit, and a playful golden-brown dog. Inside a cozy modern home, the baby creates a funny mess in the kitchen, plays with toys, and giggles mischievously. The curious dog follows the baby around while the mother reacts with surprise and amusement. Suddenly, the distracted father enters while looking at his phone, accidentally slips on a banana peel, and falls harmlessly onto a soft mat. The baby bursts into laughter as the father makes an exaggerated shocked expression. End with the baby smiling innocently while the father looks confused. Maintain consistent character faces, clothing, and proportions, with expressive facial animations, realistic textures, smooth movements, cinematic lighting, and perfectly timed comedic sound effects. Pixar-style 3D animation, vertical 9:16, 1080p, family-friendly, high-quality rendering.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2d09fa99a65e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 末日幸存者与感染犬
 
@@ -81,6 +98,66 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 少女以异能摧毁坦克军团
+
+> ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
+
+[<img src="https://media.goodcase.ai/cases/e28bdc9038b1.jpg" width="600" alt="少女以异能摧毁坦克军团">](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2101205826895827053) | **发布:** 2026-09-19 | **热度:** 77
+
+<details>
+<summary><b>完整 prompt（42 行，点开展开）</b></summary>
+
+```
+GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
+
+SCENE 1 — 0:00–0:02.5
+Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
+
+SCENE 2 — 0:02.5–0:04.5
+The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
+
+SCENE 3 — 0:04.5–0:07
+Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
+
+SCENE 4 — 0:07–0:09.5
+Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
+
+SCENE 5 — 0:09.5–0:11.5
+The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
+
+SCENE 6 — 0:11.5–0:14
+A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
+
+SCENE 7 — 0:14–0:16.5
+Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
+
+SCENE 8 — 0:16.5–0:19
+Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
+
+SCENE 9 — 0:19–0:21.5
+The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
+
+SCENE 10 — 0:21.5–0:24
+A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
+
+SCENE 11 — 0:24–0:26
+Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
+
+SCENE 12 — 0:26–0:27.5
+Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
+
+NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
+
+#Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
+@Flovaai @itsPolloAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 模特与穿搭单品同步旋转展示
 
@@ -379,66 +456,6 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/underwater-animal-orchestra?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 少女以异能摧毁坦克军团
-
-> ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
-
-[<img src="https://media.goodcase.ai/cases/e28bdc9038b1.jpg" width="600" alt="少女以异能摧毁坦克军团">](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2101205826895827053) | **发布:** 2026-09-19 | **热度:** 76
-
-<details>
-<summary><b>完整 prompt（42 行，点开展开）</b></summary>
-
-```
-GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
-
-SCENE 1 — 0:00–0:02.5
-Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
-
-SCENE 2 — 0:02.5–0:04.5
-The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
-
-SCENE 3 — 0:04.5–0:07
-Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
-
-SCENE 4 — 0:07–0:09.5
-Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
-
-SCENE 5 — 0:09.5–0:11.5
-The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
-
-SCENE 6 — 0:11.5–0:14
-A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
-
-SCENE 7 — 0:14–0:16.5
-Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
-
-SCENE 8 — 0:16.5–0:19
-Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
-
-SCENE 9 — 0:19–0:21.5
-The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
-
-SCENE 10 — 0:21.5–0:24
-A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
-
-SCENE 11 — 0:24–0:26
-Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
-
-SCENE 12 — 0:26–0:27.5
-Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
-
-NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
-
-#Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
-@Flovaai @itsPolloAI
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 韩国乡村女子的农场晨间日常
 
 > There’s something special about a morning spent close to nature. Created on Seedance 2.5 Prompt: Create a 30-second photorealistic Korean countryside lifestyle …
@@ -585,6 +602,60 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 满月下浮空神殿的双武士对决
+
+> From imagination to cinematic anime action. Explore stunning character animation, dynamic sword combat and spectacular VFX with Seedance 2.5 on @WizstarAI. #Wiz…
+
+[<img src="https://media.goodcase.ai/cases/360f933d9283.jpg" width="600" alt="满月下浮空神殿的双武士对决">](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2117623327179280408) | **发布:** 2026-11-03 | **热度:** 75
+
+<details>
+<summary><b>完整 prompt（36 行，点开展开）</b></summary>
+
+```
+THE LAST BLADE — EPIC ANIME SWORD BATTLE
+
+Duration: Exactly 30 seconds | 16:9 | Premium cinematic anime | 60 FPS target.
+
+REFERENCES:
+@image1 = Protagonist. Preserve exact recognizable face, curly brown hair, beard and body proportions in anime style. Outfit: black samurai coat, silver dragon shoulder armor, charcoal kimono, crimson waist sash, black trousers and armored boots. Weapon: Kurogane, a silver katana with blue energy.
+
+@image2 = Akuma, the Void Emperor. Tall muscular supernatural samurai, pale grey skin, glowing violet eyes, long silver hair, black obsidian armor, crimson cape and purple-energy katana named Void Reaver.
+
+@image3 = Sky Temple of Eternal Moon. Floating Japanese temple, circular cracked stone battlefield, cherry blossoms, golden lanterns, waterfalls, floating mountains and enormous full moon.
+
+TIMELINE:
+
+00:00–00:03: Epic wide reveal of the moonlit temple. Both warriors face each other, swords ready. Camera slowly pushes forward.
+
+00:03–00:06: Both dash forward. Horizontal slash, diagonal counter and overhead block. Swords collide, releasing blue and purple energy explosions.
+
+00:06–00:09: Akuma performs five rapid sword attacks. Protagonist blocks, dodges and slides underneath the final strike. Sparks fly.
+
+00:09–00:12: Protagonist activates blue dragon energy and performs three spinning katana cuts, forcing Akuma backward.
+
+00:12–00:15: Akuma unleashes a massive purple crescent energy slash that tears through the stone battlefield. Protagonist blocks defensively.
+
+00:15–00:18: Intense multi-angle sword duel. Protagonist performs sliding attacks, spinning slashes and an aerial backflip while Akuma counters aggressively.
+
+00:18–00:21: Akuma delivers a devastating overhead strike. Protagonist blocks as the platform cracks and a purple shockwave spreads.
+
+00:21–00:24: Protagonist activates his ultimate blue dragon technique, deflects Akuma's sword and unleashes three lightning-fast strikes followed by a gigantic dragon-shaped energy wave.
+
+00:24–00:27: Akuma's sword flies away. His purple energy disappears and he falls defeated. Protagonist lands victoriously. No gore.
+
+00:27–00:30: Epic final wide shot. Protagonist sheathes his glowing katana beneath the full moon. Cherry blossoms swirl as the camera rises to reveal the floating temple.
+
+AUDIO: Epic Japanese orchestral music, shakuhachi flute, taiko drums, metallic sword clashes, blade whooshes, magical explosions and synchronized impact sounds.
+
+FINAL RULES: Exactly 30 seconds, continuous anime sequence, fluid sakuga animation, spectacular blue and violet VFX, dynamic cinematic camera angles, consistent character identity, costumes, weapons and location. Protagonist MUST win. No photorealism, dialogue, subtitles or watermarks.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 白色超跑飞越首尔江面降落楼顶
 
@@ -799,6 +870,52 @@ FINALLY: skin and movement should look like real travel footage, not AI-generate
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 韩国女子在公寓尸潮中逃入电梯
+
+> THE LAST FLOOR – A Korean Zombie Nightmare SEEDANCE 2.5 on @PixVerse Prompt: Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic …
+
+[<img src="https://media.goodcase.ai/cases/83ad7dadf7f2.jpg" width="600" alt="韩国女子在公寓尸潮中逃入电梯">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-cinema-382724504167?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @QAiStudio | **来源:** [原帖](https://x.com/QAiStudio/status/2117256134616818159) | **发布:** 2026-11-02 | **热度:** 74
+
+<details>
+<summary><b>完整 prompt（28 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic live-action style.
+
+CHARACTER CONSISTENCY: Young adult Korean woman, identical face, hairstyle, outfit, and body proportions to the reference image throughout. Expression evolves from terrified to desperate, determined, then shaken relief.
+
+ZOMBIES: Aggressive, realistic human-like zombies with pale dirty skin, sunken eyes, damaged faces, messy hair, and torn everyday clothing. Practical horror makeup, no excessive gore.
+
+LOCATION: One consistent dim Korean apartment tower: concrete stairwell, narrow numbered-door corridor, flickering greenish fluorescent lights, metal elevator with glowing floor indicator, CLOSE DOOR button, and pulsing red emergency light.
+
+30-SECOND SEQUENCE (10 SHOTS):
+
+1. 0–3s: Close-up, woman sprints down stairs as zombie hands reach from above.
+2. 3–6s: She bursts into corridor, shoves an attacking zombie into the wall.
+3. 6–9s: Rear tracking shot as she races toward the elevator, zombies emerging behind her.
+4. 9–12s: She repeatedly presses elevator call button; horde approaches.
+5. 12–15s: Doors open; she dives inside as zombies charge.
+6. 15–18s: Extreme close-up, repeatedly jams CLOSE DOOR button as doors begin shutting.
+7. 18–21s: Zombie arms force through the gap; she kicks them away.
+8. 21–24s: Doors slam shut; she trembles as zombies pound outside.
+9. 24–27s: Elevator descends; she collapses against the wall, gasping.
+10. 27–30s: Lobby doors open, revealing motionless shadowy figures. One slowly turns its head. Extreme close-up of her terrified eyes. CUT TO BLACK.
+
+CINEMATOGRAPHY: Handheld chase tracking, dynamic wide shots, extreme close-ups, low-angle elevator struggle, realistic movement, natural motion blur, cinematic green-gray lighting, practical VFX, consistent spatial continuity.
+
+AUDIO: Heavy breathing, rapid footsteps, zombie snarls, fluorescent buzz, elevator chime, metallic scraping, pounding doors, elevator hum, rising horror drone. No narration.
+
+NEGATIVE: No location changes, rooftop, outdoor scenes, phones, weapons, superhero powers, fantasy effects, extra limbs, duplicated heroine, identity or outfit changes, cartoon/anime, excessive gore, subtitles, random text, or watermark.
+
+OUTPUT: One coherent, suspenseful, photorealistic 30-second Korean zombie-thriller sequence with seamless character and environment consistency.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-cinema-382724504167?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 穿行《最后的晚餐》的立体画境
 
@@ -2261,20 +2378,6 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 夜色敞篷车里，橘白猫为猫狗同伴唱歌
-
-> Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
-
-[<img src="https://media.goodcase.ai/cases/e12da6fb5033.jpg" width="600" alt="夜色敞篷车里，橘白猫为猫狗同伴唱歌">](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MahiraEhan | **来源:** [原帖](https://x.com/MahiraEhan/status/2109875307675017668) | **发布:** 2026-10-13 | **热度:** 70
-
-```
-A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 古罗马角斗士在竞技场逆转获胜
 
 > One warrior, one arena, one fight for glory. Experience epic gladiator battles, cinematic action, and realistic visuals with Seedance 2.5 on @ImagineArt_X Promp…
@@ -2759,6 +2862,20 @@ Scene 4 (7.5–10s): She playfully reaches for the camera, laughs, and ends with
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-10-second-ultra-realistic-4k-video-16-9-landscape-60-fps-a9119ed80745?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 夜色敞篷车里，橘白猫为猫狗同伴唱歌
+
+> Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
+
+[<img src="https://media.goodcase.ai/cases/e12da6fb5033.jpg" width="600" alt="夜色敞篷车里，橘白猫为猫狗同伴唱歌">](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MahiraEhan | **来源:** [原帖](https://x.com/MahiraEhan/status/2109875307675017668) | **发布:** 2026-10-13 | **热度:** 69
+
+```
+A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雨中奔跑的日系街区女孩
 
@@ -4398,165 +4515,6 @@ Negative prompt: inconsistent face, changing outfit, morphing, distorted hands, 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-early-2000s-korean-dv-camcorder-home-vi-a1843d10235f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 银发双刀女剑士突袭日式城堡
-
-> Five elite samurai surrounded her. The whole castle is coming next. ⚔️🍃 Created with Seedance 2.5 on @TapNow_AI Prompt: KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE…
-
-[<img src="https://media.goodcase.ai/cases/614552b6a770.jpg" width="600" alt="银发双刀女剑士突袭日式城堡">](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105958420088328486) | **发布:** 2026-10-02 | **热度:** 65
-
-<details>
-<summary><b>完整 prompt（141 行，点开展开）</b></summary>
-
-```
-KAZEMIRU: THE JADE-WIND BLADE: ONE-TAKE CASTLE ASSAULT
-Duration: 30 seconds | Aspect Ratio: 16:9 | No music
-
-ONE-TAKE LOCK:
-This is ONE SINGLE UNBROKEN CONTINUOUS SHOT lasting the full 30 seconds.
-ZERO cuts. ZERO dissolves. ZERO fades. ZERO match-cuts. ZERO time jumps.
-ZERO scene resets. The camera never leaves the action and every location
-change happens physically inside the shot: the camera passes through torn
-doors, over railings and up the roof with Kazemiru. Time runs in real time.
-
-STYLE:
-Ultra-photorealistic live-action Japanese dark-action cinema with restrained
-subtle VFX. Impossible anime-inspired dual-sword choreography performed by
-real human bodies. Large-format cinema look, natural daylight, muted earthy
-color palette, soft realistic shadows, no oversaturated colors.
-
-@Image1 is KAZEMIRU. Preserve her exact face, silver-white ponytail, torn
-ivory kimono, charcoal split hakama, wind-swirl forearm tattoo and gold hoop
-earrings in every frame.
-@Image2 shows the five elite guards. @Image3 shows Captain Tetsugan.
-
-POSITIVE LOCKS (true for all 30 seconds):
-- Exactly ONE Kazemiru with exactly TWO real steel katanas, one in each
-  hand, both always visible and independently controlled.
-- Her face always matches @Image1.
-- Every enemy comes from @Image2 or @Image3 and stays visually consistent.
-- Her body physically crosses every distance, with no teleportation.
-- It is always daytime with bright natural light.
-
-PERSONALITY:
-Cold, calm, battle-hungry. Minimal expression, steady breathing, focused
-eyes. Her hunger shows through relentless speed and escalating ferocity,
-never through grinning or shouting.
-
-JADE-WIND EFFECT:
-Every fast movement leaves a thin, soft jade-green wind trace that follows
-her exact physical path and fades almost instantly: sword arcs leave fine
-blade trails, spins bend the air, footsteps kick tiny wakes, supersonic
-bursts add a brief compressed-air ripple. Always thin, subtle and realistic.
-No aura, no smoke, no glowing body, no effects moving on their own.
-
-CAMERA (one continuous handheld-style pursuit):
-Constant dutch angle of 25–35°. Wide field of view around 75° in the
-interior and courtyard, tightening to about 50° for the rooftop duel.
-Kazemiru moves first and the camera follows 0.1–0.3 seconds late: whip-pan,
-overshoot, correct, reacquire at the moment of contact. The camera flows
-through rear over-the-shoulder, low-angle pursuit, side tracking,
-ground-level chase and front three-quarter retreat, always in one connected
-movement. Never static, never perfectly smooth.
-
-══ 0:00–0:10: THE GRAND AUDIENCE HALL ══
-Setting: bright daylight through large shoji panels, gold folding screens,
-tall dark timber pillars, tatami sections, raised platform, armor displays,
-low lacquer tables, silk curtains.
-
-0:00–0:03: Rear over-the-shoulder, five guards closing in. Her fingers tighten
-on both hilts. BURST: a thin jade streak snaps across the hall and the silk
-curtains whip. The camera loses her, whip-pans, and finds her inside
-Guard 1's reach. Left blade parries, right blade slashes diagonally, a pivot,
-a reverse cut. He drops.
-
-0:03–0:06: Guards 2 and 3 converge. She ducks under a swing, plants a foot on
-a pillar and pushes off, dust bursting from the wood. Mid-air her left
-sword deflects Guard 2 and her right sword cuts down. She lands on the edge
-of a lacquer table, which slides back, and rebounds straight toward Guard 3.
-
-0:06–0:10: Aerial right slash, left reverse slash, dual cross-slash with two
-separate jade trails. She lands low and bursts across the floor. Guard 4's
-spear thrusts: she runs two steps up a wall, flips off, and cuts him down
-through a folding screen. Guard 5 charges: she catches his blade with one
-sword, vaults the railing above him, and finishes with a cross-slash as she
-lands behind him.
-
-══ 0:10–0:20: THE PALACE COURTYARD ══
-Transition inside the same shot: she does not pose. Both swords still in
-hand, she drives straight through the paper doors in one burst. The torn
-paper flutters past the lens as the camera follows her through the doorway
-onto the wooden veranda and out into a stone courtyard with lanterns, a koi
-pond, a red lacquer arched bridge and pine trees. Eight new guards: swordsmen
-below and archers on the roofs.
-
-0:10–0:13: A volley of arrows. She cuts two out of the air with a spinning
-double slash and a third grazes her sleeve. She sprints along the veranda,
-pivoting off each post, a jade ripple following her feet.
-
-0:13–0:16: She kicks off a stone lantern, which tips over, and leaps onto the
-bridge railing. Three swordsmen charge. She runs along the rail, slashes the
-first, flips over the second, and lands in the koi pond with a huge splash.
-In the water she parries two blades and cuts both guards. Droplets scatter
-across the lens.
-
-0:16–0:20: She bursts out of the pond and sprints up a pine trunk in three
-steps. The camera tilts up with her. She launches onto the roof among the
-archers: left sword disarms, right sword strikes, roof tiles scatter. Two
-archers fall.
-
-══ 0:20–0:30: THE ROOFTOP DUEL ══
-Transition inside the same shot: she keeps climbing over the roof ridge and
-the camera rises with her, tightening to a 50° field of view. The tiled
-castle rooftop opens up with wind in her ponytail and the town far below.
-Captain Tetsugan (@Image3) waits with his naginata, calm and unflinching.
-
-0:20–0:23: Tetsugan sweeps the naginata in a wide arc. Kazemiru ducks, slides
-down the sloping tiles, and crosses both swords to stop the blade. Sharp
-metal sound as his strength pushes her back a step. Her expression stays
-cold.
-
-0:23–0:27: Fast exchange: his thrust, her left parry, her right slash that cuts
-his armor cord. He spins the pole and sweeps for her feet: she jumps, kicks
-off the shaft, and flips over him. Mid-air she cuts both swords across his
-back armor. Tiles crack under their feet and a faint jade wake curves around
-her path. He staggers, strikes back, and she narrowly dodges as the blade
-cuts a roof beam.
-
-0:27–0:30: Supersonic burst along the ridge line, the jade streak slightly
-brighter but still thin. She slides under the naginata, and as she rises
-both swords slice through the shaft in a clean cross-cut. Tetsugan drops to
-one knee, defeated but alive. Kazemiru stands, both swords still in hand,
-and the last jade filaments disappear. She turns her cold eyes toward the
-courtyard far below, where dozens more guards pour in. The camera slowly
-pulls back and up to a wide shot of the whole castle. She lowers her body for
-the next burst. THE FIGHT CONTINUES.
-
-AUDIO:
-Sword resonance, compressed-air whooshes, metal clashes, footsteps on wood
-and tiles, arrows, water splashes, fluttering silk and paper, enemy shouts,
-wind over the rooftops. No dialogue, no music.
-
-HUMAN-FIRST LOCK:
-Kazemiru is always a real human: natural skin pores, real eyes, individual
-hair strands, believable anatomy and cloth physics. Only her choreography is
-anime-level impossible.
-
-NEGATIVE:
-cuts, edits, dissolves, fades, scene transitions, time jumps, multiple
-shots, single-sword fighting, missing or duplicate sword, duplicate
-Kazemiru, clones, teleportation, thick aura, smoke, glowing body, neon or
-oversaturated colors, detached VFX, random flips, decorative acrobatics,
-idle pose, static camera, perfectly smooth tracking, slow combat, floating,
-broken anatomy, CGI or plastic skin, anime rendering, blood, gore, subtitles,
-logos, watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-this-is-one-single-unbroken-continuous-shot-lasting-the-full-30-seconds-441d3bf743b0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)

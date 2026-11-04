@@ -4065,59 +4065,6 @@ Cinematic 3D render, post-apocalyptic action sequence. A heavily modified dune b
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance Fifteen-Second Influencer Lifestyle Short
-
-> A few things making life a little more fun lately ✨🤍 Definitely can’t pick a favorite. Created with Seedance 2.0 on @bu
-
-[<img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="600" alt="Seedance Fifteen-Second Influencer Lifestyle Short">](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @sophiaparkerr_ | **出典:** [元投稿](https://x.com/sophiaparkerr_/status/2088966649659764899) | **公開日:** 2026-08-16 | **ヒート:** 69
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/sophiaparkerr-seedance-ai-51ad3cc85989/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（31 行、クリックで展開）</b></summary>
-
-```
-FORMAT:16:9 widescreen, 15 seconds, realistic influencer-style lifestyle video, cinematic 4K, natural lighting, premium fashion aesthetic, fast-paced editing, authentic creator energy.
-
-0:00–0:03 — HOOK
-Influencer looks into the camera while holding her bag.
-Dialogue: “Okay, these are the things I’m obsessed with right now.”
-
-0:03–0:05 — BAG
-Close-up of the bag as she picks it up.
-Dialogue: “First, this bag. I literally take it everywhere.”
-
-0:05–0:07 — PERFUME
-Macro shot of perfume as she sprays it on her wrist.
-Dialogue: “And this perfume? My current favorite.”
-
-0:07–0:09 — SUNGLASSES
-She puts on her sunglasses and looks confidently at the camera.
-Dialogue: “These sunglasses make every outfit better.”
-
-0:09–0:11 — SHOES
-Close-up of her shoes as she starts walking.
-Dialogue: “And these shoes are way too good.”
-
-0:11–0:13 — PHONE
-She checks her phone while walking through a stylish café or city street.
-Dialogue: “Obviously, my phone never leaves my hand.”
-
-0:13–0:15 — FINAL SHOT
-Quick montage of all five items. She smiles and walks away.
-Dialogue: “Yeah… I’m obsessed with all of them.”
-
-STYLE: Natural influencer delivery, conversational tone, subtle facial expressions, accurate lip-sync, clean dialogue audio, upbeat background music underneath, quick 1–2 second cuts, smooth whip transitions, handheld camera movement, shallow depth of field, realistic product textures, premium but authentic social-media aesthetic.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### An Exhausting Day in a Korean Office Woman’s Life
 
 > Behind every working woman is a tired soul trying to keep going. Created on seedance 2.0 Prompt: Create a 24-second ultra-realistic cinematic video of a young K…
@@ -4306,6 +4253,59 @@ Flow: rapid circular redirects (Tai Chi) into lightning-fast hard strikes (Muay 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yourplugai-seedance-ai-fb797edfc8e4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance Fifteen-Second Influencer Lifestyle Short
+
+> A few things making life a little more fun lately ✨🤍 Definitely can’t pick a favorite. Created with Seedance 2.0 on @bu
+
+[<img src="https://media.goodcase.ai/media/poster/sophiaparkerr-seedance-ai-51ad3cc85989.jpg" width="600" alt="Seedance Fifteen-Second Influencer Lifestyle Short">](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @sophiaparkerr_ | **出典:** [元投稿](https://x.com/sophiaparkerr_/status/2088966649659764899) | **公開日:** 2026-08-16 | **ヒート:** 68
+
+**安定度:** 77/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 77.3) · [出力](https://media.goodcase.ai/retests/sophiaparkerr-seedance-ai-51ad3cc85989/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（31 行、クリックで展開）</b></summary>
+
+```
+FORMAT:16:9 widescreen, 15 seconds, realistic influencer-style lifestyle video, cinematic 4K, natural lighting, premium fashion aesthetic, fast-paced editing, authentic creator energy.
+
+0:00–0:03 — HOOK
+Influencer looks into the camera while holding her bag.
+Dialogue: “Okay, these are the things I’m obsessed with right now.”
+
+0:03–0:05 — BAG
+Close-up of the bag as she picks it up.
+Dialogue: “First, this bag. I literally take it everywhere.”
+
+0:05–0:07 — PERFUME
+Macro shot of perfume as she sprays it on her wrist.
+Dialogue: “And this perfume? My current favorite.”
+
+0:07–0:09 — SUNGLASSES
+She puts on her sunglasses and looks confidently at the camera.
+Dialogue: “These sunglasses make every outfit better.”
+
+0:09–0:11 — SHOES
+Close-up of her shoes as she starts walking.
+Dialogue: “And these shoes are way too good.”
+
+0:11–0:13 — PHONE
+She checks her phone while walking through a stylish café or city street.
+Dialogue: “Obviously, my phone never leaves my hand.”
+
+0:13–0:15 — FINAL SHOT
+Quick montage of all five items. She smiles and walks away.
+Dialogue: “Yeah… I’m obsessed with all of them.”
+
+STYLE: Natural influencer delivery, conversational tone, subtle facial expressions, accurate lip-sync, clean dialogue audio, upbeat background music underneath, quick 1–2 second cuts, smooth whip transitions, handheld camera movement, shallow depth of field, realistic product textures, premium but authentic social-media aesthetic.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/sophiaparkerr-seedance-ai-51ad3cc85989?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance Ghibli-Style Comfort Cooking Animation
 
@@ -4654,24 +4654,6 @@ DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Korean Girl’s Classroom and Coastal Village Stroll
-
-> A peaceful Korean girl’s day, from a bright classroom to a beautiful seaside path. Soft moments, natural beauty, and a cinematic Korean lifestyle vibe. Created …
-
-[<img src="https://media.goodcase.ai/cases/d6e4f27ae1b4.jpg" width="600" alt="A Korean Girl’s Classroom and Coastal Village Stroll">](https://goodcase.ai/cases/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaayat | **出典:** [元投稿](https://x.com/aiwithaayat/status/2099802672966820235) | **公開日:** 2026-09-15 | **ヒート:** 65
-
-**安定度:** 84/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 83.5) · [出力](https://media.goodcase.ai/retests/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-A Korean girl with straight dark hair, natural makeup, and a warm youthful appearance wears a light cardigan over a blue shirt with a navy pleated skirt. Create a 28-second cinematic Korean lifestyle vlog following her through a bright classroom and a peaceful coastal village. Begin with a close-up selfie shot of the girl smiling naturally toward the camera inside a Korean classroom. Show her sitting at a desk, studying and looking around the sunlit classroom before standing and walking outside. Follow her through quiet residential streets with realistic Korean homes, stone walls, plants, and warm daylight. Transition to a beautiful seaside railway path where she walks beside the ocean and enjoys the peaceful scenery. Use handheld vlog cinematography, natural camera movement, realistic expressions, soft sunlight, detailed environments, and photorealistic Korean drama aesthetics. Keep her face, hairstyle, clothing, and appearance consistent throughout, with no subtitles, logos, or watermark.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Full-Length Taekwondo Action Scene With a Korean Fighter
 
 > A fierce warrior Powerful kicks One unstoppable fight Pure cinematic Taekwondo energy brought to life. Made With Seedanc
@@ -4742,6 +4724,24 @@ Create a 15-second cinematic photorealistic action sequence set in a dark, misty
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-15-second-cinematic-photorealistic-action-sequence-set-in-a-dark-mist-1c182572ef5d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Korean Girl’s Classroom and Coastal Village Stroll
+
+> A peaceful Korean girl’s day, from a bright classroom to a beautiful seaside path. Soft moments, natural beauty, and a cinematic Korean lifestyle vibe. Created …
+
+[<img src="https://media.goodcase.ai/cases/d6e4f27ae1b4.jpg" width="600" alt="A Korean Girl’s Classroom and Coastal Village Stroll">](https://goodcase.ai/cases/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaayat | **出典:** [元投稿](https://x.com/aiwithaayat/status/2099802672966820235) | **公開日:** 2026-09-15 | **ヒート:** 64
+
+**安定度:** 84/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 83.5) · [出力](https://media.goodcase.ai/retests/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+A Korean girl with straight dark hair, natural makeup, and a warm youthful appearance wears a light cardigan over a blue shirt with a navy pleated skirt. Create a 28-second cinematic Korean lifestyle vlog following her through a bright classroom and a peaceful coastal village. Begin with a close-up selfie shot of the girl smiling naturally toward the camera inside a Korean classroom. Show her sitting at a desk, studying and looking around the sunlit classroom before standing and walking outside. Follow her through quiet residential streets with realistic Korean homes, stone walls, plants, and warm daylight. Transition to a beautiful seaside railway path where she walks beside the ocean and enjoys the peaceful scenery. Use handheld vlog cinematography, natural camera movement, realistic expressions, soft sunlight, detailed environments, and photorealistic Korean drama aesthetics. Keep her face, hairstyle, clothing, and appearance consistent throughout, with no subtitles, logos, or watermark.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-korean-girl-with-straight-dark-hair-natural-makeup-and-a-warm-youthful-appe-547a489b6bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Orange Tiger Warrior Battles Amid Burning City Ruins
 

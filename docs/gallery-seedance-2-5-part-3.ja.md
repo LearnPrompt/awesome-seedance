@@ -1,84 +1,10 @@
 # Seedance 2.5 — 全ケース（Part 3/8）
 
-Seedance 2.5 の全 666 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 672 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 666 件中 157–252 件目。
+このページ: 672 件中 158–253 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)
-
-### Seedance Thirty-Second Gym Day Vlog
-
-> Gym day: survived, sweated, and somehow left proud 💪😅 Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 30-s
-
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-b7601661378a.jpg" width="600" alt="Seedance Thirty-Second Gym Day Vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ZaraIrahh | **出典:** [元投稿](https://x.com/ZaraIrahh/status/2089195912119943367) | **公開日:** 2026-08-17 | **ヒート:** 78
-
-**安定度:** 80/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.6) · [出力](https://media.goodcase.ai/retests/zarairahh-seedance-ai-b7601661378a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（52 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second casual gym vlog featuring the same young woman in her early twenties. She has natural everyday beauty, and her face and hair remain identical throughout the entire video.
-
-Camera & visual style
-
-One continuous handheld front-facing smartphone selfie vlog, always filmed from her own point of view with the phone held in her own hand at arm’s length. No third-person camera, external camera, tripod, cinematic camera movement, or professional filming.
-
-Make it look like a real modern smartphone recording:
-
-- Mild handheld shake and natural walking bounce
-- Occasional autofocus hunting
-- Small exposure shifts and minor framing imperfections
-- Natural front-camera lens distortion
-- Soft warm natural daylight transitioning toward early evening
-- Natural, uncorrected smartphone color
-- No color grading, beauty filter, or skin smoothing
-- Same woman, same face and hair throughout
-- She holds the phone herself in every shot
-- No subtitles, captions, logos, watermarks, or on-screen text
-- No brand or character names
-- Never show a reference sheet or duplicate subject
-
-Outfit
-
-She is wearing a cute, trendy, realistic gym outfit appropriate for a casual workout vlog: fitted athletic top, comfortable high-waisted leggings or shorts, clean sneakers, and minimal accessories. The styling should feel fashionable but natural and practical for the gym.
-
-Scene
-
-She is spending a casual day at the gym and filming herself throughout her workout.
-
-She enters the gym while holding her phone at arm’s length, smiling into the front camera. She briefly sweeps the phone toward the workout area, showing treadmills, weights, machines, and other gym-goers in the background, then brings it back to her face. She grins and says upbeat:
-
-“Okay, gym day! Let’s get this workout started!”
-
-She walks toward the workout area, naturally bouncing the phone with her steps. She glances at the equipment, smiles at the camera, and starts a light warm-up. Keep the movements natural and unscripted, with brief moments of her adjusting her hair, checking her form, and laughing at herself.
-
-She moves into a short workout sequence while still filming herself handheld: a few casual gym exercises, light cardio, and a quick strength-training moment. Keep the camera mostly selfie-facing, occasionally tilting naturally toward the equipment before returning to her face. She looks slightly out of breath but happy and says with a playful laugh:
-
-“Why did I think this was gonna be easy?”
-
-She takes a quick water break, holding her bottle near the selfie camera before taking a sip. She smiles and catches her breath while natural gym ambience continues around her.
-
-Later, after finishing the workout, she walks toward the gym exit with the phone still in her hand. Her hair is slightly messier and she looks pleasantly tired. She gives the camera a satisfied smile, lightly wipes her forehead, and says:
-
-“Okay… I’m actually proud of myself.”
-
-She gives a small tired laugh, waves at the camera, and lowers the phone slightly for a relaxed ending.
-
-Audio
-
-Diegetic sound only, no background music. Include realistic gym ambience: treadmill hum, weights clanking, machine sounds, footsteps, distant conversations, subtle ventilation, water bottle sounds, and natural room tone. Every spoken line should be delivered frontally with clearly visible lip movement and natural timing.
-
-Keep the entire sequence fast, casual, spontaneous, and realistic, with natural transitions and enough brief visual moments to fill approximately 30 seconds without making the dialogue feel rushed. The final result should feel like an authentic personal gym vlog recorded casually on a modern smartphone.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman in Black Chased by a Pumpkin Monster in a Haunted Village
 
@@ -249,6 +175,66 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Schoolgirl Destroys a Tank Assault with Supernatural Power
+
+> ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
+
+[<img src="https://media.goodcase.ai/cases/e28bdc9038b1.jpg" width="600" alt="Schoolgirl Destroys a Tank Assault with Supernatural Power">](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2101205826895827053) | **公開日:** 2026-09-19 | **ヒート:** 77
+
+<details>
+<summary><b>プロンプト全文（42 行、クリックで展開）</b></summary>
+
+```
+GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
+
+SCENE 1 — 0:00–0:02.5
+Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
+
+SCENE 2 — 0:02.5–0:04.5
+The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
+
+SCENE 3 — 0:04.5–0:07
+Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
+
+SCENE 4 — 0:07–0:09.5
+Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
+
+SCENE 5 — 0:09.5–0:11.5
+The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
+
+SCENE 6 — 0:11.5–0:14
+A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
+
+SCENE 7 — 0:14–0:16.5
+Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
+
+SCENE 8 — 0:16.5–0:19
+Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
+
+SCENE 9 — 0:19–0:21.5
+The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
+
+SCENE 10 — 0:21.5–0:24
+A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
+
+SCENE 11 — 0:24–0:26
+Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
+
+SCENE 12 — 0:26–0:27.5
+Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
+
+NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
+
+#Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
+@Flovaai @itsPolloAI
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Synchronized Rotation of Model and Outfit Items
 
@@ -547,66 +533,6 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/underwater-animal-orchestra?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Schoolgirl Destroys a Tank Assault with Supernatural Power
-
-> ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
-
-[<img src="https://media.goodcase.ai/cases/e28bdc9038b1.jpg" width="600" alt="Schoolgirl Destroys a Tank Assault with Supernatural Power">](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2101205826895827053) | **公開日:** 2026-09-19 | **ヒート:** 76
-
-<details>
-<summary><b>プロンプト全文（42 行、クリックで展開）</b></summary>
-
-```
-GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT same schoolgirl, identical face, black bob haircut, navy school uniform, red ribbon, blue plaid skirt, same highway, mountains, skyline, lighting and visual style. Every scene must directly continue from the previous scene using the exact previous last frame as the next Start/Reference Frame. No changes in identity, clothing, environment, direction, scale or lighting.
-
-SCENE 1 — 0:00–0:02.5
-Girl stands exactly in the center of a huge highway, facing distant military tanks. Wide cinematic shot, mountains and city skyline behind them.
-
-SCENE 2 — 0:02.5–0:04.5
-The same tanks fire toward the girl. Powerful muzzle flashes, smoke and realistic military details. Camera moves slightly alongside the tanks.
-
-SCENE 3 — 0:04.5–0:07
-Cut to the exact same girl, standing calmly and facing the camera. Slow cinematic push-in toward her face.
-
-SCENE 4 — 0:07–0:09.5
-Multiple tank shells rapidly fly toward and around the girl. She remains completely still. Projectiles must keep their forward direction and never disappear or reverse.
-
-SCENE 5 — 0:09.5–0:11.5
-The girl's eyes glow neon green. She raises one hand and creates powerful green energy around her hand and body.
-
-SCENE 6 — 0:11.5–0:14
-A massive explosion erupts on the highway around the attacking forces. Huge fire, smoke, dust and debris.
-
-SCENE 7 — 0:14–0:16.5
-Low tracking shot of the same military tanks aggressively moving forward. Realistic tracks, armor, weight, dust and smoke.
-
-SCENE 8 — 0:16.5–0:19
-Multiple tanks suddenly rise and float above the highway under a powerful supernatural force. Same environment and daylight.
-
-SCENE 9 — 0:19–0:21.5
-The floating tanks violently explode in mid-air. Large fireballs, smoke, metal fragments and debris fall downward.
-
-SCENE 10 — 0:21.5–0:24
-A gigantic explosion completely fills the center of the highway with fire, smoke and debris. Wide cinematic shot.
-
-SCENE 11 — 0:24–0:26
-Cut back to the EXACT same girl, unchanged and unharmed, standing calmly in the center of the now-empty highway. Slow push-in.
-
-SCENE 12 — 0:26–0:27.5
-Camera moves behind the girl as she calmly walks forward down the highway. End with a wide cinematic shot of her walking toward the distant mountains.
-
-NEGATIVE: No character change, face change, hairstyle change, outfit change, age change, background change, lighting change, weather change, duplicated character, distorted face, deformed hands, extra fingers, disappearing objects, reversed movement, U-turns, camera flips, inconsistent tanks, unrealistic physics, text, subtitles, logos, watermark, UI or continuity errors.
-
-#Ai #darkfantisy #visaul #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualstorytelling #seedance25
-@Flovaai @itsPolloAI
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Woman's Morning Farm Routine in the Korean Countryside
 
 > There’s something special about a morning spent close to nature. Created on Seedance 2.5 Prompt: Create a 30-second photorealistic Korean countryside lifestyle …
@@ -753,6 +679,60 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Two Samurai Duel at a Floating Temple Beneath the Full Moon
+
+> From imagination to cinematic anime action. Explore stunning character animation, dynamic sword combat and spectacular VFX with Seedance 2.5 on @WizstarAI. #Wiz…
+
+[<img src="https://media.goodcase.ai/cases/360f933d9283.jpg" width="600" alt="Two Samurai Duel at a Floating Temple Beneath the Full Moon">](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2117623327179280408) | **公開日:** 2026-11-03 | **ヒート:** 75
+
+<details>
+<summary><b>プロンプト全文（36 行、クリックで展開）</b></summary>
+
+```
+THE LAST BLADE — EPIC ANIME SWORD BATTLE
+
+Duration: Exactly 30 seconds | 16:9 | Premium cinematic anime | 60 FPS target.
+
+REFERENCES:
+@image1 = Protagonist. Preserve exact recognizable face, curly brown hair, beard and body proportions in anime style. Outfit: black samurai coat, silver dragon shoulder armor, charcoal kimono, crimson waist sash, black trousers and armored boots. Weapon: Kurogane, a silver katana with blue energy.
+
+@image2 = Akuma, the Void Emperor. Tall muscular supernatural samurai, pale grey skin, glowing violet eyes, long silver hair, black obsidian armor, crimson cape and purple-energy katana named Void Reaver.
+
+@image3 = Sky Temple of Eternal Moon. Floating Japanese temple, circular cracked stone battlefield, cherry blossoms, golden lanterns, waterfalls, floating mountains and enormous full moon.
+
+TIMELINE:
+
+00:00–00:03: Epic wide reveal of the moonlit temple. Both warriors face each other, swords ready. Camera slowly pushes forward.
+
+00:03–00:06: Both dash forward. Horizontal slash, diagonal counter and overhead block. Swords collide, releasing blue and purple energy explosions.
+
+00:06–00:09: Akuma performs five rapid sword attacks. Protagonist blocks, dodges and slides underneath the final strike. Sparks fly.
+
+00:09–00:12: Protagonist activates blue dragon energy and performs three spinning katana cuts, forcing Akuma backward.
+
+00:12–00:15: Akuma unleashes a massive purple crescent energy slash that tears through the stone battlefield. Protagonist blocks defensively.
+
+00:15–00:18: Intense multi-angle sword duel. Protagonist performs sliding attacks, spinning slashes and an aerial backflip while Akuma counters aggressively.
+
+00:18–00:21: Akuma delivers a devastating overhead strike. Protagonist blocks as the platform cracks and a purple shockwave spreads.
+
+00:21–00:24: Protagonist activates his ultimate blue dragon technique, deflects Akuma's sword and unleashes three lightning-fast strikes followed by a gigantic dragon-shaped energy wave.
+
+00:24–00:27: Akuma's sword flies away. His purple energy disappears and he falls defeated. Protagonist lands victoriously. No gore.
+
+00:27–00:30: Epic final wide shot. Protagonist sheathes his glowing katana beneath the full moon. Cherry blossoms swirl as the camera rises to reveal the floating temple.
+
+AUDIO: Epic Japanese orchestral music, shakuhachi flute, taiko drums, metallic sword clashes, blade whooshes, magical explosions and synchronized impact sounds.
+
+FINAL RULES: Exactly 30 seconds, continuous anime sequence, fluid sakuga animation, spectacular blue and violet VFX, dynamic cinematic camera angles, consistent character identity, costumes, weapons and location. Protagonist MUST win. No photorealism, dialogue, subtitles or watermarks.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-protagonist-c124d946274c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### White Supercar Soars Across Seoul’s River and Lands on a Rooftop
 
@@ -967,6 +947,52 @@ FINALLY: skin and movement should look like real travel footage, not AI-generate
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Korean Woman Escapes an Apartment Zombie Horde into an Elevator
+
+> THE LAST FLOOR – A Korean Zombie Nightmare SEEDANCE 2.5 on @PixVerse Prompt: Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic …
+
+[<img src="https://media.goodcase.ai/cases/83ad7dadf7f2.jpg" width="600" alt="Korean Woman Escapes an Apartment Zombie Horde into an Elevator">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-cinema-382724504167?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @QAiStudio | **出典:** [元投稿](https://x.com/QAiStudio/status/2117256134616818159) | **公開日:** 2026-11-02 | **ヒート:** 74
+
+<details>
+<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic live-action style.
+
+CHARACTER CONSISTENCY: Young adult Korean woman, identical face, hairstyle, outfit, and body proportions to the reference image throughout. Expression evolves from terrified to desperate, determined, then shaken relief.
+
+ZOMBIES: Aggressive, realistic human-like zombies with pale dirty skin, sunken eyes, damaged faces, messy hair, and torn everyday clothing. Practical horror makeup, no excessive gore.
+
+LOCATION: One consistent dim Korean apartment tower: concrete stairwell, narrow numbered-door corridor, flickering greenish fluorescent lights, metal elevator with glowing floor indicator, CLOSE DOOR button, and pulsing red emergency light.
+
+30-SECOND SEQUENCE (10 SHOTS):
+
+1. 0–3s: Close-up, woman sprints down stairs as zombie hands reach from above.
+2. 3–6s: She bursts into corridor, shoves an attacking zombie into the wall.
+3. 6–9s: Rear tracking shot as she races toward the elevator, zombies emerging behind her.
+4. 9–12s: She repeatedly presses elevator call button; horde approaches.
+5. 12–15s: Doors open; she dives inside as zombies charge.
+6. 15–18s: Extreme close-up, repeatedly jams CLOSE DOOR button as doors begin shutting.
+7. 18–21s: Zombie arms force through the gap; she kicks them away.
+8. 21–24s: Doors slam shut; she trembles as zombies pound outside.
+9. 24–27s: Elevator descends; she collapses against the wall, gasping.
+10. 27–30s: Lobby doors open, revealing motionless shadowy figures. One slowly turns its head. Extreme close-up of her terrified eyes. CUT TO BLACK.
+
+CINEMATOGRAPHY: Handheld chase tracking, dynamic wide shots, extreme close-ups, low-angle elevator struggle, realistic movement, natural motion blur, cinematic green-gray lighting, practical VFX, consistent spatial continuity.
+
+AUDIO: Heavy breathing, rapid footsteps, zombie snarls, fluorescent buzz, elevator chime, metallic scraping, pounding doors, elevator hum, rising horror drone. No narration.
+
+NEGATIVE: No location changes, rooftop, outdoor scenes, phones, weapons, superhero powers, fantasy effects, extra limbs, duplicated heroine, identity or outfit changes, cartoon/anime, excessive gore, subtitles, random text, or watermark.
+
+OUTPUT: One coherent, suspenseful, photorealistic 30-second Korean zombie-thriller sequence with seamless character and environment consistency.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-cinema-382724504167?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Journey Through The Last Supper in Three Dimensions
 
@@ -2429,20 +2455,6 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night
-
-> Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
-
-[<img src="https://media.goodcase.ai/cases/e12da6fb5033.jpg" width="600" alt="Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night">](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MahiraEhan | **出典:** [元投稿](https://x.com/MahiraEhan/status/2109875307675017668) | **公開日:** 2026-10-13 | **ヒート:** 70
-
-```
-A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Roman Gladiator Turns the Tide to Win in the Arena
 
 > One warrior, one arena, one fight for glory. Experience epic gladiator battles, cinematic action, and realistic visuals with Seedance 2.5 on @ImagineArt_X Promp…
@@ -2927,6 +2939,20 @@ Scene 4 (7.5–10s): She playfully reaches for the camera, laughs, and ends with
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-10-second-ultra-realistic-4k-video-16-9-landscape-60-fps-a9119ed80745?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night
+
+> Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
+
+[<img src="https://media.goodcase.ai/cases/e12da6fb5033.jpg" width="600" alt="Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night">](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MahiraEhan | **出典:** [元投稿](https://x.com/MahiraEhan/status/2109875307675017668) | **公開日:** 2026-10-13 | **ヒート:** 69
+
+```
+A high-definition 4K cinematic video of a white and orange tabby cat sitting in the driver's seat of a classic convertible car at night, looking expressively toward the passenger side while "singing" with natural lip-sync movement. In the passenger seat, a fluffy blue-gray British Shorthair cat and a tiny white Pomeranian dog sit close together, watching with wide, emotional eyes. The background features soft, blurred bokeh city lights of a downtown street. Moody, cinematic lighting reflecting off the polished black car hood. Shot with a shallow depth of field, playful yet dramatic tone, seamless character consistency across cuts.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Girl Running Through a Rainy Japanese Neighborhood
 
@@ -4435,40 +4461,6 @@ Photorealistic Korean lifestyle cinematography, cinematic 35mm look, natural ski
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-15-second-vertical-9-16-cinematic-lifestyle-video-featuring-one-consis-be933c12e780?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Candlelit Exorcism Ritual in a Traditional Korean House
-
-> 30 seconds of pure Korean folk horror. Made with Seedance 2.5 on @openart_ai Prompt: 30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face …
-
-[<img src="https://media.goodcase.ai/cases/52e979f23a9f.jpg" width="600" alt="Candlelit Exorcism Ritual in a Traditional Korean House">](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @doctorwasif | **出典:** [元投稿](https://x.com/doctorwasif/status/2097533759944090052) | **公開日:** 2026-09-09 | **ヒート:** 66
-
-**安定度:** 70/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 69.7) · [出力](https://media.goodcase.ai/retests/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（12 行、クリックで展開）</b></summary>
-
-```
-30-sec cinematic Korean folk-horror ritual. Keep the Word character’s face and outfit consistent throughout.
-
-1. 0–4s: Word character kneels pale and weak in a dim traditional Korean house; worried family, candles, incense, shaman preparing the ritual.
-2. 4–8s: Salt circle and talismans surround her; candlelight flickers as her eyes twitch and fingers convulse.
-3. 8–12s: Her head snaps unnaturally; guttural inhuman voice, dark veins spreading, body twisting as the ritual intensifies.
-4. 12–16s: Eyes turn black; shaman chants frantically and throws rice/salt; her body convulses violently.
-5. 16–20s: She rises unnaturally; shaman presses a burning talisman to her forehead as wind tears through the closed room.
-6. 20–24s: Talisman burns, flames surge, she collapses and becomes completely still.
-7. 24–27s: Her eyes reopen human; family rushes to her in relief while the exhausted shaman watches.
-8. 27–30s: Wide aftermath: scattered salt, burnt talismans, melted candles. One intact talisman emits faint dark smoke, leaving an unsettling unresolved ending.
-
-Style: cinematic Korean folk horror, dark wooden interior, warm candlelight, deep shadows, tense atmosphere, realistic, unsettling, dramatic camera movement.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-30-sec-cinematic-korean-folk-horror-ritual-78323fedb479?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)

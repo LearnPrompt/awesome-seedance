@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 2/8）
 
-Seedance 2.5 の全 666 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 672 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 666 件中 86–156 件目。
+このページ: 672 件中 87–157 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)
 
@@ -610,39 +610,6 @@ OUTPUT:
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Macro Time-Lapse: Ten Seconds of Germination
-
-> Seedance 2.5 on @Vorla_AI ❤️ Prompt: Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the
-
-[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="600" alt="Seedance 2.5 Macro Time-Lapse: Ten Seconds of Germination">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Yesandyou_ | **出典:** [元投稿](https://x.com/Yesandyou_/status/2088998841395921185) | **公開日:** 2026-08-16 | **ヒート:** 86
-
-<details>
-<summary><b>プロンプト全文（15 行、クリックで展開）</b></summary>
-
-```
-Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the provided reference image as the exact visual starting point. Begin with the same tiny green seedling 🌱 emerging from dark, rich, slightly moist soil. Keep the camera completely locked and stationary 📷, preserving the same composition, camera angle, depth of field, warm natural sunlight ☀️, soft background bokeh, and realistic soil texture throughout the entire video.
-
-0–2 seconds 🌱: The tiny seedling slowly pushes upward from beneath the soil. Small cracks and subtle soil movement appear naturally around its base as the plant emerges. The thin green stem gradually becomes taller while the two young leaves slowly unfold and expand 🍃.
-
-2–4 seconds 🌿: The seedling continues growing into a young tomato plant. The stem becomes thicker and taller, while additional green leaves and small branches gradually emerge. Each leaf unfolds naturally with visible veins and realistic botanical detail 🍃✨. Gentle sunlight passes through the leaves ☀️, creating beautiful natural highlights.
-
-4–6 seconds 🌼: The plant grows fuller and stronger. Small yellow tomato flowers 🌼 begin appearing on the branches. The flowers gradually develop and bloom one by one, with delicate petals opening naturally. The plant continues extending upward and outward in a smooth time-lapse 🌿.
-
-6–8 seconds 🍅: After flowering 🌼, tiny green tomatoes 🍅 begin forming beneath the flowers. The fruits slowly enlarge from tiny green buds into recognizable round tomatoes. More tomatoes develop across the branches while fresh leaves continue growing around them 🌿🍃.
-
-8–10 seconds 🍅❤️: The green tomatoes gradually mature and transform into large, ripe, vibrant red tomatoes 🍅❤️. End with a healthy, fully grown tomato plant 🌿 surrounded by several beautiful ripe tomatoes hanging naturally from its branches.
-
-Make the entire transformation smooth, continuous, organic, and biologically believable 🌱➡️🌿➡️🌼➡️🍅. Use photorealistic textures, realistic plant anatomy, detailed leaves and veins, natural soil particles, subtle wind movement 🍃, warm golden-hour sunlight ☀️, cinematic depth of field 🎥, soft background bokeh ✨, realistic shadows, macro photography quality, and highly detailed 4K visuals.
-
-Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌, no camera shake ❌, no text ❌, no people ❌, no hands ❌, and no artificial-looking morphing ❌. The plant must grow progressively from the exact location of the original seedling, with every stage naturally connected to the previous stage. The final result should look like a real professional botanical time-lapse 🌱🎥🍅, showing the complete journey from a tiny seedling to a mature tomato plant full of ripe red tomatoes. 🍅✨
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree
 
@@ -5890,6 +5857,80 @@ SFX: Sharp throwing whoosh + spreading watercolor-ink bloom + felt-tip marker sq
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-magic-pen-street-transport-vlog-28d80bd05eda?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance Thirty-Second Gym Day Vlog
+
+> Gym day: survived, sweated, and somehow left proud 💪😅 Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 30-s
+
+[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-b7601661378a.jpg" width="600" alt="Seedance Thirty-Second Gym Day Vlog">](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZaraIrahh | **出典:** [元投稿](https://x.com/ZaraIrahh/status/2089195912119943367) | **公開日:** 2026-08-17 | **ヒート:** 78
+
+**安定度:** 80/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.6) · [出力](https://media.goodcase.ai/retests/zarairahh-seedance-ai-b7601661378a/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（52 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second casual gym vlog featuring the same young woman in her early twenties. She has natural everyday beauty, and her face and hair remain identical throughout the entire video.
+
+Camera & visual style
+
+One continuous handheld front-facing smartphone selfie vlog, always filmed from her own point of view with the phone held in her own hand at arm’s length. No third-person camera, external camera, tripod, cinematic camera movement, or professional filming.
+
+Make it look like a real modern smartphone recording:
+
+- Mild handheld shake and natural walking bounce
+- Occasional autofocus hunting
+- Small exposure shifts and minor framing imperfections
+- Natural front-camera lens distortion
+- Soft warm natural daylight transitioning toward early evening
+- Natural, uncorrected smartphone color
+- No color grading, beauty filter, or skin smoothing
+- Same woman, same face and hair throughout
+- She holds the phone herself in every shot
+- No subtitles, captions, logos, watermarks, or on-screen text
+- No brand or character names
+- Never show a reference sheet or duplicate subject
+
+Outfit
+
+She is wearing a cute, trendy, realistic gym outfit appropriate for a casual workout vlog: fitted athletic top, comfortable high-waisted leggings or shorts, clean sneakers, and minimal accessories. The styling should feel fashionable but natural and practical for the gym.
+
+Scene
+
+She is spending a casual day at the gym and filming herself throughout her workout.
+
+She enters the gym while holding her phone at arm’s length, smiling into the front camera. She briefly sweeps the phone toward the workout area, showing treadmills, weights, machines, and other gym-goers in the background, then brings it back to her face. She grins and says upbeat:
+
+“Okay, gym day! Let’s get this workout started!”
+
+She walks toward the workout area, naturally bouncing the phone with her steps. She glances at the equipment, smiles at the camera, and starts a light warm-up. Keep the movements natural and unscripted, with brief moments of her adjusting her hair, checking her form, and laughing at herself.
+
+She moves into a short workout sequence while still filming herself handheld: a few casual gym exercises, light cardio, and a quick strength-training moment. Keep the camera mostly selfie-facing, occasionally tilting naturally toward the equipment before returning to her face. She looks slightly out of breath but happy and says with a playful laugh:
+
+“Why did I think this was gonna be easy?”
+
+She takes a quick water break, holding her bottle near the selfie camera before taking a sip. She smiles and catches her breath while natural gym ambience continues around her.
+
+Later, after finishing the workout, she walks toward the gym exit with the phone still in her hand. Her hair is slightly messier and she looks pleasantly tired. She gives the camera a satisfied smile, lightly wipes her forehead, and says:
+
+“Okay… I’m actually proud of myself.”
+
+She gives a small tired laugh, waves at the camera, and lowers the phone slightly for a relaxed ending.
+
+Audio
+
+Diegetic sound only, no background music. Include realistic gym ambience: treadmill hum, weights clanking, machine sounds, footsteps, distant conversations, subtle ventilation, water bottle sounds, and natural room tone. Every spoken line should be delivered frontally with clearly visible lip movement and natural timing.
+
+Keep the entire sequence fast, casual, spontaneous, and realistic, with natural transitions and enough brief visual moments to fill approximately 30 seconds without making the dialogue feel rushed. The final result should feel like an authentic personal gym vlog recorded casually on a modern smartphone.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/zarairahh-seedance-ai-b7601661378a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md)
