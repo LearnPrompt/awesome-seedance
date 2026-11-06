@@ -38,7 +38,7 @@ New to AI video? Follow these five steps and you will have your own clip. Nothin
 | 2 | Open that template (for example [UGC creator review](./docs/templates/en/ugc-creator-review.md)) and copy the block under *Copy this*. |
 | 3 | Replace the [bracketed] parts with your own product, person or scene. |
 | 4 | Send it to any AI chat (ChatGPT, Claude, Gemini) along with your reference images. You get back a finished prompt. |
-| 5 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If it looks off, read the template's pitfalls and re-run. |
+| 5 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. See the [official Seedance 2.5 model page](https://seed.bytedance.com/en/seedance2_5) for details. If it looks off, read the template's pitfalls and re-run. |
 
 **Templates or Skills?** Templates are distilled from 976 verified cases. Skills can apply those structures or guide other parts of production.
 
