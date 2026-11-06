@@ -38,7 +38,7 @@
 | 2 | 点开那个模板（比如 [UGC 口播测评带货](./docs/templates/zh/ugc-creator-review.md)），复制「直接复制」下面那一整段。 |
 | 3 | 把【】里的内容换成你自己的产品、人物或场景。 |
 | 4 | 连同参考图一起发给任意 AI 对话（ChatGPT、Claude、豆包都行），拿到一条写好的提示语。 |
-| 5 | 把提示语粘到 Seedance（即梦 / Dreamina）生成。效果不对，先看模板里的常见坑，改完再跑。 |
+| 5 | 把提示语粘到 Seedance（即梦 / Dreamina）生成。模型详情见 [Seedance 2.5 官方页面](https://seed.bytedance.com/zh/seedance2_5)。效果不对，先看模板里的常见坑，改完再跑。 |
 
 **用模板还是用 Skill？** 模板从 976 条已验证案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。
 

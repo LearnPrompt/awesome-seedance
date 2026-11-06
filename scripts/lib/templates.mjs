@@ -460,21 +460,21 @@ export function renderStartHere(lang, anchors, counts) {
       ["2", `Open that template (for example [UGC creator review](${docBase}/ugc-creator-review.md)) and copy the block under *Copy this*.`],
       ["3", "Replace the [bracketed] parts with your own product, person or scene."],
       ["4", "Send it to any AI chat (ChatGPT, Claude, Gemini) along with your reference images. You get back a finished prompt."],
-      ["5", "Paste that prompt into Seedance (Dreamina / Jimeng) and generate. If it looks off, read the template's pitfalls and re-run."],
+      ["5", "Paste that prompt into Seedance (Dreamina / Jimeng) and generate. See the [official Seedance 2.5 model page](https://seed.bytedance.com/en/seedance2_5) for details. If it looks off, read the template's pitfalls and re-run."],
     ],
     zh: [
       ["1", `在[分类提示语模板](${anchors.templates})里看图挑一个你想要的画面类型。`],
       ["2", `点开那个模板（比如 [UGC 口播测评带货](${docBase}/ugc-creator-review.md)），复制「直接复制」下面那一整段。`],
       ["3", "把【】里的内容换成你自己的产品、人物或场景。"],
       ["4", "连同参考图一起发给任意 AI 对话（ChatGPT、Claude、豆包都行），拿到一条写好的提示语。"],
-      ["5", "把提示语粘到 Seedance（即梦 / Dreamina）生成。效果不对，先看模板里的常见坑，改完再跑。"],
+      ["5", "把提示语粘到 Seedance（即梦 / Dreamina）生成。模型详情见 [Seedance 2.5 官方页面](https://seed.bytedance.com/zh/seedance2_5)。效果不对，先看模板里的常见坑，改完再跑。"],
     ],
     ja: [
       ["1", `[カテゴリ別プロンプトテンプレート](${anchors.templates})で、作りたい絵柄を画像から選びます。`],
       ["2", `そのテンプレート（例: [UGC creator review](${docBase}/ugc-creator-review.md)、英語）を開き、*Copy this* の下のブロックをコピーします。`],
       ["3", "[角括弧] の部分を自分の商品、人物、シーンに置き換えます。"],
       ["4", "参照画像と一緒に任意の AI チャット（ChatGPT、Claude、Gemini）に送ると、完成したプロンプトが返ってきます。"],
-      ["5", "そのプロンプトを Seedance（Dreamina / 即夢）に貼って生成します。うまくいかないときはテンプレートの落とし穴を確認して再実行します。"],
+      ["5", "そのプロンプトを Seedance（Dreamina / 即夢）に貼って生成します。モデルの詳細は [Seedance 2.5 公式ページ](https://seed.bytedance.com/en/seedance2_5)をご覧ください。うまくいかないときはテンプレートの落とし穴を確認して再実行します。"],
     ],
   });
   lines.push(t(lang, { en: "| Step | What to do |", zh: "| 步骤 | 做什么 |", ja: "| ステップ | やること |" }));
