@@ -1,23 +1,24 @@
 # Awesome Seedance — ギャラリー索引
 
-全 976 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 1010 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
 ## ページ
 
-- [Seedance 2.5 · Part 1/8](./gallery-seedance-2-5-part-1.ja.md) - 672 件中 1–86 件目.
-- [Seedance 2.5 · Part 2/8](./gallery-seedance-2-5-part-2.ja.md) - 672 件中 87–157 件目.
-- [Seedance 2.5 · Part 3/8](./gallery-seedance-2-5-part-3.ja.md) - 672 件中 158–253 件目.
-- [Seedance 2.5 · Part 4/8](./gallery-seedance-2-5-part-4.ja.md) - 672 件中 254–345 件目.
-- [Seedance 2.5 · Part 5/8](./gallery-seedance-2-5-part-5.ja.md) - 672 件中 346–442 件目.
-- [Seedance 2.5 · Part 6/8](./gallery-seedance-2-5-part-6.ja.md) - 672 件中 443–542 件目.
-- [Seedance 2.5 · Part 7/8](./gallery-seedance-2-5-part-7.ja.md) - 672 件中 543–617 件目.
-- [Seedance 2.5 · Part 8/8](./gallery-seedance-2-5-part-8.ja.md) - 672 件中 618–672 件目.
-- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 304 件中 1–89 件目.
-- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 304 件中 90–198 件目.
-- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 304 件中 199–281 件目.
-- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 304 件中 282–304 件目.
+- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.ja.md) - 702 件中 1–86 件目.
+- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.ja.md) - 702 件中 87–157 件目.
+- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.ja.md) - 702 件中 158–251 件目.
+- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.ja.md) - 702 件中 252–344 件目.
+- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.ja.md) - 702 件中 345–438 件目.
+- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.ja.md) - 702 件中 439–537 件目.
+- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.ja.md) - 702 件中 538–620 件目.
+- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.ja.md) - 702 件中 621–690 件目.
+- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.ja.md) - 702 件中 691–702 件目.
+- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 308 件中 1–89 件目.
+- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 308 件中 90–197 件目.
+- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 308 件中 198–283 件目.
+- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 308 件中 284–308 件目.
 
 ## このリポジトリのその他の入口
 
@@ -38,8 +39,8 @@
 - [Two-Idol K-pop MV, Shot by Shot](./gallery-seedance-2-5-part-1.ja.md#two-idol-k-pop-mv-shot-by-shot) - A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
 - [Mini DV Coffee ASMR Vlog](./gallery-seedance-2-5-part-1.ja.md#mini-dv-coffee-asmr-vlog) - A cozy espresso-making vlog that manufactures authenticity out of consumer camcorder flaws — hand shake, focus hunting, auto-exposure shifts and tape grain — paired with an ASMR sound list, a three-second-per-beat storyboard and an explicit rule against looking commercial or AI-generated.
 - [Rainy Morning Coffee and a Walk to University](./gallery-seedance-2-5-part-1.ja.md#rainy-morning-coffee-and-a-walk-to-university) - Some mornings begin with sunshine. Hers began with rain. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action university vlog of …
-- [Toddler Opens Doors to Learn Letters and Words](./gallery-seedance-2-5-part-1.ja.md#toddler-opens-doors-to-learn-letters-and-words) - Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 - [Dynamic Promo for a Modern AI Inference Startup](./gallery-seedance-2-0-part-1.ja.md#dynamic-promo-for-a-modern-ai-inference-startup) - Opus 5.5 is incredible at instructional video generation. I made this launch video for a inference startup in 1min for ~$2. Videos like these used to take weeks…
+- [Toddler Opens Doors to Learn Letters and Words](./gallery-seedance-2-5-part-1.ja.md#toddler-opens-doors-to-learn-letters-and-words) - Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 - [Woman in Black Stands Still Amid a Synchronized Crowd](./gallery-seedance-2-5-part-1.ja.md#woman-in-black-stands-still-amid-a-synchronized-crowd) - I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 
 ← [README に戻る](../README_ja.md)

@@ -133,7 +133,7 @@ Create a 12-second 16:9 animated croissant-making sequence that follows the 8-sh
 
 ## E3 · Survival Run Through a Collapsing Kuala Lumpur
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 77
+- Seedance 2.5 · creator: @Xaroon_x · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c) · [finished media](https://media.goodcase.ai/cases/1634f009339b.mp4) · [poster](https://media.goodcase.ai/cases/a4fc7d20210a.jpg) · [original source](https://x.com/Xaroon_x/status/2097267405399396457)
 - Summary: When every second feels cinematic, the action never stops. Created with the power of Seedance 2.5 on @nemovideoai A high-intensity cinematic action sequence fea…
 

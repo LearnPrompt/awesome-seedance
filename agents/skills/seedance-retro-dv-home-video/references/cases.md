@@ -46,7 +46,7 @@ Format: 16:9.
 
 ## E3 · A Day Buying Bread and Cotton Candy in Old Seoul
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 95
+- Seedance 2.5 · creator: @AIwithkhan · heat: 96
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a) · [finished media](https://media.goodcase.ai/cases/60b9bcdc9e88.mp4) · [poster](https://media.goodcase.ai/cases/f73ca1c9ee91.jpg) · [original source](https://x.com/AIwithkhan/status/2104057858765791389)
 - Summary: Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
 

@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/8 页）
 
-Seedance 2.5 全部 672 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 702 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–86 条，共 672 条。
+本页：第 1–87 条，共 702 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md)
 
@@ -673,6 +673,39 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 首尔老街买面包与棉花糖的一天
+
+> Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
+
+[<img src="https://media.goodcase.ai/cases/f73ca1c9ee91.jpg" width="600" alt="首尔老街买面包与棉花糖的一天">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104057858765791389) | **发布:** 2026-09-27 | **热度:** 96
+
+<details>
+<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+
+```
+Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, cheerful day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and overall appearance consistent throughout. She has long black hair tied in a casual ponytail and wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet.
+
+She steps out of her home with a small smile, closes the door behind her and walks casually through the quiet neighborhood. She enters a tiny local convenience store, picks up a fresh loaf of bread, pays the shopkeeper with coins, holds the bread in one hand and walks back outside.
+
+While walking down the lane, she suddenly spots her female friend approaching from the opposite direction. Her friend smiles, they greet each other warmly and share a natural friendly hug before saying goodbye. She continues walking with the bread in her hand.
+
+A little farther down the street, she notices a bicycle cotton-candy vendor parked beside the road. She stops, smiles, takes a few coins from her pocket and gives them to the vendor. He prepares a fluffy colorful cotton candy and hands it to her. She happily takes a bite while continuing her walk.
+
+She reaches a nearby outdoor water tap, places the bread carefully on a clean ledge beside her, bends down and drinks fresh water directly from the tap. She wipes her mouth with the back of her hand, picks up the bread again and continues walking.
+
+Near the end, she walks slowly down the quiet residential lane with the bread in one hand and cotton candy in the other, takes another happy bite, then turns toward the camera, smiles naturally and says “Bye bye!” before walking away.
+
+Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms, realistic skin texture and authentic home-video imperfections.
+
+Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, vendor conversations, distant traffic, birds, water running from the tap, children playing and light wind through the trees. No music, no narration, no subtitles, no polished commercial cinematography, no beauty filter, no CGI look.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 蓝夹克双辫女剑士破框而出
 
 > 作者分享的 Seedance 2.5 破框特效：角色的剑、手、球鞋和衣摆反复越过上下固定黑边扑向镜头，prompt 写清了图层合成顺序、黑边锁定和整套剑术踢腿连招。需要自备一张角色参考图。
@@ -921,39 +954,6 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 首尔老街买面包与棉花糖的一天
-
-> Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
-
-[<img src="https://media.goodcase.ai/cases/f73ca1c9ee91.jpg" width="600" alt="首尔老街买面包与棉花糖的一天">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104057858765791389) | **发布:** 2026-09-27 | **热度:** 95
-
-<details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, cheerful day in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face and overall appearance consistent throughout. She has long black hair tied in a casual ponytail and wears a pink fitted crop top, white casual shorts, simple slippers, and a small bracelet.
-
-She steps out of her home with a small smile, closes the door behind her and walks casually through the quiet neighborhood. She enters a tiny local convenience store, picks up a fresh loaf of bread, pays the shopkeeper with coins, holds the bread in one hand and walks back outside.
-
-While walking down the lane, she suddenly spots her female friend approaching from the opposite direction. Her friend smiles, they greet each other warmly and share a natural friendly hug before saying goodbye. She continues walking with the bread in her hand.
-
-A little farther down the street, she notices a bicycle cotton-candy vendor parked beside the road. She stops, smiles, takes a few coins from her pocket and gives them to the vendor. He prepares a fluffy colorful cotton candy and hands it to her. She happily takes a bite while continuing her walk.
-
-She reaches a nearby outdoor water tap, places the bread carefully on a clean ledge beside her, bends down and drinks fresh water directly from the tap. She wipes her mouth with the back of her hand, picks up the bread again and continues walking.
-
-Near the end, she walks slowly down the quiet residential lane with the bread in one hand and cotton candy in the other, takes another happy bite, then turns toward the camera, smiles naturally and says “Bye bye!” before walking away.
-
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms, realistic skin texture and authentic home-video imperfections.
-
-Natural neighborhood ambience only — footsteps, shop sounds, bicycle wheels, vendor conversations, distant traffic, birds, water running from the tap, children playing and light wind through the trees. No music, no narration, no subtitles, no polished commercial cinematography, no beauty filter, no CGI look.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔周五晨间散步
 
@@ -1682,49 +1682,6 @@ IMPORTANT CONSISTENCY INSTRUCTIONS
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-60-second-ultra-realistic-cinematic-korean-action-thriller-scene-featu-f31c9f4b3fc8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 狐狸在森林溪流边自拍漫游
-
-> Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
-
-[<img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="600" alt="狐狸在森林溪流边自拍漫游">](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MrDasOnX | **来源:** [原帖](https://x.com/MrDasOnX/status/2089969922617266257) | **发布:** 2026-08-19 | **热度:** 93
-
-**稳定度：** 75/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.5 分) · [产物](https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
-Visual Style: Bright modern 4K digital look with vibrant yet soft natural colors, warm late-afternoon golden sunlight mixed with dappled shade, gentle water reflections and soft mist rising from the stream, subtle water droplets or mist on the lens near the water, and crisp details on fur and leaves. Slight handheld energy but smooth enough for casual vlogging. Widescreen 16:9 framing.
-Character: Ember, a 24-year-old anthropomorphic red fox (bipedal, human-like proportions) with soft fluffy reddish-orange fur, white chest and muzzle, bright amber eyes, pointed ears, and a long bushy tail that sways naturally. He wears a simple light denim jacket with rolled sleeves over a soft cream t-shirt and comfortable cargo shorts. Personality: curious, warm, slightly playful and soft-spoken.
-Location: Starts on a wooden footbridge over a clear mountain stream in a lush temperate forest, surrounded by mossy rocks, ferns, wildflowers, and overhanging maple and pine branches. Soft green and golden foliage, clear water with gentle ripples and small fish darting below.
-Sequence (exactly 30 seconds, continuous take with timestamps):
-0:00 – 0:05
-Ember lifts the camera, smiles softly at the lens with his ears perking up, and says in a warm, slightly raspy voice:
-“Hey friends… you won’t believe this spot I found.”
-0:05 – 0:13
-He walks slowly along the wooden bridge, lowering the camera slightly to show the clear stream and small fish swimming just below the surface while continuing:
-“The water is so clear… I can see every little fish moving around.”
-0:13 – 0:20
-He crouches carefully at the edge, reaches one paw toward the water without touching it, and watches the fish dart past, laughing lightly:
-“They’re swimming right up to me. Hi little guys.”
-0:20 – 0:26
-He turns the camera to capture both his face and the stream, then sits on a flat mossy rock at the water’s edge, letting his tail curl beside him. He gazes at the water for a few seconds and says quietly:
-“Moments like this make everything feel peaceful.”
-0:26 – 0:30
-He stands up, waves one paw at the camera with a gentle smile, and says:
-“Thanks for exploring with me. See you next time.”
-The camera naturally lowers a little as he walks further along the path beside the stream.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 耳机女英雄以念力操纵车辆击退尸潮
 
 > This AI video looks like Marvel cut its special effects budget Created by Seedance 2.5 on @makeugc Do you think it should have been made more dynamic and given …
@@ -2226,6 +2183,49 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 狐狸在森林溪流边自拍漫游
+
+> Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
+
+[<img src="https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg" width="600" alt="狐狸在森林溪流边自拍漫游">](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MrDasOnX | **来源:** [原帖](https://x.com/MrDasOnX/status/2089969922617266257) | **发布:** 2026-08-19 | **热度:** 92
+
+**稳定度：** 75/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74.5 分) · [产物](https://media.goodcase.ai/retests/mrdasonx-seedance-ai-ccaa50150259/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
+
+```
+Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
+Visual Style: Bright modern 4K digital look with vibrant yet soft natural colors, warm late-afternoon golden sunlight mixed with dappled shade, gentle water reflections and soft mist rising from the stream, subtle water droplets or mist on the lens near the water, and crisp details on fur and leaves. Slight handheld energy but smooth enough for casual vlogging. Widescreen 16:9 framing.
+Character: Ember, a 24-year-old anthropomorphic red fox (bipedal, human-like proportions) with soft fluffy reddish-orange fur, white chest and muzzle, bright amber eyes, pointed ears, and a long bushy tail that sways naturally. He wears a simple light denim jacket with rolled sleeves over a soft cream t-shirt and comfortable cargo shorts. Personality: curious, warm, slightly playful and soft-spoken.
+Location: Starts on a wooden footbridge over a clear mountain stream in a lush temperate forest, surrounded by mossy rocks, ferns, wildflowers, and overhanging maple and pine branches. Soft green and golden foliage, clear water with gentle ripples and small fish darting below.
+Sequence (exactly 30 seconds, continuous take with timestamps):
+0:00 – 0:05
+Ember lifts the camera, smiles softly at the lens with his ears perking up, and says in a warm, slightly raspy voice:
+“Hey friends… you won’t believe this spot I found.”
+0:05 – 0:13
+He walks slowly along the wooden bridge, lowering the camera slightly to show the clear stream and small fish swimming just below the surface while continuing:
+“The water is so clear… I can see every little fish moving around.”
+0:13 – 0:20
+He crouches carefully at the edge, reaches one paw toward the water without touching it, and watches the fish dart past, laughing lightly:
+“They’re swimming right up to me. Hi little guys.”
+0:20 – 0:26
+He turns the camera to capture both his face and the stream, then sits on a flat mossy rock at the water’s edge, letting his tail curl beside him. He gazes at the water for a few seconds and says quietly:
+“Moments like this make everything feel peaceful.”
+0:26 – 0:30
+He stands up, waves one paw at the camera with a gentle smile, and says:
+“Thanks for exploring with me. See you next time.”
+The camera naturally lowers a little as he walks further along the path beside the stream.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 地下车库女子尸变追逐逃生者
 
@@ -3207,30 +3207,6 @@ low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, d
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 修女化身天使，在废墟教堂中斩灭群魔
-
-> ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
-
-[<img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="600" alt="修女化身天使，在废墟教堂中斩灭群魔">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2108765927194198397) | **发布:** 2026-10-10 | **热度:** 90
-
-<details>
-<summary><b>完整 prompt（6 行，点开展开）</b></summary>
-
-```
-A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
-
-Negative Prompt:
-blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
-
-#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 红裙女子提着食材登上云端山顶小屋
 
 > Somewhere between reality and a dream.🌫️✨ Created with Seedance 2.5 on @FishCreativeHQ PROMPT : Create a cinematic, photorealistic 30-second vertical video usi…
@@ -3429,6 +3405,30 @@ FORMAT: Vertical 9:16, consistent characters, smooth transitions, realistic moti
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-the-shadow-dragon-awakens-7717a96f1fd3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 修女化身天使，在废墟教堂中斩灭群魔
+
+> ⚡One warrior queen, a thousand demons, and a fight for survival. Created with Seedance 2.5 Prompt: A cinematic 30-second sequence starting in a dark, ruined got…
+
+[<img src="https://media.goodcase.ai/cases/605e835bd0b1.jpg" width="600" alt="修女化身天使，在废墟教堂中斩灭群魔">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **来源:** [原帖](https://x.com/itsSaira_1/status/2108765927194198397) | **发布:** 2026-10-10 | **热度:** 89
+
+<details>
+<summary><b>完整 prompt（6 行，点开展开）</b></summary>
+
+```
+A cinematic 30-second sequence starting in a dark, ruined gothic cathedral at night with a full moon. A woman dressed as a nun is kneeling inside a glowing magical rune circle on a stone floor, holding a bloodied sword, surrounded by hordes of terrifying demonic creatures. She pulls the sword to her chest, bursting with fiery light from her ribcage, and transforms into a powerful entity with large white glowing angelic wings and a halo, her clothes changing into an ornate dark blue gown with golden embroidery. She wields glowing magical swords, fighting off and defeating the demons with fiery energy and brilliant flashes of light in an epic action sequence. Finally, she plants her glowing sword into the ground, creating a protective circle with giant glowing crosses, standing victorious as the cathedral clears.
+
+Negative Prompt:
+blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn face, poorly drawn hands, watermark, signature, ugly, low resolution, choppy animation
+
+#AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 女子在夜间粉色球场滑着滑板打网球
 
 > Too glam to play by the rules🖤🎾🛹 Created with Seedance 2.5 on @TapNow_AI PROMPT: Create a photorealistic cinematic fashion-sports video set on a pink tennis …
@@ -3458,37 +3458,6 @@ Negative prompt: distorted face, changing identity, extra fingers, extra limbs, 
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-cinematic-fashion-sports-video-set-on-a-pink-tennis-cou-b27f2c8361f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 周一清晨的倒悬入水仪式
-
-> This is how it feels like to wake up on Monday to go to work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic indoor performance-art / fashion editorial vide…
-
-[<img src="https://media.goodcase.ai/cases/d86c8eb13364.jpg" width="600" alt="周一清晨的倒悬入水仪式">](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2104544058471502330) | **发布:** 2026-09-28 | **热度:** 89
-
-<details>
-<summary><b>完整 prompt（13 行，点开展开）</b></summary>
-
-```
-This is how it feels like to wake up on Monday to go to work.
-
-Seedance 2.5 on @FishCreativeHQ 
-
-Prompt
-
-A cinematic indoor performance-art / fashion editorial video, shot in a single continuous take inside a slightly worn historic room with cracked plaster walls, dark wood floors, a vintage wooden bed with rumpled beige linens, beige curtains over a tall window, and a soft abstract pink painting on the wall.
-
-A large custom-built pale mint-green wooden seesaw / dunk-lever structure (thick beams, metal bolts, industrial-craft aesthetic) spans the room. On the high end, a woman hangs completely upside-down, knees hooked over the beam, wearing a short beige-and-black horizontal-striped dress. She clutches a dripping beige robe or cloth against her body. Long dark curly hair hangs toward a matching mint-green metal barrel filled with water.
-
-An off-camera operator slowly pumps the opposite end of the lever, tilting the beam so her head and hair repeatedly dunk into the water then lift out, water streaming from her hair and the cloth. Her expression shifts between wide-eyed surprise, a slight smile, and composure as she looks toward camera. Water ripples and drips throughout.
-
-Natural window light, muted filmic color palette, shallow depth of field, slight handheld camera movement that stays locked on the woman and the barrel. Slow, rhythmic, slightly surreal and elegant rather than slapstick. No text, no logos.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩流偶像的搞笑核心训练日
 
@@ -3572,36 +3541,54 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 孕妇的梦幻橄榄球
+### 青蛙帽宝宝溜出婴儿床吓到爸爸
 
-> 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
+> Made with seedance 2.5 Prompt 👇 Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed text…
 
-[<img src="https://media.goodcase.ai/cases/573c7eaac41b.jpg" width="600" alt="孕妇的梦幻橄榄球">](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/05e0d2cb4b37.jpg" width="600" alt="青蛙帽宝宝溜出婴儿床吓到爸爸">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-824160459b18?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2116718625474396498) | **发布:** 2026-11-01 | **热度:** 88
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2117812036126257293) | **发布:** 2026-11-04 | **热度:** 88
 
 <details>
-<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+<summary><b>完整 prompt（31 行，点开展开）</b></summary>
 
 ```
-Create a 20-second cinematic 3D animated short film in a high-quality Pixar-inspired style.
+Made with seedance 2.5
 
-Scene 1 (0–4 seconds): A beautiful pregnant blonde woman wearing a yellow-and-white striped tank top is lying in bed at night. She gently places her hands on her baby bump, looking surprised and curious. The bedroom is illuminated by soft blue moonlight.
+Prompt 👇 
+Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed textures, expressive facial animations, warm lighting, realistic movement, and professional cinematic storytelling.
 
-Scene 2 (4–10 seconds): Transition into a magical fantasy football world inside the mother's imagination. A cute, chubby baby boy with blonde hair, big expressive blue eyes, and a tiny curl on his head appears wearing a white T-shirt with a blue star and blue shorts. He runs across a green football field, kicks a blue-and-white star-patterned soccer ball, and performs an adorable goalkeeper jump to catch it.
+Character: An adorable chubby baby girl with big sparkling brown eyes, rosy cheeks, short dark brown hair, wearing a cute green knitted frog hat with big frog eyes and a white baby romper featuring a small green frog design.
 
-Scene 3 (10–14 seconds): The baby celebrates his football skills with a joyful smile. He then falls asleep peacefully, hugging the soccer ball like his favorite toy.
+Scene 1 – Baby in the Crib:
+A cute baby girl stands inside a beautiful wooden baby crib in a cozy nursery. She holds the wooden bars with both hands, looking innocent and curious. Warm golden sunlight enters through the window, creating a peaceful atmosphere.
 
-Scene 4 (14–20 seconds): Return to the blue moonlit bedroom. The pregnant woman is sleeping beside her husband. Suddenly, a small black-and-white cat jumps onto the bed and lands near her baby bump. She wakes up with a shocked expression, creating a funny and unexpected ending.
+Scene 2 – Funny Baby Expressions:
+Show a close-up of the baby making adorable funny facial expressions, squeezing her eyes, puffing her cheeks, and smiling playfully while wearing her oversized frog hat.
 
-Visual Style: Ultra-detailed 3D Pixar-inspired animation, adorable character design, expressive facial emotions, cinematic camera movements, realistic fabric textures, beautiful lighting, smooth transitions, magical atmosphere, professional animated movie quality, 4K resolution, vertical 9:16 aspect ratio.
+Scene 3 – Baby Escapes:
+The baby cleverly crawls out of her crib and moves across the soft carpet. She explores the nursery with excitement, crawling behind furniture and hiding playfully.
 
-Audio: Soft magical background music, gentle nighttime ambience, cute baby sounds, playful football sound effects, and a funny surprise sound at the ending.
+Scene 4 – Cute Hiding Moment:
+The baby hides behind a large cozy armchair. Only her little face and frog hat are visible. She peeks over the chair with a mischievous smile, then hides again.
+
+Scene 5 – Mischievous Adventure:
+The baby attempts to climb a nearby white dresser, reaching toward its drawers with her tiny hands. Show her funny and determined expressions.
+
+Scene 6 – Unexpected Daddy Reaction:
+Suddenly, her father appears in the nursery and is shocked to discover the baby's mischievous adventure. Show his exaggerated surprised facial expression, wide-open eyes, and funny reaction.
+
+Scene 7 – Emotional Funny Ending:
+The father discovers the adorable baby sitting safely in a little chair. He looks at her in disbelief while she smiles innocently. End with a cute close-up selfie-style shot of the father and baby together.
+
+Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
+
+Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-824160459b18?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 废城街头的砍刀求生战
 
@@ -4099,6 +4086,37 @@ NEGATIVE: no blood, no gore, no distortion, no extra fingers, no face morphing, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 周一清晨的倒悬入水仪式
+
+> This is how it feels like to wake up on Monday to go to work. Seedance 2.5 on @FishCreativeHQ Prompt A cinematic indoor performance-art / fashion editorial vide…
+
+[<img src="https://media.goodcase.ai/cases/d86c8eb13364.jpg" width="600" alt="周一清晨的倒悬入水仪式">](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2104544058471502330) | **发布:** 2026-09-28 | **热度:** 88
+
+<details>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
+
+```
+This is how it feels like to wake up on Monday to go to work.
+
+Seedance 2.5 on @FishCreativeHQ 
+
+Prompt
+
+A cinematic indoor performance-art / fashion editorial video, shot in a single continuous take inside a slightly worn historic room with cracked plaster walls, dark wood floors, a vintage wooden bed with rumpled beige linens, beige curtains over a tall window, and a soft abstract pink painting on the wall.
+
+A large custom-built pale mint-green wooden seesaw / dunk-lever structure (thick beams, metal bolts, industrial-craft aesthetic) spans the room. On the high end, a woman hangs completely upside-down, knees hooked over the beam, wearing a short beige-and-black horizontal-striped dress. She clutches a dripping beige robe or cloth against her body. Long dark curly hair hangs toward a matching mint-green metal barrel filled with water.
+
+An off-camera operator slowly pumps the opposite end of the lever, tilting the beam so her head and hair repeatedly dunk into the water then lift out, water streaming from her hair and the cloth. Her expression shifts between wide-eyed surprise, a slight smile, and composure as she looks toward camera. Water ripples and drips throughout.
+
+Natural window light, muted filmic color palette, shallow depth of field, slight handheld camera movement that stays locked on the woman and the barrel. Slow, rhythmic, slightly surreal and elegant rather than slapstick. No text, no logos.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-is-how-it-feels-like-to-wake-up-on-monday-to-go-to-work-b0d56af4f909?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 花天狂骨枯松心中决战
 
 > This AI is just cooking it 🔥 Seedance 2.5 on @ImagineArt_X @imagineart_creo Prompt 👇🏻 SCENE — KATEN KYŌKOTSU: KARAMATSU SHINJŪ DURATION: exactly 10 seconds F…
@@ -4166,143 +4184,36 @@ VISUAL RULES
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-this-ai-is-just-cooking-it-755e0fc25962?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 猫咪自拍记录温馨的一天
+### 孕妇的梦幻橄榄球
 
-> Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
+> 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
 
-[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="600" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/573c7eaac41b.jpg" width="600" alt="孕妇的梦幻橄榄球">](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2091385137133219971) | **发布:** 2026-08-23 | **热度:** 88
-
-**稳定度：** 70/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2116718625474396498) | **发布:** 2026-11-01 | **热度:** 87
 
 <details>
-<summary><b>完整 prompt（116 行，点开展开）</b></summary>
+<summary><b>完整 prompt（13 行，点开展开）</b></summary>
 
 ```
-Create a 60-second realistic day-in-the-life cat vlog, following the same cute cat from waking up in the morning until falling asleep at night.
+Create a 20-second cinematic 3D animated short film in a high-quality Pixar-inspired style.
 
-Critical Requirement
+Scene 1 (0–4 seconds): A beautiful pregnant blonde woman wearing a yellow-and-white striped tank top is lying in bed at night. She gently places her hands on her baby bump, looking surprised and curious. The bedroom is illuminated by soft blue moonlight.
 
-NO HUMAN SPEECH AND NO DIALOGUE.
+Scene 2 (4–10 seconds): Transition into a magical fantasy football world inside the mother's imagination. A cute, chubby baby boy with blonde hair, big expressive blue eyes, and a tiny curl on his head appears wearing a white T-shirt with a blue star and blue shorts. He runs across a green football field, kicks a blue-and-white star-patterned soccer ball, and performs an adorable goalkeeper jump to catch it.
 
-The cat must not speak any words at any point. Do not use narration, voice-over, human voices, subtitles, captions, or text.
+Scene 3 (10–14 seconds): The baby celebrates his football skills with a joyful smile. He then falls asleep peacefully, hugging the soccer ball like his favorite toy.
 
-The story must be communicated entirely through the cat’s actions, facial expressions, body language, meows, purrs, chirps, yawns, and natural environmental sounds.
+Scene 4 (14–20 seconds): Return to the blue moonlit bedroom. The pregnant woman is sleeping beside her husband. Suddenly, a small black-and-white cat jumps onto the bed and lands near her baby bump. She wakes up with a shocked expression, creating a funny and unexpected ending.
 
-Overall Visual Style
+Visual Style: Ultra-detailed 3D Pixar-inspired animation, adorable character design, expressive facial emotions, cinematic camera movements, realistic fabric textures, beautiful lighting, smooth transitions, magical atmosphere, professional animated movie quality, 4K resolution, vertical 9:16 aspect ratio.
 
-One continuous handheld front-facing smartphone selfie-vlog perspective. The cat holds the phone itself with its paw and films its own day.
-
-- Realistic modern smartphone footage
-- Natural handheld shake
-- Slight framing imperfections
-- Occasional autofocus hunting
-- Natural front-camera lens distortion
-- Realistic unfiltered smartphone colors
-- Soft natural morning, afternoon, and evening lighting
-- Same cat, face, fur pattern, eyes, and body throughout
-- Cute but believable cat behavior
-- Natural expressions and movements
-- No cinematic camera movements
-- No third-person camera
-- No tripod or external camera
-- No beauty filter or cinematic color grading
-- No logos, watermarks, subtitles, captions, or on-screen text
-- No background music
-
-0–10 sec — Wake Up
-
-The cat wakes up in a cozy bed.
-
-It picks up the phone with its paw and starts filming itself selfie-style.
-
-It looks sleepy, yawns, stretches, rubs its face with its paws, and looks into the camera with sleepy eyes.
-
-It gives a tiny “meow”, then climbs out of bed.
-
-10–20 sec — Breakfast
-
-The cat walks into the kitchen while filming itself.
-
-It sees its food bowl and immediately becomes excited.
-
-It prepares or receives its breakfast, eagerly eats, then drinks water.
-
-It looks happily into the camera and gives a couple of excited little meows.
-
-Include realistic food-bowl sounds, chewing, drinking, and kitchen ambience.
-
-20–30 sec — Playtime
-
-The cat grabs its favorite toy.
-
-It runs around the house, chases the toy, jumps onto the couch, bats at it with its paws, and playfully rolls around.
-
-The phone shakes naturally during the energetic movement.
-
-The cat stops for a moment, looks directly into the camera, gives a playful chirp/meow, then immediately runs off again.
-
-30–40 sec — Exploring
-
-The cat explores the house.
-
-It looks through a window, watches birds outside, investigates a strange sound, walks into another room, and sniffs interesting objects.
-
-It notices something outside and becomes curious.
-
-The cat makes a soft “mrrp” sound and continues exploring.
-
-Keep the behavior authentically feline rather than human-like.
-
-40–50 sec — Afternoon Adventure
-
-The cat safely goes outside into a garden or quiet courtyard.
-
-It walks around while filming itself, sniffs flowers and plants, watches birds, investigates leaves, and explores its surroundings.
-
-The cat pauses, looks excitedly at something off-camera, then gives a small curious meow.
-
-Use natural outdoor sounds such as birds, wind, leaves, distant traffic, and footsteps.
-
-50–60 sec — Evening & Bedtime
-
-The cat returns home as the light becomes warm and soft.
-
-It has its evening meal, drinks some water, then climbs onto the couch or back into its bed.
-
-It grooms itself, yawns, becomes sleepy, and curls into a comfortable position.
-
-It looks into the phone one last time, gives a tiny sleepy meow, slowly closes its eyes, and lowers the phone naturally.
-
-End with quiet nighttime home ambience.
-
-Final Audio Requirements
-
-Absolutely no dialogue. No words. No narration. No human voice. No talking cat.
-
-Use only natural diegetic sounds:
-
-- Cat meows
-- Purring
-- Chirping
-- Yawning
-- Footsteps
-- Food and water sounds
-- Toy sounds
-- Household ambience
-- Birds and outdoor sounds
-- Wind and leaves
-- Natural nighttime ambience
-
-The finished video should feel like a realistic, cozy smartphone vlog from a cat’s perspective, showing what the cat naturally does throughout an entire day without saying a single word.
+Audio: Soft magical background music, gentle nighttime ambience, cute baby sounds, playful football sound effects, and a funny surprise sound at the ending.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 壁炉旁的小龙用魔法把少女金发变成爆炸头
 
@@ -4491,6 +4402,144 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 猫咪自拍记录温馨的一天
+
+> Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
+
+[<img src="https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg" width="600" alt="猫咪自拍记录温馨的一天">](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZaraIrahh | **来源:** [原帖](https://x.com/ZaraIrahh/status/2091385137133219971) | **发布:** 2026-08-23 | **热度:** 87
+
+**稳定度：** 70/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (70.2 分) · [产物](https://media.goodcase.ai/retests/zarairahh-seedance-ai-f89372941867/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（116 行，点开展开）</b></summary>
+
+```
+Create a 60-second realistic day-in-the-life cat vlog, following the same cute cat from waking up in the morning until falling asleep at night.
+
+Critical Requirement
+
+NO HUMAN SPEECH AND NO DIALOGUE.
+
+The cat must not speak any words at any point. Do not use narration, voice-over, human voices, subtitles, captions, or text.
+
+The story must be communicated entirely through the cat’s actions, facial expressions, body language, meows, purrs, chirps, yawns, and natural environmental sounds.
+
+Overall Visual Style
+
+One continuous handheld front-facing smartphone selfie-vlog perspective. The cat holds the phone itself with its paw and films its own day.
+
+- Realistic modern smartphone footage
+- Natural handheld shake
+- Slight framing imperfections
+- Occasional autofocus hunting
+- Natural front-camera lens distortion
+- Realistic unfiltered smartphone colors
+- Soft natural morning, afternoon, and evening lighting
+- Same cat, face, fur pattern, eyes, and body throughout
+- Cute but believable cat behavior
+- Natural expressions and movements
+- No cinematic camera movements
+- No third-person camera
+- No tripod or external camera
+- No beauty filter or cinematic color grading
+- No logos, watermarks, subtitles, captions, or on-screen text
+- No background music
+
+0–10 sec — Wake Up
+
+The cat wakes up in a cozy bed.
+
+It picks up the phone with its paw and starts filming itself selfie-style.
+
+It looks sleepy, yawns, stretches, rubs its face with its paws, and looks into the camera with sleepy eyes.
+
+It gives a tiny “meow”, then climbs out of bed.
+
+10–20 sec — Breakfast
+
+The cat walks into the kitchen while filming itself.
+
+It sees its food bowl and immediately becomes excited.
+
+It prepares or receives its breakfast, eagerly eats, then drinks water.
+
+It looks happily into the camera and gives a couple of excited little meows.
+
+Include realistic food-bowl sounds, chewing, drinking, and kitchen ambience.
+
+20–30 sec — Playtime
+
+The cat grabs its favorite toy.
+
+It runs around the house, chases the toy, jumps onto the couch, bats at it with its paws, and playfully rolls around.
+
+The phone shakes naturally during the energetic movement.
+
+The cat stops for a moment, looks directly into the camera, gives a playful chirp/meow, then immediately runs off again.
+
+30–40 sec — Exploring
+
+The cat explores the house.
+
+It looks through a window, watches birds outside, investigates a strange sound, walks into another room, and sniffs interesting objects.
+
+It notices something outside and becomes curious.
+
+The cat makes a soft “mrrp” sound and continues exploring.
+
+Keep the behavior authentically feline rather than human-like.
+
+40–50 sec — Afternoon Adventure
+
+The cat safely goes outside into a garden or quiet courtyard.
+
+It walks around while filming itself, sniffs flowers and plants, watches birds, investigates leaves, and explores its surroundings.
+
+The cat pauses, looks excitedly at something off-camera, then gives a small curious meow.
+
+Use natural outdoor sounds such as birds, wind, leaves, distant traffic, and footsteps.
+
+50–60 sec — Evening & Bedtime
+
+The cat returns home as the light becomes warm and soft.
+
+It has its evening meal, drinks some water, then climbs onto the couch or back into its bed.
+
+It grooms itself, yawns, becomes sleepy, and curls into a comfortable position.
+
+It looks into the phone one last time, gives a tiny sleepy meow, slowly closes its eyes, and lowers the phone naturally.
+
+End with quiet nighttime home ambience.
+
+Final Audio Requirements
+
+Absolutely no dialogue. No words. No narration. No human voice. No talking cat.
+
+Use only natural diegetic sounds:
+
+- Cat meows
+- Purring
+- Chirping
+- Yawning
+- Footsteps
+- Food and water sounds
+- Toy sounds
+- Household ambience
+- Birds and outdoor sounds
+- Wind and leaves
+- Natural nighttime ambience
+
+The finished video should feel like a realistic, cozy smartphone vlog from a cat’s perspective, showing what the cat naturally does throughout an entire day without saying a single word.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 十秒自救的女巫把自己变成了鸭子
 
 > 按秒拆成钩子、施法、倒数、魔法爆发、反转、反应、包袱七段，30 秒讲完女巫为躲怪物把自己变成鸭子的反转喜剧，Seedance 2.5 生成，逐秒分镜结构可直接套用。
@@ -4541,38 +4590,121 @@ End text:
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7597faa7285f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 2.5 超写实微距延时：种子发芽十秒
+### 渔村少女驾艇抢救海啸受困者
 
-> Seedance 2.5 on @Vorla_AI ❤️ Prompt: Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the
+> One girl. One boat. A race against the final wave. 🌊🔥 Created with Seedance 2.5 on @dreamina_ai #dreamina #dreaminacreators Prompt THE FINAL WAVE | A DESPERAT…
 
-[<img src="https://media.goodcase.ai/media/poster/yesandyou-seedance-ai-d92a0a788b85.jpg" width="600" alt="Seedance 2.5 超写实微距延时：种子发芽十秒">](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/3133beac79ec.jpg" width="600" alt="渔村少女驾艇抢救海啸受困者">](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Yesandyou_ | **来源:** [原帖](https://x.com/Yesandyou_/status/2088998841395921185) | **发布:** 2026-08-16 | **热度:** 87
+**作者:** @Aqsahere_ | **来源:** [原帖](https://x.com/Aqsahere_/status/2118187360525414673) | **发布:** 2026-11-05 | **热度:** 86
 
 <details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
+<summary><b>完整 prompt（55 行，点开展开）</b></summary>
 
 ```
-Create a 10-second ultra-realistic cinematic macro time-lapse video 🌱🎥, using the provided reference image as the exact visual starting point. Begin with the same tiny green seedling 🌱 emerging from dark, rich, slightly moist soil. Keep the camera completely locked and stationary 📷, preserving the same composition, camera angle, depth of field, warm natural sunlight ☀️, soft background bokeh, and realistic soil texture throughout the entire video.
+One girl. One boat. A race against the final wave. 🌊🔥
 
-0–2 seconds 🌱: The tiny seedling slowly pushes upward from beneath the soil. Small cracks and subtle soil movement appear naturally around its base as the plant emerges. The thin green stem gradually becomes taller while the two young leaves slowly unfold and expand 🍃.
+Created with Seedance 2.5 on @dreamina_ai
 
-2–4 seconds 🌿: The seedling continues growing into a young tomato plant. The stem becomes thicker and taller, while additional green leaves and small branches gradually emerge. Each leaf unfolds naturally with visible veins and realistic botanical detail 🍃✨. Gentle sunlight passes through the leaves ☀️, creating beautiful natural highlights.
+ #dreamina #dreaminacreators
 
-4–6 seconds 🌼: The plant grows fuller and stronger. Small yellow tomato flowers 🌼 begin appearing on the branches. The flowers gradually develop and bloom one by one, with delicate petals opening naturally. The plant continues extending upward and outward in a smooth time-lapse 🌿.
+Prompt 
+THE FINAL WAVE | A DESPERATE TSUNAMI RESCUE
 
-6–8 seconds 🍅: After flowering 🌼, tiny green tomatoes 🍅 begin forming beneath the flowers. The fruits slowly enlarge from tiny green buds into recognizable round tomatoes. More tomatoes develop across the branches while fresh leaves continue growing around them 🌿🍃.
+Create a 30-second ultra-realistic live-action cinematic disaster video set in a Japanese coastal fishing village. A massive tsunami approaches after a powerful earthquake. A brave young woman risks her life to rescue stranded people.
 
-8–10 seconds 🍅❤️: The green tomatoes gradually mature and transform into large, ripe, vibrant red tomatoes 🍅❤️. End with a healthy, fully grown tomato plant 🌿 surrounded by several beautiful ripe tomatoes hanging naturally from its branches.
+CHARACTER & LOCATION:
+A young Japanese woman with dark hair in a ponytail, wearing a dark waterproof jacket, black trousers and rubber boots. Three adult fishermen, one small child and one elderly woman. Keep all characters, outfits, faces, rescue boat and village consistent.
 
-Make the entire transformation smooth, continuous, organic, and biologically believable 🌱➡️🌿➡️🌼➡️🍅. Use photorealistic textures, realistic plant anatomy, detailed leaves and veins, natural soil particles, subtle wind movement 🍃, warm golden-hour sunlight ☀️, cinematic depth of field 🎥, soft background bokeh ✨, realistic shadows, macro photography quality, and highly detailed 4K visuals.
+EXACT SCENE SEQUENCE:
 
-Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌, no camera shake ❌, no text ❌, no people ❌, no hands ❌, and no artificial-looking morphing ❌. The plant must grow progressively from the exact location of the original seedling, with every stage naturally connected to the previous stage. The final result should look like a real professional botanical time-lapse 🌱🎥🍅, showing the complete journey from a tiny seedling to a mature tomato plant full of ripe red tomatoes. 🍅✨
+1. EARTHQUAKE (0–3s):
+The village shakes violently. Objects fall, houses rattle and villagers rush outside.
+
+2. TSUNAMI WARNING (3–5s):
+Emergency sirens sound. The girl looks towards the ocean as the water suddenly retreats from the harbor.
+
+3. FISHERMEN IN DANGER (5–8s):
+She spots three fishermen stranded near a damaged fishing boat, desperately waving for help.
+
+4. RESCUE BOAT (8–11s):
+She runs to a small motorboat, unties it and starts the engine.
+
+5. ROUGH SEA (11–15s):
+She navigates through violent waves, avoiding floating debris as water splashes over the boat.
+
+6. FISHERMEN RESCUE (15–19s):
+She reaches the damaged boat and helps all three fishermen climb safely aboard, catching one as he nearly slips.
+
+7. CHILD AND ELDERLY WOMAN (19–22s):
+She spots a frightened child and elderly woman trapped on a flooded rooftop and steers towards them.
+
+8. MASSIVE TSUNAMI (22–26s):
+A gigantic dark wave appears behind the harbor. The fishermen help bring the child and elderly woman aboard from a reachable flooded platform.
+
+9. ESCAPE (26–28s):
+The boat reaches elevated ground. She helps everyone climb to safety as floodwater crashes through the harbor.
+
+10. FINAL SHOT (28–30s):
+The rescued child holds her hand. She watches in shock as the massive wave engulfs the distant village.
+
+VISUAL STYLE:
+Ultra-photorealistic live-action disaster film, realistic tsunami physics, powerful water movement, natural handheld documentary camera, stormy daylight, wet clothing, emotional expressions and believable boat movement.
+
+Natural audio: earthquake rumbling, emergency sirens, wind, engine, shouting and crashing waves. No music, subtitles or voiceover.
+
+STRICT CONTINUITY:
+Same characters, outfits, boat and location throughout. Show every rescue physically, with logical movement between scenes. No teleportation, superhero powers, cartoon water or unrealistic CGI.
+
+The final video must feel like real disaster footage, full of tension, urgency and emotion.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 球具室里蓝裙少女的花剑魔法战
+
+> This is AI video absolute masterpiece 🔥 Geranted with Seedance 2.5 Prompt 👇
+
+[<img src="https://media.goodcase.ai/cases/bd6273343ddf.jpg" width="600" alt="球具室里蓝裙少女的花剑魔法战">](https://goodcase.ai/cases/seedance-2-5-create-an-80-second-cinematic-korean-fantasy-action-scene-with-photorealistic-v-438797e2b058?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AizaAi12 | **来源:** [原帖](https://x.com/AizaAi12/status/2116354072441970926) | **发布:** 2026-10-31 | **热度:** 86
+
+<details>
+<summary><b>完整 prompt（25 行，点开展开）</b></summary>
+
+```
+Create an 80-second cinematic Korean fantasy action scene with photorealistic visuals, dramatic lighting, dynamic camera movements, and high-quality K-drama cinematography.
+
+Scene 1 — The Secret Encounter:
+Inside a dimly lit school sports equipment storage room, a group of male students wearing black school uniforms gather among shelves filled with basketballs, volleyballs, and sports equipment. They are talking and behaving confidently in the cramped room. The atmosphere feels tense and mysterious.
+
+Scene 2 — The Mysterious Girl Arrives:
+The storage room door slowly opens, revealing a beautiful young Korean woman wearing an elegant traditional-inspired pastel-blue gown with delicate floral embroidery, sheer pale-pink sleeves, and a decorative hair ornament. Her black hair is neatly tied into a sophisticated bun. Soft daylight illuminates her face as she calmly enters the room. The students turn around in surprise, staring at her in disbelief.
+
+Scene 3 — An Unexpected Transformation:
+The girl walks forward gracefully, maintaining a calm expression while the boys exchange confused glances. The contrast between her elegant appearance and the ordinary sports storage room creates a surreal, supernatural atmosphere. Use cinematic close-ups of her face, the students' shocked expressions, and her flowing dress.
+
+Scene 4 — Supernatural Martial Arts Action:
+Suddenly, the situation turns into a spectacular fantasy action sequence. The girl displays extraordinary speed, precision, and supernatural martial arts abilities. She effortlessly dodges attacks and sends several students flying toward the padded gym mats. Use fast tracking shots, dramatic slow motion, rapid camera movements, and realistic physical interactions. Her gown flows beautifully with every movement.
+
+Scene 5 — Magical Energy Attack:
+The girl prepares a powerful supernatural strike. A luminous pink-and-white energy vortex forms around her hand, swirling with sparkling particles and magical trails. She releases the energy toward her opponent, creating a dramatic shockwave. The surrounding walls appear to crack under the force of the magical impact. Show the energy swirling through the room with detailed particle effects, cinematic motion blur, and realistic lighting.
+
+Scene 6 — The Final Reveal:
+Cut between the girl's intense facial expressions and the shocked reaction of an elderly man in a formal dark suit. Finish with a close-up of the girl wearing a subtle, confident smile, her eyes glowing with mysterious power. End on a dramatic cinematic frame that leaves the viewer curious about her true identity and supernatural abilities.
+
+Visual Style: Ultra-realistic Korean fantasy action drama, premium K-drama cinematography, photorealistic characters, detailed facial expressions, elegant traditional-inspired clothing, realistic fabric movement, dramatic shadows, volumetric lighting, magical pink energy effects, high-speed action choreography, cinematic depth of field, smooth transitions, 4K ultra-HD quality, 16:9 widescreen aspect ratio.
+
+Audio: Dramatic orchestral background music, subtle room ambience, footsteps, fabric movement, whooshing action sounds, magical energy pulses, powerful impact effects, and suspenseful cinematic sound design.
+
+Important: Maintain consistent character appearances, realistic body proportions, coherent action choreography, natural facial expressions, and seamless scene transitions throughout the video. Avoid cartoonish visuals, distorted faces, extra limbs, unrealistic movements, and excessive visual effects.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-an-80-second-cinematic-korean-fantasy-action-scene-with-photorealistic-v-438797e2b058?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 粉发女子在午夜公路爆炸前从容走来
 
@@ -4716,45 +4848,6 @@ A realistic handheld travel vlog filmed by a friend following the main character
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/youmind-travel-vlog-city-to-beach?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 韩国女孩的社区健身房日常
-
-> Baddie working her A** out in the gym 🥵 Made with Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman going to…
-
-[<img src="https://media.goodcase.ai/cases/11e9d6612c78.jpg" width="600" alt="韩国女孩的社区健身房日常">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2104408252670939438) | **发布:** 2026-09-28 | **热度:** 86
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman going to a local gym for a simple workout. Use the attached image as the character reference and keep her face, hairstyle and overall appearance consistent throughout.
-
-She leaves her home carrying a small gym bag and walks through the quiet neighborhood toward a nearby local gym. Before entering, she ties her long black hair into a neat ponytail and adjusts her gym bag.
-
-Inside the gym, she changes into realistic workout clothes: a fitted black athletic crop top, high-waisted charcoal leggings, clean white training shoes, and a small fitness watch. She places her bag and water bottle beside a workout bench and begins stretching.
-
-She starts with light dumbbell exercises, then does bodyweight squats, lunges and jumping-jack exercises. Show realistic movement, controlled breathing and natural effort. Her face gradually becomes slightly sweaty as the workout continues.
-
-She pauses, grabs her water bottle and drinks several times, then wipes sweat from her forehead and neck with a small white towel. She looks at herself in the gym mirror, laughs at how sweaty she has become and smiles.
-
-She continues with a short treadmill run, breathing naturally and occasionally laughing when she gets tired. She slows down, steps off carefully, grabs her towel and wipes her face again.
-
-Near the end, she sits on the bench catching her breath, drinks water, smiles toward the camera and says, “That was a good workout!” She gives a small laugh, picks up her gym bag and walks out.
-
-Camera: Raw early-2000s consumer DV-camera footage — handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild digital noise, natural motion blur, occasional awkward zooms and authentic home-video imperfections. Casual friend-filmed feeling, not a polished fitness commercial.
-
-Audio: Natural gym ambience only — footsteps, treadmill motor, weights gently hitting the floor, breathing, water bottle opening, towel movement, distant conversations, occasional laughter and air-conditioning hum. No music, no narration, no subtitles.
-
-Consistency & realism: Keep the same woman, face, hairstyle, body proportions, gym outfit, shoes, towel, water bottle and gym bag consistent. Realistic sweat, skin texture, hair movement, breathing, exercise form and clothing physics. Natural expressions and genuine laughter.
-
-Negative: CGI look, plastic skin, beauty filters, exaggerated muscles, impossible exercise movements, distorted hands, extra fingers, duplicated people, identity drift, outfit changes, floating objects, teleportation, unrealistic sweat, subtitles, logos, watermark, polished commercial cinematography.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-f67935b7ad16?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 枪口下闪回的金色恋歌
 
