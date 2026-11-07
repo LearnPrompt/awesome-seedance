@@ -1,0 +1,12 @@
+{
+  "title": "One-take scene-to-scene transition prompt for Seedance 2.0",
+  "sourceUrl": "https://x.com/aiwithaly/status/2078058177007149089",
+  "creator": "@aiwithaly",
+  "sourcePublishedAt": "2026-07-17",
+  "models": [
+    "Seedance 2.0"
+  ],
+  "promptFull": "Cinematic seamless transition video, 12-15 seconds duration, hyper-realistic and polished film look. Start fully inside the first reference image/clip (Image 1 or start frame) and smoothly guide the camera into a natural, continuous motion path that logically leads toward the transition point into the second reference image/clip (Image 2 or end frame). \n\nMaintain perfect consistency in lighting, depth of field, perspective, colors, shadows, and textures so the viewer feels physically carried from one scene to the next as if traveling through one continuous world. Use smooth blending and gradual morphing of surfaces, objects, and environment elements — make the cut completely invisible, like a single unbroken camera move.\n\nCamera movement: dynamic cinematic tracking shot with physically accurate motion — begin with a slow establishing view in scene 1, then accelerate into a fluid push-in/dolly/arc that naturally reveals and transforms elements toward scene 2, ending fully immersed in the second scene. Add subtle speed ramping for dramatic effect if it fits the mood (slow build to faster flow).\n\nStyle: high-end Hollywood cinematic, photorealistic details, natural environmental lighting, volumetric effects where appropriate, film grain, anamorphic lens characteristics, shallow depth of field where needed, ultra-smooth motion with no artifacts, stable depth and physics.\n\nHigh-resolution textures, realistic material interactions, masterpiece quality, 9:16 vertical aspect ratio for reels if needed, 24fps filmic look.",
+  "mediaUrl": "https://x.com/aiwithaly/status/2078058177007149089",
+  "notes": "Source: Behind the Gen (https://behindthegen.com/w/one-take-scene-to-scene-transition-prompt-for-seedance-20), where this prompt is listed with the creator's workflow. The prompt text matches that page and the creator's original post linked above."
+}
