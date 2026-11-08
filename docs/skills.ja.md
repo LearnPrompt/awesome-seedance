@@ -19,17 +19,17 @@
 | [Action continuity choreography](#action-continuity-choreography) | 102 | 8 |
 | [Product ad shot design](#product-ad-shot-design) | 72 | 3 |
 | [Cinematic travel montage](#travel-city-walk) | 70 | 5 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 66 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 67 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 60 | 3 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 47 | 0 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 47 | 3 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 46 | 0 |
 | [Horror and suspense short](#horror-suspense-short) | 44 | 3 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 42 | 1 |
 | [Process and transformation story](#process-transformation-story) | 42 | 0 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 37 | 0 |
 | [Food close-ups and eating ASMR](#food-asmr) | 35 | 0 |
+| [Cars and vehicles at speed](#vehicles-at-speed) | 31 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 30 | 1 |
-| [Cars and vehicles at speed](#vehicles-at-speed) | 30 | 0 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 19 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 10 | 0 |
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-36 人のクリエイターによる 66 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+36 人のクリエイターによる 67 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -182,6 +182,20 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 | haruuraeadss | Animation style and character consistency | 3 | `npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | yourPlugAI | Animation style and character consistency | 3 | `npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="fashion-lookbook-portrait"></a>
+
+### Fashion lookbook and portrait film
+
+> One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
+
+37 人のクリエイターによる 47 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait
+```
+
+クリエイターメソッドはまだありません。
+
 <a id="retro-dv-home-video"></a>
 
 ### Early-2000s DV home video
@@ -199,20 +213,6 @@ npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video
 | oggii_0 | Early-2000s DV home video | 4 | `npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | techhalla | Early-2000s DV home video | 3 | `npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-6moylp` | [goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video-by-6moylp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | AIwithkhan | Early-2000s DV home video | 3 | `npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="fashion-lookbook-portrait"></a>
-
-### Fashion lookbook and portrait film
-
-> One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
-
-36 人のクリエイターによる 46 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait
-```
-
-クリエイターメソッドはまだありません。
 
 <a id="horror-suspense-short"></a>
 
@@ -290,6 +290,20 @@ npx skills add LearnPrompt/goodcase-lite --skill food-asmr
 
 クリエイターメソッドはまだありません。
 
+<a id="vehicles-at-speed"></a>
+
+### Cars and vehicles at speed
+
+> One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
+
+22 人のクリエイターによる 31 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
+```
+
+クリエイターメソッドはまだありません。
+
 <a id="3d-cartoon-character-short"></a>
 
 ### 3D cartoon character short
@@ -305,20 +319,6 @@ npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | Zarnab_with_Ai | 3D cartoon character short | 9 | `npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="vehicles-at-speed"></a>
-
-### Cars and vehicles at speed
-
-> One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
-
-22 人のクリエイターによる 30 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
-```
-
-クリエイターメソッドはまだありません。
 
 <a id="cinematic-drama-scene"></a>
 

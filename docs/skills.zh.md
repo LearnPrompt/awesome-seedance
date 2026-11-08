@@ -19,17 +19,17 @@
 | [动作连续性编排](#action-continuity-choreography) | 102 | 8 |
 | [产品广告镜头](#product-ad-shot-design) | 72 | 3 |
 | [电影感旅行漫游](#travel-city-walk) | 70 | 5 |
-| [宠物动物当主角](#pets-and-animals-lead) | 66 | 2 |
+| [宠物动物当主角](#pets-and-animals-lead) | 67 | 2 |
 | [动画风格与角色一致性](#animation-style-consistency) | 60 | 3 |
+| [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 47 | 0 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 47 | 3 |
-| [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 46 | 0 |
 | [恐怖悬疑短片](#horror-suspense-short) | 44 | 3 |
 | [反转搞笑短片](#twist-comedy-skit) | 42 | 1 |
 | [过程与变换叙事](#process-transformation-story) | 42 | 0 |
 | [体育与极限运动](#sports-extreme-stunts) | 37 | 0 |
 | [美食特写与吃播 ASMR](#food-asmr) | 35 | 0 |
+| [汽车与载具速度片](#vehicles-at-speed) | 31 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 30 | 1 |
-| [汽车与载具速度片](#vehicles-at-speed) | 30 | 0 |
 | [电影感剧情短片](#cinematic-drama-scene) | 19 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 10 | 0 |
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-66 个案例，来自 36 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+67 个案例，来自 36 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead
@@ -182,6 +182,20 @@ npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency
 | haruuraeadss | 动画风格与角色一致性 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | yourPlugAI | 动画风格与角色一致性 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="fashion-lookbook-portrait"></a>
+
+### 时尚 lookbook 与人像写真片
+
+> 一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。
+
+47 个案例，来自 37 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait
+```
+
+暂时还没有创作者方法。
+
 <a id="retro-dv-home-video"></a>
 
 ### 早年 DV 家庭录像
@@ -199,20 +213,6 @@ npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video
 | oggii_0 | 早年 DV 家庭录像 | 4 | `npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | techhalla | 早年 DV 家庭录像 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-6moylp` | [goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video-by-6moylp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | AIwithkhan | 早年 DV 家庭录像 | 3 | `npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="fashion-lookbook-portrait"></a>
-
-### 时尚 lookbook 与人像写真片
-
-> 一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。
-
-46 个案例，来自 36 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait
-```
-
-暂时还没有创作者方法。
 
 <a id="horror-suspense-short"></a>
 
@@ -290,6 +290,20 @@ npx skills add LearnPrompt/goodcase-lite --skill food-asmr
 
 暂时还没有创作者方法。
 
+<a id="vehicles-at-speed"></a>
+
+### 汽车与载具速度片
+
+> 机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。
+
+31 个案例，来自 22 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+```bash
+npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
+```
+
+暂时还没有创作者方法。
+
 <a id="3d-cartoon-character-short"></a>
 
 ### 3D 卡通角色短片
@@ -305,20 +319,6 @@ npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | Zarnab_with_Ai | 3D 卡通角色短片 | 9 | `npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="vehicles-at-speed"></a>
-
-### 汽车与载具速度片
-
-> 机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。
-
-30 个案例，来自 22 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-```bash
-npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed
-```
-
-暂时还没有创作者方法。
 
 <a id="cinematic-drama-scene"></a>
 

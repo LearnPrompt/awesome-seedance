@@ -39,7 +39,7 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 ## E2 · Urban Police Chase and Explosive Getaway
 
-- Seedance 2.0 · creator: @Aria_Nawi · heat: 88
+- Seedance 2.0 · creator: @Aria_Nawi · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-police-chase-621254905333) · [finished media](https://media.goodcase.ai/cases/166c1a2a5127.mp4) · [poster](https://media.goodcase.ai/cases/dcc163d4e56d.jpg) · [original source](https://x.com/Aria_Nawi/status/2098461817555374451)
 - Summary: Police chase. Explosion. A cinematic 3D world built with GPT-6 Astra. Made by @PixVerse. Available on PixVerse and in ChatGPT via the PixVerse Plugin. Prompt ↓ …
 

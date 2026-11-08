@@ -873,7 +873,7 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 66,
+      "caseCount": 67,
       "creatorCount": 36,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
@@ -1003,6 +1003,26 @@
       "cover": "https://media.goodcase.ai/cases/5286df05f1e3.jpg"
     },
     {
+      "slug": "fashion-lookbook-portrait",
+      "baseSlug": "fashion-lookbook-portrait",
+      "kind": "shared",
+      "title": {
+        "en": "Fashion lookbook and portrait film",
+        "zh": "时尚 lookbook 与人像写真片"
+      },
+      "description": {
+        "en": "One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.",
+        "zh": "一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 47,
+      "creatorCount": 37,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait",
+      "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
+      "cover": "https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg"
+    },
+    {
       "slug": "retro-dv-home-video",
       "baseSlug": "retro-dv-home-video",
       "kind": "shared",
@@ -1081,26 +1101,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-wat8s8",
       "url": "https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8",
       "cover": "https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg"
-    },
-    {
-      "slug": "fashion-lookbook-portrait",
-      "baseSlug": "fashion-lookbook-portrait",
-      "kind": "shared",
-      "title": {
-        "en": "Fashion lookbook and portrait film",
-        "zh": "时尚 lookbook 与人像写真片"
-      },
-      "description": {
-        "en": "One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.",
-        "zh": "一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 46,
-      "creatorCount": 36,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait",
-      "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
-      "cover": "https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg"
     },
     {
       "slug": "horror-suspense-short",
@@ -1283,6 +1283,26 @@
       "cover": "https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg"
     },
     {
+      "slug": "vehicles-at-speed",
+      "baseSlug": "vehicles-at-speed",
+      "kind": "shared",
+      "title": {
+        "en": "Cars and vehicles at speed",
+        "zh": "汽车与载具速度片"
+      },
+      "description": {
+        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
+        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 31,
+      "creatorCount": 22,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
+      "url": "https://goodcase.ai/skills/vehicles-at-speed",
+      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
+    },
+    {
       "slug": "3d-cartoon-character-short",
       "baseSlug": "3d-cartoon-character-short",
       "kind": "shared",
@@ -1321,26 +1341,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf",
       "cover": "https://media.goodcase.ai/cases/0a0347f9afe3.jpg"
-    },
-    {
-      "slug": "vehicles-at-speed",
-      "baseSlug": "vehicles-at-speed",
-      "kind": "shared",
-      "title": {
-        "en": "Cars and vehicles at speed",
-        "zh": "汽车与载具速度片"
-      },
-      "description": {
-        "en": "One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.",
-        "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 30,
-      "creatorCount": 22,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
-      "url": "https://goodcase.ai/skills/vehicles-at-speed",
-      "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
     {
       "slug": "cinematic-drama-scene",

@@ -32,7 +32,7 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 
 ## E2 · Fox’s Self-Filmed Walk Along a Forest Stream
 
-- Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
+- Seedance 2.5 · creator: @MrDasOnX · heat: 93 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
 - Summary: Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
@@ -181,9 +181,19 @@ Abso
 A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.
 ```
 
-## E5 · A Husky Meets Two Rabbits in Snowy Mountains at Sunset
+## E5 · Underwater Animal Orchestra
 
-- Seedance 2.5 · creator: @RizwanAly07 · heat: 75
+- Seedance 2.5 · creator: @thisismariaa25 · heat: 76 · stability: 80
+- Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
+- Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
+
+```text
+An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, dolphins singing opera.
+```
+
+## E6 · A Husky Meets Two Rabbits in Snowy Mountains at Sunset
+
+- Seedance 2.5 · creator: @RizwanAly07 · heat: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-most-unexpected-friendship-in-the-snow-fc70546ac916) · [finished media](https://media.goodcase.ai/cases/cbe8aa2d79b8.mp4) · [poster](https://media.goodcase.ai/cases/0d95cc091f2c.jpg) · [original source](https://x.com/RizwanAly07/status/2110654938472952253)
 - Summary: The Most Unexpected Friendship in the Snow! ❄️🐺🐰 Seedance 2.5 PROMPT ⬇️ Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husk…
 
@@ -229,16 +239,6 @@ No dialogue, text, subtitles, logos, or watermarks.
 No cartoon appearance, artificial CGI look, distorted anatomy, duplicated animals, or sudden scene transitions.
 
 Maintain consistent animal appearances throughout the entire video.
-```
-
-## E6 · Underwater Animal Orchestra
-
-- Seedance 2.5 · creator: @thisismariaa25 · heat: 75 · stability: 80
-- Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
-- Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
-
-```text
-An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, dolphins singing opera.
 ```
 
 ## E7 · Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night
