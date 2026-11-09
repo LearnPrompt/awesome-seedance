@@ -1,6 +1,6 @@
 # Case evidence · Epic fantasy and sci-fi spectacle
 
-71 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+77 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -16,7 +16,59 @@ Cinematic dark fantasy battle, 16:9, photoreal, shallow depth of field, anamorph
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #Visualart
 ```
 
-## E2 · A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
+## E2 · Earbud-Wearing Heroine Moves Vehicles by Telekinesis to Repel Zombies
+
+- Seedance 2.5 · creator: @ZentrixHQ · heat: 92
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-superhero-apocalypse-movie-scene-c82709fe5d51) · [finished media](https://media.goodcase.ai/cases/15363a8548f2.mp4) · [poster](https://media.goodcase.ai/cases/a96e127522cd.jpg) · [original source](https://x.com/ZentrixHQ/status/2116844865279451613)
+- Summary: This AI video looks like Marvel cut its special effects budget Created by Seedance 2.5 on @makeugc Do you think it should have been made more dynamic and given …
+
+```text
+Create a 30-second photorealistic LIVE-ACTION superhero apocalypse movie scene. Landscape 16:9. Real actress, real stunt performers, physical city location, full-size vehicles, natural lighting, and seamless feature-film visual effects.
+
+REFERENCE
+Use only Image Reference 1, the supplied photograph of the adult heroine. Preserve her exact face, hairstyle, hair colors, proportions, outfit, footwear, and accessories throughout. Render any stylized details as real skin, hair, fabric, and physical materials. Natural pores, expressive eyes, individual hair strands, clothing seams and folds.
+
+No video reference is supplied. Construct everything from this description.
+
+STORY
+A woman calmly faces a charging zombie horde. She inserts white wireless earbuds, starts her music, and clears the avenue with effortless telekinesis. She knocks back the front ranks, blocks a flanking alley with a taxi, sends a bus through the main horde, and collapses a damaged pedestrian skybridge onto the bus and remaining zombies. She walks away through a clear side street.
+
+One continuous event, one coherent location, exactly thirty seconds. No survivors, rescue subplot, dialogue, or flashbacks.
+
+LIVE-ACTION STYLE
+Everything resembles a finished theatrical film. The heroine looks like a real actress on location. Zombies resemble stunt performers in practical prosthetic makeup. Vehicles and buildings have real scale, weight, texture, and photographic lighting.
+
+Natural acting, realistic anatomy, cinematic editing, believable collisions, and physically convincing destruction. No gameplay framing, game-engine appearance, animated characters, plastic skin, repetitive combat animations, HUD, health bars, damage numbers, or targeting effects.
+
+HER POWER
+Her telekinesis is overwhelmingly powerful and completely effortless. Moving a bus is as easy as moving a feather.
+
+Relaxed shoulders, steady breathing, small finger and wrist gestures. Never show strain, trembling, clenched teeth, exhaustion, bracing, or loss of balance.
+
+She is quietly confident, with a faint smile and subtle head movements to the music. No exaggerated dancing.
+
+Telekinesis is invisible. Show it through object movement, displaced air, disturbed puddles, and sliding papers. No beams, glowing hands, magical symbols, or luminous shields.
+
+Objects retain realistic material behavior. Suspension extends when lifted; metal deforms; glass breaks; impacts have weight and inertia. Her power supplies the force without making objects look weightless.
+
+Each action has clear cause and effect: she looks toward a specific target, gestures, and that target immediately responds.
+
+LOCATION
+A wide downtown intersection after rain, under overcast daylight. Wet asphalt, puddles, isolated fires, thin smoke, damaged brick buildings, broken shop windows, abandoned vehicles, scattered glass and papers. Visibility remains clear.
+
+Keep this geography consistent:
+- The heroine stands at the intersection, facing north along the avenue.
+- The main horde starts thirty meters ahead, sprinting toward her.
+- An alley opens eight meters ahead on her right. A yellow taxi stands beside its entrance, with a white delivery van farther inside.
+- An empty city bus stands ten meters to her left, level with her, facing north.
+- The intersection has at least twenty-four meters of clear space for moving and rotating the bus.
+- The avenue provides eighteen meters of clear width along the bus's path.
+- A damaged enclosed pedestrian skybridge spans the
+
+[… truncated, full prompt on the goodcase.ai page]
+```
+
+## E3 · A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-situations-in-2050-be-like-0a938337ddb0) · [finished media](https://media.goodcase.ai/cases/f5e2b235f62b.mp4) · [poster](https://media.goodcase.ai/cases/4fad348af447.jpg) · [original source](https://x.com/Just_sharon7/status/2112913908617158822)
@@ -111,7 +163,7 @@ Auth
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · A Delivery Through Venice as It Folds into a Sphere
+## E4 · A Delivery Through Venice as It Folds into a Sphere
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-watch-venice-become-a-sphere-a2018a3e4d6b) · [finished media](https://media.goodcase.ai/cases/6fad135f851f.mp4) · [poster](https://media.goodcase.ai/cases/e5c7676644ab.jpg) · [original source](https://x.com/Just_sharon7/status/2100541954685895043)
@@ -140,7 +192,7 @@ Prompt
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E4 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
+## E5 · A Nun Becomes an Angel and Slays Demons in a Ruined Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-cinematic-30-second-sequence-starting-in-a-dark-ruined-gothic-cathedral-at-n-ff745f107b14) · [finished media](https://media.goodcase.ai/cases/81e4ed08bc6b.mp4) · [poster](https://media.goodcase.ai/cases/605e835bd0b1.jpg) · [original source](https://x.com/itsSaira_1/status/2108765927194198397)
@@ -155,7 +207,7 @@ blurry, low quality, distorted, deformed, bad anatomy, extra limbs, poorly drawn
 #AI #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
-## E5 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
+## E6 · Muscular Man Becomes a Moon Guardian to Face Trolls in a Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-scene-1-wand-trolls-setup-0-00-0-03-5b9c643f99ce) · [finished media](https://media.goodcase.ai/cases/ab75ef7be18f.mp4) · [poster](https://media.goodcase.ai/cases/04e5a525e474.jpg) · [original source](https://x.com/itsSaira_1/status/2109129359441457193)
@@ -180,7 +232,7 @@ low quality, low resolution, blurry, distorted face, extra limbs, bad anatomy, d
 #AIArt #VisualStorytelling #AI
 ```
 
-## E6 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
+## E7 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
 
 - Seedance 2.5 · creator: @itsSaira_1 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
@@ -207,7 +259,7 @@ blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern cloth
 #Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
-## E7 · Female Shinobi Summons a Black Dragon to Battle a Temple Demon
+## E8 · Female Shinobi Summons a Black Dragon to Battle a Temple Demon
 
 - Seedance 2.5 · creator: @AiWithHani · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-shadow-dragon-awakens-7717a96f1fd3) · [finished media](https://media.goodcase.ai/cases/47abc8c22df0.jpg) · [original source](https://x.com/AiWithHani/status/2114920377491374508)
@@ -235,20 +287,4 @@ AUDIO: No music, narration, or subtitles. Only wind, dragon roars, cracking eart
 NEGATIVE PROMPT: Anime, cartoon, cheap CGI, plastic skin, distorted faces, extra limbs, unrealistic physics, flickering, excessive glow, blood, and gore.
 
 FORMAT: Vertical 9:16, consistent characters, smooth transitions, realistic motion, and maximum cinematic realism.
-```
-
-## E8 · Lavender-Haired Girl Leaps Through a Pool Wave
-
-- Seedance 2.5 · creator: @Zoyavelle · heat: 87 · stability: 83
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1) · [finished media](https://media.goodcase.ai/cases/65eb83d5a0fd.mp4) · [poster](https://media.goodcase.ai/cases/5b534bd92cd2.jpg) · [original source](https://x.com/Zoyavelle/status/2100089287345951159)
-- Summary: Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
-
-```text
-Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gray school-style blazer, white shirt with a blue bow tie, dark pleated skirt, white knee-high socks and black shoes, stands in the middle of a swimming pool surrounded by several young female swimmers wearing dark navy one-piece swimsuits.
-
-The scene begins with the lavender-haired girl standing face-to-face with a group of swimmers in a large indoor aquatic center, with tiled walls, industrial ceiling lights and a dramatic cool blue-gray color palette. Suddenly she moves through the shallow swimming pool as a massive wave of water crashes around her. She runs and jumps through the water with energetic, playful movement while the other swimmers react with surprise and excitement.
-
-Huge realistic water splashes, powerful waves, water droplets flying through the air, realistic wet surfaces, dynamic motion, cinematic slow-motion moments, natural human movement, detailed facial expressions, realistic skin and wet clothing, atmospheric mist and water spray.
-
-Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
 ```

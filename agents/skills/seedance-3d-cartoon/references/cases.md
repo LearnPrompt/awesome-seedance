@@ -1,6 +1,6 @@
 # Case evidence · 3D cartoon character short
 
-65 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
+69 verified cases are filed under this template in awesome-seedance; the 8 hottest are below, full prompts included. Pick one as the anchor before drafting.
 
 Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
@@ -138,7 +138,69 @@ The pink rabbit applies lipstick while making funny, confident expressions. She 
 Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
 ```
 
-## E5 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
+## E5 · 孕妇的梦幻橄榄球
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 88
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-dd9889bf2c2c) · [finished media](https://media.goodcase.ai/cases/8c17c23fdda4.mp4) · [poster](https://media.goodcase.ai/cases/573c7eaac41b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2116718625474396498)
+- Summary: 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
+
+```text
+Create a 20-second cinematic 3D animated short film in a high-quality Pixar-inspired style.
+
+Scene 1 (0–4 seconds): A beautiful pregnant blonde woman wearing a yellow-and-white striped tank top is lying in bed at night. She gently places her hands on her baby bump, looking surprised and curious. The bedroom is illuminated by soft blue moonlight.
+
+Scene 2 (4–10 seconds): Transition into a magical fantasy football world inside the mother's imagination. A cute, chubby baby boy with blonde hair, big expressive blue eyes, and a tiny curl on his head appears wearing a white T-shirt with a blue star and blue shorts. He runs across a green football field, kicks a blue-and-white star-patterned soccer ball, and performs an adorable goalkeeper jump to catch it.
+
+Scene 3 (10–14 seconds): The baby celebrates his football skills with a joyful smile. He then falls asleep peacefully, hugging the soccer ball like his favorite toy.
+
+Scene 4 (14–20 seconds): Return to the blue moonlit bedroom. The pregnant woman is sleeping beside her husband. Suddenly, a small black-and-white cat jumps onto the bed and lands near her baby bump. She wakes up with a shocked expression, creating a funny and unexpected ending.
+
+Visual Style: Ultra-detailed 3D Pixar-inspired animation, adorable character design, expressive facial emotions, cinematic camera movements, realistic fabric textures, beautiful lighting, smooth transitions, magical atmosphere, professional animated movie quality, 4K resolution, vertical 9:16 aspect ratio.
+
+Audio: Soft magical background music, gentle nighttime ambience, cute baby sounds, playful football sound effects, and a funny surprise sound at the ending.
+```
+
+## E6 · Frog-hat baby sneaks out of the crib and startles Dad
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 88
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-824160459b18) · [finished media](https://media.goodcase.ai/cases/695f51585ca3.mp4) · [poster](https://media.goodcase.ai/cases/05e0d2cb4b37.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2117812036126257293)
+- Summary: Made with seedance 2.5 Prompt 👇 Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed text…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed textures, expressive facial animations, warm lighting, realistic movement, and professional cinematic storytelling.
+
+Character: An adorable chubby baby girl with big sparkling brown eyes, rosy cheeks, short dark brown hair, wearing a cute green knitted frog hat with big frog eyes and a white baby romper featuring a small green frog design.
+
+Scene 1 – Baby in the Crib:
+A cute baby girl stands inside a beautiful wooden baby crib in a cozy nursery. She holds the wooden bars with both hands, looking innocent and curious. Warm golden sunlight enters through the window, creating a peaceful atmosphere.
+
+Scene 2 – Funny Baby Expressions:
+Show a close-up of the baby making adorable funny facial expressions, squeezing her eyes, puffing her cheeks, and smiling playfully while wearing her oversized frog hat.
+
+Scene 3 – Baby Escapes:
+The baby cleverly crawls out of her crib and moves across the soft carpet. She explores the nursery with excitement, crawling behind furniture and hiding playfully.
+
+Scene 4 – Cute Hiding Moment:
+The baby hides behind a large cozy armchair. Only her little face and frog hat are visible. She peeks over the chair with a mischievous smile, then hides again.
+
+Scene 5 – Mischievous Adventure:
+The baby attempts to climb a nearby white dresser, reaching toward its drawers with her tiny hands. Show her funny and determined expressions.
+
+Scene 6 – Unexpected Daddy Reaction:
+Suddenly, her father appears in the nursery and is shocked to discover the baby's mischievous adventure. Show his exaggerated surprised facial expression, wide-open eyes, and funny reaction.
+
+Scene 7 – Emotional Funny Ending:
+The father discovers the adorable baby sitting safely in a little chair. He looks at her in disbelief while she smiles innocently. End with a cute close-up selfie-style shot of the father and baby together.
+
+Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
+
+Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
+```
+
+## E7 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25) · [finished media](https://media.goodcase.ai/cases/cd474162c3c0.mp4) · [poster](https://media.goodcase.ai/cases/9f5595620b50.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2106347953711661482)
@@ -175,7 +237,7 @@ Aspect Ratio: 16:9.
 Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
 ```
 
-## E6 · A Little Girl Learns Fruits and Their English Names at Preschool
+## E8 · A Little Girl Learns Fruits and Their English Names at Preschool
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041) · [finished media](https://media.goodcase.ai/cases/5a31f9968740.mp4) · [poster](https://media.goodcase.ai/cases/537cb34decad.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2108381024417993043)
@@ -226,28 +288,4 @@ Add a friendly female voice pronouncing each fruit's English name clearly.
 Vertical 9:16 format, high resolution, suitable for YouTube Shorts and children's educational content.
 
 No scary elements, no distorted faces, no extra fingers, and no character changes.
-```
-
-## E7 · Seedance Two-Character 3D Cartoon: Little Butterfly
-
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 84 · stability: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-4a336f514777) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-4a336f514777.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-4a336f514777.jpg) · [original source](https://x.com/ayzalnooor24521/status/2089559741718548578)
-- Summary: A little butterfly, a sweet flower, and a beautiful moment. Sometimes the smallest moments make the cutest memories. Cre
-
-```text
-Create a cute cinematic 14-second 3D cartoon using the two reference characters, keeping their faces, hairstyles, clothes and appearance consistent. A young woman in a pink outfit walks through a sunny green park with a cute blonde little boy in a dinosaur T-shirt. The boy notices a colorful butterfly, points excitedly, and they happily follow it through the flowers. The boy picks a small flower and gives it to the woman, and she smiles and gently hugs him. Use smooth expressive animation, soft cinematic lighting, vibrant colors, detailed park scenery, natural camera movement and a warm family-friendly atmosphere. No character changes, face distortion, extra characters, outfit changes, flickering, deformed hands, text or watermark. 16:9 vertical, high-quality cinematic 3D animation.
-```
-
-## E8 · A Ketchup Mix-Up at an Italian Restaurant
-
-- Seedance 2.5 · creator: @Elvorya · heat: 82
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-high-quality-cinematic-3d-animated-restaurant-sequence-with-92b216cb0d21) · [finished media](https://media.goodcase.ai/cases/3120a05c7986.mp4) · [poster](https://media.goodcase.ai/cases/620edbf4016f.jpg) · [original source](https://x.com/Elvorya/status/2106974836887318797)
-- Summary: A little pasta, a lot of chaos 😂🍝 Created with seedance 2.5 Prompt: Create a 15-second high-quality cinematic 3D animated restaurant sequence with expressive …
-
-```text
-Create a 15-second high-quality cinematic 3D animated restaurant sequence with expressive stylized characters, warm lighting, detailed environments, smooth character animation, natural comedic reactions, and consistent character appearance throughout.
-
-Begin with a wide establishing shot inside a cozy Italian restaurant filled with wooden tables, red-and-white checkered tablecloths, framed food artwork, warm pendant lights, brick arches, and customers enjoying their meals → reveal a young man with messy brown hair sitting at a table with a young brunette woman, both waiting for their food while the busy restaurant continues around them → transition into a close-up as the young man gives an enthusiastic thumbs-up while a red ketchup bottle is squeezed dramatically over a plate of spaghetti, creating a playful food moment → cut to the chef in his white chef uniform and tall chef hat standing in the kitchen, reacting with a concerned and confused expression while holding a wooden spoon → transition to a medium shot of a waiter carrying plates through the restaurant as several customers suddenly look toward the commotion with surprised expressions → cut back to the young couple at their table as the chef approaches them holding a ketchup bottle, gesturing animatedly and trying to explain something → show the chef and the young man exchanging confused but humorous expressions while the woman watches curiously → transition into a dramatic close-up of the chef carefully presenting a beautifully plated spaghetti dish topped with tomato sauce, grated parmesan, and fresh basil → cut to an extreme close-up of a fork lifting a large portion of spaghetti, long noodles stretching upward with rich tomato sauce and steam rising from the freshly prepared food → transition back to the table as the young man and woman happily react while the chef proudly stands behind the dish → final shot becomes a warm cinematic wide shot of the restaurant, with the chef smiling proudly between the young couple as they enjoy their spaghetti, surrounding customers laughing and smiling, warm golden restaurant lighting creating a cozy happy ending.
-
-Style: polished cinematic 3D animation, expressive facial animation, charming family-friendly comedy, detailed character models, realistic food textures, warm Italian restaurant atmosphere, soft depth of field, smooth camera movement, cinematic composition, natural motion, high-quality animated-film rendering, consistent characters and environment throughout, no flickering, no character deformation, no identity drift, no text, no watermark.
 ```
