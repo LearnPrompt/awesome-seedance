@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Futuristic Highway Chase with Motorcycles and Supercar
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 92
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea) · [finished media](https://media.goodcase.ai/cases/750a092b1670.mp4) · [poster](https://media.goodcase.ai/cases/1917351d85cd.jpg) · [original source](https://x.com/itsSaira_1/status/2104064261005709551)
 - Summary: ⚡This machine wasn't built to race — it was built to hunt." Made with Seedance 2.5 on @supercool_hq Prompt: Cinematic photorealistic sci-fi action sequence, moo…
 
@@ -39,7 +39,7 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 ## E2 · Urban Police Chase and Explosive Getaway
 
-- Seedance 2.0 · creator: @Aria_Nawi · heat: 89
+- Seedance 2.0 · creator: @Aria_Nawi · heat: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-police-chase-621254905333) · [finished media](https://media.goodcase.ai/cases/166c1a2a5127.mp4) · [poster](https://media.goodcase.ai/cases/dcc163d4e56d.jpg) · [original source](https://x.com/Aria_Nawi/status/2098461817555374451)
 - Summary: Police chase. Explosion. A cinematic 3D world built with GPT-6 Astra. Made by @PixVerse. Available on PixVerse and in ChatGPT via the PixVerse Plugin. Prompt ↓ …
 
@@ -54,7 +54,7 @@ Create an original GTA-inspired cartoon car chase using this workflow: Design: D
 
 ## E3 · Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 80 · stability: 76
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 79 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) · [finished media](https://media.goodcase.ai/media/video/ruzainameer-seedance-ai-e6073ec318f1.mp4) · [poster](https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg) · [original source](https://x.com/RuzainaMeer/status/2089595902818398461)
 - Summary: Seedance 2.5 1080P is now available on @itsPolloAI — and it’s 50% off right now. I tested it with this cinematic motorcy
 
@@ -86,7 +86,7 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 ## E4 · Motorcycle Racing Through a Mountain Road
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 76 · stability: 78
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 75 · stability: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
 - Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
 
@@ -161,7 +161,7 @@ Created a video, 30 second, featuring a futuristic white supercar driving throug
 
 ## E6 · Black Sedan Chase and Gunfire at Sunset
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 70
+- Seedance 2.5 · creator: @Xaroon_x · heat: 69
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) · [finished media](https://media.goodcase.ai/cases/75e713901ea3.mp4) · [poster](https://media.goodcase.ai/cases/6170bf3f7274.jpg) · [original source](https://x.com/Xaroon_x/status/2107838928992489968)
 - Summary: Action 🔥 Fast cars, cinematic shots, and intense action. All brought to life with Seedance 2.5. Exploring the next level of AI video generation with @ImagineAr…
 
@@ -205,7 +205,7 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 
 ## E7 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
 
-- Seedance 2.5 · creator: @CharaspowerAI · heat: 70
+- Seedance 2.5 · creator: @CharaspowerAI · heat: 69
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) · [finished media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) · [poster](https://media.goodcase.ai/cases/68b308e11fb0.jpg) · [original source](https://x.com/CharaspowerAI/status/2111517673276240251)
 - Summary: Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
 
@@ -240,7 +240,7 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 
 ## E8 · Post-Apocalyptic Desert Buggy Air Battle
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 69 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 68 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
 - Summary: Post apocalyptic chaos at full speed A rocket powered dune buggy explosive dogfights and insane cinematic action straigh
 

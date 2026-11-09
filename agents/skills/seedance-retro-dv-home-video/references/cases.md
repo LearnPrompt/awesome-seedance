@@ -46,7 +46,7 @@ Format: 16:9.
 
 ## E3 · A Day Buying Bread and Cotton Candy in Old Seoul
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 96
+- Seedance 2.5 · creator: @AIwithkhan · heat: 95
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b2425539d28a) · [finished media](https://media.goodcase.ai/cases/60b9bcdc9e88.mp4) · [poster](https://media.goodcase.ai/cases/f73ca1c9ee91.jpg) · [original source](https://x.com/AIwithkhan/status/2104057858765791389)
 - Summary: Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
 
@@ -334,7 +334,7 @@ Authentic low-quality smartphone microphone. Distant Korean street conversations
 
 ## E8 · Early-2000s Seoul Couple's Afternoon Drive
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 91
+- Seedance 2.5 · creator: @AIwithkhan · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-camcorder-hom-a3fa022a7b4e) · [finished media](https://media.goodcase.ai/cases/0c1a24cc546f.mp4) · [poster](https://media.goodcase.ai/cases/64e9f9e3ac3b.jpg) · [original source](https://x.com/AIwithkhan/status/2104776214066188611)
 - Summary: A Little Drive, A Little Love ❤️ Seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video of a young Korean c…
 

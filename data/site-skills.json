@@ -20,8 +20,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 112,
-      "creatorCount": 77,
+      "caseCount": 113,
+      "creatorCount": 78,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261020/6ad4b41e000000000c009966/poster-cover.webp"
@@ -1116,11 +1116,31 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 44,
+      "caseCount": 45,
       "creatorCount": 24,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
       "cover": "https://media.goodcase.ai/cases/faca8b99131c.jpg"
+    },
+    {
+      "slug": "horror-suspense-short-by-1ktgmlf",
+      "baseSlug": "horror-suspense-short",
+      "kind": "creator_method",
+      "title": {
+        "en": "AIwithSynthia · Horror and suspense short",
+        "zh": "AIwithSynthia · 恐怖悬疑短片"
+      },
+      "description": {
+        "en": "A recurring horror and suspense short method derived from 8 published cases by AIwithSynthia.",
+        "zh": "从 AIwithSynthia 的 8 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
+      },
+      "styleTag": null,
+      "creator": "AIwithSynthia",
+      "caseCount": 8,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf",
+      "url": "https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf",
+      "cover": "https://media.goodcase.ai/cases/17336ecf1069.jpg"
     },
     {
       "slug": "horror-suspense-short-by-1jqwyww",
@@ -1141,26 +1161,6 @@
       "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww",
       "cover": "https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg"
-    },
-    {
-      "slug": "horror-suspense-short-by-1ktgmlf",
-      "baseSlug": "horror-suspense-short",
-      "kind": "creator_method",
-      "title": {
-        "en": "AIwithSynthia · Horror and suspense short",
-        "zh": "AIwithSynthia · 恐怖悬疑短片"
-      },
-      "description": {
-        "en": "A recurring horror and suspense short method derived from 7 published cases by AIwithSynthia.",
-        "zh": "从 AIwithSynthia 的 7 个已发布 Case 中归纳出的「恐怖悬疑短片」方法。"
-      },
-      "styleTag": null,
-      "creator": "AIwithSynthia",
-      "caseCount": 7,
-      "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf",
-      "url": "https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf",
-      "cover": "https://media.goodcase.ai/cases/17336ecf1069.jpg"
     },
     {
       "slug": "horror-suspense-short-by-43hd7f",
@@ -1256,8 +1256,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 37,
-      "creatorCount": 32,
+      "caseCount": 38,
+      "creatorCount": 33,
       "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg"

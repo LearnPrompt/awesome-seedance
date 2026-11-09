@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 86
+- Seedance 2.5 · creator: @eshal__ai · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · A Journey Through Poland's Landscapes and Culture
 
-- Seedance 2.0 · creator: @KinasRemek · heat: 82
+- Seedance 2.0 · creator: @KinasRemek · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-celem-jest-wykonanie-maksymalnie-90-sekundowego-klipu-promocyjnego-pod-tytu-11f2fef80247) · [finished media](https://media.goodcase.ai/cases/3fb2f495050f.mp4) · [poster](https://media.goodcase.ai/cases/f9e8f51d5d01.jpg) · [original source](https://x.com/KinasRemek/status/2102728913579327722)
 - Summary: "Poland is so beautiful" 🇵🇱 Opus 5.5 - jako orkiestrator i mózg operacji. Tym razem najnowszy model Claude Opus 5.5 ma za zadanie wyprodukować klip video prom…
 
@@ -47,7 +47,7 @@ Zadanie: Model ma wykonać zadanie bzez pomoicy ze strony człowieka.
 
 ## E3 · A Pink-Haired Girl’s Lazy Playground Wander
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 81 · stability: 85
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 80 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-that-s-me-all-the-time-at-home-lazy-ass-214920102dc4) · [finished media](https://media.goodcase.ai/cases/832d3cb11171.mp4) · [poster](https://media.goodcase.ai/cases/d031a8c7bd1d.jpg) · [original source](https://x.com/Just_sharon7/status/2100983315381829840)
 - Summary: That's me all the time at home, lazy ass Seedance 2.5 on @TapNow_AI Prompt Cinematic 30-second vertical or 16:9 music-video style sequence, photorealistic, high…
 
@@ -83,7 +83,7 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 
 ## E4 · Her Autumn Day in the City
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 77
+- Seedance 2.5 · creator: @Chaemate_ · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
 - Summary: city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
 
@@ -131,7 +131,7 @@ ACTION
 
 ## E5 · A Slow Autumn Travel Vlog in Kyoto
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 77
+- Seedance 2.5 · creator: @Chaemate_ · heat: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) · [finished media](https://media.goodcase.ai/cases/784165cb489a.mp4) · [poster](https://media.goodcase.ai/cases/587b89f01743.jpg) · [original source](https://x.com/Chaemate_/status/2099439262106083704)
 - Summary: A quiet day in Kyoto, captured like a memory you almost forgot you had. 🍂 Created with Seedance 2.5 on @FishCreativeHQ Prompt: Create a photorealistic 30-secon…
 
@@ -153,7 +153,7 @@ The goal is simple: make it feel like an actual travel vlog someone happened to 
 
 ## E6 · A Korean Woman's Winter Journey Through England
 
-- Seedance 2.0 · creator: @Harry_thingss · heat: 75
+- Seedance 2.0 · creator: @Harry_thingss · heat: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-30-second-ultra-realistic-4k-cinematic-winter-travel-vlog-set-in-england-6e26bca27e87) · [finished media](https://media.goodcase.ai/cases/72a97331532a.mp4) · [poster](https://media.goodcase.ai/cases/fad9a7d79ccd.jpg) · [original source](https://x.com/Harry_thingss/status/2102993120942346594)
 - Summary: What if your imagination looked like a blockbuster? ❄️ Winter mornings in England hit different ☕🇬🇧 From misty cobblestone streets to cozy Christmas markets —…
 
@@ -176,7 +176,7 @@ Style: Photorealistic, authentic English winter mood (overcast, misty, not heavy
 
 ## E7 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 75 · stability: 60
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 74 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
 
@@ -209,7 +209,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 
 ## E8 · A Korean Woman’s Autumn Forest Hike and Mountain Summit Journey
 
-- Seedance 2.5 · creator: @alixbuilds · heat: 73
+- Seedance 2.5 · creator: @alixbuilds · heat: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-cinematic-travel-vlog-featuring-a-young-adult-korean-5ab099618e98) · [finished media](https://media.goodcase.ai/cases/13b946df0959.mp4) · [poster](https://media.goodcase.ai/cases/16feb5f7b8a2.jpg) · [original source](https://x.com/alixbuilds/status/2116381998499721651)
 - Summary: Chasing mountain views and collecting unforgettable moments. Made with Seedance 2.5 Prompt: Create an ultra-realistic cinematic travel vlog featuring a young ad…
 

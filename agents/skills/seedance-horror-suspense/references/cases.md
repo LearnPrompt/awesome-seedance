@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Parasite Infection Outbreak in a Research Lab
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 97 · stability: 74
+- Seedance 2.5 · creator: @auqibhabib · heat: 96 · stability: 74
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-sci-fi-horror-action-short-film-set-in-a-research-laboratory-opens-w-9661cd7bd95d) · [finished media](https://media.goodcase.ai/cases/e364f1b8b354.mp4) · [poster](https://media.goodcase.ai/cases/5929c428cd08.jpg) · [original source](https://x.com/auqibhabib/status/2099725768310009982)
 - Summary: A containment breach in the lab sent things wrong fast. Seedance 2.5 Prompt: Cinematic sci-fi horror-action short film set in a research laboratory, opens with …
 
@@ -72,7 +72,7 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 
 ## E2 · Security Guard and Survivors in a Mall Zombie Outbreak
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 95 · stability: 72
+- Seedance 2.5 · creator: @auqibhabib · heat: 94 · stability: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff) · [finished media](https://media.goodcase.ai/cases/1ae41e66d7df.mp4) · [poster](https://media.goodcase.ai/cases/be466ebf5501.jpg) · [original source](https://x.com/auqibhabib/status/2104107269206237325)
 - Summary: A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
 
@@ -112,7 +112,7 @@ The group reaches temporary safety behind the storefront. The guard slowly looks
 
 ## E3 · Infected Attack on a Japanese Highway Bus
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 94 · stability: 76
+- Seedance 2.5 · creator: @auqibhabib · heat: 93 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-cinematic-horror-action-short-film-set-aboard-a-japanese-highway-bus-during-the-5bc85c0e13d8) · [finished media](https://media.goodcase.ai/cases/167033959b74.mp4) · [poster](https://media.goodcase.ai/cases/f5434503545d.jpg) · [original source](https://x.com/auqibhabib/status/2102265619416768799)
 - Summary: Bus driver and conductor stop sudden attack, all passengers safe. Seedance 2.5 Prompt: Cinematic horror-action short film set aboard a Japanese highway bus duri…
 
@@ -178,7 +178,7 @@ Natural diegetic sound throughout — gasping, screaming, bus brakes screeching,
 
 ## E4 · University Lab Infection Turns Students into Zombies
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 93
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 92
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-zombie-horror-sequence-inside-a-modern-univ-8c8bb77e9ccd) · [finished media](https://media.goodcase.ai/cases/dbdca4f6279f.mp4) · [poster](https://media.goodcase.ai/cases/17336ecf1069.jpg) · [original source](https://x.com/AIwithSynthia/status/2106955772395659431)
 - Summary: The College Lab Infection 🧟‍♀️ Seedance 2.5 on @wavespeed_ai Prompt: Create a photorealistic live-action zombie-horror sequence inside a modern university scie…
 
@@ -218,7 +218,7 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 ## E5 · A Woman Turns Zombie and Hunts Survivors in a Parking Garage
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 91
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-0-3s-a-young-korean-woman-in-a-fitted-blue-crop-top-and-white-shorts-walks-thr-3c95ae30346a) · [finished media](https://media.goodcase.ai/cases/4188ecfb268c.mp4) · [poster](https://media.goodcase.ai/cases/d1ba7a99ee62.jpg) · [original source](https://x.com/AIwithSynthia/status/2113840061104206005)
 - Summary: AI can do extraordinary things . 👇is one such example Made using Seedance 2.5 Prompt : 0–3s: A young Korean woman in a fitted blue crop top and white shorts wa…
 
@@ -240,9 +240,33 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realistic blood smears, sudden jerky movements, flickering lights, handheld camera shake, dark humor, cinematic 4K. No cartoon, anime, excessive gore, subtitles, or watermark.
 ```
 
-## E6 · Neighbors Fight Back Against an Infected Attack at Dusk
+## E6 · 韩国惊悚片电梯恐怖续写提示词
 
-- Seedance 2.5 · creator: @auqibhabib · heat: 84
+- Seedance 2.5 · creator: @navi_Ai2 · heat: 83
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-5be984665a55) · [finished media](https://media.goodcase.ai/cases/3740eeb93988.mp4) · [poster](https://media.goodcase.ai/cases/bd59842ddacc.jpg) · [original source](https://x.com/navi_Ai2/status/2115811148796678209)
+- Summary: 使用 Seedance 2.5 生成的悬疑续写提示词，讲述一名男子在电梯中通过手机屏幕看到自己分身（doppelganger）的韩国真人惊悚故事。
+
+```text
+Create an original 30-second continuation of Part 1, in 16:9 widescreen, 4K photorealistic Korean live-action thriller.
+
+Continue from the exact final frame of Part 1. Use the same Korean man, identical face, hairstyle, dark jacket, backpack, and apartment building.
+
+0–8 seconds: He enters the dark elevator and shines his phone flashlight around. The walls are covered with handwritten notes bearing tomorrow's date. One note reads, “You never left.”
+
+8–16 seconds: His phone suddenly displays live footage of the corridor. In the video, another version of him stands directly behind him. He turns around immediately, but the real corridor is empty.
+
+16–23 seconds: The phone screen glitches. His double moves close to the camera and whispers, “You're watching the wrong side.” The screen goes black, leaving only his reflection.
+
+23–30 seconds: In the dark phone screen, his reflection begins smiling while he remains terrified. The reflection slowly raises its hand and points behind him. He hears a metallic click and turns sharply. The elevator doors begin closing, but a smiling version of him is visible in the narrowing gap. Cut to black with a final heavy metallic sound.
+
+Ultra-realistic Korean cinema, consistent character identity, natural acting, suspenseful pacing, detailed environments, realistic reflections, cinematic lighting, and professional sound design.
+
+No existing movie references, no copyrighted characters, no logos, no watermarks, no random transitions, no distorted anatomy. Exactly 30 seconds, horizontal 16:9.
+```
+
+## E7 · Neighbors Fight Back Against an Infected Attack at Dusk
+
+- Seedance 2.5 · creator: @auqibhabib · heat: 83
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-horror-action-short-film-opens-with-an-instant-attack-no-slow-build-f8ebf859523e) · [finished media](https://media.goodcase.ai/cases/8f39846baced.mp4) · [poster](https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg) · [original source](https://x.com/auqibhabib/status/2107346452494381298)
 - Summary: Sudden outbreak on quiet suburban street, residents fight back and contain the threat. Seedance 2.5 Prompt: Cinematic horror-action short film, opens with an in…
 
@@ -306,33 +330,9 @@ Cinematic horror-action short film, opens with an instant attack, no slow build,
 Made with seedance 2.5 on @SocialSight
 ```
 
-## E7 · 韩国惊悚片电梯恐怖续写提示词
-
-- Seedance 2.5 · creator: @navi_Ai2 · heat: 83
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-5be984665a55) · [finished media](https://media.goodcase.ai/cases/3740eeb93988.mp4) · [poster](https://media.goodcase.ai/cases/bd59842ddacc.jpg) · [original source](https://x.com/navi_Ai2/status/2115811148796678209)
-- Summary: 使用 Seedance 2.5 生成的悬疑续写提示词，讲述一名男子在电梯中通过手机屏幕看到自己分身（doppelganger）的韩国真人惊悚故事。
-
-```text
-Create an original 30-second continuation of Part 1, in 16:9 widescreen, 4K photorealistic Korean live-action thriller.
-
-Continue from the exact final frame of Part 1. Use the same Korean man, identical face, hairstyle, dark jacket, backpack, and apartment building.
-
-0–8 seconds: He enters the dark elevator and shines his phone flashlight around. The walls are covered with handwritten notes bearing tomorrow's date. One note reads, “You never left.”
-
-8–16 seconds: His phone suddenly displays live footage of the corridor. In the video, another version of him stands directly behind him. He turns around immediately, but the real corridor is empty.
-
-16–23 seconds: The phone screen glitches. His double moves close to the camera and whispers, “You're watching the wrong side.” The screen goes black, leaving only his reflection.
-
-23–30 seconds: In the dark phone screen, his reflection begins smiling while he remains terrified. The reflection slowly raises its hand and points behind him. He hears a metallic click and turns sharply. The elevator doors begin closing, but a smiling version of him is visible in the narrowing gap. Cut to black with a final heavy metallic sound.
-
-Ultra-realistic Korean cinema, consistent character identity, natural acting, suspenseful pacing, detailed environments, realistic reflections, cinematic lighting, and professional sound design.
-
-No existing movie references, no copyrighted characters, no logos, no watermarks, no random transitions, no distorted anatomy. Exactly 30 seconds, horizontal 16:9.
-```
-
 ## E8 · Zombie Attack in a Japanese Classroom
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 82
+- Seedance 2.5 · creator: @AIwithkhan · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-japanese-high-school-horror-action-sequence-fea-5cf4a965e81a) · [finished media](https://media.goodcase.ai/cases/679f1e6b50a2.mp4) · [poster](https://media.goodcase.ai/cases/bd58f9078734.jpg) · [original source](https://x.com/AIwithkhan/status/2100575957451153626)
 - Summary: One drop, one bite, and the safest place in school became a nightmare. 😳 Seedance 2.5 Prompt : Create a short, ultra-realistic Japanese high-school horror-acti…
 

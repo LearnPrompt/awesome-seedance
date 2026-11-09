@@ -202,7 +202,7 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 ## E4 · Apartment Arrival Storyboard Animation
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 63
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 62
 - Evidence: [GoodCase](https://goodcase.ai/cases/apartment-arrival-storyboard-animation) · [finished media](https://media.goodcase.ai/media/video/apartment-arrival-storyboard-animation.mp4) · [poster](https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg) · [original source](https://x.com/Just_sharon7/status/2083912532692001128)
 - Summary: A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
 
@@ -572,7 +572,7 @@ The volume increases continuously until the woman
 
 ## E8 · Flaming Spear Hero Battles the Stone Colossi
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 39
+- Seedance 2.5 · creator: @Xaroon_x · heat: 38
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-15s-cinematic-fantasy-action-69629478b3c4) · [finished media](https://media.goodcase.ai/cases/3213936a04bc.mp4) · [poster](https://media.goodcase.ai/cases/4f05b16f382b.jpg) · [original source](https://x.com/Xaroon_x/status/2100595334833422793)
 - Summary: From ruins to a giant showdown. Created with Seedance 2.5 on @WizstarAI AEpic fantasy action, dynamic combat, and cinematic visuals brought to life with AI. Try…
 
