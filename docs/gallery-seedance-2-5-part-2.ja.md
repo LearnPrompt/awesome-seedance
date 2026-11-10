@@ -1,10 +1,255 @@
 # Seedance 2.5 — 全ケース（Part 2/9）
 
-Seedance 2.5 の全 712 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 728 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 712 件中 87–157 件目。
+このページ: 728 件中 85–155 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
+
+### A village girl pilots a boat to rescue people from a tsunami
+
+> One girl. One boat. A race against the final wave. 🌊🔥 Created with Seedance 2.5 on @dreamina_ai #dreamina #dreaminacreators Prompt THE FINAL WAVE | A DESPERAT…
+
+[<img src="https://media.goodcase.ai/cases/3133beac79ec.jpg" width="600" alt="A village girl pilots a boat to rescue people from a tsunami">](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aqsahere_ | **出典:** [元投稿](https://x.com/Aqsahere_/status/2118187360525414673) | **公開日:** 2026-11-05 | **ヒート:** 85
+
+<details>
+<summary><b>プロンプト全文（55 行、クリックで展開）</b></summary>
+
+```
+One girl. One boat. A race against the final wave. 🌊🔥
+
+Created with Seedance 2.5 on @dreamina_ai
+
+ #dreamina #dreaminacreators
+
+Prompt 
+THE FINAL WAVE | A DESPERATE TSUNAMI RESCUE
+
+Create a 30-second ultra-realistic live-action cinematic disaster video set in a Japanese coastal fishing village. A massive tsunami approaches after a powerful earthquake. A brave young woman risks her life to rescue stranded people.
+
+CHARACTER & LOCATION:
+A young Japanese woman with dark hair in a ponytail, wearing a dark waterproof jacket, black trousers and rubber boots. Three adult fishermen, one small child and one elderly woman. Keep all characters, outfits, faces, rescue boat and village consistent.
+
+EXACT SCENE SEQUENCE:
+
+1. EARTHQUAKE (0–3s):
+The village shakes violently. Objects fall, houses rattle and villagers rush outside.
+
+2. TSUNAMI WARNING (3–5s):
+Emergency sirens sound. The girl looks towards the ocean as the water suddenly retreats from the harbor.
+
+3. FISHERMEN IN DANGER (5–8s):
+She spots three fishermen stranded near a damaged fishing boat, desperately waving for help.
+
+4. RESCUE BOAT (8–11s):
+She runs to a small motorboat, unties it and starts the engine.
+
+5. ROUGH SEA (11–15s):
+She navigates through violent waves, avoiding floating debris as water splashes over the boat.
+
+6. FISHERMEN RESCUE (15–19s):
+She reaches the damaged boat and helps all three fishermen climb safely aboard, catching one as he nearly slips.
+
+7. CHILD AND ELDERLY WOMAN (19–22s):
+She spots a frightened child and elderly woman trapped on a flooded rooftop and steers towards them.
+
+8. MASSIVE TSUNAMI (22–26s):
+A gigantic dark wave appears behind the harbor. The fishermen help bring the child and elderly woman aboard from a reachable flooded platform.
+
+9. ESCAPE (26–28s):
+The boat reaches elevated ground. She helps everyone climb to safety as floodwater crashes through the harbor.
+
+10. FINAL SHOT (28–30s):
+The rescued child holds her hand. She watches in shock as the massive wave engulfs the distant village.
+
+VISUAL STYLE:
+Ultra-photorealistic live-action disaster film, realistic tsunami physics, powerful water movement, natural handheld documentary camera, stormy daylight, wet clothing, emotional expressions and believable boat movement.
+
+Natural audio: earthquake rumbling, emergency sirens, wind, engine, shouting and crashing waves. No music, subtitles or voiceover.
+
+STRICT CONTINUITY:
+Same characters, outfits, boat and location throughout. Show every rescue physically, with logical movement between scenes. No teleportation, superhero powers, cartoon water or unrealistic CGI.
+
+The final video must feel like real disaster footage, full of tension, urgency and emotion.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Schoolgirl awakens purple lightning and fights corridor bullies
+
+> This is AI video absolutely masterpiece 🔥 Gerneted with Seedance 2.5. Prompt 👇
+
+[<img src="https://media.goodcase.ai/cases/d2a8ed4a5700.jpg" width="600" alt="Schoolgirl awakens purple lightning and fights corridor bullies">](https://goodcase.ai/cases/seedance-2-5-video-prompt-cinematic-live-action-30-second-supernatural-school-action-scene-9fad79059c7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ItsMaryamAi | **出典:** [元投稿](https://x.com/ItsMaryamAi/status/2117077642344284286) | **公開日:** 2026-11-02 | **ヒート:** 85
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+VIDEO PROMPT:Cinematic live-action, 30-second supernatural school action scene. 
+A Japanese high school girl (cream knit sweater, navy bow tie, 
+plaid pleated skirt, black knee-high socks, messy shoulder-length 
+dark hair) is thrown to the floor of an empty school corridor by 
+bullies. She rises with a furious, awakened expression — close-up 
+of her eyes and a wild, defiant grin as crackling purple lightning 
+and dark violet smoke erupt around her body.
+
+She then fights a group of male students in black gakuran-style 
+uniforms inside a bright corridor with green-and-white walls, 
+wooden doors, lockers and large windows. Fast, powerful martial-arts 
+combat: dodging punches, counter strikes, leaping off lockers, 
+flying kicks. Each hit releases purple energy bursts and dust 
+particles; the floor cracks beneath impacts, papers scatter in 
+the air, defeated bullies lie sprawled in the background.
+
+Camera: handheld, dynamic tracking shots, quick whip pans, dramatic 
+low angles, slow-motion on impacts, extreme close-ups on her face. 
+Lighting: natural overcast daylight through windows, with glowing 
+purple energy as the main accent. Color grade: slightly desaturated, 
+high contrast, teal-green school tones against vivid violet. 
+Ending: she collapses exhausted on the cracked floor among 
+scattered papers. 
+Style: photorealistic, anime-inspired live-action, 24fps, 16:9, 
+high detail, no text, no subtitles
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-video-prompt-cinematic-live-action-30-second-supernatural-school-action-scene-9fad79059c7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion
+
+> Imagine being so dangerous that even explosions are just background effects. Seedance 2.5 @FishCreativeHQ Prompt VISUAL STYLE Ultra-photorealistic Hollywood blo…
+
+[<img src="https://media.goodcase.ai/cases/835ae0551b0e.jpg" width="600" alt="Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion">](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2110990656105807984) | **公開日:** 2026-10-16 | **ヒート:** 85
+
+<details>
+<summary><b>プロンプト全文（65 行、クリックで展開）</b></summary>
+
+```
+Imagine being so dangerous that even explosions are just background effects.
+
+Seedance 2.5 @FishCreativeHQ 
+
+Prompt
+
+VISUAL STYLE
+
+Ultra-photorealistic Hollywood blockbuster cinematography. A dramatic nighttime explosion sequence featuring a mysterious young woman walking calmly toward the camera while a massive fireball erupts behind her. Realistic fire simulation, powerful shockwaves, thick smoke, flying debris, atmospheric lighting, cinematic contrast, natural skin textures, and realistic human movement. Cool blue nighttime tones contrast with intense orange flames.
+
+CHARACTER IDENTITY LOCK
+
+A striking 24-year-old woman with long, straight pastel-pink hair and soft bangs framing her face. Pale natural skin, delicate facial features, and a cold, emotionless expression.
+
+OUTFIT: A fitted rainbow-striped long-sleeve turtleneck shirt underneath faded light-blue denim short overalls, with a front bib pocket and adjustable shoulder straps. Red bands around both upper thighs. Barefoot.
+
+Preserve her exact face, hairstyle, outfit, body proportions, and accessories throughout the entire video.
+
+SETTING
+
+An isolated, empty two-lane asphalt road at midnight. The road is slightly wet, reflecting the overhead streetlights. A faded yellow centerline stretches into the distance. Evenly spaced modern streetlights illuminate both sides of the road, disappearing into the darkness. No vehicles, pedestrians, or surrounding buildings.
+
+CAMERA
+
+One continuous frontal tracking shot. The camera moves backward at exactly the same speed as the woman, maintaining a centered, full-body composition. Smooth stabilized movement with subtle natural cinematic motion. 35mm lens, shallow atmospheric depth, realistic lighting, and high dynamic range.
+
+ACTION TIMELINE
+
+00:00–00:02 — THE MYSTERIOUS WALK
+
+The woman walks barefoot directly toward the camera along the center of the deserted road. She casually holds a cigarette near her lips, takes a final drag, and maintains a completely emotionless expression. Her long pastel-pink hair moves gently in the nighttime breeze.
+
+00:02–00:04 — THE IGNITION
+
+She lowers her hand and continues walking without looking backward. A sudden bright blue-white flash illuminates the road far behind her. A small cloud of smoke begins expanding rapidly in the background.
+
+00:04–00:06 — THE MASSIVE EXPLOSION
+
+A gigantic orange fireball violently erupts behind the woman, filling the entire width of the road. The explosion expands upward into a towering mushroom-shaped cloud of flames and black smoke.
+
+Powerful shockwaves push dust and debris outward. Bright orange firelight illuminates the woman's pink hair, denim overalls, and the reflective asphalt.
+
+She never turns around, flinches, or changes her walking speed.
+
+00:06–00:08 — THE UNTOUCHABLE WALK
+
+The woman continues walking directly toward the camera with complete confidence. Behind her, enormous flames roll across the road while thick smoke rises into the night sky.
+
+The explosion creates dramatic orange rim lighting around her silhouette. Her hair sways gently from the displaced air. Her facial expression remains cold and completely indifferent.
+
+00:08–00:10 — THE FINAL HERO SHOT
+
+The camera continues tracking backward as she approaches slightly closer. Burning wreckage and towering flames remain visible behind her.
+
+She walks steadily toward the lens, looking straight ahead with an intimidating, expressionless gaze.
+
+End on a powerful cinematic shot of the woman perfectly centered against the enormous burning background.
+
+SOUND DESIGN
+
+Quiet nighttime ambience, soft barefoot footsteps against asphalt, subtle cigarette inhale, sudden explosive ignition, enormous deep bass explosion, roaring flames, rushing air, and falling debris.
+
+STRICT REQUIREMENTS
+
+One uninterrupted tracking shot. No cuts, no camera angle changes, no slow motion, no dialogue, no subtitles, no text overlays. The woman's face and clothing must remain perfectly consistent. The explosion must remain behind her, never engulfing her. Physically convincing fire, smoke, lighting, and debris. No cartoon effects, no artificial-looking CGI humans, no facial distortion, no duplicated limbs.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
+
+> Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
+
+[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | **公開日:** 2026-10-03 | **ヒート:** 85
+
+<details>
+<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
+
+Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
+
+Action Sequence:
+
+The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
+
+As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
+
+The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
+
+Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
+
+Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
+
+Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
+
+Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
+
+Duration: 20 seconds.
+
+Aspect Ratio: 16:9.
+
+Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Handheld Travel Vlog From Apartment to Beach
 
@@ -785,6 +1030,147 @@ OUTPUT:
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 机场僵尸逃生 20s
+
+> ElsaSofia__AI：机场僵尸逃生 20s，完整 Prompt 在作者自回复。
+
+[<img src="https://media.goodcase.ai/cases/08e4a900c80f.jpg" width="600" alt="Seedance 2.5 机场僵尸逃生 20s">](https://goodcase.ai/cases/seedance-2-5-20s-c842741f416a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ElsaSofia__AI | **出典:** [元投稿](https://x.com/ElsaSofia__AI/status/2119023237220942281) | **公開日:** 2026-11-07 | **ヒート:** 84
+
+<details>
+<summary><b>プロンプト全文（123 行、クリックで展開）</b></summary>
+
+```
+AIRPORT ZOMBIE ESCAPE — THE LAST FLIGHT
+
+Duration: 20 seconds
+Aspect Ratio: 16:9
+
+Style: Ultra-photorealistic live-action zombie survival action film, cinematic Hollywood production.
+
+1. CHARACTER CONSISTENCY
+
+Female Lead: A young adult blonde schoolgirl with long light-blonde hair, wearing a navy-blue school blazer with white trim, a white collared shirt, a large dark red ribbon bow, a dark red-and-navy plaid pleated skirt, white knee-high socks, and black school shoes. She has a frightened but determined expression. Her hair moves naturally as she runs and jumps. Preserve her exact face, hairstyle, school uniform, and body proportions throughout the video.
+
+Zombies: Several terrifying adult human zombies with pale dirty skin, messy dark hair, damaged faces, and worn brown and gray clothing. They run aggressively after the girl with their arms reaching forward. Preserve their realistic human proportions and horror makeup.
+
+Military Personnel: Male military crew members wearing dark navy military uniforms with visible yellow insignia and patches. They are positioned inside the open rear cargo entrance of the aircraft and reach out to help the girl climb aboard.
+
+2. LOCATION AND ENVIRONMENT
+
+The sequence begins inside a large modern international airport terminal. The terminal features a high glass ceiling, large floor-to-ceiling windows, polished gray flooring, blue airport seating, luggage trolleys, glass partitions, and a large open atrium with a visible lower level.
+
+The sequence then moves outside through automatic sliding glass doors onto an airport runway and aircraft service area. A large gray military cargo aircraft is parked with its rear cargo ramp fully lowered. The aircraft interior is dark, illuminated by rows of overhead lights.
+
+Maintain realistic airport architecture, natural daylight, runway markings, aircraft positioning, and consistent character appearances.
+
+3. SHOT-BY-SHOT VIDEO SEQUENCE
+
+SHOT 1 — 0–2 SECONDS: RUNNING FROM THE ZOMBIES
+
+Begin with a frontal tracking shot of the blonde schoolgirl running directly toward the camera through a modern airport terminal. Her navy blazer moves with her running motion, her blonde hair flows behind her, and her expression is frightened.
+
+A large group of zombies is chasing her from behind across the airport terminal. The glass ceiling, blue seating, luggage carts, and polished floor remain visible. The camera moves backward smoothly as she runs toward it.
+
+SHOT 2 — 2–4 SECONDS: THE ZOMBIES GET CLOSER
+
+Continue the frontal running shot. The girl runs faster while several zombies close the distance behind her. One zombie comes dangerously close to her shoulder and reaches toward her from behind.
+
+She keeps running without stopping. Use a dynamic tracking camera, natural motion blur, and realistic foot contact with the airport floor.
+
+SHOT 3 — 4–6 SECONDS: APPROACHING THE LARGE OPENING
+
+The girl runs toward a large open atrium area inside the terminal. The floor ahead reveals a wide opening overlooking the lower airport level. A zombie follows closely behind her.
+
+Use a wide side-angle shot to reveal the large architectural gap, the lower floor, glass railings, and the height of the terminal. She prepares to jump across the opening.
+
+SHOT 4 — 6–8 SECONDS: THE BIG JUMP
+
+Capture the girl performing a powerful running jump across the large opening in the airport floor. Her body becomes fully airborne, both legs extended, arms raised for balance, and blonde hair flowing behind her.
+
+A zombie lunges toward her from the opposite side but fails to catch her. Use a wide cinematic side view showing the full jump and the open space below.
+
+SHOT 5 — 8–10 SECONDS: LANDING AND FALLING
+
+The girl reaches the other side but loses her balance during the landing. She falls onto the polished terminal floor and slides forward, ending in a seated or low position.
+
+Her hands touch the floor as she tries to stop herself. The zombie remains behind her in the distance. Use a medium-wide shot with realistic momentum, body weight, and floor contact.
+
+SHOT 6 — 10–12 SECONDS: ESCAPING THROUGH THE AIRPORT EXIT
+
+Cut to the exterior-facing airport entrance. The automatic glass sliding doors open as the girl runs through them toward the outside.
+
+She moves from the bright airport terminal onto the airport service area. Keep the glass entrance and building facade visible behind her. The camera follows her from the front as she exits.
+
+SHOT 7 — 12–15 SECONDS: ZOMBIES ON THE RUNWAY
+
+Cut to a wide outdoor tracking shot. The girl runs along the airport service road with a large gray military cargo aircraft visible ahead.
+
+Several zombies chase her across the runway behind her. The zombies move aggressively, reaching toward her as she runs. The aircraft and its large rear cargo opening become increasingly visible.
+
+Use realistic airport daylight, runway markings, and cinematic motion blur.
+
+SHOT 8 — 15–18 SECONDS: REACHING THE CARGO AIRCRAFT
+
+The girl approaches the large military cargo aircraft. Its rear cargo ramp is lowered, creating an open entrance into the aircraft.
+
+She runs directly toward the ramp, looking upward at the people inside. Several military crew members in dark navy uniforms stand inside the illuminated cargo compartment. One crew member leans forward and extends his hand toward her.
+
+The zombies continue chasing her from behind. Use a low-angle shot that emphasizes the aircraft's size and the urgency of her escape.
+
+SHOT 9 — 18–20 SECONDS: CLIMBING INTO SAFETY
+
+Cut to a low-angle close shot from behind the girl as she reaches the lowered aircraft ramp. She places both hands on the ramp edge and begins climbing upward into the cargo compartment.
+
+A male military crew member in a dark navy uniform reaches down and grabs her hand or forearm to help pull her inside. Her white socks, black shoes, plaid skirt, and navy blazer remain clearly consistent.
+
+The zombies are still visible running across the runway below and behind her. End with the girl being pulled upward toward the illuminated aircraft interior.
+
+4. CAMERA AND CINEMATOGRAPHY
+
+Use realistic live-action action cinematography:
+
+- Frontal backward-tracking camera during the airport chase.
+- Wide architectural shots showing the airport atrium and open floor gap.
+- Side-angle slow-motion emphasis during the jump.
+- Medium-wide shot during the landing and fall.
+- Smooth tracking through the automatic glass doors.
+- Wide runway shot showing the military aircraft and chasing zombies.
+- Dramatic low-angle view of the aircraft cargo ramp.
+- Close-up of the military crew member reaching down to help the girl.
+
+Maintain accurate spatial continuity between the terminal, glass exit, runway, and aircraft.
+
+5. AUDIO DESIGN
+
+- Airport terminal ambience and distant announcements.
+- Rapid footsteps on polished flooring.
+- Zombie growls, screams, and heavy running footsteps.
+- Clothing movement and the girl's frightened breathing.
+- A dramatic whoosh during the jump.
+- Realistic sliding impact during her landing.
+- Automatic glass door opening sounds.
+- Wind and distant aircraft engine ambience outside.
+- Military aircraft interior mechanical hum.
+- Metal cargo ramp sounds and footsteps.
+- A brief urgent sound as the military crew member grabs her hand.
+
+No unnecessary narration. Preserve the tense zombie survival atmosphere.
+
+6. STRICT NEGATIVE PROMPT
+
+No ATM, no bank, no school classroom, no rooftop, no underground warehouse, no survivor shelter, no bathroom, no purple energy, no blue magical powers, no fighting choreography, no guns in the girl's hands, no changing blonde hair, no changing school uniform, no different female face, no duplicated girl, no extra limbs, no distorted hands, no changing airport architecture, no changing aircraft type, no helicopter, no random vehicles, no cartoon, no anime, no excessive gore, no daytime-to-nighttime transition, no random subtitles, no watermark.
+
+FINAL OUTPUT
+
+Create one coherent 20-second photorealistic zombie survival action sequence matching the reference video in exact story progression: a blonde schoolgirl in a navy school uniform runs through a modern airport while a large zombie horde chases her, jumps across a huge opening inside the terminal, loses balance and falls, escapes through the automatic glass doors, runs across the airport runway toward a large military cargo aircraft, and climbs its lowered rear ramp as military crew members reach down to pull her aboard while zombies continue chasing her.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-20s-c842741f416a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree
 
 > MEET ME UNDER THE MAPLE TREE A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autum…
@@ -1123,89 +1509,6 @@ Photorealistic cinematic comedy, realistic water behavior, natural human movemen
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-young-man-is-taking-a-normal-shower-in-a-modern-apartment-when-his-phone-sudd-af3385936722?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Waterbending Ambush at a Jungle Temple
-
-> This AI video is absolutely amazing 🔥 Created with Seedance 2.5 Prompt : SCENE — WATERBENDING AMBUSH DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-pho…
-
-[<img src="https://media.goodcase.ai/cases/9191e59a045c.jpg" width="600" alt="Waterbending Ambush at a Jungle Temple">](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itxsarmadd | **出典:** [元投稿](https://x.com/itxsarmadd/status/2103694941260222603) | **公開日:** 2026-09-26 | **ヒート:** 84
-
-**安定度:** 61/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 61.3) · [出力](https://media.goodcase.ai/retests/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（61 行、クリックで展開）</b></summary>
-
-```
-SCENE — WATERBENDING AMBUSH
-DURATION: exactly 10 seconds
-FORMAT: 16:9
-STYLE: ultra-photorealistic live-action fantasy action, grounded CGI, realistic water physics, Hollywood stunt choreography, practical jungle-temple location, handheld cinematography, seamless VFX integration, no digital-art appearance.
-PACE: extremely fast continuous combat, zero pauses, zero idle moments, action already in progress.
-
-REFERENCES
-
-IMAGE 1 — ARMAN
-Preserve facial identity, hairstyle, body proportions, costume, and appearance exactly.
-
-IMAGE 2 — MASTER ENVIRONMENT SHEET
-Preserve environment, architecture, vegetation, atmosphere, and location identity exactly.
-
-IMAGE 3 — ENEMY REFERENCE
-Preserve enemy armor, silhouette, proportions, and visual identity exactly.
-
-ACTION
-
-0.0–2.5 SECONDS — SURROUNDED
-Fight begins mid-combat. Five armored enemies attack from multiple directions. Arman pivots beneath a frontal strike while a large mass of water is already orbiting around him. He redirects the flow to deflect Enemy A. Several sections split from the moving water, instantly freeze into sharp ice shards, and fire toward attacking enemies. Camera performs fast handheld lateral tracking.
-
-2.5–5.0 SECONDS — ROTATING PRESSURE
-Enemy C closes from behind. Arman ducks beneath an attack and transitions into a continuous spinning movement. The main water mass whips around him with believable inertia, striking, deflecting, and creating openings. Multiple ice shards separate from the flowing water and launch toward different attackers, forcing evasions and interrupting attacks. Camera reacts with quick pans and target switching.
-
-5.0–7.5 SECONDS — WATER IMPACT
-Enemy A attacks again. Arman redirects the entire water mass into a powerful lateral strike. Water impact throws the enemy sideways onto wet stone. While the enemy falls, additional ice shards fire toward advancing attackers. Arman immediately turns toward the next threat without stopping.
-
-7.5–10.0 SECONDS — COMBO CONTINUES
-Enemies close from opposite directions. Arman performs rapid circular footwork while continuously controlling the moving water flow. Fresh ice shards split from the leading edge and fire toward multiple enemies. Enemy C charges directly into range. Arman pivots and accelerates the main water mass toward him.
-
-END BEFORE IMPACT.
-
-SMASH CUT. ACTION INTERRUPTED MID-COMBO. END.
-
-VISUAL RULES
-
-- Five active enemies remain engaged throughout.
-- No enemy stands and watches.
-- Combat never slows down.
-- Water remains a single continuous moving mass.
-- Ice shards separate from the moving water, instantly freeze, and launch as sharp translucent projectiles.
-- No glowing effects, energy beams, neon trails, or anime aura.
-- Grounded CGI integrated into live-action photography.
-- Every action directly causes the next event.
-- Continuous movement, zero pauses, zero dead frames.
-- Final frame preserves active combat momentum for Scene 02.
-
-CAMERA
-
-Reactive handheld Hollywood action camera. Fast but readable movement, medium-wide coverage, brief wider shots for major impacts, natural motion blur, occasional water spray crossing lens. No floating virtual camera.
-
-ENVIRONMENT
-
-Ancient jungle temple ruins. Wet stone, moss, roots, ferns, waterfalls, dense tropical vegetation, humid atmosphere, realistic live-action location photography.
-
-SOUND
-
-Raw action only. Footsteps, armor movement, weapons cutting air, rushing water, splashes, ice projectiles, impact sounds, bodies hitting wet ground, distant waterfalls and jungle ambience.
-
-NO MUSIC.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### White-Haired Woman and Giant Black Cat in a Ruined Bedroom
 
 > She thought she was in control until the darkness awakened. Made with seedance 2.5 Prompt: Create a 30-second ultra-cinematic supernatural fantasy sequence, pho…
@@ -1224,119 +1527,6 @@ Smooth cinematic camera movement, realistic facial expressions, detailed hair ph
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-cinematic-supernatural-fantasy-sequence-photorealisti-6d87ff7834d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### The Little Moments That Make AI Feel Real
-
-> It’s the little moments that make AI feel this real. Made with Seedance 2.5 PROMPT Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of …
-
-[<img src="https://media.goodcase.ai/cases/276528e2bcc8.jpg" width="600" alt="The Little Moments That Make AI Feel Real">](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @SimplyAnnisa | **出典:** [元投稿](https://x.com/SimplyAnnisa/status/2096931238460178592) | **公開日:** 2026-09-07 | **ヒート:** 84
-
-**安定度:** 86/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 85.8) · [出力](https://media.goodcase.ai/retests/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（91 行、クリックで展開）</b></summary>
-
-```
-It’s the little moments that make AI feel this real.
-
-Made with Seedance 2.5
-
-PROMPT
-
-Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having an ordinary but unexpectedly memorable summer evening in an older Seoul neighborhood.
-
-A naturally pretty Korean woman in her early 20s, realistic skin, minimal makeup, long black slightly wavy hair, pale-blue knit top, loose cream trousers, white sneakers, brown crossbody bag, and silver watch. Keep her identity, face, outfit, hairstyle, and proportions perfectly consistent.
-
-SETTING
-
-A quiet older Seoul residential street with concrete lanes, apartment buildings, potted plants, bicycles, utility poles, leafy trees, and a tiny neighborhood convenience shop. Lived-in and authentic. No brands, logos, advertisements, or tourist locations.
-
-CAMERA STYLE
-
-Raw footage from a cheap early-2000s DV camcorder: shaky handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft detail, mild tape noise, accidental zooms, and natural camera mistakes. No stabilization or cinematic shots.
-
-00:00–00:06 — THE MYSTERY
-
-She walks down the street holding a small plastic bag when she suddenly hears a faint jingling sound behind her.
-
-She stops and looks around.
-
-The camera quickly zooms toward her confused face.
-
-She says:
-
-“Did you hear that?”
-
-00:06–00:12 — THE LITTLE DISCOVERY
-
-She follows the sound and finds a small old bicycle with a tiny bell stuck slightly open.
-
-She gently taps the bell.
-
-Ding.
-
-She looks at the camera and laughs.
-
-Then she notices a small handwritten-looking paper tag hanging from the bicycle, but the writing is too unclear to read.
-
-00:12–00:18 — THE WIND
-
-A sudden breeze blows several dry leaves across the street.
-
-One lands directly on her head.
-
-She doesn't notice.
-
-The camera operator laughs.
-
-She looks confused, then realizes and removes the leaf.
-
-She gives the camera an embarrassed stare.
-
-00:18–00:24 — THE SMALL CHALLENGE
-
-She places the leaf on the bicycle seat and tries to balance it there.
-
-The wind immediately blows it away.
-
-She tries again.
-
-It falls again.
-
-She laughs and finally gives up.
-
-00:24–00:30 — THE MEMORY
-
-She picks up the leaf, puts it into her small bag, and starts walking home.
-
-After a few steps, she turns toward the camera and says:
-
-“Okay, that was pointless.”
-
-She smiles and keeps walking.
-
-The camera follows her for a few seconds before abruptly cutting to black.
-
-AUDIO
-
-Natural location sound only: footsteps, distant traffic, bicycle bell, summer insects, leaves, wind, neighborhood ambience, and natural laughter.
-
-No music, narration, subtitles, captions, logos, watermarks, or on-screen text.
-
-REALISM
-
-Natural human reactions, imperfect timing, realistic physics, consistent objects, authentic Korean neighborhood details, and believable DV-camera imperfections. No CGI look, distorted hands, extra fingers, duplicated people, identity drift, or outfit changes.
-
-16:9 aspect ratio.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance Sixty-Second Gym Day-in-the-Life Vlog
 
@@ -1939,179 +2129,201 @@ CD表面产生真实彩虹衍射，像素星空和镀铬行星随节奏闪动。
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-kpop-mv-zero-to-pop?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Pink-Haired Girl’s Nighttime Functional Workout Challenge
+### Waterbending Ambush at a Jungle Temple
 
-> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
+> This AI video is absolutely amazing 🔥 Created with Seedance 2.5 Prompt : SCENE — WATERBENDING AMBUSH DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-pho…
 
-[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="Pink-Haired Girl’s Nighttime Functional Workout Challenge">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/9191e59a045c.jpg" width="600" alt="Waterbending Ambush at a Jungle Temple">](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2104153857542553754) | **公開日:** 2026-09-27 | **ヒート:** 83
+**作者:** @itxsarmadd | **出典:** [元投稿](https://x.com/itxsarmadd/status/2103694941260222603) | **公開日:** 2026-09-26 | **ヒート:** 83
+
+**安定度:** 61/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 61.3) · [出力](https://media.goodcase.ai/retests/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a/video-grok-imagine-20261003-phase1/generated.mp4)
 
 <details>
-<summary><b>プロンプト全文（117 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（61 行、クリックで展開）</b></summary>
 
 ```
-Why did I think this workout would be easier?
+SCENE — WATERBENDING AMBUSH
+DURATION: exactly 10 seconds
+FORMAT: 16:9
+STYLE: ultra-photorealistic live-action fantasy action, grounded CGI, realistic water physics, Hollywood stunt choreography, practical jungle-temple location, handheld cinematography, seamless VFX integration, no digital-art appearance.
+PACE: extremely fast continuous combat, zero pauses, zero idle moments, action already in progress.
 
-Seedance 2.5 on @TapNow_AI 
+REFERENCES
 
-Prompt
+IMAGE 1 — ARMAN
+Preserve facial identity, hairstyle, body proportions, costume, and appearance exactly.
 
-Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
+IMAGE 2 — MASTER ENVIRONMENT SHEET
+Preserve environment, architecture, vegetation, atmosphere, and location identity exactly.
 
-Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
-LOOK
+IMAGE 3 — ENEMY REFERENCE
+Preserve enemy armor, silhouette, proportions, and visual identity exactly.
 
-Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
+ACTION
 
-STYLE
+0.0–2.5 SECONDS — SURROUNDED
+Fight begins mid-combat. Five armored enemies attack from multiple directions. Arman pivots beneath a frontal strike while a large mass of water is already orbiting around him. He redirects the flow to deflect Enemy A. Several sections split from the moving water, instantly freeze into sharp ice shards, and fire toward attacking enemies. Camera performs fast handheld lateral tracking.
 
-Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
+2.5–5.0 SECONDS — ROTATING PRESSURE
+Enemy C closes from behind. Arman ducks beneath an attack and transitions into a continuous spinning movement. The main water mass whips around him with believable inertia, striking, deflecting, and creating openings. Multiple ice shards separate from the flowing water and launch toward different attackers, forcing evasions and interrupting attacks. Camera reacts with quick pans and target switching.
 
-CHARACTER
+5.0–7.5 SECONDS — WATER IMPACT
+Enemy A attacks again. Arman redirects the entire water mass into a powerful lateral strike. Water impact throws the enemy sideways onto wet stone. While the enemy falls, additional ice shards fire toward advancing attackers. Arman immediately turns toward the next threat without stopping.
 
-CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
+7.5–10.0 SECONDS — COMBO CONTINUES
+Enemies close from opposite directions. Arman performs rapid circular footwork while continuously controlling the moving water flow. Fresh ice shards split from the leading edge and fire toward multiple enemies. Enemy C charges directly into range. Arman pivots and accelerates the main water mass toward him.
 
-She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
+END BEFORE IMPACT.
+
+SMASH CUT. ACTION INTERRUPTED MID-COMBO. END.
+
+VISUAL RULES
+
+- Five active enemies remain engaged throughout.
+- No enemy stands and watches.
+- Combat never slows down.
+- Water remains a single continuous moving mass.
+- Ice shards separate from the moving water, instantly freeze, and launch as sharp translucent projectiles.
+- No glowing effects, energy beams, neon trails, or anime aura.
+- Grounded CGI integrated into live-action photography.
+- Every action directly causes the next event.
+- Continuous movement, zero pauses, zero dead frames.
+- Final frame preserves active combat momentum for Scene 02.
+
+CAMERA
+
+Reactive handheld Hollywood action camera. Fast but readable movement, medium-wide coverage, brief wider shots for major impacts, natural motion blur, occasional water spray crossing lens. No floating virtual camera.
+
+ENVIRONMENT
+
+Ancient jungle temple ruins. Wet stone, moss, roots, ferns, waterfalls, dense tropical vegetation, humid atmosphere, realistic live-action location photography.
+
+SOUND
+
+Raw action only. Footsteps, armor movement, weapons cutting air, rushing water, splashes, ice projectiles, impact sounds, bodies hitting wet ground, distant waterfalls and jungle ambience.
+
+NO MUSIC.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-pace-extremely-fast-continuous-combat-zero-pauses-zero-idle-moments-action-f9513a8db08a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### The Little Moments That Make AI Feel Real
+
+> It’s the little moments that make AI feel this real. Made with Seedance 2.5 PROMPT Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of …
+
+[<img src="https://media.goodcase.ai/cases/276528e2bcc8.jpg" width="600" alt="The Little Moments That Make AI Feel Real">](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @SimplyAnnisa | **出典:** [元投稿](https://x.com/SimplyAnnisa/status/2096931238460178592) | **公開日:** 2026-09-07 | **ヒート:** 83
+
+**安定度:** 86/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 85.8) · [出力](https://media.goodcase.ai/retests/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（91 行、クリックで展開）</b></summary>
+
+```
+It’s the little moments that make AI feel this real.
+
+Made with Seedance 2.5
+
+PROMPT
+
+Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having an ordinary but unexpectedly memorable summer evening in an older Seoul neighborhood.
+
+A naturally pretty Korean woman in her early 20s, realistic skin, minimal makeup, long black slightly wavy hair, pale-blue knit top, loose cream trousers, white sneakers, brown crossbody bag, and silver watch. Keep her identity, face, outfit, hairstyle, and proportions perfectly consistent.
 
 SETTING
 
-A smaller industrial-style functional training gym at night.
+A quiet older Seoul residential street with concrete lanes, apartment buildings, potted plants, bicycles, utility poles, leafy trees, and a tiny neighborhood convenience shop. Lived-in and authentic. No brands, logos, advertisements, or tourist locations.
 
-Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
+CAMERA STYLE
 
-A half-full water bottle and small towel sit beside a plyometric box.
+Raw footage from a cheap early-2000s DV camcorder: shaky handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft detail, mild tape noise, accidental zooms, and natural camera mistakes. No stabilization or cinematic shots.
 
-Background gym members occasionally pass naturally without acknowledging the camera.
+00:00–00:06 — THE MYSTERY
 
-STORYBOARD — 15 SECONDS / 6 CUTS
+She walks down the street holding a small plastic bag when she suddenly hears a faint jingling sound behind her.
 
-CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
+She stops and looks around.
 
-CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
+The camera quickly zooms toward her confused face.
 
-She points behind herself toward a wooden plyometric box.
+She says:
 
-CHASE:
-“Trying something different tonight.”
+“Did you hear that?”
 
-She turns the camera too quickly, creating a messy whip-pan.
+00:06–00:12 — THE LITTLE DISCOVERY
 
-CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
+She follows the sound and finds a small old bicycle with a tiny bell stuck slightly open.
 
-Camera sits slightly crooked on a low bench.
+She gently taps the bell.
 
-CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
+Ding.
 
-Her ponytail bounces naturally.
+She looks at the camera and laughs.
 
-CHASE:
-“Why are step-ups already humbling me?”
+Then she notices a small handwritten-looking paper tag hanging from the bicycle, but the writing is too unclear to read.
 
-She laughs quietly while continuing.
+00:12–00:18 — THE WIND
 
-CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
+A sudden breeze blows several dry leaves across the street.
 
-Camera has been repositioned near floor level.
+One lands directly on her head.
 
-Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
+She doesn't notice.
 
-Autofocus briefly locks onto the box instead of her shoes.
+The camera operator laughs.
 
-No dialogue.
+She looks confused, then realizes and removes the leaf.
 
-Natural sneaker impacts, distant equipment sounds and her breathing.
+She gives the camera an embarrassed stare.
 
-CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
+00:18–00:24 — THE SMALL CHALLENGE
 
-A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
+She places the leaf on the bicycle seat and tries to balance it there.
 
-The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
+The wind immediately blows it away.
 
-After several waves she looks toward the camera with a surprised expression.
+She tries again.
 
-CHASE:
-“Okay—this escalated fast.”
+It falls again.
 
-Her voice carries a small laugh between breaths.
+She laughs and finally gives up.
 
-CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
+00:24–00:30 — THE MEMORY
 
-CHASE grabs the camera immediately after stopping.
+She picks up the leaf, puts it into her small bag, and starts walking home.
 
-The image shakes noticeably while autofocus searches for her sweaty face.
+After a few steps, she turns toward the camera and says:
 
-She leans against the plyometric box, catching her breath.
+“Okay, that was pointless.”
 
-CHASE:
-“I said different. Not easier.”
+She smiles and keeps walking.
 
-She gives the camera an exhausted little grin.
-
-CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
-
-Camera sits casually beside her water bottle.
-
-CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
-
-She looks sideways toward the camera.
-
-CHASE:
-“That’s enough character development for tonight.”
-
-She laughs, reaches toward the lens—
-
-The frame shakes as her hand accidentally bumps the camera.
-
-CUT.
+The camera follows her for a few seconds before abruptly cutting to black.
 
 AUDIO
 
-Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
+Natural location sound only: footsteps, distant traffic, bicycle bell, summer insects, leaves, wind, neighborhood ambience, and natural laughter.
+
+No music, narration, subtitles, captions, logos, watermarks, or on-screen text.
+
+REALISM
+
+Natural human reactions, imperfect timing, realistic physics, consistent objects, authentic Korean neighborhood details, and believable DV-camera imperfections. No CGI look, distorted hands, extra fingers, duplicated people, identity drift, or outfit changes.
+
+16:9 aspect ratio.
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Neon Coastal City Gunfight and Police Chase Livestream
-
-> GTA 6 Simulation Made with Seedance 2.5 on @Flovaai @Flovaai_Japan prompt Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, on…
-
-[<img src="https://media.goodcase.ai/cases/f81388cc5f57.jpg" width="600" alt="Neon Coastal City Gunfight and Police Chase Livestream">](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @QAiStudio | **出典:** [元投稿](https://x.com/QAiStudio/status/2099363620325048805) | **公開日:** 2026-09-14 | **ヒート:** 83
-
-<details>
-<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
-
-```
-GTA 6 Simulation
-
-Made with Seedance 2.5 on @Flovaai @Flovaai_Japan 
-
-prompt 
-Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, one continuous 45-second take split into a 30-second opening plus a seamless 15-second continuation. Fixed full-screen game HUD throughout: bottom-right square pink-blue neon facecam of HANEUL only, matching the supplied reference image exactly; fixed HUD, English-only scrolling live chat on the left, Korean streamer speech only with no subtitles, third-person chase camera, no cuts, no transitions, no scene changes, no duplicate characters.
-
-0–8s: Player drives a dark muscle car through a neon coastal city at dusk toward a GPS destination; HANEUL is calm and focused in facecam, with engine, city ambience, faint radio, and keyboard/mouse sounds.
-
-8–15s: At a warehouse, exactly two dark-red-jacket gang enemies emerge from cover, draw pistols, and ambush the player. The player dives behind a car, is visibly grazed, health drops, and wanted level rises to two stars. HANEUL reacts in shocked Korean.
-
-15–24s: Intense reckless firefight. Player uses one compact SMG; enemies use pistols only. A flanking enemy shatters a nearby car window, bullets dent the car and pop a tire, ammo falls from 38/120 toward 24/120, wanted level reaches three stars, and distant police cruisers appear only in the background.
-
-24–30s: Player fires five deliberate SMG shots with visible sequential hit reactions; both enemies fall only after being hit. Ammo drops exactly from 24/120 to 14/120. HANEUL remains wide-eyed and tense; police sirens close in.
-
-30–38s: With both enemies down, the player limps into the damaged muscle car with a shredded tire. Two police cruisers pursue in the background as the car lurches forward on its rim. Health remains critically low and flashing red; wanted level stays at three stars.
-
-38–45s: Player scrapes through a narrow alley, knocks off both mirrors, and reaches a side street where traffic briefly blocks the police. The wanted level remains flashing at three stars, police lights remain visible in the rearview, and the ending stays unresolved.
-
-Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one player and two gang enemies; no extra armed characters; no full-screen facecam; no subtitles; English-only HUD/chat text; no weapon swaps; no gore; no victory, clean escape, black screen, or end card.
-#flovacpp #flovaai
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-it-s-the-little-moments-that-make-ai-feel-this-real-57c748edf467?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Locked Character Sheet for a Korean Woman of 20
 
@@ -2912,6 +3124,180 @@ The vintage appearance must come from realistic MiniDV camera behavior, autofocu
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-this-ai-video-made-me-question-what-ai-looking-even-means-anymore-c3cc664055dd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Pink-Haired Girl’s Nighttime Functional Workout Challenge
+
+> Why did I think this workout would be easier? Seedance 2.5 on @TapNow_AI Prompt Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, h…
+
+[<img src="https://media.goodcase.ai/cases/1bc672678b32.jpg" width="600" alt="Pink-Haired Girl’s Nighttime Functional Workout Challenge">](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2104153857542553754) | **公開日:** 2026-09-27 | **ヒート:** 82
+
+<details>
+<summary><b>プロンプト全文（117 行、クリックで展開）</b></summary>
+
+```
+Why did I think this workout would be easier?
+
+Seedance 2.5 on @TapNow_AI 
+
+Prompt
+
+Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain, halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld 
+
+Natural hand shake, slightly crooked horizons, delayed autofocus, accidental micro-zooms, imperfect reframing, occasional clipped forehead or shoes, brief exposure hunting when she moves beneath overhead lights. 
+LOOK
+
+Soft, slightly blurry analog-tape quality, faint video noise, subtle motion smearing, muted contrast, realistic skin tones, blooming fluorescent highlights and occasional auto-exposure flicker. Nothing polished or commercial.
+
+STYLE
+
+Casual evening functional-training vlog. More energetic and playful than a traditional weights session. CHASE alternates between balance, bodyweight and cardio movements, becoming progressively more out of breath while joking with the camera.
+
+CHARACTER
+
+CHASE — Korean idol new version 20s. Long pastel pink hair tied in a high ponytail, glowing natural skin with a light workout sweat sheen, large expressive eyes and slim athletic build.
+
+She wears a modest oversized light green long-sleeve performance top, loose white track pants and white training sneakers. Arms and torso remain fully covered. No jewelry.
+
+SETTING
+
+A smaller industrial-style functional training gym at night.
+
+Black rubber flooring, exposed concrete walls, warm fluorescent ceiling strips, wooden plyometric boxes, battle ropes, medicine balls, rowing machines and a turf training lane. Large windows reveal scattered city lights outside.
+
+A half-full water bottle and small towel sit beside a plyometric box.
+
+Background gym members occasionally pass naturally without acknowledging the camera.
+
+STORYBOARD — 15 SECONDS / 6 CUTS
+
+CUT 1 — 0:00–0:01.8 | HANDHELD SELFIE
+
+CHASE walks backward onto the turf while filming herself. The framing wobbles and briefly cuts off the top of her ponytail.
+
+She points behind herself toward a wooden plyometric box.
+
+CHASE:
+“Trying something different tonight.”
+
+She turns the camera too quickly, creating a messy whip-pan.
+
+CUT 2 — 0:01.8–0:04.5 | PROPPED CAMERA — BOX STEP-UPS
+
+Camera sits slightly crooked on a low bench.
+
+CHASE performs alternating step-ups onto a wooden plyometric box — controlled but quick, driving one knee upward at the top of each repetition.
+
+Her ponytail bounces naturally.
+
+CHASE:
+“Why are step-ups already humbling me?”
+
+She laughs quietly while continuing.
+
+CUT 3 — 0:04.5–0:06.3 | LOW CLOSE-UP
+
+Camera has been repositioned near floor level.
+
+Close-up of her sneakers landing on the rubber flooring as she performs quick alternating toe taps against the box.
+
+Autofocus briefly locks onto the box instead of her shoes.
+
+No dialogue.
+
+Natural sneaker impacts, distant equipment sounds and her breathing.
+
+CUT 4 — 0:06.3–0:09.4 | PROPPED WIDE — BATTLE ROPES
+
+A slightly badly framed wide shot catches CHASE performing alternating battle-rope waves.
+
+The ropes ripple heavily across the floor while her shoulders and knees absorb the movement naturally.
+
+After several waves she looks toward the camera with a surprised expression.
+
+CHASE:
+“Okay—this escalated fast.”
+
+Her voice carries a small laugh between breaths.
+
+CUT 5 — 0:09.4–0:12.1 | HANDHELD RECOVERY
+
+CHASE grabs the camera immediately after stopping.
+
+The image shakes noticeably while autofocus searches for her sweaty face.
+
+She leans against the plyometric box, catching her breath.
+
+CHASE:
+“I said different. Not easier.”
+
+She gives the camera an exhausted little grin.
+
+CUT 6 — 0:12.1–0:15.0 | FLOOR-LEVEL PROPPED ENDING
+
+Camera sits casually beside her water bottle.
+
+CHASE drops onto the turf, sitting cross-legged and taking a drink of water.
+
+She looks sideways toward the camera.
+
+CHASE:
+“That’s enough character development for tonight.”
+
+She laughs, reaches toward the lens—
+
+The frame shakes as her hand accidentally bumps the camera.
+
+CUT.
+
+AUDIO
+
+Keep authentic gym ambience throughout: distant footsteps, machines, soft conversations, rope impacts, sneaker squeaks, CHASE's breathing and slight room echo. No polished voice recording. Her dialogue should sound naturally captured through a consumer camcorder microphone.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-why-did-i-think-this-workout-would-be-easier-dea31b0d7735?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Neon Coastal City Gunfight and Police Chase Livestream
+
+> GTA 6 Simulation Made with Seedance 2.5 on @Flovaai @Flovaai_Japan prompt Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, on…
+
+[<img src="https://media.goodcase.ai/cases/f81388cc5f57.jpg" width="600" alt="Neon Coastal City Gunfight and Police Chase Livestream">](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @QAiStudio | **出典:** [元投稿](https://x.com/QAiStudio/status/2099363620325048805) | **公開日:** 2026-09-14 | **ヒート:** 82
+
+<details>
+<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
+
+```
+GTA 6 Simulation
+
+Made with Seedance 2.5 on @Flovaai @Flovaai_Japan 
+
+prompt 
+Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, one continuous 45-second take split into a 30-second opening plus a seamless 15-second continuation. Fixed full-screen game HUD throughout: bottom-right square pink-blue neon facecam of HANEUL only, matching the supplied reference image exactly; fixed HUD, English-only scrolling live chat on the left, Korean streamer speech only with no subtitles, third-person chase camera, no cuts, no transitions, no scene changes, no duplicate characters.
+
+0–8s: Player drives a dark muscle car through a neon coastal city at dusk toward a GPS destination; HANEUL is calm and focused in facecam, with engine, city ambience, faint radio, and keyboard/mouse sounds.
+
+8–15s: At a warehouse, exactly two dark-red-jacket gang enemies emerge from cover, draw pistols, and ambush the player. The player dives behind a car, is visibly grazed, health drops, and wanted level rises to two stars. HANEUL reacts in shocked Korean.
+
+15–24s: Intense reckless firefight. Player uses one compact SMG; enemies use pistols only. A flanking enemy shatters a nearby car window, bullets dent the car and pop a tire, ammo falls from 38/120 toward 24/120, wanted level reaches three stars, and distant police cruisers appear only in the background.
+
+24–30s: Player fires five deliberate SMG shots with visible sequential hit reactions; both enemies fall only after being hit. Ammo drops exactly from 24/120 to 14/120. HANEUL remains wide-eyed and tense; police sirens close in.
+
+30–38s: With both enemies down, the player limps into the damaged muscle car with a shredded tire. Two police cruisers pursue in the background as the car lurches forward on its rim. Health remains critically low and flashing red; wanted level stays at three stars.
+
+38–45s: Player scrapes through a narrow alley, knocks off both mirrors, and reaches a side street where traffic briefly blocks the police. The wanted level remains flashing at three stars, police lights remain visible in the rearview, and the ending stays unresolved.
+
+Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one player and two gang enemies; no extra armed characters; no full-screen facecam; no subtitles; English-only HUD/chat text; no weapon swaps; no gore; no victory, clean escape, black screen, or end card.
+#flovacpp #flovaai
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Flying Kick Transition to a Midnight Motorcycle
 
 > Bedroom chaos turns into midnight confidence with a seamless transition that hits right on the beat. Seedance 2.5 on @DomoAI_ Prompt FORMAT 10 seconds, 2 shots.…
@@ -3073,6 +3459,97 @@ Maintain consistent facial features, hairstyle, outfit, body proportions, and en
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### White-robed goddess faces a purple-armored demon in temple ruins
+
+> A legendary battle unfolds where darkness meets divine power an epic fantasy spectacle of magic strength and destiny. Made with Seedance 2.5 Prompt: Cinematic f…
+
+[<img src="https://media.goodcase.ai/cases/a0301817ace2.jpg" width="600" alt="White-robed goddess faces a purple-armored demon in temple ruins">](https://goodcase.ai/cases/seedance-2-5-cinematic-fantasy-epic-battle-a-towering-colossal-dark-demon-lord-in-ornate-bla-b2d3acf0e669?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @JasanMillerAi | **出典:** [元投稿](https://x.com/JasanMillerAi/status/2119822912446415221) | **公開日:** 2026-11-09 | **ヒート:** 81
+
+```
+Cinematic fantasy epic battle a towering colossal dark demon lord in ornate black and purple glowing armor with glowing purple cracks landing heavily amid ancient ruined stone pillars and levitating rocks, facing a graceful blonde elven goddess wearing an elegant white flowing dress the goddess summons glowing golden magic circles, rune symbols, and beams of light energy to fight the giant demon in a ruined mountain temple arena, dramatic lighting, epic cinematic atmosphere, high-end fantasy 3D animation style.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cinematic-fantasy-epic-battle-a-towering-colossal-dark-demon-lord-in-ornate-bla-b2d3acf0e669?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Violet-powered woman floors five bikers in a wasteland bar
+
+> AI video now handles fight choreography better than half of Hollywood. Marvel should be nervous. This took one prompt and zero reshoots. Created by Seedance 2.5…
+
+[<img src="https://media.goodcase.ai/cases/f5738c04f99b.jpg" width="600" alt="Violet-powered woman floors five bikers in a wasteland bar">](https://goodcase.ai/cases/seedance-2-5-a-30-second-horizontal-16-9-photorealistic-supernatural-action-scene-db57d2d12d2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZentrixHQ | **出典:** [元投稿](https://x.com/ZentrixHQ/status/2119673961709502683) | **公開日:** 2026-11-09 | **ヒート:** 81
+
+<details>
+<summary><b>プロンプト全文（59 行、クリックで展開）</b></summary>
+
+```
+PURPLE POWER AWAKENING — POST-APOCALYPTIC BIKER BAR FIGHT
+
+A 30-second horizontal 16:9 photorealistic supernatural action scene. Five adult bikers humiliate a young woman on the floor of a rusted wasteland bar, until violet energy erupts from her hands and she takes all five of them down in one continuous fight. It ends with her walking alone out of the open door into the dusk dust storm while every biker lies knocked out on the floor behind her.
+
+MAIN SUBJECT
+The woman from Image1, an adult in her early twenties, East Asian, with dark brown eyes and a calm, cool face. Hair: a choppy chin-length bob in a gradient from hot pink at the roots to violet and bright blue at the tips, with ONE small silver lightning-bolt hair clip on the left side. Outfit: a fitted pink-and-white sports crop top with white stripes across the chest; a pink pleated mini skirt with white inner pleats and two white stripes along the hem, with matching pink fitted shorts underneath; a pink backpack strapped tightly to her back with black buckle straps that never comes off. Footwear: knee-high glossy black combat boots on chunky pink platform soles, with pink straps, silver studs, buckles and metal rings. All fabric is dense and opaque and stays in place during every jump and strike, even when soaked. Athletic, toned build with subtle muscle definition. At first her expression is exhausted and frightened; after the awakening it becomes cold, fierce and focused. During the fight her hands and forearms are wrapped in glowing violet-purple energy. Preserve her face, hair colour, outfit and boots EXACTLY as in Image1 in every shot.
+
+THE BIKERS (FIVE adult men, each keeps his own look in every shot)
+- BIKER 1: lean, short bleached-blond mohawk, black leather vest with patches over a bare chest, fingerless gloves.
+- BIKER 2: large and stocky, shaved head, thick brown beard, sleeveless denim vest, holds a dented STEEL bucket filled with water only.
+- BIKER 3: tall and thin, round welding goggles pushed up on his forehead, brown leather jacket.
+- BIKER 4: dark curly hair, oil-stained grey tank top, black leather vest.
+- BIKER 5: long greasy black hair under a red bandana, studded leather jacket.
+All bikers wear worn jeans and heavy black boots. The only object any biker holds is BIKER 2's steel bucket; no other weapons.
+
+LOCATION AND HEIGHT
+A ground-level post-apocalyptic bar built from scrap. Ceiling height is 3.5 metres, made of corrugated rusted metal sheets on wooden beams. Walls are rusted corrugated metal patched with plywood and old road signs with no readable text. Floor is cracked grey concrete covered in dust and sand.
+Foreground: oil-drum tables, scattered sand, broken glass on the floor.
+Midground: a long bar counter of weathered dark wood with dusty beer bottles on scrap-metal shelves, and one elderly bartender who ducks behind the counter when the awakening starts and stays hidden there.
+Background: a wide open metal door on the far wall. Outside is a wasteland at dusk in a slow-moving dust storm, dim brownish-orange and darker than the bar interior; it adds no light to the room but stays visible in every wide shot.
+Moving details: dust drifting in the lamp light, lamps swaying slightly on their cords, sand blowing in through the open door.
+
+CAMERA AND LOOK
+Photorealistic live-action action-film cinematography with real stunt choreography. ONE light source for the whole video: FIVE bare tungsten bulbs hanging on cords from the ceiling, giving warm orange light from above, soft dusty haze, natural skin tones and muted contrast. The only other light is the violet glow of her energy, which reflects on her face, the metal walls, the wet floor near the wall and the bikers' leather. Her pink outfit and pink-blue hair stay the brightest colours in the warm bar. Camera defects: handheld shake, slight delayed autofocus on fast moves, mild bloom on the bulbs, faint film noise. Regular shots last 1.5-2.5 seconds, and every cut comes after a completed movement; the bucket jump is ONE continuous shot. The camera and crew never appear in frame. No glossy beauty lighting, no artificial rim light, no heavy colour grading.
+
+CONTINUOUS STORY
+
+00:00-00:06 — HUMILIATION
+Start in motion: low-angle shot at floor level. Two bikers pull her by the arms across the dusty concrete, their heavy boots stepping beside her while her black-and-pink platform boots scrape along the floor; they let go and she slides to a stop sitting against the corrugated metal wall, backpack against the wall. Cut to a high close-up: BIKER 2 tips the dented steel bucket over her, a stream of cold water pours over her head and shoulders, and her wet pink-to-blue hair sticks to her face. Cut to a low wide shot from her eye level on the floor: all FIVE bikers stand over her in a half circle, laughing, BIKER 2 holding the now empty bucket, with the bar counter and the open door with the dust storm visible behind them.
+
+00:06-00:10 — POWER AWAKENS
+Close-up: still sitting, she slowly lifts her head and looks up through her wet pink hair with a cold, fierce stare; the silver lightning clip catches the light. Thick violet-purple smoke and crackling electric arcs coil around both hands and forearms, and a purple glow lights up the wet concrete under her palms. Cut to a low wide shot: she presses ONE palm to the floor and a violet shockwave bursts outward across the floor, throwing up dust and sand. All FIVE bikers lose their balance and stumble backward, the hanging bulbs swing, and the bartender ducks behind the counter. She pushes off the floor and rises to her feet in a low fighting stance.
+
+00:10-00:16 — FIRST PUNCH
+She dashes at BIKER 1, her platform boots pounding the concrete. Tight close-up of ONE clear contact: her right fist, wrapped in violet arcs, hits his face, and a purple flash bursts at the moment of impact. His head snaps back, his short mohawk trembles and his face twists from the shock. She immediately follows with a second strike to his chest, leaving a trail of violet smoke and glowing particles behind her arm while her bob swings with the motion. He flies backward, crashes onto an oil-drum table, rolls over it and drops to the floor.
+
+00:16-00:21 — THE BUCKET (ONE continuous wide shot)
+BIKER 2 charges at her, swinging the empty steel bucket overhead. Take-off: she pushes off the floor with both platform boots. Flight: she leaps forward, knees tucked, skirt and shorts staying in place, backpack tight on her back, violet energy flaring around her fists. Contact: her glowing fist hits the bucket in an upward strike; the bucket is torn out of his hands, flies straight up and smashes into the corrugated metal ceiling 3.5 metres above, denting it and bringing down rust flakes, dust and loose pieces of sheet metal. The violet burst from the same strike throws BIKER 2 backward into the bar counter; bottles fall and shatter, and he slides down to the floor. Landing: she lands in a crouch on both boots, knees bent, as debris falls around her.
+
+00:21-00:26 — TWO AT ONCE
+Medium-wide shot: BIKER 3 and BIKER 4 rush at her from opposite sides. She blocks BIKER 3's swinging arm with her left forearm, pivots on her platform boot, and drives a glowing violet palm into BIKER 4's chest, with purple light spreading across his tank top on impact. He falls backward. She turns back and hits BIKER 3 in the jaw with a violet punch, and his goggles fly off his forehead. He spins and falls face-down onto the concrete. ONE clear contact per strike, readable choreography, real body weight and recoil.
+
+00:26-00:30 — FINISH AND EXIT
+BIKER 5 runs for the open door. She catches him from behind in two steps, pulls him down and slams him onto his back a few metres from the door. Low close-up from the floor: she kneels over him, wet pink-blue hair hanging around her face, a dense sphere of violet energy crackling in her raised hand, and dark cracks with glowing purple veins spread across the concrete around his head. She closes her hand and the sphere fades. Final wide shot from behind: she stands up, steps over him and walks slowly toward the open door, pink backpack and platform boots clearly visible, with all FIVE bikers knocked out around her, weakly stirring and groaning, among broken bottles, under the dented ceiling and swinging bulbs. The frame ends with her standing in the doorway, lit from above by the bulbs, facing the dim dusk dust storm.
+
+SOUND
+Natural and event-driven only: boots scraping on concrete during the drag; the splash of water hitting her and the floor; the bikers' rough laughter, which cuts off at the awakening; a deep rumbling hum and electric crackle around her hands; the low boom of the shockwave and sand hissing across the floor; heavy platform-boot steps on concrete; heavy punch impacts with a short electric snap on each violet hit; the oil-drum table crashing; the steel bucket clanging into the metal ceiling and debris rattling down; bottles shattering; bodies hitting concrete; her heavy breathing; low groans of the bikers and wind with sand from the open door at the end. No music, no narration, no laugh track.
+
+ESSENTIAL CONTINUITY
+- The story goes in strict order: drag, bucket of water, awakening, Biker 1, Biker 2, Bikers 3 and 4, Biker 5, exit. Each biker is defeated ONCE and stays down.
+- FIVE bikers total, each keeps his own hair, face and clothing in every shot; no new bikers appear. The bartender stays hidden behind the counter after the awakening.
+- Her look never changes: pink-to-violet-to-blue bob, ONE silver lightning clip, pink-and-white sports crop top, pink pleated mini skirt with white stripes and pink shorts underneath, pink backpack with black buckle straps, black-and-pink platform combat boots. Her hair stays pink-violet-blue and is never recoloured by the energy.
+- The bucket holds only water, no ice, is empty after 00:06, is the same dented steel bucket throughout, hits the ceiling ONCE, and the ceiling dent remains visible afterwards.
+- The jump has take-off, flight and landing; no body passes through tables, the counter or other people; she steps over Biker 5, not through him.
+- Violet energy appears only on her hands and forearms, plus the shockwave, the floor cracks and the final sphere; it is always violet-purple.
+- The same bar layout, the same hanging-bulb lighting, and the open door with the dim dusk dust storm stay in the background; no daylight enters the room.
+- Preserve her face, hair, outfit and footwear exactly as in Image1 throughout.
+
+No repeated attempts, slow motion, teleportation, duplicated people, changing outfits, changing hair colour, lost backpack, changing faces, extra limbs, distorted hands, weapons other than the steel bucket, guns, blood, gore, ice cubes, cartoon or anime style, CGI appearance, captions, subtitles, readable signs, watermarks, recording interface.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-30-second-horizontal-16-9-photorealistic-supernatural-action-scene-db57d2d12d2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A woman in Paris turns chasing monsters into pumpkin jelly
 
@@ -3439,64 +3916,102 @@ Shot 26 (28.5–30.0s): Exterior wide shot of the train speeding through the nig
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-shot-1-0-0-1-2s-image-1-face-and-outfit-matching-reference-lying-in-b6d9ef0e370e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Bullied schoolgirl awakens in a library and fights back unarmed
+### Chalk drawing of caffeine and a coffee cup on a green board
 
-> CRIMSON BITE: AWAKENING Made with Seedance 2.5 on @PixVerse Prompt used: Ultra-photorealistic live-action Korean gothic supernatural action. Use image1 as So-Ye…
+> Seedance 2.5 just went unlimited on MakeUGC. Unlimited videos, no per-generation cost - 100/200 free credits - Every model included - 10 min processing per vide…
 
-[<img src="https://media.goodcase.ai/cases/4600a92f39b2.jpg" width="600" alt="Bullied schoolgirl awakens in a library and fights back unarmed">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-on-bc4e70582ca3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/14dd388b6c9c.jpg" width="600" alt="Chalk drawing of caffeine and a coffee cup on a green board">](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-just-went-unlimited-on-makeugc-9ac42e689b6d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @QAiStudio | **出典:** [元投稿](https://x.com/QAiStudio/status/2117947303965384993) | **公開日:** 2026-11-04 | **ヒート:** 80
+**作者:** @davidfigeira | **出典:** [元投稿](https://x.com/davidfigeira/status/2119457594481783231) | **公開日:** 2026-11-08 | **ヒート:** 80
 
 <details>
-<summary><b>プロンプト全文（41 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（13 行、クリックで展開）</b></summary>
 
 ```
-CRIMSON BITE: AWAKENING
+Seedance 2.5 just went unlimited on MakeUGC.
 
-Made with Seedance 2.5 on @PixVerse 
+Unlimited videos, no per-generation cost
 
-Prompt used:
-Ultra-photorealistic live-action Korean gothic supernatural action. Use image1 as So-Yeon's exact face and identity. Exactly ONE human So-Yeon throughout. Dark ponytail, navy school blazer, white blouse, plaid skirt, petite 160cm frame. Real human skin, hair and biomechanics. Never CGI her body.
+- 100/200 free credits
+- Every model included
+- 10 min processing per video Limited time only.
 
-**LOCATION:** After-hours Korean school library, wooden bookshelves, green lamps, reading tables, rolling ladder, sunset beams and floating dust.
+If you've got ad ideas sitting untested, nows the window.
 
-**ENEMIES:** Five unarmed delinquent male classmates attacking aggressively.
+Im also sending a prompt guide + template guide with it.
 
-**00:00–00:06 | BULLYING:** So-Yeon reads silently. Boys pull her ponytail, flick her head, kick her chair and knock her book down. She trembles.
-
-Bully: {야, 반응 좀 해봐. 재미없게.}
-So-Yeon: {아… 하지 마…}
-
-**00:06–00:09 | TRANSFORMATION:** She becomes unnaturally still. Porcelain-pale skin, dark red-black veins, glowing crimson eyes and emerging sharp fangs. Controlled hiss.
-
-So-Yeon: {…배고프네.}
-
-Boys recoil: {뭐, 뭐야 씨발?!}
-
-Body horror only. No transformation VFX.
-
-**00:09–00:28 | SUPERNATURAL COMBAT:** She calmly rises and attacks all five simultaneously, completely UNARMED. Fluid Taekwondo × Karate × Pencak Silat combinations: punches, kicks, parries, redirects, elbows, sweeps and spinning counters. Elegant, predatory, impossibly fast.
-
-Pale-cyan AZURE BLOOM VFX: physical dash bursts, thin speed streaks, translucent after-images BEHIND her real body and glowing blue petals.
-
-Every major physical strike compresses the REAL surrounding air, producing transparent pressure cavities, refractive distortion, circular shockwaves, displaced dust and violent environmental destruction. Books explode from shelves, tables overturn, lamps swing and windows rattle.
-
-Final sequence: leader flees; So-Yeon overtakes him with a maximum-speed dash and lands a devastating spinning back kick. Compressed air detonates into a massive concussive shockwave, throwing him into the front desk and blasting books and papers throughout the library.
-
-**00:28–00:30 | AFTERMATH:** Crimson eyes fade, fangs retract, veins disappear. So-Yeon stares at her trembling hands, then calmly walks away through settling dust.
-
-**CAMERA:** Close handheld cinematic pursuit, whip-pans, tracking, facial inserts and impact shake. Still creeping push-in during transformation; explosive kinetic camera during combat.
-
-**PHYSICS LOCK:** Every air explosion MUST originate from visible physical martial-arts contact. Impact → compression → pressure collapse → detonation → shockwave. No magic projectiles, beams, plasma, fireballs or teleportation.
-
-**AUDIO:** Korean dialogue, hiss, impacts, furniture, books and atmospheric sounds only. NO MUSIC. NO SUBTITLES.
-
-**PRIORITY:** One consistent real human identity, readable choreography, spectacular physical VFX and premium AAA live-action realism.
+Comment GUIDE and Ill send all three 👇
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-on-bc4e70582ca3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-just-went-unlimited-on-makeugc-9ac42e689b6d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### GPT Image 2.6 + Seedance 2.5 雪夜情侣
+
+> ZaraIrahh：雪夜情侣完整 Prompt，GPT Image 2.6 + Seedance 2.5。
+
+[<img src="https://media.goodcase.ai/cases/726954ddc20f.jpg" width="600" alt="GPT Image 2.6 + Seedance 2.5 雪夜情侣">](https://goodcase.ai/cases/gpt-image-2-6-seedance-2-5-e586284b834e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZaraIrahh | **出典:** [元投稿](https://x.com/ZaraIrahh/status/2119293619282567471) | **公開日:** 2026-11-08 | **ヒート:** 80
+
+<details>
+<summary><b>プロンプト全文（48 行、クリックで展開）</b></summary>
+
+```
+AUDIO RULE: Natural sound only. No music, no score, no voiceover, no dialogue. Ambient winter city sound and foley only.
+
+MOTION RULE: Continuous movement in every shot. The couple never stop, freeze or hold a pose, and the camera is always moving. Every romantic moment happens while they walk, spin or run.
+
+STYLE: Hand-painted illustrated look, matching the location reference: soft painterly brush texture, warm amber lamplight against cool lavender-gray snow haze. Same color grade in every shot.
+
+CHARACTER LOCK: <<<image_1>>>  is a single character sheet showing two people. The TOP ROW is the woman and the BOTTOM ROW is the man. Match both exactly in every shot.
+The woman (top row): messy curly dark-brown hair in a loose updo with loose strands, freckles, small gold hoop earrings. Long dark brown textured wool coat, white collared shirt, charcoal wide-leg trousers, black leather belt, black lace-up boots. She also wears a burgundy fringed wool scarf, as in the location image. She carries a paper cup of tea with the tea-bag tag hanging out.
+The man (bottom row): tall, tousled wavy dark-brown hair, freckles. Long brown herringbone tweed coat, olive-green fringed scarf, cream cable-knit sweater, dark brown trousers, dark leather boots.
+SCARF LOCK: His olive scarf stays on his neck and her burgundy scarf stays on hers in every shot. Scarves never move between people.
+Faces, hair, outfits, heights and proportions never change between shots. They look at each other with deep affection and never look at the camera.
+
+LOCATION: <<<image_2>>> , snowy Upper West Side at dusk. Gas-style street lamps, snow-covered trees, black iron fences, brownstones with warm lit windows and snowy stoops, a street sign reading "W 73 St / Broadway", a yellow taxi, the Empire State Building glowing in the haze. Soft snow falls throughout.
+
+SHOT 1 (0:00-0:03)
+Camera: Wide tracking shot gliding backward ahead of them down the snowy sidewalk, lamps streaking past.
+Action: They walk toward us, his arm around her shoulders, her tea steaming. She leans her head against him while they walk, and he kisses the top of her head without breaking stride. Snow swirls through the lamplight and a yellow taxi slides by behind them.
+Sound: Crunching, slushy footsteps, a muffled tire hiss, a soft contented sigh, gentle wind.
+
+HARD CUT
+
+SHOT 2 (0:03-0:06)
+Camera: Medium shot, smooth handheld tracking sideways at walking pace, shallow depth of field.
+Action: Still walking, he opens the front of his coat and pulls her in against his side, wrapping the coat around her shoulder. His olive scarf stays on his neck and her burgundy scarf stays on hers. She laughs, looks up at him, and catches a snowflake on her tongue. He grins and tucks a loose curl behind her ear as they keep moving.
+Sound: Her bright laugh, wool rustling, quick footsteps, snow hush.
+
+HARD CUT
+
+SHOT 3 (0:06-0:09)
+Camera: Low tracking shot at hip height, following their hands and the cup as they move, warm window lights streaming past.
+Action: They swing their linked hands as they walk. She lifts the steaming cup to his lips and he sips, smiling at her. Snowflakes melt on his knuckles and her burgundy scarf fringe while the tea-bag tag sways.
+Sound: Cup crinkle, a quiet sip, playful breath, soft footsteps, a car passing.
+
+HARD CUT
+
+SHOT 4 (0:09-0:12)
+Camera: Fast but smooth circling orbit around them, snow flying through the foreground.
+Action: He lifts her hand and spins her under his arm. Her coat flares and her curls swing as she twirls, laughing. She spins back into him and they keep moving in a flowing walking waltz down the sidewalk, foreheads close, eyes locked.
+Sound: Coat swish, her delighted laugh, quick light footsteps in snow, a distant bell.
+
+HARD CUT
+
+SHOT 5 (0:12-0:15)
+Camera: Sweeping crane move that begins close and rises into a wide pull-back, following them up the avenue with the Empire State Building glowing in the haze.
+Action: Hand in hand, they run a few joyful steps through the falling snow, then he pulls her in and they kiss mid-stride, still moving, her scarf fringe flying. They keep walking away up the avenue, arms around each other, leaving two sets of footprints as the flakes thicken.
+Sound: Quick crunching footsteps, a happy laugh, coat rustle, fading into the hush of falling snow.
+
+AVOID: music, dialogue, text overlays, still poses, freeze frames, camera looks, face or hairstyle drift, swapping the two characters' outfits, scarves moving between people, any change to coats, scarves, earrings or boots between shots, photorealistic style.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/gpt-image-2-6-seedance-2-5-e586284b834e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Female Clown Smashes a Jack-o’-Lantern in a Foggy Forest
 
@@ -3969,6 +4484,65 @@ SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trip
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-594c65776c1c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Bullied schoolgirl awakens in a library and fights back unarmed
+
+> CRIMSON BITE: AWAKENING Made with Seedance 2.5 on @PixVerse Prompt used: Ultra-photorealistic live-action Korean gothic supernatural action. Use image1 as So-Ye…
+
+[<img src="https://media.goodcase.ai/cases/4600a92f39b2.jpg" width="600" alt="Bullied schoolgirl awakens in a library and fights back unarmed">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-on-bc4e70582ca3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @QAiStudio | **出典:** [元投稿](https://x.com/QAiStudio/status/2117947303965384993) | **公開日:** 2026-11-04 | **ヒート:** 79
+
+<details>
+<summary><b>プロンプト全文（41 行、クリックで展開）</b></summary>
+
+```
+CRIMSON BITE: AWAKENING
+
+Made with Seedance 2.5 on @PixVerse 
+
+Prompt used:
+Ultra-photorealistic live-action Korean gothic supernatural action. Use image1 as So-Yeon's exact face and identity. Exactly ONE human So-Yeon throughout. Dark ponytail, navy school blazer, white blouse, plaid skirt, petite 160cm frame. Real human skin, hair and biomechanics. Never CGI her body.
+
+**LOCATION:** After-hours Korean school library, wooden bookshelves, green lamps, reading tables, rolling ladder, sunset beams and floating dust.
+
+**ENEMIES:** Five unarmed delinquent male classmates attacking aggressively.
+
+**00:00–00:06 | BULLYING:** So-Yeon reads silently. Boys pull her ponytail, flick her head, kick her chair and knock her book down. She trembles.
+
+Bully: {야, 반응 좀 해봐. 재미없게.}
+So-Yeon: {아… 하지 마…}
+
+**00:06–00:09 | TRANSFORMATION:** She becomes unnaturally still. Porcelain-pale skin, dark red-black veins, glowing crimson eyes and emerging sharp fangs. Controlled hiss.
+
+So-Yeon: {…배고프네.}
+
+Boys recoil: {뭐, 뭐야 씨발?!}
+
+Body horror only. No transformation VFX.
+
+**00:09–00:28 | SUPERNATURAL COMBAT:** She calmly rises and attacks all five simultaneously, completely UNARMED. Fluid Taekwondo × Karate × Pencak Silat combinations: punches, kicks, parries, redirects, elbows, sweeps and spinning counters. Elegant, predatory, impossibly fast.
+
+Pale-cyan AZURE BLOOM VFX: physical dash bursts, thin speed streaks, translucent after-images BEHIND her real body and glowing blue petals.
+
+Every major physical strike compresses the REAL surrounding air, producing transparent pressure cavities, refractive distortion, circular shockwaves, displaced dust and violent environmental destruction. Books explode from shelves, tables overturn, lamps swing and windows rattle.
+
+Final sequence: leader flees; So-Yeon overtakes him with a maximum-speed dash and lands a devastating spinning back kick. Compressed air detonates into a massive concussive shockwave, throwing him into the front desk and blasting books and papers throughout the library.
+
+**00:28–00:30 | AFTERMATH:** Crimson eyes fade, fangs retract, veins disappear. So-Yeon stares at her trembling hands, then calmly walks away through settling dust.
+
+**CAMERA:** Close handheld cinematic pursuit, whip-pans, tracking, facial inserts and impact shake. Still creeping push-in during transformation; explosive kinetic camera during combat.
+
+**PHYSICS LOCK:** Every air explosion MUST originate from visible physical martial-arts contact. Impact → compression → pressure collapse → detonation → shockwave. No magic projectiles, beams, plasma, fireballs or teleportation.
+
+**AUDIO:** Korean dialogue, hiss, impacts, furniture, books and atmospheric sounds only. NO MUSIC. NO SUBTITLES.
+
+**PRIORITY:** One consistent real human identity, readable choreography, spectacular physical VFX and premium AAA live-action realism.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-on-bc4e70582ca3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Young Woman’s Summer Afternoon in an Old Seoul Neighborhood
 
 > Weekend morning with Baddie 😎 Say NO to Hollywood and YES to AI. Seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an …
@@ -4081,176 +4655,6 @@ The camera follows her for a few seconds before the recording abruptly cuts to B
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-a87313182971?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks
-
-> Tokyo Helicopter Night Adventure Unlimited Seedance 2.5 on @makeugc prompt Concept: A beautiful young East Asian woman experiences an unforgettable open-door he…
-
-[<img src="https://media.goodcase.ai/cases/587c3e3c3fbc.jpg" width="600" alt="A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks">](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2113594768400023908) | **公開日:** 2026-10-23 | **ヒート:** 79
-
-<details>
-<summary><b>プロンプト全文（115 行、クリックで展開）</b></summary>
-
-```
-Tokyo Helicopter Night Adventure
-
-Unlimited Seedance 2.5 on @makeugc 
-
-prompt
-
-Concept: A beautiful young East Asian woman experiences an unforgettable open-door helicopter adventure above Tokyo at night, capturing her excitement, nervous laughter, and spectacular city views in a spontaneous travel vlog.
-
-Main Character — Strict Identity Lock
-
-A beautiful 23-year-old hair styled in a loose high ponytail, wispy bangs, expressive blue eyes, natural makeup, and realistic skin texture with visible pores.
-
-New outfit: A fitted pastel-blue long-sleeve knit top, high-waisted black cargo pants, white low-top sneakers, delicate silver earrings, and a small silver necklace. During the helicopter flight, she wears a black aviation headset with boom microphone and a securely fastened black four-point safety harness.
-
-Maintain exactly the same face, hairstyle, body proportions, outfit, and accessories throughout all scenes.
-
-Scene-by-scene storyboard
-
-Scene 1 — Waterfront Helicopter Terminal (0–3s)
-
-Location: A modern waterfront helipad near Yokohama, with illuminated skyscrapers, harbor reflections, and a white helicopter parked behind her.
-
-Handheld front-facing selfie shot. She walks excitedly toward the helicopter, smiling and pointing behind her.
-
-Dialogue: "Okay, this might be the craziest thing I've ever done!"
-
-The helicopter rotor begins spinning. Natural wind gently moves her ponytail.
-
-Scene 2 — Preparing for Takeoff (3–6s)
-
-Inside the helicopter cabin, she sits beside the window, wearing her aviation headset and securely fastened harness. The camera captures a close selfie as she adjusts her headset.
-
-Dialogue: "I'm actually a little scared right now!"
-
-She laughs nervously, glancing outside at the glowing harbor.
-
-Scene 3 — Yokohama Harbor Takeoff (6–9s)
-
-Cinematic first-person aerial view as the helicopter rises above Yokohama's waterfront.
-
-Below are the illuminated Cosmo Clock 21 Ferris wheel, Minato Mirai skyscrapers, colorful harbor lights, and reflections shimmering across dark water.
-
-The helicopter banks gently toward Tokyo.
-
-Scene 4 — Above the Glittering City (9–12s)
-
-Handheld selfie inside the helicopter during flight. Wind blows loose strands of her hair as she looks out at the enormous city below.
-
-Dialogue: "Oh my God, look at those lights!"
-
-She bursts into genuine laughter, turning the camera outward to reveal Tokyo's endless illuminated skyline.
-
-Scene 5 — Incredible POV Over Tokyo Bay (12–15s)
-
-First-person downward POV from her secured passenger seat. Her black cargo pants and white sneakers appear at the bottom of the frame, safely inside the aircraft.
-
-Far below, illuminated cargo ships move through Tokyo Bay. Highways curve around the coastline, forming glowing ribbons of light.
-
-Realistic helicopter vibration and subtle camera shake.
-
-Scene 6 — Tokyo Tower Flyby (15–18s)
-
-Close handheld selfie with Tokyo Tower glowing orange in the distant background as the helicopter passes at a safe distance.
-
-She turns her head toward the tower, smiling in disbelief.
-
-Dialogue: "Wait, Tokyo Tower looks unreal from up here!"
-
-The camera pans from her face to the spectacular orange landmark.
-
-Scene 7 — Skytree Skyline (18–21s)
-
-Cinematic POV aerial shot of Tokyo Skytree illuminated in cool blue and violet, surrounded by dense neighborhoods and glowing highways.
-
-Her white sneakers briefly appear at the bottom of the frame as she angles the camera downward from her seat.
-
-Subtle reflections on the helicopter window create an authentic nighttime aviation atmosphere.
-
-Scene 8 — Rainbow Bridge Panorama (21–24s)
-
-Wide aerial footage of Rainbow Bridge spanning Tokyo Bay, with streams of headlights moving across the bridge.
-
-The helicopter flies along the bay at a safe distance. The Tokyo skyline glitters beyond the bridge, with gentle reflections on the water.
-
-Dialogue (off-camera): "I seriously don't want this to end!"
-
-Scene 9 — Back on the Helipad (24–27s)
-
-The helicopter has landed at the waterfront terminal. With the rotors stopped and crew clearance given, she walks across the green-lit helipad carrying her headset.
-
-Her pastel-blue top, black cargo pants, and white sneakers remain identical.
-
-She smiles at the camera, slightly windblown.
-
-Dialogue: "That was absolutely worth it!"
-
-Scene 10 — Yokohama Night Streets (27–30s)
-
-Instead of Shibuya Crossing, the final scene takes place on a lively pedestrian street in Yokohama's Minato Mirai waterfront district.
-
-Warm storefront lighting, pedestrians, illuminated trees, and the colorful Ferris wheel in the background.
-
-She films herself walking, turns toward the camera, gives a playful wave, and smiles.
-
-Dialogue: "Tokyo from the sky? Ten out of ten. See you!"
-
-Visual and camera direction
-
-Authentic travel-vlogger footage, alternating between imperfect handheld selfies, intimate cabin close-ups, first-person aerial footage, and wide cinematic city views.
-
-Natural facial expressions, realistic wind movement, slight autofocus hunting, subtle low-light sensor noise, natural motion blur, believable city light exposure, realistic helicopter vibrations, and detailed skin texture. Avoid overly polished influencer footage.
-
-Audio: Natural helicopter engine and rotor sounds, rushing wind, genuine laughter, clear spontaneous dialogue, distant city ambience after landing. No background music.
-
-Strict constraints: No character changes, no outfit changes, no face morphing, no CGI-looking skin, no floating limbs, no unrealistic helicopter movements, no impossible close approaches to buildings, no subtitles, no text overlays, no watermark, no logos, and no visible brand names. All aerial shots must respect realistic aircraft positioning and passenger safety.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Lightning Warrior and Spatial Rupture on an Abandoned Battlefield
-
-> This Ai video is absolutely masterpiece 🤯 Created with Seedance 2.5 on @lovart_ai Prompt: 16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTI…
-
-[<img src="https://media.goodcase.ai/cases/0e7af393b7ea.jpg" width="600" alt="Lightning Warrior and Spatial Rupture on an Abandoned Battlefield">](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itxabdullaa | **出典:** [元投稿](https://x.com/itxabdullaa/status/2106702315239686628) | **公開日:** 2026-10-04 | **ヒート:** 79
-
-<details>
-<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
-
-```
-16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTIC PHYSICS
-
-A dark-fantasy warrior with long disheveled black hair, cold expression, tattered gray-white scarf, shattered dark cloak and white-gray outfit awakens an abandoned battlefield.
-
-0–5s: A tiny white-blue spark triggers the entire environment. Stones vibrate, cracks spread, invisible pressure bends the air, and a colossal thunderstorm ring forms overhead.
-
-5–10s: Shadow distortions hunt him. He explodes into motion—wall runs, aerial redirects, lightning-charged impacts and massive shockwaves destroy the ruins. Black smoke afterimages trail every movement.
-
-10–15s: He moves across falling debris at impossible speed. Multiple motion afterimages surround the battlefield before collapsing back into him, compressing into one devastating lightning strike.
-
-15–20s: The battlefield transforms into a rotating storm cage. Debris, dust, fabric and lightning orbit him. Everything suddenly compresses inward as a giant spatial crack opens behind him.
-
-20–27s: He launches into the fractured dimension, moving through floating ruins with punches, elbows and aerial strikes. All accumulated energy converges into a tiny, hyper-dense white-blue thunderstorm sphere.
-
-27–30s: Absolute silence. One spark. His eyes open. He unleashes the WORLD-SPLITTING STRIKE—a colossal white-blue shockwave tears through reality, followed by a black-and-white spatial implosion.
-
-Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
-
-STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Toddler Helps a Rabbit Find Three Fruits
 
@@ -4928,97 +5332,138 @@ No text, no subtitles, no logos, no watermark.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Static-Awakened Girl Fights Back in a School Gym
+### A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks
 
-> Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
+> Tokyo Helicopter Night Adventure Unlimited Seedance 2.5 on @makeugc prompt Concept: A beautiful young East Asian woman experiences an unforgettable open-door he…
 
-[<img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="600" alt="Static-Awakened Girl Fights Back in a School Gym">](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/587c3e3c3fbc.jpg" width="600" alt="A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks">](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @doctorwasif | **出典:** [元投稿](https://x.com/doctorwasif/status/2091388398153994395) | **公開日:** 2026-08-23 | **ヒート:** 79
-
-**安定度:** 80/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 80.4) · [出力](https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2113594768400023908) | **公開日:** 2026-10-23 | **ヒート:** 78
 
 <details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（115 行、クリックで展開）</b></summary>
 
 ```
-30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
+Tokyo Helicopter Night Adventure
 
-SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
+Unlimited Seedance 2.5 on @makeugc 
 
-00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
+prompt
 
-03–06: He swings again.
+Concept: A beautiful young East Asian woman experiences an unforgettable open-door helicopter adventure above Tokyo at night, capturing her excitement, nervous laughter, and spectacular city views in a spontaneous travel vlog.
 
-06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
+Main Character — Strict Identity Lock
 
-09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
+A beautiful 23-year-old hair styled in a loose high ponytail, wispy bangs, expressive blue eyes, natural makeup, and realistic skin texture with visible pores.
 
-12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
+New outfit: A fitted pastel-blue long-sleeve knit top, high-waisted black cargo pants, white low-top sneakers, delicate silver earrings, and a small silver necklace. During the helicopter flight, she wears a black aviation headset with boom microphone and a securely fastened black four-point safety harness.
 
-17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
+Maintain exactly the same face, hairstyle, body proportions, outfit, and accessories throughout all scenes.
 
-22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
+Scene-by-scene storyboard
 
-27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
+Scene 1 — Waterfront Helicopter Terminal (0–3s)
 
-COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
+Location: A modern waterfront helipad near Yokohama, with illuminated skyscrapers, harbor reflections, and a white helicopter parked behind her.
 
-STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
+Handheld front-facing selfie shot. She walks excitedly toward the helicopter, smiling and pointing behind her.
 
-CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
+Dialogue: "Okay, this might be the craziest thing I've ever done!"
+
+The helicopter rotor begins spinning. Natural wind gently moves her ponytail.
+
+Scene 2 — Preparing for Takeoff (3–6s)
+
+Inside the helicopter cabin, she sits beside the window, wearing her aviation headset and securely fastened harness. The camera captures a close selfie as she adjusts her headset.
+
+Dialogue: "I'm actually a little scared right now!"
+
+She laughs nervously, glancing outside at the glowing harbor.
+
+Scene 3 — Yokohama Harbor Takeoff (6–9s)
+
+Cinematic first-person aerial view as the helicopter rises above Yokohama's waterfront.
+
+Below are the illuminated Cosmo Clock 21 Ferris wheel, Minato Mirai skyscrapers, colorful harbor lights, and reflections shimmering across dark water.
+
+The helicopter banks gently toward Tokyo.
+
+Scene 4 — Above the Glittering City (9–12s)
+
+Handheld selfie inside the helicopter during flight. Wind blows loose strands of her hair as she looks out at the enormous city below.
+
+Dialogue: "Oh my God, look at those lights!"
+
+She bursts into genuine laughter, turning the camera outward to reveal Tokyo's endless illuminated skyline.
+
+Scene 5 — Incredible POV Over Tokyo Bay (12–15s)
+
+First-person downward POV from her secured passenger seat. Her black cargo pants and white sneakers appear at the bottom of the frame, safely inside the aircraft.
+
+Far below, illuminated cargo ships move through Tokyo Bay. Highways curve around the coastline, forming glowing ribbons of light.
+
+Realistic helicopter vibration and subtle camera shake.
+
+Scene 6 — Tokyo Tower Flyby (15–18s)
+
+Close handheld selfie with Tokyo Tower glowing orange in the distant background as the helicopter passes at a safe distance.
+
+She turns her head toward the tower, smiling in disbelief.
+
+Dialogue: "Wait, Tokyo Tower looks unreal from up here!"
+
+The camera pans from her face to the spectacular orange landmark.
+
+Scene 7 — Skytree Skyline (18–21s)
+
+Cinematic POV aerial shot of Tokyo Skytree illuminated in cool blue and violet, surrounded by dense neighborhoods and glowing highways.
+
+Her white sneakers briefly appear at the bottom of the frame as she angles the camera downward from her seat.
+
+Subtle reflections on the helicopter window create an authentic nighttime aviation atmosphere.
+
+Scene 8 — Rainbow Bridge Panorama (21–24s)
+
+Wide aerial footage of Rainbow Bridge spanning Tokyo Bay, with streams of headlights moving across the bridge.
+
+The helicopter flies along the bay at a safe distance. The Tokyo skyline glitters beyond the bridge, with gentle reflections on the water.
+
+Dialogue (off-camera): "I seriously don't want this to end!"
+
+Scene 9 — Back on the Helipad (24–27s)
+
+The helicopter has landed at the waterfront terminal. With the rotors stopped and crew clearance given, she walks across the green-lit helipad carrying her headset.
+
+Her pastel-blue top, black cargo pants, and white sneakers remain identical.
+
+She smiles at the camera, slightly windblown.
+
+Dialogue: "That was absolutely worth it!"
+
+Scene 10 — Yokohama Night Streets (27–30s)
+
+Instead of Shibuya Crossing, the final scene takes place on a lively pedestrian street in Yokohama's Minato Mirai waterfront district.
+
+Warm storefront lighting, pedestrians, illuminated trees, and the colorful Ferris wheel in the background.
+
+She films herself walking, turns toward the camera, gives a playful wave, and smiles.
+
+Dialogue: "Tokyo from the sky? Ten out of ten. See you!"
+
+Visual and camera direction
+
+Authentic travel-vlogger footage, alternating between imperfect handheld selfies, intimate cabin close-ups, first-person aerial footage, and wide cinematic city views.
+
+Natural facial expressions, realistic wind movement, slight autofocus hunting, subtle low-light sensor noise, natural motion blur, believable city light exposure, realistic helicopter vibrations, and detailed skin texture. Avoid overly polished influencer footage.
+
+Audio: Natural helicopter engine and rotor sounds, rushing wind, genuine laughter, clear spontaneous dialogue, distant city ambience after landing. No background music.
+
+Strict constraints: No character changes, no outfit changes, no face morphing, no CGI-looking skin, no floating limbs, no unrealistic helicopter movements, no impossible close approaches to buildings, no subtitles, no text overlays, no watermark, no logos, and no visible brand names. All aerial shots must respect realistic aircraft positioning and passenger safety.
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
-
-> Seedance 2.5 1080P is now available on @itsPolloAI — and it’s 50% off right now. I tested it with this cinematic motorcy
-
-[<img src="https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg" width="600" alt="Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic">](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @RuzainaMeer | **出典:** [元投稿](https://x.com/RuzainaMeer/status/2089595902818398461) | **公開日:** 2026-08-18 | **ヒート:** 79
-
-**安定度:** 76/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 75.9) · [出力](https://media.goodcase.ai/retests/ruzainameer-seedance-ai-e6073ec318f1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second ultra-photorealistic cinematic fantasy sequence with high-budget Hollywood film quality. A strong, fearless young woman rides a small rugged black motorcycle through a dense tropical jungle at sunrise. Maintain realistic skin, hair, physics, lighting, atmosphere, detailed environments, natural motion, and cinematic depth throughout.
-
-0–5s — The Ride: Wide cinematic tracking shot of the woman riding along a narrow muddy rainforest trail. Sun rays through the canopy, ground mist, moving leaves, water droplets from tires. She wears a practical dark leather riding outfit, protective boots and gloves. Calm, confident expression. Realistic engine vibration and body movement.
-
-5–10s — Transformation: In an open clearing, the motorcycle slows and the ground trembles. Its metal frame seamlessly transforms into a gigantic creature through a believable mechanical-organic fusion: wheels become huge clawed limbs, frame expands into an armored body, metal flows into dark realistic scales, handlebars become horns. Dust, leaves, rocks, and debris react naturally. No cuts or jumps.
-
-10–15s — Dragon Awakens: The motorcycle becomes a gigantic realistic black-and-dark-red dragon with muscular wings, detailed scales, powerful claws, curved horns, and integrated glowing amber eyes. The woman remains safely on its back. The dragon raises its head, exhales warm vapor, spreads its wings, and roars, shaking nearby foliage. Low-angle shot emphasizes scale.
-
-15–23s — Flight: The dragon launches powerfully from the jungle, bending trees and scattering leaves. The woman grips its armored neck. Aerial tracking shot reveals rivers, waterfalls, cliffs, mist, and dense rainforest below. Realistic wing aerodynamics, turbulence, mist movement, and sunlight reflecting across scales.
-
-23–27s — River: The dragon dives toward a massive turquoise river, flying extremely low above the water. Its wings create waves and spray. The woman's hair and clothing whip in the wind while she remains focused. High-speed side camera captures her expression and the dragon's detailed face.
-
-27–30s — Epic Ending: The dragon pulls upward toward the golden sky. Camera pulls far back to reveal endless jungle, rivers, mountains, and clouds. Golden light illuminates its wings from behind. End with a powerful silhouette disappearing toward the horizon.
-
-Visual Style: Ultra-photorealistic live-action fantasy, cinematic 8K appearance, believable anatomy, realistic skin/scales, atmospheric perspective, volumetric sunlight, detailed foliage, realistic water and wind simulation, cinematic DOF, subtle anamorphic lens characteristics, dramatic camera movement, HDR, realistic motion blur, natural shadows, film-quality grading.
-
-Character Consistency: Same woman throughout; preserve facial identity, hairstyle, body proportions, clothing, and appearance.
-
-Transformation: Continuous and coherent motorcycle-to-dragon transformation. Motorcycle and dragon must clearly be the same entity. No sudden cuts, teleportation, disappearing objects, duplicated limbs, malformed anatomy, or inconsistent scale.
-
-Camera: Cinematic tracking, low-angle hero shots, close-ups, dynamic aerial/drone-style shots, smooth high-speed movement, realistic parallax, motivated transitions.
-
-Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra characters, duplicate woman, deformed hands, distorted face, floating motorcycle parts, random scene changes, text, subtitles, logos, or watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully
 
@@ -5313,482 +5758,42 @@ Maintain escalating tension, emotional intensity, supernatural dominance, and a 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Bladesmith Competition Reality TV Video
+### Lightning Warrior and Spatial Rupture on an Abandoned Battlefield
 
-> A realistic reality TV style video prompt showing a bladesmith testing a forged machete against ceramic gnomes with dynamic impact physics and documentary camera work.
+> This Ai video is absolutely masterpiece 🤯 Created with Seedance 2.5 on @lovart_ai Prompt: 16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTI…
 
-[<img src="https://media.goodcase.ai/media/poster/bladesmith-competition-reality-tv-video.jpg" width="600" alt="Bladesmith Competition Reality TV Video">](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/0e7af393b7ea.jpg" width="600" alt="Lightning Warrior and Spatial Rupture on an Abandoned Battlefield">](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @techhalla | **出典:** [元投稿](https://x.com/techhalla/status/2084112771533189499) | **公開日:** 2026-08-03 | **ヒート:** 78
-
-**安定度:** 74/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 73.8) · [出力](https://media.goodcase.ai/retests/bladesmith-competition-reality-tv-video/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**作者:** @itxabdullaa | **出典:** [元投稿](https://x.com/itxabdullaa/status/2106702315239686628) | **公開日:** 2026-10-04 | **ヒート:** 78
 
 <details>
-<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
 
 ```
-Reality TV bladesmith competition testing segment, multi-camera documentary production, bright industrial workshop lighting, sharp HD broadcast look, practical forge practicals, natural handheld shake on action cams, clean documentary texture, no cinematic film look.
+16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTIC PHYSICS
 
-0-4s: [Medium Two-Shot] Martial arts master of clear Asian ancestry in black tactical shirt stands facing the young female bladesmith in her early 20s (work apron, focused). He holds her forged machete, turns the blade once under the lights. Looks her in the eye: “Are you ready?” She answers firmly “Yes.” Quick cut to her determined face, then to three classic ceramic garden gnomes lined up on sturdy stands behind them.
+A dark-fantasy warrior with long disheveled black hair, cold expression, tattered gray-white scarf, shattered dark cloak and white-gray outfit awakens an abandoned battlefield.
 
-4-7s: [Low-Angle Tracking + Rapid Cuts] Master steps in, raises the machete. Hard cut to side angle as he delivers a powerful overhead chop into the first gnome. Impact explodes in slow motion: ceramic shatters into sharp fragments, paint chips and dust fly outward. Time locks at peak penetration. Camera orbits the frozen blade buried in the broken gnome for one second. Quick insert ECU of the edge biting through the ceramic body.
+0–5s: A tiny white-blue spark triggers the entire environment. Stones vibrate, cracks spread, invisible pressure bends the air, and a colossal thunderstorm ring forms overhead.
 
-7-11s: [Dynamic Side Tracking] Action resumes. Master yanks the machete free, immediately follows with a heavy diagonal slash across the second gnome. Slow-motion again: the figure tears apart sideways, large colored pieces and shards scatter. Freeze at maximum destruction. Two rapid cuts: one over-shoulder from behind the master, one low angle under the flying fragments. Orbit holds for half a second on the locked impact.
+5–10s: Shadow distortions hunt him. He explodes into motion—wall runs, aerial redirects, lightning-charged impacts and massive shockwaves destroy the ruins. Black smoke afterimages trail every movement.
 
-11-15s: [Handheld Close Action] Third strike — short, vicious downward chop into the third gnome. Slow-mo impact, the ceramic erupts into dozens of pieces, hat and beard flying. Full freeze. Camera pushes in and circles the frozen chaos for one beat. Quick insert of the master’s focused face mid-swing, then back to the locked blade.
+10–15s: He moves across falling debris at impossible speed. Multiple motion afterimages surround the battlefield before collapsing back into him, compressing into one devastating lightning strike.
 
-15-19s: [Series of Fast Cuts] Time resumes. Master pulls the machete out, turns it under the light. Tight ECU tracks along the edge: a few small nicks and rolled spots visible. Cut to his fingers testing the edge. Cut to the ruined garden gnomes still shedding fragments. Cut to the young woman’s tense expression as she watches.
+15–20s: The battlefield transforms into a rotating storm cage. Debris, dust, fabric and lightning orbit him. Everything suddenly compresses inward as a giant spatial crack opens behind him.
 
-19-24s: [Medium Close-Up] Master lowers the blade, looks straight at her. Calm, professional delivery: “There are a couple of nicks on the edge… but your weapon, ma’am… it kills.” Hard cut to her face — a small, controlled smile of pride breaks through.
+20–27s: He launches into the fractured dimension, moving through floating ruins with punches, elbows and aerial strikes. All accumulated energy converges into a tiny, hyper-dense white-blue thunderstorm sphere.
 
-24-28s: [Final ECU Montage] Extreme close-up of the nicked but still lethal edge catching the light. Cut to the shattered remains of the garden gnomes. Final frame holds on the young bladesmith’s quiet satisfaction as the master nods once.
+27–30s: Absolute silence. One spark. His eyes open. He unleashes the WORLD-SPLITTING STRIKE—a colossal white-blue shockwave tears through reality, followed by a black-and-white spatial implosion.
 
-Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge detail, natural motion blur only on moving elements, stable characters, coherent impact timing, no artifacts, high rewatch value.
+Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
+
+STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/bladesmith-competition-reality-tv-video?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Flame Ritual Detonates a City in Ruins
-
-> AI just cooked with this one 🔥 Seedance 2.5 on @higgsfield Prompt : SUZUKA — FUGA DURATION: exactly 10 seconds FORMAT: 16:9 STYLE: ultra-photorealistic live-ac…
-
-[<img src="https://media.goodcase.ai/cases/5e41917cd901.jpg" width="600" alt="Flame Ritual Detonates a City in Ruins">](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itxabdullaa | **出典:** [元投稿](https://x.com/itxabdullaa/status/2103698890516308313) | **公開日:** 2026-09-26 | **ヒート:** 78
-
-<details>
-<summary><b>プロンプト全文（61 行、クリックで展開）</b></summary>
-
-```
-SUZUKA — FUGA
-DURATION: exactly 10 seconds
-FORMAT: 16:9
-STYLE: ultra-photorealistic live-action dark fantasy, grounded supernatural fire VFX, realistic flame physics, cinematic destruction, natural lens behavior, practical lighting, realistic human actors, no digital-art appearance.
-PACE: continuous tension and escalation, zero pauses, maximum buildup into catastrophic release.
-
-REFERENCES
-
-IMAGE 1 — EXECUTOR
-Preserve facial identity, hairstyle, costume, body proportions, and appearance exactly.
-
-IMAGE 2 — TARGET
-Preserve facial identity, hairstyle, costume, body proportions, and appearance exactly.
-
-ACTION
-
-0.0–3.5 SECONDS — INVOCATION
-Executor stands alone on a destroyed city street. Faint fire flickers around both hands. He calmly looks toward the off-screen target and says, “Fuga.” Fire intensifies as he naturally transitions into a firing stance. Camera slowly pushes closer.
-
-3.5–6.5 SECONDS — FUGA RITUAL
-Extreme front three-quarter hand-dominant perspective. Flame wraps tightly around the extended fingers and forms a sharp arrowhead-like tip while remaining physically attached to the hand. A continuous flame line stretches from the rear hand to the forward fingers. The rear hand performs a subtle pinch, draw, and hold motion. The flame compresses and becomes intensely concentrated and white-hot.
-
-6.5–7.2 SECONDS — RELEASE
-Maximum tension. The rear fingers release. The finger-wrapped flame tears free and launches forward as a single concentrated fire projectile along the exact attack axis. Forward hand remains in the aiming position. Hard cut.
-
-7.2–7.7 SECONDS — TARGET REACTION
-Target only. Medium close-up three-quarter view. The incoming attack reflects in the eyes. Firelight rapidly intensifies across the face. Brief realization, tension, and alarm.
-
-7.7–8.3 SECONDS — IMPACT
-Target-side rear three-quarter view. The concentrated flame projectile races down the street, rapidly expands in perspective, and impacts the target position. Brief hit-stop. Instant white-hot flash. Hard cut.
-
-8.3–10.0 SECONDS — CITY-SCALE DETONATION
-Extreme aerial ultra-wide. The impact expands into an enormous white-hot fireball, rolling black smoke, and a massive spherical shockwave. Destruction propagates realistically across city blocks. Buildings rupture, debris launches, dust swallows the streets, and the delayed pressure wave violently shakes the camera.
-
-SMASH CUT TO BLACK. END.
-
-VISUAL RULES
-
-- Executor and Target never appear in the same shot.
-- During Executor shots, Target remains completely off-screen.
-- During Target shots, Executor remains completely off-screen.
-- Fire behaves with realistic heat, smoke, embers, illumination, and pressure.
-- Projectile is concentrated flame, not a physical arrow.
-- No bow, bowstring, energy beam, detached arrowhead, or glowing anime effects.
-- Grounded VFX integrated into live-action photography.
-- Every action directly causes the next event.
-- Continuous escalation, zero dead frames.
-
-CAMERA
-
-Cinematic live-action camera. Medium shots, aggressive push-ins, target close-ups, and aerial disaster coverage. Natural motion blur, realistic shake, and physical camera reactions. No floating virtual camera.
-
-ENVIRONMENT
-
-Destroyed urban city street with realistic debris, smoke, dust, damaged structures, and large-scale destruction. Photorealistic live-action environment.
-
-AUDIO
-
-Raw cinematic ambience only. Fire, wind pressure, debris, structural collapse, shockwave, impact, and destruction sounds.
-
-NO MUSIC. #higgsfield
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-pace-continuous-tension-and-escalation-zero-pauses-maximum-buildup-into-cata-4f6c927ebd3f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Three Children Search for a Mysterious Station Beneath the Snow
-
-> A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
-
-[<img src="https://media.goodcase.ai/cases/79e519115cd2.jpg" width="600" alt="Three Children Search for a Mysterious Station Beneath the Snow">](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2099820658880548879) | **公開日:** 2026-09-15 | **ヒート:** 78
-
-**安定度:** 82/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 81.5) · [出力](https://media.goodcase.ai/retests/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（35 行、クリックで展開）</b></summary>
-
-```
-A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise.
-
-Seedance 2.5 on @SJinn_Agent 
-
-Prompt
-
-A 30-second cinematic third-person open-world game trailer in a photorealistic Japanese animated-film aesthetic, blending hand-painted winter fantasy, luminous skies, and modern AAA game presentation.
-
-A snowbound mountain village in late January. Three elementary-school children: a boy in a red knit cap, cream winter jacket, navy snow pants, and blue backpack as the player character; a boy in a green puffer vest and wool scarf; and a girl with a ponytail, lavender coat, pink backpack, and knitted mittens.
-
-Soft blue winter light, sparkling snow crystals, visible breath, drifting powder, warm window glow, distant mountain peaks, frozen streams, and quiet snowfall. Always keep a GTA-style HUD: top-left snowflake icon + green/blue stamina and warmth bars, top-center objective banner in Japanese, top-right date/time (1月27日), bottom-left circular mini-map with player arrow, bottom-right context button prompts (走る / 調べる / のぼる / ライト). Smooth tracking camera behind the player, slight handheld game-feel, 24fps cinematic motion, high-fidelity skin, wool, snow, ice, wood, and foliage.
-
-Sequence:
-
-0–4s: Snow-covered mountain village street between wooden houses, glowing paper windows, stacked firewood, snow-covered roofs, and tall cedar trees. The player boy races downhill on a wooden sled while another child speeds ahead, kicking up powder. The girl waves from the roadside. They pass a small shrine gate half-buried in snow as the camera sweeps toward a vast frozen valley. Objective: 「雪山のてっぺんまで競争！」 Time 10:24.
-
-5–8s: Cut to a frozen waterfall deep in a cedar forest. Massive blue ice columns hang over a crystal-clear pool, with tiny trapped bubbles beneath the surface. The player stands on slippery rocks, peering into the ice. A strange warm glow moves behind the frozen waterfall, and a question-mark prompt appears. Objective: 「凍った滝の秘密を探せ」 Time 14:10. Camera glides close to the ice, briefly dipping beneath the translucent frozen pool as a mysterious shadow passes below.
-
-9–12s: Secret treehouse base built inside an enormous snow-covered cedar overlooking the village and mountain slopes. Inside, a glowing kotatsu, steaming mugs of cocoa, folded blankets, paper snow maps, and small lanterns create a cozy refuge. The player climbs a wooden ladder while the two friends sit around a hand-drawn map. A glowing red “?” marks an impossible railway line leading to a station that does not appear on any village map. Objective: 「秘密基地をあたためよう」 Time 16:32.
-
-13–17s: Blue-hour winter festival in the village square. Snow lanterns line the paths, children carry warm taiyaki, a small yakiimo stall sends smoke into the cold air, and distant taiko drums echo between the mountains. The three children race through the falling snow, then stop at an old wooden sign reading 「この先、存在しない駅」 pointing toward a closed mountain trail. Far above, a faint train whistle sounds through the clouds. Objective: 「存在しない駅への道を探そう」 Time 19:15.
-
-18–23s: Night. Abandoned railway platform hidden in a narrow mountain pass. Rusted rails disappear beneath snowdrifts, a broken sign reads 「立入禁止」, and the moon shines over silent pine trees. The three children approach cautiously. The player switches on a flashlight; its beam cuts through falling snow and mist. At the end of the tracks, a warm amber platform light flickers where no station should be. A distant train bell rings once. Objective: 「夜の線路を追え」 Time 20:08. Quiet, mysterious, and slightly eerie, but wholesome and magical rather than frightening.
-
-24–27s: Dawn at a high mountain overlook. The children stand beside a snow-covered signal tower as golden sunlight breaks across the peaks. The snow suddenly shifts, revealing the roof of an entire buried railway station beneath the mountain. An old station clock begins ticking. A notification appears: 「雪の下の駅を発見！」 Time 05:12. Location: 雪見ヶ峰.
-
-28–30s: Title card over the same sunrise mountain valley, with the newly revealed station glowing beneath the snow:
-
-ぼくらの冬休み
-
-— 雪の下の駅 —
-
-小さな字幕: 冬休みは、まだ終わらない。
-
-Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an impossible railway mystery that never becomes horror. Audio: excited Japanese children’s chatter, sled runners scraping over snow, wind through cedar trees, distant taiko drums, soft train bells, crackling firewood, gentle piano and strings swelling during the buried-station reveal. No violence, no adult characters in focus.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Summer Evening DV Walk Through a Seoul Neighborhood Market
-
-> Real life has never looked this AI. Seedance 2.5 on @DomoAI_ Prompt Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean …
-
-[<img src="https://media.goodcase.ai/cases/db97afc7f01a.jpg" width="600" alt="A Summer Evening DV Walk Through a Seoul Neighborhood Market">](https://goodcase.ai/cases/seedance-real-life-has-never-looked-this-ai-64d1dedc739f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2098373444010443011) | **公開日:** 2026-09-11 | **ヒート:** 78
-
-**安定度:** 77/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 76.7) · [出力](https://media.goodcase.ai/retests/seedance-real-life-has-never-looked-this-ai-64d1dedc739f/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（143 行、クリックで展開）</b></summary>
-
-```
-Real life has never looked this AI.
-
-Seedance 2.5 on @DomoAI_ 
-
-Prompt
-
-Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having a spontaneous summer evening around a quiet neighborhood market in Seoul.
-
-SUBJECT
-
-Young Korean woman, early 20s, naturally pretty, realistic skin, minimal makeup, relaxed expressions. Straight dark-brown shoulder-length hair, loose with a black headband and a few messy strands.
-
-Outfit: dusty-rose fitted T-shirt, dark-indigo jeans, white canvas sneakers, cream canvas shoulder bag, thin silver necklace.
-
-Keep her face, hair, outfit, body proportions, and accessories identical throughout the entire video.
-
-SETTING
-
-An older Seoul neighborhood during a warm summer evening. Narrow streets connected to a small local market, aging low-rise buildings, faded painted walls, metal shutters, parked scooters, bicycles, potted plants, handwritten-looking shop signs without readable branding, utility poles, overhead wires, plastic stools, small street vendors, and residential entrances.
-
-The area feels lived-in and ordinary rather than picturesque. A few local residents move naturally through the background. Warm sunlight is beginning to fade into early evening.
-
-No brands, logos, advertisements, tourist landmarks, modern luxury buildings, polished streets, or commercial-looking locations.
-
-CAMERA STYLE
-
-Cheap early-2000s consumer DV camcorder footage recorded casually by a friend.
-
-Strong handheld shake, imperfect framing, occasional focus hunting, exposure shifts when moving between sunlight and shadow, soft digital detail, slightly faded colors, mild tape noise, subtle compression artifacts, motion blur, accidental zooms, awkward reframing, and natural camera movement.
-
-The camera should feel like a friend casually recording the moment rather than a professional filming a scene.
-
-No stabilization, gimbal movement, drone shots, cinematic camera choreography, cinematic lighting, shallow-depth-of-field commercial shots, or polished color grading.
-
-TIMELINE
-
-00:00–00:06 — LEAVING THE BUILDING
-
-She steps out through an old residential entrance carrying her cream canvas shoulder bag.
-
-She pauses beside a parked bicycle and checks the time on a small wristwatch. She notices the camera pointing at her and gives the camera operator an amused look.
-
-She says:
-
-“Are you filming me again?”
-
-The camera moves closer slightly. She shakes her head with a small laugh and starts walking toward the neighborhood market.
-
-00:06–00:12 — SMALL MARKET
-
-She walks past a tiny neighborhood fruit stand and notices a colorful pile of peaches.
-
-She stops, picks up one peach, looks at it, then looks directly at the camera.
-
-She says:
-
-“Should I get this?”
-
-The camera operator responds naturally from behind the camera:
-
-“Definitely.”
-
-She laughs quietly, buys one, and takes a bite while continuing down the street.
-
-00:12–00:18 — SUMMER MOMENT
-
-She reaches a small side street lined with old apartment walls and potted plants.
-
-A sudden warm breeze moves the leaves and pushes loose strands of her hair across her face.
-
-She tries to fix her hair while still holding the peach.
-
-A bicycle passes behind her.
-
-She looks toward the bicycle, then back at the camera and says jokingly:
-
-“Okay, that was almost dangerous.”
-
-She laughs naturally.
-
-00:18–00:24 — STREET CORNER
-
-She reaches a small neighborhood corner with a public bench beside an old concrete wall.
-
-She sits down for a moment and drinks water from a bottle taken from her shoulder bag.
-
-In the background, an older resident slowly sweeps the pavement while another person carries groceries toward an apartment entrance.
-
-She watches the street quietly for a few seconds.
-
-The camera operator asks:
-
-“Tired?”
-
-She looks toward the camera with a relaxed smile and replies:
-
-“A little.”
-
-She takes another sip of water and smiles.
-
-00:24–00:30 — HEADING BACK
-
-She stands up, brushes a small piece of dust from her jeans, adjusts the cream canvas shoulder bag across her shoulder, and starts walking back toward the residential buildings.
-
-The camera follows from behind with imperfect handheld movement.
-
-After a few steps, she turns around while walking backward and looks directly into the camera.
-
-She smiles and says:
-
-“Hurry up.”
-
-She turns forward and continues walking.
-
-The camera follows her for another moment before the footage abruptly cuts to black.
-
-AUDIO
-
-Natural location sound only.
-
-Footsteps on concrete, distant traffic, bicycle wheels, birds, summer insects, leaves moving in the breeze, neighborhood market ambience, faint conversations, a distant scooter, plastic bags rustling, street sweeping, water bottle sounds, natural laughter, and subtle camcorder handling noise.
-
-Dialogue should sound spontaneous and conversational, with natural pauses and imperfect timing.
-
-No music, narration, subtitles, captions, translations, logos, watermarks, or on-screen text.
-
-REALISM & CONTINUITY
-
-Maintain strict character continuity throughout all shots.
-
-Her face, hairstyle, black headband, dusty-rose T-shirt, dark-indigo jeans, white canvas sneakers, cream canvas shoulder bag, silver necklace, body proportions, and overall appearance must remain identical from beginning to end.
-
-Natural human reactions and imperfect timing.
-
-Background pedestrians should move naturally and remain physically consistent.
-
-Objects must not disappear, duplicate, teleport, or change position unnaturally.
-
-No duplicated people, disappearing objects, distorted faces, warped bodies, broken hands, extra fingers, plastic skin, CGI appearance, identity drift, hairstyle changes, outfit changes, accessory changes, exaggerated acting, unrealistic facial expressions, or overly cinematic footage.
-
-The final result should feel like a genuine forgotten home-video recording from the early 2000s rather than a modern cinematic recreation.
-
-16:9 aspect ratio, 1080p, 30 seconds. #DomoAI #DomoAICPP
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-real-life-has-never-looked-this-ai-64d1dedc739f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Golden Hour Mountain Fashion Film, Low Angle
-
-> Golden hour. Frozen peaks. She walked like the mountain belonged to her. Made with seedance 2.5 Prompt: Cinematic fashion film still, low-angle shot of a beauti…
-
-[<img src="https://media.goodcase.ai/cases/9084b0f25038.jpg" width="600" alt="Golden Hour Mountain Fashion Film, Low Angle">](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorlewisx | **出典:** [元投稿](https://x.com/noorlewisx/status/2096826123330138410) | **公開日:** 2026-09-07 | **ヒート:** 78
-
-**安定度:** 78/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 77.5) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Cinematic fashion film still, low-angle shot of a beautiful young woman with wavy dirty-blonde hair and brown eyes walking toward camera on a sunlit snowy alpine mountain slope at golden hour. She wears an oversized cream faux-fur coat over a white ribbed crop top and matching white shorts, white fuzzy ski boots and white gloves. She carries a pair of sleek white skis with black bindings slung over one shoulder. Sparkling crystalline snow in extreme foreground with shallow depth of field and bokeh, snow-capped peaks and clear blue-to-dusk sky in background, dramatic rim lighting, high-fashion editorial photography, 35mm film grain, ultra-realistic, photorealistic, 8k
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-fashion-film-still-low-angle-shot-of-a-beautiful-young-woman-with-wa-fac7693b54a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Video Continuation Test Beyond Frame One
-
-> Making a video file longer is easy. Creating meaningful new content after the final frame is the difficult part. CapCut
-
-[<img src="https://media.goodcase.ai/cases/5e5021568098.jpg" width="600" alt="Seedance 2.5 Video Continuation Test Beyond Frame One">](https://goodcase.ai/cases/lexers-seedance-ai-7040e9b2e90e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @_lexers | **出典:** [元投稿](https://x.com/_lexers/status/2089734616890360165) | **公開日:** 2026-08-18 | **ヒート:** 78
-
-**安定度:** 67/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 66.8) · [出力](https://media.goodcase.ai/retests/lexers-seedance-ai-7040e9b2e90e/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
-
-```
-Making a video file longer is easy. Creating meaningful new content after the final frame is the difficult part.
-
-CapCut Seedance 2.5 1080p is now live.
-
-Start with AI Image for batch-generated references and AI Video for the core scene. A loop only repeats information, and interpolation only creates frames between existing moments. AI Extend in CapCut PC can generate what happens next—or what should have happened before—with prompt control.
-
-Use AI Edit for a local flaw, Edit Pilot for repeated adjustments, and the multi-track timeline for dialogue, captions, music and export.
-
-#CapCutPC #AIVideoEditor #CapCutSeedance25 #Seedance251080p
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/lexers-seedance-ai-7040e9b2e90e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Self vs Self: Sharon Fights Sharon
-
-> Sharon fighting other Sharon Seedance 2.5 on @DomoAI_ prompt Image : SHARON'S REAL FACE — sole source of her features, 1
-
-[<img src="https://media.goodcase.ai/cases/8ca3ebd21bfe.jpg" width="600" alt="Seedance 2.5 Self vs Self: Sharon Fights Sharon">](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2088878042034868640) | **公開日:** 2026-08-16 | **ヒート:** 78
-
-<details>
-<summary><b>プロンプト全文（70 行、クリックで展開）</b></summary>
-
-```
-Sharon fighting other Sharon 
-
-Seedance 2.5 on @DomoAI_ 
-
-prompt
-
-Image : SHARON'S REAL FACE — sole source of her features, 100% match, zero drift: soft rounded oval face, warm light-beige skin with tiny freckles and beauty marks, GREEN eyes, dense straight feathered brows, small neat nose, full pink lips, small silver drop earring. 
-
-image Image 
-STYLE / PRIORITY
-
-Ultra-photorealistic live-action AAA Hollywood action film, ARRI ALEXA 65, IMAX, Panavision anamorphic, premium restrained semi-CGI VFX. Realistic anatomy, weight, gravity, momentum, and authentic Taekwondo biomechanics. One continuous uninterrupted 10-second combat shot, 16:9.
-
-**CHARACTERS**
-
-Image = FIGHTER. @Image2 = ENEMY. Preserve both references exactly: face, facial anatomy, eyes, hairstyle, physique, proportions, clothing, accessories, silhouette, identity. If references are sketches, use only as design blueprints; render as fully realistic live-action humans. Maintain consistency throughout.
-
-**COMBAT**
-
-Hand-to-hand only, no weapons. Both fighters remain aggressive and reactive. No passive waiting, idle stance, reset, teleportation, or position jumps.
-
-**00:00–00:02 — OPENING EXCHANGE**
-
-Start mid-fight. Image2 attacks: straight punch → hook → low kick. Image parries → slips under hook → checks low kick → immediately counters with fast body kick. Image2 blocks and is pushed backward. Both instantly reposition. Low-angle camera rapidly circles them.
-
-**00:02–00:03 — OPENING**
-
-she attacks again. Image1 narrowly sidesteps, pivots outside the attack angle, and @Image2 turns toward him, briefly exposing the torso. @Image1 explosively accelerates forward. Camera drops toward the feet. Supporting foot plants and hip rotation begins.
-
-**00:03–00:04.5 — CYCLONE 1**
-
-**DOLLYO CHAGI:** natural supporting-foot pivot, hip and torso rotation, kicking leg extends into Image2's torso. Realistic displacement, clothing compression and dust. 0.20s hyper slow motion only at impact, then instantly full speed. Landing immediately feeds the next rotation—NO RESET.
-
-**00:04.5–00:06 — CYCLONE 2**
-
-**TORNADO KICK:** landing momentum converts directly into explosive pivot and airborne rotation. Full-body rotation, kicking leg strikes Image2, driving him sideways. Camera rapidly orbits the airborne Fighter. Natural landing preserves rotational momentum. NO RESET.
-
-**00:06–00:07.5 — CYCLONE 3**
-
-**DWI HURRYEO CHAGI:** immediate continuous rotation. Hips and shoulders rotate together; heel/back of foot follows a clean circular trajectory and connects. Image2 is redirected sideways. 0.20s hyper slow motion at impact, dust/debris briefly suspended, heavy THOOM, then full speed. Rotation continues.
-
-**00:07.5–00:08.5 — CYCLONE 4**
-
-**SPINNING HEEL KICK:** no stance reset. Supporting foot establishes axis, rapid hip/torso rotation, heel travels circularly through Image2's raised guard and connects. Image2 is driven backward. Camera performs a fast 270° orbit. Image1 keeps rotating after impact.
-
-**00:08.5–00:10 — FINAL CYCLONE**
-
-**FINAL TORNADO KICK — STRONGEST IMPACT.** Maximum rotational acceleration, explosive ground push, vertical lift, rapid airborne rotation. Camera drops low then rises with Image Final kick connects with maximum physical force. 0.25s hyper slow motion, extreme close-up showing foot contact, clothing compression, natural facial reaction, dust/debris and camera recoil, then THOOOOOM and immediate full speed. Image2 is violently displaced backward across the arena. Image lands naturally and continues moving forward. No hero pose, no victory pose, no freeze.
-
-**ROTATIONAL MOMENTUM LOCK**
-
-The five techniques must function as ONE connected sequence:
-
-**DOLLYO CHAGI → LAND → TORNADO KICK → LAND → DWI HURRYEO CHAGI → SPINNING HEEL KICK → FINAL TORNADO KICK.**
-
-Never kick → stop → stance → kick. Always kick → momentum → rotation → kick → momentum → rotation → kick.
-
-**PHYSICS / CAMERA**
-
-Every movement is physically traveled through: footwork, pivots, hip rotation, torso rotation, leg acceleration, jump force and rotational momentum. Image2 reacts naturally according to impact direction; no exaggerated ragdoll or floating. Camera constantly chases the fighters using low-angle tracking, ground pursuit, lateral/reverse tracking, fast orbit, whip-pans, snap-reframes, impact jolts, rapid push-ins and low-angle aerial follow. Aggressive movement but each kick remains clearly readable. No excessive motion blur or camera shake.
-
-**ENVIRONMENT / VFX / AUDIO**
-
-Large cinematic outdoor combat arena with realistic ground, dust, small debris and detailed environmental depth; never an empty studio. Restrained photorealistic VFX: dust, debris, air displacement, natural motion streaks only. No aura, energy, glow or magic. No music. Realistic footsteps, shoe friction, punches, kicks, cloth movement, air whooshes, dust, body impacts and heavy final THOOM.
-
-**NEGATIVE**
-
-Teleportation, clones, duplicates, extra/missing limbs, malformed anatomy, broken joints, rubber/stretching limbs, disconnected body parts, impossible spine rotation, floating, weightless movement, random position jumps, kick-stop-kick, attack-wait-attack, idle pose, static/locked/gameplay camera, excessive shake, excessive motion blur, prolonged slow motion, unreadable action, looping animation, repeated identical kicks, giant aura, energy beams, magical powers, glowing body, cartoon, cel shading, videogame graphics, gore, blood, subtitles, text, logo, watermark, freeze frame, hero pose, victory pose, fade-out.
-
-**HIGHEST PRIORITY:** Hand-to-hand Taekwondo combat. Image = Fighter, Image2 = Enemy. Continuous realistic biomechanics. DOLLYO CHAGI → TORNADO KICK → DWI HURRYEO CHAGI → SPINNING HEEL KICK → FINAL TORNADO KICK, with zero idle, zero reset, zero teleportation, continuous rotational momentum, realistic enemy reactions, constantly moving camera, micro slow-motion only on decisive impacts, strongest final impact, and no hero pose.16:9.16:9.16:9.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)

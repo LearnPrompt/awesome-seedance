@@ -193,7 +193,7 @@ She looks toward
 
 ## E5 · A Korean Girl’s Early-2000s Birthday Celebration
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 94
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 93
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691) · [finished media](https://media.goodcase.ai/cases/1ef7dd97de52.mp4) · [poster](https://media.goodcase.ai/cases/4f746779db27.jpg) · [original source](https://x.com/saniaspeaks_/status/2105146792681832481)
 - Summary: A birthday worth remembering 🎂 Generated with seedance 2.5 Prompt Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s…
 

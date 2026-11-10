@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 1/9）
 
-Seedance 2.5 の全 712 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 728 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 712 件中 1–86 件目。
+このページ: 728 件中 1–84 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
 
@@ -423,6 +423,41 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Woman Hides in a Dungeon to Protect Three Dragon Hatchlings
+
+> She hid 3 dragon babies from everyone... but he was already at the door 🐉🐉🐉🔥 Dark Fantasy • A Mother's Sacrifice • Danger Is Coming 😭⚔️ 🎬 Made With Seedan…
+
+[<img src="https://media.goodcase.ai/cases/cda25299498a.jpg" width="600" alt="A Woman Hides in a Dungeon to Protect Three Dragon Hatchlings">](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Adnan_Ai2 | **出典:** [元投稿](https://x.com/Adnan_Ai2/status/2113945930185732358) | **公開日:** 2026-10-24 | **ヒート:** 97
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+**Long / Detailed Prompt:**
+
+A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen format, continuing directly from the earlier cave-birth and bonding story with full character and tonal continuity. Moody low-key lighting throughout, deep cold-blue tones contrasted sharply against warm amber torch and firelight, photorealistic non-cartoonish creature texture work, handheld intimate camera movement, prestige dark-fantasy television visual quality, 24fps cinematic film grain.
+
+**Scene 1 (0–10s):** Inside a vast glowing ice cave, walls shimmering with deep blue bioluminescent light reflecting off frozen crystalline formations. On the icy cave floor, three baby dragons huddle close together for warmth — one with frost-blue scales, sharp little horns, and piercing blue eyes; one pure white with crystalline, feather-like frills and pale grey-blue eyes; and one soft pink-toned with warm coral fins and large amber eyes. A woman's scarred, bandaged hand slowly reaches into frame, palm open, as the dragons lean curiously toward it, sniffing and nuzzling her fingers with cautious trust. Wide shot establishes the vast, cold, otherworldly isolation of the ice cave.
+
+**Scene 2 (10–20s):** Close-up, emotionally raw shot of the young woman — long dark wavy hair damp and disheveled, wrapped in a thick, heavy fur cloak — her face streaked with tears and dirt, eyes closed in anguish. She presses her forehead gently against the huddled trio of baby dragons, pulling all three into a tight, desperate embrace against her chest. A visible wound bleeds along her forearm, blood smeared on her hands and the dragons' scales, hinting at a recent struggle or sacrifice to protect them. Her expression carries a mixture of exhaustion, grief, and fierce, unwavering maternal protectiveness.
+
+**Scene 3 (20–28s):** A quieter, tender beat — inside a dim hidden nest made of piled hay and straw, the three baby dragons poke their heads out side by side in a neat row, their large reflective eyes blinking in the low light, ears/frills perked with alertness as if sensing an approaching threat. Shallow depth of field keeps focus tightly on their expressive faces, background falling into soft shadow.
+
+**Scene 4 (28–38s):** Setting shifts to a dim, damp stone dungeon or underground cellar, pale light filtering through a small barred window high on the wall. The woman kneels low on the cold stone floor, her fur cloak draped protectively over her shoulders and partially covering the three dragons huddled behind and beneath her. She glances anxiously toward the doorway, body angled to shield the creatures from view, every muscle tense with the instinct to protect at any cost.
+
+**Scene 5 (38–45s):** Intimate close-up — she gently cradles the pink baby dragon in both arms, rocking it slightly to keep it calm and quiet as its small mouth opens in a near-silent chirp or whimper. Her face is soft with tenderness toward the creature but tight with fear of discovery, eyes darting toward unseen danger beyond the frame.
+
+**Scene 6 (45–55s):** Hard cut to a shadowy stone corridor elsewhere in the same fortress/castle. A stern, heavyset older man dressed in dark, heavy medieval robes strides purposefully down the corridor, a large lit torch held firmly in one hand, flames casting flickering, dangerous light across ancient carved stone walls. His expression is grim, suspicious, and resolute as he approaches a heavy iron-banded wooden door — the entrance to the dungeon where the woman and dragons are hiding. Low-angle, slightly ominous camera framing builds mounting dread and tension, the gap between pursuer and protector closing with every step.
+
+**Overall tone and continuity:** A visceral, high-stakes escalation of the established dark-fantasy saga — shifting from tender nurturing (birth, feeding, warmth) toward active danger and sacrifice, as the same woman now harbors not one but three dragon hatchlings and must risk everything to keep them hidden from a clearly hostile authority figure. Visual and character continuity fully maintained: same actress/character design, same practical-effect creature rendering (wet-look skin on younger dragons, fine scale and frill texture, anatomically grounded proportions), same desaturated cold-exterior/warm-interior lighting philosophy established in prior installments. Sound design implied: distant echoing footsteps, crackling torch flame, soft dragon chirps, the woman's held breath. Aspect ratio 16:9, prestige-drama cinematography, emotionally driven pacing building toward confrontation.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### An Afternoon in a Hammock and Washing a Motorcycle
 
 > Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
@@ -461,41 +496,6 @@ Format: 16:9.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Woman Hides in a Dungeon to Protect Three Dragon Hatchlings
-
-> She hid 3 dragon babies from everyone... but he was already at the door 🐉🐉🐉🔥 Dark Fantasy • A Mother's Sacrifice • Danger Is Coming 😭⚔️ 🎬 Made With Seedan…
-
-[<img src="https://media.goodcase.ai/cases/cda25299498a.jpg" width="600" alt="A Woman Hides in a Dungeon to Protect Three Dragon Hatchlings">](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Adnan_Ai2 | **出典:** [元投稿](https://x.com/Adnan_Ai2/status/2113945930185732358) | **公開日:** 2026-10-24 | **ヒート:** 96
-
-<details>
-<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
-
-```
-**Long / Detailed Prompt:**
-
-A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen format, continuing directly from the earlier cave-birth and bonding story with full character and tonal continuity. Moody low-key lighting throughout, deep cold-blue tones contrasted sharply against warm amber torch and firelight, photorealistic non-cartoonish creature texture work, handheld intimate camera movement, prestige dark-fantasy television visual quality, 24fps cinematic film grain.
-
-**Scene 1 (0–10s):** Inside a vast glowing ice cave, walls shimmering with deep blue bioluminescent light reflecting off frozen crystalline formations. On the icy cave floor, three baby dragons huddle close together for warmth — one with frost-blue scales, sharp little horns, and piercing blue eyes; one pure white with crystalline, feather-like frills and pale grey-blue eyes; and one soft pink-toned with warm coral fins and large amber eyes. A woman's scarred, bandaged hand slowly reaches into frame, palm open, as the dragons lean curiously toward it, sniffing and nuzzling her fingers with cautious trust. Wide shot establishes the vast, cold, otherworldly isolation of the ice cave.
-
-**Scene 2 (10–20s):** Close-up, emotionally raw shot of the young woman — long dark wavy hair damp and disheveled, wrapped in a thick, heavy fur cloak — her face streaked with tears and dirt, eyes closed in anguish. She presses her forehead gently against the huddled trio of baby dragons, pulling all three into a tight, desperate embrace against her chest. A visible wound bleeds along her forearm, blood smeared on her hands and the dragons' scales, hinting at a recent struggle or sacrifice to protect them. Her expression carries a mixture of exhaustion, grief, and fierce, unwavering maternal protectiveness.
-
-**Scene 3 (20–28s):** A quieter, tender beat — inside a dim hidden nest made of piled hay and straw, the three baby dragons poke their heads out side by side in a neat row, their large reflective eyes blinking in the low light, ears/frills perked with alertness as if sensing an approaching threat. Shallow depth of field keeps focus tightly on their expressive faces, background falling into soft shadow.
-
-**Scene 4 (28–38s):** Setting shifts to a dim, damp stone dungeon or underground cellar, pale light filtering through a small barred window high on the wall. The woman kneels low on the cold stone floor, her fur cloak draped protectively over her shoulders and partially covering the three dragons huddled behind and beneath her. She glances anxiously toward the doorway, body angled to shield the creatures from view, every muscle tense with the instinct to protect at any cost.
-
-**Scene 5 (38–45s):** Intimate close-up — she gently cradles the pink baby dragon in both arms, rocking it slightly to keep it calm and quiet as its small mouth opens in a near-silent chirp or whimper. Her face is soft with tenderness toward the creature but tight with fear of discovery, eyes darting toward unseen danger beyond the frame.
-
-**Scene 6 (45–55s):** Hard cut to a shadowy stone corridor elsewhere in the same fortress/castle. A stern, heavyset older man dressed in dark, heavy medieval robes strides purposefully down the corridor, a large lit torch held firmly in one hand, flames casting flickering, dangerous light across ancient carved stone walls. His expression is grim, suspicious, and resolute as he approaches a heavy iron-banded wooden door — the entrance to the dungeon where the woman and dragons are hiding. Low-angle, slightly ominous camera framing builds mounting dread and tension, the gap between pursuer and protector closing with every step.
-
-**Overall tone and continuity:** A visceral, high-stakes escalation of the established dark-fantasy saga — shifting from tender nurturing (birth, feeding, warmth) toward active danger and sacrifice, as the same woman now harbors not one but three dragon hatchlings and must risk everything to keep them hidden from a clearly hostile authority figure. Visual and character continuity fully maintained: same actress/character design, same practical-effect creature rendering (wet-look skin on younger dragons, fine scale and frill texture, anatomically grounded proportions), same desaturated cold-exterior/warm-interior lighting philosophy established in prior installments. Sound design implied: distant echoing footsteps, crackling torch flame, soft dragon chirps, the woman's held breath. Aspect ratio 16:9, prestige-drama cinematography, emotionally driven pacing building toward confrontation.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman Fights Three Men in a Restaurant Kitchen
 
@@ -871,6 +871,57 @@ She laughs, loses her rhythm for a second, then continues.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Security Guard and Survivors in a Mall Zombie Outbreak
+
+> A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
+
+[<img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="600" alt="Security Guard and Survivors in a Mall Zombie Outbreak">](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @auqibhabib | **出典:** [元投稿](https://x.com/auqibhabib/status/2104107269206237325) | **公開日:** 2026-09-27 | **ヒート:** 95
+
+**安定度:** 72/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 72.2) · [出力](https://media.goodcase.ai/retests/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（29 行、クリックで展開）</b></summary>
+
+```
+Create a photorealistic live action horror short film set inside a busy modern shopping mall during normal operating hours. The scene must feel like a real emergency captured by a human handheld camera operator, not a choreographed action movie. Prioritize realistic human behavior, believable physics, natural body movement, consistent character appearance, spatial continuity, practical effects and authentic environmental detail.
+
+MAIN CHARACTER: A male mall security guard in his late 30s wearing a realistic dark security uniform and carrying a radio. Keep his face, clothing, body proportions and equipment identical throughout the entire video.
+
+SURVIVORS: A small group of ordinary shoppers with realistic clothing and consistent appearances. Their faces, clothing and body proportions must remain unchanged throughout the sequence.
+
+0–4 SECONDS:
+Begin immediately in the food court with shoppers eating and walking normally. Without warning, an infected man suddenly attacks a nearby shopper. The attack is chaotic and physically messy rather than theatrical. The victim falls against a table, knocking over food and drinks. Nearby shoppers freeze for a moment because they do not understand what is happening.
+
+4–8 SECONDS:
+Several shoppers back away. One person briefly tries to help before realizing the attacker is dangerous. Chairs scrape across the floor as people retreat. The security guard hears the disturbance and runs toward the food court. His reaction is confused and concerned, not heroic.
+
+8–12 SECONDS:
+The infected attacker suddenly rushes toward another shopper. The crowd finally realizes something is seriously wrong. Panic spreads naturally. People run in different directions instead of moving together. Some hide behind storefronts while others run toward exits. Shopping bags and personal belongings fall naturally as people flee.
+
+12–16 SECONDS:
+The security guard reaches the food court and sees two infected people approaching. He grabs a nearby metal crowd-control barrier for protection. He initially backs away while watching them. One infected suddenly charges. The guard swings the barrier defensively and knocks the attacker off balance. The movement must look heavy, awkward and physically difficult, never like professional choreography.
+
+16–20 SECONDS:
+A few shoppers help each other retreat behind a storefront entrance. One person pulls an injured shopper away from the food court. Nobody performs exaggerated combat moves. The guard keeps backing toward the survivors while maintaining distance from the infected.
+
+20–24 SECONDS:
+One infected suddenly charges again. The guard sidesteps at the last moment. The infected crashes into the glass railing from its own momentum. The glass cracks realistically but does not explode into an unrealistic shower of fragments. The guard immediately moves the survivors farther away.
+
+24–27 SECONDS:
+The survivors move together toward a partially closed storefront. The guard stays behind them and keeps watching the infected. Distant screaming comes from another section of the mall, suggesting the outbreak is larger than what the camera has witnessed without showing an unnecessary crowd of zombies.
+
+27–30 SECONDS:
+The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Day Buying Bread and Cotton Candy in Old Seoul
 
 > Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
@@ -1011,57 +1062,6 @@ NEGATIVE: plastic skin, fake tears, exaggerated crying, cartoon expressions, mel
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance Native UGC Vertical Phone Follow-Cam Short
-
-> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
-
-[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance Native UGC Vertical Phone Follow-Cam Short">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @mightyking | **出典:** [元投稿](https://x.com/mightyking/status/2089299068514148655) | **公開日:** 2026-08-17 | **ヒート:** 95
-
-**安定度:** 71/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 71.2) · [出力](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（29 行、クリックで展開）</b></summary>
-
-```
-Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
-
-Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
-
-Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
-
-[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
-
-[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
-
-[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
-
-[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
-
-[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
-
-[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
-
-[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
-
-[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
-
-[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
-
-[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
-
-Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
-
-Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
 
 > @cnyzgkc reveals that an AI live wallpaper video with 290K views was made with Seedance 2.5, improving on a prompt from @johnAGI168. A 29-second fixed-camera scene: a woman on a black leather sofa changes into three campus outfits on off-screen male voice commands in one take.
@@ -1156,105 +1156,6 @@ SINGLE CONTINUOUS SHOT（00:00-00:29）
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Korean Girl’s Early-2000s Birthday Celebration
-
-> A birthday worth remembering 🎂 Generated with seedance 2.5 Prompt Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s…
-
-[<img src="https://media.goodcase.ai/cases/4f746779db27.jpg" width="600" alt="A Korean Girl’s Early-2000s Birthday Celebration">](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2105146792681832481) | **公開日:** 2026-09-30 | **ヒート:** 94
-
-<details>
-<summary><b>プロンプト全文（30 行、クリックで展開）</b></summary>
-
-```
-A birthday worth remembering 🎂
-
-Generated with seedance 2.5
-
-Prompt
-Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s, filmed casually by a friend on an authentic consumer DV camcorder. It must feel like genuine home-video footage, not a modern video with a retro filter.
-
-EXACT ORDER — 7 SCENES:
-
-0–4s — GETTING READY: The same young Korean birthday girl gets ready in her early-2000s bedroom, fixes her hair, adjusts makeup, picks up her handbag and smiles toward the camera.
-
-4–8s — MEETING FRIENDS: She walks through an authentic Korean neighborhood, meets the same 2–3 friends, they congratulate her and walk together toward a bakery.
-
-8–11s — BAKERY: They enter a small early-2000s Korean bakery, browse cakes and choose one birthday cake.
-
-11–14s — BUYING CAKE: A friend pays with cash. The worker puts the cake into a box and hands it over. The same cake box remains visible as they walk to the café.
-
-14–23s — CAFÉ CELEBRATION: They sit in a cozy early-2000s café. The cake is opened, a candle is lit, everyone sings Happy Birthday, the girl makes a wish and blows it out. They clap and laugh. She then cuts the cake, places pieces on plates, personally gives a piece to each friend, watches them eat, then takes a piece herself. Keep the entire sequence clearly visible and in order.
-
-23–26s — PHOTOS: After eating, they take group photos using a small early-2000s disposable film camera. No smartphones or modern digital cameras. They pose, the shutter clicks and they laugh afterward.
-
-26–30s — EVENING WALK: They leave the café and walk through the same neighborhood as it becomes evening. The girl carries her handbag, a friend carries the empty cake box/bag, and they chat and laugh while the camera follows from behind.
-
-CONTINUITY: Same girl, friends, outfits, hairstyles, handbag and cake throughout. No teleporting, identity drift, outfit changes, disappearing props or reordered actions.
-
-ERA: Everything must look authentically early 2000s Korean—fashion, hair, bakery, café, cars, signs, furniture, cake packaging and technology. No smartphones, AirPods, modern cars, LED screens or contemporary interiors.
-
-CAMERA: Raw consumer DV footage with subtle handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural candid behavior, realistic skin and movement. No cinematic stabilization, 4K sharpness, beauty filters, VHS effects or professional filmmaking.
-
-FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every scene and action clearly shown in the exact requested order.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Security Guard and Survivors in a Mall Zombie Outbreak
-
-> A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
-
-[<img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="600" alt="Security Guard and Survivors in a Mall Zombie Outbreak">](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @auqibhabib | **出典:** [元投稿](https://x.com/auqibhabib/status/2104107269206237325) | **公開日:** 2026-09-27 | **ヒート:** 94
-
-**安定度:** 72/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 72.2) · [出力](https://media.goodcase.ai/retests/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（29 行、クリックで展開）</b></summary>
-
-```
-Create a photorealistic live action horror short film set inside a busy modern shopping mall during normal operating hours. The scene must feel like a real emergency captured by a human handheld camera operator, not a choreographed action movie. Prioritize realistic human behavior, believable physics, natural body movement, consistent character appearance, spatial continuity, practical effects and authentic environmental detail.
-
-MAIN CHARACTER: A male mall security guard in his late 30s wearing a realistic dark security uniform and carrying a radio. Keep his face, clothing, body proportions and equipment identical throughout the entire video.
-
-SURVIVORS: A small group of ordinary shoppers with realistic clothing and consistent appearances. Their faces, clothing and body proportions must remain unchanged throughout the sequence.
-
-0–4 SECONDS:
-Begin immediately in the food court with shoppers eating and walking normally. Without warning, an infected man suddenly attacks a nearby shopper. The attack is chaotic and physically messy rather than theatrical. The victim falls against a table, knocking over food and drinks. Nearby shoppers freeze for a moment because they do not understand what is happening.
-
-4–8 SECONDS:
-Several shoppers back away. One person briefly tries to help before realizing the attacker is dangerous. Chairs scrape across the floor as people retreat. The security guard hears the disturbance and runs toward the food court. His reaction is confused and concerned, not heroic.
-
-8–12 SECONDS:
-The infected attacker suddenly rushes toward another shopper. The crowd finally realizes something is seriously wrong. Panic spreads naturally. People run in different directions instead of moving together. Some hide behind storefronts while others run toward exits. Shopping bags and personal belongings fall naturally as people flee.
-
-12–16 SECONDS:
-The security guard reaches the food court and sees two infected people approaching. He grabs a nearby metal crowd-control barrier for protection. He initially backs away while watching them. One infected suddenly charges. The guard swings the barrier defensively and knocks the attacker off balance. The movement must look heavy, awkward and physically difficult, never like professional choreography.
-
-16–20 SECONDS:
-A few shoppers help each other retreat behind a storefront entrance. One person pulls an injured shopper away from the food court. Nobody performs exaggerated combat moves. The guard keeps backing toward the survivors while maintaining distance from the infected.
-
-20–24 SECONDS:
-One infected suddenly charges again. The guard sidesteps at the last moment. The infected crashes into the glass railing from its own momentum. The glass cracks realistically but does not explode into an unrealistic shower of fragments. The guard immediately moves the survivors farther away.
-
-24–27 SECONDS:
-The survivors move together toward a partially closed storefront. The guard stays behind them and keeps watching the infected. Distant screaming comes from another section of the mall, suggesting the outbreak is larger than what the camera has witnessed without showing an unnecessary crowd of zombies.
-
-27–30 SECONDS:
-The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Grandma Shops the Morning Market with a Tanuki and Sparrow
 
 > Grandma is out here for the shopping with her pet sparrow. Seedance 2.5 on @Flovaai Use my referral link to get offer: https://t.co/l1lPYN3ENF Skill Used: GTA 6…
@@ -1330,6 +1231,57 @@ No text, no subtitles, no logos, no watermark, no distorted faces, no extra fing
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance Native UGC Vertical Phone Follow-Cam Short
+
+> Some people still think AI does't look real - This video just ended the argument Made with Seedance 2.5 1080p on maxfusi
+
+[<img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="600" alt="Seedance Native UGC Vertical Phone Follow-Cam Short">](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @mightyking | **出典:** [元投稿](https://x.com/mightyking/status/2089299068514148655) | **公開日:** 2026-08-17 | **ヒート:** 94
+
+**安定度:** 71/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 劣化 (スコア 71.2) · [出力](https://media.goodcase.ai/retests/mightyking-seedance-ai-7bbc1d4f9ad9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（29 行、クリックで展開）</b></summary>
+
+```
+Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Photoreal Everyday Short of an Indonesian Girl
 
@@ -1415,6 +1367,54 @@ Audio: heavy thuds, bone-crunching punches, glass shattering, wood splintering, 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-gritty-cinematic-photorealistic-20-second-urban-martial-arts-action-scene-i-b893e4da1758?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Korean Girl’s Early-2000s Birthday Celebration
+
+> A birthday worth remembering 🎂 Generated with seedance 2.5 Prompt Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s…
+
+[<img src="https://media.goodcase.ai/cases/4f746779db27.jpg" width="600" alt="A Korean Girl’s Early-2000s Birthday Celebration">](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @saniaspeaks_ | **出典:** [元投稿](https://x.com/saniaspeaks_/status/2105146792681832481) | **公開日:** 2026-09-30 | **ヒート:** 93
+
+<details>
+<summary><b>プロンプト全文（30 行、クリックで展開）</b></summary>
+
+```
+A birthday worth remembering 🎂
+
+Generated with seedance 2.5
+
+Prompt
+Create a 30-second ultra-realistic Korean birthday vlog set in South Korea in the early 2000s, filmed casually by a friend on an authentic consumer DV camcorder. It must feel like genuine home-video footage, not a modern video with a retro filter.
+
+EXACT ORDER — 7 SCENES:
+
+0–4s — GETTING READY: The same young Korean birthday girl gets ready in her early-2000s bedroom, fixes her hair, adjusts makeup, picks up her handbag and smiles toward the camera.
+
+4–8s — MEETING FRIENDS: She walks through an authentic Korean neighborhood, meets the same 2–3 friends, they congratulate her and walk together toward a bakery.
+
+8–11s — BAKERY: They enter a small early-2000s Korean bakery, browse cakes and choose one birthday cake.
+
+11–14s — BUYING CAKE: A friend pays with cash. The worker puts the cake into a box and hands it over. The same cake box remains visible as they walk to the café.
+
+14–23s — CAFÉ CELEBRATION: They sit in a cozy early-2000s café. The cake is opened, a candle is lit, everyone sings Happy Birthday, the girl makes a wish and blows it out. They clap and laugh. She then cuts the cake, places pieces on plates, personally gives a piece to each friend, watches them eat, then takes a piece herself. Keep the entire sequence clearly visible and in order.
+
+23–26s — PHOTOS: After eating, they take group photos using a small early-2000s disposable film camera. No smartphones or modern digital cameras. They pose, the shutter clicks and they laugh afterward.
+
+26–30s — EVENING WALK: They leave the café and walk through the same neighborhood as it becomes evening. The girl carries her handbag, a friend carries the empty cake box/bag, and they chat and laugh while the camera follows from behind.
+
+CONTINUITY: Same girl, friends, outfits, hairstyles, handbag and cake throughout. No teleporting, identity drift, outfit changes, disappearing props or reordered actions.
+
+ERA: Everything must look authentically early 2000s Korean—fashion, hair, bakery, café, cars, signs, furniture, cake packaging and technology. No smartphones, AirPods, modern cars, LED screens or contemporary interiors.
+
+CAMERA: Raw consumer DV footage with subtle handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft digital detail, mild CCD/DV noise, motion blur, compression and occasional awkward zooms. Natural candid behavior, realistic skin and movement. No cinematic stabilization, 4K sharpness, beauty filters, VHS effects or professional filmmaking.
+
+FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every scene and action clearly shown in the exact requested order.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-birthday-worth-remembering-2f852147a691?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Scarf Agent's Showdown in a Dark Classroom
 
@@ -3273,6 +3273,204 @@ No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphi
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 地下停车场格斗 30s
+
+> ChillaiKalan__：地下停车场格斗 30s 完整 Prompt。
+
+[<img src="https://media.goodcase.ai/cases/07e0de2216e3.jpg" width="600" alt="Seedance 2.5 地下停车场格斗 30s">](https://goodcase.ai/cases/seedance-2-5-30s-108892ecead9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ChillaiKalan__ | **出典:** [元投稿](https://x.com/ChillaiKalan__/status/2119303534537822246) | **公開日:** 2026-11-08 | **ヒート:** 89
+
+<details>
+<summary><b>プロンプト全文（180 行、クリックで展開）</b></summary>
+
+```
+THE UNDERGROUND PARKING ENFORCER
+
+30 SECONDS | 9:16 | 4K | 60 FPS
+ULTRA-PHOTOREALISTIC KOREAN ACTION CINEMA
+COMBAT SAMBO × DIRTY BOXING × SAVATE
+6 SHOTS / EXACTLY 5 CUTS
+ONE 0.25S MICRO SLOW-MOTION MOMENT
+
+01 — ABSOLUTE CHARACTER & ENEMY LOCK
+
+Image 1  — BLACK ROSE:
+Preserve the exact reference face, pale natural skin, messy black updo, black fitted clothing, black floral embroidered outerwear, necklaces and heeled lace-up boots. Cold, rebellious tomboy attitude, relaxed half-lidded eyes and restrained arrogant smirk. No face, hair, body or outfit changes.
+
+VICTIM:
+Adult Japanese female motorcycle courier, approximately 26, short dark-brown hair, black riding jacket, dark jeans and motorcycle helmet held in one hand.
+
+EXACTLY THREE ATTACKERS:
+
+A — Tall muscular man, black leather jacket, aggressive leader.
+B — Stocky man, gray bomber jacket, heavy punching style.
+C — Lean man, olive-green jacket, fast grappler.
+
+All three remain individually recognizable. No additional attackers, clones or replacement characters.
+
+02 — FIXED GEOGRAPHY & ENVIRONMENT
+
+Location: Spacious underground parking garage in Tokyo at night.
+
+- SCREEN-LEFT: Black motorcycle and parked black sedan.
+- CENTER: Female courier standing beside her motorcycle.
+- SCREEN-RIGHT: Three attackers confronting her.
+- BACKGROUND: Concrete pillars, overhead fluorescent lights, painted parking lines and a distant exit ramp.
+
+Maintain the same 180-degree camera axis. Never mirror or reverse the geography.
+
+03 — SIX-SHOT ACTION SEQUENCE
+
+SHOT 1 | 0–5S — THE CONFRONTATION
+
+CAMERA: 35mm medium-wide tracking shot from beside the black sedan.
+
+The courier holds her helmet close to her chest. A blocks her path while B and C stand behind him.
+
+VICTIM:
+「通してください。」
+Please let me pass.
+
+A steps closer and knocks her helmet from her hand. It rolls across the concrete.
+
+At SCREEN-LEFT, Image 1 closes the door of the black sedan and looks toward the confrontation.
+
+CUT 1 — ON BLACK ROSE TURNING HER HEAD.
+
+SHOT 2 | 5–10S — THE WARNING
+
+CAMERA: 40mm low three-quarter tracking shot.
+
+Image 1 walks toward the group with a relaxed posture.
+
+BLACK ROSE:
+「三人で一人を囲むの？」
+Three against one?
+
+A turns toward her with an arrogant smile.
+
+A:
+「お前には関係ない。」
+None of your business.
+
+A moves toward her with an aggressive right-hand swing.
+
+BLACK ROSE slips outside his punch, redirects his arm and drives a compact body strike into his torso.
+
+A folds forward and stumbles toward SCREEN-RIGHT.
+
+CUT 2 — ON B CHARGING.
+
+SHOT 3 | 10–15S — THE BOXER
+
+CAMERA: 35mm lateral action tracking.
+
+B launches a committed left hook.
+
+Image 1 ducks underneath, pivots and delivers a sharp knee strike to his midsection, followed by a controlled shove that sends him stumbling backward.
+
+B loses his balance and falls onto the clear concrete.
+
+B IS DOWN — remains down.
+
+C circles toward her from SCREEN-RIGHT.
+
+CUT 3 — ON C REACHING FOR HER SHOULDERS.
+
+SHOT 4 | 15–20S — THE GRAPPLER
+
+CAMERA: 50mm medium close tracking shot.
+
+C attempts a two-handed grab.
+
+Image 1 pivots outside his arms, breaks his grip and uses a shoulder-control rotation to redirect his momentum.
+
+C stumbles into a concrete pillar, rebounds and falls onto the floor.
+
+C IS DOWN — remains down.
+
+A struggles back to his feet in the background.
+
+CUT 4 — ON A'S SECOND ATTACK.
+
+SHOT 5 | 20–25S — THE FINAL COUNTER
+
+CAMERA: 35mm low three-quarter frontal angle.
+
+A rushes toward @Image 1 with a desperate straight punch.
+
+She parries his arm outward, pivots and delivers one explosive spinning back kick into his torso.
+
+ONE 0.25-SECOND MICRO SLOW-MOTION AT CONTACT.
+
+Her boot compresses his jacket. His body moves backward in the direction of the kick.
+
+INSTANT RETURN TO REAL-TIME.
+
+A loses balance and falls onto the open concrete.
+
+A IS DOWN — remains down.
+
+CUT 5 — FOLLOW BLACK ROSE'S TURN TOWARD THE COURIER.
+
+SHOT 6 | 25–30S — THE QUIET ENDING
+
+CAMERA: 35mm slow reverse dolly.
+
+Image 1 adjusts her embroidered outerwear and calmly looks toward the courier.
+
+The courier retrieves her helmet and looks at BLACK ROSE with relief.
+
+VICTIM:
+「助けてくれて、ありがとう。」
+Thank you for helping me.
+
+BLACK ROSE gives a small sideways glance and replies:
+
+「気をつけて。」
+Be careful.
+
+She turns and walks toward the black sedan.
+
+Exactly three attackers remain down in their established positions.
+
+04 — ABSOLUTE CONTINUITY RULES
+
+ENEMY LEDGER:
+A: Stumbles in Shot 2, falls in Shot 5.
+B: Falls in Shot 3.
+C: Falls in Shot 4.
+
+FINAL COUNT: EXACTLY THREE ATTACKERS. All three remain down in Shot 6.
+
+POSITION LOCK:
+B lies near the center-right parking line.
+C lies beside the right-side concrete pillar.
+A lies farther toward the right-side exit lane.
+
+No teleportation, duplicate bodies, disappearing attackers or rearranged positions.
+
+CAMERA AXIS:
+Maintain screen-left / center / screen-right geography throughout. Camera never crosses the 180-degree axis.
+
+CONTACT PHYSICS:
+Every strike requires visible contact, force transfer, realistic recoil and directionally correct balance loss. No floating bodies, instant collapses or impossible movement.
+
+WORLD REACTIONS:
+The victim steps away from the fight and stays safe. The fallen helmet remains on the floor until she retrieves it. Background remains stable.
+
+AUDIO:
+Natural Japanese dialogue, underground ventilation, footsteps, helmet rolling, clothing movement and realistic non-graphic fight impacts. No music.
+
+NEGATIVE:
+Extra attackers, cloned characters, incorrect eyelines, reversed geography, disappearing objects, distorted anatomy, excessive slow motion, blood, gore, weapons, subtitles, text overlays, cartoon physics, abrupt cut
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-30s-108892ecead9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Female Shinobi Summons a Black Dragon to Battle a Temple Demon
 
 > Say Hello to AI and Bye to Hollywood 🔥 🎬 Seedance 2.5 on Higgsfield 🧩 Prompt: The Shadow Dragon Awakens 🐉 Create an ultra-photorealistic Japanese dark fanta…
@@ -3744,6 +3942,146 @@ Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plant
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Couple singing and laughing in a red convertible on the open road
+
+> #ElevenLabsAmbassador Just two hearts, one open road, endless laughter, and a song we'll never stop singing. ❤️🚗☀️ Created with Seedance 2.5 on @ElevenLabs @El…
+
+[<img src="https://media.goodcase.ai/cases/649335dcbac8.jpg" width="600" alt="Couple singing and laughing in a red convertible on the open road">](https://goodcase.ai/cases/seedance-2-5-pacing-moderately-fast-smooth-transitions-energetic-but-not-rushed-5592afeeb633?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithNatalia | **出典:** [元投稿](https://x.com/AIwithNatalia/status/2119757627689431448) | **公開日:** 2026-11-09 | **ヒート:** 87
+
+<details>
+<summary><b>プロンプト全文（122 行、クリックで展開）</b></summary>
+
+```
+"JUST YOU, ME & THE OPEN ROAD" ❤️
+
+Aspect Ratio: 16:9 (Landscape)
+Style: Cinematic, romantic, playful, youthful road-trip montage
+Pacing: Moderately fast, smooth transitions, energetic but not rushed
+Lighting: Warm natural daylight transitioning into golden hour
+Mood: Fun, carefree, romantic, spontaneous and full of chemistry.
+CHARACTER & VEHICLE CONSISTENCY
+Use the provided character sheets of both people and the car as the EXACT visual references throughout the entire video.
+Maintain identical facial features, hairstyles, skin tones, body proportions and outfits.
+Do not change their identities or appearances between shots.
+
+Maintain the exact same car model, color, interior, seats and design.
+
+The car must ALWAYS be a convertible with its roof completely down.
+
+Never introduce a different vehicle.
+Maintain consistent visual details across every scene.
+SCENE 1 — THE ROAD TRIP BEGINS
+Duration: 0–4 seconds
+Open with a cinematic wide shot of the convertible cruising along a beautiful scenic highway.
+Camera: Low-angle tracking shot from the front-left side of the car, showing the vehicle moving smoothly along the road.
+
+Cut to a medium interior shot of the couple sitting together, smiling and chatting.
+
+The atmosphere feels spontaneous and exciting, like they're escaping for a fun day together.
+
+SCENE 2 — MUSIC ON, WORLD OFF
+
+Duration: 4–9 seconds
+
+The music starts playing.
+
+Show the couple getting excited as their favourite upbeat, feel-good song comes on.
+
+The girl starts singing along enthusiastically, moving her shoulders to the rhythm. The boy laughs, joins in and playfully sings along.
+
+Camera angles:
+
+Front dashboard camera capturing both of them vibing.
+
+Close-up of the girl's happy expression as she sings.
+
+Side-angle shot of the boy smiling and glancing at her.
+
+Quick exterior tracking shot showing the convertible cruising with the top down.
+Keep their movements natural, expressive and synchronized loosely with the music.
+SCENE 3 — PURE CHAOS & LAUGHTER
+Duration: 9–14 seconds
+The couple starts laughing uncontrollably over something silly.
+
+The girl playfully teases him while he smiles and shakes his head.
+
+Show her dancing lightly in her seat, both singing together and exchanging playful looks.
+
+Camera: Handheld-style passenger-side shot, followed by a quick close-up of their laughing faces.
+
+Add a brief candid moment where they look at each other and burst into laughter again.
+
+SCENE 4 — WIND IN OUR HAIR
+
+Duration: 14–19 seconds
+
+Show a beautiful side-tracking shot of the convertible driving along the open road.
+
+The girl's hair flows naturally in the wind. Both are smiling and enjoying the music.
+
+Cut to an overhead drone shot showing the convertible travelling along a scenic winding highway.
+
+Then transition to a rear-following shot, capturing the beautiful road stretching ahead.
+
+SCENE 5 — A LITTLE ROMANCE
+
+Duration: 19–24 seconds
+
+The music continues.
+
+Show a close-up of their hands briefly holding each other near the center console while the car is safely cruising.
+
+Cut to the girl looking at him with a warm smile.
+
+He smiles back, then both laugh again.
+
+Use soft golden sunlight, natural expressions and gentle cinematic camera movement.
+
+SCENE 6 — THE PERFECT ENDING
+
+Duration: 24–30 seconds
+
+Finish with a wide cinematic drone shot of the convertible driving into a beautiful golden-hour sunset.
+
+Cut briefly to an interior shot of both laughing and singing together.
+
+End with a rear wide shot of the car disappearing into the scenic open road.
+
+Fade out naturally with the music.
+
+CAMERA & EDITING DIRECTION
+
+Use a combination of wide establishing shots, medium two-shots, close-ups, side tracking shots, dashboard shots and aerial drone shots.
+
+Use smooth camera tracking and subtle handheld movement for candid moments.
+
+Keep cuts rhythmic and moderately fast, following the beat of the music.
+
+Use occasional short transitions, but avoid excessive flashy effects.
+
+Maintain natural motion blur and realistic wind movement.
+Use cinematic depth of field without losing character consistency.
+Keep the couple and car visually recognizable in every shot.
+MUSIC & SOUND
+Use an upbeat, feel-good romantic road-trip song with a catchy rhythm.
+The music should feel like something a young couple would happily sing along to while driving.
+Include natural laughter, playful chatter and subtle environmental road sounds.
+
+The music should remain the emotional backbone of the montage.
+
+NEGATIVE PROMPT
+
+No character redesigns, no face changes, no hairstyle changes, no outfit changes, no inconsistent car models, no changing car colors, no closed convertible roof, no distorted hands, no extra fingers, no duplicated characters, no unnatural facial expressions, no robotic movements, no abrupt camera jumps, no excessive slow motion, no overly dramatic romantic acting, no flickering, no visual glitches, no unrealistic vehicle movement.
+
+FINAL FEELING: A fun, effortlessly romantic road-trip memory. Two people in love, singing at the top of their lungs, laughing at absolutely nothing and enjoying every second together. Make it feel alive, natural and cinematic.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-pacing-moderately-fast-smooth-transitions-energetic-but-not-rushed-5592afeeb633?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 孕妇的梦幻橄榄球
 
 > 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
@@ -3774,63 +4112,6 @@ Audio: Soft magical background music, gentle nighttime ambience, cute baby sound
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Tiny Woman’s Bathroom Survival Escape
-
-> Apparently, Taking a Shower Is Now an Extreme Sport 🚿 Made using Seedance 2.5 on Higgsfield Prompt: Create a 30-second, photorealistic live-action miniature-pe…
-
-[<img src="https://media.goodcase.ai/cases/4ee76d605dc5.jpg" width="600" alt="A Tiny Woman’s Bathroom Survival Escape">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2110699529041310046) | **公開日:** 2026-10-15 | **ヒート:** 87
-
-<details>
-<summary><b>プロンプト全文（39 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second, photorealistic live-action miniature-person VFX comedy video showing an ordinary shower turning into an extreme survival adventure. Use cinematic macro photography, ultra-shallow depth of field, realistic water physics, dynamic handheld camera movements, dramatic lighting, and spectacular scale contrast. The video should feel like a premium Hollywood miniature-action sequence filmed inside a real bathroom, with hilarious near-disasters and visually satisfying moments. Ultra-detailed 4K quality, realistic textures, natural motion blur, and physically believable interactions.
-
-CHARACTER CONSISTENCY
-
-The main character is a tiny adult woman approximately 1:5 human scale, with realistic facial features, expressive eyes, shoulder-length dark hair tied in a small ponytail, a pastel-blue sleeveless top, dark shorts, and tiny white sneakers. Keep her face, hairstyle, clothing, body proportions, and scale perfectly consistent throughout the entire video. She must look like a real miniature person, not an animated or cartoon character.
-
-SCENE SEQUENCE
-
-Scene 1 — The Danger Begins
-A tiny woman stands on the edge of a bathroom floor beside a giant shower area, confidently preparing for a shower. The camera slowly pushes in as she looks up at the enormous showerhead above her. Suddenly, the shower turns on, and her confident expression changes to pure terror.
-
-Scene 2 — The First Waterfall
-A massive stream of water crashes down like a powerful waterfall. She runs for cover as giant droplets explode against the tiles around her. One enormous droplet splashes beside her, sending her tumbling backward across the wet floor.
-
-Scene 3 — Soap Bar Avalanche
-She climbs onto a giant soap bar to escape the rushing water. The slippery soap suddenly slides across the floor like a runaway skateboard. She desperately balances on top, waving her arms while racing toward the drain.
-
-Scene 4 — The Shampoo Bottle Collapse
-She jumps off the soap bar and grabs the edge of a giant shampoo bottle for safety. The bottle wobbles, tips over, and releases a thick stream of shampoo onto the floor. She slides down the slippery shampoo trail like a water slide, barely avoiding a giant puddle.
-
-Scene 5 — The Drain Escape
-The water begins flowing rapidly toward the bathroom drain. She runs in the opposite direction as tiny waves chase her feet. At the last moment, she leaps onto a raised tile edge and grabs a small grout line, dangling dramatically above the rushing water.
-
-Scene 6 — The Final Victory
-She pulls herself onto a dry bathmat, exhausted but triumphant. Behind her, the shower suddenly releases one final giant splash that sends her flying forward onto the soft mat. She slowly lifts her head, gives the showerhead an angry look, and shakes her fist at it. End with a dramatic close-up of her soaked, furious face.
-
-CAMERA AND VISUAL STYLE
-
-- Cinematic macro close-ups emphasizing the tiny woman's scale against oversized bathroom objects.
-- Low-angle tracking shots following her frantic escape.
-- Fast whip pans, subtle handheld shake, and brief slow motion during major splashes and jumps.
-- Realistic water droplets, splashes, wet surfaces, reflections, and slippery soap physics.
-- Sharp focus on the character with beautiful background bokeh.
-- Comedic timing, expressive facial reactions, and seamless transitions between action beats.
-- Maintain consistent bathroom layout, lighting, character appearance, and object positions.
-
-SOUND DESIGN
-
-Use synchronized, exaggerated but realistic sound effects: shower valve click, thunderous rushing water, heavy splashes, slippery soap squeaks, shampoo bottle thud, wet sliding sounds, frantic footsteps, dramatic whooshes, and a final soft bathmat landing. Add playful, suspenseful instrumental background music that builds during the chase and ends with a funny musical sting.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Boa Hancock Water Obstacle Race Prompt
 
@@ -4604,134 +4885,62 @@ Crowd goes insane, camera shaking. Shot 11 (12.2-14s): Camera drops to the floor
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-heavy-camcorder-noise-video-grain-slight-interlacing-smeared-motion-blur-au-334705abfd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion
+### A Tiny Woman’s Bathroom Survival Escape
 
-> Imagine being so dangerous that even explosions are just background effects. Seedance 2.5 @FishCreativeHQ Prompt VISUAL STYLE Ultra-photorealistic Hollywood blo…
+> Apparently, Taking a Shower Is Now an Extreme Sport 🚿 Made using Seedance 2.5 on Higgsfield Prompt: Create a 30-second, photorealistic live-action miniature-pe…
 
-[<img src="https://media.goodcase.ai/cases/835ae0551b0e.jpg" width="600" alt="Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion">](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/4ee76d605dc5.jpg" width="600" alt="A Tiny Woman’s Bathroom Survival Escape">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2110990656105807984) | **公開日:** 2026-10-16 | **ヒート:** 86
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2110699529041310046) | **公開日:** 2026-10-15 | **ヒート:** 86
 
 <details>
-<summary><b>プロンプト全文（65 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（39 行、クリックで展開）</b></summary>
 
 ```
-Imagine being so dangerous that even explosions are just background effects.
+Create a 30-second, photorealistic live-action miniature-person VFX comedy video showing an ordinary shower turning into an extreme survival adventure. Use cinematic macro photography, ultra-shallow depth of field, realistic water physics, dynamic handheld camera movements, dramatic lighting, and spectacular scale contrast. The video should feel like a premium Hollywood miniature-action sequence filmed inside a real bathroom, with hilarious near-disasters and visually satisfying moments. Ultra-detailed 4K quality, realistic textures, natural motion blur, and physically believable interactions.
 
-Seedance 2.5 @FishCreativeHQ 
+CHARACTER CONSISTENCY
 
-Prompt
+The main character is a tiny adult woman approximately 1:5 human scale, with realistic facial features, expressive eyes, shoulder-length dark hair tied in a small ponytail, a pastel-blue sleeveless top, dark shorts, and tiny white sneakers. Keep her face, hairstyle, clothing, body proportions, and scale perfectly consistent throughout the entire video. She must look like a real miniature person, not an animated or cartoon character.
 
-VISUAL STYLE
+SCENE SEQUENCE
 
-Ultra-photorealistic Hollywood blockbuster cinematography. A dramatic nighttime explosion sequence featuring a mysterious young woman walking calmly toward the camera while a massive fireball erupts behind her. Realistic fire simulation, powerful shockwaves, thick smoke, flying debris, atmospheric lighting, cinematic contrast, natural skin textures, and realistic human movement. Cool blue nighttime tones contrast with intense orange flames.
+Scene 1 — The Danger Begins
+A tiny woman stands on the edge of a bathroom floor beside a giant shower area, confidently preparing for a shower. The camera slowly pushes in as she looks up at the enormous showerhead above her. Suddenly, the shower turns on, and her confident expression changes to pure terror.
 
-CHARACTER IDENTITY LOCK
+Scene 2 — The First Waterfall
+A massive stream of water crashes down like a powerful waterfall. She runs for cover as giant droplets explode against the tiles around her. One enormous droplet splashes beside her, sending her tumbling backward across the wet floor.
 
-A striking 24-year-old woman with long, straight pastel-pink hair and soft bangs framing her face. Pale natural skin, delicate facial features, and a cold, emotionless expression.
+Scene 3 — Soap Bar Avalanche
+She climbs onto a giant soap bar to escape the rushing water. The slippery soap suddenly slides across the floor like a runaway skateboard. She desperately balances on top, waving her arms while racing toward the drain.
 
-OUTFIT: A fitted rainbow-striped long-sleeve turtleneck shirt underneath faded light-blue denim short overalls, with a front bib pocket and adjustable shoulder straps. Red bands around both upper thighs. Barefoot.
+Scene 4 — The Shampoo Bottle Collapse
+She jumps off the soap bar and grabs the edge of a giant shampoo bottle for safety. The bottle wobbles, tips over, and releases a thick stream of shampoo onto the floor. She slides down the slippery shampoo trail like a water slide, barely avoiding a giant puddle.
 
-Preserve her exact face, hairstyle, outfit, body proportions, and accessories throughout the entire video.
+Scene 5 — The Drain Escape
+The water begins flowing rapidly toward the bathroom drain. She runs in the opposite direction as tiny waves chase her feet. At the last moment, she leaps onto a raised tile edge and grabs a small grout line, dangling dramatically above the rushing water.
 
-SETTING
+Scene 6 — The Final Victory
+She pulls herself onto a dry bathmat, exhausted but triumphant. Behind her, the shower suddenly releases one final giant splash that sends her flying forward onto the soft mat. She slowly lifts her head, gives the showerhead an angry look, and shakes her fist at it. End with a dramatic close-up of her soaked, furious face.
 
-An isolated, empty two-lane asphalt road at midnight. The road is slightly wet, reflecting the overhead streetlights. A faded yellow centerline stretches into the distance. Evenly spaced modern streetlights illuminate both sides of the road, disappearing into the darkness. No vehicles, pedestrians, or surrounding buildings.
+CAMERA AND VISUAL STYLE
 
-CAMERA
-
-One continuous frontal tracking shot. The camera moves backward at exactly the same speed as the woman, maintaining a centered, full-body composition. Smooth stabilized movement with subtle natural cinematic motion. 35mm lens, shallow atmospheric depth, realistic lighting, and high dynamic range.
-
-ACTION TIMELINE
-
-00:00–00:02 — THE MYSTERIOUS WALK
-
-The woman walks barefoot directly toward the camera along the center of the deserted road. She casually holds a cigarette near her lips, takes a final drag, and maintains a completely emotionless expression. Her long pastel-pink hair moves gently in the nighttime breeze.
-
-00:02–00:04 — THE IGNITION
-
-She lowers her hand and continues walking without looking backward. A sudden bright blue-white flash illuminates the road far behind her. A small cloud of smoke begins expanding rapidly in the background.
-
-00:04–00:06 — THE MASSIVE EXPLOSION
-
-A gigantic orange fireball violently erupts behind the woman, filling the entire width of the road. The explosion expands upward into a towering mushroom-shaped cloud of flames and black smoke.
-
-Powerful shockwaves push dust and debris outward. Bright orange firelight illuminates the woman's pink hair, denim overalls, and the reflective asphalt.
-
-She never turns around, flinches, or changes her walking speed.
-
-00:06–00:08 — THE UNTOUCHABLE WALK
-
-The woman continues walking directly toward the camera with complete confidence. Behind her, enormous flames roll across the road while thick smoke rises into the night sky.
-
-The explosion creates dramatic orange rim lighting around her silhouette. Her hair sways gently from the displaced air. Her facial expression remains cold and completely indifferent.
-
-00:08–00:10 — THE FINAL HERO SHOT
-
-The camera continues tracking backward as she approaches slightly closer. Burning wreckage and towering flames remain visible behind her.
-
-She walks steadily toward the lens, looking straight ahead with an intimidating, expressionless gaze.
-
-End on a powerful cinematic shot of the woman perfectly centered against the enormous burning background.
+- Cinematic macro close-ups emphasizing the tiny woman's scale against oversized bathroom objects.
+- Low-angle tracking shots following her frantic escape.
+- Fast whip pans, subtle handheld shake, and brief slow motion during major splashes and jumps.
+- Realistic water droplets, splashes, wet surfaces, reflections, and slippery soap physics.
+- Sharp focus on the character with beautiful background bokeh.
+- Comedic timing, expressive facial reactions, and seamless transitions between action beats.
+- Maintain consistent bathroom layout, lighting, character appearance, and object positions.
 
 SOUND DESIGN
 
-Quiet nighttime ambience, soft barefoot footsteps against asphalt, subtle cigarette inhale, sudden explosive ignition, enormous deep bass explosion, roaring flames, rushing air, and falling debris.
-
-STRICT REQUIREMENTS
-
-One uninterrupted tracking shot. No cuts, no camera angle changes, no slow motion, no dialogue, no subtitles, no text overlays. The woman's face and clothing must remain perfectly consistent. The explosion must remain behind her, never engulfing her. Physically convincing fire, smoke, lighting, and debris. No cartoon effects, no artificial-looking CGI humans, no facial distortion, no duplicated limbs.
+Use synchronized, exaggerated but realistic sound effects: shower valve click, thunderous rushing water, heavy splashes, slippery soap squeaks, shampoo bottle thud, wet sliding sounds, frantic footsteps, dramatic whooshes, and a final soft bathmat landing. Add playful, suspenseful instrumental background music that builds during the chase and ends with a funny musical sting.
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug
-
-> Made with seedance 2.5 Prompt 👇 Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style. Scene: A beautif…
-
-[<img src="https://media.goodcase.ai/cases/9f5595620b50.jpg" width="600" alt="Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2106347953711661482) | **公開日:** 2026-10-03 | **ヒート:** 86
-
-<details>
-<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a 20-second heartwarming, cinematic 3D animated video in a high-quality Pixar-inspired animation style.
-
-Scene: A beautiful, modern, cozy living room filled with warm morning sunlight. A young, beautiful mother with dark brown hair tied in a neat bun is wearing a fitted black yoga outfit. Her adorable baby has big expressive brown eyes, chubby cheeks, tiny brown hair tied in a little ponytail, and a white onesie.
-
-Action Sequence:
-
-The mother begins her morning yoga routine on a purple yoga mat. Her adorable baby watches her curiously while standing nearby with a blue pacifier.
-
-As the mother bends forward into a yoga pose, the baby crawls toward her and tries to imitate her movements.
-
-The mother performs different yoga exercises, including standing balance poses and an impressive handstand. The baby adorably attempts to copy every movement, creating funny and heartwarming moments.
-
-Show cinematic close-ups of the baby's innocent, surprised facial expressions and exaggerated cute reactions.
-
-Final Scene: The mother finishes her yoga routine, lovingly picks up her baby, and gives the baby a warm hug. Both smile and laugh together.
-
-Visual Style: Premium 3D animated family film, ultra-detailed character design, expressive facial animation, realistic fabric textures, soft natural sunlight, warm pastel colors, cinematic depth of field, smooth camera movements, realistic shadows, adorable comedy, emotional storytelling, and fluid character animation.
-
-Camera: Dynamic wide shots, smooth tracking shots, medium shots, and expressive close-ups.
-
-Duration: 20 seconds.
-
-Aspect Ratio: 16:9.
-
-Important: Maintain identical character appearances, clothing, facial features, room design, lighting, and yoga mat throughout the entire video. No dialogue, no subtitles, no text, and no watermarks.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-7b0d25662f25?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pink-Haired Student Backflips and Catches Her Lunch Tray
 
@@ -4838,122 +5047,6 @@ Important: No cuts ❌, no transitions ❌, no camera movement ❌, no zoom ❌,
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/yesandyou-seedance-ai-d92a0a788b85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A village girl pilots a boat to rescue people from a tsunami
-
-> One girl. One boat. A race against the final wave. 🌊🔥 Created with Seedance 2.5 on @dreamina_ai #dreamina #dreaminacreators Prompt THE FINAL WAVE | A DESPERAT…
-
-[<img src="https://media.goodcase.ai/cases/3133beac79ec.jpg" width="600" alt="A village girl pilots a boat to rescue people from a tsunami">](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aqsahere_ | **出典:** [元投稿](https://x.com/Aqsahere_/status/2118187360525414673) | **公開日:** 2026-11-05 | **ヒート:** 85
-
-<details>
-<summary><b>プロンプト全文（55 行、クリックで展開）</b></summary>
-
-```
-One girl. One boat. A race against the final wave. 🌊🔥
-
-Created with Seedance 2.5 on @dreamina_ai
-
- #dreamina #dreaminacreators
-
-Prompt 
-THE FINAL WAVE | A DESPERATE TSUNAMI RESCUE
-
-Create a 30-second ultra-realistic live-action cinematic disaster video set in a Japanese coastal fishing village. A massive tsunami approaches after a powerful earthquake. A brave young woman risks her life to rescue stranded people.
-
-CHARACTER & LOCATION:
-A young Japanese woman with dark hair in a ponytail, wearing a dark waterproof jacket, black trousers and rubber boots. Three adult fishermen, one small child and one elderly woman. Keep all characters, outfits, faces, rescue boat and village consistent.
-
-EXACT SCENE SEQUENCE:
-
-1. EARTHQUAKE (0–3s):
-The village shakes violently. Objects fall, houses rattle and villagers rush outside.
-
-2. TSUNAMI WARNING (3–5s):
-Emergency sirens sound. The girl looks towards the ocean as the water suddenly retreats from the harbor.
-
-3. FISHERMEN IN DANGER (5–8s):
-She spots three fishermen stranded near a damaged fishing boat, desperately waving for help.
-
-4. RESCUE BOAT (8–11s):
-She runs to a small motorboat, unties it and starts the engine.
-
-5. ROUGH SEA (11–15s):
-She navigates through violent waves, avoiding floating debris as water splashes over the boat.
-
-6. FISHERMEN RESCUE (15–19s):
-She reaches the damaged boat and helps all three fishermen climb safely aboard, catching one as he nearly slips.
-
-7. CHILD AND ELDERLY WOMAN (19–22s):
-She spots a frightened child and elderly woman trapped on a flooded rooftop and steers towards them.
-
-8. MASSIVE TSUNAMI (22–26s):
-A gigantic dark wave appears behind the harbor. The fishermen help bring the child and elderly woman aboard from a reachable flooded platform.
-
-9. ESCAPE (26–28s):
-The boat reaches elevated ground. She helps everyone climb to safety as floodwater crashes through the harbor.
-
-10. FINAL SHOT (28–30s):
-The rescued child holds her hand. She watches in shock as the massive wave engulfs the distant village.
-
-VISUAL STYLE:
-Ultra-photorealistic live-action disaster film, realistic tsunami physics, powerful water movement, natural handheld documentary camera, stormy daylight, wet clothing, emotional expressions and believable boat movement.
-
-Natural audio: earthquake rumbling, emergency sirens, wind, engine, shouting and crashing waves. No music, subtitles or voiceover.
-
-STRICT CONTINUITY:
-Same characters, outfits, boat and location throughout. Show every rescue physically, with logical movement between scenes. No teleportation, superhero powers, cartoon water or unrealistic CGI.
-
-The final video must feel like real disaster footage, full of tension, urgency and emotion.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Schoolgirl awakens purple lightning and fights corridor bullies
-
-> This is AI video absolutely masterpiece 🔥 Gerneted with Seedance 2.5. Prompt 👇
-
-[<img src="https://media.goodcase.ai/cases/d2a8ed4a5700.jpg" width="600" alt="Schoolgirl awakens purple lightning and fights corridor bullies">](https://goodcase.ai/cases/seedance-2-5-video-prompt-cinematic-live-action-30-second-supernatural-school-action-scene-9fad79059c7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ItsMaryamAi | **出典:** [元投稿](https://x.com/ItsMaryamAi/status/2117077642344284286) | **公開日:** 2026-11-02 | **ヒート:** 85
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-VIDEO PROMPT:Cinematic live-action, 30-second supernatural school action scene. 
-A Japanese high school girl (cream knit sweater, navy bow tie, 
-plaid pleated skirt, black knee-high socks, messy shoulder-length 
-dark hair) is thrown to the floor of an empty school corridor by 
-bullies. She rises with a furious, awakened expression — close-up 
-of her eyes and a wild, defiant grin as crackling purple lightning 
-and dark violet smoke erupt around her body.
-
-She then fights a group of male students in black gakuran-style 
-uniforms inside a bright corridor with green-and-white walls, 
-wooden doors, lockers and large windows. Fast, powerful martial-arts 
-combat: dodging punches, counter strikes, leaping off lockers, 
-flying kicks. Each hit releases purple energy bursts and dust 
-particles; the floor cracks beneath impacts, papers scatter in 
-the air, defeated bullies lie sprawled in the background.
-
-Camera: handheld, dynamic tracking shots, quick whip pans, dramatic 
-low angles, slow-motion on impacts, extreme close-ups on her face. 
-Lighting: natural overcast daylight through windows, with glowing 
-purple energy as the main accent. Color grade: slightly desaturated, 
-high contrast, teal-green school tones against vivid violet. 
-Ending: she collapses exhausted on the cracked floor among 
-scattered papers. 
-Style: photorealistic, anime-inspired live-action, 24fps, 16:9, 
-high detail, no text, no subtitles
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-video-prompt-cinematic-live-action-30-second-supernatural-school-action-scene-9fad79059c7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)

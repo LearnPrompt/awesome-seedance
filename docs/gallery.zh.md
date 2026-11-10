@@ -1,20 +1,20 @@
 # Awesome Seedance — 画廊总览
 
-全部 1020 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
+全部 1036 条案例（含完整 prompt），按 Seedance 版本分文件、超长分页以保证 GitHub 能渲染。由 data/cases.json 生成，请勿手改。
 
 ← [返回 README](../README_zh.md)
 
 ## 分页
 
-- [Seedance 2.5 · 第 1/9 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–88 条，共 712 条.
-- [Seedance 2.5 · 第 2/9 页](./gallery-seedance-2-5-part-2.zh.md) - 第 89–161 条，共 712 条.
-- [Seedance 2.5 · 第 3/9 页](./gallery-seedance-2-5-part-3.zh.md) - 第 162–258 条，共 712 条.
-- [Seedance 2.5 · 第 4/9 页](./gallery-seedance-2-5-part-4.zh.md) - 第 259–350 条，共 712 条.
-- [Seedance 2.5 · 第 5/9 页](./gallery-seedance-2-5-part-5.zh.md) - 第 351–446 条，共 712 条.
-- [Seedance 2.5 · 第 6/9 页](./gallery-seedance-2-5-part-6.zh.md) - 第 447–545 条，共 712 条.
-- [Seedance 2.5 · 第 7/9 页](./gallery-seedance-2-5-part-7.zh.md) - 第 546–632 条，共 712 条.
-- [Seedance 2.5 · 第 8/9 页](./gallery-seedance-2-5-part-8.zh.md) - 第 633–702 条，共 712 条.
-- [Seedance 2.5 · 第 9/9 页](./gallery-seedance-2-5-part-9.zh.md) - 第 703–712 条，共 712 条.
+- [Seedance 2.5 · 第 1/9 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–86 条，共 728 条.
+- [Seedance 2.5 · 第 2/9 页](./gallery-seedance-2-5-part-2.zh.md) - 第 87–157 条，共 728 条.
+- [Seedance 2.5 · 第 3/9 页](./gallery-seedance-2-5-part-3.zh.md) - 第 158–255 条，共 728 条.
+- [Seedance 2.5 · 第 4/9 页](./gallery-seedance-2-5-part-4.zh.md) - 第 256–348 条，共 728 条.
+- [Seedance 2.5 · 第 5/9 页](./gallery-seedance-2-5-part-5.zh.md) - 第 349–443 条，共 728 条.
+- [Seedance 2.5 · 第 6/9 页](./gallery-seedance-2-5-part-6.zh.md) - 第 444–541 条，共 728 条.
+- [Seedance 2.5 · 第 7/9 页](./gallery-seedance-2-5-part-7.zh.md) - 第 542–636 条，共 728 条.
+- [Seedance 2.5 · 第 8/9 页](./gallery-seedance-2-5-part-8.zh.md) - 第 637–705 条，共 728 条.
+- [Seedance 2.5 · 第 9/9 页](./gallery-seedance-2-5-part-9.zh.md) - 第 706–728 条，共 728 条.
 - [Seedance 2.0 · 第 1/4 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–91 条，共 308 条.
 - [Seedance 2.0 · 第 2/4 页](./gallery-seedance-2-0-part-2.zh.md) - 第 92–202 条，共 308 条.
 - [Seedance 2.0 · 第 3/4 页](./gallery-seedance-2-0-part-3.zh.md) - 第 203–289 条，共 308 条.

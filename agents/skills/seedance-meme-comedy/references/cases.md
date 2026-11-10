@@ -281,52 +281,24 @@ End text:
 ✨ Never rush a spell. 🦆
 ```
 
-## E8 · A Tiny Woman’s Bathroom Survival Escape
+## E8 · A Hilarious Payback After the Subway Doors Close
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 87
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460) · [finished media](https://media.goodcase.ai/cases/31e9afdb26ea.mp4) · [poster](https://media.goodcase.ai/cases/4ee76d605dc5.jpg) · [original source](https://x.com/AIwithkhan/status/2110699529041310046)
-- Summary: Apparently, Taking a Shower Is Now an Extreme Sport 🚿 Made using Seedance 2.5 on Higgsfield Prompt: Create a 30-second, photorealistic live-action miniature-pe…
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 87
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66) · [finished media](https://media.goodcase.ai/cases/d26ae0e3eb73.mp4) · [poster](https://media.goodcase.ai/cases/101f63c774b7.jpg) · [original source](https://x.com/AIwithSynthia/status/2098988104418050349)
+- Summary: Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
 
 ```text
-Create a 30-second, photorealistic live-action miniature-person VFX comedy video showing an ordinary shower turning into an extreme survival adventure. Use cinematic macro photography, ultra-shallow depth of field, realistic water physics, dynamic handheld camera movements, dramatic lighting, and spectacular scale contrast. The video should feel like a premium Hollywood miniature-action sequence filmed inside a real bathroom, with hilarious near-disasters and visually satisfying moments. Ultra-detailed 4K quality, realistic textures, natural motion blur, and physically believable interactions.
-
-CHARACTER CONSISTENCY
-
-The main character is a tiny adult woman approximately 1:5 human scale, with realistic facial features, expressive eyes, shoulder-length dark hair tied in a small ponytail, a pastel-blue sleeveless top, dark shorts, and tiny white sneakers. Keep her face, hairstyle, clothing, body proportions, and scale perfectly consistent throughout the entire video. She must look like a real miniature person, not an animated or cartoon character.
-
-SCENE SEQUENCE
-
-Scene 1 — The Danger Begins
-A tiny woman stands on the edge of a bathroom floor beside a giant shower area, confidently preparing for a shower. The camera slowly pushes in as she looks up at the enormous showerhead above her. Suddenly, the shower turns on, and her confident expression changes to pure terror.
-
-Scene 2 — The First Waterfall
-A massive stream of water crashes down like a powerful waterfall. She runs for cover as giant droplets explode against the tiles around her. One enormous droplet splashes beside her, sending her tumbling backward across the wet floor.
-
-Scene 3 — Soap Bar Avalanche
-She climbs onto a giant soap bar to escape the rushing water. The slippery soap suddenly slides across the floor like a runaway skateboard. She desperately balances on top, waving her arms while racing toward the drain.
-
-Scene 4 — The Shampoo Bottle Collapse
-She jumps off the soap bar and grabs the edge of a giant shampoo bottle for safety. The bottle wobbles, tips over, and releases a thick stream of shampoo onto the floor. She slides down the slippery shampoo trail like a water slide, barely avoiding a giant puddle.
-
-Scene 5 — The Drain Escape
-The water begins flowing rapidly toward the bathroom drain. She runs in the opposite direction as tiny waves chase her feet. At the last moment, she leaps onto a raised tile edge and grabs a small grout line, dangling dramatically above the rushing water.
-
-Scene 6 — The Final Victory
-She pulls herself onto a dry bathmat, exhausted but triumphant. Behind her, the shower suddenly releases one final giant splash that sends her flying forward onto the soft mat. She slowly lifts her head, gives the showerhead an angry look, and shakes her fist at it. End with a dramatic close-up of her soaked, furious face.
-
-CAMERA AND VISUAL STYLE
-
-- Cinematic macro close-ups emphasizing the tiny woman's scale against oversized bathroom objects.
-- Low-angle tracking shots following her frantic escape.
-- Fast whip pans, subtle handheld shake, and brief slow motion during major splashes and jumps.
-- Realistic water droplets, splashes, wet surfaces, reflections, and slippery soap physics.
-- Sharp focus on the character with beautiful background bokeh.
-- Comedic timing, expressive facial reactions, and seamless transitions between action beats.
-- Maintain consistent bathroom layout, lighting, character appearance, and object positions.
-
-SOUND DESIGN
-
-Use synchronized,
-
-[… truncated, full prompt on the goodcase.ai page]
+Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
+Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
+Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
+She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
+The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
+He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
+She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
+She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
+The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
+One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
+She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
+Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
+No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
 ```

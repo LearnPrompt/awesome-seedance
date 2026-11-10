@@ -193,7 +193,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 ## E6 · A Husky Meets Two Rabbits in Snowy Mountains at Sunset
 
-- Seedance 2.5 · creator: @RizwanAly07 · heat: 74
+- Seedance 2.5 · creator: @RizwanAly07 · heat: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-most-unexpected-friendship-in-the-snow-fc70546ac916) · [finished media](https://media.goodcase.ai/cases/cbe8aa2d79b8.mp4) · [poster](https://media.goodcase.ai/cases/0d95cc091f2c.jpg) · [original source](https://x.com/RizwanAly07/status/2110654938472952253)
 - Summary: The Most Unexpected Friendship in the Snow! ❄️🐺🐰 Seedance 2.5 PROMPT ⬇️ Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husk…
 

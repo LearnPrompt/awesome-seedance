@@ -2,9 +2,70 @@
 
 All 308 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 202–289 of 308.
+This page: cases 200–287 of 308.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.md)
+
+### Fire Phoenix Versus Water Dragon
+
+> An epic elemental showdown between a fire phoenix and a water dragon among ancient ruins, with detailed camera and VFX directions.
+
+[<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="Fire Phoenix Versus Water Dragon">](https://goodcase.ai/cases/case-2c7bcef707d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2095039305555263672) | **Published:** 2026-09-02 | **Heat:** 24
+
+**Stability:** 78/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.5) · [output](https://media.goodcase.ai/retests/case-2c7bcef707d4/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (21 lines, click to expand)</b></summary>
+
+```
+15s cinematic photorealistic action video, 5 shots, 16:9. ARRI ALEXA 65, 35mm anamorphic, film grain, rich contrast, natural bokeh, volumetric god rays, realistic smoke, dust, sparks, fire, water, hair and cloth physics. No text, logos, UI or watermark.
+
+Environment: Abandoned ancient temple ruins, broken pillars, rubble, burning temple, heavy smoke, sparks, dramatic sunset. Keep architecture, damage, lighting and atmosphere consistent.
+
+Woman 1 – Fire: Short pink hair, red horns, deep red/gold ornate battle outfit, chains, black belt, tassels, platform boots. Lock face, body and outfit perfectly.
+
+Woman 2 – Water: Long navy-black hair with straight bangs, deep blue-silver flowing battle robe, transparent layers, decorative belt, silver ornaments, tassels and boots. Lock face, body and outfit perfectly.
+
+0–2.5s: Wide tracking circle. Fighters clash aggressively. Fire woman attacks with flame punches/kicks; water woman dodges and counters with water whips. Fire and water collide into steam explosions.
+
+2.5–6s: Tight tracking shot. Close-range brutal exchange. Fire elbow + knee; water blocks with a water shield and counters with a pressurized palm, sending her across rubble.
+
+6–9.5s: Low-angle tracking. Both charge and leap. Water woman launches spinning water spheres; fire woman breaks through with explosive flames and close-range attacks.
+
+9.5–12.5s: Medium-wide push-in. Water woman summons a massive serpentine water dragon. Fire woman releases a majestic flame phoenix. Both charge toward each other.
+
+12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creating a huge explosion of steam, fire, water, light and debris. Shockwave, sparks and droplets fill the frame; energy slowly dissipates.
+
+Audio: Cinematic orchestral-electronic score, heavy percussion, rising strings, synths, impacts, whooshes, water, fire, steam, dragon roar and phoenix cry.
+
+Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect character consistency and realistic elemental physics.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-2c7bcef707d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Korean Idol Backstage Fitting Vlog
+
+> A nostalgic 16mm handheld camcorder style prompt creating a playful and energetic backstage vlog. It features a Korean idol trying on stage outfits with realistic camera imperfections like tape blur, clumsy zooms, and vanity light blooming.
+
+[<img src="https://media.goodcase.ai/media/poster/korean-idol-backstage-fitting-vlog.jpg" width="600" alt="Korean Idol Backstage Fitting Vlog">](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2081353850779550056) | **Published:** 2026-07-26 | **Heat:** 24
+
+**Stability:** 75/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 75.3) · [output](https://media.goodcase.ai/retests/korean-idol-backstage-fitting-vlog/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn ("Okay, first outfit—let's see."), smooths fabric ("I really like this fit."), stylist pins waist (ambient only), playful spin ("Moves pretty well!"), quick change to outfit 2 ("Now let's compare."), compares ("More elegant, but the first had better movement."), close-up thinking ("I genuinely can't decide."), selfie spin ending ("I'll let the team decide—see you on stage!"). Camcorder never visible.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/korean-idol-backstage-fitting-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Animated Forest Picnic Scene
 
@@ -191,56 +252,6 @@ She lands on a rooftop, stands with arms outstretched in triumph, hair blowing, 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-701e2e12eda3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 2000s MiniDV Han River Bike Ride
-
-> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
-
-[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 22
-
-**Stability:** 66/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 65.9) · [output](https://media.goodcase.ai/retests/2000-minidv-5cceb6310905/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (28 lines, click to expand)</b></summary>
-
-```
-Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
-
-Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
-
-Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
-
-Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
-
-00:00–00:03
-She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
-
-00:03–00:06
-She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
-
-00:06–00:09
-She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
-
-00:09–00:12
-She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
-
-00:12–00:15
-She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
-
-Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
-
-Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### High-End Lipstick Beauty Ad
 
 > An 8-second premium UGC lipstick ad project featuring beauty shots, macro product close-ups, and studio lighting effects that express a luxury skincare aesthetic.
@@ -356,82 +367,55 @@ A warm, energetic 15-second ultra-realistic food commercial opens wide on a sunl
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/heyfatema-seedance-ai-b3b41609bc87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Architectural Space Renovation Time-Lapse
+### 2000s MiniDV Han River Bike Ride
 
-> A precise video prompt for creating a seamless architectural renovation animation, showing the transformation from an unfinished concrete room into a luxurious interior space.
+> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
 
-[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="Architectural Space Renovation Time-Lapse">](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | **Published:** 2026-07-26 | **Heat:** 21
+**Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 21
 
-**Stability:** 78/100
+**Stability:** 66/100
 
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 78.3) · [output](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 65.9) · [output](https://media.goodcase.ai/retests/2000-minidv-5cceb6310905/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 <details>
-<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+<summary><b>Full prompt (28 lines, click to expand)</b></summary>
 
 ```
-Create a 15-second seamless architectural space renovation animation.
+Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
 
-The camera remains completely fixed in the exact same position, angle, focal length, perspective, and composition throughout the entire video. No camera push-in, pull-out, panning, rotation, zoom, handheld shake, or reframing. Room dimensions, walls, windows, doors, ceiling height, and structural layout remain completely unchanged throughout the transformation.
+Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
 
-0–3 seconds:
-The scene begins as a rough, unfinished interior with exposed cement walls, raw concrete flooring, exposed ceiling, visible construction materials, and an empty space. Dust settles naturally while the environment remains static. The floor installation begins, gradually spreading from left to right until the entire concrete floor transforms into premium microcement or elegant large-format light grey tiles.
+Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
 
-3–6 seconds:
-Walls and ceiling begin transforming simultaneously. Rough cement walls smoothly become perfectly finished creamy-white walls. Wood veneer panels, decorative wall mouldings, built-in storage cabinets, TV feature walls, suspended ceiling structures, recessed lighting channels, and hidden LED strip lighting appear naturally in their correct architectural positions as though installed by invisible craftsmen.
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
 
-6–9 seconds:
-Electrical fixtures, doors, window frames, skirting boards, switches, sockets, and architectural details complete themselves with realistic construction logic. Ambient lighting gradually powers on, filling the room with soft, warm illumination while maintaining a natural daylight balance.
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
 
-9–12 seconds:
-Furniture and soft furnishings assemble sequentially. Luxury sofas, coffee tables, dining furniture, rugs, curtains, indoor plants, decorative artwork, lighting fixtures, books, cushions, and decorative accessories naturally move into place piece by piece, resembling a real construction and interior installation time-lapse.
+00:00–00:03
+She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
 
-12–15 seconds:
-The renovation reaches its final premium interior design. Every object settles perfectly into position while the lighting subtly adjusts to create a luxurious atmosphere. The completed room remains perfectly still for the final second, allowing viewers to appreciate the finished transformation.
+00:03–00:06
+She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
 
-Overall style:
-Ultra-realistic architectural visualization, photorealistic materials, premium luxury interior design portfolio quality, realistic construction time-lapse, physically accurate lighting, smooth seamless transitions, natural installation logic, cinematic realism, highly detailed textures, clean modern luxury aesthetic, 8K quality.
+00:06–00:09
+She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
 
-Negative prompt:
-People, workers, text, logos, watermarks, camera movement, zoom, panning, rotation, handheld shake, changing room dimensions, structural deformation, floating objects, object misalignment, duplicate furniture, unrealistic assembly, blurry, low quality, flickering, artifacts, oversaturated colors, distorted perspective.
+00:09–00:12
+She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
+
+00:12–00:15
+She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
+
+Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
+
+Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.
 ```
 
 </details>
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Cinematic Morning Fitness Routine
-
-> A 15-second cinematic GRWM video prompt for an outdoor morning workout while maintaining the identity consistency of the reference character.
-
-[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="Cinematic Morning Fitness Routine">](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2081222954659234074) | **Published:** 2026-07-26 | **Heat:** 21
-
-**Stability:** 84/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 84.4) · [output](https://media.goodcase.ai/retests/case-3bdeb046587d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-Using the attached character reference, create a 15-second ultra-realistic cinematic GRWM (Get Ready With Me) video featuring the exact same young Korean East Asian woman with consistent facial features, hairstyle, glowing skin, body proportions, and identity throughout the sequence. She wears a white fitted athletic crop top, high-waisted red leggings, white running sneakers, a lightweight smartwatch, and a high ponytail throughout the outdoor workout.
-
-The video opens with her peacefully waking up in a bright modern bedroom as soft sunrise light streams through the curtains. She smiles, stretches naturally, washes her face, brushes her teeth, completes a quick skincare routine, and changes into her white crop top and red leggings. She ties her hair into a neat high ponytail, fastens her smartwatch, laces her sneakers, picks up a yoga mat, reusable water bottle, and wireless earbuds, then heads outside.
-
-She steps onto a lush green lawn surrounded by blooming flowers and tall trees glowing in the golden morning light. She begins with gentle stretching, yoga poses, squats, lunges, planks, push-ups, jumping jacks, and light jogging across the grass. Cinematic tracking shots capture realistic hair movement, natural breathing, and dew sparkling beneath her shoes. Macro shots highlight her smartwatch tracking heart rate, shoes brushing fresh grass, hands reaching toward the sky, and sunlight illuminating her face.
-
-After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh strawberry smoothie in a modern kitchen, pours it into a glass, walks to a sunlit window, notices the camera, smiles warmly, raises the smoothie toward the viewer in a friendly toast, and enjoys the peaceful morning as the camera slowly pulls back.
-
-Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimbal camera movement, shallow depth of field, premium lifestyle cinematography, realistic skin texture, natural hair physics, physically accurate sunrise lighting, warm golden-hour atmosphere, glossy commercial-quality color grading, 4K HDR, 16:9, with natural ambient audio only (birds chirping, gentle breeze, rustling leaves, footsteps on grass, breathing, water bottle opening, smoothie blending), no background music, subtitles, logos, watermarks, or on-screen text.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Mango Juice Commercial
 
@@ -626,6 +610,52 @@ Natural ambient audio only: can opening, fizzy bubbles, splashing fountain water
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-1f7a27e4c448?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Architectural Space Renovation Time-Lapse
+
+> A precise video prompt for creating a seamless architectural renovation animation, showing the transformation from an unfinished concrete room into a luxurious interior space.
+
+[<img src="https://media.goodcase.ai/media/poster/case-429309e40d97.jpg" width="600" alt="Architectural Space Renovation Time-Lapse">](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Naiknelofar788 | **Source:** [Original](https://x.com/Naiknelofar788/status/2081371164728041980) | **Published:** 2026-07-26 | **Heat:** 20
+
+**Stability:** 78/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 78.3) · [output](https://media.goodcase.ai/retests/case-429309e40d97/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (24 lines, click to expand)</b></summary>
+
+```
+Create a 15-second seamless architectural space renovation animation.
+
+The camera remains completely fixed in the exact same position, angle, focal length, perspective, and composition throughout the entire video. No camera push-in, pull-out, panning, rotation, zoom, handheld shake, or reframing. Room dimensions, walls, windows, doors, ceiling height, and structural layout remain completely unchanged throughout the transformation.
+
+0–3 seconds:
+The scene begins as a rough, unfinished interior with exposed cement walls, raw concrete flooring, exposed ceiling, visible construction materials, and an empty space. Dust settles naturally while the environment remains static. The floor installation begins, gradually spreading from left to right until the entire concrete floor transforms into premium microcement or elegant large-format light grey tiles.
+
+3–6 seconds:
+Walls and ceiling begin transforming simultaneously. Rough cement walls smoothly become perfectly finished creamy-white walls. Wood veneer panels, decorative wall mouldings, built-in storage cabinets, TV feature walls, suspended ceiling structures, recessed lighting channels, and hidden LED strip lighting appear naturally in their correct architectural positions as though installed by invisible craftsmen.
+
+6–9 seconds:
+Electrical fixtures, doors, window frames, skirting boards, switches, sockets, and architectural details complete themselves with realistic construction logic. Ambient lighting gradually powers on, filling the room with soft, warm illumination while maintaining a natural daylight balance.
+
+9–12 seconds:
+Furniture and soft furnishings assemble sequentially. Luxury sofas, coffee tables, dining furniture, rugs, curtains, indoor plants, decorative artwork, lighting fixtures, books, cushions, and decorative accessories naturally move into place piece by piece, resembling a real construction and interior installation time-lapse.
+
+12–15 seconds:
+The renovation reaches its final premium interior design. Every object settles perfectly into position while the lighting subtly adjusts to create a luxurious atmosphere. The completed room remains perfectly still for the final second, allowing viewers to appreciate the finished transformation.
+
+Overall style:
+Ultra-realistic architectural visualization, photorealistic materials, premium luxury interior design portfolio quality, realistic construction time-lapse, physically accurate lighting, smooth seamless transitions, natural installation logic, cinematic realism, highly detailed textures, clean modern luxury aesthetic, 8K quality.
+
+Negative prompt:
+People, workers, text, logos, watermarks, camera movement, zoom, panning, rotation, handheld shake, changing room dimensions, structural deformation, floating objects, object misalignment, duplicate furniture, unrealistic assembly, blurry, low quality, flickering, artifacts, oversaturated colors, distorted perspective.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-429309e40d97?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Retro Japanese POV Vlog
 
 > An early-21st-century MiniDV camcorder nostalgia-style prompt designed for Seedance 2.0, capturing a fun everyday vlog filmed by a Japanese woman during golden hour.
@@ -681,13 +711,137 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/pov-vlog-c94d5709daa4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Cinematic Morning Fitness Routine
+
+> A 15-second cinematic GRWM video prompt for an outdoor morning workout while maintaining the identity consistency of the reference character.
+
+[<img src="https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg" width="600" alt="Cinematic Morning Fitness Routine">](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2081222954659234074) | **Published:** 2026-07-26 | **Heat:** 20
+
+**Stability:** 84/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 84.4) · [output](https://media.goodcase.ai/retests/case-3bdeb046587d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (9 lines, click to expand)</b></summary>
+
+```
+Using the attached character reference, create a 15-second ultra-realistic cinematic GRWM (Get Ready With Me) video featuring the exact same young Korean East Asian woman with consistent facial features, hairstyle, glowing skin, body proportions, and identity throughout the sequence. She wears a white fitted athletic crop top, high-waisted red leggings, white running sneakers, a lightweight smartwatch, and a high ponytail throughout the outdoor workout.
+
+The video opens with her peacefully waking up in a bright modern bedroom as soft sunrise light streams through the curtains. She smiles, stretches naturally, washes her face, brushes her teeth, completes a quick skincare routine, and changes into her white crop top and red leggings. She ties her hair into a neat high ponytail, fastens her smartwatch, laces her sneakers, picks up a yoga mat, reusable water bottle, and wireless earbuds, then heads outside.
+
+She steps onto a lush green lawn surrounded by blooming flowers and tall trees glowing in the golden morning light. She begins with gentle stretching, yoga poses, squats, lunges, planks, push-ups, jumping jacks, and light jogging across the grass. Cinematic tracking shots capture realistic hair movement, natural breathing, and dew sparkling beneath her shoes. Macro shots highlight her smartwatch tracking heart rate, shoes brushing fresh grass, hands reaching toward the sky, and sunlight illuminating her face.
+
+After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh strawberry smoothie in a modern kitchen, pours it into a glass, walks to a sunlit window, notices the camera, smiles warmly, raises the smoothie toward the viewer in a friendly toast, and enjoys the peaceful morning as the camera slowly pulls back.
+
+Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimbal camera movement, shallow depth of field, premium lifestyle cinematography, realistic skin texture, natural hair physics, physically accurate sunrise lighting, warm golden-hour atmosphere, glossy commercial-quality color grading, 4K HDR, 16:9, with natural ambient audio only (birds chirping, gentle breeze, rustling leaves, footsteps on grass, breathing, water bottle opening, smoothie blending), no background music, subtitles, logos, watermarks, or on-screen text.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Smartwatch Product Lifestyle Ad
+
+> A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
+
+[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2080519081959276735) | **Published:** 2026-07-24 | **Heat:** 19
+
+**Stability:** 75/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.7) · [output](https://media.goodcase.ai/retests/case-146e12082f4d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (19 lines, click to expand)</b></summary>
+
+```
+Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
+
+The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
+
+A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
+
+She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
+
+The scene transitions to a stylish café where she effortlessly pays for her coffee using the smartwatch. Cinematic close-ups highlight the contactless payment animation, subtle wrist gestures, and premium design.
+
+Later she walks through vibrant city streets, using the smartwatch for navigation, controlling her music, reading messages, checking the weather, and setting reminders. Natural lifestyle moments show her confidently interacting with the watch without ever reaching for her phone.
+
+Golden hour arrives as she relaxes on a rooftop overlooking the city skyline. She raises her wrist toward the sunset, and the smartwatch display transitions into a beautiful golden watch face. Macro shots emphasize the premium craftsmanship, slim profile, sapphire glass reflections, and luxury finish.
+
+The final cinematic hero shot shows her smiling warmly toward the camera while gently holding her wrist forward, making the smartwatch the focal point. The camera slowly circles around her before pulling back to reveal the glowing city skyline bathed in golden evening light.
+
+Natural ambient audio only: birds chirping, footsteps, gentle breeze, smartwatch tap sounds, subtle notification chimes, café ambience, coffee machine sounds, city ambience, leaves rustling. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
+
+Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinematography, smooth handheld and gimbal camera movement, cinematic push-ins, elegant orbit shots, realistic skin texture, physically accurate lighting, shallow depth of field, luxury lifestyle aesthetic, photorealistic product reflections, 4K HDR, 24fps, 16:9 widescreen.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Fingertips on a Rainy Car Window at Night
+
+> Rainy windows, blurred city lights, and quiet moments that somehow say everything without a single word. Created with se
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithminal-seedance-ai-5612b068051f.jpg" width="600" alt="Fingertips on a Rainy Car Window at Night">](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithMinal | **Source:** [Original](https://x.com/AIwithMinal/status/2093560634822762971) | **Published:** 2026-08-29 | **Heat:** 19
+
+**Stability:** 84/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.5) · [output](https://media.goodcase.ai/retests/aiwithminal-seedance-ai-5612b068051f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Cinematic close-up of a delicate feminine hand gently touching a rain-covered car window, tiny raindrops and water trails visible on the glass, blurred city lights glowing in blue, red, and white tones outside, dreamy nighttime atmosphere, emotional and melancholic mood, shallow depth of field, creamy bokeh, soft ambient lighting, realistic skin texture, cinematic color grading, ultra-realistic photography, 85mm lens, f/1.8, HDR, highly detailed, vertical 9:16 composition.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Stop-Motion Clay Miniature Nutella Cafe
+
+> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
+
+[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="Stop-Motion Clay Miniature Nutella Cafe">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @MayaAiCreator | **Source:** [Original](https://x.com/MayaAiCreator/status/2091397686104588650) | **Published:** 2026-08-23 | **Heat:** 19
+
+**Stability:** 77/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/mayaaicreator-seedance-ai-99e38c199ba8/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (12 lines, click to expand)</b></summary>
+
+```
+A prompt to recreate this stop-motion claymation style AI video:
+Seedance 2.0. 
+​Style & Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence & Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera & Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Taoist Warrior and Giant on a Mountain Road Chase
 
 > Incredible character visuals and dialogue that actually hits! 🎬🔥 Stop wasting tokens on endless prompt tweaks. Seedanc
 
 [<img src="https://media.goodcase.ai/media/poster/seharshinwari-seedance-ai-ce8e8937181f.jpg" width="600" alt="Taoist Warrior and Giant on a Mountain Road Chase">](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @SeharShinwari | **Source:** [Original](https://x.com/SeharShinwari/status/2090046273952915887) | **Published:** 2026-08-19 | **Heat:** 20
+**Author:** @SeharShinwari | **Source:** [Original](https://x.com/SeharShinwari/status/2090046273952915887) | **Published:** 2026-08-19 | **Heat:** 19
 
 <details>
 <summary><b>Full prompt (51 lines, click to expand)</b></summary>
@@ -750,13 +904,31 @@ No superhero references, no existing copyrighted characters, no green superhero 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seharshinwari-seedance-ai-ce8e8937181f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Retro 16mm Aerobics Fitness Vlog
+
+> A cinematic prompt for creating a nostalgic early-2000s-style fitness vlog starring a Korean idol, emphasizing authentic handheld camerawork and a lo-fi videotape texture.
+
+[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="Retro 16mm Aerobics Fitness Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | **Published:** 2026-07-25 | **Heat:** 18
+
+**Stability:** 81/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.8) · [output](https://media.goodcase.ai/retests/16mm-vlog-c8cfec0d8310/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Ghibli-Style Starbucks Ad
 
 > A warm and cheerful 2D animated Starbucks coffee ad prompt that blends Ghibli aesthetics, urban life scenes, and lively animation performance.
 
 [<img src="https://media.goodcase.ai/media/poster/starbucks-739b454ab5c1.jpg" width="600" alt="Ghibli-Style Starbucks Ad">](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2080914390782779861) | **Published:** 2026-07-25 | **Heat:** 19
+**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2080914390782779861) | **Published:** 2026-07-25 | **Heat:** 18
 
 **Stability:** 81/100
 
@@ -768,54 +940,13 @@ Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Cof
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Smartwatch Product Lifestyle Ad
-
-> A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
-
-[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2080519081959276735) | **Published:** 2026-07-24 | **Heat:** 19
-
-**Stability:** 75/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.7) · [output](https://media.goodcase.ai/retests/case-146e12082f4d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (19 lines, click to expand)</b></summary>
-
-```
-Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
-
-The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
-
-A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
-
-She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
-
-The scene transitions to a stylish café where she effortlessly pays for her coffee using the smartwatch. Cinematic close-ups highlight the contactless payment animation, subtle wrist gestures, and premium design.
-
-Later she walks through vibrant city streets, using the smartwatch for navigation, controlling her music, reading messages, checking the weather, and setting reminders. Natural lifestyle moments show her confidently interacting with the watch without ever reaching for her phone.
-
-Golden hour arrives as she relaxes on a rooftop overlooking the city skyline. She raises her wrist toward the sunset, and the smartwatch display transitions into a beautiful golden watch face. Macro shots emphasize the premium craftsmanship, slim profile, sapphire glass reflections, and luxury finish.
-
-The final cinematic hero shot shows her smiling warmly toward the camera while gently holding her wrist forward, making the smartwatch the focal point. The camera slowly circles around her before pulling back to reveal the glowing city skyline bathed in golden evening light.
-
-Natural ambient audio only: birds chirping, footsteps, gentle breeze, smartwatch tap sounds, subtle notification chimes, café ambience, coffee machine sounds, city ambience, leaves rustling. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
-
-Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinematography, smooth handheld and gimbal camera movement, cinematic push-ins, elegant orbit shots, realistic skin texture, physically accurate lighting, shallow depth of field, luxury lifestyle aesthetic, photorealistic product reflections, 4K HDR, 24fps, 16:9 widescreen.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 3D Baking Animation Sequence
 
 > This is a comprehensive prompt designed for Seedance 2.0, intended to transform a visual storyboard into a 10-second 3D animation showing a girl baking cupcakes with a specific timeline of actions.
 
 [<img src="https://media.goodcase.ai/media/poster/3d-f194855e4246.jpg" width="600" alt="3D Baking Animation Sequence">](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @HaniaAi12 | **Source:** [Original](https://x.com/HaniaAi12/status/2076979039747920309) | **Published:** 2026-07-14 | **Heat:** 19
+**Author:** @HaniaAi12 | **Source:** [Original](https://x.com/HaniaAi12/status/2076979039747920309) | **Published:** 2026-07-14 | **Heat:** 18
 
 <details>
 <summary><b>Full prompt (23 lines, click to expand)</b></summary>
@@ -850,23 +981,48 @@ Important: Treat the uploaded storyboard only as a reference. Never animate the 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/3d-f194855e4246?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Fingertips on a Rainy Car Window at Night
+### Premium Tropical Drink UGC Ad
 
-> Rainy windows, blurred city lights, and quiet moments that somehow say everything without a single word. Created with se
+> A detailed multi-scene video prompt for a premium tropical drink ad, showing a woman on the beach with cinematic handheld shots and macro close-ups.
 
-[<img src="https://media.goodcase.ai/media/poster/aiwithminal-seedance-ai-5612b068051f.jpg" width="600" alt="Fingertips on a Rainy Car Window at Night">](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="Premium Tropical Drink UGC Ad">](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @AIwithMinal | **Source:** [Original](https://x.com/AIwithMinal/status/2093560634822762971) | **Published:** 2026-08-29 | **Heat:** 19
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | **Published:** 2026-07-14 | **Heat:** 18
 
-**Stability:** 84/100
+**Stability:** 77/100
 
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.5) · [output](https://media.goodcase.ai/retests/aiwithminal-seedance-ai-5612b068051f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (21 lines, click to expand)</b></summary>
 
 ```
-Cinematic close-up of a delicate feminine hand gently touching a rain-covered car window, tiny raindrops and water trails visible on the glass, blurred city lights glowing in blue, red, and white tones outside, dreamy nighttime atmosphere, emotional and melancholic mood, shallow depth of field, creamy bokeh, soft ambient lighting, realistic skin texture, cinematic color grading, ultra-realistic photography, 85mm lens, f/1.8, HDR, highly detailed, vertical 9:16 composition.
+Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
+
+The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
+
+She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
+
+She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
+
+She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
+
+The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
+
+As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
+
+The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
+
+The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
+
+Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
+
+Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
 ```
 
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithminal-seedance-ai-5612b068051f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Wordless Love Through Sign Language
 
@@ -874,7 +1030,7 @@ Cinematic close-up of a delicate feminine hand gently touching a rain-covered ca
 
 [<img src="https://media.goodcase.ai/media/poster/abulu8-seedance-ai-fe02d3785b12.jpg" width="600" alt="A Wordless Love Through Sign Language">](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @abulu8 | **Source:** [Original](https://x.com/abulu8/status/2092917994251075961) | **Published:** 2026-08-27 | **Heat:** 19
+**Author:** @abulu8 | **Source:** [Original](https://x.com/abulu8/status/2092917994251075961) | **Published:** 2026-08-27 | **Heat:** 18
 
 **Stability:** 62/100
 
@@ -1039,101 +1195,6 @@ POSITIVE LOCKS Faces, hands, hair and jewellery identical across all seven shots
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/abulu8-seedance-ai-fe02d3785b12?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Stop-Motion Clay Miniature Nutella Cafe
-
-> A prompt to recreate this stop-motion claymation style AI video: Seedance 2.0. ​Style & Aesthetics 3D stop-motion clayma
-
-[<img src="https://media.goodcase.ai/cases/6ba4b46a24b8.jpg" width="600" alt="Stop-Motion Clay Miniature Nutella Cafe">](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @MayaAiCreator | **Source:** [Original](https://x.com/MayaAiCreator/status/2091397686104588650) | **Published:** 2026-08-23 | **Heat:** 19
-
-**Stability:** 77/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/mayaaicreator-seedance-ai-99e38c199ba8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (12 lines, click to expand)</b></summary>
-
-```
-A prompt to recreate this stop-motion claymation style AI video:
-Seedance 2.0. 
-​Style & Aesthetics
-3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
-​Scene Sequence & Action
-​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
-​Scene 2 (Structure & Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
-​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
-​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
-​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
-​Technical Camera & Lighting
-Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-99e38c199ba8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Retro 16mm Aerobics Fitness Vlog
-
-> A cinematic prompt for creating a nostalgic early-2000s-style fitness vlog starring a Korean idol, emphasizing authentic handheld camerawork and a lo-fi videotape texture.
-
-[<img src="https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg" width="600" alt="Retro 16mm Aerobics Fitness Vlog">](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2080999754859991152) | **Published:** 2026-07-25 | **Heat:** 18
-
-**Stability:** 81/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.8) · [output](https://media.goodcase.ai/retests/16mm-vlog-c8cfec0d8310/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/16mm-vlog-c8cfec0d8310?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Premium Tropical Drink UGC Ad
-
-> A detailed multi-scene video prompt for a premium tropical drink ad, showing a woman on the beach with cinematic handheld shots and macro close-ups.
-
-[<img src="https://media.goodcase.ai/media/poster/ugc-34764467dea1.jpg" width="600" alt="Premium Tropical Drink UGC Ad">](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2076908363913613653) | **Published:** 2026-07-14 | **Heat:** 18
-
-**Stability:** 77/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 77.3) · [output](https://media.goodcase.ai/retests/ugc-34764467dea1/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (21 lines, click to expand)</b></summary>
-
-```
-Create a premium UGC-style tropical beverage commercial featuring a beautiful young woman with long wavy dark hair, glowing sun-kissed skin, and a fresh natural look. Tropical beach with crystal-clear turquoise water, white sand, swaying palm trees, bright summer sunshine, cinematic handheld camera, ultra-realistic lifestyle photography.
-
-The video opens with the woman smiling directly into the camera while holding an ice-cold tropical sparkling drink beside her face. She playfully rotates the chilled can in her hand as condensation glistens under the bright sunlight. Ocean waves roll gently behind her while the breeze naturally moves her hair.
-
-She walks barefoot along the shoreline carrying the drink, smiling and looking back toward the camera. Close-up shots capture her footprints in the sand as waves gently wash over her feet.
-
-She pops the can open with a satisfying crisp fizz. Cinematic macro shots reveal sparkling bubbles, cold vapor, and water droplets exploding into the air. The sparkling drink pours elegantly into a glass filled with crystal-clear ice cubes as floating lemon slices, strawberries, mint leaves, and sparkling bubbles surround the glass in slow motion.
-
-She relaxes on a beach towel beneath a colorful umbrella, takes a long refreshing sip, closes her eyes, and smiles while enjoying the ocean breeze. Warm sunlight reflects across the chilled can and her glowing skin.
-
-The scene transitions to her playfully running into the shallow waves while holding the drink. Water splashes around her legs as she laughs naturally. Slow-motion tracking shots capture sparkling droplets flying through the air.
-
-As golden hour approaches, she sits on a wooden beach swing facing the ocean, gently swinging while enjoying another refreshing sip. The sunset creates warm reflections across the water and the aluminum can.
-
-The product becomes the focus as the chilled can floats among splashing water, crystal-clear ice cubes, floating strawberries, lemon slices, mint leaves, and shimmering droplets. The camera slowly circles around the product with premium commercial lighting.
-
-The final sequence shows the woman standing at the shoreline during sunset, smiling toward the camera as she raises the chilled drink for one final refreshing sip. She then walks barefoot along the beach with the can in her hand while the camera slowly pulls back to reveal the glowing tropical coastline under the golden sky.
-
-Style: premium UGC beverage commercial, luxury tropical lifestyle, realistic commercial cinematography, cinematic handheld and drone shots, macro product photography, vibrant tropical colors, realistic water physics, sparkling condensation, shallow depth of field, photorealistic, commercial-quality visuals, 4K HDR, 16:9 widescreen.
-
-Negative Prompt: No text, no captions, no subtitles, no logos, no product labels, no watermarks, no UI elements, no duplicate people, no cartoon style, no distorted anatomy.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Fashion UGC Ad
 
 > A user-generated content (UGC) style fashion ad prompt for showcasing an elegant dress, requiring natural motion effects and a realistic smartphone-shot aesthetic.
@@ -1179,24 +1240,6 @@ The video should have realistic smartphone camera quality, natural handheld move
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-f1f4b662e370?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Claymation Cat World Transformation
-
-> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
-
-[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2078535850745626926) | **Published:** 2026-07-18 | **Heat:** 17
-
-**Stability:** 87/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86.7) · [output](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Luxury Rooftop Helicopter Party
 
@@ -1286,24 +1329,6 @@ Create a humorous animated short showing a chaotic morning where a man oversleep
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-398be18644ee?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Studio Ghibli-Style Croissant Bakery
-
-> This is a cinematic animated-style video prompt designed for Seedance 2.0, intended to present the detailed process of making croissants in a warm Ghibli-style bakery.
-
-[<img src="https://media.goodcase.ai/media/poster/case-fecae6e34928.jpg" width="600" alt="Studio Ghibli-Style Croissant Bakery">](https://goodcase.ai/cases/case-fecae6e34928?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Ciri_ai | **Source:** [Original](https://x.com/Ciri_ai/status/2080302214640468225) | **Published:** 2026-07-23 | **Heat:** 16
-
-**Stability:** 83/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.2) · [output](https://media.goodcase.ai/retests/case-fecae6e34928/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Anime visual reference sheet, Studio Ghibli art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration. FOOD: Raw butter block, cold and pale yellow. Laminated dough with visible layered strata. Rolled out dough sheet, pale gold. Folded dough triangle, uncurled. Shaped croissant crescents on a tray, unbaked and pale. Egg wash brushed golden over dough. Finished croissant, deep golden brown, flaky shattered layers, steam rising, a torn piece showing honeycomb interior. TOOLS: Wooden rolling pin, bench scraper, pastry brush, proofing tray, oven interior glowing warm gold. COLOR PALETTE: Butter yellow #F4D58D, dough pale gold #EFDDB5, baked crust gold-brown #C68E3F, deep golden brown #8B5A2B, egg wash sheen #E8B84B, steam white #FAF8F3, shadow brown #4A2F1B. Bold anime outlines, cel shading, Ghibli bakery illustration style, multiple reference panels clearly labeled. Anime bakery short film, Ghibli pastry aesthetic, warm golden morning light, flour dust drifting in sunbeams, cozy bakery kitchen, 16:9. A series of rapid close-up macro shots: hands placing a cold butter block onto rolled dough, dough being folded over the butter and sealed at the edges, rolling pin pressing and elongating the dough in long even strokes, dough being folded into thirds in one smooth motion, rolling pin flattening the dough again into a long sheet, dough being rolled up tightly into a spiral, dough cut into triangles with a sharp knife, fingers rolling a triangle from base to tip into a crescent shape, shaped croissants being placed on a tray in a neat row, pastry brush sweeping golden egg wash across the surface, tray sliding into a warm glowing oven, close-up of croissants slowly puffing and browning under heat, layers visibly separating and flaking as they bake, croissants pulled from the oven golden and steaming, extreme close-up of a croissant being torn in half revealing airy honeycomb layers, steam curling up from the warm interior. Each shot lasts under one second, cinematic food film pacing, hyper-detailed anime illustration, warm amber and buttery gold tones throughout.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-fecae6e34928?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Coca-Cola Fashion Transition Ad
 
 > A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
@@ -1356,6 +1381,24 @@ Anime visual reference sheet, Studio Ghibli art style, clean cream white backgro
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Claymation Cat World Transformation
+
+> A whimsical animation prompt: with every step, a playful clay cat turns a gray world into a vibrant paradise, presented with Pixar-level lighting and handmade texture.
+
+[<img src="https://media.goodcase.ai/media/poster/case-6152b0808b14.jpg" width="600" alt="Claymation Cat World Transformation">](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @noorwithwifi | **Source:** [Original](https://x.com/noorwithwifi/status/2078535850745626926) | **Published:** 2026-07-18 | **Heat:** 16
+
+**Stability:** 87/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 86.7) · [output](https://media.goodcase.ai/retests/case-6152b0808b14/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a whimsical, cinematic claymation-style animation of a playful black-and-white cat transforming a grayscale world into a vibrant paradise. As the cat flips, runs, and lands, each step splashes rainbow paint and colorful confetti, bringing grass, flowers, rivers, trees, houses, mountains, and the sky to life. The camera follows with smooth dynamic movements, revealing a charming floating island filled with smiling celestial characters, lush vegetation, and colorful details. End with the cat proudly holding a red flower in a fully transformed, cheerful miniature world. Pixar-quality lighting, handcrafted clay textures, smooth animation, vibrant colors, and magical storytelling.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-6152b0808b14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### High-End Lifestyle Lipstick Commercial Video
 
@@ -1412,6 +1455,24 @@ BROADCAST REALISM: Genuine tension, traders ignoring camera, real-time number ch
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-f5315418af5f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Studio Ghibli-Style Croissant Bakery
+
+> This is a cinematic animated-style video prompt designed for Seedance 2.0, intended to present the detailed process of making croissants in a warm Ghibli-style bakery.
+
+[<img src="https://media.goodcase.ai/media/poster/case-fecae6e34928.jpg" width="600" alt="Studio Ghibli-Style Croissant Bakery">](https://goodcase.ai/cases/case-fecae6e34928?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Ciri_ai | **Source:** [Original](https://x.com/Ciri_ai/status/2080302214640468225) | **Published:** 2026-07-23 | **Heat:** 15
+
+**Stability:** 83/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.2) · [output](https://media.goodcase.ai/retests/case-fecae6e34928/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Anime visual reference sheet, Studio Ghibli art style, clean cream white background. Bold clean outlines, cel shading, pure 2D anime illustration. FOOD: Raw butter block, cold and pale yellow. Laminated dough with visible layered strata. Rolled out dough sheet, pale gold. Folded dough triangle, uncurled. Shaped croissant crescents on a tray, unbaked and pale. Egg wash brushed golden over dough. Finished croissant, deep golden brown, flaky shattered layers, steam rising, a torn piece showing honeycomb interior. TOOLS: Wooden rolling pin, bench scraper, pastry brush, proofing tray, oven interior glowing warm gold. COLOR PALETTE: Butter yellow #F4D58D, dough pale gold #EFDDB5, baked crust gold-brown #C68E3F, deep golden brown #8B5A2B, egg wash sheen #E8B84B, steam white #FAF8F3, shadow brown #4A2F1B. Bold anime outlines, cel shading, Ghibli bakery illustration style, multiple reference panels clearly labeled. Anime bakery short film, Ghibli pastry aesthetic, warm golden morning light, flour dust drifting in sunbeams, cozy bakery kitchen, 16:9. A series of rapid close-up macro shots: hands placing a cold butter block onto rolled dough, dough being folded over the butter and sealed at the edges, rolling pin pressing and elongating the dough in long even strokes, dough being folded into thirds in one smooth motion, rolling pin flattening the dough again into a long sheet, dough being rolled up tightly into a spiral, dough cut into triangles with a sharp knife, fingers rolling a triangle from base to tip into a crescent shape, shaped croissants being placed on a tray in a neat row, pastry brush sweeping golden egg wash across the surface, tray sliding into a warm glowing oven, close-up of croissants slowly puffing and browning under heat, layers visibly separating and flaking as they bake, croissants pulled from the oven golden and steaming, extreme close-up of a croissant being torn in half revealing airy honeycomb layers, steam curling up from the warm interior. Each shot lasts under one second, cinematic food film pacing, hyper-detailed anime illustration, warm amber and buttery gold tones throughout.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-fecae6e34928?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Influencer Luxury Villa Tour
 
@@ -1573,24 +1634,6 @@ Camera: fixed frontal composition throughout, 35mm full-body for character shots
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-181cb461432f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Blackboard Stick-Figure Karate Duel
-
-> A detailed 2D animation prompt describing a scene in which stick figures on a blackboard go from exchanging flowers to launching into an intense karate duel.
-
-[<img src="https://media.goodcase.ai/media/poster/case-de248f679b06.jpg" width="600" alt="Blackboard Stick-Figure Karate Duel">](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @mrdejie | **Source:** [Original](https://x.com/mrdejie/status/2079463899305476233) | **Published:** 2026-07-21 | **Heat:** 14
-
-**Stability:** 85/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 85.3) · [output](https://media.goodcase.ai/retests/case-de248f679b06/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-15-second 2D animated video. Camera is completely steady and static the entire time. On the large green chalkboard in a elementary classroom, two simple white chalk stick figures are drawn facing each other (male on the left, female on the right with a ponytail). Sequence: 0–5 seconds: The male stick figure (left) reaches behind his back and pulls out a white chalk-drawn flower. He gently offers the flower to the female stick figure. Small white chalk hearts appear around them. The female stick figure becomes shy and kilig, covering her face slightly with one hand while little hearts float up. All hearts and effects stay strictly inside the green chalkboard. 5–7 seconds: Sudden pause. Both stick figures freeze for a moment. 7–15 seconds: They suddenly drop into intense karate fighting stances. The two stick figures start a very intense chalk-drawn karate fight — fast punches, high kicks, spins, and dramatic poses. White chalk motion lines, impact stars, and dust effects appear with every hit. All motion lines, stars, dust, and graphic effects remain completely inside the green chalkboard and never go outside the board edges. Everything stays as white chalk drawings on the green board. The classroom background, desks, chairs, and posters remain completely still and unchanged. No camera movement. Clean 2D animation style, simple chalk line art, white chalk only, highly detailed motion, 15 seconds. Negative prompt: 3D, realistic people, moving camera, colored chalk, effects going outside the board, changing background, blurry, low quality
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### K-Pop Idol Backstage Vlog
 
 > A professional 4K storyboard script prompt designed for Seedance 2.0, showing a K-pop idol backstage in a dressing room, including camera movement guidance and Korean dialogue.
@@ -1646,6 +1689,24 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Blackboard Stick-Figure Karate Duel
+
+> A detailed 2D animation prompt describing a scene in which stick figures on a blackboard go from exchanging flowers to launching into an intense karate duel.
+
+[<img src="https://media.goodcase.ai/media/poster/case-de248f679b06.jpg" width="600" alt="Blackboard Stick-Figure Karate Duel">](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @mrdejie | **Source:** [Original](https://x.com/mrdejie/status/2079463899305476233) | **Published:** 2026-07-21 | **Heat:** 13
+
+**Stability:** 85/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 85.3) · [output](https://media.goodcase.ai/retests/case-de248f679b06/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+15-second 2D animated video. Camera is completely steady and static the entire time. On the large green chalkboard in a elementary classroom, two simple white chalk stick figures are drawn facing each other (male on the left, female on the right with a ponytail). Sequence: 0–5 seconds: The male stick figure (left) reaches behind his back and pulls out a white chalk-drawn flower. He gently offers the flower to the female stick figure. Small white chalk hearts appear around them. The female stick figure becomes shy and kilig, covering her face slightly with one hand while little hearts float up. All hearts and effects stay strictly inside the green chalkboard. 5–7 seconds: Sudden pause. Both stick figures freeze for a moment. 7–15 seconds: They suddenly drop into intense karate fighting stances. The two stick figures start a very intense chalk-drawn karate fight — fast punches, high kicks, spins, and dramatic poses. White chalk motion lines, impact stars, and dust effects appear with every hit. All motion lines, stars, dust, and graphic effects remain completely inside the green chalkboard and never go outside the board edges. Everything stays as white chalk drawings on the green board. The classroom background, desks, chairs, and posters remain completely still and unchanged. No camera movement. Clean 2D animation style, simple chalk line art, white chalk only, highly detailed motion, 15 seconds. Negative prompt: 3D, realistic people, moving camera, colored chalk, effects going outside the board, changing background, blurry, low quality
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-de248f679b06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Stop-Motion Animation: Wolf Pack Attack Sequence
 
@@ -1858,24 +1919,6 @@ Style: STOP-MOTION ANIMATION — stepped, frame-by-frame motion brought to a HAN
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-0287a838e662?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Wireless Earbuds Product Review
-
-> A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
-
-[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="Wireless Earbuds Product Review">](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Goodmanprotocol | **Source:** [Original](https://x.com/Goodmanprotocol/status/2078490755958780363) | **Published:** 2026-07-18 | **Heat:** 12
-
-**Stability:** 84/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.9) · [output](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A young creator walks into a bright living room holding a pair of sleek wireless earbuds still inside their charging case. Looking directly into the camera, they smile and say, 'These have honestly become my everyday essential.' They open the case, put the earbuds in, and instantly transition into a quick montage of working on a laptop, making coffee, and taking a short walk outside while music plays. Close-up shots highlight the earbuds' premium design and secure fit. The creator finishes by holding the charging case toward the camera and says, 'Great sound, all-day comfort, and I barely need to recharge them.' End with a clean product hero shot on a table and on-screen text: 'Upgrade your everyday audio.' Natural facial expressions, smooth handheld camera movement, cinematic depth of field, authentic UGC feel, high-quality audio, realistic lighting, premium commercial quality.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Cinematic Sourdough Bread Baking Timelapse
 
 > A detailed multi-shot video prompt for generating a professional sourdough bread baking timelapse, including close-up shots of kneading, proofing, and baking, with warm cinematic lighting effects.
@@ -1976,6 +2019,24 @@ premium UGC-style bitbyte ad showing a young professional taking a relaxing brea
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-6f13437e4b40?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Wireless Earbuds Product Review
+
+> A commercial-style video prompt for a young creator reviewing wireless earbuds, combining natural interaction with polished product close-up shots.
+
+[<img src="https://media.goodcase.ai/media/poster/case-b157d9c072bc.jpg" width="600" alt="Wireless Earbuds Product Review">](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Goodmanprotocol | **Source:** [Original](https://x.com/Goodmanprotocol/status/2078490755958780363) | **Published:** 2026-07-18 | **Heat:** 11
+
+**Stability:** 84/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.9) · [output](https://media.goodcase.ai/retests/case-b157d9c072bc/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A young creator walks into a bright living room holding a pair of sleek wireless earbuds still inside their charging case. Looking directly into the camera, they smile and say, 'These have honestly become my everyday essential.' They open the case, put the earbuds in, and instantly transition into a quick montage of working on a laptop, making coffee, and taking a short walk outside while music plays. Close-up shots highlight the earbuds' premium design and secure fit. The creator finishes by holding the charging case toward the camera and says, 'Great sound, all-day comfort, and I barely need to recharge them.' End with a clean product hero shot on a table and on-screen text: 'Upgrade your everyday audio.' Natural facial expressions, smooth handheld camera movement, cinematic depth of field, authentic UGC feel, high-quality audio, realistic lighting, premium commercial quality.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b157d9c072bc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Water Walking Xianxia Fraud
 
@@ -2256,24 +2317,6 @@ A battle-worn knight in blackened plate armor stands alone on a ruined stone bri
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-b1405ee458d3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Legendary Knight Fortress Battle
-
-> An epic fantasy prompt depicting a legendary knight battling a dragon and horned demons on a crumbling fortress, with dynamic camera movement and IMAX-level image quality.
-
-[<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="Legendary Knight Fortress Battle">](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | **Published:** 2026-07-23 | **Heat:** 8
-
-**Stability:** 81/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.9) · [output](https://media.goodcase.ai/retests/case-c726edc4268d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A legendary female knight with long platinum hair, striking green eyes, athletic physique, intricately engraved black steel armor with a flowing crimson cape and a massive enchanted greatsword stands alone atop the crumbling walls of an ancient fortress overlooking a vast battlefield where tens of thousands of soldiers, cavalry and towering siege engines are locked in brutal combat, a colossal dragon suddenly bursts through the clouds breathing an ocean of fire across the battlefield as a gigantic horned demon emerges from a collapsing mountain, without hesitation she leaps from the castle wall, falling hundreds of meters before landing with earth-shattering force that sends armored warriors flying in every direction, immediately charging straight toward the demon while dodging collapsing towers and dragon fire, climbing across the creature's massive body as it tears apart the landscape before driving her glowing sword directly through its skull, triggering an enormous magical explosion that tears open the storm clouds and floods the battlefield with golden light, cinematic IMAX aerial photography, seamless FPV dive, dynamic crane shots, dramatic orbit camera, slow-motion impacts, ultra-photorealistic medieval fantasy, volumetric sunlight, practical debris, cinematic smoke, epic orchestral atmosphere, blockbuster realism, Unreal Engine 5 quality.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Stop-Motion Oil Painting Animation
 
 > A unique prompt for creating a 2D stop-motion animation effect in an oil painting style, depicting a dramatic rescue scene on a snowy cliff.
@@ -2401,6 +2444,24 @@ Create a 3D claymation style animation of a cute caricature of Odysseus, wearing
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-95a5c01a9b87?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Legendary Knight Fortress Battle
+
+> An epic fantasy prompt depicting a legendary knight battling a dragon and horned demons on a crumbling fortress, with dynamic camera movement and IMAX-level image quality.
+
+[<img src="https://media.goodcase.ai/media/poster/case-c726edc4268d.jpg" width="600" alt="Legendary Knight Fortress Battle">](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @CharaspowerAI | **Source:** [Original](https://x.com/CharaspowerAI/status/2080306973220725206) | **Published:** 2026-07-23 | **Heat:** 7
+
+**Stability:** 81/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.9) · [output](https://media.goodcase.ai/retests/case-c726edc4268d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A legendary female knight with long platinum hair, striking green eyes, athletic physique, intricately engraved black steel armor with a flowing crimson cape and a massive enchanted greatsword stands alone atop the crumbling walls of an ancient fortress overlooking a vast battlefield where tens of thousands of soldiers, cavalry and towering siege engines are locked in brutal combat, a colossal dragon suddenly bursts through the clouds breathing an ocean of fire across the battlefield as a gigantic horned demon emerges from a collapsing mountain, without hesitation she leaps from the castle wall, falling hundreds of meters before landing with earth-shattering force that sends armored warriors flying in every direction, immediately charging straight toward the demon while dodging collapsing towers and dragon fire, climbing across the creature's massive body as it tears apart the landscape before driving her glowing sword directly through its skull, triggering an enormous magical explosion that tears open the storm clouds and floods the battlefield with golden light, cinematic IMAX aerial photography, seamless FPV dive, dynamic crane shots, dramatic orbit camera, slow-motion impacts, ultra-photorealistic medieval fantasy, volumetric sunlight, practical debris, cinematic smoke, epic orchestral atmosphere, blockbuster realism, Unreal Engine 5 quality.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c726edc4268d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Stop-Motion Animation: Stacked Potato Chips
 
@@ -3565,93 +3626,6 @@ Constraints: no new text, no misspellings, no duplicated labels, no warped produ
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-7aea1313f63b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Rooftop Chase Action Phrase
-
-> A detailed action phrase for Seedance 2.0, describing a chase scene in which a character crouches on the edge of a rooftop under a spotlight and leaps across a gap.
-
-[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="Rooftop Chase Action Phrase">](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @LANDCASTER_92 | **Source:** [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | **Published:** 2026-07-26 | **Heat:** 2
-
-**Stability:** 70/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 69.8) · [output](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (47 lines, click to expand)</b></summary>
-
-```
-Urban Escape Scene
-
-Models ( GPT Image-2 + Seedance 2.0)
-
-Seedance Prompts 2/3
-
-MOTION PHRASES:
-
-P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
-
-P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
-
-P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
-
-P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
-
-P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
-
-P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
-
-P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
-
-P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
-
-P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
-
-Seedance Prompts 3/3
-
-MOTION PHRASES:
-
-P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
-
-P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
-
-P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
-
-P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
-
-P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
-
-P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
-
-P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
-
-P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
-
-P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### FPV Drone Flight in New York
-
-> A hyperrealistic, highly cinematic drone flight prompt set in New York City, featuring complex FPV control techniques and golden-hour lighting effects.
-
-[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="FPV Drone Flight in New York">](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @KrevixAi | **Source:** [Original](https://x.com/KrevixAi/status/2081427105435255093) | **Published:** 2026-07-26 | **Heat:** 2
-
-**Stability:** 77/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 76.8) · [output](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.md)

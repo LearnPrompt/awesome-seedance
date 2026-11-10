@@ -2,9 +2,96 @@
 
 All 308 Seedance 2.0 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 290–308 of 308.
+This page: cases 288–308 of 308.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · [Part 3](./gallery-seedance-2-0-part-3.md) · **Part 4**
+
+### Rooftop Chase Action Phrase
+
+> A detailed action phrase for Seedance 2.0, describing a chase scene in which a character crouches on the edge of a rooftop under a spotlight and leaps across a gap.
+
+[<img src="https://media.goodcase.ai/media/poster/case-8f7479c32251.jpg" width="600" alt="Rooftop Chase Action Phrase">](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @LANDCASTER_92 | **Source:** [Original](https://x.com/LANDCASTER_92/status/2081432738683314614) | **Published:** 2026-07-26 | **Heat:** 2
+
+**Stability:** 70/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 69.8) · [output](https://media.goodcase.ai/retests/case-8f7479c32251/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (47 lines, click to expand)</b></summary>
+
+```
+Urban Escape Scene
+
+Models ( GPT Image-2 + Seedance 2.0)
+
+Seedance Prompts 2/3
+
+MOTION PHRASES:
+
+P01: Continuation wide. Vex crouches at the rooftop edge, spotlight sweeping over her as police close in behind.
+
+P02: She commits—launching across a rooftop gap in a full-extension jump, hair and bag whipping in the wind.
+
+P03: Hard landing on a slick roof. She catches herself in a low slide through rainwater and instantly regains control.
+
+P04: She redirects to a vertical pipe and fire-escape corner, using them to descend fast and fluidly.
+
+P05: She drops onto a slanted lower roof and slides down it, controlling speed with one hand while police appear above in pursuit.
+
+P06: Vex lands in a narrow alley at street level, absorbing the impact in a three-point landing as steam vents around her.
+
+P07: She spots her parked sleek Japanese motorcycle ahead, turns, and sprints toward it while lights flare behind her.
+
+P08: She swings onto the bike, starts it fast, and snaps into riding position as pursuing officers spill into the alley.
+
+P09: Final getaway shot. Vex rockets forward on the motorcycle, spraying water from the rear tire and blasting out of the alley as police lights chase behind. End on her accelerating into the neon-lit street.
+
+Seedance Prompts 3/3
+
+MOTION PHRASES:
+
+P01: Rear chase wide. Vex accelerates down the flooded neon street as a police cruiser gains behind her.
+
+P02: Low front three-quarter shot. She leans aggressively through a sharp turn, rear tire sliding slightly while the cruiser struggles to follow.
+
+P03: Vex cuts into a narrow market alley, threading between stacked crates and wet barriers with inches to spare.
+
+P04: She hits a makeshift ramp and launches the motorcycle over a construction divider as the pursuing cruiser brakes below.
+
+P05: Hard landing. The suspension compresses, the underside throws sparks, and Vex regains perfect control without slowing.
+
+P06: She enters an even tighter service passage, folding low over the tank and slipping through a gap too narrow for the police car.
+
+P07: The cruiser attempts the turn, clips the entrance barrier, and becomes blocked behind her. Sirens remain trapped in the distance.
+
+P08: Wide waterfront road. Vex emerges onto an open elevated route, checks behind her, and sees no police vehicles remaining on her trail.
+
+P09: Final victory shot. She accelerates toward the glowing skyline on the empty rain-slick road. The sirens fade completely as the camera holds on her taillight disappearing into the neon night.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-8f7479c32251?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### FPV Drone Flight in New York
+
+> A hyperrealistic, highly cinematic drone flight prompt set in New York City, featuring complex FPV control techniques and golden-hour lighting effects.
+
+[<img src="https://media.goodcase.ai/media/poster/fpv-cd4a852a53ba.jpg" width="600" alt="FPV Drone Flight in New York">](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @KrevixAi | **Source:** [Original](https://x.com/KrevixAi/status/2081427105435255093) | **Published:** 2026-07-26 | **Heat:** 2
+
+**Stability:** 77/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 76.8) · [output](https://media.goodcase.ai/retests/fpv-cd4a852a53ba/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Ultra-cinematic FPV drone flight through New York City during golden hour, hyper-realistic, seamless continuous camera movement, one uninterrupted shot, no cuts, no teleportation, aggressive speed ramp transitions, realistic inertia, dynamic acceleration and smooth deceleration. Begin with a breathtaking ultra-wide aerial establishing shot of the entire Manhattan skyline from above the harbor. The camera instantly accelerates toward Lower Manhattan, descending between skyscrapers at extreme speed. Approach One World Trade Center, smoothly slow down and perform a precise cinematic 360° orbit around the tower, then immediately accelerate through the urban canyon with intense parallax and motion blur. Continue flying at high speed above streets and between buildings toward the Statue of Liberty, rapidly decelerate and execute a smooth 360° orbit around the monument before accelerating once again across New York Harbor back toward Midtown Manhattan. Fly low above avenues and skyscrapers, racing directly into Times Square. Smoothly reduce speed for a spectacular 360° orbit around the giant LED billboards and surrounding towers, preserving fluid camera motion. Exit the orbit with an explosive speed ramp, rapidly climbing above Manhattan into a magnificent panoramic aerial view of the skyline at sunset. End with the camera continuing forward over the city as the skyline fills the frame. Ultra-smooth FPV motion, premium travel commercial, IMAX cinematic quality, HDR, 8K, volumetric sunlight, realistic reflections, atmospheric haze, high-detail architecture, natural colors, dynamic motion blur, stable horizon, seamless transitions, no people focus, no text, no logos, no glitches, no flickering, continuous cinematic flight.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Gladiator Arena Duel Action
 
