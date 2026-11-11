@@ -197,7 +197,7 @@ Audio: natural park ambience, distant voices, ball impact, footsteps
 
 ## E4 · Bicycle Courier Racing Through the City
 
-- Seedance 2.5 · creator: @Elvorya · heat: 63 · stability: 81
+- Seedance 2.5 · creator: @Elvorya · heat: 62 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-animated-urban-adventure-sequence-f-92f2a4a51ac5) · [finished media](https://media.goodcase.ai/cases/678ddbe216a4.mp4) · [poster](https://media.goodcase.ai/cases/d9e8d052ad57.jpg) · [original source](https://x.com/Elvorya/status/2102622012351131832)
 - Summary: When a delivery ride turns into a cinematic city adventure. Created on seedance 2.5 Prompt:Create a 15-second photorealistic cinematic animated urban adventure …
 

@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/9 页）
 
-Seedance 2.5 全部 728 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 735 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–86 条，共 728 条。
+本页：第 1–86 条，共 735 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
 
@@ -40,33 +40,6 @@ Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 首尔地铁反击：女子将挑衅者扔进垃圾桶
-
-> Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
-
-[<img src="https://media.goodcase.ai/cases/e7a04f6d6d46.jpg" width="600" alt="首尔地铁反击：女子将挑衅者扔进垃圾桶">](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2108760866422415701) | **发布:** 2026-10-10 | **热度:** 99
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
-
-```
-Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use realistic handheld camera movement, cold fluorescent lighting, teal-green accents, and real-time action.
-
-A Korean woman in her 20s with a black bob, sunglasses on her head, a fitted crop top, high-waisted blue jeans, black boots, and a brown shoulder bag descends the subway stairs holding a takeaway coffee. A Korean man with messy dark hair and blonde tips, wearing a dark-green bomber jacket, suddenly hits her from behind and laughs as she stumbles against the handrail. Furious, she chases him onto the platform as he boards a train and mocks her through the closing glass doors.
-
-She punches the glass, creating a dramatic crack and opening. As she confronts him, her coffee cup slips from her hand, falls to the platform, and spills visibly across the floor. She grabs his jacket, forcefully throws him through the air, and sends him crashing into a large metal rubbish bin. The bin rattles and wobbles as he lands inside, looking terrified and humiliated.
-
-She leans toward him and says, "Don't mess around." She then calmly walks away while he remains stuck in the bin.
-
-Maintain identical faces, hairstyles, outfits, and location throughout. Include realistic physics, expressive reactions, cinematic close-ups, subway ambience, and clear white subtitles. Keep the action non-gory, the coffee spill visible, and the final dustbin landing unmistakable.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 护肤品自拍口播 UGC 广告
 
@@ -183,6 +156,33 @@ Natural diegetic audio only. No music, narration, CGI look, artificial rain, fac
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 首尔地铁反击：女子将挑衅者扔进垃圾桶
+
+> Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
+
+[<img src="https://media.goodcase.ai/cases/e7a04f6d6d46.jpg" width="600" alt="首尔地铁反击：女子将挑衅者扔进垃圾桶">](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2108760866422415701) | **发布:** 2026-10-10 | **热度:** 98
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use realistic handheld camera movement, cold fluorescent lighting, teal-green accents, and real-time action.
+
+A Korean woman in her 20s with a black bob, sunglasses on her head, a fitted crop top, high-waisted blue jeans, black boots, and a brown shoulder bag descends the subway stairs holding a takeaway coffee. A Korean man with messy dark hair and blonde tips, wearing a dark-green bomber jacket, suddenly hits her from behind and laughs as she stumbles against the handrail. Furious, she chases him onto the platform as he boards a train and mocks her through the closing glass doors.
+
+She punches the glass, creating a dramatic crack and opening. As she confronts him, her coffee cup slips from her hand, falls to the platform, and spills visibly across the floor. She grabs his jacket, forcefully throws him through the air, and sends him crashing into a large metal rubbish bin. The bin rattles and wobbles as he lands inside, looking terrified and humiliated.
+
+She leans toward him and says, "Don't mess around." She then calmly walks away while he remains stuck in the bin.
+
+Maintain identical faces, hairstyles, outfits, and location throughout. Include realistic physics, expressive reactions, cinematic close-ups, subway ambience, and clear white subtitles. Keep the action non-gory, the coffee spill visible, and the final dustbin landing unmistakable.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 双人 K-pop MV 逐镜分镜
 
@@ -429,7 +429,7 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 [<img src="https://media.goodcase.ai/cases/cda25299498a.jpg" width="600" alt="女子藏身地牢守护三只幼龙">](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Adnan_Ai2 | **来源:** [原帖](https://x.com/Adnan_Ai2/status/2113945930185732358) | **发布:** 2026-10-24 | **热度:** 97
+**作者:** @Adnan_Ai2 | **来源:** [原帖](https://x.com/Adnan_Ai2/status/2113945930185732358) | **发布:** 2026-10-24 | **热度:** 96
 
 <details>
 <summary><b>完整 prompt（17 行，点开展开）</b></summary>
@@ -457,45 +457,6 @@ A dark, emotionally charged medieval fantasy drama, cinematic 16:9 widescreen fo
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 庭院吊床与清洗摩托的午后
-
-> Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
-
-[<img src="https://media.goodcase.ai/cases/d3f9b6377ec3.jpg" width="600" alt="庭院吊床与清洗摩托的午后">](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2099836703729172540) | **发布:** 2026-09-15 | **热度:** 97
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. Southeast Asian appearance with subtle Korean styling: olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy ponytail.
-
-Setting: Quiet early-2000s Southeast Asian residential neighborhood—concrete alley, simple homes, terraces, trees, plants, parked motorcycles, tangled overhead cables. No shops.
-
-Style: Raw early-2000s consumer DV/home-video footage. Heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, exposure shifts, rolling shutter, natural motion blur, faded low-contrast colors, washed highlights, digital noise/compression. No stabilization, beauty filters, cinematic grading, glamour, or posing.
-
-Timeline:
-
-- 00–03: Relaxing in a hammock between trees, dappled sunlight.
-- 03–07: Uses an old Nokia phone, presses keypad, subtle smile; focus hunts.
-- 07–10: Lazily stretches in hammock, phone on stomach, looks at canopy.
-- 10–13: Gets up, pockets phone, walks across yard.
-- 13–16: Crouches beside motorcycle, picks up soapy water and rag.
-- 16–20: Slowly cleans helmet; water drips onto concrete.
-- 20–24: Cleans motorcycle seat, briefly smiles at camera.
-- 24–27: Rinses and wrings rag over bucket.
-- 27–30: Wipes hands on jeans, looks at camera and softly smiles; abrupt cut to black.
-
-Audio: Natural ambience only—birds, breeze, distant motorcycles, chatter, hammock creaks, Nokia keypad clicks, leaves, water, and rag sounds. No music or cinematic effects.
-
-Format: 16:9.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女子在餐厅后厨迎战三名男子
 
@@ -595,6 +556,45 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d46c440165fa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 庭院吊床与清洗摩托的午后
+
+> Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
+
+[<img src="https://media.goodcase.ai/cases/d3f9b6377ec3.jpg" width="600" alt="庭院吊床与清洗摩托的午后">](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @doctorwasif | **来源:** [原帖](https://x.com/doctorwasif/status/2099836703729172540) | **发布:** 2026-09-15 | **热度:** 96
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
+
+```
+Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. Southeast Asian appearance with subtle Korean styling: olive-green faded sleeveless crop top, loose high-waist light-blue jeans, black canvas sneakers, black cord necklace, black wavy hair, side-swept bangs, messy ponytail.
+
+Setting: Quiet early-2000s Southeast Asian residential neighborhood—concrete alley, simple homes, terraces, trees, plants, parked motorcycles, tangled overhead cables. No shops.
+
+Style: Raw early-2000s consumer DV/home-video footage. Heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, exposure shifts, rolling shutter, natural motion blur, faded low-contrast colors, washed highlights, digital noise/compression. No stabilization, beauty filters, cinematic grading, glamour, or posing.
+
+Timeline:
+
+- 00–03: Relaxing in a hammock between trees, dappled sunlight.
+- 03–07: Uses an old Nokia phone, presses keypad, subtle smile; focus hunts.
+- 07–10: Lazily stretches in hammock, phone on stomach, looks at canopy.
+- 10–13: Gets up, pockets phone, walks across yard.
+- 13–16: Crouches beside motorcycle, picks up soapy water and rag.
+- 16–20: Slowly cleans helmet; water drips onto concrete.
+- 20–24: Cleans motorcycle seat, briefly smiles at camera.
+- 24–27: Rinses and wrings rag over bucket.
+- 27–30: Wipes hands on jeans, looks at camera and softly smiles; abrupt cut to black.
+
+Audio: Natural ambience only—birds, breeze, distant motorcycles, chatter, hammock creaks, Nokia keypad clicks, leaves, water, and rag sounds. No music or cinematic effects.
+
+Format: 16:9.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 实验室寄生体感染突袭
 
@@ -871,57 +871,6 @@ She laughs, loses her rhythm for a second, then continues.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-5de3fbc4f714?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 商场丧尸爆发中的保安与幸存者
-
-> A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
-
-[<img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="600" alt="商场丧尸爆发中的保安与幸存者">](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @auqibhabib | **来源:** [原帖](https://x.com/auqibhabib/status/2104107269206237325) | **发布:** 2026-09-27 | **热度:** 95
-
-**稳定度：** 72/100
-
-**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (72.2 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（29 行，点开展开）</b></summary>
-
-```
-Create a photorealistic live action horror short film set inside a busy modern shopping mall during normal operating hours. The scene must feel like a real emergency captured by a human handheld camera operator, not a choreographed action movie. Prioritize realistic human behavior, believable physics, natural body movement, consistent character appearance, spatial continuity, practical effects and authentic environmental detail.
-
-MAIN CHARACTER: A male mall security guard in his late 30s wearing a realistic dark security uniform and carrying a radio. Keep his face, clothing, body proportions and equipment identical throughout the entire video.
-
-SURVIVORS: A small group of ordinary shoppers with realistic clothing and consistent appearances. Their faces, clothing and body proportions must remain unchanged throughout the sequence.
-
-0–4 SECONDS:
-Begin immediately in the food court with shoppers eating and walking normally. Without warning, an infected man suddenly attacks a nearby shopper. The attack is chaotic and physically messy rather than theatrical. The victim falls against a table, knocking over food and drinks. Nearby shoppers freeze for a moment because they do not understand what is happening.
-
-4–8 SECONDS:
-Several shoppers back away. One person briefly tries to help before realizing the attacker is dangerous. Chairs scrape across the floor as people retreat. The security guard hears the disturbance and runs toward the food court. His reaction is confused and concerned, not heroic.
-
-8–12 SECONDS:
-The infected attacker suddenly rushes toward another shopper. The crowd finally realizes something is seriously wrong. Panic spreads naturally. People run in different directions instead of moving together. Some hide behind storefronts while others run toward exits. Shopping bags and personal belongings fall naturally as people flee.
-
-12–16 SECONDS:
-The security guard reaches the food court and sees two infected people approaching. He grabs a nearby metal crowd-control barrier for protection. He initially backs away while watching them. One infected suddenly charges. The guard swings the barrier defensively and knocks the attacker off balance. The movement must look heavy, awkward and physically difficult, never like professional choreography.
-
-16–20 SECONDS:
-A few shoppers help each other retreat behind a storefront entrance. One person pulls an injured shopper away from the food court. Nobody performs exaggerated combat moves. The guard keeps backing toward the survivors while maintaining distance from the infected.
-
-20–24 SECONDS:
-One infected suddenly charges again. The guard sidesteps at the last moment. The infected crashes into the glass railing from its own momentum. The glass cracks realistically but does not explode into an unrealistic shower of fragments. The guard immediately moves the survivors farther away.
-
-24–27 SECONDS:
-The survivors move together toward a partially closed storefront. The guard stays behind them and keeps watching the infected. Distant screaming comes from another section of the mall, suggesting the outbreak is larger than what the camera has witnessed without showing an unnecessary crowd of zombies.
-
-27–30 SECONDS:
-The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 首尔老街买面包与棉花糖的一天
 
 > Baddie with a different outfit today 🥵 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman spending a simple, …
@@ -1156,6 +1105,57 @@ SINGLE CONTINUOUS SHOT（00:00-00:29）
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 商场丧尸爆发中的保安与幸存者
+
+> A sudden zombie outbreak erupts inside a crowded shopping mall as shoppers rush to escape. Seedance 2.5 Prompt: Create a photorealistic live action horror short…
+
+[<img src="https://media.goodcase.ai/cases/be466ebf5501.jpg" width="600" alt="商场丧尸爆发中的保安与幸存者">](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @auqibhabib | **来源:** [原帖](https://x.com/auqibhabib/status/2104107269206237325) | **发布:** 2026-09-27 | **热度:** 94
+
+**稳定度：** 72/100
+
+**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (72.2 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（29 行，点开展开）</b></summary>
+
+```
+Create a photorealistic live action horror short film set inside a busy modern shopping mall during normal operating hours. The scene must feel like a real emergency captured by a human handheld camera operator, not a choreographed action movie. Prioritize realistic human behavior, believable physics, natural body movement, consistent character appearance, spatial continuity, practical effects and authentic environmental detail.
+
+MAIN CHARACTER: A male mall security guard in his late 30s wearing a realistic dark security uniform and carrying a radio. Keep his face, clothing, body proportions and equipment identical throughout the entire video.
+
+SURVIVORS: A small group of ordinary shoppers with realistic clothing and consistent appearances. Their faces, clothing and body proportions must remain unchanged throughout the sequence.
+
+0–4 SECONDS:
+Begin immediately in the food court with shoppers eating and walking normally. Without warning, an infected man suddenly attacks a nearby shopper. The attack is chaotic and physically messy rather than theatrical. The victim falls against a table, knocking over food and drinks. Nearby shoppers freeze for a moment because they do not understand what is happening.
+
+4–8 SECONDS:
+Several shoppers back away. One person briefly tries to help before realizing the attacker is dangerous. Chairs scrape across the floor as people retreat. The security guard hears the disturbance and runs toward the food court. His reaction is confused and concerned, not heroic.
+
+8–12 SECONDS:
+The infected attacker suddenly rushes toward another shopper. The crowd finally realizes something is seriously wrong. Panic spreads naturally. People run in different directions instead of moving together. Some hide behind storefronts while others run toward exits. Shopping bags and personal belongings fall naturally as people flee.
+
+12–16 SECONDS:
+The security guard reaches the food court and sees two infected people approaching. He grabs a nearby metal crowd-control barrier for protection. He initially backs away while watching them. One infected suddenly charges. The guard swings the barrier defensively and knocks the attacker off balance. The movement must look heavy, awkward and physically difficult, never like professional choreography.
+
+16–20 SECONDS:
+A few shoppers help each other retreat behind a storefront entrance. One person pulls an injured shopper away from the food court. Nobody performs exaggerated combat moves. The guard keeps backing toward the survivors while maintaining distance from the infected.
+
+20–24 SECONDS:
+One infected suddenly charges again. The guard sidesteps at the last moment. The infected crashes into the glass railing from its own momentum. The glass cracks realistically but does not explode into an unrealistic shower of fragments. The guard immediately moves the survivors farther away.
+
+24–27 SECONDS:
+The survivors move together toward a partially closed storefront. The guard stays behind them and keeps watching the infected. Distant screaming comes from another section of the mall, suggesting the outbreak is larger than what the camera has witnessed without showing an unnecessary crowd of zombies.
+
+27–30 SECONDS:
+The group reaches temporary safety behind the storefront. The guard slowly looks through the gap toward the food court. The mall has become eerily quiet. An escalator continues running in the background while abandoned shopping bags, overturned chairs and spilled food remain scattered across the floor. A distant infected figure briefly crosses the far end of the mall. The guard quietly raises one finger, signaling everyone to stay silent.Cut naturally to black.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-photorealistic-live-action-horror-short-film-set-inside-a-busy-modern-52b17b0d18ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 奶奶与狸猫麻雀逛早市
 
 > Grandma is out here for the shopping with her pet sparrow. Seedance 2.5 on @Flovaai Use my referral link to get offer: https://t.co/l1lPYN3ENF Skill Used: GTA 6…
@@ -1188,49 +1188,6 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-grandma-is-out-here-for-the-shopping-with-her-pet-sparrow-d6d07e610943?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 金发少女在高中走廊释放超能力
-
-> Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="600" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2092119695201837059) | **发布:** 2026-08-25 | **热度:** 94
-
-**稳定度：** 82/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.6 分) · [产物](https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-b204cdfb3dac/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a cinematic, photorealistic 30-second live-action video set inside a modern American high school hallway lined with beige lockers. A beautiful young blonde female student with tied-back blonde hair, wearing a loose white long-sleeve top, black mini skirt, black backpack and casual shoes, walks through the crowded hallway while several students around her watch and interact with her.
-
-Start with a natural medium shot of the girl walking between other students. Use realistic handheld camera movement, shallow depth of field, soft cinematic lighting, natural skin texture, realistic facial expressions and authentic high-school atmosphere.
-
-As she continues walking, tension suddenly builds. A female student in a dark varsity-style jacket approaches her. The blonde girl raises her hand and mysterious pink-red energy begins glowing around her hands. Small luminous particles and sparks appear in the air. The energy gradually becomes stronger, creating a supernatural aura around her body.
-
-Transition smoothly into an intense superhero-style action sequence in the same school corridor. The blonde girl suddenly moves with extraordinary speed and power, dodging an attacking male student and striking him with glowing pink-red energy. Show dynamic martial-arts-inspired movements, fast footwork, powerful kicks and punches, with energy trails following her movements.
-
-Use cinematic slow motion for the strongest attacks, followed by fast-paced cuts. Show students reacting and moving away in fear as the fight continues down the hallway. The glowing pink-red energy should illuminate the lockers, floor and characters realistically, with subtle volumetric light, sparks, smoke and motion blur.
-
-Include a dramatic moment where the girl performs a powerful spinning kick while surrounded by bright pink-red energy, sending the opponent backward. Keep the choreography physically believable and visually grounded, avoiding cartoonish effects.
-
-Near the end, the hallway becomes quiet. The glowing energy disappears and the girl calmly continues walking toward the camera as if nothing happened. End with a close-up/medium close-up of her face with a confident, serious expression.
-
-Visual style: photorealistic Hollywood superhero movie, cinematic color grading, realistic teenage/high-school environment, detailed faces, natural skin, realistic clothing and hair physics, realistic lighting, subtle film grain, shallow depth of field, professional cinematography, dynamic camera movement, high-detail VFX, realistic particle effects, 4K cinematic quality.
-
-Camera: handheld tracking shots, medium shots, close-ups, low-angle action shots, smooth whip-pans, controlled motion blur, occasional slow motion during attacks.
-
-Aspect ratio: 16:9.
-Duration: approximately 30 seconds.
-No text, no subtitles, no logos, no watermark, no distorted faces, no extra fingers, no unnatural anatomy.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 原生 UGC 竖屏手机跟拍短片
 
@@ -1598,6 +1555,49 @@ No gore, blood, serious injuries, identity drift, outfit changes, duplicated peo
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-93b40e9db5b1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 金发少女在高中走廊释放超能力
+
+> Made with seedance 2.5 Prompt: Create a cinematic, photorealistic 30-second live-action video set inside a modern Americ
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-b204cdfb3dac.jpg" width="600" alt="金发少女在高中走廊释放超能力">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2092119695201837059) | **发布:** 2026-08-25 | **热度:** 93
+
+**稳定度：** 82/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.6 分) · [产物](https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-b204cdfb3dac/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
+
+```
+Create a cinematic, photorealistic 30-second live-action video set inside a modern American high school hallway lined with beige lockers. A beautiful young blonde female student with tied-back blonde hair, wearing a loose white long-sleeve top, black mini skirt, black backpack and casual shoes, walks through the crowded hallway while several students around her watch and interact with her.
+
+Start with a natural medium shot of the girl walking between other students. Use realistic handheld camera movement, shallow depth of field, soft cinematic lighting, natural skin texture, realistic facial expressions and authentic high-school atmosphere.
+
+As she continues walking, tension suddenly builds. A female student in a dark varsity-style jacket approaches her. The blonde girl raises her hand and mysterious pink-red energy begins glowing around her hands. Small luminous particles and sparks appear in the air. The energy gradually becomes stronger, creating a supernatural aura around her body.
+
+Transition smoothly into an intense superhero-style action sequence in the same school corridor. The blonde girl suddenly moves with extraordinary speed and power, dodging an attacking male student and striking him with glowing pink-red energy. Show dynamic martial-arts-inspired movements, fast footwork, powerful kicks and punches, with energy trails following her movements.
+
+Use cinematic slow motion for the strongest attacks, followed by fast-paced cuts. Show students reacting and moving away in fear as the fight continues down the hallway. The glowing pink-red energy should illuminate the lockers, floor and characters realistically, with subtle volumetric light, sparks, smoke and motion blur.
+
+Include a dramatic moment where the girl performs a powerful spinning kick while surrounded by bright pink-red energy, sending the opponent backward. Keep the choreography physically believable and visually grounded, avoiding cartoonish effects.
+
+Near the end, the hallway becomes quiet. The glowing energy disappears and the girl calmly continues walking toward the camera as if nothing happened. End with a close-up/medium close-up of her face with a confident, serious expression.
+
+Visual style: photorealistic Hollywood superhero movie, cinematic color grading, realistic teenage/high-school environment, detailed faces, natural skin, realistic clothing and hair physics, realistic lighting, subtle film grain, shallow depth of field, professional cinematography, dynamic camera movement, high-detail VFX, realistic particle effects, 4K cinematic quality.
+
+Camera: handheld tracking shots, medium shots, close-ups, low-angle action shots, smooth whip-pans, controlled motion blur, occasional slow motion during attacks.
+
+Aspect ratio: 16:9.
+Duration: approximately 30 seconds.
+No text, no subtitles, no logos, no watermark, no distorted faces, no extra fingers, no unnatural anatomy.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-b204cdfb3dac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 乡间少女与喷火龙共烤火鸡
 
 > 🤯 This AI video looks almost indistinguishable from reality! 🎬 Created with Seedance 2.5 on Prompt below⤵️
@@ -1848,39 +1848,6 @@ Negative:
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-269d1fc95820?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 韩系情侣的街头约会日记
-
-> POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg" width="600" alt="韩系情侣的街头约会日记">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2094997895187673489) | **发布:** 2026-09-02 | **热度:** 92
-
-<details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
-
-```
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, makeup, body proportions, 
-
-Style: Early-2000s MiniDV home-video aesthetic, photorealistic live-action, shaky handheld camera, slight autofocus hunting, natural exposure shifts, motion blur, imperfect framing, warm afternoon light, authentic everyday atmosphere.
-
-A young woman from Korea wearing a fitted pastel tshirt spends a casual afternoon with her boyfriend in a quiet neighborhood. She films herself walking down the street, smiling at the camera while her boyfriend walks beside her. They stop at a small street-food stall, share a snack, laugh together, and continue walking.
-
-She playfully steals his sunglasses and puts them on, making him laugh. They sit together on a low wall, talk and tease each other, then walk through a small park while she records little moments on the handheld camera.
-
-As the sun begins to set, they stop under a streetlight. She turns the camera toward him, they exchange a warm smile, move closer, and share a brief natural kiss on the lips.
-
-The camera stays handheld and slightly imperfect as they laugh afterward and walk away together.
-
-Audio: Natural street ambience, footsteps, distant traffic, birds, casual conversation and laughter. No music.
-
-Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 狐狸在森林溪流边自拍漫游
 
@@ -2454,311 +2421,38 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-sci-fi-action-sequence-moody-desaturated-color-grade-edfd133b78ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 五点下班的办公室潜行
+### 韩系情侣的街头约会日记
 
-> Leaving work at five shouldn’t require stealth mode, but her boss made it a mission. Seedance 2.5 0n @SJinn_Agent Prompt SCENE CONTEXT A 30-second realistic AAA…
+> POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
 
-[<img src="https://media.goodcase.ai/cases/199c37ba7f84.jpg" width="600" alt="五点下班的办公室潜行">](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg" width="600" alt="韩系情侣的街头约会日记">](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2099440985872933199) | **发布:** 2026-09-14 | **热度:** 91
+**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2094997895187673489) | **发布:** 2026-09-02 | **热度:** 91
 
 <details>
-<summary><b>完整 prompt（288 行，点开展开）</b></summary>
+<summary><b>完整 prompt（15 行，点开展开）</b></summary>
 
 ```
-Leaving work at five shouldn’t require stealth mode, but her boss made it a mission.
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, makeup, body proportions, 
 
-Seedance 2.5 0n @SJinn_Agent 
+Style: Early-2000s MiniDV home-video aesthetic, photorealistic live-action, shaky handheld camera, slight autofocus hunting, natural exposure shifts, motion blur, imperfect framing, warm afternoon light, authentic everyday atmosphere.
 
-Prompt
+A young woman from Korea wearing a fitted pastel tshirt spends a casual afternoon with her boyfriend in a quiet neighborhood. She films herself walking down the street, smiling at the camera while her boyfriend walks beside her. They stop at a small street-food stall, share a snack, laugh together, and continue walking.
 
-SCENE CONTEXT
+She playfully steals his sunglasses and puts them on, making him laugh. They sit together on a low wall, talk and tease each other, then walk through a small park while she records little moments on the handheld camera.
 
-A 30-second realistic AAA third-person stealth-action game sequence set in a Japanese corporate office at exactly 5:00 PM on a bright weekday afternoon. The player character, NAGI, has finished her work and must reach the elevator without being stopped by her boss and given another assignment.
+As the sun begins to set, they stop under a streetlight. She turns the camera toward him, they exchange a warm smile, move closer, and share a brief natural kiss on the lips.
 
-ACTIVE REFERENCES
+The camera stays handheld and slightly imperfect as they laugh afterward and walk away together.
 
-[@Image1] = NAGI’s facial identity, if a character reference is supplied. Use only her facial appearance as the identity reference; replace any school clothing and background with the adult office character and environment specified below.
+Audio: Natural street ambience, footsteps, distant traffic, birds, casual conversation and laughter. No music.
 
-NAGI: Japanese woman, 25, long straight black hair with blunt bangs, white short-sleeve office blouse, charcoal tailored trousers, black leather belt, white minimalist sneakers, employee ID clipped to her waistband, small black work tote held close to her body.
-
-Voice: light, breathy adult female voice, speaking Japanese in a hushed whisper. Keep her face, hairstyle, outfit, proportions, and accessories identical throughout.
-
-CAST SEPARATION
-
-Four distinct adult office characters appear, each with a different silhouette, age, and hairstyle so they read as separate people:
-
-TEAM LEADER: man in his 40s, 170 cm, average build, full head of short black hair parted at the side, thin metal-framed glasses, white dress shirt with a loosened navy tie. Appears only beside the first desk cluster, checking his watch.
-PAPERWORK COWORKER: woman in her 20s, 160 cm, slim, brown hair in a high ponytail, beige cardigan over a white blouse, carrying a thick stack of printouts. Appears only in the printer aisle.
-BOSS: man in his 60s, 160 cm, stout and round-shouldered, completely bald with a shiny scalp and a fringe of white hair above the ears, round gold-rimmed glasses, charcoal three-piece suit with a company lapel badge, carrying a blue assignment folder. Appears at the corridor T-junction and remains in that connected corridor during the whiteboard sequence.
-OFFICE ASSISTANT: man in his early 30s, 182 cm, lean and broad-shouldered, thick full black hair swept back, short beard, navy shirt with rolled sleeves, dark trousers, no glasses. Pushes the mobile whiteboard from the meeting-room alcove toward the elevator lobby.
-
-The BOSS is the only bald character in the entire video. The OFFICE ASSISTANT keeps a full head of thick black hair and a beard, stands more than 20 cm taller than the BOSS, and is clearly a different, much younger man.
-
-LOCATION MAP
-
-One unbroken spatial route the camera travels with her:
-
-Her workstation → low desk partition → printer aisle → corridor T-junction → meeting-room alcove with mobile whiteboard → elevator lobby → elevator interior.
-
-Keep the route compact and physically traversable within the 27-second continuous section.
-
-Foreground: polished linoleum floor, office desks, steel filing cabinets, rolling chairs, and reflective glass meeting-room partitions.
-
-Background: window wall on camera-right overlooking neighboring office buildings, dust suspended in the sunbeams. Light enters from camera-right along the office route.
-
-ELEVATOR GEOMETRY
-
-The elevator entrance is at the end of the office corridor. The call button is on the wall beside the entrance. The elevator is empty when NAGI enters.
-
-Inside the elevator: brushed-metal rear wall, side handrails, softly illuminated ceiling, control panel beside the doorway. No rear exit and no mirror creating a second NAGI.
-
-NAGI enters facing the rear wall, then turns to face the open elevator doors.
-
-For the final reverse shot, the camera is positioned INSIDE the elevator, immediately beside the doorway, looking inward at NAGI. The brushed-metal rear wall is behind her. The elevator doors close behind the camera, allowing her face to remain visible throughout the final shot.
-
-FIRST FRAME / BLOCKING
-
-First frame is already in motion: NAGI darts in from lower-left toward camera-right, work tote clutched to her chest, and drops into a crouch-slide behind a low desk partition beside her workstation.
-
-Camera behind her right shoulder. Game HUD fully visible from frame one.
-
-A small desk clock reads 17:00.
-
-FORMAT MODE
-
-One continuous unbroken take from 0.0s to 27.0s with no cuts of any kind, then a single HARD CUT at 27.0s to one final locked reverse shot that runs to 30.0s.
-
-Exactly one cut exists in the whole video, at 27.0s. The camera does not cut anywhere else.
-
-OPTICS
-
-One lens for the continuous section: 47° third-person over-the-shoulder framing as the baseline, breathing in to 29° on reaction beats and out to 63° for the boss encounter and moving-whiteboard concealment.
-
-All FOV changes in that section happen as smooth continuous zoom breathing, never as a jump.
-
-The final shot after the cut is a fixed 29° frontal framing of NAGI, no drift.
-
-CAMERA
-
-For the continuous section, the camera is a physical object flying with her.
-
-Chest-height, 1.5 meters behind NAGI, slightly camera-right of her spine, swinging with a soft spring delay half a beat behind her turns like an analog-stick gameplay camera.
-
-It dips to knee height when she crouches, rises when she stands, slides sideways along the filing cabinets with her, swings wide to corridor-left to reveal the boss encounter, drifts behind her for the moving whiteboard, and follows her through the open elevator doorway.
-
-The camera travels through open space around desks and partitions. It never clips through furniture, walls, the whiteboard, or elevator doors.
-
-After the cut, the camera is repositioned inside the elevator beside the doorway, looking inward at NAGI — locked off, eye level, completely static, no movement.
-
-ACTION
-
-[Beat 1 — 0.0s to 6.0s]
-
-NAGI crouch-slides behind the low desk partition, back flat against it, chest heaving. She leans out 20 cm to peek at the TEAM LEADER checking his watch beside the adjacent desk cluster, then pulls back.
-
-She whispers in Japanese:
-
-{定時だ…捕まったら終わり。}
-
-HUD flashes 【5:00 PM — SHIFT OVER】 and the mission banner 【OBJECTIVE: REACH THE ELEVATOR UNDETECTED】.
-
-The TEAM LEADER turns toward a ringing desk phone. NAGI slips behind his back, staying below the desk-partition line, and moves into the printer aisle.
-
-The camera follows without stopping.
-
-[Beat 2 — 6.0s to 12.0s]
-
-The camera stays with her beside the steel filing cabinets.
-
-NAGI presses her spine flat against the cabinets and shuffles sideways at 2 km/h, sneakers rolling heel-to-toe in silence. The camera tracks sideways with her at the same speed.
-
-The PAPERWORK COWORKER walks past the end of the row carrying a thick stack of printouts, scanning the office for someone available to help.
-
-NAGI holds her breath, pupils tracking the coworker without moving her head, and whispers:
-
-{来ないで…こっち見ないで。}
-
-The minimap vision cone sweeps past NAGI’s marker and turns away.
-
-HUD shows 【SNEAKING MODE】.
-
-The PAPERWORK COWORKER exits frame-left. NAGI exhales, crouches beneath the edge of the last desk, and slips into the corridor with the camera still on her shoulder.
-
-[Beat 3 — 12.0s to 18.0s]
-
-The BOSS steps around the T-junction two meters in front of her, blue assignment folder in hand.
-
-He catches a brief glimpse of movement. A red exclamation marker snaps above his bald head with a sharp alert sting. The HUD edge pulses red: 【ALERT】.
-
-He starts saying in Japanese:
-
-{なぎさん、追加の仕事が…}
-
-The camera swings wide to corridor-left as NAGI reacts in one motion: hugs her tote tightly against her ribs, drops below his eye line, pivots around the corner of a tall filing cabinet, and slips into the adjacent meeting-room alcove.
-
-The cabinet fully blocks his view before he can finish approaching her.
-
-She whispers:
-
-{今だけは無理…！}
-
-HUD prints 【EVASIVE MANEUVER】 and 【BREAK LINE OF SIGHT】.
-
-The BOSS takes a step toward the place where he last saw her, looking around the cabinet. NAGI has already moved to the far side of a mobile whiteboard in the alcove.
-
-The camera falls in behind her again.
-
-[Beat 4 — 18.0s to 24.0s]
-
-The OFFICE ASSISTANT starts pushing the mobile whiteboard out of the meeting-room alcove toward the elevator lobby.
-
-The whiteboard is a tall, opaque rectangular board on a metal frame with four caster wheels. Its panel extends low enough to conceal NAGI’s crouched torso and head; only her white sneakers occasionally show below the frame.
-
-NAGI crouches on the side opposite the BOSS and shuffles with the board, matching its rolling speed exactly. She keeps her tote tucked close so it never protrudes beyond the board’s edge.
-
-The camera tracks low on her concealed side, showing her careful steps and the BOSS intermittently visible beyond the board’s far edge.
-
-The BOSS pauses, looks toward the moving whiteboard for a full beat, then turns back toward the office with his assignment folder.
-
-From behind the board, NAGI whispers:
-
-{ホワイトボード…最強。}
-
-HUD prints 【MOBILE COVER EQUIPPED】, then 【ENEMY LOST CONTACT】.
-
-The alert bar drains to green.
-
-The OFFICE ASSISTANT steers the board into a wall recess beside the elevator lobby. NAGI slips away from its concealed side as it stops.
-
-[Beat 5 — 24.0s to 27.0s]
-
-NAGI reaches the elevator call button and taps it once.
-
-A soft arrival chime sounds. The elevator is already waiting on this floor; its doors slide fully open.
-
-She slips through the clear doorway. The camera follows her inside, staying behind her shoulder.
-
-She turns to face the entrance and presses the door-close button once. Her shoulders remain tense, tote held tightly in both hands.
-
-The doors remain open until the cut.
-
-27.0s HARD CUT
-
-[Beat 6 — 27.0s to 30.0s]
-
-Locked static reverse shot from inside the elevator beside the doorway, looking inward:
-
-NAGI stands facing camera, shoulders squared, work tote held in front of her, chest still rising fast. Behind her are the brushed-metal rear wall and a horizontal handrail.
-
-Off camera behind the lens, from the distant office corridor, the BOSS calls in Japanese:
-
-{なぎさん、ちょっといい？}
-
-The elevator doors slide closed behind the camera. Their narrowing opening is registered by the shrinking patch of corridor light across NAGI’s face and the sliding-door sound.
-
-NAGI answers brightly, looking straight down the lens:
-
-{お先に失礼します！}
-
-The doors finish closing. Her shoulders drop with relief.
-
-HUD prints 【MISSION COMPLETE】, 【STEALTH RANK: S】, 【ADRENALINE +150】, and the final notification:
-
-【AFTER-HOURS TASK EVADED】
-
-Final frame: NAGI facing camera, a tiny triumphant smile pulling at one corner of her mouth.
-
-PERFORMANCE
-
-Photographic human realism indistinguishable from live-action footage: skin with visible pores, fine vellus hair catching the light, subsurface scattering in the earlobes and fingertips, capillary flush across her cheeks and ears from running, individual flyaway strands lifting off her hair, wet living eyes with true window catchlights and a faint red inner rim, clean matte skin.
-
-Visible fast breathing at the collarbone, eyes darting a half-second before her head turns.
-
-Tension shown by muscle: shoulders drawn up to her ears, fingers clamped white on the tote handles, jaw set, then a full-body shoulder drop on each escape.
-
-All adults have equally real skin, real hair follicles, and natural asymmetric faces.
-
-PHYSICS
-
-Her blouse and tailored trousers crease naturally during crouches and turns. Hair lags and sweeps across her face on fast direction changes.
-
-The work tote has real weight: its handles pull taut in her hands, and its body swings with inertia before settling against her torso.
-
-The mobile whiteboard has real mass. Its caster wheels rotate against the floor, swivel when steered, and rattle lightly over a flooring seam. The board wobbles subtly when the OFFICE ASSISTANT starts and stops it.
-
-NAGI moves with her own visible footsteps; the board does not drag or transport her.
-
-The coworker’s printouts flex slightly while walking. The BOSS’s folder stays in his hand.
-
-Elevator doors slide smoothly on fixed tracks and close only after NAGI and the camera are fully inside.
-
-Contact shadows stay glued under every foot, every knee, every furniture leg, and every caster wheel.
-
-LIGHTING
-
-One continuous light logic across the office route: bright late-afternoon sun at 5600K entering from the window wall on camera-right, throwing long window-frame stripes across the floor.
-
-NAGI passes through light and shadow as she travels. Soft bounce fill off the pale linoleum lifts her face. Fine dust hangs suspended in the sunbeams.
-
-The elevator lobby receives the same window light. Inside the elevator, neutral overhead illumination provides continuous soft fill.
-
-In the final reverse shot, the same corridor daylight enters from camera-left through the open doorway, raking across her cheek. As the doors close behind the lens, this daylight narrows and disappears naturally, leaving the elevator’s established overhead light.
-
-Exposure rolls smoothly as she moves between bright and shadowed stretches, and the color temperature matches exactly across the cut.
-
-HUD
-
-GTA-style real-time game HUD locked to fixed screen positions for the whole 30 seconds, with every on-screen word written in English:
-
-Circular minimap bottom-left with the player arrow and yellow vision cones for the office characters; health and stamina bars top-left; alert-state bar shifting green to amber to red; controller button prompts bottom-right; English mission objective text top-center; floating red exclamation markers over alerted characters; notification cards sliding in from screen-right.
-
-The HUD stays in the same screen positions across the cut.
-
-No subtitles or caption bars anywhere on screen.
-
-The HUD is a clean flat graphic overlay composited on top of fully photographic live-action-grade footage.
-
-AUDIO
-
-Tense minimalist stealth synth loop with a pulsing heartbeat underneath, running unbroken across the cut and resolving to a short bright victory fanfare at the end.
-
-Ambience carries continuously through the cut. Office sounds become naturally muffled as the elevator doors close.
-All dialogue is spoken in Japanese.
-STYLE
-Photoreal live-action realism, real human beings and real fabric, natural skin tones with true-to-life color science, physically correct materials, realistic human proportions and anatomy, real optical depth of field, real floor reflections, subtle handheld gameplay motion blur, fine film grain at 5%, sharp detail intent.
-OUTPUT SETTINGS
-16:9, real-time speed throughout, one continuous 27-second take plus one 3-second locked shot after a single hard cut.
-POSITIVE LOCKS
-Exactly one cut in the entire video, at 27.0s — everything before it is a single unbroken take with the camera connected to NAGI.
-NAGI is consistently an adult office employee, 25, with the same face, long black hair with blunt bangs, white office blouse, charcoal tailored trousers, black belt, white sneakers, clipped employee ID, and black work tote throughout, with dry clean skin.
-The work tote stays with her throughout.
-The mobile whiteboard appears only from the meeting-room alcove onward and is physically pushed by the OFFICE ASSISTANT. It remains between NAGI and the BOSS during the concealment beat.
-
-The bald BOSS in the charcoal suit and the tall bearded OFFICE ASSISTANT with thick black hair are unmistakably different men.
-
-The office route remains spatially continuous. Characters do not teleport between locations.
-
-NAGI enters the elevator before turning toward its doors.
-
-In the final shot, the camera is inside the elevator beside the doorway, with NAGI facing the lens and the brushed-metal rear wall behind her. The doors close behind the camera; they never pass between the lens and her face.
-
-All on-screen text is English. The last 3 seconds hold a locked frontal eye-level shot of NAGI facing camera.
-
-HUD elements stay in the same screen corners throughout.
-
-One single NAGI on screen at all times.
-
-All spoken lines are in Japanese.
-
-Sunlight direction stays consistent across the office route, with a physically motivated transition to elevator lighting as the doors close.
-
-Final notification: 【AFTER-HOURS TASK EVADED】.
+Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔地铁女子泼咖啡反击，将施暴男子摔进垃圾桶
 
@@ -3273,6 +2967,312 @@ No animation, anime, cartoon, CGI look, duplicate woman, distorted faces, morphi
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-cinematic-fashion-music-video-using-the-uploaded-refe-60dc2791a093?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 五点下班的办公室潜行
+
+> Leaving work at five shouldn’t require stealth mode, but her boss made it a mission. Seedance 2.5 0n @SJinn_Agent Prompt SCENE CONTEXT A 30-second realistic AAA…
+
+[<img src="https://media.goodcase.ai/cases/199c37ba7f84.jpg" width="600" alt="五点下班的办公室潜行">](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2099440985872933199) | **发布:** 2026-09-14 | **热度:** 90
+
+<details>
+<summary><b>完整 prompt（288 行，点开展开）</b></summary>
+
+```
+Leaving work at five shouldn’t require stealth mode, but her boss made it a mission.
+
+Seedance 2.5 0n @SJinn_Agent 
+
+Prompt
+
+SCENE CONTEXT
+
+A 30-second realistic AAA third-person stealth-action game sequence set in a Japanese corporate office at exactly 5:00 PM on a bright weekday afternoon. The player character, NAGI, has finished her work and must reach the elevator without being stopped by her boss and given another assignment.
+
+ACTIVE REFERENCES
+
+[@Image1] = NAGI’s facial identity, if a character reference is supplied. Use only her facial appearance as the identity reference; replace any school clothing and background with the adult office character and environment specified below.
+
+NAGI: Japanese woman, 25, long straight black hair with blunt bangs, white short-sleeve office blouse, charcoal tailored trousers, black leather belt, white minimalist sneakers, employee ID clipped to her waistband, small black work tote held close to her body.
+
+Voice: light, breathy adult female voice, speaking Japanese in a hushed whisper. Keep her face, hairstyle, outfit, proportions, and accessories identical throughout.
+
+CAST SEPARATION
+
+Four distinct adult office characters appear, each with a different silhouette, age, and hairstyle so they read as separate people:
+
+TEAM LEADER: man in his 40s, 170 cm, average build, full head of short black hair parted at the side, thin metal-framed glasses, white dress shirt with a loosened navy tie. Appears only beside the first desk cluster, checking his watch.
+PAPERWORK COWORKER: woman in her 20s, 160 cm, slim, brown hair in a high ponytail, beige cardigan over a white blouse, carrying a thick stack of printouts. Appears only in the printer aisle.
+BOSS: man in his 60s, 160 cm, stout and round-shouldered, completely bald with a shiny scalp and a fringe of white hair above the ears, round gold-rimmed glasses, charcoal three-piece suit with a company lapel badge, carrying a blue assignment folder. Appears at the corridor T-junction and remains in that connected corridor during the whiteboard sequence.
+OFFICE ASSISTANT: man in his early 30s, 182 cm, lean and broad-shouldered, thick full black hair swept back, short beard, navy shirt with rolled sleeves, dark trousers, no glasses. Pushes the mobile whiteboard from the meeting-room alcove toward the elevator lobby.
+
+The BOSS is the only bald character in the entire video. The OFFICE ASSISTANT keeps a full head of thick black hair and a beard, stands more than 20 cm taller than the BOSS, and is clearly a different, much younger man.
+
+LOCATION MAP
+
+One unbroken spatial route the camera travels with her:
+
+Her workstation → low desk partition → printer aisle → corridor T-junction → meeting-room alcove with mobile whiteboard → elevator lobby → elevator interior.
+
+Keep the route compact and physically traversable within the 27-second continuous section.
+
+Foreground: polished linoleum floor, office desks, steel filing cabinets, rolling chairs, and reflective glass meeting-room partitions.
+
+Background: window wall on camera-right overlooking neighboring office buildings, dust suspended in the sunbeams. Light enters from camera-right along the office route.
+
+ELEVATOR GEOMETRY
+
+The elevator entrance is at the end of the office corridor. The call button is on the wall beside the entrance. The elevator is empty when NAGI enters.
+
+Inside the elevator: brushed-metal rear wall, side handrails, softly illuminated ceiling, control panel beside the doorway. No rear exit and no mirror creating a second NAGI.
+
+NAGI enters facing the rear wall, then turns to face the open elevator doors.
+
+For the final reverse shot, the camera is positioned INSIDE the elevator, immediately beside the doorway, looking inward at NAGI. The brushed-metal rear wall is behind her. The elevator doors close behind the camera, allowing her face to remain visible throughout the final shot.
+
+FIRST FRAME / BLOCKING
+
+First frame is already in motion: NAGI darts in from lower-left toward camera-right, work tote clutched to her chest, and drops into a crouch-slide behind a low desk partition beside her workstation.
+
+Camera behind her right shoulder. Game HUD fully visible from frame one.
+
+A small desk clock reads 17:00.
+
+FORMAT MODE
+
+One continuous unbroken take from 0.0s to 27.0s with no cuts of any kind, then a single HARD CUT at 27.0s to one final locked reverse shot that runs to 30.0s.
+
+Exactly one cut exists in the whole video, at 27.0s. The camera does not cut anywhere else.
+
+OPTICS
+
+One lens for the continuous section: 47° third-person over-the-shoulder framing as the baseline, breathing in to 29° on reaction beats and out to 63° for the boss encounter and moving-whiteboard concealment.
+
+All FOV changes in that section happen as smooth continuous zoom breathing, never as a jump.
+
+The final shot after the cut is a fixed 29° frontal framing of NAGI, no drift.
+
+CAMERA
+
+For the continuous section, the camera is a physical object flying with her.
+
+Chest-height, 1.5 meters behind NAGI, slightly camera-right of her spine, swinging with a soft spring delay half a beat behind her turns like an analog-stick gameplay camera.
+
+It dips to knee height when she crouches, rises when she stands, slides sideways along the filing cabinets with her, swings wide to corridor-left to reveal the boss encounter, drifts behind her for the moving whiteboard, and follows her through the open elevator doorway.
+
+The camera travels through open space around desks and partitions. It never clips through furniture, walls, the whiteboard, or elevator doors.
+
+After the cut, the camera is repositioned inside the elevator beside the doorway, looking inward at NAGI — locked off, eye level, completely static, no movement.
+
+ACTION
+
+[Beat 1 — 0.0s to 6.0s]
+
+NAGI crouch-slides behind the low desk partition, back flat against it, chest heaving. She leans out 20 cm to peek at the TEAM LEADER checking his watch beside the adjacent desk cluster, then pulls back.
+
+She whispers in Japanese:
+
+{定時だ…捕まったら終わり。}
+
+HUD flashes 【5:00 PM — SHIFT OVER】 and the mission banner 【OBJECTIVE: REACH THE ELEVATOR UNDETECTED】.
+
+The TEAM LEADER turns toward a ringing desk phone. NAGI slips behind his back, staying below the desk-partition line, and moves into the printer aisle.
+
+The camera follows without stopping.
+
+[Beat 2 — 6.0s to 12.0s]
+
+The camera stays with her beside the steel filing cabinets.
+
+NAGI presses her spine flat against the cabinets and shuffles sideways at 2 km/h, sneakers rolling heel-to-toe in silence. The camera tracks sideways with her at the same speed.
+
+The PAPERWORK COWORKER walks past the end of the row carrying a thick stack of printouts, scanning the office for someone available to help.
+
+NAGI holds her breath, pupils tracking the coworker without moving her head, and whispers:
+
+{来ないで…こっち見ないで。}
+
+The minimap vision cone sweeps past NAGI’s marker and turns away.
+
+HUD shows 【SNEAKING MODE】.
+
+The PAPERWORK COWORKER exits frame-left. NAGI exhales, crouches beneath the edge of the last desk, and slips into the corridor with the camera still on her shoulder.
+
+[Beat 3 — 12.0s to 18.0s]
+
+The BOSS steps around the T-junction two meters in front of her, blue assignment folder in hand.
+
+He catches a brief glimpse of movement. A red exclamation marker snaps above his bald head with a sharp alert sting. The HUD edge pulses red: 【ALERT】.
+
+He starts saying in Japanese:
+
+{なぎさん、追加の仕事が…}
+
+The camera swings wide to corridor-left as NAGI reacts in one motion: hugs her tote tightly against her ribs, drops below his eye line, pivots around the corner of a tall filing cabinet, and slips into the adjacent meeting-room alcove.
+
+The cabinet fully blocks his view before he can finish approaching her.
+
+She whispers:
+
+{今だけは無理…！}
+
+HUD prints 【EVASIVE MANEUVER】 and 【BREAK LINE OF SIGHT】.
+
+The BOSS takes a step toward the place where he last saw her, looking around the cabinet. NAGI has already moved to the far side of a mobile whiteboard in the alcove.
+
+The camera falls in behind her again.
+
+[Beat 4 — 18.0s to 24.0s]
+
+The OFFICE ASSISTANT starts pushing the mobile whiteboard out of the meeting-room alcove toward the elevator lobby.
+
+The whiteboard is a tall, opaque rectangular board on a metal frame with four caster wheels. Its panel extends low enough to conceal NAGI’s crouched torso and head; only her white sneakers occasionally show below the frame.
+
+NAGI crouches on the side opposite the BOSS and shuffles with the board, matching its rolling speed exactly. She keeps her tote tucked close so it never protrudes beyond the board’s edge.
+
+The camera tracks low on her concealed side, showing her careful steps and the BOSS intermittently visible beyond the board’s far edge.
+
+The BOSS pauses, looks toward the moving whiteboard for a full beat, then turns back toward the office with his assignment folder.
+
+From behind the board, NAGI whispers:
+
+{ホワイトボード…最強。}
+
+HUD prints 【MOBILE COVER EQUIPPED】, then 【ENEMY LOST CONTACT】.
+
+The alert bar drains to green.
+
+The OFFICE ASSISTANT steers the board into a wall recess beside the elevator lobby. NAGI slips away from its concealed side as it stops.
+
+[Beat 5 — 24.0s to 27.0s]
+
+NAGI reaches the elevator call button and taps it once.
+
+A soft arrival chime sounds. The elevator is already waiting on this floor; its doors slide fully open.
+
+She slips through the clear doorway. The camera follows her inside, staying behind her shoulder.
+
+She turns to face the entrance and presses the door-close button once. Her shoulders remain tense, tote held tightly in both hands.
+
+The doors remain open until the cut.
+
+27.0s HARD CUT
+
+[Beat 6 — 27.0s to 30.0s]
+
+Locked static reverse shot from inside the elevator beside the doorway, looking inward:
+
+NAGI stands facing camera, shoulders squared, work tote held in front of her, chest still rising fast. Behind her are the brushed-metal rear wall and a horizontal handrail.
+
+Off camera behind the lens, from the distant office corridor, the BOSS calls in Japanese:
+
+{なぎさん、ちょっといい？}
+
+The elevator doors slide closed behind the camera. Their narrowing opening is registered by the shrinking patch of corridor light across NAGI’s face and the sliding-door sound.
+
+NAGI answers brightly, looking straight down the lens:
+
+{お先に失礼します！}
+
+The doors finish closing. Her shoulders drop with relief.
+
+HUD prints 【MISSION COMPLETE】, 【STEALTH RANK: S】, 【ADRENALINE +150】, and the final notification:
+
+【AFTER-HOURS TASK EVADED】
+
+Final frame: NAGI facing camera, a tiny triumphant smile pulling at one corner of her mouth.
+
+PERFORMANCE
+
+Photographic human realism indistinguishable from live-action footage: skin with visible pores, fine vellus hair catching the light, subsurface scattering in the earlobes and fingertips, capillary flush across her cheeks and ears from running, individual flyaway strands lifting off her hair, wet living eyes with true window catchlights and a faint red inner rim, clean matte skin.
+
+Visible fast breathing at the collarbone, eyes darting a half-second before her head turns.
+
+Tension shown by muscle: shoulders drawn up to her ears, fingers clamped white on the tote handles, jaw set, then a full-body shoulder drop on each escape.
+
+All adults have equally real skin, real hair follicles, and natural asymmetric faces.
+
+PHYSICS
+
+Her blouse and tailored trousers crease naturally during crouches and turns. Hair lags and sweeps across her face on fast direction changes.
+
+The work tote has real weight: its handles pull taut in her hands, and its body swings with inertia before settling against her torso.
+
+The mobile whiteboard has real mass. Its caster wheels rotate against the floor, swivel when steered, and rattle lightly over a flooring seam. The board wobbles subtly when the OFFICE ASSISTANT starts and stops it.
+
+NAGI moves with her own visible footsteps; the board does not drag or transport her.
+
+The coworker’s printouts flex slightly while walking. The BOSS’s folder stays in his hand.
+
+Elevator doors slide smoothly on fixed tracks and close only after NAGI and the camera are fully inside.
+
+Contact shadows stay glued under every foot, every knee, every furniture leg, and every caster wheel.
+
+LIGHTING
+
+One continuous light logic across the office route: bright late-afternoon sun at 5600K entering from the window wall on camera-right, throwing long window-frame stripes across the floor.
+
+NAGI passes through light and shadow as she travels. Soft bounce fill off the pale linoleum lifts her face. Fine dust hangs suspended in the sunbeams.
+
+The elevator lobby receives the same window light. Inside the elevator, neutral overhead illumination provides continuous soft fill.
+
+In the final reverse shot, the same corridor daylight enters from camera-left through the open doorway, raking across her cheek. As the doors close behind the lens, this daylight narrows and disappears naturally, leaving the elevator’s established overhead light.
+
+Exposure rolls smoothly as she moves between bright and shadowed stretches, and the color temperature matches exactly across the cut.
+
+HUD
+
+GTA-style real-time game HUD locked to fixed screen positions for the whole 30 seconds, with every on-screen word written in English:
+
+Circular minimap bottom-left with the player arrow and yellow vision cones for the office characters; health and stamina bars top-left; alert-state bar shifting green to amber to red; controller button prompts bottom-right; English mission objective text top-center; floating red exclamation markers over alerted characters; notification cards sliding in from screen-right.
+
+The HUD stays in the same screen positions across the cut.
+
+No subtitles or caption bars anywhere on screen.
+
+The HUD is a clean flat graphic overlay composited on top of fully photographic live-action-grade footage.
+
+AUDIO
+
+Tense minimalist stealth synth loop with a pulsing heartbeat underneath, running unbroken across the cut and resolving to a short bright victory fanfare at the end.
+
+Ambience carries continuously through the cut. Office sounds become naturally muffled as the elevator doors close.
+All dialogue is spoken in Japanese.
+STYLE
+Photoreal live-action realism, real human beings and real fabric, natural skin tones with true-to-life color science, physically correct materials, realistic human proportions and anatomy, real optical depth of field, real floor reflections, subtle handheld gameplay motion blur, fine film grain at 5%, sharp detail intent.
+OUTPUT SETTINGS
+16:9, real-time speed throughout, one continuous 27-second take plus one 3-second locked shot after a single hard cut.
+POSITIVE LOCKS
+Exactly one cut in the entire video, at 27.0s — everything before it is a single unbroken take with the camera connected to NAGI.
+NAGI is consistently an adult office employee, 25, with the same face, long black hair with blunt bangs, white office blouse, charcoal tailored trousers, black belt, white sneakers, clipped employee ID, and black work tote throughout, with dry clean skin.
+The work tote stays with her throughout.
+The mobile whiteboard appears only from the meeting-room alcove onward and is physically pushed by the OFFICE ASSISTANT. It remains between NAGI and the BOSS during the concealment beat.
+
+The bald BOSS in the charcoal suit and the tall bearded OFFICE ASSISTANT with thick black hair are unmistakably different men.
+
+The office route remains spatially continuous. Characters do not teleport between locations.
+
+NAGI enters the elevator before turning toward its doors.
+
+In the final shot, the camera is inside the elevator beside the doorway, with NAGI facing the lens and the brushed-metal rear wall behind her. The doors close behind the camera; they never pass between the lens and her face.
+
+All on-screen text is English. The last 3 seconds hold a locked frontal eye-level shot of NAGI facing camera.
+
+HUD elements stay in the same screen corners throughout.
+
+One single NAGI on screen at all times.
+
+All spoken lines are in Japanese.
+
+Sunlight direction stays consistent across the office route, with a physically motivated transition to elevator lighting as the doors close.
+
+Final notification: 【AFTER-HOURS TASK EVADED】.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 2.5 地下停车场格斗 30s
 
 > ChillaiKalan__：地下停车场格斗 30s 完整 Prompt。
@@ -3758,59 +3758,6 @@ Important: Maintain consistent baby character design, identical frog hat, clothi
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-824160459b18?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 废城街头的砍刀求生战
-
-> One survivor. A city full of zombies. No way out. Created with Seedance 2.5 on @frameo_ai Bringing cinematic AI action to life. #MadeWithFrameo Prompt: ZOMBIE C…
-
-[<img src="https://media.goodcase.ai/cases/3f92b376b9ce.jpg" width="600" alt="废城街头的砍刀求生战">](https://goodcase.ai/cases/seedance-2-5-engine-directive-create-exactly-30-seconds-of-photorealistic-hollywood-style-z-adc589917801?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2116043962465079357) | **发布:** 2026-10-30 | **热度:** 88
-
-<details>
-<summary><b>完整 prompt（35 行，点开展开）</b></summary>
-
-```
-ZOMBIE CITY: LAST STAND — SEEDANCE 2.5 PROMPT
-
-ENGINE DIRECTIVE: Create exactly 30 seconds of photorealistic Hollywood-style zombie action, 16:9 widescreen, 60fps where supported. Use @image1 for protagonist identity, @image2 for zombie design, and @image3 for the ruined city environment.
-
-CHARACTER CONTINUITY: Preserve @image1's exact face, hairstyle, beard, skin tone, and body structure. Outfit: distressed olive-green field jacket, black shirt, charcoal cargo pants, black gloves, rugged combat boots, crossbody survival bag, and a steel machete. Keep the same appearance throughout.
-
-ZOMBIES — @image2: Two distinct infected humans with pale grey-green decaying skin, cloudy eyes, damaged faces, torn dirty clothing, and aggressive movements. Zombie A wears a ripped grey shirt and dark trousers; Zombie B wears a torn burgundy hoodie and black jeans.
-
-LOCATION — @image3: A devastated downtown street with cracked asphalt, abandoned cars, shattered storefronts, damaged buildings, scattered debris, drifting smoke, and overcast daylight. Maintain consistent geography and lighting.
-
-TIMELINE:
-
-00–03s: Wide cinematic reveal of the ruined city. The protagonist notices two zombies approaching from opposite sides and draws his machete.
-
-03–06s: Zombie A charges. The protagonist dodges its grab and counters with a fast, controlled machete strike. Zombie A collapses.
-
-06–09s: Zombie B rushes from beside an abandoned sedan, attempting to grab and bite the protagonist.
-
-09–12s: Close handheld camera captures the protagonist blocking the attack, breaking free, and pushing Zombie B away.
-
-12–15s: Low-angle tracking shot as Zombie B lunges again. The protagonist dodges and prepares a counterattack.
-
-15–18s: Dynamic side tracking as the protagonist outmaneuvers the zombie on the cracked roadway.
-
-18–21s: Zombie B attacks again. The protagonist pivots, breaks its balance, and forces it to its knees.
-
-21–24s: He delivers a decisive final strike. Zombie B falls motionless. Keep violence non-graphic.
-
-24–27s: The protagonist stands between both defeated zombies, breathing heavily while holding the machete.
-
-27–30s: Close-up of his determined face, followed by a wide reveal of distant zombie silhouettes approaching through the smoky intersection. End on a suspenseful cinematic hook.
-
-AUDIO: Original dark survival-action score, realistic footsteps, zombie snarls, weapon swishes, impacts, wind, distant alarms, and heavy breathing.
-
-QUALITY: Stable identity, consistent wardrobe and weapons, realistic physics, cinematic camera transitions, detailed textures, natural motion blur, synchronized audio, no teleportation, no morphing, no extra limbs, no location changes, and no graphic gore.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-engine-directive-create-exactly-30-seconds-of-photorealistic-hollywood-style-z-adc589917801?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 石屋炉火旁，女子悄悄喂养粉色幼龙
 
 > She raised it in secret, fed it by hand... and now it trusts her completely 🐉🔥 Dark Fantasy • Forbidden Bond • Hidden Truth 🥺 🎬 Made With Seedance 2.5 Promp…
@@ -4112,6 +4059,59 @@ Audio: Soft magical background music, gentle nighttime ambience, cute baby sound
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 废城街头的砍刀求生战
+
+> One survivor. A city full of zombies. No way out. Created with Seedance 2.5 on @frameo_ai Bringing cinematic AI action to life. #MadeWithFrameo Prompt: ZOMBIE C…
+
+[<img src="https://media.goodcase.ai/cases/3f92b376b9ce.jpg" width="600" alt="废城街头的砍刀求生战">](https://goodcase.ai/cases/seedance-2-5-engine-directive-create-exactly-30-seconds-of-photorealistic-hollywood-style-z-adc589917801?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2116043962465079357) | **发布:** 2026-10-30 | **热度:** 87
+
+<details>
+<summary><b>完整 prompt（35 行，点开展开）</b></summary>
+
+```
+ZOMBIE CITY: LAST STAND — SEEDANCE 2.5 PROMPT
+
+ENGINE DIRECTIVE: Create exactly 30 seconds of photorealistic Hollywood-style zombie action, 16:9 widescreen, 60fps where supported. Use @image1 for protagonist identity, @image2 for zombie design, and @image3 for the ruined city environment.
+
+CHARACTER CONTINUITY: Preserve @image1's exact face, hairstyle, beard, skin tone, and body structure. Outfit: distressed olive-green field jacket, black shirt, charcoal cargo pants, black gloves, rugged combat boots, crossbody survival bag, and a steel machete. Keep the same appearance throughout.
+
+ZOMBIES — @image2: Two distinct infected humans with pale grey-green decaying skin, cloudy eyes, damaged faces, torn dirty clothing, and aggressive movements. Zombie A wears a ripped grey shirt and dark trousers; Zombie B wears a torn burgundy hoodie and black jeans.
+
+LOCATION — @image3: A devastated downtown street with cracked asphalt, abandoned cars, shattered storefronts, damaged buildings, scattered debris, drifting smoke, and overcast daylight. Maintain consistent geography and lighting.
+
+TIMELINE:
+
+00–03s: Wide cinematic reveal of the ruined city. The protagonist notices two zombies approaching from opposite sides and draws his machete.
+
+03–06s: Zombie A charges. The protagonist dodges its grab and counters with a fast, controlled machete strike. Zombie A collapses.
+
+06–09s: Zombie B rushes from beside an abandoned sedan, attempting to grab and bite the protagonist.
+
+09–12s: Close handheld camera captures the protagonist blocking the attack, breaking free, and pushing Zombie B away.
+
+12–15s: Low-angle tracking shot as Zombie B lunges again. The protagonist dodges and prepares a counterattack.
+
+15–18s: Dynamic side tracking as the protagonist outmaneuvers the zombie on the cracked roadway.
+
+18–21s: Zombie B attacks again. The protagonist pivots, breaks its balance, and forces it to its knees.
+
+21–24s: He delivers a decisive final strike. Zombie B falls motionless. Keep violence non-graphic.
+
+24–27s: The protagonist stands between both defeated zombies, breathing heavily while holding the machete.
+
+27–30s: Close-up of his determined face, followed by a wide reveal of distant zombie silhouettes approaching through the smoky intersection. End on a suspenseful cinematic hook.
+
+AUDIO: Original dark survival-action score, realistic footsteps, zombie snarls, weapon swishes, impacts, wind, distant alarms, and heavy breathing.
+
+QUALITY: Stable identity, consistent wardrobe and weapons, realistic physics, cinematic camera transitions, detailed textures, natural motion blur, synchronized audio, no teleportation, no morphing, no extra limbs, no location changes, and no graphic gore.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-engine-directive-create-exactly-30-seconds-of-photorealistic-hollywood-style-z-adc589917801?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Boa Hancock Water Obstacle Race Prompt
 
@@ -4942,50 +4942,6 @@ Use synchronized, exaggerated but realistic sound effects: shower valve click, t
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 粉发女生食堂后空翻稳接餐盘
-
-> Walked past him like the backflip was the easy part of lunch. Seedance 2.5 on @FishCreativeHQ Prompt Cinematic Korean high-school drama, 22-second continuous sh…
-
-[<img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="600" alt="粉发女生食堂后空翻稳接餐盘">](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2100836177821483349) | **发布:** 2026-09-18 | **热度:** 86
-
-**稳定度：** 79/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.4 分) · [产物](https://media.goodcase.ai/retests/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（22 行，点开展开）</b></summary>
-
-```
-Walked past him like the backflip was the easy part of lunch.
-
-Seedance 2.5 on @FishCreativeHQ 
-
-Prompt
-
-Cinematic Korean high-school drama, 22-second continuous shot sequence, photoreal live-action, 24fps, shallow-to-medium depth of field, natural fluorescent cafeteria lighting mixed with window daylight, slightly warm color grade.
-Crowded Korean high-school cafeteria: long wooden tables, metal benches, tiled floor with a faint sheen, white waffle-grid ceiling, hanging fluorescent lights. Dozens of students in pastel blue short-sleeve summer uniforms with purple ties (boys) and pink ribbon bows (girls) eating from stainless-steel compartment trays.
-Heroine: early-20s Korean woman @[Image 1](image_1) styled as a high-school senior — long straight pastel pink hair with center part and face-framing layers, pale makeup, glossy lips, pastel pink short-sleeve school blouse, navy ribbon bow, pastel pink mini skirt, white crew socks, chunky white sneakers, small blue name tag on her chest. She walks the center aisle carrying a stainless 5-compartment lunch tray in both hands. Tray contents: mound of white rice, spicy red tteokbokki cylinders, a pile of kimchi, seasoned green namul, and a small metal soup bowl of red stew. Spoon and chopsticks rest on the tray.
-Shot 1 (0–1s): Medium-wide tracking shot. She walks straight toward camera down the aisle, calm expression, tray held level at waist height. Background students laugh and eat.
-Shot 2 (1s): Tight low insert of her feet. She scuffs the heel of her left white sneaker against the polished floor, then plants both feet.
-Shot 3 (2s): Medium close-up of her face as she looks up, slightly startled, hair swinging.
-Shot 4–6 (3–6s): Slow-motion VFX food sequence. She tosses the tray upward. The tray and utensils hang in mid-air. Tteokbokki pieces, kimchi, and namul lift off the compartments and float in a neat horizontal line above the tray, as if gravity paused. Cut to overhead: food settles perfectly back into each compartment; soup bowl stays upright, nothing spills.
-Shot 7 (7s): Wide. She drops into a fast back handspring / cartwheel on the cafeteria floor, skirt flipping, one sneaker kicking high. Students at nearby tables freeze and stare.
-Shot 8 (8s): She lands spinning, hair whipping, and catches the falling tray and utensils in one fluid motion without dropping food.
-Shot 9–11 (9–11s): Close-ups of hands catching chopsticks and spoon, then a hero beauty shot of the completed tray held out toward camera — rice, tteokbokki, kimchi, namul, and stew all perfectly arranged.
-Shot 12 (12s): Cut to a table of boys. Handsome dark-haired boy in white shirt and navy tie turns, mouth open in shock; friends around him gape.
-Shot 13–14 (13–14s): Tight beauty close-up of the heroine’s face, staring into camera, then a tiny knowing smirk.
-Shot 15–20 (15–20s): She walks past the shocked boy’s table, tray in her left hand, glancing down at him. Soft line of dialogue in Korean, subtitled: “Let’s eat and see.” He looks down, embarrassed. She keeps walking.
-Shot 21 (21s): Rear tracking shot as she walks away down the aisle, long hair and navy skirt, cafeteria buzzing again behind her.
-Style notes: high-end K-drama cinematography (something like a glossy teen romance / school fantasy), practical cafeteria set, subtle slow-motion only on the floating-food and flip beats, clean VFX so the food never smears or looks cartoonish, no logos, no on-screen text except optional Korean subtitle on the one line.
-Negative: messy spills, broken tray, Western cafeteria, adult office clothes, exaggerated anime faces, shaky phone footage, watermarks.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 紫发少女跃过泳池巨浪
 
 > Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
@@ -5163,6 +5119,89 @@ high detail, no text, no subtitles
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-video-prompt-cinematic-live-action-30-second-supernatural-school-action-scene-9fad79059c7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 粉发女子在午夜公路爆炸前从容走来
+
+> Imagine being so dangerous that even explosions are just background effects. Seedance 2.5 @FishCreativeHQ Prompt VISUAL STYLE Ultra-photorealistic Hollywood blo…
+
+[<img src="https://media.goodcase.ai/cases/835ae0551b0e.jpg" width="600" alt="粉发女子在午夜公路爆炸前从容走来">](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2110990656105807984) | **发布:** 2026-10-16 | **热度:** 85
+
+<details>
+<summary><b>完整 prompt（65 行，点开展开）</b></summary>
+
+```
+Imagine being so dangerous that even explosions are just background effects.
+
+Seedance 2.5 @FishCreativeHQ 
+
+Prompt
+
+VISUAL STYLE
+
+Ultra-photorealistic Hollywood blockbuster cinematography. A dramatic nighttime explosion sequence featuring a mysterious young woman walking calmly toward the camera while a massive fireball erupts behind her. Realistic fire simulation, powerful shockwaves, thick smoke, flying debris, atmospheric lighting, cinematic contrast, natural skin textures, and realistic human movement. Cool blue nighttime tones contrast with intense orange flames.
+
+CHARACTER IDENTITY LOCK
+
+A striking 24-year-old woman with long, straight pastel-pink hair and soft bangs framing her face. Pale natural skin, delicate facial features, and a cold, emotionless expression.
+
+OUTFIT: A fitted rainbow-striped long-sleeve turtleneck shirt underneath faded light-blue denim short overalls, with a front bib pocket and adjustable shoulder straps. Red bands around both upper thighs. Barefoot.
+
+Preserve her exact face, hairstyle, outfit, body proportions, and accessories throughout the entire video.
+
+SETTING
+
+An isolated, empty two-lane asphalt road at midnight. The road is slightly wet, reflecting the overhead streetlights. A faded yellow centerline stretches into the distance. Evenly spaced modern streetlights illuminate both sides of the road, disappearing into the darkness. No vehicles, pedestrians, or surrounding buildings.
+
+CAMERA
+
+One continuous frontal tracking shot. The camera moves backward at exactly the same speed as the woman, maintaining a centered, full-body composition. Smooth stabilized movement with subtle natural cinematic motion. 35mm lens, shallow atmospheric depth, realistic lighting, and high dynamic range.
+
+ACTION TIMELINE
+
+00:00–00:02 — THE MYSTERIOUS WALK
+
+The woman walks barefoot directly toward the camera along the center of the deserted road. She casually holds a cigarette near her lips, takes a final drag, and maintains a completely emotionless expression. Her long pastel-pink hair moves gently in the nighttime breeze.
+
+00:02–00:04 — THE IGNITION
+
+She lowers her hand and continues walking without looking backward. A sudden bright blue-white flash illuminates the road far behind her. A small cloud of smoke begins expanding rapidly in the background.
+
+00:04–00:06 — THE MASSIVE EXPLOSION
+
+A gigantic orange fireball violently erupts behind the woman, filling the entire width of the road. The explosion expands upward into a towering mushroom-shaped cloud of flames and black smoke.
+
+Powerful shockwaves push dust and debris outward. Bright orange firelight illuminates the woman's pink hair, denim overalls, and the reflective asphalt.
+
+She never turns around, flinches, or changes her walking speed.
+
+00:06–00:08 — THE UNTOUCHABLE WALK
+
+The woman continues walking directly toward the camera with complete confidence. Behind her, enormous flames roll across the road while thick smoke rises into the night sky.
+
+The explosion creates dramatic orange rim lighting around her silhouette. Her hair sways gently from the displaced air. Her facial expression remains cold and completely indifferent.
+
+00:08–00:10 — THE FINAL HERO SHOT
+
+The camera continues tracking backward as she approaches slightly closer. Burning wreckage and towering flames remain visible behind her.
+
+She walks steadily toward the lens, looking straight ahead with an intimidating, expressionless gaze.
+
+End on a powerful cinematic shot of the woman perfectly centered against the enormous burning background.
+
+SOUND DESIGN
+
+Quiet nighttime ambience, soft barefoot footsteps against asphalt, subtle cigarette inhale, sudden explosive ignition, enormous deep bass explosion, roaring flames, rushing air, and falling debris.
+
+STRICT REQUIREMENTS
+
+One uninterrupted tracking shot. No cuts, no camera angle changes, no slow motion, no dialogue, no subtitles, no text overlays. The woman's face and clothing must remain perfectly consistent. The explosion must remain behind her, never engulfing her. Physically convincing fire, smoke, lighting, and debris. No cartoon effects, no artificial-looking CGI humans, no facial distortion, no duplicated limbs.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)

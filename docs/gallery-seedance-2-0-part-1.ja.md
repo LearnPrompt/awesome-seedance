@@ -1,10 +1,99 @@
 # Seedance 2.0 — 全ケース（Part 1/4）
 
-Seedance 2.0 の全 308 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.0 の全 309 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 308 件中 1–90 件目。
+このページ: 309 件中 1–89 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
+
+### Modern home interior tour with floor-plan overlays
+
+> claude fable 5.2 is f*cking insane it can turn 2d blueprints into full 3d walkthroughs that you can tour these go for $5k to $10k per plan and there's a huge ma…
+
+[<img src="https://media.goodcase.ai/cases/3c212aa02304.jpg" width="600" alt="Modern home interior tour with floor-plan overlays">](https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @everestchris6 | **出典:** [元投稿](https://x.com/everestchris6/status/2120175941616128277) | **公開日:** 2026-11-10 | **ヒート:** 99
+
+<details>
+<summary><b>プロンプト全文（71 行、クリックで展開）</b></summary>
+
+```
+claude fable 5.2 is f*cking insane
+
+it can turn 2d blueprints into full 3d walkthroughs that you can tour
+
+these go for $5k to $10k per plan and there's a huge market for them:
+
+> home builders selling homes off plan
+> architects presenting a design to a client
+> interior designers presenting a renovation
+> developers selling apartments off plan
+> kitchen and bath remodelers selling upgrades
+
+here's how to start this business:
+
+> pick one niche and find businesses with plans on their site
+> give fable the blueprint and their photos
+> it renders a few rooms with gpt image 2.5 or a short clip with seedance as the sample
+> send them the sample of their own plan before you pitch
+> once they pay, fable builds the full walkthrough to scale
+> charge per plan to do the rest of their catalog
+
+give this prompt to fable to get started:
+
+<role>
+you find businesses that sell spaces from drawings and turn their 2d floor plans into photoreal homes you can walk through in a browser. you handle the outreach and the build. every room is judged against the client's own photos, and nothing ships until it holds up next to them.
+</role>
+
+<brief>
+- niche: [home builders / architects / interior designers / developers / remodelers]
+- area: [state or city]
+- offer: a free sample of their own plan, then the full walkthrough per plan
+- my details: [name, email, calendar link]
+- i'm away and won't answer questions. make the calls yourself and keep going.
+</brief>
+
+<find_leads>
+- use the apify google maps scraper to pull every [niche] in [area] with a website
+- use the apify website content crawler on each site and keep the ones with floor plans or renders on their pages but no walkable 3d tour
+- for each one, save the plan drawing and photos of their best plan, the sales or owner contact, and a one line note on how they sell today
+- only use public pages and plain requests. never work around bot checks
+</find_leads>
+
+<sample>
+- before any 3d work, render three rooms from the plan with gpt image 2.5, matched to their photos, or a short walkthrough clip with seedance
+- draft a short email with the sample and the offer. no invented prices, numbers or claims
+- put business, plan, sample, contact and email in a sheet and show me before anything is sent
+</sample>
+
+<build>
+once a client pays:
+- trace the drawing into one data file of walls, openings and rooms. draw it back over the original and measure the overlap before any 3d work
+- build only the main rooms. entry, main living space, kitchen, patio, yard. close the doors on the rest
+- build everything in code. blender with python for the shell, furniture and textures. three.js for the viewer. no downloaded models or textures
+- bake the light with a film quality renderer so the browser only displays it. direct sun in every interior, picked by measurement not by eye
+- fidelity isn't appeal. style each room so it looks photographed and sells
+- their listed upgrades as options you can step into inside the room, with a running price and a lead form that records what the buyer explored
+- the deliverable is the live page, not a video. host it and make it run on a phone
+</build>
+
+<critic_loop>
+the builder never grades its own work.
+- after each room, send renders and the client's photos to a fresh critic that has seen none of the work
+- it answers with a yes or no, at most five problems ranked, each with a fix in numbers, and what is already good
+- fix the worst first, render again, send to a new critic. repeat until yes
+- for choices of taste, show a critic both versions labelled a and b and let it pick
+</critic_loop>
+
+<deliverables>
+- the lead sheet with samples and drafted emails, for my approval
+- per paid client: the hosted walkthrough link, a contact sheet of every room, the critic log, and a note on anything a human should still check
+</deliverables>
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Dynamic Promo for a Modern AI Inference Startup
 
@@ -2466,48 +2555,6 @@ POSITIVE LOCKS
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-an-old-wooden-japanese-school-corridor-during-festival-prep-week-c86f23f6acfa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### GPT Image 2 + Seedance From the Deep: One Jet, One Shot
-
-> FROM THE DEEP - GPT Image 2 x Seedance 2.0 It rose from the bay to tear the city apart. One jet, one shot, one shot to s
-
-[<img src="https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg" width="600" alt="GPT Image 2 + Seedance From the Deep: One Jet, One Shot">](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Weeleey6 | **出典:** [元投稿](https://x.com/Weeleey6/status/2089244905960821226) | **公開日:** 2026-08-17 | **ヒート:** 80
-
-**安定度:** 84/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.5) · [出力](https://media.goodcase.ai/retests/weeleey6-seedance-ai-b03a5481e168/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
-
-```
-Pilot = a fighter pilot around 35, rugged focused face with light stubble, sharp determined eyes, wearing a helmet with visor and oxygen mask, full flight suit. Intense and battle-focused. Face per reference. Appearance only.
-
-Seabaycity = a modern coastal city on a sea bay, skyline of skyscrapers along a waterfront bordering the open sea, harbor, bridges, dramatic overcast sky, buildings smoking and crumbling, fires and dust clouds rising, a city under attack. Moody desaturated blue-grey palette with orange fire glow. Environment only.
-
-Monster = a colossal towering lizard-like kaiju, skyscraper-sized reptilian creature with dark grey-green armored scales, huge clawed limbs, a long heavy tail, a fanged head with glowing eyes, spines down its back, standing in the sea bay smashing buildings. Terrifying and destructive. Appearance only.
-
-Jet = a modern military fighter jet, sleek grey afterburners glowing, missiles mounted, screaming through the sky at high speed. Vehicle only.
-
-SCENE: a cinematic kaiju action sequence. A colossal lizard monster rampages through a coastal city's sea bay, destroying skyscrapers along the waterfront. A lone fighter jet approaches from the distance across the sea, the pilot locking on with fierce focus, and fires missiles that strike the monster, driving it crashing down into the bay. Epic, intense, blockbuster disaster-film scale.
-
-TECHNICAL: 16:9, cinematic anamorphic-style lens, epic blockbuster scale, dynamic camera — sweeping aerial shots, fast jet tracking, dramatic low angles on the monster — moody desaturated blue-grey grade with orange explosion glow, heavy atmosphere, smoke, dust, lens flare, motion blur, fine film grain, photorealistic disaster-film quality.
-
-CUTS:
-CUT 1 (0-4s): Establishing shot — the colossal lizard monster towering over the sea-bay city, roaring and smashing a skyscraper along the waterfront, buildings crumbling and smoking, debris raining into the bay. Dramatic low angle conveying its massive scale.
-CUT 2 (4-7s): Wide shot across the sea — a lone fighter jet screams into frame from the distant horizon, low over the water, approaching the city and the monster at high speed. Fast tracking shot conveying speed and purpose.
-CUT 3 (7-10s): COCKPIT FACE ZOOM — cut inside the cockpit, camera pushes in on the pilot's intense focused face behind his visor and mask, glowing instruments around him, his eyes locked on the target. He grips the controls and fires.
-CUT 4 (10-13s): Missiles streak from the jet toward the monster and slam into it in a burst of fire and explosions, the creature reeling from the impact, staggering amid smoke and flame.
-CUT 5 (13-15s): The monster crashes down into the sea bay in an enormous explosion of water and debris, defeated, as the jet roars past overhead. Epic final beat, huge splash and spray. Camera holds on the aftermath.
-
-RULES: References are appearance only, do not recreate. The monster is a stylized fictional kaiju — scaled, non-human, skyscraper-sized. Keep the pilot's face consistent in the cockpit shot. Epic blockbuster scale throughout — sell the size of the monster with low angles and the city for scale. Moody desaturated blue-grey grade with orange fire glow, never fully desaturate. Sound design — cinematic and immersive: the monster's deep roar, crumbling buildings, the scream of the jet engines, missile launches, huge explosions, a driving epic orchestral score. Final frame on the monster crashing into the bay, stable and clean.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Vibrant K-pop Stage Performance
 
 > A rhythmic K-pop choreography prompt featuring three idols performing under LED lights with specific synchronized motions like laughing and peace signs.
@@ -2591,6 +2638,48 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### GPT Image 2 + Seedance From the Deep: One Jet, One Shot
+
+> FROM THE DEEP - GPT Image 2 x Seedance 2.0 It rose from the bay to tear the city apart. One jet, one shot, one shot to s
+
+[<img src="https://media.goodcase.ai/media/poster/weeleey6-seedance-ai-b03a5481e168.jpg" width="600" alt="GPT Image 2 + Seedance From the Deep: One Jet, One Shot">](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Weeleey6 | **出典:** [元投稿](https://x.com/Weeleey6/status/2089244905960821226) | **公開日:** 2026-08-17 | **ヒート:** 79
+
+**安定度:** 84/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.5) · [出力](https://media.goodcase.ai/retests/weeleey6-seedance-ai-b03a5481e168/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+Pilot = a fighter pilot around 35, rugged focused face with light stubble, sharp determined eyes, wearing a helmet with visor and oxygen mask, full flight suit. Intense and battle-focused. Face per reference. Appearance only.
+
+Seabaycity = a modern coastal city on a sea bay, skyline of skyscrapers along a waterfront bordering the open sea, harbor, bridges, dramatic overcast sky, buildings smoking and crumbling, fires and dust clouds rising, a city under attack. Moody desaturated blue-grey palette with orange fire glow. Environment only.
+
+Monster = a colossal towering lizard-like kaiju, skyscraper-sized reptilian creature with dark grey-green armored scales, huge clawed limbs, a long heavy tail, a fanged head with glowing eyes, spines down its back, standing in the sea bay smashing buildings. Terrifying and destructive. Appearance only.
+
+Jet = a modern military fighter jet, sleek grey afterburners glowing, missiles mounted, screaming through the sky at high speed. Vehicle only.
+
+SCENE: a cinematic kaiju action sequence. A colossal lizard monster rampages through a coastal city's sea bay, destroying skyscrapers along the waterfront. A lone fighter jet approaches from the distance across the sea, the pilot locking on with fierce focus, and fires missiles that strike the monster, driving it crashing down into the bay. Epic, intense, blockbuster disaster-film scale.
+
+TECHNICAL: 16:9, cinematic anamorphic-style lens, epic blockbuster scale, dynamic camera — sweeping aerial shots, fast jet tracking, dramatic low angles on the monster — moody desaturated blue-grey grade with orange explosion glow, heavy atmosphere, smoke, dust, lens flare, motion blur, fine film grain, photorealistic disaster-film quality.
+
+CUTS:
+CUT 1 (0-4s): Establishing shot — the colossal lizard monster towering over the sea-bay city, roaring and smashing a skyscraper along the waterfront, buildings crumbling and smoking, debris raining into the bay. Dramatic low angle conveying its massive scale.
+CUT 2 (4-7s): Wide shot across the sea — a lone fighter jet screams into frame from the distant horizon, low over the water, approaching the city and the monster at high speed. Fast tracking shot conveying speed and purpose.
+CUT 3 (7-10s): COCKPIT FACE ZOOM — cut inside the cockpit, camera pushes in on the pilot's intense focused face behind his visor and mask, glowing instruments around him, his eyes locked on the target. He grips the controls and fires.
+CUT 4 (10-13s): Missiles streak from the jet toward the monster and slam into it in a burst of fire and explosions, the creature reeling from the impact, staggering amid smoke and flame.
+CUT 5 (13-15s): The monster crashes down into the sea bay in an enormous explosion of water and debris, defeated, as the jet roars past overhead. Epic final beat, huge splash and spray. Camera holds on the aftermath.
+
+RULES: References are appearance only, do not recreate. The monster is a stylized fictional kaiju — scaled, non-human, skyscraper-sized. Keep the pilot's face consistent in the cockpit shot. Epic blockbuster scale throughout — sell the size of the monster with low angles and the city for scale. Moody desaturated blue-grey grade with orange fire glow, never fully desaturate. Sound design — cinematic and immersive: the monster's deep roar, crumbling buildings, the scream of the jet engines, missile launches, huge explosions, a driving epic orchestral score. Final frame on the monster crashing into the bay, stable and clean.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/weeleey6-seedance-ai-b03a5481e168?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red Dress Transformation on the Streets of Paris
 
@@ -2812,105 +2901,6 @@ Created a 20-second cinematic video in a realistic Korean action-drama style, fe
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-a-20-second-cinematic-video-in-a-realistic-korean-action-drama-style-f-121140156df1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Pink Handbag Fashion Editorial on Tokyo Streets
-
-> Tokyo streets. Chrome attitude. Prada energy. ✨ A high-fashion story where the bag isn’t just an accessory, it’s the mai
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg" width="600" alt="Pink Handbag Fashion Editorial on Tokyo Streets">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithNatalia | **出典:** [元投稿](https://x.com/AIwithNatalia/status/2094277759547875413) | **公開日:** 2026-08-31 | **ヒート:** 76
-
-<details>
-<summary><b>プロンプト全文（81 行、クリックで展開）</b></summary>
-
-```
-Format: 9:16 vertical | Duration: Exactly 30 seconds | Style: Vogue editorial × Tokyo street fashion × cinematic luxury | Pacing: Fast, energetic, sharp cuts
-Character & Product Continuity:
-One consistent young female fashion model throughout. Preserve the same face, hairstyle, body proportions, and identity in every shot. She carries one identical glossy pastel-pink Prada handbag throughout the video, with the Prada logo clearly visible and consistent.
-
-0–4 sec — ICONIC OPENING
-
-Start with an extreme low-angle shot directly from street level, matching the reference image. The model walks toward camera through a busy Tokyo crossing, towering skyscrapers and giant digital billboards behind her. Her metallic silver platform boots dominate the foreground while the pink Prada bag swings beside her.
-
-Typography:
-TOKYO
-Luxury moves differently.
-Quick whip-pan upward from boots → bag → model.
-
-4–8 sec — THE BAG
-
-Rapid macro cuts:
-
-Glossy pink Prada bag catching sunlight
-Close-up of the Prada triangle logo
-Silver hardware sparkling
-
-Her hand gripping the handle
-
-Bag swinging as she crosses the street
-
-Typography:
-PRADA
-THE NEW ICON
-
-8–13 sec — TOKYO ENERGY
-Fast tracking shot as she walks through Shibuya-style Tokyo streets, surrounded by crowds, neon signs and massive screens. Camera circles her while she confidently looks toward the lens.
-Use speed ramps, whip transitions, motion blur and flash-frame cuts.
-Typography:
-BOLD.
-MODERN.
-UNMISSABLE.
-
-13–18 sec — EDITORIAL MOMENT
-
-Cut to a dramatic low-angle street shot. She stops at a crosswalk, lifts the Prada bag slightly toward camera, then turns sharply as her hair moves in the wind.
-Camera pushes rapidly toward the bag.
-Typography:
-MADE TO BE SEEN
-
-18–24 sec — VOGUE MONTAGE
-
-Ultra-fast fashion-editorial sequence:
-
-Model walking between Tokyo taxis
-
-Close-up of sunglasses
-Bag against her metallic outfit
-Low-angle boots stepping across the crosswalk
-Side profile against neon architecture
-
-Overhead shot as she moves through the crowd
-
-Use hard cuts synchronized to the beat.
-
-Typography flashes between shots:
-
-TOKYO → FASHION → PRADA
-
-24–27 sec — HERO SHOT
-
-Everything suddenly slows down. She stands in the middle of the Tokyo street while the crowd moves around her in subtle motion blur. She holds the pink Prada bag prominently toward camera.
-
-Camera performs a smooth 360° orbit.
-
-Typography:
-OWN THE MOMENT
-
-27–30 sec — FINAL BRAND FRAME
-
-Extreme close-up of the Prada bag. She places it beside her, camera tilts upward from the logo to her face.
-Cut to a clean black/white editorial-style end card.
-Typography:
-PRADA
-TOKYO EDITION
-The city is your runway.
-Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosphere, premium fashion photography, fisheye low-angle perspective, dynamic handheld camera, cinematic lens flares, subtle film grain, Vogue editorial aesthetic, sophisticated typography, no cheesy commercial look.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### California Sunset Seaside Perfume Commercial
 
@@ -3269,6 +3259,105 @@ FIVE WORLDSrt AI.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-fashion-film-featuring-alexa-6ffd42d43119?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Pink Handbag Fashion Editorial on Tokyo Streets
+
+> Tokyo streets. Chrome attitude. Prada energy. ✨ A high-fashion story where the bag isn’t just an accessory, it’s the mai
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg" width="600" alt="Pink Handbag Fashion Editorial on Tokyo Streets">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithNatalia | **出典:** [元投稿](https://x.com/AIwithNatalia/status/2094277759547875413) | **公開日:** 2026-08-31 | **ヒート:** 75
+
+<details>
+<summary><b>プロンプト全文（81 行、クリックで展開）</b></summary>
+
+```
+Format: 9:16 vertical | Duration: Exactly 30 seconds | Style: Vogue editorial × Tokyo street fashion × cinematic luxury | Pacing: Fast, energetic, sharp cuts
+Character & Product Continuity:
+One consistent young female fashion model throughout. Preserve the same face, hairstyle, body proportions, and identity in every shot. She carries one identical glossy pastel-pink Prada handbag throughout the video, with the Prada logo clearly visible and consistent.
+
+0–4 sec — ICONIC OPENING
+
+Start with an extreme low-angle shot directly from street level, matching the reference image. The model walks toward camera through a busy Tokyo crossing, towering skyscrapers and giant digital billboards behind her. Her metallic silver platform boots dominate the foreground while the pink Prada bag swings beside her.
+
+Typography:
+TOKYO
+Luxury moves differently.
+Quick whip-pan upward from boots → bag → model.
+
+4–8 sec — THE BAG
+
+Rapid macro cuts:
+
+Glossy pink Prada bag catching sunlight
+Close-up of the Prada triangle logo
+Silver hardware sparkling
+
+Her hand gripping the handle
+
+Bag swinging as she crosses the street
+
+Typography:
+PRADA
+THE NEW ICON
+
+8–13 sec — TOKYO ENERGY
+Fast tracking shot as she walks through Shibuya-style Tokyo streets, surrounded by crowds, neon signs and massive screens. Camera circles her while she confidently looks toward the lens.
+Use speed ramps, whip transitions, motion blur and flash-frame cuts.
+Typography:
+BOLD.
+MODERN.
+UNMISSABLE.
+
+13–18 sec — EDITORIAL MOMENT
+
+Cut to a dramatic low-angle street shot. She stops at a crosswalk, lifts the Prada bag slightly toward camera, then turns sharply as her hair moves in the wind.
+Camera pushes rapidly toward the bag.
+Typography:
+MADE TO BE SEEN
+
+18–24 sec — VOGUE MONTAGE
+
+Ultra-fast fashion-editorial sequence:
+
+Model walking between Tokyo taxis
+
+Close-up of sunglasses
+Bag against her metallic outfit
+Low-angle boots stepping across the crosswalk
+Side profile against neon architecture
+
+Overhead shot as she moves through the crowd
+
+Use hard cuts synchronized to the beat.
+
+Typography flashes between shots:
+
+TOKYO → FASHION → PRADA
+
+24–27 sec — HERO SHOT
+
+Everything suddenly slows down. She stands in the middle of the Tokyo street while the crowd moves around her in subtle motion blur. She holds the pink Prada bag prominently toward camera.
+
+Camera performs a smooth 360° orbit.
+
+Typography:
+OWN THE MOMENT
+
+27–30 sec — FINAL BRAND FRAME
+
+Extreme close-up of the Prada bag. She places it beside her, camera tilts upward from the logo to her face.
+Cut to a clean black/white editorial-style end card.
+Typography:
+PRADA
+TOKYO EDITION
+The city is your runway.
+Visual direction: glossy luxury lighting, deep contrast, realistic Tokyo atmosphere, premium fashion photography, fisheye low-angle perspective, dynamic handheld camera, cinematic lens flares, subtle film grain, Vogue editorial aesthetic, sophisticated typography, no cheesy commercial look.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-12c56e79550f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Apocalyptic Dragon-Rider Strikes the Armored Giant
 
@@ -3794,24 +3883,6 @@ Her face and identity stay consistent with the reference in every cut. Lighting 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-young-japanese-woman-films-a-handheld-selfie-vlog-at-a-riverside-shrine-summe-1c4b78c5841a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Subway Station Hand-to-Hand Combat
-
-> Cinematic action at its finest Raw power speed and intensity. Made With Seedance 2.0 Prompt: A dynamic, cinematic action
-
-[<img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="600" alt="Subway Station Hand-to-Hand Combat">](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2093162800747282739) | **公開日:** 2026-08-28 | **ヒート:** 71
-
-**安定度:** 86/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86) · [出力](https://media.goodcase.ai/retests/laviniavelle-seedance-ai-c5f328d19010/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Mediterranean Hillside Villa Interior and Aerial Tour
 
 > A breathtaking Mediterranean villa nestled in the hills private pool, manicured gardens & timeless elegance Made with se
@@ -3949,6 +4020,24 @@ Luxury skincare commercial, beauty ad, cinematic lighting, realistic skin textur
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/luxury-skincare-commercial?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Subway Station Hand-to-Hand Combat
+
+> Cinematic action at its finest Raw power speed and intensity. Made With Seedance 2.0 Prompt: A dynamic, cinematic action
+
+[<img src="https://media.goodcase.ai/cases/dbaeaa827232.jpg" width="600" alt="Subway Station Hand-to-Hand Combat">](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2093162800747282739) | **公開日:** 2026-08-28 | **ヒート:** 70
+
+**安定度:** 86/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 86) · [出力](https://media.goodcase.ai/retests/laviniavelle-seedance-ai-c5f328d19010/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A dynamic, cinematic action scene set inside a underground subway station. A young East Asian woman with long black hair, wearing a white tank top and blue jeans, is launched back-first into a large tiled column, causing the pillar to crack violently, sending concrete debris, dust, and rubble flying across the floor She recovers, crouching low into a combat stance with an intense look, then charges forward Fast-paced tracking camera follows her as she fights hand-to-hand against a man in a dark business suit, exchanging rapid punches and dodges. Cinematic camera motion, martial arts action, gritty lighting, photorealistic, 8k resolution, filmic quality.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/laviniavelle-seedance-ai-c5f328d19010?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### From Waking Up to a Morning Walk with His Dog
 
 > POV: turning a simple morning routine into a cinematic little story ☕🐶✨ From waking up and making coffee to taking the
@@ -4014,20 +4103,6 @@ Inside an enormous ancient temple with towering stone pillars, cracked marble fl
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/youmind-wuxia-temple-energy-dance?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Mysterious Encounter of Women in Black and White in a Dim Hallway
-
-> A silent encounter, hiding a thousand untold stories. Some moments say everything without a single word. Created on seedance 2.0 Prompt: Create a 28-second ultr…
-
-[<img src="https://media.goodcase.ai/cases/0bf79b5dc353.jpg" width="600" alt="A Mysterious Encounter of Women in Black and White in a Dim Hallway">](https://goodcase.ai/cases/seedance-2-0-create-a-28-second-ultra-realistic-cinematic-korean-drama-featuring-two-beautif-d2de3e6b49fe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2112012480860000276) | **公開日:** 2026-10-19 | **ヒート:** 68
-
-```
-Create a 28-second ultra-realistic cinematic Korean drama featuring two beautiful young Korean women in a quiet, dimly lit apartment hallway. One woman has long, straight black hair and wears an elegant black outfit, while the other wears a sophisticated white pantsuit with a simple handbag. Begin with a mysterious rear shot of the woman in black walking slowly through a dark corridor illuminated by soft blue light. Transition into a beautifully detailed apartment hallway where both women walk past each other, creating a subtle atmosphere of tension and curiosity. Use cinematic close-ups, natural walking movements, realistic facial expressions, and smooth camera tracking to build suspense. Show a close-up of a wooden doorway and a subtle movement near the floor, followed by an empty hallway and a metallic elevator interior. Capture the woman in black standing quietly inside the elevator with a serious expression. End with the woman in white walking alone through the hallway, followed by a breathtaking close-up of her face outdoors, with her black hair moving gently in the breeze. Use soft natural lighting, muted colors, shallow depth of field, realistic skin texture, cinematic composition, smooth transitions, and professional Korean drama cinematography. Maintain consistent facial identities, hairstyles, outfits, and body proportions throughout the video.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-28-second-ultra-realistic-cinematic-korean-drama-featuring-two-beautif-d2de3e6b49fe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Pink-Haired Girl Falls and Awakens with Golden Eyes
 
 > Falling through the city, then turning into pure power. Anime energy with a cinematic twist. Created on seedance 2.0 Prompt: Created a dramatic top-down shot of…
@@ -4081,6 +4156,20 @@ Create a 30-second 16:9 ultra-photorealistic cinematic action scene. A Western w
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/nawalsehar-seedance-ai-17a3b09d9fac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Mysterious Encounter of Women in Black and White in a Dim Hallway
+
+> A silent encounter, hiding a thousand untold stories. Some moments say everything without a single word. Created on seedance 2.0 Prompt: Create a 28-second ultr…
+
+[<img src="https://media.goodcase.ai/cases/0bf79b5dc353.jpg" width="600" alt="A Mysterious Encounter of Women in Black and White in a Dim Hallway">](https://goodcase.ai/cases/seedance-2-0-create-a-28-second-ultra-realistic-cinematic-korean-drama-featuring-two-beautif-d2de3e6b49fe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2112012480860000276) | **公開日:** 2026-10-19 | **ヒート:** 67
+
+```
+Create a 28-second ultra-realistic cinematic Korean drama featuring two beautiful young Korean women in a quiet, dimly lit apartment hallway. One woman has long, straight black hair and wears an elegant black outfit, while the other wears a sophisticated white pantsuit with a simple handbag. Begin with a mysterious rear shot of the woman in black walking slowly through a dark corridor illuminated by soft blue light. Transition into a beautifully detailed apartment hallway where both women walk past each other, creating a subtle atmosphere of tension and curiosity. Use cinematic close-ups, natural walking movements, realistic facial expressions, and smooth camera tracking to build suspense. Show a close-up of a wooden doorway and a subtle movement near the floor, followed by an empty hallway and a metallic elevator interior. Capture the woman in black standing quietly inside the elevator with a serious expression. End with the woman in white walking alone through the hallway, followed by a breathtaking close-up of her face outdoors, with her black hair moving gently in the breeze. Use soft natural lighting, muted colors, shallow depth of field, realistic skin texture, cinematic composition, smooth transitions, and professional Korean drama cinematography. Maintain consistent facial identities, hairstyles, outfits, and body proportions throughout the video.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-28-second-ultra-realistic-cinematic-korean-drama-featuring-two-beautif-d2de3e6b49fe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### An Exhausting Day in a Korean Office Woman’s Life
 
@@ -4324,53 +4413,6 @@ Visual style: late-90s/early-2000s fashion editorial, vintage Hollywood glamour,
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-global-30-second-commercial-eedfe46e25bf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance Fifteen-Second Gym Vlog With Continuous Dialogue
-
-> Gym Vlog .Let’s Get This Workout Started A Quick Look Into My Gym Routine Made with seedance 2.0 Prompt: 15-Second Gym V
-
-[<img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-b2d98861daf9.jpg" width="600" alt="Seedance Fifteen-Second Gym Vlog With Continuous Dialogue">](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorlewisx | **出典:** [元投稿](https://x.com/noorlewisx/status/2089573549044568375) | **公開日:** 2026-08-18 | **ヒート:** 66
-
-**安定度:** 81/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.4) · [出力](https://media.goodcase.ai/retests/noorlewisx-seedance-ai-b2d98861daf9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-15-Second Gym Vlog — Continuous Dialogue
-
-Character: The same young adult woman throughout the entire video, wearing a black T-shirt and sporty gym pants. Keep her face, hairstyle, outfit, and appearance consistent from beginning to end.
-
-Scene: A realistic modern gym vlog. From the very first frame, the woman is already talking directly to the camera while walking through the gym. She keeps speaking continuously throughout the entire 15-second video—no silent moments and no voice-over.
-
-0–5 sec: She walks toward the camera in selfie-vlog style, smiling naturally and talking directly to the viewer. Gym equipment and people working out are visible in the background.
-
-Dialogue:
-
-"Hey guys! I'm at the gym today, and I'm going to show you a little bit of my workout."
-
-5–10 sec: While continuing to talk, she reaches the dumbbell area, picks up a moderate-sized dumbbell with one hand, briefly lifts it in a natural demonstration, and keeps speaking to the camera.
-
-Dialogue:
-
-"I usually start with some simple exercises like this, just to get warmed up."
-
-10–15 sec: Still holding the dumbbell briefly, she looks at the camera and continues talking with a friendly smile, then places it back naturally.
-
-Dialogue:
-
-"Alright, let's get started and make this workout a good one!"
-
-Important: Continuous talking from start to finish, natural lip-sync matching every word, no narration, no sudden cuts, no change of character or clothing. The same reference character must remain consistent throughout. Realistic gym environment, natural body movement, handheld smartphone vlog style, cinematic 4K quality.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance Golden Hour Close Quarters Combat in Shibuya
 
@@ -4633,6 +4675,53 @@ Created a 30-second cinematic 3D animated video in a premium fantasy-adventure s
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-3d-animated-video-in-a-premium-fantasy-adventure-e7a3e6134c65?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance Fifteen-Second Gym Vlog With Continuous Dialogue
+
+> Gym Vlog .Let’s Get This Workout Started A Quick Look Into My Gym Routine Made with seedance 2.0 Prompt: 15-Second Gym V
+
+[<img src="https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-b2d98861daf9.jpg" width="600" alt="Seedance Fifteen-Second Gym Vlog With Continuous Dialogue">](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @noorlewisx | **出典:** [元投稿](https://x.com/noorlewisx/status/2089573549044568375) | **公開日:** 2026-08-18 | **ヒート:** 65
+
+**安定度:** 81/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.4) · [出力](https://media.goodcase.ai/retests/noorlewisx-seedance-ai-b2d98861daf9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+15-Second Gym Vlog — Continuous Dialogue
+
+Character: The same young adult woman throughout the entire video, wearing a black T-shirt and sporty gym pants. Keep her face, hairstyle, outfit, and appearance consistent from beginning to end.
+
+Scene: A realistic modern gym vlog. From the very first frame, the woman is already talking directly to the camera while walking through the gym. She keeps speaking continuously throughout the entire 15-second video—no silent moments and no voice-over.
+
+0–5 sec: She walks toward the camera in selfie-vlog style, smiling naturally and talking directly to the viewer. Gym equipment and people working out are visible in the background.
+
+Dialogue:
+
+"Hey guys! I'm at the gym today, and I'm going to show you a little bit of my workout."
+
+5–10 sec: While continuing to talk, she reaches the dumbbell area, picks up a moderate-sized dumbbell with one hand, briefly lifts it in a natural demonstration, and keeps speaking to the camera.
+
+Dialogue:
+
+"I usually start with some simple exercises like this, just to get warmed up."
+
+10–15 sec: Still holding the dumbbell briefly, she looks at the camera and continues talking with a friendly smile, then places it back naturally.
+
+Dialogue:
+
+"Alright, let's get started and make this workout a good one!"
+
+Important: Continuous talking from start to finish, natural lip-sync matching every word, no narration, no sudden cuts, no change of character or clothing. The same reference character must remain consistent throughout. Realistic gym environment, natural body movement, handheld smartphone vlog style, cinematic 4K quality.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/noorlewisx-seedance-ai-b2d98861daf9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Black-Haired Woman Escapes a War-Torn City with a Rifle
 
 > One girl, one weapon, and a city full of chaos.She’s ready to face every danger and fight until the very end. Created on seedance 2.0 Prompt: Create a 28-second…
@@ -4778,20 +4867,6 @@ NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fa
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-12-8-second-surreal-cinematic-art-video-in-16-9-format-with-a-deep-bl-1c31702f9cce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Orange Tiger Warrior Battles Amid Burning City Ruins
-
-> When the tiger enters the fight, everything changes.Power, action, and pure cinematic energy. Created on seedance 2.0 Prompt: Create a cinematic 14.6-second act…
-
-[<img src="https://media.goodcase.ai/cases/d8017a3a295d.jpg" width="600" alt="Orange Tiger Warrior Battles Amid Burning City Ruins">](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-14-6-second-action-scene-featuring-a-powerful-anthropomorphi-ae5f2011beaa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2106938584431526162) | **公開日:** 2026-10-05 | **ヒート:** 62
-
-```
-Create a cinematic 14.6-second action scene featuring a powerful anthropomorphic orange tiger warrior in a destroyed city surrounded by smoke, fire, and collapsing buildings. The tiger aggressively faces an opponent in the opening shot, then suddenly leaps high into the air with dynamic martial-arts movement as the camera follows the jump dramatically. Cut to an intense close-up of the tiger’s realistic face, focusing on sharp eyes, detailed orange fur, whiskers, and a fierce expression. Show the tiger continuing the fight against a human-like opponent with fast punches and kicks, maintaining consistent character appearance and anatomy. A powerful blue energy impact appears during the attack, followed by a huge fiery explosion in the ruined city. Show flames, flying debris, thick smoke, sparks, and realistic destruction spreading across the environment. The tiger lands confidently in the foreground while the burning ruins glow behind it, creating a dramatic heroic silhouette. Use smooth cinematic camera movement, realistic physics, dramatic lighting, detailed textures, strong action choreography, and high-quality 3D animation throughout, with no text, watermark, or character distortion.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-14-6-second-action-scene-featuring-a-powerful-anthropomorphi-ae5f2011beaa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Apartment Arrival Storyboard Animation
 
 > A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
@@ -4805,28 +4880,6 @@ Use the storyboard grid Image1 as the exact visual reference for character desig
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Summer Camping in the Korean Mountains
-
-> A summer escape through Korea’s mountains setting up camp, cooking outdoors, and unwinding beneath the evening sky. Crea
-
-[<img src="https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-531c19980c39.jpg" width="600" alt="Summer Camping in the Korean Mountains">](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @nawalsehar | **出典:** [元投稿](https://x.com/nawalsehar/status/2092482623490916552) | **公開日:** 2026-08-26 | **ヒート:** 62
-
-**安定度:** 77/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76.8) · [出力](https://media.goodcase.ai/retests/nawalsehar-seedance-ai-531c19980c39/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a 30-second 16:9 ultra-photorealistic Korean summer camping video. A young Korean woman arrives at a peaceful mountain campsite in a compact SUV, parks on a gravel path, unloads her camping gear, and physically sets up a tent on the grass.
-Show realistic tent fabric, flexible poles, stakes, natural wind, and believable body movement. She then prepares a simple outdoor meal on a portable stove, stirring vegetables in a pan as gentle steam rises naturally.
-As afternoon transitions into a soft evening, she turns off the stove, sits in a folding camping chair, takes a sip of her drink, and peacefully admires the surrounding Korean mountains and forest.
-Use smooth documentary-style camera movement, natural lighting, realistic human physics, authentic campsite ambience, cooking sounds, birds, insects, wind, and gravel footsteps. Maintain the same woman, outfit, SUV, tent, campsite, and equipment throughout.
-Negative Prompt: No CGI look, teleportation, floating objects, weightless equipment, distorted hands, extra fingers, robotic movement, instant tent setup, unrealistic fire or food physics, excessive wind, artificial lighting, changing characters, text, logos, or watermark.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/nawalsehar-seedance-ai-531c19980c39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-0-part-2.ja.md) · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · [Part 4](./gallery-seedance-2-0-part-4.ja.md)

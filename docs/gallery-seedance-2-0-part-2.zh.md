@@ -1,10 +1,24 @@
 # Seedance 2.0 — 全量案例（第 2/4 页）
 
-Seedance 2.0 全部 308 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.0 全部 309 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 92–202 条，共 308 条。
+本页：第 92–202 条，共 309 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · [Part 4](./gallery-seedance-2-0-part-4.zh.md)
+
+### 电影感生活 Vlog 提示词
+
+> 一份详尽的视频提示词，用于制作超写实生活 Vlog，记录主角从晨间洗漱到夜晚的全天生活，并确保多场景下的人物一致性。
+
+[<img src="https://media.goodcase.ai/media/poster/vlog-543a49303376.jpg" width="600" alt="电影感生活 Vlog 提示词">](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ElsaSofia__AI | **来源:** [原帖](https://x.com/ElsaSofia__AI/status/2091345498909319528) | **发布:** 2026-08-23 | **热度:** 61
+
+```
+DURATION: 20 seconds ASPECT RATIO: 16:9 STYLE: Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading. REFERENCE ASSIGNMENT: @IMG1 = FEMALE HERO / MAIN CHARACTER @IMG2 = BEDROOM / MORNING @IMG3 = KITCHEN / BREAKFAST @IMG4 = WORK / DESK @IMG5 = OUTDOOR / CAFÉ @IMG6 = EVENING / NIGHT Use @IMG1 as the strict identity reference throughout the entire video. CHARACTER CONSISTENCY: The same woman must appear in every scene. Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity. Do not change her identity between scenes. 0–3 SECONDS — MORNING Start in the bedroom using @IMG2. The woman wakes up naturally and sits on the edge of the bed. Soft morning sunlight enters through the window. She gently opens the curtains and looks toward the morning light. Camera begins with a medium-wide shot and smoothly pushes toward her. Peaceful morning atmosphere. 3–6 SECONDS — BREAKFAST Smooth cinematic transition to @IMG3. The same woman prepares a simple breakfast in the kitchen. She pours coffee or tea into a ceramic mug and places breakfast on the counter. Natural steam rises from the hot drink. She briefly looks toward the camera with a relaxed morning smile. Use a natural medium tracking shot. 6–10 SECONDS — WORK Transition to @IMG4. The same woman sits at her desk and works on her laptop. She types briefly, checks the screen and writes a few notes in her notebook. Natural productive expression. Camera moves slowly from a side angle toward a three-quarter view. Keep the environment realistic and calm. 10–14 SECONDS — OUTDOOR / CAFÉ Transition naturally to @IMG5. The same woman leaves home and walks through a beautiful modern city street toward an outdoor café. Camera smoothly tracks backward while she walks toward it. She arrives at the café, places her handbag beside the table and sits down. She smiles naturally toward the camera. Warm daylight and realistic city background. 14–17 SECONDS — CAFÉ MOMENT Close cinematic shot. She picks up her coffee/drink and takes a relaxed sip. Subtle background movement from distant pedestrians. Natural handheld lifestyle-vlog feeling. 17–20 SECONDS — NIGHT Transition to @IMG6. The same woman is back home in her cozy bedroom at night. She places her phone on the bedside table and relaxes after the day. She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile. Camera slowly pushes into a close-up. End on her calm expression with warm bedroom lighting and soft city-light bokeh. CUT TO BLACK. CAMERA PRIORITY: Keep the camera cinematic and natural. Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement. Avoid excessive camera shake. Keep the woman as the visual focus. Maintain realistic transitions between locations. FINAL RULES: Same female character throughout. Same face and identity throughout. Natural realistic human movement. Realistic lighting and shadows. Realistic clothing and hair movement. No face changes. No character duplication. No extra main characters. No cartoon or anime appearance. No fantasy effects. No excessive motion blur. No distorted hands. No text. No logos. No watermark. The overall feeling should be: A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life. Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference. Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance. Create the same woman as a realistic modern lifestyle vlogger. Show her with natural feminine proportions and realistic anatomy. CHARACTER PRESENTATION: Create a clean professional character sheet containing: 1. Full-body front view 2. Full-body 3/4 view 3. Full-body side view 4. Back view 5. Close-up face portrait 6. Natural smiling expression 7. Neutral expression 8. Casual standing pose Keep the exact same woman in every view. CLOTHING: Use a simple modern casual lifestyle outfit suitable for a daily vlog: a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear. Keep the outfit realistic, modest and natural. STYLE: Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors. The character should look like a real woman photographed for a professional lifestyle vlog. IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY. Do not change her face. Do not change her hairstyle. Do not masculinize her. Do not make her look like a different person. Do not create an anime or cartoon appearance. No fantasy styling. No text. No logo. No watermark. Clean neutral studio background. This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Celestial Palace MiniDV Tour
 
@@ -160,13 +174,57 @@ Smooth cinematic camera movement, realistic human motion, detailed skin and fabr
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-k-pop-dance-performance-on-a-futuristic-dark-stage-illuminated-by-v-a713463472c6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 放学后少女沿海追着列车回眸
+
+> A little school-day journey filled with smiles, sunshine, and peaceful coastal views. Simple moments, beautifully captured. Created on seedance 2.0 Prompt: A ko…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce.jpg" width="600" alt="放学后少女沿海追着列车回眸">](https://goodcase.ai/cases/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2096440173072674962) | **发布:** 2026-09-06 | **热度:** 59
+
+**稳定度：** 86/100
+
+**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (85.5 分) · [产物](https://media.goodcase.ai/retests/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce/video-grok-imagine-20261002-phase1/generated.mp4)
+
+```
+A korean girl, approximately 30-second cinematic video of a young East Asian schoolgirl with shoulder-length dark brown hair and soft bangs, wearing a classic school uniform consisting of a light blue collared shirt, cream-colored cardigan, navy blue pleated skirt, white socks, and brown loafers, carrying a beige tote bag. The video opens with close-up selfies of her smiling and waving inside a bright Japanese-style classroom filled with wooden desks, chairs, a green chalkboard, and white curtains by large windows, then shows her sitting at a desk writing in a notebook with a pink pencil case nearby, drinking from a bottle of Japanese tea, packing her bag, and walking through the empty classroom. It continues outdoors as she walks away from a school gate along quiet residential streets lined with houses, greenery, and utility poles, then along a scenic coastal path beside railway tracks with the blue ocean and distant mountains visible under clear sunny skies, turning to smile at the camera while a white train passes by in the background, capturing a natural, cheerful, and slice-of-life atmosphere with soft natural lighting throughout.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 女子超市捡罐后变出健美巨臂
+
+> One tiny can, one unexpected transformation.😂 When grocery shopping turns into a bodybuilding show. Created on seedance 2.0 Prompt Create a 10-second video fea…
+
+[<img src="https://media.goodcase.ai/cases/a9547836e919.jpg" width="600" alt="女子超市捡罐后变出健美巨臂">](https://goodcase.ai/cases/seedance-2-0-one-tiny-can-one-unexpected-transformation-c233e911c659?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2113138774951772403) | **发布:** 2026-10-22 | **热度:** 58
+
+<details>
+<summary><b>完整 prompt（8 行，点开展开）</b></summary>
+
+```
+One tiny can, one unexpected transformation.😂
+ When grocery shopping turns into a bodybuilding show.
+
+Created on seedance 2.0
+
+ Prompt
+
+Create a 10-second video featuring a hilarious, ultra-realistic transformation scene inside a brightly lit supermarket. A young woman with long dark brown hair, wearing a white sleeveless crop top and olive-green pants, walks through the grocery aisle and suddenly notices a small green can on the floor. She bends down to grab it but dramatically loses her balance and falls forward onto the supermarket floor. Show her lying on the ground, holding the green can and looking surprised, with a cinematic close-up capturing her shocked facial expression. Suddenly, her arms transform into unbelievably huge, muscular bodybuilder arms while the rest of her appearance remains consistent. She slowly rises to her feet, flexes both enormous biceps, and proudly poses in the middle of the grocery aisle. Her facial expression changes from shock to confidence as she admires her incredible new strength. A male shopper in the background stops and stares in disbelief, adding a funny reaction to the scene. Use smooth cinematic camera movements, realistic skin texture, detailed muscle definition, natural supermarket lighting, accurate shadows, and seamless transformation effects. Maintain the same face, hairstyle, outfit, and character identity throughout, with photorealistic visuals, comedic timing, and no text or logos.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-one-tiny-can-one-unexpected-transformation-c233e911c659?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Analog Fitness Vlog Gym Diary
 
 > A detailed Seedance prompt for creating a realistic 16mm analog-style fitness vlog featuring a character named Chase in a gym setting.
 
 [<img src="https://media.goodcase.ai/media/poster/analog-fitness-vlog-gym-diary.jpg" width="600" alt="Analog Fitness Vlog Gym Diary">](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @YourAlphaMom | **来源:** [原帖](https://x.com/YourAlphaMom/status/2085035378151510274) | **发布:** 2026-08-05 | **热度:** 59
+**作者:** @YourAlphaMom | **来源:** [原帖](https://x.com/YourAlphaMom/status/2085035378151510274) | **发布:** 2026-08-05 | **热度:** 58
 
 **稳定度：** 80/100
 
@@ -213,79 +271,6 @@ She stands, throws the bag over her shoulder, and gives the camera a small wave.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 放学后少女沿海追着列车回眸
-
-> A little school-day journey filled with smiles, sunshine, and peaceful coastal views. Simple moments, beautifully captured. Created on seedance 2.0 Prompt: A ko…
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce.jpg" width="600" alt="放学后少女沿海追着列车回眸">](https://goodcase.ai/cases/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2096440173072674962) | **发布:** 2026-09-06 | **热度:** 59
-
-**稳定度：** 86/100
-
-**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (85.5 分) · [产物](https://media.goodcase.ai/retests/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce/video-grok-imagine-20261002-phase1/generated.mp4)
-
-```
-A korean girl, approximately 30-second cinematic video of a young East Asian schoolgirl with shoulder-length dark brown hair and soft bangs, wearing a classic school uniform consisting of a light blue collared shirt, cream-colored cardigan, navy blue pleated skirt, white socks, and brown loafers, carrying a beige tote bag. The video opens with close-up selfies of her smiling and waving inside a bright Japanese-style classroom filled with wooden desks, chairs, a green chalkboard, and white curtains by large windows, then shows her sitting at a desk writing in a notebook with a pink pencil case nearby, drinking from a bottle of Japanese tea, packing her bag, and walking through the empty classroom. It continues outdoors as she walks away from a school gate along quiet residential streets lined with houses, greenery, and utility poles, then along a scenic coastal path beside railway tracks with the blue ocean and distant mountains visible under clear sunny skies, turning to smile at the camera while a white train passes by in the background, capturing a natural, cheerful, and slice-of-life atmosphere with soft natural lighting throughout.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-korean-girl-approximately-30-second-cinematic-video-of-a-young-east-asian-sc-a7a9ee0009ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 女子超市捡罐后变出健美巨臂
-
-> One tiny can, one unexpected transformation.😂 When grocery shopping turns into a bodybuilding show. Created on seedance 2.0 Prompt Create a 10-second video fea…
-
-[<img src="https://media.goodcase.ai/cases/a9547836e919.jpg" width="600" alt="女子超市捡罐后变出健美巨臂">](https://goodcase.ai/cases/seedance-2-0-one-tiny-can-one-unexpected-transformation-c233e911c659?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2113138774951772403) | **发布:** 2026-10-22 | **热度:** 58
-
-<details>
-<summary><b>完整 prompt（8 行，点开展开）</b></summary>
-
-```
-One tiny can, one unexpected transformation.😂
- When grocery shopping turns into a bodybuilding show.
-
-Created on seedance 2.0
-
- Prompt
-
-Create a 10-second video featuring a hilarious, ultra-realistic transformation scene inside a brightly lit supermarket. A young woman with long dark brown hair, wearing a white sleeveless crop top and olive-green pants, walks through the grocery aisle and suddenly notices a small green can on the floor. She bends down to grab it but dramatically loses her balance and falls forward onto the supermarket floor. Show her lying on the ground, holding the green can and looking surprised, with a cinematic close-up capturing her shocked facial expression. Suddenly, her arms transform into unbelievably huge, muscular bodybuilder arms while the rest of her appearance remains consistent. She slowly rises to her feet, flexes both enormous biceps, and proudly poses in the middle of the grocery aisle. Her facial expression changes from shock to confidence as she admires her incredible new strength. A male shopper in the background stops and stares in disbelief, adding a funny reaction to the scene. Use smooth cinematic camera movements, realistic skin texture, detailed muscle definition, natural supermarket lighting, accurate shadows, and seamless transformation effects. Maintain the same face, hairstyle, outfit, and character identity throughout, with photorealistic visuals, comedic timing, and no text or logos.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-one-tiny-can-one-unexpected-transformation-c233e911c659?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 丈夫误把洗衣求助当浪漫邀约
-
-> When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
-
-[<img src="https://media.goodcase.ai/cases/aa596f802fe1.jpg" width="600" alt="丈夫误把洗衣求助当浪漫邀约">](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2091754978348339299) | **发布:** 2026-08-24 | **热度:** 58
-
-**稳定度：** 84/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.9 分) · [产物](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-b4d2ba40a750/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（7 行，点开展开）</b></summary>
-
-```
-Create a 15-second hilarious animated sequence in the exact same warm, elegant 3D cartoon/Pixar-like visual style as the provided storyboard. Maintain the same husband and wife character designs, luxurious cream-colored bedroom and laundry room, cinematic warm lighting, expressive exaggerated facial reactions, and smooth comedic timing.
-Scene 1 — 0–3 sec: The husband is relaxing in bed reading a book. Suddenly, he notices his wife's bra and top being thrown out from another room onto the floor. He slowly lowers his book and stares at them with wide, suspicious eyes. In his imagination, this clearly looks like his wife is preparing for a romantic moment with someone inside.
-Scene 2 — 3–6 sec: The husband immediately jumps up excitedly and rushes to the mirror. He sprays mouth freshener, applies perfume, fixes his hair, and gives himself a confident, seductive smile. He is convinced something romantic is happening and that he should quickly join his wife.
-Scene 3 — 6–9 sec: Looking handsome and confident, he slowly and dramatically opens the door, expecting a romantic surprise. His expression suddenly changes from excitement to complete confusion.
-Scene 4 — 9–12 sec: Reveal the truth: his wife is simply doing laundry. She is pulling freshly washed clothes from the washing machine one by one and tossing them onto the floor because she needs help carrying them. She looks at her husband standing there, fully dressed up and smelling of perfume.
-Scene 5 — 12–15 sec: The wife immediately takes advantage of him, smiling innocently as she stacks a huge pile of wet clothes into his arms. The husband becomes completely trapped under the mountain of laundry. His romantic excitement disappears instantly, and he walks away slowly with a sad, moody, defeated expression while the wife happily continues doing laundry.
-Comedy style: exaggerated facial expressions, fast misunderstanding setup, dramatic reveal, visual humor, smooth character animation, cinematic framing, warm luxury interior, same character consistency and visual style throughout.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 散落乐谱间静卧的忧郁女子
 
 > AI isn’t just creating visuals anymore; it’s creating emotions. Made with Seedance 2.0 on @picsartai #picsartpartner @Picsart Prompt: Create an exactly 15-secon…
@@ -316,20 +301,6 @@ Critical requirement: Create a true five-shot cinematic beauty film, not a singl
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-an-exactly-15-second-16-9-full-hd-1920-1080-24-fps-photorealistic-ci-cda429bbe9d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 三位韩国女生的深夜便利店拉面小聚
-
-> Late-night ramen, best friends, and cozy Korean vibes. Sometimes, the simplest moments make the sweetest memories. Created on seedance 2.0 Prompt: Created a vid…
-
-[<img src="https://media.goodcase.ai/cases/e0c99130c1d3.jpg" width="600" alt="三位韩国女生的深夜便利店拉面小聚">](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2109852187186827283) | **发布:** 2026-10-13 | **热度:** 57
-
-```
-Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 暮色集装箱港口的巨龙追逐
 
@@ -413,6 +384,35 @@ Soft cinematic lighting, warm golden tones, luxury commercial aesthetic, smooth 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-30-second-cinematic-luxury-jewelry-advertisement-video-in-a-warm-and-8d47861d9581?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 丈夫误把洗衣求助当浪漫邀约
+
+> When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
+
+[<img src="https://media.goodcase.ai/cases/aa596f802fe1.jpg" width="600" alt="丈夫误把洗衣求助当浪漫邀约">](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2091754978348339299) | **发布:** 2026-08-24 | **热度:** 57
+
+**稳定度：** 84/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.9 分) · [产物](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-b4d2ba40a750/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（7 行，点开展开）</b></summary>
+
+```
+Create a 15-second hilarious animated sequence in the exact same warm, elegant 3D cartoon/Pixar-like visual style as the provided storyboard. Maintain the same husband and wife character designs, luxurious cream-colored bedroom and laundry room, cinematic warm lighting, expressive exaggerated facial reactions, and smooth comedic timing.
+Scene 1 — 0–3 sec: The husband is relaxing in bed reading a book. Suddenly, he notices his wife's bra and top being thrown out from another room onto the floor. He slowly lowers his book and stares at them with wide, suspicious eyes. In his imagination, this clearly looks like his wife is preparing for a romantic moment with someone inside.
+Scene 2 — 3–6 sec: The husband immediately jumps up excitedly and rushes to the mirror. He sprays mouth freshener, applies perfume, fixes his hair, and gives himself a confident, seductive smile. He is convinced something romantic is happening and that he should quickly join his wife.
+Scene 3 — 6–9 sec: Looking handsome and confident, he slowly and dramatically opens the door, expecting a romantic surprise. His expression suddenly changes from excitement to complete confusion.
+Scene 4 — 9–12 sec: Reveal the truth: his wife is simply doing laundry. She is pulling freshly washed clothes from the washing machine one by one and tossing them onto the floor because she needs help carrying them. She looks at her husband standing there, fully dressed up and smelling of perfume.
+Scene 5 — 12–15 sec: The wife immediately takes advantage of him, smiling innocently as she stacks a huge pile of wet clothes into his arms. The husband becomes completely trapped under the mountain of laundry. His romantic excitement disappears instantly, and he walks away slowly with a sad, moody, defeated expression while the wife happily continues doing laundry.
+Comedy style: exaggerated facial expressions, fast misunderstanding setup, dramatic reveal, visual humor, smooth character animation, cinematic framing, warm luxury interior, same character consistency and visual style throughout.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 浪漫晚餐后，女孩回家独享零食盛宴
 
 > A romantic dinner turned into a midnight food adventure. Because sometimes, love can wait, but food can't. Created on seedance 2.0 Prompt: Create a high-quality…
@@ -440,6 +440,20 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 三位韩国女生的深夜便利店拉面小聚
+
+> Late-night ramen, best friends, and cozy Korean vibes. Sometimes, the simplest moments make the sweetest memories. Created on seedance 2.0 Prompt: Created a vid…
+
+[<img src="https://media.goodcase.ai/cases/e0c99130c1d3.jpg" width="600" alt="三位韩国女生的深夜便利店拉面小聚">](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2109852187186827283) | **发布:** 2026-10-13 | **热度:** 56
+
+```
+Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 年轻女子漫步韩国海滨村落与日落海岸
 
@@ -473,20 +487,6 @@ Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and su
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-lifestyle-vlog-featuring-a-beautif-a70d082492a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 韩国少女的雪山村庄之旅
-
-> A peaceful winter escape filled with snowy mountains, quiet villages, and unforgettable little moments. Created on seedance 2.0 Prompt:Create a 30-second video,…
-
-[<img src="https://media.goodcase.ai/cases/aacb79532b6c.jpg" width="600" alt="韩国少女的雪山村庄之旅">](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2104443916695347682) | **发布:** 2026-09-28 | **热度:** 56
-
-```
-Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy school uniform with a white shirt, ribbon tie, blazer, pleated skirt, and long dark hair, keeping her face, hairstyle, outfit, and proportions consistent throughout the entire video. Start with a cinematic wide shot of her walking toward a modern school building, then transition naturally into a peaceful snowy mountain village surrounded by traditional Korean-style wooden houses and dramatic snow-covered mountains. Show her walking through the quiet snowy path while the camera follows her with smooth cinematic movement and natural winter lighting. Add a close-up selfie-style moment where she smiles gently at the camera, followed by wide scenic shots revealing the beautiful winter landscape. Show two brown horses calmly eating hay in a snowy field as the girl approaches them and stands beside the wooden fence, creating a warm and emotional connection. Use realistic snow, natural body movement, subtle wind in her hair and clothing, detailed horse movement, and authentic environmental textures. Transition into a cozy traditional wooden house where she enters through the door and looks around naturally, then show her sitting near a large window with a warm cup of drink while looking at the snowy village outside. Add subtle hand-drawn doodle elements around key moments, such as small hearts, snowflakes, stars, arrows, and simple travel-style sketches, integrated naturally without covering the subject. Keep the entire video photorealistic, cinematic, warm, emotional, and immersive, with seamless transitions, realistic camera motion, consistent character identity, and no artificial-looking faces, distorted hands, extra limbs, outfit changes, or random objects.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雨日独居女孩的静谧时光
 
@@ -545,6 +545,20 @@ Important: Maintain one identical character throughout. Do not change her facial
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-cozy-lifestyle-video-of-a-young-woman-spending-a-p-b80e5f5782e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 韩国少女的雪山村庄之旅
+
+> A peaceful winter escape filled with snowy mountains, quiet villages, and unforgettable little moments. Created on seedance 2.0 Prompt:Create a 30-second video,…
+
+[<img src="https://media.goodcase.ai/cases/aacb79532b6c.jpg" width="600" alt="韩国少女的雪山村庄之旅">](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2104443916695347682) | **发布:** 2026-09-28 | **热度:** 55
+
+```
+Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy school uniform with a white shirt, ribbon tie, blazer, pleated skirt, and long dark hair, keeping her face, hairstyle, outfit, and proportions consistent throughout the entire video. Start with a cinematic wide shot of her walking toward a modern school building, then transition naturally into a peaceful snowy mountain village surrounded by traditional Korean-style wooden houses and dramatic snow-covered mountains. Show her walking through the quiet snowy path while the camera follows her with smooth cinematic movement and natural winter lighting. Add a close-up selfie-style moment where she smiles gently at the camera, followed by wide scenic shots revealing the beautiful winter landscape. Show two brown horses calmly eating hay in a snowy field as the girl approaches them and stands beside the wooden fence, creating a warm and emotional connection. Use realistic snow, natural body movement, subtle wind in her hair and clothing, detailed horse movement, and authentic environmental textures. Transition into a cozy traditional wooden house where she enters through the door and looks around naturally, then show her sitting near a large window with a warm cup of drink while looking at the snowy village outside. Add subtle hand-drawn doodle elements around key moments, such as small hearts, snowflakes, stars, arrows, and simple travel-style sketches, integrated naturally without covering the subject. Keep the entire video photorealistic, cinematic, warm, emotional, and immersive, with seamless transitions, realistic camera motion, consistent character identity, and no artificial-looking faces, distorted hands, extra limbs, outfit changes, or random objects.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 现代咖啡馆里的暖调咖啡时光
 
@@ -645,61 +659,6 @@ A highly realistic 12-second vertical UGC-style commercial filmed on a smartphon
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ugc-f0cd0dd33284?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 河狸与猩猩的水果大战
-
-> Made with seedance 2 5 Prompt 👇 Create a cinematic high-quality 3D animated short film set in a beautiful sunlit forest meadow, featuring two adorable anthropo…
-
-[<img src="https://media.goodcase.ai/cases/f5af0ab4243c.jpg" width="600" alt="河狸与猩猩的水果大战">](https://goodcase.ai/cases/seedance-made-with-seedance-2-91732a69f379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2105256819623129130) | **发布:** 2026-09-30 | **热度:** 53
-
-<details>
-<summary><b>完整 prompt（37 行，点开展开）</b></summary>
-
-```
-Create a cinematic high-quality 3D animated short film set in a beautiful sunlit forest meadow, featuring two adorable anthropomorphic animal characters: a small fluffy brown beaver-like creature with big expressive eyes, a tiny tuft of hair, soft rounded body, and a dark furry gorilla-like companion.
-
-Scene 1 — Peaceful Beginning:
-Wide cinematic shot of the two cute animals sitting together on lush green grass in a bright forest. The small brown animal happily eats a banana while the dark gorilla-like character watches beside him. Warm golden sunlight filters through the trees, soft depth of field, floating dust particles, beautiful colorful environment.
-
-Scene 2 — Funny Reaction:
-Cut to an extreme close-up of the brown character's face. His expression suddenly changes from happy to suspicious and annoyed. Use exaggerated cartoon facial animation, expressive eyes, subtle head movement, detailed soft fur, cinematic shallow depth of field.
-
-Scene 3 — Emotional Gorilla:
-Extreme close-up of the gorilla-like character with enormous expressive eyes. Tears begin streaming down his face in an exaggerated but adorable emotional reaction. His eyes reflect the surrounding forest and sunlight. Make the moment funny, cute, and emotionally expressive.
-
-Scene 4 — Argument:
-Medium-wide shot of both characters sitting in the meadow. The brown animal becomes angry, his cheeks turning red, while the gorilla reacts dramatically. Exaggerated facial expressions and body language, playful comedy, smooth character animation.
-
-Scene 5 — Wooden Bat:
-Close-up of a large wooden stick/bat entering the frame. The brown character grabs it with determination while the gorilla looks shocked. Use a comedic action-movie style camera push-in and dramatic timing.
-
-Scene 6 — Chase/Fight:
-Dynamic wide shot as the two characters run and playfully fight across the grassy meadow. The brown animal swings the wooden stick while the gorilla dodges and reacts dramatically. Fast but smooth camera movement, comedic choreography, expressive faces, flying grass particles, cinematic motion blur.
-
-Scene 7 — Calm After Chaos:
-Close-up of the brown character looking directly toward the camera with a cute, slightly mischievous expression. His expression gradually changes into a happy smile. Warm sunlight creates a beautiful glowing rim light around his fur.
-
-Scene 8 — Fruit Discovery:
-Wide shot near a large tree. The small animal discovers a colorful pile of fresh fruit and happily sits down beside it. Apples, peaches, grapes and other colorful fruits fill the foreground. Soft sunlight and dreamy forest background.
-
-Scene 9 — Hero Fruit Shot:
-Cinematic close-up of the adorable brown character sitting among the colorful fruit, smiling directly at the camera. Bright blue sky, lush green trees, vibrant fruit colors, soft golden sunlight, highly detailed realistic fur, polished animated-film quality.
-
-Scene 10 — Grand Finale:
-Epic wide cinematic shot of a large group of cute forest animals gathered together around a huge colorful fruit display. Rabbits, small mammals, bears and other adorable animals celebrate together in a joyful festival atmosphere. Colorful fireworks explode in the sky above the forest. Include a festive vertical red banner with Chinese-style celebratory writing in the center. Everyone looks happy and excited.
-
-Visual Style:
-Premium cinematic 3D animation, adorable character design, realistic soft fur, expressive oversized eyes, Pixar-quality feel, vibrant colors, warm natural sunlight, global illumination, realistic shadows, shallow depth of field, detailed environments, smooth facial animation, exaggerated comedic expressions, polished movie-quality rendering.
-
-Camera:
-Use cinematic establishing shots, extreme close-ups, medium shots, tracking shots, slow push-ins, dynamic action camera movement and smooth transitions. Maintain consistent character appearance throughout every scene.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-91732a69f379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 蓝发街头少女极速跃动
 
 > Made with Seedance 2.0 Prompt: Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13
@@ -759,28 +718,6 @@ Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive, 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-an-explosive-motion-graphics-driven-character-reveal-trailer-in-16-9-e-97abc37074ae?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 从雨巷涟漪到极光之眼
-
-> One continuous journey through rain dreams deserts oceans and the northern lights ending where everything began inside t
-
-[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b83a3b47ae61.jpg" width="600" alt="从雨巷涟漪到极光之眼">](https://goodcase.ai/cases/zyrellix-seedance-ai-b83a3b47ae61?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2094267571943932216) | **发布:** 2026-08-31 | **热度:** 53
-
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/zyrellix-seedance-ai-b83a3b47ae61/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a completely original, hyper-realistic cinematic video sequence with one continuous, immersive camera journey connecting every environment through creative visual transformations.The sequence begins with an extreme macro close-up of wet asphalt in a quiet dark urban alley at night. Soft glowing neon lights reflect across the rain-covered pavement. A single raindrop falls into a shallow puddle, creating perfectly visible circular ripples. The camera rapidly pushes directly toward the center of the ripple, and the liquid surface organically transforms into the next environment.The camera emerges into a magnificent grand ballroom illuminated by elegant warm chandeliers. Numerous couples move naturally across the spacious ballroom floor in sophisticated formal clothing. The camera smoothly glides between the dancers and gradually focuses on an elegant woman. She naturally turns toward the camera. The camera moves closer and closer to her eye, then pushes directly into the pupil, using the eye as the transition point.Inside the pupil, the scene transforms seamlessly into a vast open desert under dramatic natural light. Endless golden sand dunes extend toward the horizon. A gigantic naturally formed quartz crystal rises from the dunes, catching sunlight and producing intricate realistic refractions. The camera moves directly toward the crystal and passes through its geometric internal structure, following the refracted light.The refracted light seamlessly becomes the reflection on a cracked smartphone screen. The smartphone is lying face-up on wet street pavement. The camera continues through the reflected surface and then suddenly tilts upward, following distorted building reflections from the wet surroundings toward the glass facade of a towering modern skyscraper.
-The camera continues rising smoothly along the skyscraper's reflective glass surface until it reaches the top. The camera looks upward into the open sky, and the sky gradually transforms into a deep underwater perspective looking upward toward shimmering rays of sunlight penetrating the dark blue ocean.Two enormous humpback whales swim gracefully through the deep water, creating a majestic sense of scale. One whale makes a powerful natural movement with its tail, sending a wave-like motion through the surrounding water. That moving water gradually transforms into thick freezing fog rolling across an enormous icy frozen lake.The frozen lake is surrounded by a vast dark landscape beneath a clear star-filled night sky. Bright green aurora lights begin dancing naturally across the distant horizon. The aurora becomes increasingly fluid and concentrated, with its glowing green patterns slowly converging toward the camera.The swirling aurora seamlessly transforms into the glowing green iris of a realistic human eye. The camera is extremely close to the eye at first. The iris gradually and naturally transitions from vivid green into a subtle blue-hazel color. The camera slowly pulls backward, revealing more of the eye and surrounding face. The eye remains calm and natural, then gently blinks once, creating a peaceful cinematic ending.Maintain the exact scene progression and visual story from beginning to end. Every transition must feel continuous, intentional, fluid, and visually connected. Preserve the key visual elements: wet neon pavement, raindrop ripple, grand ballroom, elegant woman, eye transition, desert dunes, giant quartz crystal, cracked smartphone, towering glass skyscraper, underwater whales, icy frozen lake, green aurora, and the final blue-hazel eye.Use completely original visual compositions and environments. Do not imitate or recreate any specific existing movie, advertisement, music video, commercial, artwork, character, celebrity, or recognizable copyrighted scene. No logos, brands, famous characters, celebrity likenesses, or recognizable intellectual-property elements.
-Visual style: hyper-realistic cinematic photography, physically realistic environments, natural human appearance, realistic water and atmospheric effects, detailed textures, sophisticated lighting, volumetric illumination, realistic reflections, cinematic depth of field, macro photography, smooth camera choreography, seamless optical transformations, immersive scale, high-end cinematic production quality, ultra-detailed 8K-quality visuals.Avoid abrupt cuts, distorted anatomy, unnatural faces, duplicated subjects, text, logos, watermarks, recognizable copyrighted imagery, or copied visual compositions.
-
-#polloai
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-b83a3b47ae61?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 地中海悬崖上的茉莉橄榄香氛
 
 > A touch of Mediterranean elegance in every drop Sunlit cliffs fresh olive notes and timeless luxury brought to life. Mad
@@ -799,99 +736,60 @@ A cinematic 3D product commercial for a luxury fragrance set against a sun-drenc
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-cd1e800467b5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 仙侠飞行特效提示词
+### 河狸与猩猩的水果大战
 
-> 用于生成电影级仙侠飞行特效的详细提示词，包含特定的镜头运动和角色互动。
+> Made with seedance 2 5 Prompt 👇 Create a cinematic high-quality 3D animated short film set in a beautiful sunlit forest meadow, featuring two adorable anthropo…
 
-[<img src="https://media.goodcase.ai/cases/a002c9dccc74.jpg" width="600" alt="Seedance 仙侠飞行特效提示词">](https://goodcase.ai/cases/seedance-c4c64ab69716?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/f5af0ab4243c.jpg" width="600" alt="河狸与猩猩的水果大战">](https://goodcase.ai/cases/seedance-made-with-seedance-2-91732a69f379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @GrayNoteLab | **来源:** [原帖](https://x.com/GrayNoteLab/status/2117525735158276381) | **发布:** 2026-11-03 | **热度:** 52
+**作者:** @Zarnab_with_Ai | **来源:** [原帖](https://x.com/Zarnab_with_Ai/status/2105256819623129130) | **发布:** 2026-09-30 | **热度:** 52
 
 <details>
 <summary><b>完整 prompt（37 行，点开展开）</b></summary>
 
 ```
-写实真人仙侠电影质感，晴空白昼，无边海面之上，远景有雪山与云层。女主A御剑贴海极速飞行：与海豚并游、掠过跃起的巨鲸、迎向遮天巨浪，一剑劈开海浪、穿过分海水走廊，飞出走廊后在平静海面急停收尾。速度基线为极速巡航：她的速度以剑下水痕的长度（达她身长的数十倍）、固定机位中的出画时间和下方参照物的放大速度来计量；跟拍带轻微滞后补正。播放速度以常速为基线，全片仅镜头05有0.5秒升格慢镜一处（全片唯一慢镜，视觉冲击点），其余镜头绝不慢动作。全片无对白、无背景音乐、无歌曲演唱，只保留环境音效（海浪声、破空声、水花声、鲸鸣与衣料猎猎声）；画面不生成任何文字。
+Create a cinematic high-quality 3D animated short film set in a beautiful sunlit forest meadow, featuring two adorable anthropomorphic animal characters: a small fluffy brown beaver-like creature with big expressive eyes, a tiny tuft of hair, soft rounded body, and a dark furry gorilla-like companion.
 
-【人物锁定】
-女主A：图1。神情冷峻果决。
-飞剑共两把同款：银白色长剑，深色剑柄配金色剑格、蓝色剑穗。一把在A脚下供她踏立飞行，全程不离脚；另一把自镜头08起由A右手握持，此后全程在手。脚下剑的形状全程锁死为一把笔直刚硬的长剑：剑身笔直平整、厚度均匀，剑尖尖锐，剑格、剑柄、剑穗齐全，双脚一前一后踏在剑身中段；剑身不得弯曲、不得变宽、不得软化变形。两把剑各就其位，不得合并、不得互换、不得多生第三把。
+Scene 1 — Peaceful Beginning:
+Wide cinematic shot of the two cute animals sitting together on lush green grass in a bright forest. The small brown animal happily eats a banana while the dark gorilla-like character watches beside him. Warm golden sunlight filters through the trees, soft depth of field, floating dust particles, beautiful colorful environment.
 
-【飞行姿态基线】
-全片为御剑站立式：A双脚始终踏在剑身上、剑尖朝前，任何镜头中剑都不得离开她的脚下。镜头03竞速段为例外变体：身体压低成蹲伏姿态、双腿弯曲踩剑、上半身前倾，双臂后收。镜头08起多一个持剑动作：她右手另握第二把剑，先一剑劈开巨浪、随后斜引身侧——脚下踏剑保持不变，双剑并存。结尾急停时姿态回收：由前倾俯冲姿态回正为自然直立站姿。长发、宽袖与长裙在飞行中被高速气流拉向后方、水平后扬，二级动态不间断；急停瞬间因惯性先向前甩、再缓缓回落。
+Scene 2 — Funny Reaction:
+Cut to an extreme close-up of the brown character's face. His expression suddenly changes from happy to suspicious and annoyed. Use exaggerated cartoon facial animation, expressive eyes, subtle head movement, detailed soft fur, cinematic shallow depth of field.
 
-【空间关系】
-海面是全片的高度参照：A贴海飞行时剑尖距水面不足一米，剑下风压在海面压出白色水痕与水雾尾流，她通过之后水雾才向两侧散开。雪山始终在远景同一侧。巨浪自镜头06在远处升起；镜头08她一剑劈开浪墙——分海水走廊是这一劈的结果，劈剑在前、走廊在后，走廊自镜头10起存在于她的航线上；她自走廊一端飞入、另一端飞出，航向全程一致、绝不掉头折返。镜头11的迎面画面来自机位硬切换位（镜头切到她正前方），不是她转身。
+Scene 3 — Emotional Gorilla:
+Extreme close-up of the gorilla-like character with enormous expressive eyes. Tears begin streaming down his face in an exaggerated but adorable emotional reaction. His eyes reflect the surrounding forest and sunlight. Make the moment funny, cute, and emotionally expressive.
 
-【分镜】
-镜头01（约1.4秒）
-【画面】侧面中景：A直立踏剑贴海疾飞，白色水雾尾流在剑后拉出长长一道，海面在她身下急速后退。
-【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍）。
-【动作与特效】跟拍带极轻微的滞后：她先向前窜出小半个身位，镜头随即追平并稳住；A双手负后、目视前方，神态从容；长发与裙摆水平后扬；剑尖切开水面薄雾，尾流贴水面拖长。
+Scene 4 — Argument:
+Medium-wide shot of both characters sitting in the meadow. The brown animal becomes angry, his cheeks turning red, while the gorilla reacts dramatically. Exaggerated facial expressions and body language, playful comedy, smooth character animation.
 
-镜头02（约2.8秒）
-【画面】远景大全景：A成为海天之间一个小小的人形，踏剑沿海面自左向右掠向地平线，身后留下一条笔直的白色水痕；雪山与云层在远景几乎不动。
-【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍，远距离版：主体景别不变，靠海面近景的狂退与远景雪山的缓移拉开三层视差）。
-【动作与特效】只有海面纹理向后狂奔证明速度；她身后的白色水痕长达她身长的数十倍、久久不散，缓缓扩宽。
+Scene 5 — Wooden Bat:
+Close-up of a large wooden stick/bat entering the frame. The brown character grabs it with determination while the gorilla looks shocked. Use a comedic action-movie style camera push-in and dramatic timing.
 
-镜头03（约2.7秒）
-【画面】侧面近景：A压低身体成蹲伏竞速姿态踏剑疾飞，身侧两三只海豚接连跃出水面、与她同向并游，雪山在背景。
-【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍）。
-【动作与特效】跟拍带轻微滞后补正：海豚跃起的瞬间她微微加速，镜头慢半拍追平；海豚起跳、入水与她保持同速，入水水花向后甩开；A上半身前倾、双臂后收，长发完全水平后拉；她侧目扫了一眼海豚，表情不动。
+Scene 6 — Chase/Fight:
+Dynamic wide shot as the two characters run and playfully fight across the grassy meadow. The brown animal swings the wooden stick while the gorilla dodges and reacts dramatically. Fast but smooth camera movement, comedic choreography, expressive faces, flying grass particles, cinematic motion blur.
 
-镜头04（约2.9秒）
-【画面】固定大全景：一头座头鲸自海面高高跃起、庞大的身躯占满画面中部，水花如幕垂落；A踏剑的身影小小地自后景掠近鲸鱼上方。
-【运镜】镜头保持完全静止，机位与焦距都不动，只有画面内的人物动作、光影和气流在变化（固定机位）。
-【动作与特效】鲸鱼的体量就是尺度参照，A高速接近、剑后水雾尾流细如一线；本镜末尾鲸鱼升至跃起最高点，她恰好掠至鲸头上方，为下一镜的慢镜特写接点。
+Scene 7 — Calm After Chaos:
+Close-up of the brown character looking directly toward the camera with a cute, slightly mischievous expression. His expression gradually changes into a happy smile. Warm sunlight creates a beautiful glowing rim light around his fur.
 
-镜头05（约0.5秒）
-【画面】升格慢镜近景：A擦着座头鲸的头顶掠过，与鲸鱼同框特写——鲸鱼皮肤上的水珠正剥落、悬停在空中，她的长发与裙摆在慢镜中层层舒展，鲸眼与她的侧脸同框。
-【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍，本镜为升格慢镜、约0.5秒，全片唯一慢镜）。
-【动作与特效】速度斜坡：自上一镜的全速在本镜骤然放慢到近乎凝滞——但她仍在前进、背景仍在缓动，不完全冻结；0.5秒一到立刻切回常速，她以全速冲出画面。慢与快的反差就是这个镜头的冲击点。
+Scene 8 — Fruit Discovery:
+Wide shot near a large tree. The small animal discovers a colorful pile of fresh fruit and happily sits down beside it. Apples, peaches, grapes and other colorful fruits fill the foreground. Soft sunlight and dreamy forest background.
+
+Scene 9 — Hero Fruit Shot:
+Cinematic close-up of the adorable brown character sitting among the colorful fruit, smiling directly at the camera. Bright blue sky, lush green trees, vibrant fruit colors, soft golden sunlight, highly detailed realistic fur, polished animated-film quality.
+
+Scene 10 — Grand Finale:
+Epic wide cinematic shot of a large group of cute forest animals gathered together around a huge colorful fruit display. Rabbits, small mammals, bears and other adorable animals celebrate together in a joyful festival atmosphere. Colorful fireworks explode in the sky above the forest. Include a festive vertical red banner with Chinese-style celebratory writing in the center. Everyone looks happy and excited.
+
+Visual Style:
+Premium cinematic 3D animation, adorable character design, realistic soft fur, expressive oversized eyes, Pixar-quality feel, vibrant colors, warm natural sunlight, global illumination, realistic shadows, shallow depth of field, detailed environments, smooth facial animation, exaggerated comedic expressions, polished movie-quality rendering.
+
+Camera:
+Use cinematic establishing shots, extreme close-ups, medium shots, tracking shots, slow push-ins, dynamic action camera movement and smooth transitions. Maintain consistent character appearance throughout every scene.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-c4c64ab69716?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 韩国乡村女孩的菜摊日常
-
-> A simple day at a Korean village market Selling fresh veggies, meeting customers, and enjoying the little moments of daily life. Created with AI, inspired by re…
-
-[<img src="https://media.goodcase.ai/cases/26d609fcf9a0.jpg" width="600" alt="韩国乡村女孩的菜摊日常">](https://goodcase.ai/cases/seedance-create-a-realistic-30-second-cinematic-vlog-style-video-featuring-a-young-korea-9c4eed813d4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2103702041365557449) | **发布:** 2026-09-26 | **热度:** 52
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-Create a realistic 30-second cinematic vlog-style video featuring a young Korean girl working as a vegetable seller at a small countryside village market in Korea. She looks natural and friendly, wearing a simple cream knitted sweater, dark brown apron, comfortable rural clothing, and her brown hair tied in a loose messy bun with soft bangs. The video should feel like a real person's daily-life vlog, not like a commercial or polished AI advertisement.
-
-Start with a wide handheld shot of the girl walking toward her small vegetable stall in the morning. The stall is surrounded by fresh leafy greens, radishes, carrots, tomatoes, potatoes, green onions, and other locally grown vegetables. Show a peaceful Korean countryside in the background with small houses, mountains, trees, and a few village market stalls.
-
-At around 3 seconds, move into a natural medium close-up as she smiles at the camera and casually greets the viewers. She then starts arranging fresh vegetables on the wooden counter. At 6 seconds, a local customer approaches the stall and asks for some vegetables. Show the girl smiling, selecting fresh vegetables by hand, checking their quality, and placing them into a small reusable bag.
-
-Around 10–14 seconds, show detailed close-up shots of her hands weighing the vegetables on an old-fashioned market scale and packing them carefully. Keep realistic hand movements and natural facial expressions. At 14–17 seconds, the customer pays her, and she politely accepts the money with a warm smile and thanks the customer.
-
-From 17–20 seconds, show a wider view of the busy village market, with several customers walking around while she continues arranging vegetables and serving people. At 20–23 seconds, she picks up a fresh bunch of leafy greens, holds them toward the camera and briefly talks to the viewer as if filming a casual daily vlog, saying something natural like “These are fresh today!”
-
-From 23–26 seconds, show the stall becoming slightly busier, with another customer arriving while she continues working naturally. At 26–28 seconds, cut to a close-up of her smiling face. She looks directly into the camera with a warm, genuine expression and gives a small friendly wave.
-
-End with a peaceful wide shot of the vegetable stall, the Korean countryside and mountains in the background, while she continues working. Add a subtle natural ending feeling, like a real day-in-the-life vlog.
-
-Visual style: photorealistic Korean countryside, authentic village market atmosphere, natural skin texture, realistic facial expressions, realistic hands, fresh vegetables, soft morning sunlight, subtle shadows, shallow depth of field, cinematic but not overly polished, warm natural colors, documentary-style realism.
-
-Camera style: handheld smartphone/vlog camera, gentle camera shake, occasional close-ups, medium shots and wide establishing shots, natural focus transitions, slight imperfect framing, realistic movement, no excessive camera effects.
-
-Important: Keep the same Korean girl, same face, hairstyle, outfit and apron throughout the entire video. Maintain strong character consistency between every shot. Make the customers and background people look natural and realistic. Avoid artificial-looking faces, distorted hands, extra fingers, floating objects, unnatural body movements, sudden outfit changes, excessive beauty filters, or an overly cinematic commercial appearance.
-
-The overall feeling should be wholesome, peaceful, authentic and intimate — like watching a Korean girl documenting an ordinary day while helping her family run a small countryside vegetable stall.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-realistic-30-second-cinematic-vlog-style-video-featuring-a-young-korea-9c4eed813d4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-91732a69f379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 乌鸦拥抱灰猫后结伴同行
 
@@ -964,6 +862,83 @@ Single continuous shot, no cuts or transitions
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-realistic-funny-heartwarming-handheld-phone-video-of-a-real-looking-2ef2ca810aff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 从雨巷涟漪到极光之眼
+
+> One continuous journey through rain dreams deserts oceans and the northern lights ending where everything began inside t
+
+[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b83a3b47ae61.jpg" width="600" alt="从雨巷涟漪到极光之眼">](https://goodcase.ai/cases/zyrellix-seedance-ai-b83a3b47ae61?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2094267571943932216) | **发布:** 2026-08-31 | **热度:** 52
+
+**稳定度：** 83/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.3 分) · [产物](https://media.goodcase.ai/retests/zyrellix-seedance-ai-b83a3b47ae61/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a completely original, hyper-realistic cinematic video sequence with one continuous, immersive camera journey connecting every environment through creative visual transformations.The sequence begins with an extreme macro close-up of wet asphalt in a quiet dark urban alley at night. Soft glowing neon lights reflect across the rain-covered pavement. A single raindrop falls into a shallow puddle, creating perfectly visible circular ripples. The camera rapidly pushes directly toward the center of the ripple, and the liquid surface organically transforms into the next environment.The camera emerges into a magnificent grand ballroom illuminated by elegant warm chandeliers. Numerous couples move naturally across the spacious ballroom floor in sophisticated formal clothing. The camera smoothly glides between the dancers and gradually focuses on an elegant woman. She naturally turns toward the camera. The camera moves closer and closer to her eye, then pushes directly into the pupil, using the eye as the transition point.Inside the pupil, the scene transforms seamlessly into a vast open desert under dramatic natural light. Endless golden sand dunes extend toward the horizon. A gigantic naturally formed quartz crystal rises from the dunes, catching sunlight and producing intricate realistic refractions. The camera moves directly toward the crystal and passes through its geometric internal structure, following the refracted light.The refracted light seamlessly becomes the reflection on a cracked smartphone screen. The smartphone is lying face-up on wet street pavement. The camera continues through the reflected surface and then suddenly tilts upward, following distorted building reflections from the wet surroundings toward the glass facade of a towering modern skyscraper.
+The camera continues rising smoothly along the skyscraper's reflective glass surface until it reaches the top. The camera looks upward into the open sky, and the sky gradually transforms into a deep underwater perspective looking upward toward shimmering rays of sunlight penetrating the dark blue ocean.Two enormous humpback whales swim gracefully through the deep water, creating a majestic sense of scale. One whale makes a powerful natural movement with its tail, sending a wave-like motion through the surrounding water. That moving water gradually transforms into thick freezing fog rolling across an enormous icy frozen lake.The frozen lake is surrounded by a vast dark landscape beneath a clear star-filled night sky. Bright green aurora lights begin dancing naturally across the distant horizon. The aurora becomes increasingly fluid and concentrated, with its glowing green patterns slowly converging toward the camera.The swirling aurora seamlessly transforms into the glowing green iris of a realistic human eye. The camera is extremely close to the eye at first. The iris gradually and naturally transitions from vivid green into a subtle blue-hazel color. The camera slowly pulls backward, revealing more of the eye and surrounding face. The eye remains calm and natural, then gently blinks once, creating a peaceful cinematic ending.Maintain the exact scene progression and visual story from beginning to end. Every transition must feel continuous, intentional, fluid, and visually connected. Preserve the key visual elements: wet neon pavement, raindrop ripple, grand ballroom, elegant woman, eye transition, desert dunes, giant quartz crystal, cracked smartphone, towering glass skyscraper, underwater whales, icy frozen lake, green aurora, and the final blue-hazel eye.Use completely original visual compositions and environments. Do not imitate or recreate any specific existing movie, advertisement, music video, commercial, artwork, character, celebrity, or recognizable copyrighted scene. No logos, brands, famous characters, celebrity likenesses, or recognizable intellectual-property elements.
+Visual style: hyper-realistic cinematic photography, physically realistic environments, natural human appearance, realistic water and atmospheric effects, detailed textures, sophisticated lighting, volumetric illumination, realistic reflections, cinematic depth of field, macro photography, smooth camera choreography, seamless optical transformations, immersive scale, high-end cinematic production quality, ultra-detailed 8K-quality visuals.Avoid abrupt cuts, distorted anatomy, unnatural faces, duplicated subjects, text, logos, watermarks, recognizable copyrighted imagery, or copied visual compositions.
+
+#polloai
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-b83a3b47ae61?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 仙侠飞行特效提示词
+
+> 用于生成电影级仙侠飞行特效的详细提示词，包含特定的镜头运动和角色互动。
+
+[<img src="https://media.goodcase.ai/cases/a002c9dccc74.jpg" width="600" alt="Seedance 仙侠飞行特效提示词">](https://goodcase.ai/cases/seedance-c4c64ab69716?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @GrayNoteLab | **来源:** [原帖](https://x.com/GrayNoteLab/status/2117525735158276381) | **发布:** 2026-11-03 | **热度:** 51
+
+<details>
+<summary><b>完整 prompt（37 行，点开展开）</b></summary>
+
+```
+写实真人仙侠电影质感，晴空白昼，无边海面之上，远景有雪山与云层。女主A御剑贴海极速飞行：与海豚并游、掠过跃起的巨鲸、迎向遮天巨浪，一剑劈开海浪、穿过分海水走廊，飞出走廊后在平静海面急停收尾。速度基线为极速巡航：她的速度以剑下水痕的长度（达她身长的数十倍）、固定机位中的出画时间和下方参照物的放大速度来计量；跟拍带轻微滞后补正。播放速度以常速为基线，全片仅镜头05有0.5秒升格慢镜一处（全片唯一慢镜，视觉冲击点），其余镜头绝不慢动作。全片无对白、无背景音乐、无歌曲演唱，只保留环境音效（海浪声、破空声、水花声、鲸鸣与衣料猎猎声）；画面不生成任何文字。
+
+【人物锁定】
+女主A：图1。神情冷峻果决。
+飞剑共两把同款：银白色长剑，深色剑柄配金色剑格、蓝色剑穗。一把在A脚下供她踏立飞行，全程不离脚；另一把自镜头08起由A右手握持，此后全程在手。脚下剑的形状全程锁死为一把笔直刚硬的长剑：剑身笔直平整、厚度均匀，剑尖尖锐，剑格、剑柄、剑穗齐全，双脚一前一后踏在剑身中段；剑身不得弯曲、不得变宽、不得软化变形。两把剑各就其位，不得合并、不得互换、不得多生第三把。
+
+【飞行姿态基线】
+全片为御剑站立式：A双脚始终踏在剑身上、剑尖朝前，任何镜头中剑都不得离开她的脚下。镜头03竞速段为例外变体：身体压低成蹲伏姿态、双腿弯曲踩剑、上半身前倾，双臂后收。镜头08起多一个持剑动作：她右手另握第二把剑，先一剑劈开巨浪、随后斜引身侧——脚下踏剑保持不变，双剑并存。结尾急停时姿态回收：由前倾俯冲姿态回正为自然直立站姿。长发、宽袖与长裙在飞行中被高速气流拉向后方、水平后扬，二级动态不间断；急停瞬间因惯性先向前甩、再缓缓回落。
+
+【空间关系】
+海面是全片的高度参照：A贴海飞行时剑尖距水面不足一米，剑下风压在海面压出白色水痕与水雾尾流，她通过之后水雾才向两侧散开。雪山始终在远景同一侧。巨浪自镜头06在远处升起；镜头08她一剑劈开浪墙——分海水走廊是这一劈的结果，劈剑在前、走廊在后，走廊自镜头10起存在于她的航线上；她自走廊一端飞入、另一端飞出，航向全程一致、绝不掉头折返。镜头11的迎面画面来自机位硬切换位（镜头切到她正前方），不是她转身。
+
+【分镜】
+镜头01（约1.4秒）
+【画面】侧面中景：A直立踏剑贴海疾飞，白色水雾尾流在剑后拉出长长一道，海面在她身下急速后退。
+【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍）。
+【动作与特效】跟拍带极轻微的滞后：她先向前窜出小半个身位，镜头随即追平并稳住；A双手负后、目视前方，神态从容；长发与裙摆水平后扬；剑尖切开水面薄雾，尾流贴水面拖长。
+
+镜头02（约2.8秒）
+【画面】远景大全景：A成为海天之间一个小小的人形，踏剑沿海面自左向右掠向地平线，身后留下一条笔直的白色水痕；雪山与云层在远景几乎不动。
+【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍，远距离版：主体景别不变，靠海面近景的狂退与远景雪山的缓移拉开三层视差）。
+【动作与特效】只有海面纹理向后狂奔证明速度；她身后的白色水痕长达她身长的数十倍、久久不散，缓缓扩宽。
+
+镜头03（约2.7秒）
+【画面】侧面近景：A压低身体成蹲伏竞速姿态踏剑疾飞，身侧两三只海豚接连跃出水面、与她同向并游，雪山在背景。
+【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍）。
+【动作与特效】跟拍带轻微滞后补正：海豚跃起的瞬间她微微加速，镜头慢半拍追平；海豚起跳、入水与她保持同速，入水水花向后甩开；A上半身前倾、双臂后收，长发完全水平后拉；她侧目扫了一眼海豚，表情不动。
+
+镜头04（约2.9秒）
+【画面】固定大全景：一头座头鲸自海面高高跃起、庞大的身躯占满画面中部，水花如幕垂落；A踏剑的身影小小地自后景掠近鲸鱼上方。
+【运镜】镜头保持完全静止，机位与焦距都不动，只有画面内的人物动作、光影和气流在变化（固定机位）。
+【动作与特效】鲸鱼的体量就是尺度参照，A高速接近、剑后水雾尾流细如一线；本镜末尾鲸鱼升至跃起最高点，她恰好掠至鲸头上方，为下一镜的慢镜特写接点。
+
+镜头05（约0.5秒）
+【画面】升格慢镜近景：A擦着座头鲸的头顶掠过，与鲸鱼同框特写——鲸鱼皮肤上的水珠正剥落、悬停在空中，她的长发与裙摆在慢镜中层层舒展，鲸眼与她的侧脸同框。
+【运镜】镜头跟随移动中的主体同步平移，始终保持主体在画面中的位置和大小（侧面跟拍，本镜为升格慢镜、约0.5秒，全片唯一慢镜）。
+【动作与特效】速度斜坡：自上一镜的全速在本镜骤然放慢到近乎凝滞——但她仍在前进、背景仍在缓动，不完全冻结；0.5秒一到立刻切回常速，她以全速冲出画面。慢与快的反差就是这个镜头的冲击点。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-c4c64ab69716?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 韩国女孩的东京漫游：从落日到霓虹夜色
 
 > Lost in Tokyo’s neon lights, little moments, and unforgettable memories. A dreamy city adventure that feels like a movie. Created on seedance 2.0 Prompt: Create…
@@ -978,23 +953,44 @@ Create a 26-second ultra-realistic cinematic travel video featuring a beautiful 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-26-second-ultra-realistic-cinematic-travel-video-featuring-a-beautiful-a44f634b54f4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 珠宝精品店武术动作大片
+### 韩国乡村女孩的菜摊日常
 
-> 一段充满动感的电影级动作片段，讲述了一位身着翡翠绿丝绸礼服的女英雄在奢华精品店内击败窃贼的故事，包含慢动作玻璃破碎效果和精准的武术编排。
+> A simple day at a Korean village market Selling fresh veggies, meeting customers, and enjoying the little moments of daily life. Created with AI, inspired by re…
 
-[<img src="https://media.goodcase.ai/cases/7ec5d2e5421a.jpg" width="600" alt="珠宝精品店武术动作大片">](https://goodcase.ai/cases/case-d0f11d1ff17c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/26d609fcf9a0.jpg" width="600" alt="韩国乡村女孩的菜摊日常">](https://goodcase.ai/cases/seedance-create-a-realistic-30-second-cinematic-vlog-style-video-featuring-a-young-korea-9c4eed813d4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @mimu_ai1 | **来源:** [原帖](https://x.com/mimu_ai1/status/2091215411341930633) | **发布:** 2026-08-22 | **热度:** 51
+**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2103702041365557449) | **发布:** 2026-09-26 | **热度:** 51
 
-**稳定度：** 83/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.1 分) · [产物](https://media.goodcase.ai/retests/case-d0f11d1ff17c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
 
 ```
-A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. A confident young woman with long dark hair, olive skin, and sharp green eyes is the hero. She wears an elegant emerald silk evening gown and gold earrings. Three masked thieves in black tactical gear attempt a robbery, and she single-handedly defeats them with fast, precise martial arts choreography. She vaults over glass display cases, shattering them in dramatic slow motion as diamonds, pearls, and glass shards scatter and sparkle through the air like rain, catching warm spotlight beams. She slides across a marble counter, throws one attacker into a shelf of watches, and disarms the last with a spinning kick. At the end, she stands calm amid the glittering wreckage, picks up a single diamond ring, examines it in the light, and looks directly into the camera with a faint smile. Dynamic handheld camera, whip pans, slow-motion inserts, moody warm lighting with deep shadows, realistic physics, high production value, cinematic style, 4K.
+Create a realistic 30-second cinematic vlog-style video featuring a young Korean girl working as a vegetable seller at a small countryside village market in Korea. She looks natural and friendly, wearing a simple cream knitted sweater, dark brown apron, comfortable rural clothing, and her brown hair tied in a loose messy bun with soft bangs. The video should feel like a real person's daily-life vlog, not like a commercial or polished AI advertisement.
+
+Start with a wide handheld shot of the girl walking toward her small vegetable stall in the morning. The stall is surrounded by fresh leafy greens, radishes, carrots, tomatoes, potatoes, green onions, and other locally grown vegetables. Show a peaceful Korean countryside in the background with small houses, mountains, trees, and a few village market stalls.
+
+At around 3 seconds, move into a natural medium close-up as she smiles at the camera and casually greets the viewers. She then starts arranging fresh vegetables on the wooden counter. At 6 seconds, a local customer approaches the stall and asks for some vegetables. Show the girl smiling, selecting fresh vegetables by hand, checking their quality, and placing them into a small reusable bag.
+
+Around 10–14 seconds, show detailed close-up shots of her hands weighing the vegetables on an old-fashioned market scale and packing them carefully. Keep realistic hand movements and natural facial expressions. At 14–17 seconds, the customer pays her, and she politely accepts the money with a warm smile and thanks the customer.
+
+From 17–20 seconds, show a wider view of the busy village market, with several customers walking around while she continues arranging vegetables and serving people. At 20–23 seconds, she picks up a fresh bunch of leafy greens, holds them toward the camera and briefly talks to the viewer as if filming a casual daily vlog, saying something natural like “These are fresh today!”
+
+From 23–26 seconds, show the stall becoming slightly busier, with another customer arriving while she continues working naturally. At 26–28 seconds, cut to a close-up of her smiling face. She looks directly into the camera with a warm, genuine expression and gives a small friendly wave.
+
+End with a peaceful wide shot of the vegetable stall, the Korean countryside and mountains in the background, while she continues working. Add a subtle natural ending feeling, like a real day-in-the-life vlog.
+
+Visual style: photorealistic Korean countryside, authentic village market atmosphere, natural skin texture, realistic facial expressions, realistic hands, fresh vegetables, soft morning sunlight, subtle shadows, shallow depth of field, cinematic but not overly polished, warm natural colors, documentary-style realism.
+
+Camera style: handheld smartphone/vlog camera, gentle camera shake, occasional close-ups, medium shots and wide establishing shots, natural focus transitions, slight imperfect framing, realistic movement, no excessive camera effects.
+
+Important: Keep the same Korean girl, same face, hairstyle, outfit and apron throughout the entire video. Maintain strong character consistency between every shot. Make the customers and background people look natural and realistic. Avoid artificial-looking faces, distorted hands, extra fingers, floating objects, unnatural body movements, sudden outfit changes, excessive beauty filters, or an overly cinematic commercial appearance.
+
+The overall feeling should be wholesome, peaceful, authentic and intimate — like watching a Korean girl documenting an ordinary day while helping her family run a small countryside vegetable stall.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d0f11d1ff17c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-realistic-30-second-cinematic-vlog-style-video-featuring-a-young-korea-9c4eed813d4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩服少女奔过古代市集
 
@@ -1054,73 +1050,23 @@ A beautiful Korean girl with long dark hair, wearing a fitted black sleeveless t
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-basketball-gets-a-whole-lot-more-fun-with-a-giant-fluffy-opponent-1b871f4125da?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 红卷发高髻瞬间散开
+### 珠宝精品店武术动作大片
 
-> The bun looked perfect for exactly two seconds before her curls had other plans. After all that brushing, smoothing, and pinning, they really said, “Not today.”…
+> 一段充满动感的电影级动作片段，讲述了一位身着翡翠绿丝绸礼服的女英雄在奢华精品店内击败窃贼的故事，包含慢动作玻璃破碎效果和精准的武术编排。
 
-[<img src="https://media.goodcase.ai/cases/b5dece5b616b.jpg" width="600" alt="红卷发高髻瞬间散开">](https://goodcase.ai/cases/seedance-create-a-cute-polished-cinematic-3d-animated-video-exactly-15-seconds-long-u-690962672ddc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/7ec5d2e5421a.jpg" width="600" alt="珠宝精品店武术动作大片">](https://goodcase.ai/cases/case-d0f11d1ff17c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @soulful__ai | **来源:** [原帖](https://x.com/soulful__ai/status/2100050884835332169) | **发布:** 2026-09-16 | **热度:** 50
+**作者:** @mimu_ai1 | **来源:** [原帖](https://x.com/mimu_ai1/status/2091215411341930633) | **发布:** 2026-08-22 | **热度:** 50
 
-**稳定度：** 80/100
+**稳定度：** 83/100
 
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-cute-polished-cinematic-3d-animated-video-exactly-15-seconds-long-u-690962672ddc/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（46 行，点开展开）</b></summary>
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (83.1 分) · [产物](https://media.goodcase.ai/retests/case-d0f11d1ff17c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 ```
-Create a cute, polished cinematic 3D animated video, exactly 15 seconds long, using the attached character sheet as the strict visual reference.
-
-CHARACTER
-
-A cute young Black girl with warm medium-brown skin, large expressive brown eyes, soft rounded facial features, and very thick, dense, tightly defined red curls with lots of volume and individual coils. She wears the same white long-sleeve top and light lounge pants from the reference.
-
-Keep her face, skin tone, body proportions, outfit, red hair color, and character design identical throughout the entire video.
-
-SCENE
-
-She sits directly in front of her bedroom vanity mirror in a cozy pastel bedroom. Warm soft lighting, cute feminine decor, polished stylized 3D animation, expressive facial acting, cinematic depth of field.
-
-15-SECOND ACTION
-
-0–3 sec :
-She looks into the mirror and quickly but carefully brushes her huge curly hair section by section. She gathers the brushed sections toward the back of her head.
-3–7 sec :
-She gathers all her hair upward and twists it into a high bun. She uses the brush to smooth the front hairline and side sections backward, making those areas sleek and neat while the gathered hair remains visibly curly and voluminous.
-
-7–9 sec :
-Just as the bun looks perfect, one stubborn curly strand springs out from the side.
-She notices it in the mirror and gives an annoyed little look.
-
-She quickly brushes the strand backward, tucks it into the bun, and secures the bun with several small hairpins.
-
-9–11 sec :
-She checks herself in the mirror and smiles proudly, satisfied that the bun is finally secure.
-
-11–15 sec :
-POP! POP! POP!
-
-The hairpins fly loose and the bun completely unravels.
-Her entire mass of thick, dense red curls instantly falls back down around her shoulders, returning to the huge curly hairstyle from the beginning.
-
-She freezes, stares at herself in the mirror, and gives an exaggerated annoyed, defeated expression.
-End on her frustrated face for a comedic beat.
-
-VISUAL & MOTION
-
-Smooth high-quality 3D animation, cute exaggerated expressions, natural hand movements, realistic curly-hair physics, bouncy individual curls, subtle camera movement, soft cinematic lighting, and polished character animation.
-
-Use quick but readable cuts between the vanity medium shot, brushing close-up, bun close-up, stray curl, hairpins, and final reaction.
-
-IMPORTANT: The loose hair must be extremely curly and dense, not wavy or straight. The front and side hair becomes sleek only while she intentionally brushes it backward for the bun. When the bun breaks, all the hair returns to its original large, tightly curled, voluminous state.
-
-No text, subtitles, logos, watermark, extra characters, or changes to her appearance.
+A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. A confident young woman with long dark hair, olive skin, and sharp green eyes is the hero. She wears an elegant emerald silk evening gown and gold earrings. Three masked thieves in black tactical gear attempt a robbery, and she single-handedly defeats them with fast, precise martial arts choreography. She vaults over glass display cases, shattering them in dramatic slow motion as diamonds, pearls, and glass shards scatter and sparkle through the air like rain, catching warm spotlight beams. She slides across a marble counter, throws one attacker into a shelf of watches, and disarms the last with a spinning kick. At the end, she stands calm amid the glittering wreckage, picks up a single diamond ring, examines it in the light, and looks directly into the camera with a faint smile. Dynamic handheld camera, whip pans, slow-motion inserts, moody warm lighting with deep shadows, realistic physics, high production value, cinematic style, 4K.
 ```
 
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cute-polished-cinematic-3d-animated-video-exactly-15-seconds-long-u-690962672ddc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-d0f11d1ff17c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 韩国女大学生充实的一天
 
@@ -1261,23 +1207,73 @@ Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-20-second-cinematic-ultra-realistic-ai-video-featuring-a-young-korean-7d52742fa5c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 溪畔白裙少女的夏日野餐
+### 红卷发高髻瞬间散开
 
-> A peaceful Korean summer escape filled with sunshine, nature, and simple moments. Soft breeze, fresh scenery, and a little watermelon make the day feel perfect.…
+> The bun looked perfect for exactly two seconds before her curls had other plans. After all that brushing, smoothing, and pinning, they really said, “Not today.”…
 
-[<img src="https://media.goodcase.ai/cases/192e5ae8a25a.jpg" width="600" alt="溪畔白裙少女的夏日野餐">](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-wearing-a-soft-white-summer-dress-and-a-natural-straw-s-6188dbb51acc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/b5dece5b616b.jpg" width="600" alt="红卷发高髻瞬间散开">](https://goodcase.ai/cases/seedance-create-a-cute-polished-cinematic-3d-animated-video-exactly-15-seconds-long-u-690962672ddc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2100423982898115050) | **发布:** 2026-09-17 | **热度:** 49
+**作者:** @soulful__ai | **来源:** [原帖](https://x.com/soulful__ai/status/2100050884835332169) | **发布:** 2026-09-16 | **热度:** 49
 
 **稳定度：** 80/100
 
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/seedance-a-beautiful-korean-girl-wearing-a-soft-white-summer-dress-and-a-natural-straw-s-6188dbb51acc/video-grok-imagine-20261003-phase1/generated.mp4)
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-cute-polished-cinematic-3d-animated-video-exactly-15-seconds-long-u-690962672ddc/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（46 行，点开展开）</b></summary>
 
 ```
-A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality.
+Create a cute, polished cinematic 3D animated video, exactly 15 seconds long, using the attached character sheet as the strict visual reference.
+
+CHARACTER
+
+A cute young Black girl with warm medium-brown skin, large expressive brown eyes, soft rounded facial features, and very thick, dense, tightly defined red curls with lots of volume and individual coils. She wears the same white long-sleeve top and light lounge pants from the reference.
+
+Keep her face, skin tone, body proportions, outfit, red hair color, and character design identical throughout the entire video.
+
+SCENE
+
+She sits directly in front of her bedroom vanity mirror in a cozy pastel bedroom. Warm soft lighting, cute feminine decor, polished stylized 3D animation, expressive facial acting, cinematic depth of field.
+
+15-SECOND ACTION
+
+0–3 sec :
+She looks into the mirror and quickly but carefully brushes her huge curly hair section by section. She gathers the brushed sections toward the back of her head.
+3–7 sec :
+She gathers all her hair upward and twists it into a high bun. She uses the brush to smooth the front hairline and side sections backward, making those areas sleek and neat while the gathered hair remains visibly curly and voluminous.
+
+7–9 sec :
+Just as the bun looks perfect, one stubborn curly strand springs out from the side.
+She notices it in the mirror and gives an annoyed little look.
+
+She quickly brushes the strand backward, tucks it into the bun, and secures the bun with several small hairpins.
+
+9–11 sec :
+She checks herself in the mirror and smiles proudly, satisfied that the bun is finally secure.
+
+11–15 sec :
+POP! POP! POP!
+
+The hairpins fly loose and the bun completely unravels.
+Her entire mass of thick, dense red curls instantly falls back down around her shoulders, returning to the huge curly hairstyle from the beginning.
+
+She freezes, stares at herself in the mirror, and gives an exaggerated annoyed, defeated expression.
+End on her frustrated face for a comedic beat.
+
+VISUAL & MOTION
+
+Smooth high-quality 3D animation, cute exaggerated expressions, natural hand movements, realistic curly-hair physics, bouncy individual curls, subtle camera movement, soft cinematic lighting, and polished character animation.
+
+Use quick but readable cuts between the vanity medium shot, brushing close-up, bun close-up, stray curl, hairpins, and final reaction.
+
+IMPORTANT: The loose hair must be extremely curly and dense, not wavy or straight. The front and side hair becomes sleek only while she intentionally brushes it backward for the bun. When the bun breaks, all the hair returns to its original large, tightly curled, voluminous state.
+
+No text, subtitles, logos, watermark, extra characters, or changes to her appearance.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-wearing-a-soft-white-summer-dress-and-a-natural-straw-s-6188dbb51acc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cute-polished-cinematic-3d-animated-video-exactly-15-seconds-long-u-690962672ddc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 蓝色浴衣少女的夏日祭烟火夜
 
@@ -1342,26 +1338,6 @@ Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-wuxia-style-video-set-at-night-in-5d900610e1fc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 女战士与机械巨兽末日突袭
-
-> When the world falls apart and the storm closes in, you don't back down. You gear up, unleash the beast, and take the fight straight to the chaos. Created with …
-
-[<img src="https://media.goodcase.ai/cases/f945509808e3.jpg" width="600" alt="女战士与机械巨兽末日突袭">](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AvelyrahnAI | **来源:** [原帖](https://x.com/AvelyrahnAI/status/2104086835081416893) | **发布:** 2026-09-27 | **热度:** 48
-
-**稳定度：** 82/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (81.8 分) · [产物](https://media.goodcase.ai/retests/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Cinematic 4K shot, a fierce female warrior with long hair and tactical leather gear falling from the sky alongside a hairless Sphynx cat onto a cracked, ruined concrete rooftop in an apocalyptic city with a massive tornado spinning in the background. The warrior lands on one knee, summons glowing golden energy in her palm, and strikes the ground. Intricate sci-fi nano-armor plates instantly snap and wrap around her arms and body, glowing with bright orange energy lines. The small Sphynx cat suddenly transforms into a massive, terrifying horned cybernetic beast. The armored female warrior and the monstrous beast stand side-by-side, charging forward into battle amid smoke, dust, and dramatic cinematic lighting. High-speed dynamic camera tracking, photorealistic, action-packed sci-fi blockbuster style.
-
-#Flovaai #Flovacpp
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 地铁疾驰中的粉裙夏夜女孩
 
 > A little summer-night energy in the city ✨🌸 Pink dress, passing trains, and a whole lot of attitude. That hair flip + subway rush = cinematic perfection 🎬 Mad…
@@ -1409,23 +1385,23 @@ Created a video, featuring beautiful Korean words and a warm, nostalgic Korean c
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-featuring-beautiful-korean-words-and-a-warm-nostalgic-korean-55c2c5e05a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 白猫与青年在晨光公寓相拥
+### 溪畔白裙少女的夏日野餐
 
-> A fluffy cat brings sweetness, playfulness, and love to a peaceful morning. From playful pounces to cozy cuddles, every moment feels magical. Created on seedanc…
+> A peaceful Korean summer escape filled with sunshine, nature, and simple moments. Soft breeze, fresh scenery, and a little watermelon make the day feel perfect.…
 
-[<img src="https://media.goodcase.ai/media/poster/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57.jpg" width="600" alt="白猫与青年在晨光公寓相拥">](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/192e5ae8a25a.jpg" width="600" alt="溪畔白裙少女的夏日野餐">](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-wearing-a-soft-white-summer-dress-and-a-natural-straw-s-6188dbb51acc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2096085776735912274) | **发布:** 2026-09-05 | **热度:** 48
+**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2100423982898115050) | **发布:** 2026-09-17 | **热度:** 48
 
-**稳定度：** 86/100
+**稳定度：** 80/100
 
-**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (86.2 分) · [产物](https://media.goodcase.ai/retests/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57/video-grok-imagine-20261002-phase1/generated.mp4)
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (80.3 分) · [产物](https://media.goodcase.ai/retests/seedance-a-beautiful-korean-girl-wearing-a-soft-white-summer-dress-and-a-natural-straw-s-6188dbb51acc/video-grok-imagine-20261003-phase1/generated.mp4)
 
 ```
-Created a video in soft anime style of a fluffy white cat with big sparkling teal eyes living in a bright modern apartment with large windows overlooking a sunny city skyline. The cat sits peacefully on the wooden windowsill, then walks gracefully toward the camera across the polished wooden floor. Close-up shots capture its cute face, twitching whiskers, and curious expression. It stands proudly in the sunlight, sits down elegantly, then playfully pounces after a small white ball. Later the cat looks up hopefully at a young man with dark wavy hair sitting at the dining table eating a sandwich, jumps onto a chair, and climbs onto the man’s lap. The man gently holds and hugs the cat while it nuzzles his hand and face. The video ends with them cuddling warmly on the grey sofa, the cat yawning contentedly in his arms under soft morning light.
+A Beautiful Korean Girl wearing a soft white summer dress and a natural straw sun hat, with a fresh and elegant Korean lifestyle aesthetic. She has short, softly wavy dark hair, minimal makeup, and a gentle natural expression. She enjoys a peaceful summer day beside a beautiful mountain stream. She sits near the water, calmly eating a slice of watermelon and enjoying the refreshing atmosphere. She walks slowly around the cozy outdoor space while adjusting her hat and looking at the scenery. Sunlight softly shines through the trees, creating warm cinematic highlights and natural lens flares. A white curtain moves gently in the summer breeze beside the wooden house. She carries a small picnic basket and enjoys the quiet countryside surroundings. The camera captures close-ups, medium shots, and smooth cinematic wide shots. Photorealistic, warm, dreamy, peaceful Korean summer vlog style, natural colors, soft lighting, realistic motion, and cinematic 4K quality.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-wearing-a-soft-white-summer-dress-and-a-natural-straw-s-6188dbb51acc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 女骑手穿越险峻山径抵达山谷
 
@@ -1455,6 +1431,44 @@ Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female ride
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 女战士与机械巨兽末日突袭
+
+> When the world falls apart and the storm closes in, you don't back down. You gear up, unleash the beast, and take the fight straight to the chaos. Created with …
+
+[<img src="https://media.goodcase.ai/cases/f945509808e3.jpg" width="600" alt="女战士与机械巨兽末日突袭">](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AvelyrahnAI | **来源:** [原帖](https://x.com/AvelyrahnAI/status/2104086835081416893) | **发布:** 2026-09-27 | **热度:** 47
+
+**稳定度：** 82/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (81.8 分) · [产物](https://media.goodcase.ai/retests/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Cinematic 4K shot, a fierce female warrior with long hair and tactical leather gear falling from the sky alongside a hairless Sphynx cat onto a cracked, ruined concrete rooftop in an apocalyptic city with a massive tornado spinning in the background. The warrior lands on one knee, summons glowing golden energy in her palm, and strikes the ground. Intricate sci-fi nano-armor plates instantly snap and wrap around her arms and body, glowing with bright orange energy lines. The small Sphynx cat suddenly transforms into a massive, terrifying horned cybernetic beast. The armored female warrior and the monstrous beast stand side-by-side, charging forward into battle amid smoke, dust, and dramatic cinematic lighting. High-speed dynamic camera tracking, photorealistic, action-packed sci-fi blockbuster style.
+
+#Flovaai #Flovacpp
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 白猫与青年在晨光公寓相拥
+
+> A fluffy cat brings sweetness, playfulness, and love to a peaceful morning. From playful pounces to cozy cuddles, every moment feels magical. Created on seedanc…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57.jpg" width="600" alt="白猫与青年在晨光公寓相拥">](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2096085776735912274) | **发布:** 2026-09-05 | **热度:** 47
+
+**稳定度：** 86/100
+
+**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (86.2 分) · [产物](https://media.goodcase.ai/retests/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57/video-grok-imagine-20261002-phase1/generated.mp4)
+
+```
+Created a video in soft anime style of a fluffy white cat with big sparkling teal eyes living in a bright modern apartment with large windows overlooking a sunny city skyline. The cat sits peacefully on the wooden windowsill, then walks gracefully toward the camera across the polished wooden floor. Close-up shots capture its cute face, twitching whiskers, and curious expression. It stands proudly in the sunlight, sits down elegantly, then playfully pounces after a small white ball. Later the cat looks up hopefully at a young man with dark wavy hair sitting at the dining table eating a sandwich, jumps onto a chair, and climbs onto the man’s lap. The man gently holds and hugs the cat while it nuzzles his hand and face. The video ends with them cuddling warmly on the grey sofa, the cat yawning contentedly in his arms under soft morning light.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 红发女孩的唇油抓取挑战
 
@@ -1695,7 +1709,7 @@ Character: woman from @Image 1 — same facial features, same long dark layered 
 
 [<img src="https://media.goodcase.ai/cases/81f11eb7514d.jpg" width="600" alt="雨中檐下吃苹果的女孩">](https://goodcase.ai/cases/seedance-a-cinematic-close-to-medium-shot-of-a-young-east-asian-woman-standing-under-a-w-e896c3026c7e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2102269278489903244) | **发布:** 2026-09-22 | **热度:** 45
+**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2102269278489903244) | **发布:** 2026-09-22 | **热度:** 44
 
 **稳定度：** 86/100
 
@@ -1816,87 +1830,6 @@ Create a 27-second photorealistic cinematic lifestyle film featuring a young Kor
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-ba2c5fa1d26d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 石院晾衣女子与被布罩住的小龙
-
-> A tiny dragon, a little chaos, and a whole lot of magic. Some unexpected moments turn into the sweetest memories. Created on seedance 2.0 Prompt: Create a 25-se…
-
-[<img src="https://media.goodcase.ai/cases/c72d5f3874d5.jpg" width="600" alt="石院晾衣女子与被布罩住的小龙">](https://goodcase.ai/cases/seedance-2-0-create-a-25-second-cinematic-ultra-realistic-fantasy-video-featuring-a-beautif-bbe9f7af6fc1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2108503425277391053) | **发布:** 2026-10-09 | **热度:** 43
-
-```
-Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautiful young adult woman with long, dark brown hair, wearing an elegant cream-colored medieval dress and a dark brown shawl. She is standing in a rustic stone courtyard beside an old stone cottage in a peaceful countryside village. The surroundings feature weathered stone walls, wooden windows, a muddy stone pathway, snow-covered evergreen trees, and misty mountains in the distance under a soft, overcast sky. A tiny, adorable baby dragon with pale pinkish-white skin, enormous glossy eyes, tiny horns, delicate ears, small feet, a slender tail, and translucent pink wings is standing near her feet. Begin with a natural cinematic wide shot showing the woman hanging a large cream-colored linen cloth on a traditional wooden clothesline. A gentle breeze moves her long hair and the fabric naturally. She suddenly notices the tiny dragon beside her and looks down at it with a curious, surprised, and affectionate expression. The camera slowly moves closer as the baby dragon looks up at her, blinks its enormous eyes, and gently spreads its delicate pink wings. Show the intricate transparent wing membranes, realistic skin texture, tiny claws, and subtle body movements in beautiful detail. The woman bends down toward the little creature with a warm smile, watching it curiously as it flutters its wings and takes a few tiny steps across the stone courtyard. Suddenly, a gust of wind catches the loose linen cloth hanging above them, causing it to slip off the clothesline and fall gently over the baby dragon. The tiny creature becomes completely covered by the oversized cream-colored fabric, creating a funny, moving shape as it tries to walk forward. The woman reacts with playful surprise and quickly kneels down to help it. The cloth moves naturally around the dragon's tiny body as it waddles across the ground, its little feet visible beneath the fabric. The woman carefully lifts the cloth away from its face, revealing the adorable dragon blinking in confusion and looking directly at her. She gently holds the tiny creature with both hands and brings it closer to her face. The dragon folds its translucent pink wings against its body, tilts its head, and softly touches its nose against her cheek. The woman smiles affectionately, looking into its enormous glossy eyes while gently stroking its little head. End with a beautiful close-up of the woman and the baby dragon sharing a heartwarming moment in the peaceful stone courtyard, with the cottage and misty countryside softly blurred in the background. Maintain consistent facial features, hairstyle, clothing, creature design, proportions, and colors throughout the entire video. Use natural body movements, realistic cloth physics, detailed textures, soft diffused daylight, cinematic depth of field, subtle handheld camera movement, smooth transitions, realistic shadows, and professional fantasy-film color grading. The overall atmosphere should feel magical, cozy, emotional, and slightly humorous, like a real fantasy film captured with a high-end cinema camera. Ultra-photorealistic quality, 4K or 8K detail, vertical 16:9 composition, no anime, no cartoon style, no distorted anatomy, no extra limbs, no duplicated characters, no flickering, no text, no subtitles, no logos, and no watermarks.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-25-second-cinematic-ultra-realistic-fantasy-video-featuring-a-beautif-bbe9f7af6fc1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 小猫骑士驾驶巨型机甲迎战巨龙
-
-> Fluffy kitten warrior faces a giant dragon in a foggy battlefield. A futuristic robot joins the epic cinematic battle. Created on seedance 2.0 Prompt:Create a c…
-
-[<img src="https://media.goodcase.ai/cases/818d0412b45c.jpg" width="600" alt="小猫骑士驾驶巨型机甲迎战巨龙">](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-30-second-fantasy-sci-fi-action-sequence-with-photorealistic-4c14be56b8c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2108045351143997517) | **发布:** 2026-10-08 | **热度:** 43
-
-<details>
-<summary><b>完整 prompt（49 行，点开展开）</b></summary>
-
-```
-Create a cinematic 30-second fantasy sci-fi action sequence with photorealistic CGI quality.
-
-MAIN CHARACTER:
-A tiny adorable fluffy golden-brown kitten with a round face, soft detailed fur, expressive large dark eyes, small pink nose, and a tiny pink bow on top of its head. The kitten wears detailed medieval silver knight armor with engraved metal shoulder plates, chest armor, small armored gloves and boots, plus a flowing white cape. Keep the kitten's face, fur pattern, pink bow, armor design, body proportions and appearance perfectly consistent throughout the entire video.
-
-OPENING SHOT — 0-3 SECONDS:
-Wide cinematic shot of a vast green meadow covered with tiny white wildflowers under a cold, cloudy and foggy sky. The tiny kitten warrior stands bravely in the grass holding a long medieval sword. The environment feels enormous compared to the kitten. Slowly reveal the enormous head of a terrifying ancient dragon entering the frame from the right side. The dragon has dark brown-gray rough scales, huge amber-orange reptilian eyes, sharp horns, spikes around its head, massive teeth and realistic skin texture. Strong size contrast between the tiny kitten and gigantic dragon.
-
-3-6 SECONDS:
-Cut to an intimate close-up of the kitten's face. Its fur moves naturally in the cold wind, its eyes remain focused and determined. The silver armor catches soft overcast light. The white cape flows behind it. Camera slowly pushes toward the kitten while the enormous dragon remains blurred in the distant background.
-
-6-9 SECONDS:
-The dragon suddenly attacks. Multiple explosions and dirt eruptions burst from the meadow around the kitten. Large clouds of soil, grass and flower petals fly through the air. The kitten stands its ground, gripping its sword tightly. Use dramatic slow motion for flying debris while maintaining realistic physics and cinematic depth of field.
-
-9-12 SECONDS:
-Extreme close-up of the dragon facing directly toward camera. Show its detailed scaly face, glowing amber eyes, horns, sharp teeth and intimidating expression. The dragon opens its mouth aggressively as if roaring. Subtle facial and eye movement, realistic breathing, detailed skin pores and natural creature animation.
-
-12-15 SECONDS:
-Suddenly reveal a gigantic futuristic humanoid combat robot/mecha entering the battlefield. The robot has white and dark metallic armor, blue mechanical sections, a large golden V-shaped crest on its head and glowing green visor-like eyes. Camera moves upward from its feet to its face, emphasizing its enormous scale. The kitten appears tiny beside it.
-
-15-18 SECONDS:
-Dynamic action shot: the giant mecha confronts another huge reptilian dragon-like creature in the battlefield. The robot moves with heavy mechanical weight and realistic hydraulic motion. The creature attacks while the mecha prepares to defend. Sparks, dust, smoke and flying debris fill the environment. Cinematic handheld camera movement adds intensity.
-
-18-21 SECONDS:
-The dragon fires a powerful energy attack across the foggy battlefield. Bright orange muzzle flash / energy blast illuminates the mist. The mecha reacts and moves defensively. The grass and flowers bend from the force of the attack. Keep realistic atmospheric lighting, volumetric fog and particle effects.
-
-21-24 SECONDS:
-Cut back to the tiny kitten sitting inside the cockpit of the futuristic mecha. Show the kitten through the open cockpit hatch, wearing the same silver knight armor and pink bow. The interior is dark metallic blue with futuristic controls and subtle illuminated panels. The giant dragon's head is visible outside the cockpit in the foreground, creating a dramatic scale contrast.
-
-24-27 SECONDS:
-Close-up of the dragon's face looking toward the cockpit. Then cut to the kitten's determined expression. The kitten looks calm and fearless despite the enormous monster outside. Slow cinematic camera movement, shallow depth of field, realistic fur detail and subtle facial animation.
-
-27-30 SECONDS:
-Final heroic close-up of the kitten inside the cockpit. Soft light falls across its face and silver armor. Its pink bow moves slightly with the airflow. The kitten looks toward the battlefield with determination. End with a dramatic cinematic pull-back revealing the tiny armored kitten, gigantic futuristic mech and massive dragon standing together in the foggy flower-covered battlefield.
-
-VISUAL STYLE:
-Photorealistic cinematic CGI, high-end Hollywood fantasy science-fiction film, extremely detailed fur, realistic dragon scales, physically accurate metal reflections, realistic mechanical surfaces, volumetric fog, atmospheric perspective, natural wind, floating dust particles, flying grass and flower petals, realistic explosions and sparks, dramatic depth of field, cinematic composition, soft overcast daylight, muted cool environment with subtle warm highlights, realistic shadows, film-quality rendering.
-
-CAMERA:
-Use a combination of wide establishing shots, low-angle heroic shots, extreme close-ups, slow camera pushes, tracking shots, dramatic reveal shots and subtle handheld movement during action scenes. Use shallow depth of field for character close-ups and deep focus for large battlefield shots. Smooth cinematic camera transitions.
-
-MOTION:
-Natural animal movement, realistic kitten breathing and blinking, physically accurate fur movement, realistic cape movement, heavy mechanical robot movement, believable dragon body motion, realistic explosions, debris and particle physics. Avoid cartoon-like movement.
-
-CONTINUITY:
-Keep the kitten's identity, face, fur color, pink bow, armor, sword and cape identical in every shot. Keep the dragon's appearance, scale, facial structure, horns and eye color consistent. Keep the futuristic mecha design consistent whenever it appears.
-
-QUALITY:
-Ultra-detailed, photorealistic, cinematic 4K look, realistic textures, natural lighting, realistic shadows, high dynamic range, professional VFX, film-grade color grading, sharp subject detail, atmospheric depth, no text, no subtitles, no watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-30-second-fantasy-sci-fi-action-sequence-with-photorealistic-4c14be56b8c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 闺蜜自驾奔赴山间落日
 
 > Some moments are never planned, they just become memories. ✨ A simple road trip, good food, and the kind of friendship that makes every little moment feel cinem…
@@ -1965,6 +1898,87 @@ Create a credited 14-second cinematic video on Japanese mountain view, featuring
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-890aad58385a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 石院晾衣女子与被布罩住的小龙
+
+> A tiny dragon, a little chaos, and a whole lot of magic. Some unexpected moments turn into the sweetest memories. Created on seedance 2.0 Prompt: Create a 25-se…
+
+[<img src="https://media.goodcase.ai/cases/c72d5f3874d5.jpg" width="600" alt="石院晾衣女子与被布罩住的小龙">](https://goodcase.ai/cases/seedance-2-0-create-a-25-second-cinematic-ultra-realistic-fantasy-video-featuring-a-beautif-bbe9f7af6fc1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2108503425277391053) | **发布:** 2026-10-09 | **热度:** 42
+
+```
+Create a 25-second cinematic, ultra-realistic fantasy video featuring a beautiful young adult woman with long, dark brown hair, wearing an elegant cream-colored medieval dress and a dark brown shawl. She is standing in a rustic stone courtyard beside an old stone cottage in a peaceful countryside village. The surroundings feature weathered stone walls, wooden windows, a muddy stone pathway, snow-covered evergreen trees, and misty mountains in the distance under a soft, overcast sky. A tiny, adorable baby dragon with pale pinkish-white skin, enormous glossy eyes, tiny horns, delicate ears, small feet, a slender tail, and translucent pink wings is standing near her feet. Begin with a natural cinematic wide shot showing the woman hanging a large cream-colored linen cloth on a traditional wooden clothesline. A gentle breeze moves her long hair and the fabric naturally. She suddenly notices the tiny dragon beside her and looks down at it with a curious, surprised, and affectionate expression. The camera slowly moves closer as the baby dragon looks up at her, blinks its enormous eyes, and gently spreads its delicate pink wings. Show the intricate transparent wing membranes, realistic skin texture, tiny claws, and subtle body movements in beautiful detail. The woman bends down toward the little creature with a warm smile, watching it curiously as it flutters its wings and takes a few tiny steps across the stone courtyard. Suddenly, a gust of wind catches the loose linen cloth hanging above them, causing it to slip off the clothesline and fall gently over the baby dragon. The tiny creature becomes completely covered by the oversized cream-colored fabric, creating a funny, moving shape as it tries to walk forward. The woman reacts with playful surprise and quickly kneels down to help it. The cloth moves naturally around the dragon's tiny body as it waddles across the ground, its little feet visible beneath the fabric. The woman carefully lifts the cloth away from its face, revealing the adorable dragon blinking in confusion and looking directly at her. She gently holds the tiny creature with both hands and brings it closer to her face. The dragon folds its translucent pink wings against its body, tilts its head, and softly touches its nose against her cheek. The woman smiles affectionately, looking into its enormous glossy eyes while gently stroking its little head. End with a beautiful close-up of the woman and the baby dragon sharing a heartwarming moment in the peaceful stone courtyard, with the cottage and misty countryside softly blurred in the background. Maintain consistent facial features, hairstyle, clothing, creature design, proportions, and colors throughout the entire video. Use natural body movements, realistic cloth physics, detailed textures, soft diffused daylight, cinematic depth of field, subtle handheld camera movement, smooth transitions, realistic shadows, and professional fantasy-film color grading. The overall atmosphere should feel magical, cozy, emotional, and slightly humorous, like a real fantasy film captured with a high-end cinema camera. Ultra-photorealistic quality, 4K or 8K detail, vertical 16:9 composition, no anime, no cartoon style, no distorted anatomy, no extra limbs, no duplicated characters, no flickering, no text, no subtitles, no logos, and no watermarks.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-25-second-cinematic-ultra-realistic-fantasy-video-featuring-a-beautif-bbe9f7af6fc1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 小猫骑士驾驶巨型机甲迎战巨龙
+
+> Fluffy kitten warrior faces a giant dragon in a foggy battlefield. A futuristic robot joins the epic cinematic battle. Created on seedance 2.0 Prompt:Create a c…
+
+[<img src="https://media.goodcase.ai/cases/818d0412b45c.jpg" width="600" alt="小猫骑士驾驶巨型机甲迎战巨龙">](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-30-second-fantasy-sci-fi-action-sequence-with-photorealistic-4c14be56b8c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **来源:** [原帖](https://x.com/ayzalnooor24521/status/2108045351143997517) | **发布:** 2026-10-08 | **热度:** 42
+
+<details>
+<summary><b>完整 prompt（49 行，点开展开）</b></summary>
+
+```
+Create a cinematic 30-second fantasy sci-fi action sequence with photorealistic CGI quality.
+
+MAIN CHARACTER:
+A tiny adorable fluffy golden-brown kitten with a round face, soft detailed fur, expressive large dark eyes, small pink nose, and a tiny pink bow on top of its head. The kitten wears detailed medieval silver knight armor with engraved metal shoulder plates, chest armor, small armored gloves and boots, plus a flowing white cape. Keep the kitten's face, fur pattern, pink bow, armor design, body proportions and appearance perfectly consistent throughout the entire video.
+
+OPENING SHOT — 0-3 SECONDS:
+Wide cinematic shot of a vast green meadow covered with tiny white wildflowers under a cold, cloudy and foggy sky. The tiny kitten warrior stands bravely in the grass holding a long medieval sword. The environment feels enormous compared to the kitten. Slowly reveal the enormous head of a terrifying ancient dragon entering the frame from the right side. The dragon has dark brown-gray rough scales, huge amber-orange reptilian eyes, sharp horns, spikes around its head, massive teeth and realistic skin texture. Strong size contrast between the tiny kitten and gigantic dragon.
+
+3-6 SECONDS:
+Cut to an intimate close-up of the kitten's face. Its fur moves naturally in the cold wind, its eyes remain focused and determined. The silver armor catches soft overcast light. The white cape flows behind it. Camera slowly pushes toward the kitten while the enormous dragon remains blurred in the distant background.
+
+6-9 SECONDS:
+The dragon suddenly attacks. Multiple explosions and dirt eruptions burst from the meadow around the kitten. Large clouds of soil, grass and flower petals fly through the air. The kitten stands its ground, gripping its sword tightly. Use dramatic slow motion for flying debris while maintaining realistic physics and cinematic depth of field.
+
+9-12 SECONDS:
+Extreme close-up of the dragon facing directly toward camera. Show its detailed scaly face, glowing amber eyes, horns, sharp teeth and intimidating expression. The dragon opens its mouth aggressively as if roaring. Subtle facial and eye movement, realistic breathing, detailed skin pores and natural creature animation.
+
+12-15 SECONDS:
+Suddenly reveal a gigantic futuristic humanoid combat robot/mecha entering the battlefield. The robot has white and dark metallic armor, blue mechanical sections, a large golden V-shaped crest on its head and glowing green visor-like eyes. Camera moves upward from its feet to its face, emphasizing its enormous scale. The kitten appears tiny beside it.
+
+15-18 SECONDS:
+Dynamic action shot: the giant mecha confronts another huge reptilian dragon-like creature in the battlefield. The robot moves with heavy mechanical weight and realistic hydraulic motion. The creature attacks while the mecha prepares to defend. Sparks, dust, smoke and flying debris fill the environment. Cinematic handheld camera movement adds intensity.
+
+18-21 SECONDS:
+The dragon fires a powerful energy attack across the foggy battlefield. Bright orange muzzle flash / energy blast illuminates the mist. The mecha reacts and moves defensively. The grass and flowers bend from the force of the attack. Keep realistic atmospheric lighting, volumetric fog and particle effects.
+
+21-24 SECONDS:
+Cut back to the tiny kitten sitting inside the cockpit of the futuristic mecha. Show the kitten through the open cockpit hatch, wearing the same silver knight armor and pink bow. The interior is dark metallic blue with futuristic controls and subtle illuminated panels. The giant dragon's head is visible outside the cockpit in the foreground, creating a dramatic scale contrast.
+
+24-27 SECONDS:
+Close-up of the dragon's face looking toward the cockpit. Then cut to the kitten's determined expression. The kitten looks calm and fearless despite the enormous monster outside. Slow cinematic camera movement, shallow depth of field, realistic fur detail and subtle facial animation.
+
+27-30 SECONDS:
+Final heroic close-up of the kitten inside the cockpit. Soft light falls across its face and silver armor. Its pink bow moves slightly with the airflow. The kitten looks toward the battlefield with determination. End with a dramatic cinematic pull-back revealing the tiny armored kitten, gigantic futuristic mech and massive dragon standing together in the foggy flower-covered battlefield.
+
+VISUAL STYLE:
+Photorealistic cinematic CGI, high-end Hollywood fantasy science-fiction film, extremely detailed fur, realistic dragon scales, physically accurate metal reflections, realistic mechanical surfaces, volumetric fog, atmospheric perspective, natural wind, floating dust particles, flying grass and flower petals, realistic explosions and sparks, dramatic depth of field, cinematic composition, soft overcast daylight, muted cool environment with subtle warm highlights, realistic shadows, film-quality rendering.
+
+CAMERA:
+Use a combination of wide establishing shots, low-angle heroic shots, extreme close-ups, slow camera pushes, tracking shots, dramatic reveal shots and subtle handheld movement during action scenes. Use shallow depth of field for character close-ups and deep focus for large battlefield shots. Smooth cinematic camera transitions.
+
+MOTION:
+Natural animal movement, realistic kitten breathing and blinking, physically accurate fur movement, realistic cape movement, heavy mechanical robot movement, believable dragon body motion, realistic explosions, debris and particle physics. Avoid cartoon-like movement.
+
+CONTINUITY:
+Keep the kitten's identity, face, fur color, pink bow, armor, sword and cape identical in every shot. Keep the dragon's appearance, scale, facial structure, horns and eye color consistent. Keep the futuristic mecha design consistent whenever it appears.
+
+QUALITY:
+Ultra-detailed, photorealistic, cinematic 4K look, realistic textures, natural lighting, realistic shadows, high dynamic range, professional VFX, film-grade color grading, sharp subject detail, atmospheric depth, no text, no subtitles, no watermark.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-cinematic-30-second-fantasy-sci-fi-action-sequence-with-photorealistic-4c14be56b8c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 电影感韩国市场购物之旅
 
@@ -2103,13 +2117,47 @@ Created on seedance 2.0
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-cute-korean-village-vibes-with-a-little-chicken-chase-bc85f69be95c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 暗黑镜面精华液护肤广告
+
+> Luxury skincare reimagined through AI AURELIA Skin Hydration Serum pure hydration, radiant skin timeless elegance. Made
+
+[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e5b8b3460bc0.jpg" width="600" alt="暗黑镜面精华液护肤广告">](https://goodcase.ai/cases/zyrellix-seedance-ai-e5b8b3460bc0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2091393149805756450) | **发布:** 2026-08-23 | **热度:** 38
+
+**稳定度：** 88/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88 分) · [产物](https://media.goodcase.ai/retests/zyrellix-seedance-ai-e5b8b3460bc0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+A luxury, 8K ultra-realistic cinematic skincare commercial for "AURELIA SKIN HYDRATION SERUM" shot on 35mm lens in high-end studio lighting against a dark pitch-black background.
+The video opens with a macro extreme close-up of a clear glass serum dropper filled with viscous, bubbly liquid as a pristine drop slowly forms at the tip. Cut to slow-motion liquid physics as the drop falls and creates smooth, elegant circular ripples across a reflective black surface. Reveal a centered hero shot of the frosted glass bottle with a white dropper top and crisp black typography reading "AURELIA SKIN HYDRATION SERUM" standing on a glossy mirror surface. Macro close-up shot of a gorgeous East Asian model with dewy, radiant skin as a pipette applies serum to her cheek, followed by her fingers gently massaging the glowing serum into her skin. She smiles softly at the camera, holding the product bottle beside her face in soft-focus fashion lighting. Ends on a crisp, static high-fashion shot of the product bottle centered on the dark reflective surface.
+Shot at 60fps slow motion, smooth cinematic camera pans, dramatic rim lighting, soft key light, hyper-detailed skin textures, commercial advertisement quality.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-e5b8b3460bc0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 夕阳废墟中的水火女战士对决
+
+> Water and fire collide in an epic battle between two powerful warriors. 🔥💧 When these two elements meet, only one can stand victorious. ⚔️ Created on seedance…
+
+[<img src="https://media.goodcase.ai/cases/76038b16f9d4.jpg" width="600" alt="夕阳废墟中的水火女战士对决">](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **来源:** [原帖](https://x.com/Aiwithmaha/status/2104754431434887271) | **发布:** 2026-09-29 | **热度:** 37
+
+```
+Created a 15-second cinematic fantasy battle scene in a ruined ancient city at sunset, with dramatic golden skies, burning buildings, smoke, and destroyed stone structures. A powerful blue-clad female warrior with dark hair faces a fierce female fire warrior with pale pink hair and small red horns. The blue warrior controls massive waves of glowing water while the fire warrior creates intense orange flames around her hands and body. Show them charging toward each other with fast, dynamic combat movements, magical energy trails, flying sparks, smoke, and debris. Build the action from a close-up confrontation into a wide cinematic shot of both elemental powers colliding in the center of the battlefield. End with an enormous blue water wave crashing against a giant fire explosion, creating steam, glowing particles, and a spectacular energy shockwave. Use realistic cinematic lighting, detailed characters, smooth camera movement, epic fantasy atmosphere, high-quality VFX, dramatic depth of field, and a powerful movie-trailer style ending.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 阳光厨房里的巧克力蛋糕烘焙
 
 > She Baked Happiness Today Warm Kitchen, Perfect Chocolate Cake Made with seedance 2.0 Prompt: A cinematic 3D Pixar-style animated short of a beautiful young wom…
 
 [<img src="https://media.goodcase.ai/cases/5bff35ac6f3a.jpg" width="600" alt="阳光厨房里的巧克力蛋糕烘焙">](https://goodcase.ai/cases/seedance-a-cinematic-3d-pixar-style-animated-short-of-a-beautiful-young-woman-with-long-7a1efe5f0a2a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2095381006031503710) | **发布:** 2026-09-03 | **热度:** 38
+**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2095381006031503710) | **发布:** 2026-09-03 | **热度:** 37
 
 <details>
 <summary><b>完整 prompt（18 行，点开展开）</b></summary>
@@ -2139,33 +2187,13 @@ Warm, inviting, cozy cooking atmosphere, smooth camera movements, professional f
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-cinematic-3d-pixar-style-animated-short-of-a-beautiful-young-woman-with-long-7a1efe5f0a2a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 暗黑镜面精华液护肤广告
-
-> Luxury skincare reimagined through AI AURELIA Skin Hydration Serum pure hydration, radiant skin timeless elegance. Made
-
-[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e5b8b3460bc0.jpg" width="600" alt="暗黑镜面精华液护肤广告">](https://goodcase.ai/cases/zyrellix-seedance-ai-e5b8b3460bc0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2091393149805756450) | **发布:** 2026-08-23 | **热度:** 38
-
-**稳定度：** 88/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (88 分) · [产物](https://media.goodcase.ai/retests/zyrellix-seedance-ai-e5b8b3460bc0/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-A luxury, 8K ultra-realistic cinematic skincare commercial for "AURELIA SKIN HYDRATION SERUM" shot on 35mm lens in high-end studio lighting against a dark pitch-black background.
-The video opens with a macro extreme close-up of a clear glass serum dropper filled with viscous, bubbly liquid as a pristine drop slowly forms at the tip. Cut to slow-motion liquid physics as the drop falls and creates smooth, elegant circular ripples across a reflective black surface. Reveal a centered hero shot of the frosted glass bottle with a white dropper top and crisp black typography reading "AURELIA SKIN HYDRATION SERUM" standing on a glossy mirror surface. Macro close-up shot of a gorgeous East Asian model with dewy, radiant skin as a pipette applies serum to her cheek, followed by her fingers gently massaging the glowing serum into her skin. She smiles softly at the camera, holding the product bottle beside her face in soft-focus fashion lighting. Ends on a crisp, static high-fashion shot of the product bottle centered on the dark reflective surface.
-Shot at 60fps slow motion, smooth cinematic camera pans, dramatic rim lighting, soft key light, hyper-detailed skin textures, commercial advertisement quality.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-e5b8b3460bc0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 落跑新娘驾红色古董车逃婚
 
 > She was supposed to walk down the aisle… but she chose the highway instead. 😂 One wedding, one very determined bride, and one vintage getaway car later, she’s …
 
 [<img src="https://media.goodcase.ai/cases/2be5bcc1326a.jpg" width="600" alt="落跑新娘驾红色古董车逃婚">](https://goodcase.ai/cases/seedance-use-the-character-sheet-as-the-visual-reference-4c9544885bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2105228156085137501) | **发布:** 2026-09-30 | **热度:** 37
+**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2105228156085137501) | **发布:** 2026-09-30 | **热度:** 36
 
 <details>
 <summary><b>完整 prompt（20 行，点开展开）</b></summary>
@@ -2196,97 +2224,6 @@ Important: No slow motion, no sad mood, no dramatic romance, no dialogue, no tex
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-use-the-character-sheet-as-the-visual-reference-4c9544885bba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 夕阳废墟中的水火女战士对决
-
-> Water and fire collide in an epic battle between two powerful warriors. 🔥💧 When these two elements meet, only one can stand victorious. ⚔️ Created on seedance…
-
-[<img src="https://media.goodcase.ai/cases/76038b16f9d4.jpg" width="600" alt="夕阳废墟中的水火女战士对决">](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **来源:** [原帖](https://x.com/Aiwithmaha/status/2104754431434887271) | **发布:** 2026-09-29 | **热度:** 37
-
-```
-Created a 15-second cinematic fantasy battle scene in a ruined ancient city at sunset, with dramatic golden skies, burning buildings, smoke, and destroyed stone structures. A powerful blue-clad female warrior with dark hair faces a fierce female fire warrior with pale pink hair and small red horns. The blue warrior controls massive waves of glowing water while the fire warrior creates intense orange flames around her hands and body. Show them charging toward each other with fast, dynamic combat movements, magical energy trails, flying sparks, smoke, and debris. Build the action from a close-up confrontation into a wide cinematic shot of both elemental powers colliding in the center of the battlefield. End with an enormous blue water wave crashing against a giant fire explosion, creating steam, glowing particles, and a spectacular energy shockwave. Use realistic cinematic lighting, detailed characters, smooth camera movement, epic fantasy atmosphere, high-quality VFX, dramatic depth of field, and a powerful movie-trailer style ending.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-15-second-cinematic-fantasy-battle-scene-in-a-ruined-ancient-city-at-9ad77dfe2b4e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 棕熊幼崽驾驶复古蓝车穿越农场
-
-> A little adventure, a vintage car, and one curious little driver. This charming journey through the countryside feels like a scene straight out of a movie. Crea…
-
-[<img src="https://media.goodcase.ai/cases/b215059fa39f.jpg" width="600" alt="棕熊幼崽驾驶复古蓝车穿越农场">](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2099404551199809774) | **发布:** 2026-09-14 | **热度:** 37
-
-**稳定度：** 82/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (82.3 分) · [产物](https://media.goodcase.ai/retests/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 酒店高层阳台追逃
-
-> Trapped between a locked door and a deadly drop. One mysterious drive, one desperate escape, and nowhere left to run. Cr
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-173bd8a14072.jpg" width="600" alt="酒店高层阳台追逃">](https://goodcase.ai/cases/aiwithaly-seedance-ai-173bd8a14072?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2094295756878622745) | **发布:** 2026-08-31 | **热度:** 37
-
-**稳定度：** 79/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.7 分) · [产物](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-173bd8a14072/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（19 行，点开展开）</b></summary>
-
-```
-Ultra-photorealistic cinematic 30-second action-thriller set inside a modern upscale hotel room on a high floor at night. An adult professional woman in a practical dark jacket, trousers, and comfortable shoes discovers she is being pursued after securing a mysterious encrypted-looking USB drive inside her travel bag.
-
-0–5s: Tight macro close-up of the USB drive on the hotel desk. She quickly grabs it, looks toward the door, places it inside her travel bag, and closes it. Three sudden knocks freeze her in place.
-
-5–10s: Slow cinematic push toward the hotel door. A heavy knock follows as a muffled male voice says, “Open the door. We know you're inside.” Her expression shifts from confusion to fear. She whispers, “That's not possible,” then cautiously backs away.
-
-10–15s: Extreme close-up of the door handle slowly turning downward. Realistic latch and lock sounds. Cut to her frightened face as she grabs the travel bag and rushes toward the balcony.
-
-15–20s: She slides the glass balcony door open with both hands, physically overcoming the resistance of the track. Cool night air moves her hair and jacket naturally. Behind her, the hotel room door shakes violently from an impact. She steps carefully onto the balcony, maintaining realistic balance near the high ledge.
-
-20–25s: Another powerful impact hits the hotel door. The lock and frame resist before the door finally swings inward naturally around its hinges. A partially visible silhouette appears in the doorway. Loose papers flutter from the sudden airflow as she moves farther onto the balcony.
-
-25–30s: She reaches the railing and looks down at the city far below. She turns toward a neighboring balcony separated by a narrow gap, then looks back toward the approaching silhouette. She grips the railing tightly and whispers, “Think.” Dramatic exterior wide shot reveals the hotel façade, her balcony, and the neighboring balcony.
-
-Grounded movie realism, realistic human acting and biomechanics, accurate gravity, momentum, inertia, friction, balance, door mechanics, sliding glass movement, fabric motion, object weight, natural night lighting, restrained handheld cinematography, realistic depth of field, natural motion blur, practical-effects aesthetic, synchronized dialogue and sound design, distant city ambience, footsteps, breathing, door impacts, lock vibration, glass-door movement, and night wind.
-
-No superhero physics, no impossible jump, no falling, no teleportation, no floating objects, no exploding door, no broken glass without cause, no exaggerated wind, no robotic acting, no distorted anatomy, no changing face or clothing, no duplicated characters, no impossible camera movement, no CGI appearance, no blood, no gore, no text, no logos, no watermark.
-
-End with a hard cut to black at the peak of the cliffhanger.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-173bd8a14072?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 粉色唇蜜开箱试色与咖啡桌展示
-
-> A touch of gloss, a little glow, and effortless beauty. Turning a simple lip gloss into a premium beauty moment. Created on seedance 2.0 Prompt: Create a realis…
-
-[<img src="https://media.goodcase.ai/cases/5e4823b6d035.jpg" width="600" alt="粉色唇蜜开箱试色与咖啡桌展示">](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **来源:** [原帖](https://x.com/Aiwithmaha/status/2102952087823044888) | **发布:** 2026-09-24 | **热度:** 36
-
-**稳定度：** 78/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a realistic 10-second vertical beauty product video showing hands opening a small elegant cardboard package containing a premium pink lip gloss. The hands carefully remove the gloss from the box and reveal its sleek reflective silver cap and transparent pink body. The applicator is taken out smoothly and the glossy pink product is swatched on the back of the hand, showing its creamy, shiny texture. Then transition to a close-up of a woman naturally applying the gloss to her lips with precise, gentle movements and realistic skin texture. Finish with the lip gloss standing beautifully on a wooden café table beside two cups of latte with artistic foam, creating a warm lifestyle beauty-ad atmosphere. Use soft natural lighting, realistic shadows, shallow depth of field, smooth handheld camera movement, premium commercial quality, natural skin texture, accurate product details, and seamless transitions.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 雨夜霓虹中走向黎明的女歌手
 
@@ -2432,36 +2369,64 @@ Designed for X/Twitter and short-form social media.
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-25-second-cinematic-ai-music-video-music-mv-with-a-clear-short-music-f253288afbbe?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 街头少女变身机甲迎战巨兽
+### 棕熊幼崽驾驶复古蓝车穿越农场
 
-> From civilian to frontline defender in seconds Would you survive the city takeover Created with Seedance 2.0 Prompt: Sce
+> A little adventure, a vintage car, and one curious little driver. This charming journey through the countryside feels like a scene straight out of a movie. Crea…
 
-[<img src="https://media.goodcase.ai/media/poster/avelyrahnai-seedance-ai-5e3abf0d4710.jpg" width="600" alt="街头少女变身机甲迎战巨兽">](https://goodcase.ai/cases/avelyrahnai-seedance-ai-5e3abf0d4710?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/b215059fa39f.jpg" width="600" alt="棕熊幼崽驾驶复古蓝车穿越农场">](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AvelyrahnAI | **来源:** [原帖](https://x.com/AvelyrahnAI/status/2090083594622435553) | **发布:** 2026-08-19 | **热度:** 36
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2099404551199809774) | **发布:** 2026-09-14 | **热度:** 36
 
-**稳定度：** 86/100
+**稳定度：** 82/100
 
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86 分) · [产物](https://media.goodcase.ai/retests/avelyrahnai-seedance-ai-5e3abf0d4710/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (82.3 分) · [产物](https://media.goodcase.ai/retests/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5/video-grok-imagine-20261003-phase1/generated.mp4)
 
 ```
-Scene Setup: A cinematic tracking shot of a young woman with dark hair, wearing wireless headphones and a white tank top, walking down a bustling, wet-paved European city street while looking at her smartphone.
+Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.
+```
 
-The Threat: She stops and looks up toward the historic stone building rooftops as a terrifying, massive demonic creature with large curved horns and glowing eyes emerges and roars.
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-in-a-cinematic-ultra-realistic-storytelling-style-a-cute-brow-b80e0e8035f5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-The Transformation: She pulls off her headphones as radiant golden digital energy flows across her body, transforming her casual clothes into an advanced white and black tactical mech suit with glowing yellow core accents and a sleek helmet.
+### 酒店高层阳台追逃
 
-Action & Combat: The armored mecha hero activates powerful shoulder rocket thrusters, blasting off the ground into flight down a chaotic, smoke-filled urban street to battle the towering monsters with fiery energy blasts.
+> Trapped between a locked door and a deadly drop. One mysterious drive, one desperate escape, and nowhere left to run. Cr
 
-Aesthetics: High-end blockbuster movie style, photorealistic textures, dramatic cinematic lighting, dynamic camera motion, and 8k resolution
+[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-173bd8a14072.jpg" width="600" alt="酒店高层阳台追逃">](https://goodcase.ai/cases/aiwithaly-seedance-ai-173bd8a14072?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **来源:** [原帖](https://x.com/aiwithaly/status/2094295756878622745) | **发布:** 2026-08-31 | **热度:** 36
+
+**稳定度：** 79/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.7 分) · [产物](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-173bd8a14072/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（19 行，点开展开）</b></summary>
+
+```
+Ultra-photorealistic cinematic 30-second action-thriller set inside a modern upscale hotel room on a high floor at night. An adult professional woman in a practical dark jacket, trousers, and comfortable shoes discovers she is being pursued after securing a mysterious encrypted-looking USB drive inside her travel bag.
+
+0–5s: Tight macro close-up of the USB drive on the hotel desk. She quickly grabs it, looks toward the door, places it inside her travel bag, and closes it. Three sudden knocks freeze her in place.
+
+5–10s: Slow cinematic push toward the hotel door. A heavy knock follows as a muffled male voice says, “Open the door. We know you're inside.” Her expression shifts from confusion to fear. She whispers, “That's not possible,” then cautiously backs away.
+
+10–15s: Extreme close-up of the door handle slowly turning downward. Realistic latch and lock sounds. Cut to her frightened face as she grabs the travel bag and rushes toward the balcony.
+
+15–20s: She slides the glass balcony door open with both hands, physically overcoming the resistance of the track. Cool night air moves her hair and jacket naturally. Behind her, the hotel room door shakes violently from an impact. She steps carefully onto the balcony, maintaining realistic balance near the high ledge.
+
+20–25s: Another powerful impact hits the hotel door. The lock and frame resist before the door finally swings inward naturally around its hinges. A partially visible silhouette appears in the doorway. Loose papers flutter from the sudden airflow as she moves farther onto the balcony.
+
+25–30s: She reaches the railing and looks down at the city far below. She turns toward a neighboring balcony separated by a narrow gap, then looks back toward the approaching silhouette. She grips the railing tightly and whispers, “Think.” Dramatic exterior wide shot reveals the hotel façade, her balcony, and the neighboring balcony.
+
+Grounded movie realism, realistic human acting and biomechanics, accurate gravity, momentum, inertia, friction, balance, door mechanics, sliding glass movement, fabric motion, object weight, natural night lighting, restrained handheld cinematography, realistic depth of field, natural motion blur, practical-effects aesthetic, synchronized dialogue and sound design, distant city ambience, footsteps, breathing, door impacts, lock vibration, glass-door movement, and night wind.
+
+No superhero physics, no impossible jump, no falling, no teleportation, no floating objects, no exploding door, no broken glass without cause, no exaggerated wind, no robotic acting, no distorted anatomy, no changing face or clothing, no duplicated characters, no impossible camera movement, no CGI appearance, no blood, no gore, no text, no logos, no watermark.
+
+End with a hard cut to black at the peak of the cliffhanger.
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/avelyrahnai-seedance-ai-5e3abf0d4710?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-173bd8a14072?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 进阶工作流演示：Prompt 之外的制作全流程
 
@@ -2643,6 +2608,24 @@ AUDIO: playful comedic background music, realistic household ambience, exaggerat
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/juliaclarky-seedance-ai-f648a434d526?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 粉色唇蜜开箱试色与咖啡桌展示
+
+> A touch of gloss, a little glow, and effortless beauty. Turning a simple lip gloss into a premium beauty moment. Created on seedance 2.0 Prompt: Create a realis…
+
+[<img src="https://media.goodcase.ai/cases/5e4823b6d035.jpg" width="600" alt="粉色唇蜜开箱试色与咖啡桌展示">](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **来源:** [原帖](https://x.com/Aiwithmaha/status/2102952087823044888) | **发布:** 2026-09-24 | **热度:** 35
+
+**稳定度：** 78/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.4 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a realistic 10-second vertical beauty product video showing hands opening a small elegant cardboard package containing a premium pink lip gloss. The hands carefully remove the gloss from the box and reveal its sleek reflective silver cap and transparent pink body. The applicator is taken out smoothly and the glossy pink product is swatched on the back of the hand, showing its creamy, shiny texture. Then transition to a close-up of a woman naturally applying the gloss to her lips with precise, gentle movements and realistic skin texture. Finish with the lip gloss standing beautifully on a wooden café table beside two cups of latte with artistic foam, creating a warm lifestyle beauty-ad atmosphere. Use soft natural lighting, realistic shadows, shallow depth of field, smooth handheld camera movement, premium commercial quality, natural skin texture, accurate product details, and seamless transitions.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-realistic-10-second-vertical-beauty-product-video-showing-hands-openin-1b5f6c15e630?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 海滨小镇的初次心动
 
 > Sometimes, love begins with a simple glance. A beautiful moment waiting to become a story. Created on seedance 2.0 Prompt A beautiful Korean girl with long, str…
@@ -2672,13 +2655,44 @@ A beautiful Korean girl with long, straight black hair walks through a peaceful 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-sometimes-love-begins-with-a-simple-glance-7c1e5ac921f4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 街头少女变身机甲迎战巨兽
+
+> From civilian to frontline defender in seconds Would you survive the city takeover Created with Seedance 2.0 Prompt: Sce
+
+[<img src="https://media.goodcase.ai/media/poster/avelyrahnai-seedance-ai-5e3abf0d4710.jpg" width="600" alt="街头少女变身机甲迎战巨兽">](https://goodcase.ai/cases/avelyrahnai-seedance-ai-5e3abf0d4710?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AvelyrahnAI | **来源:** [原帖](https://x.com/AvelyrahnAI/status/2090083594622435553) | **发布:** 2026-08-19 | **热度:** 35
+
+**稳定度：** 86/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86 分) · [产物](https://media.goodcase.ai/retests/avelyrahnai-seedance-ai-5e3abf0d4710/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+Scene Setup: A cinematic tracking shot of a young woman with dark hair, wearing wireless headphones and a white tank top, walking down a bustling, wet-paved European city street while looking at her smartphone.
+
+The Threat: She stops and looks up toward the historic stone building rooftops as a terrifying, massive demonic creature with large curved horns and glowing eyes emerges and roars.
+
+The Transformation: She pulls off her headphones as radiant golden digital energy flows across her body, transforming her casual clothes into an advanced white and black tactical mech suit with glowing yellow core accents and a sleek helmet.
+
+Action & Combat: The armored mecha hero activates powerful shoulder rocket thrusters, blasting off the ground into flight down a chaotic, smoke-filled urban street to battle the towering monsters with fiery energy blasts.
+
+Aesthetics: High-end blockbuster movie style, photorealistic textures, dramatic cinematic lighting, dynamic camera motion, and 8k resolution
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/avelyrahnai-seedance-ai-5e3abf0d4710?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 大学物理课堂的斜轨小球实验
 
 > Turning physics theory into a real-world experience. Where curiosity, experiments, and science come together. Created on seedance 2.0 Prompt: Create a cinematic…
 
 [<img src="https://media.goodcase.ai/cases/c9ea047f8573.jpg" width="600" alt="大学物理课堂的斜轨小球实验">](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-educational-video-set-inside-a-modern-university-961b27c23385?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2102331859657253174) | **发布:** 2026-09-22 | **热度:** 35
+**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2102331859657253174) | **发布:** 2026-09-22 | **热度:** 34
 
 **稳定度：** 89/100
 
@@ -2689,24 +2703,6 @@ Create a cinematic, realistic educational video set inside a modern university p
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-educational-video-set-inside-a-modern-university-961b27c23385?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 少女淡定穿行蒙面人校园走廊
-
-> A beautiful moment with a cinematic twist. The calm Korean-girl aesthetic meets unexpected action, creating a scene that feels straight out of a K-drama movie. …
-
-[<img src="https://media.goodcase.ai/cases/33b03f920be7.jpg" width="600" alt="少女淡定穿行蒙面人校园走廊">](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2103422559417217260) | **发布:** 2026-09-25 | **热度:** 34
-
-**稳定度：** 81/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (81.4 分) · [产物](https://media.goodcase.ai/retests/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-A beautiful Korean girl walking calmly through a realistic modern school hallway, wearing a soft cream-colored turtleneck sweater and elegant pleated skirt, with her brown hair tied in a neat bun and natural bangs framing her face. The hallway is filled with cinematic depth, warm indoor lighting, lockers, classroom doors, and subtle background activity. As she walks forward, several mysterious masked figures move around her in slow motion, creating a surprising action-movie atmosphere while she remains calm and focused. Papers, small objects, and a few flying elements move naturally through the air around her, adding dynamic motion to the scene. The camera smoothly tracks backward in front of her, gradually moving from a medium shot into a close-up while maintaining strong facial consistency and realistic expressions. Her hair and clothing respond naturally to the movement and airflow, with realistic physics and detailed textures. Use cinematic Korean drama aesthetics, photorealistic skin, soft warm color grading, shallow depth of field, natural shadows, smooth camera movement, and high-detail realistic cinematography. Keep the character’s face, hairstyle, outfit, and identity consistent throughout the entire 15-second video, with no distortion, flickering, extra fingers, unwanted text, or watermark.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 水花与白花环绕的奢华保湿霜
 
@@ -2781,35 +2777,6 @@ Fast but controlled cinematic camera movement, low-angle tracking shots, overhea
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-17-18-second-cinematic-fantasy-martial-arts-action-sequence-in-a-vast-53814d0d83b4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 韩屋雨巷里的少女与猫
-
-> Sunlit hanok alleys, a white tote, and one stray cat Just an ordinary day that already looked like a film Made with seed
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-4880539d8030.jpg" width="600" alt="韩屋雨巷里的少女与猫">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-4880539d8030?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2094345617673978115) | **发布:** 2026-08-31 | **热度:** 34
-
-**稳定度：** 81/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (80.5 分) · [产物](https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-4880539d8030/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（7 行，点开展开）</b></summary>
-
-```
-Cinematic 30s video of a slim young Korean woman with long dark hair in a low ponytail, wearing a fitted white t-shirt, baggy light-blue jeans, white sneakers and a white canvas tote bag. She walks through sunny traditional Korean hanok alleys with wooden doors, stone walls and tiled roofs.
-
-She steps out of a wooden house, walks along brick walls, looks up at the sky, opens an old wooden gate, then walks down a narrow sloping alley. She holds a green Sprite bottle and a peach, sits against a brick wall and drinks. A cute white-tabby cat approaches; she crouches and pets it. Soft smiling close-up.
-
-Weather turns overcast and wet. She walks through puddles holding a shopping basket, shows a coin in her palm, looks up, then sits on a wooden bench, adjusts her shoes and drinks from a green can. Turns to camera with a slight smile.
-
-Warm natural light, cinematic grading, handheld + fisheye shots, shallow depth of field, peaceful Korean village aesthetic.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-4880539d8030?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 三位女孩漫游日本传统市场
 
 > Three girls, one unforgettable adventure through the vibrant streets of Japan. From street food to souvenirs, every mome
@@ -2851,13 +2818,60 @@ NEGATIVE PROMPT: No text overlays, no subtitles, no watermark, no distorted face
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/lianaalane-seedance-ai-57edf326d97f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 少女淡定穿行蒙面人校园走廊
+
+> A beautiful moment with a cinematic twist. The calm Korean-girl aesthetic meets unexpected action, creating a scene that feels straight out of a K-drama movie. …
+
+[<img src="https://media.goodcase.ai/cases/33b03f920be7.jpg" width="600" alt="少女淡定穿行蒙面人校园走廊">](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaayat | **来源:** [原帖](https://x.com/aiwithaayat/status/2103422559417217260) | **发布:** 2026-09-25 | **热度:** 33
+
+**稳定度：** 81/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (81.4 分) · [产物](https://media.goodcase.ai/retests/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+A beautiful Korean girl walking calmly through a realistic modern school hallway, wearing a soft cream-colored turtleneck sweater and elegant pleated skirt, with her brown hair tied in a neat bun and natural bangs framing her face. The hallway is filled with cinematic depth, warm indoor lighting, lockers, classroom doors, and subtle background activity. As she walks forward, several mysterious masked figures move around her in slow motion, creating a surprising action-movie atmosphere while she remains calm and focused. Papers, small objects, and a few flying elements move naturally through the air around her, adding dynamic motion to the scene. The camera smoothly tracks backward in front of her, gradually moving from a medium shot into a close-up while maintaining strong facial consistency and realistic expressions. Her hair and clothing respond naturally to the movement and airflow, with realistic physics and detailed textures. Use cinematic Korean drama aesthetics, photorealistic skin, soft warm color grading, shallow depth of field, natural shadows, smooth camera movement, and high-detail realistic cinematography. Keep the character’s face, hairstyle, outfit, and identity consistent throughout the entire 15-second video, with no distortion, flickering, extra fingers, unwanted text, or watermark.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 韩屋雨巷里的少女与猫
+
+> Sunlit hanok alleys, a white tote, and one stray cat Just an ordinary day that already looked like a film Made with seed
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithelisia-seedance-ai-4880539d8030.jpg" width="600" alt="韩屋雨巷里的少女与猫">](https://goodcase.ai/cases/aiwithelisia-seedance-ai-4880539d8030?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AiwithElisia | **来源:** [原帖](https://x.com/AiwithElisia/status/2094345617673978115) | **发布:** 2026-08-31 | **热度:** 33
+
+**稳定度：** 81/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (80.5 分) · [产物](https://media.goodcase.ai/retests/aiwithelisia-seedance-ai-4880539d8030/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（7 行，点开展开）</b></summary>
+
+```
+Cinematic 30s video of a slim young Korean woman with long dark hair in a low ponytail, wearing a fitted white t-shirt, baggy light-blue jeans, white sneakers and a white canvas tote bag. She walks through sunny traditional Korean hanok alleys with wooden doors, stone walls and tiled roofs.
+
+She steps out of a wooden house, walks along brick walls, looks up at the sky, opens an old wooden gate, then walks down a narrow sloping alley. She holds a green Sprite bottle and a peach, sits against a brick wall and drinks. A cute white-tabby cat approaches; she crouches and pets it. Soft smiling close-up.
+
+Weather turns overcast and wet. She walks through puddles holding a shopping basket, shows a coin in her palm, looks up, then sits on a wooden bench, adjusts her shoes and drinks from a green can. Turns to camera with a slight smile.
+
+Warm natural light, cinematic grading, handheld + fisheye shots, shallow depth of field, peaceful Korean village aesthetic.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-4880539d8030?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 红袍法师定格风暴并倒转森林
 
 > The Scarlet Priestess Made with Midjourney + GPT Image 2 + Seedance 2 + Capcut Prompt : Create a 15-second multi-shot 16
 
 [<img src="https://media.goodcase.ai/media/poster/minuitia-seedance-ai-9da034716c83.jpg" width="600" alt="红袍法师定格风暴并倒转森林">](https://goodcase.ai/cases/minuitia-seedance-ai-9da034716c83?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @minuitIA | **来源:** [原帖](https://x.com/minuitIA/status/2092285935056568787) | **发布:** 2026-08-25 | **热度:** 34
+**作者:** @minuitIA | **来源:** [原帖](https://x.com/minuitIA/status/2092285935056568787) | **发布:** 2026-08-25 | **热度:** 33
 
 **稳定度：** 85/100
 
@@ -2895,13 +2909,31 @@ no music, no subtitle
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/minuitia-seedance-ai-9da034716c83?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Mountain Dew Spark 涂鸦广告
+
+> 一个充满活力、面向年轻人的饮料广告提示词，融合了电影级 4K 真人实拍与趣味十足的 2D 手绘涂鸦动画。
+
+[<img src="https://media.goodcase.ai/cases/72d231948cd0.jpg" width="600" alt="Mountain Dew Spark 涂鸦广告">](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2093959770579554517) | **发布:** 2026-08-30 | **热度:** 32
+
+**稳定度：** 79/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.3 分) · [产物](https://media.goodcase.ai/retests/mountain-dew-spark-b16d4e23caef/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: A cool young male in his early 20s, confident and playful, short dark slightly messy hair, expressive face, trendy oversized graphic T-shirt, relaxed baggy cargo pants and clean sneakers. Maintain STRICT face, hairstyle, clothing and identity consistency throughout. 0–4s — THE SPARK Open with a stylish low-angle tracking shot of the boy casually walking through a colorful modern city street while holding a chilled Mountain Dew Spark can. Tiny cute hand-drawn doodles subtly appear around him: stars, lightning bolts, hearts and lemons. He stops. Cut to a macro close-up of the cold can covered in condensation. He cracks it open. PSHHHH! A tiny hand-drawn lightning bolt appears above the can and vibrates with the sound. 4–8s — TOO MUCH SPARK He takes a big sip. Instantly, colorful 2D doodles explode from behind him. Lightning bolts race across the screen, cute lemons bounce past camera, stars pop around his head and cartoon speed lines surround his body. He looks surprised, then grins. Use a quick punch-in camera movement. 8–15s — THE BOOST Suddenly, he launches forward at ridiculous speed. Use rapid whip pans, low-angle tracking shots, dynamic handheld movement and energetic speed ramps as he runs through the city. Every movement triggers a doodle: Footstep → star burst Arm swing → lightning bolt Jump → comic explosion Turn → curved hand-drawn speed lines Smile → tiny floating hearts The doodles physically interact with the live-action environment, wrapping around poles, bouncing off walls and following his movement. At 15 seconds, he races toward a city staircase, preparing to jump onto it. End with a fast forward-moving camera transition that naturally continues into Part 2. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, crash zooms, low-angle tracking, speed ramps and match cuts. Keep movement flowing naturally so the video feels like one continuous sequence, not separate clips. DOODLE ANIMATION: Cute hand-drawn 2D doodles with imperfect sketch lines, playful expressions and bouncy animation. Playful and cute, never childish. Doodles must interact naturally with the live-action environment. PART 2: MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: Continue with EXACTLY the same young male from Part 1. Same face, hairstyle, oversized graphic T-shirt, baggy cargo pants, sneakers and overall identity. STRICT IDENTITY AND OUTFIT LOCK. 0–6s — DOODLE CHAOS Continue directly from Part 1 as the boy jumps onto a city staircase and races upward. Hundreds of cute hand-drawn doodles chase after him. Animated lemons bounce down the stairs. Lightning bolts zigzag beside him. Tiny stars spin through the air. Cartoon flames briefly appear behind his sneakers. Rapidly alternate between: Low-angle running shot Side tracking shot Close-up of sneakers Close-up of his excited expression Overhead shot as doodles spiral around him Use energetic whip transitions synchronized with the music. 6–11s — PRODUCT HERO The boy suddenly stops. Everything freezes. The doodles freeze mid-air around him. He casually spins the Mountain Dew Spark can toward the camera. Transition into a premium macro product close-up: cold condensation, sharp label detail, vibrant commercial lighting and fizzy energy. Hand-drawn lemons and lightning bolts begin orbiting around the can. The camera slowly pushes toward the product while the background remains softly blurred. 11–15s — FINAL EXPLOSION He takes one final sip and smirks directly at camera. On the beat, every doodle in the scene rushes toward him: ⭐ ⚡ 🍋 ❤️ 💥 They explode outward into a giant colorful hand-drawn burst behind him. He stands confidently in the center, holding the Mountain Dew Spark can toward camera. End on a clean premium hero shot of the Mountain Dew Spark can surrounded by playful doodle lightning, stars and fruit. Final feeling: refreshing, energetic, mischievous, funky and irresistibly fun. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, speed ramps, macro product photography, orbiting camera movement, crash zooms and match cuts. Transitions should be motivated by the character's movement and preserve visual continuity from Part 1. DOODLE ANIMATION: Cute hand-drawn 2D doodles with intermediate sketch lines, playful expressions and bouncy animation. Doodles should physically interact with the live-action world rather than appearing as static overlays. Keep them playful and stylish, never childish. NEGATIVE PROMPT: No character identity changes, no outfit changes, no inconsistent face, no extra fingers, no distorted hands, no warped product, no incorrect can shape, no unreadable logo, no duplicate cans, no floating character, no stiff movement, no random scene changes, no disconnected clips, no excessive motion blur, no dull lighting, no childish cartoon environment, no photorealistic doodles, no messy compositing, no deformed facial features, no text artifacts.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 韩国女孩的梦幻游乐场一日
 
 > Sometimes the best stories are the most unexpected. Created on seedance 2.0 Prompt: Created a video of a beautiful Korean girl having a playful, dreamy day at a…
 
 [<img src="https://media.goodcase.ai/cases/826e23a654ac.jpg" width="600" alt="韩国女孩的梦幻游乐场一日">](https://goodcase.ai/cases/seedance-created-a-video-of-a-beautiful-korean-girl-having-a-playful-dreamy-day-at-a-co-5e55b5b14463?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2101889590621536594) | **发布:** 2026-09-21 | **热度:** 33
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2101889590621536594) | **发布:** 2026-09-21 | **热度:** 32
 
 **稳定度：** 87/100
 
@@ -2925,24 +2957,6 @@ Keep the Korean girl’s identity and appearance consistent throughout the entir
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-created-a-video-of-a-beautiful-korean-girl-having-a-playful-dreamy-day-at-a-co-5e55b5b14463?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Mountain Dew Spark 涂鸦广告
-
-> 一个充满活力、面向年轻人的饮料广告提示词，融合了电影级 4K 真人实拍与趣味十足的 2D 手绘涂鸦动画。
-
-[<img src="https://media.goodcase.ai/cases/72d231948cd0.jpg" width="600" alt="Mountain Dew Spark 涂鸦广告">](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Caden_Flux | **来源:** [原帖](https://x.com/Caden_Flux/status/2093959770579554517) | **发布:** 2026-08-30 | **热度:** 32
-
-**稳定度：** 79/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (79.3 分) · [产物](https://media.goodcase.ai/retests/mountain-dew-spark-b16d4e23caef/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: A cool young male in his early 20s, confident and playful, short dark slightly messy hair, expressive face, trendy oversized graphic T-shirt, relaxed baggy cargo pants and clean sneakers. Maintain STRICT face, hairstyle, clothing and identity consistency throughout. 0–4s — THE SPARK Open with a stylish low-angle tracking shot of the boy casually walking through a colorful modern city street while holding a chilled Mountain Dew Spark can. Tiny cute hand-drawn doodles subtly appear around him: stars, lightning bolts, hearts and lemons. He stops. Cut to a macro close-up of the cold can covered in condensation. He cracks it open. PSHHHH! A tiny hand-drawn lightning bolt appears above the can and vibrates with the sound. 4–8s — TOO MUCH SPARK He takes a big sip. Instantly, colorful 2D doodles explode from behind him. Lightning bolts race across the screen, cute lemons bounce past camera, stars pop around his head and cartoon speed lines surround his body. He looks surprised, then grins. Use a quick punch-in camera movement. 8–15s — THE BOOST Suddenly, he launches forward at ridiculous speed. Use rapid whip pans, low-angle tracking shots, dynamic handheld movement and energetic speed ramps as he runs through the city. Every movement triggers a doodle: Footstep → star burst Arm swing → lightning bolt Jump → comic explosion Turn → curved hand-drawn speed lines Smile → tiny floating hearts The doodles physically interact with the live-action environment, wrapping around poles, bouncing off walls and following his movement. At 15 seconds, he races toward a city staircase, preparing to jump onto it. End with a fast forward-moving camera transition that naturally continues into Part 2. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, crash zooms, low-angle tracking, speed ramps and match cuts. Keep movement flowing naturally so the video feels like one continuous sequence, not separate clips. DOODLE ANIMATION: Cute hand-drawn 2D doodles with imperfect sketch lines, playful expressions and bouncy animation. Playful and cute, never childish. Doodles must interact naturally with the live-action environment. PART 2: MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: Continue with EXACTLY the same young male from Part 1. Same face, hairstyle, oversized graphic T-shirt, baggy cargo pants, sneakers and overall identity. STRICT IDENTITY AND OUTFIT LOCK. 0–6s — DOODLE CHAOS Continue directly from Part 1 as the boy jumps onto a city staircase and races upward. Hundreds of cute hand-drawn doodles chase after him. Animated lemons bounce down the stairs. Lightning bolts zigzag beside him. Tiny stars spin through the air. Cartoon flames briefly appear behind his sneakers. Rapidly alternate between: Low-angle running shot Side tracking shot Close-up of sneakers Close-up of his excited expression Overhead shot as doodles spiral around him Use energetic whip transitions synchronized with the music. 6–11s — PRODUCT HERO The boy suddenly stops. Everything freezes. The doodles freeze mid-air around him. He casually spins the Mountain Dew Spark can toward the camera. Transition into a premium macro product close-up: cold condensation, sharp label detail, vibrant commercial lighting and fizzy energy. Hand-drawn lemons and lightning bolts begin orbiting around the can. The camera slowly pushes toward the product while the background remains softly blurred. 11–15s — FINAL EXPLOSION He takes one final sip and smirks directly at camera. On the beat, every doodle in the scene rushes toward him: ⭐ ⚡ 🍋 ❤️ 💥 They explode outward into a giant colorful hand-drawn burst behind him. He stands confidently in the center, holding the Mountain Dew Spark can toward camera. End on a clean premium hero shot of the Mountain Dew Spark can surrounded by playful doodle lightning, stars and fruit. Final feeling: refreshing, energetic, mischievous, funky and irresistibly fun. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, speed ramps, macro product photography, orbiting camera movement, crash zooms and match cuts. Transitions should be motivated by the character's movement and preserve visual continuity from Part 1. DOODLE ANIMATION: Cute hand-drawn 2D doodles with intermediate sketch lines, playful expressions and bouncy animation. Doodles should physically interact with the live-action world rather than appearing as static overlays. Keep them playful and stylish, never childish. NEGATIVE PROMPT: No character identity changes, no outfit changes, no inconsistent face, no extra fingers, no distorted hands, no warped product, no incorrect can shape, no unreadable logo, no duplicate cans, no floating character, no stiff movement, no random scene changes, no disconnected clips, no excessive motion blur, no dull lighting, no childish cartoon environment, no photorealistic doodles, no messy compositing, no deformed facial features, no text artifacts.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 捡到钱立刻花掉的街头反转喜剧
 
@@ -3340,7 +3354,7 @@ RULES: References are appearance only, do not recreate. Keep both characters con
 
 [<img src="https://media.goodcase.ai/cases/fb4e26bda95e.jpg" width="600" alt="红发模特演绎勃艮第腮红广告">](https://goodcase.ai/cases/seedance-create-a-15-second-fast-paced-high-end-huda-beauty-cosmetics-advertisement-fea-22da35548b45?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2095862309285421150) | **发布:** 2026-09-04 | **热度:** 28
+**作者:** @sophiaparkerr_ | **来源:** [原帖](https://x.com/sophiaparkerr_/status/2095862309285421150) | **发布:** 2026-09-04 | **热度:** 27
 
 **稳定度：** 83/100
 
@@ -3433,7 +3447,7 @@ Ultra-realistic cinematic disaster scene in a modern city, a brave young woman i
 
 [<img src="https://media.goodcase.ai/cases/ebfd507b2bc2.jpg" width="600" alt="废弃工厂里想要飞翔的机器人与机械狗">](https://goodcase.ai/cases/aimikoda-seedance-ai-3e98e88a068f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2089697506296737930) | **发布:** 2026-08-18 | **热度:** 26
+**作者:** @aimikoda | **来源:** [原帖](https://x.com/aimikoda/status/2089697506296737930) | **发布:** 2026-08-18 | **热度:** 25
 
 **复测：** Grok Imagine · 2026-10-03 · ❌ 失败 (无评分)
 
@@ -3465,100 +3479,6 @@ Keep exactly one Robot and one Robot Dog, with stable scale, proportions, struct
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aimikoda-seedance-ai-3e98e88a068f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 宠物主与爱犬的一日陪伴
-
-> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
-
-[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="宠物主与爱犬的一日陪伴">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2094663938491187561) | **发布:** 2026-09-01 | **热度:** 25
-
-**稳定度：** 78/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.3 分) · [产物](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（11 行，点开展开）</b></summary>
-
-```
-A Pet Owner’s Daily Routine
-
-A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
-
-Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
-
-Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
-
-Could you keep up with this daily routine? 🐾
-
-#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 银发骑手霓虹公路突围
-
-> Speed, neon and chaos collide A futuristic rider takes on a massive zombie horde in a high octane cinematic chase. Made
-
-[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg" width="600" alt="银发骑手霓虹公路突围">](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2093340253755232681) | **发布:** 2026-08-28 | **热度:** 25
-
-**稳定度：** 87/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.8 分) · [产物](https://media.goodcase.ai/retests/zyrellix-seedance-ai-e2b9d262ff6b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-High-octane 3D animated cinematic action scene. A young female protagonist with short silver-white hair and aviator goggles on her forehead, wearing a sleek black leather suit with glowing blue neon accents and a long dark coat flowing behind her. She rides a high-speed futuristic sci-fi motorcycle featuring glowing magenta-pink neon wheels and cyan chassis accents. She speeds down a wet, overcast highway littered with abandoned cars, pursued by a massive horde of aggressive zombies. Dynamic camera angles capture her drifting around corners emitting bright sparks, shooting a handgun at leaping zombies with slow-motion bullet-time effects, and performing a massive mid-air stunt jump over the crowd. Moody cinematic lighting, dark color grading with vibrant pink and cyan neon contrast, overcast daylight, photorealistic textures, action movie aesthetic, 8k resolution, hyper-detailed.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 火凤凰与水龙之战
-
-> 一场史诗级的元素对决，在古老遗迹中展现火凤凰与水龙的激战，包含详细的镜头与特效说明。
-
-[<img src="https://media.goodcase.ai/cases/422cca8431b5.jpg" width="600" alt="火凤凰与水龙之战">](https://goodcase.ai/cases/case-2c7bcef707d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @noorlewisx | **来源:** [原帖](https://x.com/noorlewisx/status/2095039305555263672) | **发布:** 2026-09-02 | **热度:** 24
-
-**稳定度：** 78/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (77.5 分) · [产物](https://media.goodcase.ai/retests/case-2c7bcef707d4/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-15s cinematic photorealistic action video, 5 shots, 16:9. ARRI ALEXA 65, 35mm anamorphic, film grain, rich contrast, natural bokeh, volumetric god rays, realistic smoke, dust, sparks, fire, water, hair and cloth physics. No text, logos, UI or watermark.
-
-Environment: Abandoned ancient temple ruins, broken pillars, rubble, burning temple, heavy smoke, sparks, dramatic sunset. Keep architecture, damage, lighting and atmosphere consistent.
-
-Woman 1 – Fire: Short pink hair, red horns, deep red/gold ornate battle outfit, chains, black belt, tassels, platform boots. Lock face, body and outfit perfectly.
-
-Woman 2 – Water: Long navy-black hair with straight bangs, deep blue-silver flowing battle robe, transparent layers, decorative belt, silver ornaments, tassels and boots. Lock face, body and outfit perfectly.
-
-0–2.5s: Wide tracking circle. Fighters clash aggressively. Fire woman attacks with flame punches/kicks; water woman dodges and counters with water whips. Fire and water collide into steam explosions.
-
-2.5–6s: Tight tracking shot. Close-range brutal exchange. Fire elbow + knee; water blocks with a water shield and counters with a pressurized palm, sending her across rubble.
-
-6–9.5s: Low-angle tracking. Both charge and leap. Water woman launches spinning water spheres; fire woman breaks through with explosive flames and close-range attacks.
-
-9.5–12.5s: Medium-wide push-in. Water woman summons a massive serpentine water dragon. Fire woman releases a majestic flame phoenix. Both charge toward each other.
-
-12.5–15s: Epic wide pull-back/crane up. Dragon and phoenix collide, creating a huge explosion of steam, fire, water, light and debris. Shockwave, sparks and droplets fill the frame; energy slowly dissipates.
-
-Audio: Cinematic orchestral-electronic score, heavy percussion, rising strings, synths, impacts, whooshes, water, fire, steam, dragon roar and phoenix cry.
-
-Smooth cinematic camera only, no handheld shake or unnecessary cuts. Perfect character consistency and realistic elemental physics.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-2c7bcef707d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Korean Idol Backstage Fitting Vlog
 
@@ -3608,6 +3528,57 @@ DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped agai
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-e7dccea90d44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 宠物主与爱犬的一日陪伴
+
+> What if the perfect day with your dog was built around love, routine, and the little moments that matter? Created this 1
+
+[<img src="https://media.goodcase.ai/cases/ab5b6fe37905.jpg" width="600" alt="宠物主与爱犬的一日陪伴">](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2094663938491187561) | **发布:** 2026-09-01 | **热度:** 24
+
+**稳定度：** 78/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (78.3 分) · [产物](https://media.goodcase.ai/retests/aiwithzeeshi-seedance-ai-bf6c6f533942/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（11 行，点开展开）</b></summary>
+
+```
+A Pet Owner’s Daily Routine
+
+A pet owner starts the morning by waking up and greeting their golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
+
+Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
+
+Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.
+
+Could you keep up with this daily routine? 🐾
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #PetRoutine #DogLovers #PetOwner #DogLife #GenerativeAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aiwithzeeshi-seedance-ai-bf6c6f533942?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 银发骑手霓虹公路突围
+
+> Speed, neon and chaos collide A futuristic rider takes on a massive zombie horde in a high octane cinematic chase. Made
+
+[<img src="https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-e2b9d262ff6b.jpg" width="600" alt="银发骑手霓虹公路突围">](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zyrellix | **来源:** [原帖](https://x.com/Zyrellix/status/2093340253755232681) | **发布:** 2026-08-28 | **热度:** 24
+
+**稳定度：** 87/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.8 分) · [产物](https://media.goodcase.ai/retests/zyrellix-seedance-ai-e2b9d262ff6b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+High-octane 3D animated cinematic action scene. A young female protagonist with short silver-white hair and aviator goggles on her forehead, wearing a sleek black leather suit with glowing blue neon accents and a long dark coat flowing behind her. She rides a high-speed futuristic sci-fi motorcycle featuring glowing magenta-pink neon wheels and cyan chassis accents. She speeds down a wet, overcast highway littered with abandoned cars, pursued by a massive horde of aggressive zombies. Dynamic camera angles capture her drifting around corners emitting bright sparks, shooting a handgun at leaping zombies with slow-motion bullet-time effects, and performing a massive mid-air stunt jump over the crowd. Moody cinematic lighting, dark color grading with vibrant pink and cyan neon contrast, overcast daylight, photorealistic textures, action movie aesthetic, 8k resolution, hyper-detailed.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/zyrellix-seedance-ai-e2b9d262ff6b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-0-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.zh.md) · [Part 4](./gallery-seedance-2-0-part-4.zh.md)

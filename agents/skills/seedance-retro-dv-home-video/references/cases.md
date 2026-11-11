@@ -16,7 +16,7 @@ Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinar
 
 ## E2 · An Afternoon in a Hammock and Washing a Motorcycle
 
-- Seedance 2.5 · creator: @doctorwasif · heat: 97
+- Seedance 2.5 · creator: @doctorwasif · heat: 96
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-subject-preserve-exact-identity-face-skin-tone-body-proportions-hair-298f82f12f00) · [finished media](https://media.goodcase.ai/cases/5a19fec06723.mp4) · [poster](https://media.goodcase.ai/cases/d3f9b6377ec3.jpg) · [original source](https://x.com/doctorwasif/status/2099836703729172540)
 - Summary: Korean It-Girl — Seedance 2.5, Higgsfield Prompt: Subject: “<<<image_1>>>” — preserve exact identity, face, skin tone, body proportions, hair, and outfit. South…
 
@@ -230,31 +230,7 @@ CAMERA: Raw consumer DV footage with subtle handheld shake, imperfect framing, a
 FINAL FEEL: A genuine Korean birthday memory from the early 2000s, with every scene and action clearly shown in the exact requested order.
 ```
 
-## E6 · POV: Korean Baddie Meets Her Boyfriend in the US
-
-- Seedance 2.5 · creator: @AIwithkhan · heat: 92
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf) · [finished media](https://media.goodcase.ai/media/video/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg) · [original source](https://x.com/AIwithkhan/status/2094997895187673489)
-- Summary: POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
-
-```text
-Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, makeup, body proportions, 
-
-Style: Early-2000s MiniDV home-video aesthetic, photorealistic live-action, shaky handheld camera, slight autofocus hunting, natural exposure shifts, motion blur, imperfect framing, warm afternoon light, authentic everyday atmosphere.
-
-A young woman from Korea wearing a fitted pastel tshirt spends a casual afternoon with her boyfriend in a quiet neighborhood. She films herself walking down the street, smiling at the camera while her boyfriend walks beside her. They stop at a small street-food stall, share a snack, laugh together, and continue walking.
-
-She playfully steals his sunglasses and puts them on, making him laugh. They sit together on a low wall, talk and tease each other, then walk through a small park while she records little moments on the handheld camera.
-
-As the sun begins to set, they stop under a streetlight. She turns the camera toward him, they exchange a warm smile, move closer, and share a brief natural kiss on the lips.
-
-The camera stays handheld and slightly imperfect as they laugh afterward and walk away together.
-
-Audio: Natural street ambience, footsteps, distant traffic, birds, casual conversation and laughter. No music.
-
-Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
-```
-
-## E7 · A Girl’s Retro Selfie Diary on Seoul’s Shopping Streets
+## E6 · A Girl’s Retro Selfie Diary on Seoul’s Shopping Streets
 
 - Seedance 2.5 · creator: @Just_sharon7 · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-on-14a9d2540b85) · [finished media](https://media.goodcase.ai/cases/bd0828053242.mp4) · [poster](https://media.goodcase.ai/cases/40eec7295c01.jpg) · [original source](https://x.com/Just_sharon7/status/2109218767620444331)
@@ -330,6 +306,30 @@ AUDIO
 Authentic low-quality smartphone microphone. Distant Korean street conversations, footsteps, shop
 
 [… truncated, full prompt on the goodcase.ai page]
+```
+
+## E7 · POV: Korean Baddie Meets Her Boyfriend in the US
+
+- Seedance 2.5 · creator: @AIwithkhan · heat: 91
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf) · [finished media](https://media.goodcase.ai/media/video/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.mp4) · [poster](https://media.goodcase.ai/media/poster/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf.jpg) · [original source](https://x.com/AIwithkhan/status/2094997895187673489)
+- Summary: POV - Korean baddie met her boyfriend in US Seedance 2.5 realism 😳 Prompt : Use the uploaded reference image as the exa
+
+```text
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, makeup, body proportions, 
+
+Style: Early-2000s MiniDV home-video aesthetic, photorealistic live-action, shaky handheld camera, slight autofocus hunting, natural exposure shifts, motion blur, imperfect framing, warm afternoon light, authentic everyday atmosphere.
+
+A young woman from Korea wearing a fitted pastel tshirt spends a casual afternoon with her boyfriend in a quiet neighborhood. She films herself walking down the street, smiling at the camera while her boyfriend walks beside her. They stop at a small street-food stall, share a snack, laugh together, and continue walking.
+
+She playfully steals his sunglasses and puts them on, making him laugh. They sit together on a low wall, talk and tease each other, then walk through a small park while she records little moments on the handheld camera.
+
+As the sun begins to set, they stop under a streetlight. She turns the camera toward him, they exchange a warm smile, move closer, and share a brief natural kiss on the lips.
+
+The camera stays handheld and slightly imperfect as they laugh afterward and walk away together.
+
+Audio: Natural street ambience, footsteps, distant traffic, birds, casual conversation and laughter. No music.
+
+Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit changes, duplicate people, distorted hands, unnatural movements, or AI artifacts.
 ```
 
 ## E8 · Early-2000s Seoul Couple's Afternoon Drive

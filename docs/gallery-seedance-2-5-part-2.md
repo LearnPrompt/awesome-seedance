@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 2/9)
 
-All 728 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 735 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 87–157 of 728.
+This page: cases 86–154 of 735.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)
 
@@ -276,6 +276,50 @@ Cinematic fashion film, editorial movement, motion blur, anamorphic flares, gold
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Pink-Haired Student Backflips and Catches Her Lunch Tray
+
+> Walked past him like the backflip was the easy part of lunch. Seedance 2.5 on @FishCreativeHQ Prompt Cinematic Korean high-school drama, 22-second continuous sh…
+
+[<img src="https://media.goodcase.ai/cases/f622ac95ca08.jpg" width="600" alt="Pink-Haired Student Backflips and Catches Her Lunch Tray">](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2100836177821483349) | **Published:** 2026-09-18 | **Heat:** 85
+
+**Stability:** 79/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 79.4) · [output](https://media.goodcase.ai/retests/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (22 lines, click to expand)</b></summary>
+
+```
+Walked past him like the backflip was the easy part of lunch.
+
+Seedance 2.5 on @FishCreativeHQ 
+
+Prompt
+
+Cinematic Korean high-school drama, 22-second continuous shot sequence, photoreal live-action, 24fps, shallow-to-medium depth of field, natural fluorescent cafeteria lighting mixed with window daylight, slightly warm color grade.
+Crowded Korean high-school cafeteria: long wooden tables, metal benches, tiled floor with a faint sheen, white waffle-grid ceiling, hanging fluorescent lights. Dozens of students in pastel blue short-sleeve summer uniforms with purple ties (boys) and pink ribbon bows (girls) eating from stainless-steel compartment trays.
+Heroine: early-20s Korean woman @[Image 1](image_1) styled as a high-school senior — long straight pastel pink hair with center part and face-framing layers, pale makeup, glossy lips, pastel pink short-sleeve school blouse, navy ribbon bow, pastel pink mini skirt, white crew socks, chunky white sneakers, small blue name tag on her chest. She walks the center aisle carrying a stainless 5-compartment lunch tray in both hands. Tray contents: mound of white rice, spicy red tteokbokki cylinders, a pile of kimchi, seasoned green namul, and a small metal soup bowl of red stew. Spoon and chopsticks rest on the tray.
+Shot 1 (0–1s): Medium-wide tracking shot. She walks straight toward camera down the aisle, calm expression, tray held level at waist height. Background students laugh and eat.
+Shot 2 (1s): Tight low insert of her feet. She scuffs the heel of her left white sneaker against the polished floor, then plants both feet.
+Shot 3 (2s): Medium close-up of her face as she looks up, slightly startled, hair swinging.
+Shot 4–6 (3–6s): Slow-motion VFX food sequence. She tosses the tray upward. The tray and utensils hang in mid-air. Tteokbokki pieces, kimchi, and namul lift off the compartments and float in a neat horizontal line above the tray, as if gravity paused. Cut to overhead: food settles perfectly back into each compartment; soup bowl stays upright, nothing spills.
+Shot 7 (7s): Wide. She drops into a fast back handspring / cartwheel on the cafeteria floor, skirt flipping, one sneaker kicking high. Students at nearby tables freeze and stare.
+Shot 8 (8s): She lands spinning, hair whipping, and catches the falling tray and utensils in one fluid motion without dropping food.
+Shot 9–11 (9–11s): Close-ups of hands catching chopsticks and spoon, then a hero beauty shot of the completed tray held out toward camera — rice, tteokbokki, kimchi, namul, and stew all perfectly arranged.
+Shot 12 (12s): Cut to a table of boys. Handsome dark-haired boy in white shirt and navy tie turns, mouth open in shock; friends around him gape.
+Shot 13–14 (13–14s): Tight beauty close-up of the heroine’s face, staring into camera, then a tiny knowing smirk.
+Shot 15–20 (15–20s): She walks past the shocked boy’s table, tray in her left hand, glancing down at him. Soft line of dialogue in Korean, subtitled: “Let’s eat and see.” He looks down, embarrassed. She keeps walking.
+Shot 21 (21s): Rear tracking shot as she walks away down the aisle, long hair and navy skirt, cafeteria buzzing again behind her.
+Style notes: high-end K-drama cinematography (something like a glossy teen romance / school fantasy), practical cafeteria set, subtle slow-motion only on the floating-food and flip beats, clean VFX so the food never smears or looks cartoonish, no logos, no on-screen text except optional Korean subtitle on the one line.
+Negative: messy spills, broken tray, Western cafeteria, adult office clothes, exaggerated anime faces, shaky phone footage, watermarks.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-walked-past-him-like-the-backflip-was-the-easy-part-of-lunch-b79fce6dfd39?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman in Lime Blazer Stands Calm Amid a Chaotic Crowd
 
@@ -4368,6 +4412,268 @@ SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trip
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-ai-594c65776c1c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A rainy bookstore meet-cute that leads to coffee together
+
+> THE MOMENT WE MET 💜 Created with Seedance 2.5 on @ElevenLabs + @ElevenCreative #ElevenLabsAmbassador PROMPT : Create an ultra-photorealistic, high-budget Holly…
+
+[<img src="https://media.goodcase.ai/cases/bc2d3cef4f00.jpg" width="600" alt="A rainy bookstore meet-cute that leads to coffee together">](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-high-budget-hollywood-romantic-film-sequence-fe-2dc6f96f01f6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @mimu_ai1 | **Source:** [Original](https://x.com/mimu_ai1/status/2120014240212008995) | **Published:** 2026-11-10 | **Heat:** 79
+
+<details>
+<summary><b>Full prompt (244 lines, click to expand)</b></summary>
+
+```
+Create an ultra-photorealistic, high-budget Hollywood romantic film sequence featuring a beautiful young woman visits a charming old bookstore on a rainy afternoon. She accidentally meets a mysterious young man when they reach for the same book. Their unexpected encounter develops into a beautiful romantic connection as they share an umbrella, walk through the city and enjoy coffee together.
+
+MAIN CHARACTERS :
+
+1. THE YOUNG WOMAN — FEMALE LEAD
+
+A beautiful adult woman with the exact facial identity, her recognizable facial features, blue eyes, natural skin texture, facial proportions and long, naturally curly light auburn/blonde hair.
+
+Wardrobe:
+She wears an elegant cream-colored tailored coat over a sophisticated neutral-colored blouse, delicate layered gold necklaces, small understated earrings, and beautifully styled natural hair.
+
+Her appearance: Sophisticated, elegant look for a rainy European afternoon. Keep her facial identity, hairstyle, eye color, skin texture, proportions, outfit, and accessories identical in every shot. Performance should be authentic and spontaneous, with subtle romantic expressions.
+
+2. THE YOUNG MAN — MALE LEAD
+
+A handsome adult man in his late twenties or early thirties with naturally styled dark brown hair, warm brown eyes, realistic natural skin texture, attractive but understated facial features, and a charming personality.
+
+Wardrobe:
+An elegant dark charcoal overcoat, A neutral cream or beige sweater, Dark tailored trousers, A sophisticated everyday outfit
+
+His appearance: Natural, approachable, quietly confident look. Keep the same face, hair, proportions, and outfit throughout. Show curiosity, warmth, slight nerves, and growing romantic interest.
+
+IMPORTANT: Both characters must look like real people interacting naturally. Their romantic chemistry should feel spontaneous rather than staged.
+
+3. ENVIRONMENT
+
+A rainy autumn afternoon in an old European city. The main setting is a charming independent bookstore with tall wooden shelves, vintage books, large glass windows, warm golden lighting, wooden floors, cozy reading corners, and a small antique display, lit by soft daylight.
+
+Outside: cobblestone streets, historic stone buildings, small cafés, vintage street lamps, rain-soaked pavement with realistic puddle reflections, elegant storefronts, and a warm, inviting atmosphere.
+
+The final location is a small romantic café with large windows, warm ambient lighting, wooden furniture, coffee cups, soft background activity and gentle rain visible outside.
+
+00:00–00:05 — THE ORDINARY AFTERNOON
+
+Open with a breathtaking cinematic establishing shot of a charming independent bookstore on a rainy afternoon.
+
+Rain gently falls against the large glass windows.
+
+Inside, warm golden light illuminates beautifully arranged wooden bookshelves.
+
+The young woman enters the bookstore and slowly walks between the shelves, browsing through the books.
+
+She notices an interesting hardcover novel on a nearby shelf.
+
+She gently reaches toward it while examining its cover.
+
+The camera slowly moves closer, capturing her natural facial expressions, beautiful curly hair and delicate movements.
+
+She smiles slightly as she discovers the book.
+
+Outside, rain continues falling softly.
+
+Camera: Smooth cinematic dolly-in, wide establishing shot transitioning into an elegant medium shot. Natural shallow depth of field, realistic skin texture, beautiful window reflections and professional romantic movie cinematography.
+
+Sound: Gentle piano music, soft rain against the windows, subtle bookstore ambience and quiet footsteps.
+
+00:05–00:10 — THE UNEXPECTED ENCOUNTER
+
+Suddenly, a handsome young man approaches the same bookshelf from the opposite direction.
+
+He notices the same novel and reaches for it at exactly the same moment as the woman.
+
+Their fingers accidentally touch.
+
+Both characters pause.
+
+The woman slowly looks up.
+
+The man looks directly into her eyes.
+
+They exchange a brief, slightly awkward smile.
+
+The woman gently withdraws her hand while laughing softly.
+
+Dialogue — Woman (slightly embarrassed, smiling):
+
+"Oh, sorry!"
+
+Dialogue — Man (warm, charming voice):
+
+"No, you take it."
+
+The woman looks at him and smiles.
+
+The man gestures toward the book, inviting her to take it.
+
+Camera: Extreme close-up of their hands touching the book, followed by alternating natural facial close-ups, subtle eye contact and a soft cinematic rack focus.
+
+Sound: A gentle musical transition, subtle fabric movement and quiet bookstore ambience.
+
+00:10–00:15 — THE SHARED UMBRELLA
+
+The scene transitions outside the bookstore.
+
+The rain suddenly becomes heavier.
+
+The woman stands near the entrance, looking at the rain while holding the book close to her chest.
+
+The young man steps outside behind her.
+
+He opens a large dark umbrella and notices that she is standing without one.
+
+He approaches her with a gentle smile and slightly tilts the umbrella toward her.
+
+Dialogue — Man (warm, friendly):
+
+"Would you like to share?"
+
+The woman looks at him, briefly hesitates, then smiles.
+
+Dialogue — Woman:
+
+"I'd like that."
+
+He moves beside her, and they begin walking together beneath the umbrella.
+
+The rain falls realistically around them while water reflects the surrounding streetlights and shop windows.
+
+Camera: Cinematic medium two-shot, slow tracking movement, natural character interaction, beautiful reflections and shallow depth of field.
+
+00:15–00:20 — A WALK TO REMEMBER
+
+The couple walks together through a beautiful old European street under the umbrella.
+
+The woman holds her book against her coat while the man carries the umbrella.
+
+They exchange glances and smile.
+
+The woman briefly looks toward him while he says something amusing.
+
+She laughs naturally.
+
+A light breeze moves her curly hair slightly beneath the umbrella.
+
+They pass beautiful cafés, vintage shop windows and warm glowing streetlights.
+
+The camera captures their natural body language and subtle romantic chemistry.
+
+Camera: Smooth side-tracking shot, intimate over-the-shoulder shots, natural profile close-ups and a beautiful wide cinematic street composition.
+
+Sound: Gentle romantic piano, natural footsteps, rain falling against the umbrella and distant city ambience.
+
+00:20–00:25 — AN UNEXPECTED CONNECTION
+
+Transition into a beautiful cozy café.
+
+The couple sits across from each other beside a large window.
+
+Two freshly prepared coffees sit on the small wooden table.
+
+The woman gently holds her coffee cup while listening to the man.
+
+They share a genuine laugh.
+
+The man looks at her with warm interest.
+
+She smiles, then briefly looks outside at the rain.
+
+Dialogue — Woman (gently curious):
+
+"Do you often meet strangers like this?"
+
+Dialogue — Man (smiling):
+
+"Not the ones I'd like to meet again."
+
+The woman looks at him and laughs softly.
+
+Camera: Warm cinematic close-ups, intimate over-the-table composition, gentle focus shifts between the characters, beautiful café lighting and realistic facial expressions.
+
+Sound: Soft piano and strings, quiet café ambience, subtle coffee cup sounds and natural dialogue.
+
+00:25–00:30 — THE BEGINNING OF SOMETHING
+
+The couple leaves the café together.
+
+The rain has finally stopped.
+
+Beautiful golden evening sunlight appears between the old buildings, creating warm reflections across the wet cobblestone street.
+
+They walk side by side.
+
+The woman turns toward him and smiles.
+
+Dialogue — Woman (softly):
+
+"Do you think we'll meet again?"
+
+The man slows down slightly, looks into her eyes and responds with a genuine smile.
+
+Dialogue — Man (warm, sincere):
+
+"I was hoping we would."
+
+The woman laughs softly.
+
+They continue walking together as the camera slowly pulls backward.
+
+End with a breathtaking wide cinematic composition of the two characters walking through the beautiful golden-lit European street.
+
+FINAL ON-SCREEN TITLE:
+"THE MOMENT WE MET"
+
+FINAL TAGLINE:
+"Sometimes, the best stories begin with a stranger."
+
+Camera: Slow cinematic pullback, golden-hour backlighting, natural character movement, beautiful reflections and a gentle romantic fade-out.
+
+Sound: Emotional orchestral piano crescendo followed by a soft musical resolution.
+
+4. TECHNICAL PRODUCTION DIRECTIVES
+
+VIDEO SPECIFICATIONS:
+- Exactly 30 seconds, 16:9 widescreen.
+- 4K UHD and 60 FPS where supported.
+- Ultra-photorealistic, Hollywood-quality live-action footage.
+- Six separate 5-second scenes with seamless continuity.
+
+CINEMATOGRAPHY:
+Professional 35mm/50mm cinema aesthetics, smooth dolly and tracking shots, cinematic close-ups, natural depth of field, realistic motion blur and elegant transitions.
+
+HUMAN PERFORMANCE:
+Natural facial expressions, realistic eye contact, subtle romantic chemistry, authentic smiles, natural gestures, believable body movements and consistent character appearances.
+
+ENVIRONMENT & LIGHTING:
+Realistic rainfall, wet pavement reflections, natural hair and clothing movement, atmospheric mist and detailed environments. Use warm bookstore lighting, cool rainy streets, cozy café illumination and beautiful golden-hour backlighting.
+
+SOUND DESIGN:
+Original romantic piano and orchestral soundtrack, realistic rain, footsteps, bookstore and café ambience, umbrella movement and natural environmental sounds. Keep background music balanced beneath dialogue.
+
+DIALOGUE:
+Natural fluent English with accurate lip-syncing, realistic emotional delivery and natural pauses. Gentle expressive female voice and warm charming male voice. No narrator, overlapping dialogue or subtitles.
+
+STRICT CHARACTER CONSISTENCY:
+- Female lead: Preserve the exact facial identity, blue eyes, curly light auburn/blonde hair, skin texture and proportions from the uploaded portrait.
+- Male lead: Maintain identical facial features, hairstyle and appearance throughout.
+- Both characters must retain identical outfits and accessories in every scene.
+- Maintain consistent props, locations and environmental details.
+
+NEGATIVE PROMPT:
+]No cartoon or anime style, artificial skin, distorted anatomy, extra fingers or limbs, changing faces, inconsistent costumes, unnatural expressions, awkward movements, unrealistic rain, flickering, duplicated characters, abrupt transitions, unwanted text, subtitles or watermarks.
+
+FINAL CREATIVE DIRECTION:
+Create an emotionally engaging, photorealistic Hollywood romantic short film about two strangers experiencing an unexpected connection.Prioritize realistic human performances, natural romantic chemistry, cinematic visuals and seamless continuity. Keep the romance subtle, authentic and emotionally memorable.Every frame should feel like it belongs to a professionally produced romantic movie.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-high-budget-hollywood-romantic-film-sequence-fe-2dc6f96f01f6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Bullied schoolgirl awakens in a library and fights back unarmed
 
 > CRIMSON BITE: AWAKENING Made with Seedance 2.5 on @PixVerse Prompt used: Ultra-photorealistic live-action Korean gothic supernatural action. Use image1 as So-Ye…
@@ -5348,440 +5654,6 @@ Strict constraints: No character changes, no outfit changes, no face morphing, n
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully
-
-> Never touch what's mine Seedance 2.5 on @TapNow_AI prompt CINEMATIC VIDEO GENERATION PROMPT TITLE: THE ROOFTOP QUEEN'S DOWNFALL GENRE: Korean supernatural actio…
-
-[<img src="https://media.goodcase.ai/cases/9c73e0c7672c.jpg" width="600" alt="Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully">](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2111459728216015154) | **Published:** 2026-10-17 | **Heat:** 78
-
-<details>
-<summary><b>Full prompt (275 lines, click to expand)</b></summary>
-
-```
-Never touch what's mine
-
-Seedance 2.5 on @TapNow_AI 
-
-prompt
-
-CINEMATIC VIDEO GENERATION PROMPT
-
-TITLE: THE ROOFTOP QUEEN'S DOWNFALL
-
-GENRE: Korean supernatural action drama | Psychological revenge | Telekinetic powers | High-intensity confrontation
-FORMAT: 30 seconds | 16:9 widescreen | 1080p | 24 FPS | Ultra-photorealistic live action
-VISUAL STYLE
-Premium Korean action cinema blended with the spectacular supernatural destruction of Hollywood blockbusters.
-
-Extremely realistic physical movements, intense confrontations, dramatic facial expressions, explosive invisible forces, believable gravity manipulation, violent environmental reactions, dynamic handheld camera movements, aggressive tracking shots, rapid whip pans, and breathtaking vertical cinematography.
-Realistic human skin texture, visible pores, natural facial imperfections, believable clothing physics, realistic hair movement, authentic shadows, and physically accurate object collisions.
-The heroine must appear completely human. No anime, cartoon physics, plastic skin, exaggerated CGI effects, magical circles, or superhero costumes.
-CHARACTER IDENTITY LOCK
-MAIN HEROINE — {{Image 1}}
-
-A striking 22-year-old Korean university student. Preserve her exact reference facial identity, hairstyle, skin tone, body proportions, and appearance throughout every shot.
-
-OUTFIT: Fitted black university blazer, crisp white collared shirt, black ribbon tie, short black pleated skirt, black knee-high socks, polished black loafers, and a delicate silver necklace with a small heart-shaped pendant.
-
-PERSONALITY: Quiet, mysterious, emotionally restrained, fearless, cold, sarcastic, and extraordinarily powerful.
-
-She secretly possesses devastating telekinetic abilities, capable of manipulating gravity, suspending human bodies in midair, controlling hundreds of objects simultaneously, and generating enormous invisible shockwaves.
-
-POWER ACTIVATION: Her irises develop a subtle electric-pink glow. The glow remains confined primarily to her eyes, producing delicate pink reflections along her eyelids. No laser beams, pink smoke, magical symbols, or exaggerated visual effects.
-
-She activates her powers through small, controlled finger movements, subtle head tilts, or simply by staring at her target.
-
-MAIN ANTAGONIST — THE ROOFTOP QUEEN
-
-A beautiful but arrogant 23-year-old wealthy Korean university student with long blonde hair, flawless fashionable makeup, an expensive cream-colored designer blazer, white blouse, short pleated skirt, luxury handbag, and high heels.
-
-She is cruel, entitled, theatrical, and convinced that everyone fears her.
-
-SECONDARY CHARACTERS
-
-Three fashionable university students who accompany the bully, laughing, recording the confrontation, and encouraging the humiliation.
-
-SETTING
-
-The rooftop of a prestigious modern Korean university during late afternoon.
-
-A large concrete rooftop surrounded by protective railings, ventilation systems, rooftop air-conditioning units, loose plastic chairs, scattered papers, metal buckets, empty flowerpots, maintenance equipment, and a small rooftop utility structure with a tall concrete wall.
-
-Beyond the rooftop, an expansive Seoul skyline stretches into the distance.
-
-Strong natural daylight, slightly overcast skies, realistic wind, and dramatic atmospheric depth.
-
-No neon lighting or nighttime environment.
-
-00:00–00:04 — THE PUBLIC HUMILIATION
-
-OPEN IMMEDIATELY with an aggressive handheld tracking shot.
-
-The wealthy blonde bully forcefully shoves the heroine backward against a concrete rooftop wall.
-
-Three students stand nearby, laughing and filming.
-
-The heroine remains silent, staring directly into the bully's eyes.
-
-The bully suddenly grabs the delicate silver necklace around the heroine's neck and tears it away.
-
-BULLY (mocking): "You really thought you belonged here?"
-
-The heroine looks at the necklace in the bully's hand.
-
-For the first time, her expression changes.
-
-Her jaw tightens.
-
-00:04–00:08 — THE UNFORGIVABLE MISTAKE
-
-The blonde bully walks toward the rooftop railing, dangling the necklace between two fingers.
-
-HEROINE (quietly): "Give it back."
-
-The bully laughs.
-
-BULLY: "Then go get it."
-
-She throws the necklace over the railing.
-
-CAMERA WHIP-PANS toward the falling necklace.
-
-EXTREME CLOSE-UP:
-
-The silver necklace tumbles through the air beyond the rooftop.
-
-Suddenly—
-
-IT STOPS.
-
-The necklace freezes completely in midair, suspended several feet outside the railing.
-
-The wind continues moving naturally around it.
-
-All laughter stops.
-
-00:08–00:12 — ELECTRIC-PINK AWAKENING
-
-SMASH CUT to an extreme close-up of the heroine's face.
-
-Her eyes slowly develop a subtle ELECTRIC-PINK GLOW.
-
-A deep, barely audible supernatural pressure begins building.
-
-Her hair moves backward in a sudden unnatural gust.
-
-Loose papers tremble.
-
-Metal buckets rattle.
-
-The rooftop chairs begin vibrating against the concrete.
-
-The heroine slowly lifts her chin.
-
-HEROINE (coldly): "You shouldn't have done that."
-
-The necklace begins floating back toward her.
-
-The bully takes a nervous step backward.
-
-00:12–00:17 — THE GRAVITY REVERSAL
-
-The blonde bully suddenly charges toward the heroine, attempting to strike her.
-
-WITHOUT MOVING—
-
-The heroine raises one finger.
-
-The bully instantly freezes in mid-stride.
-
-Her shoes slowly lift from the rooftop.
-
-She rises three feet above the ground, arms flailing as she struggles against an invisible force.
-
-Her long blonde hair and cream blazer move naturally in the wind.
-
-BULLY (terrified): "PUT ME DOWN!"
-
-The heroine tilts her head.
-
-HEROINE: "You wanted to be above everyone."
-
-The bully rises another few feet, remaining safely suspended above the rooftop.
-
-00:17–00:22 — THE ROOFTOP GRAVITY STORM
-
-The heroine spreads her fingers.
-
-A powerful invisible gravitational field expands across the rooftop.
-
-HUNDREDS OF LOOSE OBJECTS BEGIN LEVITATING.
-
-Metal buckets spin violently.
-
-Plastic chairs rise and rotate.
-
-Loose papers swirl through the air.
-
-Flowerpots hover above the concrete.
-
-Maintenance tools vibrate and float.
-
-Dust and small debris form a massive rotating vortex around the heroine.
-
-The three other students stumble backward in terror, grabbing the railing.
-
-The heroine stands completely motionless at the center.
-
-Her electric-pink eyes glow with terrifying calmness.
-
-CAMERA ORBITS RAPIDLY around her, revealing the floating objects and the suspended bully.
-
-00:22–00:27 — THE IMPOSSIBLE WALL WALK
-
-The heroine slowly turns toward the tall concrete utility wall.
-
-She takes one step forward.
-
-Then another.
-
-Without changing her body posture, she begins WALKING VERTICALLY UP THE WALL.
-
-Her shoes make realistic contact with the concrete as her personal gravity rotates ninety degrees.
-
-Her hair and clothing respond naturally to the altered gravitational field.
-
-The camera rotates with her movement, creating a breathtaking perspective shift.
-
-She walks several feet upward, now standing sideways relative to the rooftop.
-
-The blonde bully remains suspended safely in midair, staring at her in absolute terror.
-
-The heroine looks directly at her.
-
-HEROINE (calmly): "Now look down."
-
-The bully looks at the rooftop below and gasps.
-
-00:27–00:30 — THE QUEEN FALLS
-
-The heroine slowly closes her fist.
-
-Every floating object freezes in place.
-
-The bully descends rapidly but decelerates smoothly, landing safely on her knees on the rooftop.
-
-The necklace floats gently into the heroine's open palm.
-
-She steps down the vertical wall, returning to normal gravity.
-
-Her electric-pink eyes fade back to their natural color.
-
-She puts the necklace back around her neck.
-
-The bully remains kneeling, trembling.
-
-HEROINE (whispering): "Never touch what's mine."
-
-FINAL SHOT:
-
-Low-angle close-up of the heroine walking confidently past the camera.
-
-Behind her, every floating object drops simultaneously onto the rooftop with an enormous metallic crash.
-
-She doesn't look back.
-
-CUT TO BLACK.
-
-CINEMATOGRAPHY
-
-Aggressive handheld tracking during the confrontation.
-
-Extreme macro close-up of the necklace falling.
-
-Slow dramatic push-in during electric-pink eye activation.
-
-Sudden whip pans following telekinetic movements.
-
-Wide-angle shots revealing the rooftop gravity storm.
-
-Smooth rotating camera movement during the vertical wall walk.
-
-Low-angle hero framing during the final confrontation.
-
-Realistic motion blur, natural lighting, authentic skin textures, and physically convincing movement.
-
-SOUND DESIGN
-
-Natural rooftop wind, distant Seoul traffic, footsteps against concrete, realistic fabric movement, metallic rattling, frightened breathing, subtle supernatural pressure pulses, powerful bass impacts, and crashing rooftop equipment.
-Build tension through silence immediately before the heroine activates her powers.
-Korean dialogue with natural delivery and accurate lip synchronization.
-STRICT REQUIREMENTS
-Preserve the heroine's exact facial identity and outfit throughout.
-Her eyes must glow subtle electric pink only when activating telekinesis.
-The necklace must visibly stop falling in midair before returning to her.
-Telekinetic objects must respond with believable mass, momentum, and collisions.
-
-The bully must remain physically consistent and visibly frightened.
-
-The heroine must walk vertically along the concrete wall, not simply float beside it.
-
-The vertical wall walk must be shown clearly in a wide shot.
-
-No excessive glowing energy, lightning beams, magical symbols, or cartoon effects.
-
-The bully must remain safely above the rooftop and never fall over the edge.
-
-Maintain escalating tension, emotional intensity, supernatural dominance, and a spectacular final payoff.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Lightning Warrior and Spatial Rupture on an Abandoned Battlefield
-
-> This Ai video is absolutely masterpiece 🤯 Created with Seedance 2.5 on @lovart_ai Prompt: 16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTI…
-
-[<img src="https://media.goodcase.ai/cases/0e7af393b7ea.jpg" width="600" alt="Lightning Warrior and Spatial Rupture on an Abandoned Battlefield">](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @itxabdullaa | **Source:** [Original](https://x.com/itxabdullaa/status/2106702315239686628) | **Published:** 2026-10-04 | **Heat:** 78
-
-<details>
-<summary><b>Full prompt (19 lines, click to expand)</b></summary>
-
-```
-16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTIC PHYSICS
-
-A dark-fantasy warrior with long disheveled black hair, cold expression, tattered gray-white scarf, shattered dark cloak and white-gray outfit awakens an abandoned battlefield.
-
-0–5s: A tiny white-blue spark triggers the entire environment. Stones vibrate, cracks spread, invisible pressure bends the air, and a colossal thunderstorm ring forms overhead.
-
-5–10s: Shadow distortions hunt him. He explodes into motion—wall runs, aerial redirects, lightning-charged impacts and massive shockwaves destroy the ruins. Black smoke afterimages trail every movement.
-
-10–15s: He moves across falling debris at impossible speed. Multiple motion afterimages surround the battlefield before collapsing back into him, compressing into one devastating lightning strike.
-
-15–20s: The battlefield transforms into a rotating storm cage. Debris, dust, fabric and lightning orbit him. Everything suddenly compresses inward as a giant spatial crack opens behind him.
-
-20–27s: He launches into the fractured dimension, moving through floating ruins with punches, elbows and aerial strikes. All accumulated energy converges into a tiny, hyper-dense white-blue thunderstorm sphere.
-
-27–30s: Absolute silence. One spark. His eyes open. He unleashes the WORLD-SPLITTING STRIKE—a colossal white-blue shockwave tears through reality, followed by a black-and-white spatial implosion.
-
-Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
-
-STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Three Children Search for a Mysterious Station Beneath the Snow
-
-> A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise. Seedance 2.5 on @SJinn_Agent Prompt A 30-seco…
-
-[<img src="https://media.goodcase.ai/cases/79e519115cd2.jpg" width="600" alt="Three Children Search for a Mysterious Station Beneath the Snow">](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2099820658880548879) | **Published:** 2026-09-15 | **Heat:** 78
-
-**Stability:** 82/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 81.5) · [output](https://media.goodcase.ai/retests/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (35 lines, click to expand)</b></summary>
-
-```
-A mysterious train station is buried beneath the snow, and three friends are determined to find it before sunrise.
-
-Seedance 2.5 on @SJinn_Agent 
-
-Prompt
-
-A 30-second cinematic third-person open-world game trailer in a photorealistic Japanese animated-film aesthetic, blending hand-painted winter fantasy, luminous skies, and modern AAA game presentation.
-
-A snowbound mountain village in late January. Three elementary-school children: a boy in a red knit cap, cream winter jacket, navy snow pants, and blue backpack as the player character; a boy in a green puffer vest and wool scarf; and a girl with a ponytail, lavender coat, pink backpack, and knitted mittens.
-
-Soft blue winter light, sparkling snow crystals, visible breath, drifting powder, warm window glow, distant mountain peaks, frozen streams, and quiet snowfall. Always keep a GTA-style HUD: top-left snowflake icon + green/blue stamina and warmth bars, top-center objective banner in Japanese, top-right date/time (1月27日), bottom-left circular mini-map with player arrow, bottom-right context button prompts (走る / 調べる / のぼる / ライト). Smooth tracking camera behind the player, slight handheld game-feel, 24fps cinematic motion, high-fidelity skin, wool, snow, ice, wood, and foliage.
-
-Sequence:
-
-0–4s: Snow-covered mountain village street between wooden houses, glowing paper windows, stacked firewood, snow-covered roofs, and tall cedar trees. The player boy races downhill on a wooden sled while another child speeds ahead, kicking up powder. The girl waves from the roadside. They pass a small shrine gate half-buried in snow as the camera sweeps toward a vast frozen valley. Objective: 「雪山のてっぺんまで競争！」 Time 10:24.
-
-5–8s: Cut to a frozen waterfall deep in a cedar forest. Massive blue ice columns hang over a crystal-clear pool, with tiny trapped bubbles beneath the surface. The player stands on slippery rocks, peering into the ice. A strange warm glow moves behind the frozen waterfall, and a question-mark prompt appears. Objective: 「凍った滝の秘密を探せ」 Time 14:10. Camera glides close to the ice, briefly dipping beneath the translucent frozen pool as a mysterious shadow passes below.
-
-9–12s: Secret treehouse base built inside an enormous snow-covered cedar overlooking the village and mountain slopes. Inside, a glowing kotatsu, steaming mugs of cocoa, folded blankets, paper snow maps, and small lanterns create a cozy refuge. The player climbs a wooden ladder while the two friends sit around a hand-drawn map. A glowing red “?” marks an impossible railway line leading to a station that does not appear on any village map. Objective: 「秘密基地をあたためよう」 Time 16:32.
-
-13–17s: Blue-hour winter festival in the village square. Snow lanterns line the paths, children carry warm taiyaki, a small yakiimo stall sends smoke into the cold air, and distant taiko drums echo between the mountains. The three children race through the falling snow, then stop at an old wooden sign reading 「この先、存在しない駅」 pointing toward a closed mountain trail. Far above, a faint train whistle sounds through the clouds. Objective: 「存在しない駅への道を探そう」 Time 19:15.
-
-18–23s: Night. Abandoned railway platform hidden in a narrow mountain pass. Rusted rails disappear beneath snowdrifts, a broken sign reads 「立入禁止」, and the moon shines over silent pine trees. The three children approach cautiously. The player switches on a flashlight; its beam cuts through falling snow and mist. At the end of the tracks, a warm amber platform light flickers where no station should be. A distant train bell rings once. Objective: 「夜の線路を追え」 Time 20:08. Quiet, mysterious, and slightly eerie, but wholesome and magical rather than frightening.
-
-24–27s: Dawn at a high mountain overlook. The children stand beside a snow-covered signal tower as golden sunlight breaks across the peaks. The snow suddenly shifts, revealing the roof of an entire buried railway station beneath the mountain. An old station clock begins ticking. A notification appears: 「雪の下の駅を発見！」 Time 05:12. Location: 雪見ヶ峰.
-
-28–30s: Title card over the same sunrise mountain valley, with the newly revealed station glowing beneath the snow:
-
-ぼくらの冬休み
-
-— 雪の下の駅 —
-
-小さな字幕: 冬休みは、まだ終わらない。
-
-Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an impossible railway mystery that never becomes horror. Audio: excited Japanese children’s chatter, sled runners scraping over snow, wind through cedar trees, distant taiko drums, soft train bells, crackling firewood, gentle piano and strings swelling during the buried-station reveal. No violence, no adult characters in focus.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Static-Awakened Girl Fights Back in a School Gym
-
-> Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
-
-[<img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="600" alt="Static-Awakened Girl Fights Back in a School Gym">](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2091388398153994395) | **Published:** 2026-08-23 | **Heat:** 78
-
-**Stability:** 80/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.4) · [output](https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (25 lines, click to expand)</b></summary>
-
-```
-30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
-
-SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
-
-00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
-
-03–06: He swings again.
-
-06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
-
-09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
-
-12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
-
-17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
-
-22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
-
-27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
-
-COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
-
-STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
-
-CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

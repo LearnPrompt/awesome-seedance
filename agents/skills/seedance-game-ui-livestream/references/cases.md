@@ -91,7 +91,7 @@ SINGLE CONTINUOUS SHOT（00:00-00:29）
 
 ## E2 · The 5 PM Office Escape
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 91
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 90
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-leaving-work-at-five-shouldn-t-require-stealth-mode-but-her-boss-made-it-a-mis-8495c8c9337e) · [finished media](https://media.goodcase.ai/cases/45855b91fd6e.mp4) · [poster](https://media.goodcase.ai/cases/199c37ba7f84.jpg) · [original source](https://x.com/Just_sharon7/status/2099440985872933199)
 - Summary: Leaving work at five shouldn’t require stealth mode, but her boss made it a mission. Seedance 2.5 0n @SJinn_Agent Prompt SCENE CONTEXT A 30-second realistic AAA…
 

@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 99
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 98
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-live-action-cinematic-revenge-comedy-video-set-in-a-seoul-subway-stati-ce9067a15dcc) · [finished media](https://media.goodcase.ai/cases/3611dc73a4c9.mp4) · [poster](https://media.goodcase.ai/cases/e7a04f6d6d46.jpg) · [original source](https://x.com/AIwithSynthia/status/2108760866422415701)
 - Summary: Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
 
