@@ -111,6 +111,7 @@ test("buildStatsSnapshot exposes the numbers the badges and hero read", () => {
 
 test("renderBadges uses shields dynamic-json badges that read data/stats.json from main", () => {
   const en = renderBadges("en");
+  assert.match(en, /\]\(https:\/\/github\.com\/UnderleveledBuilder\/awesome-short-drama-skills\)/); // 被收录的清单，静态徽章
   assert.match(en, /img\.shields\.io\/badge\/dynamic\/json\?url=https%3A%2F%2Fraw\.githubusercontent\.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats\.json&query=%24\.cases/);
   assert.match(en, /query=%24\.retestRuns/);
   assert.match(en, /query=%24\.templates/);
