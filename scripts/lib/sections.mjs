@@ -118,7 +118,7 @@ export function renderBadges(lang, anchors = {}, opts = {}) {
     "[![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE)",
     "[![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/)",
     "[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md)",
-    "[![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/listed%20in-Awesome%20Short%20Drama%20Skills-lightgrey.svg?style=flat-square)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)",
+    "[![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)",
   ].join(" ");
 }
 
