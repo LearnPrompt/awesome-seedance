@@ -102,7 +102,7 @@ export function renderStandaloneSkillMd(template, skill, cases) {
   lines.push("");
   lines.push(`- ${STANDALONE_SKILL_MARKER} in [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) and refreshed daily; do not hand-edit an installed copy.`);
   lines.push("- Prompts in the reference file belong to their creators (linked on every card). Transfer the structure; do not present a close copy as original work.");
-  lines.push("- For the full library across every model, install the `goodcase` Skill from [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite).");
+  lines.push("- For the full library across every model, install the `goodcase` Skill from [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase).");
   return lines.join("\n") + "\n";
 }
 

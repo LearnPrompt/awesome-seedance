@@ -22,7 +22,7 @@
       "creator": null,
       "caseCount": 117,
       "creatorCount": 79,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261020/6ad4b41e000000000c009966/poster-cover.webp"
     },
@@ -42,7 +42,7 @@
       "creator": "Zyrellix",
       "caseCount": 6,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1r2e570",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1r2e570",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570",
       "cover": "https://media.goodcase.ai/cases/46f4c2c64145.jpg"
     },
@@ -62,7 +62,7 @@
       "creator": "laviniavelle",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1napzjr",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1napzjr",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr",
       "cover": "https://media.goodcase.ai/cases/2037ea91856a.jpg"
     },
@@ -82,7 +82,7 @@
       "creator": "itsSaira_1",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-18paelt",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-18paelt",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-18paelt",
       "cover": "https://media.goodcase.ai/cases/ce1fbc6b1c76.jpg"
     },
@@ -102,7 +102,7 @@
       "creator": "AvelyrahnAI",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1g5goov",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1g5goov",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov",
       "cover": "https://media.goodcase.ai/cases/d0acac113279.jpg"
     },
@@ -122,7 +122,7 @@
       "creator": "Aiwithmaha",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1picsey",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1picsey",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1picsey",
       "cover": "https://media.goodcase.ai/cases/d53a700bdc9f.jpg"
     },
@@ -142,7 +142,7 @@
       "creator": "Strength04_X",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-1sduwzc",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1sduwzc",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc",
       "cover": "https://media.goodcase.ai/cases/7cb039af9658.jpg"
     },
@@ -162,7 +162,7 @@
       "creator": "ZaraIrahh",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-ha1tt9",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-ha1tt9",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-ha1tt9",
       "cover": "https://media.goodcase.ai/cases/726954ddc20f.jpg"
     },
@@ -182,7 +182,7 @@
       "creator": "CharaspowerAI",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle-by-uaxh44",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-uaxh44",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44",
       "cover": "https://media.goodcase.ai/media/poster/case-1b3b8865bca8.jpg"
     },
@@ -202,7 +202,7 @@
       "creator": null,
       "caseCount": 107,
       "creatorCount": 56,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence",
       "url": "https://goodcase.ai/skills/pov-vlog-presence",
       "cover": "https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg"
     },
@@ -225,7 +225,7 @@
       "creator": "saniaspeaks_",
       "caseCount": 7,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-e2fac1",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-e2fac1",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-e2fac1",
       "cover": "https://media.goodcase.ai/media/poster/16mm-vlog-c8cfec0d8310.jpg"
     },
@@ -248,7 +248,7 @@
       "creator": "Strength04_X",
       "caseCount": 6,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1sduwzc",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1sduwzc",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1sduwzc",
       "cover": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
     },
@@ -271,7 +271,7 @@
       "creator": "ElsaSofia__AI",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1yyrk1e",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1yyrk1e",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1yyrk1e",
       "cover": "https://media.goodcase.ai/cases/160734a29699.jpg"
     },
@@ -294,7 +294,7 @@
       "creator": "johnAGI168",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1d090cw",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1d090cw",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1d090cw",
       "cover": "https://media.goodcase.ai/cases/35da6d19164d.jpg"
     },
@@ -317,7 +317,7 @@
       "creator": "doctorwasif",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1jqwyww",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1jqwyww",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1jqwyww",
       "cover": "https://media.goodcase.ai/cases/baaf41bb028a.jpg"
     },
@@ -340,7 +340,7 @@
       "creator": "ZaraIrahh",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-ha1tt9",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ha1tt9",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-ha1tt9",
       "cover": "https://media.goodcase.ai/cases/5211445033f3.jpg"
     },
@@ -363,7 +363,7 @@
       "creator": "AIwithkhan",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-wat8s8",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-wat8s8",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8",
       "cover": "https://media.goodcase.ai/media/poster/case-3bdeb046587d.jpg"
     },
@@ -383,7 +383,7 @@
       "creator": "Ciri_ai",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1en62on",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1en62on",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1en62on",
       "cover": "https://media.goodcase.ai/cases/c8aa498478f8.jpg"
     },
@@ -403,7 +403,7 @@
       "creator": "Just_sharon7",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-1wr1qau",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1wr1qau",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-1wr1qau",
       "cover": "https://media.goodcase.ai/cases/9502cf6c6407.jpg"
     },
@@ -423,7 +423,7 @@
       "creator": "oggii_0",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-2zdsi5",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-2zdsi5",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5",
       "cover": "https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-a473e1b2b456.jpg"
     },
@@ -446,7 +446,7 @@
       "creator": "techhalla",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-6moylp",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-6moylp",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-6moylp",
       "cover": "https://media.goodcase.ai/media/poster/90s-west-coast-documentary-realism.jpg"
     },
@@ -466,7 +466,7 @@
       "creator": "nawalsehar",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-ewg9kn",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ewg9kn",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-ewg9kn",
       "cover": "https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-97aa872cb79d.jpg"
     },
@@ -486,7 +486,7 @@
       "creator": "Goodmanprotocol",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence-by-v2wqfs",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-v2wqfs",
       "url": "https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs",
       "cover": "https://media.goodcase.ai/cases/d2a428b7016a.jpg"
     },
@@ -506,7 +506,7 @@
       "creator": null,
       "caseCount": 104,
       "creatorCount": 66,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
@@ -526,7 +526,7 @@
       "creator": "itxabdullaa",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-15zo1bq",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-15zo1bq",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq",
       "cover": "https://media.goodcase.ai/cases/9b3ea72a89b9.jpg"
     },
@@ -546,7 +546,7 @@
       "creator": "itsSaira_1",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-18paelt",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-18paelt",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-18paelt",
       "cover": "https://media.goodcase.ai/cases/5c410994d4f4.jpg"
     },
@@ -566,7 +566,7 @@
       "creator": "AIwithSynthia",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1ktgmlf",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1ktgmlf",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1ktgmlf",
       "cover": "https://media.goodcase.ai/cases/7e37d7f736d0.jpg"
     },
@@ -586,7 +586,7 @@
       "creator": "Aiwithmaha",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1picsey",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1picsey",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1picsey",
       "cover": "https://media.goodcase.ai/cases/f28efeb610bf.jpg"
     },
@@ -606,7 +606,7 @@
       "creator": "Just_sharon7",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1wr1qau",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1wr1qau",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau",
       "cover": "https://media.goodcase.ai/cases/0a766040d6e2.jpg"
     },
@@ -626,7 +626,7 @@
       "creator": "Xaroon_x",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-cle9yv",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-cle9yv",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv",
       "cover": "https://media.goodcase.ai/cases/6170bf3f7274.jpg"
     },
@@ -646,7 +646,7 @@
       "creator": "itxsarmadd",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-d5g808",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-d5g808",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-d5g808",
       "cover": "https://media.goodcase.ai/cases/29b22d6527af.jpg"
     },
@@ -669,7 +669,7 @@
       "creator": "haruuraeadss",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography-by-1lcb8j2",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1lcb8j2",
       "url": "https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2",
       "cover": "https://media.goodcase.ai/media/poster/case-16429da4be7b.jpg"
     },
@@ -689,7 +689,7 @@
       "creator": null,
       "caseCount": 74,
       "creatorCount": 47,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk",
       "url": "https://goodcase.ai/skills/travel-city-walk",
       "cover": "https://media.goodcase.ai/media/poster/90s-west-coast-documentary-realism.jpg"
     },
@@ -709,7 +709,7 @@
       "creator": "CaliraVal",
       "caseCount": 6,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1uczxsi",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1uczxsi",
       "url": "https://goodcase.ai/skills/travel-city-walk-by-1uczxsi",
       "cover": "https://media.goodcase.ai/media/poster/caliraval-minimax-h3-ai-c1907f5f9753.jpg"
     },
@@ -729,7 +729,7 @@
       "creator": "Zyrellix",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1r2e570",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570",
       "url": "https://goodcase.ai/skills/travel-city-walk-by-1r2e570",
       "cover": "https://media.goodcase.ai/cases/4dd0a5c8d2db.jpg"
     },
@@ -749,7 +749,7 @@
       "creator": "ayzalnooor24521",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1tmw5t",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t",
       "url": "https://goodcase.ai/skills/travel-city-walk-by-1tmw5t",
       "cover": "https://media.goodcase.ai/cases/574e210988b7.jpg"
     },
@@ -769,7 +769,7 @@
       "creator": "noorlewisx",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-1oyim0r",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r",
       "url": "https://goodcase.ai/skills/travel-city-walk-by-1oyim0r",
       "cover": "https://media.goodcase.ai/media/poster/noorlewisx-seedance-ai-3a8b37309451.jpg"
     },
@@ -789,7 +789,7 @@
       "creator": "nawalsehar",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk-by-ewg9kn",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn",
       "url": "https://goodcase.ai/skills/travel-city-walk-by-ewg9kn",
       "cover": "https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-531c19980c39.jpg"
     },
@@ -809,7 +809,7 @@
       "creator": null,
       "caseCount": 73,
       "creatorCount": 46,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
+      "install": "npx skills add LearnPrompt/goodcase --skill product-ad-shot-design",
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
       "cover": "https://media.goodcase.ai/cases/bbddd507c773.jpg"
     },
@@ -832,7 +832,7 @@
       "creator": "johnAGI168",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1d090cw",
+      "install": "npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1d090cw",
       "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1d090cw",
       "cover": "https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg"
     },
@@ -855,7 +855,7 @@
       "creator": "laviniavelle",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1napzjr",
+      "install": "npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1napzjr",
       "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr",
       "cover": "https://media.goodcase.ai/cases/5f156f26b598.jpg"
     },
@@ -875,7 +875,7 @@
       "creator": "noorlewisx",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design-by-1oyim0r",
+      "install": "npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1oyim0r",
       "url": "https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r",
       "cover": "https://media.goodcase.ai/cases/32562e597fd2.jpg"
     },
@@ -895,7 +895,7 @@
       "creator": null,
       "caseCount": 69,
       "creatorCount": 37,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
+      "install": "npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
       "cover": "https://media.goodcase.ai/cases/ebfd507b2bc2.jpg"
     },
@@ -915,7 +915,7 @@
       "creator": "Zarnab_with_Ai",
       "caseCount": 15,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-18gc2qf",
+      "install": "npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-18gc2qf",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf",
       "cover": "https://media.goodcase.ai/cases/f6f7ba3e361b.jpg"
     },
@@ -935,7 +935,7 @@
       "creator": "ayzalnooor24521",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead-by-1tmw5t",
+      "install": "npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-1tmw5t",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t",
       "cover": "https://media.goodcase.ai/cases/b40c2bf69d33.jpg"
     },
@@ -955,7 +955,7 @@
       "creator": null,
       "caseCount": 61,
       "creatorCount": 48,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency",
+      "install": "npx skills add LearnPrompt/goodcase --skill animation-style-consistency",
       "url": "https://goodcase.ai/skills/animation-style-consistency",
       "cover": "https://media.goodcase.ai/cases/34deb8da196d.jpg"
     },
@@ -978,7 +978,7 @@
       "creator": "noorwithwifi",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1diwzmp",
+      "install": "npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1diwzmp",
       "url": "https://goodcase.ai/skills/animation-style-consistency-by-1diwzmp",
       "cover": "https://media.goodcase.ai/media/poster/asmr-b99180475dc6.jpg"
     },
@@ -998,7 +998,7 @@
       "creator": "haruuraeadss",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1lcb8j2",
+      "install": "npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lcb8j2",
       "url": "https://goodcase.ai/skills/animation-style-consistency-by-1lcb8j2",
       "cover": "https://media.goodcase.ai/media/poster/case-79acf1a3e8a6.jpg"
     },
@@ -1018,7 +1018,7 @@
       "creator": "yourPlugAI",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency-by-1lqimyw",
+      "install": "npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lqimyw",
       "url": "https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw",
       "cover": "https://media.goodcase.ai/cases/5286df05f1e3.jpg"
     },
@@ -1038,7 +1038,7 @@
       "creator": null,
       "caseCount": 49,
       "creatorCount": 35,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill retro-dv-home-video",
       "url": "https://goodcase.ai/skills/retro-dv-home-video",
       "cover": "https://media.goodcase.ai/media/poster/16mm-analog-morning-vlog.jpg"
     },
@@ -1058,7 +1058,7 @@
       "creator": "oggii_0",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-2zdsi5",
+      "install": "npx skills add LearnPrompt/goodcase --skill retro-dv-home-video-by-2zdsi5",
       "url": "https://goodcase.ai/skills/retro-dv-home-video-by-2zdsi5",
       "cover": "https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-8f11307a9239.jpg"
     },
@@ -1078,7 +1078,7 @@
       "creator": "techhalla",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-6moylp",
+      "install": "npx skills add LearnPrompt/goodcase --skill retro-dv-home-video-by-6moylp",
       "url": "https://goodcase.ai/skills/retro-dv-home-video-by-6moylp",
       "cover": "https://media.goodcase.ai/media/poster/90s-diner-time-freeze-effect.jpg"
     },
@@ -1098,7 +1098,7 @@
       "creator": "AIwithkhan",
       "caseCount": 3,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video-by-wat8s8",
+      "install": "npx skills add LearnPrompt/goodcase --skill retro-dv-home-video-by-wat8s8",
       "url": "https://goodcase.ai/skills/retro-dv-home-video-by-wat8s8",
       "cover": "https://media.goodcase.ai/media/poster/aiwithkhan-seedance-ai-9a5c5cbd518b.jpg"
     },
@@ -1118,7 +1118,7 @@
       "creator": null,
       "caseCount": 48,
       "creatorCount": 37,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait",
+      "install": "npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait",
       "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
       "cover": "https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg"
     },
@@ -1138,7 +1138,7 @@
       "creator": null,
       "caseCount": 47,
       "creatorCount": 25,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
+      "install": "npx skills add LearnPrompt/goodcase --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
       "cover": "https://media.goodcase.ai/cases/faca8b99131c.jpg"
     },
@@ -1158,7 +1158,7 @@
       "creator": "doctorwasif",
       "caseCount": 8,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1jqwyww",
+      "install": "npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1jqwyww",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww",
       "cover": "https://media.goodcase.ai/media/poster/case-3b1796c66ab4.jpg"
     },
@@ -1178,7 +1178,7 @@
       "creator": "AIwithSynthia",
       "caseCount": 8,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-1ktgmlf",
+      "install": "npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1ktgmlf",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf",
       "cover": "https://media.goodcase.ai/cases/17336ecf1069.jpg"
     },
@@ -1198,7 +1198,7 @@
       "creator": "auqibhabib",
       "caseCount": 5,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short-by-43hd7f",
+      "install": "npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-43hd7f",
       "url": "https://goodcase.ai/skills/horror-suspense-short-by-43hd7f",
       "cover": "https://media.goodcase.ai/cases/c3e3f99fd4c6.jpg"
     },
@@ -1218,7 +1218,7 @@
       "creator": null,
       "caseCount": 42,
       "creatorCount": 30,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
+      "install": "npx skills add LearnPrompt/goodcase --skill twist-comedy-skit",
       "url": "https://goodcase.ai/skills/twist-comedy-skit",
       "cover": "https://media.goodcase.ai/media/poster/2d-sticker-capybara-kitchen-prank.jpg"
     },
@@ -1238,7 +1238,7 @@
       "creator": "Ciri_ai",
       "caseCount": 4,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit-by-1en62on",
+      "install": "npx skills add LearnPrompt/goodcase --skill twist-comedy-skit-by-1en62on",
       "url": "https://goodcase.ai/skills/twist-comedy-skit-by-1en62on",
       "cover": "https://media.goodcase.ai/cases/c8aa498478f8.jpg"
     },
@@ -1258,7 +1258,7 @@
       "creator": null,
       "caseCount": 42,
       "creatorCount": 38,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story",
+      "install": "npx skills add LearnPrompt/goodcase --skill process-transformation-story",
       "url": "https://goodcase.ai/skills/process-transformation-story",
       "cover": "https://media.goodcase.ai/cases/11dbc9caba04.jpg"
     },
@@ -1278,7 +1278,7 @@
       "creator": null,
       "caseCount": 42,
       "creatorCount": 36,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
+      "install": "npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg"
     },
@@ -1298,7 +1298,7 @@
       "creator": null,
       "caseCount": 35,
       "creatorCount": 28,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill food-asmr",
+      "install": "npx skills add LearnPrompt/goodcase --skill food-asmr",
       "url": "https://goodcase.ai/skills/food-asmr",
       "cover": "https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg"
     },
@@ -1318,7 +1318,7 @@
       "creator": null,
       "caseCount": 35,
       "creatorCount": 26,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
+      "install": "npx skills add LearnPrompt/goodcase --skill vehicles-at-speed",
       "url": "https://goodcase.ai/skills/vehicles-at-speed",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
@@ -1338,7 +1338,7 @@
       "creator": null,
       "caseCount": 31,
       "creatorCount": 19,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
+      "install": "npx skills add LearnPrompt/goodcase --skill 3d-cartoon-character-short",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
       "cover": "https://media.goodcase.ai/media/poster/3d-5cb0f8fdaefb.jpg"
     },
@@ -1358,7 +1358,7 @@
       "creator": "Zarnab_with_Ai",
       "caseCount": 9,
       "creatorCount": 1,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short-by-18gc2qf",
+      "install": "npx skills add LearnPrompt/goodcase --skill 3d-cartoon-character-short-by-18gc2qf",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short-by-18gc2qf",
       "cover": "https://media.goodcase.ai/cases/0a0347f9afe3.jpg"
     },
@@ -1378,7 +1378,7 @@
       "creator": null,
       "caseCount": 19,
       "creatorCount": 17,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill cinematic-drama-scene",
+      "install": "npx skills add LearnPrompt/goodcase --skill cinematic-drama-scene",
       "url": "https://goodcase.ai/skills/cinematic-drama-scene",
       "cover": "https://media.goodcase.ai/media/poster/abulu8-seedance-ai-fe02d3785b12.jpg"
     },
@@ -1398,7 +1398,7 @@
       "creator": null,
       "caseCount": 11,
       "creatorCount": 9,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill stage-dance-music-video",
       "url": "https://goodcase.ai/skills/stage-dance-music-video",
       "cover": "https://media.goodcase.ai/cases/a682179bc0fa.jpg"
     },
@@ -1418,7 +1418,7 @@
       "creator": null,
       "caseCount": 10,
       "creatorCount": 9,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill storyboard-grid-to-video",
       "url": "https://goodcase.ai/skills/storyboard-grid-to-video",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg"
     },
@@ -1438,7 +1438,7 @@
       "creator": null,
       "caseCount": 7,
       "creatorCount": 7,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill game-ui-livestream",
+      "install": "npx skills add LearnPrompt/goodcase --skill game-ui-livestream",
       "url": "https://goodcase.ai/skills/game-ui-livestream",
       "cover": "https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-game-realtime-magnetriot.jpg"
     },
@@ -1458,7 +1458,7 @@
       "creator": null,
       "caseCount": 6,
       "creatorCount": 6,
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill code-rendered-explainer-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill code-rendered-explainer-video",
       "url": "https://goodcase.ai/skills/code-rendered-explainer-video",
       "cover": "https://media.goodcase.ai/cases/96aa6c2a97c3.jpg"
     }
