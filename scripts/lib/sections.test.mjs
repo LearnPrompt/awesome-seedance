@@ -131,7 +131,7 @@ test("renderHeroSvg is a self-contained SVG with the four numbers and no externa
   assert.ok(svg.trim().endsWith("</svg>"));
   assert.match(svg, new RegExp(`>${snapshot.cases}<`));
   assert.match(svg, new RegExp(`>${snapshot.retestRuns}<`));
-  assert.match(svg, />VERIFIED CASES</);
+  assert.match(svg, />SOURCE-CHECKED CASES</);
   assert.match(svg, />AI VIDEO SKILLS</);
   assert.match(svg, />25</);
   assert.doesNotMatch(svg, /<image|<style|http:\/\/[^w]|@import/);

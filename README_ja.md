@@ -1,16 +1,16 @@
 [English](./README.md) | [中文](./README_zh.md) | **[日本語](./README_ja.md)**
 
-[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)
+[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance：出典確認済みの Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** 1056 ケースをすべて元投稿と照合、495 回のクロスモデル再テスト、27 個の再利用可能テンプレート、87 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 2236 件の検証済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
+**出典確認済みの Seedance 2.5 / 2.0 プロンプトライブラリ。** 1056 ケースをすべて元投稿と照合、495 回のクロスモデル再テスト、27 個の再利用可能テンプレート、87 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 2236 件の出典確認済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
 
 <img src="./assets/demo/awesome-seedance-demo.webp" width="100%" alt="44 秒のウォークスルー：スタイルウォール、テンプレート一覧、Skill、出典と全文プロンプト、クロスモデル再テスト">
 
-プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)
+プロンプト全文付きの出典確認済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)
 
 元投稿、テンプレート、再テスト記録が役立ったら、リポジトリに Star を付けて、[次に再テストしてほしいケースやモデル](https://github.com/LearnPrompt/awesome-seedance/issues)を教えてください。
 
@@ -40,7 +40,7 @@ AI 動画が初めてでも、この 5 ステップで自分のクリップが�
 | 4 | 参照画像と一緒に任意の AI チャット（ChatGPT、Claude、Gemini）に送ると、完成したプロンプトが返ってきます。 |
 | 5 | そのプロンプトを Seedance（Dreamina / 即夢）に貼って生成します。モデルの詳細は [Seedance 2.5 公式ページ](https://seed.bytedance.com/en/seedance2_5)をご覧ください。うまくいかないときはテンプレートの落とし穴を確認して再実行します。 |
 
-**テンプレートと Skill、どちらを使う？** テンプレートは 1056 件の検証済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。
+**テンプレートと Skill、どちらを使う？** テンプレートは 1056 件の出典確認済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。
 
 |  | [プロンプトテンプレート](#-カテゴリ別プロンプトテンプレート) | [Skill](#-skill) |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ AI 動画が初めてでも、この 5 ステップで自分のクリップが�
 
 ## 🧩 カテゴリ別プロンプトテンプレート
 
-作りたいクリップの種類ごとに 27 個のテンプレート。980 件の検証済みケースから抽出しました。絵柄で選んでテンプレートを開き、ブロックをコピーして [角括弧] の部分を自分の内容に置き換え、任意の AI チャットに渡してください。一覧は[テンプレート索引](./docs/templates/en/README.md)（英語）にあります。
+作りたいクリップの種類ごとに 27 個のテンプレート。980 件の出典確認済みケースから抽出しました。絵柄で選んでテンプレートを開き、ブロックをコピーして [角括弧] の部分を自分の内容に置き換え、任意の AI チャットに渡してください。一覧は[テンプレート索引](./docs/templates/en/README.md)（英語）にあります。
 
 ### 🧱 Structural foundations（テンプレート 3 件）
 
@@ -297,7 +297,7 @@ AI 動画 Skill は合計 87 個です。goodcase.ai の 71 個（公式 21 個 
 
 **全エントリに完全な出典。** 作者、元投稿リンク、公開日、そして同一プラットフォーム上の公開ケースにおける相対パーセンタイルであるヒートスコア。ランクインしなかったものはここにありません。
 
-**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実証済みの構造から Seedance プロンプトを書きます。
+**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実例から抽出した構造で Seedance プロンプトを書きます。
 
 ## 統計
 

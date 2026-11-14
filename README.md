@@ -1,16 +1,16 @@
 **[English](./README.md)** | [中文](./README_zh.md) | [日本語](./README_ja.md)
 
-[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)
+[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance: source-checked Seedance prompts, cross-model retests, templates and an agent skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Verified Seedance 2.5 / 2.0 prompt library.** 1056 cases checked against their original posts, 495 cross-model retests, 27 reusable templates, and 87 installable AI-video Skills. The case library draws from goodcase.ai's 2236 verified AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
+**Source-checked Seedance 2.5 / 2.0 prompt library.** 1056 cases checked against their original posts, 495 cross-model retests, 27 reusable templates, and 87 installable AI-video Skills. The case library draws from goodcase.ai's 2236 source-checked AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates-by-category) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#-skills) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
 
 <img src="./assets/demo/awesome-seedance-demo.webp" width="100%" alt="44-second walkthrough: style wall, template catalog, Skills, source and full prompt, cross-model retest">
 
-More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)
+More source-checked AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)
 
 If these sources, templates or retest notes help your work, star this repository and [suggest a case or model to retest next](https://github.com/LearnPrompt/awesome-seedance/issues).
 
@@ -40,7 +40,7 @@ New to AI video? Follow these five steps and you will have your own clip. Nothin
 | 4 | Send it to any AI chat (ChatGPT, Claude, Gemini) along with your reference images. You get back a finished prompt. |
 | 5 | Paste that prompt into Seedance (Dreamina / Jimeng) and generate. See the [official Seedance 2.5 model page](https://seed.bytedance.com/en/seedance2_5) for details. If it looks off, read the template's pitfalls and re-run. |
 
-**Templates or Skills?** Templates are distilled from 1056 verified cases. Skills can apply those structures or guide other parts of production.
+**Templates or Skills?** Templates are distilled from 1056 source-checked cases. Skills can apply those structures or guide other parts of production.
 
 |  | [Prompt templates](#-prompt-templates-by-category) | [Skills](#-skills) |
 | --- | --- | --- |
@@ -53,7 +53,7 @@ Just browsing? Go to [Top 30 by heat](#-top-30-by-heat) or [all cases](#-all-pro
 
 ## 🧩 Prompt Templates by Category
 
-27 templates, one per kind of clip, distilled from 980 verified cases. Pick the look you want, open its template, copy the block, swap the [bracketed] parts for your own subject, and hand it to any AI chat. Browse them all in the [template index](./docs/templates/en/README.md).
+27 templates, one per kind of clip, distilled from 980 source-checked cases. Pick the look you want, open its template, copy the block, swap the [bracketed] parts for your own subject, and hand it to any AI chat. Browse them all in the [template index](./docs/templates/en/README.md).
 
 ### 🧱 Structural foundations (3 templates)
 
@@ -291,13 +291,13 @@ This README is an index. The full experience lives at [goodcase.ai](https://good
 
 ## Why this list
 
-**Human-verified against the source.** Every prompt here was checked against the creator's original post. Prompts reverse-engineered from the output video only, with no source and no submission, are rejected outright, per [goodcase.ai's collection standards](https://goodcase.ai/standards?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=why) (in force since 2026-08-05).
+**Human-checked against the source.** Every prompt here was checked against the creator's original post. Prompts reverse-engineered from the output video only, with no source and no submission, are rejected outright, per [goodcase.ai's collection standards](https://goodcase.ai/standards?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=why) (in force since 2026-08-05).
 
 **Re-run on a second model.** Most cases have been re-generated on another video model, with the verdict, score and output published. See [Cross-model retests](#-cross-model-retests).
 
 **Full provenance on every entry.** Author, original post link, publish date, and a heat score, a relative percentile among published cases on the same platform. If it didn't rank, it isn't here.
 
-**Ships as an installable Agent Skill.** `npx seedance-prompt-library install` drops a template library straight into Claude Code / Codex so your agent writes Seedance prompts from proven structures, not guesses.
+**Ships as an installable Agent Skill.** `npx seedance-prompt-library install` drops a template library straight into Claude Code / Codex so your agent writes Seedance prompts from structures distilled from real cases, not guesses.
 
 ## Statistics
 

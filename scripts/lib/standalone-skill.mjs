@@ -41,7 +41,7 @@ export function renderStandaloneSkillMd(template, skill, cases) {
   lines.push(pickLang(template.description, "en"));
   lines.push("");
   lines.push(
-    `This Skill carries one prompt structure distilled from ${cases.length} human-verified Seedance cases on [goodcase.ai](https://goodcase.ai). ` +
+    `This Skill carries one prompt structure distilled from ${cases.length} source-checked Seedance cases on [goodcase.ai](https://goodcase.ai). ` +
       "It is a sibling of `seedance-prompt-library` (all templates in one Skill); install this one when you only want this kind of clip. " +
       "Do not invent structure from general video-generation knowledge: follow the structure below and ground the draft in one anchor case from `references/cases.md`."
   );
@@ -118,7 +118,7 @@ export function renderStandaloneCasesMd(template, skill, cases, limit = STANDALO
   const lines = [];
   lines.push(`# Case evidence · ${en}`);
   lines.push("");
-  lines.push(`${cases.length} verified cases are filed under this template in awesome-seedance; the ${shown.length} hottest are below, full prompts included. Pick one as the anchor before drafting.`);
+  lines.push(`${cases.length} source-checked cases are filed under this template in awesome-seedance; the ${shown.length} hottest are below, full prompts included. Pick one as the anchor before drafting.`);
   lines.push("");
   lines.push("Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.");
   lines.push("");

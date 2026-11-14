@@ -1,11 +1,11 @@
 ---
 name: seedance-prompt-library
-description: Verified prompt templates and structures for Seedance 2.5 / 2.0 video generation, distilled from the highest-performing published cases on goodcase.ai. Use when the user asks to write, revise, or review a Seedance video prompt, or asks how to prompt Seedance for a specific kind of shot (narrative short, ad/commercial, UGC talk-to-camera, dialogue with lip-sync, action, product reveal, retro home video, travel film, pet or animal lead, comedy skit, horror, fantasy or sci-fi spectacle, 3D cartoon, car spot, fashion film, sports, storyboard image to video, and similar). Also use when the user names Seedance, 即梦视频, or Seedance 2.5/2.0 directly.
+description: Prompt templates and structures for Seedance 2.5 / 2.0 video generation, distilled from the highest-performing published cases on goodcase.ai. Use when the user asks to write, revise, or review a Seedance video prompt, or asks how to prompt Seedance for a specific kind of shot (narrative short, ad/commercial, UGC talk-to-camera, dialogue with lip-sync, action, product reveal, retro home video, travel film, pet or animal lead, comedy skit, horror, fantasy or sci-fi spectacle, 3D cartoon, car spot, fashion film, sports, storyboard image to video, and similar). Also use when the user names Seedance, 即梦视频, or Seedance 2.5/2.0 directly.
 ---
 
 # Seedance Prompt Library
 
-A structured template library for writing Seedance 2.5 / 2.0 video prompts, sourced from `references/style-library.md` — templates distilled from real, human-verified, high-heat cases on [goodcase.ai](https://goodcase.ai). Do not invent prompt structure from general video-generation knowledge when a matching template exists here; use the template.
+A structured template library for writing Seedance 2.5 / 2.0 video prompts, sourced from `references/style-library.md` — templates distilled from real, source-checked, high-heat cases on [goodcase.ai](https://goodcase.ai). Do not invent prompt structure from general video-generation knowledge when a matching template exists here; use the template.
 
 ## Workflow
 
