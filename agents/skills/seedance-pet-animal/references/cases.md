@@ -62,7 +62,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 ## E3 · A Cat's Cozy Day Filmed as a Selfie Vlog
 
-- Seedance 2.5 · creator: @ZaraIrahh · heat: 86 · stability: 70
+- Seedance 2.5 · creator: @ZaraIrahh · heat: 87 · stability: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg) · [original source](https://x.com/ZaraIrahh/status/2091385137133219971)
 - Summary: Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
 
@@ -184,7 +184,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 ## E5 · Underwater Animal Orchestra
 
 - Seedance 2.5 · creator: @thisismariaa25 · heat: 75 · stability: 80
-- Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/media/poster/underwater-animal-orchestra.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
+- Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/cases/650742381d92.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
 - Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
 
 ```text

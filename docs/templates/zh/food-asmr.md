@@ -11,7 +11,6 @@
 <table>
 <tr>
 <td align="center" valign="top"><a href="https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/cases/785fe38465cc.jpg" width="200" alt="夏日厨房里的日式猪排盖饭"></a></td>
-<td align="center" valign="top"><a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/cases/5cd3bc416625.jpg" width="200" alt="酒店房间深夜关东煮试吃"></a></td>
 <td align="center" valign="top"><a href="https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/media/poster/oggii-0-seedance-ai-5ed8176ffb89.jpg" width="200" alt="韩国女生辣味挑战崩溃实录"></a></td>
 <td align="center" valign="top"><a href="https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/cases/b7e548a0f7a9.jpg" width="200" alt="爆汁生煎包的酥脆出锅时刻"></a></td>
 </tr>
@@ -38,7 +37,7 @@
 - 吃的动作拆成小步，台词放在后面。关东煮那条她 `blows on it gently, then takes a bite`，嚼完看镜头，再说一句短话；辣味挑战把碗从最不辣排到最辣，每换一碗她的反应往上走一格。
 - 把菜和画面都圈住。猪排盖饭的排除段写了 `No unrelated ingredients or dishes. Katsudon only`，还禁掉字幕、界面、logo 和叠字，最后要求食物、手、餐具全程一致。
 
-**示例:** [#1](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1) [#2](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e) [#3](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) [#4](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6)
+**示例:** [#1](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1) [#2](https://goodcase.ai/cases/oggii-0-seedance-ai-5ed8176ffb89) [#3](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-15-second-food-video-in-the-exact-glossy-ult-6f3f25cbf4e6)
 
 **结构:**
 
@@ -66,12 +65,11 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 9 条，按热度）
+## 这一类的案例（已归类 8 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/785fe38465cc.jpg" width="160" alt="夏日厨房里的日式猪排盖饭"></a> | [夏日厨房里的日式猪排盖饭](https://goodcase.ai/cases/seedance-create-a-30-second-fast-paced-cinematic-japanese-anime-cooking-video-showing-th-236ad940a8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 98 |
-| <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/5cd3bc416625.jpg" width="160" alt="酒店房间深夜关东煮试吃"></a> | [酒店房间深夜关东煮试吃](https://goodcase.ai/cases/just-sharon7-seedance-ai-0a85559bbf5e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 82 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/b3cd9e34db34.jpg" width="160" alt="GPT Image 2 + Seedance 看饿人的吃播短片"></a> | [GPT Image 2 + Seedance 看饿人的吃播短片](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 65 |
 | <a href="https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/23cf7e177f01.jpg" width="160" alt="烈焰翻锅的餐厅主厨"></a> | [烈焰翻锅的餐厅主厨](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 56 |
 | <a href="https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/11f308ce415a.jpg" width="160" alt="乡村厨房蒜香炒青菜的制作过程"></a> | [乡村厨房蒜香炒青菜的制作过程](https://goodcase.ai/cases/seedance-2-5-create-a-cinematic-ultra-realistic-17-second-live-action-food-sequence-showing-6c9fa0508f22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 54 |

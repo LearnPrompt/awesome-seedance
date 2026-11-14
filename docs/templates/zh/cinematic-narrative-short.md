@@ -13,7 +13,6 @@
 <td align="center" valign="top"><a href="https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="200" alt="Nano Banana + Seedance 2.5 六十秒高中初恋微电影"></a></td>
 <td align="center" valign="top"><a href="https://goodcase.ai/cases/sci-fi-mystery-message-from-2100?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/media/poster/sci-fi-mystery-message-from-2100.jpg" width="200" alt="Sci-Fi Mystery Message from 2100"></a></td>
 <td align="center" valign="top"><a href="https://goodcase.ai/cases/mermaid-rescue-cinematic-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/media/poster/mermaid-rescue-cinematic-story.jpg" width="200" alt="Mermaid Rescue Cinematic Story"></a></td>
-<td align="center" valign="top"><a href="https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=strip"><img src="https://media.goodcase.ai/media/poster/youmind-1980s-slasher-yacht-octopus.jpg" width="200" alt="80 年代游艇章鱼杀手恐怖片段"></a></td>
 </tr>
 </table>
 
@@ -38,7 +37,7 @@
 - 反转要写成一幅画。2100 悬念那条落在云层分开、空城迪拜上方露出巨物，不是落在 shocking reveal 这个词上。
 - 情绪转折绑在光线变化上：golden hour 转 blue hour、冷蓝外景切暖色内景。灾难那条就在主角进入避难所的瞬间换了调色。
 
-**示例:** [#1](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951) [#2](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100) [#3](https://goodcase.ai/cases/mermaid-rescue-cinematic-story) [#4](https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus)
+**示例:** [#1](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951) [#2](https://goodcase.ai/cases/sci-fi-mystery-message-from-2100) [#3](https://goodcase.ai/cases/mermaid-rescue-cinematic-story)
 
 **结构:**
 
@@ -65,14 +64,14 @@
 | 2 | 发给任意 AI 对话，拿到一条按这个结构写好的 Seedance 提示语 |
 | 3 | 粘到 Seedance（即梦 / Dreamina）生成；效果不对先回头看常见坑，再改提示语重跑 |
 
-## 这一类的案例（已归类 71 条，按热度）
+## 这一类的案例（已归类 70 条，按热度）
 
 | 预览 | 案例 | 版本 | 热度 |
 | --- | --- | --- | --- |
 | <a href="https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/cda25299498a.jpg" width="160" alt="女子藏身地牢守护三只幼龙"></a> | [女子藏身地牢守护三只幼龙](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-66ee33ce05b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 96 |
 | <a href="https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/4727d059893d.jpg" width="160" alt="雨夜咖啡馆撞见恋人背叛"></a> | [雨夜咖啡馆撞见恋人背叛](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-emotional-live-action-scene-about-a-y-8c4cbeb0026b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 94 |
+| <a href="https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/29026eab0155.jpg" width="160" alt="海滩救援后的俏皮喷水"></a> | [海滩救援后的俏皮喷水](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 88 |
 | <a href="https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-a5f5eb84df64?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/1e9b51bf4919.jpg" width="160" alt="石屋炉火旁，女子悄悄喂养粉色幼龙"></a> | [石屋炉火旁，女子悄悄喂养粉色幼龙](https://goodcase.ai/cases/seedance-2-5-long-detailed-prompt-a5f5eb84df64?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 87 |
-| <a href="https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/29026eab0155.jpg" width="160" alt="海滩救援后的俏皮喷水"></a> | [海滩救援后的俏皮喷水](https://goodcase.ai/cases/seedance-for-a-moment-everything-stopped-aec7d1f285c4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 87 |
 | <a href="https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/9502cf6c6407.jpg" width="160" alt="Seedance 灾难现场拍还是跑：第一视角短片"></a> | [Seedance 灾难现场拍还是跑：第一视角短片](https://goodcase.ai/cases/just-sharon7-seedance-ai-9c64e481a51d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 85 |
 | <a href="https://goodcase.ai/cases/korean-fantasy-romance-drama?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/korean-fantasy-romance-drama.jpg" width="160" alt="Korean Fantasy Romance Drama"></a> | [Korean Fantasy Romance Drama](https://goodcase.ai/cases/korean-fantasy-romance-drama?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.0 | 85 |
 | <a href="https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/835ae0551b0e.jpg" width="160" alt="粉发女子在午夜公路爆炸前从容走来"></a> | [粉发女子在午夜公路爆炸前从容走来](https://goodcase.ai/cases/seedance-2-5-imagine-being-so-dangerous-that-even-explosions-are-just-background-effects-b4cf0b723ee1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 85 |
@@ -82,7 +81,7 @@
 | <a href="https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/cases/e1f01c1e6101.jpg" width="160" alt="老妇珍藏的红围巾与枫树下的初恋"></a> | [老妇珍藏的红围巾与枫树下的初恋](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 84 |
 | <a href="https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases"><img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="160" alt="Nano Banana + Seedance 2.5 六十秒高中初恋微电影"></a> | [Nano Banana + Seedance 2.5 六十秒高中初恋微电影](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) | 2.5 | 83 |
 
-其余 59 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) 上。
+其余 58 条在[完整画廊](../../gallery.zh.md)和 [goodcase.ai](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=templates&utm_content=cases) 上。
 
 ---
 

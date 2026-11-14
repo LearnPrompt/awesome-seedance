@@ -10,8 +10,8 @@ One file per template. Each holds a copy-ready block: replace the [bracketed] pa
 
 | Template | Use it for | Cases filed |
 | --- | --- | --- |
-| [Second-by-second timeline script](./timeline-shot-script.md) | Split the clip into contiguous timed segments, each carrying one shot type, one main action and its own sound line. The single most load-bearing structure in the corpus. | 9 |
-| [Reference image identity lock](./character-reference-lock.md) | Name every reference with a stable token, enumerate what to inherit from it, and separately enumerate what must not be inherited. The inherit-nothing-else clause is what separates working locks from broken ones. | 13 |
+| [Second-by-second timeline script](./timeline-shot-script.md) | Split the clip into contiguous timed segments, each carrying one shot type, one main action and its own sound line. The single most load-bearing structure in the corpus. | 7 |
+| [Reference image identity lock](./character-reference-lock.md) | Name every reference with a stable token, enumerate what to inherit from it, and separately enumerate what must not be inherited. The inherit-nothing-else clause is what separates working locks from broken ones. | 12 |
 | [Storyboard grid to video](./storyboard-grid-to-video.md) | Two stages: first a single-page sheet of numbered panels from an image model, then that sheet fed to Seedance as the reference. The sheet owns order, framing and timing, and the video prompt only has to connect the panels. | 14 |
 
 ## 📱 Realism and UGC
@@ -31,16 +31,16 @@ One file per template. Each holds a copy-ready block: replace the [bracketed] pa
 | [Cinematic product commercial shot list](./product-commercial-shotlist.md) | A polished 8 to 20 second ad: a stated commercial aesthetic up front, a numbered or timed shot breakdown in the middle, a hero frame at the end, and a keyword tail. | 44 |
 | [Process and transformation montage](./process-transformation-montage.md) | Cooking steps, renovation timelapse, blueprint-to-house, miniature city assembly. The craft here is declaring what must not change, then ordering the change spatially. | 19 |
 | [Fashion lookbook and portrait film](./fashion-lookbook.md) | One person, one look, a handful of places. A head-to-toe appearance lock carries the whole clip, and each scene gets one location, one gesture and one kind of light. | 53 |
-| [Food close-ups and eating ASMR](./food-asmr.md) | Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last. | 9 |
+| [Food close-ups and eating ASMR](./food-asmr.md) | Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last. | 8 |
 
 ## 🎭 Narrative and performance
 
 | Template | Use it for | Cases filed |
 | --- | --- | --- |
-| [Dialogue and performance beats](./dialogue-performance-beats.md) | Declare the spoken language, tag the speaker, write the reaction as a causal chain rather than a list of expressions, and close each beat with an explicit end state. | 12 |
-| [Cinematic narrative short](./cinematic-narrative-short.md) | Multi-act storytelling in 15 to 60 seconds. Titled acts, a character card ahead of the acts, and a reveal written as a concrete image rather than as a promise of surprise. | 71 |
-| [Cinematic travel vlog montage](./travel-city-walk.md) | One traveller moves through a place scene by scene, each scene carrying its own timecode, its own location and one short line. The polish is bought with film grain and golden-hour light. | 38 |
-| [Twist-ending comedy skit](./meme-comedy.md) | A short skit where every beat is laid down to serve one punchline. The joke has to land on something visible, and the absurdity only works when the camera and the physics stay dead serious. | 46 |
+| [Dialogue and performance beats](./dialogue-performance-beats.md) | Declare the spoken language, tag the speaker, write the reaction as a causal chain rather than a list of expressions, and close each beat with an explicit end state. | 11 |
+| [Cinematic narrative short](./cinematic-narrative-short.md) | Multi-act storytelling in 15 to 60 seconds. Titled acts, a character card ahead of the acts, and a reveal written as a concrete image rather than as a promise of surprise. | 70 |
+| [Cinematic travel vlog montage](./travel-city-walk.md) | One traveller moves through a place scene by scene, each scene carrying its own timecode, its own location and one short line. The polish is bought with film grain and golden-hour light. | 37 |
+| [Twist-ending comedy skit](./meme-comedy.md) | A short skit where every beat is laid down to serve one punchline. The joke has to land on something visible, and the absurdity only works when the camera and the physics stay dead serious. | 44 |
 | [Horror and suspense](./horror-suspense.md) | Every shot carries its own timecode and shows one visible change on a body. The dread comes from the chain — a look, veins, a bite, the next person — and the ending seals a door without settling anything. | 42 |
 | [Gameplay capture with HUD and stream overlay](./game-ui-livestream.md) | The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action. | 16 |
 
@@ -50,7 +50,7 @@ One file per template. Each holds a copy-ready block: replace the [bracketed] pa
 | --- | --- | --- |
 | [Anime and stylized style lock](./anime-style-lock.md) | Specify the drawing style as measurable parameters, then attach an exclusion list of the neighbouring styles it must not fall into. Without the exclusion list, anime collapses into a generic 3D face. | 34 |
 | [Stop motion and stepped cadence](./stop-motion-cadence.md) | Stop motion is a timing spec before it is a look. Pin the frame rate and the hold count, name the craft material, and ban the three things that silently smooth it away. | 13 |
-| [3D cartoon character short](./3d-cartoon.md) | One small anthropomorphic character carries the whole film. Spell out its looks part by part, write the style as render settings you can measure, and cut the timeline so each block holds a single action goal. | 69 |
+| [3D cartoon character short](./3d-cartoon.md) | One small anthropomorphic character carries the whole film. Spell out its looks part by part, write the style as render settings you can measure, and cut the timeline so each block holds a single action goal. | 68 |
 
 ## 💥 Action, dance and effects
 

@@ -284,15 +284,11 @@
       },
       "exampleCases": [
         "seedance-2-5-vlog-30-3b85f315bb08",
-        "seedance-2-5-3f70c2f28d22",
-        "seedance-2-5-f3651857750b",
-        "boa-hancock-water-obstacle-race-prompt"
+        "seedance-2-5-3f70c2f28d22"
       ],
       "exampleCaseUrls": [
         "https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08",
-        "https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22",
-        "https://goodcase.ai/cases/seedance-2-5-f3651857750b",
-        "https://goodcase.ai/cases/boa-hancock-water-obstacle-race-prompt"
+        "https://goodcase.ai/cases/seedance-2-5-3f70c2f28d22"
       ]
     },
     {
@@ -364,13 +360,11 @@
       "exampleCases": [
         "elsasofia-ai-seedance-ai-e087ab2aed4b",
         "liyue-ai-seedance-ai-dd263958ed42",
-        "case-79acf1a3e8a6",
         "seedance-2-5-ui-228cf63ce8ff"
       ],
       "exampleCaseUrls": [
         "https://goodcase.ai/cases/elsasofia-ai-seedance-ai-e087ab2aed4b",
         "https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42",
-        "https://goodcase.ai/cases/case-79acf1a3e8a6",
         "https://goodcase.ai/cases/seedance-2-5-ui-228cf63ce8ff"
       ]
     },
@@ -853,14 +847,12 @@
       "exampleCases": [
         "caden-flux-seedance-ai-8ffb5f062951",
         "sci-fi-mystery-message-from-2100",
-        "mermaid-rescue-cinematic-story",
-        "youmind-1980s-slasher-yacht-octopus"
+        "mermaid-rescue-cinematic-story"
       ],
       "exampleCaseUrls": [
         "https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951",
         "https://goodcase.ai/cases/sci-fi-mystery-message-from-2100",
-        "https://goodcase.ai/cases/mermaid-rescue-cinematic-story",
-        "https://goodcase.ai/cases/youmind-1980s-slasher-yacht-octopus"
+        "https://goodcase.ai/cases/mermaid-rescue-cinematic-story"
       ]
     },
     {
