@@ -121,5 +121,9 @@ test("data/site-skills.json: counts field matches the entries and every method h
   const groups = groupSiteSkills(real);
   assert.ok(groups.every((g) => g.official), "no orphan creator methods");
   assert.equal(groups.reduce((n, g) => n + g.methods.length, 0), counts.creatorMethods);
-  for (const s of real.skills) assert.equal(s.install, `npx skills add LearnPrompt/goodcase-lite --skill ${s.slug}`);
+  // The public Skill repo is being renamed goodcase-lite -> goodcase; accept both until the regenerated data lands.
+  for (const s of real.skills) {
+    assert.match(s.install, /^npx skills add LearnPrompt\/goodcase(-lite)? --skill /);
+    assert.ok(s.install.endsWith(` --skill ${s.slug}`), s.install);
+  }
 });
