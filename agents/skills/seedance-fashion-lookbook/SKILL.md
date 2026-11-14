@@ -89,4 +89,4 @@ For users who would rather paste into a chat model than run this Skill, hand the
 
 - `references/cases.md` is generated from `data/` in [LearnPrompt/awesome-seedance](https://github.com/LearnPrompt/awesome-seedance) and refreshed daily; do not hand-edit an installed copy.
 - Prompts in the reference file belong to their creators (linked on every card). Transfer the structure; do not present a close copy as original work.
-- For the full library across every model, install the `goodcase` Skill from [LearnPrompt/goodcase-lite](https://github.com/LearnPrompt/goodcase-lite).
+- For the full library across every model, install the `goodcase` Skill from [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase).

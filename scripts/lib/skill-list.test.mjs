@@ -19,7 +19,7 @@ const official = (slug, caseCount) => ({
   creator: null,
   caseCount,
   creatorCount: 7,
-  install: `npx skills add LearnPrompt/goodcase-lite --skill ${slug}`,
+  install: `npx skills add LearnPrompt/goodcase --skill ${slug}`,
   url: `https://goodcase.ai/skills/${slug}`,
   cover: null,
 });
@@ -33,7 +33,7 @@ const method = (baseSlug, id, creator, styleTag = null, caseCount = 3) => ({
   creator,
   caseCount,
   creatorCount: 1,
-  install: `npx skills add LearnPrompt/goodcase-lite --skill ${baseSlug}-by-${id}`,
+  install: `npx skills add LearnPrompt/goodcase --skill ${baseSlug}-by-${id}`,
   url: `https://goodcase.ai/skills/${baseSlug}-by-${id}`,
   cover: null,
 });
@@ -85,8 +85,8 @@ test("renderSkillListDoc: intro counts, explicit anchors, install blocks and cre
       assert.ok(md.includes(`<a id="${slug}"></a>`), `${lang}: anchor ${slug}`);
       assert.ok(md.includes(`](#${slug})`), `${lang}: index links #${slug}`);
     }
-    assert.ok(md.includes("```bash\nnpx skills add LearnPrompt/goodcase-lite --skill alpha\n```"), `${lang}: official install block`);
-    assert.ok(md.includes("`npx skills add LearnPrompt/goodcase-lite --skill alpha-by-2`"), `${lang}: method install inline`);
+    assert.ok(md.includes("```bash\nnpx skills add LearnPrompt/goodcase --skill alpha\n```"), `${lang}: official install block`);
+    assert.ok(md.includes("`npx skills add LearnPrompt/goodcase --skill alpha-by-2`"), `${lang}: method install inline`);
     assert.ok(
       md.includes("(https://goodcase.ai/skills/alpha-by-1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods)"),
       `${lang}: UTM on method link`
@@ -121,7 +121,7 @@ test("data/site-skills.json: counts field matches the entries and every method h
   const groups = groupSiteSkills(real);
   assert.ok(groups.every((g) => g.official), "no orphan creator methods");
   assert.equal(groups.reduce((n, g) => n + g.methods.length, 0), counts.creatorMethods);
-  // The public Skill repo is being renamed goodcase-lite -> goodcase; accept both until the regenerated data lands.
+  // The public Skill repo was renamed goodcase-lite -> goodcase on 2026-11-15; both names are accepted while the site-side export catches up.
   for (const s of real.skills) {
     assert.match(s.install, /^npx skills add LearnPrompt\/goodcase(-lite)? --skill /);
     assert.ok(s.install.endsWith(` --skill ${s.slug}`), s.install);

@@ -226,7 +226,7 @@ const siteEntry = (slug, baseSlug, creator = null) => ({
   creator,
   caseCount: 3,
   creatorCount: 1,
-  install: `npx skills add LearnPrompt/goodcase-lite --skill ${slug}`,
+  install: `npx skills add LearnPrompt/goodcase --skill ${slug}`,
   url: `https://goodcase.ai/skills/${slug}`,
   cover: null,
 });

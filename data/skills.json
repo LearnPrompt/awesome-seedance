@@ -337,8 +337,8 @@
         "zh": "让 agent 实时查整个 goodcase.ai 案例库：全部模型、完整提示语、热度、稳定分和复测基线。",
         "ja": "エージェントが goodcase.ai のライブラリ全体をリアルタイム検索します。全モデル、完全なプロンプト、ヒート、安定度スコア、再テスト基準。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill goodcase",
-      "url": "https://github.com/LearnPrompt/goodcase-lite"
+      "install": "npx skills add LearnPrompt/goodcase --skill goodcase",
+      "url": "https://github.com/LearnPrompt/goodcase"
     },
     {
       "id": "pov-vlog-presence",
@@ -353,7 +353,7 @@
         "zh": "用第一视角、手持运动和生活化细节制造可信的在场感。",
         "ja": "一人称の構図、手持ちの揺れ、生活感のあるディテールで、その場にいたような実在感を作ります。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pov-vlog-presence",
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence",
       "url": "https://goodcase.ai/skills/pov-vlog-presence",
       "cover": {
         "src": "https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg"
@@ -374,7 +374,7 @@
         "zh": "从产品卖点出发，编排开场钩子、使用场景和品牌收束镜头。",
         "ja": "商品の売りから出発し、冒頭のフック、使用シーン、ブランドの締めショットを組み立てます。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill product-ad-shot-design",
+      "install": "npx skills add LearnPrompt/goodcase --skill product-ad-shot-design",
       "url": "https://goodcase.ai/skills/product-ad-shot-design",
       "cover": {
         "src": "https://media.goodcase.ai/cases/bbddd507c773.jpg"
@@ -395,7 +395,7 @@
         "zh": "在多镜头动画中固定角色造型、运动语言和材质画风。",
         "ja": "複数ショットのアニメで、キャラクター造形、動きの語彙、質感と画風を固定します。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill animation-style-consistency",
+      "install": "npx skills add LearnPrompt/goodcase --skill animation-style-consistency",
       "url": "https://goodcase.ai/skills/animation-style-consistency",
       "cover": {
         "src": "https://media.goodcase.ai/cases/34deb8da196d.jpg"
@@ -416,7 +416,7 @@
         "zh": "把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。",
         "ja": "キャラクター、動きの方向、リズム、ショットのつなぎを、再現可能なアクションシーケンスとして書き出します。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill action-continuity-choreography",
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
       "cover": {
         "src": "https://media.goodcase.ai/cases/4e5f9347c75d.jpg"
@@ -437,7 +437,7 @@
         "zh": "把制作过程、改造和前后对比讲成一段段清楚又解压的阶段。",
         "ja": "制作過程、変身、ビフォーアフターを、明快で気持ちのよい段階の連なりとして語ります。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill process-transformation-story",
+      "install": "npx skills add LearnPrompt/goodcase --skill process-transformation-story",
       "url": "https://goodcase.ai/skills/process-transformation-story",
       "cover": {
         "src": "https://media.goodcase.ai/cases/2c89162a3d05.jpg"
@@ -459,7 +459,7 @@
         "ja": "カムコーダーの欠点リストと日常の小さな出来事で時代感を作り、本物の古いテープのように見せます。"
       },
       "coverTemplateId": "retro-found-footage",
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill retro-dv-home-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill retro-dv-home-video",
       "url": "https://goodcase.ai/skills/retro-dv-home-video",
       "cover": {
         "src": "https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg"
@@ -479,7 +479,7 @@
         "ja": "ドラゴン、巨人、世界観の提示。実体ごとに定義ブロック、タイムコードでカット、ローアングルと対比物でスケール感を作ります。"
       },
       "coverTemplateId": "epic-fantasy-scifi",
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill epic-fantasy-scifi-spectacle",
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": {
         "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
@@ -499,7 +499,7 @@
         "ja": "すべてのビートが一つのオチに向かい、オチは目に見えるものに落ちる。荒唐な設定を真顔のカメラで撮ります。"
       },
       "coverTemplateId": "meme-comedy",
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill twist-comedy-skit",
+      "install": "npx skills add LearnPrompt/goodcase --skill twist-comedy-skit",
       "url": "https://goodcase.ai/skills/twist-comedy-skit",
       "cover": {
         "src": "https://media.goodcase.ai/cases/c616e26c1d83.jpg"
@@ -519,7 +519,7 @@
         "ja": "魅力的なキャラクター一人が一本を支える。造形をパーツ単位で固定し、画風は測れるレンダリング項目で書き、タイムラインは一区切り一動作。"
       },
       "coverTemplateId": "3d-cartoon",
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill 3d-cartoon-character-short",
+      "install": "npx skills add LearnPrompt/goodcase --skill 3d-cartoon-character-short",
       "url": "https://goodcase.ai/skills/3d-cartoon-character-short",
       "cover": {
         "src": "https://media.goodcase.ai/cases/cda25299498a.jpg"
@@ -539,7 +539,7 @@
         "zh": "一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。",
         "ja": "一人の旅人がシーンごとに場所を歩き、各シーンにタイムコード、場所、短いひと言。質感はフィルムグレインとゴールデンアワーの光で作ります。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill travel-city-walk",
+      "install": "npx skills add LearnPrompt/goodcase --skill travel-city-walk",
       "url": "https://goodcase.ai/skills/travel-city-walk",
       "cover": {
         "src": "https://media.goodcase.ai/cases/3c212aa02304.jpg"
@@ -559,7 +559,7 @@
         "zh": "动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。",
         "ja": "動物が主役でカメラはスマホ 1 台。頭数は 1 匹に固定し、動物らしく振る舞わせ、オチはレンズに迫る動きで。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill pets-and-animals-lead",
+      "install": "npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead",
       "url": "https://goodcase.ai/skills/pets-and-animals-lead",
       "cover": {
         "src": "https://media.goodcase.ai/cases/8162eeaeac45.jpg"
@@ -579,7 +579,7 @@
         "zh": "机器从头到尾是同一台，出力的是镜头：先按部件锁车，再用编号分镜表把时长排满，每秒换机位。",
         "ja": "車両は最初から最後まで同じ 1 台、働くのはカメラ。部品単位で固定し、毎秒カメラが動く番号付きカット表で尺を埋めます。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill vehicles-at-speed",
+      "install": "npx skills add LearnPrompt/goodcase --skill vehicles-at-speed",
       "url": "https://goodcase.ai/skills/vehicles-at-speed",
       "cover": {
         "src": "https://media.goodcase.ai/cases/d3f9b6377ec3.jpg"
@@ -599,7 +599,7 @@
         "zh": "一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。",
         "ja": "一人、一つのスタイル、いくつかの場所。頭からつま先までの外見ロックが全体を支え、各シーンは場所・仕草・光を一つずつ。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill fashion-lookbook-portrait",
+      "install": "npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait",
       "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
       "cover": {
         "src": "https://media.goodcase.ai/cases/a5f167afeea7.jpg"
@@ -619,7 +619,7 @@
         "zh": "每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。",
         "ja": "各ショットにタイムコード、体に起きる目に見える変化は一つ。恐怖は連鎖から生まれ、結末はドアを閉めて何も解決しません。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill horror-suspense-short",
+      "install": "npx skills add LearnPrompt/goodcase --skill horror-suspense-short",
       "url": "https://goodcase.ai/skills/horror-suspense-short",
       "cover": {
         "src": "https://media.goodcase.ai/cases/5929c428cd08.jpg"
@@ -639,7 +639,7 @@
         "zh": "全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。",
         "ja": "助走から着地までの動作の連鎖がすべて。物理は部位ごとに指定し、ネガティブリストで飛行・浮遊・瞬間移動を潰します。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill sports-extreme-stunts",
+      "install": "npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts",
       "url": "https://goodcase.ai/skills/sports-extreme-stunts",
       "cover": {
         "src": "https://media.goodcase.ai/cases/eb4f90921bd3.jpg"
@@ -659,7 +659,7 @@
         "zh": "两步走：先用图像模型出一张带编号格子的分镜图，再把它当参考喂给 Seedance；顺序、构图和时长由分镜图定死。",
         "ja": "画像モデルで番号付きコマの絵コンテを 1 枚作り、それを参照として Seedance に渡す 2 段階。順番、構図、尺は絵コンテが決めます。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill storyboard-grid-to-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill storyboard-grid-to-video",
       "url": "https://goodcase.ai/skills/storyboard-grid-to-video",
       "cover": {
         "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
@@ -679,7 +679,7 @@
         "zh": "屏幕本身就是画面，假装是一段游戏实机、直播或桌面录屏。成立的关键是叠层钉死在固定位置，上面的数字和横幅跟着剧情一格一格变。",
         "ja": "ゲーム画面の HUD、配信ウィンドウ、弾幕を固定位置に釘付けし、各シーンでは HUD の数値とバナーだけを更新します。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill game-ui-livestream",
+      "install": "npx skills add LearnPrompt/goodcase --skill game-ui-livestream",
       "url": "https://goodcase.ai/skills/game-ui-livestream",
       "cover": {
         "src": "https://media.goodcase.ai/cases/c0434c7779ba.jpg"
@@ -699,7 +699,7 @@
         "zh": "烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。",
         "ja": "料理をタイムコード付きの短いステップに切り、各ステップで食材の目に見える変化を一つ。音は動作の順に並べます。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill food-asmr",
+      "install": "npx skills add LearnPrompt/goodcase --skill food-asmr",
       "url": "https://goodcase.ai/skills/food-asmr",
       "cover": {
         "src": "https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg"
@@ -719,7 +719,7 @@
         "zh": "把一段剧情压进十几秒到半分钟。先说清人物关系和情绪在哪一刻转折，再逐镜写景别、表演和停顿，情绪交给光线、天气和声音去托。",
         "ja": "一つのドラマを15〜30秒に凝縮します。まず人物関係と感情の転換点を決め、ショットごとに景別・芝居・間を書き、光と天気と音で情感を支えます。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill cinematic-drama-scene",
+      "install": "npx skills add LearnPrompt/goodcase --skill cinematic-drama-scene",
       "url": "https://goodcase.ai/skills/cinematic-drama-scene",
       "cover": {
         "src": "https://media.goodcase.ai/cases/f3dacc0c0b9f.jpg"
@@ -739,7 +739,7 @@
         "zh": "偶像舞台、翻跳和音乐短片。先定曲风、速度和段落，再把动作、站位和剪辑点卡在节拍上，段落之间靠灯光、服装和布景的变化来分开。",
         "ja": "アイドルステージ、ダンスカバー、音楽ショート。ジャンル・テンポ・構成を先に決め、振り付け・立ち位置・カットを拍に合わせ、照明・衣装・セットの変化でセクションを区切ります。"
       },
-      "install": "npx skills add LearnPrompt/goodcase-lite --skill stage-dance-music-video",
+      "install": "npx skills add LearnPrompt/goodcase --skill stage-dance-music-video",
       "url": "https://goodcase.ai/skills/stage-dance-music-video",
       "cover": {
         "src": "https://media.goodcase.ai/cases/a682179bc0fa.jpg"
