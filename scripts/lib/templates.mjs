@@ -270,9 +270,9 @@ export function renderTemplateGrid(library, lang, index, opts = {}) {
   const lines = [templatesHeading(lang), ""];
   lines.push(
     t(lang, {
-      en: `${total} templates, one per kind of clip, distilled from ${filed} verified cases. Pick the look you want, open its template, copy the block, swap the [bracketed] parts for your own subject, and hand it to any AI chat. Browse them all in the [template index](${docBase}/README.md).`,
-      zh: `${total} 个模板，一类片子一个，从 ${filed} 条已验证案例里提炼出来。看图挑你想要的画面，点开模板，复制那一段，把【】换成你自己的内容，发给任意 AI 对话就行。全部模板也可以在[模板索引](${docBase}/README.md)里按表格浏览。`,
-      ja: `作りたいクリップの種類ごとに ${total} 個のテンプレート。${filed} 件の検証済みケースから抽出しました。絵柄で選んでテンプレートを開き、ブロックをコピーして [角括弧] の部分を自分の内容に置き換え、任意の AI チャットに渡してください。一覧は[テンプレート索引](${docBase}/README.md)（英語）にあります。`,
+      en: `${total} templates, one per kind of clip, distilled from ${filed} source-checked cases. Pick the look you want, open its template, copy the block, swap the [bracketed] parts for your own subject, and hand it to any AI chat. Browse them all in the [template index](${docBase}/README.md).`,
+      zh: `${total} 个模板，一类片子一个，从 ${filed} 条来源已核实的案例里提炼出来。看图挑你想要的画面，点开模板，复制那一段，把【】换成你自己的内容，发给任意 AI 对话就行。全部模板也可以在[模板索引](${docBase}/README.md)里按表格浏览。`,
+      ja: `作りたいクリップの種類ごとに ${total} 個のテンプレート。${filed} 件の出典確認済みケースから抽出しました。絵柄で選んでテンプレートを開き、ブロックをコピーして [角括弧] の部分を自分の内容に置き換え、任意の AI チャットに渡してください。一覧は[テンプレート索引](${docBase}/README.md)（英語）にあります。`,
     })
   );
   lines.push("");
@@ -483,9 +483,9 @@ export function renderStartHere(lang, anchors, counts) {
   lines.push("");
   lines.push(
     t(lang, {
-      en: `**Templates or Skills?** Templates are distilled from ${counts.cases} verified cases. Skills can apply those structures or guide other parts of production.`,
-      zh: `**用模板还是用 Skill？** 模板从 ${counts.cases} 条已验证案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。`,
-      ja: `**テンプレートと Skill、どちらを使う？** テンプレートは ${counts.cases} 件の検証済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。`,
+      en: `**Templates or Skills?** Templates are distilled from ${counts.cases} source-checked cases. Skills can apply those structures or guide other parts of production.`,
+      zh: `**用模板还是用 Skill？** 模板从 ${counts.cases} 条来源已核实的案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。`,
+      ja: `**テンプレートと Skill、どちらを使う？** テンプレートは ${counts.cases} 件の出典確認済みケースから抽出されます。Skill はその構造の活用や制作の別工程を支援します。`,
     })
   );
   lines.push("");

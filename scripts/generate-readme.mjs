@@ -150,22 +150,22 @@ const COPY = {
   en: {
     supportNote: "If these sources, templates or retest notes help your work, star this repository and [suggest a case or model to retest next](https://github.com/LearnPrompt/awesome-seedance/issues).",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
-    heroAlt: "Awesome Seedance: verified Seedance prompts, cross-model retests, templates and an agent skill",
+    heroAlt: "Awesome Seedance: source-checked Seedance prompts, cross-model retests, templates and an agent skill",
     demoAlt: "44-second walkthrough: style wall, template catalog, Skills, source and full prompt, cross-model retest",
     // 一句话卖点 + 数量，数量随数据走；徽章行里的数字另走 shields 动态 JSON，每天自动变。
     tagline: (s) =>
-      `**Verified Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates, and ${s.skills} installable AI-video Skills.${
-        s.siteTotalCases ? ` The case library draws from goodcase.ai's ${s.siteTotalCases} verified AI cases across video, image, UI and copy.` : ""
+      `**Source-checked Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates, and ${s.skills} installable AI-video Skills.${
+        s.siteTotalCases ? ` The case library draws from goodcase.ai's ${s.siteTotalCases} source-checked AI cases across video, image, UI and copy.` : ""
       } Case data syncs daily; new cases land every day.`,
     backlink:
-      "More verified AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
+      "More source-checked AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## Contents",
     pillarsHeading: "## Why this list",
     pillars: [
-      `**Human-verified against the source.** Every prompt here was checked against the creator's original post. Prompts reverse-engineered from the output video only, with no source and no submission, are rejected outright, per [goodcase.ai's collection standards](https://goodcase.ai/standards) (in force since 2026-08-05).`,
+      `**Human-checked against the source.** Every prompt here was checked against the creator's original post. Prompts reverse-engineered from the output video only, with no source and no submission, are rejected outright, per [goodcase.ai's collection standards](https://goodcase.ai/standards) (in force since 2026-08-05).`,
       `**Re-run on a second model.** Most cases have been re-generated on another video model, with the verdict, score and output published. See [Cross-model retests](#-cross-model-retests).`,
       `**Full provenance on every entry.** Author, original post link, publish date, and a heat score, a relative percentile among published cases on the same platform. If it didn't rank, it isn't here.`,
-      `**Ships as an installable Agent Skill.** \`npx seedance-prompt-library install\` drops a template library straight into Claude Code / Codex so your agent writes Seedance prompts from proven structures, not guesses.`,
+      `**Ships as an installable Agent Skill.** \`npx seedance-prompt-library install\` drops a template library straight into Claude Code / Codex so your agent writes Seedance prompts from structures distilled from real cases, not guesses.`,
     ],
     topHeading: `## 🔥 Top ${TOP_INLINE_COUNT} by heat`,
     topIntro: (shown) =>
@@ -231,21 +231,21 @@ const COPY = {
   zh: {
     supportNote: "如果这些来源、模板或复测记录帮到了你，欢迎给仓库点个 Star，并[告诉我们下一步想复测的案例或模型](https://github.com/LearnPrompt/awesome-seedance/issues)。",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
-    heroAlt: "Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
+    heroAlt: "Awesome Seedance：来源已核实的 Seedance 提示词、跨模型复测、模板与 Agent Skill",
     demoAlt: "44 秒实录：画风墙、模板目录、Skill、来源与完整提示词、跨模型复测",
     tagline: (s) =>
-      `**Seedance 2.5 / 2.0 提示词验证库。** ${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill。${
-        s.siteTotalCases ? `案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条已验证 AI 案例。` : ""
+      `**来源已核实的 Seedance 2.5 / 2.0 提示词库。** ${s.cases} 条案例逐条核对过原帖，${s.retestRuns} 次跨模型复测，${s.templates} 个可复用模板，${s.skills} 个可安装的 AI 视频 Skill。${
+        s.siteTotalCases ? `案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 ${s.siteTotalCases} 条来源已核实的 AI 案例。` : ""
       }案例数据每天同步，新案例每天入库。`,
     backlink:
-      "更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
+      "更多来源已核实、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## 目录",
     pillarsHeading: "## 为什么值得收藏这个仓库",
     pillars: [
       "**每条 prompt 都人工核对过与原帖一致。** 只靠成片视频反推出来的 prompt 一律不收，没有原帖来源不收，这是 [goodcase.ai 的收录标准](https://goodcase.ai/standards)（2026-08-05 起生效的红线）。",
       "**在第二个模型上重跑过。** 大部分案例都拿到另一个视频模型上重新生成，结论、评分和产物都公开，见[跨模型复测](#-跨模型复测)。",
       "**每条都带完整溯源。** 作者、原帖链接、发布时间、热度分，热度是同平台已发布案例里的相对分位，上不了榜就不收。",
-      "**自带可安装的 Agent Skill。** `npx seedance-prompt-library install` 一行装进 Claude Code / Codex，agent 用真实验证过的模板结构写 Seedance prompt，不是瞎编。",
+      "**自带可安装的 Agent Skill。** `npx seedance-prompt-library install` 一行装进 Claude Code / Codex，agent 照着真实案例提炼出的模板结构写 Seedance prompt，不是瞎编。",
     ],
     topHeading: `## 🔥 热度 Top ${TOP_INLINE_COUNT}`,
     topIntro: (shown) =>
@@ -310,21 +310,21 @@ const COPY = {
   ja: {
     supportNote: "元投稿、テンプレート、再テスト記録が役立ったら、リポジトリに Star を付けて、[次に再テストしてほしいケースやモデル](https://github.com/LearnPrompt/awesome-seedance/issues)を教えてください。",
     title: `# Awesome Seedance ${AWESOME_BADGE}`,
-    heroAlt: "Awesome Seedance：検証済み Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
+    heroAlt: "Awesome Seedance：出典確認済みの Seedance プロンプト、クロスモデル再テスト、テンプレート、Agent Skill",
     demoAlt: "44 秒のウォークスルー：スタイルウォール、テンプレート一覧、Skill、出典と全文プロンプト、クロスモデル再テスト",
     tagline: (s) =>
-      `**検証済み Seedance 2.5 / 2.0 プロンプトライブラリ。** ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill。${
-        s.siteTotalCases ? `ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の検証済み AI ケースです。` : ""
+      `**出典確認済みの Seedance 2.5 / 2.0 プロンプトライブラリ。** ${s.cases} ケースをすべて元投稿と照合、${s.retestRuns} 回のクロスモデル再テスト、${s.templates} 個の再利用可能テンプレート、${s.skills} 個のインストール可能な AI 動画 Skill。${
+        s.siteTotalCases ? `ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる ${s.siteTotalCases} 件の出典確認済み AI ケースです。` : ""
       }ケースデータは毎日同期し、新しいケースが追加されます。`,
     backlink:
-      "プロンプト全文付きの検証済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
+      "プロンプト全文付きの出典確認済み AI ケースをもっと見る → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## 目次",
     pillarsHeading: "## このリストの特徴",
     pillars: [
       "**元投稿と人手で照合済み。** ここにあるプロンプトはすべて作者の元投稿と突き合わせています。出力動画から逆算しただけで出典も投稿もないプロンプトは、[goodcase.ai の収録基準](https://goodcase.ai/standards)（2026-08-05 施行）に従い一律で却下します。",
       "**別モデルで再生成済み。** 大半のケースは別の動画モデルで再生成し、判定・スコア・出力を公開しています。[クロスモデル再テスト](#-クロスモデル再テスト)を参照。",
       "**全エントリに完全な出典。** 作者、元投稿リンク、公開日、そして同一プラットフォーム上の公開ケースにおける相対パーセンタイルであるヒートスコア。ランクインしなかったものはここにありません。",
-      "**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実証済みの構造から Seedance プロンプトを書きます。",
+      "**インストール可能な Agent Skill として提供。** `npx seedance-prompt-library install` でテンプレートライブラリがそのまま Claude Code / Codex に入り、エージェントは当て推量ではなく実例から抽出した構造で Seedance プロンプトを書きます。",
     ],
     topHeading: `## 🔥 ヒート Top ${TOP_INLINE_COUNT}`,
     topIntro: (shown) =>

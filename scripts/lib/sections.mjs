@@ -136,7 +136,7 @@ export function renderHeroSvg(snapshot) {
   const sans = "Helvetica Neue, Helvetica, Arial, 'PingFang SC', sans-serif";
   const mono = "SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace";
   const cells = [
-    { n: snapshot.cases, label: "VERIFIED CASES" },
+    { n: snapshot.cases, label: "SOURCE-CHECKED CASES" },
     { n: snapshot.retestRuns, label: "CROSS-MODEL RETESTS" },
     { n: snapshot.templates, label: "PROMPT TEMPLATES" },
     { n: snapshot.skills ?? 1, label: "AI VIDEO SKILLS" },
@@ -155,7 +155,7 @@ export function renderHeroSvg(snapshot) {
     })
     .join("");
   return [
-    `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Awesome Seedance: ${snapshot.cases} verified cases, ${snapshot.retestRuns} cross-model retests, ${snapshot.templates} prompt templates, ${snapshot.skills ?? 1} AI video skills">`,
+    `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="Awesome Seedance: ${snapshot.cases} source-checked cases, ${snapshot.retestRuns} cross-model retests, ${snapshot.templates} prompt templates, ${snapshot.skills ?? 1} AI video skills">`,
     `<rect width="${W}" height="${H}" fill="${bg}"/>`,
     ...Array.from({ length: 12 }, (_, i) => `<line x1="${(i * W) / 12}" y1="0" x2="${(i * W) / 12}" y2="${H}" stroke="${ink}" stroke-opacity="0.05" stroke-width="1"/>`),
     `<rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" fill="none" stroke="${ink}" stroke-width="1"/>`,
@@ -164,7 +164,7 @@ export function renderHeroSvg(snapshot) {
     `<text x="${W - 40}" y="47" text-anchor="end" font-family="${mono}" font-size="13" letter-spacing="2" fill="${muted}">SYNCED ${escapeXml(snapshot.lastUpdated || "")} · DAILY</text>`,
     `<line x1="40" y1="64" x2="${W - 40}" y2="64" stroke="${ink}" stroke-width="1"/>`,
     `<text x="40" y="150" font-family="${sans}" font-size="84" font-weight="800" letter-spacing="-3" fill="${ink}">Awesome <tspan fill="${accent}">Seedance</tspan></text>`,
-    `<text x="40" y="196" font-family="${sans}" font-size="24" fill="${ink}">Verified Seedance 2.5 / 2.0 video prompts, each checked against its original post,</text>`,
+    `<text x="40" y="196" font-family="${sans}" font-size="24" fill="${ink}">Seedance 2.5 / 2.0 video prompts, each one checked against its original post,</text>`,
     `<text x="40" y="228" font-family="${sans}" font-size="24" fill="${ink}">then re-run on a second model so you can see which ones actually hold up.</text>`,
     cellSvg,
     `<text x="40" y="${H - 18}" font-family="${mono}" font-size="11" letter-spacing="1.5" fill="${muted}">github.com/${REPO}</text>`,

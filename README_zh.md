@@ -1,16 +1,16 @@
 [English](./README.md) | **[中文](./README_zh.md)** | [日本語](./README_ja.md)
 
-[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance：已验证的 Seedance 提示词、跨模型复测、模板与 Agent Skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)
+[<img src="./assets/hero.svg" width="100%" alt="Awesome Seedance：来源已核实的 Seedance 提示词、跨模型复测、模板与 Agent Skill">](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Seedance 2.5 / 2.0 提示词验证库。** 1056 条案例逐条核对过原帖，495 次跨模型复测，27 个可复用模板，87 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2236 条已验证 AI 案例。案例数据每天同步，新案例每天入库。
+**来源已核实的 Seedance 2.5 / 2.0 提示词库。** 1056 条案例逐条核对过原帖，495 次跨模型复测，27 个可复用模板，87 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2236 条来源已核实的 AI 案例。案例数据每天同步，新案例每天入库。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
 
 <img src="./assets/demo/awesome-seedance-demo.webp" width="100%" alt="44 秒实录：画风墙、模板目录、Skill、来源与完整提示词、跨模型复测">
 
-更多经过验证、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)
+更多来源已核实、带完整 Prompt 的 AI 案例 → [GoodCase.ai](https://goodcase.ai/cases?filter=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)
 
 如果这些来源、模板或复测记录帮到了你，欢迎给仓库点个 Star，并[告诉我们下一步想复测的案例或模型](https://github.com/LearnPrompt/awesome-seedance/issues)。
 
@@ -40,7 +40,7 @@
 | 4 | 连同参考图一起发给任意 AI 对话（ChatGPT、Claude、豆包都行），拿到一条写好的提示语。 |
 | 5 | 把提示语粘到 Seedance（即梦 / Dreamina）生成。模型详情见 [Seedance 2.5 官方页面](https://seed.bytedance.com/zh/seedance2_5)。效果不对，先看模板里的常见坑，改完再跑。 |
 
-**用模板还是用 Skill？** 模板从 1056 条已验证案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。
+**用模板还是用 Skill？** 模板从 1056 条来源已核实的案例中提炼；Skill 可以应用这些结构，也可以指导制作流程的其他环节。
 
 |  | [提示语模板](#-分类提示语模板) | [Skill](#-skill) |
 | --- | --- | --- |
@@ -53,7 +53,7 @@
 
 ## 🧩 分类提示语模板
 
-27 个模板，一类片子一个，从 980 条已验证案例里提炼出来。看图挑你想要的画面，点开模板，复制那一段，把【】换成你自己的内容，发给任意 AI 对话就行。全部模板也可以在[模板索引](./docs/templates/zh/README.md)里按表格浏览。
+27 个模板，一类片子一个，从 980 条来源已核实的案例里提炼出来。看图挑你想要的画面，点开模板，复制那一段，把【】换成你自己的内容，发给任意 AI 对话就行。全部模板也可以在[模板索引](./docs/templates/zh/README.md)里按表格浏览。
 
 ### 🧱 结构基础（3 个模板）
 
@@ -297,7 +297,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 **每条都带完整溯源。** 作者、原帖链接、发布时间、热度分，热度是同平台已发布案例里的相对分位，上不了榜就不收。
 
-**自带可安装的 Agent Skill。** `npx seedance-prompt-library install` 一行装进 Claude Code / Codex，agent 用真实验证过的模板结构写 Seedance prompt，不是瞎编。
+**自带可安装的 Agent Skill。** `npx seedance-prompt-library install` 一行装进 Claude Code / Codex，agent 照着真实案例提炼出的模板结构写 Seedance prompt，不是瞎编。
 
 ## 统计
 

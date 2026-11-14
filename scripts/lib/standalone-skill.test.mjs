@@ -29,7 +29,7 @@ test("SKILL.md has valid frontmatter, a triggering description, the numbered str
   assert.match(md, /   1\. Setup\n   2\. Escalation\n   3\. Twist/);
   assert.match(md, /## 中文：反转搞笑短片[\s\S]*1\. 铺垫\n2\. 升级\n3\. 反转/);
   assert.match(md, /> 我要做一条搞笑短片，【设定是…】/);
-  assert.match(md, new RegExp(`distilled from ${cases.length} human-verified`));
+  assert.match(md, new RegExp(`distilled from ${cases.length} source-checked`));
 });
 
 test("references/cases.md lists the hottest cases first, capped, with attribution links and fenced prompts", () => {
@@ -40,7 +40,7 @@ test("references/cases.md lists the hottest cases first, capped, with attributio
   assert.match(md, /\[GoodCase\]\(https:\/\/goodcase\.ai\/cases\//);
   assert.match(md, /\[original source\]\(/);
   assert.match(md, /^````text\nline `x`\n```\nnested fence\n```\n````$/m, "fence is longer than any backtick run inside the prompt");
-  assert.match(md, new RegExp(`${many.length} verified cases are filed`));
+  assert.match(md, new RegExp(`${many.length} source-checked cases are filed`));
 });
 
 test("rendered SKILL.md carries the generator marker the generator uses to recognise its own output", () => {

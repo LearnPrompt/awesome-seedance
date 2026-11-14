@@ -2,7 +2,7 @@
   "name": "awesome-seedance",
   "private": true,
   "version": "0.3.0",
-  "description": "Curated, human-verified Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
+  "description": "Curated, source-checked Seedance 2.5 / 2.0 prompt library with an installable Agent Skill.",
   "type": "module",
   "scripts": {
     "generate": "node scripts/generate-readme.mjs && node scripts/generate-skill-reference.mjs && node scripts/generate-standalone-skills.mjs",

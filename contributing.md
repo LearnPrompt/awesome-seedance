@@ -11,7 +11,7 @@ Thanks for wanting to help. This list works differently from most awesome lists:
 
 Prefer GitHub? Copy [`submissions/TEMPLATE.json`](./submissions/TEMPLATE.json) to `submissions/<slug>.json`, fill every field, and open a pull request. The `Validate submissions` check runs on the PR (required fields, original-source URL, model names, no duplicate of a case already in `data/`), `CODEOWNERS` requests a maintainer review automatically, and the maintainer pushes accepted cases through the same goodcase.ai review; see [`submissions/README.md`](./submissions/README.md). Run the check locally with `npm run validate:submissions`.
 
-## Source-verification standard
+## Source-check standard
 
 Every entry must be checkable against a public primary source. Reviewers confirm, per the [goodcase.ai collection standards](https://goodcase.ai/standards) (in force since 2026-08-05):
 
@@ -27,7 +27,7 @@ Entries are additionally re-run on other video models where possible; verdicts, 
 - Prompts reverse-engineered from an output video with no source post.
 - Prompts copied from a secondary aggregator without the original creator's post.
 - Submissions where the media does not match the prompt or the claimed model.
-- Duplicates of a case already in the library (the earliest verified source wins).
+- Duplicates of a case already in the library (the earliest source-checked entry wins).
 - Content that violates the original platform's rules or the creator's stated reuse terms.
 
 ## Fixing something that is wrong

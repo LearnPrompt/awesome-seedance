@@ -1,7 +1,7 @@
 {
   "name": "seedance-prompt-library",
   "version": "0.3.0",
-  "description": "Installable Agent Skill: verified Seedance 2.5 / 2.0 prompt templates for Claude Code and Codex.",
+  "description": "Installable Agent Skill: source-checked Seedance 2.5 / 2.0 prompt templates for Claude Code and Codex.",
   "type": "module",
   "bin": {
     "seedance-prompt-library": "bin/install.mjs"
