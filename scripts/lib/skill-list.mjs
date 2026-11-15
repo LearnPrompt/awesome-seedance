@@ -2,9 +2,10 @@
 // 数据是 data/site-skills.json（私仓导出，每天同步覆盖）：每个官方 Skill 后面跟着它名下的创作者方法。
 // 一个官方 Skill 一节，节前放显式锚点 <a id="<slug>">，README 的 Skill 网格按 slug 直接跳过来。
 // 创作者方法用表格不用列表（awesome-lint 会把目录之后的列表项当条目校验）。
+// 条目带 gate（实测状态）时：官方 Skill 在统计行下面多一行，创作者方法写在方法名那一格里；没有 gate 的输出和以前逐字节相同。
 // 和其他渲染器一样：只吃数据吐字符串，不碰文件系统。
 import { t, pickLang, LANGS, readmeFileName } from "./render.mjs";
-import { anchorOf, skillsHeading, skillListFileName } from "./templates.mjs";
+import { anchorOf, skillsHeading, skillListFileName, skillGateText, skillGateNote } from "./templates.mjs";
 import { utmLinker } from "./utm.mjs";
 
 const LANG_LABELS = { en: "English", zh: "中文", ja: "日本語" };
@@ -99,6 +100,8 @@ export function renderSkillListDoc(siteSkills, lang, opts = {}) {
   );
   lines.push("");
 
+  if (((siteSkills && siteSkills.skills) || []).some((s) => skillGateText(s.gate, lang))) lines.push(skillGateNote(lang), "");
+
   // 总目录：一个官方 Skill 一行，点进本页对应小节。
   lines.push(t(lang, { en: "## Official Skills", zh: "## 官方 Skill", ja: "## 公式 Skill" }));
   lines.push("");
@@ -134,6 +137,8 @@ export function renderSkillListDoc(siteSkills, lang, opts = {}) {
       const open = t(lang, { en: "Open on goodcase.ai", zh: "在 goodcase.ai 打开", ja: "goodcase.ai で開く" });
       lines.push(`${stats} · [${open}](${officialLink(s.url)})`);
       lines.push("");
+      const gateText = skillGateText(s.gate, lang);
+      if (gateText) lines.push(gateText, "");
       lines.push("```bash", s.install, "```");
       lines.push("");
     }
@@ -145,7 +150,8 @@ export function renderSkillListDoc(siteSkills, lang, opts = {}) {
     lines.push(`| ${head.creator} | ${head.method} | ${head.cases} | ${head.install} | ${head.link} |`);
     lines.push("| --- | --- | --- | --- | --- |");
     for (const m of g.methods) {
-      lines.push(`| ${cell(m.creator)} | ${cell(methodLabel(m, lang))} | ${m.caseCount} | \`${cell(m.install)}\` | [goodcase.ai](${methodsLink(m.url)}) |`);
+      const gateText = skillGateText(m.gate, lang);
+      lines.push(`| ${cell(m.creator)} | ${cell(methodLabel(m, lang))}${gateText ? `<br><sub>${gateText}</sub>` : ""} | ${m.caseCount} | \`${cell(m.install)}\` | [goodcase.ai](${methodsLink(m.url)}) |`);
     }
     lines.push("");
   }

@@ -327,11 +327,41 @@ export function creatorMethodCount(skill, siteSkills) {
 }
 
 /**
+ * 一个 Skill 的实测状态，一行纯文本；不该显示时返回空串。
+ * gate 是 data/site-skills.json 条目上可选的 { status, tested, passed }，goodcase.ai 按例证的复测结果现算。
+ * 只显示两种：stable 给小标加条数，below 只写条数。testing 和 untestable 对外叫什么还没定，这一版不显示。
+ * 没有 gate（旧数据、只在网格里的本仓 Skill）或字段残缺同样返回空串，不报错：
+ * 每天的同步先跑 npm test 再生成，数据比生成器旧一版是常态。
+ */
+export function skillGateText(gate, lang) {
+  if (!gate || (gate.status !== "stable" && gate.status !== "below")) return "";
+  const { tested, passed } = gate;
+  if (!Number.isInteger(tested) || !Number.isInteger(passed)) return "";
+  const counts = t(lang, {
+    en: `${tested} tested, ${passed} passed`,
+    zh: `${tested} 条例证实测，${passed} 条通过`,
+    ja: `実例 ${tested} 件を再テスト、${passed} 件が合格`,
+  });
+  return gate.status === "stable" ? `${t(lang, { en: "Stable", zh: "稳定复现", ja: "安定再現" })} · ${counts}` : counts;
+}
+
+/** 稳定复现是什么意思，一句话。只在页面上真的显示了实测状态时才放（见 renderSkillGrid 和 renderSkillListDoc）。 */
+export function skillGateNote(lang) {
+  return t(lang, {
+    en: "**Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable.",
+    zh: "**稳定复现**的意思是：这个 Skill 至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语，不代表用这个 Skill 生成新内容也一定稳。",
+    ja: "**安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。",
+  });
+}
+
+/**
  * skillsData: data/skills.json（格子的标题、简介、安装命令都是手写的）。
  * opts.coverCasesFor(skill) → 该 Skill 的封面案例数组（调用方按 coverCases / templateId / coverTemplateId 解析好），
  * 取前 4 张有海报的拼成 2×2 小格，像 goodcase.ai 的 Skill 卡片那样一眼看到多种效果；不够 4 张就有几张放几张。
  * opts.siteSkills: data/site-skills.json。创作者方法不逐个列名，格子里只留一句数量，
  * 链到 docs/skills*.md 里该 Skill 的小节；网格下面再放一行链到整张总表。
+ * 格子按 siteSlug 在 site-skills 里找到的条目带 gate 时，安装命令下面多一行实测状态（skillGateText）；
+ * 至少有一格显示了状态，表格前面才放那句稳定复现的说明。
  * opts.campaign: utm_campaign；传了才给指向 goodcase.ai 的链接（标题、封面、更多 Skill）打 UTM，content 固定 skills-grid。
  */
 export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts = {}) {
@@ -341,6 +371,8 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
   const skills = (skillsData && skillsData.skills) || [];
   const siteSkills = opts.siteSkills || null;
   const variantCount = skills.reduce((n, s) => n + creatorMethodCount(s, siteSkills), 0);
+  const gateBySlug = new Map(((siteSkills && siteSkills.skills) || []).map((x) => [x.slug, x.gate]));
+  const gateTextOf = (s) => (s.siteSlug ? skillGateText(gateBySlug.get(s.siteSlug), lang) : "");
   const listHref = `./docs/${skillListFileName(lang)}`;
   const moreUrl = link((skillsData && skillsData.moreUrl) || "https://goodcase.ai/skills?category=video");
   const coverCasesFor = opts.coverCasesFor || ((s) => (s.coverCase && casesBySlug.get(s.coverCase) ? [casesBySlug.get(s.coverCase)] : []));
@@ -353,6 +385,7 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
     })
   );
   lines.push("");
+  if (skills.some((s) => gateTextOf(s))) lines.push(skillGateNote(lang), "");
   lines.push("<table>");
   for (let i = 0; i < skills.length; i += cols) {
     lines.push("<tr>");
@@ -375,8 +408,10 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
       const variantLine = n
         ? `<br><sub><a href="${listHref}#${s.siteSlug}">${t(lang, { en: `${n} creator ${n === 1 ? "method" : "methods"}`, zh: `另有 ${n} 个创作者方法`, ja: `クリエイターメソッド ${n} 件` })}</a></sub>`
         : "";
+      const gateText = gateTextOf(s);
+      const gateLine = gateText ? `<br><sub>${gateText}</sub>` : "";
       lines.push(
-        `<td width="${width}%" valign="top" align="center">${img}<a href="${url}"><b>${title}</b></a><br><sub>${escapeXml(pickLang(s.description, lang) || "")}</sub><br><br><code>${escapeXml(s.install)}</code>${variantLine}</td>`
+        `<td width="${width}%" valign="top" align="center">${img}<a href="${url}"><b>${title}</b></a><br><sub>${escapeXml(pickLang(s.description, lang) || "")}</sub><br><br><code>${escapeXml(s.install)}</code>${gateLine}${variantLine}</td>`
       );
     }
     lines.push("</tr>");
