@@ -173,7 +173,7 @@ Abso
 
 ## E4 · Cats Chasing via Red Mini Motorcycle
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 79 · stability: 89
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 80 · stability: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/cats-chasing-via-red-mini-motorcycle) · [finished media](https://media.goodcase.ai/cases/4131aa7f425e.mp4) · [poster](https://media.goodcase.ai/cases/80df57bc40f6.jpg) · [original source](https://x.com/Just_sharon7/status/2084901309988425731)
 - Summary: A humorous and absurd cinematic prompt of two cats riding a red motorcycle on a suburban road, chasing their owner for food.
 

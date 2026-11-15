@@ -14,18 +14,18 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 116 | 9 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 115 | 9 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 104 | 12 |
 | [动作连续性编排](#action-continuity-choreography) | 103 | 8 |
 | [电影感旅行漫游](#travel-city-walk) | 73 | 5 |
-| [产品广告镜头](#product-ad-shot-design) | 72 | 2 |
-| [宠物动物当主角](#pets-and-animals-lead) | 68 | 2 |
-| [动画风格与角色一致性](#animation-style-consistency) | 59 | 2 |
+| [产品广告镜头](#product-ad-shot-design) | 71 | 2 |
+| [宠物动物当主角](#pets-and-animals-lead) | 69 | 2 |
+| [动画风格与角色一致性](#animation-style-consistency) | 60 | 2 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 48 | 3 |
-| [恐怖悬疑短片](#horror-suspense-short) | 46 | 3 |
-| [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 46 | 0 |
-| [过程与变换叙事](#process-transformation-story) | 42 | 0 |
-| [反转搞笑短片](#twist-comedy-skit) | 41 | 1 |
+| [恐怖悬疑短片](#horror-suspense-short) | 47 | 3 |
+| [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 45 | 0 |
+| [过程与变换叙事](#process-transformation-story) | 41 | 0 |
+| [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
 | [体育与极限运动](#sports-extreme-stunts) | 37 | 0 |
 | [汽车与载具速度片](#vehicles-at-speed) | 35 | 0 |
 | [美食特写与吃播 ASMR](#food-asmr) | 34 | 0 |
@@ -33,7 +33,7 @@
 | [电影感剧情短片](#cinematic-drama-scene) | 18 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 9 | 0 |
-| [游戏实机录屏与直播叠层](#game-ui-livestream) | 8 | 0 |
+| [游戏实机录屏与直播叠层](#game-ui-livestream) | 7 | 0 |
 | [代码渲染讲解动画](#code-rendered-explainer-video) | 6 | 0 |
 
 <a id="epic-fantasy-scifi-spectacle"></a>
@@ -42,7 +42,7 @@
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-116 个案例，来自 78 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+115 个案例，来自 77 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
@@ -136,7 +136,7 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 
 > 从产品卖点出发，编排开场钩子、使用场景和品牌收束镜头。
 
-72 个案例，来自 46 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+71 个案例，来自 46 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-68 个案例，来自 36 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+69 个案例，来自 36 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
@@ -170,7 +170,7 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 
 > 在多镜头动画中固定角色造型、运动语言和材质画风。
 
-59 个案例，来自 48 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+60 个案例，来自 48 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill animation-style-consistency
@@ -205,7 +205,7 @@ npx skills add LearnPrompt/goodcase --skill retro-dv-home-video
 
 > 每一镜带自己的时间码，身上只发生一个看得见的变化；吓人的地方在于变化一环扣一环，结尾把门关上不了结。
 
-46 个案例，来自 24 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+47 个案例，来自 25 位创作者 · 3 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill horror-suspense-short
@@ -223,7 +223,7 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 > 一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。
 
-46 个案例，来自 36 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+45 个案例，来自 36 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
@@ -237,7 +237,7 @@ npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
 
 > 用明确起点、连续步骤和终态，把制作或变化过程压缩成可读叙事。
 
-42 个案例，来自 38 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+41 个案例，来自 37 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill process-transformation-story
@@ -251,7 +251,7 @@ npx skills add LearnPrompt/goodcase --skill process-transformation-story
 
 > 所有节拍都为一个笑点服务，笑点落在看得见的东西上，荒诞设定配一本正经的镜头。
 
-41 个案例，来自 30 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+40 个案例，来自 29 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
@@ -367,7 +367,7 @@ npx skills add LearnPrompt/goodcase --skill storyboard-grid-to-video
 
 > 屏幕本身就是画面，假装是一段游戏实机、直播或桌面录屏。成立的关键是叠层钉死在固定位置，上面的数字和横幅跟着剧情一格一格变。
 
-8 个案例，来自 8 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+7 个案例，来自 7 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill game-ui-livestream

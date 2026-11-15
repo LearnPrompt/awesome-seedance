@@ -14,18 +14,18 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 115 | 9 |
 | [POV and vlog presence](#pov-vlog-presence) | 104 | 12 |
 | [Action continuity choreography](#action-continuity-choreography) | 103 | 8 |
 | [Cinematic travel montage](#travel-city-walk) | 73 | 5 |
-| [Product ad shot design](#product-ad-shot-design) | 72 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 68 | 2 |
-| [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
+| [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 69 | 2 |
+| [Animation style and character consistency](#animation-style-consistency) | 60 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
-| [Horror and suspense short](#horror-suspense-short) | 46 | 3 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 46 | 0 |
-| [Process and transformation story](#process-transformation-story) | 42 | 0 |
-| [Twist-ending comedy skit](#twist-comedy-skit) | 41 | 1 |
+| [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
+| [Process and transformation story](#process-transformation-story) | 41 | 0 |
+| [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 37 | 0 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 35 | 0 |
 | [Food close-ups and eating ASMR](#food-asmr) | 34 | 0 |
@@ -33,7 +33,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | [Cinematic drama scene](#cinematic-drama-scene) | 18 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
-| [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 8 | 0 |
+| [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 7 | 0 |
 | [Code-rendered explainer video](#code-rendered-explainer-video) | 6 | 0 |
 
 <a id="epic-fantasy-scifi-spectacle"></a>
@@ -42,7 +42,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-116 cases from 78 creators · 9 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+115 cases from 77 creators · 9 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
@@ -136,7 +136,7 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 
 > Turn a product benefit into an opening hook, usage scene, and branded closing shot.
 
-72 cases from 46 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+71 cases from 46 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-68 cases from 36 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+69 cases from 36 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
@@ -170,7 +170,7 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-59 cases from 48 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+60 cases from 48 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill animation-style-consistency
@@ -205,7 +205,7 @@ npx skills add LearnPrompt/goodcase --skill retro-dv-home-video
 
 > Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
 
-46 cases from 24 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+47 cases from 25 creators · 3 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill horror-suspense-short
@@ -223,7 +223,7 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 > One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
 
-46 cases from 36 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+45 cases from 36 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
@@ -237,7 +237,7 @@ No creator methods yet.
 
 > Compress making or transformation into a readable story with a clear start, continuous steps, and end state.
 
-42 cases from 38 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+41 cases from 37 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill process-transformation-story
@@ -251,7 +251,7 @@ No creator methods yet.
 
 > Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
 
-41 cases from 30 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+40 cases from 29 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
@@ -367,7 +367,7 @@ No creator methods yet.
 
 > The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action.
 
-8 cases from 8 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+7 cases from 7 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill game-ui-livestream

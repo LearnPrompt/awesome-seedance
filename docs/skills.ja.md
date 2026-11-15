@@ -14,18 +14,18 @@
 
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 115 | 9 |
 | [POV and vlog presence](#pov-vlog-presence) | 104 | 12 |
 | [Action continuity choreography](#action-continuity-choreography) | 103 | 8 |
 | [Cinematic travel montage](#travel-city-walk) | 73 | 5 |
-| [Product ad shot design](#product-ad-shot-design) | 72 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 68 | 2 |
-| [Animation style and character consistency](#animation-style-consistency) | 59 | 2 |
+| [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 69 | 2 |
+| [Animation style and character consistency](#animation-style-consistency) | 60 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
-| [Horror and suspense short](#horror-suspense-short) | 46 | 3 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 46 | 0 |
-| [Process and transformation story](#process-transformation-story) | 42 | 0 |
-| [Twist-ending comedy skit](#twist-comedy-skit) | 41 | 1 |
+| [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 45 | 0 |
+| [Process and transformation story](#process-transformation-story) | 41 | 0 |
+| [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 37 | 0 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 35 | 0 |
 | [Food close-ups and eating ASMR](#food-asmr) | 34 | 0 |
@@ -33,7 +33,7 @@
 | [Cinematic drama scene](#cinematic-drama-scene) | 18 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
-| [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 8 | 0 |
+| [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 7 | 0 |
 | [Code-rendered explainer video](#code-rendered-explainer-video) | 6 | 0 |
 
 <a id="epic-fantasy-scifi-spectacle"></a>
@@ -42,7 +42,7 @@
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-78 人のクリエイターによる 116 ケース · クリエイターメソッド 9 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+77 人のクリエイターによる 115 ケース · クリエイターメソッド 9 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
@@ -136,7 +136,7 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 
 > Turn a product benefit into an opening hook, usage scene, and branded closing shot.
 
-46 人のクリエイターによる 72 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+46 人のクリエイターによる 71 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-36 人のクリエイターによる 68 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+36 人のクリエイターによる 69 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
@@ -170,7 +170,7 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-48 人のクリエイターによる 59 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+48 人のクリエイターによる 60 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill animation-style-consistency
@@ -205,7 +205,7 @@ npx skills add LearnPrompt/goodcase --skill retro-dv-home-video
 
 > Every shot carries its own timecode and one visible change on a body; dread comes from the chain, and the ending seals a door without settling anything.
 
-24 人のクリエイターによる 46 ケース · クリエイターメソッド 3 件 · [goodcase.ai で開く](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+25 人のクリエイターによる 47 ケース · クリエイターメソッド 3 件 · [goodcase.ai で開く](https://goodcase.ai/skills/horror-suspense-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill horror-suspense-short
@@ -223,7 +223,7 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 > One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
 
-36 人のクリエイターによる 46 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+36 人のクリエイターによる 45 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
@@ -237,7 +237,7 @@ npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
 
 > Compress making or transformation into a readable story with a clear start, continuous steps, and end state.
 
-38 人のクリエイターによる 42 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+37 人のクリエイターによる 41 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/process-transformation-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill process-transformation-story
@@ -251,7 +251,7 @@ npx skills add LearnPrompt/goodcase --skill process-transformation-story
 
 > Every beat serves one punchline that lands on something visible; absurd setups shot with a straight-faced camera.
 
-30 人のクリエイターによる 41 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+29 人のクリエイターによる 40 ケース · クリエイターメソッド 1 件 · [goodcase.ai で開く](https://goodcase.ai/skills/twist-comedy-skit?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
@@ -367,7 +367,7 @@ npx skills add LearnPrompt/goodcase --skill storyboard-grid-to-video
 
 > The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action.
 
-8 人のクリエイターによる 8 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+7 人のクリエイターによる 7 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill game-ui-livestream
