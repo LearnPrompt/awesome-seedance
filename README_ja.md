@@ -5,7 +5,7 @@
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **バズった AI プロンプトを、別のモデルで再実行。結果は良くても悪くても公開します。**<br>
-見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)<br>
+見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero#contrast)<br>
 インストール: `npx skills add LearnPrompt/goodcase --skill <slug>`。Skill は [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase) にあり、slug は[動画 Skill 一覧](./docs/skills.ja.md)で確認できます。安定再現は実例の元のプロンプトを再実行した結果を指し、Skill で新しく生成した内容はテストしていません。
 
 **出典確認済みの Seedance 2.5 / 2.0 プロンプトライブラリ。** 1050 ケースをすべて元投稿と照合、493 回のクロスモデル再テスト、27 個の再利用可能テンプレート、85 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 2236 件の出典確認済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。

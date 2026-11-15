@@ -533,7 +533,7 @@ function buildReadme(lang) {
   head.push("");
   head.push(c.title);
   head.push("");
-  head.push(PITCH[lang](withUtm("https://goodcase.ai/", { campaign, content: "hero" }), `./docs/${skillListFileName(lang)}`).join("<br>\n"));
+  head.push(PITCH[lang](`${withUtm("https://goodcase.ai/", { campaign, content: "hero" })}#contrast`, `./docs/${skillListFileName(lang)}`).join("<br>\n"));
   head.push("");
   head.push(c.tagline(snapshot));
   head.push("");

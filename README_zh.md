@@ -5,7 +5,7 @@
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **爆款 AI 提示语，我们挑出来换个模型重跑，结果好坏都公开，例证跑得稳的 skill 标成稳定复现。**<br>
-看对照：[重跑过的，结果摆给你看 →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)<br>
+看对照：[重跑过的，结果摆给你看 →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero#contrast)<br>
 怎么装：`npx skills add LearnPrompt/goodcase --skill <slug>`，skill 都在 [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase)，slug 查[视频 Skill 总表](./docs/skills.zh.md)。稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。
 
 **来源已核实的 Seedance 2.5 / 2.0 提示词库。** 1050 条案例逐条核对过原帖，493 次跨模型复测，27 个可复用模板，85 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2236 条来源已核实的 AI 案例。案例数据每天同步，新案例每天入库。

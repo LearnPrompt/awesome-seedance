@@ -5,7 +5,7 @@
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **Viral AI prompts, rerun on a second model. Results published either way.**<br>
-See it: [originals and reruns side by side, including the ones that did not hold up →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)<br>
+See it: [originals and reruns side by side, including the ones that did not hold up →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero#contrast)<br>
 Install: `npx skills add LearnPrompt/goodcase --skill <slug>`. The Skills live in [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase); slugs are in the [video Skill list](./docs/skills.md). Stable describes re-runs of each example's original prompt; new content generated with a Skill has not been tested.
 
 **Source-checked Seedance 2.5 / 2.0 prompt library.** 1050 cases checked against their original posts, 493 cross-model retests, 27 reusable templates, and 85 installable AI-video Skills. The case library draws from goodcase.ai's 2236 source-checked AI cases across video, image, UI and copy. Case data syncs daily; new cases arrive with each sync.
