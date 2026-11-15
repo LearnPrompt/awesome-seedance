@@ -148,7 +148,7 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 
 A Skill is an installable instruction pack for coding agents (Claude Code, Codex and friends). Template Skills help write case-backed prompts; the production workflow plans assets, generation handoff and video review. 36 Skills are below, plus 48 creator methods that carry one creator's signature style.
 
-**Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable.
+**Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable. **Awaiting tests** means fewer than 3 of a Skill's examples have been tested so far.
 
 <table>
 <tr>

@@ -329,12 +329,14 @@ export function creatorMethodCount(skill, siteSkills) {
 /**
  * 一个 Skill 的实测状态，一行纯文本；不该显示时返回空串。
  * gate 是 data/site-skills.json 条目上可选的 { status, tested, passed }，goodcase.ai 按例证的复测结果现算。
- * 只显示两种：stable 给小标加条数，below 只写条数。testing 和 untestable 对外叫什么还没定，这一版不显示。
+ * 显示三种：stable 给小标加条数，below 只写条数，testing 对外叫待测、只给小标不跟条数。untestable 这一版不显示。
  * 没有 gate（旧数据、只在网格里的本仓 Skill）或字段残缺同样返回空串，不报错：
  * 每天的同步先跑 npm test 再生成，数据比生成器旧一版是常态。
  */
 export function skillGateText(gate, lang) {
-  if (!gate || (gate.status !== "stable" && gate.status !== "below")) return "";
+  if (!gate) return "";
+  if (gate.status === "testing") return t(lang, { en: "Awaiting tests", zh: "待测", ja: "テスト待ち" });
+  if (gate.status !== "stable" && gate.status !== "below") return "";
   const { tested, passed } = gate;
   if (!Number.isInteger(tested) || !Number.isInteger(passed)) return "";
   const counts = t(lang, {
@@ -345,12 +347,12 @@ export function skillGateText(gate, lang) {
   return gate.status === "stable" ? `${t(lang, { en: "Stable", zh: "稳定复现", ja: "安定再現" })} · ${counts}` : counts;
 }
 
-/** 稳定复现是什么意思，一句话。只在页面上真的显示了实测状态时才放（见 renderSkillGrid 和 renderSkillListDoc）。 */
+/** 稳定复现和待测是什么意思，一句话。只在页面上真的显示了实测状态时才放（见 renderSkillGrid 和 renderSkillListDoc）。 */
 export function skillGateNote(lang) {
   return t(lang, {
-    en: "**Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable.",
-    zh: "**稳定复现**的意思是：这个 Skill 至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语，不代表用这个 Skill 生成新内容也一定稳。",
-    ja: "**安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。",
+    en: "**Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable. **Awaiting tests** means fewer than 3 of a Skill's examples have been tested so far.",
+    zh: "**稳定复现**的意思是：这个 Skill 至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语，不代表用这个 Skill 生成新内容也一定稳。**待测**是指例证还没测够 3 条。",
+    ja: "**安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。**テスト待ち**は、再テスト済みの実例がまだ 3 件に満たない状態です。",
   });
 }
 

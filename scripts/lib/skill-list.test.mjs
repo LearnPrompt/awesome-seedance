@@ -126,9 +126,9 @@ test("data/site-skills.json: counts field matches the entries and every method h
 
 test("renderSkillListDoc: gate status under official Skills and inside creator-method rows; no gate fields, no change", () => {
   const text = {
-    en: { stable: "Stable · 5 tested, 4 passed", below: "3 tested, 1 passed" },
-    zh: { stable: "稳定复现 · 5 条例证实测，4 条通过", below: "3 条例证实测，1 条通过" },
-    ja: { stable: "安定再現 · 実例 5 件を再テスト、4 件が合格", below: "実例 3 件を再テスト、1 件が合格" },
+    en: { stable: "Stable · 5 tested, 4 passed", below: "3 tested, 1 passed", testing: "Awaiting tests" },
+    zh: { stable: "稳定复现 · 5 条例证实测，4 条通过", below: "3 条例证实测，1 条通过", testing: "待测" },
+    ja: { stable: "安定再現 · 実例 5 件を再テスト、4 件が合格", below: "実例 3 件を再テスト、1 件が合格", testing: "テスト待ち" },
   };
   const gates = {
     alpha: { status: "stable", tested: 5, passed: 4 },
@@ -148,16 +148,16 @@ test("renderSkillListDoc: gate status under official Skills and inside creator-m
     const row = lines.find((l) => l.startsWith("| Kim_ai |"));
     assert.ok(row.includes(`<br><sub>${text[lang].below}</sub> | 6 |`), `${lang}: below counts in the method cell: ${row}`);
     assert.doesNotMatch(row, /Stable|稳定复现|安定再現/, `${lang}: below gets no label`);
-    // testing、untestable 不显示：lee 那一行和 beta 小节同没有判定时一样
-    assert.equal(lines.find((l) => l.startsWith("| lee |")), plain.split("\n").find((l) => l.startsWith("| lee |")), `${lang}: testing hidden`);
+    // testing 只给待测小标，不跟条数；untestable 不显示，beta 小节同没有判定时一样
+    assert.ok(lines.find((l) => l.startsWith("| lee |")).includes(`<br><sub>${text[lang].testing}</sub> | 3 |`), `${lang}: testing label alone`);
     assert.equal(md.slice(md.indexOf('<a id="beta">')), plain.slice(plain.indexOf('<a id="beta">')), `${lang}: untestable hidden`);
     // 说明只出现一次，在总目录前面；去掉说明和两处状态后与没有判定时逐字节相同
     const note = skillGateNote(lang);
     assert.equal(md.split(note).length, 2, `${lang}: note once`);
     assert.ok(md.indexOf(note) < md.indexOf("| --- |"), `${lang}: note before the index table`);
-    assert.equal(md.replace(`${note}\n\n`, "").replace(`${text[lang].stable}\n\n`, "").replace(`<br><sub>${text[lang].below}</sub>`, ""), plain, `${lang}: nothing else changes`);
-    // 只有 testing / untestable 时连说明都不放
-    const hidden = { ...data, skills: data.skills.map((s) => ({ ...s, gate: { status: "testing", tested: 1, passed: 1 } })) };
+    assert.equal(md.replace(`${note}\n\n`, "").replace(`${text[lang].stable}\n\n`, "").replace(`<br><sub>${text[lang].below}</sub>`, "").replace(`<br><sub>${text[lang].testing}</sub>`, ""), plain, `${lang}: nothing else changes`);
+    // 只有 untestable 时连说明都不放
+    const hidden = { ...data, skills: data.skills.map((s) => ({ ...s, gate: { status: "untestable", tested: 1, passed: 1 } })) };
     assert.equal(renderSkillListDoc(hidden, lang), plain, `${lang}: nothing displayable, output unchanged`);
   }
 });

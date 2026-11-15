@@ -335,18 +335,20 @@ test("section headings carry no U+FE0F, so computed anchors match what GitHub ge
 
 // 实测状态：data/site-skills.json 条目上可选的 gate 字段。
 const GATE_TEXT = {
-  en: { stable: "Stable · 5 tested, 4 passed", below: "3 tested, 1 passed", note: /^\*\*Stable\*\* means at least 3 .* scored 70 or higher\. .* original prompt/ },
-  zh: { stable: "稳定复现 · 5 条例证实测，4 条通过", below: "3 条例证实测，1 条通过", note: /^\*\*稳定复现\*\*的意思是：.*至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语/ },
-  ja: { stable: "安定再現 · 実例 5 件を再テスト、4 件が合格", below: "実例 3 件を再テスト、1 件が合格", note: /^\*\*安定再現\*\*は、.*少なくとも 3 件を再実行し、8 割以上が 70 点以上.*元のプロンプト/ },
+  en: { stable: "Stable · 5 tested, 4 passed", below: "3 tested, 1 passed", testing: "Awaiting tests", note: /^\*\*Stable\*\* means at least 3 .* scored 70 or higher\. .* original prompt.*\*\*Awaiting tests\*\* means fewer than 3 / },
+  zh: { stable: "稳定复现 · 5 条例证实测，4 条通过", below: "3 条例证实测，1 条通过", testing: "待测", note: /^\*\*稳定复现\*\*的意思是：.*至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语.*\*\*待测\*\*是指例证还没测够 3 条。$/ },
+  ja: { stable: "安定再現 · 実例 5 件を再テスト、4 件が合格", below: "実例 3 件を再テスト、1 件が合格", testing: "テスト待ち", note: /^\*\*安定再現\*\*は、.*少なくとも 3 件を再実行し、8 割以上が 70 点以上.*元のプロンプト.*\*\*テスト待ち\*\*は、.*3 件に満たない/ },
 };
 
 test("skillGateText: stable gets the label plus counts, below gets counts only, everything else renders nothing", () => {
   for (const lang of LANGS) {
     assert.equal(skillGateText({ status: "stable", tested: 5, passed: 4 }, lang), GATE_TEXT[lang].stable);
     assert.equal(skillGateText({ status: "below", tested: 3, passed: 1 }, lang), GATE_TEXT[lang].below);
-    // testing、untestable 这一版不显示；没有字段、字段残缺、不认识的状态都不显示也不抛错
+    // testing 对外叫待测，只给小标，不跟条数
+    assert.equal(skillGateText({ status: "testing", tested: 1, passed: 1 }, lang), GATE_TEXT[lang].testing);
+    assert.equal(skillGateText({ status: "testing" }, lang), GATE_TEXT[lang].testing);
+    // untestable 这一版不显示；没有字段、字段残缺、不认识的状态都不显示也不抛错
     for (const gate of [
-      { status: "testing", tested: 1, passed: 1 },
       { status: "untestable", tested: 0, passed: 0 },
       undefined,
       null,
@@ -383,9 +385,12 @@ test("renderSkillGrid: tiles show the gate line of their site Skill; data withou
     assert.ok(below.includes(`<br><sub>${GATE_TEXT[lang].below}</sub>`), `${lang}: below shows counts only`);
     assert.doesNotMatch(below.split("<table>")[1], /Stable|稳定复现|安定再現/, `${lang}: below gets no label`);
 
-    // testing / untestable，以及判定只挂在不进网格的条目上（c、创作者方法）：网格和没有判定时一样
+    const testing = renderSkillGrid(skillsData, lang, new Map(), opts(withGate({ b: { status: "testing", tested: 1, passed: 1 } })));
+    assert.ok(testing.includes(`<code>npx skills add x --skill b</code><br><sub>${GATE_TEXT[lang].testing}</sub><br><sub><a href=`), `${lang}: testing shows the label alone`);
+    assert.equal(testing.replace(`${skillGateNote(lang)}\n\n`, "").replace(`<br><sub>${GATE_TEXT[lang].testing}</sub>`, ""), plain, `${lang}: testing adds the note and one label, no counts`);
+
+    // untestable，以及判定只挂在不进网格的条目上（c、创作者方法）：网格和没有判定时一样
     for (const gates of [
-      { b: { status: "testing", tested: 1, passed: 1 } },
       { b: { status: "untestable", tested: 0, passed: 0 } },
       { c: { status: "stable", tested: 5, passed: 5 }, "b-by-1": { status: "stable", tested: 4, passed: 4 } },
     ]) {

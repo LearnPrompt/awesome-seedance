@@ -10,7 +10,7 @@
 
 各 Skill は [skills CLI](https://github.com/vercel-labs/skills) で 1 行でインストールでき、コマンドは下に載せています。タイトルと説明は goodcase.ai のもので（日本語訳はなく英語のまま）、このページは毎日サイトのカタログから更新されます。
 
-**安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。
+**安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。**テスト待ち**は、再テスト済みの実例がまだ 3 件に満たない状態です。
 
 ## 公式 Skill
 
@@ -56,9 +56,9 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 | --- | --- | --- | --- | --- |
 | Zyrellix | Epic fantasy and sci-fi spectacle<br><sub>安定再現 · 実例 6 件を再テスト、6 件が合格</sub> | 6 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | laviniavelle | Epic fantasy and sci-fi spectacle<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itsSaira_1 | Epic fantasy and sci-fi spectacle | 4 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AvelyrahnAI | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Aiwithmaha | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itsSaira_1 | Epic fantasy and sci-fi spectacle<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AvelyrahnAI | Epic fantasy and sci-fi spectacle<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1g5goov` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1g5goov?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Aiwithmaha | Epic fantasy and sci-fi spectacle<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Strength04_X | Epic fantasy and sci-fi spectacle<br><sub>実例 3 件を再テスト、2 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-1sduwzc` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-1sduwzc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | techhalla | Epic fantasy and sci-fi spectacle<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-6moylp` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-6moylp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ZaraIrahh | Epic fantasy and sci-fi spectacle | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-ha1tt9` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-ha1tt9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
@@ -86,11 +86,11 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 | ElsaSofia__AI | Multi-Ref Long Sequence | 5 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1yyrk1e` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1yyrk1e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | johnAGI168 | Beat-Synced Fitness Ad | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1d090cw` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1d090cw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ZaraIrahh | Selfie-Only Day-in-Life<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ha1tt9` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ha1tt9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithkhan | Korean Alley Home Video | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AIwithkhan | Korean Alley Home Video<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Ciri_ai | POV and vlog presence<br><sub>実例 3 件を再テスト、2 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Just_sharon7 | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Just_sharon7 | POV and vlog presence<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | oggii_0 | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| nawalsehar | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| nawalsehar | POV and vlog presence<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Goodmanprotocol | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="action-continuity-choreography"></a>
@@ -109,13 +109,13 @@ npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
 
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
-| itxabdullaa | Action continuity choreography | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itsSaira_1 | Action continuity choreography | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithSynthia | Action continuity choreography | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Aiwithmaha | Action continuity choreography | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Just_sharon7 | Action continuity choreography | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itxabdullaa | Action continuity choreography<br><sub>テスト待ち</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itsSaira_1 | Action continuity choreography<br><sub>テスト待ち</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AIwithSynthia | Action continuity choreography<br><sub>テスト待ち</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Aiwithmaha | Action continuity choreography<br><sub>テスト待ち</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Just_sharon7 | Action continuity choreography<br><sub>テスト待ち</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Xaroon_x | Action continuity choreography | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-cle9yv` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itxsarmadd | Action continuity choreography | 4 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itxsarmadd | Action continuity choreography<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | haruuraeadss | Theatrical Cel-Shaded Fantasy | 3 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="travel-city-walk"></a>
@@ -135,9 +135,9 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | CaliraVal | Cinematic travel montage<br><sub>安定再現 · 実例 4 件を再テスト、4 件が合格</sub> | 6 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Zyrellix | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| ayzalnooor24521 | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| noorlewisx | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Zyrellix | Cinematic travel montage<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| ayzalnooor24521 | Cinematic travel montage<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| noorlewisx | Cinematic travel montage<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
@@ -157,7 +157,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | laviniavelle | Pixar Glass-Skin Beauty<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| noorlewisx | Product ad shot design | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| noorlewisx | Product ad shot design<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="pets-and-animals-lead"></a>
 
@@ -176,7 +176,7 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | Zarnab_with_Ai | Pets and animals as the lead<br><sub>安定再現 · 実例 12 件を再テスト、12 件が合格</sub> | 15 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| ayzalnooor24521 | Pets and animals as the lead | 3 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| ayzalnooor24521 | Pets and animals as the lead<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="animation-style-consistency"></a>
 
@@ -195,7 +195,7 @@ npx skills add LearnPrompt/goodcase --skill animation-style-consistency
 | クリエイター | メソッド | ケース | インストール | ページ |
 | --- | --- | --- | --- | --- |
 | noorwithwifi | Ghibli ASMR Whimsy<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1diwzmp` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1diwzmp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| yourPlugAI | Animation style and character consistency | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| yourPlugAI | Animation style and character consistency<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="retro-dv-home-video"></a>
 
