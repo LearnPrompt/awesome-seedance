@@ -148,12 +148,12 @@ test("pickRetestShowcase returns reproduced cases first and includes one non-rep
   }
 });
 
-test("renderRetestSpotlight renders the claim, per-model table, verdict counts, showcase table, screenshot and sponsor link", () => {
+test("renderRetestSpotlight renders the claim, model-agnostic verdict totals, showcase table, screenshot and sponsor link", () => {
   const md = renderRetestSpotlight(cases, casesData.meta, "en");
   assert.match(md, /^## 🔁 Cross-model retests/);
-  assert.match(md, /first public prompt library/);
-  assert.match(md, /\| Model\s+\| Runs\s+\| Reproduction rate\s+\|/);
-  assert.match(md, /Verdicts across all runs: ✅ \d+ reproduced · ⚠️ \d+ degraded · ❌ \d+ failed/);
+  assert.doesNotMatch(md, /first|As far as we know/i); // 没法核的说法不写
+  assert.doesNotMatch(md, /Reproduction rate|\| Model\s+\|/); // 不按模型列复现率，只报总数
+  assert.match(md, /Verdicts across all \d+ runs, counted together rather than split by model: ✅ \d+ reproduced · ⚠️ \d+ degraded · ❌ \d+ failed/);
   assert.match(md, /\| Case\s+\| Original \(Seedance\)\s+\| Retest \(second model\)\s+\| Verdict\s+\|/);
   assert.match(md, new RegExp(`\\[${SPONSOR_EMAIL}\\]\\(mailto:${SPONSOR_EMAIL}\\)`));
   assert.match(md, /▶ output video/);

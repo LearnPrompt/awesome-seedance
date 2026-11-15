@@ -4,7 +4,11 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Source-checked Seedance 2.5 / 2.0 prompt library.** 1050 cases checked against their original posts, 493 cross-model retests, 27 reusable templates, and 85 installable AI-video Skills. The case library draws from goodcase.ai's 2236 source-checked AI cases across video, image, UI and copy. Case data syncs daily; new cases land every day.
+**Viral AI prompts, rerun on a second model. Results published either way.**<br>
+See it: [originals and reruns side by side, including the ones that did not hold up →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero)<br>
+Install: `npx skills add LearnPrompt/goodcase --skill <slug>`. The Skills live in [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase); slugs are in the [video Skill list](./docs/skills.md). Stable describes re-runs of each example's original prompt; new content generated with a Skill has not been tested.
+
+**Source-checked Seedance 2.5 / 2.0 prompt library.** 1050 cases checked against their original posts, 493 cross-model retests, 27 reusable templates, and 85 installable AI-video Skills. The case library draws from goodcase.ai's 2236 source-checked AI cases across video, image, UI and copy. Case data syncs daily; new cases arrive with each sync.
 
 [![cases](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=cases&color=e8541e&style=flat-square)](#-all-prompts) [![cross-model retests](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=cross-model%20retests&color=111111&style=flat-square)](#-cross-model-retests) [![templates](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=templates&color=111111&style=flat-square)](#-prompt-templates-by-category) [![AI video skills](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20video%20skills&color=111111&style=flat-square)](#-skills) [![updated](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=updated&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=agent%20skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
 
@@ -150,6 +154,8 @@ A Skill is an installable instruction pack for coding agents (Claude Code, Codex
 
 **Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable. **Awaiting tests** means fewer than 3 of a Skill's examples have been tested so far.
 
+This repository only exports video Skills: as of 2026-11-15, 27 of the 69 video Skills on goodcase.ai are Stable. The count changes as more examples are re-run.
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3c212aa02304.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library"><b>Seedance Prompt Library</b></a><br><sub>This repo's Skill. Every category template on this page plus the style library, so your agent writes structured Seedance prompts inside your editor.</sub><br><br><code>npx seedance-prompt-library install</code></td>
@@ -256,15 +262,9 @@ The 30 hottest cases across all versions. *prompt* opens the full entry in the g
 
 ## 🔁 Cross-model retests
 
-**As far as we know, this is the first public prompt library that re-runs its video prompts on a second model at scale and publishes the result either way.** 480 of the cases here have been re-run (493 runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.
+**Same prompt, second model: the original and the re-run sit side by side, including the ones that did not hold up.** 480 of the cases here have been re-run (493 runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.
 
-| Model               | Runs | Reproduction rate |
-| ------------------- | ---- | ----------------- |
-| MiniMax H3 Max 768p | 243  | 73%               |
-| Grok Imagine        | 240  | 74%               |
-| MiniMax H3 768p     | 10   | 80%               |
-
-Verdicts across all runs: ✅ 363 reproduced · ⚠️ 122 degraded · ❌ 8 failed. Runs without a final score show as `score n/a`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).
+Verdicts across all 493 runs, counted together rather than split by model: ✅ 363 reproduced · ⚠️ 122 degraded · ❌ 8 failed. Runs without a final score show as `score n/a`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).
 
 **Same prompt, second model.** Three examples, including one that did not hold up:
 
@@ -276,7 +276,7 @@ Verdicts across all runs: ✅ 363 reproduced · ⚠️ 122 degraded · ❌ 8 fai
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="Retest evidence block on a goodcase.ai case page">](https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=retests)
 
-Every run costs real inference money: over US$300 across 493 runs so far, at list price with no discounts, which is what anyone else would pay to reproduce them. We publish the result whether or not it flatters the prompt. Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor) or write to [carl@goodcase.ai](mailto:carl@goodcase.ai).
+Every run costs real inference money, and we publish the result whether or not it flatters the prompt. Want Kling, Veo, Hailuo or the Seedance 2.5 API added to the retest matrix? [Sponsor a batch →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor) or write to [carl@goodcase.ai](mailto:carl@goodcase.ai).
 
 ## 🎬 All Prompts
 

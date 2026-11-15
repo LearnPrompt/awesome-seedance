@@ -4,6 +4,10 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**爆款 AI 提示语，我们挑出来换个模型重跑，结果好坏都公开，例证跑得稳的 skill 标成稳定复现。**<br>
+看对照：[重跑过的，结果摆给你看 →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero)<br>
+怎么装：`npx skills add LearnPrompt/goodcase --skill <slug>`，skill 都在 [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase)，slug 查[视频 Skill 总表](./docs/skills.zh.md)。稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。
+
 **来源已核实的 Seedance 2.5 / 2.0 提示词库。** 1050 条案例逐条核对过原帖，493 次跨模型复测，27 个可复用模板，85 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2236 条来源已核实的 AI 案例。案例数据每天同步，新案例每天入库。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
@@ -150,6 +154,8 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 **稳定复现**的意思是：这个 Skill 至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语，不代表用这个 Skill 生成新内容也一定稳。**待测**是指例证还没测够 3 条。
 
+本仓只导出视频类 Skill：截至 2026-11-15，goodcase.ai 上的 69 个视频 Skill 里有 27 个稳定复现，这个数会随复测变化。
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3c212aa02304.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library"><b>Seedance 提示语模板库</b></a><br><sub>本仓自带的 Skill。把这页所有分类模板和风格库装进 agent，让它在你的编辑器里直接写出结构化的 Seedance 提示语。</sub><br><br><code>npx seedance-prompt-library install</code></td>
@@ -256,15 +262,9 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 ## 🔁 跨模型复测
 
-**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 这里已有 480 条案例被重跑过（累计 493 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。
+**同一段提示语，换一个模型重跑，原片和重跑结果并排放着，没跑出来的也在。** 这里已有 480 条案例被重跑过（累计 493 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。
 
-| 模型                  | 次数  | 复现率 |
-| ------------------- | --- | --- |
-| MiniMax H3 Max 768p | 243 | 73% |
-| Grok Imagine        | 240 | 74% |
-| MiniMax H3 768p     | 10  | 80% |
-
-全部复测的结论分布：✅ 363 复现 · ⚠️ 122 降级 · ❌ 8 失败。没有终评分的记录显示为“无评分”。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。
+493 次重跑不分模型合在一起算：✅ 363 复现 · ⚠️ 122 降级 · ❌ 8 失败。没有终评分的记录显示为无评分。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。
 
 **同一段 prompt，换一个模型。** 三个样例，其中一个没扛住：
 
@@ -276,7 +276,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="goodcase.ai 案例页上的复测证据区">](https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=retests)
 
-每次复测都是真金白银的推理费：到目前为止 493 次复测已超过 300 美元，按公开牌价算、不含任何折扣，别人复现同样的实验也是这个价。结果好坏我们都照发。 想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)，或直接写邮件到 [carl@goodcase.ai](mailto:carl@goodcase.ai)。
+每次复测都是真金白银的推理费，结果好坏我们都照发。 想把可灵、Veo、海螺或 Seedance 2.5 API 加进复测矩阵？[赞助一批复测 →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)，或直接写邮件到 [carl@goodcase.ai](mailto:carl@goodcase.ai)。
 
 ## 🎬 全部案例
 

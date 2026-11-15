@@ -8,7 +8,7 @@
 
 Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 48 creator methods, 69 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
 
-Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog every day.
+Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog daily.
 
 **Stable** means at least 3 of a Skill's example cases were re-run and 80% or more of them scored 70 or higher. The re-runs use each example's original prompt, so the label does not promise that new content you generate with the Skill will be just as stable. **Awaiting tests** means fewer than 3 of a Skill's examples have been tested so far.
 

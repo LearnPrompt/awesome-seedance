@@ -93,7 +93,7 @@ export function renderSkillListDoc(siteSkills, lang, opts = {}) {
   lines.push("");
   lines.push(
     t(lang, {
-      en: "Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog every day.",
+      en: "Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog daily.",
       zh: "每个 Skill 都能用 [skills CLI](https://github.com/vercel-labs/skills) 一行命令装好，安装命令就在下面。标题和简介来自 goodcase.ai，这一页每天按站点目录刷新。",
       ja: "各 Skill は [skills CLI](https://github.com/vercel-labs/skills) で 1 行でインストールでき、コマンドは下に載せています。タイトルと説明は goodcase.ai のもので（日本語訳はなく英語のまま）、このページは毎日サイトのカタログから更新されます。",
     })

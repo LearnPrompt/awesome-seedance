@@ -357,6 +357,22 @@ export function skillGateNote(lang) {
 }
 
 /**
+ * 稳定复现的汇总和范围，一句话：本仓只导出视频类，N 个里 M 个稳定复现，数字从 site-skills 现算。
+ * asOf 是数据日期（YYYY-MM-DD），没有就不写截至。导出里一个 gate 都没有时返回空串。
+ */
+export function skillGateSummary(siteSkills, lang, asOf = null) {
+  const entries = (siteSkills && siteSkills.skills) || [];
+  if (!entries.some((s) => s.gate)) return "";
+  const n = entries.length;
+  const m = entries.filter((s) => s.gate && s.gate.status === "stable").length;
+  return t(lang, {
+    en: `This repository only exports video Skills: ${asOf ? `as of ${asOf}, ` : ""}${m} of the ${n} video Skills on goodcase.ai are Stable. The count changes as more examples are re-run.`,
+    zh: `本仓只导出视频类 Skill：${asOf ? `截至 ${asOf}，` : ""}goodcase.ai 上的 ${n} 个视频 Skill 里有 ${m} 个稳定复现，这个数会随复测变化。`,
+    ja: `このリポジトリが扱うのは動画 Skill のみです。${asOf ? `${asOf} 時点で、` : ""}goodcase.ai の動画 Skill ${n} 個のうち ${m} 個が安定再現です。この数は再テストが進むと変わります。`,
+  });
+}
+
+/**
  * skillsData: data/skills.json（格子的标题、简介、安装命令都是手写的）。
  * opts.coverCasesFor(skill) → 该 Skill 的封面案例数组（调用方按 coverCases / templateId / coverTemplateId 解析好），
  * 取前 4 张有海报的拼成 2×2 小格，像 goodcase.ai 的 Skill 卡片那样一眼看到多种效果；不够 4 张就有几张放几张。
@@ -364,6 +380,7 @@ export function skillGateNote(lang) {
  * 链到 docs/skills*.md 里该 Skill 的小节；网格下面再放一行链到整张总表。
  * 格子按 siteSlug 在 site-skills 里找到的条目带 gate 时，安装命令下面多一行实测状态（skillGateText）；
  * 至少有一格显示了状态，表格前面才放那句稳定复现的说明。
+ * opts.asOf: 数据日期，给稳定复现汇总那句写截至（skillGateSummary）。
  * opts.campaign: utm_campaign；传了才给指向 goodcase.ai 的链接（标题、封面、更多 Skill）打 UTM，content 固定 skills-grid。
  */
 export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts = {}) {
@@ -387,7 +404,7 @@ export function renderSkillGrid(skillsData, lang, casesBySlug = new Map(), opts 
     })
   );
   lines.push("");
-  if (skills.some((s) => gateTextOf(s))) lines.push(skillGateNote(lang), "");
+  if (skills.some((s) => gateTextOf(s))) lines.push(skillGateNote(lang), "", skillGateSummary(siteSkills, lang, opts.asOf), "");
   lines.push("<table>");
   for (let i = 0; i < skills.length; i += cols) {
     lines.push("<tr>");

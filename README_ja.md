@@ -4,6 +4,10 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**バズった AI プロンプトを、別のモデルで再実行。結果は良くても悪くても公開します。**<br>
+見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero)<br>
+インストール: `npx skills add LearnPrompt/goodcase --skill <slug>`。Skill は [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase) にあり、slug は[動画 Skill 一覧](./docs/skills.ja.md)で確認できます。安定再現は実例の元のプロンプトを再実行した結果を指し、Skill で新しく生成した内容はテストしていません。
+
 **出典確認済みの Seedance 2.5 / 2.0 プロンプトライブラリ。** 1050 ケースをすべて元投稿と照合、493 回のクロスモデル再テスト、27 個の再利用可能テンプレート、85 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 2236 件の出典確認済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
@@ -150,6 +154,8 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 
 **安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。**テスト待ち**は、再テスト済みの実例がまだ 3 件に満たない状態です。
 
+このリポジトリが扱うのは動画 Skill のみです。2026-11-15 時点で、goodcase.ai の動画 Skill 69 個のうち 27 個が安定再現です。この数は再テストが進むと変わります。
+
 <table>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3c212aa02304.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://github.com/LearnPrompt/awesome-seedance/tree/main/agents/skills/seedance-prompt-library"><b>Seedance プロンプトライブラリ</b></a><br><sub>このリポジトリの Skill。このページの全カテゴリテンプレートとスタイルライブラリをエージェントに入れ、エディタ内で構造化された Seedance プロンプトを書かせます。</sub><br><br><code>npx seedance-prompt-library install</code></td>
@@ -256,15 +262,9 @@ AI 動画 Skill は合計 85 個です。goodcase.ai の 69 個（公式 21 個 
 
 ## 🔁 クロスモデル再テスト
 
-**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** ここに掲載された 480 ケースが再テスト済み（累計 493 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
+**同じプロンプトを別のモデルで再実行し、元の動画と再実行の結果を並べて掲載しています。うまくいかなかったものも載せています。** ここに掲載された 480 ケースが再テスト済み（累計 493 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
 
-| モデル                 | 回数  | 再現率 |
-| ------------------- | --- | --- |
-| MiniMax H3 Max 768p | 243 | 73% |
-| Grok Imagine        | 240 | 74% |
-| MiniMax H3 768p     | 10  | 80% |
-
-全実行の判定内訳: ✅ 363 再現 · ⚠️ 122 劣化 · ❌ 8 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
+全 493 回の判定内訳（モデル別には分けず合算）: ✅ 363 再現 · ⚠️ 122 劣化 · ❌ 8 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
 
 **同じプロンプト、別のモデル。** 3 つの例。うち 1 つは持ちこたえられなかったものです:
 
@@ -276,7 +276,7 @@ AI 動画 Skill は合計 85 個です。goodcase.ai の 69 個（公式 21 個 
 
 [<img src="./assets/goodcase-retest-evidence.png" width="800" alt="goodcase.ai のケースページにある再テスト証拠ブロック">](https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=retests)
 
-再テストは毎回、実費の推論コストがかかります。これまで 493 回で US$300 超（定価ベース、割引なし。誰が再現しても同じ金額です）。結果が良くても悪くてもそのまま公開します。 Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)、または [carl@goodcase.ai](mailto:carl@goodcase.ai) までご連絡ください。
+再テストは毎回、実費の推論コストがかかります。結果が良くても悪くてもそのまま公開します。 Kling、Veo、Hailuo、Seedance 2.5 API を再テスト対象に加えたい方へ: [バッチをスポンサーする →](https://github.com/LearnPrompt/awesome-seedance/issues/new?title=Sponsor%20a%20retest%20batch&labels=sponsor)、または [carl@goodcase.ai](mailto:carl@goodcase.ai) までご連絡ください。
 
 ## 🎬 全プロンプト
 
