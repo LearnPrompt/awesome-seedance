@@ -1,20 +1,20 @@
 # Awesome Seedance — Gallery Index
 
-All 1046 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 1052 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
 ## Pages
 
-- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.md) - cases 1–86 of 742.
-- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.md) - cases 87–160 of 742.
-- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.md) - cases 161–255 of 742.
-- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.md) - cases 256–350 of 742.
-- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.md) - cases 351–447 of 742.
-- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.md) - cases 448–545 of 742.
-- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.md) - cases 546–639 of 742.
-- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.md) - cases 640–713 of 742.
-- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.md) - cases 714–742 of 742.
+- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.md) - cases 1–83 of 748.
+- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.md) - cases 84–156 of 748.
+- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.md) - cases 157–249 of 748.
+- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.md) - cases 250–342 of 748.
+- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.md) - cases 343–440 of 748.
+- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.md) - cases 441–534 of 748.
+- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.md) - cases 535–632 of 748.
+- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.md) - cases 633–709 of 748.
+- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.md) - cases 710–748 of 748.
 - [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.md) - cases 1–94 of 304.
 - [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.md) - cases 95–198 of 304.
 - [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.md) - cases 199–285 of 304.
@@ -40,7 +40,7 @@ The ten hottest cases across all versions; each link opens the full entry on its
 - [Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin](./gallery-seedance-2-5-part-1.md#seoul-subway-revenge-woman-throws-her-tormentor-into-a-bin) - Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
 - [Two-Idol K-pop MV, Shot by Shot](./gallery-seedance-2-5-part-1.md#two-idol-k-pop-mv-shot-by-shot) - A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
 - [Mini DV Coffee ASMR Vlog](./gallery-seedance-2-5-part-1.md#mini-dv-coffee-asmr-vlog) - A cozy espresso-making vlog that manufactures authenticity out of consumer camcorder flaws — hand shake, focus hunting, auto-exposure shifts and tape grain — paired with an ASMR sound list, a three-second-per-beat storyboard and an explicit rule against looking commercial or AI-generated.
-- [Toddler Opens Doors to Learn Letters and Words](./gallery-seedance-2-5-part-1.md#toddler-opens-doors-to-learn-letters-and-words) - Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 - [Dynamic Promo for a Modern AI Inference Startup](./gallery-seedance-2-0-part-1.md#dynamic-promo-for-a-modern-ai-inference-startup) - Opus 5.5 is incredible at instructional video generation. I made this launch video for a inference startup in 1min for ~$2. Videos like these used to take weeks…
+- [Woman in Black Stands Still Amid a Synchronized Crowd](./gallery-seedance-2-5-part-1.md#woman-in-black-stands-still-amid-a-synchronized-crowd) - I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 
 ← [Back to README](../README.md)
