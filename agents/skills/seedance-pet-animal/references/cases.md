@@ -183,7 +183,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 ## E5 · Underwater Animal Orchestra
 
-- Seedance 2.5 · creator: @thisismariaa25 · heat: 75 · stability: 80
+- Seedance 2.5 · creator: @thisismariaa25 · heat: 74 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/cases/650742381d92.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
 - Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
 
@@ -253,7 +253,7 @@ Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:
 
 ## E8 · Tabby Cat Sings to Cat and Dog Companions in a Convertible at Night
 
-- Seedance 2.5 · creator: @MahiraEhan · heat: 68
+- Seedance 2.5 · creator: @MahiraEhan · heat: 67
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-a-high-definition-4k-cinematic-video-of-a-white-and-orange-tabby-cat-sitting-in-1d06290d933c) · [finished media](https://media.goodcase.ai/cases/24f4c2455c1d.mp4) · [poster](https://media.goodcase.ai/cases/e12da6fb5033.jpg) · [original source](https://x.com/MahiraEhan/status/2109875307675017668)
 - Summary: Midnight drives hit different when your passengers are this adorable🐾 Made with Seedance 2.5 Prompt: A high-definition 4K cinematic video of a white and orange…
 

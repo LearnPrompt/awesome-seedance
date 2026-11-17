@@ -17,10 +17,10 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
 | [POV and vlog presence](#pov-vlog-presence) | 105 | 12 |
 | [Action continuity choreography](#action-continuity-choreography) | 104 | 8 |
-| [Cinematic travel montage](#travel-city-walk) | 74 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 75 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
-| [Pets and animals as the lead](#pets-and-animals-lead) | 69 | 2 |
-| [Animation style and character consistency](#animation-style-consistency) | 61 | 2 |
+| [Pets and animals as the lead](#pets-and-animals-lead) | 70 | 2 |
+| [Animation style and character consistency](#animation-style-consistency) | 62 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
 | [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 46 | 0 |
@@ -116,7 +116,7 @@ npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-74 cases from 46 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+75 cases from 46 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill travel-city-walk
@@ -125,9 +125,9 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | Creator | Method | Cases | Install | Page |
 | --- | --- | --- | --- | --- |
 | CaliraVal | Cinematic travel montage | 6 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| noorlewisx | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ayzalnooor24521 | Cinematic travel montage | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| noorlewisx | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-69 cases from 36 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+70 cases from 36 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
@@ -170,7 +170,7 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-61 cases from 48 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+62 cases from 49 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill animation-style-consistency

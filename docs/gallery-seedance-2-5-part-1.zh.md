@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 1/9 页）
 
-Seedance 2.5 全部 748 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 754 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 1–84 条，共 748 条。
+本页：第 1–84 条，共 754 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
 
@@ -680,6 +680,10 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 [<img src="https://media.goodcase.ai/cases/077aa25f9b43.jpg" width="600" alt="超写实物体规则升级对比短片">](https://goodcase.ai/cases/seedance-2-5-este-prompt-convierte-fable-5-2-en-una-ma-quina-de-generar-shorts-de-youtube-fd2056f3af06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **作者:** @Nene11x | **来源:** [原帖](https://x.com/Nene11x/status/2120655812972421159) | **发布:** 2026-11-11 | **热度:** 95
+
+**稳定度：** 50/100
+
+**复测：** Codex built-in image generation · 2026-11-17 · ⚠️ 降级 (49.5 分) · [产物](https://media.goodcase.ai/retests/seedance-2-5-este-prompt-convierte-fable-5-2-en-una-ma-quina-de-generar-shorts-de-youtube-fd2056f3af06/image-codex-built-in-image-generation-20261118/generated.webp?v=1d6878e9d1c587d2)
 
 <details>
 <summary><b>完整 prompt（25 行，点开展开）</b></summary>
@@ -2013,6 +2017,33 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 阳台俯瞰雾中高桥与飞艇
+
+> i stopped rendering seedance 2.5 in 1080p. every take comes out in 480p now. when one is good, i drop that same take into kling 4.0 as video 1 and ask for the e…
+
+[<img src="https://media.goodcase.ai/cases/f3dbf9c23b9d.jpg" width="600" alt="阳台俯瞰雾中高桥与飞艇">](https://goodcase.ai/cases/antibokeh-seedance-2-5-ai-849354f68113?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @antibokeh_ | **来源:** [原帖](https://x.com/antibokeh_/status/2122009890436636795) | **发布:** 2026-11-15 | **热度:** 91
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+i stopped rendering seedance 2.5 in 1080p.
+
+every take comes out in 480p now. when one is good, i drop that same take into kling 4.0 as video 1 and ask for the exact same shot back in 1080p.
+
+same motion, same timing, same framing. less than half the credits of rendering it in 1080p straight.
+
+and the bad takes only ever cost me 480p.
+
+the prompt i use below:
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/antibokeh-seedance-2-5-ai-849354f68113?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 耳机女英雄以念力操纵车辆击退尸潮
 
 > This AI video looks like Marvel cut its special effects budget Created by Seedance 2.5 on @makeugc Do you think it should have been made more dynamic and given …
@@ -2948,31 +2979,6 @@ Camera is extremely low and close, starting at her legs and tracking forward and
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 地铁疾驰中的夏夜时尚女孩
-
-> Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
-
-[<img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="600" alt="地铁疾驰中的夏夜时尚女孩">](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2103032789910401038) | **发布:** 2026-09-24 | **热度:** 90
-
-<details>
-<summary><b>完整 prompt（7 行，点开展开）</b></summary>
-
-```
-Seedance 2.5 on @Flovaai 
-
-Use my referral link to join Flova https://t.co/l1lPYN3ENF
-
-Prompt
-
-Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 偶像腿日训练后的踉跄健身日记
 
 > Made with seedance 2.5 on Flova AI Prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it o…
@@ -3847,6 +3853,31 @@ NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated characte
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 地铁疾驰中的夏夜时尚女孩
+
+> Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
+
+[<img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="600" alt="地铁疾驰中的夏夜时尚女孩">](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2103032789910401038) | **发布:** 2026-09-24 | **热度:** 89
+
+<details>
+<summary><b>完整 prompt（7 行，点开展开）</b></summary>
+
+```
+Seedance 2.5 on @Flovaai 
+
+Use my referral link to join Flova https://t.co/l1lPYN3ENF
+
+Prompt
+
+Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 黑衣剑客烈焰横扫暗影兽群
 
@@ -4977,37 +5008,6 @@ Wide-angle cinematic camera, low camera angle close to the water surface, smooth
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 地铁关门嘲笑引发的爆笑反击
-
-> Revenge taken successfully 😳 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exa…
-
-[<img src="https://media.goodcase.ai/cases/101f63c774b7.jpg" width="600" alt="地铁关门嘲笑引发的爆笑反击">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **来源:** [原帖](https://x.com/AIwithSynthia/status/2098988104418050349) | **发布:** 2026-09-13 | **热度:** 86
-
-<details>
-<summary><b>完整 prompt（13 行，点开展开）</b></summary>
-
-```
-Create a 30-second, 1080p ultra-realistic Korean subway action-comedy scene using the uploaded images as exact visual references; keep characters, faces, hair, outfits and environment consistent.
-Young Korean woman, early 20s, long straight black hair, fitted pastel-blue cropped top, loose pajama-style pants, simple silver jewelry; confident, expressive and slightly mischievous.
-Young Korean man, short black hair, gray button-up shirt, dark trousers and white sneakers; playful at first, then shocked and embarrassed.
-She rushes down the subway stairs toward a waiting train, but the doors close just as she reaches them.
-The man inside sees her through the glass and laughs at her; she stares at him angrily and says, “Are you seriously laughing?”
-He laughs again, so she suddenly punches the glass beside the door, cracking and breaking the safety glass realistically with no injury or gore.
-She reaches through the broken opening, grabs his shirt and pulls him safely out onto the platform; he lands awkwardly on the floor in shock.
-She calmly climbs through the same broken opening into the train, straightens her pastel top and pajama pants, and walks inside as stunned passengers watch.
-The man remains sitting outside, looking confused and humiliated while passengers stare at him through the windows.
-One passenger starts laughing, then everyone bursts into laughter while the man looks around helplessly.
-She looks at him through the window, gives a tiny satisfied smile, then casually turns away.
-Ultra-realistic Korean subway lighting, gritty DV-inspired look, natural motion blur, realistic physics, handheld imperfections, authentic reactions and ambient subway audio; no music.
-No gore, blood, serious injuries, identity drift, outfit changes, duplicated people, teleportation, regenerating glass, distorted hands, CGI look, subtitles, captions, text, logos or watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-korean-subway-action-comedy-scene-usi-7d2531af4b66?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)

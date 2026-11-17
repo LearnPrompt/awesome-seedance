@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 1/9)
 
-All 748 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 754 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 1–83 of 748.
+This page: cases 1–83 of 754.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)
 
@@ -680,6 +680,10 @@ Cinematic sci-fi horror-action short film set in a research laboratory, opens wi
 [<img src="https://media.goodcase.ai/cases/077aa25f9b43.jpg" width="600" alt="Hyperreal studio shorts escalating one object by a single rule">](https://goodcase.ai/cases/seedance-2-5-este-prompt-convierte-fable-5-2-en-una-ma-quina-de-generar-shorts-de-youtube-fd2056f3af06?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
 **Author:** @Nene11x | **Source:** [Original](https://x.com/Nene11x/status/2120655812972421159) | **Published:** 2026-11-11 | **Heat:** 95
+
+**Stability:** 50/100
+
+**Retest:** Codex built-in image generation · 2026-11-17 · ⚠️ degraded (score 49.5) · [output](https://media.goodcase.ai/retests/seedance-2-5-este-prompt-convierte-fable-5-2-en-una-ma-quina-de-generar-shorts-de-youtube-fd2056f3af06/image-codex-built-in-image-generation-20261118/generated.webp?v=1d6878e9d1c587d2)
 
 <details>
 <summary><b>Full prompt (25 lines, click to expand)</b></summary>
@@ -2013,6 +2017,33 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Balcony view of a misty bridge, towers, and airship
+
+> i stopped rendering seedance 2.5 in 1080p. every take comes out in 480p now. when one is good, i drop that same take into kling 4.0 as video 1 and ask for the e…
+
+[<img src="https://media.goodcase.ai/cases/f3dbf9c23b9d.jpg" width="600" alt="Balcony view of a misty bridge, towers, and airship">](https://goodcase.ai/cases/antibokeh-seedance-2-5-ai-849354f68113?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @antibokeh_ | **Source:** [Original](https://x.com/antibokeh_/status/2122009890436636795) | **Published:** 2026-11-15 | **Heat:** 91
+
+<details>
+<summary><b>Full prompt (9 lines, click to expand)</b></summary>
+
+```
+i stopped rendering seedance 2.5 in 1080p.
+
+every take comes out in 480p now. when one is good, i drop that same take into kling 4.0 as video 1 and ask for the exact same shot back in 1080p.
+
+same motion, same timing, same framing. less than half the credits of rendering it in 1080p straight.
+
+and the bad takes only ever cost me 480p.
+
+the prompt i use below:
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/antibokeh-seedance-2-5-ai-849354f68113?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Earbud-Wearing Heroine Moves Vehicles by Telekinesis to Repel Zombies
 
 > This AI video looks like Marvel cut its special effects budget Created by Seedance 2.5 on @makeugc Do you think it should have been made more dynamic and given …
@@ -2948,31 +2979,6 @@ Camera is extremely low and close, starting at her legs and tracking forward and
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-pov-your-crush-is-the-landscape-and-you-re-late-for-work-9cab76396089?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Summer-Night Fashion Girl by a Speeding Metro
-
-> Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
-
-[<img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="600" alt="Summer-Night Fashion Girl by a Speeding Metro">](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2103032789910401038) | **Published:** 2026-09-24 | **Heat:** 90
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Seedance 2.5 on @Flovaai 
-
-Use my referral link to join Flova https://t.co/l1lPYN3ENF
-
-Prompt
-
-Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### An Idol's Wobbly Post–Leg Day Gym Diary
 
 > Made with seedance 2.5 on Flova AI Prompt: **CAMERA:** DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself, occasionally propping it o…
@@ -3847,6 +3853,31 @@ NEGATIVE: No cartoon, anime, toy-like appearance, animation, duplicated characte
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-f6c3d40e8edd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Summer-Night Fashion Girl by a Speeding Metro
+
+> Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
+
+[<img src="https://media.goodcase.ai/cases/d6bbdc164e90.jpg" width="600" alt="Summer-Night Fashion Girl by a Speeding Metro">](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2103032789910401038) | **Published:** 2026-09-24 | **Heat:** 89
+
+<details>
+<summary><b>Full prompt (7 lines, click to expand)</b></summary>
+
+```
+Seedance 2.5 on @Flovaai 
+
+Use my referral link to join Flova https://t.co/l1lPYN3ENF
+
+Prompt
+
+Photoreal cinematic ~9 seconds, high-end fashion-film look. A young woman with long wavy blonde hair, olive-tan skin, sharp brows, and glossy lips. A pale pink flower is pinned behind her right ear. She wears a light blue spaghetti-strap mini dress with small black polka dots and carries a woven straw shoulder bag. Soft glam makeup, gold jewelry, warm skin highlights. Location: underground subway platform at night. Yellow safety strip on the platform edge, tiled walls, overhead fluorescent lights. A silver metro train streaks behind her in heavy motion blur — windows, doors, and at one moment an Japanese flag graphic on the passing car. Shot sequence, continuous energy: Medium close-up, she looks over her shoulder into camera while the train screams past behind her. Profile: she brings a lip wand or finger to her mouth, applying gloss as hair lifts in the train wind. She turns, hair swinging, eyes on camera, slight smirk. Wider on the platform: she touches her collarbone / strap, dress and bag readable, train still moving in the background. Head tipped back, hair flying, chin up, train with the flag ripping through frame. She looks back and smiles. Fast hair flip — hand rakes through hair, back partly to camera. Tight close-up: she blows a kiss to lens, fingers near lips, flower still in hair. Camera: mixed handheld fashion-cam and locked beauty close-ups. Shallow depth of field on her face, background train smeared into silver-and-light streaks. Practical station lighting plus a warm key on her skin. Color: creamy highlights, rich dark hair, the pink flower and red lips pop against cool subway metal. Motion: hair and dress always moving from train rush / her own turns. No extra people in focus. Mood: confident, flirty, summer-night city girl, music-video energy. Audio direction: upbeat dance-pop / Latin-pop, lyrics in the vein of “she got that vibe… dance all night… eyes on me.” Train rumble low under the track. Style keywords: photoreal fashion film, subway platform, motion-blur train, polka-dot sundress, pink hair flower, straw bag, glossy lips, hair flip, blow kiss, shallow focus, night metro lighting, 4K, no text overlay. Character lock (use with the reference still): Same woman 📷dp.jpg as the daylight field photo: long blonde center-parted waves, pink flower over the right ear, light blue black-polka-dot sundress, woven bag, warm skin, full lips. Keep identity consistent across every shot. #flovacpp
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Black-Robed Swordsman Sweeps Through Shadow Beasts
 
@@ -4948,35 +4979,6 @@ Use synchronized, exaggerated but realistic sound effects: shower valve click, t
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-live-action-miniature-person-vfx-comedy-vide-eb069c17b460?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Lavender-Haired Girl Leaps Through a Pool Wave
-
-> Made with seedance 2.5 Prompt: Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gra…
-
-[<img src="https://media.goodcase.ai/cases/5b534bd92cd2.jpg" width="600" alt="Lavender-Haired Girl Leaps Through a Pool Wave">](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zoyavelle | **Source:** [Original](https://x.com/Zoyavelle/status/2100089287345951159) | **Published:** 2026-09-16 | **Heat:** 86
-
-**Stability:** 83/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.9) · [output](https://media.goodcase.ai/retests/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Cinematic photorealistic scene inside an indoor swimming pool. A young woman with short lavender-purple hair, wearing a light gray school-style blazer, white shirt with a blue bow tie, dark pleated skirt, white knee-high socks and black shoes, stands in the middle of a swimming pool surrounded by several young female swimmers wearing dark navy one-piece swimsuits.
-
-The scene begins with the lavender-haired girl standing face-to-face with a group of swimmers in a large indoor aquatic center, with tiled walls, industrial ceiling lights and a dramatic cool blue-gray color palette. Suddenly she moves through the shallow swimming pool as a massive wave of water crashes around her. She runs and jumps through the water with energetic, playful movement while the other swimmers react with surprise and excitement.
-
-Huge realistic water splashes, powerful waves, water droplets flying through the air, realistic wet surfaces, dynamic motion, cinematic slow-motion moments, natural human movement, detailed facial expressions, realistic skin and wet clothing, atmospheric mist and water spray.
-
-Wide-angle cinematic camera, low camera angle close to the water surface, smooth tracking shots, occasional slow motion, dramatic framing, shallow depth of field, realistic reflections on the pool water, volumetric indoor lighting, cool desaturated blue tones, high contrast, subtle film grain, professional movie cinematography, highly detailed, photorealistic, realistic physics, 4K, 24fps cinematic footage.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-photorealistic-scene-inside-an-indoor-swimming-pool-206ad2eea8f1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

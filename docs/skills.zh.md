@@ -17,10 +17,10 @@
 | [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 116 | 9 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 105 | 12 |
 | [动作连续性编排](#action-continuity-choreography) | 104 | 8 |
-| [电影感旅行漫游](#travel-city-walk) | 74 | 5 |
+| [电影感旅行漫游](#travel-city-walk) | 75 | 5 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 2 |
-| [宠物动物当主角](#pets-and-animals-lead) | 69 | 2 |
-| [动画风格与角色一致性](#animation-style-consistency) | 61 | 2 |
+| [宠物动物当主角](#pets-and-animals-lead) | 70 | 2 |
+| [动画风格与角色一致性](#animation-style-consistency) | 62 | 2 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 48 | 3 |
 | [恐怖悬疑短片](#horror-suspense-short) | 47 | 3 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 46 | 0 |
@@ -116,7 +116,7 @@ npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-74 个案例，来自 46 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+75 个案例，来自 46 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill travel-city-walk
@@ -125,9 +125,9 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | CaliraVal | 电影感旅行漫游 | 6 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| noorlewisx | 电影感旅行漫游 | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | 电影感旅行漫游 | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ayzalnooor24521 | 电影感旅行漫游 | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| noorlewisx | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | 电影感旅行漫游 | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
@@ -153,7 +153,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
 
-69 个案例，来自 36 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+70 个案例，来自 36 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
@@ -170,7 +170,7 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 
 > 在多镜头动画中固定角色造型、运动语言和材质画风。
 
-61 个案例，来自 48 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+62 个案例，来自 49 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill animation-style-consistency

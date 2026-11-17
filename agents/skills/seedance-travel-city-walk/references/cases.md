@@ -176,7 +176,7 @@ Style: Photorealistic, authentic English winter mood (overcast, misty, not heavy
 
 ## E7 · A Korean Woman’s 30-Second Taiwan Travel Vlog
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 74 · stability: 60
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 73 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e) · [finished media](https://media.goodcase.ai/cases/0ae80af7efda.mp4) · [poster](https://media.goodcase.ai/cases/4d344a6d9409.jpg) · [original source](https://x.com/Just_sharon7/status/2099847404266918037)
 - Summary: Seedance 2.5 on @DomoAI_ Prompt AN EXCITING TAIWAN TRAVEL VLOG — 30 SEC MUSIC CUT SUBJECT: one fictional adult Korean woman in her early twenties, with large ro…
 

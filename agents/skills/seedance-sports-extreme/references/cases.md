@@ -144,7 +144,7 @@ Negative:
 
 ## E2 · Woman Snowboarding and Catching Air at an Alpine Resort
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 79 · stability: 79
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 78 · stability: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb) · [finished media](https://media.goodcase.ai/media/video/ayzalnooor24521-seedance-ai-db77eb406bfb.mp4) · [poster](https://media.goodcase.ai/media/poster/ayzalnooor24521-seedance-ai-db77eb406bfb.jpg) · [original source](https://x.com/ayzalnooor24521/status/2094243156225315270)
 - Summary: Chasing the rush where snow meets the sky. Big jumps, fresh powder, and endless mountain energy. Created on seedance 2.0
 
@@ -342,7 +342,7 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 
 ## E8 · Seedance Smooth Snowboard Run Through a Terrain Park
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 55 · stability: 73
+- Seedance 2.5 · creator: @nawalsehar · heat: 54 · stability: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-e50de3d2896e.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-e50de3d2896e.jpg) · [original source](https://x.com/nawalsehar/status/2088854230626865490)
 - Summary: Some runs are all about the flow. Seedance 2.5 keeps every carve, jump, and landing feeling naturally smooth with seamle
 

@@ -35,7 +35,7 @@ Photorealistic live-action quality, cinematic composition, natural human movemen
 
 ## E2 · Summer-Night Fashion Girl by a Speeding Metro
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 90
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-seedance-2-5-on-983204b66ae5) · [finished media](https://media.goodcase.ai/cases/92c1b19a1f3a.mp4) · [poster](https://media.goodcase.ai/cases/d6bbdc164e90.jpg) · [original source](https://x.com/Just_sharon7/status/2103032789910401038)
 - Summary: Seedance 2.5 on @Flovaai Use my referral link to join Flova https://t.co/l1lPYN3ENF Prompt Photoreal cinematic ~9 seconds, high-end fashion-film look. A young w…
 
