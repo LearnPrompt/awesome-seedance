@@ -62,7 +62,7 @@ The camera naturally lowers a little as he walks further along the path beside t
 
 ## E3 · A Cat's Cozy Day Filmed as a Selfie Vlog
 
-- Seedance 2.5 · creator: @ZaraIrahh · heat: 87 · stability: 70
+- Seedance 2.5 · creator: @ZaraIrahh · heat: 86 · stability: 70
 - Evidence: [GoodCase](https://goodcase.ai/cases/zarairahh-seedance-ai-f89372941867) · [finished media](https://media.goodcase.ai/media/video/zarairahh-seedance-ai-f89372941867.mp4) · [poster](https://media.goodcase.ai/media/poster/zarairahh-seedance-ai-f89372941867.jpg) · [original source](https://x.com/ZaraIrahh/status/2091385137133219971)
 - Summary: Just a normal day in the life of a very busy cat 🐱✨ Created with Seedance 2.5 on @wavespeed_ai Prompt: Create a 60-seco
 
@@ -243,7 +243,7 @@ Maintain consistent animal appearances throughout the entire video.
 
 ## E7 · Woman rescues a rain-soaked kitten, then they share spaghetti
 
-- Seedance 2.5 · creator: @Aiwithmaha · heat: 72
+- Seedance 2.5 · creator: @Aiwithmaha · heat: 71
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-emotional-short-film-in-vertical-9-020b16110b31) · [finished media](https://media.goodcase.ai/cases/184bd993e72a.mp4) · [poster](https://media.goodcase.ai/cases/9568bce8bc64.jpg) · [original source](https://x.com/Aiwithmaha/status/2118903281280020855)
 - Summary: A little kindness can turn a rainy day into a beautiful story. Sometimes, saving a tiny life means everything! Made using Seedance 2.5 on @CuddlerAI #CuddlerHal…
 

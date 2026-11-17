@@ -1,24 +1,24 @@
 # Awesome Seedance — ギャラリー索引
 
-全 1050 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 1052 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
 ## ページ
 
-- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.ja.md) - 743 件中 1–85 件目.
-- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.ja.md) - 743 件中 86–159 件目.
-- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.ja.md) - 743 件中 160–254 件目.
-- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.ja.md) - 743 件中 255–346 件目.
-- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.ja.md) - 743 件中 347–442 件目.
-- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.ja.md) - 743 件中 443–539 件目.
-- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.ja.md) - 743 件中 540–634 件目.
-- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.ja.md) - 743 件中 635–709 件目.
-- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.ja.md) - 743 件中 710–743 件目.
-- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 307 件中 1–93 件目.
-- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 307 件中 94–200 件目.
-- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 307 件中 201–288 件目.
-- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 307 件中 289–307 件目.
+- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.ja.md) - 748 件中 1–82 件目.
+- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.ja.md) - 748 件中 83–156 件目.
+- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.ja.md) - 748 件中 157–248 件目.
+- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.ja.md) - 748 件中 249–341 件目.
+- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.ja.md) - 748 件中 342–438 件目.
+- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.ja.md) - 748 件中 439–531 件目.
+- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.ja.md) - 748 件中 532–627 件目.
+- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.ja.md) - 748 件中 628–704 件目.
+- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.ja.md) - 748 件中 705–748 件目.
+- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 304 件中 1–93 件目.
+- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 304 件中 94–197 件目.
+- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 304 件中 198–285 件目.
+- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 304 件中 286–304 件目.
 
 ## このリポジトリのその他の入口
 
@@ -40,7 +40,7 @@
 - [Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin](./gallery-seedance-2-5-part-1.ja.md#seoul-subway-revenge-woman-throws-her-tormentor-into-a-bin) - Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
 - [Two-Idol K-pop MV, Shot by Shot](./gallery-seedance-2-5-part-1.ja.md#two-idol-k-pop-mv-shot-by-shot) - A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
 - [Mini DV Coffee ASMR Vlog](./gallery-seedance-2-5-part-1.ja.md#mini-dv-coffee-asmr-vlog) - A cozy espresso-making vlog that manufactures authenticity out of consumer camcorder flaws — hand shake, focus hunting, auto-exposure shifts and tape grain — paired with an ASMR sound list, a three-second-per-beat storyboard and an explicit rule against looking commercial or AI-generated.
-- [Toddler Opens Doors to Learn Letters and Words](./gallery-seedance-2-5-part-1.ja.md#toddler-opens-doors-to-learn-letters-and-words) - Made with seedance 2.5 Prompt 👇 Create a high-quality vertical 9:16 3D animated educational kids video in a bright, colorful, cute nursery-rhyme style. Main ch…
 - [Dynamic Promo for a Modern AI Inference Startup](./gallery-seedance-2-0-part-1.ja.md#dynamic-promo-for-a-modern-ai-inference-startup) - Opus 5.5 is incredible at instructional video generation. I made this launch video for a inference startup in 1min for ~$2. Videos like these used to take weeks…
+- [Woman in Black Stands Still Amid a Synchronized Crowd](./gallery-seedance-2-5-part-1.ja.md#woman-in-black-stands-still-amid-a-synchronized-crowd) - I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 
 ← [README に戻る](../README_ja.md)
