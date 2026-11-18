@@ -4,7 +4,6 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**バズった AI プロンプトを、別のモデルで再実行。結果は良くても悪くても公開します。**<br>
 見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero#contrast)<br>
 インストール: `npx skills add LearnPrompt/goodcase --skill <slug>`。Skill は [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase) にあり、slug は[動画 Skill 一覧](./docs/skills.ja.md)で確認できます。安定再現は実例の元のプロンプトを再実行した結果を指し、Skill で新しく生成した内容はテストしていません。
 
@@ -346,7 +345,7 @@ AI 動画 Skill は合計 86 個です。goodcase.ai の 70 個（公式 21 個 
 
 ここにあるケースはすべて、本人と GoodCase のレビュアーが元投稿と照合したものです。[X @aiwarts](https://x.com/aiwarts) と WeChat 公式アカウント [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)（中国語）で発信中。質問、訂正、コラボレーション: [carl@goodcase.ai](mailto:carl@goodcase.ai)。
 
-<table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase Feishu グループ QR コード"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>
+<table><tr><td align="center"><img src="./assets/feishu-group-qr.png" width="180" alt="GoodCase Feishu グループ QR コード"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>
 
 ## 著作権と削除申請
 
