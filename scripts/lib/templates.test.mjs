@@ -20,6 +20,9 @@ import {
   renderTemplateDoc,
   renderTemplateGrid,
   renderTemplateIndex,
+  skillGateNote,
+  skillGateSummary,
+  skillGateText,
   skillsHeading,
   startHereHeading,
   templateDocLang,
@@ -329,4 +332,86 @@ test("section headings carry no U+FE0F, so computed anchors match what GitHub ge
     }
   }
   assert.equal(anchorOf(templatesHeading("zh")), "#-分类提示语模板");
+});
+
+// 实测状态：data/site-skills.json 条目上可选的 gate 字段。
+const GATE_TEXT = {
+  en: { stable: "Stable · 5 tested, 4 passed", below: "3 tested, 1 passed", testing: "Awaiting tests", note: /^\*\*Stable\*\* means at least 3 .* scored 70 or higher\. .* original prompt.*\*\*Awaiting tests\*\* means fewer than 3 / },
+  zh: { stable: "稳定复现 · 5 条例证实测，4 条通过", below: "3 条例证实测，1 条通过", testing: "待测", note: /^\*\*稳定复现\*\*的意思是：.*至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语.*\*\*待测\*\*是指例证还没测够 3 条。$/ },
+  ja: { stable: "安定再現 · 実例 5 件を再テスト、4 件が合格", below: "実例 3 件を再テスト、1 件が合格", testing: "テスト待ち", note: /^\*\*安定再現\*\*は、.*少なくとも 3 件を再実行し、8 割以上が 70 点以上.*元のプロンプト.*\*\*テスト待ち\*\*は、.*3 件に満たない/ },
+};
+
+test("skillGateText: stable gets the label plus counts, below gets counts only, everything else renders nothing", () => {
+  for (const lang of LANGS) {
+    assert.equal(skillGateText({ status: "stable", tested: 5, passed: 4 }, lang), GATE_TEXT[lang].stable);
+    assert.equal(skillGateText({ status: "below", tested: 3, passed: 1 }, lang), GATE_TEXT[lang].below);
+    // testing 对外叫待测，只给小标，不跟条数
+    assert.equal(skillGateText({ status: "testing", tested: 1, passed: 1 }, lang), GATE_TEXT[lang].testing);
+    assert.equal(skillGateText({ status: "testing" }, lang), GATE_TEXT[lang].testing);
+    // untestable 这一版不显示；没有字段、字段残缺、不认识的状态都不显示也不抛错
+    for (const gate of [
+      { status: "untestable", tested: 0, passed: 0 },
+      undefined,
+      null,
+      {},
+      { status: "stable" },
+      { status: "stable", tested: "5", passed: 4 },
+      { status: "someday-new", tested: 9, passed: 9 },
+    ]) {
+      assert.equal(skillGateText(gate, lang), "", `${lang}: ${JSON.stringify(gate)}`);
+    }
+    assert.match(skillGateNote(lang), GATE_TEXT[lang].note);
+  }
+  // 中文文案不用英文双引号
+  assert.doesNotMatch(skillGateNote("zh") + GATE_TEXT.zh.stable, /"/);
+});
+
+test("renderSkillGrid: tiles show the gate line of their site Skill; data without gate fields renders exactly as before", () => {
+  const withGate = (gates) => ({ ...siteSkills, skills: siteSkills.skills.map((x) => (gates[x.slug] ? { ...x, gate: gates[x.slug] } : x)) });
+  const opts = (site) => ({ coverCasesFor: () => [], siteSkills: site });
+  for (const lang of LANGS) {
+    const plain = renderSkillGrid(skillsData, lang, new Map(), opts(siteSkills));
+    // 没有 gate 字段：不显示状态，也不放那句说明
+    assert.ok(!plain.includes(skillGateNote(lang)), `${lang}: no note without gate data`);
+
+    const stableSite = withGate({ b: { status: "stable", tested: 5, passed: 4 } });
+    const noteBlock = (site) => `${skillGateNote(lang)}\n\n${skillGateSummary(site, lang)}\n\n`;
+    const stable = renderSkillGrid(skillsData, lang, new Map(), opts(stableSite));
+    assert.ok(stable.includes(`<code>npx skills add x --skill b</code><br><sub>${GATE_TEXT[lang].stable}</sub><br><sub><a href=`), `${lang}: stable line sits between install and creator methods`);
+    // 说明在表格前面，只出现一次；除了说明和那一行，其余和没有判定时逐字节相同
+    assert.ok(stable.indexOf(skillGateNote(lang)) > 0 && stable.indexOf(skillGateNote(lang)) < stable.indexOf("<table>"), `${lang}: note before the grid`);
+    assert.equal(stable.replace(noteBlock(stableSite), "").replace(`<br><sub>${GATE_TEXT[lang].stable}</sub>`, ""), plain, `${lang}: nothing else changes`);
+    // a 是只在网格里的本仓 Skill，没有 siteSlug，永远没有状态
+    assert.doesNotMatch(stable.split("<td width")[1], /tested|实测|再テスト/, `${lang}: grid-only tile stays bare`);
+
+    const below = renderSkillGrid(skillsData, lang, new Map(), opts(withGate({ b: { status: "below", tested: 3, passed: 1 } })));
+    assert.ok(below.includes(`<br><sub>${GATE_TEXT[lang].below}</sub>`), `${lang}: below shows counts only`);
+    assert.doesNotMatch(below.split("<table>")[1], /Stable|稳定复现|安定再現/, `${lang}: below gets no label`);
+
+    const testingSite = withGate({ b: { status: "testing", tested: 1, passed: 1 } });
+    const testing = renderSkillGrid(skillsData, lang, new Map(), opts(testingSite));
+    assert.ok(testing.includes(`<code>npx skills add x --skill b</code><br><sub>${GATE_TEXT[lang].testing}</sub><br><sub><a href=`), `${lang}: testing shows the label alone`);
+    assert.equal(testing.replace(noteBlock(testingSite), "").replace(`<br><sub>${GATE_TEXT[lang].testing}</sub>`, ""), plain, `${lang}: testing adds the note and one label, no counts`);
+
+    // untestable，以及判定只挂在不进网格的条目上（c、创作者方法）：网格和没有判定时一样
+    for (const gates of [
+      { b: { status: "untestable", tested: 0, passed: 0 } },
+      { c: { status: "stable", tested: 5, passed: 5 }, "b-by-1": { status: "stable", tested: 4, passed: 4 } },
+    ]) {
+      assert.equal(renderSkillGrid(skillsData, lang, new Map(), opts(withGate(gates))), plain, `${lang}: ${Object.keys(gates)} hidden`);
+    }
+  }
+});
+
+test("skillGateSummary: counts stable Skills from the export, states the scope and date, and is empty without gate data", () => {
+  const n = siteSkills.skills.length;
+  const gated = { ...siteSkills, skills: siteSkills.skills.map((x, i) => ({ ...x, gate: { status: i === 0 ? "stable" : "testing", tested: 3, passed: 3 } })) };
+  for (const lang of LANGS) assert.equal(skillGateSummary(siteSkills, lang, "2026-11-15"), "", `${lang}: no gate fields, no sentence`);
+  assert.equal(skillGateSummary(gated, "zh", "2026-11-15"), `本仓只导出视频类 Skill：截至 2026-11-15，goodcase.ai 上的 ${n} 个视频 Skill 里有 1 个稳定复现，这个数会随复测变化。`);
+  assert.match(skillGateSummary(gated, "en", "2026-11-15"), new RegExp(`only exports video Skills: as of 2026-11-15, 1 of the ${n} video Skills`));
+  assert.match(skillGateSummary(gated, "ja", "2026-11-15"), new RegExp(`2026-11-15 時点で、goodcase.ai の動画 Skill ${n} 個のうち 1 個が安定再現`));
+  assert.doesNotMatch(skillGateSummary(gated, "zh"), /截至/);
+  // 网格里：汇总紧跟在稳定复现的说明后面
+  const grid = renderSkillGrid(skillsData, "zh", new Map(), { coverCasesFor: () => [], siteSkills: { ...siteSkills, skills: siteSkills.skills.map((x) => (x.slug === "b" ? { ...x, gate: { status: "stable", tested: 5, passed: 4 } } : x)) }, asOf: "2026-11-15" });
+  assert.match(grid, /不代表用这个 Skill 生成新内容也一定稳。.*\n\n本仓只导出视频类 Skill：截至 2026-11-15，/);
 });

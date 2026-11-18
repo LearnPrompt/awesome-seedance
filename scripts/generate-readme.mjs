@@ -76,14 +76,14 @@ const casesData = loadJson("data/cases.json");
 // 模板库 = data/style-library.json（上游蒸馏导出）叠加 data/templates-local.json（本仓手写），
 // 再配 data/case-taxonomy.json（全量 case → 模板 的归类）。
 const { library, taxonomy } = loadLibrary(ROOT);
-// 站点全量数字与复测花费（data/site.json，人工/脚本刷新）；文件缺失时相关行不渲染、花费只说“花真钱”。
+// 站点全量数字（data/site.json，人工/脚本刷新）；文件缺失时相关行不渲染。
 let site = null;
 try {
   site = loadJson("data/site.json");
 } catch {
   site = null;
 }
-const retestSpend = site?.retestSpend ?? null;
+// data/site.json 里的 retestSpend 不再渲染：这个花费数不在对外数字的底账里，复测一节只说花真钱。
 // README 的 Skill 网格（data/skills.json）；文件缺失时整节不渲染。
 let skillsData = null;
 try {
@@ -138,6 +138,28 @@ const skillCoverCases = (skill) => {
 
 const AWESOME_BADGE = "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)";
 
+// 顶部三行：主句、去看对照、怎么装（goodcase 2.0 门面）。写成一段三行，不用列表（awesome-lint 的 list-item 规则）。
+// 对照的落点是站点首页的对照块；首页那一块目前没有锚点 id，先链首页。日文主句是暂译，待人工确认。
+const SKILL_REPO_URL = "https://github.com/LearnPrompt/goodcase";
+const SKILL_INSTALL = "npx skills add LearnPrompt/goodcase --skill <slug>";
+const PITCH = {
+  en: (contrast, list) => [
+    "**Viral AI prompts, rerun on a second model. Results published either way.**",
+    `See it: [originals and reruns side by side, including the ones that did not hold up →](${contrast})`,
+    `Install: \`${SKILL_INSTALL}\`. The Skills live in [LearnPrompt/goodcase](${SKILL_REPO_URL}); slugs are in the [video Skill list](${list}). Stable describes re-runs of each example's original prompt; new content generated with a Skill has not been tested.`,
+  ],
+  zh: (contrast, list) => [
+    "**爆款 AI 提示语，我们挑出来换个模型重跑，结果好坏都公开，例证跑得稳的 skill 标成稳定复现。**",
+    `看对照：[重跑过的，结果摆给你看 →](${contrast})`,
+    `怎么装：\`${SKILL_INSTALL}\`，skill 都在 [LearnPrompt/goodcase](${SKILL_REPO_URL})，slug 查[视频 Skill 总表](${list})。稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。`,
+  ],
+  ja: (contrast, list) => [
+    "**バズった AI プロンプトを、別のモデルで再実行。結果は良くても悪くても公開します。**",
+    `見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](${contrast})`,
+    `インストール: \`${SKILL_INSTALL}\`。Skill は [LearnPrompt/goodcase](${SKILL_REPO_URL}) にあり、slug は[動画 Skill 一覧](${list})で確認できます。安定再現は実例の元のプロンプトを再実行した結果を指し、Skill で新しく生成した内容はテストしていません。`,
+  ],
+};
+
 const LANG_LABELS = { en: "English", zh: "中文", ja: "日本語" };
 function renderLangSwitch(lang) {
   return LANGS.map((l) => {
@@ -156,7 +178,7 @@ const COPY = {
     tagline: (s) =>
       `**Source-checked Seedance 2.5 / 2.0 prompt library.** ${s.cases} cases checked against their original posts, ${s.retestRuns} cross-model retests, ${s.templates} reusable templates, and ${s.skills} installable AI-video Skills.${
         s.siteTotalCases ? ` The case library draws from goodcase.ai's ${s.siteTotalCases} source-checked AI cases across video, image, UI and copy.` : ""
-      } Case data syncs daily; new cases land every day.`,
+      } Case data syncs daily; new cases arrive with each sync.`,
     backlink:
       "More source-checked AI cases with full prompts → [GoodCase.ai](https://goodcase.ai/cases?filter=video)",
     contentsHeading: "## Contents",
@@ -451,7 +473,7 @@ function buildReadme(lang) {
     })
   );
   pushRendered(renderTemplateGrid(library, lang, templateIndex, { campaign }));
-  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases, siteSkills, campaign }));
+  if (skillsData) pushRendered(renderSkillGrid(skillsData, lang, casesBySlug, { coverCasesFor: skillCoverCases, siteSkills, campaign, asOf: snapshot.lastUpdated }));
 
   // Top 榜是唯一可裁剪的部分：超预算时从表尾裁行，标题/说明按实际行数回填。
   const top = renderTopTable(topPartition.top, lang, {
@@ -468,7 +490,7 @@ function buildReadme(lang) {
   }
 
   // 复测聚焦区：meta.retests 缺失或 totalRuns 为 0 时返回 null，整节不渲染。
-  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { spend: retestSpend, retestPosterFor, campaign });
+  const spotlight = renderRetestSpotlight(cases, casesData.meta, lang, { retestPosterFor, campaign });
   const spotlightSection = spotlight
     ? [{ heading: spotlight.split("\n")[0], body: spotlight.split("\n").slice(1).join("\n").trim().split("\n") }]
     : [];
@@ -510,6 +532,8 @@ function buildReadme(lang) {
   head.push(`[<img src="./assets/hero.svg" width="100%" alt="${c.heroAlt}">](${withUtm(LIVE_SITE_URL, { campaign, content: "hero" })})`);
   head.push("");
   head.push(c.title);
+  head.push("");
+  head.push(PITCH[lang](`${withUtm("https://goodcase.ai/", { campaign, content: "hero" })}#contrast`, `./docs/${skillListFileName(lang)}`).join("<br>\n"));
   head.push("");
   head.push(c.tagline(snapshot));
   head.push("");

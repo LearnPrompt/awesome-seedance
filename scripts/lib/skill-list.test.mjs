@@ -4,7 +4,7 @@ import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { LANGS } from "./render.mjs";
-import { skillListFileName } from "./templates.mjs";
+import { skillListFileName, skillGateNote } from "./templates.mjs";
 import { groupSiteSkills, siteSkillCounts, methodLabel, renderSkillListDoc } from "./skill-list.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -122,4 +122,42 @@ test("data/site-skills.json: counts field matches the entries and every method h
   assert.ok(groups.every((g) => g.official), "no orphan creator methods");
   assert.equal(groups.reduce((n, g) => n + g.methods.length, 0), counts.creatorMethods);
   for (const s of real.skills) assert.equal(s.install, `npx skills add LearnPrompt/goodcase --skill ${s.slug}`);
+});
+
+test("renderSkillListDoc: gate status under official Skills and inside creator-method rows; no gate fields, no change", () => {
+  const text = {
+    en: { stable: "Stable · 5 tested, 4 passed", below: "3 tested, 1 passed", testing: "Awaiting tests" },
+    zh: { stable: "稳定复现 · 5 条例证实测，4 条通过", below: "3 条例证实测，1 条通过", testing: "待测" },
+    ja: { stable: "安定再現 · 実例 5 件を再テスト、4 件が合格", below: "実例 3 件を再テスト、1 件が合格", testing: "テスト待ち" },
+  };
+  const gates = {
+    alpha: { status: "stable", tested: 5, passed: 4 },
+    "alpha-by-1": { status: "below", tested: 3, passed: 1 },
+    "alpha-by-2": { status: "testing", tested: 1, passed: 0 },
+    beta: { status: "untestable", tested: 0, passed: 0 },
+  };
+  const gated = { ...data, skills: data.skills.map((s) => ({ ...s, gate: gates[s.slug] })) };
+  for (const lang of LANGS) {
+    const plain = renderSkillListDoc(data, lang);
+    assert.ok(!plain.includes(skillGateNote(lang)), `${lang}: no note without gate data`);
+    const md = renderSkillListDoc(gated, lang);
+    const lines = md.split("\n");
+    // 官方 Skill：统计行下面单独一行
+    assert.ok(lines.includes(text[lang].stable), `${lang}: stable line under the official Skill`);
+    // 创作者方法：写在方法名那一格里，below 不带小标
+    const row = lines.find((l) => l.startsWith("| Kim_ai |"));
+    assert.ok(row.includes(`<br><sub>${text[lang].below}</sub> | 6 |`), `${lang}: below counts in the method cell: ${row}`);
+    assert.doesNotMatch(row, /Stable|稳定复现|安定再現/, `${lang}: below gets no label`);
+    // testing 只给待测小标，不跟条数；untestable 不显示，beta 小节同没有判定时一样
+    assert.ok(lines.find((l) => l.startsWith("| lee |")).includes(`<br><sub>${text[lang].testing}</sub> | 3 |`), `${lang}: testing label alone`);
+    assert.equal(md.slice(md.indexOf('<a id="beta">')), plain.slice(plain.indexOf('<a id="beta">')), `${lang}: untestable hidden`);
+    // 说明只出现一次，在总目录前面；去掉说明和两处状态后与没有判定时逐字节相同
+    const note = skillGateNote(lang);
+    assert.equal(md.split(note).length, 2, `${lang}: note once`);
+    assert.ok(md.indexOf(note) < md.indexOf("| --- |"), `${lang}: note before the index table`);
+    assert.equal(md.replace(`${note}\n\n`, "").replace(`${text[lang].stable}\n\n`, "").replace(`<br><sub>${text[lang].below}</sub>`, "").replace(`<br><sub>${text[lang].testing}</sub>`, ""), plain, `${lang}: nothing else changes`);
+    // 只有 untestable 时连说明都不放
+    const hidden = { ...data, skills: data.skills.map((s) => ({ ...s, gate: { status: "untestable", tested: 1, passed: 1 } })) };
+    assert.equal(renderSkillListDoc(hidden, lang), plain, `${lang}: nothing displayable, output unchanged`);
+  }
 });
