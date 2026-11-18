@@ -4,8 +4,7 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**爆款 AI 提示语，我们挑出来换个模型重跑，结果好坏都公开，例证跑得稳的 skill 标成稳定复现。**<br>
-看对照：[重跑过的，结果摆给你看 →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero#contrast)<br>
+看对照：[原片和重跑并排，没跑好的也在 →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero#contrast)<br>
 怎么装：`npx skills add LearnPrompt/goodcase --skill <slug>`，skill 都在 [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase)，slug 查[视频 Skill 总表](./docs/skills.zh.md)。稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。
 
 **来源已核实的 Seedance 2.5 / 2.0 提示词库。** 1059 条案例逐条核对过原帖，494 次跨模型复测，27 个可复用模板，86 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2264 条来源已核实的 AI 案例。案例数据每天同步，新案例每天入库。
@@ -346,7 +345,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。公众号 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)、X [@aiwarts](https://x.com/aiwarts)。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。
 
-<table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase 飞书群二维码"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>
+<table><tr><td align="center"><img src="./assets/feishu-group-qr.png" width="180" alt="GoodCase 飞书群二维码"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>
 
 ## 版权与下架政策
 

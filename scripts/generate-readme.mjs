@@ -138,23 +138,20 @@ const skillCoverCases = (skill) => {
 
 const AWESOME_BADGE = "[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)";
 
-// 顶部三行：主句、去看对照、怎么装（goodcase 2.0 门面）。写成一段三行，不用列表（awesome-lint 的 list-item 规则）。
+// 顶部两行：去看对照、怎么装。2026-11-19 卡尔定：2.0 加的主句撤掉，站点口径回到 AI提示语案例合集。写成一段三行，不用列表（awesome-lint 的 list-item 规则）。
 // 对照的落点是站点首页的对照块；首页那一块目前没有锚点 id，先链首页。日文主句是暂译，待人工确认。
 const SKILL_REPO_URL = "https://github.com/LearnPrompt/goodcase";
 const SKILL_INSTALL = "npx skills add LearnPrompt/goodcase --skill <slug>";
 const PITCH = {
   en: (contrast, list) => [
-    "**Viral AI prompts, rerun on a second model. Results published either way.**",
     `See it: [originals and reruns side by side, including the ones that did not hold up →](${contrast})`,
     `Install: \`${SKILL_INSTALL}\`. The Skills live in [LearnPrompt/goodcase](${SKILL_REPO_URL}); slugs are in the [video Skill list](${list}). Stable describes re-runs of each example's original prompt; new content generated with a Skill has not been tested.`,
   ],
   zh: (contrast, list) => [
-    "**爆款 AI 提示语，我们挑出来换个模型重跑，结果好坏都公开，例证跑得稳的 skill 标成稳定复现。**",
-    `看对照：[重跑过的，结果摆给你看 →](${contrast})`,
+    `看对照：[原片和重跑并排，没跑好的也在 →](${contrast})`,
     `怎么装：\`${SKILL_INSTALL}\`，skill 都在 [LearnPrompt/goodcase](${SKILL_REPO_URL})，slug 查[视频 Skill 总表](${list})。稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。`,
   ],
   ja: (contrast, list) => [
-    "**バズった AI プロンプトを、別のモデルで再実行。結果は良くても悪くても公開します。**",
     `見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](${contrast})`,
     `インストール: \`${SKILL_INSTALL}\`。Skill は [LearnPrompt/goodcase](${SKILL_REPO_URL}) にあり、slug は[動画 Skill 一覧](${list})で確認できます。安定再現は実例の元のプロンプトを再実行した結果を指し、Skill で新しく生成した内容はテストしていません。`,
   ],
@@ -231,7 +228,7 @@ const COPY = {
       "",
       "Every case here is something he or the GoodCase reviewers checked against the original post. Follow along on [X @aiwarts](https://x.com/aiwarts) or the WeChat official account [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q) (Chinese). Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).",
       "",
-      "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu group QR code\"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>",
+      "<table><tr><td align=\"center\"><img src=\"./assets/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu group QR code\"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>",
     ].join("\n"),
     copyrightHeading: "## Copyright & Takedown Notice",
     copyrightBody: [
@@ -310,7 +307,7 @@ const COPY = {
       "",
       "这里的每一条案例都是他和 GoodCase 审核团队对着原帖核过的。公众号 [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)、X [@aiwarts](https://x.com/aiwarts)。提问、纠错、合作：[carl@goodcase.ai](mailto:carl@goodcase.ai)。",
       "",
-      "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase 飞书群二维码\"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>",
+      "<table><tr><td align=\"center\"><img src=\"./assets/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase 飞书群二维码\"><br><sub>扫码进 GoodCase 飞书群：新案例、复测结果、模板更新都先发在群里。</sub></td></tr></table>",
     ].join("\n"),
     copyrightHeading: "## 版权与下架政策",
     copyrightBody: [
@@ -389,7 +386,7 @@ const COPY = {
       "",
       "ここにあるケースはすべて、本人と GoodCase のレビュアーが元投稿と照合したものです。[X @aiwarts](https://x.com/aiwarts) と WeChat 公式アカウント [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q)（中国語）で発信中。質問、訂正、コラボレーション: [carl@goodcase.ai](mailto:carl@goodcase.ai)。",
       "",
-      "<table><tr><td align=\"center\"><img src=\"https://goodcase.ai/community/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu グループ QR コード\"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>",
+      "<table><tr><td align=\"center\"><img src=\"./assets/feishu-group-qr.png\" width=\"180\" alt=\"GoodCase Feishu グループ QR コード\"><br><sub>GoodCase の Feishu グループ（中国語）に参加: 新しいケース、再テスト結果、テンプレート更新が最初に届きます。</sub></td></tr></table>",
     ].join("\n"),
     copyrightHeading: "## 著作権と削除申請",
     copyrightBody: [

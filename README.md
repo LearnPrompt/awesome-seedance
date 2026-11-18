@@ -4,7 +4,6 @@
 
 # Awesome Seedance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Viral AI prompts, rerun on a second model. Results published either way.**<br>
 See it: [originals and reruns side by side, including the ones that did not hold up →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-en&utm_content=hero#contrast)<br>
 Install: `npx skills add LearnPrompt/goodcase --skill <slug>`. The Skills live in [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase); slugs are in the [video Skill list](./docs/skills.md). Stable describes re-runs of each example's original prompt; new content generated with a Skill has not been tested.
 
@@ -346,7 +345,7 @@ This project's format and Skill-packaging approach were shaped by:
 
 Every case here is something he or the GoodCase reviewers checked against the original post. Follow along on [X @aiwarts](https://x.com/aiwarts) or the WeChat official account [卡尔的AI沃茨](https://mp.weixin.qq.com/s/bNtxe27sQfGVig40VCAd_Q) (Chinese). Questions, corrections and collaborations: [carl@goodcase.ai](mailto:carl@goodcase.ai).
 
-<table><tr><td align="center"><img src="https://goodcase.ai/community/feishu-group-qr.png" width="180" alt="GoodCase Feishu group QR code"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>
+<table><tr><td align="center"><img src="./assets/feishu-group-qr.png" width="180" alt="GoodCase Feishu group QR code"><br><sub>Scan to join the GoodCase Feishu group (Chinese): new cases, retest results, template drops.</sub></td></tr></table>
 
 ## Copyright & Takedown Notice
 
