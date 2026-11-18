@@ -55,8 +55,12 @@ test("200 但带挑战标记也失败", async () => {
 });
 
 test("超时明确失败", async () => {
+  // 真 fetch 有连接撑着事件循环；Node 20/22 的 AbortSignal.timeout 计时器不占循环，假 fetch 得自己占住，否则测试被取消
   const fetchImpl = (_url, { signal }) =>
-    new Promise((_, reject) => signal.addEventListener("abort", () => reject(signal.reason)));
+    new Promise((_, reject) => {
+      const keepAlive = setTimeout(() => {}, 5_000);
+      signal.addEventListener("abort", () => { clearTimeout(keepAlive); reject(signal.reason); });
+    });
   await assert.rejects(fetchSiteStats({ fetchImpl, timeoutMs: 20 }), /timeout|aborted/i);
 });
 
