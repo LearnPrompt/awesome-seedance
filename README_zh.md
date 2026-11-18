@@ -8,7 +8,7 @@
 看对照：[重跑过的，结果摆给你看 →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero#contrast)<br>
 怎么装：`npx skills add LearnPrompt/goodcase --skill <slug>`，skill 都在 [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase)，slug 查[视频 Skill 总表](./docs/skills.zh.md)。稳定复现说的是例证的原提示语重跑的结果，没测过 skill 生成的新内容。
 
-**来源已核实的 Seedance 2.5 / 2.0 提示词库。** 1058 条案例逐条核对过原帖，494 次跨模型复测，27 个可复用模板，85 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2236 条来源已核实的 AI 案例。案例数据每天同步，新案例每天入库。
+**来源已核实的 Seedance 2.5 / 2.0 提示词库。** 1058 条案例逐条核对过原帖，494 次跨模型复测，27 个可复用模板，86 个可安装的 AI 视频 Skill。案例库来自 goodcase.ai 横跨视频、图像、UI、文案的 2236 条来源已核实的 AI 案例。案例数据每天同步，新案例每天入库。
 
 [![案例](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E6%A1%88%E4%BE%8B&color=e8541e&style=flat-square)](#-全部案例) [![跨模型复测](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E8%B7%A8%E6%A8%A1%E5%9E%8B%E5%A4%8D%E6%B5%8B&color=111111&style=flat-square)](#-跨模型复测) [![模板](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E6%A8%A1%E6%9D%BF&color=111111&style=flat-square)](#-分类提示语模板) [![AI 视频 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E8%A7%86%E9%A2%91%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
 
@@ -50,7 +50,7 @@
 | --- | --- | --- |
 | **适合谁** | 新手，以及不想装任何东西的人 | 已经在用 Claude Code、Codex 这类 agent 的专业用户 |
 | **怎么用** | 复制，换掉【】，粘到任意 AI 对话 | 一行命令装好，之后直接跟 agent 说需求 |
-| **覆盖范围** | 27 个分类模板 | 有案例依据的提示语结构和制作工作流，共 85 个 Skill 与创作者方法 |
+| **覆盖范围** | 27 个分类模板 | 有案例依据的提示语结构和制作工作流，共 86 个 Skill 与创作者方法 |
 | **拿到什么** | 一次一条靠谱的提示语 | 根据所选 Skill，得到提示语，或制作计划与验收记录 |
 
 只想看案例，去[热度 Top 30](#-热度-top-30) 或[全部案例](#-全部案例)。想知道一条提示语靠不靠谱，看[跨模型复测](#-跨模型复测)。
@@ -150,11 +150,11 @@
 
 ## 🧰 Skill
 
-Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 36 个 Skill，另有 48 个创作者方法，带着某位创作者的个人风格。
+Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 帮你写有案例依据的提示语；制作工作流 Skill 负责素材规划、生成交接和成片验收。下面是 36 个 Skill，另有 49 个创作者方法，带着某位创作者的个人风格。
 
 **稳定复现**的意思是：这个 Skill 至少有 3 条例证被重跑过，其中八成以上达到 70 分。测的是例证的原提示语，不代表用这个 Skill 生成新内容也一定稳。**待测**是指例证还没测够 3 条。
 
-本仓只导出视频类 Skill：截至 2026-11-18，goodcase.ai 上的 69 个视频 Skill 里有 27 个稳定复现，这个数会随复测变化。
+截至 2026-11-18，goodcase.ai 全站 112 个 Skill 里有 48 个稳定复现，本仓列的是其中的视频类，这个数会随复测变化。
 
 <table>
 <tr>
@@ -184,7 +184,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3c212aa02304.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://github.com/LearnPrompt/goodcase"><b>GoodCase 案例查询</b></a><br><sub>让 agent 实时查整个 goodcase.ai 案例库：全部模型、完整提示语、热度、稳定分和复测基线。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill goodcase</code></td>
-<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/efc88aa19bcf.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><b>POV / Vlog 临场感</b></a><br><sub>用第一视角、手持运动和生活化细节制造可信的在场感。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill pov-vlog-presence</code><br><sub>64 条例证实测，51 条通过</sub><br><sub><a href="./docs/skills.zh.md#pov-vlog-presence">另有 12 个创作者方法</a></sub></td>
+<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/efc88aa19bcf.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><b>POV / Vlog 临场感</b></a><br><sub>用第一视角、手持运动和生活化细节制造可信的在场感。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill pov-vlog-presence</code><br><sub>64 条例证实测，51 条通过</sub><br><sub><a href="./docs/skills.zh.md#pov-vlog-presence">另有 13 个创作者方法</a></sub></td>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/cde7c7488c1e.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-part-1-0-30s-0e5b77e47efa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/bf73c9360c92.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/shamiweb3-seedance-ai-5620b354e47d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/shamiweb3-seedance-ai-5620b354e47d.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid"><b>产品广告镜头</b></a><br><sub>从产品卖点出发，编排开场钩子、使用场景和品牌收束镜头。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill product-ad-shot-design</code><br><sub>稳定复现 · 44 条例证实测，43 条通过</sub><br><sub><a href="./docs/skills.zh.md#product-ad-shot-design">另有 2 个创作者方法</a></sub></td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 </tr>
 </table>
 
-一共 85 个 AI 视频 Skill：goodcase.ai 上的 69 个（21 个官方 + 48 个创作者方法），加上只在上面网格里的 16 个。**[goodcase.ai 上 69 个视频 Skill 的总表 →](./docs/skills.zh.md)** 一页列全，每个都带安装命令。
+一共 86 个 AI 视频 Skill：goodcase.ai 上的 70 个（21 个官方 + 49 个创作者方法），加上只在上面网格里的 16 个。**[goodcase.ai 上 70 个视频 Skill 的总表 →](./docs/skills.zh.md)** 一页列全，每个都带安装命令。
 
 上面每条安装命令都走 [skills CLI](https://github.com/vercel-labs/skills)。名字以 `seedance-` 开头的 Skill 放在本仓的 [agents/skills](./agents/skills) 下：模板库和单片型 Skill 根据案例数据重新生成，制作工作流 Skill 则单独维护。模板库 Skill 也可以用 `npx seedance-prompt-library install` 一步装进 Claude Code 和 Codex。图像、编程、文案方向的更多 Skill 在 [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-zh&utm_content=skills-grid)。
 
@@ -262,9 +262,16 @@ Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。模板 Skill 
 
 ## 🔁 跨模型复测
 
-**同一段提示语，换一个模型重跑，原片和重跑结果并排放着，没跑出来的也在。** 这里已有 481 条案例被重跑过（累计 494 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。
+**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 原片和重跑结果并排放着，没跑出来的也在。这里已有 481 条案例被重跑过（累计 494 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。
 
-494 次重跑不分模型合在一起算：✅ 363 复现 · ⚠️ 123 降级 · ❌ 8 失败。没有终评分的记录显示为无评分。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。
+| 模型                              | 次数  | 复现率 |
+| ------------------------------- | --- | --- |
+| MiniMax H3 Max 768p             | 243 | 73% |
+| Grok Imagine                    | 240 | 74% |
+| MiniMax H3 768p                 | 10  | 80% |
+| Codex built-in image generation | 1   | 0%  |
+
+全部 494 次重跑的结论分布：✅ 363 复现 · ⚠️ 123 降级 · ❌ 8 失败。没有终评分的记录显示为无评分。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。
 
 **同一段 prompt，换一个模型。** 三个样例，其中一个没扛住：
 

@@ -10,6 +10,7 @@ import {
   sortByHeat,
   thumbCell,
   githubSlug,
+  aggregateRetestsByModel,
   classifySeedance,
   bucketShortLabel,
   bucketLabel,
@@ -276,6 +277,8 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   const retestsMeta = meta && meta.retests;
   const retestPosterFor = opts.retestPosterFor || (() => null);
   if (!retestsMeta || !retestsMeta.totalRuns) return null;
+  const perModel = aggregateRetestsByModel(cases, meta);
+  if (perModel.size === 0) return null;
   const counts = verdictCounts(cases);
   const runs = retestsMeta.totalRuns;
   const casesWith = retestsMeta.casesWithRetests || 0;
@@ -287,21 +290,27 @@ export function renderRetestSpotlight(cases, meta, lang, opts = {}) {
   lines.push("");
   lines.push(
     t(lang, {
-      en: `**Same prompt, second model: the original and the re-run sit side by side, including the ones that did not hold up.** ${casesWith} of the cases here have been re-run (${runs} runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.`,
-      zh: `**同一段提示语，换一个模型重跑，原片和重跑结果并排放着，没跑出来的也在。** 这里已有 ${casesWith} 条案例被重跑过（累计 ${runs} 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。`,
-      ja: `**同じプロンプトを別のモデルで再実行し、元の動画と再実行の結果を並べて掲載しています。うまくいかなかったものも載せています。** ここに掲載された ${casesWith} ケースが再テスト済み（累計 ${runs} 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。`,
+      en: `**As far as we know, this is the first public prompt library that re-runs its video prompts on a second model at scale and publishes the result either way.** The original and the re-run sit side by side, including the ones that did not hold up. ${casesWith} of the cases here have been re-run (${runs} runs so far), each with a verdict, a judge score and the generated output. A prompt that only ever worked once, for its author, on one model, is a screenshot; a prompt that survives a re-run is a method.`,
+      zh: `**据我们所知，这是第一个把视频提示词批量拿到第二个模型上重跑、成败都公开的提示词库。** 原片和重跑结果并排放着，没跑出来的也在。这里已有 ${casesWith} 条案例被重跑过（累计 ${runs} 次），每次都带结论、评分和生成产物。只在作者手里、只在一个模型上成功过一次的 prompt 是截图；能扛住重跑的 prompt 才是方法。`,
+      ja: `**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** 元の動画と再実行の結果を並べて掲載しています。うまくいかなかったものも載せています。ここに掲載された ${casesWith} ケースが再テスト済み（累計 ${runs} 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。`,
     })
   );
   lines.push("");
-  // 不按模型列复现率：口径是不给模型排座次，这里只报不分模型的总数（按模型的明细仍在 data/cases.json 的 meta.retests 里）。
+  // 卡尔 11-19 定：据我们所知第一个、按模型列的复现率表都是真的，保留。
+  const headers = t(lang, { en: ["Model", "Runs", "Reproduction rate"], zh: ["模型", "次数", "复现率"], ja: ["モデル", "回数", "再現率"] });
+  const rows = Array.from(perModel.entries())
+    .sort((a, b) => b[1].runs - a[1].runs)
+    .map(([model, { runs: n, reproduced }]) => [model, String(n), n > 0 ? `${Math.round((reproduced / n) * 100)}%` : "-"]);
+  lines.push(renderTable(headers, rows));
+  lines.push("");
   const verdictLine = ["reproduced", "degraded", "failed"]
     .map((k) => `${VERDICT_LABEL[k].icon} ${counts[k]} ${VERDICT_LABEL[k][lang]}`)
     .join(" · ");
   lines.push(
     t(lang, {
-      en: `Verdicts across all ${runs} runs, counted together rather than split by model: ${verdictLine}. Runs without a final score show as \`score n/a\`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).`,
-      zh: `${runs} 次重跑不分模型合在一起算：${verdictLine}。没有终评分的记录显示为无评分。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。`,
-      ja: `全 ${runs} 回の判定内訳（モデル別には分けず合算）: ${verdictLine}。最終スコアのない実行は \`スコア n/a\` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。`,
+      en: `Verdicts across all ${runs} runs: ${verdictLine}. Runs without a final score show as \`score n/a\`. Per-case verdicts, scores and output videos are on each case's goodcase.ai page; the model labels and batch dates are explained under [Statistics](#statistics).`,
+      zh: `全部 ${runs} 次重跑的结论分布：${verdictLine}。没有终评分的记录显示为无评分。每条案例的结论、评分和产出视频都在它的 goodcase.ai 页面上；模型标签和批次日期的说明见[统计](#统计)。`,
+      ja: `全 ${runs} 回の判定内訳: ${verdictLine}。最終スコアのない実行は \`スコア n/a\` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。`,
     })
   );
   lines.push("");

@@ -6,7 +6,7 @@
 
 <!-- data/site-skills.json から生成。手編集不可。npm run generate を実行 -->
 
-[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) のすべての動画 Skill です。公式 Skill 21 個とクリエイターメソッド 48 個、計 69 個。Skill は Claude Code や Codex などのエージェントに入れる指示パックです。公式 Skill は同じ種類の動画について多くのクリエイターのケースから抽出し、クリエイターメソッドは一人のクリエイターが繰り返し使う手法から抽出して、そのスタイルを引き継ぎます。
+[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) のすべての動画 Skill です。公式 Skill 21 個とクリエイターメソッド 49 個、計 70 個。Skill は Claude Code や Codex などのエージェントに入れる指示パックです。公式 Skill は同じ種類の動画について多くのクリエイターのケースから抽出し、クリエイターメソッドは一人のクリエイターが繰り返し使う手法から抽出して、そのスタイルを引き継ぎます。
 
 各 Skill は [skills CLI](https://github.com/vercel-labs/skills) で 1 行でインストールでき、コマンドは下に載せています。タイトルと説明は goodcase.ai のもので（日本語訳はなく英語のまま）、このページは毎日サイトのカタログから更新されます。
 
@@ -17,7 +17,7 @@
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
-| [POV and vlog presence](#pov-vlog-presence) | 105 | 12 |
+| [POV and vlog presence](#pov-vlog-presence) | 105 | 13 |
 | [Action continuity choreography](#action-continuity-choreography) | 104 | 8 |
 | [Cinematic travel montage](#travel-city-walk) | 75 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
@@ -70,7 +70,7 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 
 > Create credible presence through first-person framing, handheld movement, and lived-in detail.
 
-55 人のクリエイターによる 105 ケース · クリエイターメソッド 12 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+55 人のクリエイターによる 105 ケース · クリエイターメソッド 13 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 実例 64 件を再テスト、51 件が合格
 
@@ -92,6 +92,7 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 | oggii_0 | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | POV and vlog presence<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Goodmanprotocol | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| YourAlphaMom | POV and vlog presence<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-yai6a9` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-yai6a9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="action-continuity-choreography"></a>
 

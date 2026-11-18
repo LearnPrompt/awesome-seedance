@@ -6,7 +6,7 @@
 
 <!-- Generated from data/site-skills.json. Do not hand-edit; run npm run generate -->
 
-Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 48 creator methods, 69 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
+Every video Skill on [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro): 21 official Skills plus 49 creator methods, 70 in all. A Skill is an installable instruction pack for coding agents such as Claude Code and Codex. An official Skill is distilled from many creators' cases of one kind of video; a creator method is distilled from one creator's recurring cases and carries that creator's style.
 
 Each Skill installs with one line through the [skills CLI](https://github.com/vercel-labs/skills); the install lines are listed below. Titles and descriptions come from goodcase.ai, and this page is refreshed from the site's catalog daily.
 
@@ -17,7 +17,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
-| [POV and vlog presence](#pov-vlog-presence) | 105 | 12 |
+| [POV and vlog presence](#pov-vlog-presence) | 105 | 13 |
 | [Action continuity choreography](#action-continuity-choreography) | 104 | 8 |
 | [Cinematic travel montage](#travel-city-walk) | 75 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
@@ -70,7 +70,7 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 
 > Create credible presence through first-person framing, handheld movement, and lived-in detail.
 
-105 cases from 55 creators · 12 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+105 cases from 55 creators · 13 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 64 tested, 51 passed
 
@@ -92,6 +92,7 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 | oggii_0 | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | POV and vlog presence<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Goodmanprotocol | POV and vlog presence | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| YourAlphaMom | POV and vlog presence<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-yai6a9` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-yai6a9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="action-continuity-choreography"></a>
 

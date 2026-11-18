@@ -3,7 +3,11 @@
   "category": "video",
   "counts": {
     "official": 21,
-    "creatorMethods": 48
+    "creatorMethods": 49
+  },
+  "siteWide": {
+    "total": 112,
+    "stable": 48
   },
   "skills": [
     {
@@ -600,6 +604,31 @@
         "status": "untestable",
         "tested": 1,
         "passed": 1
+      }
+    },
+    {
+      "slug": "pov-vlog-presence-by-yai6a9",
+      "baseSlug": "pov-vlog-presence",
+      "kind": "creator_method",
+      "title": {
+        "en": "YourAlphaMom · POV and vlog presence",
+        "zh": "YourAlphaMom · POV / Vlog 临场感"
+      },
+      "description": {
+        "en": "A recurring pov and vlog presence method derived from 3 published cases by YourAlphaMom.",
+        "zh": "从 YourAlphaMom 的 3 个已发布 Case 中归纳出的「POV / Vlog 临场感」方法。"
+      },
+      "styleTag": null,
+      "creator": "YourAlphaMom",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-yai6a9",
+      "url": "https://goodcase.ai/skills/pov-vlog-presence-by-yai6a9",
+      "cover": "https://media.goodcase.ai/media/poster/16mm-handheld-influencer-vlog.jpg",
+      "gate": {
+        "status": "testing",
+        "tested": 2,
+        "passed": 2
       }
     },
     {
