@@ -8,7 +8,7 @@
 見比べる: [元の動画と再実行の結果を並べて掲載。うまくいかなかったものも載せています →](https://goodcase.ai/?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero#contrast)<br>
 インストール: `npx skills add LearnPrompt/goodcase --skill <slug>`。Skill は [LearnPrompt/goodcase](https://github.com/LearnPrompt/goodcase) にあり、slug は[動画 Skill 一覧](./docs/skills.ja.md)で確認できます。安定再現は実例の元のプロンプトを再実行した結果を指し、Skill で新しく生成した内容はテストしていません。
 
-**出典確認済みの Seedance 2.5 / 2.0 プロンプトライブラリ。** 1058 ケースをすべて元投稿と照合、494 回のクロスモデル再テスト、27 個の再利用可能テンプレート、85 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 2236 件の出典確認済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
+**出典確認済みの Seedance 2.5 / 2.0 プロンプトライブラリ。** 1058 ケースをすべて元投稿と照合、494 回のクロスモデル再テスト、27 個の再利用可能テンプレート、86 個のインストール可能な AI 動画 Skill。ケースライブラリの母体は goodcase.ai の動画・画像・UI・コピーにまたがる 2236 件の出典確認済み AI ケースです。ケースデータは毎日同期し、新しいケースが追加されます。
 
 [![ケース](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.cases&label=%E3%82%B1%E3%83%BC%E3%82%B9&color=e8541e&style=flat-square)](#-全プロンプト) [![クロスモデル再テスト](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.retestRuns&label=%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E5%86%8D%E3%83%86%E3%82%B9%E3%83%88&color=111111&style=flat-square)](#-クロスモデル再テスト) [![テンプレート](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.templates&label=%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88&color=111111&style=flat-square)](#-カテゴリ別プロンプトテンプレート) [![AI 動画 Skill](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.skills&label=AI%20%E5%8B%95%E7%94%BB%20Skill&color=111111&style=flat-square)](#-skill) [![更新](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FLearnPrompt%2Fawesome-seedance%2Fmain%2Fdata%2Fstats.json&query=%24.lastUpdated&label=%E6%9B%B4%E6%96%B0&color=555555&style=flat-square)](https://goodcase.ai/cases?filter=video&q=seedance&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=hero) [![npm](https://img.shields.io/npm/v/seedance-prompt-library?label=Agent%20Skill&color=111111&style=flat-square)](https://www.npmjs.com/package/seedance-prompt-library) [![License: MIT (code)](https://img.shields.io/badge/code-MIT-lightgrey.svg?style=flat-square)](./LICENSE) [![Content: CC BY 4.0 (curation)](https://img.shields.io/badge/curation-CC%20BY%204.0-lightgrey.svg?style=flat-square)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-lightgrey.svg?style=flat-square)](./contributing.md) [![Listed in Awesome Short Drama Skills](https://img.shields.io/badge/Listed_in-Awesome_Short_Drama_Skills-e8590c)](https://github.com/UnderleveledBuilder/awesome-short-drama-skills)
 
@@ -50,7 +50,7 @@ AI 動画が初めてでも、この 5 ステップで自分のクリップが�
 | --- | --- | --- |
 | **向いている人** | 初心者、何もインストールしたくない人 | すでに Claude Code や Codex などのエージェントを使っている人 |
 | **使い方** | コピーして [角括弧] を置き換え、任意の AI チャットに貼る | コマンド 1 行で導入し、あとはエージェントに要望を伝えるだけ |
-| **カバー範囲** | カテゴリ別テンプレート 27 個 | ケースに基づくプロンプト構造と制作ワークフロー、計 85 個の Skill とクリエイターメソッド |
+| **カバー範囲** | カテゴリ別テンプレート 27 個 | ケースに基づくプロンプト構造と制作ワークフロー、計 86 個の Skill とクリエイターメソッド |
 | **得られるもの** | 確かなプロンプトを 1 本ずつ | Skill に応じて、プロンプトまたは制作計画と検証記録 |
 
 ケースを眺めたいだけなら[ヒート Top 30](#-ヒート-top-30) か[全ケース](#-全プロンプト)へ。プロンプトの再現性を確かめたいなら[クロスモデル再テスト](#-クロスモデル再テスト)をどうぞ。
@@ -150,11 +150,11 @@ Templates driven by body mechanics, beat placement or a physics set-piece rather
 
 ## 🧰 Skill
 
-Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に 36 個の Skill と、クリエイター個人のスタイルを持つ 48 個のクリエイターメソッドがあります。
+Skill は Claude Code や Codex などのエージェントに入れる指示パックです。テンプレート Skill はケースに基づくプロンプトを作り、制作ワークフロー Skill は素材計画、生成への引き渡し、映像の検証を助けます。以下に 36 個の Skill と、クリエイター個人のスタイルを持つ 49 個のクリエイターメソッドがあります。
 
 **安定再現**は、その Skill の実例のうち少なくとも 3 件を再実行し、8 割以上が 70 点以上だったことを示します。再テストに使ったのは実例の元のプロンプトなので、この Skill で新しく生成した内容まで同じように安定するとは限りません。**テスト待ち**は、再テスト済みの実例がまだ 3 件に満たない状態です。
 
-このリポジトリが扱うのは動画 Skill のみです。2026-11-18 時点で、goodcase.ai の動画 Skill 69 個のうち 27 個が安定再現です。この数は再テストが進むと変わります。
+2026-11-18 時点で、goodcase.ai の Skill 112 個のうち 48 個が安定再現です。このリポジトリでは動画 Skill を掲載しています。この数は再テストが進むと変わります。
 
 <table>
 <tr>
@@ -184,7 +184,7 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 </tr>
 <tr>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-25-diner-frozen-time-rewind?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-diner-frozen-time-rewind.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/ugc-15-1aec9fd3f3c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/c28b3bfa6a04.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/vlog-c8171f712492?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/vlog-c8171f712492.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-claude-fable-5-2-is-f-cking-insane-a151eb358023?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3c212aa02304.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://github.com/LearnPrompt/goodcase"><b>GoodCase ケース検索</b></a><br><sub>エージェントが goodcase.ai のライブラリ全体をリアルタイム検索します。全モデル、完全なプロンプト、ヒート、安定度スコア、再テスト基準。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill goodcase</code></td>
-<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/efc88aa19bcf.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><b>POV / Vlog の臨場感</b></a><br><sub>一人称の構図、手持ちの揺れ、生活感のあるディテールで、その場にいたような実在感を作ります。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill pov-vlog-presence</code><br><sub>実例 64 件を再テスト、51 件が合格</sub><br><sub><a href="./docs/skills.ja.md#pov-vlog-presence">クリエイターメソッド 12 件</a></sub></td>
+<td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-university-vlog-of-a-europe-b1345e10d888?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/3b0a648bcdee.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/seedance-25-minidv-coffee-asmr-vlog.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-0c54e55df8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/efc88aa19bcf.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/mightyking-seedance-ai-7bbc1d4f9ad9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/mightyking-seedance-ai-7bbc1d4f9ad9.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><b>POV / Vlog の臨場感</b></a><br><sub>一人称の構図、手持ちの揺れ、生活感のあるディテールで、その場にいたような実在感を作ります。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill pov-vlog-presence</code><br><sub>実例 64 件を再テスト、51 件が合格</sub><br><sub><a href="./docs/skills.ja.md#pov-vlog-presence">クリエイターメソッド 13 件</a></sub></td>
 <td width="33%" valign="top" align="center"><table><tbody><tr><td><a href="https://goodcase.ai/cases/juliaevee-seedance-ai-ae713e2e2dbc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/cde7c7488c1e.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/seedance-part-1-0-30s-0e5b77e47efa?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/bf73c9360c92.jpg" width="128" alt=""></a></td></tr><tr><td><a href="https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="128" alt=""></a></td><td><a href="https://goodcase.ai/cases/shamiweb3-seedance-ai-5620b354e47d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><img src="https://media.goodcase.ai/media/poster/shamiweb3-seedance-ai-5620b354e47d.jpg" width="128" alt=""></a></td></tr></tbody></table><a href="https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid"><b>プロダクト広告のショット設計</b></a><br><sub>商品の売りから出発し、冒頭のフック、使用シーン、ブランドの締めショットを組み立てます。</sub><br><br><code>npx skills add LearnPrompt/goodcase --skill product-ad-shot-design</code><br><sub>安定再現 · 実例 44 件を再テスト、43 件が合格</sub><br><sub><a href="./docs/skills.ja.md#product-ad-shot-design">クリエイターメソッド 2 件</a></sub></td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ Skill は Claude Code や Codex などのエージェントに入れる指示パ
 </tr>
 </table>
 
-AI 動画 Skill は合計 85 個です。goodcase.ai の 69 個（公式 21 個 + クリエイターメソッド 48 個）と、上のグリッドにだけある 16 個。**[goodcase.ai の動画 Skill 69 個の一覧 →](./docs/skills.ja.md)** 1 ページに全インストールコマンドを掲載。
+AI 動画 Skill は合計 86 個です。goodcase.ai の 70 個（公式 21 個 + クリエイターメソッド 49 個）と、上のグリッドにだけある 16 個。**[goodcase.ai の動画 Skill 70 個の一覧 →](./docs/skills.ja.md)** 1 ページに全インストールコマンドを掲載。
 
 各インストールコマンドは [skills CLI](https://github.com/vercel-labs/skills) で動きます。`seedance-…` で始まる Skill はこのリポジトリの [agents/skills](./agents/skills) にあり、ライブラリと単一ジャンルのテンプレート Skill はケースデータから再生成され、制作ワークフロー Skill は別途保守されます。ライブラリ Skill は `npx seedance-prompt-library install` でも Claude Code と Codex に直接入ります。画像、コーディング、ライティング向けの Skill は [goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=readme-ja&utm_content=skills-grid) にあります。
 
@@ -262,9 +262,16 @@ AI 動画 Skill は合計 85 個です。goodcase.ai の 69 個（公式 21 個 
 
 ## 🔁 クロスモデル再テスト
 
-**同じプロンプトを別のモデルで再実行し、元の動画と再実行の結果を並べて掲載しています。うまくいかなかったものも載せています。** ここに掲載された 481 ケースが再テスト済み（累計 494 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
+**私たちの知る限り、動画プロンプトを別モデルで大規模に再生成し、成否を問わず結果を公開している公開ライブラリはこれが初めてです。** 元の動画と再実行の結果を並べて掲載しています。うまくいかなかったものも載せています。ここに掲載された 481 ケースが再テスト済み（累計 494 回）で、それぞれ判定・審査スコア・生成物が付いています。作者の手元で一度だけ、ひとつのモデルでしか成功しなかったプロンプトはスクリーンショットにすぎません。再生成に耐えたプロンプトこそが手法です。
 
-全 494 回の判定内訳（モデル別には分けず合算）: ✅ 363 再現 · ⚠️ 123 劣化 · ❌ 8 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
+| モデル                             | 回数  | 再現率 |
+| ------------------------------- | --- | --- |
+| MiniMax H3 Max 768p             | 243 | 73% |
+| Grok Imagine                    | 240 | 74% |
+| MiniMax H3 768p                 | 10  | 80% |
+| Codex built-in image generation | 1   | 0%  |
+
+全 494 回の判定内訳: ✅ 363 再現 · ⚠️ 123 劣化 · ❌ 8 失敗。最終スコアのない実行は `スコア n/a` と表示されます。ケースごとの判定・スコア・出力動画は各ケースの goodcase.ai ページに、モデル表記とバッチ日付の説明は[統計](#統計)にあります。
 
 **同じプロンプト、別のモデル。** 3 つの例。うち 1 つは持ちこたえられなかったものです:
 

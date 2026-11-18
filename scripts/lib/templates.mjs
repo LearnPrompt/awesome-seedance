@@ -357,12 +357,23 @@ export function skillGateNote(lang) {
 }
 
 /**
- * 稳定复现的汇总和范围，一句话：本仓只导出视频类，N 个里 M 个稳定复现，数字从 site-skills 现算。
+ * 稳定复现的汇总和范围，一句话。卡尔 11-19 定各处都报全站口径：site-skills 带 siteWide 时
+ * 报 goodcase.ai 全站 N 个里 M 个稳定复现，并说明本仓只列视频类；旧导出没有 siteWide 时退回视频口径。
  * asOf 是数据日期（YYYY-MM-DD），没有就不写截至。导出里一个 gate 都没有时返回空串。
  */
 export function skillGateSummary(siteSkills, lang, asOf = null) {
   const entries = (siteSkills && siteSkills.skills) || [];
   if (!entries.some((s) => s.gate)) return "";
+  const site = siteSkills.siteWide;
+  if (site && site.total > 0) {
+    const n = site.total;
+    const m = site.stable;
+    return t(lang, {
+      en: `${asOf ? `As of ${asOf}, ` : ""}${m} of the ${n} Skills on goodcase.ai are Stable. This repository lists the video ones. The count changes as more examples are re-run.`,
+      zh: `${asOf ? `截至 ${asOf}，` : ""}goodcase.ai 全站 ${n} 个 Skill 里有 ${m} 个稳定复现，本仓列的是其中的视频类，这个数会随复测变化。`,
+      ja: `${asOf ? `${asOf} 時点で、` : ""}goodcase.ai の Skill ${n} 個のうち ${m} 個が安定再現です。このリポジトリでは動画 Skill を掲載しています。この数は再テストが進むと変わります。`,
+    });
+  }
   const n = entries.length;
   const m = entries.filter((s) => s.gate && s.gate.status === "stable").length;
   return t(lang, {

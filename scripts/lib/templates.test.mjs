@@ -411,6 +411,11 @@ test("skillGateSummary: counts stable Skills from the export, states the scope a
   assert.match(skillGateSummary(gated, "en", "2026-11-15"), new RegExp(`only exports video Skills: as of 2026-11-15, 1 of the ${n} video Skills`));
   assert.match(skillGateSummary(gated, "ja", "2026-11-15"), new RegExp(`2026-11-15 時点で、goodcase.ai の動画 Skill ${n} 個のうち 1 個が安定再現`));
   assert.doesNotMatch(skillGateSummary(gated, "zh"), /截至/);
+  // 导出带 siteWide 时报全站口径（卡尔 11-19 定），并说明本仓列视频类
+  const site = { ...gated, siteWide: { total: 112, stable: 48 } };
+  assert.equal(skillGateSummary(site, "zh", "2026-11-19"), "截至 2026-11-19，goodcase.ai 全站 112 个 Skill 里有 48 个稳定复现，本仓列的是其中的视频类，这个数会随复测变化。");
+  assert.match(skillGateSummary(site, "en"), /^48 of the 112 Skills on goodcase\.ai are Stable\. This repository lists the video ones\./);
+  assert.match(skillGateSummary(site, "ja"), /Skill 112 個のうち 48 個が安定再現/);
   // 网格里：汇总紧跟在稳定复现的说明后面
   const grid = renderSkillGrid(skillsData, "zh", new Map(), { coverCasesFor: () => [], siteSkills: { ...siteSkills, skills: siteSkills.skills.map((x) => (x.slug === "b" ? { ...x, gate: { status: "stable", tested: 5, passed: 4 } } : x)) }, asOf: "2026-11-15" });
   assert.match(grid, /不代表用这个 Skill 生成新内容也一定稳。.*\n\n本仓只导出视频类 Skill：截至 2026-11-15，/);
