@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 9/9）
 
-Seedance 2.5 の全 754 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 755 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 754 件中 702–754 件目。
+このページ: 755 件中 703–755 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · **Part 9**
 
@@ -2162,7 +2162,7 @@ MAIN WARRIOR 是一名完全原创、无法对应任何现成人物的明确成�
 
 [<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @john87445528 | **出典:** [元投稿](https://x.com/john87445528/status/2084644638724395138) | **公開日:** 2026-08-04 | **ヒート:** 16
+**作者:** @john87445528 | **出典:** [元投稿](https://x.com/john87445528/status/2084644638724395138) | **公開日:** 2026-08-04 | **ヒート:** 17
 
 **安定度:** 55/100
 

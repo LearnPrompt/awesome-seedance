@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 3/9)
 
-All 754 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 755 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 158–246 of 754.
+This page: cases 158–243 of 755.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)
 
@@ -335,6 +335,337 @@ STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Yoriichi vs. the Hundred Demons
+
+> Once the Infinity Castle BGM kicks in, it is Yoriichi vs. the Hundred Demons, pure fighting thrills. Seedance 2.5 prompt. Basic setup: 30 seconds, 16:9, dark fantasy painted-animation style with rough thick brushwork, hard-edged light and shadow, simplified color blocks and clear silhouettes...
+
+[<img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="600" alt="Yoriichi vs. the Hundred Demons">](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Chengzilhy | **Source:** [Original](https://x.com/Chengzilhy/status/2102586866302345657) | **Published:** 2026-09-23 | **Heat:** 78
+
+<details>
+<summary><b>Full prompt (313 lines, click to expand)</b></summary>
+
+```
+无限城 BGM 一响，
+缘一 VS 百鬼  ⚔️💥
+纯粹的战斗爽感！
+
+Seedance 2.5 
+Prompt 🔽
+
+【基础设定】
+
+30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。
+
+人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。
+
+高速运动中保持人物、刀锋、命中位置清楚。
+
+头发、衣摆、碎木、灰烬具有真实惯性与重量。
+
+整体色调以墨黑、灰青、旧木褐为主，人物暗红服装作为主要识别色。
+
+【参考图绑定】
+图片1= 战场建筑与空间结构参考。
+仅采用悬空木平台、栏杆、回廊、阶梯、大殿及上下交错建筑关系。
+图片2 = 敌群外观参考。
+提取不同体型、皮肤、眼睛、獠牙、长爪、破旧衣物与异化轮廓，扩展为高密度敌潮。
+图片3= 主角唯一身份与服装参考。
+锁定脸型、长发、暗红外衣、敞领、腰带、宽裤、绑腿与鞋履。
+
+【角色规则】
+
+全片始终只有一名主角。
+始终使用同一把实体刀，刀鞘固定腰侧。
+
+右手主握，重斩时左手辅助同一刀柄。
+
+人物面部克制，视线始终寻找下一处敌阵缺口。
+
+所有攻击必须由真实身体动作驱动：
+
+蹬地 → 转髋 → 挥刀 → 回腕 → 连续落步。
+
+高速移动过程中人物本体始终连续可追踪。
+
+禁止瞬移。
+
+禁止实体分身。
+
+禁止第二把刀。
+
+【敌群规则】
+
+敌人数百只。
+
+中央平台、两侧回廊、远端阶梯与建筑阴影始终存在大量敌人。
+
+前景使用肩背、头部、爪子压住画面边缘。
+
+中景多排敌人包围人物移动路线。
+
+背景敌群一直延伸至建筑深处。
+
+敌人必须持续：
+
+扑入、夹击、绕侧、封路、补位。
+
+人物移动到哪里，新的敌群就从前方与侧翼压入。
+
+人物经过之后才允许留下局部缺口。
+
+24秒之前禁止大面积清空战场。
+
+【核心战斗逻辑】
+
+模式：
+
+流光割草 + 极限连招密度。
+
+全片以：
+
+高速穿群
+移动旋斩
+横扫
+反手斩
+斜劈
+短跃下劈
+
+作为主要动作。
+
+目标约26组短连招。
+
+每组动作必须：
+
+起手 → 接招 → 收招，无缝连接。
+
+上一刀的收刀方向，直接成为下一组攻击的起始方向。
+
+禁止攻击后站住重新摆姿势。
+
+禁止三刀打一组然后停顿。
+
+人物始终边打边移动。
+【空间规则】
+主平台远端阶梯 = 北。
+入口 = 南。
+左右两侧分别为东、西。
+人物移动路线：
+
+南部
+→ 东侧
+→ 中央
+→ 西侧
+→ 北部。
+
+摄影机始终朝向尚未清除的敌群推进。
+
+人物身前必须持续存在新的敌阵。
+
+身后逐渐形成已经战斗过的路径。
+
+空间、建筑地标、人物方向必须保持连续。
+
+【镜头结构】
+
+全片10个镜头段。
+
+每段约3秒。
+
+Shot 1｜0–3s
+
+Wide，高位斜俯视追踪。
+
+人物直接高速切入右侧敌群。
+
+突入横斩
+→ 反手回切
+→ 移动回旋
+→ 再次斜切进入下一排。
+
+没有登场。
+
+没有拔刀。
+
+没有蓄力。
+第一秒直接进入战斗。
+Shot 2｜3–6s
+FS，贴地侧前跟拍。
+人物沿东侧战区高速向北推进。
+
+连续横扫、反手斩、斜劈。
+
+敌人从正面和侧面不断补入。
+
+摄影机倒退跟拍，同时保留前方大量敌群。
+
+Shot 3｜6–9s
+
+Wide，升高斜俯视追踪。
+
+人物从东侧切向平台中央。
+
+连续三组移动旋斩。
+
+每一次旋转都改变人物所在位置。
+
+禁止原地转圈。
+
+镜头展示人物身后逐渐形成的战斗路线。
+
+Shot 4｜9–12s
+
+FS，低位跟进。
+人物进入中央最密集敌阵。
+横扫
+→ 反撩
+→ 斜切
+→ 上挑
+→ 踏进压斩
+→ 短跃下劈。
+上层回廊与地面敌人同时压入。
+
+人物必须同时应对上下两个方向。
+
+Shot 5｜12–15s
+
+FS，侧面短弧环绕。
+
+人物折向西侧。
+
+移动旋斩
+→ 短跃
+→ 下劈
+→ 落地反手横扫。
+
+完成后立即进入下一群敌人。
+
+禁止落地停顿。
+
+Shot 6｜15–18s
+
+Wide，斜俯视折返追踪。
+
+人物切进西侧敌阵后向北折返。
+
+连续横斩、反斩、回旋压斩。
+
+新的敌群从西侧回廊持续补入。
+
+北侧阶梯始终作为远处空间地标。
+
+Shot 7｜18–21s
+
+MS → FS。
+
+先短暂靠近人物。
+
+展示一次真实的近距离攻防：
+
+敌人双爪封路。
+
+人物低身闪开攻击，同时转髋反切。
+
+随后镜头立即拉开。
+
+继续展示范围穿群动作。
+
+禁止变成单挑。
+
+Shot 8｜21–24s
+
+Wide。
+人物进入北部中央区域。
+沿敌潮内部连续折线移动。
+斜切进入
+→ 回旋扫开
+→ 反手穿出
+→ 再改变方向。
+东西两侧残余敌群继续向中心补位。
+Shot 9｜24–27s
+
+FS → Wide。
+
+人物切入最后的大规模密集敌阵。
+
+横扫
+→ 反手斩
+→ 压斩
+→ 回旋
+→ 反撩
+→ 前冲斜劈。
+
+镜头逐渐拉开。
+
+明确展示人物已经打通的路线，与前方最后敌阵的位置。
+
+Shot 10｜27–30s
+
+FS → Wide。
+人物冲入北阶前最后一批敌人。
+27–28秒完成最后一组连续攻击。
+28秒后停止攻击。
+
+刀尖自然随收势垂下。
+
+镜头缓慢后拉。
+
+展示整个已经清理完成的平台。
+
+主角成为画面中唯一站立的人物。
+
+衣摆、长发、灰烬、碎屑继续自然运动。
+
+【摄影规则】
+
+摄影机必须跟随：
+
+人物移动路线
+攻击方向
+敌群变化
+空间地标。
+
+远景与全景负责展示敌潮规模。
+
+中近景只用于短暂展示身体动作与刀锋。
+
+禁止长期贴脸。
+
+禁止把范围战斗拍成逐个单挑。
+
+禁止依靠疯狂切镜制造速度。
+
+速度必须来自：
+
+人物移动
+敌群运动
+身体动作
+前景掠过
+摄影机追踪。
+
+【声音】
+
+No dialogue.
+
+No battle cries.
+
+No subtitles.
+
+No background music.
+
+保留：
+脚步声
+挥刀声
+撞击声
+木构破裂声
+环境空间回响。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Three Children Search for a Mysterious Station Beneath the Snow
 
@@ -1248,37 +1579,6 @@ Format: 9:16 vertical, high resolution, smooth animation, clean composition, no 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d7d437c4a8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Classic Mustang Golden Hour Drive
-
-> A cinematic commercial-style prompt of a woman driving a vintage Mustang through a city at sunset, featuring elegant lighting and tracking shots.
-
-[<img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="600" alt="Classic Mustang Golden Hour Drive">](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2085277106960007654) | **Published:** 2026-08-06 | **Heat:** 76
-
-**Stability:** 81/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 81.3) · [output](https://media.goodcase.ai/retests/classic-mustang-golden-hour-drive/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang coupe through a tree-lined city avenue at golden hour. She wears a patterned silk headscarf, large brown sunglasses, a brown blazer, and large statement rings (one yellow diamond, one emerald).
-
-Stylish slow-motion tracking shots of the car speeding past buildings and traffic. Close-up of her focused face, sunglasses catching the golden light. Close-up of her hands on the wooden steering wheel, rings glinting. Rear-view mirror reflection of her eyes. Her jeweled hand resting on the car door, wind catching a loose strand of hair from the headscarf.
-
-A red traffic light glowing as the Mustang idles, engine humming, heat shimmer off the hood. A motorcycle with a passenger weaves through traffic beside her. Wide low-angle shot of the Mustang's grille and headlights as it accelerates past camera. A bearded man in a black beanie stands on the sidewalk, watching the Mustang drive away into the sunlit street, his gaze lingering.
-
-New scenes: A brief shot of pedestrians and café awnings blurring past in the background bokeh. An aerial/drone-style shot pulling back to reveal the full tree-lined avenue as the Mustang weaves gently between light and shadow from the trees. A final slow-motion hero shot — the Mustang turning a corner into direct sunset flare, silhouette and lens flare dominating the frame, her profile briefly lit gold before the light overtakes the frame.
-
-Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmosphere, high-end commercial style, anamorphic lens feel, shallow depth of field, watermark-free.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Fight on a Rain-Slicked Subway Platform
 
 > When the subway platform turns into a full-blown action scene. 🥊🚇🎬 Created with Seedance 2.5 Prompt:Create a 10-second cinematic action sequence set inside a…
@@ -1327,88 +1627,6 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Her Autumn Day in the City
-
-> city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
-
-[<img src="https://media.goodcase.ai/cases/b3972f1a8b26.jpg" width="600" alt="Her Autumn Day in the City">](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Chaemate_ | **Source:** [Original](https://x.com/Chaemate_/status/2100103235566797039) | **Published:** 2026-09-16 | **Heat:** 76
-
-<details>
-<summary><b>Full prompt (64 lines, click to expand)</b></summary>
-
-```
-SCENE CONTEXT
-A 20-year-old East Asian woman spends an autumn day moving through a big city — leaving her apartment, riding the subway, grabbing coffee from a cart, cutting through a park in falling leaves, browsing a bookstore, catching golden hour on a rooftop, and riding home at night — filmed as a candid, mixed-format day-in-the-city vlog, 30 seconds total.
-
-ACTIVE REFERENCES
-@image1: 20-year-old East Asian woman, soft round face, warm ivory skin, dark brown hair in a loose high bun with face-framing strands, natural dewy makeup, gentle expressive eyes, wearing a wine-burgundy ribbed knit off-shoulder sweater and a small silver flower pendant necklace. 100% matches the reference throughout every shot.
-
-FORMAT MODE
-Timed multishot. HARD CUTs only at the stated seconds; camera does not cut on its own between them. Mixed scene styles — not every shot has dialogue; some are silent candid b-roll.
-
-0.0s–4.0s — HARD CUT
-4.0s–8.0s — HARD CUT
-8.0s–12.0s — HARD CUT
-12.0s–17.0s — HARD CUT
-17.0s–21.0s — HARD CUT
-21.0s–26.0s — HARD CUT
-26.0s–30.0s — end
-
-OPTICS
-Shot 1: 63° wide, POV-adjacent handheld. Shot 2: 47° neutral, static-ish lean. Shot 3: 29° portrait-compression, quick transactional. Shot 4: 18° natural-portrait, slow-mo detail. Shot 5: 29° portrait-compression, candid unaware angle. Shot 6: 47° neutral, two-shot-adjacent solo toast. Shot 7: 18° natural-portrait, close reflective. No drift mid-segment.
-
-CAMERA
-Handheld throughout with natural 1–2cm tremor. Shot 1: phone-height POV-style, walking at 4 km/h. Shot 2: camera rests low against a pole, minimal movement, observational. Shot 3: quick whip from hand to face and back. Shot 4: slowed to half real-time, camera drifts sideways at 1 km/h following falling leaves. Shot 5: camera appears to catch her off-guard, slight delay before she notices it. Shot 6: static-ish, propped, she moves into frame. Shot 7: static through car window glass, reflections passing over her face.
-
-ACTION
-0.0s–4.0s: She steps out of an apartment building onto a leaf-scattered sidewalk, adjusting her bag strap, glancing at her phone, morning light low and warm through bare branches. She looks up at the camera briefly, half-smiles: "Okay — let's do this."
-
-4.0s–8.0s: Inside a subway car, she leans against a pole, earbuds in, watching the platform lights blur past the window, city sounds muffled and rhythmic. No dialogue — just her quiet, unbothered expression, occasional sway with the train's motion.
-
-8.0s–12.0s: At a small street coffee cart, steam rising from the machine, she hands over cash, receives a paper cup, wraps both hands around it immediately for warmth. Brief exchange, she says only: "Thanks, you're the best."
-
-12.0s–17.0s: Slow-motion through a park path thick with falling amber leaves, she tips her head back mid-step and turns once, leaves catching in her hair and sweater, genuine unguarded laugh, no spoken line — just breath and laughter audible.
-
-17.0s–21.0s: Inside a small bookstore, she runs a finger along a shelf, pulls a book halfway out, flips a few pages, unaware of the camera, soft window light across her face, ambient store quiet. No dialogue.
-
-21.0s–26.0s: On a rooftop at golden hour, city skyline hazy behind her, she raises a takeaway coffee cup slightly toward the lens like a small toast, warm low sun rim-lighting her hair, says only: "To days like this."
-
-26.0s–30.0s: Inside a taxi at night, warm amber streetlights sliding across the window glass and over her face in soft passing bands, she rests her head against the seat, tired contented smile, looks toward the lens and says: "Best day, hands down."
-
-PERFORMANCE
-Restrained, natural reactions — no performed excitement. Shots 2 and 5 specifically read as candid/unaware of the camera. Living eyes with catch-light in every close shot, visible breath in shot 1, natural skin and fabric texture throughout.
-
-PHYSICS
-Leaves fall and scatter with real weight and drift, catching briefly in hair and sweater fibers before falling away. Coffee steam rises and dissipates naturally. Streetlight bands move across her face and the window glass with correct parallax as the car moves. Train sway shifts her weight subtly and believably.
-
-LIGHTING
-Shot 1: low warm morning sun through bare branches, soft shadow lines. Shot 2: cool fluorescent subway light with warm practicals flickering past outside. Shot 3: overcast daylight, soft even key. Shot 4: dappled warm sun through park canopy, backlit leaf edges. Shot 5: soft window-diffused daylight, low contrast. Shot 6: warm low-angle golden hour key, strong rim light, soft haze. Shot 7: warm amber sodium streetlight passing bands only, otherwise dark interior.
-
-COLOR GRADE
-Warm autumn palette — amber, rust, and soft gold tones with muted city grays. Warm amber streetlight at night, never neon or saturated colored signage anywhere in frame. No cool-cyan or magenta tint.
-
-WARDROBE
-Wine-burgundy ribbed knit off-shoulder sweater and silver flower pendant necklace, unchanged and clearly visible in every shot. A loosely draped scarf or open coat may sit over it in the subway and taxi shots without covering it.
-
-AUDIO
-Shot 1: quiet street ambience, rustling leaves. Shot 2: muffled train rumble, distant announcement, no dialogue. Shot 3: espresso machine hiss, brief exchange. Shot 4: crunch of leaves, natural laughter, no line. Shot 5: quiet store ambience, page-turning, no dialogue. Shot 6: distant city hum, wind. Shot 7: engine hum, soft radio murmur under her line.
-
-STYLE
-Authentic day-in-the-life vlog cinematography, dreamy 35mm film aesthetic, fine natural grain, realistic autofocus hunting, mix of talking and silent candid shots for a lived-in, unscripted feel.
-
-OUTPUT SETTINGS
-4K, 24fps, 35mm grain, real-time except shot 4 (half real-time slow motion), realistic handheld motion, no neon or saturated signage in the color palette anywhere.
-
-POSITIVE LOCKS
-Same woman's face and build in every shot, matching @image1 exactly. Wine-burgundy sweater and silver necklace stay visible in every shot. Hair stays in the same loose high bun throughout. Cuts only at stated seconds, camera does not cut on its own. Shots 2 and 5 stay dialogue-free and candid. Warm amber tones hold throughout — no neon, no cool-cyan tint anywhere.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Adorable Bunnies Kiss and Hug on a Cozy Sofa
 
@@ -1775,6 +1993,37 @@ Multi-shot sequence with hard cuts between shots. Keep the same characters and v
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-44b9dbf5729c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Classic Mustang Golden Hour Drive
+
+> A cinematic commercial-style prompt of a woman driving a vintage Mustang through a city at sunset, featuring elegant lighting and tracking shots.
+
+[<img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="600" alt="Classic Mustang Golden Hour Drive">](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2085277106960007654) | **Published:** 2026-08-06 | **Heat:** 75
+
+**Stability:** 81/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 81.3) · [output](https://media.goodcase.ai/retests/classic-mustang-golden-hour-drive/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (9 lines, click to expand)</b></summary>
+
+```
+Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang coupe through a tree-lined city avenue at golden hour. She wears a patterned silk headscarf, large brown sunglasses, a brown blazer, and large statement rings (one yellow diamond, one emerald).
+
+Stylish slow-motion tracking shots of the car speeding past buildings and traffic. Close-up of her focused face, sunglasses catching the golden light. Close-up of her hands on the wooden steering wheel, rings glinting. Rear-view mirror reflection of her eyes. Her jeweled hand resting on the car door, wind catching a loose strand of hair from the headscarf.
+
+A red traffic light glowing as the Mustang idles, engine humming, heat shimmer off the hood. A motorcycle with a passenger weaves through traffic beside her. Wide low-angle shot of the Mustang's grille and headlights as it accelerates past camera. A bearded man in a black beanie stands on the sidewalk, watching the Mustang drive away into the sunlit street, his gaze lingering.
+
+New scenes: A brief shot of pedestrians and café awnings blurring past in the background bokeh. An aerial/drone-style shot pulling back to reveal the full tree-lined avenue as the Mustang weaves gently between light and shadow from the trees. A final slow-motion hero shot — the Mustang turning a corner into direct sunset flare, silhouette and lens flare dominating the frame, her profile briefly lit gold before the light overtakes the frame.
+
+Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmosphere, high-end commercial style, anamorphic lens feel, shallow depth of field, watermark-free.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Schoolgirl Destroys a Tank Assault with Supernatural Power
 
 > ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
@@ -1852,6 +2101,88 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Her Autumn Day in the City
+
+> city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
+
+[<img src="https://media.goodcase.ai/cases/b3972f1a8b26.jpg" width="600" alt="Her Autumn Day in the City">](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Chaemate_ | **Source:** [Original](https://x.com/Chaemate_/status/2100103235566797039) | **Published:** 2026-09-16 | **Heat:** 75
+
+<details>
+<summary><b>Full prompt (64 lines, click to expand)</b></summary>
+
+```
+SCENE CONTEXT
+A 20-year-old East Asian woman spends an autumn day moving through a big city — leaving her apartment, riding the subway, grabbing coffee from a cart, cutting through a park in falling leaves, browsing a bookstore, catching golden hour on a rooftop, and riding home at night — filmed as a candid, mixed-format day-in-the-city vlog, 30 seconds total.
+
+ACTIVE REFERENCES
+@image1: 20-year-old East Asian woman, soft round face, warm ivory skin, dark brown hair in a loose high bun with face-framing strands, natural dewy makeup, gentle expressive eyes, wearing a wine-burgundy ribbed knit off-shoulder sweater and a small silver flower pendant necklace. 100% matches the reference throughout every shot.
+
+FORMAT MODE
+Timed multishot. HARD CUTs only at the stated seconds; camera does not cut on its own between them. Mixed scene styles — not every shot has dialogue; some are silent candid b-roll.
+
+0.0s–4.0s — HARD CUT
+4.0s–8.0s — HARD CUT
+8.0s–12.0s — HARD CUT
+12.0s–17.0s — HARD CUT
+17.0s–21.0s — HARD CUT
+21.0s–26.0s — HARD CUT
+26.0s–30.0s — end
+
+OPTICS
+Shot 1: 63° wide, POV-adjacent handheld. Shot 2: 47° neutral, static-ish lean. Shot 3: 29° portrait-compression, quick transactional. Shot 4: 18° natural-portrait, slow-mo detail. Shot 5: 29° portrait-compression, candid unaware angle. Shot 6: 47° neutral, two-shot-adjacent solo toast. Shot 7: 18° natural-portrait, close reflective. No drift mid-segment.
+
+CAMERA
+Handheld throughout with natural 1–2cm tremor. Shot 1: phone-height POV-style, walking at 4 km/h. Shot 2: camera rests low against a pole, minimal movement, observational. Shot 3: quick whip from hand to face and back. Shot 4: slowed to half real-time, camera drifts sideways at 1 km/h following falling leaves. Shot 5: camera appears to catch her off-guard, slight delay before she notices it. Shot 6: static-ish, propped, she moves into frame. Shot 7: static through car window glass, reflections passing over her face.
+
+ACTION
+0.0s–4.0s: She steps out of an apartment building onto a leaf-scattered sidewalk, adjusting her bag strap, glancing at her phone, morning light low and warm through bare branches. She looks up at the camera briefly, half-smiles: "Okay — let's do this."
+
+4.0s–8.0s: Inside a subway car, she leans against a pole, earbuds in, watching the platform lights blur past the window, city sounds muffled and rhythmic. No dialogue — just her quiet, unbothered expression, occasional sway with the train's motion.
+
+8.0s–12.0s: At a small street coffee cart, steam rising from the machine, she hands over cash, receives a paper cup, wraps both hands around it immediately for warmth. Brief exchange, she says only: "Thanks, you're the best."
+
+12.0s–17.0s: Slow-motion through a park path thick with falling amber leaves, she tips her head back mid-step and turns once, leaves catching in her hair and sweater, genuine unguarded laugh, no spoken line — just breath and laughter audible.
+
+17.0s–21.0s: Inside a small bookstore, she runs a finger along a shelf, pulls a book halfway out, flips a few pages, unaware of the camera, soft window light across her face, ambient store quiet. No dialogue.
+
+21.0s–26.0s: On a rooftop at golden hour, city skyline hazy behind her, she raises a takeaway coffee cup slightly toward the lens like a small toast, warm low sun rim-lighting her hair, says only: "To days like this."
+
+26.0s–30.0s: Inside a taxi at night, warm amber streetlights sliding across the window glass and over her face in soft passing bands, she rests her head against the seat, tired contented smile, looks toward the lens and says: "Best day, hands down."
+
+PERFORMANCE
+Restrained, natural reactions — no performed excitement. Shots 2 and 5 specifically read as candid/unaware of the camera. Living eyes with catch-light in every close shot, visible breath in shot 1, natural skin and fabric texture throughout.
+
+PHYSICS
+Leaves fall and scatter with real weight and drift, catching briefly in hair and sweater fibers before falling away. Coffee steam rises and dissipates naturally. Streetlight bands move across her face and the window glass with correct parallax as the car moves. Train sway shifts her weight subtly and believably.
+
+LIGHTING
+Shot 1: low warm morning sun through bare branches, soft shadow lines. Shot 2: cool fluorescent subway light with warm practicals flickering past outside. Shot 3: overcast daylight, soft even key. Shot 4: dappled warm sun through park canopy, backlit leaf edges. Shot 5: soft window-diffused daylight, low contrast. Shot 6: warm low-angle golden hour key, strong rim light, soft haze. Shot 7: warm amber sodium streetlight passing bands only, otherwise dark interior.
+
+COLOR GRADE
+Warm autumn palette — amber, rust, and soft gold tones with muted city grays. Warm amber streetlight at night, never neon or saturated colored signage anywhere in frame. No cool-cyan or magenta tint.
+
+WARDROBE
+Wine-burgundy ribbed knit off-shoulder sweater and silver flower pendant necklace, unchanged and clearly visible in every shot. A loosely draped scarf or open coat may sit over it in the subway and taxi shots without covering it.
+
+AUDIO
+Shot 1: quiet street ambience, rustling leaves. Shot 2: muffled train rumble, distant announcement, no dialogue. Shot 3: espresso machine hiss, brief exchange. Shot 4: crunch of leaves, natural laughter, no line. Shot 5: quiet store ambience, page-turning, no dialogue. Shot 6: distant city hum, wind. Shot 7: engine hum, soft radio murmur under her line.
+
+STYLE
+Authentic day-in-the-life vlog cinematography, dreamy 35mm film aesthetic, fine natural grain, realistic autofocus hunting, mix of talking and silent candid shots for a lived-in, unscripted feel.
+
+OUTPUT SETTINGS
+4K, 24fps, 35mm grain, real-time except shot 4 (half real-time slow motion), realistic handheld motion, no neon or saturated signage in the color palette anywhere.
+
+POSITIVE LOCKS
+Same woman's face and build in every shot, matching @image1 exactly. Wine-burgundy sweater and silver necklace stay visible in every shot. Hair stays in the same loose high bun throughout. Cuts only at stated seconds, camera does not cut on its own. Shots 2 and 5 stay dialogue-free and candid. Warm amber tones hold throughout — no neon, no cool-cyan tint anywhere.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Slow Autumn Travel Vlog in Kyoto
 
@@ -2298,20 +2629,6 @@ Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles,
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2ff9862a313d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Pink-haired girl reaches toward the stars on a sunset road
-
-> My poor boy is left alone... 😪😪 Seedance 2.5 on @dreamina_ai #dreamina #dreaminacreators prompt Create an emotionally breathtaking, ultra-realistic 30-second …
-
-[<img src="https://media.goodcase.ai/cases/ef103e1ce15d.jpg" width="600" alt="Pink-haired girl reaches toward the stars on a sunset road">](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2118685486122520712) | **Published:** 2026-11-06 | **Heat:** 73
-
-```
-Cartoon appearance, anime style, artificial skin, distorted faces, changing hair color, black hair on the female character, inconsistent identities, extra fingers, deformed hands, unnatural movements, flickering objects, abrupt transitions, unrealistic particle physics, excessive motion blur, low-resolution textures, text overlays, watermarks, and exaggerated facial expressions.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Two Samurai Duel at a Floating Temple Beneath the Full Moon
 
@@ -3584,6 +3901,76 @@ Keep the Mickey Mouse ears headband clearly visible and consistent throughout th
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seoul street fashion of a woman in a pastel pink hoodie
+
+> Dreamy Korean fashion bringing pastel beauty to everyday street moments. Made with Seedance 2.5 Prompt: Create an ultra-photorealistic, cinematic 30-second Kore…
+
+[<img src="https://media.goodcase.ai/cases/ec31b9f58601.jpg" width="600" alt="Seoul street fashion of a woman in a pastel pink hoodie">](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-cinematic-30-second-korean-street-fashion-lifes-4c505edaba21?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ZaidVex | **Source:** [Original](https://x.com/ZaidVex/status/2122541444124885193) | **Published:** 2026-11-17 | **Heat:** 70
+
+<details>
+<summary><b>Full prompt (52 lines, click to expand)</b></summary>
+
+```
+Create an ultra-photorealistic, cinematic 30-second Korean street-fashion lifestyle video in vertical 9:16 format, featuring a beautiful young Korean woman with long, flowing black hair, soft natural bangs, delicate facial expressions, and silver hoop earrings.
+
+Character & Outfit (Keep Consistent):
+
+- Oversized pastel pink zip-up hoodie with distinctive navy horizontal stripe and bow-like detailing.
+- White fitted inner top.
+- Dark charcoal-grey pleated mini skirt.
+- White knee-high socks.
+- White chunky sneakers.
+- Long, naturally flowing black hair.
+
+Scene-by-Scene Sequence:
+
+Scene 1 – Beautiful Close-up: Begin with an extreme close-up of her face. She looks gently toward the camera as loose strands of hair move naturally in the breeze.
+
+Scene 2 – Fashion Portrait: Show her standing against a modern grey stone wall with her arms crossed, wearing a relaxed expression.
+
+Scene 3 – Flower Shop: Capture her looking sideways toward a beautiful storefront with warm reflections and soft pink flowers.
+
+Scene 4 – Outfit Showcase: Cinematic close-up of her pink hoodie, navy detailing, white inner top, pleated skirt, and complete outfit.
+
+Scene 5 – Walking in Seoul: Full-body tracking shot of her walking along a beautiful Korean city sidewalk with natural sunlight and urban architecture.
+
+Scene 6 – Natural Portrait: Close-up of her smiling softly while sunlight illuminates her face and hair.
+
+Scene 7 – Street Fashion: Show her walking toward the camera with both hands inside her hoodie pockets.
+
+Scene 8 – Hair Movement: Side-profile shot as she turns her head and her long black hair flows naturally.
+
+Scene 9 – Fashion Poses: She stands casually against a stone wall, changes her pose, and looks directly into the camera.
+
+Scene 10 – Sitting Portrait: Capture her sitting comfortably with her hands gently placed beneath her chin, smiling naturally.
+
+Scene 11 – Final Details: Close-up of her white sneakers walking up outdoor stone steps, followed by a shot of her holding a smartphone and capturing a photograph.
+
+CINEMATIC QUALITY:
+
+- Ultra-photorealistic 4K video.
+- Authentic Korean fashion editorial.
+- Natural daylight and soft cinematic shadows.
+- Realistic skin texture and facial details.
+- Shallow depth of field.
+- Beautiful background bokeh.
+- Smooth handheld camera movements.
+- Mix of close-ups, medium shots, and full-body shots.
+- Natural walking and realistic body movements.
+- Soft pastel pink color grading.
+- Professional DSLR cinematography.
+
+IMPORTANT: Maintain exactly the same character identity, facial features, hairstyle, outfit, and proportions throughout every scene. Avoid facial distortion, clothing changes, artificial movements, and unrealistic transitions.
+
+MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, soft romantic atmosphere, and authentic cinematic realism.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-cinematic-30-second-korean-street-fashion-lifes-4c505edaba21?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A nighttime female spy switches from binoculars to a sleep mask
 
 > A good spy movie look is all about the details. The wrong prop, an unsuitable background, or a visual element that doesn't fit the campaign can make the agent's…
@@ -4362,22 +4749,6 @@ CONTINUITY: Preserve all reference identities, costumes, weapons and environment
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-engine-directive-create-an-exactly-30-second-16-9-photorealistic-hollywood-m-7a43e4f446e8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Pink-haired witch and orange cat tea party meets a dragon
-
-> The Dragon Picked the Wrong Tea Party. Seedance 2.5 on @ElevenLabs @ElevenCreative #ElevenLabsAmbassador Prompt Create an ultra-photorealistic, high-budget Holl…
-
-[<img src="https://media.goodcase.ai/cases/d73e0015be63.jpg" width="600" alt="Pink-haired witch and orange cat tea party meets a dragon">](https://goodcase.ai/cases/seedance-2-5-no-cartoon-visuals-no-anime-style-no-artificial-skin-no-distorted-anatomy-n-bdbbdc8b205c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2119481547997028736) | **Published:** 2026-11-08 | **Heat:** 69
-
-```
-No cartoon visuals, no anime style, no artificial skin, no distorted anatomy, no extra limbs, no changing faces, no inconsistent cat appearance, no floating objects without magical justification, no unrealistic dragon physics, no visual flickering, no abrupt scene changes, no text, no subtitles, and no watermark.
-
-FINAL CREATIVE DIRECTION: Deliver an adorable yet spectacular fantasy comedy with a peaceful opening, a terrifying dragon reveal, an unexpected magical cookie battle, and a hilarious ending. The black cat must remain the unexpected hero of the entire sequence.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-no-cartoon-visuals-no-anime-style-no-artificial-skin-no-distorted-anatomy-n-bdbbdc8b205c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
 
 > Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
@@ -4542,39 +4913,6 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-title-what-falls-from-the-plum-tree-d602a208ed88?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Summer Evening Stroll Through a Seoul Neighborhood
-
-> Baddie is back 🥰 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older …
-
-[<img src="https://media.goodcase.ai/cases/2d6299d5c5f8.jpg" width="600" alt="A Summer Evening Stroll Through a Seoul Neighborhood">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2099849272347021541) | **Published:** 2026-09-15 | **Heat:** 69
-
-<details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
-
-She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
-
-She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
-
-A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
-
-She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
-
-She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
-
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
-
-Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Close-quarters fight on a rainy Shibuya crossing at night
 
 > Shibuya Nightmare Crossing 🌧️⚡ @prmptbio Surrounded under glowing Shibuya neon lights, operative Kenji takes on two ruthless enforcers in a non-stop 30-second …
@@ -4602,75 +4940,6 @@ Generated on Prompt Bio with Seedance 2.5 featuring hyper-kinetic 2-to-3-second 
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-shibuya-nightmare-crossing-1dfa2009412a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Zombies Besiege an Affluent English Neighborhood at Dusk
-
-> What if your peaceful neighbourhood suddenly became a nightmare? 🧟‍♂️🎬 Presenting THE LAST HOUSE a cinematic zombie-apocalypse thriller concept. Created with …
-
-[<img src="https://media.goodcase.ai/cases/8a3d05ee7142.jpg" width="600" alt="Zombies Besiege an Affluent English Neighborhood at Dusk">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-aaa-quality-cinematic-zombie-apocalypse-gam-0a75029b0a3d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @JuliaClarky | **Source:** [Original](https://x.com/JuliaClarky/status/2116066465379922312) | **Published:** 2026-10-30 | **Heat:** 68
-
-<details>
-<summary><b>Full prompt (37 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-realistic, AAA-quality cinematic zombie apocalypse gaming sequence, set in an affluent gated residential neighbourhood in the English countryside, UK.
-ENVIRONMENT & ATMOSPHERE:
-
-Show an expensive English residential community with large detached brick houses, elegant gardens, trimmed hedges, stone driveways, luxury parked cars, tall windows and beautiful traditional British architecture. It is late evening during sunset. The sun is slowly disappearing behind the rooftops, creating a deep orange, muted golden and dark purple sky. Long shadows stretch across the gardens and streets
-
-The atmosphere must gradually transition from peaceful suburban life into extreme psychological horror. Create an oppressive, claustrophobic feeling, with houses, fences, hedges and narrow residential streets making the environment feel enclosed and trapped.
-
-TIMELINE & ACTION:
-
-0–5 SECONDS:
-
-Interior of a luxurious English home. A woman in her 30s is casually doing household chores in the kitchen while listening to music. Warm sunset light enters through large windows. Show realistic everyday movements, natural body posture and subtle facial expressions. Cinematic camera movement.
-5–9 SECONDS:
-
-The music suddenly stops. Complete silence. The woman pauses naturally and looks slightly confused. She slowly turns her head towards the window. Her expression changes from relaxed to concerned. No exaggerated acting.
-
-9–15 SECONDS:
-
-She cautiously approaches the window and gently moves the curtain aside. Reveal a horrifying wide-angle view of the entire affluent neighbourhood filled with zombies. Some zombies stand close to the front doors of neighbouring houses, some are visible on rooftops, while others wander aimlessly through carefully maintained gardens and driveways. Several zombies are approaching houses. The setting sun creates eerie silhouettes and long shadows.
-15–21 SECONDS:
-
-Cut to the woman's point of view. Show the street packed with zombies between expensive houses. Slowly reveal several zombies moving towards her own house. Use realistic distance, natural walking cycles and believable environmental movement. No sudden teleportation or unnatural animation.
-21–26 SECONDS:
-
-She quickly turns towards her entrance. Through the narrow entrance hallway, she notices zombies approaching outside her front door. She rushes towards the already-closed front door and checks the lock, urgently securing it again. Her movement must remain physically believable and anatomically correct.
-26–30 SECONDS:
-
-She steps backwards and leans against the locked door, breathing heavily. Close-up of her frightened face. In the background, faint zombie footsteps and distant unsettling noises. Suddenly, three heavy knocks hit the front door. Cut instantly to black.
-VISUAL QUALITY:
-
-Photorealistic Unreal Engine 5 style graphics, premium AAA survival horror game cinematography, realistic human anatomy, lifelike facial expressions, physically accurate character movement, realistic zombie walking animation, cinematic depth of field, volumetric sunset lighting, atmospheric shadows, detailed English architecture, professional camera work, subtle film grain, realistic environmental physics.
-CAMERA:
-
-Smooth controlled cinematic tracking shots, realistic handheld camera for suspense, wide establishing shots of the neighbourhood, close-up facial reactions and carefully composed point-of-view shots.
-STRICT NEGATIVE INSTRUCTIONS:
-
-No cartoon visuals, no anime, no artificial-looking CGI, no exaggerated facial expressions, no unnatural body movements, no distorted anatomy, no extra limbs, no floating objects, no teleporting zombies, no sliding feet, no robotic walking.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-aaa-quality-cinematic-zombie-apocalypse-gam-0a75029b0a3d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Warrior in Black and White Battles Swordsmen in a Ruined Temple
-
-> Through the shadows of an ancient temple, where every strike tells a story of strength. Made with Seedance 2.5 on @picsartai #picsartpartner @Picsart Prompt: A …
-
-[<img src="https://media.goodcase.ai/cases/dcfa136a6184.jpg" width="600" alt="Warrior in Black and White Battles Swordsmen in a Ruined Temple">](https://goodcase.ai/cases/seedance-2-5-a-15-second-ultra-realistic-cinematic-martial-arts-battle-inspired-by-classic-h-bf44f11cdc60?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2112055308701053088) | **Published:** 2026-10-19 | **Heat:** 68
-
-```
-A 15-second ultra-realistic cinematic martial arts battle inspired by classic Hong Kong action cinema. A fearless female warrior dressed in black and white faces deadly swordsmen inside a ruined ancient temple. Broken Buddha statues, shattered roof tiles, collapsed wooden beams, and dusty stone pillars create a dramatic battlefield. Golden sunlight cuts through the damaged roof, illuminating floating dust particles in a moody amber atmosphere. Lightning-fast punches, powerful spinning kicks, precise sword deflections, sweeping leg attacks, and breathtaking airborne qinggong maneuvers unfold in seamless, high-intensity choreography. Every impact releases clouds of white dust, clashing weapons spark, and enemies crash into ancient pillars and wooden altars. Dynamic handheld tracking shots, rapid lateral movements, dramatic orbital camera angles, realistic body mechanics, flowing robes, and authentic facial skin textures enhance the immersion. Vintage 35mm film grain, deep sepia shadows, warm golden highlights, natural side lighting, and rich cinematic contrast recreate the timeless aesthetic of classic martial arts films. The warrior finishes with a powerful spinning kick, shattering an altar before landing gracefully in a fearless fighting stance. Photorealistic, intense, immersive, ultra-detailed cinematic action with traditional percussion, realistic combat sound effects, and no dialogue or on-screen text.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-15-second-ultra-realistic-cinematic-martial-arts-battle-inspired-by-classic-h-bf44f11cdc60?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

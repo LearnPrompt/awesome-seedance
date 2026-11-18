@@ -2392,24 +2392,6 @@ A massive wooden sailing ship struggles violently against towering ocean waves d
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mermaid-rescue-cinematic-story?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Red Dress Transformation on the Streets of Paris
-
-> From elegant white to bold red A little magic, a lot of Parisian style. Created on seedance 2.0 Prompt: Created a cinematic fashion transformation video featuri…
-
-[<img src="https://media.goodcase.ai/cases/6fd799c4ee96.jpg" width="600" alt="Red Dress Transformation on the Streets of Paris">](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **出典:** [元投稿](https://x.com/ayzalnooor24521/status/2100456445900710158) | **公開日:** 2026-09-17 | **ヒート:** 78
-
-**安定度:** 87/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 87) · [出力](https://media.goodcase.ai/retests/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Created a cinematic fashion transformation video featuring a beautiful young woman walking through elegant Parisian streets. She begins in a clean white summer dress, walking naturally along a stylish city sidewalk surrounded by classic architecture, cafés, shops, and pedestrians. The camera smoothly follows her with realistic cinematic movement and shallow depth of field. As she passes a storefront, glowing red light trails swirl around her body, creating a magical fashion-transition effect. Her outfit transforms seamlessly from white into a sophisticated red sleeveless dress. Continue with dynamic street-level shots as she confidently walks through a busy Paris intersection. Finish with a beautiful close-up of her in the red dress, gently holding and eating an ice cream while looking naturally toward the camera. Photorealistic details, elegant fashion-film aesthetic, natural daylight, smooth transitions, realistic skin texture, cinematic lens, subtle background motion, premium commercial look.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Woman Snowboarding and Catching Air at an Alpine Resort
 
 > Chasing the rush where snow meets the sky. Big jumps, fresh powder, and endless mountain energy. Created on seedance 2.0
@@ -2431,6 +2413,24 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/ayzalnooor24521-seedance-ai-db77eb406bfb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Red Dress Transformation on the Streets of Paris
+
+> From elegant white to bold red A little magic, a lot of Parisian style. Created on seedance 2.0 Prompt: Created a cinematic fashion transformation video featuri…
+
+[<img src="https://media.goodcase.ai/cases/6fd799c4ee96.jpg" width="600" alt="Red Dress Transformation on the Streets of Paris">](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **出典:** [元投稿](https://x.com/ayzalnooor24521/status/2100456445900710158) | **公開日:** 2026-09-17 | **ヒート:** 77
+
+**安定度:** 87/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 87) · [出力](https://media.goodcase.ai/retests/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Created a cinematic fashion transformation video featuring a beautiful young woman walking through elegant Parisian streets. She begins in a clean white summer dress, walking naturally along a stylish city sidewalk surrounded by classic architecture, cafés, shops, and pedestrians. The camera smoothly follows her with realistic cinematic movement and shallow depth of field. As she passes a storefront, glowing red light trails swirl around her body, creating a magical fashion-transition effect. Her outfit transforms seamlessly from white into a sophisticated red sleeveless dress. Continue with dynamic street-level shots as she confidently walks through a busy Paris intersection. Finish with a beautiful close-up of her in the red dress, gently holding and eating an ice cream while looking naturally toward the camera. Photorealistic details, elegant fashion-film aesthetic, natural daylight, smooth transitions, realistic skin texture, cinematic lens, subtle background motion, premium commercial look.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-a-cinematic-fashion-transformation-video-featuring-a-beautiful-young-wo-c7588dbea707?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### California Sunset Seaside Perfume Commercial
 
@@ -4279,20 +4279,6 @@ DURATION: 30 seconds ASPECT RATIO: Use the video's available landscape/cinematic
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-5bea56e008fc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Woman Bathes and Blow-Dries a Giant Ragdoll Cat
-
-> Even giant cats need a little pampering! From a refreshing bath to a fluffy blowout, pure cuteness! Created on seedance 2.0 Prompt: 30-second ultra-realistic ci…
-
-[<img src="https://media.goodcase.ai/cases/8ef7cfb8f43c.jpg" width="600" alt="A Woman Bathes and Blow-Dries a Giant Ragdoll Cat">](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2110921969420177453) | **公開日:** 2026-10-16 | **ヒート:** 63
-
-```
-30-second ultra-realistic cinematic video prompt: Create a heartwarming, funny, and visually stunning 30-second video featuring an enormous, fluffy white-and-gray Ragdoll cat with beautiful blue eyes, a pink nose, and extremely soft, thick fur, sitting outside a modern house. A beautiful young Korean woman with long, straight dark hair, a natural smile, and a casual navy-blue outfit approaches the giant cat on a sunny afternoon. She gently sprays water over the cat using a green garden hose, soaking its thick fur while the cat remains calm and adorable. Show realistic water droplets falling from its fur, with detailed wet hair and natural feline expressions. The woman smiles and laughs while carefully washing the giant cat in the driveway, surrounded by greenery and warm sunlight. Transition smoothly to a cozy garage scene where she uses a handheld hair dryer to dry the enormous cat's fluffy coat. The cat closes its eyes happily as warm air blows through its fur, making it look even bigger and funnier. Use realistic animal movements, natural human expressions, cinematic camera angles, soft golden-hour lighting, detailed fur physics, and seamless transitions. Maintain consistent character appearances throughout the video, with photorealistic quality, natural ambient sounds, and no text, logos, or watermarks.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Full-Length Taekwondo Action Scene With a Korean Fighter
 
 > A fierce warrior Powerful kicks One unstoppable fight Pure cinematic Taekwondo energy brought to life. Made With Seedanc
@@ -4349,6 +4335,20 @@ NEGATIVE PROMPT: No eyes, eyeballs, colorful neon, bright rooms, sudden cuts, fa
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-12-8-second-surreal-cinematic-art-video-in-16-9-format-with-a-deep-bl-1c31702f9cce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Woman Bathes and Blow-Dries a Giant Ragdoll Cat
+
+> Even giant cats need a little pampering! From a refreshing bath to a fluffy blowout, pure cuteness! Created on seedance 2.0 Prompt: 30-second ultra-realistic ci…
+
+[<img src="https://media.goodcase.ai/cases/8ef7cfb8f43c.jpg" width="600" alt="A Woman Bathes and Blow-Dries a Giant Ragdoll Cat">](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2110921969420177453) | **公開日:** 2026-10-16 | **ヒート:** 62
+
+```
+30-second ultra-realistic cinematic video prompt: Create a heartwarming, funny, and visually stunning 30-second video featuring an enormous, fluffy white-and-gray Ragdoll cat with beautiful blue eyes, a pink nose, and extremely soft, thick fur, sitting outside a modern house. A beautiful young Korean woman with long, straight dark hair, a natural smile, and a casual navy-blue outfit approaches the giant cat on a sunny afternoon. She gently sprays water over the cat using a green garden hose, soaking its thick fur while the cat remains calm and adorable. Show realistic water droplets falling from its fur, with detailed wet hair and natural feline expressions. The woman smiles and laughs while carefully washing the giant cat in the driveway, surrounded by greenery and warm sunlight. Transition smoothly to a cozy garage scene where she uses a handheld hair dryer to dry the enormous cat's fluffy coat. The cat closes its eyes happily as warm air blows through its fur, making it look even bigger and funnier. Use realistic animal movements, natural human expressions, cinematic camera angles, soft golden-hour lighting, detailed fur physics, and seamless transitions. Maintain consistent character appearances throughout the video, with photorealistic quality, natural ambient sounds, and no text, logos, or watermarks.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-30-second-ultra-realistic-cinematic-video-prompt-create-a-heartwarming-funny-c91743ef3579?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Hooded Young Man Evades a Giant Monster in a Misty Ancient Forest
 

@@ -16,16 +16,16 @@
 
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 115 | 9 |
 | [POV and vlog presence](#pov-vlog-presence) | 105 | 13 |
 | [Action continuity choreography](#action-continuity-choreography) | 104 | 8 |
-| [Cinematic travel montage](#travel-city-walk) | 75 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 74 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 70 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 62 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
 | [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 46 | 0 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 47 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 40 | 0 |
@@ -44,7 +44,7 @@
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-78 人のクリエイターによる 116 ケース · クリエイターメソッド 9 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+78 人のクリエイターによる 115 ケース · クリエイターメソッド 9 件 · [goodcase.ai で開く](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 安定再現 · 実例 59 件を再テスト、55 件が合格
 
@@ -125,7 +125,7 @@ npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-46 人のクリエイターによる 75 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+46 人のクリエイターによる 74 ケース · クリエイターメソッド 5 件 · [goodcase.ai で開く](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 安定再現 · 実例 31 件を再テスト、29 件が合格
 
@@ -138,7 +138,7 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | CaliraVal | Cinematic travel montage<br><sub>安定再現 · 実例 4 件を再テスト、4 件が合格</sub> | 6 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | Cinematic travel montage<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | Cinematic travel montage<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| ayzalnooor24521 | Cinematic travel montage<br><sub>テスト待ち</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| ayzalnooor24521 | Cinematic travel montage<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
@@ -166,7 +166,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-36 人のクリエイターによる 70 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+37 人のクリエイターによる 70 ケース · クリエイターメソッド 2 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 安定再現 · 実例 34 件を再テスト、31 件が合格
 
@@ -244,7 +244,7 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 > One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
 
-36 人のクリエイターによる 46 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+37 人のクリエイターによる 47 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 実例 19 件を再テスト、15 件が合格
 
@@ -310,7 +310,7 @@ npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-25 人のクリエイターによる 37 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+26 人のクリエイターによる 37 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 安定再現 · 実例 13 件を再テスト、12 件が合格
 

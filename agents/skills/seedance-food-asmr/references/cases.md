@@ -72,7 +72,7 @@ No storyboard, reference image, sketch, panels, borders, numbers, arrows, annota
 
 ## E2 · GPT Image 2 + Seedance Mouth-Watering Mukbang Short
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 65
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 64
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-5f2b0c838698) · [finished media](https://media.goodcase.ai/cases/f0a5f53703c2.mp4) · [poster](https://media.goodcase.ai/cases/b3cd9e34db34.jpg) · [original source](https://x.com/Just_sharon7/status/2089737554061148465)
 - Summary: I was already starving and then I wattched this video of her eating. GPT Image 2 + Seedance 2.5 on @TapNow_AI prompt Ima
 

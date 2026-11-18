@@ -83,7 +83,7 @@ Photorealistic, 4K, cinematic lighting, consistent character, natural skin textu
 
 ## E4 · Her Autumn Day in the City
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 76
+- Seedance 2.5 · creator: @Chaemate_ · heat: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11) · [finished media](https://media.goodcase.ai/cases/7a00739ba113.mp4) · [poster](https://media.goodcase.ai/cases/b3972f1a8b26.jpg) · [original source](https://x.com/Chaemate_/status/2100103235566797039)
 - Summary: city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
 

@@ -143,20 +143,6 @@ She stands, throws the bag over her shoulder, and gives the camera a small wave.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/analog-fitness-vlog-gym-diary?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Dragon Chases a Woman Through a Container Port at Dusk
-
-> Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
-
-[<img src="https://media.goodcase.ai/cases/f28efeb610bf.jpg" width="600" alt="A Dragon Chases a Woman Through a Container Port at Dusk">](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2108380075796418791) | **公開日:** 2026-10-09 | **ヒート:** 57
-
-```
-Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Husband Mistakes a Laundry Request for a Romantic Invitation
 
 > When you thought she was getting ready for romance… 😏❤️ But she was actually getting you ready for laundry duty. Made w
@@ -185,20 +171,6 @@ Comedy style: exaggerated facial expressions, fast misunderstanding setup, drama
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-b4d2ba40a750?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### After a Romantic Dinner, a Girl Feasts on Snacks at Home
-
-> A romantic dinner turned into a midnight food adventure. Because sometimes, love can wait, but food can't. Created on seedance 2.0 Prompt: Create a high-quality…
-
-[<img src="https://media.goodcase.ai/cases/24bbf67a89ab.jpg" width="600" alt="After a Romantic Dinner, a Girl Feasts on Snacks at Home">](https://goodcase.ai/cases/seedance-2-0-create-a-high-quality-cinematic-3d-animated-comedy-video-featuring-a-cute-youn-e3f4266f1022?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2116402455315718306) | **公開日:** 2026-10-31 | **ヒート:** 56
-
-```
-Create a high-quality, cinematic 3D animated comedy video featuring a cute young couple enjoying a romantic dinner at an elegant luxury restaurant. The handsome young man wears a stylish black tuxedo, while the beautiful girl wears a glamorous black evening gown with her hair tied in an elegant bun. They sit together at a beautifully decorated table with warm golden lighting, enjoying a delicious roasted turkey with crispy fries and vegetables. The girl playfully offers him a bite of food, and they exchange sweet, romantic smiles. After dinner, the couple drives home through a beautiful city at night, with glowing streetlights and charming buildings in the background. The girl arrives at her luxurious home, quietly enters the house, and heads straight to the kitchen. She opens the refrigerator and excitedly grabs a huge roasted turkey, potato chips, chocolates, cookies, burgers, and plenty of delicious snacks. In the next scene, she sits comfortably on a luxurious sofa surrounded by mountains of junk food, happily eating everything with a big smile on her face. End with a wide cinematic shot revealing the entire living room filled with snacks and food, creating a funny and adorable midnight food-craving moment. Use expressive cartoon facial animations, detailed food textures, smooth character movements, realistic lighting, beautiful camera transitions, and premium Pixar-inspired 3D animation quality. Keep the characters' appearance consistent throughout the video, with no character duplication, morphing, or visual glitches.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-high-quality-cinematic-3d-animated-comedy-video-featuring-a-cute-youn-e3f4266f1022?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake
 
@@ -258,6 +230,20 @@ Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen b
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Dragon Chases a Woman Through a Container Port at Dusk
+
+> Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
+
+[<img src="https://media.goodcase.ai/cases/f28efeb610bf.jpg" width="600" alt="A Dragon Chases a Woman Through a Container Port at Dusk">](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2108380075796418791) | **公開日:** 2026-10-09 | **ヒート:** 56
+
+```
+Create a 45-second ultra-realistic cinematic action video set in a large shipping container port at dusk, with wet concrete reflecting dramatic blue-gray skies and industrial lights. A young woman with long dark hair, wearing a white sleeveless crop top, pink pants, and black boots, runs desperately through the empty container yard as a gigantic, terrifying dark dragon with enormous wings, sharp horns, glowing orange eyes, and fiery scales chases her. The dragon opens its massive jaws and unleashes a powerful stream of fire, creating a huge explosion of flames, sparks, smoke, and flying debris behind the running woman. Show her sprinting between tall shipping containers as the dragon swoops low, spreads its wings, and sends powerful gusts of wind and dust across the ground. Use dynamic tracking shots, low-angle close-ups of her running feet, dramatic side views, and wide cinematic shots revealing the dragon's enormous size. As the chase intensifies, show the dragon flying above the port while the woman runs through thick smoke and turns to look back in fear. In the final sequence, she stops in the open container yard and faces the flying dragon as it circles through the stormy sky, followed by a massive fiery explosion in the distance that illuminates the entire scene. Maintain consistent character appearance, realistic human movement, detailed dragon anatomy, physically accurate fire and smoke, cinematic motion blur, dramatic lighting, volumetric fog, and photorealistic 4K quality throughout the entire 45-second video, with no text, logos, or watermarks.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-45-second-ultra-realistic-cinematic-action-video-set-in-a-large-shippi-08fe6cb9dd14?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Slow Winter Living in a Snowy Mountain Cabin
 
@@ -344,6 +330,20 @@ A beautiful young East Asian woman with long straight black hair, wearing a soft
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-beautiful-young-east-asian-woman-with-long-straight-black-hair-wearing-a-sof-d4ab346c8461?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### After a Romantic Dinner, a Girl Feasts on Snacks at Home
+
+> A romantic dinner turned into a midnight food adventure. Because sometimes, love can wait, but food can't. Created on seedance 2.0 Prompt: Create a high-quality…
+
+[<img src="https://media.goodcase.ai/cases/24bbf67a89ab.jpg" width="600" alt="After a Romantic Dinner, a Girl Feasts on Snacks at Home">](https://goodcase.ai/cases/seedance-2-0-create-a-high-quality-cinematic-3d-animated-comedy-video-featuring-a-cute-youn-e3f4266f1022?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2116402455315718306) | **公開日:** 2026-10-31 | **ヒート:** 55
+
+```
+Create a high-quality, cinematic 3D animated comedy video featuring a cute young couple enjoying a romantic dinner at an elegant luxury restaurant. The handsome young man wears a stylish black tuxedo, while the beautiful girl wears a glamorous black evening gown with her hair tied in an elegant bun. They sit together at a beautifully decorated table with warm golden lighting, enjoying a delicious roasted turkey with crispy fries and vegetables. The girl playfully offers him a bite of food, and they exchange sweet, romantic smiles. After dinner, the couple drives home through a beautiful city at night, with glowing streetlights and charming buildings in the background. The girl arrives at her luxurious home, quietly enters the house, and heads straight to the kitchen. She opens the refrigerator and excitedly grabs a huge roasted turkey, potato chips, chocolates, cookies, burgers, and plenty of delicious snacks. In the next scene, she sits comfortably on a luxurious sofa surrounded by mountains of junk food, happily eating everything with a big smile on her face. End with a wide cinematic shot revealing the entire living room filled with snacks and food, creating a funny and adorable midnight food-craving moment. Use expressive cartoon facial animations, detailed food textures, smooth character movements, realistic lighting, beautiful camera transitions, and premium Pixar-inspired 3D animation quality. Keep the characters' appearance consistent throughout the video, with no character duplication, morphing, or visual glitches.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-high-quality-cinematic-3d-animated-comedy-video-featuring-a-cute-youn-e3f4266f1022?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Young Woman Strolls Through a Korean Coastal Village at Sunset
 
@@ -586,77 +586,6 @@ Use cinematic establishing shots, extreme close-ups, medium shots, tracking shot
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-91732a69f379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Crow Hugs a Gray Cat Before They Walk Away Together
-
-> POV: me pretending I’m not completely obsessed with my little winged favorite. 🐦‍⬛💕 He’s just out here being cute, slightly mysterious, and making me want to …
-
-[<img src="https://media.goodcase.ai/cases/493560c6a359.jpg" width="600" alt="Crow Hugs a Gray Cat Before They Walk Away Together">](https://goodcase.ai/cases/seedance-create-a-realistic-funny-heartwarming-handheld-phone-video-of-a-real-looking-2ef2ca810aff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @soulful__ai | **出典:** [元投稿](https://x.com/soulful__ai/status/2103056454395855115) | **公開日:** 2026-09-24 | **ヒート:** 52
-
-<details>
-<summary><b>プロンプト全文（53 行、クリックで展開）</b></summary>
-
-```
-Create a realistic, funny, heartwarming handheld phone video of a real-looking black crow and a realistic fluffy gray cat inside a simple apartment hallway.
-
-The gray cat wears a small pink bow attached naturally to the top of her head. The bow stays securely in place throughout the entire video.
-
-0–3 sec:
-The crow stands in the middle of the hallway, looking around naturally. The gray cat appears in the distance and notices the crow. She immediately runs toward him with excited, playful energy.
-
-3–6 sec:
-The cat reaches the crow. The crow turns toward her and gently spreads both wings around the cat, creating the appearance of a sweet little hug. The cat leans into the crow affectionately. Their interaction should feel spontaneous and physically believable.
-
-6–10 sec:
-After the hug, the crow starts walking forward down the hallway while the gray cat walks closely beside him. They move together like an unlikely little pair of friends. The crow occasionally looks toward the cat while walking.
-
-10–12 sec:
-The cat briefly looks up at the crow, then they continue walking away together.
-
-Visual style
-
-Extremely realistic animals
-
-Real crow anatomy, feathers, feet and beak
-
-Realistic fluffy gray cat fur and natural movement
-
-Small pink bow on the cat's head
-
-Ordinary apartment hallway
-
-Handheld smartphone camera
-
-Slight camera shake and imperfect framing
-
-Natural indoor lighting
-
-Slightly compressed, 144p/low-quality viral social-media video aesthetic
-
-Mild motion blur and phone-camera autofocus
-
-No cinematic color grading
-
-No CGI appearance
-
-No cartoon look
-
-No exaggerated facial expressions
-
-No human hands
-
-Keep the animals anatomically realistic while making the hug physically believable
-
-Spontaneous, funny, wholesome internet-video feeling
-
-Single continuous shot, no cuts or transitions
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-realistic-funny-heartwarming-handheld-phone-video-of-a-real-looking-2ef2ca810aff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Explosive Motion-Graphics Character Reveal Trailer
 
 > Made with Seedance 2.0 Prompt: Create an explosive, motion-graphics-driven character reveal trailer in 16:9, exactly 13
@@ -850,6 +779,77 @@ The overall feeling should be wholesome, peaceful, authentic and intimate — li
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-realistic-30-second-cinematic-vlog-style-video-featuring-a-young-korea-9c4eed813d4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Crow Hugs a Gray Cat Before They Walk Away Together
+
+> POV: me pretending I’m not completely obsessed with my little winged favorite. 🐦‍⬛💕 He’s just out here being cute, slightly mysterious, and making me want to …
+
+[<img src="https://media.goodcase.ai/cases/493560c6a359.jpg" width="600" alt="Crow Hugs a Gray Cat Before They Walk Away Together">](https://goodcase.ai/cases/seedance-create-a-realistic-funny-heartwarming-handheld-phone-video-of-a-real-looking-2ef2ca810aff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @soulful__ai | **出典:** [元投稿](https://x.com/soulful__ai/status/2103056454395855115) | **公開日:** 2026-09-24 | **ヒート:** 51
+
+<details>
+<summary><b>プロンプト全文（53 行、クリックで展開）</b></summary>
+
+```
+Create a realistic, funny, heartwarming handheld phone video of a real-looking black crow and a realistic fluffy gray cat inside a simple apartment hallway.
+
+The gray cat wears a small pink bow attached naturally to the top of her head. The bow stays securely in place throughout the entire video.
+
+0–3 sec:
+The crow stands in the middle of the hallway, looking around naturally. The gray cat appears in the distance and notices the crow. She immediately runs toward him with excited, playful energy.
+
+3–6 sec:
+The cat reaches the crow. The crow turns toward her and gently spreads both wings around the cat, creating the appearance of a sweet little hug. The cat leans into the crow affectionately. Their interaction should feel spontaneous and physically believable.
+
+6–10 sec:
+After the hug, the crow starts walking forward down the hallway while the gray cat walks closely beside him. They move together like an unlikely little pair of friends. The crow occasionally looks toward the cat while walking.
+
+10–12 sec:
+The cat briefly looks up at the crow, then they continue walking away together.
+
+Visual style
+
+Extremely realistic animals
+
+Real crow anatomy, feathers, feet and beak
+
+Realistic fluffy gray cat fur and natural movement
+
+Small pink bow on the cat's head
+
+Ordinary apartment hallway
+
+Handheld smartphone camera
+
+Slight camera shake and imperfect framing
+
+Natural indoor lighting
+
+Slightly compressed, 144p/low-quality viral social-media video aesthetic
+
+Mild motion blur and phone-camera autofocus
+
+No cinematic color grading
+
+No CGI appearance
+
+No cartoon look
+
+No exaggerated facial expressions
+
+No human hands
+
+Keep the animals anatomically realistic while making the hug physically believable
+
+Spontaneous, funny, wholesome internet-video feeling
+
+Single continuous shot, no cuts or transitions
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-realistic-funny-heartwarming-handheld-phone-video-of-a-real-looking-2ef2ca810aff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Korean Woman Wanders Tokyo from Sunset to Neon Nights
 
 > Lost in Tokyo’s neon lights, little moments, and unforgettable memories. A dreamy city adventure that feels like a movie. Created on seedance 2.0 Prompt: Create…
@@ -929,6 +929,37 @@ Style: photorealistic Korean lifestyle, cinematic storytelling, premium commerci
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-lifestyle-video-following-a-young-korean-universi-2c52e69d07a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Korean Woman's Summer Watermelon Routine
+
+> A Korean summer day turns sweeter with a market-fresh watermelon, from careful selection to the first refreshing bite. C
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-95054b3a6379.jpg" width="600" alt="A Korean Woman's Summer Watermelon Routine">](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2092464281404965030) | **公開日:** 2026-08-26 | **ヒート:** 50
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-95054b3a6379/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second 16:9 ultra-photorealistic Korean summer lifestyle video following a young Korean woman through a natural summer routine: walking to a neighborhood fruit market → choosing a watermelon → carrying it home → washing and cutting it → enjoying the first bite.
+
+Keep the same woman, outfit, watermelon, locations, lighting, and time of day throughout. Use realistic human movement, natural walking, crouching, lifting, carrying, cutting, and eating. The watermelon must have believable weight, with realistic grip, balance, inertia, and cutting resistance.
+
+Show a lively Korean market, sunny residential street, and cozy apartment kitchen with authentic environmental details. Use smooth documentary-style camera movement, natural daylight, realistic depth of field, and subtle summer breeze.
+
+Include authentic sounds of market activity, footsteps, running water, knife cutting, kitchen ambience, and natural eating sounds. Optional dialogue: “This one looks good.”
+
+Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Blue-Haired Woman Runs Back as a Scooter Rider Loses Balance and Falls
 
 > One unexpected moment turned the whole scene upside down!. Sometimes, a simple walk can turn into an unforgettable little adventure. Created on seedance 2.0 Pro…
@@ -942,20 +973,6 @@ Create a 30-second ultra-realistic cinematic video on a quiet residential street
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-video-on-a-quiet-residential-stree-322a92f53984?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Woman Attacked by a Lion While Taking Photos at a Zoo
-
-> A peaceful zoo visit turns into a terrifying encounter with a lion. Created on seedance 2.0 Prompt: Create a 20-second cinematic, ultra-realistic AI video featu…
-
-[<img src="https://media.goodcase.ai/cases/adeac5069260.jpg" width="600" alt="Woman Attacked by a Lion While Taking Photos at a Zoo">](https://goodcase.ai/cases/seedance-2-0-create-a-20-second-cinematic-ultra-realistic-ai-video-featuring-a-young-korean-7d52742fa5c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2111646777187450940) | **公開日:** 2026-10-18 | **ヒート:** 49
-
-```
-Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean woman with long, dark, slightly wavy hair, wearing a white blouse and dark pants. Begin with a close-up of her sitting beside a window, looking thoughtfully at her smartphone in soft natural daylight. Transition to an outdoor zoo setting where she stands near a railing, casually using her phone while observing the surroundings. Show her approaching the lion enclosure and raising her smartphone to capture a photo of a majestic lion below. Suddenly, the lion charges toward her, creating a tense and unexpected moment. She drops her phone and struggles to escape as the lion lunges at her inside the enclosure. Capture her frightened expressions, realistic body movements, flying dust, and the lion's powerful motion. Use dynamic camera angles, smooth cinematic transitions, natural sunlight, realistic shadows, and detailed environmental textures. Maintain consistent facial features, hairstyle, clothing, and body proportions throughout the video, with dramatic pacing and photorealistic quality.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-20-second-cinematic-ultra-realistic-ai-video-featuring-a-young-korean-7d52742fa5c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Girl Plays Basketball with a Giant White Dog Mascot
 
@@ -1151,36 +1168,19 @@ Location sound only. Grass and dirt scraping, fabric rustling. Sharp impact soun
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/shamiweb3-seedance-ai-a624f0561664?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Korean Woman's Summer Watermelon Routine
+### Woman Attacked by a Lion While Taking Photos at a Zoo
 
-> A Korean summer day turns sweeter with a market-fresh watermelon, from careful selection to the first refreshing bite. C
+> A peaceful zoo visit turns into a terrifying encounter with a lion. Created on seedance 2.0 Prompt: Create a 20-second cinematic, ultra-realistic AI video featu…
 
-[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-95054b3a6379.jpg" width="600" alt="A Korean Woman's Summer Watermelon Routine">](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/adeac5069260.jpg" width="600" alt="Woman Attacked by a Lion While Taking Photos at a Zoo">](https://goodcase.ai/cases/seedance-2-0-create-a-20-second-cinematic-ultra-realistic-ai-video-featuring-a-young-korean-7d52742fa5c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2092464281404965030) | **公開日:** 2026-08-26 | **ヒート:** 49
-
-**安定度:** 83/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-95054b3a6379/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
+**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2111646777187450940) | **公開日:** 2026-10-18 | **ヒート:** 48
 
 ```
-Create a 30-second 16:9 ultra-photorealistic Korean summer lifestyle video following a young Korean woman through a natural summer routine: walking to a neighborhood fruit market → choosing a watermelon → carrying it home → washing and cutting it → enjoying the first bite.
-
-Keep the same woman, outfit, watermelon, locations, lighting, and time of day throughout. Use realistic human movement, natural walking, crouching, lifting, carrying, cutting, and eating. The watermelon must have believable weight, with realistic grip, balance, inertia, and cutting resistance.
-
-Show a lively Korean market, sunny residential street, and cozy apartment kitchen with authentic environmental details. Use smooth documentary-style camera movement, natural daylight, realistic depth of field, and subtle summer breeze.
-
-Include authentic sounds of market activity, footsteps, running water, knife cutting, kitchen ambience, and natural eating sounds. Optional dialogue: “This one looks good.”
-
-Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
+Create a 20-second cinematic, ultra-realistic AI video featuring a young Korean woman with long, dark, slightly wavy hair, wearing a white blouse and dark pants. Begin with a close-up of her sitting beside a window, looking thoughtfully at her smartphone in soft natural daylight. Transition to an outdoor zoo setting where she stands near a railing, casually using her phone while observing the surroundings. Show her approaching the lion enclosure and raising her smartphone to capture a photo of a majestic lion below. Suddenly, the lion charges toward her, creating a tense and unexpected moment. She drops her phone and struggles to escape as the lion lunges at her inside the enclosure. Capture her frightened expressions, realistic body movements, flying dust, and the lion's powerful motion. Use dynamic camera angles, smooth cinematic transitions, natural sunlight, realistic shadows, and detailed environmental textures. Maintain consistent facial features, hairstyle, clothing, and body proportions throughout the video, with dramatic pacing and photorealistic quality.
 ```
 
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-20-second-cinematic-ultra-realistic-ai-video-featuring-a-young-korean-7d52742fa5c0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Summer Picnic by the Stream
 
@@ -2576,6 +2576,24 @@ Create a cinematic, realistic educational video set inside a modern university p
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-educational-video-set-inside-a-modern-university-961b27c23385?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Luxury Hydration Cream Surrounded by Water and White Flowers
+
+> Hydration meets luxury in every drop. 💧✨ A cinematic skincare concept made to feel fresh, premium, and refreshing. Created on seedance 2.0 Prompt: Create a 15-…
+
+[<img src="https://media.goodcase.ai/cases/340e096bbc62.jpg" width="600" alt="Luxury Hydration Cream Surrounded by Water and White Flowers">](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2101887507059351894) | **公開日:** 2026-09-21 | **ヒート:** 34
+
+**安定度:** 87/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 87) · [出力](https://media.goodcase.ai/retests/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Calm Girl Walks Through a School Hallway of Masked Figures
 
 > A beautiful moment with a cinematic twist. The calm Korean-girl aesthetic meets unexpected action, creating a scene that feels straight out of a K-drama movie. …
@@ -2593,24 +2611,6 @@ A beautiful Korean girl walking calmly through a realistic modern school hallway
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-beautiful-korean-girl-walking-calmly-through-a-realistic-modern-school-hallwa-a05c36559178?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Luxury Hydration Cream Surrounded by Water and White Flowers
-
-> Hydration meets luxury in every drop. 💧✨ A cinematic skincare concept made to feel fresh, premium, and refreshing. Created on seedance 2.0 Prompt: Create a 15-…
-
-[<img src="https://media.goodcase.ai/cases/340e096bbc62.jpg" width="600" alt="Luxury Hydration Cream Surrounded by Water and White Flowers">](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Aiwithmaha | **出典:** [元投稿](https://x.com/Aiwithmaha/status/2101887507059351894) | **公開日:** 2026-09-21 | **ヒート:** 33
-
-**安定度:** 87/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 87) · [出力](https://media.goodcase.ai/retests/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 15-second ultra-realistic luxury skincare commercial featuring an elegant glass jar labeled “AQUA LUXE – DEEP HYDRATION” in a cool blue, refreshing environment. Start with a soft blue atmospheric background as gentle light rays and subtle water particles create a clean premium mood. Slowly reveal the skincare jar standing on a glossy water surface, with realistic reflections and cinematic depth of field. Gradually move the camera closer while soft highlights glide across the metallic silver lid and glass packaging. Surround the jar with smooth, silky white cream-like waves flowing gracefully around it, creating a luxurious skincare texture. Add floating water droplets and tiny bubbles moving naturally through the scene with realistic physics. Transition into a dramatic splash of crystal-clear water wrapping around the product while keeping the jar perfectly sharp and centered. Introduce delicate white flowers and fresh green leaves around the splash for a fresh hydration-inspired atmosphere. End with a beautiful hero shot of the AQUA LUXE DEEP HYDRATION jar centered against the blue background, surrounded by water droplets, flowers, and soft glowing light, with premium cinematic lighting and flawless product focus.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-15-second-ultra-realistic-luxury-skincare-commercial-featuring-an-eleg-f718c3d31bff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Silver-Haired Swordsman Commands a Desert Storm
 
@@ -2973,31 +2973,13 @@ hf_20260702_115248_424b92a4-ca6f-401a-baa3-709ae4b60581hf_20260702_115…
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/nvtdanh-seedance-ai-52f635503525?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Woman’s Morning Strength Training at a Premium Gym
-
-> Start your morning strong with focus and confidence. Train harder, feel stronger, and become your best self. Stronger Ev
-
-[<img src="https://media.goodcase.ai/cases/8fc4f02816b3.jpg" width="600" alt="Woman’s Morning Strength Training at a Premium Gym">](https://goodcase.ai/cases/lianaalane-seedance-ai-c2d4ba0c6fa2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2093553083104350554) | **公開日:** 2026-08-29 | **ヒート:** 30
-
-**安定度:** 82/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.9) · [出力](https://media.goodcase.ai/retests/lianaalane-seedance-ai-c2d4ba0c6fa2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Create a 15-second ultra-realistic  morning gym advertisement featuring the same adult woman throughout. Start with her sitting on the edge of her bed in a loose dark-grey T-shirt and grey lounge pants, enjoying soft morning sunlight. She gets ready and smoothly transitions into a modest black full-sleeve high-neck gym top with black workout pants, with full chest coverage. She enters a premium modern gym, performs realistic dumbbell, cable-machine, and battle-rope exercises, then drinks water and looks confidently into the mirror. End with a cinematic shot of her walking through the gym and the text “STRONGER EVERY MORNING” with “YOUR GYM LOGO.” Use realistic skin, natural movements, accurate anatomy, authentic gym details, cinematic lighting, premium commercial quality, and 9:16 vertical format.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/lianaalane-seedance-ai-c2d4ba0c6fa2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Zombie Chase Turns into an Embrace in a Golden Field
 
 > Sometimes, what looks like a chase is really just two people trying to find their way back to each other. Created with S
 
 [<img src="https://media.goodcase.ai/cases/7bf1bdfa0c56.jpg" width="600" alt="Zombie Chase Turns into an Embrace in a Golden Field">](https://goodcase.ai/cases/seedance-one-continuous-video-alley-chase-flows-directly-into-the-golden-field-reveal-vi-f06a4a0721d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2095154985487253543) | **公開日:** 2026-09-02 | **ヒート:** 29
+**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2095154985487253543) | **公開日:** 2026-09-02 | **ヒート:** 30
 
 <details>
 <summary><b>プロンプト全文（68 行、クリックで展開）</b></summary>
@@ -3076,6 +3058,24 @@ POSITIVE LOCKS
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-one-continuous-video-alley-chase-flows-directly-into-the-golden-field-reveal-vi-f06a4a0721d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Woman’s Morning Strength Training at a Premium Gym
+
+> Start your morning strong with focus and confidence. Train harder, feel stronger, and become your best self. Stronger Ev
+
+[<img src="https://media.goodcase.ai/cases/8fc4f02816b3.jpg" width="600" alt="Woman’s Morning Strength Training at a Premium Gym">](https://goodcase.ai/cases/lianaalane-seedance-ai-c2d4ba0c6fa2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2093553083104350554) | **公開日:** 2026-08-29 | **ヒート:** 30
+
+**安定度:** 82/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 81.9) · [出力](https://media.goodcase.ai/retests/lianaalane-seedance-ai-c2d4ba0c6fa2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Create a 15-second ultra-realistic  morning gym advertisement featuring the same adult woman throughout. Start with her sitting on the edge of her bed in a loose dark-grey T-shirt and grey lounge pants, enjoying soft morning sunlight. She gets ready and smoothly transitions into a modest black full-sleeve high-neck gym top with black workout pants, with full chest coverage. She enters a premium modern gym, performs realistic dumbbell, cable-machine, and battle-rope exercises, then drinks water and looks confidently into the mirror. End with a cinematic shot of her walking through the gym and the text “STRONGER EVERY MORNING” with “YOUR GYM LOGO.” Use realistic skin, natural movements, accurate anatomy, authentic gym details, cinematic lighting, premium commercial quality, and 9:16 vertical format.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/lianaalane-seedance-ai-c2d4ba0c6fa2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Sandwich Chase Sends Desktop Icons Flying
 

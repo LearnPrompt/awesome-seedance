@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 7/9）
 
-Seedance 2.5 の全 754 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 755 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 754 件中 526–622 件目。
+このページ: 755 件中 527–623 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
 
@@ -1094,6 +1094,83 @@ Photorealistic live-action horror, authentic Japanese high-school science labora
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-cinematic-horror-action-sequence-set-inside-a-q-9afbbee52258?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Pixar-Style Pirate Chef ASMR Comedy Short: Seedance 2.5 Second-by-Second Storyboard Prompt
+
+> A full Seedance 2.5 prompt from creator Nomi AI for a 30-second Pixar-quality 3D animated ASMR comedy in a warm pirate ship kitchen, with a burly pirate chef and a parrot stealing ingredients. Includes a 0-30s shot list, style notes, character consistency and slapstick choreography.
+
+[<img src="https://media.goodcase.ai/cases/3c22318ba9e0.jpg" width="600" alt="Pixar-Style Pirate Chef ASMR Comedy Short: Seedance 2.5 Second-by-Second Storyboard Prompt">](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AiwithNomi | **出典:** [元投稿](https://x.com/AiwithNomi/status/2099872759866380704) | **公開日:** 2026-09-15 | **ヒート:** 40
+
+**安定度:** 69/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 69.3) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（33 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second Pixar-quality 3D animated ASMR comedy short aboard a warm, lantern-lit pirate ship galley.
+
+STYLE: Premium cinematic 3D animation, expressive characters, polished feature-film quality, warm amber lighting, realistic food textures, cinematic depth of field, playful slapstick humor, gentle ship movement and crisp immersive food ASMR.
+
+Characters: A large, burly, bearded pirate chef wearing a worn apron, and a mischievous bright-green parrot constantly trying to steal ingredients. Keep both characters visually consistent throughout.
+
+0–4s
+
+Extreme close-up of the parrot stealing a garlic bulb. The pirate's hand suddenly slams beside it. They freeze and stare at each other. Brief record-scratch silence. The pirate flicks the parrot away; it spins through the air and lands on a pot rack pretending nothing happened.
+
+4–8s
+
+The pirate rapidly chops garlic with crisp ASMR. The parrot tiptoes toward a tomato. Garlic hits hot oil with a huge sizzle, startling the parrot and sending it tumbling off the rack. Metal cups clang.
+
+8–14s
+
+Fast cinematic cooking montage: tomatoes sizzling, herbs being torn, olive oil pouring in golden slow motion, sauce bubbling and the pirate confidently stirring the skillet. Layer detailed chopping, sizzling, pouring and bubbling ASMR.
+
+14–19s
+
+The parrot spots the food and secretly tries to drag the skillet away. Its tiny body strains comically across the wooden floor. The pirate slowly turns around and stares. The parrot freezes while still holding the handle, then innocently whistles and lets go.
+
+19–24s
+
+The pirate finishes cooking with a dramatic skillet toss. Steam rises as the glossy dish is plated. The parrot watches hungrily, trying to look innocent.
+
+24–30s
+
+Instead of scolding the parrot, the pirate prepares a tiny plate of sauce and bread and slides it across the table. The parrot happily bounces and eats beside him. They exchange a satisfied look as the ship gently sways.
+
+End with a wide cinematic shot of the cozy galley glowing under amber lanterns, subtle ocean sounds and wooden ship creaks, with one soft playful accordion note fading out.
+
+No dialogue, no subtitles, no text. Maintain strong character consistency, natural physics, smooth animation, cinematic framing and detailed food ASMR throughout.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### An Unresolved Shadow After an Exorcism in a Korean House
+
+> They saved her… but something else woke up. 😳 Seedance 2.5 on @wavespeed_ai Prompt : Create a cinematic Korean folk-horror ritual inside a dark traditional Kor…
+
+[<img src="https://media.goodcase.ai/cases/5feefb17c82d.jpg" width="600" alt="An Unresolved Shadow After an Exorcism in a Korean House">](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2099836457430974932) | **公開日:** 2026-09-15 | **ヒート:** 40
+
+**安定度:** 67/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 67) · [出力](https://media.goodcase.ai/retests/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a cinematic Korean folk-horror ritual inside a dark traditional Korean wooden house. Keep the Word character’s face, hairstyle, outfit, and appearance perfectly consistent. She kneels weakly inside a salt circle surrounded by candles, incense, rice, and Korean talismans while worried family members watch and a shaman prepares the ritual. The shaman begins chanting as her fingers twitch, her body trembles, her head suddenly moves unnaturally, dark veins spread across her skin, and her eyes gradually turn completely black. Her body convulses violently as the shaman throws rice and salt around the circle.
+
+The woman suddenly rises unnaturally while the shaman presses a burning talisman against her forehead. A powerful wind tears through the closed room, shaking candles, scattering papers, and whipping her hair and clothing. The talisman catches fire, flames surge, and she collapses onto the wooden floor, completely still. After a tense silence, her eyes reopen normally and the family rushes toward her in relief while the exhausted shaman watches carefully.
+
+End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or cartoon style.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Green-Robed Swordswoman Battles Guards in an Ancient Inn
 
 > Grace in every move power in every strike A true warrior never backs down. Made With Seedance 2.5 Prompt: Cinematic 8k hyper-realistic action sequence dark atmo…
@@ -1809,83 +1886,6 @@ No CGI look, animation, superhero abilities, wire-fu, flying bodies, weapons, go
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-nighttime-action-thriller-i-6b47b28a64e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Pixar-Style Pirate Chef ASMR Comedy Short: Seedance 2.5 Second-by-Second Storyboard Prompt
-
-> A full Seedance 2.5 prompt from creator Nomi AI for a 30-second Pixar-quality 3D animated ASMR comedy in a warm pirate ship kitchen, with a burly pirate chef and a parrot stealing ingredients. Includes a 0-30s shot list, style notes, character consistency and slapstick choreography.
-
-[<img src="https://media.goodcase.ai/cases/3c22318ba9e0.jpg" width="600" alt="Pixar-Style Pirate Chef ASMR Comedy Short: Seedance 2.5 Second-by-Second Storyboard Prompt">](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AiwithNomi | **出典:** [元投稿](https://x.com/AiwithNomi/status/2099872759866380704) | **公開日:** 2026-09-15 | **ヒート:** 39
-
-**安定度:** 69/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 69.3) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（33 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second Pixar-quality 3D animated ASMR comedy short aboard a warm, lantern-lit pirate ship galley.
-
-STYLE: Premium cinematic 3D animation, expressive characters, polished feature-film quality, warm amber lighting, realistic food textures, cinematic depth of field, playful slapstick humor, gentle ship movement and crisp immersive food ASMR.
-
-Characters: A large, burly, bearded pirate chef wearing a worn apron, and a mischievous bright-green parrot constantly trying to steal ingredients. Keep both characters visually consistent throughout.
-
-0–4s
-
-Extreme close-up of the parrot stealing a garlic bulb. The pirate's hand suddenly slams beside it. They freeze and stare at each other. Brief record-scratch silence. The pirate flicks the parrot away; it spins through the air and lands on a pot rack pretending nothing happened.
-
-4–8s
-
-The pirate rapidly chops garlic with crisp ASMR. The parrot tiptoes toward a tomato. Garlic hits hot oil with a huge sizzle, startling the parrot and sending it tumbling off the rack. Metal cups clang.
-
-8–14s
-
-Fast cinematic cooking montage: tomatoes sizzling, herbs being torn, olive oil pouring in golden slow motion, sauce bubbling and the pirate confidently stirring the skillet. Layer detailed chopping, sizzling, pouring and bubbling ASMR.
-
-14–19s
-
-The parrot spots the food and secretly tries to drag the skillet away. Its tiny body strains comically across the wooden floor. The pirate slowly turns around and stares. The parrot freezes while still holding the handle, then innocently whistles and lets go.
-
-19–24s
-
-The pirate finishes cooking with a dramatic skillet toss. Steam rises as the glossy dish is plated. The parrot watches hungrily, trying to look innocent.
-
-24–30s
-
-Instead of scolding the parrot, the pirate prepares a tiny plate of sauce and bread and slides it across the table. The parrot happily bounces and eats beside him. They exchange a satisfied look as the ship gently sways.
-
-End with a wide cinematic shot of the cozy galley glowing under amber lanterns, subtle ocean sounds and wooden ship creaks, with one soft playful accordion note fading out.
-
-No dialogue, no subtitles, no text. Maintain strong character consistency, natural physics, smooth animation, cinematic framing and detailed food ASMR throughout.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-pixar-quality-3d-animated-asmr-comedy-short-aboard-a-warm-l-0338f10f2018?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### An Unresolved Shadow After an Exorcism in a Korean House
-
-> They saved her… but something else woke up. 😳 Seedance 2.5 on @wavespeed_ai Prompt : Create a cinematic Korean folk-horror ritual inside a dark traditional Kor…
-
-[<img src="https://media.goodcase.ai/cases/5feefb17c82d.jpg" width="600" alt="An Unresolved Shadow After an Exorcism in a Korean House">](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2099836457430974932) | **公開日:** 2026-09-15 | **ヒート:** 39
-
-**安定度:** 67/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 67) · [出力](https://media.goodcase.ai/retests/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a cinematic Korean folk-horror ritual inside a dark traditional Korean wooden house. Keep the Word character’s face, hairstyle, outfit, and appearance perfectly consistent. She kneels weakly inside a salt circle surrounded by candles, incense, rice, and Korean talismans while worried family members watch and a shaman prepares the ritual. The shaman begins chanting as her fingers twitch, her body trembles, her head suddenly moves unnaturally, dark veins spread across her skin, and her eyes gradually turn completely black. Her body convulses violently as the shaman throws rice and salt around the circle.
-
-The woman suddenly rises unnaturally while the shaman presses a burning talisman against her forehead. A powerful wind tears through the closed room, shaking candles, scattering papers, and whipping her hair and clothing. The talisman catches fire, flames surge, and she collapses onto the wooden floor, completely still. After a tense silence, her eyes reopen normally and the family rushes toward her in relief while the exhausted shaman watches carefully.
-
-End with a wide aftermath shot showing scattered salt, burnt talismans, melted candles, incense smoke, and ritual objects across the floor. Everything appears finished until one untouched talisman begins releasing a faint trail of dark smoke. The camera slowly moves toward it, leaving the supernatural threat unresolved. Realistic Korean folk horror, cinematic lighting, deep shadows, practical fire and smoke, dramatic camera movement, natural acting and sound design, no gore, no subtitles, no watermark, no anime or cartoon style.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Duel of Two Warriors in a Snowbound Ancient Temple
 
 > From imagination to cinema in seconds. Seedance 2.5 by @ImagineArt_X is redefining AI-powered visuals with stunning motion and cinematic detail. Prompt: AAA PRE…
@@ -2150,6 +2150,86 @@ AI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Phone-Controlled Outfit Changes 👚📱
+
+> Seedance 2.5 手机遥控变装👚📱 prompt 👇 Duration: 20秒 Aspect ratio: 9:16 Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏 【场景】明亮客厅/卧室，落地窗自然光，背景简洁…
+
+[<img src="https://media.goodcase.ai/cases/bf76fb08150a.jpg" width="600" alt="Seedance 2.5 Phone-Controlled Outfit Changes 👚📱">](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2097320255139795072) | **公開日:** 2026-09-08 | **ヒート:** 39
+
+**安定度:** 47/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 46.5) · [出力](https://media.goodcase.ai/retests/seedance-seedance-2-5-dc01b3250bb4/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（58 行、クリックで展開）</b></summary>
+
+```
+Seedance 2.5 手机遥控变装👚📱
+
+prompt 👇
+
+Duration: 20秒
+Aspect ratio: 9:16
+Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏
+
+【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物
+【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手
+【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈
+
+SHOT 1（00:00-00:03.5）开场展示
+画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。
+台词：女主："老公，看我今天穿得怎么样？"
+音效：室内底噪，衣料轻响。
+Constraints: 女主全身入画，开场服装=角色原本服装。
+
+SHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动
+画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。
+台词：男主（画外音，慵懒）："还行。换这套看看。"
+音效：屏幕滑动轻摩擦声。
+Constraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。
+
+SHOT 3（00:06.5-00:09.5）第一次点击瞬变
+画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。
+台词：女主（惊讶）："诶？！"
+音效：清脆"滴"+换装"叮"，衣料展开微响。
+Constraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。
+
+SHOT 4（00:09.5-00:13）第二次滑动+点击瞬变
+画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。
+台词：男主（画外音）："这套也行。"
+女主（小声）："你……乱点。"
+音效：滑动声+"滴"+"叮"，轻快音乐渐起。
+Constraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。
+
+SHOT 5（00:13-00:16.5）第三次滑动+点击瞬变
+画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。
+台词：女主："这套……还挺好看的嘛。"
+音效："滴"+"叮"，音乐节奏加快半拍。
+Constraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。
+
+SHOT 6（00:16.5-00:20）第四次滑动+点击+收尾
+画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。
+台词：男主（画外音，满意）："这套定了。"
+女主（笑着凑近，嗔怪）："你好坏啊——我好喜欢！"
+音效："滴"+"叮"，音乐在女主台词落点收在甜甜重拍。
+Constraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。
+
+【导演铁律】
+1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。
+2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。
+3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。
+4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。
+5. 台词口型清晰，与点击节拍对齐。
+
+Negative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Elevator drops to floor zero: a girl in red and a smiling double
 
@@ -2585,86 +2665,6 @@ The footage should feel like an extraordinarily realistic 1945 battlefield docum
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-historical-dramatization-an-original-cinematic-reconstruction-inspired-by-the-f70171db6cd8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Phone-Controlled Outfit Changes 👚📱
-
-> Seedance 2.5 手机遥控变装👚📱 prompt 👇 Duration: 20秒 Aspect ratio: 9:16 Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏 【场景】明亮客厅/卧室，落地窗自然光，背景简洁…
-
-[<img src="https://media.goodcase.ai/cases/bf76fb08150a.jpg" width="600" alt="Seedance 2.5 Phone-Controlled Outfit Changes 👚📱">](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @johnAGI168 | **出典:** [元投稿](https://x.com/johnAGI168/status/2097320255139795072) | **公開日:** 2026-09-08 | **ヒート:** 38
-
-**安定度:** 47/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 46.5) · [出力](https://media.goodcase.ai/retests/seedance-seedance-2-5-dc01b3250bb4/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（58 行、クリックで展開）</b></summary>
-
-```
-Seedance 2.5 手机遥控变装👚📱
-
-prompt 👇
-
-Duration: 20秒
-Aspect ratio: 9:16
-Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏
-
-【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物
-【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手
-【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈
-
-SHOT 1（00:00-00:03.5）开场展示
-画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。
-台词：女主："老公，看我今天穿得怎么样？"
-音效：室内底噪，衣料轻响。
-Constraints: 女主全身入画，开场服装=角色原本服装。
-
-SHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动
-画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。
-台词：男主（画外音，慵懒）："还行。换这套看看。"
-音效：屏幕滑动轻摩擦声。
-Constraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。
-
-SHOT 3（00:06.5-00:09.5）第一次点击瞬变
-画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。
-台词：女主（惊讶）："诶？！"
-音效：清脆"滴"+换装"叮"，衣料展开微响。
-Constraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。
-
-SHOT 4（00:09.5-00:13）第二次滑动+点击瞬变
-画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。
-台词：男主（画外音）："这套也行。"
-女主（小声）："你……乱点。"
-音效：滑动声+"滴"+"叮"，轻快音乐渐起。
-Constraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。
-
-SHOT 5（00:13-00:16.5）第三次滑动+点击瞬变
-画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。
-台词：女主："这套……还挺好看的嘛。"
-音效："滴"+"叮"，音乐节奏加快半拍。
-Constraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。
-
-SHOT 6（00:16.5-00:20）第四次滑动+点击+收尾
-画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。
-台词：男主（画外音，满意）："这套定了。"
-女主（笑着凑近，嗔怪）："你好坏啊——我好喜欢！"
-音效："滴"+"叮"，音乐在女主台词落点收在甜甜重拍。
-Constraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。
-
-【导演铁律】
-1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。
-2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。
-3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。
-4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。
-5. 台词口型清晰，与点击节拍对齐。
-
-Negative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Midnight Fairground: Schoolgirl Flees Joker and Mascots
 

@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 9/9 页）
 
-Seedance 2.5 全部 754 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 755 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 712–754 条，共 754 条。
+本页：第 713–755 条，共 755 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · **Part 9**
 
@@ -1083,7 +1083,7 @@ MAIN WARRIOR 是一名完全原创、无法对应任何现成人物的明确成�
 
 [<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 16
+**作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 17
 
 **稳定度：** 55/100
 

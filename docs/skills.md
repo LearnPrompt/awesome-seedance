@@ -16,16 +16,16 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
-| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 116 | 9 |
+| [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 115 | 9 |
 | [POV and vlog presence](#pov-vlog-presence) | 105 | 13 |
 | [Action continuity choreography](#action-continuity-choreography) | 104 | 8 |
-| [Cinematic travel montage](#travel-city-walk) | 75 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 74 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 70 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 62 | 2 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
 | [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 46 | 0 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 47 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 40 | 0 |
@@ -44,7 +44,7 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 
 > Dragons, titans, world reveals: one definition block per entity, timecoded cuts, and scale bought with low angles and reference objects.
 
-116 cases from 78 creators · 9 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+115 cases from 78 creators · 9 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 59 tested, 55 passed
 
@@ -125,7 +125,7 @@ npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-75 cases from 46 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+74 cases from 46 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 31 tested, 29 passed
 
@@ -138,7 +138,7 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | CaliraVal | Cinematic travel montage<br><sub>Stable · 4 tested, 4 passed</sub> | 6 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1uczxsi` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1uczxsi?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | Cinematic travel montage<br><sub>Awaiting tests</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Zyrellix | Cinematic travel montage<br><sub>Awaiting tests</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| ayzalnooor24521 | Cinematic travel montage<br><sub>Awaiting tests</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| ayzalnooor24521 | Cinematic travel montage<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage<br><sub>Stable · 3 tested, 3 passed</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
@@ -166,7 +166,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > The animal is the lead and a phone is the only camera: lock the count to one, keep it behaving like an animal, let the payoff be it closing in on the lens.
 
-70 cases from 36 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+70 cases from 37 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 34 tested, 31 passed
 
@@ -244,7 +244,7 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 > One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
 
-46 cases from 36 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+47 cases from 37 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 19 tested, 15 passed
 
@@ -310,7 +310,7 @@ No creator methods yet.
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-37 cases from 25 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+37 cases from 26 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 13 tested, 12 passed
 

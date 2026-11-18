@@ -1,10 +1,193 @@
 # Seedance 2.5 — Full Gallery (Part 5/9)
 
-All 754 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 755 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 341–437 of 754.
+This page: cases 337–433 of 755.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)
+
+### Rider jumps the collapsing Golden Gate Bridge
+
+> From explosive action to breathtaking aerial shots, turning imagination into cinematic reality with Seedance 2.5 on @frameo_ai #MadeWithFrameo Prompt : THE LAST…
+
+[<img src="https://media.goodcase.ai/cases/f6663bbbf5b3.jpg" width="600" alt="Rider jumps the collapsing Golden Gate Bridge">](https://goodcase.ai/cases/seedance-2-5-create-one-continuous-ultra-realistic-hollywood-action-sequence-with-cinematic-411ad1cc40ef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2121182211361619988) | **Published:** 2026-11-13 | **Heat:** 59
+
+<details>
+<summary><b>Full prompt (61 lines, click to expand)</b></summary>
+
+```
+THE LAST RIDE — GOLDEN GATE COLLAPSE
+
+SEEDANCE 2.5 | EXACTLY 30 SECONDS | 16:9 | PHOTOREALISTIC HOLLYWOOD ACTION
+
+Create one continuous, ultra-realistic Hollywood action sequence with cinematic ARRI Alexa 65 aesthetics, anamorphic lenses, realistic physics, dramatic golden-hour lighting and high-detail VFX.
+
+REFERENCE ASSIGNMENTS:
+
+- @image1 = Male protagonist's exact face, hairstyle, beard and body identity.
+- @image2 = Matte-black military attack helicopter.
+- @image3 = Golden Gate Bridge environment.
+
+PROTAGONIST & WARDROBE:
+Preserve @image1's exact masculine facial features, dark wavy hairstyle, beard, skin texture and body proportions. He wears a fitted sleeveless white tank top, loose white trousers and white sneakers. No identity changes.
+
+MOTORCYCLE:
+Glossy black muscular sportbike with angular LED headlights, metallic engine, black alloy wheels and realistic suspension. Maintain identical design throughout.
+
+ANTAGONIST:
+Use @image2's exact matte-black military attack helicopter with armored cockpit, spinning rotors, targeting sensors, autocannon and rocket pods. Maintain consistent appearance and low-altitude pursuit.
+
+ENVIRONMENT:
+Use @image3's Golden Gate Bridge with orange-red suspension towers, steel cables, asphalt roadway, abandoned cars and deep ocean below. Late-afternoon golden sunlight, coastal wind, realistic smoke and atmospheric haze.
+
+TIMELINE
+
+00:00–00:03 | THE CHASE
+Low frontal tracking shot. The man accelerates his black motorcycle across the bridge while the military helicopter approaches behind him.
+
+00:03–00:06 | FIRST ATTACK
+The helicopter opens fire. Bullets strike the asphalt, creating sparks and massive explosions on both sides. The rider performs evasive maneuvers.
+
+00:06–00:09 | COLLAPSE
+The roadway cracks and buckles. Concrete, asphalt and abandoned vehicles explode into the air. The rider accelerates through the destruction.
+
+00:09–00:12 | CLOSE-UP
+Dramatic close-up of his determined face, preserving @image1 identity. Fireballs and thick black smoke illuminate the background.
+
+00:12–00:15 | THE GAP
+Wide aerial reveal of a massive collapsed bridge section. Twisted steel hangs over the ocean. The rider approaches the broken edge.
+
+00:15–00:18 | MOTORCYCLE LAUNCH
+Side-angle tracking shot as the motorcycle uses the tilted concrete edge as a ramp and launches into open air.
+
+00:18–00:21 | EPIC MID-AIR JUMP
+Wide side and rear camera angles show the rider crossing the enormous ocean gap while massive sections of the Golden Gate Bridge collapse behind him. Steel cables snap, concrete falls and huge ocean splashes erupt below.
+
+00:21–00:24 | LANDING
+The motorcycle approaches the intact roadway and both tires land with realistic suspension compression.
+
+00:24–00:27 | RECOVERY
+Low side-tracking shot showing dust, gravel and suspension rebound as the rider regains control.
+
+00:27–00:30 | FINAL ESCAPE
+Dramatic frontal tracking shot as he accelerates away, leaving the collapsing bridge and distant helicopter behind.
+
+AUDIO: Original Hollywood orchestral action score, aggressive motorcycle engine, helicopter rotors, gunfire, explosions, cracking concrete, snapping steel, rushing wind and ocean waves, perfectly synchronized.
+
+NEGATIVE PROMPT: Face changes, identity distortion, body morphing, duplicate characters, incorrect motorcycle anatomy, unrealistic physics, floating wheels, inconsistent helicopter, cartoon effects, artificial CGI appearance, random scene changes, text and watermarks.
+
+FINAL DIRECTIVE: Maintain exact character identity, vehicle design, location continuity, realistic destruction and physically believable action throughout exactly 30 seconds.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-one-continuous-ultra-realistic-hollywood-action-sequence-with-cinematic-411ad1cc40ef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Red-Haired Heroine Escapes Stone Golems to a Floating-Island Realm
+
+> A brave heroine faces ancient stone giants with the power of magic Beyond the gates a breathtaking fantasy world awaits. Made with Seedance 2.5 Prompt: A cinema…
+
+[<img src="https://media.goodcase.ai/cases/ef681e97342d.jpg" width="600" alt="Red-Haired Heroine Escapes Stone Golems to a Floating-Island Realm">](https://goodcase.ai/cases/seedance-2-5-a-cinematic-fantasy-adventure-video-featuring-a-brave-red-haired-heroine-wearin-f5606a6f6186?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @laviniavelle | **Source:** [Original](https://x.com/laviniavelle/status/2109868479713083637) | **Published:** 2026-10-13 | **Heat:** 59
+
+```
+A cinematic fantasy adventure video featuring a brave red-haired heroine wearing a brown leather jacket and dark pants, running through a snowy forest while holding a glowing magical staff. She is being pursued by giant, menacing stone golems with glowing purple eyes and cracks of fire on their bodies. She enters ancient ruins, activates glowing magical runes on a stone pillar, and summons a golden circular shield barrier to block the attacking golems. After defending herself, she turns, opens massive stone gates, and reveals a breathtaking magical landscape with floating islands, cascading waterfalls, rivers, and a vibrant starry purple sky in the distance. Cinematic lighting, epic orchestral fantasy music, 4k resolution.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-cinematic-fantasy-adventure-video-featuring-a-brave-red-haired-heroine-wearin-f5606a6f6186?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Three Friends Boutique Shopping and Trying On an Emerald Skirt
+
+> She said she was only looking. Her shopping bags had a completely different opinion. Produced with Seedance 2.5 Rendered through @Frameo_AI #MadeWithFrameo Prom…
+
+[<img src="https://media.goodcase.ai/cases/4e32f2f8334d.jpg" width="600" alt="Three Friends Boutique Shopping and Trying On an Emerald Skirt">](https://goodcase.ai/cases/seedance-2-5-the-overall-mood-should-feel-editorial-feminine-playful-polished-and-effortl-bc281ebb66d8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithWania | **Source:** [Original](https://x.com/AIwithWania/status/2108420649467457557) | **Published:** 2026-10-09 | **Heat:** 59
+
+<details>
+<summary><b>Full prompt (28 lines, click to expand)</b></summary>
+
+```
+-
+
+The overall mood should feel editorial, feminine, playful, polished and effortlessly chic — not motivational, not overly commercial, and not artificial.
+
+Opening — 0–5 seconds:
+Three fashionable female friends stroll through an upscale contemporary shopping destination, surrounded by luminous glass architecture, refined boutiques and warm ambient lighting. They exchange amused glances and effortless smiles, moving naturally together. Use an elegant handheld camera with subtle cinematic movement.
+
+5–10 seconds:
+Cut into a sophisticated designer-style boutique. One woman slowly browses a rack of luxurious garments while her friends watch, tease her playfully and react with genuine excitement. Include beautiful macro shots of textured fabrics, delicate embellishments, satin, sequins and refined tailoring.
+
+10–17 seconds:
+Show the main woman trying on an elegant fashion ensemble: a sophisticated cream embellished fitted top with a flowing emerald-green floor-length skirt. She emerges from the fitting area, pauses before a large mirror and turns naturally, allowing the skirt to move beautifully. Capture fabric movement, reflections and subtle expressions.
+
+17–23 seconds:
+Show intimate shopping details between the three women: one adjusting an accessory, another holding up a handbag, playful reactions, soft laughter and spontaneous friendship moments. Make the chemistry feel candid rather than staged.
+
+23–30 seconds:
+End with the three women leaving the boutique together with elegant shopping bags. The woman wearing the emerald-green skirt walks between her friends. Use a graceful tracking shot followed by a subtle slow-motion moment as the fabric moves while they walk away.
+
+Visual direction: luxury fashion editorial, sophisticated color grading, warm cinematic lighting, realistic skin texture, natural facial expressions, realistic hands, physically accurate fabric movement, shallow depth of field, refined highlights, premium commercial cinematography, subtle lens flare, smooth camera transitions, photorealistic details.
+
+Maintain exact character identity, facial features, hairstyles, body proportions and wardrobe continuity throughout the entire sequence. Keep all three women visually consistent from beginning to end.
+
+Avoid distorted faces, extra fingers, malformed hands, duplicated people, unnatural walking, warped clothing, flickering details, inconsistent hairstyles, floating objects, text, captions, watermarks or logos.
+
+Aspect ratio: 16:9 
+Duration: 30 seconds.
+Style: cinematic luxury fashion film.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-the-overall-mood-should-feel-editorial-feminine-playful-polished-and-effortl-bc281ebb66d8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Flowers Bloom as a Woman Confides in a Sunlit Country Garden
+
+> A flower really said: “The truth makes me bloom.” Created with Seedance 2.5. Prompt: A peaceful countryside garden on a warm sunny morning. A young Western woma…
+
+[<img src="https://media.goodcase.ai/cases/e89d080fac28.jpg" width="600" alt="Flowers Bloom as a Woman Confides in a Sunlit Country Garden">](https://goodcase.ai/cases/seedance-2-5-a-peaceful-countryside-garden-on-a-warm-sunny-morning-73d9d998ca98?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithZeeshi | **Source:** [Original](https://x.com/AIwithZeeshi/status/2106967008650969278) | **Published:** 2026-10-05 | **Heat:** 59
+
+<details>
+<summary><b>Full prompt (7 lines, click to expand)</b></summary>
+
+```
+A peaceful countryside garden on a warm sunny morning. A young Western woman with long dark-brown hair, wearing a cream oversized T-shirt and beige pants, kneels beside a small flowerbed. She looks at a closed flower and softly says, “I was wrong.” The flower slowly begins to bloom, its petals unfolding naturally one by one.
+
+She looks surprised and admits, “I was afraid to tell you the truth.” The flower opens further as a gentle breeze moves the surrounding leaves. She smiles and says, “And I still care.” A second small flower bud slowly begins to bloom beside the first.
+
+The woman gently touches one of the flowers as the camera pulls back to reveal several newly opened flowers glowing in the warm morning sunlight.
+
+Photorealistic cinematic style, realistic human movement, natural flower growth, consistent character appearance, realistic skin and plant textures, natural gravity, physically believable wind, accurate shadows, smooth camera movement, natural facial expressions, realistic lip synchronization, soft morning sunlight, and an authentic countryside atmosphere.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-peaceful-countryside-garden-on-a-warm-sunny-morning-73d9d998ca98?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### South Asian Woman Shops for Vegetables and Preps a Meal
+
+> From the market to the kitchen Fresh veggies, homemade vibes. Created with seedance 2.5 on @Flovaai Prompt: Keep the same young South Asian woman, same face, ha…
+
+[<img src="https://media.goodcase.ai/cases/4fb579ce71f9.jpg" width="600" alt="South Asian Woman Shops for Vegetables and Preps a Meal">](https://goodcase.ai/cases/seedance-keep-the-same-young-south-asian-woman-same-face-hairstyle-and-clear-stylish-g-0b7ca70e5347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @CaliraVal | **Source:** [Original](https://x.com/CaliraVal/status/2100087681283924449) | **Published:** 2026-09-16 | **Heat:** 59
+
+**Stability:** 77/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 77.1) · [output](https://media.goodcase.ai/retests/seedance-keep-the-same-young-south-asian-woman-same-face-hairstyle-and-clear-stylish-g-0b7ca70e5347/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Keep the same young South Asian woman, same face, hairstyle and clear stylish glasses throughout. 0–2 sec: She leaves her home wearing clear glasses and walks toward the local vegetable market. 2–5 sec: Quick cinematic shots of her entering the busy market, selecting fresh tomatoes, potatoes, onions, green chilies and coriander, then paying the vendor. 5–7 sec: She walks back home carrying a small vegetable bag. 7–9 sec: She enters her kitchen, places the vegetables on the counter and removes them from the bag. 9–11 sec: She washes the vegetables under running water. 11–15 sec: She puts the vegetables on a wooden cutting board and naturally cuts them with a kitchen knife. Fast but smooth transitions, realistic hand movements, authentic Pakistani environment, natural daylight, detailed vegetables, realistic physics, cinematic camera movement, photorealistic, 4K quality.
+#Flovaai #Flovacpp @Flovaai_Japan
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-keep-the-same-young-south-asian-woman-same-face-hairstyle-and-clear-stylish-g-0b7ca70e5347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Lighthouse Keeper and Sea Orbs in the Foggy Night
 
@@ -61,173 +244,6 @@ English dialogue only, with natural location sounds such as bus noise, classroom
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Ultra-Real Summer Home Video From a Master Reference
-
-> Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg" width="600" alt="Ultra-Real Summer Home Video From a Master Reference">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2096554912448659864) | **Published:** 2026-09-06 | **Heat:** 59
-
-**Stability:** 79/100
-
-**Retest:** Grok Imagine · 2026-10-02 · ✅ reproduced (score 79) · [output](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2/video-grok-imagine-20261002-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (145 lines, click to expand)</b></summary>
-
-```
-Made with Seedance 2.5 in 1080p
-
-Duration: 30 seconds
-Aspect Ratio: 16:9
-
-Prompt 
-Ultra realistic personal summer home-video featuring Elsa.
-
-Use the provided Master Character Set ONLY for Elsa's identity and physical consistency. Use the provided 7-panel storyboard as the exact visual and chronological guide for the scenes.
-
-Do not copy any pose or layout from the Master Character Set. The storyboard controls the locations, actions, compositions and sequence.
-
-CHARACTER:
-Keep Elsa's exact facial identity, skin tone, hairstyle, body proportions and recognizable appearance consistent throughout the entire video.
-
-She wears a simple fitted light-colored summer T-shirt, light blue relaxed jeans, casual everyday shoes and a delicate necklace. Keep the wardrobe identical throughout all seven scenes.
-
-The performance should feel natural and spontaneous, like a real person casually enjoying an ordinary summer afternoon.
-
-VISUAL STYLE:
-Ultra-realistic personal home-video footage recorded by a friend.
-
-Use subtle handheld camera movement, imperfect framing, occasional autofocus adjustment, natural exposure variation, mild motion blur, soft digital detail and realistic environmental imperfections.
-
-The footage should feel intimate and authentic rather than like a commercial or music video.
-
-Maintain natural summer daylight throughout the first scenes, gradually transitioning into warm golden-hour light toward the end.
-
-SHOT 1 — LOCAL BAKERY | 0:00–0:04
-
-Elsa steps out of a small charming neighborhood bakery carrying a simple paper bag.
-
-The bakery has large glass windows, warm interior light, small outdoor plants and a quiet sidewalk.
-
-The camera is positioned slightly across the street and casually follows her as she exits.
-
-She gives a subtle natural smile and begins walking.
-
-SHOT 2 — PEDESTRIAN BRIDGE | 0:04–0:08
-
-Elsa walks onto an old pedestrian bridge crossing a wide river.
-
-Use a medium-wide handheld tracking perspective.
-
-The bridge has weathered metal railings, pedestrians in the distance and a calm river flowing below.
-
-Trees, historic residential buildings and an urban skyline appear beyond the river.
-
-A gentle summer breeze moves Elsa's hair naturally.
-
-SHOT 3 — RIVER VIEW PAUSE | 0:08–0:13
-
-Elsa stops beside the bridge railing and looks peacefully across the river.
-
-Move into a slower, more intimate composition from slightly behind and to her side.
-
-Capture her relaxed expression, loose hair moving in the breeze and the river stretching into the distance.
-
-Let the moment breathe naturally rather than rushing the shot.
-
-SHOT 4 — SIDEWALK CAFÉ | 0:13–0:17
-
-Transition naturally to a small sidewalk café.
-
-Elsa sits at a simple outdoor café table and enjoys a cold drink.
-
-Use a close handheld perspective showing her natural expression, glass, table and surrounding café details.
-
-She takes a relaxed sip and looks around casually.
-
-The atmosphere should feel like an ordinary summer afternoon in a charming European city neighborhood.
-
-SHOT 5 — BOOKSTORE | 0:17–0:21
-
-Elsa enters a small independent bookstore.
-
-The camera follows her between tall shelves filled with books.
-
-She slowly browses the shelves, picks up one book and flips through several pages.
-
-Use a gentle handheld side angle followed by a closer shot of her hands and the open pages.
-
-Warm natural light enters through the bookstore window.
-
-SHOT 6 — GOLDEN-HOUR STREET | 0:21–0:25
-
-Elsa leaves the bookstore and continues walking home.
-
-The afternoon has transitioned into golden hour.
-
-The camera tracks her from a slightly elevated three-quarter angle as she walks along a tree-lined city boulevard.
-
-Warm sunlight shines through the trees behind her, creating natural lens flare and long shadows.
-
-She briefly turns her head toward the camera with a relaxed smile before continuing.
-
-SHOT 7 — HOME BALCONY | 0:25–0:30
-
-Elsa arrives home and steps onto a quiet balcony overlooking the city.
-
-The sun is low on the horizon.
-
-She rests casually against the balcony railing while holding a warm drink.
-
-Use a slow, intimate side-profile composition.
-
-Her hair moves gently in the evening breeze.
-
-Behind her, reveal the beautiful city skyline and rooftops glowing under the fading summer light.
-
-End on a peaceful natural moment as Elsa quietly looks across the city.
-
-The recording ends naturally with a brief hold on the sunset atmosphere.
-
-CAMERA LANGUAGE:
-Use different compositions throughout the seven scenes:
-wide establishing shots, handheld tracking, over-the-shoulder framing, side profile, intimate close-ups and a final scenic reveal.
-
-Camera movement must always feel physically motivated and handheld rather than artificially smooth.
-
-CONTINUITY:
-Elsa must remain the exact same person throughout the entire video.
-
-Keep her face, hairstyle, body proportions, clothing, necklace and overall appearance consistent.
-
-Maintain believable geographic and temporal continuity between locations.
-
-All environmental interactions must follow realistic physics. Hair, clothing, paper bag, drink and surrounding objects should move naturally.
-
-AUDIO:
-Use authentic location sound only.
-
-Include footsteps, distant conversations, bicycle sounds, light traffic, river ambience, café sounds, subtle bookstore ambience, pages turning, birds, wind through trees and natural city sounds.
-
-No background music.
-No narration.
-No subtitles.
-No captions.
-No logos.
-No watermarks.
-
-FINAL AESTHETIC:
-The finished video should feel like a genuine personal summer memory captured by a friend—warm, intimate, imperfect and completely believable.
-
-Prioritize realistic human movement, natural expressions, authentic environments, strong visual continuity and the exact seven-scene progression shown in the storyboard.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pink-haired woman flees zombies across nighttime scaffolding
 
@@ -575,6 +591,173 @@ Natural environmental audio only: wind, birds, footsteps, snow, broom, tea pouri
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-japanese-winter-lifestyle-vlog-in-a-tradition-f4aa8ee8d702?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Ultra-Real Summer Home Video From a Master Reference
+
+> Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2.jpg" width="600" alt="Ultra-Real Summer Home Video From a Master Reference">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ElsaSofia__AI | **Source:** [Original](https://x.com/ElsaSofia__AI/status/2096554912448659864) | **Published:** 2026-09-06 | **Heat:** 58
+
+**Stability:** 79/100
+
+**Retest:** Grok Imagine · 2026-10-02 · ✅ reproduced (score 79) · [output](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (145 lines, click to expand)</b></summary>
+
+```
+Made with Seedance 2.5 in 1080p
+
+Duration: 30 seconds
+Aspect Ratio: 16:9
+
+Prompt 
+Ultra realistic personal summer home-video featuring Elsa.
+
+Use the provided Master Character Set ONLY for Elsa's identity and physical consistency. Use the provided 7-panel storyboard as the exact visual and chronological guide for the scenes.
+
+Do not copy any pose or layout from the Master Character Set. The storyboard controls the locations, actions, compositions and sequence.
+
+CHARACTER:
+Keep Elsa's exact facial identity, skin tone, hairstyle, body proportions and recognizable appearance consistent throughout the entire video.
+
+She wears a simple fitted light-colored summer T-shirt, light blue relaxed jeans, casual everyday shoes and a delicate necklace. Keep the wardrobe identical throughout all seven scenes.
+
+The performance should feel natural and spontaneous, like a real person casually enjoying an ordinary summer afternoon.
+
+VISUAL STYLE:
+Ultra-realistic personal home-video footage recorded by a friend.
+
+Use subtle handheld camera movement, imperfect framing, occasional autofocus adjustment, natural exposure variation, mild motion blur, soft digital detail and realistic environmental imperfections.
+
+The footage should feel intimate and authentic rather than like a commercial or music video.
+
+Maintain natural summer daylight throughout the first scenes, gradually transitioning into warm golden-hour light toward the end.
+
+SHOT 1 — LOCAL BAKERY | 0:00–0:04
+
+Elsa steps out of a small charming neighborhood bakery carrying a simple paper bag.
+
+The bakery has large glass windows, warm interior light, small outdoor plants and a quiet sidewalk.
+
+The camera is positioned slightly across the street and casually follows her as she exits.
+
+She gives a subtle natural smile and begins walking.
+
+SHOT 2 — PEDESTRIAN BRIDGE | 0:04–0:08
+
+Elsa walks onto an old pedestrian bridge crossing a wide river.
+
+Use a medium-wide handheld tracking perspective.
+
+The bridge has weathered metal railings, pedestrians in the distance and a calm river flowing below.
+
+Trees, historic residential buildings and an urban skyline appear beyond the river.
+
+A gentle summer breeze moves Elsa's hair naturally.
+
+SHOT 3 — RIVER VIEW PAUSE | 0:08–0:13
+
+Elsa stops beside the bridge railing and looks peacefully across the river.
+
+Move into a slower, more intimate composition from slightly behind and to her side.
+
+Capture her relaxed expression, loose hair moving in the breeze and the river stretching into the distance.
+
+Let the moment breathe naturally rather than rushing the shot.
+
+SHOT 4 — SIDEWALK CAFÉ | 0:13–0:17
+
+Transition naturally to a small sidewalk café.
+
+Elsa sits at a simple outdoor café table and enjoys a cold drink.
+
+Use a close handheld perspective showing her natural expression, glass, table and surrounding café details.
+
+She takes a relaxed sip and looks around casually.
+
+The atmosphere should feel like an ordinary summer afternoon in a charming European city neighborhood.
+
+SHOT 5 — BOOKSTORE | 0:17–0:21
+
+Elsa enters a small independent bookstore.
+
+The camera follows her between tall shelves filled with books.
+
+She slowly browses the shelves, picks up one book and flips through several pages.
+
+Use a gentle handheld side angle followed by a closer shot of her hands and the open pages.
+
+Warm natural light enters through the bookstore window.
+
+SHOT 6 — GOLDEN-HOUR STREET | 0:21–0:25
+
+Elsa leaves the bookstore and continues walking home.
+
+The afternoon has transitioned into golden hour.
+
+The camera tracks her from a slightly elevated three-quarter angle as she walks along a tree-lined city boulevard.
+
+Warm sunlight shines through the trees behind her, creating natural lens flare and long shadows.
+
+She briefly turns her head toward the camera with a relaxed smile before continuing.
+
+SHOT 7 — HOME BALCONY | 0:25–0:30
+
+Elsa arrives home and steps onto a quiet balcony overlooking the city.
+
+The sun is low on the horizon.
+
+She rests casually against the balcony railing while holding a warm drink.
+
+Use a slow, intimate side-profile composition.
+
+Her hair moves gently in the evening breeze.
+
+Behind her, reveal the beautiful city skyline and rooftops glowing under the fading summer light.
+
+End on a peaceful natural moment as Elsa quietly looks across the city.
+
+The recording ends naturally with a brief hold on the sunset atmosphere.
+
+CAMERA LANGUAGE:
+Use different compositions throughout the seven scenes:
+wide establishing shots, handheld tracking, over-the-shoulder framing, side profile, intimate close-ups and a final scenic reveal.
+
+Camera movement must always feel physically motivated and handheld rather than artificially smooth.
+
+CONTINUITY:
+Elsa must remain the exact same person throughout the entire video.
+
+Keep her face, hairstyle, body proportions, clothing, necklace and overall appearance consistent.
+
+Maintain believable geographic and temporal continuity between locations.
+
+All environmental interactions must follow realistic physics. Hair, clothing, paper bag, drink and surrounding objects should move naturally.
+
+AUDIO:
+Use authentic location sound only.
+
+Include footsteps, distant conversations, bicycle sounds, light traffic, river ambience, café sounds, subtle bookstore ambience, pages turning, birds, wind through trees and natural city sounds.
+
+No background music.
+No narration.
+No subtitles.
+No captions.
+No logos.
+No watermarks.
+
+FINAL AESTHETIC:
+The finished video should feel like a genuine personal summer memory captured by a friend—warm, intimate, imperfect and completely believable.
+
+Prioritize realistic human movement, natural expressions, authentic environments, strong visual continuity and the exact seven-scene progression shown in the storyboard.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-in-1080p-bb09011ebea2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Missing Brother Draws Closer in Darkroom Photographs
 
 > One photograph. One impossible mystery. One message that changed everything. Created this using seedance 2.5 on @frameo_ai Prompt MASTER PROMPT: THE FINAL PHOTO…
@@ -699,47 +882,6 @@ Cinematic AI Video Prompt (with English Lipsync):A beautiful young East Asian wo
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-cinematic-ai-video-prompt-with-english-lipsync-a-beautiful-young-east-asian-w-716402cadd7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Korean Woman’s Nervous Preparations for Her First Blind Date in 2003
-
-> Korean it-Girl | Getting Ready for blind date. Seedance 2.5 on @TapNow_AI prompt: GETTING READY FOR A BLIND DATE SOUTH KOREA, 2003 Ultra-realistic early-2000s h…
-
-[<img src="https://media.goodcase.ai/cases/36dd310e2d26.jpg" width="600" alt="A Korean Woman’s Nervous Preparations for Her First Blind Date in 2003">](https://goodcase.ai/cases/seedance-2-5-ultra-realistic-early-2000s-home-video-footage-of-the-same-young-korean-woman-edf2028e53ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2112049724396310833) | **Published:** 2026-10-19 | **Heat:** 57
-
-<details>
-<summary><b>Full prompt (23 lines, click to expand)</b></summary>
-
-```
-GETTING READY FOR A BLIND DATE  SOUTH KOREA, 2003
-
-Ultra-realistic early-2000s home-video footage of the same young Korean woman (reference image) preparing nervously for her first blind date in a modest Korean bedroom.
-
-Scene 1 (0–5s): She compares outfits on her bed, reads a handwritten meeting note, checks the clock, and smiles nervously at the camera.
-
-Scene 2 (5–10s): She brushes her shoulder-length hair, struggles with stubborn bangs while using a curling iron, then smiles with relief.
-
-Scene 3 (10–15s): She applies subtle makeup and rosy lipstick, accidentally smudges the corner, giggles, and fixes it with a tissue.
-
-Scene 4 (15–20s): She chooses a pastel cardigan, changes naturally, adjusts her knee-length skirt, puts on small earrings, and grabs her shoulder bag.
-
-Scene 5 (20–26s): She checks herself in a full-length mirror, fixes her hair and bag strap, attempts a confident smile, then laughs awkwardly at herself.
-
-Scene 6 (26–30s): She heads out, remembers her forgotten purse, rushes back, grabs it, and hurries through the apartment hallway toward daylight. End with a shaky, abrupt camcorder cut.
-
-Visual style: Genuine 2003 South Korean consumer MiniDV footage, standard-definition softness, mild video noise, imperfect autofocus, shaky handheld framing, natural exposure shifts, and unpolished colors. Modest period-authentic bedroom with wooden furniture, printed photos, magazines, a CD player, and a corded landline. Natural daylight, realistic ambient sounds, minimal spontaneous laughter.
-
-Continuity: Preserve the exact reference face, age, proportions, room layout, and realistic movements. Maintain identical final outfit, hairstyle, makeup, and accessories from Scene 4 onward. Every change must occur physically and naturally.
-
-Avoid: Modern electronics, cinematic grading, 4K sharpness, beauty filters, glamorous posing, VHS overlays, face morphing, duplicated fingers, teleportation, and unexplained outfit changes.
-
-Mood: Charming, intimate, slightly clumsy, and genuinely human—like a real memory recorded by a friend in 2003.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-ultra-realistic-early-2000s-home-video-footage-of-the-same-young-korean-woman-edf2028e53ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Zombies Erupt at a Night Concert as a Guitarist Saves His Bandmates
 
@@ -1080,6 +1222,47 @@ MOOD: Peaceful, feminine, elegant, luxurious, fashionable, romantic, and aesthet
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-korean-lifestyle-and-fashion-infl-532609aedfcf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Korean Woman’s Nervous Preparations for Her First Blind Date in 2003
+
+> Korean it-Girl | Getting Ready for blind date. Seedance 2.5 on @TapNow_AI prompt: GETTING READY FOR A BLIND DATE SOUTH KOREA, 2003 Ultra-realistic early-2000s h…
+
+[<img src="https://media.goodcase.ai/cases/36dd310e2d26.jpg" width="600" alt="A Korean Woman’s Nervous Preparations for Her First Blind Date in 2003">](https://goodcase.ai/cases/seedance-2-5-ultra-realistic-early-2000s-home-video-footage-of-the-same-young-korean-woman-edf2028e53ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2112049724396310833) | **Published:** 2026-10-19 | **Heat:** 56
+
+<details>
+<summary><b>Full prompt (23 lines, click to expand)</b></summary>
+
+```
+GETTING READY FOR A BLIND DATE  SOUTH KOREA, 2003
+
+Ultra-realistic early-2000s home-video footage of the same young Korean woman (reference image) preparing nervously for her first blind date in a modest Korean bedroom.
+
+Scene 1 (0–5s): She compares outfits on her bed, reads a handwritten meeting note, checks the clock, and smiles nervously at the camera.
+
+Scene 2 (5–10s): She brushes her shoulder-length hair, struggles with stubborn bangs while using a curling iron, then smiles with relief.
+
+Scene 3 (10–15s): She applies subtle makeup and rosy lipstick, accidentally smudges the corner, giggles, and fixes it with a tissue.
+
+Scene 4 (15–20s): She chooses a pastel cardigan, changes naturally, adjusts her knee-length skirt, puts on small earrings, and grabs her shoulder bag.
+
+Scene 5 (20–26s): She checks herself in a full-length mirror, fixes her hair and bag strap, attempts a confident smile, then laughs awkwardly at herself.
+
+Scene 6 (26–30s): She heads out, remembers her forgotten purse, rushes back, grabs it, and hurries through the apartment hallway toward daylight. End with a shaky, abrupt camcorder cut.
+
+Visual style: Genuine 2003 South Korean consumer MiniDV footage, standard-definition softness, mild video noise, imperfect autofocus, shaky handheld framing, natural exposure shifts, and unpolished colors. Modest period-authentic bedroom with wooden furniture, printed photos, magazines, a CD player, and a corded landline. Natural daylight, realistic ambient sounds, minimal spontaneous laughter.
+
+Continuity: Preserve the exact reference face, age, proportions, room layout, and realistic movements. Maintain identical final outfit, hairstyle, makeup, and accessories from Scene 4 onward. Every change must occur physically and naturally.
+
+Avoid: Modern electronics, cinematic grading, 4K sharpness, beauty filters, glamorous posing, VHS overlays, face morphing, duplicated fingers, teleportation, and unexplained outfit changes.
+
+Mood: Charming, intimate, slightly clumsy, and genuinely human—like a real memory recorded by a friend in 2003.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-ultra-realistic-early-2000s-home-video-footage-of-the-same-young-korean-woman-edf2028e53ff?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Woman’s Slapstick Revenge on a Bully in a Seoul Mall
 
 > He messed with the wrong Baddie 🤯 Made using Seedance 2.5 Prompt : Create a live-action cinematic revenge-comedy video set inside a busy Seoul shopping mall. U…
@@ -1339,44 +1522,6 @@ FINAL RULES: Photorealistic, authentic smartphone vlog, believable physics and b
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-867cf0ce0743?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Young Woman’s Journey Through London
-
-> Exploring London, one moment at a time A journey filled with beautiful memories. Made with seedance 2.5 on @Flovaai Prompt: Character consistency: Same young ad…
-
-[<img src="https://media.goodcase.ai/cases/5e3c890e3358.jpg" width="600" alt="A Young Woman’s Journey Through London">](https://goodcase.ai/cases/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2105529187494928887) | **Published:** 2026-10-01 | **Heat:** 56
-
-**Stability:** 83/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.7) · [output](https://media.goodcase.ai/retests/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (16 lines, click to expand)</b></summary>
-
-```
-Character consistency: Same young adult female traveler throughout, same face, hairstyle, body proportions and outfit, realistic skin, natural expressions, cinematic photorealistic travel-vlog style, smooth camera movement, realistic lighting. No face changes, no outfit changes.
-0–5 sec — Arrival 🇬🇧
-Young female traveler arrives in London, walking out of Heathrow Airport with a small suitcase, excited expression, cinematic establishing shot of London atmosphere, natural handheld vlog camera movement.
-5–10 sec — Big Ben & Westminster
-She walks near Big Ben and Westminster, looks at the landmark and smiles toward the camera, quick selfie-style vlog shot followed by a wide cinematic view of Big Ben and the River Thames.
-10–15 sec — Tower Bridge
-She explores Tower Bridge, walking across the bridge while filming herself, London skyline in the background, natural tourist atmosphere, smooth tracking shot.
-15–20 sec — London Street
-She walks through a beautiful London street with classic red buses, black cabs and historic buildings, briefly stops at a cozy café, takes a coffee and continues exploring.
-20–25 sec — London Eye
-She stands beside the London Eye during golden hour, looks toward the camera with a happy travel-vlog expression, camera slowly circles around her with the London skyline behind.
-25–30 sec — Final London Shot
-She walks along the River Thames at sunset, turns toward the camera and smiles, cinematic aerial pull-back revealing London skyline, warm golden-hour lighting, beautiful travel-vlog ending.
-Overall: photorealistic, cinematic 4K, natural movement, realistic London environment, smooth transitions between locations, consistent character, consistent clothes, consistent face, no text, no watermark.
-
-#FlovaAI #Flovacpp
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Evening Gym Workout Through a Retro DV Camera
 
@@ -1821,73 +1966,6 @@ masterpiece, highest quality。混合渲染：纯彩铅线条的角色 + 照片�
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-grandpa-saw-it-25cbcf811a44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Male and Female Swordfighter Clash in a Temple
-
-> Seedance 2.5 prompt. Core rules: 1. Zero-delay chaining, no buffer between moves, the next strike out before the last lands, blades in constant contact. 2. Action-driven scene changes: any change of setting must come from a character action, such as the male lead knocked back into a pillar...
-
-[<img src="https://media.goodcase.ai/cases/177801c0a33f.jpg" width="600" alt="A Male and Female Swordfighter Clash in a Temple">](https://goodcase.ai/cases/seedance-1-c67289c7c2f0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @liluocheng13 | **Source:** [Original](https://x.com/liluocheng13/status/2098447487266914317) | **Published:** 2026-09-11 | **Heat:** 56
-
-**Stability:** 60/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 60.1) · [output](https://media.goodcase.ai/retests/seedance-1-c67289c7c2f0/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (45 lines, click to expand)</b></summary>
-
-```
-【核心规则】
-
-1.零延迟衔接：招式与招式之间零缓冲，一击未落、下一击已出，剑刃始终保持高频接触。
-2.动作驱动场景转换（关键）：任何场景变化（柱身→地面→横梁→大殿）必须由人物的具体动作完成——例如"男主被震退撞向殿柱""女主借力从柱顶翻身跃下砸向地面""两人缠斗中撞穿一排烛台滚落台阶"——绝不允许镜头单独切换场景而人物动作不连续。
-3.真实力量感：每一次剑刃相击都要有清晰的身体位移反馈——被格挡的一方手臂震退半步、脚下打滑、身体因冲击力扭转——不是"两人站定互砍"，而是每一下都带着真实的体重和冲力。
-4.禁止空转镜头：任何时候镜头运动（推近、环绕、甩镜）必须跟随人物正在进行的具体肢体动作，禁止画面出现人物静止而镜头单独旋转/环绕的情况。
-5.贴身险招库：全片穿插以下具体招式，且不重复：
-•贴地躲闪：一方横扫斩来，另一方猛然后仰几乎贴地，剑锋堪堪掠过鼻尖，发丝被削断
-•直刺反击：躲闪的同时反手直刺，剑尖笔直突刺而出
-•旋身格挡：被直刺方原地急速旋身躲开，同时手腕翻转格挡下一击
-•翻滚起身反击：被打退跌地的一方就地翻滚，借旋转之力直接刺出反击
-•剑锋绞缠近身：两剑绞在一起后，双方近距离肩靠肩角力，忽然同时脱手推开重新拉开架势
-
-【分镜控制 0:00–0:30，全程动作连续无跳切】
-
-[0:00–0:02] 35mm广角，低角度地面轨道镜头，紧跟人物冲刺
-女主与男主同时从大殿两端全速冲刺而来，在殿中央剑刃相击的瞬间发力对撞，冲击力震得两人各自后退半步、脚下地砖迸裂溅起碎屑——开场即是全力对撞，无任何铺垫。
-
-[0:02–0:07] 50mm中景转特写，镜头紧贴人物身体运动，快速手持跟拍
-近战组1：男主大幅横扫斩来，女主猛然后仰几乎贴地躲避，剑锋堪堪从她鼻尖上方划过，发丝被削断飘散；女主借后仰反弹之力顺势翻身站起同时反手直刺男主胸前；男主急速旋身躲开的同时手腕翻转格挡，两剑绞在一起，双方肩靠肩角力两秒后同时发力震开，各自后退两步喘息。
-
-[0:07–0:09] 85mm长焦跟拍，人物动作驱动的场景转换
-男主被震开的力道带得撞向身后龙柱，借柱身反弹之力翻身跃起，脚踏盘龙浮雕垂直跑上柱身；女主紧接着一个爆发式起跳追上柱身，两人在柱身上剑刃相击两三招，剑刃擦过柱身留下灼痕。
-
-[0:09–0:12] 长焦跟拍转俯冲镜头，人物从高处坠落带动场景切换
-男主被逼到柱顶横梁边缘，女主一记重击将他震退坠落，男主借坠落之势在半空中翻身调整姿态，剑尖朝下如同俯冲攻击，重重落回大殿地面的同时挥剑横扫；女主几乎同时从柱身跃下正面接下这一击，两剑相撞火花四溅，双方手臂因冲击力明显震颤——此处完成从柱身到大殿地面的自然场景过渡，全程动作不中断。
-
-[0:12–0:17] 50mm特写，镜头持续跟随人物肢体动作，无空镜转场
-近战组2（决战前最密集回合）：女主连续三次变向斩击，速度一次比一次快——男主第一次侧身避开、第二次贴地躲过、第三次干脆矮身钻入她剑锋下方近身，反手横斩女主腰侧；女主凌空后翻堪堪躲开，落地瞬间衣摆被剑气削开一角；男主趁她落地瞬间欺身直刺，女主侧身堪堪避开剑尖擦过肩侧，衣料应声裂开，同时反手一记重击震得男主剑身发出金属哀鸣、虎口震裂似地后退两步。
-
-[0:17–0:21] 超广角跟拍，两人剧烈缠斗中撞向环境
-两人剑刃绞缠近身角力，忽然同时脱手震开各自后退，紧接着几乎同时再度暴起冲向对方——这一冲带倒了身旁一排烛台，烛火被撞灭又被剑气余波重新点燃，两人在倒地的烛台与四溅的烛油中继续近身缠斗，剑刃碰撞产生密集火花，地面积水被踏起层层水雾。
-
-[0:21–0:26] 特写转全景交替，剪辑跟随攻防节奏（非空转镜头）
-双方招式速度达到全片顶点：斩、刺、格挡、反击在两三秒内连续发生，每一次碰撞都有清晰的身体反馈——女主被震得踉跄半步随即反手补上一剑，男主格挡后手臂剧烈震颤仍强行反击；蓝绿剑气缠绕成螺旋光流，两人的呼吸声与兵刃声交织成密集的节奏感，全程无一帧人物静止。
-
-[0:26–0:29] 超广角全景，剧烈镜头震动，跟随最终对撞
-双方在剑锋交汇的瞬间同时使出全力一击，两股能量对撞爆发出席卷全殿的蓝绿交织光潮，冲击波将两人同时震飞后退数米，地砖与柱身被震裂，烛火大片熄灭，烟尘弥漫整个神殿，镜头剧烈震颤后画面渐趋失焦泛白。
-
-[0:29–0:30] 固定机位，画面渐缓
-烟雾缓缓弥散，两人分别单膝或站立稳住身形，胸口剧烈起伏、握剑的手因手臂力竭仍在颤抖，残存的烛火星星点点重新亮起，画面定格于两人对峙的宏大空镜。
-
-【通用限制】
-
-Never redesign faces. Never change costumes. Never replace the temple. Never introduce additional characters. No face drift. No costume drift. No environment drift. No duplicated people. No dialogue. No narration. No subtitles. No text. No watermark. 全程镜头必须跟随人物具体动作运动，禁止人物静止时镜头单独旋转或空转。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-1-c67289c7c2f0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### POV: Your Kitten Vlog, but the Kitten Chooses Violence
 
 > POV: you try to make a cute kitten vlog and your kitten chooses violence Seedance 2.5 on @PixVerse Prompt ↓ REFERENCE & SUBJECT CONSISTENCY Use "@image1" as the…
@@ -2260,84 +2338,6 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Miniature Woman’s Parkour Adventure in an Appliance Showroom
-
-> A tiny world of creativity brought to life inside an electronics showroom using just one prompt on @darkwoodslabs 🔥 The AI agent manages everything from crafti…
-
-[<img src="https://media.goodcase.ai/cases/865ebea4914b.jpg" width="600" alt="A Miniature Woman’s Parkour Adventure in an Appliance Showroom">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2115416926092746987) | **Published:** 2026-10-28 | **Heat:** 55
-
-<details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
-
-```
-STYLE: Photorealistic live-action miniature-person FX, cinematic macro photography, ultra-shallow depth of field, authentic South Asian electric appliances showroom, dynamic handheld camera, dramatic practical lighting, realistic physics, premium viral commercial aesthetic, 4K detail.
-
-Create a 30-second cinematic adventure featuring one athletic miniature woman approximately 1 :5 scale inside a busy electric appliances shop. Maintain her exact face, hairstyle, outfit, backpack, body proportions, and miniature scale consistently throughout the video.
-
-She begins by running across the top of a giant washing machine, jumping from one appliance to another like rooftops. She slides down the curved glass door of a massive refrigerator and lands on a countertop filled with remote controls. She leaps between oversized television stands, using a thick HDMI cable like a tightrope. Suddenly, a giant ceiling fan starts spinning above her. She grabs a dangling electrical cord and swings across the showroom, narrowly landing on top of a microwave.
-
-Next, she climbs a towering stack of air conditioners, jumps onto a giant remote control, and dodges its enormous buttons as a customer presses the power button nearby. She slides down a polished stainless-steel refrigerator handle, runs across a giant induction cooktop, and leaps over oversized kitchen appliances. A robotic vacuum suddenly activates beneath her feet, carrying her across the showroom floor as she struggles to maintain balance. She jumps onto a giant speaker, and its powerful bass vibrates the surface, launching her onto a display shelf filled with electric kettles and toasters. For the finale, she climbs a towering television display, leaps across the frames of multiple giant screens, and lands triumphantly on top of a refrigerator. The camera pulls back to reveal the enormous showroom, with customers browsing in the background, completely unaware of the miniature adventurer.
-
-Use dynamic macro tracking shots, dramatic low angles, smooth camera movements, strong foreground parallax, realistic reflections on glass and metal, detailed appliance textures, natural human movement, believable physics, and cinematic lighting. Every appliance must appear gigantic relative to the miniature woman. Maintain consistent character identity and scale across every scene.
-
-ENDING: She stands proudly on the refrigerator as a giant television behind her displays: “THE FUTURE IS ELECTRIC.” End with a dramatic wide shot of the showroom.
-
-SFX: Tiny footsteps, refrigerator hum, washing machine vibrations, fan whooshes, remote-control clicks, robotic vacuum motor, speaker bass, appliance beeps, metallic clunks, showroom ambience, rushing air, and cinematic impact sounds.
-
-NEGATIVE PROMPT: Cartoon, anime, toy-like appearance, artificial CGI, duplicated character, face drift, outfit changes, distorted anatomy, inconsistent miniature scale, floating without physics, dangerous electrical sparks, exposed wiring, explosions, unrealistic reflections, narration, subtitles, and watermarks.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Comeback Knockout in an Octagon Showdown
-
-> From the first strike to the final victory shot, every frame was built for cinematic impact. 🥊🔥 Exploring what’s possible with Seedance 2.5 through @nemovideo…
-
-[<img src="https://media.goodcase.ai/cases/474b42d3e724.jpg" width="600" alt="Comeback Knockout in an Octagon Showdown">](https://goodcase.ai/cases/seedance-2-5-hero-use-image1-as-the-exact-hero-identity-024fcfb7c316?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2107412153577935128) | **Published:** 2026-10-06 | **Heat:** 55
-
-<details>
-<summary><b>Full prompt (27 lines, click to expand)</b></summary>
-
-```
-Duration: 30 seconds | Aspect Ratio: 16:9 | Style: Ultra-photorealistic live-action Hollywood MMA action.
-
-HERO: Use image1 as the exact hero identity. Preserve his face, facial structure, hairstyle, physique and proportions consistently in every shot. He wears black MMA shorts with a red waistband, black fingerless MMA gloves, bare feet and wrist tape. His skin becomes naturally sweaty during the fight.
-
-RIVAL: Tall, heavily muscular bald fighter with a short dark beard, tribal tattoo covering the left shoulder/upper arm, white-and-royal-blue MMA shorts, blue gloves and bare feet. After Shot 03, maintain a small realistic cut above his right eyebrow.
-
-LOCATION: Packed night arena, eight-sided steel cage, overhead rig lights through haze, cool blue cinematic palette with warm skin highlights, realistic crowd, sweat and atmospheric depth. Referee wears a white shirt and black trousers and remains mostly at frame edges.
-
-SEQUENCE:
-00:00–02 High-angle 24mm wide, bell rings, both fighters leave corners, slow crane descent.
-02–04 35mm Steadicam arc, fighters circle; rival throws a probing jab.
-04–06 FAST 50mm handheld, hero slips and lands jab-cross, opening a small cut on rival's right eyebrow.
-06–08 FAST 40mm OTS, rival throws hook-cross-hook; hero blocks and parries.
-08–10 SLOW-MO 85mm close-up, heavy hook snaps hero's head, sweat sprays; speed ramp as he hits cage.
-10–12 40mm handheld, hero pinned against fence, rival flurries; rack focus to hero's determined eyes.
-12–14 FAST 28mm tracking, hero slips hook, lands liver shot and spins away.
-14–16 SLOW-MO 85mm, hero's uppercut lifts rival's chin, sweat suspended in rim light.
-16–18 FAST 35mm, rival throws wild cross; hero ducks and lands three-punch combo.
-18–20 65mm slow orbit, both exhausted fighters trade heavy close-range punches.
-20–22 FAST 28mm push-in, hero unleashes four-punch barrage, driving rival to fence.
-22–24 EXTREME SLOW-MO 100mm profile, hero slips overhand and lands decisive right cross to jaw; brief silence, then massive impact.
-24–27 Ground-level 24mm wide, rival collapses, referee waves off fight, hero steps back.
-27–30 35mm low-angle Steadicam push-in, hero raises gloves in exhausted relief; crane pull-up reveals roaring arena, cut to black.
-
-SOUND: Crowd roar, bell, breathing, canvas footsteps, realistic glove impacts. Low drone, cello, taiko and strings build toward knockout, brief silence at impact, then orchestral hit and emotional piano/strings finale.
-
-QUALITY: Realistic physics, anatomy, sweat, skin texture, cinematic motion blur and subtle film grain. No cartoon, CGI look, plastic skin, face changes, wardrobe changes, duplicated fighters, extra limbs/fingers, deformed hands, warped faces, impossible punches, jitter, flicker, oversaturation, text, watermark or logos.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-hero-use-image1-as-the-exact-hero-identity-024fcfb7c316?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 90s Diner Time Freeze Effect
 
 > A cinematic video prompt for Seedance 2.5 featuring a high-physics diner collision where time freezes, allowing a character to interact with suspended objects before resuming in real-time.
@@ -2371,6 +2371,44 @@ Photorealistic, ultra-detailed fluid and object physics, perfect volume and surf
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/90s-diner-time-freeze-effect?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Young Woman’s Journey Through London
+
+> Exploring London, one moment at a time A journey filled with beautiful memories. Made with seedance 2.5 on @Flovaai Prompt: Character consistency: Same young ad…
+
+[<img src="https://media.goodcase.ai/cases/5e3c890e3358.jpg" width="600" alt="A Young Woman’s Journey Through London">](https://goodcase.ai/cases/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @noorlewisx | **Source:** [Original](https://x.com/noorlewisx/status/2105529187494928887) | **Published:** 2026-10-01 | **Heat:** 55
+
+**Stability:** 83/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.7) · [output](https://media.goodcase.ai/retests/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (16 lines, click to expand)</b></summary>
+
+```
+Character consistency: Same young adult female traveler throughout, same face, hairstyle, body proportions and outfit, realistic skin, natural expressions, cinematic photorealistic travel-vlog style, smooth camera movement, realistic lighting. No face changes, no outfit changes.
+0–5 sec — Arrival 🇬🇧
+Young female traveler arrives in London, walking out of Heathrow Airport with a small suitcase, excited expression, cinematic establishing shot of London atmosphere, natural handheld vlog camera movement.
+5–10 sec — Big Ben & Westminster
+She walks near Big Ben and Westminster, looks at the landmark and smiles toward the camera, quick selfie-style vlog shot followed by a wide cinematic view of Big Ben and the River Thames.
+10–15 sec — Tower Bridge
+She explores Tower Bridge, walking across the bridge while filming herself, London skyline in the background, natural tourist atmosphere, smooth tracking shot.
+15–20 sec — London Street
+She walks through a beautiful London street with classic red buses, black cabs and historic buildings, briefly stops at a cozy café, takes a coffee and continues exploring.
+20–25 sec — London Eye
+She stands beside the London Eye during golden hour, looks toward the camera with a happy travel-vlog expression, camera slowly circles around her with the London skyline behind.
+25–30 sec — Final London Shot
+She walks along the River Thames at sunset, turns toward the camera and smiles, cinematic aerial pull-back revealing London skyline, warm golden-hour lighting, beautiful travel-vlog ending.
+Overall: photorealistic, cinematic 4K, natural movement, realistic London environment, smooth transitions between locations, consistent character, consistent clothes, consistent face, no text, no watermark.
+
+#FlovaAI #Flovacpp
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Escape Under a Loading Door in the Rain
 
 > Rain, shadows, and one narrow chance to disappear. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action action-thriller at night …
@@ -2399,6 +2437,73 @@ No CGI, animation, superhero abilities, impossible parkour, teleportation, weigh
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-action-thriller-at-night-du-239e011a781f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Male and Female Swordfighter Clash in a Temple
+
+> Seedance 2.5 prompt. Core rules: 1. Zero-delay chaining, no buffer between moves, the next strike out before the last lands, blades in constant contact. 2. Action-driven scene changes: any change of setting must come from a character action, such as the male lead knocked back into a pillar...
+
+[<img src="https://media.goodcase.ai/cases/177801c0a33f.jpg" width="600" alt="A Male and Female Swordfighter Clash in a Temple">](https://goodcase.ai/cases/seedance-1-c67289c7c2f0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @liluocheng13 | **Source:** [Original](https://x.com/liluocheng13/status/2098447487266914317) | **Published:** 2026-09-11 | **Heat:** 55
+
+**Stability:** 60/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 60.1) · [output](https://media.goodcase.ai/retests/seedance-1-c67289c7c2f0/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (45 lines, click to expand)</b></summary>
+
+```
+【核心规则】
+
+1.零延迟衔接：招式与招式之间零缓冲，一击未落、下一击已出，剑刃始终保持高频接触。
+2.动作驱动场景转换（关键）：任何场景变化（柱身→地面→横梁→大殿）必须由人物的具体动作完成——例如"男主被震退撞向殿柱""女主借力从柱顶翻身跃下砸向地面""两人缠斗中撞穿一排烛台滚落台阶"——绝不允许镜头单独切换场景而人物动作不连续。
+3.真实力量感：每一次剑刃相击都要有清晰的身体位移反馈——被格挡的一方手臂震退半步、脚下打滑、身体因冲击力扭转——不是"两人站定互砍"，而是每一下都带着真实的体重和冲力。
+4.禁止空转镜头：任何时候镜头运动（推近、环绕、甩镜）必须跟随人物正在进行的具体肢体动作，禁止画面出现人物静止而镜头单独旋转/环绕的情况。
+5.贴身险招库：全片穿插以下具体招式，且不重复：
+•贴地躲闪：一方横扫斩来，另一方猛然后仰几乎贴地，剑锋堪堪掠过鼻尖，发丝被削断
+•直刺反击：躲闪的同时反手直刺，剑尖笔直突刺而出
+•旋身格挡：被直刺方原地急速旋身躲开，同时手腕翻转格挡下一击
+•翻滚起身反击：被打退跌地的一方就地翻滚，借旋转之力直接刺出反击
+•剑锋绞缠近身：两剑绞在一起后，双方近距离肩靠肩角力，忽然同时脱手推开重新拉开架势
+
+【分镜控制 0:00–0:30，全程动作连续无跳切】
+
+[0:00–0:02] 35mm广角，低角度地面轨道镜头，紧跟人物冲刺
+女主与男主同时从大殿两端全速冲刺而来，在殿中央剑刃相击的瞬间发力对撞，冲击力震得两人各自后退半步、脚下地砖迸裂溅起碎屑——开场即是全力对撞，无任何铺垫。
+
+[0:02–0:07] 50mm中景转特写，镜头紧贴人物身体运动，快速手持跟拍
+近战组1：男主大幅横扫斩来，女主猛然后仰几乎贴地躲避，剑锋堪堪从她鼻尖上方划过，发丝被削断飘散；女主借后仰反弹之力顺势翻身站起同时反手直刺男主胸前；男主急速旋身躲开的同时手腕翻转格挡，两剑绞在一起，双方肩靠肩角力两秒后同时发力震开，各自后退两步喘息。
+
+[0:07–0:09] 85mm长焦跟拍，人物动作驱动的场景转换
+男主被震开的力道带得撞向身后龙柱，借柱身反弹之力翻身跃起，脚踏盘龙浮雕垂直跑上柱身；女主紧接着一个爆发式起跳追上柱身，两人在柱身上剑刃相击两三招，剑刃擦过柱身留下灼痕。
+
+[0:09–0:12] 长焦跟拍转俯冲镜头，人物从高处坠落带动场景切换
+男主被逼到柱顶横梁边缘，女主一记重击将他震退坠落，男主借坠落之势在半空中翻身调整姿态，剑尖朝下如同俯冲攻击，重重落回大殿地面的同时挥剑横扫；女主几乎同时从柱身跃下正面接下这一击，两剑相撞火花四溅，双方手臂因冲击力明显震颤——此处完成从柱身到大殿地面的自然场景过渡，全程动作不中断。
+
+[0:12–0:17] 50mm特写，镜头持续跟随人物肢体动作，无空镜转场
+近战组2（决战前最密集回合）：女主连续三次变向斩击，速度一次比一次快——男主第一次侧身避开、第二次贴地躲过、第三次干脆矮身钻入她剑锋下方近身，反手横斩女主腰侧；女主凌空后翻堪堪躲开，落地瞬间衣摆被剑气削开一角；男主趁她落地瞬间欺身直刺，女主侧身堪堪避开剑尖擦过肩侧，衣料应声裂开，同时反手一记重击震得男主剑身发出金属哀鸣、虎口震裂似地后退两步。
+
+[0:17–0:21] 超广角跟拍，两人剧烈缠斗中撞向环境
+两人剑刃绞缠近身角力，忽然同时脱手震开各自后退，紧接着几乎同时再度暴起冲向对方——这一冲带倒了身旁一排烛台，烛火被撞灭又被剑气余波重新点燃，两人在倒地的烛台与四溅的烛油中继续近身缠斗，剑刃碰撞产生密集火花，地面积水被踏起层层水雾。
+
+[0:21–0:26] 特写转全景交替，剪辑跟随攻防节奏（非空转镜头）
+双方招式速度达到全片顶点：斩、刺、格挡、反击在两三秒内连续发生，每一次碰撞都有清晰的身体反馈——女主被震得踉跄半步随即反手补上一剑，男主格挡后手臂剧烈震颤仍强行反击；蓝绿剑气缠绕成螺旋光流，两人的呼吸声与兵刃声交织成密集的节奏感，全程无一帧人物静止。
+
+[0:26–0:29] 超广角全景，剧烈镜头震动，跟随最终对撞
+双方在剑锋交汇的瞬间同时使出全力一击，两股能量对撞爆发出席卷全殿的蓝绿交织光潮，冲击波将两人同时震飞后退数米，地砖与柱身被震裂，烛火大片熄灭，烟尘弥漫整个神殿，镜头剧烈震颤后画面渐趋失焦泛白。
+
+[0:29–0:30] 固定机位，画面渐缓
+烟雾缓缓弥散，两人分别单膝或站立稳住身形，胸口剧烈起伏、握剑的手因手臂力竭仍在颤抖，残存的烛火星星点点重新亮起，画面定格于两人对峙的宏大空镜。
+
+【通用限制】
+
+Never redesign faces. Never change costumes. Never replace the temple. Never introduce additional characters. No face drift. No costume drift. No environment drift. No duplicated people. No dialogue. No narration. No subtitles. No text. No watermark. 全程镜头必须跟随人物具体动作运动，禁止人物静止时镜头单独旋转或空转。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-1-c67289c7c2f0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Cherry Blossom Campus Confession, Korean Romance
 
@@ -2630,6 +2735,39 @@ Create a **30-second ultra-photorealistic Korean zombie-survival thriller**, cin
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-ci-f278c2a5757d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Miniature Woman’s Parkour Adventure in an Appliance Showroom
+
+> A tiny world of creativity brought to life inside an electronics showroom using just one prompt on @darkwoodslabs 🔥 The AI agent manages everything from crafti…
+
+[<img src="https://media.goodcase.ai/cases/865ebea4914b.jpg" width="600" alt="A Miniature Woman’s Parkour Adventure in an Appliance Showroom">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2115416926092746987) | **Published:** 2026-10-28 | **Heat:** 54
+
+<details>
+<summary><b>Full prompt (15 lines, click to expand)</b></summary>
+
+```
+STYLE: Photorealistic live-action miniature-person FX, cinematic macro photography, ultra-shallow depth of field, authentic South Asian electric appliances showroom, dynamic handheld camera, dramatic practical lighting, realistic physics, premium viral commercial aesthetic, 4K detail.
+
+Create a 30-second cinematic adventure featuring one athletic miniature woman approximately 1 :5 scale inside a busy electric appliances shop. Maintain her exact face, hairstyle, outfit, backpack, body proportions, and miniature scale consistently throughout the video.
+
+She begins by running across the top of a giant washing machine, jumping from one appliance to another like rooftops. She slides down the curved glass door of a massive refrigerator and lands on a countertop filled with remote controls. She leaps between oversized television stands, using a thick HDMI cable like a tightrope. Suddenly, a giant ceiling fan starts spinning above her. She grabs a dangling electrical cord and swings across the showroom, narrowly landing on top of a microwave.
+
+Next, she climbs a towering stack of air conditioners, jumps onto a giant remote control, and dodges its enormous buttons as a customer presses the power button nearby. She slides down a polished stainless-steel refrigerator handle, runs across a giant induction cooktop, and leaps over oversized kitchen appliances. A robotic vacuum suddenly activates beneath her feet, carrying her across the showroom floor as she struggles to maintain balance. She jumps onto a giant speaker, and its powerful bass vibrates the surface, launching her onto a display shelf filled with electric kettles and toasters. For the finale, she climbs a towering television display, leaps across the frames of multiple giant screens, and lands triumphantly on top of a refrigerator. The camera pulls back to reveal the enormous showroom, with customers browsing in the background, completely unaware of the miniature adventurer.
+
+Use dynamic macro tracking shots, dramatic low angles, smooth camera movements, strong foreground parallax, realistic reflections on glass and metal, detailed appliance textures, natural human movement, believable physics, and cinematic lighting. Every appliance must appear gigantic relative to the miniature woman. Maintain consistent character identity and scale across every scene.
+
+ENDING: She stands proudly on the refrigerator as a giant television behind her displays: “THE FUTURE IS ELECTRIC.” End with a dramatic wide shot of the showroom.
+
+SFX: Tiny footsteps, refrigerator hum, washing machine vibrations, fan whooshes, remote-control clicks, robotic vacuum motor, speaker bass, appliance beeps, metallic clunks, showroom ambience, rushing air, and cinematic impact sounds.
+
+NEGATIVE PROMPT: Cartoon, anime, toy-like appearance, artificial CGI, duplicated character, face drift, outfit changes, distorted anatomy, inconsistent miniature scale, floating without physics, dangerous electrical sparks, exposed wiring, explosions, unrealistic reflections, narration, subtitles, and watermarks.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-adventure-featuring-one-athletic-miniature-woman-a-9ea78de4a893?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Magic Tea Stirring Goes Awry, Then a Hot Sip Is Spat Back
 
 > All that magic, just to make a cup of tea… and still get roasted by it. ☕🪄 Made with Seedance 2.5 on @picsartai #picsartpartner @Picsart Prompt: Duration: 10s …
@@ -2735,6 +2873,51 @@ No audio, no music, no subtitles, no text overlays, no watermark, no extra hands
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-title-blush-switch-heart-knit-makeup-transition-f86c54b5980f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Comeback Knockout in an Octagon Showdown
+
+> From the first strike to the final victory shot, every frame was built for cinematic impact. 🥊🔥 Exploring what’s possible with Seedance 2.5 through @nemovideo…
+
+[<img src="https://media.goodcase.ai/cases/474b42d3e724.jpg" width="600" alt="Comeback Knockout in an Octagon Showdown">](https://goodcase.ai/cases/seedance-2-5-hero-use-image1-as-the-exact-hero-identity-024fcfb7c316?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2107412153577935128) | **Published:** 2026-10-06 | **Heat:** 54
+
+<details>
+<summary><b>Full prompt (27 lines, click to expand)</b></summary>
+
+```
+Duration: 30 seconds | Aspect Ratio: 16:9 | Style: Ultra-photorealistic live-action Hollywood MMA action.
+
+HERO: Use image1 as the exact hero identity. Preserve his face, facial structure, hairstyle, physique and proportions consistently in every shot. He wears black MMA shorts with a red waistband, black fingerless MMA gloves, bare feet and wrist tape. His skin becomes naturally sweaty during the fight.
+
+RIVAL: Tall, heavily muscular bald fighter with a short dark beard, tribal tattoo covering the left shoulder/upper arm, white-and-royal-blue MMA shorts, blue gloves and bare feet. After Shot 03, maintain a small realistic cut above his right eyebrow.
+
+LOCATION: Packed night arena, eight-sided steel cage, overhead rig lights through haze, cool blue cinematic palette with warm skin highlights, realistic crowd, sweat and atmospheric depth. Referee wears a white shirt and black trousers and remains mostly at frame edges.
+
+SEQUENCE:
+00:00–02 High-angle 24mm wide, bell rings, both fighters leave corners, slow crane descent.
+02–04 35mm Steadicam arc, fighters circle; rival throws a probing jab.
+04–06 FAST 50mm handheld, hero slips and lands jab-cross, opening a small cut on rival's right eyebrow.
+06–08 FAST 40mm OTS, rival throws hook-cross-hook; hero blocks and parries.
+08–10 SLOW-MO 85mm close-up, heavy hook snaps hero's head, sweat sprays; speed ramp as he hits cage.
+10–12 40mm handheld, hero pinned against fence, rival flurries; rack focus to hero's determined eyes.
+12–14 FAST 28mm tracking, hero slips hook, lands liver shot and spins away.
+14–16 SLOW-MO 85mm, hero's uppercut lifts rival's chin, sweat suspended in rim light.
+16–18 FAST 35mm, rival throws wild cross; hero ducks and lands three-punch combo.
+18–20 65mm slow orbit, both exhausted fighters trade heavy close-range punches.
+20–22 FAST 28mm push-in, hero unleashes four-punch barrage, driving rival to fence.
+22–24 EXTREME SLOW-MO 100mm profile, hero slips overhand and lands decisive right cross to jaw; brief silence, then massive impact.
+24–27 Ground-level 24mm wide, rival collapses, referee waves off fight, hero steps back.
+27–30 35mm low-angle Steadicam push-in, hero raises gloves in exhausted relief; crane pull-up reveals roaring arena, cut to black.
+
+SOUND: Crowd roar, bell, breathing, canvas footsteps, realistic glove impacts. Low drone, cello, taiko and strings build toward knockout, brief silence at impact, then orchestral hit and emotional piano/strings finale.
+
+QUALITY: Realistic physics, anatomy, sweat, skin texture, cinematic motion blur and subtle film grain. No cartoon, CGI look, plastic skin, face changes, wardrobe changes, duplicated fighters, extra limbs/fingers, deformed hands, warped faces, impossible punches, jitter, flicker, oversaturation, text, watermark or logos.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-hero-use-image1-as-the-exact-hero-identity-024fcfb7c316?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A University Student Walks to Class After Unexpected Morning Snow
 
 > She woke up to an ordinary morning. Outside, the whole city had turned white. Created on Seedance 2.5 Prompt: Create an exactly 30-second, 16:9, 24fps, 4K ultra…
@@ -2769,39 +2952,6 @@ Negative prompt: CGI appearance, animation, fantasy snow, glowing snow, impossib
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-24fps-4k-ultra-photorealistic-live-action-u-62fcf5559f5a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Korean Rapper Performing Across Cinematic Stages
-
-> Rap, rhythm, and a girl who turns every beat into a cinematic moment. 🎤 Seedance 2.5 on @higgsfield Prompt : Create a ultra-realistic cinematic rap music video…
-
-[<img src="https://media.goodcase.ai/cases/bb9a4f80c61a.jpg" width="600" alt="Korean Rapper Performing Across Cinematic Stages">](https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2104412786570981576) | **Published:** 2026-09-28 | **Heat:** 54
-
-<details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
-
-```
-Create a ultra-realistic cinematic rap music video featuring a confident young Korean woman in her early 20s with long dark-brown hair tied in a high ponytail. She wears a black cropped jacket, fitted white top, dark cargo pants, black sneakers, silver earrings, and a black wristwatch.
-
-Open backstage at a massive concert venue as she walks toward the stage, headphones around her neck, surrounded by lights, equipment and crew. Cut to her performing confidently under intense stage lights as a huge crowd raises phones and reacts to the beat.
-
-Transition through multiple visually distinct locations: a rainy neon-lit city street, an elevated runway surrounded by skyscrapers, a sunlit grassy field, an atmospheric old street at night, and a futuristic concert stage. Keep her character, face, hairstyle and overall styling consistent while naturally adapting her outfit to each environment.
-
-Show energetic performance shots, confident walking, close-ups of her eyes and expressions, rhythmic hand gestures, slow-motion hair movement, dramatic low-angle shots, wide crowd shots, and smooth cinematic camera movements synchronized with the rap beat.
-
-Use hard cuts, match cuts, whip pans, low-angle tracking shots, handheld performance footage, subtle slow motion, realistic lens flares and dynamic lighting. Build toward a final wide shot of her performing onstage as thousands of phone lights illuminate the audience.
-
-Ultra-realistic live-action quality, authentic skin texture, realistic fabric and hair physics, detailed environments, cinematic depth of field, natural motion blur, high-end music-video cinematography, energetic rap atmosphere.
-
-Audio: original energetic rap beat, deep bass, crisp drums, atmospheric synths, crowd chants and natural stage ambience. No narration, no subtitles, no logos, no watermark, no cartoon or CGI appearance.
-
-Made on Higgsfield
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A City Woman’s Day from Morning to Bedtime
 
@@ -3445,6 +3595,39 @@ NEGATIVE PROMPT: cartoon, anime, CGI look, plastic skin, deformed face, bad hand
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-short-film-46-sec-16-9-photorealistic-hollywood-sci-fi-action-dys-dae506414152?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Korean Rapper Performing Across Cinematic Stages
+
+> Rap, rhythm, and a girl who turns every beat into a cinematic moment. 🎤 Seedance 2.5 on @higgsfield Prompt : Create a ultra-realistic cinematic rap music video…
+
+[<img src="https://media.goodcase.ai/cases/bb9a4f80c61a.jpg" width="600" alt="Korean Rapper Performing Across Cinematic Stages">](https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2104412786570981576) | **Published:** 2026-09-28 | **Heat:** 53
+
+<details>
+<summary><b>Full prompt (15 lines, click to expand)</b></summary>
+
+```
+Create a ultra-realistic cinematic rap music video featuring a confident young Korean woman in her early 20s with long dark-brown hair tied in a high ponytail. She wears a black cropped jacket, fitted white top, dark cargo pants, black sneakers, silver earrings, and a black wristwatch.
+
+Open backstage at a massive concert venue as she walks toward the stage, headphones around her neck, surrounded by lights, equipment and crew. Cut to her performing confidently under intense stage lights as a huge crowd raises phones and reacts to the beat.
+
+Transition through multiple visually distinct locations: a rainy neon-lit city street, an elevated runway surrounded by skyscrapers, a sunlit grassy field, an atmospheric old street at night, and a futuristic concert stage. Keep her character, face, hairstyle and overall styling consistent while naturally adapting her outfit to each environment.
+
+Show energetic performance shots, confident walking, close-ups of her eyes and expressions, rhythmic hand gestures, slow-motion hair movement, dramatic low-angle shots, wide crowd shots, and smooth cinematic camera movements synchronized with the rap beat.
+
+Use hard cuts, match cuts, whip pans, low-angle tracking shots, handheld performance footage, subtle slow motion, realistic lens flares and dynamic lighting. Build toward a final wide shot of her performing onstage as thousands of phone lights illuminate the audience.
+
+Ultra-realistic live-action quality, authentic skin texture, realistic fabric and hair physics, detailed environments, cinematic depth of field, natural motion blur, high-end music-video cinematography, energetic rap atmosphere.
+
+Audio: original energetic rap beat, deep bass, crisp drums, atmospheric synths, crowd chants and natural stage ambience. No narration, no subtitles, no logos, no watermark, no cartoon or CGI appearance.
+
+Made on Higgsfield
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-ultra-realistic-cinematic-rap-music-video-featuring-a-confident-young-8cad375cc1ea?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Golden-Winged Girl and Iron Man in a Skyborne Encounter
 
@@ -4382,24 +4565,6 @@ A magical 3D animated fairy-tale scene featuring a young girl wearing a black hi
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-magical-3d-animated-fairy-tale-scene-featuring-a-young-girl-wearing-a-black-h-cf1194730635?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seoul Couple’s Shopping Date and Sweet Elevator Kiss
-
-> A little shopping and a lot of love 😘 Seedance 2.5 Prompt : Create a 30-second, 1080p ultra-realistic early-2000s DV camcorder home video of a young Korean cou…
-
-[<img src="https://media.goodcase.ai/cases/9a9893a7d434.jpg" width="600" alt="Seoul Couple’s Shopping Date and Sweet Elevator Kiss">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-camcorder-home-video-o-50568dbba578?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2105135568078381416) | **Published:** 2026-09-30 | **Heat:** 51
-
-```
-Create a 30-second, 1080p ultra-realistic early-2000s DV camcorder home video of a young Korean couple spending a casual afternoon shopping in Seoul. The girl wears a fitted pastel pink top, cream-white pajama-style pants, white sneakers, and a small shoulder bag, with long dark hair in a loose ponytail. Her boyfriend wears a loose white T-shirt, dark jeans, and white sneakers.
-
-They walk through shops together, share an orange ice cream, playfully feed each other, and laugh. He notices a cute toy she likes and secretly buys it for her, surprising her outside the store. They then play bowling, teasing each other after their turns. Later, they enter an elevator alone. He gently fixes her ponytail and moves a loose strand of hair from her face. They exchange shy smiles and share a brief natural kiss before laughing as the elevator doors open.
-
-Keep the same faces, outfits, hairstyles and appearance throughout. Raw handheld DV footage, imperfect framing, autofocus hunting, slight camera shake, faded summer colors, soft digital detail, natural motion blur and authentic early-2000s home-video feel. Natural ambient audio, laughter and conversation. No music, subtitles, cinematic commercial look, CGI, anime, beauty filters or slow motion.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-early-2000s-dv-camcorder-home-video-o-50568dbba578?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Korean Girl Scrolling Her Phone in a Warm Bedroom
 
 > A cozy Korean lifestyle moment, captured with cinematic realism. Created on seedance 2.5 Prompt: A Korean girl created a video, showing a cozy and natural lifes…
@@ -4659,126 +4824,6 @@ Duration: 15 seconds. Aspect ratio: 16:9. Quality: Ultra-realistic cinematic 4K.
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-cinematic-martial-arts-battle-scene-set-inside-a-mas-339b4fd5f181?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Woodland Guardian Follows Lanterns to a Hidden Tree Settlement
-
-> Created a 30s woodland fantasy scene straight out of a forgotten 90s fantasy movie.#wizstarPartner Seedance 2.5 x @WizstarAI Try it here : https://t.co/lP61ezav…
-
-[<img src="https://media.goodcase.ai/cases/2ecf28ab3d4e.jpg" width="600" alt="Woodland Guardian Follows Lanterns to a Hidden Tree Settlement">](https://goodcase.ai/cases/seedance-2-5-created-a-30s-woodland-fantasy-scene-straight-out-of-a-forgotten-90s-fantasy-mo-e3f1b8f9e73c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @itxabdullaa | **Source:** [Original](https://x.com/itxabdullaa/status/2107792780395458733) | **Published:** 2026-10-07 | **Heat:** 50
-
-<details>
-<summary><b>Full prompt (52 lines, click to expand)</b></summary>
-
-```
-Created a 30s woodland fantasy scene straight out of a forgotten 90s fantasy movie.#wizstarPartner
-
-Seedance 2.5 x @WizstarAI
-
-Try it here :
-https://t.co/lP61ezavMd
-
-Prompt 👇🏻
-
-Create an original young adult female woodland guardian in the handcrafted style of a forgotten early-1990s live-action fantasy film. Fully original character and world, practical-effects aesthetic, not modern CGI.
-
-CHARACTER: Young adult woman, natural expressive face, amber-brown eyes, softly angular features, subtly elongated fantasy ears, thick dark auburn wavy hair with small braids. Intelligent, brave, curious and quietly playful.
-
-COSTUME: Fully modest sage-green high-neck linen blouse, brown leather vest, ankle-length olive wool skirt, opaque dark leggings, worn brown boots, leather wrist guards and long burnt-orange hooded cloak. Leather belt with small pouches, brass compass, herbs, wooden whistle and bronze leaf pendant. Real fibers, worn leather, tarnished metal and natural mud. Practical prosthetic fantasy ears.
-
-SETTING: Ancient woodland at dusk, twisted trees, moss, ferns, mushrooms, streams, wooden bridges, carved stones and handmade lanterns. Hidden shelters and distant lights suggest a secret woodland settlement.
-
-STYLE: Practical foliage, physical props, theatrical mist, practical lanterns, miniature sets, restrained optical effects, 35mm film softness, subtle grain, lantern halation, earthy greens, browns and amber, warm theatrical lighting. No glossy CGI or modern fantasy aesthetic.
-
-[00:00-00:04] THE PATH
-Low shot of her boots walking through damp leaves. Camera rises to her face. A distant metallic chime makes her stop.
-
-[00:04-00:08] THE LANTERN
-She finds a glowing antique lantern with no visible flame. It goes dark as she reaches for it. Another lantern lights deeper in the forest, then another. She realizes she is being guided.
-
-[00:08-00:12] THE TRAIL
-She follows the lanterns and discovers carved symbols on trees. One rotates when touched. Another moves behind her. Nobody is there. She smiles, realizing someone is watching.
-
-[00:12-00:16] THE FOX
-A woodland fox leads her to a fallen tree. Beneath its roots she finds a box containing a brass compass. Its spinning needle suddenly points upward. A shadow moves through the canopy.
-
-[00:16-00:20] SOMEONE ABOVE
-Leaves rustle. Acorns drop beside her boots. She looks upward and says softly, "You could simply come down." A hidden wooden platform creaks above. She smiles suspiciously.
-
-[00:20-00:24] THE DOOR
-She follows the sound to an enormous tree and discovers a hidden seam. She touches it. Carved symbols glow and the bark opens into a secret doorway filled with warm golden light. She enters.
-
-[00:24-00:27] THE HIDDEN WORLD
-Inside is a vast woodland settlement built around the tree: lanterns, wooden platforms, rope bridges, workshops, herbs and glowing windows. Hundreds of lanterns illuminate as she looks around in wonder.
-
-[00:27-00:30] THE INVITATION
-A wooden bridge leads to a folded parchment reading "YOU FOUND US." Several silhouettes appear among the lanterns. She smiles, places the parchment in her satchel and walks deeper into the settlement.
-
-Camera pulls backward through the ancient tree doorway into the dark forest. Cut to black.
-
-STRICT CONTINUITY: Same face, hair, ears, proportions, costume, cloak, boots, belt, pendant and satchel in every shot. Fully modest clothing with no wardrobe changes or exposure. Continuous geography and logical progression.
-
-CAMERA: Atmospheric low angles, slow tracking, facial close-ups, wide environmental shots and restrained handheld movement.
-
-FINAL LOOK: Authentic early-1990s 35mm fantasy film, practical prosthetics, real costumes, physical sets, theatrical mist, practical lanterns, subtle optical effects, natural performances and beautiful film grain.
-
-Original character and world only. No recognizable existing characters, franchises, logos, branded costumes, copied designs, blood or gore.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-created-a-30s-woodland-fantasy-scene-straight-out-of-a-forgotten-90s-fantasy-mo-e3f1b8f9e73c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Korean Campus Rooftop Sunset Scene
-
-> A polished photorealistic prompt of two students on a Korean campus chasing homework pages scattered by the wind at sunset.
-
-[<img src="https://media.goodcase.ai/cases/e7d1edca5df7.jpg" width="600" alt="Korean Campus Rooftop Sunset Scene">](https://goodcase.ai/cases/case-c290f40d8f85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Aqsahere_ | **Source:** [Original](https://x.com/Aqsahere_/status/2091001743035564070) | **Published:** 2026-08-22 | **Heat:** 50
-
-**Stability:** 80/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 80.2) · [output](https://media.goodcase.ai/retests/case-c290f40d8f85/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-c290f40d8f85?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Tokyo Street Food Phone Vlog
-
-> A highly detailed prompt for a photorealistic Tokyo food vlog that mimics phone-shot footage, complete with natural handheld shake and authentic neighborhood detail.
-
-[<img src="https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg" width="600" alt="Tokyo Street Food Phone Vlog">](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2088605003112235033) | **Published:** 2026-08-15 | **Heat:** 50
-
-**Stability:** 82/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 82.4) · [output](https://media.goodcase.ai/retests/vlog-b7d2a3d9d7f2/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Japan. The entire video must look like it was genuinely recorded on a modern flagship smartphone by a real female creator, not like a cinematic production or AI-generated video. 0–5 seconds: A young Japanese woman walks through a narrow Tokyo side street in the early evening, holding her smartphone at arm’s length and casually talking to the camera. Traditional Japanese shopfronts, vending machines, bicycles, small signs, utility wires, pedestrians and warm storefront lights create an authentic neighborhood atmosphere. Natural handheld movement and slight framing imperfections. 5–10 seconds: She notices a tiny hidden dessert café and turns the camera toward its entrance with an excited reaction. She walks inside while continuing the vlog. The camera naturally adjusts exposure from the bright street to the warmer interior. 10–16 seconds: Show the staff preparing a fresh strawberry cream dessert. Realistic strawberries, whipped cream, soft cake layers and small details of the preparation. The creator moves the phone closer for a natural food close-up while autofocus subtly shifts between the dessert and her hand. 16–22 seconds: She receives the dessert, holds it directly toward the phone camera, then takes a spoonful and tastes it. Her reaction should be spontaneous and believable, with subtle facial expressions rather than exaggerated acting. 22–27 seconds: She smiles, takes another small bite and turns the camera slightly to show the cozy café interior, Japanese customers naturally sitting in the background and warm practical lighting. 27–30 seconds: She walks back outside onto the Japanese street, looks directly into the phone camera and naturally says, “Okay, this place was actually so good!” She smiles and ends the recording casually. Authentic Japanese environment, realistic human behavior, natural walking physics, real-looking food textures, accurate skin texture, natural hair movement, realistic reflections, imperfect smartphone framing, subtle autofocus hunting, automatic exposure adjustments, slight handheld shake, natural motion blur, realistic low-light smartphone noise, true-to-life colors, detailed background activity, genuine vlog energy, high-resolution smartphone footage, photorealistic, documentary realism, no cinematic camera moves, no drone shots, no artificial slow motion, no CGI appearance, no text, no subtitles.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vlog-b7d2a3d9d7f2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Magic Duel from Movie Theater to Ancient Ruins
-
-> When your movie snack hits a little too hard. 🍿🎬🔥 Created with Seedance 2.5 @Flovaai Prompt: Cinematic 4K action sequence in a dark movie theater. A young As…
-
-[<img src="https://media.goodcase.ai/cases/8f2e179a3808.jpg" width="600" alt="Magic Duel from Movie Theater to Ancient Ruins">](https://goodcase.ai/cases/seedance-cinematic-4k-action-sequence-in-a-dark-movie-theater-e3b25997b000?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AvelyrahnAI | **Source:** [Original](https://x.com/AvelyrahnAI/status/2105158267437548020) | **Published:** 2026-09-30 | **Heat:** 50
-
-```
-Cinematic 4K action sequence in a dark movie theater. A young Asian woman with long black hair and a green long-sleeve top is eating popcorn, watching a sci-fi blockbuster on screen. Suddenly, a robotic cyborg villain with glowing red eyes leaps out of the movie screen into the theater. The environment instantly shatters and transitions into an epic ancient ruin courtyard with stone columns under a stormy sky. Dynamic camera movement tracking intense hand-to-hand combat between the woman wielding swirling green magical energy and the metallic cyborg casting purple spell circles. High-budget Hollywood blockbuster aesthetics, dramatic lighting, particle effects, slow-motion impacts, and hyper-realistic textures.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-4k-action-sequence-in-a-dark-movie-theater-e3b25997b000?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

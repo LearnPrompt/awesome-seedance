@@ -1,340 +1,341 @@
 # Seedance 2.5 — 全量案例（第 3/9 页）
 
-Seedance 2.5 全部 754 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 755 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 158–246 条，共 754 条。
+本页：第 160–248 条，共 755 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
 
-### 天台少女以念力夺回项链、震慑霸凌者
+### 缘一 VS 百鬼 ⚔️💥
 
-> Never touch what's mine Seedance 2.5 on @TapNow_AI prompt CINEMATIC VIDEO GENERATION PROMPT TITLE: THE ROOFTOP QUEEN'S DOWNFALL GENRE: Korean supernatural actio…
+> 无限城 BGM 一响， 缘一 VS 百鬼 ⚔️💥 纯粹的战斗爽感！ Seedance 2.5 Prompt 🔽 【基础设定】 30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。 人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。 高速运动中保持人物、刀锋、命中位置清楚。 头…
 
-[<img src="https://media.goodcase.ai/cases/9c73e0c7672c.jpg" width="600" alt="天台少女以念力夺回项链、震慑霸凌者">](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="600" alt="缘一 VS 百鬼 ⚔️💥">](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2111459728216015154) | **发布:** 2026-10-17 | **热度:** 78
+**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2102586866302345657) | **发布:** 2026-09-23 | **热度:** 78
 
 <details>
-<summary><b>完整 prompt（275 行，点开展开）</b></summary>
+<summary><b>完整 prompt（313 行，点开展开）</b></summary>
 
 ```
-Never touch what's mine
+无限城 BGM 一响，
+缘一 VS 百鬼  ⚔️💥
+纯粹的战斗爽感！
 
-Seedance 2.5 on @TapNow_AI 
+Seedance 2.5 
+Prompt 🔽
 
-prompt
+【基础设定】
 
-CINEMATIC VIDEO GENERATION PROMPT
+30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。
 
-TITLE: THE ROOFTOP QUEEN'S DOWNFALL
+人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。
 
-GENRE: Korean supernatural action drama | Psychological revenge | Telekinetic powers | High-intensity confrontation
-FORMAT: 30 seconds | 16:9 widescreen | 1080p | 24 FPS | Ultra-photorealistic live action
-VISUAL STYLE
-Premium Korean action cinema blended with the spectacular supernatural destruction of Hollywood blockbusters.
+高速运动中保持人物、刀锋、命中位置清楚。
 
-Extremely realistic physical movements, intense confrontations, dramatic facial expressions, explosive invisible forces, believable gravity manipulation, violent environmental reactions, dynamic handheld camera movements, aggressive tracking shots, rapid whip pans, and breathtaking vertical cinematography.
-Realistic human skin texture, visible pores, natural facial imperfections, believable clothing physics, realistic hair movement, authentic shadows, and physically accurate object collisions.
-The heroine must appear completely human. No anime, cartoon physics, plastic skin, exaggerated CGI effects, magical circles, or superhero costumes.
-CHARACTER IDENTITY LOCK
-MAIN HEROINE — {{Image 1}}
+头发、衣摆、碎木、灰烬具有真实惯性与重量。
 
-A striking 22-year-old Korean university student. Preserve her exact reference facial identity, hairstyle, skin tone, body proportions, and appearance throughout every shot.
+整体色调以墨黑、灰青、旧木褐为主，人物暗红服装作为主要识别色。
 
-OUTFIT: Fitted black university blazer, crisp white collared shirt, black ribbon tie, short black pleated skirt, black knee-high socks, polished black loafers, and a delicate silver necklace with a small heart-shaped pendant.
+【参考图绑定】
+图片1= 战场建筑与空间结构参考。
+仅采用悬空木平台、栏杆、回廊、阶梯、大殿及上下交错建筑关系。
+图片2 = 敌群外观参考。
+提取不同体型、皮肤、眼睛、獠牙、长爪、破旧衣物与异化轮廓，扩展为高密度敌潮。
+图片3= 主角唯一身份与服装参考。
+锁定脸型、长发、暗红外衣、敞领、腰带、宽裤、绑腿与鞋履。
 
-PERSONALITY: Quiet, mysterious, emotionally restrained, fearless, cold, sarcastic, and extraordinarily powerful.
+【角色规则】
 
-She secretly possesses devastating telekinetic abilities, capable of manipulating gravity, suspending human bodies in midair, controlling hundreds of objects simultaneously, and generating enormous invisible shockwaves.
+全片始终只有一名主角。
+始终使用同一把实体刀，刀鞘固定腰侧。
 
-POWER ACTIVATION: Her irises develop a subtle electric-pink glow. The glow remains confined primarily to her eyes, producing delicate pink reflections along her eyelids. No laser beams, pink smoke, magical symbols, or exaggerated visual effects.
+右手主握，重斩时左手辅助同一刀柄。
 
-She activates her powers through small, controlled finger movements, subtle head tilts, or simply by staring at her target.
+人物面部克制，视线始终寻找下一处敌阵缺口。
 
-MAIN ANTAGONIST — THE ROOFTOP QUEEN
+所有攻击必须由真实身体动作驱动：
 
-A beautiful but arrogant 23-year-old wealthy Korean university student with long blonde hair, flawless fashionable makeup, an expensive cream-colored designer blazer, white blouse, short pleated skirt, luxury handbag, and high heels.
+蹬地 → 转髋 → 挥刀 → 回腕 → 连续落步。
 
-She is cruel, entitled, theatrical, and convinced that everyone fears her.
+高速移动过程中人物本体始终连续可追踪。
 
-SECONDARY CHARACTERS
+禁止瞬移。
 
-Three fashionable university students who accompany the bully, laughing, recording the confrontation, and encouraging the humiliation.
+禁止实体分身。
 
-SETTING
+禁止第二把刀。
 
-The rooftop of a prestigious modern Korean university during late afternoon.
+【敌群规则】
 
-A large concrete rooftop surrounded by protective railings, ventilation systems, rooftop air-conditioning units, loose plastic chairs, scattered papers, metal buckets, empty flowerpots, maintenance equipment, and a small rooftop utility structure with a tall concrete wall.
+敌人数百只。
 
-Beyond the rooftop, an expansive Seoul skyline stretches into the distance.
+中央平台、两侧回廊、远端阶梯与建筑阴影始终存在大量敌人。
 
-Strong natural daylight, slightly overcast skies, realistic wind, and dramatic atmospheric depth.
+前景使用肩背、头部、爪子压住画面边缘。
 
-No neon lighting or nighttime environment.
+中景多排敌人包围人物移动路线。
 
-00:00–00:04 — THE PUBLIC HUMILIATION
+背景敌群一直延伸至建筑深处。
 
-OPEN IMMEDIATELY with an aggressive handheld tracking shot.
+敌人必须持续：
 
-The wealthy blonde bully forcefully shoves the heroine backward against a concrete rooftop wall.
+扑入、夹击、绕侧、封路、补位。
 
-Three students stand nearby, laughing and filming.
+人物移动到哪里，新的敌群就从前方与侧翼压入。
 
-The heroine remains silent, staring directly into the bully's eyes.
+人物经过之后才允许留下局部缺口。
 
-The bully suddenly grabs the delicate silver necklace around the heroine's neck and tears it away.
+24秒之前禁止大面积清空战场。
 
-BULLY (mocking): "You really thought you belonged here?"
+【核心战斗逻辑】
 
-The heroine looks at the necklace in the bully's hand.
+模式：
 
-For the first time, her expression changes.
+流光割草 + 极限连招密度。
 
-Her jaw tightens.
+全片以：
 
-00:04–00:08 — THE UNFORGIVABLE MISTAKE
+高速穿群
+移动旋斩
+横扫
+反手斩
+斜劈
+短跃下劈
 
-The blonde bully walks toward the rooftop railing, dangling the necklace between two fingers.
+作为主要动作。
 
-HEROINE (quietly): "Give it back."
+目标约26组短连招。
 
-The bully laughs.
+每组动作必须：
 
-BULLY: "Then go get it."
+起手 → 接招 → 收招，无缝连接。
 
-She throws the necklace over the railing.
+上一刀的收刀方向，直接成为下一组攻击的起始方向。
 
-CAMERA WHIP-PANS toward the falling necklace.
+禁止攻击后站住重新摆姿势。
 
-EXTREME CLOSE-UP:
+禁止三刀打一组然后停顿。
 
-The silver necklace tumbles through the air beyond the rooftop.
+人物始终边打边移动。
+【空间规则】
+主平台远端阶梯 = 北。
+入口 = 南。
+左右两侧分别为东、西。
+人物移动路线：
 
-Suddenly—
+南部
+→ 东侧
+→ 中央
+→ 西侧
+→ 北部。
 
-IT STOPS.
+摄影机始终朝向尚未清除的敌群推进。
 
-The necklace freezes completely in midair, suspended several feet outside the railing.
+人物身前必须持续存在新的敌阵。
 
-The wind continues moving naturally around it.
+身后逐渐形成已经战斗过的路径。
 
-All laughter stops.
+空间、建筑地标、人物方向必须保持连续。
 
-00:08–00:12 — ELECTRIC-PINK AWAKENING
+【镜头结构】
 
-SMASH CUT to an extreme close-up of the heroine's face.
+全片10个镜头段。
 
-Her eyes slowly develop a subtle ELECTRIC-PINK GLOW.
+每段约3秒。
 
-A deep, barely audible supernatural pressure begins building.
+Shot 1｜0–3s
 
-Her hair moves backward in a sudden unnatural gust.
+Wide，高位斜俯视追踪。
 
-Loose papers tremble.
+人物直接高速切入右侧敌群。
 
-Metal buckets rattle.
+突入横斩
+→ 反手回切
+→ 移动回旋
+→ 再次斜切进入下一排。
 
-The rooftop chairs begin vibrating against the concrete.
+没有登场。
 
-The heroine slowly lifts her chin.
+没有拔刀。
 
-HEROINE (coldly): "You shouldn't have done that."
+没有蓄力。
+第一秒直接进入战斗。
+Shot 2｜3–6s
+FS，贴地侧前跟拍。
+人物沿东侧战区高速向北推进。
 
-The necklace begins floating back toward her.
+连续横扫、反手斩、斜劈。
 
-The bully takes a nervous step backward.
+敌人从正面和侧面不断补入。
 
-00:12–00:17 — THE GRAVITY REVERSAL
+摄影机倒退跟拍，同时保留前方大量敌群。
 
-The blonde bully suddenly charges toward the heroine, attempting to strike her.
+Shot 3｜6–9s
 
-WITHOUT MOVING—
+Wide，升高斜俯视追踪。
 
-The heroine raises one finger.
+人物从东侧切向平台中央。
 
-The bully instantly freezes in mid-stride.
+连续三组移动旋斩。
 
-Her shoes slowly lift from the rooftop.
+每一次旋转都改变人物所在位置。
 
-She rises three feet above the ground, arms flailing as she struggles against an invisible force.
+禁止原地转圈。
 
-Her long blonde hair and cream blazer move naturally in the wind.
+镜头展示人物身后逐渐形成的战斗路线。
 
-BULLY (terrified): "PUT ME DOWN!"
+Shot 4｜9–12s
 
-The heroine tilts her head.
+FS，低位跟进。
+人物进入中央最密集敌阵。
+横扫
+→ 反撩
+→ 斜切
+→ 上挑
+→ 踏进压斩
+→ 短跃下劈。
+上层回廊与地面敌人同时压入。
 
-HEROINE: "You wanted to be above everyone."
+人物必须同时应对上下两个方向。
 
-The bully rises another few feet, remaining safely suspended above the rooftop.
+Shot 5｜12–15s
 
-00:17–00:22 — THE ROOFTOP GRAVITY STORM
+FS，侧面短弧环绕。
 
-The heroine spreads her fingers.
+人物折向西侧。
 
-A powerful invisible gravitational field expands across the rooftop.
+移动旋斩
+→ 短跃
+→ 下劈
+→ 落地反手横扫。
 
-HUNDREDS OF LOOSE OBJECTS BEGIN LEVITATING.
+完成后立即进入下一群敌人。
 
-Metal buckets spin violently.
+禁止落地停顿。
 
-Plastic chairs rise and rotate.
+Shot 6｜15–18s
 
-Loose papers swirl through the air.
+Wide，斜俯视折返追踪。
 
-Flowerpots hover above the concrete.
+人物切进西侧敌阵后向北折返。
 
-Maintenance tools vibrate and float.
+连续横斩、反斩、回旋压斩。
 
-Dust and small debris form a massive rotating vortex around the heroine.
+新的敌群从西侧回廊持续补入。
 
-The three other students stumble backward in terror, grabbing the railing.
+北侧阶梯始终作为远处空间地标。
 
-The heroine stands completely motionless at the center.
+Shot 7｜18–21s
 
-Her electric-pink eyes glow with terrifying calmness.
+MS → FS。
 
-CAMERA ORBITS RAPIDLY around her, revealing the floating objects and the suspended bully.
+先短暂靠近人物。
 
-00:22–00:27 — THE IMPOSSIBLE WALL WALK
+展示一次真实的近距离攻防：
 
-The heroine slowly turns toward the tall concrete utility wall.
+敌人双爪封路。
 
-She takes one step forward.
+人物低身闪开攻击，同时转髋反切。
 
-Then another.
+随后镜头立即拉开。
 
-Without changing her body posture, she begins WALKING VERTICALLY UP THE WALL.
+继续展示范围穿群动作。
 
-Her shoes make realistic contact with the concrete as her personal gravity rotates ninety degrees.
+禁止变成单挑。
 
-Her hair and clothing respond naturally to the altered gravitational field.
+Shot 8｜21–24s
 
-The camera rotates with her movement, creating a breathtaking perspective shift.
+Wide。
+人物进入北部中央区域。
+沿敌潮内部连续折线移动。
+斜切进入
+→ 回旋扫开
+→ 反手穿出
+→ 再改变方向。
+东西两侧残余敌群继续向中心补位。
+Shot 9｜24–27s
 
-She walks several feet upward, now standing sideways relative to the rooftop.
+FS → Wide。
 
-The blonde bully remains suspended safely in midair, staring at her in absolute terror.
+人物切入最后的大规模密集敌阵。
 
-The heroine looks directly at her.
+横扫
+→ 反手斩
+→ 压斩
+→ 回旋
+→ 反撩
+→ 前冲斜劈。
 
-HEROINE (calmly): "Now look down."
+镜头逐渐拉开。
 
-The bully looks at the rooftop below and gasps.
+明确展示人物已经打通的路线，与前方最后敌阵的位置。
 
-00:27–00:30 — THE QUEEN FALLS
+Shot 10｜27–30s
 
-The heroine slowly closes her fist.
+FS → Wide。
+人物冲入北阶前最后一批敌人。
+27–28秒完成最后一组连续攻击。
+28秒后停止攻击。
 
-Every floating object freezes in place.
+刀尖自然随收势垂下。
 
-The bully descends rapidly but decelerates smoothly, landing safely on her knees on the rooftop.
+镜头缓慢后拉。
 
-The necklace floats gently into the heroine's open palm.
+展示整个已经清理完成的平台。
 
-She steps down the vertical wall, returning to normal gravity.
+主角成为画面中唯一站立的人物。
 
-Her electric-pink eyes fade back to their natural color.
+衣摆、长发、灰烬、碎屑继续自然运动。
 
-She puts the necklace back around her neck.
+【摄影规则】
 
-The bully remains kneeling, trembling.
+摄影机必须跟随：
 
-HEROINE (whispering): "Never touch what's mine."
+人物移动路线
+攻击方向
+敌群变化
+空间地标。
 
-FINAL SHOT:
+远景与全景负责展示敌潮规模。
 
-Low-angle close-up of the heroine walking confidently past the camera.
+中近景只用于短暂展示身体动作与刀锋。
 
-Behind her, every floating object drops simultaneously onto the rooftop with an enormous metallic crash.
+禁止长期贴脸。
 
-She doesn't look back.
+禁止把范围战斗拍成逐个单挑。
 
-CUT TO BLACK.
+禁止依靠疯狂切镜制造速度。
 
-CINEMATOGRAPHY
+速度必须来自：
 
-Aggressive handheld tracking during the confrontation.
+人物移动
+敌群运动
+身体动作
+前景掠过
+摄影机追踪。
 
-Extreme macro close-up of the necklace falling.
+【声音】
 
-Slow dramatic push-in during electric-pink eye activation.
+No dialogue.
 
-Sudden whip pans following telekinetic movements.
+No battle cries.
 
-Wide-angle shots revealing the rooftop gravity storm.
+No subtitles.
 
-Smooth rotating camera movement during the vertical wall walk.
+No background music.
 
-Low-angle hero framing during the final confrontation.
-
-Realistic motion blur, natural lighting, authentic skin textures, and physically convincing movement.
-
-SOUND DESIGN
-
-Natural rooftop wind, distant Seoul traffic, footsteps against concrete, realistic fabric movement, metallic rattling, frightened breathing, subtle supernatural pressure pulses, powerful bass impacts, and crashing rooftop equipment.
-Build tension through silence immediately before the heroine activates her powers.
-Korean dialogue with natural delivery and accurate lip synchronization.
-STRICT REQUIREMENTS
-Preserve the heroine's exact facial identity and outfit throughout.
-Her eyes must glow subtle electric pink only when activating telekinesis.
-The necklace must visibly stop falling in midair before returning to her.
-Telekinetic objects must respond with believable mass, momentum, and collisions.
-
-The bully must remain physically consistent and visibly frightened.
-
-The heroine must walk vertically along the concrete wall, not simply float beside it.
-
-The vertical wall walk must be shown clearly in a wide shot.
-
-No excessive glowing energy, lightning beams, magical symbols, or cartoon effects.
-
-The bully must remain safely above the rooftop and never fall over the edge.
-
-Maintain escalating tension, emotional intensity, supernatural dominance, and a spectacular final payoff.
+保留：
+脚步声
+挥刀声
+撞击声
+木构破裂声
+环境空间回响。
 ```
 
 </details>
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 荒废战场上的雷霆武者与空间崩裂
-
-> This Ai video is absolutely masterpiece 🤯 Created with Seedance 2.5 on @lovart_ai Prompt: 16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTI…
-
-[<img src="https://media.goodcase.ai/cases/0e7af393b7ea.jpg" width="600" alt="荒废战场上的雷霆武者与空间崩裂">](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itxabdullaa | **来源:** [原帖](https://x.com/itxabdullaa/status/2106702315239686628) | **发布:** 2026-10-04 | **热度:** 78
-
-<details>
-<summary><b>完整 prompt（19 行，点开展开）</b></summary>
-
-```
-16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTIC PHYSICS
-
-A dark-fantasy warrior with long disheveled black hair, cold expression, tattered gray-white scarf, shattered dark cloak and white-gray outfit awakens an abandoned battlefield.
-
-0–5s: A tiny white-blue spark triggers the entire environment. Stones vibrate, cracks spread, invisible pressure bends the air, and a colossal thunderstorm ring forms overhead.
-
-5–10s: Shadow distortions hunt him. He explodes into motion—wall runs, aerial redirects, lightning-charged impacts and massive shockwaves destroy the ruins. Black smoke afterimages trail every movement.
-
-10–15s: He moves across falling debris at impossible speed. Multiple motion afterimages surround the battlefield before collapsing back into him, compressing into one devastating lightning strike.
-
-15–20s: The battlefield transforms into a rotating storm cage. Debris, dust, fabric and lightning orbit him. Everything suddenly compresses inward as a giant spatial crack opens behind him.
-
-20–27s: He launches into the fractured dimension, moving through floating ruins with punches, elbows and aerial strikes. All accumulated energy converges into a tiny, hyper-dense white-blue thunderstorm sphere.
-
-27–30s: Absolute silence. One spark. His eyes open. He unleashes the WORLD-SPLITTING STRIKE—a colossal white-blue shockwave tears through reality, followed by a black-and-white spatial implosion.
-
-Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
-
-STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 三个孩子寻找雪下的神秘车站
 
@@ -1248,37 +1249,6 @@ Format: 9:16 vertical, high resolution, smooth animation, clean composition, no 
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-d7d437c4a8b9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Classic Mustang Golden Hour Drive
-
-> A cinematic commercial-style prompt of a woman driving a vintage Mustang through a city at sunset, featuring elegant lighting and tracking shots.
-
-[<img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="600" alt="Classic Mustang Golden Hour Drive">](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2085277106960007654) | **发布:** 2026-08-06 | **热度:** 76
-
-**稳定度：** 81/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.3 分) · [产物](https://media.goodcase.ai/retests/classic-mustang-golden-hour-drive/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
-
-```
-Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang coupe through a tree-lined city avenue at golden hour. She wears a patterned silk headscarf, large brown sunglasses, a brown blazer, and large statement rings (one yellow diamond, one emerald).
-
-Stylish slow-motion tracking shots of the car speeding past buildings and traffic. Close-up of her focused face, sunglasses catching the golden light. Close-up of her hands on the wooden steering wheel, rings glinting. Rear-view mirror reflection of her eyes. Her jeweled hand resting on the car door, wind catching a loose strand of hair from the headscarf.
-
-A red traffic light glowing as the Mustang idles, engine humming, heat shimmer off the hood. A motorcycle with a passenger weaves through traffic beside her. Wide low-angle shot of the Mustang's grille and headlights as it accelerates past camera. A bearded man in a black beanie stands on the sidewalk, watching the Mustang drive away into the sunlit street, his gaze lingering.
-
-New scenes: A brief shot of pedestrians and café awnings blurring past in the background bokeh. An aerial/drone-style shot pulling back to reveal the full tree-lined avenue as the Mustang weaves gently between light and shadow from the trees. A final slow-motion hero shot — the Mustang turning a corner into direct sunset flare, silhouette and lens flare dominating the frame, her profile briefly lit gold before the light overtakes the frame.
-
-Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmosphere, high-end commercial style, anamorphic lens feel, shallow depth of field, watermark-free.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 湿冷地铁站台格斗
 
 > When the subway platform turns into a full-blown action scene. 🥊🚇🎬 Created with Seedance 2.5 Prompt:Create a 10-second cinematic action sequence set inside a…
@@ -1327,88 +1297,6 @@ End with survivors huddled together beneath flashing red emergency lights, prote
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-preserve-the-exact-face-hairstyle-golden-cream-dress-tattoos-necklace-and-8ff953bfc56e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 她的秋日都市漫游
-
-> city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
-
-[<img src="https://media.goodcase.ai/cases/b3972f1a8b26.jpg" width="600" alt="她的秋日都市漫游">](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2100103235566797039) | **发布:** 2026-09-16 | **热度:** 76
-
-<details>
-<summary><b>完整 prompt（64 行，点开展开）</b></summary>
-
-```
-SCENE CONTEXT
-A 20-year-old East Asian woman spends an autumn day moving through a big city — leaving her apartment, riding the subway, grabbing coffee from a cart, cutting through a park in falling leaves, browsing a bookstore, catching golden hour on a rooftop, and riding home at night — filmed as a candid, mixed-format day-in-the-city vlog, 30 seconds total.
-
-ACTIVE REFERENCES
-@image1: 20-year-old East Asian woman, soft round face, warm ivory skin, dark brown hair in a loose high bun with face-framing strands, natural dewy makeup, gentle expressive eyes, wearing a wine-burgundy ribbed knit off-shoulder sweater and a small silver flower pendant necklace. 100% matches the reference throughout every shot.
-
-FORMAT MODE
-Timed multishot. HARD CUTs only at the stated seconds; camera does not cut on its own between them. Mixed scene styles — not every shot has dialogue; some are silent candid b-roll.
-
-0.0s–4.0s — HARD CUT
-4.0s–8.0s — HARD CUT
-8.0s–12.0s — HARD CUT
-12.0s–17.0s — HARD CUT
-17.0s–21.0s — HARD CUT
-21.0s–26.0s — HARD CUT
-26.0s–30.0s — end
-
-OPTICS
-Shot 1: 63° wide, POV-adjacent handheld. Shot 2: 47° neutral, static-ish lean. Shot 3: 29° portrait-compression, quick transactional. Shot 4: 18° natural-portrait, slow-mo detail. Shot 5: 29° portrait-compression, candid unaware angle. Shot 6: 47° neutral, two-shot-adjacent solo toast. Shot 7: 18° natural-portrait, close reflective. No drift mid-segment.
-
-CAMERA
-Handheld throughout with natural 1–2cm tremor. Shot 1: phone-height POV-style, walking at 4 km/h. Shot 2: camera rests low against a pole, minimal movement, observational. Shot 3: quick whip from hand to face and back. Shot 4: slowed to half real-time, camera drifts sideways at 1 km/h following falling leaves. Shot 5: camera appears to catch her off-guard, slight delay before she notices it. Shot 6: static-ish, propped, she moves into frame. Shot 7: static through car window glass, reflections passing over her face.
-
-ACTION
-0.0s–4.0s: She steps out of an apartment building onto a leaf-scattered sidewalk, adjusting her bag strap, glancing at her phone, morning light low and warm through bare branches. She looks up at the camera briefly, half-smiles: "Okay — let's do this."
-
-4.0s–8.0s: Inside a subway car, she leans against a pole, earbuds in, watching the platform lights blur past the window, city sounds muffled and rhythmic. No dialogue — just her quiet, unbothered expression, occasional sway with the train's motion.
-
-8.0s–12.0s: At a small street coffee cart, steam rising from the machine, she hands over cash, receives a paper cup, wraps both hands around it immediately for warmth. Brief exchange, she says only: "Thanks, you're the best."
-
-12.0s–17.0s: Slow-motion through a park path thick with falling amber leaves, she tips her head back mid-step and turns once, leaves catching in her hair and sweater, genuine unguarded laugh, no spoken line — just breath and laughter audible.
-
-17.0s–21.0s: Inside a small bookstore, she runs a finger along a shelf, pulls a book halfway out, flips a few pages, unaware of the camera, soft window light across her face, ambient store quiet. No dialogue.
-
-21.0s–26.0s: On a rooftop at golden hour, city skyline hazy behind her, she raises a takeaway coffee cup slightly toward the lens like a small toast, warm low sun rim-lighting her hair, says only: "To days like this."
-
-26.0s–30.0s: Inside a taxi at night, warm amber streetlights sliding across the window glass and over her face in soft passing bands, she rests her head against the seat, tired contented smile, looks toward the lens and says: "Best day, hands down."
-
-PERFORMANCE
-Restrained, natural reactions — no performed excitement. Shots 2 and 5 specifically read as candid/unaware of the camera. Living eyes with catch-light in every close shot, visible breath in shot 1, natural skin and fabric texture throughout.
-
-PHYSICS
-Leaves fall and scatter with real weight and drift, catching briefly in hair and sweater fibers before falling away. Coffee steam rises and dissipates naturally. Streetlight bands move across her face and the window glass with correct parallax as the car moves. Train sway shifts her weight subtly and believably.
-
-LIGHTING
-Shot 1: low warm morning sun through bare branches, soft shadow lines. Shot 2: cool fluorescent subway light with warm practicals flickering past outside. Shot 3: overcast daylight, soft even key. Shot 4: dappled warm sun through park canopy, backlit leaf edges. Shot 5: soft window-diffused daylight, low contrast. Shot 6: warm low-angle golden hour key, strong rim light, soft haze. Shot 7: warm amber sodium streetlight passing bands only, otherwise dark interior.
-
-COLOR GRADE
-Warm autumn palette — amber, rust, and soft gold tones with muted city grays. Warm amber streetlight at night, never neon or saturated colored signage anywhere in frame. No cool-cyan or magenta tint.
-
-WARDROBE
-Wine-burgundy ribbed knit off-shoulder sweater and silver flower pendant necklace, unchanged and clearly visible in every shot. A loosely draped scarf or open coat may sit over it in the subway and taxi shots without covering it.
-
-AUDIO
-Shot 1: quiet street ambience, rustling leaves. Shot 2: muffled train rumble, distant announcement, no dialogue. Shot 3: espresso machine hiss, brief exchange. Shot 4: crunch of leaves, natural laughter, no line. Shot 5: quiet store ambience, page-turning, no dialogue. Shot 6: distant city hum, wind. Shot 7: engine hum, soft radio murmur under her line.
-
-STYLE
-Authentic day-in-the-life vlog cinematography, dreamy 35mm film aesthetic, fine natural grain, realistic autofocus hunting, mix of talking and silent candid shots for a lived-in, unscripted feel.
-
-OUTPUT SETTINGS
-4K, 24fps, 35mm grain, real-time except shot 4 (half real-time slow motion), realistic handheld motion, no neon or saturated signage in the color palette anywhere.
-
-POSITIVE LOCKS
-Same woman's face and build in every shot, matching @image1 exactly. Wine-burgundy sweater and silver necklace stay visible in every shot. Hair stays in the same loose high bun throughout. Cuts only at stated seconds, camera does not cut on its own. Shots 2 and 5 stay dialogue-free and candid. Warm amber tones hold throughout — no neon, no cool-cyan tint anywhere.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 沙发上相拥亲吻的萌兔
 
@@ -1775,6 +1663,37 @@ Multi-shot sequence with hard cuts between shots. Keep the same characters and v
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-44b9dbf5729c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Classic Mustang Golden Hour Drive
+
+> A cinematic commercial-style prompt of a woman driving a vintage Mustang through a city at sunset, featuring elegant lighting and tracking shots.
+
+[<img src="https://media.goodcase.ai/cases/5144aead9488.jpg" width="600" alt="Classic Mustang Golden Hour Drive">](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2085277106960007654) | **发布:** 2026-08-06 | **热度:** 75
+
+**稳定度：** 81/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (81.3 分) · [产物](https://media.goodcase.ai/retests/classic-mustang-golden-hour-drive/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（9 行，点开展开）</b></summary>
+
+```
+Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang coupe through a tree-lined city avenue at golden hour. She wears a patterned silk headscarf, large brown sunglasses, a brown blazer, and large statement rings (one yellow diamond, one emerald).
+
+Stylish slow-motion tracking shots of the car speeding past buildings and traffic. Close-up of her focused face, sunglasses catching the golden light. Close-up of her hands on the wooden steering wheel, rings glinting. Rear-view mirror reflection of her eyes. Her jeweled hand resting on the car door, wind catching a loose strand of hair from the headscarf.
+
+A red traffic light glowing as the Mustang idles, engine humming, heat shimmer off the hood. A motorcycle with a passenger weaves through traffic beside her. Wide low-angle shot of the Mustang's grille and headlights as it accelerates past camera. A bearded man in a black beanie stands on the sidewalk, watching the Mustang drive away into the sunlit street, his gaze lingering.
+
+New scenes: A brief shot of pedestrians and café awnings blurring past in the background bokeh. An aerial/drone-style shot pulling back to reveal the full tree-lined avenue as the Mustang weaves gently between light and shadow from the trees. A final slow-motion hero shot — the Mustang turning a corner into direct sunset flare, silhouette and lens flare dominating the frame, her profile briefly lit gold before the light overtakes the frame.
+
+Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmosphere, high-end commercial style, anamorphic lens feel, shallow depth of field, watermark-free.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/classic-mustang-golden-hour-drive?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 少女以异能摧毁坦克军团
 
 > ⚡They came with an army. She came with something darker.💫 Created with Seedance 2.5 Prompt: GLOBAL CONTINUITY: Photorealistic cinematic 16:9. Keep the EXACT sa…
@@ -1852,6 +1771,88 @@ Create a clean, premium 8-second fashion infographic animation based on the outf
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 她的秋日都市漫游
+
+> city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
+
+[<img src="https://media.goodcase.ai/cases/b3972f1a8b26.jpg" width="600" alt="她的秋日都市漫游">](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2100103235566797039) | **发布:** 2026-09-16 | **热度:** 75
+
+<details>
+<summary><b>完整 prompt（64 行，点开展开）</b></summary>
+
+```
+SCENE CONTEXT
+A 20-year-old East Asian woman spends an autumn day moving through a big city — leaving her apartment, riding the subway, grabbing coffee from a cart, cutting through a park in falling leaves, browsing a bookstore, catching golden hour on a rooftop, and riding home at night — filmed as a candid, mixed-format day-in-the-city vlog, 30 seconds total.
+
+ACTIVE REFERENCES
+@image1: 20-year-old East Asian woman, soft round face, warm ivory skin, dark brown hair in a loose high bun with face-framing strands, natural dewy makeup, gentle expressive eyes, wearing a wine-burgundy ribbed knit off-shoulder sweater and a small silver flower pendant necklace. 100% matches the reference throughout every shot.
+
+FORMAT MODE
+Timed multishot. HARD CUTs only at the stated seconds; camera does not cut on its own between them. Mixed scene styles — not every shot has dialogue; some are silent candid b-roll.
+
+0.0s–4.0s — HARD CUT
+4.0s–8.0s — HARD CUT
+8.0s–12.0s — HARD CUT
+12.0s–17.0s — HARD CUT
+17.0s–21.0s — HARD CUT
+21.0s–26.0s — HARD CUT
+26.0s–30.0s — end
+
+OPTICS
+Shot 1: 63° wide, POV-adjacent handheld. Shot 2: 47° neutral, static-ish lean. Shot 3: 29° portrait-compression, quick transactional. Shot 4: 18° natural-portrait, slow-mo detail. Shot 5: 29° portrait-compression, candid unaware angle. Shot 6: 47° neutral, two-shot-adjacent solo toast. Shot 7: 18° natural-portrait, close reflective. No drift mid-segment.
+
+CAMERA
+Handheld throughout with natural 1–2cm tremor. Shot 1: phone-height POV-style, walking at 4 km/h. Shot 2: camera rests low against a pole, minimal movement, observational. Shot 3: quick whip from hand to face and back. Shot 4: slowed to half real-time, camera drifts sideways at 1 km/h following falling leaves. Shot 5: camera appears to catch her off-guard, slight delay before she notices it. Shot 6: static-ish, propped, she moves into frame. Shot 7: static through car window glass, reflections passing over her face.
+
+ACTION
+0.0s–4.0s: She steps out of an apartment building onto a leaf-scattered sidewalk, adjusting her bag strap, glancing at her phone, morning light low and warm through bare branches. She looks up at the camera briefly, half-smiles: "Okay — let's do this."
+
+4.0s–8.0s: Inside a subway car, she leans against a pole, earbuds in, watching the platform lights blur past the window, city sounds muffled and rhythmic. No dialogue — just her quiet, unbothered expression, occasional sway with the train's motion.
+
+8.0s–12.0s: At a small street coffee cart, steam rising from the machine, she hands over cash, receives a paper cup, wraps both hands around it immediately for warmth. Brief exchange, she says only: "Thanks, you're the best."
+
+12.0s–17.0s: Slow-motion through a park path thick with falling amber leaves, she tips her head back mid-step and turns once, leaves catching in her hair and sweater, genuine unguarded laugh, no spoken line — just breath and laughter audible.
+
+17.0s–21.0s: Inside a small bookstore, she runs a finger along a shelf, pulls a book halfway out, flips a few pages, unaware of the camera, soft window light across her face, ambient store quiet. No dialogue.
+
+21.0s–26.0s: On a rooftop at golden hour, city skyline hazy behind her, she raises a takeaway coffee cup slightly toward the lens like a small toast, warm low sun rim-lighting her hair, says only: "To days like this."
+
+26.0s–30.0s: Inside a taxi at night, warm amber streetlights sliding across the window glass and over her face in soft passing bands, she rests her head against the seat, tired contented smile, looks toward the lens and says: "Best day, hands down."
+
+PERFORMANCE
+Restrained, natural reactions — no performed excitement. Shots 2 and 5 specifically read as candid/unaware of the camera. Living eyes with catch-light in every close shot, visible breath in shot 1, natural skin and fabric texture throughout.
+
+PHYSICS
+Leaves fall and scatter with real weight and drift, catching briefly in hair and sweater fibers before falling away. Coffee steam rises and dissipates naturally. Streetlight bands move across her face and the window glass with correct parallax as the car moves. Train sway shifts her weight subtly and believably.
+
+LIGHTING
+Shot 1: low warm morning sun through bare branches, soft shadow lines. Shot 2: cool fluorescent subway light with warm practicals flickering past outside. Shot 3: overcast daylight, soft even key. Shot 4: dappled warm sun through park canopy, backlit leaf edges. Shot 5: soft window-diffused daylight, low contrast. Shot 6: warm low-angle golden hour key, strong rim light, soft haze. Shot 7: warm amber sodium streetlight passing bands only, otherwise dark interior.
+
+COLOR GRADE
+Warm autumn palette — amber, rust, and soft gold tones with muted city grays. Warm amber streetlight at night, never neon or saturated colored signage anywhere in frame. No cool-cyan or magenta tint.
+
+WARDROBE
+Wine-burgundy ribbed knit off-shoulder sweater and silver flower pendant necklace, unchanged and clearly visible in every shot. A loosely draped scarf or open coat may sit over it in the subway and taxi shots without covering it.
+
+AUDIO
+Shot 1: quiet street ambience, rustling leaves. Shot 2: muffled train rumble, distant announcement, no dialogue. Shot 3: espresso machine hiss, brief exchange. Shot 4: crunch of leaves, natural laughter, no line. Shot 5: quiet store ambience, page-turning, no dialogue. Shot 6: distant city hum, wind. Shot 7: engine hum, soft radio murmur under her line.
+
+STYLE
+Authentic day-in-the-life vlog cinematography, dreamy 35mm film aesthetic, fine natural grain, realistic autofocus hunting, mix of talking and silent candid shots for a lived-in, unscripted feel.
+
+OUTPUT SETTINGS
+4K, 24fps, 35mm grain, real-time except shot 4 (half real-time slow motion), realistic handheld motion, no neon or saturated signage in the color palette anywhere.
+
+POSITIVE LOCKS
+Same woman's face and build in every shot, matching @image1 exactly. Wine-burgundy sweater and silver necklace stay visible in every shot. Hair stays in the same loose high bun throughout. Cuts only at stated seconds, camera does not cut on its own. Shots 2 and 5 stay dialogue-free and candid. Warm amber tones hold throughout — no neon, no cool-cyan tint anywhere.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-20-year-old-east-asian-woman-spends-an-autumn-day-moving-through-a-big-city-b085b8a1bb11?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 京都秋日慢游旅行日志
 
@@ -2298,20 +2299,6 @@ Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles,
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2ff9862a313d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 落日公路上粉发少女伸手向星空
-
-> My poor boy is left alone... 😪😪 Seedance 2.5 on @dreamina_ai #dreamina #dreaminacreators prompt Create an emotionally breathtaking, ultra-realistic 30-second …
-
-[<img src="https://media.goodcase.ai/cases/ef103e1ce15d.jpg" width="600" alt="落日公路上粉发少女伸手向星空">](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2118685486122520712) | **发布:** 2026-11-06 | **热度:** 73
-
-```
-Cartoon appearance, anime style, artificial skin, distorted faces, changing hair color, black hair on the female character, inconsistent identities, extra fingers, deformed hands, unnatural movements, flickering objects, abrupt transitions, unrealistic particle physics, excessive motion blur, low-resolution textures, text overlays, watermarks, and exaggerated facial expressions.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-cartoon-appearance-anime-style-artificial-skin-distorted-faces-changing-hai-473dec637d64?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 满月下浮空神殿的双武士对决
 
@@ -3584,6 +3571,76 @@ Keep the Mickey Mouse ears headband clearly visible and consistent throughout th
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-a-young-woman-wearing-a-cute-stylish-amusement-park-outfit-with-a-clearly-visi-6b964aaecca8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 粉卫衣少女的首尔街头时尚
+
+> Dreamy Korean fashion bringing pastel beauty to everyday street moments. Made with Seedance 2.5 Prompt: Create an ultra-photorealistic, cinematic 30-second Kore…
+
+[<img src="https://media.goodcase.ai/cases/ec31b9f58601.jpg" width="600" alt="粉卫衣少女的首尔街头时尚">](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-cinematic-30-second-korean-street-fashion-lifes-4c505edaba21?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ZaidVex | **来源:** [原帖](https://x.com/ZaidVex/status/2122541444124885193) | **发布:** 2026-11-17 | **热度:** 70
+
+<details>
+<summary><b>完整 prompt（52 行，点开展开）</b></summary>
+
+```
+Create an ultra-photorealistic, cinematic 30-second Korean street-fashion lifestyle video in vertical 9:16 format, featuring a beautiful young Korean woman with long, flowing black hair, soft natural bangs, delicate facial expressions, and silver hoop earrings.
+
+Character & Outfit (Keep Consistent):
+
+- Oversized pastel pink zip-up hoodie with distinctive navy horizontal stripe and bow-like detailing.
+- White fitted inner top.
+- Dark charcoal-grey pleated mini skirt.
+- White knee-high socks.
+- White chunky sneakers.
+- Long, naturally flowing black hair.
+
+Scene-by-Scene Sequence:
+
+Scene 1 – Beautiful Close-up: Begin with an extreme close-up of her face. She looks gently toward the camera as loose strands of hair move naturally in the breeze.
+
+Scene 2 – Fashion Portrait: Show her standing against a modern grey stone wall with her arms crossed, wearing a relaxed expression.
+
+Scene 3 – Flower Shop: Capture her looking sideways toward a beautiful storefront with warm reflections and soft pink flowers.
+
+Scene 4 – Outfit Showcase: Cinematic close-up of her pink hoodie, navy detailing, white inner top, pleated skirt, and complete outfit.
+
+Scene 5 – Walking in Seoul: Full-body tracking shot of her walking along a beautiful Korean city sidewalk with natural sunlight and urban architecture.
+
+Scene 6 – Natural Portrait: Close-up of her smiling softly while sunlight illuminates her face and hair.
+
+Scene 7 – Street Fashion: Show her walking toward the camera with both hands inside her hoodie pockets.
+
+Scene 8 – Hair Movement: Side-profile shot as she turns her head and her long black hair flows naturally.
+
+Scene 9 – Fashion Poses: She stands casually against a stone wall, changes her pose, and looks directly into the camera.
+
+Scene 10 – Sitting Portrait: Capture her sitting comfortably with her hands gently placed beneath her chin, smiling naturally.
+
+Scene 11 – Final Details: Close-up of her white sneakers walking up outdoor stone steps, followed by a shot of her holding a smartphone and capturing a photograph.
+
+CINEMATIC QUALITY:
+
+- Ultra-photorealistic 4K video.
+- Authentic Korean fashion editorial.
+- Natural daylight and soft cinematic shadows.
+- Realistic skin texture and facial details.
+- Shallow depth of field.
+- Beautiful background bokeh.
+- Smooth handheld camera movements.
+- Mix of close-ups, medium shots, and full-body shots.
+- Natural walking and realistic body movements.
+- Soft pastel pink color grading.
+- Professional DSLR cinematography.
+
+IMPORTANT: Maintain exactly the same character identity, facial features, hairstyle, outfit, and proportions throughout every scene. Avoid facial distortion, clothing changes, artificial movements, and unrealistic transitions.
+
+MOOD: Dreamy Korean street-fashion aesthetic, youthful lifestyle photography, soft romantic atmosphere, and authentic cinematic realism.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-photorealistic-cinematic-30-second-korean-street-fashion-lifes-4c505edaba21?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 夜间女特工从望远镜改为展示眼罩
 
 > A good spy movie look is all about the details. The wrong prop, an unsuitable background, or a visual element that doesn't fit the campaign can make the agent's…
@@ -4362,22 +4419,6 @@ CONTINUITY: Preserve all reference identities, costumes, weapons and environment
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-engine-directive-create-an-exactly-30-second-16-9-photorealistic-hollywood-m-7a43e4f446e8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 粉发女巫与橘猫茶会遇火龙
-
-> The Dragon Picked the Wrong Tea Party. Seedance 2.5 on @ElevenLabs @ElevenCreative #ElevenLabsAmbassador Prompt Create an ultra-photorealistic, high-budget Holl…
-
-[<img src="https://media.goodcase.ai/cases/d73e0015be63.jpg" width="600" alt="粉发女巫与橘猫茶会遇火龙">](https://goodcase.ai/cases/seedance-2-5-no-cartoon-visuals-no-anime-style-no-artificial-skin-no-distorted-anatomy-n-bdbbdc8b205c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2119481547997028736) | **发布:** 2026-11-08 | **热度:** 69
-
-```
-No cartoon visuals, no anime style, no artificial skin, no distorted anatomy, no extra limbs, no changing faces, no inconsistent cat appearance, no floating objects without magical justification, no unrealistic dragon physics, no visual flickering, no abrupt scene changes, no text, no subtitles, and no watermark.
-
-FINAL CREATIVE DIRECTION: Deliver an adorable yet spectacular fantasy comedy with a peaceful opening, a terrifying dragon reveal, an unexpected magical cookie battle, and a hilarious ending. The black cat must remain the unexpected hero of the entire sequence.
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-no-cartoon-visuals-no-anime-style-no-artificial-skin-no-distorted-anatomy-n-bdbbdc8b205c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 直升机追踪洛杉矶街头越野摩托特技骑手
 
 > Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
@@ -4542,39 +4583,6 @@ cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands,
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-title-what-falls-from-the-plum-tree-d602a208ed88?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 首尔夏夜的邻里散步
-
-> Baddie is back 🥰 Seedance 2.5 Prompt : Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older …
-
-[<img src="https://media.goodcase.ai/cases/2d6299d5c5f8.jpg" width="600" alt="首尔夏夜的邻里散步">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **来源:** [原帖](https://x.com/AIwithkhan/status/2099849272347021541) | **发布:** 2026-09-15 | **热度:** 69
-
-<details>
-<summary><b>完整 prompt（15 行，点开展开）</b></summary>
-
-```
-Create a 30-second ultra-realistic personal home-video of a young Korean woman during a warm summer evening in an older Seoul residential neighborhood. Use the attached image as the character reference and keep her face, long black messy side ponytail, pastel-blue fitted top, loose cream pants, black sneakers, and silver necklace consistent.
-
-She walks out of her home carrying a simple canvas tote bag, locks the door, adjusts her ponytail, and starts walking casually down the quiet street.
-
-She notices a small group of schoolchildren walking home from school and warmly smiles at them. She opens her tote bag, takes out a few individually wrapped candies, and happily offers them to the children. They thank her with cheerful smiles before continuing home.
-
-A few steps later, she notices a friendly neighborhood cat sitting beside a wall. She crouches down, gently pets the cat and scratches it behind the ears, smiling warmly before standing up.
-
-She continues walking, casually adjusts her messy ponytail, and fixes a few loose strands around her face.
-
-She then spots a small roadside drink cart and stops to buy a fresh coconut drink. She takes the drink with a straw and walks home slowly while sipping it through the straw, looking relaxed and happy.
-
-Use raw early-2000s consumer DV-camera footage: handheld shake, imperfect framing, autofocus hunting, exposure shifts, soft detail, mild noise, natural motion blur and occasional awkward zooms.
-
-Natural Seoul neighborhood ambience only — footsteps, children chatting, bicycle bells, summer insects, distant traffic, cart sounds and leaves moving in the breeze. No music, no narration, no dramatic events, no polished commercial cinematography.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-personal-home-video-of-a-young-korean-woman-b300f1e6166d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 雨夜涩谷十字路口近身格斗
 
 > Shibuya Nightmare Crossing 🌧️⚡ @prmptbio Surrounded under glowing Shibuya neon lights, operative Kenji takes on two ruthless enforcers in a non-stop 30-second …
@@ -4671,6 +4679,124 @@ A 15-second ultra-realistic cinematic martial arts battle inspired by classic Ho
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-15-second-ultra-realistic-cinematic-martial-arts-battle-inspired-by-classic-h-bf44f11cdc60?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 古罗马角斗士在竞技场逆转获胜
+
+> One warrior, one arena, one fight for glory. Experience epic gladiator battles, cinematic action, and realistic visuals with Seedance 2.5 on @ImagineArt_X Promp…
+
+[<img src="https://media.goodcase.ai/cases/f88a396431c5.jpg" width="600" alt="古罗马角斗士在竞技场逆转获胜">](https://goodcase.ai/cases/seedance-2-5-scene-ancient-roman-amphitheater-at-golden-hour-packed-with-50-000-cheering-s-989ccb2d8ac8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2108921521142141421) | **发布:** 2026-10-10 | **热度:** 68
+
+<details>
+<summary><b>完整 prompt（33 行，点开展开）</b></summary>
+
+```
+ROMAN GLADIATOR: FIGHT FOR GLORY
+
+Duration: 30 seconds | Format: 16:9, 24 FPS | Style: Photorealistic Hollywood cinema, ARRI ALEXA LF, anamorphic lenses, realistic physics, natural skin texture, fine film grain.
+
+SCENE: Ancient Roman amphitheater at golden hour, packed with 50,000 cheering spectators. A king and queen watch from a shaded imperial box. Golden sunlight comes consistently from screen-left, illuminating dusty sand, bronze armor, and flying particles.
+
+CHARACTERS:
+
+- Main character (@image1): Preserve 100% the reference face, hairstyle, skin tone, and athletic build. Dark-red wool tunic, leather chest harness, bronze shoulder guard, bracers, greaves, sandals, gladius in right hand, round bronze shield on left arm.
+- ENEMY: One-and-a-half heads taller, heavily muscled, scarred torso, polished bronze helmet with crimson crest, iron arm guard, broad sword, rectangular wooden shield with faded red emblem.
+- KING & QUEEN: King with grey-streaked beard, laurel wreath, purple-and-gold toga. Queen with dark braided updo, ivory-and-gold stola, gold jewelry.
+
+TIMED MULTISHOT — SIX SHOTS, HARD CUTS ONLY AT 5, 10, 15, 20, AND 25 SECONDS.
+
+SHOT 1 | 0–5s | REAL-TIME: High crane descends into the arena. The king raises his hand, then signals the duel with a horn blast. The hero and enemy raise their shields and approach from opposite sides.
+
+SHOT 2 | 5–10s | 2× SPEED: Ground-level handheld orbit. Both warriors charge and clash swords, producing sparks. The hero parries, ducks, sidesteps, and counters. The enemy lands a powerful shield bash, forcing the hero backward.
+
+SHOT 3 | 10–15s | 40% SLOW MOTION: The enemy smashes the hero's shield, splintering it. The hero drops his gladius and falls onto the sand. The enemy steps over him and raises his sword for the finishing strike. Rack focus from the fallen weapon to the hero's determined face.
+
+SHOT 4 | 15–20s | REAL-TIME: The enemy swings downward. The hero catches his forearm, stopping the blade inches from his throat. He strikes the enemy's ribs with an elbow, headbutts the bronze visor, then punches him hard. The enemy staggers backward and drops his shield.
+
+SHOT 5 | 20–25s | 40% SLOW MOTION, CLIMAX: The hero retrieves his gladius, rises, and charges. He slides beneath the enemy's horizontal sword swing, slashes across his torso, and drives his shoulder into the enemy's chest. The giant flies backward three meters, his sword spinning away, then crashes onto the sand in a dramatic dust explosion.
+
+SHOT 6 | 25–30s | REAL-TIME: The exhausted, bloodied hero stands over the motionless enemy and raises his gladius toward the imperial box, roaring triumphantly. The king rises in approval, the queen smiles, and the camera cranes upward and pulls back to reveal the roaring amphitheater.
+
+CAMERA & PHYSICS: Distinct cinematic framing for every shot, controlled camera movement, realistic sword impacts, natural body weight, flying sparks, falling wood splinters, authentic sand displacement, consistent contact shadows, stable faces and anatomy.
+
+LIGHTING & COLOR: Low golden sun from screen-left, bronze highlights, ochre sand, deep blue shadows, crimson accents, purple royal toga, volumetric dust, cinematic HDR and filmic highlights.
+
+AUDIO: Continuous crowd roar, horn blast, metallic sword clashes, shield impacts, grunts, accelerating taiko percussion, dramatic strings and choir at the climax, triumphant brass ending.
+
+CONTINUITY LOCKS: @image1 remains identical in every shot. Maintain the same outfits, faces, weapons, lighting direction, and arena layout. Shield intact until 10s, broken afterward. Enemy's shield drops by 20s; he retains his helmet and sword until the climax, then lies motionless from 25–30s. Only two fighters on the arena floor. Every shot fills its full five seconds with one consistent playback speed.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-scene-ancient-roman-amphitheater-at-golden-hour-packed-with-50-000-cheering-s-989ccb2d8ac8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 夕阳下黑色轿车的追逐与枪战
+
+> Action 🔥 Fast cars, cinematic shots, and intense action. All brought to life with Seedance 2.5. Exploring the next level of AI video generation with @ImagineAr…
+
+[<img src="https://media.goodcase.ai/cases/6170bf3f7274.jpg" width="600" alt="夕阳下黑色轿车的追逐与枪战">](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **来源:** [原帖](https://x.com/Xaroon_x/status/2107838928992489968) | **发布:** 2026-10-07 | **热度:** 68
+
+<details>
+<summary><b>完整 prompt（35 行，点开展开）</b></summary>
+
+```
+*30 seconds | 16:9 | image1 = Main Character
+
+STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic ARRI ALEXA LF look, real stunt photography, natural motion blur, light film grain. Golden-hour sun from camera-left throughout. Slow motion only at the two crashes.
+
+**CHARACTERS:** Hero = exact character from @image1 (same face, hair, build, clothing in every shot). His car: black modern Mercedes sports sedan. Chasers: red sports coupe and matte-grey SUV. Black rifle on the passenger seat.
+
+**LOCATION:** Packed city road with buses, trucks and overpasses, opening onto a long highway at golden hour.
+
+**00:00–00:03** Low rear-quarter chase shot, 28mm, fast tracking. The Mercedes weaves at high speed through dense traffic, overtaking cars, buses and trucks. The red coupe and grey SUV are both clearly visible behind it, also overtaking through traffic. Hero faintly visible through the rear windshield.
+
+**00:03–00:05** Close-up, 85mm, handheld push-in. @image1 hero grips the wheel, jaw tense, eyes flick to the mirror.
+
+**00:05–00:08** Low front-quarter tracking, 28mm. The Mercedes slips through a gap between a bus and a box truck by inches, then whip pan.
+
+**00:08–00:11** Side-profile tracking, 35mm. The Mercedes launches off a raised ramp, goes airborne and lands in a shower of sparks, cones scattering.
+
+**00:11–00:14** SLOW MOTION, low rear three-quarter, 35mm, slow orbit. The hero swerves clear and the red coupe clips a truck, spins and rolls once. The whole crash stays fully in frame, clear and sharp, with glass and debris glittering in the sun. Rack focus from the Mercedes to the wreck.
+
+**00:14–00:16** Extreme close-up, 100mm macro. His eyes in the mirror, the grey SUV small in the reflection. Smash cut.
+
+**00:16–00:18** Wide crane-style rise, 24mm. The Mercedes bursts onto an open highway, the SUV closing in.
+
+**00:18–00:20** Interior insert, 35mm. He steers with his left hand and grabs the rifle from the passenger seat with his right.
+
+**00:20–00:23** Over-the-shoulder, 50mm Steadicam. He leans out of the window and aims at the SUV's front tire, with a single muzzle flash.
+
+**00:23–00:26** SLOW MOTION, low side angle, 35mm. The tire bursts and the SUV flips and rolls across the highway in sparks and dust, fully visible. Mercedes sharp in the foreground.
+
+**00:26–00:28** Close-up, 85mm, slow push-in. @image1 hero gives a slow, confident victory smile and a small nod.
+
+**00:28–00:30** High-angle drone rise, 24mm. The Mercedes speeds toward the sunset, smoke rising from the wreck far behind. Fade out.
+
+**AUDIO:** Realistic engines, tire squeal, wind and impacts. Dark hybrid orchestral score with bass pulse, cellos and percussion building to a triumphant finish. Near-silence during both slow-motion crashes.
+
+**NEGATIVE:** No cartoon look, no CGI look, no plastic skin, no distorted anatomy, no face different from @image1, no face drift, no wardrobe change, no duplicated cars, no teleporting vehicles, no hidden or cropped crash, no impossible physics, no jitter, no flickering, no deformed hands or rifle, no text, no watermark, no logos.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 韩国女孩的雨天街巷与小店之旅
+
+> Rainy streets, cozy vibes, and a little Korean city adventure. Just a simple day turned into a cinematic vlog full of calm moments and beautiful rainy views. Cr…
+
+[<img src="https://media.goodcase.ai/cases/44495a5166ef.jpg" width="600" alt="韩国女孩的雨天街巷与小店之旅">](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-girl-in-a-realistic-cinematic-lifestyle-vlog-starting-insid-560e08eabe90?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Lianaalane | **来源:** [原帖](https://x.com/Lianaalane/status/2106951270380802264) | **发布:** 2026-10-05 | **热度:** 68
+
+```
+A beautiful Korean girl in a realistic cinematic lifestyle vlog, starting inside a cozy modern apartment on a rainy day, sitting quietly on a sofa near a large window overlooking a dense Korean cityscape covered in mist and rain, then getting ready in front of a bathroom mirror, tying her hair and preparing to go outside. She puts on a fitted dark outfit, grabs her black umbrella and bag, walks out of the apartment into the rainy street, and continues walking through a busy Korean neighborhood with wet roads, passing cars, glowing Korean shop signs, convenience stores and warm street lights. The camera follows her naturally from behind and from different handheld angles as she crosses the street in heavy rain, with realistic reflections on the wet asphalt, soft overcast daylight, natural city ambience, and subtle handheld camera movement. Near the end, she arrives at a small cozy Korean food shop, smiles naturally toward the camera while holding her umbrella, creating an intimate everyday-vlog feeling. Photorealistic Korean urban environment, authentic facial expressions, realistic skin and hair texture, natural body movement, cinematic depth of field, rainy atmosphere, soft filmic color grading, detailed reflections, realistic lighting, documentary-style handheld camera, no artificial beauty filter, no exaggerated movements, highly natural and immersive visual quality, 9:16 vertical video.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-girl-in-a-realistic-cinematic-lifestyle-vlog-starting-insid-560e08eabe90?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)

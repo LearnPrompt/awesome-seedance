@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 2/9）
 
-Seedance 2.5 の全 754 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 755 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 754 件中 83–156 件目。
+このページ: 755 件中 83–157 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
 
@@ -5036,337 +5036,6 @@ No character morphing, extra fingers, duplicated objects, inconsistent clothing,
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Yoriichi vs. the Hundred Demons
-
-> Once the Infinity Castle BGM kicks in, it is Yoriichi vs. the Hundred Demons, pure fighting thrills. Seedance 2.5 prompt. Basic setup: 30 seconds, 16:9, dark fantasy painted-animation style with rough thick brushwork, hard-edged light and shadow, simplified color blocks and clear silhouettes...
-
-[<img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="600" alt="Yoriichi vs. the Hundred Demons">](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Chengzilhy | **出典:** [元投稿](https://x.com/Chengzilhy/status/2102586866302345657) | **公開日:** 2026-09-23 | **ヒート:** 79
-
-<details>
-<summary><b>プロンプト全文（313 行、クリックで展開）</b></summary>
-
-```
-无限城 BGM 一响，
-缘一 VS 百鬼  ⚔️💥
-纯粹的战斗爽感！
-
-Seedance 2.5 
-Prompt 🔽
-
-【基础设定】
-
-30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。
-
-人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。
-
-高速运动中保持人物、刀锋、命中位置清楚。
-
-头发、衣摆、碎木、灰烬具有真实惯性与重量。
-
-整体色调以墨黑、灰青、旧木褐为主，人物暗红服装作为主要识别色。
-
-【参考图绑定】
-图片1= 战场建筑与空间结构参考。
-仅采用悬空木平台、栏杆、回廊、阶梯、大殿及上下交错建筑关系。
-图片2 = 敌群外观参考。
-提取不同体型、皮肤、眼睛、獠牙、长爪、破旧衣物与异化轮廓，扩展为高密度敌潮。
-图片3= 主角唯一身份与服装参考。
-锁定脸型、长发、暗红外衣、敞领、腰带、宽裤、绑腿与鞋履。
-
-【角色规则】
-
-全片始终只有一名主角。
-始终使用同一把实体刀，刀鞘固定腰侧。
-
-右手主握，重斩时左手辅助同一刀柄。
-
-人物面部克制，视线始终寻找下一处敌阵缺口。
-
-所有攻击必须由真实身体动作驱动：
-
-蹬地 → 转髋 → 挥刀 → 回腕 → 连续落步。
-
-高速移动过程中人物本体始终连续可追踪。
-
-禁止瞬移。
-
-禁止实体分身。
-
-禁止第二把刀。
-
-【敌群规则】
-
-敌人数百只。
-
-中央平台、两侧回廊、远端阶梯与建筑阴影始终存在大量敌人。
-
-前景使用肩背、头部、爪子压住画面边缘。
-
-中景多排敌人包围人物移动路线。
-
-背景敌群一直延伸至建筑深处。
-
-敌人必须持续：
-
-扑入、夹击、绕侧、封路、补位。
-
-人物移动到哪里，新的敌群就从前方与侧翼压入。
-
-人物经过之后才允许留下局部缺口。
-
-24秒之前禁止大面积清空战场。
-
-【核心战斗逻辑】
-
-模式：
-
-流光割草 + 极限连招密度。
-
-全片以：
-
-高速穿群
-移动旋斩
-横扫
-反手斩
-斜劈
-短跃下劈
-
-作为主要动作。
-
-目标约26组短连招。
-
-每组动作必须：
-
-起手 → 接招 → 收招，无缝连接。
-
-上一刀的收刀方向，直接成为下一组攻击的起始方向。
-
-禁止攻击后站住重新摆姿势。
-
-禁止三刀打一组然后停顿。
-
-人物始终边打边移动。
-【空间规则】
-主平台远端阶梯 = 北。
-入口 = 南。
-左右两侧分别为东、西。
-人物移动路线：
-
-南部
-→ 东侧
-→ 中央
-→ 西侧
-→ 北部。
-
-摄影机始终朝向尚未清除的敌群推进。
-
-人物身前必须持续存在新的敌阵。
-
-身后逐渐形成已经战斗过的路径。
-
-空间、建筑地标、人物方向必须保持连续。
-
-【镜头结构】
-
-全片10个镜头段。
-
-每段约3秒。
-
-Shot 1｜0–3s
-
-Wide，高位斜俯视追踪。
-
-人物直接高速切入右侧敌群。
-
-突入横斩
-→ 反手回切
-→ 移动回旋
-→ 再次斜切进入下一排。
-
-没有登场。
-
-没有拔刀。
-
-没有蓄力。
-第一秒直接进入战斗。
-Shot 2｜3–6s
-FS，贴地侧前跟拍。
-人物沿东侧战区高速向北推进。
-
-连续横扫、反手斩、斜劈。
-
-敌人从正面和侧面不断补入。
-
-摄影机倒退跟拍，同时保留前方大量敌群。
-
-Shot 3｜6–9s
-
-Wide，升高斜俯视追踪。
-
-人物从东侧切向平台中央。
-
-连续三组移动旋斩。
-
-每一次旋转都改变人物所在位置。
-
-禁止原地转圈。
-
-镜头展示人物身后逐渐形成的战斗路线。
-
-Shot 4｜9–12s
-
-FS，低位跟进。
-人物进入中央最密集敌阵。
-横扫
-→ 反撩
-→ 斜切
-→ 上挑
-→ 踏进压斩
-→ 短跃下劈。
-上层回廊与地面敌人同时压入。
-
-人物必须同时应对上下两个方向。
-
-Shot 5｜12–15s
-
-FS，侧面短弧环绕。
-
-人物折向西侧。
-
-移动旋斩
-→ 短跃
-→ 下劈
-→ 落地反手横扫。
-
-完成后立即进入下一群敌人。
-
-禁止落地停顿。
-
-Shot 6｜15–18s
-
-Wide，斜俯视折返追踪。
-
-人物切进西侧敌阵后向北折返。
-
-连续横斩、反斩、回旋压斩。
-
-新的敌群从西侧回廊持续补入。
-
-北侧阶梯始终作为远处空间地标。
-
-Shot 7｜18–21s
-
-MS → FS。
-
-先短暂靠近人物。
-
-展示一次真实的近距离攻防：
-
-敌人双爪封路。
-
-人物低身闪开攻击，同时转髋反切。
-
-随后镜头立即拉开。
-
-继续展示范围穿群动作。
-
-禁止变成单挑。
-
-Shot 8｜21–24s
-
-Wide。
-人物进入北部中央区域。
-沿敌潮内部连续折线移动。
-斜切进入
-→ 回旋扫开
-→ 反手穿出
-→ 再改变方向。
-东西两侧残余敌群继续向中心补位。
-Shot 9｜24–27s
-
-FS → Wide。
-
-人物切入最后的大规模密集敌阵。
-
-横扫
-→ 反手斩
-→ 压斩
-→ 回旋
-→ 反撩
-→ 前冲斜劈。
-
-镜头逐渐拉开。
-
-明确展示人物已经打通的路线，与前方最后敌阵的位置。
-
-Shot 10｜27–30s
-
-FS → Wide。
-人物冲入北阶前最后一批敌人。
-27–28秒完成最后一组连续攻击。
-28秒后停止攻击。
-
-刀尖自然随收势垂下。
-
-镜头缓慢后拉。
-
-展示整个已经清理完成的平台。
-
-主角成为画面中唯一站立的人物。
-
-衣摆、长发、灰烬、碎屑继续自然运动。
-
-【摄影规则】
-
-摄影机必须跟随：
-
-人物移动路线
-攻击方向
-敌群变化
-空间地标。
-
-远景与全景负责展示敌潮规模。
-
-中近景只用于短暂展示身体动作与刀锋。
-
-禁止长期贴脸。
-
-禁止把范围战斗拍成逐个单挑。
-
-禁止依靠疯狂切镜制造速度。
-
-速度必须来自：
-
-人物移动
-敌群运动
-身体动作
-前景掠过
-摄影机追踪。
-
-【声音】
-
-No dialogue.
-
-No battle cries.
-
-No subtitles.
-
-No background music.
-
-保留：
-脚步声
-挥刀声
-撞击声
-木构破裂声
-环境空间回响。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Model and Fashion Items in Synchronized 360° Rotation
 
 > Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
@@ -5682,6 +5351,65 @@ SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trip
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-594c65776c1c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A man fights off three muggers in a rainy Seoul alley
+
+> Wrong target. Big mistake. One man, three attackers, and a fight they won't forget. Never underestimate the quiet ones. Created with seedance 2.5 on @frameo_ai …
+
+[<img src="https://media.goodcase.ai/cases/de06a1cbae33.jpg" width="600" alt="A man fights off three muggers in a rainy Seoul alley">](https://goodcase.ai/cases/seedance-2-5-title-the-wrong-target-0ce4f0cea1e6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Hope_Ai01 | **出典:** [元投稿](https://x.com/Hope_Ai01/status/2122330543719366996) | **公開日:** 2026-11-16 | **ヒート:** 78
+
+<details>
+<summary><b>プロンプト全文（41 行、クリックで展開）</b></summary>
+
+```
+Title: THE WRONG TARGET
+
+Create an exactly 30-second ultra-realistic Korean action thriller film.
+
+Scene 1 (0–10 seconds): The Encounter
+
+A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+
+Scene 2 (10–20 seconds): The Fight
+
+One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+
+Scene 3 (20–30 seconds): The Final Move
+
+Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+
+Cinematography:
+
+- Ultra-realistic South Korean crime thriller style.
+- Authentic Korean actors.
+- Dark Seoul alley at night.
+- Rain-soaked streets and cinematic lighting.
+- Fast camera movements during combat.
+- Close-up shots of realistic facial expressions.
+- Wide shots showing complete fight choreography.
+- Smooth transitions and professional editing.
+
+Audio:
+Realistic punches, footsteps, rain ambience and intense cinematic background music.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- 4K photorealistic quality.
+- No overacting.
+- No supernatural elements.
+- No cartoon effects.
+- No slow motion except one brief impact moment.
+- Consistent hero appearance throughout.
+- No subtitles, logos or text on screen.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-title-the-wrong-target-0ce4f0cea1e6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pink-haired girl fights a giant bone spider in a ruined castle
 
@@ -6145,6 +5873,139 @@ The camera follows her for a few seconds before the recording abruptly cuts to B
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-a87313182971?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks
+
+> Tokyo Helicopter Night Adventure Unlimited Seedance 2.5 on @makeugc prompt Concept: A beautiful young East Asian woman experiences an unforgettable open-door he…
+
+[<img src="https://media.goodcase.ai/cases/587c3e3c3fbc.jpg" width="600" alt="A Woman’s Nighttime Helicopter Tour of Tokyo Bay and Landmarks">](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2113594768400023908) | **公開日:** 2026-10-23 | **ヒート:** 78
+
+<details>
+<summary><b>プロンプト全文（115 行、クリックで展開）</b></summary>
+
+```
+Tokyo Helicopter Night Adventure
+
+Unlimited Seedance 2.5 on @makeugc 
+
+prompt
+
+Concept: A beautiful young East Asian woman experiences an unforgettable open-door helicopter adventure above Tokyo at night, capturing her excitement, nervous laughter, and spectacular city views in a spontaneous travel vlog.
+
+Main Character — Strict Identity Lock
+
+A beautiful 23-year-old hair styled in a loose high ponytail, wispy bangs, expressive blue eyes, natural makeup, and realistic skin texture with visible pores.
+
+New outfit: A fitted pastel-blue long-sleeve knit top, high-waisted black cargo pants, white low-top sneakers, delicate silver earrings, and a small silver necklace. During the helicopter flight, she wears a black aviation headset with boom microphone and a securely fastened black four-point safety harness.
+
+Maintain exactly the same face, hairstyle, body proportions, outfit, and accessories throughout all scenes.
+
+Scene-by-scene storyboard
+
+Scene 1 — Waterfront Helicopter Terminal (0–3s)
+
+Location: A modern waterfront helipad near Yokohama, with illuminated skyscrapers, harbor reflections, and a white helicopter parked behind her.
+
+Handheld front-facing selfie shot. She walks excitedly toward the helicopter, smiling and pointing behind her.
+
+Dialogue: "Okay, this might be the craziest thing I've ever done!"
+
+The helicopter rotor begins spinning. Natural wind gently moves her ponytail.
+
+Scene 2 — Preparing for Takeoff (3–6s)
+
+Inside the helicopter cabin, she sits beside the window, wearing her aviation headset and securely fastened harness. The camera captures a close selfie as she adjusts her headset.
+
+Dialogue: "I'm actually a little scared right now!"
+
+She laughs nervously, glancing outside at the glowing harbor.
+
+Scene 3 — Yokohama Harbor Takeoff (6–9s)
+
+Cinematic first-person aerial view as the helicopter rises above Yokohama's waterfront.
+
+Below are the illuminated Cosmo Clock 21 Ferris wheel, Minato Mirai skyscrapers, colorful harbor lights, and reflections shimmering across dark water.
+
+The helicopter banks gently toward Tokyo.
+
+Scene 4 — Above the Glittering City (9–12s)
+
+Handheld selfie inside the helicopter during flight. Wind blows loose strands of her hair as she looks out at the enormous city below.
+
+Dialogue: "Oh my God, look at those lights!"
+
+She bursts into genuine laughter, turning the camera outward to reveal Tokyo's endless illuminated skyline.
+
+Scene 5 — Incredible POV Over Tokyo Bay (12–15s)
+
+First-person downward POV from her secured passenger seat. Her black cargo pants and white sneakers appear at the bottom of the frame, safely inside the aircraft.
+
+Far below, illuminated cargo ships move through Tokyo Bay. Highways curve around the coastline, forming glowing ribbons of light.
+
+Realistic helicopter vibration and subtle camera shake.
+
+Scene 6 — Tokyo Tower Flyby (15–18s)
+
+Close handheld selfie with Tokyo Tower glowing orange in the distant background as the helicopter passes at a safe distance.
+
+She turns her head toward the tower, smiling in disbelief.
+
+Dialogue: "Wait, Tokyo Tower looks unreal from up here!"
+
+The camera pans from her face to the spectacular orange landmark.
+
+Scene 7 — Skytree Skyline (18–21s)
+
+Cinematic POV aerial shot of Tokyo Skytree illuminated in cool blue and violet, surrounded by dense neighborhoods and glowing highways.
+
+Her white sneakers briefly appear at the bottom of the frame as she angles the camera downward from her seat.
+
+Subtle reflections on the helicopter window create an authentic nighttime aviation atmosphere.
+
+Scene 8 — Rainbow Bridge Panorama (21–24s)
+
+Wide aerial footage of Rainbow Bridge spanning Tokyo Bay, with streams of headlights moving across the bridge.
+
+The helicopter flies along the bay at a safe distance. The Tokyo skyline glitters beyond the bridge, with gentle reflections on the water.
+
+Dialogue (off-camera): "I seriously don't want this to end!"
+
+Scene 9 — Back on the Helipad (24–27s)
+
+The helicopter has landed at the waterfront terminal. With the rotors stopped and crew clearance given, she walks across the green-lit helipad carrying her headset.
+
+Her pastel-blue top, black cargo pants, and white sneakers remain identical.
+
+She smiles at the camera, slightly windblown.
+
+Dialogue: "That was absolutely worth it!"
+
+Scene 10 — Yokohama Night Streets (27–30s)
+
+Instead of Shibuya Crossing, the final scene takes place on a lively pedestrian street in Yokohama's Minato Mirai waterfront district.
+
+Warm storefront lighting, pedestrians, illuminated trees, and the colorful Ferris wheel in the background.
+
+She films herself walking, turns toward the camera, gives a playful wave, and smiles.
+
+Dialogue: "Tokyo from the sky? Ten out of ten. See you!"
+
+Visual and camera direction
+
+Authentic travel-vlogger footage, alternating between imperfect handheld selfies, intimate cabin close-ups, first-person aerial footage, and wide cinematic city views.
+
+Natural facial expressions, realistic wind movement, slight autofocus hunting, subtle low-light sensor noise, natural motion blur, believable city light exposure, realistic helicopter vibrations, and detailed skin texture. Avoid overly polished influencer footage.
+
+Audio: Natural helicopter engine and rotor sounds, rushing wind, genuine laughter, clear spontaneous dialogue, distant city ambience after landing. No background music.
+
+Strict constraints: No character changes, no outfit changes, no face morphing, no CGI-looking skin, no floating limbs, no unrealistic helicopter movements, no impossible close approaches to buildings, no subtitles, no text overlays, no watermark, no logos, and no visible brand names. All aerial shots must respect realistic aircraft positioning and passenger safety.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)

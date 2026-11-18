@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 2/9 页）
 
-Seedance 2.5 全部 754 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 755 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 85–157 条，共 754 条。
+本页：第 85–159 条，共 755 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
 
@@ -4950,337 +4950,6 @@ No character morphing, extra fingers, duplicated objects, inconsistent clothing,
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-520bc125cb28?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 缘一 VS 百鬼 ⚔️💥
-
-> 无限城 BGM 一响， 缘一 VS 百鬼 ⚔️💥 纯粹的战斗爽感！ Seedance 2.5 Prompt 🔽 【基础设定】 30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。 人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。 高速运动中保持人物、刀锋、命中位置清楚。 头…
-
-[<img src="https://media.goodcase.ai/cases/80224e5015e7.jpg" width="600" alt="缘一 VS 百鬼 ⚔️💥">](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Chengzilhy | **来源:** [原帖](https://x.com/Chengzilhy/status/2102586866302345657) | **发布:** 2026-09-23 | **热度:** 79
-
-<details>
-<summary><b>完整 prompt（313 行，点开展开）</b></summary>
-
-```
-无限城 BGM 一响，
-缘一 VS 百鬼  ⚔️💥
-纯粹的战斗爽感！
-
-Seedance 2.5 
-Prompt 🔽
-
-【基础设定】
-
-30秒，16:9。暗色幻想绘画动画风格，粗粝厚涂笔触、硬边明暗、概括色块、清晰人物剪影。
-
-人物、敌群、建筑、武器统一为具有立体空间感的绘画动画。
-
-高速运动中保持人物、刀锋、命中位置清楚。
-
-头发、衣摆、碎木、灰烬具有真实惯性与重量。
-
-整体色调以墨黑、灰青、旧木褐为主，人物暗红服装作为主要识别色。
-
-【参考图绑定】
-图片1= 战场建筑与空间结构参考。
-仅采用悬空木平台、栏杆、回廊、阶梯、大殿及上下交错建筑关系。
-图片2 = 敌群外观参考。
-提取不同体型、皮肤、眼睛、獠牙、长爪、破旧衣物与异化轮廓，扩展为高密度敌潮。
-图片3= 主角唯一身份与服装参考。
-锁定脸型、长发、暗红外衣、敞领、腰带、宽裤、绑腿与鞋履。
-
-【角色规则】
-
-全片始终只有一名主角。
-始终使用同一把实体刀，刀鞘固定腰侧。
-
-右手主握，重斩时左手辅助同一刀柄。
-
-人物面部克制，视线始终寻找下一处敌阵缺口。
-
-所有攻击必须由真实身体动作驱动：
-
-蹬地 → 转髋 → 挥刀 → 回腕 → 连续落步。
-
-高速移动过程中人物本体始终连续可追踪。
-
-禁止瞬移。
-
-禁止实体分身。
-
-禁止第二把刀。
-
-【敌群规则】
-
-敌人数百只。
-
-中央平台、两侧回廊、远端阶梯与建筑阴影始终存在大量敌人。
-
-前景使用肩背、头部、爪子压住画面边缘。
-
-中景多排敌人包围人物移动路线。
-
-背景敌群一直延伸至建筑深处。
-
-敌人必须持续：
-
-扑入、夹击、绕侧、封路、补位。
-
-人物移动到哪里，新的敌群就从前方与侧翼压入。
-
-人物经过之后才允许留下局部缺口。
-
-24秒之前禁止大面积清空战场。
-
-【核心战斗逻辑】
-
-模式：
-
-流光割草 + 极限连招密度。
-
-全片以：
-
-高速穿群
-移动旋斩
-横扫
-反手斩
-斜劈
-短跃下劈
-
-作为主要动作。
-
-目标约26组短连招。
-
-每组动作必须：
-
-起手 → 接招 → 收招，无缝连接。
-
-上一刀的收刀方向，直接成为下一组攻击的起始方向。
-
-禁止攻击后站住重新摆姿势。
-
-禁止三刀打一组然后停顿。
-
-人物始终边打边移动。
-【空间规则】
-主平台远端阶梯 = 北。
-入口 = 南。
-左右两侧分别为东、西。
-人物移动路线：
-
-南部
-→ 东侧
-→ 中央
-→ 西侧
-→ 北部。
-
-摄影机始终朝向尚未清除的敌群推进。
-
-人物身前必须持续存在新的敌阵。
-
-身后逐渐形成已经战斗过的路径。
-
-空间、建筑地标、人物方向必须保持连续。
-
-【镜头结构】
-
-全片10个镜头段。
-
-每段约3秒。
-
-Shot 1｜0–3s
-
-Wide，高位斜俯视追踪。
-
-人物直接高速切入右侧敌群。
-
-突入横斩
-→ 反手回切
-→ 移动回旋
-→ 再次斜切进入下一排。
-
-没有登场。
-
-没有拔刀。
-
-没有蓄力。
-第一秒直接进入战斗。
-Shot 2｜3–6s
-FS，贴地侧前跟拍。
-人物沿东侧战区高速向北推进。
-
-连续横扫、反手斩、斜劈。
-
-敌人从正面和侧面不断补入。
-
-摄影机倒退跟拍，同时保留前方大量敌群。
-
-Shot 3｜6–9s
-
-Wide，升高斜俯视追踪。
-
-人物从东侧切向平台中央。
-
-连续三组移动旋斩。
-
-每一次旋转都改变人物所在位置。
-
-禁止原地转圈。
-
-镜头展示人物身后逐渐形成的战斗路线。
-
-Shot 4｜9–12s
-
-FS，低位跟进。
-人物进入中央最密集敌阵。
-横扫
-→ 反撩
-→ 斜切
-→ 上挑
-→ 踏进压斩
-→ 短跃下劈。
-上层回廊与地面敌人同时压入。
-
-人物必须同时应对上下两个方向。
-
-Shot 5｜12–15s
-
-FS，侧面短弧环绕。
-
-人物折向西侧。
-
-移动旋斩
-→ 短跃
-→ 下劈
-→ 落地反手横扫。
-
-完成后立即进入下一群敌人。
-
-禁止落地停顿。
-
-Shot 6｜15–18s
-
-Wide，斜俯视折返追踪。
-
-人物切进西侧敌阵后向北折返。
-
-连续横斩、反斩、回旋压斩。
-
-新的敌群从西侧回廊持续补入。
-
-北侧阶梯始终作为远处空间地标。
-
-Shot 7｜18–21s
-
-MS → FS。
-
-先短暂靠近人物。
-
-展示一次真实的近距离攻防：
-
-敌人双爪封路。
-
-人物低身闪开攻击，同时转髋反切。
-
-随后镜头立即拉开。
-
-继续展示范围穿群动作。
-
-禁止变成单挑。
-
-Shot 8｜21–24s
-
-Wide。
-人物进入北部中央区域。
-沿敌潮内部连续折线移动。
-斜切进入
-→ 回旋扫开
-→ 反手穿出
-→ 再改变方向。
-东西两侧残余敌群继续向中心补位。
-Shot 9｜24–27s
-
-FS → Wide。
-
-人物切入最后的大规模密集敌阵。
-
-横扫
-→ 反手斩
-→ 压斩
-→ 回旋
-→ 反撩
-→ 前冲斜劈。
-
-镜头逐渐拉开。
-
-明确展示人物已经打通的路线，与前方最后敌阵的位置。
-
-Shot 10｜27–30s
-
-FS → Wide。
-人物冲入北阶前最后一批敌人。
-27–28秒完成最后一组连续攻击。
-28秒后停止攻击。
-
-刀尖自然随收势垂下。
-
-镜头缓慢后拉。
-
-展示整个已经清理完成的平台。
-
-主角成为画面中唯一站立的人物。
-
-衣摆、长发、灰烬、碎屑继续自然运动。
-
-【摄影规则】
-
-摄影机必须跟随：
-
-人物移动路线
-攻击方向
-敌群变化
-空间地标。
-
-远景与全景负责展示敌潮规模。
-
-中近景只用于短暂展示身体动作与刀锋。
-
-禁止长期贴脸。
-
-禁止把范围战斗拍成逐个单挑。
-
-禁止依靠疯狂切镜制造速度。
-
-速度必须来自：
-
-人物移动
-敌群运动
-身体动作
-前景掠过
-摄影机追踪。
-
-【声音】
-
-No dialogue.
-
-No battle cries.
-
-No subtitles.
-
-No background music.
-
-保留：
-脚步声
-挥刀声
-撞击声
-木构破裂声
-环境空间回响。
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-vs-19b2bf262500?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 模特与单品同步360度旋转
 
 > Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
@@ -5596,6 +5265,65 @@ SCENE CONTEXT A girl Image flees something unseen through a glowing forest, trip
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-594c65776c1c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 雨夜首尔窄巷男子徒手击退三名劫匪
+
+> Wrong target. Big mistake. One man, three attackers, and a fight they won't forget. Never underestimate the quiet ones. Created with seedance 2.5 on @frameo_ai …
+
+[<img src="https://media.goodcase.ai/cases/de06a1cbae33.jpg" width="600" alt="雨夜首尔窄巷男子徒手击退三名劫匪">](https://goodcase.ai/cases/seedance-2-5-title-the-wrong-target-0ce4f0cea1e6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Hope_Ai01 | **来源:** [原帖](https://x.com/Hope_Ai01/status/2122330543719366996) | **发布:** 2026-11-16 | **热度:** 78
+
+<details>
+<summary><b>完整 prompt（41 行，点开展开）</b></summary>
+
+```
+Title: THE WRONG TARGET
+
+Create an exactly 30-second ultra-realistic Korean action thriller film.
+
+Scene 1 (0–10 seconds): The Encounter
+
+A young Korean man walks alone through a narrow Seoul street at night. Three suspicious men suddenly block his path. One man pushes him and demands his phone. The hero calmly looks at them without saying anything.
+
+Scene 2 (10–20 seconds): The Fight
+
+One attacker throws a punch. The hero dodges and responds with realistic hand-to-hand combat. He blocks attacks, delivers fast punches and uses practical defensive movements. The fight should feel intense, physical and believable, like a professional Korean action movie. No flying kicks or unrealistic stunts.
+
+Scene 3 (20–30 seconds): The Final Move
+
+Two attackers fall back while the third tries to attack from behind. The hero notices him, turns quickly and knocks the attacker off balance. All three retreat. The hero picks up his phone, adjusts his jacket and calmly walks away into the rainy street.
+
+Cinematography:
+
+- Ultra-realistic South Korean crime thriller style.
+- Authentic Korean actors.
+- Dark Seoul alley at night.
+- Rain-soaked streets and cinematic lighting.
+- Fast camera movements during combat.
+- Close-up shots of realistic facial expressions.
+- Wide shots showing complete fight choreography.
+- Smooth transitions and professional editing.
+
+Audio:
+Realistic punches, footsteps, rain ambience and intense cinematic background music.
+
+Important Requirements:
+
+- Exactly 30 seconds.
+- 16:9 widescreen.
+- 4K photorealistic quality.
+- No overacting.
+- No supernatural elements.
+- No cartoon effects.
+- No slow motion except one brief impact moment.
+- Consistent hero appearance throughout.
+- No subtitles, logos or text on screen.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-title-the-wrong-target-0ce4f0cea1e6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 古堡中粉发少女持矛战骨蛛
 
@@ -6192,6 +5920,336 @@ Strict constraints: No character changes, no outfit changes, no face morphing, n
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-tokyo-helicopter-night-adventure-85993c46aeb2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 天台少女以念力夺回项链、震慑霸凌者
+
+> Never touch what's mine Seedance 2.5 on @TapNow_AI prompt CINEMATIC VIDEO GENERATION PROMPT TITLE: THE ROOFTOP QUEEN'S DOWNFALL GENRE: Korean supernatural actio…
+
+[<img src="https://media.goodcase.ai/cases/9c73e0c7672c.jpg" width="600" alt="天台少女以念力夺回项链、震慑霸凌者">](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2111459728216015154) | **发布:** 2026-10-17 | **热度:** 78
+
+<details>
+<summary><b>完整 prompt（275 行，点开展开）</b></summary>
+
+```
+Never touch what's mine
+
+Seedance 2.5 on @TapNow_AI 
+
+prompt
+
+CINEMATIC VIDEO GENERATION PROMPT
+
+TITLE: THE ROOFTOP QUEEN'S DOWNFALL
+
+GENRE: Korean supernatural action drama | Psychological revenge | Telekinetic powers | High-intensity confrontation
+FORMAT: 30 seconds | 16:9 widescreen | 1080p | 24 FPS | Ultra-photorealistic live action
+VISUAL STYLE
+Premium Korean action cinema blended with the spectacular supernatural destruction of Hollywood blockbusters.
+
+Extremely realistic physical movements, intense confrontations, dramatic facial expressions, explosive invisible forces, believable gravity manipulation, violent environmental reactions, dynamic handheld camera movements, aggressive tracking shots, rapid whip pans, and breathtaking vertical cinematography.
+Realistic human skin texture, visible pores, natural facial imperfections, believable clothing physics, realistic hair movement, authentic shadows, and physically accurate object collisions.
+The heroine must appear completely human. No anime, cartoon physics, plastic skin, exaggerated CGI effects, magical circles, or superhero costumes.
+CHARACTER IDENTITY LOCK
+MAIN HEROINE — {{Image 1}}
+
+A striking 22-year-old Korean university student. Preserve her exact reference facial identity, hairstyle, skin tone, body proportions, and appearance throughout every shot.
+
+OUTFIT: Fitted black university blazer, crisp white collared shirt, black ribbon tie, short black pleated skirt, black knee-high socks, polished black loafers, and a delicate silver necklace with a small heart-shaped pendant.
+
+PERSONALITY: Quiet, mysterious, emotionally restrained, fearless, cold, sarcastic, and extraordinarily powerful.
+
+She secretly possesses devastating telekinetic abilities, capable of manipulating gravity, suspending human bodies in midair, controlling hundreds of objects simultaneously, and generating enormous invisible shockwaves.
+
+POWER ACTIVATION: Her irises develop a subtle electric-pink glow. The glow remains confined primarily to her eyes, producing delicate pink reflections along her eyelids. No laser beams, pink smoke, magical symbols, or exaggerated visual effects.
+
+She activates her powers through small, controlled finger movements, subtle head tilts, or simply by staring at her target.
+
+MAIN ANTAGONIST — THE ROOFTOP QUEEN
+
+A beautiful but arrogant 23-year-old wealthy Korean university student with long blonde hair, flawless fashionable makeup, an expensive cream-colored designer blazer, white blouse, short pleated skirt, luxury handbag, and high heels.
+
+She is cruel, entitled, theatrical, and convinced that everyone fears her.
+
+SECONDARY CHARACTERS
+
+Three fashionable university students who accompany the bully, laughing, recording the confrontation, and encouraging the humiliation.
+
+SETTING
+
+The rooftop of a prestigious modern Korean university during late afternoon.
+
+A large concrete rooftop surrounded by protective railings, ventilation systems, rooftop air-conditioning units, loose plastic chairs, scattered papers, metal buckets, empty flowerpots, maintenance equipment, and a small rooftop utility structure with a tall concrete wall.
+
+Beyond the rooftop, an expansive Seoul skyline stretches into the distance.
+
+Strong natural daylight, slightly overcast skies, realistic wind, and dramatic atmospheric depth.
+
+No neon lighting or nighttime environment.
+
+00:00–00:04 — THE PUBLIC HUMILIATION
+
+OPEN IMMEDIATELY with an aggressive handheld tracking shot.
+
+The wealthy blonde bully forcefully shoves the heroine backward against a concrete rooftop wall.
+
+Three students stand nearby, laughing and filming.
+
+The heroine remains silent, staring directly into the bully's eyes.
+
+The bully suddenly grabs the delicate silver necklace around the heroine's neck and tears it away.
+
+BULLY (mocking): "You really thought you belonged here?"
+
+The heroine looks at the necklace in the bully's hand.
+
+For the first time, her expression changes.
+
+Her jaw tightens.
+
+00:04–00:08 — THE UNFORGIVABLE MISTAKE
+
+The blonde bully walks toward the rooftop railing, dangling the necklace between two fingers.
+
+HEROINE (quietly): "Give it back."
+
+The bully laughs.
+
+BULLY: "Then go get it."
+
+She throws the necklace over the railing.
+
+CAMERA WHIP-PANS toward the falling necklace.
+
+EXTREME CLOSE-UP:
+
+The silver necklace tumbles through the air beyond the rooftop.
+
+Suddenly—
+
+IT STOPS.
+
+The necklace freezes completely in midair, suspended several feet outside the railing.
+
+The wind continues moving naturally around it.
+
+All laughter stops.
+
+00:08–00:12 — ELECTRIC-PINK AWAKENING
+
+SMASH CUT to an extreme close-up of the heroine's face.
+
+Her eyes slowly develop a subtle ELECTRIC-PINK GLOW.
+
+A deep, barely audible supernatural pressure begins building.
+
+Her hair moves backward in a sudden unnatural gust.
+
+Loose papers tremble.
+
+Metal buckets rattle.
+
+The rooftop chairs begin vibrating against the concrete.
+
+The heroine slowly lifts her chin.
+
+HEROINE (coldly): "You shouldn't have done that."
+
+The necklace begins floating back toward her.
+
+The bully takes a nervous step backward.
+
+00:12–00:17 — THE GRAVITY REVERSAL
+
+The blonde bully suddenly charges toward the heroine, attempting to strike her.
+
+WITHOUT MOVING—
+
+The heroine raises one finger.
+
+The bully instantly freezes in mid-stride.
+
+Her shoes slowly lift from the rooftop.
+
+She rises three feet above the ground, arms flailing as she struggles against an invisible force.
+
+Her long blonde hair and cream blazer move naturally in the wind.
+
+BULLY (terrified): "PUT ME DOWN!"
+
+The heroine tilts her head.
+
+HEROINE: "You wanted to be above everyone."
+
+The bully rises another few feet, remaining safely suspended above the rooftop.
+
+00:17–00:22 — THE ROOFTOP GRAVITY STORM
+
+The heroine spreads her fingers.
+
+A powerful invisible gravitational field expands across the rooftop.
+
+HUNDREDS OF LOOSE OBJECTS BEGIN LEVITATING.
+
+Metal buckets spin violently.
+
+Plastic chairs rise and rotate.
+
+Loose papers swirl through the air.
+
+Flowerpots hover above the concrete.
+
+Maintenance tools vibrate and float.
+
+Dust and small debris form a massive rotating vortex around the heroine.
+
+The three other students stumble backward in terror, grabbing the railing.
+
+The heroine stands completely motionless at the center.
+
+Her electric-pink eyes glow with terrifying calmness.
+
+CAMERA ORBITS RAPIDLY around her, revealing the floating objects and the suspended bully.
+
+00:22–00:27 — THE IMPOSSIBLE WALL WALK
+
+The heroine slowly turns toward the tall concrete utility wall.
+
+She takes one step forward.
+
+Then another.
+
+Without changing her body posture, she begins WALKING VERTICALLY UP THE WALL.
+
+Her shoes make realistic contact with the concrete as her personal gravity rotates ninety degrees.
+
+Her hair and clothing respond naturally to the altered gravitational field.
+
+The camera rotates with her movement, creating a breathtaking perspective shift.
+
+She walks several feet upward, now standing sideways relative to the rooftop.
+
+The blonde bully remains suspended safely in midair, staring at her in absolute terror.
+
+The heroine looks directly at her.
+
+HEROINE (calmly): "Now look down."
+
+The bully looks at the rooftop below and gasps.
+
+00:27–00:30 — THE QUEEN FALLS
+
+The heroine slowly closes her fist.
+
+Every floating object freezes in place.
+
+The bully descends rapidly but decelerates smoothly, landing safely on her knees on the rooftop.
+
+The necklace floats gently into the heroine's open palm.
+
+She steps down the vertical wall, returning to normal gravity.
+
+Her electric-pink eyes fade back to their natural color.
+
+She puts the necklace back around her neck.
+
+The bully remains kneeling, trembling.
+
+HEROINE (whispering): "Never touch what's mine."
+
+FINAL SHOT:
+
+Low-angle close-up of the heroine walking confidently past the camera.
+
+Behind her, every floating object drops simultaneously onto the rooftop with an enormous metallic crash.
+
+She doesn't look back.
+
+CUT TO BLACK.
+
+CINEMATOGRAPHY
+
+Aggressive handheld tracking during the confrontation.
+
+Extreme macro close-up of the necklace falling.
+
+Slow dramatic push-in during electric-pink eye activation.
+
+Sudden whip pans following telekinetic movements.
+
+Wide-angle shots revealing the rooftop gravity storm.
+
+Smooth rotating camera movement during the vertical wall walk.
+
+Low-angle hero framing during the final confrontation.
+
+Realistic motion blur, natural lighting, authentic skin textures, and physically convincing movement.
+
+SOUND DESIGN
+
+Natural rooftop wind, distant Seoul traffic, footsteps against concrete, realistic fabric movement, metallic rattling, frightened breathing, subtle supernatural pressure pulses, powerful bass impacts, and crashing rooftop equipment.
+Build tension through silence immediately before the heroine activates her powers.
+Korean dialogue with natural delivery and accurate lip synchronization.
+STRICT REQUIREMENTS
+Preserve the heroine's exact facial identity and outfit throughout.
+Her eyes must glow subtle electric pink only when activating telekinesis.
+The necklace must visibly stop falling in midair before returning to her.
+Telekinetic objects must respond with believable mass, momentum, and collisions.
+
+The bully must remain physically consistent and visibly frightened.
+
+The heroine must walk vertically along the concrete wall, not simply float beside it.
+
+The vertical wall walk must be shown clearly in a wide shot.
+
+No excessive glowing energy, lightning beams, magical symbols, or cartoon effects.
+
+The bully must remain safely above the rooftop and never fall over the edge.
+
+Maintain escalating tension, emotional intensity, supernatural dominance, and a spectacular final payoff.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-never-touch-what-s-mine-4bde116aabed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 荒废战场上的雷霆武者与空间崩裂
+
+> This Ai video is absolutely masterpiece 🤯 Created with Seedance 2.5 on @lovart_ai Prompt: 16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTI…
+
+[<img src="https://media.goodcase.ai/cases/0e7af393b7ea.jpg" width="600" alt="荒废战场上的雷霆武者与空间崩裂">](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itxabdullaa | **来源:** [原帖](https://x.com/itxabdullaa/status/2106702315239686628) | **发布:** 2026-10-04 | **热度:** 78
+
+<details>
+<summary><b>完整 prompt（19 行，点开展开）</b></summary>
+
+```
+16:9 • RAW DOCUMENTARY PHOTOREALISM • LIVE-ACTION IMAX/HDR • REALISTIC PHYSICS
+
+A dark-fantasy warrior with long disheveled black hair, cold expression, tattered gray-white scarf, shattered dark cloak and white-gray outfit awakens an abandoned battlefield.
+
+0–5s: A tiny white-blue spark triggers the entire environment. Stones vibrate, cracks spread, invisible pressure bends the air, and a colossal thunderstorm ring forms overhead.
+
+5–10s: Shadow distortions hunt him. He explodes into motion—wall runs, aerial redirects, lightning-charged impacts and massive shockwaves destroy the ruins. Black smoke afterimages trail every movement.
+
+10–15s: He moves across falling debris at impossible speed. Multiple motion afterimages surround the battlefield before collapsing back into him, compressing into one devastating lightning strike.
+
+15–20s: The battlefield transforms into a rotating storm cage. Debris, dust, fabric and lightning orbit him. Everything suddenly compresses inward as a giant spatial crack opens behind him.
+
+20–27s: He launches into the fractured dimension, moving through floating ruins with punches, elbows and aerial strikes. All accumulated energy converges into a tiny, hyper-dense white-blue thunderstorm sphere.
+
+27–30s: Absolute silence. One spark. His eyes open. He unleashes the WORLD-SPLITTING STRIKE—a colossal white-blue shockwave tears through reality, followed by a black-and-white spatial implosion.
+
+Cut back to the ruined battlefield. He stands alone, dust falling, scarf moving in the residual wind. One final spark crosses his cheek.
+
+STYLE: Extremely fast, agile, physically grounded combat. Dense semi-transparent lightning, black smoke/shattered-shadow afterimages, air distortion, debris interaction and violent wind pressure. No anime, no superhero CGI, no modern tech, no guns, no armor, no dialogue, no text, no subtitles, no logos, no face/hairstyle/costume changes. Continuous escalation from mystery → pursuit → impossible movement → environmental destruction → spatial rupture → silence.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-a-dark-fantasy-warrior-with-long-disheveled-black-hair-cold-expression-tatter-7dd307108140?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
