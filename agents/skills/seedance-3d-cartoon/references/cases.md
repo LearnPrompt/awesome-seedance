@@ -138,29 +138,7 @@ The pink rabbit applies lipstick while making funny, confident expressions. She 
 Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
 ```
 
-## E5 · 孕妇的梦幻橄榄球
-
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87
-- Evidence: [GoodCase](https://goodcase.ai/cases/case-dd9889bf2c2c) · [finished media](https://media.goodcase.ai/cases/8c17c23fdda4.mp4) · [poster](https://media.goodcase.ai/cases/573c7eaac41b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2116718625474396498)
-- Summary: 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
-
-```text
-Create a 20-second cinematic 3D animated short film in a high-quality Pixar-inspired style.
-
-Scene 1 (0–4 seconds): A beautiful pregnant blonde woman wearing a yellow-and-white striped tank top is lying in bed at night. She gently places her hands on her baby bump, looking surprised and curious. The bedroom is illuminated by soft blue moonlight.
-
-Scene 2 (4–10 seconds): Transition into a magical fantasy football world inside the mother's imagination. A cute, chubby baby boy with blonde hair, big expressive blue eyes, and a tiny curl on his head appears wearing a white T-shirt with a blue star and blue shorts. He runs across a green football field, kicks a blue-and-white star-patterned soccer ball, and performs an adorable goalkeeper jump to catch it.
-
-Scene 3 (10–14 seconds): The baby celebrates his football skills with a joyful smile. He then falls asleep peacefully, hugging the soccer ball like his favorite toy.
-
-Scene 4 (14–20 seconds): Return to the blue moonlit bedroom. The pregnant woman is sleeping beside her husband. Suddenly, a small black-and-white cat jumps onto the bed and lands near her baby bump. She wakes up with a shocked expression, creating a funny and unexpected ending.
-
-Visual Style: Ultra-detailed 3D Pixar-inspired animation, adorable character design, expressive facial emotions, cinematic camera movements, realistic fabric textures, beautiful lighting, smooth transitions, magical atmosphere, professional animated movie quality, 4K resolution, vertical 9:16 aspect ratio.
-
-Audio: Soft magical background music, gentle nighttime ambience, cute baby sounds, playful football sound effects, and a funny surprise sound at the ending.
-```
-
-## E6 · Frog-hat baby sneaks out of the crib and startles Dad
+## E5 · Frog-hat baby sneaks out of the crib and startles Dad
 
 - Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-824160459b18) · [finished media](https://media.goodcase.ai/cases/695f51585ca3.mp4) · [poster](https://media.goodcase.ai/cases/05e0d2cb4b37.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2117812036126257293)
@@ -198,6 +176,28 @@ The father discovers the adorable baby sitting safely in a little chair. He look
 Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby skin, expressive eyes, natural body movements, cinematic depth of field, warm golden-hour lighting, smooth camera transitions, professional animation, 4K quality, vertical 9:16 aspect ratio.
 
 Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
+```
+
+## E6 · 孕妇的梦幻橄榄球
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
+- Evidence: [GoodCase](https://goodcase.ai/cases/case-dd9889bf2c2c) · [finished media](https://media.goodcase.ai/cases/8c17c23fdda4.mp4) · [poster](https://media.goodcase.ai/cases/573c7eaac41b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2116718625474396498)
+- Summary: 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
+
+```text
+Create a 20-second cinematic 3D animated short film in a high-quality Pixar-inspired style.
+
+Scene 1 (0–4 seconds): A beautiful pregnant blonde woman wearing a yellow-and-white striped tank top is lying in bed at night. She gently places her hands on her baby bump, looking surprised and curious. The bedroom is illuminated by soft blue moonlight.
+
+Scene 2 (4–10 seconds): Transition into a magical fantasy football world inside the mother's imagination. A cute, chubby baby boy with blonde hair, big expressive blue eyes, and a tiny curl on his head appears wearing a white T-shirt with a blue star and blue shorts. He runs across a green football field, kicks a blue-and-white star-patterned soccer ball, and performs an adorable goalkeeper jump to catch it.
+
+Scene 3 (10–14 seconds): The baby celebrates his football skills with a joyful smile. He then falls asleep peacefully, hugging the soccer ball like his favorite toy.
+
+Scene 4 (14–20 seconds): Return to the blue moonlit bedroom. The pregnant woman is sleeping beside her husband. Suddenly, a small black-and-white cat jumps onto the bed and lands near her baby bump. She wakes up with a shocked expression, creating a funny and unexpected ending.
+
+Visual Style: Ultra-detailed 3D Pixar-inspired animation, adorable character design, expressive facial emotions, cinematic camera movements, realistic fabric textures, beautiful lighting, smooth transitions, magical atmosphere, professional animated movie quality, 4K resolution, vertical 9:16 aspect ratio.
+
+Audio: Soft magical background music, gentle nighttime ambience, cute baby sounds, playful football sound effects, and a funny surprise sound at the ending.
 ```
 
 ## E7 · Baby Copies Mom’s Morning Yoga and Ends with a Warm Hug

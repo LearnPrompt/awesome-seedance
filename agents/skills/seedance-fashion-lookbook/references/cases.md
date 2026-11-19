@@ -160,7 +160,7 @@ Style: photorealistic cinematic fashion video, warm cozy atmosphere, seamless tr
 
 ## E7 · A Seoul Girl’s Day from Morning Makeup to City Strolls
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 82
+- Seedance 2.5 · creator: @AIwithkhan · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-shot-1-ecu-85mm-push-in-close-up-of-a-smartphone-alarm-vibrating-beside-a-k-e0b5d7d74a37) · [finished media](https://media.goodcase.ai/cases/1be66a61eacc.mp4) · [poster](https://media.goodcase.ai/cases/6d751a665387.jpg) · [original source](https://x.com/AIwithkhan/status/2113244959990329635)
 - Summary: A Day in the Life of a Korean Baddie 💋 Seedance 2.5 just got us amazed Prompt : STYLE: Hyper-realistic cinematic K-fashion editorial, Seoul street aesthetic, c…
 
@@ -200,7 +200,7 @@ SHOT 14: WS, 35mm orbit / Golden-hour rooftop scene overlooking Seoul. She poses
 
 ## E8 · Model and Fashion Items in Synchronized 360° Rotation
 
-- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 79 · stability: 60
+- Seedance 2.5 · creator: @AI__TSUBAKI · heat: 78 · stability: 60
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-clean-premium-4-second-fashion-lookbook-animation-starting-from-the-first-fr-a7de463708af) · [finished media](https://media.goodcase.ai/cases/0d093f32d701.mp4) · [poster](https://media.goodcase.ai/cases/04e386463d97.jpg) · [original source](https://x.com/AI__TSUBAKI/status/2102459655700287648)
 - Summary: Korean outfit style board GPT Image 2.5 and Seedance 2.5 on @renoiseaijp Prompt: A clean, premium 4-second fashion lookbook animation starting from the first fr…
 

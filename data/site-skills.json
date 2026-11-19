@@ -274,8 +274,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 105,
-      "creatorCount": 55,
+      "caseCount": 107,
+      "creatorCount": 57,
       "install": "npx skills add LearnPrompt/goodcase --skill pov-vlog-presence",
       "url": "https://goodcase.ai/skills/pov-vlog-presence",
       "cover": "https://media.goodcase.ai/media/poster/vlog-b7d2a3d9d7f2.jpg",
@@ -1241,6 +1241,31 @@
       }
     },
     {
+      "slug": "fashion-lookbook-portrait",
+      "baseSlug": "fashion-lookbook-portrait",
+      "kind": "shared",
+      "title": {
+        "en": "Fashion lookbook and portrait film",
+        "zh": "时尚 lookbook 与人像写真片"
+      },
+      "description": {
+        "en": "One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.",
+        "zh": "一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 48,
+      "creatorCount": 37,
+      "install": "npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait",
+      "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
+      "cover": "https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg",
+      "gate": {
+        "status": "below",
+        "tested": 19,
+        "passed": 15
+      }
+    },
+    {
       "slug": "retro-dv-home-video",
       "baseSlug": "retro-dv-home-video",
       "kind": "shared",
@@ -1438,31 +1463,6 @@
         "status": "stable",
         "tested": 3,
         "passed": 3
-      }
-    },
-    {
-      "slug": "fashion-lookbook-portrait",
-      "baseSlug": "fashion-lookbook-portrait",
-      "kind": "shared",
-      "title": {
-        "en": "Fashion lookbook and portrait film",
-        "zh": "时尚 lookbook 与人像写真片"
-      },
-      "description": {
-        "en": "One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.",
-        "zh": "一个人、一身造型、几个地点：从头写到脚的外观锁撑起整条片子，每个场景只给一个地点、一个动作、一种光。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 47,
-      "creatorCount": 37,
-      "install": "npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait",
-      "url": "https://goodcase.ai/skills/fashion-lookbook-portrait",
-      "cover": "https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-12c56e79550f.jpg",
-      "gate": {
-        "status": "below",
-        "tested": 19,
-        "passed": 15
       }
     },
     {
@@ -1754,8 +1754,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 7,
-      "creatorCount": 7,
+      "caseCount": 8,
+      "creatorCount": 8,
       "install": "npx skills add LearnPrompt/goodcase --skill game-ui-livestream",
       "url": "https://goodcase.ai/skills/game-ui-livestream",
       "cover": "https://media.goodcase.ai/supabase-legacy/case-media/carl-posters/doc3-game-realtime-magnetriot.jpg",

@@ -7,7 +7,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 ## E1 · Meilin-Element Kung Fu Performance
 
 - Seedance 2.0 · creator: @aimikoda · heat: 87 · stability: 86
-- Evidence: [GoodCase](https://goodcase.ai/cases/real-case-06-aimikoda) · [finished media](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.mp4) · [poster](https://goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg) · [original source](https://x.com/aimikoda/status/2054460932068200517)
+- Evidence: [GoodCase](https://goodcase.ai/cases/real-case-06-aimikoda) · [finished media](https://media.goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.mp4) · [poster](https://media.goodcase.ai/media/goodcase/aimikoda-2054460932068200517-01.jpg) · [original source](https://x.com/aimikoda/status/2054460932068200517)
 - Summary: 来自 X / 𝕏 的真实 视频 案例，由 @aimikoda 发布。适合观察 Prompt 结构、素材组织和可复用的创作模式。
 
 ```text
@@ -314,7 +314,7 @@ The afternoon has transitioned into golden ho
 
 ## E6 · Elsa’s Midnight Croissants and the Empty Coffee Cup
 
-- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 43
+- Seedance 2.5 · creator: @ElsaSofia__AI · heat: 42
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-premium-photorealistic-cinematic-30-second-live-action-food-commercial-67403ea43ed5) · [finished media](https://media.goodcase.ai/cases/adbb3917c618.mp4) · [poster](https://media.goodcase.ai/cases/e6bbd55f9455.jpg) · [original source](https://x.com/ElsaSofia__AI/status/2095105440392818697)
 - Summary: Made with seedance 2.5 Prompt: ⤵️ Create a premium photorealistic cinematic 30-second live-action food commercial using
 

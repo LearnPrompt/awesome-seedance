@@ -1,10 +1,685 @@
 # Seedance 2.5 — 全量案例（第 9/9 页）
 
-Seedance 2.5 全部 755 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 760 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 713–755 条，共 755 条。
+本页：第 714–760 条，共 760 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · **Part 9**
+
+### Seedance 2.5 男友视角手机实拍感情侣短片
+
+> 用我做的Seedance 2.5导演Skill， 将提示词优化了一下。 目前效果更加自然真实一点了， 特别是之前的脸红和表情太做作了。 提示词： 时长：20秒 画幅：9:16竖屏 风格：情侣POV手持手机实拍感（Boyfriend POV）
+
+[<img src="https://media.goodcase.ai/media/poster/liyue-ai-seedance-ai-dd263958ed42.jpg" width="600" alt="Seedance 2.5 男友视角手机实拍感情侣短片">](https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @liyue_ai | **来源:** [原帖](https://x.com/liyue_ai/status/2088956829590266002) | **发布:** 2026-08-16 | **热度:** 26
+
+<details>
+<summary><b>完整 prompt（461 行，点开展开）</b></summary>
+
+```
+时长：20秒
+画幅：9:16竖屏
+风格：情侣POV手持手机实拍感（Boyfriend POV），夏日户外自然光，一镜到底、绝对无剪辑，真实手机随手记录质感。
+角色：主角 
+
+【人物参考锁定】
+上传的图片 {{Mixed 1}} 是女主角唯一、完整的人物视觉参考。
+
+从第一帧到最后一帧，严格保持参考图中的：
+
+人物身份
+脸部五官
+脸型
+肤色
+年龄感
+发型
+发色
+身高
+体型
+身体比例
+服装
+鞋履
+整体人物气质。
+
+不得自行改变或重新设计人物服装，不增加参考图中不存在的饰品。
+
+正面、四分之三侧面、低头、抬头、说话、笑、走近镜头以及手部靠近面部时，始终保持同一张脸、同一个身体比例和同一套服装。
+
+不要继承参考图的背景、构图、姿势、文字和原始光线。
+
+【整体表演原则】
+
+女主角不是在表演短剧，也不知道男友准备说情话。
+
+她只是被男友临时叫住、随手拍摄。
+
+所有反应必须像真实人在日常聊天中自然发生：
+
+先听见
+→ 短暂停顿并理解
+→ 表情开始变化
+→ 身体随后产生反应
+→ 前一个表情留下少量余韵
+→ 再进入下一个状态。
+
+表情变化不能像切换表情包。
+
+不要逐条、机械地控制眉毛、眼睛、鼻子和嘴。
+
+面部可以出现轻微不对称、没有完全完成的笑、自然眨眼、短暂走神、吞咽、换气和视线回避。
+
+她主要看向手机后面的男友，而不是始终精准盯住手机镜头。
+
+台词之间保留真实的理解时间、呼吸和没有说话的小停顿。
+
+害羞不依赖明显脸红表现。
+
+不要生成突然出现的红色双颊、均匀腮红、粉色滤镜或夸张发热效果。
+
+如果自然光和情绪使面部出现颜色变化，只允许非常轻微、缓慢、不均匀的肤色升温，也可以完全不出现明显红晕。
+
+害羞主要通过：
+
+视线短暂移开
+嘴角压不住
+说话速度变慢
+手部短暂停顿
+身体轻微侧开
+不敢持续看男友
+
+来表现。
+
+【机位与景别原则】
+
+男友手持手机，以第一人称视角拍摄女主角。
+
+男友本人始终不进入画面，只保留近距离画外声音。
+
+两人最初保持约1.8–2米的正常聊天距离。女主角走近时，男友自然后退半步，使最近距离仍保持约1.2–1.5米，不形成压迫式贴脸拍摄。
+
+全片以全身和上半身景别为主。
+
+绝不出现脸部填满画面的大特写。
+
+起手：
+
+全身中景，女主角完整出现在画面中，头顶、脚下地面和身后的树都清楚可见。
+
+中段：
+
+腰部以上的上半身景别，头顶持续保留明显空间。
+
+最近处：
+
+胸口以上的半身近景，头顶、颈部、双肩和部分胸口仍完整保留在画面内，上下左右都有余量。
+
+景别变化只能由拍摄者和女主角的真实走动、轻微抬手和自然调整构图产生。
+
+禁止数字变焦、突然推近、镜头跳位和任何隐形剪辑。
+
+手机保持正常1×主摄视角，不使用超广角面部畸变，不使用长焦偷拍质感。
+
+镜头全程带轻微手持微晃和拍摄者呼吸造成的小幅上下起伏。
+
+男友说话或笑时，手机可以出现极轻微同步抖动。
+
+跟随人物走近时允许出现一次短暂、轻微的自动对焦迟疑，随后自然恢复清晰。
+
+不使用稳定器，不进行电影式运镜。
+
+【环境】
+
+夏日午后的树荫小路。
+
+女主角站在斑驳树影里，身后是一排绿树和被阳光晒亮的路面。
+
+使用真实手机景深。
+
+由于人物与背景存在距离，远处树叶和路面可以自然稍微柔化，但不能形成夸张的奶油虚化、人工光斑或人像模式边缘错误。
+
+树叶被微风吹动。
+
+斑驳树影缓慢扫过地面和人物服装，偶尔轻轻经过脸部，但不能遮住主要表情。
+
+保留真实皮肤纹理、毛孔、细小面部起伏和自然肤色差异。
+
+全程无字幕、无滤镜、无美颜、无磨皮、无特效、无背景音乐。
+
+——————
+
+【00:00–00:04｜全身中景·突然被叫住】
+
+这只是同一连续镜头的第一个表演阶段，不切镜。
+
+起手保持全身中景。
+
+女主角稍微侧背对镜头，站在树荫下，低头随手整理袖口或查看手里的小东西。
+
+重心自然落在一条腿上，另一条腿放松。
+
+她没有提前看镜头，也没有摆好拍照姿势。
+
+画外男声距离很近，带少量真实手机麦克风质感，像临时起意一样随口说：
+
+“诶，看这儿——笑一个。”
+
+她听见声音后延迟半拍。
+
+先轻轻“嗯？”一声，再抬起头，把视线从手里转到手机后面的男友。
+
+她没有立刻露出夸张惊讶。
+
+只是稍微停一下，像是在确认“现在拍吗”。
+
+她想配合着笑，但这个笑不太自然：
+
+嘴角只轻轻抬起一点，停留不到一秒。
+
+眼神仍带着刚被叫住的迟疑，短暂看开一下，再回到男友方向。
+
+下巴略微收紧。
+
+手里整理袖口的动作停住，不知道是否应该摆姿势。
+
+她保持这个勉强配合的浅笑，轻声问：
+
+“……这样？”
+
+语气不确定，尾音轻微上扬。
+
+问完后嘴角自然松下来一些，不要突然完全变脸。
+
+【00:04–00:07｜上半身·被说中旧事】
+
+全程不切镜。
+
+男友向前自然走一步，同时略微抬高手机。
+
+画面从全身中景自然变成腰部以上的上半身景别，头顶保持充足余量。
+
+画外男声带着忍笑的口吻说：
+
+“跟你第一次见我妈那天一样。”
+
+她先出现一个很短的理解停顿。
+
+原本没有完全消失的浅笑仍留在嘴角。
+
+眼神先停住，像是在回想这句话是什么意思。
+
+随后她意识到男友在取笑自己。
+
+她抬眼看向男友，身体向前靠小半步，语速自然变快：
+
+“那能一样吗！我那是紧张！”
+
+语气是熟人之间被揭旧事后的辩解，音量稍微提高，但不尖叫。
+
+她可以下意识抬起一只手解释一下，动作做到一半又觉得没必要，顺势放下来。
+
+表情以“有点急、又知道对方在逗自己”为主。
+
+不要突然瞪大眼睛，不要强制脸颊变红，不要演成真正生气。
+
+【00:07–00:10｜上半身·自己忍不住笑】
+
+上一句说完后，她本来还想维持认真辩解的样子。
+
+她先抿住嘴，努力不笑。
+
+短暂停顿后，一点笑意从嘴角漏出来。
+
+她从鼻子里轻轻笑出一声，随后才真正笑起来。
+
+整个笑的程度保持日常、克制，不是夸张爆笑。
+
+笑声可以带一点断续换气。
+
+她稍微低头、肩膀跟着笑轻轻动两下。
+
+一只手下意识抬到嘴边，但没有完全遮住脸。
+
+她侧开一点视线，像是不想让男友看到自己已经绷不住。
+
+停留片刻后，她重新看向男友，仍带着笑说：
+
+“……你还提这个！”
+
+台词有一点含混，因为笑意还没有完全退去。
+
+说完，她伸手朝手机方向做一个很轻的虚拍动作。
+
+手掌只从画面边缘经过，不覆盖整个镜头，也不真正碰撞手机。
+
+男友本能地避让一下。
+
+画面随之产生一次短促、幅度很小的自然晃动，随后重新回到她身上。
+
+【00:10–00:12｜上半身·笑意慢慢停下】
+
+全程保持同一镜头。
+
+画外男声忽然把笑意收住，语气听起来像真的发现了什么：
+
+“诶，别动，你嘴角有东西。”
+
+她的笑意不能瞬间消失。
+
+她先停住正在说话的动作。
+
+残留的笑声变成一小口呼气。
+
+抬在嘴边的手慢慢放低。
+
+眼神从放松变成疑惑。
+
+她看着手机后面的男友，停顿一下，像是在判断他是不是又在开玩笑。
+
+嘴角仍保留一点刚才笑过的痕迹。
+
+她轻声问：
+
+“啊？”
+
+表情是笑意未退和轻微担心同时存在，不要突然变成高度紧张或惊恐。
+
+【00:12–00:15｜走近·半身近景·简单自检】
+
+她朝镜头自然走近一步。
+
+男友本能地向后退半步，并略微调整手机角度。
+
+景别自然变成胸口以上的半身近景。
+
+头顶、颈部、两侧肩膀和部分胸口仍然完整留在画面里。
+
+绝不让脸填满画面。
+
+她走近时自动对焦出现一次很短的迟疑，随后重新落在她脸上。
+
+她边靠近边问：
+
+“哪儿啊？”
+
+她把手机当成临时镜子。
+
+下巴稍微收住，眼睛看向镜头附近。
+
+她抬起一只手，只在一侧嘴角轻轻擦一下。
+
+擦完后低头看一眼指尖。
+
+随后轻轻抿一下嘴唇，再抬眼看男友，等待答案。
+
+不要连续加入过多检查动作。
+
+不要同时生成反复擦嘴、舔嘴角、鼓腮、左右抿嘴和快速转眼。
+
+动作保持简单、真实，像一个人真的在确认嘴角是否沾了东西。
+
+【00:15–00:17｜听懂情话·短暂停顿】
+
+画外男声放慢一点，声音柔和，带着藏不住的笑意：
+
+“……沾了一点可爱。”
+
+她听完后出现约0.6–0.8秒的真实停顿。
+
+停顿不是完全僵硬，也不是整张脸突然没有表情。
+
+她擦嘴角的手停在半空一瞬间。
+
+眼睛仍看着男友，轻轻眨一次。
+
+随后视线短暂移向旁边，像是确认自己是不是听到了这么俗的一句话。
+
+嘴角很轻地动一下，但她立刻压住。
+
+她从鼻子里慢慢呼出一口气。
+
+整个反应应该像“被突如其来的土味情话逗到，同时有一点不好意思”，而不是遭到惊吓或瞬间脸红。
+
+【00:17–00:18.5｜很短的假嗔】
+
+她把停在嘴边的手放下来。
+
+先侧眼看男友一下。
+
+轻轻“啧”一声。
+
+头略微偏开，身体向后退小半步。
+
+景别自然回到完整上半身。
+
+她可以用很轻的语气说：
+
+“你真的很无聊诶……”
+
+语气里已经带着压不住的笑，听起来并不生气。
+
+假嗔只持续很短时间。
+
+不要用力皱鼻子，不要把眼睛眯成夸张细缝，不要突然耸肩或做漫画式嫌弃表情。
+
+【00:18.5–00:20｜自然害羞收尾】
+
+她说完后不再刻意表演害羞。
+
+嘴角先压住一下，随后还是慢慢露出一个自然、不完全对称的笑。
+
+她不太好意思继续直视男友。
+
+视线先落到旁边地面，停顿很短，再重新抬起看他一眼。
+
+她可以抬手轻轻碰一下自己的脸侧或把被风吹动的头发别到耳后，但不要整只手掌盖住脸。
+
+肩膀自然放松。
+
+身体轻微侧开，保持四分之三面对镜头。
+
+她用声音稍微放轻、带一点无奈笑意的语气说：
+
+“你真的……很烦诶。”
+
+“烦”并不是真生气，而是情侣之间被逗笑后的口是心非。
+
+说完后，她低头笑一下。
+
+随后又抬眼偷看手机后面的男友。
+
+目光碰上后，她没有继续说话，只是把笑压在嘴角，轻轻呼出一口气。
+
+画面停在上半身景别里：
+
+她稍微侧身，手停在脸侧或耳边，带着一个真实、克制、还没有完全放开的笑看向男友。
+
+不要定格成静态照片。
+
+最后一刻仍保留轻微呼吸、自然眨眼、树叶晃动和手机手持微动。
+
+【声音设计】
+
+全程只使用真实手机同期声。
+
+保留：
+
+近距离男友画外声音
+女主角自然说话声
+两人的轻微呼吸
+女主角压不住的短促笑声
+树叶被风吹动的沙沙声
+非常轻的远处环境声
+偶尔轻微的手机麦克风风噪。
+
+男友声音始终来自镜头后方，不出现画外旁白式录音棚质感。
+
+女主角台词与嘴型自然同步。
+
+说话时允许出现轻微吞字、停顿和带笑气息，不要逐字播音。
+
+无字幕。
+
+无背景音乐。
+
+无音效强化。
+
+【最终强制约束】
+
+全片必须是真正连续的一镜到底。
+
+所有时间段只是同一镜头中的连续表演阶段，不代表切镜。
+
+不能通过人物遮挡镜头制造隐藏转场。
+
+不能突然改变机位、光线、背景、人物距离或时间。
+
+景别顺序保持：
+
+全身中景
+→ 腰部以上上半身
+→ 胸口以上半身近景
+→ 完整上半身结尾。
+
+最近景别仍必须完整保留头顶、双肩、颈部和部分胸口。
+
+绝不出现脸部填满画面的大特写。
+
+严格保持 {{Mixed 1}} 的身份、五官、脸型、发型、发色、体型、服装和气质。
+
+人物的表情必须连续、克制、有理解和反应时间。
+
+禁止：
+
+突然爆红的脸颊
+均匀粉色腮红
+害羞特效
+美颜磨皮
+塑料皮肤
+五官抽搐
+机械式表情切换
+夸张瞪眼
+夸张皱鼻
+动漫式月牙眼
+短视频式撒娇表演
+过度摇头晃脑
+每句台词都配一个手势
+无原因大笑
+脸部比例变化
+换脸
+换装
+多余手指
+手掌遮满镜头
+背景跳变
+数字变焦
+镜头瞬移
+隐形剪辑
+人像模式边缘错误。
+
+真实感优先于“每条细节都精确执行”。
+
+如果某个微表情无法自然完成，可以减少动作，但不能用更夸张的表情代替。
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/liyue-ai-seedance-ai-dd263958ed42?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 首尔雪巷里的冬日清晨
+
+> Made with seedance 2.5 on Higgsfield Prompt: Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary winter morning in the life of a y…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657.jpg" width="600" alt="首尔雪巷里的冬日清晨">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @oggii_0 | **来源:** [原帖](https://x.com/oggii_0/status/2095764656694702168) | **发布:** 2026-09-04 | **热度:** 25
+
+**稳定度：** 75/100
+
+**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (75 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（83 行，点开展开）</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary winter morning in the life of a young Korean woman. No reference image.**
+
+**MAIN SUBJECT**
+
+Young Korean woman in her early 20s, naturally pretty, realistic skin texture, minimal makeup, bright and energetic personality.
+
+Wavy dark brown hair worn loose past her shoulders, a thick knit beanie pushed back slightly on her head. Wearing a puffy navy winter coat over a cream turtleneck, straight-leg jeans, white sneakers and a striped scarf loosely wrapped around her neck.
+
+Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+
+**SETTING**
+
+A quiet residential neighborhood in northern Seoul during a cold winter morning. Narrow snow-dusted streets, low brick houses, steam rising from a street-corner odeng stand, parked delivery scooters covered in frost, tangled power lines against a pale sky, a small stationery shop with a hand-painted sign, and thin patches of old snow lining the curbs.
+
+Everything should feel lived-in, ordinary and peaceful. No tourist attractions, advertisements, recognizable brands or commercial activity.
+
+**CAMERA / VISUAL AESTHETIC**
+
+Raw personal footage casually recorded by a friend on an early-2000s consumer DV camcorder.
+
+Strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, occasional motion blur, faded colors, soft digital detail, mild noise, accidental zooms and natural camera imperfections.
+
+No stabilization, drone footage, gimbal movement, dramatic lighting or polished commercial cinematography.
+
+**— LEAVING THE HOUSE**
+
+She steps out of a gate, breath visible in the cold air. She tugs her beanie down over her ears and looks toward the camera, laughing and shivering dramatically.
+
+She rubs her gloved hands together as she starts walking down the frosty street.
+
+**— ODENG STAND STOP**
+
+She stops at a small steaming street stand and buys a cup of hot odeng broth.
+
+She blows on it carefully, takes a sip, and sighs in relief at the warmth.
+
+She notices her friend filming and holds the cup toward the camera, grinning and saying something teasing before taking another sip.
+
+**— WALKING THROUGH THE NEIGHBORHOOD**
+
+She continues down the street, boots crunching softly on old snow.
+
+She passes a delivery worker loading boxes onto a scooter and gives a small wave; he nods back.
+
+She pauses to peek into the window of the small stationery shop, fogging the glass slightly with her breath.
+
+**— SMALL ACCIDENT**
+
+She steps onto a thin icy patch on the pavement and slips slightly, arms flailing for balance before catching herself on a nearby railing.
+
+She freezes for a second, wide-eyed, then bursts out laughing at herself.
+
+She looks at the camera, still catching her breath, and says:
+
+"Ya, geochyeo!" *("Hey, watch it!")*
+
+**— QUIET MOMENT**
+
+She reaches a small bus stop bench and sits down, wrapping both hands around the cup.
+
+She watches her breath fog in the cold air, tilting her head back slightly to look at the pale winter sky.
+
+A light gust blows loose snow off a nearby rooftop. She pulls her scarf up over her nose and smiles behind it.
+
+**— FINAL MOMENT**
+
+She stands up, finishes the last sip, and tosses the cup in a bin before continuing to walk.
+
+After a few steps, she turns back toward the camera, cheeks pink from the cold, and says:
+
+"Ppalli wa!" *("Hurry up and come!")*
+
+She keeps walking down the quiet snowy lane, breath trailing behind her, while the camera follows.
+
+She turns a corner past the frosted scooters and the recording abruptly cuts to black.
+
+**AUDIO**
+
+Natural location sound only: crunching snow, distant scooter engines, steam hissing from the odeng stand, footsteps, faint wind, a shop bell, muffled conversations and subtle camera-handling noise.
+
+No music. No narration. No artificial sound effects.
+
+Only the two spoken lines specified above.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-showing-an-ordina-15e6e9903657?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 烤肉串与冰镇石榴饮的制作
+
+> Seedance 2.5 Prompt: Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef sl…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778.jpg" width="600" alt="烤肉串与冰镇石榴饮的制作">](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithlumi | **来源:** [原帖](https://x.com/aiwithlumi/status/2095496077764100446) | **发布:** 2026-09-03 | **热度:** 25
+
+**稳定度：** 83/100
+
+**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (83 分) · [产物](https://media.goodcase.ai/retests/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778/video-grok-imagine-20261002-phase1/generated.mp4)
+
+```
+Create a short anime-style food video showing the step-by-step preparation of grilled meat skewers and a fresh pomegranate drink: a chef slices raw red meat into uniform cubes, seasons them with spices, then opens a ripe pomegranate and squeezes its juice and seeds into a bowl. Pour the juice into a tall glass with ice and sparkling mixer, then garnish with mint. Grill the seasoned meat cubes on skewers with peppers and onions, plate the juicy kebabs with fresh parsley, and present them beautifully beside the chilled pomegranate drink.
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-short-anime-style-food-video-showing-the-step-by-step-preparation-of-g-43cc46c1e778?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 屋顶训练室女子晚间健身
+
+> Made with Seedance 2.5 Prompt: 30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout.
+
+[<img src="https://media.goodcase.ai/cases/ac0d4f78ea21.jpg" width="600" alt="屋顶训练室女子晚间健身">](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @kingofdairyque | **来源:** [原帖](https://x.com/kingofdairyque/status/2089951161789092255) | **发布:** 2026-08-19 | **热度:** 25
+
+**稳定度：** 78/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (77.8 分) · [产物](https://media.goodcase.ai/retests/kingofdairyque-seedance-ai-d37a2e5fa395/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（51 行，点开展开）</b></summary>
+
+```
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+
+Audio:
+Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
+
+Negative:
+No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.Made with Seedance 2.5
+
+Prompt:
+
+30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/kingofdairyque-seedance-ai-d37a2e5fa395?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 生成暴雨港口灾难电影序列
 
@@ -1083,7 +1758,7 @@ MAIN WARRIOR 是一名完全原创、无法对应任何现成人物的明确成�
 
 [<img src="https://media.goodcase.ai/media/poster/bamboo-toy-car-transformation-vlog.jpg" width="600" alt="Bamboo Toy Car Transformation Vlog">](https://goodcase.ai/cases/bamboo-toy-car-transformation-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 17
+**作者:** @john87445528 | **来源:** [原帖](https://x.com/john87445528/status/2084644638724395138) | **发布:** 2026-08-04 | **热度:** 16
 
 **稳定度：** 55/100
 

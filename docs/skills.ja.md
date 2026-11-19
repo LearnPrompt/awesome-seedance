@@ -17,15 +17,15 @@
 | Skill | ケース | クリエイターメソッド |
 | --- | --- | --- |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 115 | 9 |
-| [POV and vlog presence](#pov-vlog-presence) | 105 | 13 |
+| [POV and vlog presence](#pov-vlog-presence) | 107 | 13 |
 | [Action continuity choreography](#action-continuity-choreography) | 104 | 8 |
 | [Cinematic travel montage](#travel-city-walk) | 74 | 5 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 70 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 62 | 2 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 48 | 0 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
 | [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 47 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
 | [Sports and extreme stunts](#sports-extreme-stunts) | 40 | 0 |
@@ -35,7 +35,7 @@
 | [Cinematic drama scene](#cinematic-drama-scene) | 18 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
-| [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 7 | 0 |
+| [Gameplay capture with HUD and stream overlay](#game-ui-livestream) | 8 | 0 |
 | [Code-rendered explainer video](#code-rendered-explainer-video) | 6 | 0 |
 
 <a id="epic-fantasy-scifi-spectacle"></a>
@@ -70,7 +70,7 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 
 > Create credible presence through first-person framing, handheld movement, and lived-in detail.
 
-55 人のクリエイターによる 105 ケース · クリエイターメソッド 13 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+57 人のクリエイターによる 107 ケース · クリエイターメソッド 13 件 · [goodcase.ai で開く](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 実例 64 件を再テスト、51 件が合格
 
@@ -198,6 +198,22 @@ npx skills add LearnPrompt/goodcase --skill animation-style-consistency
 | noorwithwifi | Ghibli ASMR Whimsy<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1diwzmp` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1diwzmp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | yourPlugAI | Animation style and character consistency<br><sub>テスト待ち</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="fashion-lookbook-portrait"></a>
+
+### Fashion lookbook and portrait film
+
+> One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
+
+37 人のクリエイターによる 48 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+実例 19 件を再テスト、15 件が合格
+
+```bash
+npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
+```
+
+クリエイターメソッドはまだありません。
+
 <a id="retro-dv-home-video"></a>
 
 ### Early-2000s DV home video
@@ -237,22 +253,6 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 | doctorwasif | Horror and suspense short<br><sub>実例 4 件を再テスト、2 件が合格</sub> | 8 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1jqwyww` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1jqwyww?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | AIwithSynthia | Horror and suspense short<br><sub>実例 4 件を再テスト、1 件が合格</sub> | 8 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | Horror and suspense short<br><sub>安定再現 · 実例 3 件を再テスト、3 件が合格</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="fashion-lookbook-portrait"></a>
-
-### Fashion lookbook and portrait film
-
-> One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
-
-37 人のクリエイターによる 47 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-実例 19 件を再テスト、15 件が合格
-
-```bash
-npx skills add LearnPrompt/goodcase --skill fashion-lookbook-portrait
-```
-
-クリエイターメソッドはまだありません。
 
 <a id="process-transformation-story"></a>
 
@@ -408,7 +408,7 @@ npx skills add LearnPrompt/goodcase --skill storyboard-grid-to-video
 
 > The screen itself is the shot: a fake gameplay capture, livestream or desktop recording. It holds up when the overlay layer is pinned to fixed positions and its numbers and banners change in step with the action.
 
-7 人のクリエイターによる 7 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+8 人のクリエイターによる 8 ケース · クリエイターメソッド 0 件 · [goodcase.ai で開く](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 実例 5 件を再テスト、3 件が合格
 
