@@ -16,9 +16,9 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 115 | 9 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 116 | 9 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 107 | 13 |
-| [动作连续性编排](#action-continuity-choreography) | 104 | 8 |
+| [动作连续性编排](#action-continuity-choreography) | 105 | 8 |
 | [电影感旅行漫游](#travel-city-walk) | 74 | 5 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 2 |
 | [宠物动物当主角](#pets-and-animals-lead) | 70 | 2 |
@@ -27,10 +27,10 @@
 | [早年 DV 家庭录像](#retro-dv-home-video) | 48 | 3 |
 | [恐怖悬疑短片](#horror-suspense-short) | 47 | 3 |
 | [过程与变换叙事](#process-transformation-story) | 41 | 0 |
+| [体育与极限运动](#sports-extreme-stunts) | 41 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
-| [体育与极限运动](#sports-extreme-stunts) | 40 | 0 |
 | [汽车与载具速度片](#vehicles-at-speed) | 37 | 0 |
-| [美食特写与吃播 ASMR](#food-asmr) | 35 | 0 |
+| [美食特写与吃播 ASMR](#food-asmr) | 36 | 0 |
 | [3D 卡通角色短片](#3d-cartoon-character-short) | 31 | 1 |
 | [电影感剧情短片](#cinematic-drama-scene) | 18 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
@@ -44,7 +44,7 @@
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-115 个案例，来自 78 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+116 个案例，来自 79 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 59 条例证实测，55 条通过
 
@@ -100,7 +100,7 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 
 > 把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。
 
-104 个案例，来自 65 位创作者 · 8 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+105 个案例，来自 66 位创作者 · 8 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 43 条例证实测，37 条通过
 
@@ -270,6 +270,22 @@ npx skills add LearnPrompt/goodcase --skill process-transformation-story
 
 暂时还没有创作者方法。
 
+<a id="sports-extreme-stunts"></a>
+
+### 体育与极限运动
+
+> 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
+
+41 个案例，来自 37 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+稳定复现 · 17 条例证实测，14 条通过
+
+```bash
+npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
+```
+
+暂时还没有创作者方法。
+
 <a id="twist-comedy-skit"></a>
 
 ### 反转搞笑短片
@@ -287,22 +303,6 @@ npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
 | 创作者 | 方法 | 案例 | 安装 | 页面 |
 | --- | --- | --- | --- | --- |
 | Ciri_ai | 反转搞笑短片<br><sub>4 条例证实测，3 条通过</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="sports-extreme-stunts"></a>
-
-### 体育与极限运动
-
-> 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
-
-40 个案例，来自 36 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-稳定复现 · 17 条例证实测，14 条通过
-
-```bash
-npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
-```
-
-暂时还没有创作者方法。
 
 <a id="vehicles-at-speed"></a>
 
@@ -326,7 +326,7 @@ npx skills add LearnPrompt/goodcase --skill vehicles-at-speed
 
 > 烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。
 
-35 个案例，来自 28 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+36 个案例，来自 29 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 18 条例证实测，15 条通过
 

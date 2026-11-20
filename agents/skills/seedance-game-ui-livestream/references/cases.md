@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
 
-- Seedance 2.5 · creator: 木马人 · heat: 94
+- Seedance 2.5 · creator: 木马人 · heat: 93
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) · [finished media](https://media.goodcase.ai/cases/4ce232c0fbe6.mp4) · [poster](https://media.goodcase.ai/cases/f16c9f956a8d.jpg) · [original source](https://x.com/cnyzgkc/status/2099029556434985065)
 - Summary: 木马人（@cnyzgkc）揭晓一条引发 29 万次浏览的 AI 动态桌面壁纸视频由 Seedance 2.5 生成。作者在 @johnAGI168 的 prompt 基础上优化加料，完整复刻效果。Prompt 描述一段 29 秒固定机位超真实 AI 动态桌面互动视频：女主坐在黑色皮沙发上，根据画外男声指令换装三套学院风造型，全程一镜连续。Prompt 极其精细地控制了字幕界面（逐字打字效果、颜色区分说话人）、服装设计（三套造型逐件描述）和逐秒表演调度（00:00-00:29），是 Seedance 2.5 写实互动类 prompt 的典型范例。
 
@@ -492,7 +492,7 @@ AUDIO: Hospital ambience, footsteps, monitor beeps, equipment sounds, emergency 
 
 ## E8 · Theft and Escape at a Rural Japanese Station
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 47
+- Seedance 2.5 · creator: @AIwithkhan · heat: 46
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-video-s-405ad1ebb338) · [finished media](https://media.goodcase.ai/cases/890304e94a79.mp4) · [poster](https://media.goodcase.ai/cases/5864458476ef.jpg) · [original source](https://x.com/AIwithkhan/status/2099464101525393596)
 - Summary: She really woke up and chose GTA-style chaos. 🔥 No hesitation, just straight into the mission. Created with Seedance 2.5 on @itsPolloAI Prompt : Create a 30-se…
 

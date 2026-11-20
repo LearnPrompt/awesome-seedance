@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Woman in Black Stands Still Amid a Synchronized Crowd
 
-- Seedance 2.5 · creator: @AIwithkhan · heat: 98
+- Seedance 2.5 · creator: @AIwithkhan · heat: 97
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248) · [finished media](https://media.goodcase.ai/cases/2792b7b678a6.mp4) · [poster](https://media.goodcase.ai/cases/8ca97a85493c.jpg) · [original source](https://x.com/AIwithkhan/status/2099707375943066094)
 - Summary: I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
 

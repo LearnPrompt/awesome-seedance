@@ -24,8 +24,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 115,
-      "creatorCount": 78,
+      "caseCount": 116,
+      "creatorCount": 79,
       "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle",
       "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle",
       "cover": "https://media.goodcase.ai/supply-media/visual-xiaohongshu-20261020/6ad4b41e000000000c009966/poster-cover.webp",
@@ -645,8 +645,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 104,
-      "creatorCount": 65,
+      "caseCount": 105,
+      "creatorCount": 66,
       "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography",
       "url": "https://goodcase.ai/skills/action-continuity-choreography",
       "cover": "https://media.goodcase.ai/cases/588d8908ac46.jpg",
@@ -1491,6 +1491,31 @@
       }
     },
     {
+      "slug": "sports-extreme-stunts",
+      "baseSlug": "sports-extreme-stunts",
+      "kind": "shared",
+      "title": {
+        "en": "Sports and extreme stunts",
+        "zh": "体育与极限运动"
+      },
+      "description": {
+        "en": "It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.",
+        "zh": "全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。"
+      },
+      "styleTag": null,
+      "creator": null,
+      "caseCount": 41,
+      "creatorCount": 37,
+      "install": "npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts",
+      "url": "https://goodcase.ai/skills/sports-extreme-stunts",
+      "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg",
+      "gate": {
+        "status": "stable",
+        "tested": 17,
+        "passed": 14
+      }
+    },
+    {
       "slug": "twist-comedy-skit",
       "baseSlug": "twist-comedy-skit",
       "kind": "shared",
@@ -1541,31 +1566,6 @@
       }
     },
     {
-      "slug": "sports-extreme-stunts",
-      "baseSlug": "sports-extreme-stunts",
-      "kind": "shared",
-      "title": {
-        "en": "Sports and extreme stunts",
-        "zh": "体育与极限运动"
-      },
-      "description": {
-        "en": "It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.",
-        "zh": "全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。"
-      },
-      "styleTag": null,
-      "creator": null,
-      "caseCount": 40,
-      "creatorCount": 36,
-      "install": "npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts",
-      "url": "https://goodcase.ai/skills/sports-extreme-stunts",
-      "cover": "https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg",
-      "gate": {
-        "status": "stable",
-        "tested": 17,
-        "passed": 14
-      }
-    },
-    {
       "slug": "vehicles-at-speed",
       "baseSlug": "vehicles-at-speed",
       "kind": "shared",
@@ -1604,8 +1604,8 @@
       },
       "styleTag": null,
       "creator": null,
-      "caseCount": 35,
-      "creatorCount": 28,
+      "caseCount": 36,
+      "creatorCount": 29,
       "install": "npx skills add LearnPrompt/goodcase --skill food-asmr",
       "url": "https://goodcase.ai/skills/food-asmr",
       "cover": "https://media.goodcase.ai/media/poster/2d-38a41133eab1.jpg",

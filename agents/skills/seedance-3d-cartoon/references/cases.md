@@ -94,7 +94,7 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 ## E3 · A Stern Toddler Doctor and Her Nervous Adult Patient
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 90
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c) · [finished media](https://media.goodcase.ai/cases/366adc3963e9.mp4) · [poster](https://media.goodcase.ai/cases/7e3154d06ba2.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2113820262743646446)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has b…
 

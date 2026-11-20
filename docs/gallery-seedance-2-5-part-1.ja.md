@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 1/9）
 
-Seedance 2.5 の全 760 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 765 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 760 件中 1–81 件目。
+このページ: 765 件中 1–83 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
 
@@ -58,6 +58,45 @@ Beautiful modern bedroom, elegant walk-in wardrobe, warm natural sunlight, expre
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-funny-and-heartwarming-3d-animated-comedy-featuring-a-beautiful-young-pregnan-e17face1bf16?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Swordswoman duels a skeletal wraith on a ruined shore
+
+> This AI video is an Absolute Masterpiece🔥 Made by Fable 5.2 + Seedance 2.5 is unbelievable Prompt below:
+
+[<img src="https://media.goodcase.ai/cases/19a7eeea90df.jpg" width="600" alt="Swordswoman duels a skeletal wraith on a ruined shore">](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-50s-built-in-4-shots-12-13s-each-4b8303bc6bc1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Viniai_ | **出典:** [元投稿](https://x.com/Viniai_/status/2122916879824306422) | **公開日:** 2026-11-18 | **ヒート:** 99
+
+<details>
+<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
+
+```
+Prompt:
+
+Cinematic dark-fantasy battle, 16:9, ~50s, built in 4 shots (12–13s each). Same characters, location and grade in every shot.
+
+CHARACTERS (lock with reference images):
+• HEROINE: young woman, pale skin, long straight black hair, calm cold expression. Layered tattered black hooded cloak, wet and heavy, frayed edges. Wields a very long thin katana (nodachi). Moves low and fast, often crouched or kneeling in water.
+• WRAITH: floating skeletal spirit, bone-white skull, black smoke and torn rags for a body (no legs). Ribcage glows molten orange like embers inside. Rusted chains hang from bony wrists. Long clawed fingers. Leaves a trail of black ash particles. Eyes glow red when enraged.
+
+LOCATION: destroyed shoreline after a war. Ankle-deep grey seawater, wet rocks, broken wooden palisade walls, piles of splintered timber, a wrecked wooden sailing ship on the shore, a tall dark pagoda tower in the distance. Overcast sky with breaking clouds and soft sun rays behind.
+
+LOOK: photoreal, AAA game-cinematic. Desaturated teal-grey grade, crushed blacks, warm orange only from the ribcage glow. Anamorphic lens, shallow depth of field, heavy motion blur, handheld chase camera that whips, dives and orbits with the action. Water spray, ash and splinters in every shot.
+
+SHOT 1 (0–13s): Wide low angle. Heroine kneels in water, sword drawn. The wraith dives at her out of black smoke. She rolls; it smashes through a palisade, wood explodes. It swings its chains, she dodges, they clash. Fast push-in to an extreme close-up of the glowing ribcage as her blade stabs into it, embers burst out.
+
+SHOT 2 (13–26s): The wraith screams, arms spread, and blasts her back. She skids across the water and stops crouched, one hand on the surface. Black ink swirls in a circle around her hand. Front close-up of her face, emotionless. She charges; the camera races low over the water behind her. Mid-air clash, the wraith bursts into black ash and re-forms behind her.
+
+SHOT 3 (26–39s): The wraith hurls a giant ball of spiky black smoke. It hits the water next to her and blasts a huge white water explosion. She stays kneeling, unmoved. Slow-motion close-up of her gripping the sword over her shoulder. She leaps out of the spray and slashes; the wraith spins into a vortex of black smoke. Its skull lunges at the camera, red eyes ignite, red mist behind.
+
+SHOT 4 (39–50s): She leaps high, sword raised, and slams down into a huge splash. Chaotic close fight, black smoke whips past the lens. The wraith rises from wreckage and grows into a giant hulking skeletal demon draped in rags and chains, burning debris behind it. Its eyes flare red. It charges straight at the camera through the water, arms spread wide, chains swinging. Hard cut to black.
+
+SOUND (premium, loud, crisp, full-range, never muffled): deep epic orchestral score with taiko drums and low brass, rising to a huge hit at every clash. Sharp metallic sword swings and ringing steel. Bone and chain clatter. Heavy water splashes and impacts with deep sub-bass booms. Wood cracking and exploding. A distorted demonic wraith scream with a reverb tail. Wind and ash hiss. Wide stereo field, punchy transients, cinema-trailer mix. No dialogue.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-50s-built-in-4-shots-12-13s-each-4b8303bc6bc1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Selfie-Style Skincare UGC Ad
 
@@ -259,44 +298,6 @@ REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-25-minidv-coffee-asmr-vlog?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Woman in Black Stands Still Amid a Synchronized Crowd
-
-> I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
-
-[<img src="https://media.goodcase.ai/cases/8ca97a85493c.jpg" width="600" alt="Woman in Black Stands Still Amid a Synchronized Crowd">](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2099707375943066094) | **公開日:** 2026-09-15 | **ヒート:** 98
-
-<details>
-<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
-
-```
-I came like a STORM  
-
-Seedance 2.5
-
-Prompt  👇:
-
-Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman, crowd, wardrobe, framing, and atmosphere.
-A young woman with the same short dark bob wears a fitted black turtleneck, black trousers, and black shoes, standing confidently at the center of a large crowd.
-Start with her walking slowly toward the middle of the crowd, calm and expressionless, with a lit cigarette naturally held between her lips.
-She reaches the center, stops, and faces directly into the camera.
-She takes one slow drag from the cigarette, then removes it from her mouth.
-She slowly exhales a visible stream of smoke toward the camera, with the smoke naturally drifting across her face.
-She lowers her hand and becomes completely still, staring directly into the lens.
-The entire crowd behind her remains frozen for a brief moment.
-Suddenly, everyone behind her begins moving in perfect synchronization — sharp head turns, shoulder jerks, folding forward and snapping upright.
-The movement should feel rhythmic, strange, powerful, and physically realistic.
-The woman does not move at all while the entire crowd moves behind her.
-Slowly push the camera closer to her, keeping her sharply focused while the crowd has subtle depth-of-field blur.
-Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothing, cigarette ember, and physically accurate smoke.
-Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Katsudon in a Sunlit Japanese Kitchen
 
 > So delicious 😋 Seedance 2.5 Prompt: Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirel…
@@ -440,6 +441,44 @@ Smooth toddler walking and reaching movements, natural hand interaction with eve
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-73b10f69e32a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Woman in Black Stands Still Amid a Synchronized Crowd
+
+> I came like a STORM Seedance 2.5 Prompt 👇: Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman,…
+
+[<img src="https://media.goodcase.ai/cases/8ca97a85493c.jpg" width="600" alt="Woman in Black Stands Still Amid a Synchronized Crowd">](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithkhan | **出典:** [元投稿](https://x.com/AIwithkhan/status/2099707375943066094) | **公開日:** 2026-09-15 | **ヒート:** 97
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+I came like a STORM  
+
+Seedance 2.5
+
+Prompt  👇:
+
+Create a ultra-realistic cinematic fashion video using the uploaded images as exact visual references for the woman, crowd, wardrobe, framing, and atmosphere.
+A young woman with the same short dark bob wears a fitted black turtleneck, black trousers, and black shoes, standing confidently at the center of a large crowd.
+Start with her walking slowly toward the middle of the crowd, calm and expressionless, with a lit cigarette naturally held between her lips.
+She reaches the center, stops, and faces directly into the camera.
+She takes one slow drag from the cigarette, then removes it from her mouth.
+She slowly exhales a visible stream of smoke toward the camera, with the smoke naturally drifting across her face.
+She lowers her hand and becomes completely still, staring directly into the lens.
+The entire crowd behind her remains frozen for a brief moment.
+Suddenly, everyone behind her begins moving in perfect synchronization — sharp head turns, shoulder jerks, folding forward and snapping upright.
+The movement should feel rhythmic, strange, powerful, and physically realistic.
+The woman does not move at all while the entire crowd moves behind her.
+Slowly push the camera closer to her, keeping her sharply focused while the crowd has subtle depth-of-field blur.
+Dark, cold, mysterious lighting with deep shadows, realistic skin, hair, clothing, cigarette ember, and physically accurate smoke.
+Photorealistic live-action quality, cinematic composition, natural human movement; no animation, CGI look, duplicated woman, distorted bodies, excessive smoke, text, subtitles, or logos.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-i-came-like-a-storm-d30f955b4248?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Woman Hides in a Dungeon to Protect Three Dragon Hatchlings
 
@@ -1079,100 +1118,6 @@ Fast real-time movement throughout, including the opening wipe. No slow motion, 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
-
-> @cnyzgkc reveals that an AI live wallpaper video with 290K views was made with Seedance 2.5, improving on a prompt from @johnAGI168. A 29-second fixed-camera scene: a woman on a black leather sofa changes into three campus outfits on off-screen male voice commands in one take.
-
-[<img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="600" alt="Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take">](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** 木马人 | **出典:** [元投稿](https://x.com/cnyzgkc/status/2099029556434985065) | **公開日:** 2026-09-13 | **ヒート:** 94
-
-<details>
-<summary><b>プロンプト全文（76 行、クリックで展開）</b></summary>
-
-```
-时长29秒，比例16:9横屏，语言中文。
-人物参考：仅参考图片1锁定五官、发型、肤色和人物身份；服装严格按下文变化。人物要求：成年女主。全程同一人物，不换脸、不改变身材比例；提高权重，优先死死锁住五官、发型、肤色、身份。
-
-整体风格：超真实AI动态桌面互动视频，模拟电脑全屏桌面录屏。底部保留简洁任务栏，左上角少量桌面图标；画面主体是一张会实时互动的动态壁纸。黑色皮质沙发，冷色柔光，深色背景。固定机位，全程一镜连续，不切镜、不推拉。女主主要位于画面右侧，左侧留给语音字幕界面。
-
-字幕界面（保留，覆盖「禁止文字」约束）：字幕必须出现于画面左侧中部，不能放在底部。纤细现代无衬线中文字体，中等字号，无底框，轻微柔光和阴影。女主说话：淡紫色文字，左侧显示扬声器图标。男声说话：白色文字，左侧显示麦克风图标。字幕下方始终有一条细小白色音频波形，随声音实时跳动。所有字幕跟随发音逐字输入，约每字0.08—0.12秒，像键盘正在手动打字；当前句说完后停留约0.4秒，再整体淡出。不能整句突然出现，不能提前显示后面的字。
-
-服装设计（三套造型统一只改领口：低圆领/浅V领，微露事业线，其余保持完整遮盖）：
-初始造型：黑白横条纹修身短款七分袖上衣（低圆领/浅V领，微露事业线，其余完整遮盖），黑色低腰抽绳休闲长裤，银色细项链。
-第一套学院风：上衣为低圆领/浅V领、微露事业线、其余完整遮盖，蓝黑格纹百褶短裙，白色过膝袜，白色十字装饰袜带，整体清爽俏皮。
-第二套学院风：黑色修身西装外套、白色衬衫（衬衫低圆领/浅V领，微露事业线，其余完整遮盖）、酒红格纹领带、酒红黑色格纹百褶短裙、浅肤色薄丝袜、黑色乐福鞋，精致成熟。
-
-SINGLE CONTINUOUS SHOT（00:00-00:29）
-
-00:00-00:02.80
-女主穿初始造型坐在黑色皮沙发右侧，腿上抱着黑色靠枕。她双手轻轻整理头发，随后看向镜头，露出亲切、略带俏皮的微笑。
-女主自然开口：「说吧……今天想看什么？」
-字幕逐字显示：「说吧……
-今天想看什么？」
-
-00:03.00-00:03.80
-男主始终不露脸，仅有画外男声，语气直接而期待：「想看JK。」
-女主安静听着，笑容稍微加深，轻轻点头。
-字幕逐字显示：「想看JK」
-
-00:04.70-00:06.00
-女主爽快回答：「好，等我一下。」
-她把怀里的靠枕放到一旁，右手撑住沙发准备起身。
-字幕逐字显示：「好，等我一下。」
-
-00:06.00-00:08.80
-女主快速起身。由于机位固定且距离较近，她的腰部和腿部从镜头前向上掠过，脸部离开画面上沿；随后向右侧走出画面。动作带轻快的「嗖」声，但不能瞬移、不能直接变形。
-
-00:08.80-00:11.50
-换装完全在画外完成。沙发上多留约一秒空镜。伴随轻快的亮相音效，女主穿第一套蓝色学院风造型从右侧重新走入。她站得离镜头较近，画面主要呈现腰部、格纹裙摆和过膝袜，头部自然超出画面上沿。
-女主带着展示新造型的俏皮语气说：「当当……老公……怎么样？」
-字幕逐字显示：「当当……
-老公……怎么样？」
-
-00:11.70-00:12.50
-男主画外音稍作思考，满意地回答：「嗯……不错。」
-女主保持站姿，轻微左右转动腰身，让格纹裙摆自然摆动。
-字幕逐字显示：「嗯……不错」
-
-00:12.90-00:14.40
-女主突然想起另一套造型，轻快地说：「等等，还有一套。」
-说完立即转身向右侧离画，裙摆随动作摆动。
-字幕逐字显示：「等等，还有一套」
-
-00:14.40-00:17.40
-换装完全在画外完成。沙发上多留约一秒空镜。随后响起一次短促流畅的换装「嗖」声，女主穿第二套酒红学院风造型从右侧走入。固定镜头先看到黑色西装下摆、酒红格纹裙、丝袜和乐福鞋，服装必须真实完整，不能在行走中融化或改变。
-
-00:17.40-00:19.00
-女主停在镜头右侧，略微调整站姿，让西装下摆和裙褶自然落下，询问：「这套呢？」
-字幕逐字显示：「这套呢？」
-
-00:19.50-00:20.50
-男主画外音立即赞赏：「这套也好看。」
-女主听完轻轻笑一下，身体开始降低准备坐下。
-字幕逐字显示：「这套也好看」
-
-00:20.50-00:24.80
-伴随轻微衣料摩擦声，女主迅速而自然地坐回沙发。她将黑色靠枕重新放在腿上，整理两侧头发和领带，随后微微侧身靠住沙发。镜头重新完整拍到她的脸。她始终看着镜头，表情自信、亲近、略带捉弄感。
-
-00:25.00-00:28.20
-女主抱住靠枕，先露出得意的小笑容，然后对镜头说：「机会用完啦。老公想留哪套呢？」
-「机会用完啦」语气像宣布游戏规则；「老公想留哪套呢」稍微放慢，尾音上扬，带亲密询问感。
-字幕逐字显示：「机会用完啦。
-老公想留哪套呢？」
-
-00:28.20-00:29.00
-字幕完整停留。女主保持眼神交流，轻轻偏头，嘴角维持俏皮微笑。波形逐渐归于平静，画面自然结束。
-
-音频：女主真实现场人声，口型精确；男主为镜头外中文男声，不露脸。保留轻微电子氛围音乐（对白时自动降低，权重提高）、换装「嗖」声、亮相提示音、衣料摩擦声，所有对白清楚可辨。
-
-表演约束：女主不是夸张卖萌。微笑、点头、整理头发、展示服装均自然克制；开场亲切，第一次换装俏皮，第二次换装更自信，结尾带轻微捉弄感。男声说话时女主必须闭嘴并自然聆听。
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Korean Woman’s Morning Workout at a Neighborhood Gym
 
 > Seedance 2.5 on @Flovaai @Flovaai_Japan My invite link https://t.co/4bi7Gg4te3 Skill used: script to video https://t.co/7uC3BJRHSL Prompt Create a **45-second u…
@@ -1601,6 +1546,100 @@ Audio: heavy thuds, bone-crunching punches, glass shattering, wood splintering, 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-gritty-cinematic-photorealistic-20-second-urban-martial-arts-action-scene-i-b893e4da1758?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
+
+> @cnyzgkc reveals that an AI live wallpaper video with 290K views was made with Seedance 2.5, improving on a prompt from @johnAGI168. A 29-second fixed-camera scene: a woman on a black leather sofa changes into three campus outfits on off-screen male voice commands in one take.
+
+[<img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="600" alt="Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take">](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** 木马人 | **出典:** [元投稿](https://x.com/cnyzgkc/status/2099029556434985065) | **公開日:** 2026-09-13 | **ヒート:** 93
+
+<details>
+<summary><b>プロンプト全文（76 行、クリックで展開）</b></summary>
+
+```
+时长29秒，比例16:9横屏，语言中文。
+人物参考：仅参考图片1锁定五官、发型、肤色和人物身份；服装严格按下文变化。人物要求：成年女主。全程同一人物，不换脸、不改变身材比例；提高权重，优先死死锁住五官、发型、肤色、身份。
+
+整体风格：超真实AI动态桌面互动视频，模拟电脑全屏桌面录屏。底部保留简洁任务栏，左上角少量桌面图标；画面主体是一张会实时互动的动态壁纸。黑色皮质沙发，冷色柔光，深色背景。固定机位，全程一镜连续，不切镜、不推拉。女主主要位于画面右侧，左侧留给语音字幕界面。
+
+字幕界面（保留，覆盖「禁止文字」约束）：字幕必须出现于画面左侧中部，不能放在底部。纤细现代无衬线中文字体，中等字号，无底框，轻微柔光和阴影。女主说话：淡紫色文字，左侧显示扬声器图标。男声说话：白色文字，左侧显示麦克风图标。字幕下方始终有一条细小白色音频波形，随声音实时跳动。所有字幕跟随发音逐字输入，约每字0.08—0.12秒，像键盘正在手动打字；当前句说完后停留约0.4秒，再整体淡出。不能整句突然出现，不能提前显示后面的字。
+
+服装设计（三套造型统一只改领口：低圆领/浅V领，微露事业线，其余保持完整遮盖）：
+初始造型：黑白横条纹修身短款七分袖上衣（低圆领/浅V领，微露事业线，其余完整遮盖），黑色低腰抽绳休闲长裤，银色细项链。
+第一套学院风：上衣为低圆领/浅V领、微露事业线、其余完整遮盖，蓝黑格纹百褶短裙，白色过膝袜，白色十字装饰袜带，整体清爽俏皮。
+第二套学院风：黑色修身西装外套、白色衬衫（衬衫低圆领/浅V领，微露事业线，其余完整遮盖）、酒红格纹领带、酒红黑色格纹百褶短裙、浅肤色薄丝袜、黑色乐福鞋，精致成熟。
+
+SINGLE CONTINUOUS SHOT（00:00-00:29）
+
+00:00-00:02.80
+女主穿初始造型坐在黑色皮沙发右侧，腿上抱着黑色靠枕。她双手轻轻整理头发，随后看向镜头，露出亲切、略带俏皮的微笑。
+女主自然开口：「说吧……今天想看什么？」
+字幕逐字显示：「说吧……
+今天想看什么？」
+
+00:03.00-00:03.80
+男主始终不露脸，仅有画外男声，语气直接而期待：「想看JK。」
+女主安静听着，笑容稍微加深，轻轻点头。
+字幕逐字显示：「想看JK」
+
+00:04.70-00:06.00
+女主爽快回答：「好，等我一下。」
+她把怀里的靠枕放到一旁，右手撑住沙发准备起身。
+字幕逐字显示：「好，等我一下。」
+
+00:06.00-00:08.80
+女主快速起身。由于机位固定且距离较近，她的腰部和腿部从镜头前向上掠过，脸部离开画面上沿；随后向右侧走出画面。动作带轻快的「嗖」声，但不能瞬移、不能直接变形。
+
+00:08.80-00:11.50
+换装完全在画外完成。沙发上多留约一秒空镜。伴随轻快的亮相音效，女主穿第一套蓝色学院风造型从右侧重新走入。她站得离镜头较近，画面主要呈现腰部、格纹裙摆和过膝袜，头部自然超出画面上沿。
+女主带着展示新造型的俏皮语气说：「当当……老公……怎么样？」
+字幕逐字显示：「当当……
+老公……怎么样？」
+
+00:11.70-00:12.50
+男主画外音稍作思考，满意地回答：「嗯……不错。」
+女主保持站姿，轻微左右转动腰身，让格纹裙摆自然摆动。
+字幕逐字显示：「嗯……不错」
+
+00:12.90-00:14.40
+女主突然想起另一套造型，轻快地说：「等等，还有一套。」
+说完立即转身向右侧离画，裙摆随动作摆动。
+字幕逐字显示：「等等，还有一套」
+
+00:14.40-00:17.40
+换装完全在画外完成。沙发上多留约一秒空镜。随后响起一次短促流畅的换装「嗖」声，女主穿第二套酒红学院风造型从右侧走入。固定镜头先看到黑色西装下摆、酒红格纹裙、丝袜和乐福鞋，服装必须真实完整，不能在行走中融化或改变。
+
+00:17.40-00:19.00
+女主停在镜头右侧，略微调整站姿，让西装下摆和裙褶自然落下，询问：「这套呢？」
+字幕逐字显示：「这套呢？」
+
+00:19.50-00:20.50
+男主画外音立即赞赏：「这套也好看。」
+女主听完轻轻笑一下，身体开始降低准备坐下。
+字幕逐字显示：「这套也好看」
+
+00:20.50-00:24.80
+伴随轻微衣料摩擦声，女主迅速而自然地坐回沙发。她将黑色靠枕重新放在腿上，整理两侧头发和领带，随后微微侧身靠住沙发。镜头重新完整拍到她的脸。她始终看着镜头，表情自信、亲近、略带捉弄感。
+
+00:25.00-00:28.20
+女主抱住靠枕，先露出得意的小笑容，然后对镜头说：「机会用完啦。老公想留哪套呢？」
+「机会用完啦」语气像宣布游戏规则；「老公想留哪套呢」稍微放慢，尾音上扬，带亲密询问感。
+字幕逐字显示：「机会用完啦。
+老公想留哪套呢？」
+
+00:28.20-00:29.00
+字幕完整停留。女主保持眼神交流，轻轻偏头，嘴角维持俏皮微笑。波形逐渐归于平静，画面自然结束。
+
+音频：女主真实现场人声，口型精确；男主为镜头外中文男声，不露脸。保留轻微电子氛围音乐（对白时自动降低，权重提高）、换装「嗖」声、亮相提示音、衣料摩擦声，所有对白清楚可辨。
+
+表演约束：女主不是夸张卖萌。微笑、点头、整理头发、展示服装均自然克制；开场亲切，第一次换装俏皮，第二次换装更自信，结尾带轻微捉弄感。男声说话时女主必须闭嘴并自然聆听。
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Korean Girl’s Early-2000s Birthday Celebration
 
@@ -2564,6 +2603,35 @@ Negative prompt: No subtitles, text, logos, watermarks, identity changes, outfit
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-use-the-uploaded-reference-image-as-the-exact-character-reference-214303ebc4cf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Flythroughs of the Opera House, a watch movement, and a dragon siege
+
+> Can language models make better videos than video models? LLMs now make motion graphics, edit video as code and drive Blender to build 3D scenes. Can LLMs compe…
+
+[<img src="https://media.goodcase.ai/cases/0029af0a0416.jpg" width="600" alt="Flythroughs of the Opera House, a watch movement, and a dragon siege">](https://goodcase.ai/cases/artificialanlys-seedance-2-5-ai-751009cb25af?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ArtificialAnlys | **出典:** [元投稿](https://x.com/ArtificialAnlys/status/2123581865965855205) | **公開日:** 2026-11-20 | **ヒート:** 90
+
+<details>
+<summary><b>プロンプト全文（11 行、クリックで展開）</b></summary>
+
+```
+Can language models make better videos than video models?
+
+LLMs now make motion graphics, edit video as code and drive Blender to build 3D scenes. Can LLMs compete with video generation models?
+
+We put GPT-6.2 Astra from @OpenAI, the current #1 on AA-3D, to the test, building the Sydney Opera House, an exploded mechanical watch, and a dragon attacking a medieval town as three.js code. We flew a scripted camera through each scene in a browser: 15 s, 1080p, 24 fps. 
+
+Dreamina Seedance 2.5 from @ByteDanceSeed_ got the same camera path as a text prompt with reference images of the route, at the same settings.
+
+➤ Top: GPT-6.2 Astra (LLM, AA-3D)
+
+➤ Bottom: Dreamina Seedance 2.5 (video model, AA-Video-T2V)
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/artificialanlys-seedance-2-5-ai-751009cb25af?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Woman Turns Zombie and Hunts Survivors in a Parking Garage
 
 > AI can do extraordinary things . 👇is one such example Made using Seedance 2.5 Prompt : 0–3s: A young Korean woman in a fitted blue crop top and white shorts wa…
@@ -2596,44 +2664,6 @@ STYLE: Photorealistic Korean horror, creepy laughter, milky-white eyes, realisti
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-0-3s-a-young-korean-woman-in-a-fitted-blue-crop-top-and-white-shorts-walks-thr-3c95ae30346a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Stern Toddler Doctor and Her Nervous Adult Patient
-
-> Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has b…
-
-[<img src="https://media.goodcase.ai/cases/7e3154d06ba2.jpg" width="600" alt="A Stern Toddler Doctor and Her Nervous Adult Patient">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2113820262743646446) | **公開日:** 2026-10-24 | **ヒート:** 90
-
-<details>
-<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has big expressive brown eyes, soft fair skin, short light-brown hair, and a serious, grumpy facial expression. She wears a miniature white doctor's coat, a white nurse cap with a red medical cross, and a pink stethoscope with a heart-shaped chest piece.
-
-Scene 1: A young adult man wearing a red T-shirt lies on a medical examination bed while the tiny doctor carefully examines his chest with her stethoscope. The baby doctor looks extremely serious and unimpressed, as if she is a highly experienced physician.
-
-Scene 2: Show close-up shots of the toddler doctor frowning, narrowing her eyes, and examining the patient with exaggerated expressions. The patient looks nervous and confused, creating a funny contrast between his adult appearance and the tiny doctor's bossy attitude.
-
-Scene 3: The baby doctor suddenly looks directly at the camera with huge expressive eyes, then returns to her stern expression. Show her confidently holding medical equipment and acting like she is in charge of the entire hospital.
-
-Scene 4: A young woman enters the room wearing a casual white top and blue jeans. She watches the examination with surprise and amusement. The baby doctor continues her serious medical duties while the patient reacts comically.
-
-Scene 5: End with the tiny doctor standing confidently beside the patient, holding a medical syringe or medical instrument, with a determined expression. The patient looks worried, creating a humorous final moment.
-
-Visual Style: Ultra-detailed 3D animated family-movie aesthetic, Pixar-inspired character design, realistic skin shading, soft baby facial features, expressive eyes, cinematic warm indoor lighting, detailed hospital room, smooth character animation, realistic fabric textures, shallow depth of field, close-up reaction shots, gentle camera movements, humorous storytelling, polished 3D rendering, 4K quality.
-
-Camera and Motion: Use smooth cinematic tracking shots, medium shots, facial close-ups, and reaction shots. Keep the toddler doctor's face, hairstyle, outfit, and body proportions consistent throughout every scene. Natural body movement, accurate hand gestures, expressive facial animation, and seamless scene transitions.
-
-Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 3D animation, family-friendly comedy, no subtitles, no text overlays, no logos.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
 
@@ -3513,6 +3543,44 @@ VISUAL REQUIREMENTS: Maintain consistent faces, hairstyles, outfits, and locatio
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-ultra-realistic-live-action-revenge-comedy-scene-inside-a-seoul-subway-9029fc876a3a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Stern Toddler Doctor and Her Nervous Adult Patient
+
+> Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has b…
+
+[<img src="https://media.goodcase.ai/cases/7e3154d06ba2.jpg" width="600" alt="A Stern Toddler Doctor and Her Nervous Adult Patient">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2113820262743646446) | **公開日:** 2026-10-24 | **ヒート:** 89
+
+<details>
+<summary><b>プロンプト全文（20 行、クリックで展開）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has big expressive brown eyes, soft fair skin, short light-brown hair, and a serious, grumpy facial expression. She wears a miniature white doctor's coat, a white nurse cap with a red medical cross, and a pink stethoscope with a heart-shaped chest piece.
+
+Scene 1: A young adult man wearing a red T-shirt lies on a medical examination bed while the tiny doctor carefully examines his chest with her stethoscope. The baby doctor looks extremely serious and unimpressed, as if she is a highly experienced physician.
+
+Scene 2: Show close-up shots of the toddler doctor frowning, narrowing her eyes, and examining the patient with exaggerated expressions. The patient looks nervous and confused, creating a funny contrast between his adult appearance and the tiny doctor's bossy attitude.
+
+Scene 3: The baby doctor suddenly looks directly at the camera with huge expressive eyes, then returns to her stern expression. Show her confidently holding medical equipment and acting like she is in charge of the entire hospital.
+
+Scene 4: A young woman enters the room wearing a casual white top and blue jeans. She watches the examination with surprise and amusement. The baby doctor continues her serious medical duties while the patient reacts comically.
+
+Scene 5: End with the tiny doctor standing confidently beside the patient, holding a medical syringe or medical instrument, with a determined expression. The patient looks worried, creating a humorous final moment.
+
+Visual Style: Ultra-detailed 3D animated family-movie aesthetic, Pixar-inspired character design, realistic skin shading, soft baby facial features, expressive eyes, cinematic warm indoor lighting, detailed hospital room, smooth character animation, realistic fabric textures, shallow depth of field, close-up reaction shots, gentle camera movements, humorous storytelling, polished 3D rendering, 4K quality.
+
+Camera and Motion: Use smooth cinematic tracking shots, medium shots, facial close-ups, and reaction shots. Keep the toddler doctor's face, hairstyle, outfit, and body proportions consistent throughout every scene. Natural body movement, accurate hand gestures, expressive facial animation, and seamless scene transitions.
+
+Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 3D animation, family-friendly comedy, no subtitles, no text overlays, no logos.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Wounded Woman and Arcane Visions in a Gothic Cathedral
 
@@ -4689,191 +4757,6 @@ Keep MILA's face, proportions, outfit, hairstyle, lighting and surroundings cons
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-dv-16mm-tape-camcorder-handheld-feel-2220cc5e7adc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Schoolgirl falls while fleeing a wild boar on a wet highway
-
-> The highway just became a death trap. Seedance 2.5 on @dreamina_ai #dreamina #dreaminacreators prompt MAIN CHARACTER — STRICT IDENTITY LOCK A beautiful 22-year-…
-
-[<img src="https://media.goodcase.ai/cases/81863408dd07.jpg" width="600" alt="Schoolgirl falls while fleeing a wild boar on a wet highway">](https://goodcase.ai/cases/seedance-2-5-the-highway-just-became-a-death-trap-21a518f1cfd0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2120526947415703565) | **公開日:** 2026-11-11 | **ヒート:** 86
-
-<details>
-<summary><b>プロンプト全文（167 行、クリックで展開）</b></summary>
-
-```
-The highway just became a death trap.
-
-Seedance 2.5 on @dreamina_ai 
-
-#dreamina #dreaminacreators 
-
-prompt
-
-MAIN CHARACTER — STRICT IDENTITY LOCK
-A beautiful 22-year-old Korean schoolgirl with long golden-blonde hair, wearing a dark navy-blue school blazer, a white button-up shirt, a red striped tie, a black-and-red plaid mini skirt, white socks, and black school shoes.
-Her face is filled with terror. Her breathing is rapid, her eyes are wide with fear, and she is desperately running for her life.
-Her golden-blonde hair flies wildly behind her as she sprints. Her blazer, tie, and skirt react naturally to her movements and the wind.
-STRICT IDENTITY CONSISTENCY: Maintain exactly the same face, hairstyle, outfit, body proportions, and facial features throughout the entire sequence.
-
-SCENE 01 — 0:00–0:05 | HIGHWAY PANIC
-
-Camera: Low-angle cinematic side-tracking shot, transitioning into a fast handheld chase.
-
-A massive highway is completely blocked by hundreds of abandoned vehicles. The sky is covered with thick gray clouds, and the asphalt is wet from recent rainfall.
-
-The Korean schoolgirl sprints desperately between stationary cars, trying to escape.
-
-Suddenly, an enormous, aggressive wild boar bursts out from between two vehicles.
-
-The creature has a massive muscular body, muddy dark-brown fur, visible scratches, enormous curved tusks, and terrifying natural animal movements.
-It violently crashes into a black sedan, smashing its bumper and shattering the windows.
-
-Glass fragments scatter across the wet highway.
-
-The girl hears the impact and turns her head in terror.
-
-The camera rapidly whip-pans from the destroyed vehicle back to her frightened face.
-
-SCENE 02 — 0:05–0:10 | FACE TO FACE WITH DEATH
-
-Camera: Front-facing tracking shot moving backward at the girl's running speed.
-
-The girl sprints between two parked SUVs.
-
-Suddenly, the gigantic wild boar charges directly toward her from behind.
-
-Its powerful hooves slam against the wet asphalt, sending water splashing in every direction.
-
-The creature runs with realistic animal biomechanics, its massive shoulders moving violently with every stride.
-
-The girl looks backward for a split second.
-Her eyes widen in absolute terror.
-
-She screams and accelerates, desperately trying to outrun the enormous animal.
-
-The camera remains extremely close to her face while the wild boar rapidly closes the distance behind her.
-
-SCENE 03 — 0:10–0:15 | THE NEAR-FATAL ATTACK
-
-Camera: Aggressive over-the-shoulder tracking shot, followed by a sudden ground-level perspective.
-
-The wild boar launches a terrifying forward charge.
-
-Its enormous tusks narrowly miss the girl's body, tearing the fabric of her blazer as it passes.
-
-The sudden movement causes her to lose her balance.
-
-She stumbles forward and crashes onto the wet asphalt.
-
-Her hands strike the road first, absorbing the impact.
-
-Her golden-blonde hair falls across her face, and her school uniform reacts naturally to the fall.
-The camera rapidly drops to ground level, capturing the impact with intense realism.
-
-In the background, several additional wild boars emerge from between the abandoned vehicles.
-
-Car alarms echo across the highway.
-
-SCENE 04 — 0:15–0:21 | DESPERATE SURVIVAL
-
-Camera: Low-angle handheld close-up transitioning into a fast backward-tracking shot.
-
-The girl struggles to get up from the slippery road.
-
-Her palms slide across the wet asphalt.
-
-She pushes herself onto one knee and looks backward.
-
-Three enormous wild boars are charging directly toward her at full speed.
-
-Their heavy footsteps shake the ground.
-
-Water splashes beneath their hooves.
-
-The girl's expression changes from fear to pure survival instinct.
-She forces herself upright and immediately begins sprinting again.
-
-The camera races backward in front of her, capturing her terrified expression while the charging animals remain visible behind her.
-
-Abandoned vehicles, shattered glass, and flashing hazard lights create an intense disaster-movie atmosphere.
-
-SCENE 05 — 0:21–0:26 | THE TRUCK ESCAPE
-
-Camera: Fast side-tracking shot transitioning into an extremely low ground-level perspective.
-
-The girl notices a large black cargo truck stopped across the highway.
-
-The wild boars are rapidly approaching from behind.
-
-With no other escape route, she lowers her body and performs a desperate sliding maneuver beneath the stationary truck.
-
-Her hands and knees slide across the wet asphalt.
-
-The camera follows her underneath the vehicle, remaining only inches above the road.
-
-She pulls herself deeper beneath the truck, keeping her body as low as possible.
-
-An enormous wild boar charges past the outside of the truck.
-
-Its massive hooves thunder dangerously close to the camera.
-The girl freezes, terrified of being discovered.
-
-SCENE 06 — 0:26–0:30 | FINAL SUSPENSE
-
-Camera: Extreme close-up beneath the truck, slowly pushing toward the girl's face.
-
-The girl lies motionless beneath the stationary cargo truck.
-
-Her golden-blonde hair is scattered across her frightened face.
-
-Her breathing is rapid and uneven.
-
-She desperately tries to remain silent.
-
-Suddenly, a gigantic wild boar stops directly outside the truck.
-
-Its heavy breathing becomes clearly audible.
-
-The creature begins sniffing the ground.
-
-The girl slowly turns her head toward the sound.
-
-A massive animal shadow moves across her face.
-The camera pushes into an extreme close-up of her terrified eyes.
-
-FINAL SHOT: The wild boar lowers its enormous head toward the opening beneath the truck.
-
-Its curved tusks become visible in the darkness.
-
-The girl holds her breath.
-
-SUDDEN CUT TO BLACK.
-
-CINEMATOGRAPHY & VISUAL EFFECTS
-
-Ultra-realistic live-action Korean disaster thriller, Hollywood-level visual effects, physically accurate wild boar anatomy, natural animal running mechanics, realistic human movement, aggressive handheld cinematography, fast tracking shots, intense low-angle perspectives, dynamic camera movement, cinematic motion blur, wet asphalt reflections, overcast daylight, realistic vehicle destruction, physically accurate glass fragmentation, detailed fur simulation, natural hair movement, realistic fabric physics, atmospheric depth, dramatic shadows, high-contrast cinematic color grading, photorealistic skin textures, seamless scene continuity, 4K resolution, 60 FPS.
-
-Use brief 120 FPS slow-motion inserts only for the near-miss attack, the girl's fall, and the slide beneath the truck. All other action must play at natural real-time speed.
-
-SOUND DESIGN
-
-Powerful cinematic orchestral percussion, aggressive wild boar growls, heavy hooves striking wet asphalt, car alarms, shattering glass, distant human screams, splashing water, rapid footsteps, terrified breathing, deep cinematic bass impacts, and rising suspense music.
-
-The music gradually intensifies throughout the chase, then becomes almost completely silent during the final moments beneath the truck.
-
-End with a sudden deep bass impact followed by complete silence.
-
-STRICT NEGATIVE PROMPT
-
-No cartoon physics, no unrealistic animal anatomy, no floating bodies, no exaggerated jumping, no unnatural running, no teleportation, no duplicated characters, no extra limbs, no distorted hands, no facial identity changes, no hairstyle changes, no inconsistent clothing, no unrealistic body movements, no artificial-looking CGI, no sudden environment changes, no camera clipping, no excessive gore, no random scene transitions.
-
-FINAL GENERATION RULE: Maintain maximum photorealism, continuous character identity, accurate environmental physics, realistic animal behavior, intense cinematic pacing, and seamless visual continuity throughout the entire 30-second sequence.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-the-highway-just-became-a-death-trap-21a518f1cfd0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 孕妇的梦幻橄榄球
 
 > 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
@@ -4904,6 +4787,41 @@ Audio: Soft magical background music, gentle nighttime ambience, cute baby sound
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Baby Dragon Magically Gives a Young Woman a Golden Afro by the Fire
+
+> A magical baby dragon gives a young woman the most unexpected hairstyle transformation! 🐉✨ Made with Seedance 2.5 Prompt below ⤵️ 💬
+
+[<img src="https://media.goodcase.ai/cases/2825fa597430.jpg" width="600" alt="Baby Dragon Magically Gives a Young Woman a Golden Afro by the Fire">](https://goodcase.ai/cases/seedance-2-5-video-prompt-95f4064ef712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @mehwishkiran07 | **出典:** [元投稿](https://x.com/mehwishkiran07/status/2113088659658612746) | **公開日:** 2026-10-22 | **ヒート:** 86
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+Video Prompt 👇 
+
+A magical, heartwarming fantasy scene inside a cozy medieval cottage with rustic wooden walls, a stone fireplace, flickering candles, and warm golden sunlight streaming through a small window. A beautiful young woman with long, wavy blonde hair, fair skin, and expressive blue eyes wears a simple cream-colored medieval dress. Beside her is an adorable small fantasy dragon with pale pink-white scales, soft pink spines, tiny wings, a long tail, and large glowing amber eyes.
+
+The scene begins with the young woman sitting beside the baby dragon near the fireplace, smiling affectionately as they gaze at each other. The camera slowly moves closer to the dragon's adorable face, highlighting its detailed scales, glossy amber eyes, and tiny nose. Suddenly, the little dragon playfully breathes a small burst of magical golden fire toward the woman's head, transforming her hair into an enormous, perfectly rounded, fluffy golden afro. Her appearance changes comically while her cream medieval dress remains unchanged. She looks completely stunned, adjusts her round glasses, and picks up a small hand mirror to examine her extraordinary new hairstyle. The baby dragon rolls onto its back, laughing and playfully flapping its tiny wings.
+
+Next, the woman returns to her original appearance with long, flowing blonde hair and gently blows a kiss toward the baby dragon. The dragon responds by releasing a soft stream of sparkling golden magical light, creating a warm, glowing aura around her face. She smiles with wonder and delight, and the two share a tender, magical moment. Finally, she lovingly cuddles the baby dragon in her lap as it closes its eyes peacefully, resting its head against her while she gently strokes its pink spines.
+
+Visual style: ultra-realistic cinematic fantasy, high-end CGI, photorealistic skin and hair, incredibly detailed dragon scales, expressive facial animations, realistic firelight, volumetric sunlight, floating magical particles, warm amber color grading, shallow depth of field, smooth camera movements, natural body language, emotional storytelling, whimsical humor, and a charming fairy-tale atmosphere.
+
+Camera direction: begin with a medium two-shot, cut to an extreme close-up of the dragon's eyes, transition to a wide shot during the magical hair transformation, use reaction close-ups for comedic effect, and finish with a slow cinematic pullback showing the woman cuddling the sleeping dragon beside the glowing fireplace.
+
+Lighting: warm fireplace illumination mixed with soft golden sunlight, realistic shadows, subtle highlights, and cinematic volumetric rays.
+
+Quality: 4K, 24fps, highly detailed textures, smooth motion, consistent character designs, realistic physics, expressive emotions, seamless transitions, and professional cinematic composition.
+
+Audio: gentle fireplace crackling, soft dragon chirps, a magical sparkling sound during the transformation, playful laughter, and peaceful fantasy background music. No subtitles, no text, no watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-video-prompt-95f4064ef712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
