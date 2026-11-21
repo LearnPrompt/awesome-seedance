@@ -2,71 +2,9 @@
 
 All 765 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 336–430 of 765.
+This page: cases 337–432 of 765.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)
-
-### Woman in leather arrives at night in a white Maserati
-
-> Midnight drives and a little city magic. 🖤✨ Created in Seedance 2.5 in @openart_ai Prompt: SCENE 1 — THE ARRIVAL | MYSTERIOUS OPENING A white Maserati emerges …
-
-[<img src="https://media.goodcase.ai/cases/c9670dfe9a61.jpg" width="600" alt="Woman in leather arrives at night in a white Maserati">](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @codewithhajra | **Source:** [Original](https://x.com/codewithhajra/status/2120033593682518407) | **Published:** 2026-11-10 | **Heat:** 60
-
-<details>
-<summary><b>Full prompt (44 lines, click to expand)</b></summary>
-
-```
-SCENE 1 — THE ARRIVAL | MYSTERIOUS OPENING
-A white Maserati emerges slowly from a luxurious underground parking entrance at midnight. The camera begins with an extreme low-angle close-up of its headlights illuminating the wet asphalt. The front wheels turn slightly as the car smoothly enters the empty boulevard.
-
-Cut to a cinematic side-tracking shot revealing the woman behind the steering wheel, her face illuminated by passing golden city lights. Her sleek high ponytail is visible through the window. The engine produces a deep, powerful sound as the car accelerates into the night.
-
-SCENE 2 — THE DRIVER | CINEMATIC CLOSE-UP
-
-The camera smoothly approaches the driver’s side window. A close-up captures her hands confidently holding the steering wheel, showcasing her elegant rings and nails.
-The camera slowly moves toward her face. She briefly glances at the illuminated city skyline before returning her gaze to the road. Passing streetlights create beautiful moving highlights across her face. Her high ponytail moves subtly with the car’s motion. Her expression remains calm, mysterious, and effortlessly confident.
-
-SCENE 3 — THE LUXURY ARRIVAL | FASHION REVEAL
-
-The Maserati arrives at an exclusive rooftop parking area overlooking a breathtaking nighttime city skyline. The car comes to a smooth stop, and the driver’s door opens.
-
-She steps out gracefully, adjusts the sleeve of her black leather jacket, and picks up her elegant black handbag. The camera captures her complete outfit in a cinematic three-quarter shot, with the white supercar and glowing skyline behind her.
-A gentle breeze moves her high ponytail as she looks toward the city with a quiet, confident expression.
-
-SCENE 4 — THE SIGNATURE DETAILS | FASHION & LUXURY
-
-A cinematic sequence of elegant close-up shots. Her hand gently closes the car door, followed by a detailed shot of her gold rings, manicured nails, and structured black handbag.
-
-The camera captures the texture of her leather jacket, tailored trousers, and elegant boots stepping onto the glossy rooftop floor.
-
-A smooth rack focus transitions from her accessories toward her face as she turns slightly toward the camera. Every movement feels natural, effortless, and sophisticated.
-SCENE 5 — THE FINAL REVEAL | ICONIC HERO SHOT
-
-She walks slowly toward the front of the white Maserati and stops beside its front fender. She gently rests one hand on the car while holding her handbag in the other.
-
-The camera begins with a dramatic low-angle view of the vehicle before slowly rising to reveal her complete silhouette and face.
-
-She turns her head toward the camera with a subtle, confident expression. The illuminated city skyline glows behind her as golden reflections sweep across the white bodywork.
-
-The final frame captures her, the Maserati, and the luxurious nighttime skyline in one perfectly composed cinematic hero shot.
-NEGATIVE PROMPT
-
-No anime, cartoons, illustrations, video-game CGI, artificial skin, doll-like faces, facial identity changes, hairstyle changes, messy ponytail, clothing inconsistencies, revealing outfits, cleavage, exposed midriff, overly short clothing, distorted anatomy, extra fingers, deformed hands, floating objects, unrealistic vehicle physics, changing Maserati design, incorrect reflections, excessive smoke, excessive motion blur, harsh lighting, overexposure, low resolution, random text, logos, watermarks, or abrupt transitions.
-
-FINAL CREATIVE DIRECTION
-
-The result should feel like a luxury fashion house collaborated with a premium automotive brand to produce a midnight campaign.
-
-Mood: Mysterious, elegant, powerful, sophisticated, and effortlessly expensive.
-
-Prioritize realistic human movements, consistent identity, beautiful modest
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A gunslinger quick-draws to free hostages in a sunset ghost town
 
@@ -1508,6 +1446,41 @@ SFX: lighter flick, inhale, faint city hum, refrigerator buzz, soft bare footste
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-tired-woman-in-image1-in-a-loose-tank-top-and-sleep-shorts-slow-habitual-m-bc7637022788?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Close-Quarters Fight in an Urban Apartment
+
+> He picked the wrong baddie to mess with. Made with seedance 2.5 Prompt : Create a 13-second ultra-realistic cinematic action sequence set inside a messy, atmosp…
+
+[<img src="https://media.goodcase.ai/cases/4982e5aaf220.jpg" width="600" alt="Close-Quarters Fight in an Urban Apartment">](https://goodcase.ai/cases/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Noor_ul_ain43 | **Source:** [Original](https://x.com/Noor_ul_ain43/status/2101963091647033700) | **Published:** 2026-09-21 | **Heat:** 57
+
+**Stability:** 81/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 80.7) · [output](https://media.goodcase.ai/retests/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (13 lines, click to expand)</b></summary>
+
+```
+Create a 13-second ultra-realistic cinematic action sequence set inside a messy, atmospheric urban apartment/studio filled with books, posters, scattered furniture, old equipment and warm practical lamps.
+
+Two young women in realistic casual streetwear are engaged in an intense hand-to-hand fight. Begin with a wide establishing shot showing the entire room as the confrontation starts. One woman suddenly attacks with a long wooden object, while the other quickly blocks and dodges the attack.
+
+Build the sequence with fast, believable choreography: blocking, punches, evasive movements, close-range grappling, aggressive shoves and a powerful takedown. The fighters should move naturally with realistic weight, balance and physical impact. Clothing, hair and bodies should react naturally to every movement.
+
+Use dynamic handheld cinematic camera movement, alternating between wide shots, medium tracking shots, low-angle shots and tight close-ups during impacts. Add subtle camera shake and realistic motion blur during fast movements, but keep the characters clearly visible.
+
+The room should remain consistent throughout the sequence. Bright cool daylight streams through large windows while warm orange lamps illuminate parts of the room, creating a gritty cinematic teal-and-orange contrast. Use realistic shadows, volumetric light, dust particles and reflections on the slightly polished floor.
+
+Toward the final seconds, the fight becomes more intense. One woman loses balance and is thrown to the floor. The other remains standing in the foreground, breathing heavily and maintaining a strong defensive stance as the camera settles into a dramatic final shot.
+
+Ultra-realistic human movement, authentic fight choreography, detailed facial expressions, natural skin texture, realistic hair physics, cinematic depth of field, 35mm film look, high dynamic range, realistic motion blur, dramatic practical lighting, premium Hollywood action-film cinematography, no cartoon look, no exaggerated physics, no unnatural body deformation.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Full-body street dance on a nighttime city street
 
 > Feel the beat, own the street💃 Created using Seedance 2.5 Prompt: Duration: 19 seconds Aspect Ratio: 16:9 Style: Photorealistic, cinematic nighttime street pho…
@@ -2019,41 +1992,6 @@ Create a 15-second cinematic 3D animated cooking sequence inside a professional 
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-when-the-chef-turns-dinner-into-a-whole-performance-3e51a9b0793e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Close-Quarters Fight in an Urban Apartment
-
-> He picked the wrong baddie to mess with. Made with seedance 2.5 Prompt : Create a 13-second ultra-realistic cinematic action sequence set inside a messy, atmosp…
-
-[<img src="https://media.goodcase.ai/cases/4982e5aaf220.jpg" width="600" alt="Close-Quarters Fight in an Urban Apartment">](https://goodcase.ai/cases/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Noor_ul_ain43 | **Source:** [Original](https://x.com/Noor_ul_ain43/status/2101963091647033700) | **Published:** 2026-09-21 | **Heat:** 56
-
-**Stability:** 81/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 80.7) · [output](https://media.goodcase.ai/retests/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (13 lines, click to expand)</b></summary>
-
-```
-Create a 13-second ultra-realistic cinematic action sequence set inside a messy, atmospheric urban apartment/studio filled with books, posters, scattered furniture, old equipment and warm practical lamps.
-
-Two young women in realistic casual streetwear are engaged in an intense hand-to-hand fight. Begin with a wide establishing shot showing the entire room as the confrontation starts. One woman suddenly attacks with a long wooden object, while the other quickly blocks and dodges the attack.
-
-Build the sequence with fast, believable choreography: blocking, punches, evasive movements, close-range grappling, aggressive shoves and a powerful takedown. The fighters should move naturally with realistic weight, balance and physical impact. Clothing, hair and bodies should react naturally to every movement.
-
-Use dynamic handheld cinematic camera movement, alternating between wide shots, medium tracking shots, low-angle shots and tight close-ups during impacts. Add subtle camera shake and realistic motion blur during fast movements, but keep the characters clearly visible.
-
-The room should remain consistent throughout the sequence. Bright cool daylight streams through large windows while warm orange lamps illuminate parts of the room, creating a gritty cinematic teal-and-orange contrast. Use realistic shadows, volumetric light, dust particles and reflections on the slightly polished floor.
-
-Toward the final seconds, the fight becomes more intense. One woman loses balance and is thrown to the floor. The other remains standing in the foreground, breathing heavily and maintaining a strong defensive stance as the camera settles into a dramatic final shot.
-
-Ultra-realistic human movement, authentic fight choreography, detailed facial expressions, natural skin texture, realistic hair physics, cinematic depth of field, 35mm film look, high dynamic range, realistic motion blur, dramatic practical lighting, premium Hollywood action-film cinematography, no cartoon look, no exaggerated physics, no unnatural body deformation.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-13-second-ultra-realistic-cinematic-action-sequence-set-inside-a-messy-410ee9fa190c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Red-Eyed Girl's Super-Speed Hostage Rescue
 
@@ -4928,6 +4866,40 @@ Cinematic 8K video sequence, 30 seconds An elegant East Asian woman in a dark na
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-cinematic-8k-video-sequence-30-seconds-an-elegant-east-asian-woman-in-a-dark-n-a7ec912255dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Hijab-Wearing Girl’s Moonlit Lantern Walk with a Duckling and Rabbit
+
+> A little journey into a magical world filled with moonlight wonder and adorable friends. Made with seedance 2.5 @Flovaai Prompt: A magical 3D animated fairy-tal…
+
+[<img src="https://media.goodcase.ai/cases/2a36c8531837.jpg" width="600" alt="A Hijab-Wearing Girl’s Moonlit Lantern Walk with a Duckling and Rabbit">](https://goodcase.ai/cases/seedance-2-5-a-magical-3d-animated-fairy-tale-scene-featuring-a-young-girl-wearing-a-black-h-cf1194730635?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zyrellix | **Source:** [Original](https://x.com/Zyrellix/status/2106604455151980846) | **Published:** 2026-10-04 | **Heat:** 51
+
+```
+A magical 3D animated fairy-tale scene featuring a young girl wearing a black hijab and a beautiful vintage rose-pink dress, accompanied by a cute fluffy yellow duckling and a tiny brown rabbit. Inside a cozy cottage bedroom, moonlight shines through a round window filled with pink roses. The duckling and rabbit join the girl as she picks up a glowing lantern and opens the wooden cottage door. They walk together through a charming village under a bright full moon, surrounded by thatched-roof cottages, blooming roses, glowing fireflies, and a beautiful starry sky. The girl gently kneels beside the adorable animals near a giant magical tree with a tiny round wooden door glowing warmly from within. Cinematic camera movements, expressive characters, detailed textures, soft moonlight, warm lantern lighting, vibrant colors, whimsical fantasy atmosphere, smooth character animation, consistent character designs, high-quality Pixar-style 3D animation, enchanting storytelling, 16:9 widescreen, 4K quality.
+
+#FlovaAI #CPP
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-magical-3d-animated-fairy-tale-scene-featuring-a-young-girl-wearing-a-black-h-cf1194730635?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Korean Girl Scrolling Her Phone in a Warm Bedroom
+
+> A cozy Korean lifestyle moment, captured with cinematic realism. Created on seedance 2.5 Prompt: A Korean girl created a video, showing a cozy and natural lifes…
+
+[<img src="https://media.goodcase.ai/cases/e213734bd48b.jpg" width="600" alt="Korean Girl Scrolling Her Phone in a Warm Bedroom">](https://goodcase.ai/cases/seedance-a-korean-girl-created-a-video-showing-a-cozy-and-natural-lifestyle-moment-in-a-379af9561c48?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwithaayat | **Source:** [Original](https://x.com/aiwithaayat/status/2101159687677005989) | **Published:** 2026-09-19 | **Heat:** 51
+
+**Stability:** 82/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.3) · [output](https://media.goodcase.ai/retests/seedance-a-korean-girl-created-a-video-showing-a-cozy-and-natural-lifestyle-moment-in-a-379af9561c48/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+A Korean girl created a video, showing a cozy and natural lifestyle moment in a beautifully decorated bedroom. She is casually sitting on her bed while holding her smartphone and scrolling through the screen. Her long wavy brown hair moves naturally as she looks at her phone with a relaxed expression. Warm bedside lighting creates a soft, peaceful evening atmosphere around her. The camera captures realistic facial expressions, natural hand movements, detailed skin texture, and authentic Korean lifestyle aesthetics. The bedroom features a neatly arranged bed, soft pillows, indoor plants, and warm minimal home decor. Use smooth cinematic camera movement with a natural depth of field and subtle focus transitions. The overall video should feel photorealistic, candid, and naturally filmed rather than AI-generated, with soft colors and realistic lighting. Create the video in a vertical 9:16 composition with high-quality cinematic details.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-korean-girl-created-a-video-showing-a-cozy-and-natural-lifestyle-moment-in-a-379af9561c48?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

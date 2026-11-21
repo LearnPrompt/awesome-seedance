@@ -1246,6 +1246,26 @@ Create a 30-second cinematic, ultra-realistic wuxia-style video set at night in 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-cinematic-ultra-realistic-wuxia-style-video-set-at-night-in-5d900610e1fc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Warrior and Cyber Beast Charge Through the Apocalypse
+
+> When the world falls apart and the storm closes in, you don't back down. You gear up, unleash the beast, and take the fight straight to the chaos. Created with …
+
+[<img src="https://media.goodcase.ai/cases/f945509808e3.jpg" width="600" alt="Warrior and Cyber Beast Charge Through the Apocalypse">](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AvelyrahnAI | **出典:** [元投稿](https://x.com/AvelyrahnAI/status/2104086835081416893) | **公開日:** 2026-09-27 | **ヒート:** 47
+
+**安定度:** 82/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 81.8) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Cinematic 4K shot, a fierce female warrior with long hair and tactical leather gear falling from the sky alongside a hairless Sphynx cat onto a cracked, ruined concrete rooftop in an apocalyptic city with a massive tornado spinning in the background. The warrior lands on one knee, summons glowing golden energy in her palm, and strikes the ground. Intricate sci-fi nano-armor plates instantly snap and wrap around her arms and body, glowing with bright orange energy lines. The small Sphynx cat suddenly transforms into a massive, terrifying horned cybernetic beast. The armored female warrior and the monstrous beast stand side-by-side, charging forward into battle amid smoke, dust, and dramatic cinematic lighting. High-speed dynamic camera tracking, photorealistic, action-packed sci-fi blockbuster style.
+
+#Flovaai #Flovacpp
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Pink-Dress Summer Night Girl by a Rushing Subway
 
 > A little summer-night energy in the city ✨🌸 Pink dress, passing trains, and a whole lot of attitude. That hair flip + subway rush = cinematic perfection 🎬 Mad…
@@ -1293,62 +1313,13 @@ Created a video, featuring beautiful Korean words and a warm, nostalgic Korean c
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-a-video-featuring-beautiful-korean-words-and-a-warm-nostalgic-korean-55c2c5e05a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
-
-> A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg" width="600" alt="Female Mountain Biker Conquers Rugged Trails to Reach a Valley View">](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2092111337686262077) | **公開日:** 2026-08-25 | **ヒート:** 47
-
-**安定度:** 79/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.1) · [出力](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-bb7055074a13/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
-
-```
-A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view.
-
-Created with Seedance 2.5.
-
-Prompt
-
-Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Warrior and Cyber Beast Charge Through the Apocalypse
-
-> When the world falls apart and the storm closes in, you don't back down. You gear up, unleash the beast, and take the fight straight to the chaos. Created with …
-
-[<img src="https://media.goodcase.ai/cases/f945509808e3.jpg" width="600" alt="Warrior and Cyber Beast Charge Through the Apocalypse">](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AvelyrahnAI | **出典:** [元投稿](https://x.com/AvelyrahnAI/status/2104086835081416893) | **公開日:** 2026-09-27 | **ヒート:** 46
-
-**安定度:** 82/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 81.8) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Cinematic 4K shot, a fierce female warrior with long hair and tactical leather gear falling from the sky alongside a hairless Sphynx cat onto a cracked, ruined concrete rooftop in an apocalyptic city with a massive tornado spinning in the background. The warrior lands on one knee, summons glowing golden energy in her palm, and strikes the ground. Intricate sci-fi nano-armor plates instantly snap and wrap around her arms and body, glowing with bright orange energy lines. The small Sphynx cat suddenly transforms into a massive, terrifying horned cybernetic beast. The armored female warrior and the monstrous beast stand side-by-side, charging forward into battle amid smoke, dust, and dramatic cinematic lighting. High-speed dynamic camera tracking, photorealistic, action-packed sci-fi blockbuster style.
-
-#Flovaai #Flovacpp
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-4k-shot-a-fierce-female-warrior-with-long-hair-and-tactical-leather-fae21d1a88b3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Soft Anime Morning With a Fluffy White Cat
 
 > A fluffy cat brings sweetness, playfulness, and love to a peaceful morning. From playful pounces to cozy cuddles, every moment feels magical. Created on seedanc…
 
 [<img src="https://media.goodcase.ai/media/poster/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57.jpg" width="600" alt="Soft Anime Morning With a Fluffy White Cat">](https://goodcase.ai/cases/seedance-created-a-video-in-soft-anime-style-of-a-fluffy-white-cat-with-big-sparkling-te-5d65967aaf57?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @ayzalnooor24521 | **出典:** [元投稿](https://x.com/ayzalnooor24521/status/2096085776735912274) | **公開日:** 2026-09-05 | **ヒート:** 46
+**作者:** @ayzalnooor24521 | **出典:** [元投稿](https://x.com/ayzalnooor24521/status/2096085776735912274) | **公開日:** 2026-09-05 | **ヒート:** 47
 
 **安定度:** 86/100
 
@@ -1366,7 +1337,7 @@ Created a video in soft anime style of a fluffy white cat with big sparkling tea
 
 [<img src="https://media.goodcase.ai/media/poster/aiwithnatalia-seedance-ai-7890280c705d.jpg" width="600" alt="Red-Haired Girl's Lip Oil Claw Machine Challenge">](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @AIwithNatalia | **出典:** [元投稿](https://x.com/AIwithNatalia/status/2094428843214037102) | **公開日:** 2026-08-31 | **ヒート:** 46
+**作者:** @AIwithNatalia | **出典:** [元投稿](https://x.com/AIwithNatalia/status/2094428843214037102) | **公開日:** 2026-08-31 | **ヒート:** 47
 
 <details>
 <summary><b>プロンプト全文（85 行、クリックで展開）</b></summary>
@@ -1462,6 +1433,35 @@ Use fast cuts, whip pans, snap zooms, speed ramps, match cuts and rhythmic trans
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithnatalia-seedance-ai-7890280c705d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Female Mountain Biker Conquers Rugged Trails to Reach a Valley View
+
+> A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view. Created with See
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-bb7055074a13.jpg" width="600" alt="Female Mountain Biker Conquers Rugged Trails to Reach a Valley View">](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2092111337686262077) | **公開日:** 2026-08-25 | **ヒート:** 47
+
+**安定度:** 79/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 79.1) · [出力](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-bb7055074a13/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
+
+```
+A mountain biker conquers rugged trails, rocks, and sharp turns before reaching a stunning valley view.
+
+Created with Seedance 2.5.
+
+Prompt
+
+Ultra-photorealistic 30-second 16:9 mountain-bike action video. Same female rider, bike, clothing, trail, and daylight throughout. Show her starting on a mountain ridge, accelerating naturally downhill, navigating roots, rocks, gravel, and tight corners with realistic braking, balance, tire traction, and suspension movement. Finish as she exits the forest and stops at a scenic valley viewpoint. Cinematic tracking shots, realistic outdoor physics, natural forest ambience, bike sounds, wind, and breathing. No dialogue, CGI look, impossible jumps, teleportation, distorted anatomy, text, logos, or watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-bb7055074a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### An Injured Female Dancer Rests Alone in a Dance Studio Corner
 
@@ -2799,31 +2799,13 @@ no music, no subtitle
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/minuitia-seedance-ai-9da034716c83?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Mountain Dew Spark Doodle Ad
-
-> A lively, youth-oriented drink ad prompt that combines cinematic 4K live action with playful hand-drawn 2D doodle animation.
-
-[<img src="https://media.goodcase.ai/cases/72d231948cd0.jpg" width="600" alt="Mountain Dew Spark Doodle Ad">](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2093959770579554517) | **公開日:** 2026-08-30 | **ヒート:** 31
-
-**安定度:** 79/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 79.3) · [出力](https://media.goodcase.ai/retests/mountain-dew-spark-b16d4e23caef/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: A cool young male in his early 20s, confident and playful, short dark slightly messy hair, expressive face, trendy oversized graphic T-shirt, relaxed baggy cargo pants and clean sneakers. Maintain STRICT face, hairstyle, clothing and identity consistency throughout. 0–4s — THE SPARK Open with a stylish low-angle tracking shot of the boy casually walking through a colorful modern city street while holding a chilled Mountain Dew Spark can. Tiny cute hand-drawn doodles subtly appear around him: stars, lightning bolts, hearts and lemons. He stops. Cut to a macro close-up of the cold can covered in condensation. He cracks it open. PSHHHH! A tiny hand-drawn lightning bolt appears above the can and vibrates with the sound. 4–8s — TOO MUCH SPARK He takes a big sip. Instantly, colorful 2D doodles explode from behind him. Lightning bolts race across the screen, cute lemons bounce past camera, stars pop around his head and cartoon speed lines surround his body. He looks surprised, then grins. Use a quick punch-in camera movement. 8–15s — THE BOOST Suddenly, he launches forward at ridiculous speed. Use rapid whip pans, low-angle tracking shots, dynamic handheld movement and energetic speed ramps as he runs through the city. Every movement triggers a doodle: Footstep → star burst Arm swing → lightning bolt Jump → comic explosion Turn → curved hand-drawn speed lines Smile → tiny floating hearts The doodles physically interact with the live-action environment, wrapping around poles, bouncing off walls and following his movement. At 15 seconds, he races toward a city staircase, preparing to jump onto it. End with a fast forward-moving camera transition that naturally continues into Part 2. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, crash zooms, low-angle tracking, speed ramps and match cuts. Keep movement flowing naturally so the video feels like one continuous sequence, not separate clips. DOODLE ANIMATION: Cute hand-drawn 2D doodles with imperfect sketch lines, playful expressions and bouncy animation. Playful and cute, never childish. Doodles must interact naturally with the live-action environment. PART 2: MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: Continue with EXACTLY the same young male from Part 1. Same face, hairstyle, oversized graphic T-shirt, baggy cargo pants, sneakers and overall identity. STRICT IDENTITY AND OUTFIT LOCK. 0–6s — DOODLE CHAOS Continue directly from Part 1 as the boy jumps onto a city staircase and races upward. Hundreds of cute hand-drawn doodles chase after him. Animated lemons bounce down the stairs. Lightning bolts zigzag beside him. Tiny stars spin through the air. Cartoon flames briefly appear behind his sneakers. Rapidly alternate between: Low-angle running shot Side tracking shot Close-up of sneakers Close-up of his excited expression Overhead shot as doodles spiral around him Use energetic whip transitions synchronized with the music. 6–11s — PRODUCT HERO The boy suddenly stops. Everything freezes. The doodles freeze mid-air around him. He casually spins the Mountain Dew Spark can toward the camera. Transition into a premium macro product close-up: cold condensation, sharp label detail, vibrant commercial lighting and fizzy energy. Hand-drawn lemons and lightning bolts begin orbiting around the can. The camera slowly pushes toward the product while the background remains softly blurred. 11–15s — FINAL EXPLOSION He takes one final sip and smirks directly at camera. On the beat, every doodle in the scene rushes toward him: ⭐ ⚡ 🍋 ❤️ 💥 They explode outward into a giant colorful hand-drawn burst behind him. He stands confidently in the center, holding the Mountain Dew Spark can toward camera. End on a clean premium hero shot of the Mountain Dew Spark can surrounded by playful doodle lightning, stars and fruit. Final feeling: refreshing, energetic, mischievous, funky and irresistibly fun. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, speed ramps, macro product photography, orbiting camera movement, crash zooms and match cuts. Transitions should be motivated by the character's movement and preserve visual continuity from Part 1. DOODLE ANIMATION: Cute hand-drawn 2D doodles with intermediate sketch lines, playful expressions and bouncy animation. Doodles should physically interact with the live-action world rather than appearing as static overlays. Keep them playful and stylish, never childish. NEGATIVE PROMPT: No character identity changes, no outfit changes, no inconsistent face, no extra fingers, no distorted hands, no warped product, no incorrect can shape, no unreadable logo, no duplicate cans, no floating character, no stiff movement, no random scene changes, no disconnected clips, no excessive motion blur, no dull lighting, no childish cartoon environment, no photorealistic doodles, no messy compositing, no deformed facial features, no text artifacts.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Korean Girl's Dreamy Day at the Playground
 
 > Sometimes the best stories are the most unexpected. Created on seedance 2.0 Prompt: Created a video of a beautiful Korean girl having a playful, dreamy day at a…
 
 [<img src="https://media.goodcase.ai/cases/826e23a654ac.jpg" width="600" alt="A Korean Girl's Dreamy Day at the Playground">](https://goodcase.ai/cases/seedance-created-a-video-of-a-beautiful-korean-girl-having-a-playful-dreamy-day-at-a-co-5e55b5b14463?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2101889590621536594) | **公開日:** 2026-09-21 | **ヒート:** 31
+**作者:** @Lianaalane | **出典:** [元投稿](https://x.com/Lianaalane/status/2101889590621536594) | **公開日:** 2026-09-21 | **ヒート:** 32
 
 **安定度:** 87/100
 
@@ -2847,6 +2829,24 @@ Keep the Korean girl’s identity and appearance consistent throughout the entir
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-created-a-video-of-a-beautiful-korean-girl-having-a-playful-dreamy-day-at-a-co-5e55b5b14463?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Mountain Dew Spark Doodle Ad
+
+> A lively, youth-oriented drink ad prompt that combines cinematic 4K live action with playful hand-drawn 2D doodle animation.
+
+[<img src="https://media.goodcase.ai/cases/72d231948cd0.jpg" width="600" alt="Mountain Dew Spark Doodle Ad">](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2093959770579554517) | **公開日:** 2026-08-30 | **ヒート:** 31
+
+**安定度:** 79/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 79.3) · [出力](https://media.goodcase.ai/retests/mountain-dew-spark-b16d4e23caef/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: A cool young male in his early 20s, confident and playful, short dark slightly messy hair, expressive face, trendy oversized graphic T-shirt, relaxed baggy cargo pants and clean sneakers. Maintain STRICT face, hairstyle, clothing and identity consistency throughout. 0–4s — THE SPARK Open with a stylish low-angle tracking shot of the boy casually walking through a colorful modern city street while holding a chilled Mountain Dew Spark can. Tiny cute hand-drawn doodles subtly appear around him: stars, lightning bolts, hearts and lemons. He stops. Cut to a macro close-up of the cold can covered in condensation. He cracks it open. PSHHHH! A tiny hand-drawn lightning bolt appears above the can and vibrates with the sound. 4–8s — TOO MUCH SPARK He takes a big sip. Instantly, colorful 2D doodles explode from behind him. Lightning bolts race across the screen, cute lemons bounce past camera, stars pop around his head and cartoon speed lines surround his body. He looks surprised, then grins. Use a quick punch-in camera movement. 8–15s — THE BOOST Suddenly, he launches forward at ridiculous speed. Use rapid whip pans, low-angle tracking shots, dynamic handheld movement and energetic speed ramps as he runs through the city. Every movement triggers a doodle: Footstep → star burst Arm swing → lightning bolt Jump → comic explosion Turn → curved hand-drawn speed lines Smile → tiny floating hearts The doodles physically interact with the live-action environment, wrapping around poles, bouncing off walls and following his movement. At 15 seconds, he races toward a city staircase, preparing to jump onto it. End with a fast forward-moving camera transition that naturally continues into Part 2. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, crash zooms, low-angle tracking, speed ramps and match cuts. Keep movement flowing naturally so the video feels like one continuous sequence, not separate clips. DOODLE ANIMATION: Cute hand-drawn 2D doodles with imperfect sketch lines, playful expressions and bouncy animation. Playful and cute, never childish. Doodles must interact naturally with the live-action environment. PART 2: MOUNTAIN DEW SPARK — “TOO MUCH SPARK” Duration: 15 seconds Aspect Ratio: 16:9 Style: Premium live-action commercial + playful 2D hand-drawn doodle animation, funky, energetic, youthful, colorful, fast-paced. Visual Quality: Ultra-realistic cinematic 4K, crisp product photography, natural skin texture, vibrant commercial lighting, smooth motion, dynamic camera work. CHARACTER: Continue with EXACTLY the same young male from Part 1. Same face, hairstyle, oversized graphic T-shirt, baggy cargo pants, sneakers and overall identity. STRICT IDENTITY AND OUTFIT LOCK. 0–6s — DOODLE CHAOS Continue directly from Part 1 as the boy jumps onto a city staircase and races upward. Hundreds of cute hand-drawn doodles chase after him. Animated lemons bounce down the stairs. Lightning bolts zigzag beside him. Tiny stars spin through the air. Cartoon flames briefly appear behind his sneakers. Rapidly alternate between: Low-angle running shot Side tracking shot Close-up of sneakers Close-up of his excited expression Overhead shot as doodles spiral around him Use energetic whip transitions synchronized with the music. 6–11s — PRODUCT HERO The boy suddenly stops. Everything freezes. The doodles freeze mid-air around him. He casually spins the Mountain Dew Spark can toward the camera. Transition into a premium macro product close-up: cold condensation, sharp label detail, vibrant commercial lighting and fizzy energy. Hand-drawn lemons and lightning bolts begin orbiting around the can. The camera slowly pushes toward the product while the background remains softly blurred. 11–15s — FINAL EXPLOSION He takes one final sip and smirks directly at camera. On the beat, every doodle in the scene rushes toward him: ⭐ ⚡ 🍋 ❤️ 💥 They explode outward into a giant colorful hand-drawn burst behind him. He stands confidently in the center, holding the Mountain Dew Spark can toward camera. End on a clean premium hero shot of the Mountain Dew Spark can surrounded by playful doodle lightning, stars and fruit. Final feeling: refreshing, energetic, mischievous, funky and irresistibly fun. CAMERA & EDITING: Fast commercial editing with smooth continuous motion. Use whip pans, speed ramps, macro product photography, orbiting camera movement, crash zooms and match cuts. Transitions should be motivated by the character's movement and preserve visual continuity from Part 1. DOODLE ANIMATION: Cute hand-drawn 2D doodles with intermediate sketch lines, playful expressions and bouncy animation. Doodles should physically interact with the live-action world rather than appearing as static overlays. Keep them playful and stylish, never childish. NEGATIVE PROMPT: No character identity changes, no outfit changes, no inconsistent face, no extra fingers, no distorted hands, no warped product, no incorrect can shape, no unreadable logo, no duplicate cans, no floating character, no stiff movement, no random scene changes, no disconnected clips, no excessive motion blur, no dull lighting, no childish cartoon environment, no photorealistic doodles, no messy compositing, no deformed facial features, no text artifacts.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/mountain-dew-spark-b16d4e23caef?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Street Comedy: Found Money Gets Spent on the Spot
 

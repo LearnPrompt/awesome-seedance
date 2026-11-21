@@ -2,9 +2,96 @@
 
 Seedance 2.5 全部 765 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 246–337 条，共 765 条。
+本页：第 245–337 条，共 765 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
+
+### 梅树下掉落的心上人
+
+> She shook the plum tree for treasure 🌸 Makeup? Meh. Gold? Boring. Then a prince fell out... and suddenly she's interested 😏 Created with Seedance 2.5 on @Sjol…
+
+[<img src="https://media.goodcase.ai/cases/a5e94a86e7e4.jpg" width="600" alt="梅树下掉落的心上人">](https://goodcase.ai/cases/seedance-title-what-falls-from-the-plum-tree-d602a208ed88?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Chaemate_ | **来源:** [原帖](https://x.com/Chaemate_/status/2105611129867395458) | **发布:** 2026-10-01 | **热度:** 69
+
+<details>
+<summary><b>完整 prompt（41 行，点开展开）</b></summary>
+
+```
+TITLE: "What Falls from the Plum Tree?"
+DURATION: 15 seconds | ASPECT RATIO: 16:9
+GENRE: Romantic Japanese Fantasy Comedy
+STYLE: Ultra-realistic premium Japanese drama, cinematic film quality
+
+IDENTITY LOCK:
+The woman @image1 must keep the exact same face, face shape, skin tone, hairstyle, height, body proportions, and wardrobe in every shot. The man @image2 must keep his exact face, hairstyle, and outfit as in the reference. No changes in any frame.
+
+ENVIRONMENT LOCK:
+An elegant Edo-era Japanese shrine courtyard with traditional wooden architecture, tiled rooftops, stone lanterns, and a raked gravel garden in the background. A giant ancient plum (ume) tree with dense white and pink blossoms. Its thick main branch extends horizontally above the woman's head. Soft spring daylight.
+
+SHOT BREAKDOWN:
+
+0.0–4.0s | Medium shot
+The woman stands beneath the huge horizontal branch. Blossom petals drift in the breeze. She looks up curiously, then raises both hands and shakes the branch. The branch trembles and a shower of petals falls. A lacquered cosmetic box tumbles down through the blossoms and she catches it with both hands. Close-up of her face as she peeks inside. Flat, unimpressed expression. She tosses it casually out of frame.
+
+4.0–7.5s | Medium shot
+Her curiosity grows. She shakes the branch harder and petals pour down like rain. A scatter of gold koban coins and a few silk pouches fall. She catches one pouch, raises a single eyebrow, looks bored, and tosses it away.
+
+7.5–10.5s | Slow motion
+Determined now, she grips the branch with both hands and shakes with all her strength. The branch shudders, a heavy blossom storm rains down, and the man @image2 suddenly drops from the branch. She gasps, spreads her arms, and catches him just before he hits the ground. Petals swirl around them.
+
+10.5–13.0s | Close-up, 50mm
+She looks at his face. Her eyes sparkle and a wide, delighted smile appears. He gives a charming, slightly embarrassed smile and looks back at her.
+
+13.0–15.0s | Medium-wide shot
+They turn to the camera together and make small heart shapes with their hands, laughing happily. They turn to each other, laugh, and walk out of frame side by side while petals keep falling behind them. Fade out on the falling blossoms.
+
+EMOTION ARC:
+Curious → Bored → More curious → Surprised → Smitten → Happy.
+
+SOUND:
+Soft spring breeze, rustling blossoms, creaking wood, light thud of the box, jingle of coins, warm playful Japanese rom-com music (koto, light shamisen, soft piano), cheerful laughter, fading footsteps.
+
+CAMERA & VISUALS:
+ARRI Alexa 35 look, 35mm and 50mm cinematic lenses, smooth gimbal movement, slow-motion petal shower, natural spring lighting, realistic skin pores, physically accurate shadows, HDR, subtle film grain, soft pastel color grading.
+
+NEGATIVE PROMPT:
+cartoon, anime, CGI look, low quality, blurry face, extra fingers, warped hands, duplicate objects, duplicate people, distorted body, floating objects, unrealistic physics, unnatural falling motion, overexposed lighting, oversaturated colors, AI artifacts, camera shake, abrupt cuts, warped architecture, deformed eyes
+
+#Seedance25 #AIVideo #AIFilmmaking #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-title-what-falls-from-the-plum-tree-d602a208ed88?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 雨夜涩谷十字路口近身格斗
+
+> Shibuya Nightmare Crossing 🌧️⚡ @prmptbio Surrounded under glowing Shibuya neon lights, operative Kenji takes on two ruthless enforcers in a non-stop 30-second …
+
+[<img src="https://media.goodcase.ai/cases/82910607cbda.jpg" width="600" alt="雨夜涩谷十字路口近身格斗">](https://goodcase.ai/cases/seedance-2-5-shibuya-nightmare-crossing-1dfa2009412a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @yourPlugAI | **来源:** [原帖](https://x.com/yourPlugAI/status/2119726983470850462) | **发布:** 2026-11-09 | **热度:** 68
+
+<details>
+<summary><b>完整 prompt（10 行，点开展开）</b></summary>
+
+```
+Shibuya Nightmare Crossing 🌧️⚡
+@prmptbio 
+
+Surrounded under glowing Shibuya neon lights, operative Kenji takes on two ruthless enforcers in a non-stop 30-second urban CQC gauntlet.
+
+Featuring Wing Chun flurries, storefront reflection parries, bus-stop wall-run flying knees into vending machines, and a 360-degree jaw-shattering roundhouse kick finish!
+
+Generated on Prompt Bio with Seedance 2.5 featuring hyper-kinetic 2-to-3-second beats and pure SFX audio design.
+
+✨Exact workflow attached in the link attached below👇🏾
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-shibuya-nightmare-crossing-1dfa2009412a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 黑白衣女侠破庙激战剑客
 
@@ -265,37 +352,6 @@ Elegant, silent except for implied kitchen sounds and a refined, understated sco
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### First-Person POV Dragon Rider Cinematic
-
-> An epic, photorealistic 8K sequence of riding a crimson-obsidian dragon over emerald cliffs and diving into the ocean with cinematic sound design.
-
-[<img src="https://media.goodcase.ai/cases/464939ccd5ab.jpg" width="600" alt="First-Person POV Dragon Rider Cinematic">](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @frametheory058 | **来源:** [原帖](https://x.com/frametheory058/status/2087007818721423855) | **发布:** 2026-08-11 | **热度:** 68
-
-**稳定度：** 77/100
-
-**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (76.9 分) · [产物](https://media.goodcase.ai/retests/first-person-pov-dragon-rider-cinematic/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（9 行，点开展开）</b></summary>
-
-```
-Create a 30-second vertical 9:16, 24fps, 8K-quality photorealistic live-action fantasy sequence from a first-person rider POV. A massive original obsidian-crimson dragon with individually detailed scales, subtle dark mottling, molten-gold eyes, volcanic-black swept-back horns, blade-like dorsal fins, burgundy-red translucent wings and faint ember-like fissures across its body. Rider wears black leather gloves, dark-green sleeves and weathered leather bracers, holding heavy chain reins from a worn brown studded saddle.
-
-Begin with the dragon calmly breathing on a wet emerald coastal cliff; it slowly turns toward camera and the rider gently pets its neck. Suddenly it lowers its body, launches across the grass and leaps from the cliff. Dive steeply toward the grey-green ocean, deploy huge wings with realistic membrane movement, then skim just above the water with spray hitting the lens. Perform a dramatic high-speed bank around a sea stack, then plunge directly underwater. Brief dark-teal underwater silence with bubbles and faint crimson glow, followed by a powerful eruption through the ocean. Finish with a calm glide above foggy water as the dragon slowly turns and looks toward the rider.
-
-Use physically accurate anatomy, weight, gravity, wing aerodynamics, water physics, scale deformation, wind and environmental interaction. Natural rider-mounted camera movement, realistic motion blur, lens droplets, focus breathing, subtle handheld vibration, cinematic depth of field, soft overcast lighting, HDR, restrained film grain and natural cinematic color grading.
-
-Audio: atmospheric drone → intimate cello → rising orchestral tension → massive launch/flight score → intense percussion during the bank → muffled underwater audio → epic orchestral return during emergence → soft cello/piano ending. Layer detailed ASMR/SFX: dragon breathing, scales, leather, reins, claws scraping soil, wind, wingbeats, water spray, bubbles, ocean impact and a deep natural dragon roar.
-
-Make it indistinguishable from expensive real live-action cinema. No AI look, cartoon, anime, game CGI, plastic textures, fake physics, neon glow, oversaturation, distorted anatomy, extra limbs, text or watermark.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 首尔夏夜的邻里散步
 

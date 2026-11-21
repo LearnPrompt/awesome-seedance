@@ -2,7 +2,7 @@
 
 Seedance 2.5 全部 765 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 632–709 条，共 765 条。
+本页：第 633–712 条，共 765 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.zh.md)
 
@@ -229,310 +229,6 @@ cartoon, anime, game graphics, glossy CGI, plastic skin, AI faces, weapon swappi
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-arman-exact-same-identity-throughout-334c97a3dc2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 雨天出门的意外小冒险
-
-> I almost stayed home because of the rain but one spontaneous decision turned into the sweetest little adventure. Made with Seedance 2.5 Prompt: Authentic handhe…
-
-[<img src="https://media.goodcase.ai/cases/0e762d17f78d.jpg" width="600" alt="雨天出门的意外小冒险">](https://goodcase.ai/cases/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @CaliraVal | **来源:** [原帖](https://x.com/CaliraVal/status/2101908933078310950) | **发布:** 2026-09-21 | **热度:** 33
-
-**稳定度：** 71/100
-
-**复测：** Grok Imagine · 2026-10-03 · ⚠️ 降级 (70.9 分) · [产物](https://media.goodcase.ai/retests/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（282 行，点开展开）</b></summary>
-
-```
-Authentic handheld mini-DV camcorder footage with a soft early-digital-video aesthetic. The video should feel like a spontaneous personal vlog filmed throughout the day rather than a professionally produced commercial.
-
-Most shots are recorded by the woman herself in arm’s-length selfie mode, combined with a few naturally positioned external angles and brief first-person POV shots.
-
-Keep the camera imperfect and human:
-
-- Subtle natural hand shake
-- Slightly crooked framing
-- Occasional autofocus hunting
-- Tiny exposure fluctuations
-- Mild motion blur
-- Imperfect zooms
-- Natural reflections
-- Small framing mistakes
-- Realistic handheld movement
-
-Never show the woman setting up, placing, adjusting, or operating a camera. The camera itself must never be visible in the frame.
-
-Use natural jump cuts between locations and perspectives. Avoid overly smooth transitions or cinematic camera movements.
-
-VISUAL LOOK
-
-Soft consumer-DV texture with gentle digital softness, subtle tape character, faint grain, mild highlight bloom, realistic skin texture, slightly muted contrast, and natural colors.
-
-Cloudy daylight should feel believable and soft. Wet streets should show realistic reflections, puddles, and subtle highlights.
-
-Avoid:
-
-- Excessive beauty filters
-- Plastic-looking skin
-- Artificial sharpness
-- CGI-looking environments
-- Overly perfect lighting
-- Commercial-style polish
-- Unrealistic environments
-
-STORY & EMOTIONAL TONE
-
-A spontaneous “I almost stayed home” day that unexpectedly turns into a beautiful little adventure.
-
-Emotional progression:
-
-Bored at home → impulsive decision → rainy city walk → unexpected cozy discovery → sunset payoff
-
-She is playful, feminine, confident, slightly flirty, curious, and naturally expressive.
-
-Her reactions should feel spontaneous and unscripted, as if she is casually sharing an unexpected day with her followers.
-
-MAIN CHARACTER
-
-An exceptionally beautiful glamorous European brunette woman in her mid-20s.
-
-She has:
-
-- Expressive almond-shaped brown eyes
-- Long eyelashes
-- Full glossy lips
-- Refined facial features
-- Sculpted cheekbones
-- Delicate straight nose
-- Lightly tanned glowing skin
-- Long, thick dark-brown hair
-
-Her hair is styled in a high ponytail, with a few loose strands naturally becoming visible as the day progresses.
-
-She has a lean, feminine, athletic physique and a polished social-media-influencer appearance.
-
-Makeup is soft-glam but realistic enough for natural daylight. Preserve realistic skin texture and natural facial movement.
-
-OUTFIT & CONTINUITY
-
-She wears the same outfit throughout the entire video:
-
-- Fitted deep-burgundy long-sleeve top
-- Elegant high-waisted dark trousers or fitted jeans
-- Lightweight neutral trench coat
-- Clean white sneakers
-- Small shoulder bag
-
-The burgundy top should remain clearly visible whenever the trench coat is open.
-
-Strict continuity: same woman, same face, same hairstyle, same makeup, same outfit, same accessories, and consistent body proportions throughout every shot.
-
-No wardrobe changes.
-
-LOCATION
-
-A beautiful modern European city during an overcast rainy afternoon.
-
-Environment includes:
-
-- Stone sidewalks
-- Small independent cafés
-- Glass shop windows
-- Historic European architecture mixed with modern streets
-- Passing cars
-- Wet pavement
-- Street lights
-- Trees moving gently in the breeze
-- Cozy bookstore or café
-- Realistic urban details
-
-The city should feel lived-in and believable. Avoid large crowds dominating the background.
-
----
-
-STORYBOARD — 30 SECONDS / 10 CUTS
-
-CUT 01 — 0:00–0:03 | STUCK INSIDE
-
-Handheld selfie footage inside her apartment.
-
-She stands beside a large apartment window, looking outside at the rain. She briefly turns the camera toward the rainy street, then back toward herself.
-
-She makes a slightly unimpressed expression.
-
-Dialogue:
-“Yeah… I definitely wasn’t planning on going anywhere today.”
-
-She glances back toward the rain.
-
-Natural facial expression, casual delivery, slight handheld shake.
-
-CUT 02 — 0:03–0:06 | SPONTANEOUS DECISION
-
-Quick natural jump cut.
-
-She is now leaving the apartment building wearing her burgundy outfit and trench coat.
-
-She looks into the camera with a playful, mischievous smile while walking toward the entrance.
-
-Dialogue:
-“But staying home sounded boring.”
-
-She steps outside into the rain without posing.
-
-CUT 03 — 0:06–0:09 | RAINY STREET
-
-Handheld walking selfie.
-
-She walks along the wet European street. Small raindrops are visible on her hair and trench coat.
-
-The camera is held slightly above eye level with natural movement.
-
-A passing car creates a tiny splash near the pavement.
-
-She laughs naturally.
-
-Dialogue:
-“Okay… maybe this was a bad idea.”
-
-She smiles despite the rain.
-
-CUT 04 — 0:09–0:12 | CITY DISCOVERY
-
-She slows down while walking and notices something interesting across the street.
-
-Switch to a brief first-person POV showing a charming independent bookstore or cozy café glowing warmly through rain-speckled glass.
-
-Cut back to her face.
-
-Her expression changes from bored to curious.
-
-Dialogue:
-“Oh… wait.”
-
-She looks toward the place again with genuine curiosity.
-
-CUT 05 — 0:12–0:15 | COZY DISCOVERY
-
-Quick external angle from across the sidewalk.
-
-She walks toward the cozy bookstore/café while holding her small shoulder bag.
-
-Rain continues falling lightly.
-
-She looks through the window and smiles.
-
-Cut to a close handheld selfie as she says:
-
-Dialogue:
-“I’ve never actually been in here.”
-
-Keep the framing imperfect and documentary-like.
-
-CUT 06 — 0:15–0:18 | INSIDE
-
-Jump cut to the warm interior.
-
-She walks slowly through the cozy bookstore/café, looking around with genuine interest.
-
-Warm interior lighting contrasts naturally with the cool rainy light outside.
-
-She briefly picks up a book or looks at a small display.
-
-No exaggerated acting.
-
-Dialogue:
-“Okay, this is actually really cute.”
-
-CUT 07 — 0:18–0:21 | LITTLE MOMENT
-
-Handheld close-up selfie.
-
-She sits near the window with a warm drink.
-
-Rainy streets are visible behind her through the glass.
-
-A few loose strands of hair frame her face.
-
-She takes a small sip, looks outside, then back at the camera with a satisfied smile.
-
-No dialogue for a moment — just natural ambient café and rain sounds.
-
-CUT 08 — 0:21–0:24 | RAIN CLEARS
-
-Natural jump cut.
-
-She is back outside.
-
-The rain has become lighter. The pavement is still wet and reflective.
-
-She walks down the street while filming herself.
-
-Soft sunlight begins breaking through the clouds.
-
-She looks upward and smiles.
-
-Dialogue:
-“Okay… I’m glad I left.”
-
-CUT 09 — 0:24–0:27 | SUNSET PAYOFF
-
-Brief external cinematic-but-imperfect angle.
-
-She walks along a beautiful European street as golden evening light begins appearing between the clouds.
-
-Wet pavement reflects the warm sky.
-
-She turns toward the camera with a relaxed smile.
-
-Her hair moves naturally in the breeze.
-
-Keep the image grounded and realistic rather than overly cinematic.
-
-CUT 10 — 0:27–0:30 | FINAL SELFIE
-
-Handheld selfie at golden hour.
-
-She stops walking and looks directly into the camera.
-
-She gives a small playful smile and slightly raises her eyebrows, as if admitting the day turned out better than expected.
-
-Dialogue:
-“Maybe going out wasn’t such a bad idea.”
-
-She turns the camera slightly toward the glowing street and sunset.
-
-Natural jump cut/end.
-
-AUDIO
-
-Natural location sound throughout:
-
-- Light rain
-- Distant traffic
-- Footsteps on wet pavement
-- Subtle café ambience
-- Soft city background noise
-- Gentle wind
-
-Dialogue should sound naturally recorded through a small consumer camcorder microphone.
-
-No dramatic cinematic voice-over.
-
-No artificial studio-quality audio.
-
-FINAL STYLE RULE
-
-The entire video should feel like a real spontaneous personal vlog captured on an old consumer mini-DV camera during an unexpectedly beautiful rainy day.
-
-Prioritize natural human behavior, realistic movement, continuity, imperfect handheld framing, believable lighting, authentic expressions, and casual storytelling over polished cinematic perfection.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 日本高中教室钥匙任务
 
@@ -4342,6 +4038,27 @@ The realism should come from tiny imperfections, casual body language, natural e
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/aqib-786ai-seedance-ai-9fcb27bab8b2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 中文 prompt 角色剧情：地牢中的薰衣草
+
+> More Lavender. Generated with Seedance 2.5 Prompt: 场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁
+
+[<img src="https://media.goodcase.ai/media/poster/migrok293703-seedance-ai-feecd249fd30.jpg" width="600" alt="Seedance 中文 prompt 角色剧情：地牢中的薰衣草">](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @migrok293703 | **来源:** [原帖](https://x.com/migrok293703/status/2089765662193316149) | **发布:** 2026-08-18 | **热度:** 28
+
+**稳定度：** 69/100
+
+**复测：** 共 2 次
+
+- Grok Imagine · 2026-10-02 · ⚠️ 降级 (69.4 分) · [产物](https://media.goodcase.ai/retests/migrok293703-seedance-ai-feecd249fd30/video-grok-imagine-20261002-phase1/generated.mp4)
+- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失败 (无评分)
+
+```
+场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁链，愤怒地环顾四周，用日语咆哮着说他们会后悔的。场景2：从薰衣草身后的墙壁上缓缓伸出两条机械臂，每条机械臂的末端都长着一只戴着白手套的手。薰衣草注意到身后的动静，一脸困惑和不安，用日语问道：{现在怎么办？} 场景3：两只戴着白手套的手向薰衣草裸露的腋窝靠近。一只手伸进一个腋窝，另一只手伸进另一个腋窝。它们开始用轻柔、流畅、连贯的手指动作挠薰衣草的腋窝。滑稽的挠痒音效响起。薰衣草立刻咧嘴一笑，发出闷闷的笑声，因为他非常怕痒。（滑稽的挠痒音效）场景4：薰衣草上半身的特写镜头。两只戴着手套的手继续挠他裸露的腋窝。薰衣草紧紧闭上眼睛，咧嘴大笑，发出闷闷的笑声，稍微扭动身体想躲开戴着手套的手，但他逃不掉，戴着手套的手继续挠着薰衣草的腋窝。他用咯咯笑着的语气用日语说：“停下来！”然后又轻声笑了起来。（滑稽的挠痒音效继续）场景5：两只机械臂继续挠了一会儿腋窝后，突然停了下来，稍微拉开了距离，但仍然靠近薰衣草。薰衣草咯咯笑了几声，然后稍微恢复了镇定，希望挠痒已经结束了，他叹了口气，用日语如释重负地说：“终于停了。”场景6：机械臂的手从薰衣草的腋窝向下移到他的肚子上，薰衣草带着一丝担忧看着它们移动。两只戴着白手套的手开始用轻柔、流畅、连贯的指法挠薰衣草的肚子。薰衣草又开始轻声咯咯地笑，用他那独特的日语笑声说道：“哦，别挠那里！”然后又开始咯咯地笑，笑声越来越大。（滑稽的挠痒音效持续）场景6：薰衣草在牢房里的正面全貌。两只戴着白手套的手继续挠他的肚子，他咯咯地笑着，微微扭动着上半身，但无法逃脱。他咧嘴笑着，闭着眼睛，无力地挣扎着想要挣脱锁链，而戴着手套的手则继续挠他的肚子。总共有两条机械臂，也正好有两只戴着白手套的手。它们从薰衣草身后伸出来。首先，两只手挠薰衣草裸露的腋窝，然后向下移动，挠他的肚子。挠腋窝时要集中在腋窝的凹陷处，不要挠到肋骨、胸部或侧腰。手指的动作要轻柔、流畅、连贯。在所有挠痒痒的场景中使用滑稽、有趣的挠痒痒音效。语音为日语。
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 硬核卡特尔藏身处动作场景
 
 > 一段电影感十足的孤胆英雄动作序列，讲述了一位身经百战的硬汉在卡特尔藏身处杀出重围的故事。
@@ -4599,6 +4316,77 @@ Visual style: high-end cinematic 3D animation, ultra-detailed fluffy characters,
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d2d9acfaedfc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 街头偶遇最爱歌曲的瞬间
+
+> POV: You’re walking through the city when your favorite song suddenly starts playing. Created this 15-second cinematic everyday-life moment using Seedance 2.5 o…
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86.jpg" width="600" alt="街头偶遇最爱歌曲的瞬间">](https://goodcase.ai/cases/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithZeeshi | **来源:** [原帖](https://x.com/AIwithZeeshi/status/2095374122674991259) | **发布:** 2026-09-03 | **热度:** 27
+
+**稳定度：** 82/100
+
+**复测：** Grok Imagine · 2026-10-02 · ✅ 复现 (81.8 分) · [产物](https://media.goodcase.ai/retests/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86/video-grok-imagine-20261002-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（11 行，点开展开）</b></summary>
+
+```
+POV — Your Favorite Song Starts Playing in Public
+
+A young man walks through a busy city sidewalk when he suddenly hears his favorite song playing from a nearby café. He recognizes it instantly, slows down, smiles, and starts subtly vibing to the rhythm while pretending to keep walking normally.
+
+The entire sequence follows realistic human behavior and accurate physics, including natural walking biomechanics, weight distribution, gravity, inertia, momentum, friction, foot-to-ground contact, realistic pedestrian movement, clothing dynamics, hair movement, and natural interactions between people and the environment.
+
+Ultra-realistic visuals, cinematic documentary style, natural late-afternoon lighting, realistic skin and clothing textures, smooth stabilized tracking, subtle handheld camera motion, realistic depth of field, natural focus pulls, physically accurate shadows and reflections, consistent character identity, authentic urban environment, natural colors, subtle film grain, and 4K cinematic quality.
+
+Would you be able to resist vibing to your favorite song in public? 
+
+#Seedance25 #WaveSpeedAI #AIVideo #CinematicAI #AIStorytelling #DailyLife #POV #Relatable #MusicLovers #GenerativeAI
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-pov-your-favorite-song-starts-playing-in-public-96262a9d8e86?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 健身房更衣室训练前准备
+
+> Made with seedance 2.5 prompt: Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not tran
+
+[<img src="https://media.goodcase.ai/media/poster/qaistudio-seedance-ai-72dab559610b.jpg" width="600" alt="健身房更衣室训练前准备">](https://goodcase.ai/cases/qaistudio-seedance-ai-72dab559610b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @QAiStudio | **来源:** [原帖](https://x.com/QAiStudio/status/2093565477192917480) | **发布:** 2026-08-29 | **热度:** 27
+
+**稳定度：** 74/100
+
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ 降级 (74 分) · [产物](https://media.goodcase.ai/retests/qaistudio-seedance-ai-72dab559610b/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（16 行，点开展开）</b></summary>
+
+```
+Subject: Person from Image1. Face and hairstyle must match Image1 completely; do not transform into a different person. Ignore Image1’s outfit, background, pose, and bottom text. Casual black gym outfit: fitted tank + leggings/shorts, hair tied back. Keep facial features sharp even with low image quality. 16:9 horizontal.
+
+Setting: Gym locker room with full-length mirror, lockers, and gym bag on bench. No legible text, signage, locker numbers, or branding.
+
+Timeline:
+
+- 0–4s: Walks to mirror, props phone against locker/bag, checks reflection, adjusts tank straps.
+- 4–8s: Sits, ties and double-knots shoelaces, stands and lightly bounces to test shoes.
+- 8–11s: Takes earbuds from bag, inserts and adjusts them.
+- 11–14s: Faces mirror, rolls shoulders, nods at reflection and quietly says, “okay... let’s get it.”
+- 14–17s: Arm swings/stretching, briefly glances at camera.
+- 17–19s: Picks up phone, turns toward door and walks off confidently; freeze mid-stride.
+
+Camera/Style: Old iPhone everyday-video look, standard 1x lens, static/propped angle, loose 1–1.5s cuts. Harsh fluorescent locker-room lighting, slightly cool/green tint, faint mirror glare. Heavy noise and compression artifacts throughout. Natural skin texture, pores, flyaways, and oil sheen. No grading, cinematic/film look, beauty filter, CG texture, fisheye, 0.5x, barrel distortion, vignette, or lens edges. No scene skipping or consolidated cuts.
+
+Sound: No BGM. Locker-room echo, distant locker clanks, shoelace tightening, earbud-case click, faint gym noise outside, and close/muffled natural voice.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/qaistudio-seedance-ai-72dab559610b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 午夜电梯里的镜像追猎
 
 > Made with seedance 2.5 Prompt: Create a highly realistic cinematic horror sequence set inside a quiet apartment building
@@ -4631,26 +4419,23 @@ Ultra-photorealistic live-action horror, realistic human movement, believable ap
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/saniaspeaks-seedance-ai-575658372136?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seedance 中文 prompt 角色剧情：地牢中的薰衣草
+### Karakoram Motorcycle Commercial
 
-> More Lavender. Generated with Seedance 2.5 Prompt: 场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁
+> A high-energy motorcycle commercial prompt set in the snow-covered Karakoram mountains, focusing on photorealistic tracking shots and physical consistency.
 
-[<img src="https://media.goodcase.ai/media/poster/migrok293703-seedance-ai-feecd249fd30.jpg" width="600" alt="Seedance 中文 prompt 角色剧情：地牢中的薰衣草">](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/fe0b785db335.jpg" width="600" alt="Karakoram Motorcycle Commercial">](https://goodcase.ai/cases/karakoram-motorcycle-commercial?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @migrok293703 | **来源:** [原帖](https://x.com/migrok293703/status/2089765662193316149) | **发布:** 2026-08-18 | **热度:** 27
+**作者:** @AI_with_Antonio | **来源:** [原帖](https://x.com/AI_with_Antonio/status/2088599346908365227) | **发布:** 2026-08-15 | **热度:** 26
 
-**稳定度：** 69/100
+**稳定度：** 87/100
 
-**复测：** 共 2 次
-
-- Grok Imagine · 2026-10-02 · ⚠️ 降级 (69.4 分) · [产物](https://media.goodcase.ai/retests/migrok293703-seedance-ai-feecd249fd30/video-grok-imagine-20261002-phase1/generated.mp4)
-- MiniMax H3 Max 768p · 2026-09-07 · ❌ 失败 (无评分)
+**复测：** MiniMax H3 Max 768p · 2026-09-07 · ✅ 复现 (86.8 分) · [产物](https://media.goodcase.ai/retests/karakoram-motorcycle-commercial/video-minimax-h3-768p-20260907-phase1/generated.mp4)
 
 ```
-场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁链，愤怒地环顾四周，用日语咆哮着说他们会后悔的。场景2：从薰衣草身后的墙壁上缓缓伸出两条机械臂，每条机械臂的末端都长着一只戴着白手套的手。薰衣草注意到身后的动静，一脸困惑和不安，用日语问道：{现在怎么办？} 场景3：两只戴着白手套的手向薰衣草裸露的腋窝靠近。一只手伸进一个腋窝，另一只手伸进另一个腋窝。它们开始用轻柔、流畅、连贯的手指动作挠薰衣草的腋窝。滑稽的挠痒音效响起。薰衣草立刻咧嘴一笑，发出闷闷的笑声，因为他非常怕痒。（滑稽的挠痒音效）场景4：薰衣草上半身的特写镜头。两只戴着手套的手继续挠他裸露的腋窝。薰衣草紧紧闭上眼睛，咧嘴大笑，发出闷闷的笑声，稍微扭动身体想躲开戴着手套的手，但他逃不掉，戴着手套的手继续挠着薰衣草的腋窝。他用咯咯笑着的语气用日语说：“停下来！”然后又轻声笑了起来。（滑稽的挠痒音效继续）场景5：两只机械臂继续挠了一会儿腋窝后，突然停了下来，稍微拉开了距离，但仍然靠近薰衣草。薰衣草咯咯笑了几声，然后稍微恢复了镇定，希望挠痒已经结束了，他叹了口气，用日语如释重负地说：“终于停了。”场景6：机械臂的手从薰衣草的腋窝向下移到他的肚子上，薰衣草带着一丝担忧看着它们移动。两只戴着白手套的手开始用轻柔、流畅、连贯的指法挠薰衣草的肚子。薰衣草又开始轻声咯咯地笑，用他那独特的日语笑声说道：“哦，别挠那里！”然后又开始咯咯地笑，笑声越来越大。（滑稽的挠痒音效持续）场景6：薰衣草在牢房里的正面全貌。两只戴着白手套的手继续挠他的肚子，他咯咯地笑着，微微扭动着上半身，但无法逃脱。他咧嘴笑着，闭着眼睛，无力地挣扎着想要挣脱锁链，而戴着手套的手则继续挠他的肚子。总共有两条机械臂，也正好有两只戴着白手套的手。它们从薰衣草身后伸出来。首先，两只手挠薰衣草裸露的腋窝，然后向下移动，挠他的肚子。挠腋窝时要集中在腋窝的凹陷处，不要挠到肋骨、胸部或侧腰。手指的动作要轻柔、流畅、连贯。在所有挠痒痒的场景中使用滑稽、有趣的挠痒痒音效。语音为日语。
+Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h. The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip. The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details. The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting. Cinematic Direction: Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks. Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur. Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains. Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere. Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested. Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram.
 ```
 
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/karakoram-motorcycle-commercial?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.zh.md)

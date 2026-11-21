@@ -8,13 +8,13 @@
 
 - [Seedance 2.5 · 第 1/9 页](./gallery-seedance-2-5-part-1.zh.md) - 第 1–84 条，共 765 条.
 - [Seedance 2.5 · 第 2/9 页](./gallery-seedance-2-5-part-2.zh.md) - 第 85–158 条，共 765 条.
-- [Seedance 2.5 · 第 3/9 页](./gallery-seedance-2-5-part-3.zh.md) - 第 159–245 条，共 765 条.
-- [Seedance 2.5 · 第 4/9 页](./gallery-seedance-2-5-part-4.zh.md) - 第 246–337 条，共 765 条.
-- [Seedance 2.5 · 第 5/9 页](./gallery-seedance-2-5-part-5.zh.md) - 第 338–433 条，共 765 条.
-- [Seedance 2.5 · 第 6/9 页](./gallery-seedance-2-5-part-6.zh.md) - 第 434–527 条，共 765 条.
-- [Seedance 2.5 · 第 7/9 页](./gallery-seedance-2-5-part-7.zh.md) - 第 528–631 条，共 765 条.
-- [Seedance 2.5 · 第 8/9 页](./gallery-seedance-2-5-part-8.zh.md) - 第 632–709 条，共 765 条.
-- [Seedance 2.5 · 第 9/9 页](./gallery-seedance-2-5-part-9.zh.md) - 第 710–765 条，共 765 条.
+- [Seedance 2.5 · 第 3/9 页](./gallery-seedance-2-5-part-3.zh.md) - 第 159–244 条，共 765 条.
+- [Seedance 2.5 · 第 4/9 页](./gallery-seedance-2-5-part-4.zh.md) - 第 245–337 条，共 765 条.
+- [Seedance 2.5 · 第 5/9 页](./gallery-seedance-2-5-part-5.zh.md) - 第 338–434 条，共 765 条.
+- [Seedance 2.5 · 第 6/9 页](./gallery-seedance-2-5-part-6.zh.md) - 第 435–528 条，共 765 条.
+- [Seedance 2.5 · 第 7/9 页](./gallery-seedance-2-5-part-7.zh.md) - 第 529–632 条，共 765 条.
+- [Seedance 2.5 · 第 8/9 页](./gallery-seedance-2-5-part-8.zh.md) - 第 633–712 条，共 765 条.
+- [Seedance 2.5 · 第 9/9 页](./gallery-seedance-2-5-part-9.zh.md) - 第 713–765 条，共 765 条.
 - [Seedance 2.0 · 第 1/4 页](./gallery-seedance-2-0-part-1.zh.md) - 第 1–95 条，共 305 条.
 - [Seedance 2.0 · 第 2/4 页](./gallery-seedance-2-0-part-2.zh.md) - 第 96–201 条，共 305 条.
 - [Seedance 2.0 · 第 3/4 页](./gallery-seedance-2-0-part-3.zh.md) - 第 202–287 条，共 305 条.

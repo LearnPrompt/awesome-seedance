@@ -6,6 +6,41 @@ Seedance 2.5 の全 765 ケースをヒートスコア順に掲載。data/cases.
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
 
+### Baby Dragon Magically Gives a Young Woman a Golden Afro by the Fire
+
+> A magical baby dragon gives a young woman the most unexpected hairstyle transformation! 🐉✨ Made with Seedance 2.5 Prompt below ⤵️ 💬
+
+[<img src="https://media.goodcase.ai/cases/2825fa597430.jpg" width="600" alt="Baby Dragon Magically Gives a Young Woman a Golden Afro by the Fire">](https://goodcase.ai/cases/seedance-2-5-video-prompt-95f4064ef712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @mehwishkiran07 | **出典:** [元投稿](https://x.com/mehwishkiran07/status/2113088659658612746) | **公開日:** 2026-10-22 | **ヒート:** 86
+
+<details>
+<summary><b>プロンプト全文（17 行、クリックで展開）</b></summary>
+
+```
+Video Prompt 👇 
+
+A magical, heartwarming fantasy scene inside a cozy medieval cottage with rustic wooden walls, a stone fireplace, flickering candles, and warm golden sunlight streaming through a small window. A beautiful young woman with long, wavy blonde hair, fair skin, and expressive blue eyes wears a simple cream-colored medieval dress. Beside her is an adorable small fantasy dragon with pale pink-white scales, soft pink spines, tiny wings, a long tail, and large glowing amber eyes.
+
+The scene begins with the young woman sitting beside the baby dragon near the fireplace, smiling affectionately as they gaze at each other. The camera slowly moves closer to the dragon's adorable face, highlighting its detailed scales, glossy amber eyes, and tiny nose. Suddenly, the little dragon playfully breathes a small burst of magical golden fire toward the woman's head, transforming her hair into an enormous, perfectly rounded, fluffy golden afro. Her appearance changes comically while her cream medieval dress remains unchanged. She looks completely stunned, adjusts her round glasses, and picks up a small hand mirror to examine her extraordinary new hairstyle. The baby dragon rolls onto its back, laughing and playfully flapping its tiny wings.
+
+Next, the woman returns to her original appearance with long, flowing blonde hair and gently blows a kiss toward the baby dragon. The dragon responds by releasing a soft stream of sparkling golden magical light, creating a warm, glowing aura around her face. She smiles with wonder and delight, and the two share a tender, magical moment. Finally, she lovingly cuddles the baby dragon in her lap as it closes its eyes peacefully, resting its head against her while she gently strokes its pink spines.
+
+Visual style: ultra-realistic cinematic fantasy, high-end CGI, photorealistic skin and hair, incredibly detailed dragon scales, expressive facial animations, realistic firelight, volumetric sunlight, floating magical particles, warm amber color grading, shallow depth of field, smooth camera movements, natural body language, emotional storytelling, whimsical humor, and a charming fairy-tale atmosphere.
+
+Camera direction: begin with a medium two-shot, cut to an extreme close-up of the dragon's eyes, transition to a wide shot during the magical hair transformation, use reaction close-ups for comedic effect, and finish with a slow cinematic pullback showing the woman cuddling the sleeping dragon beside the glowing fireplace.
+
+Lighting: warm fireplace illumination mixed with soft golden sunlight, realistic shadows, subtle highlights, and cinematic volumetric rays.
+
+Quality: 4K, 24fps, highly detailed textures, smooth motion, consistent character designs, realistic physics, expressive emotions, seamless transitions, and professional cinematic composition.
+
+Audio: gentle fireplace crackling, soft dragon chirps, a magical sparkling sound during the transformation, playful laughter, and peaceful fantasy background music. No subtitles, no text, no watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-video-prompt-95f4064ef712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Devil Woman and Monsters in Halloween Night Mayhem
 
 > Bro, this is NOT how Halloween was supposed to go Unlimited Seedance 2.5 on @makeugc prompt Video Prompt: STYLE: Photoreal raw flash footage, like a found Hallo…
@@ -574,49 +609,6 @@ The final video must feel like real disaster footage, full of tension, urgency a
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-one-girl-5d30a4a6712c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A girl in a blue gown fights students with a floral magic sword
-
-> This is AI video absolute masterpiece 🔥 Geranted with Seedance 2.5 Prompt 👇
-
-[<img src="https://media.goodcase.ai/cases/bd6273343ddf.jpg" width="600" alt="A girl in a blue gown fights students with a floral magic sword">](https://goodcase.ai/cases/seedance-2-5-create-an-80-second-cinematic-korean-fantasy-action-scene-with-photorealistic-v-438797e2b058?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AizaAi12 | **出典:** [元投稿](https://x.com/AizaAi12/status/2116354072441970926) | **公開日:** 2026-10-31 | **ヒート:** 85
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
-Create an 80-second cinematic Korean fantasy action scene with photorealistic visuals, dramatic lighting, dynamic camera movements, and high-quality K-drama cinematography.
-
-Scene 1 — The Secret Encounter:
-Inside a dimly lit school sports equipment storage room, a group of male students wearing black school uniforms gather among shelves filled with basketballs, volleyballs, and sports equipment. They are talking and behaving confidently in the cramped room. The atmosphere feels tense and mysterious.
-
-Scene 2 — The Mysterious Girl Arrives:
-The storage room door slowly opens, revealing a beautiful young Korean woman wearing an elegant traditional-inspired pastel-blue gown with delicate floral embroidery, sheer pale-pink sleeves, and a decorative hair ornament. Her black hair is neatly tied into a sophisticated bun. Soft daylight illuminates her face as she calmly enters the room. The students turn around in surprise, staring at her in disbelief.
-
-Scene 3 — An Unexpected Transformation:
-The girl walks forward gracefully, maintaining a calm expression while the boys exchange confused glances. The contrast between her elegant appearance and the ordinary sports storage room creates a surreal, supernatural atmosphere. Use cinematic close-ups of her face, the students' shocked expressions, and her flowing dress.
-
-Scene 4 — Supernatural Martial Arts Action:
-Suddenly, the situation turns into a spectacular fantasy action sequence. The girl displays extraordinary speed, precision, and supernatural martial arts abilities. She effortlessly dodges attacks and sends several students flying toward the padded gym mats. Use fast tracking shots, dramatic slow motion, rapid camera movements, and realistic physical interactions. Her gown flows beautifully with every movement.
-
-Scene 5 — Magical Energy Attack:
-The girl prepares a powerful supernatural strike. A luminous pink-and-white energy vortex forms around her hand, swirling with sparkling particles and magical trails. She releases the energy toward her opponent, creating a dramatic shockwave. The surrounding walls appear to crack under the force of the magical impact. Show the energy swirling through the room with detailed particle effects, cinematic motion blur, and realistic lighting.
-
-Scene 6 — The Final Reveal:
-Cut between the girl's intense facial expressions and the shocked reaction of an elderly man in a formal dark suit. Finish with a close-up of the girl wearing a subtle, confident smile, her eyes glowing with mysterious power. End on a dramatic cinematic frame that leaves the viewer curious about her true identity and supernatural abilities.
-
-Visual Style: Ultra-realistic Korean fantasy action drama, premium K-drama cinematography, photorealistic characters, detailed facial expressions, elegant traditional-inspired clothing, realistic fabric movement, dramatic shadows, volumetric lighting, magical pink energy effects, high-speed action choreography, cinematic depth of field, smooth transitions, 4K ultra-HD quality, 16:9 widescreen aspect ratio.
-
-Audio: Dramatic orchestral background music, subtle room ambience, footsteps, fabric movement, whooshing action sounds, magical energy pulses, powerful impact effects, and suspenseful cinematic sound design.
-
-Important: Maintain consistent character appearances, realistic body proportions, coherent action choreography, natural facial expressions, and seamless scene transitions throughout the video. Avoid cartoonish visuals, distorted faces, extra limbs, unrealistic movements, and excessive visual effects.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-80-second-cinematic-korean-fantasy-action-scene-with-photorealistic-v-438797e2b058?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Pink-Haired Woman Walks Calmly Ahead of a Midnight Road Explosion
 
@@ -1380,6 +1372,255 @@ high detail, no text, no subtitles
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-video-prompt-cinematic-live-action-30-second-supernatural-school-action-scene-9fad79059c7d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree
+
+> MEET ME UNDER THE MAPLE TREE A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autum…
+
+[<img src="https://media.goodcase.ai/cases/e1f01c1e6101.jpg" width="600" alt="An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree">](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @JuliaClarky | **出典:** [元投稿](https://x.com/JuliaClarky/status/2112763209836835000) | **公開日:** 2026-10-21 | **ヒート:** 84
+
+<details>
+<summary><b>プロンプト全文（231 行、クリックで展開）</b></summary>
+
+```
+MEET ME UNDER THE MAPLE TREE
+
+A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autumn romance in 1998 to a nostalgic moment in the present, this animated cinematic story brings timeless love to life with Seedance 2.5 on @openart_ai.
+
+What memory would you keep forever? 
+
+Prompt
+
+Duration: 20 seconds | Cinematic 3D Animation | Korean Romance | Autumn Nostalgia | 16:9
+ANIMATION STYLE AND VISUAL DIRECTION
+Create a stunning, high-quality cinematic 3D animated short film set in South Korea. Use sophisticated character animation, beautifully detailed environments, realistic fabric textures, expressive faces, delicate lighting, and fluid natural movements.
+The visual style should combine the charm of a beautifully animated romantic film with the emotional depth and cinematic composition of a nostalgic Korean love story.
+Characters should have elegant, attractive facial features, expressive eyes, beautifully animated hair, and subtly stylized proportions while maintaining believable anatomy. Skin, knitted fabric, wood, falling leaves, and lighting should have rich, detailed textures.
+
+Use warm autumn colors, golden sunlight, burgundy-red accents, soft atmospheric depth, delicate depth of field, and subtle film grain.
+
+Important: This is a fully animated 3D film, not live-action. Avoid flat 2D animation, exaggerated cartoon proportions, childish character designs, anime styling, or plastic-looking 3D characters.
+
+CHARACTER DESIGN AND CONTINUITY
+
+THE ELDERLY WOMAN — PRESENT DAY
+
+A graceful, exceptionally beautiful 72-year-old Korean woman with delicate facial features, expressive dark eyes, elegant silver-black hair tied loosely at the back, and naturally detailed age lines.
+
+Her face should communicate kindness, wisdom, warmth, and a lifetime of beautiful memories. Her wrinkles should be delicately rendered rather than exaggerated. Give her a gentle smile and expressive eyes that can communicate happiness and nostalgia without dialogue.
+
+She wears a vintage cream knitted cardigan over a muted-brown dress.
+
+Her home is an old, cozy Korean wooden house featuring traditional wooden windows, faded curtains, aged furniture, a small wooden cabinet, an old analogue clock, and warm afternoon sunlight streaming inside.
+
+On a wooden table sits an old keepsake box containing a faded photograph and a carefully preserved deep-red knitted scarf.
+
+THE YOUNG WOMAN — 1998 FLASHBACK
+
+The exact same character at 23 years old.
+
+She is exceptionally beautiful, with delicate Korean facial features, large expressive dark eyes, smooth skin, long glossy black hair with soft bangs, and a naturally charming smile.
+
+Her character design should feel elegant, romantic, and timeless, with subtle stylization, detailed hair strands, expressive facial animation, and graceful movements.
+
+She wears a vintage cream wool coat, an ivory blouse, a dark pleated skirt, and a beautiful deep-red knitted scarf given to her by her first love.
+
+The scarf must have detailed wool fibers, visible knitted patterns, soft folds, and natural movement.
+
+THE BOYFRIEND — 1998 FLASHBACK
+
+An exceptionally handsome 25-year-old Korean man with expressive dark eyes, a naturally defined jawline, thick black hair styled in a classic late-1990s Korean fashion, and a warm, sincere smile.
+
+He wears a charcoal wool overcoat, a cream knitted sweater, dark trousers, and vintage leather shoes.
+
+His animated expressions should be subtle and believable. His smile should feel shy, affectionate, and genuine.
+
+Both characters must remain visually consistent throughout the flashback, with matching facial features, hairstyles, clothing, and proportions.
+
+SCENE 1 — THE KEEPSAKE
+
+TIME: 0–5 SECONDS
+
+Inside a cozy old Korean wooden house, golden autumn sunlight streams through faded curtains.
+
+Outside the window, red, amber, and golden maple leaves drift gently through the air.
+
+The elderly woman sits beside a wooden table and slowly opens an old wooden keepsake box.
+
+Inside is a faded photograph of her younger self standing beside a handsome young Korean man beneath a maple tree.
+
+A deep-red knitted scarf rests carefully beneath the photograph.
+
+She gently lifts the scarf with both hands. Her fingers softly move across its knitted texture.
+
+A small, affectionate smile appears on her face. Her eyes glisten with a subtle tear as she remembers her first love.
+
+Her expression is peaceful, happy, and filled with gratitude.
+
+CAMERA: Slow cinematic push-in, beginning with a medium shot of the woman before moving into detailed close-ups of her hands, the red scarf, and the faded photograph.
+
+ANIMATION DETAILS: Subtle hand movements, natural blinking, gentle breathing, delicate facial expressions, and softly moving curtains.
+
+LIGHTING: Warm amber sunlight, soft shadows, beautiful highlights on the knitted wool, and realistic light bouncing off the wooden furniture.
+
+SCENE 2 — A HAPPY MEMORY
+
+TIME: 5–10 SECONDS
+
+The camera slowly moves toward the old photograph.
+
+The photograph fills the screen, and its image gradually transforms into a living, animated memory.
+
+Suddenly, we are transported to autumn 1998.
+
+A beautiful young Korean woman stands beneath a magnificent maple tree in a peaceful university garden. Golden leaves float around her as a gentle breeze moves her long black hair.
+
+She wears her cream wool coat and the deep-red knitted scarf.
+
+Her exceptionally handsome boyfriend approaches, carrying a small paper bag from an old-fashioned Korean bakery.
+
+He smiles shyly and gently adjusts the scarf around her neck.
+
+She looks up at him and laughs softly.
+
+He brushes a loose strand of hair away from her face. They exchange a warm, affectionate smile.
+
+Their expressions should communicate the excitement and tenderness of young love.
+
+VISUAL EFFECT: A dreamy, softly glowing atmosphere with delicate floating leaves, gentle sunlight filtering through the maple canopy, subtle depth of field, and beautifully rendered autumn colors.
+
+The memory should feel warm, happy, and precious, as though the elderly woman is reliving her favorite moment.
+
+CAMERA: Gentle tracking movement, intimate close-ups, and graceful transitions between their expressions.
+
+SCENE 3 — THEIR LITTLE WORLD
+
+TIME: 10–15 SECONDS
+
+The young couple walks along an old stone pathway covered in colorful fallen maple leaves.
+
+The young man playfully steps on a dry leaf, making it crackle.
+
+The woman laughs and lightly taps his arm.
+
+He reaches for her hand. Their fingers gently interlock.
+
+She looks at him with a playful smile before resting her head briefly against his shoulder.
+
+They stop beneath the magnificent maple tree.
+
+He gently adjusts the deep-red scarf around her neck and looks into her eyes.
+
+BOYFRIEND — NATURAL KOREAN DIALOGUE:
+
+"너한테 잘 어울려."
+
+ENGLISH SUBTITLE:
+
+"It looks beautiful on you."
+
+The woman smiles shyly, lowers her eyes, and then looks back at him.
+
+GIRL — NATURAL KOREAN DIALOGUE:
+
+"정말?"
+
+ENGLISH SUBTITLE:
+
+"Really?"
+
+He nods and smiles warmly.
+
+She laughs softly.
+
+A few maple leaves float between them as they continue looking at each other.
+
+ANIMATION DETAILS: Fluid body movement, natural eye contact, subtle smiles, gentle hair movement, realistic scarf physics, and leaves responding naturally to the breeze.
+
+The scene should feel intimate, playful, innocent, and genuinely happy.
+
+SCENE 4 — THE MEMORY SHE KEPT
+
+TIME: 15–20 SECONDS
+
+A close-up of the young woman's joyful smile.
+
+The image softly dissolves back into the present day.
+
+The elderly woman sits beside the window in her wooden home, holding the same deep-red scarf against her chest.
+
+She smiles tenderly at the photograph.
+
+Her eyes glisten with nostalgic tears, but she does not look heartbroken. Instead, she looks peaceful and grateful to have experienced such beautiful love.
+
+She carefully places the scarf beside the photograph and gently smooths its folded edge.
+
+Outside the window, a golden maple leaf floats past.
+
+She looks toward the autumn trees and whispers in Korean:
+
+"행복했어… 정말."
+
+ENGLISH SUBTITLE:
+
+"I was happy… truly."
+
+FINAL SHOT
+
+A beautifully composed close-up of the faded photograph beside the preserved red scarf.
+
+Warm sunlight falls across the wooden table. Tiny dust particles drift through the light.
+
+The camera slowly pulls backward, revealing the peaceful room as golden leaves move beyond the window.
+
+Fade to black.
+
+FINAL TEXT:
+
+"Some memories never grow old."
+
+The text appears elegantly in the center of the screen, accompanied by a final gentle piano note.
+
+CINEMATIC ANIMATION AND LIGHTING
+
+High-end cinematic 3D animation with beautifully detailed character models, expressive facial animation, natural movement, realistic cloth simulation, detailed knitted fabric, individual hair strands, atmospheric lighting, and richly textured environments.
+
+Use a warm autumn palette of amber, muted gold, burgundy, cream, and soft brown.
+
+The present-day scenes should feel intimate, peaceful, and softly illuminated.
+
+The flashback should feel brighter, warmer, and slightly dreamy, with delicate glowing sunlight and floating maple leaves.
+
+Use smooth camera movement, cinematic composition, subtle depth of field, soft volumetric lighting, and gentle transitions.
+
+Maintain consistent character identities and preserve the exact same deep-red scarf throughout the entire film.
+
+AUDIO AND SUBTITLES
+
+Soft nostalgic piano blended with gentle acoustic guitar.
+
+Include delicate autumn ambience, rustling leaves, quiet footsteps, and subtle knitted-fabric sounds.
+
+The Korean dialogue must sound natural, softly spoken, and emotionally authentic.
+
+Display accurate English subtitles synchronized with the Korean dialogue. Use small, elegant white text with a subtle dark outline at the bottom of the frame.
+
+No English voice-over.
+
+NEGATIVE PROMPT
+
+Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi characters, overly exaggerated facial expressions, plastic-looking skin, uncanny faces, distorted anatomy, inconsistent character designs, changing hairstyles, changing clothing, changing scarf color, unrealistic scarf physics, poorly animated hands, extra fingers, stiff movements, unnatural walking, excessive crying, horror atmosphere, dark depressing lighting, oversaturated colors, excessive blur, modern objects in the 1998 flashback, incorrect Korean subtitles, random text, logos, and watermarks.
+
+FINAL OUTPUT
+
+20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Little Girl Learns Fruits and Their English Names at Preschool
 
 > Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
@@ -1883,254 +2124,76 @@ Audio: Summer insects, birds, bicycle chain, distant children, wind through leav
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithkhan-seedance-ai-9a5c5cbd518b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree
+### Coffee and Breakfast Mishaps in a Sunlit Kitchen
 
-> MEET ME UNDER THE MAPLE TREE A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autum…
+> Cozy Sunrise Breakfast Vlog on @makeugc Seedance 2.5 Prompt Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, …
 
-[<img src="https://media.goodcase.ai/cases/e1f01c1e6101.jpg" width="600" alt="An Elderly Woman’s Red Scarf and First Love Beneath a Maple Tree">](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/1f63ecf6f0b1.jpg" width="600" alt="Coffee and Breakfast Mishaps in a Sunlit Kitchen">](https://goodcase.ai/cases/seedance-2-5-cozy-sunrise-breakfast-vlog-on-e4403a512028?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @JuliaClarky | **出典:** [元投稿](https://x.com/JuliaClarky/status/2112763209836835000) | **公開日:** 2026-10-21 | **ヒート:** 83
+**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2109259050726920221) | **公開日:** 2026-10-11 | **ヒート:** 83
 
 <details>
-<summary><b>プロンプト全文（231 行、クリックで展開）</b></summary>
+<summary><b>プロンプト全文（53 行、クリックで展開）</b></summary>
 
 ```
-MEET ME UNDER THE MAPLE TREE
+Cozy Sunrise Breakfast Vlog on @makeugc 
 
-A beautiful Korean love story, a deep-red scarf, and a precious memory that lives on through the years. ✨ From a heartwarming autumn romance in 1998 to a nostalgic moment in the present, this animated cinematic story brings timeless love to life with Seedance 2.5 on @openart_ai.
-
-What memory would you keep forever? 
+Seedance 2.5
 
 Prompt
 
-Duration: 20 seconds | Cinematic 3D Animation | Korean Romance | Autumn Nostalgia | 16:9
-ANIMATION STYLE AND VISUAL DIRECTION
-Create a stunning, high-quality cinematic 3D animated short film set in South Korea. Use sophisticated character animation, beautifully detailed environments, realistic fabric textures, expressive faces, delicate lighting, and fluid natural movements.
-The visual style should combine the charm of a beautifully animated romantic film with the emotional depth and cinematic composition of a nostalgic Korean love story.
-Characters should have elegant, attractive facial features, expressive eyes, beautifully animated hair, and subtly stylized proportions while maintaining believable anatomy. Skin, knitted fabric, wood, falling leaves, and lighting should have rich, detailed textures.
+Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic Southeast Asian/Korean woman. No changes in appearance between shots.
 
-Use warm autumn colors, golden sunlight, burgundy-red accents, soft atmospheric depth, delicate depth of field, and subtle film grain.
+Scene: A cozy apartment kitchen at sunrise, wooden countertops, small window overlooking a quiet neighborhood, ceramic mugs, fresh fruit, bread, eggs, and a little potted plant. Warm golden sunlight enters through the window. Peaceful, intimate morning atmosphere.
 
-Important: This is a fully animated 3D film, not live-action. Avoid flat 2D animation, exaggerated cartoon proportions, childish character designs, anime styling, or plastic-looking 3D characters.
+Style: RAW HANDHELD REALISM, early-2000s home-video aesthetic, casual camera sway, micro-shakes, frequent reframing, natural autofocus hunting, imperfect framing, occasional motion blur, slightly soft image quality, realistic skin texture, visible pores, natural facial expressions. Candid, spontaneous, unposed feeling. Camera operated casually by a friend, with occasional direct-to-camera interaction.
 
-CHARACTER DESIGN AND CONTINUITY
+Timeline & Dialogues
 
-THE ELDERLY WOMAN — PRESENT DAY
+00:00–00:04 — Sleepy Morning
+She enters the kitchen, yawning slightly, rubbing her eyes, and opening the curtains. Golden sunlight fills the room.
 
-A graceful, exceptionally beautiful 72-year-old Korean woman with delicate facial features, expressive dark eyes, elegant silver-black hair tied loosely at the back, and naturally detailed age lines.
+Dialogue (sleepy, softly laughing): "Good morning... I seriously need coffee."
+00:04–00:08 — Making Coffee
+She scoops coffee into a mug, pours hot water, and stirs slowly. The camera moves closer to capture the steam.
+Dialogue (playful): "Okay, first things first. Coffee before anything else."
 
-Her face should communicate kindness, wisdom, warmth, and a lifetime of beautiful memories. Her wrinkles should be delicately rendered rather than exaggerated. Give her a gentle smile and expressive eyes that can communicate happiness and nostalgia without dialogue.
+00:08–00:12 — Breakfast Preparation
+She cracks an egg into a frying pan, accidentally drops a tiny piece of shell, and laughs while removing it.
+Dialogue (laughing naturally): "Oh my God... I'm such a professional chef."
 
-She wears a vintage cream knitted cardigan over a muted-brown dress.
+00:12–00:16 — Toast Disaster
+She checks her toast, realizes one side is slightly burnt, and holds it toward the camera with a disappointed expression.
 
-Her home is an old, cozy Korean wooden house featuring traditional wooden windows, faded curtains, aged furniture, a small wooden cabinet, an old analogue clock, and warm afternoon sunlight streaming inside.
+Dialogue (sarcastically): "Wow. Five-star breakfast, everyone."
+00:16–00:21 — Preparing the Plate
+She arranges scrambled eggs, toast, and sliced strawberries on a small ceramic plate. She steals a strawberry and eats it while glancing mischievously at the camera.
+Dialogue (cheerful): "Actually... this looks pretty good!"
 
-On a wooden table sits an old keepsake box containing a faded photograph and a carefully preserved deep-red knitted scarf.
+00:21–00:25 — First Bite
 
-THE YOUNG WOMAN — 1998 FLASHBACK
+She sits beside the window, takes a bite of toast, chews naturally, and nods with a satisfied smile. The handheld camera drifts slightly out of focus before recovering.
+Dialogue (after swallowing): "Mmm. Okay, that's better than I expected."
 
-The exact same character at 23 years old.
+00:25–00:30 — Funny Ending
 
-She is exceptionally beautiful, with delicate Korean facial features, large expressive dark eyes, smooth skin, long glossy black hair with soft bangs, and a naturally charming smile.
+She lifts her coffee mug toward the camera, takes a sip, then immediately reacts because it's too hot. She laughs and gently puts the mug down.
+Dialogue (laughing): "Ah! Too hot! Okay... good morning to me."
 
-Her character design should feel elegant, romantic, and timeless, with subtle stylization, detailed hair strands, expressive facial animation, and graceful movements.
+The camera shakes slightly as the person filming laughs. Natural abrupt cut.
 
-She wears a vintage cream wool coat, an ivory blouse, a dark pleated skirt, and a beautiful deep-red knitted scarf given to her by her first love.
+Camera & Audio
+Camera: Handheld consumer MiniDV camcorder, imperfect zooms, spontaneous close-ups, occasional cropped headroom, natural exposure fluctuations, authentic home-video texture. No cinematic camera movement, no beauty filters, no artificial skin smoothing.
 
-The scarf must have detailed wool fibers, visible knitted patterns, soft folds, and natural movement.
+Audio: Natural kitchen ambience, birds outside, frying sounds, ceramic dishes, coffee stirring, soft footsteps, natural breathing, and clearly audible conversational dialogue. No background music, subtitles, or voiceover.
+Dialogue delivery: Casual American-accented English, spontaneous delivery, natural pauses, little laughs, subtle changes in tone, realistic lip synchronization. She speaks only during the assigned moments, with enough time for each sentence.
 
-THE BOYFRIEND — 1998 FLASHBACK
-
-An exceptionally handsome 25-year-old Korean man with expressive dark eyes, a naturally defined jawline, thick black hair styled in a classic late-1990s Korean fashion, and a warm, sincere smile.
-
-He wears a charcoal wool overcoat, a cream knitted sweater, dark trousers, and vintage leather shoes.
-
-His animated expressions should be subtle and believable. His smile should feel shy, affectionate, and genuine.
-
-Both characters must remain visually consistent throughout the flashback, with matching facial features, hairstyles, clothing, and proportions.
-
-SCENE 1 — THE KEEPSAKE
-
-TIME: 0–5 SECONDS
-
-Inside a cozy old Korean wooden house, golden autumn sunlight streams through faded curtains.
-
-Outside the window, red, amber, and golden maple leaves drift gently through the air.
-
-The elderly woman sits beside a wooden table and slowly opens an old wooden keepsake box.
-
-Inside is a faded photograph of her younger self standing beside a handsome young Korean man beneath a maple tree.
-
-A deep-red knitted scarf rests carefully beneath the photograph.
-
-She gently lifts the scarf with both hands. Her fingers softly move across its knitted texture.
-
-A small, affectionate smile appears on her face. Her eyes glisten with a subtle tear as she remembers her first love.
-
-Her expression is peaceful, happy, and filled with gratitude.
-
-CAMERA: Slow cinematic push-in, beginning with a medium shot of the woman before moving into detailed close-ups of her hands, the red scarf, and the faded photograph.
-
-ANIMATION DETAILS: Subtle hand movements, natural blinking, gentle breathing, delicate facial expressions, and softly moving curtains.
-
-LIGHTING: Warm amber sunlight, soft shadows, beautiful highlights on the knitted wool, and realistic light bouncing off the wooden furniture.
-
-SCENE 2 — A HAPPY MEMORY
-
-TIME: 5–10 SECONDS
-
-The camera slowly moves toward the old photograph.
-
-The photograph fills the screen, and its image gradually transforms into a living, animated memory.
-
-Suddenly, we are transported to autumn 1998.
-
-A beautiful young Korean woman stands beneath a magnificent maple tree in a peaceful university garden. Golden leaves float around her as a gentle breeze moves her long black hair.
-
-She wears her cream wool coat and the deep-red knitted scarf.
-
-Her exceptionally handsome boyfriend approaches, carrying a small paper bag from an old-fashioned Korean bakery.
-
-He smiles shyly and gently adjusts the scarf around her neck.
-
-She looks up at him and laughs softly.
-
-He brushes a loose strand of hair away from her face. They exchange a warm, affectionate smile.
-
-Their expressions should communicate the excitement and tenderness of young love.
-
-VISUAL EFFECT: A dreamy, softly glowing atmosphere with delicate floating leaves, gentle sunlight filtering through the maple canopy, subtle depth of field, and beautifully rendered autumn colors.
-
-The memory should feel warm, happy, and precious, as though the elderly woman is reliving her favorite moment.
-
-CAMERA: Gentle tracking movement, intimate close-ups, and graceful transitions between their expressions.
-
-SCENE 3 — THEIR LITTLE WORLD
-
-TIME: 10–15 SECONDS
-
-The young couple walks along an old stone pathway covered in colorful fallen maple leaves.
-
-The young man playfully steps on a dry leaf, making it crackle.
-
-The woman laughs and lightly taps his arm.
-
-He reaches for her hand. Their fingers gently interlock.
-
-She looks at him with a playful smile before resting her head briefly against his shoulder.
-
-They stop beneath the magnificent maple tree.
-
-He gently adjusts the deep-red scarf around her neck and looks into her eyes.
-
-BOYFRIEND — NATURAL KOREAN DIALOGUE:
-
-"너한테 잘 어울려."
-
-ENGLISH SUBTITLE:
-
-"It looks beautiful on you."
-
-The woman smiles shyly, lowers her eyes, and then looks back at him.
-
-GIRL — NATURAL KOREAN DIALOGUE:
-
-"정말?"
-
-ENGLISH SUBTITLE:
-
-"Really?"
-
-He nods and smiles warmly.
-
-She laughs softly.
-
-A few maple leaves float between them as they continue looking at each other.
-
-ANIMATION DETAILS: Fluid body movement, natural eye contact, subtle smiles, gentle hair movement, realistic scarf physics, and leaves responding naturally to the breeze.
-
-The scene should feel intimate, playful, innocent, and genuinely happy.
-
-SCENE 4 — THE MEMORY SHE KEPT
-
-TIME: 15–20 SECONDS
-
-A close-up of the young woman's joyful smile.
-
-The image softly dissolves back into the present day.
-
-The elderly woman sits beside the window in her wooden home, holding the same deep-red scarf against her chest.
-
-She smiles tenderly at the photograph.
-
-Her eyes glisten with nostalgic tears, but she does not look heartbroken. Instead, she looks peaceful and grateful to have experienced such beautiful love.
-
-She carefully places the scarf beside the photograph and gently smooths its folded edge.
-
-Outside the window, a golden maple leaf floats past.
-
-She looks toward the autumn trees and whispers in Korean:
-
-"행복했어… 정말."
-
-ENGLISH SUBTITLE:
-
-"I was happy… truly."
-
-FINAL SHOT
-
-A beautifully composed close-up of the faded photograph beside the preserved red scarf.
-
-Warm sunlight falls across the wooden table. Tiny dust particles drift through the light.
-
-The camera slowly pulls backward, revealing the peaceful room as golden leaves move beyond the window.
-
-Fade to black.
-
-FINAL TEXT:
-
-"Some memories never grow old."
-
-The text appears elegantly in the center of the screen, accompanied by a final gentle piano note.
-
-CINEMATIC ANIMATION AND LIGHTING
-
-High-end cinematic 3D animation with beautifully detailed character models, expressive facial animation, natural movement, realistic cloth simulation, detailed knitted fabric, individual hair strands, atmospheric lighting, and richly textured environments.
-
-Use a warm autumn palette of amber, muted gold, burgundy, cream, and soft brown.
-
-The present-day scenes should feel intimate, peaceful, and softly illuminated.
-
-The flashback should feel brighter, warmer, and slightly dreamy, with delicate glowing sunlight and floating maple leaves.
-
-Use smooth camera movement, cinematic composition, subtle depth of field, soft volumetric lighting, and gentle transitions.
-
-Maintain consistent character identities and preserve the exact same deep-red scarf throughout the entire film.
-
-AUDIO AND SUBTITLES
-
-Soft nostalgic piano blended with gentle acoustic guitar.
-
-Include delicate autumn ambience, rustling leaves, quiet footsteps, and subtle knitted-fabric sounds.
-
-The Korean dialogue must sound natural, softly spoken, and emotionally authentic.
-
-Display accurate English subtitles synchronized with the Korean dialogue. Use small, elegant white text with a subtle dark outline at the bottom of the frame.
-
-No English voice-over.
-
-NEGATIVE PROMPT
-
-Flat 2D animation, childish cartoon style, exaggerated anime eyes, chibi characters, overly exaggerated facial expressions, plastic-looking skin, uncanny faces, distorted anatomy, inconsistent character designs, changing hairstyles, changing clothing, changing scarf color, unrealistic scarf physics, poorly animated hands, extra fingers, stiff movements, unnatural walking, excessive crying, horror atmosphere, dark depressing lighting, oversaturated colors, excessive blur, modern objects in the 1998 flashback, incorrect Korean subtitles, random text, logos, and watermarks.
-
-FINAL OUTPUT
-
-20-second cinematic 3D animated short film, 16:9 aspect ratio, 24 fps, high-quality rendering, beautiful original Korean character designs, detailed environments, smooth character animation, realistic cloth simulation, warm autumn lighting, seamless flashback transitions, expressive storytelling, and a deeply nostalgic yet happy romantic atmosphere.
+Output: 30 seconds, 16:9 landscape, photorealistic, continuous character and outfit consistency, natural human motion, realistic hand-object interactions, believable everyday atmosphere.
 ```
 
 </details>
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-love-story-a-deep-red-scarf-and-a-precious-memory-that-liv-3b5365d64b92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cozy-sunrise-breakfast-vlog-on-e4403a512028?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Woman Changes Outfits on a Persian Rug Beneath a Ceiling Fan
 
@@ -2579,6 +2642,391 @@ All dialogue must be naturally spoken with visible lip movement. Use only dieget
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/zarairahh-seedance-ai-3f362e9e352b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Nano Banana + Seedance 2.5 High School First Love Film
+
+> Maybe it was never about the five minutes. It was about wanting to spend them together. ❤️ Made with Flova AI using Nano
+
+[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="600" alt="Nano Banana + Seedance 2.5 High School First Love Film">](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2089154775829074074) | **公開日:** 2026-08-17 | **ヒート:** 83
+
+**安定度:** 75/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 75) · [出力](https://media.goodcase.ai/retests/caden-flux-seedance-ai-8ffb5f062951/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（363 行、クリックで展開）</b></summary>
+
+```
+Create a 60-second cinematic high-school first-love story using SEEDANCE 2.5.
+
+IMPORTANT:
+Generate the video as EXACTLY TWO CONTINUOUS SHOTS:
+SHOT 1 = 0–30 seconds
+SHOT 2 = 30–60 seconds
+The two shots must connect seamlessly and feel like ONE continuous short film, not two unrelated clips.
+FORMAT:
+16:9 widescreen
+Cinematic photorealism
+Premium coming-of-age romance film
+Fast-paced but emotionally natural
+Smooth transitions and motivated camera movement
+Realistic teenage body proportions and expressions
+Natural English dialogue only
+No subtitles unless dialogue is naturally spoken
+No text overlays
+No character redesign
+CHARACTER CONSISTENCY — EXTREMELY IMPORTANT:
+Use the provided character reference sheets for BOTH characters.
+
+BOY:
+Preserve exact face, hairstyle, clothing, body proportions, accessories and identity from the character sheet.
+
+GIRL:
+Preserve exact face, hairstyle, clothing, body proportions, accessories and identity from the character sheet.
+Their faces, hairstyles and outfits must remain IDENTICAL throughout both shots.
+The boy and girl are both 17–18-year-old high-school students. Keep the romance completely innocent, wholesome and age-appropriate.
+VISUAL LANGUAGE:
+Warm nostalgic coming-of-age movie aesthetic, realistic school environment, natural skin texture, subtle film grain, cinematic depth of field, soft lens bloom, realistic physics, natural hair movement, expressive eyes, believable teenage body language.
+Use a dynamic combination of:
+wide establishing shots,
+medium tracking shots,
+over-the-shoulder shots,
+close-ups,
+handheld intimate moments,
+smooth push-ins,
+whip-pan transitions,
+shallow-focus inserts,
+and brief slow-motion accents.
+Avoid excessive slow motion. The pacing should feel energetic and modern.
+━━━━━━━━━━━━━━━━━━━━
+SHOT 1 — 0:00–0:30
+“THE ROUTINE”
+━━━━━━━━━━━━━━━━━━━━
+0:00–0:03
+OPEN on a cinematic wide shot of a lively high-school hallway immediately after the final bell.
+Students rush past the camera.
+The boy exits his classroom with his backpack over one shoulder.
+He looks across the hallway.
+
+The girl is already there.
+Their eyes meet.
+
+She gives him a tiny smile.
+He smiles back.
+
+CAMERA:
+Fast lateral tracking shot through the crowd, then smoothly pushes toward the boy as he notices her.
+0:03–0:07
+She walks toward him.
+
+He casually falls into step beside her.
+
+GIRL:
+“You're late.”
+
+BOY:
+“By two minutes.”
+She laughs.
+
+They continue walking.
+CAMERA:
+Smooth backward tracking shot in front of them as students pass naturally around them.
+0:07–0:11
+QUICK MONTAGE.
+They sit together in class.
+She steals one of his fries during lunch.
+He looks offended.
+She laughs.
+He secretly smiles.
+CUT TO:
+Their notebooks side by side.
+She draws a tiny smiley face in the margin of his notebook.
+
+He notices.
+
+CAMERA:
+Fast close-up inserts and match cuts, keeping the rhythm playful and energetic.
+0:11–0:15
+They leave school together.
+Golden afternoon light floods the corridor.
+He holds the door open for her.
+
+She playfully bumps his shoulder as she walks past.
+He laughs.
+
+CAMERA:
+Low-angle tracking shot transitioning into a warm side-profile shot.
+
+0:15–0:20
+Outside school.
+
+They walk down the sidewalk.
+
+She talks animatedly while he listens.
+
+A light breeze moves her hair.
+
+He looks at her for a moment longer than he should.
+
+She catches him staring.
+
+GIRL:
+“What?”
+BOY:
+“Nothing.”
+
+She smiles knowingly.
+CAMERA:
+Over-the-shoulder close-up from behind her, revealing his shy smile.
+
+0:20–0:25
+The sky suddenly darkens.
+
+First drops of rain hit the pavement.
+She looks upward.
+
+BOY:
+“Uh-oh.”
+She laughs and quickly pulls her cardigan closer.
+
+The boy opens his small umbrella.
+
+CAMERA:
+Quick tilt from the darkening sky down to them.
+
+0:25–0:30
+They squeeze underneath the tiny umbrella together.
+Their shoulders bump.
+
+They laugh.
+The camera slowly circles around them as they begin walking through the rain.
+
+The boy looks at her.
+
+She looks back.
+
+A brief quiet moment.
+
+MATCH CUT:
+Camera passes behind the umbrella fabric.
+
+Use the movement of the umbrella to create a seamless transition into SHOT 2.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 2 — 0:30–1:00
+“FIVE MORE MINUTES”
+━━━━━━━━━━━━━━━━━━━━
+IMPORTANT:
+SHOT 2 begins from the EXACT SAME MOMENT as Shot 1 ends.
+
+Same characters.
+Same clothing.
+Same umbrella.
+Same rainy street.
+Same lighting.
+Same environment.
+
+No visual reset.
+
+0:30–0:35
+Continue the walking shot.
+They move through the rain beneath the tiny umbrella.
+
+Their hands accidentally touch.
+Both notice.
+
+Neither pulls away immediately.
+
+CAMERA:
+Slow subtle push-in toward their hands, then rack focus to their faces.
+
+0:35–0:40
+They reach the girl's house.
+
+She steps out from beneath the umbrella.
+
+She turns toward him.
+GIRL:
+“See you tomorrow?”
+
+BOY:
+“Yeah.”
+She starts walking toward her front door.
+
+The boy watches her.
+
+She takes a few steps.
+
+0:40–0:44
+He suddenly gathers courage.
+
+BOY:
+“Hey!”
+
+She turns around.
+
+CAMERA:
+Quick handheld push toward the boy as he runs a few steps back toward her.
+0:44–0:49
+He smiles nervously.
+
+BOY:
+“Can I have five more minutes?”
+She looks at him, amused.
+
+GIRL:
+“You already had an hour.”
+
+He laughs.
+BOY:
+“I know.”
+
+A small pause.
+She smiles.
+
+GIRL:
+“Okay. Five more minutes.”
+
+0:49–0:54
+She steps back underneath the umbrella.
+
+They begin walking together again.
+The rain becomes softer.
+
+The street lights begin glowing as evening approaches.
+
+CAMERA:
+Wide cinematic tracking shot from the front, slowly moving backward as they walk toward camera.
+
+0:54–0:58
+QUICK NOSTALGIC MONTAGE:
+Their sneakers splashing through puddles.
+
+Their hands almost touching.
+Her laughing.
+
+His nervous smile.
+
+The tiny umbrella tilting as they walk closer together.
+
+A final glance between them.
+
+Use rhythmic match cuts synced to the emotional music.
+
+0:58–1:00
+FINAL WIDE SHOT.
+
+The camera pulls slowly upward and backward.
+
+The two teenagers walk away together beneath the tiny umbrella, becoming smaller against the glowing evening street.
+The rain sparkles under the streetlights.
+
+They continue talking and laughing as they disappear farther down the road.
+
+FADE OUT.
+FINAL EMOTIONAL FEELING:
+First love.
+Youth.
+Nervous butterflies.
+The feeling of not wanting the day to end.
+Do NOT make the ending sad.
+Do NOT introduce a breakup.
+Do NOT introduce a twist.
+Do NOT introduce additional characters who become romantically relevant.
+The entire story should feel like one precious memory from the beginning of a first love.
+
+━━━━━━━━━━━━━━━━━━━━
+CAMERA & MOTION REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━
+Keep camera movement fluid and cinematic throughout.
+
+Use motivated transitions rather than random cuts.
+Mix fast-paced montage editing with slower intimate close-ups.
+Prioritize:
+• smooth tracking shots
+• natural handheld movement
+• cinematic push-ins
+• over-the-shoulder compositions
+• expressive close-ups
+• realistic rack focus
+• wide environmental shots
+• subtle slow-motion only for emotional beats
+Maintain realistic physics for:
+rain,
+umbrella movement,
+hair,
+clothing,
+walking,
+running,
+hand gestures,
+and interactions with the environment.
+━━━━━━━━━━━━━━━━━━━━
+AUDIO & DIALOGUE
+━━━━━━━━━━━━━━━━━━━━
+Natural English dialogue only.
+
+Dialogue should sound spontaneous and age-appropriate.
+
+Ambient sound:
+school hallway chatter,
+footsteps,
+distant laughter,
+birds,
+city ambience,
+rain,
+umbrella fabric,
+wet pavement.
+Music:
+soft modern coming-of-age instrumental soundtrack that gradually builds from playful and light to warm and emotional.
+
+Music must never overpower dialogue.
+
+━━━━━━━━━━━━━━━━━━━━
+NEGATIVE PROMPT
+━━━━━━━━━━━━━━━━━━━━
+
+No character identity changes.
+No face changes.
+No hairstyle changes.
+No outfit changes.
+No age changes.
+No adult appearance.
+No sexualized content.
+No exaggerated body proportions.
+No random wardrobe changes.
+No duplicated characters.
+No extra limbs or fingers.
+No distorted hands.
+No unnatural walking.
+No floating objects.
+No impossible rain physics.
+No inconsistent umbrella.
+No teleporting.
+No location jumps that break continuity.
+No random camera cuts.
+No excessive slow motion.
+No cartoon appearance.
+No anime style.
+No plastic skin.
+No overprocessed faces.
+No text overlays.
+No subtitles.
+No logos.
+No watermark.
+No visual glitches.
+No abrupt ending.
+
+FINAL REQUIREMENT:
+SEEDANCE 2.5 MUST PRIORITIZE CHARACTER CONSISTENCY, FACIAL IDENTITY, TEMPORAL CONTINUITY, NATURAL MOTION AND SEAMLESS TRANSITION BETWEEN THE TWO 30-SECOND SHOTS.
+
+The final result should look like a polished 60-second scene from a premium cinematic coming-of-age romance film.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 韩国惊悚片电梯恐怖续写提示词
 
 > 使用 Seedance 2.5 生成的悬疑续写提示词，讲述一名男子在电梯中通过手机屏幕看到自己分身（doppelganger）的韩国真人惊悚故事。
@@ -2646,77 +3094,6 @@ Photorealistic creature textures, realistic anatomy, natural human expressions, 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-she-raised-it-in-secret-fed-it-by-hand-968c74bd7401?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Coffee and Breakfast Mishaps in a Sunlit Kitchen
-
-> Cozy Sunrise Breakfast Vlog on @makeugc Seedance 2.5 Prompt Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, …
-
-[<img src="https://media.goodcase.ai/cases/1f63ecf6f0b1.jpg" width="600" alt="Coffee and Breakfast Mishaps in a Sunlit Kitchen">](https://goodcase.ai/cases/seedance-2-5-cozy-sunrise-breakfast-vlog-on-e4403a512028?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2109259050726920221) | **公開日:** 2026-10-11 | **ヒート:** 82
-
-<details>
-<summary><b>プロンプト全文（53 行、クリックで展開）</b></summary>
-
-```
-Cozy Sunrise Breakfast Vlog on @makeugc 
-
-Seedance 2.5
-
-Prompt
-
-Character= Main Subject. Preserve her exact face, identity, hairstyle, skin tone, body proportions, and reference outfit throughout. Authentic Southeast Asian/Korean woman. No changes in appearance between shots.
-
-Scene: A cozy apartment kitchen at sunrise, wooden countertops, small window overlooking a quiet neighborhood, ceramic mugs, fresh fruit, bread, eggs, and a little potted plant. Warm golden sunlight enters through the window. Peaceful, intimate morning atmosphere.
-
-Style: RAW HANDHELD REALISM, early-2000s home-video aesthetic, casual camera sway, micro-shakes, frequent reframing, natural autofocus hunting, imperfect framing, occasional motion blur, slightly soft image quality, realistic skin texture, visible pores, natural facial expressions. Candid, spontaneous, unposed feeling. Camera operated casually by a friend, with occasional direct-to-camera interaction.
-
-Timeline & Dialogues
-
-00:00–00:04 — Sleepy Morning
-She enters the kitchen, yawning slightly, rubbing her eyes, and opening the curtains. Golden sunlight fills the room.
-
-Dialogue (sleepy, softly laughing): "Good morning... I seriously need coffee."
-00:04–00:08 — Making Coffee
-She scoops coffee into a mug, pours hot water, and stirs slowly. The camera moves closer to capture the steam.
-Dialogue (playful): "Okay, first things first. Coffee before anything else."
-
-00:08–00:12 — Breakfast Preparation
-She cracks an egg into a frying pan, accidentally drops a tiny piece of shell, and laughs while removing it.
-Dialogue (laughing naturally): "Oh my God... I'm such a professional chef."
-
-00:12–00:16 — Toast Disaster
-She checks her toast, realizes one side is slightly burnt, and holds it toward the camera with a disappointed expression.
-
-Dialogue (sarcastically): "Wow. Five-star breakfast, everyone."
-00:16–00:21 — Preparing the Plate
-She arranges scrambled eggs, toast, and sliced strawberries on a small ceramic plate. She steals a strawberry and eats it while glancing mischievously at the camera.
-Dialogue (cheerful): "Actually... this looks pretty good!"
-
-00:21–00:25 — First Bite
-
-She sits beside the window, takes a bite of toast, chews naturally, and nods with a satisfied smile. The handheld camera drifts slightly out of focus before recovering.
-Dialogue (after swallowing): "Mmm. Okay, that's better than I expected."
-
-00:25–00:30 — Funny Ending
-
-She lifts her coffee mug toward the camera, takes a sip, then immediately reacts because it's too hot. She laughs and gently puts the mug down.
-Dialogue (laughing): "Ah! Too hot! Okay... good morning to me."
-
-The camera shakes slightly as the person filming laughs. Natural abrupt cut.
-
-Camera & Audio
-Camera: Handheld consumer MiniDV camcorder, imperfect zooms, spontaneous close-ups, occasional cropped headroom, natural exposure fluctuations, authentic home-video texture. No cinematic camera movement, no beauty filters, no artificial skin smoothing.
-
-Audio: Natural kitchen ambience, birds outside, frying sounds, ceramic dishes, coffee stirring, soft footsteps, natural breathing, and clearly audible conversational dialogue. No background music, subtitles, or voiceover.
-Dialogue delivery: Casual American-accented English, spontaneous delivery, natural pauses, little laughs, subtle changes in tone, realistic lip synchronization. She speaks only during the assigned moments, with enough time for each sentence.
-
-Output: 30 seconds, 16:9 landscape, photorealistic, continuous character and outfit consistency, natural human motion, realistic hand-object interactions, believable everyday atmosphere.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cozy-sunrise-breakfast-vlog-on-e4403a512028?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Solo K-POP MV · Second-by-Second Y2K Candy World Storyboard
 
@@ -3182,391 +3559,6 @@ Candid domestic humor, realistic fabric movement, nostalgic DV imperfections and
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-girl-main-character-young-korean-woman-in-her-early-20s-natural-makeup-bla-99a309189863?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Nano Banana + Seedance 2.5 High School First Love Film
-
-> Maybe it was never about the five minutes. It was about wanting to spend them together. ❤️ Made with Flova AI using Nano
-
-[<img src="https://media.goodcase.ai/media/poster/caden-flux-seedance-ai-8ffb5f062951.jpg" width="600" alt="Nano Banana + Seedance 2.5 High School First Love Film">](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Caden_Flux | **出典:** [元投稿](https://x.com/Caden_Flux/status/2089154775829074074) | **公開日:** 2026-08-17 | **ヒート:** 82
-
-**安定度:** 75/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 75) · [出力](https://media.goodcase.ai/retests/caden-flux-seedance-ai-8ffb5f062951/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（363 行、クリックで展開）</b></summary>
-
-```
-Create a 60-second cinematic high-school first-love story using SEEDANCE 2.5.
-
-IMPORTANT:
-Generate the video as EXACTLY TWO CONTINUOUS SHOTS:
-SHOT 1 = 0–30 seconds
-SHOT 2 = 30–60 seconds
-The two shots must connect seamlessly and feel like ONE continuous short film, not two unrelated clips.
-FORMAT:
-16:9 widescreen
-Cinematic photorealism
-Premium coming-of-age romance film
-Fast-paced but emotionally natural
-Smooth transitions and motivated camera movement
-Realistic teenage body proportions and expressions
-Natural English dialogue only
-No subtitles unless dialogue is naturally spoken
-No text overlays
-No character redesign
-CHARACTER CONSISTENCY — EXTREMELY IMPORTANT:
-Use the provided character reference sheets for BOTH characters.
-
-BOY:
-Preserve exact face, hairstyle, clothing, body proportions, accessories and identity from the character sheet.
-
-GIRL:
-Preserve exact face, hairstyle, clothing, body proportions, accessories and identity from the character sheet.
-Their faces, hairstyles and outfits must remain IDENTICAL throughout both shots.
-The boy and girl are both 17–18-year-old high-school students. Keep the romance completely innocent, wholesome and age-appropriate.
-VISUAL LANGUAGE:
-Warm nostalgic coming-of-age movie aesthetic, realistic school environment, natural skin texture, subtle film grain, cinematic depth of field, soft lens bloom, realistic physics, natural hair movement, expressive eyes, believable teenage body language.
-Use a dynamic combination of:
-wide establishing shots,
-medium tracking shots,
-over-the-shoulder shots,
-close-ups,
-handheld intimate moments,
-smooth push-ins,
-whip-pan transitions,
-shallow-focus inserts,
-and brief slow-motion accents.
-Avoid excessive slow motion. The pacing should feel energetic and modern.
-━━━━━━━━━━━━━━━━━━━━
-SHOT 1 — 0:00–0:30
-“THE ROUTINE”
-━━━━━━━━━━━━━━━━━━━━
-0:00–0:03
-OPEN on a cinematic wide shot of a lively high-school hallway immediately after the final bell.
-Students rush past the camera.
-The boy exits his classroom with his backpack over one shoulder.
-He looks across the hallway.
-
-The girl is already there.
-Their eyes meet.
-
-She gives him a tiny smile.
-He smiles back.
-
-CAMERA:
-Fast lateral tracking shot through the crowd, then smoothly pushes toward the boy as he notices her.
-0:03–0:07
-She walks toward him.
-
-He casually falls into step beside her.
-
-GIRL:
-“You're late.”
-
-BOY:
-“By two minutes.”
-She laughs.
-
-They continue walking.
-CAMERA:
-Smooth backward tracking shot in front of them as students pass naturally around them.
-0:07–0:11
-QUICK MONTAGE.
-They sit together in class.
-She steals one of his fries during lunch.
-He looks offended.
-She laughs.
-He secretly smiles.
-CUT TO:
-Their notebooks side by side.
-She draws a tiny smiley face in the margin of his notebook.
-
-He notices.
-
-CAMERA:
-Fast close-up inserts and match cuts, keeping the rhythm playful and energetic.
-0:11–0:15
-They leave school together.
-Golden afternoon light floods the corridor.
-He holds the door open for her.
-
-She playfully bumps his shoulder as she walks past.
-He laughs.
-
-CAMERA:
-Low-angle tracking shot transitioning into a warm side-profile shot.
-
-0:15–0:20
-Outside school.
-
-They walk down the sidewalk.
-
-She talks animatedly while he listens.
-
-A light breeze moves her hair.
-
-He looks at her for a moment longer than he should.
-
-She catches him staring.
-
-GIRL:
-“What?”
-BOY:
-“Nothing.”
-
-She smiles knowingly.
-CAMERA:
-Over-the-shoulder close-up from behind her, revealing his shy smile.
-
-0:20–0:25
-The sky suddenly darkens.
-
-First drops of rain hit the pavement.
-She looks upward.
-
-BOY:
-“Uh-oh.”
-She laughs and quickly pulls her cardigan closer.
-
-The boy opens his small umbrella.
-
-CAMERA:
-Quick tilt from the darkening sky down to them.
-
-0:25–0:30
-They squeeze underneath the tiny umbrella together.
-Their shoulders bump.
-
-They laugh.
-The camera slowly circles around them as they begin walking through the rain.
-
-The boy looks at her.
-
-She looks back.
-
-A brief quiet moment.
-
-MATCH CUT:
-Camera passes behind the umbrella fabric.
-
-Use the movement of the umbrella to create a seamless transition into SHOT 2.
-
-━━━━━━━━━━━━━━━━━━━━
-SHOT 2 — 0:30–1:00
-“FIVE MORE MINUTES”
-━━━━━━━━━━━━━━━━━━━━
-IMPORTANT:
-SHOT 2 begins from the EXACT SAME MOMENT as Shot 1 ends.
-
-Same characters.
-Same clothing.
-Same umbrella.
-Same rainy street.
-Same lighting.
-Same environment.
-
-No visual reset.
-
-0:30–0:35
-Continue the walking shot.
-They move through the rain beneath the tiny umbrella.
-
-Their hands accidentally touch.
-Both notice.
-
-Neither pulls away immediately.
-
-CAMERA:
-Slow subtle push-in toward their hands, then rack focus to their faces.
-
-0:35–0:40
-They reach the girl's house.
-
-She steps out from beneath the umbrella.
-
-She turns toward him.
-GIRL:
-“See you tomorrow?”
-
-BOY:
-“Yeah.”
-She starts walking toward her front door.
-
-The boy watches her.
-
-She takes a few steps.
-
-0:40–0:44
-He suddenly gathers courage.
-
-BOY:
-“Hey!”
-
-She turns around.
-
-CAMERA:
-Quick handheld push toward the boy as he runs a few steps back toward her.
-0:44–0:49
-He smiles nervously.
-
-BOY:
-“Can I have five more minutes?”
-She looks at him, amused.
-
-GIRL:
-“You already had an hour.”
-
-He laughs.
-BOY:
-“I know.”
-
-A small pause.
-She smiles.
-
-GIRL:
-“Okay. Five more minutes.”
-
-0:49–0:54
-She steps back underneath the umbrella.
-
-They begin walking together again.
-The rain becomes softer.
-
-The street lights begin glowing as evening approaches.
-
-CAMERA:
-Wide cinematic tracking shot from the front, slowly moving backward as they walk toward camera.
-
-0:54–0:58
-QUICK NOSTALGIC MONTAGE:
-Their sneakers splashing through puddles.
-
-Their hands almost touching.
-Her laughing.
-
-His nervous smile.
-
-The tiny umbrella tilting as they walk closer together.
-
-A final glance between them.
-
-Use rhythmic match cuts synced to the emotional music.
-
-0:58–1:00
-FINAL WIDE SHOT.
-
-The camera pulls slowly upward and backward.
-
-The two teenagers walk away together beneath the tiny umbrella, becoming smaller against the glowing evening street.
-The rain sparkles under the streetlights.
-
-They continue talking and laughing as they disappear farther down the road.
-
-FADE OUT.
-FINAL EMOTIONAL FEELING:
-First love.
-Youth.
-Nervous butterflies.
-The feeling of not wanting the day to end.
-Do NOT make the ending sad.
-Do NOT introduce a breakup.
-Do NOT introduce a twist.
-Do NOT introduce additional characters who become romantically relevant.
-The entire story should feel like one precious memory from the beginning of a first love.
-
-━━━━━━━━━━━━━━━━━━━━
-CAMERA & MOTION REQUIREMENTS
-━━━━━━━━━━━━━━━━━━━━
-Keep camera movement fluid and cinematic throughout.
-
-Use motivated transitions rather than random cuts.
-Mix fast-paced montage editing with slower intimate close-ups.
-Prioritize:
-• smooth tracking shots
-• natural handheld movement
-• cinematic push-ins
-• over-the-shoulder compositions
-• expressive close-ups
-• realistic rack focus
-• wide environmental shots
-• subtle slow-motion only for emotional beats
-Maintain realistic physics for:
-rain,
-umbrella movement,
-hair,
-clothing,
-walking,
-running,
-hand gestures,
-and interactions with the environment.
-━━━━━━━━━━━━━━━━━━━━
-AUDIO & DIALOGUE
-━━━━━━━━━━━━━━━━━━━━
-Natural English dialogue only.
-
-Dialogue should sound spontaneous and age-appropriate.
-
-Ambient sound:
-school hallway chatter,
-footsteps,
-distant laughter,
-birds,
-city ambience,
-rain,
-umbrella fabric,
-wet pavement.
-Music:
-soft modern coming-of-age instrumental soundtrack that gradually builds from playful and light to warm and emotional.
-
-Music must never overpower dialogue.
-
-━━━━━━━━━━━━━━━━━━━━
-NEGATIVE PROMPT
-━━━━━━━━━━━━━━━━━━━━
-
-No character identity changes.
-No face changes.
-No hairstyle changes.
-No outfit changes.
-No age changes.
-No adult appearance.
-No sexualized content.
-No exaggerated body proportions.
-No random wardrobe changes.
-No duplicated characters.
-No extra limbs or fingers.
-No distorted hands.
-No unnatural walking.
-No floating objects.
-No impossible rain physics.
-No inconsistent umbrella.
-No teleporting.
-No location jumps that break continuity.
-No random camera cuts.
-No excessive slow motion.
-No cartoon appearance.
-No anime style.
-No plastic skin.
-No overprocessed faces.
-No text overlays.
-No subtitles.
-No logos.
-No watermark.
-No visual glitches.
-No abrupt ending.
-
-FINAL REQUIREMENT:
-SEEDANCE 2.5 MUST PRIORITIZE CHARACTER CONSISTENCY, FACIAL IDENTITY, TEMPORAL CONTINUITY, NATURAL MOTION AND SEAMLESS TRANSITION BETWEEN THE TWO 30-SECOND SHOTS.
-
-The final result should look like a polished 60-second scene from a premium cinematic coming-of-age romance film.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/caden-flux-seedance-ai-8ffb5f062951?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### White-robed goddess faces a purple-armored demon in temple ruins
 
@@ -4373,6 +4365,45 @@ Important: No cartoon aesthetics, no animation look, no plastic skin, no charact
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-hyper-realistic-cinematic-halloween-video-in-vertical-9-16-format-ap-c8caca653282?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons
+
+> From darkness to divinity — one final stand against the demons.⚡ Made with Seedance 2.5 Prompt: Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, e…
+
+[<img src="https://media.goodcase.ai/cases/680efb813c0b.jpg" width="600" alt="Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons">](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2108049177259462719) | **公開日:** 2026-10-08 | **ヒート:** 80
+
+<details>
+<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
+
+```
+Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, emerald-green glowing magic, dramatic low light, film grain. Generate in 3 parts of about 10 seconds each.
+
+PART 1
+Scene 1: Dark horned demons charge through a ruined cathedral, blurred motion.
+Scene 2: Extreme close-up of a young nun in a white wimple, her fist glowing bright green, intense stare.
+Scene 3: A green energy dome forms around her as hundreds of demons surround it, wide high-angle shot.
+
+PART 2 (use the LAST FRAME of Part 1 as reference image; keep the exact same face, body, outfit and cathedral)
+Scene 4: Her habit turns into a glowing green-white gown, then she transforms into a radiant angel with huge translucent glowing wings, a halo and a white-green gown, standing inside a clear green bubble.
+Scene 5: She fights the demons with a glowing green spear and a round glowing shield, spinning slashes, motion blur.
+
+PART 3 (use the LAST FRAME of Part 2 as reference image; keep the exact same angel face, wings, halo and gown)
+Scene 6: She wields a glowing green chainsaw, cutting demons in half, green energy bursts and orange sparks, low-angle hero shots.
+Scene 7: Green laser pillars rain from above, she crouches in the green dome as a huge green explosion and smoke engulf the cathedral.
+Scene 8: Smoke clears, the demons are gone, the angel stands alone on the glowing floor emblem, wings spread, calm, slow zoom out.
+
+Continuity rule for every part: same face, same lighting, same green color grade, same camera style as the previous part.
+
+Negative prompt: cartoon, anime, low quality, blurry, face change, different person, extra limbs, bad hands, deformed wings, text, watermark, logo, flickering, overexposed, duplicate characters.
+
+#AI #Cinematic #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualArt @ming_ai
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Roller Coaster Wig Mishap: A Second Take on Frozen Time
 
 > The same author's second freeze-and-rewind experiment, this time with a flying wig instead of spilled coffee, adding an original gum-and-reset punchline that turns a pure VFX trick into a small complete joke.
@@ -4754,45 +4785,6 @@ Cinematic majestic floating ancient Chinese celestial palace above a sea of soft
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cinematic-majestic-floating-ancient-chinese-celestial-palace-above-a-sea-of-sof-018fab777900?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons
-
-> From darkness to divinity — one final stand against the demons.⚡ Made with Seedance 2.5 Prompt: Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, e…
-
-[<img src="https://media.goodcase.ai/cases/680efb813c0b.jpg" width="600" alt="Nun Becomes a Green-Glowing Angel to Battle Cathedral Demons">](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2108049177259462719) | **公開日:** 2026-10-08 | **ヒート:** 79
-
-<details>
-<summary><b>プロンプト全文（21 行、クリックで展開）</b></summary>
-
-```
-Cinematic 16:9 dark fantasy, photorealistic, Gothic cathedral, emerald-green glowing magic, dramatic low light, film grain. Generate in 3 parts of about 10 seconds each.
-
-PART 1
-Scene 1: Dark horned demons charge through a ruined cathedral, blurred motion.
-Scene 2: Extreme close-up of a young nun in a white wimple, her fist glowing bright green, intense stare.
-Scene 3: A green energy dome forms around her as hundreds of demons surround it, wide high-angle shot.
-
-PART 2 (use the LAST FRAME of Part 1 as reference image; keep the exact same face, body, outfit and cathedral)
-Scene 4: Her habit turns into a glowing green-white gown, then she transforms into a radiant angel with huge translucent glowing wings, a halo and a white-green gown, standing inside a clear green bubble.
-Scene 5: She fights the demons with a glowing green spear and a round glowing shield, spinning slashes, motion blur.
-
-PART 3 (use the LAST FRAME of Part 2 as reference image; keep the exact same angel face, wings, halo and gown)
-Scene 6: She wields a glowing green chainsaw, cutting demons in half, green energy bursts and orange sparks, low-angle hero shots.
-Scene 7: Green laser pillars rain from above, she crouches in the green dome as a huge green explosion and smoke engulf the cathedral.
-Scene 8: Smoke clears, the demons are gone, the angel stands alone on the glowing floor emblem, wings spread, calm, slow zoom out.
-
-Continuity rule for every part: same face, same lighting, same green color grade, same camera style as the previous part.
-
-Negative prompt: cartoon, anime, low quality, blurry, face change, different person, extra limbs, bad hands, deformed wings, text, watermark, logo, flickering, overexposed, duplicate characters.
-
-#AI #Cinematic #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualArt @ming_ai
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-cinematic-16-9-dark-fantasy-photorealistic-gothic-cathedral-emerald-green-gl-a04d1df43215?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Young Korean Woman Welcomes Winter’s First Snow in Old Seoul
 

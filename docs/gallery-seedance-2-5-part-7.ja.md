@@ -6,6 +6,24 @@ Seedance 2.5 の全 765 ケースをヒートスコア順に掲載。data/cases.
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)
 
+### Samurai Cat Battles Ninjas in a Moonlit Bamboo Forest
+
+> A tiny warrior. A legendary fight. ⚔️🐱 Created on seedance 2.5 Prompt:Create a 15-second photorealistic cinematic fantasy action sequence featuring a small ant…
+
+[<img src="https://media.goodcase.ai/cases/570360e6e8a1.jpg" width="600" alt="Samurai Cat Battles Ninjas in a Moonlit Bamboo Forest">](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-photorealistic-cinematic-fantasy-action-sequence-featuring-a-b55a1fd3c9b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Elvorya | **出典:** [元投稿](https://x.com/Elvorya/status/2106237323046486362) | **公開日:** 2026-10-03 | **ヒート:** 42
+
+```
+Create a 15-second photorealistic cinematic fantasy action sequence featuring a small anthropomorphic warrior cat battling masked ninjas in a mysterious moonlit bamboo forest. Begin with a wide low-angle establishing shot moving slowly through tall dark bamboo stalks, mist-covered ground, glowing warm Japanese lanterns hanging between the trees, and a huge full moon illuminating the fog → reveal the small warrior cat standing confidently on a curved bamboo arch, wearing detailed dark-blue samurai armor, a flowing dark cape, leather accessories, and a wide traditional straw hat, with a katana at his side → transition into a dynamic tracking shot as multiple masked black-clad ninjas emerge from the surrounding mist, forming a threatening circle around the tiny warrior → cut to a dramatic close-up of the cat as his eyes become intensely focused and he draws his sword, a brilliant electric-blue magical energy beginning to glow along the blade → suddenly transition into a fast cinematic action shot as the warrior cat leaps high into the air above the ninjas, cape and clothing reacting naturally to the movement, swinging his glowing blue sword in a powerful arc → follow with a low-angle tracking shot through the bamboo as the cat rapidly moves between attacking ninjas, leaving elegant blue energy trails through the mist → cut to a wide shot showing multiple ninjas being knocked backward while the warrior remains centered and controlled → transition into a slow-motion heroic landing as the cat lands on a moss-covered rock, glowing sword held low at his side while the surrounding enemies stagger behind him → final shot becomes a heroic low-angle wide shot of the tiny warrior standing proudly beneath the enormous full moon, bamboo trees towering around him, mist drifting across the forest floor, cape gently moving in the wind, and the brilliant blue sword glowing against the dark night.
+
+Visual style: ultra-photorealistic fantasy film, realistic fur and facial details, detailed samurai armor, believable fabric and fur movement, realistic sword physics, atmospheric volumetric moonlight, natural fog, cinematic depth of field, dramatic composition, high-detail bamboo forest, realistic shadows, premium VFX, smooth character animation, dynamic camera movement, epic fantasy adventure atmosphere, 4K detail.
+
+Negative prompt: cartoon, anime, low resolution, plastic fur, deformed face, extra limbs, extra weapons, duplicate characters, distorted hands or paws, inconsistent armor, changing character design, identity drift, floating objects, unrealistic sword movement, excessive motion blur, oversaturated colors, text, subtitles, watermark, logo, frame glitches, unnatural physics.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-photorealistic-cinematic-fantasy-action-sequence-featuring-a-b55a1fd3c9b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Late Employee's Office Sneak Ends in CCTV Detection
 
 > She has one job: reach her desk without getting caught. Made with Seedance 2.5 on @FishCreativeHQ Prompt: SETTING & CAMERA One continuous modern American office…
@@ -148,6 +166,55 @@ A cinematic photorealistic commercial shot on a golden hour beach A deep sea blu
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-cinematic-photorealistic-commercial-shot-on-a-golden-hour-beach-a-deep-sea-bl-43af1656032b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Warrior Queen and Black Raven in the Storm Clouds
+
+> She wasn’t falling… she was answering the call of the darkness. A warrior, a raven, and a sky full of secrets. Made with Seedance 2.5. Prompt : Create an 11-sec…
+
+[<img src="https://media.goodcase.ai/cases/f04a8b6ff554.jpg" width="600" alt="Warrior Queen and Black Raven in the Storm Clouds">](https://goodcase.ai/cases/seedance-create-an-11-second-cinematic-dark-fantasy-scene-featuring-a-beautiful-blonde-f-b09877c0a2d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Noor_ul_ain43 | **出典:** [元投稿](https://x.com/Noor_ul_ain43/status/2097879315912552864) | **公開日:** 2026-09-10 | **ヒート:** 42
+
+**安定度:** 82/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 82.4) · [出力](https://media.goodcase.ai/retests/seedance-create-an-11-second-cinematic-dark-fantasy-scene-featuring-a-beautiful-blonde-f-b09877c0a2d2/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
+
+```
+Create an 11-second cinematic dark-fantasy scene featuring a beautiful blonde female warrior queen wearing intricate medieval silver-and-black metallic armor and a delicate dark crown.
+
+SCENE 1 — 0–3 seconds:
+Begin with a dramatic top-down aerial shot. The warrior is flying/falling through thick stormy clouds with her arms stretched outward like she is diving through the sky. Her long blonde hair and pieces of her clothing move naturally in the powerful wind. Far below, a vast fantasy landscape is barely visible through the mist. The camera rapidly moves downward toward her while maintaining a powerful cinematic perspective.
+
+SCENE 2 — 3–5 seconds:
+Transition smoothly into a frontal tracking shot as she moves through the clouds. Her armored shoulders and arms remain extended. Her expression is serious, fearless and emotionally intense. Soft sunlight breaks through the clouds behind her, creating a dramatic halo around her silhouette. Tiny particles and mist pass rapidly across the camera lens.
+
+SCENE 3 — 5–9 seconds:
+Cut into an extreme cinematic close-up of her face. A huge majestic black raven/eagle suddenly flies beside her face, its dark feathers contrasting against her pale skin and blonde hair. The bird moves extremely close to her, almost touching her cheek. Feathers are released into the air and float dramatically around them. She looks directly ahead with an intense, mysterious expression.
+
+SCENE 4 — 9–11 seconds:
+The bird slowly moves away while she turns her head toward it. Her expression changes subtly from determination to curiosity and emotion. Wind continues moving her hair and armor naturally. The background remains filled with bright clouds and atmospheric mist.
+
+VISUAL STYLE:
+Epic high-budget fantasy film, photorealistic CGI, dark medieval fantasy, dramatic natural lighting, realistic metallic armor, highly detailed skin and hair, volumetric clouds, atmospheric fog, floating feathers, realistic bird movement, cinematic depth of field, subtle film grain, anamorphic lens characteristics, rich shadows, dramatic contrast, sophisticated color grading.
+
+CAMERA:
+Smooth aerial tracking, fast cinematic push-in, gradual transition to extreme close-up, shallow depth of field, realistic handheld micro-movement during the close-up, carefully controlled focus pulls, cinematic composition.
+
+MOTION:
+Natural wind physics, realistic hair movement, physically accurate feathers, believable bird flight, flowing fabric, subtle facial expressions and eye movement. No exaggerated or cartoonish motion.
+
+MOOD:
+Mysterious, powerful, emotional, majestic, supernatural and epic — like a scene from a premium dark-fantasy feature film.
+
+Maintain consistent facial identity, anatomy and armor throughout the entire video. No face distortion, no extra limbs, no duplicated bird, no unnatural body movement, no text, no subtitles, no watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-11-second-cinematic-dark-fantasy-scene-featuring-a-beautiful-blonde-f-b09877c0a2d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Elsa’s Midnight Croissants and the Empty Coffee Cup
 
@@ -913,24 +980,6 @@ A beautiful Korean girl with long, naturally wavy black hair, soft realistic fac
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-beautiful-korean-girl-with-long-naturally-wavy-black-hair-soft-realistic-fa-395221129a13?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Samurai Cat Battles Ninjas in a Moonlit Bamboo Forest
-
-> A tiny warrior. A legendary fight. ⚔️🐱 Created on seedance 2.5 Prompt:Create a 15-second photorealistic cinematic fantasy action sequence featuring a small ant…
-
-[<img src="https://media.goodcase.ai/cases/570360e6e8a1.jpg" width="600" alt="Samurai Cat Battles Ninjas in a Moonlit Bamboo Forest">](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-photorealistic-cinematic-fantasy-action-sequence-featuring-a-b55a1fd3c9b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Elvorya | **出典:** [元投稿](https://x.com/Elvorya/status/2106237323046486362) | **公開日:** 2026-10-03 | **ヒート:** 41
-
-```
-Create a 15-second photorealistic cinematic fantasy action sequence featuring a small anthropomorphic warrior cat battling masked ninjas in a mysterious moonlit bamboo forest. Begin with a wide low-angle establishing shot moving slowly through tall dark bamboo stalks, mist-covered ground, glowing warm Japanese lanterns hanging between the trees, and a huge full moon illuminating the fog → reveal the small warrior cat standing confidently on a curved bamboo arch, wearing detailed dark-blue samurai armor, a flowing dark cape, leather accessories, and a wide traditional straw hat, with a katana at his side → transition into a dynamic tracking shot as multiple masked black-clad ninjas emerge from the surrounding mist, forming a threatening circle around the tiny warrior → cut to a dramatic close-up of the cat as his eyes become intensely focused and he draws his sword, a brilliant electric-blue magical energy beginning to glow along the blade → suddenly transition into a fast cinematic action shot as the warrior cat leaps high into the air above the ninjas, cape and clothing reacting naturally to the movement, swinging his glowing blue sword in a powerful arc → follow with a low-angle tracking shot through the bamboo as the cat rapidly moves between attacking ninjas, leaving elegant blue energy trails through the mist → cut to a wide shot showing multiple ninjas being knocked backward while the warrior remains centered and controlled → transition into a slow-motion heroic landing as the cat lands on a moss-covered rock, glowing sword held low at his side while the surrounding enemies stagger behind him → final shot becomes a heroic low-angle wide shot of the tiny warrior standing proudly beneath the enormous full moon, bamboo trees towering around him, mist drifting across the forest floor, cape gently moving in the wind, and the brilliant blue sword glowing against the dark night.
-
-Visual style: ultra-photorealistic fantasy film, realistic fur and facial details, detailed samurai armor, believable fabric and fur movement, realistic sword physics, atmospheric volumetric moonlight, natural fog, cinematic depth of field, dramatic composition, high-detail bamboo forest, realistic shadows, premium VFX, smooth character animation, dynamic camera movement, epic fantasy adventure atmosphere, 4K detail.
-
-Negative prompt: cartoon, anime, low resolution, plastic fur, deformed face, extra limbs, extra weapons, duplicate characters, distorted hands or paws, inconsistent armor, changing character design, identity drift, floating objects, unrealistic sword movement, excessive motion blur, oversaturated colors, text, subtitles, watermark, logo, frame glitches, unnatural physics.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-15-second-photorealistic-cinematic-fantasy-action-sequence-featuring-a-b55a1fd3c9b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Superpowered Schoolgirl Blocks Missiles and Destroys Helicopters
 
 > Main character energy only. 💥🎬 Built entirely with, @Flovaai Created with Seedance 2.5 Prompt: Cinematic action video sequence, Seedance 2.5 style, Scene 1: A…
@@ -1182,55 +1231,6 @@ No CGI, animation, artificial movement, impossible physics, distorted faces or h
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-korean-countryside-lifestyl-12eefbcbb2e1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Warrior Queen and Black Raven in the Storm Clouds
-
-> She wasn’t falling… she was answering the call of the darkness. A warrior, a raven, and a sky full of secrets. Made with Seedance 2.5. Prompt : Create an 11-sec…
-
-[<img src="https://media.goodcase.ai/cases/f04a8b6ff554.jpg" width="600" alt="Warrior Queen and Black Raven in the Storm Clouds">](https://goodcase.ai/cases/seedance-create-an-11-second-cinematic-dark-fantasy-scene-featuring-a-beautiful-blonde-f-b09877c0a2d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Noor_ul_ain43 | **出典:** [元投稿](https://x.com/Noor_ul_ain43/status/2097879315912552864) | **公開日:** 2026-09-10 | **ヒート:** 41
-
-**安定度:** 82/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 82.4) · [出力](https://media.goodcase.ai/retests/seedance-create-an-11-second-cinematic-dark-fantasy-scene-featuring-a-beautiful-blonde-f-b09877c0a2d2/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（27 行、クリックで展開）</b></summary>
-
-```
-Create an 11-second cinematic dark-fantasy scene featuring a beautiful blonde female warrior queen wearing intricate medieval silver-and-black metallic armor and a delicate dark crown.
-
-SCENE 1 — 0–3 seconds:
-Begin with a dramatic top-down aerial shot. The warrior is flying/falling through thick stormy clouds with her arms stretched outward like she is diving through the sky. Her long blonde hair and pieces of her clothing move naturally in the powerful wind. Far below, a vast fantasy landscape is barely visible through the mist. The camera rapidly moves downward toward her while maintaining a powerful cinematic perspective.
-
-SCENE 2 — 3–5 seconds:
-Transition smoothly into a frontal tracking shot as she moves through the clouds. Her armored shoulders and arms remain extended. Her expression is serious, fearless and emotionally intense. Soft sunlight breaks through the clouds behind her, creating a dramatic halo around her silhouette. Tiny particles and mist pass rapidly across the camera lens.
-
-SCENE 3 — 5–9 seconds:
-Cut into an extreme cinematic close-up of her face. A huge majestic black raven/eagle suddenly flies beside her face, its dark feathers contrasting against her pale skin and blonde hair. The bird moves extremely close to her, almost touching her cheek. Feathers are released into the air and float dramatically around them. She looks directly ahead with an intense, mysterious expression.
-
-SCENE 4 — 9–11 seconds:
-The bird slowly moves away while she turns her head toward it. Her expression changes subtly from determination to curiosity and emotion. Wind continues moving her hair and armor naturally. The background remains filled with bright clouds and atmospheric mist.
-
-VISUAL STYLE:
-Epic high-budget fantasy film, photorealistic CGI, dark medieval fantasy, dramatic natural lighting, realistic metallic armor, highly detailed skin and hair, volumetric clouds, atmospheric fog, floating feathers, realistic bird movement, cinematic depth of field, subtle film grain, anamorphic lens characteristics, rich shadows, dramatic contrast, sophisticated color grading.
-
-CAMERA:
-Smooth aerial tracking, fast cinematic push-in, gradual transition to extreme close-up, shallow depth of field, realistic handheld micro-movement during the close-up, carefully controlled focus pulls, cinematic composition.
-
-MOTION:
-Natural wind physics, realistic hair movement, physically accurate feathers, believable bird flight, flowing fabric, subtle facial expressions and eye movement. No exaggerated or cartoonish motion.
-
-MOOD:
-Mysterious, powerful, emotional, majestic, supernatural and epic — like a scene from a premium dark-fantasy feature film.
-
-Maintain consistent facial identity, anatomy and armor throughout the entire video. No face distortion, no extra limbs, no duplicated bird, no unnatural body movement, no text, no subtitles, no watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-11-second-cinematic-dark-fantasy-scene-featuring-a-beautiful-blonde-f-b09877c0a2d2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Summer Evening Walk Through an Old Taipei Alley
 
@@ -1822,6 +1822,49 @@ Only the character identity is changed. Everything else from the storyboard rema
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-17-second-ultra-realistic-cinematic-vertical-video-featuring-the-woman-6be0338020cb?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Energy Core Heist in a Neon Rainstorm
+
+> ↝Videocreated with Seedance 2.5 She wasn't an intrusion. She was an anomaly the system couldn't comprehend. Obsidian intent. Synaptic silence. Digital sovereign…
+
+[<img src="https://media.goodcase.ai/cases/94152049398d.jpg" width="600" alt="Energy Core Heist in a Neon Rainstorm">](https://goodcase.ai/cases/seedance-create-ultra-cinematic-cyberpunk-tactical-infiltration-sequence-shot-like-a-hi-785161245e4c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithWania | **出典:** [元投稿](https://x.com/AIwithWania/status/2104539047213576643) | **公開日:** 2026-09-28 | **ヒート:** 40
+
+<details>
+<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
+
+```
+-
+
+Create  ultra-cinematic cyberpunk tactical infiltration sequence, shot like a high-budget futuristic action film. Photorealistic humans, realistic anatomy and movement, detailed tactical gear, neon cyan/crimson lighting, volumetric rain, wet reflections, atmospheric fog, realistic physics, anamorphic cinematography, shallow depth of field, dynamic camera movement, seamless transitions. Maintain identical characters, costumes and environment throughout.
+
+00:00–00:03 — A vast futuristic metropolis at night, heavy rain and neon skyscrapers disappearing into mist. A female operative in a sleek wet black tactical suit and hood surveys the city. Extreme close-up of her eyes reflecting neon lights. Her male teammate checks a rugged holographic tactical tablet.
+
+00:03–00:07 — The team attaches to a futuristic drone-deployed rappelling cable and descends a massive glass skyscraper. Dynamic aerial and low-angle tracking shots, rain streaking across reflective glass. They land silently on a balcony.
+
+00:07–00:11 — The squad moves through an exterior glass corridor protected by horizontal red laser grids. One operative hacks a futuristic glass door using a compact electronic device. Blue electrical pulses travel through the lock; security shuts down. They enter silently.
+
+00:11–00:16 — A massive research chamber reveals a glowing blue-white spherical energy core suspended inside a red laser lattice. The female lead scans it with her holographic tablet. Technical data and energy readings appear. Slow cinematic orbit around the core and team.
+
+00:16–00:20 — A futuristic elevator descends into the secure facility. Red emergency lighting pulses. Doors open to reveal the three-person squad in black tactical gear. Low-angle hero shot as they step out in synchronized formation.
+
+00:20–00:24 — The female operative extracts the brilliant blue energy core from its holographic containment field. Blue light illuminates her face and armor. She locks it inside a sophisticated metallic energy case with a mechanical click.
+
+00:24–00:28 — Alarms erupt. Red lights flash as the squad sprints through a glass corridor and leaps from the skyscraper. Mechanical bat-like glider wings deploy from their tactical suits with realistic articulated movement. They transition from freefall into controlled flight above the neon metropolis. Camera pulls far back as the squad disappears into the storm carrying the glowing energy core.
+
+STYLE: Photorealistic cyberpunk noir, Hollywood sci-fi action, practical-looking tactical equipment, realistic rain and water physics, wet metallic surfaces, volumetric fog, cinematic lens flares, subtle film grain, HDR, dramatic contrast, physically accurate shadows, realistic faces, hands and fabric.
+
+CAMERA: Anamorphic lenses, wide establishing shots, extreme close-ups, low-angle hero shots, aerial tracking, handheld pursuit, smooth crane movements, dramatic push-ins, natural motion blur.
+
+QUALITY: Ultra-detailed 4K, coherent character continuity, seamless transitions, realistic physics and anatomy. No glitches, subtitles, logos, text or watermark.
+
+Created with Seedance 2.5.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-ultra-cinematic-cyberpunk-tactical-infiltration-sequence-shot-like-a-hi-785161245e4c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Infected Figures Outside the Silent Science Lab
 
 > Made with Seedance 2.5 Duration: 30 seconds Aspect Ratio: 16:9 Prompt: Create a short, ultra-realistic cinematic horror-action sequence set inside a quiet Japan…
@@ -1876,6 +1919,56 @@ Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Otter Friends' Summer in the Watermelon Field
+
+> Made with seedance 2.5 Prompt 👇 Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid b…
+
+[<img src="https://media.goodcase.ai/cases/d0d6ec323037.jpg" width="600" alt="Otter Friends' Summer in the Watermelon Field">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | **公開日:** 2026-09-13 | **ヒート:** 40
+
+**安定度:** 85/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 84.8) · [出力](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-d625f4097d92/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid blue sky.
+
+The main character is a small, chubby, adorable brown otter-like animal with soft plush fur, a round face, huge expressive glossy eyes, tiny ears, rosy cheeks, a small dark nose, and a cute blue patterned scarf tied around its neck. Keep the character design consistent throughout the entire video.
+
+Opening shot: the little character walks happily through a dry sandy path surrounded by a lush watermelon field. The warm morning sunlight creates soft cinematic shadows and beautiful highlights on its fur. A large green leaf provides shade above its head. Use a low-angle, child-friendly cinematic camera with shallow depth of field.
+
+The character discovers large ripe watermelons scattered throughout the field. It becomes excited, smiles brightly, and approaches one of the watermelons. Show detailed watermelon textures, realistic green stripes, tiny soil particles, grass, and natural environmental details.
+
+The character picks up a large watermelon slice and happily eats it. Capture close-up shots of its adorable facial expressions, sparkling eyes, tiny mouth movements, and joyful reactions. The watermelon slice should have juicy red flesh, black seeds, and a fresh realistic texture.
+
+Cut to a relaxing scene where the character sits comfortably under a colorful beach umbrella on a small woven lounge chair, wearing a cute straw hat and enjoying the sunny afternoon. The atmosphere is peaceful, warm, playful, and summery.
+
+Then show the character returning to the watermelon field and interacting with an enormous watermelon. Introduce a second adorable character: a small round fluffy blue animal with huge expressive eyes and soft plush fur. The blue character approaches curiously and interacts playfully with the brown character.
+
+The two characters share watermelon together. Show them sitting side by side, smiling, looking at each other, and enjoying the fruit. Include funny, heartwarming facial expressions and subtle body movements.
+
+Final shot: both adorable characters sit together in the watermelon field, each holding a juicy watermelon slice, smiling happily toward the camera. A giant watermelon and green vines fill the background. Warm golden sunlight, soft breeze, cinematic depth of field, vibrant colors, wholesome friendship atmosphere.
+
+Visual style: high-end cinematic 3D animation, Disney/Pixar-inspired quality without copying any specific character, ultra-detailed soft fur, expressive oversized eyes, realistic materials, polished character animation, beautiful global illumination, volumetric sunlight, soft shadows, vibrant but natural colors, detailed countryside environment, smooth camera movements, shallow depth of field, cinematic composition, charming facial animation, high production value.
+
+Camera: mix of wide establishing shots, low-angle tracking shots, medium character shots, extreme close-ups of facial expressions and watermelon, gentle camera push-ins, smooth cinematic transitions.
+
+Aspect ratio: 9:16 vertical.
+Mood: adorable, wholesome, funny, relaxing, heartwarming, sunny summer adventure.
+Quality: ultra-high-definition, polished cinematic animation, highly detailed, smooth motion, consistent characters throughout.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Day in the Life of a Female Teacher
 
@@ -2517,49 +2610,6 @@ Negative prompt: duplicated characters, changing faces, impossible physics, prem
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-24fps-hyper-realistic-korean-live-action-act-7ac2c14074ec?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Energy Core Heist in a Neon Rainstorm
-
-> ↝Videocreated with Seedance 2.5 She wasn't an intrusion. She was an anomaly the system couldn't comprehend. Obsidian intent. Synaptic silence. Digital sovereign…
-
-[<img src="https://media.goodcase.ai/cases/94152049398d.jpg" width="600" alt="Energy Core Heist in a Neon Rainstorm">](https://goodcase.ai/cases/seedance-create-ultra-cinematic-cyberpunk-tactical-infiltration-sequence-shot-like-a-hi-785161245e4c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithWania | **出典:** [元投稿](https://x.com/AIwithWania/status/2104539047213576643) | **公開日:** 2026-09-28 | **ヒート:** 39
-
-<details>
-<summary><b>プロンプト全文（25 行、クリックで展開）</b></summary>
-
-```
--
-
-Create  ultra-cinematic cyberpunk tactical infiltration sequence, shot like a high-budget futuristic action film. Photorealistic humans, realistic anatomy and movement, detailed tactical gear, neon cyan/crimson lighting, volumetric rain, wet reflections, atmospheric fog, realistic physics, anamorphic cinematography, shallow depth of field, dynamic camera movement, seamless transitions. Maintain identical characters, costumes and environment throughout.
-
-00:00–00:03 — A vast futuristic metropolis at night, heavy rain and neon skyscrapers disappearing into mist. A female operative in a sleek wet black tactical suit and hood surveys the city. Extreme close-up of her eyes reflecting neon lights. Her male teammate checks a rugged holographic tactical tablet.
-
-00:03–00:07 — The team attaches to a futuristic drone-deployed rappelling cable and descends a massive glass skyscraper. Dynamic aerial and low-angle tracking shots, rain streaking across reflective glass. They land silently on a balcony.
-
-00:07–00:11 — The squad moves through an exterior glass corridor protected by horizontal red laser grids. One operative hacks a futuristic glass door using a compact electronic device. Blue electrical pulses travel through the lock; security shuts down. They enter silently.
-
-00:11–00:16 — A massive research chamber reveals a glowing blue-white spherical energy core suspended inside a red laser lattice. The female lead scans it with her holographic tablet. Technical data and energy readings appear. Slow cinematic orbit around the core and team.
-
-00:16–00:20 — A futuristic elevator descends into the secure facility. Red emergency lighting pulses. Doors open to reveal the three-person squad in black tactical gear. Low-angle hero shot as they step out in synchronized formation.
-
-00:20–00:24 — The female operative extracts the brilliant blue energy core from its holographic containment field. Blue light illuminates her face and armor. She locks it inside a sophisticated metallic energy case with a mechanical click.
-
-00:24–00:28 — Alarms erupt. Red lights flash as the squad sprints through a glass corridor and leaps from the skyscraper. Mechanical bat-like glider wings deploy from their tactical suits with realistic articulated movement. They transition from freefall into controlled flight above the neon metropolis. Camera pulls far back as the squad disappears into the storm carrying the glowing energy core.
-
-STYLE: Photorealistic cyberpunk noir, Hollywood sci-fi action, practical-looking tactical equipment, realistic rain and water physics, wet metallic surfaces, volumetric fog, cinematic lens flares, subtle film grain, HDR, dramatic contrast, physically accurate shadows, realistic faces, hands and fabric.
-
-CAMERA: Anamorphic lenses, wide establishing shots, extreme close-ups, low-angle hero shots, aerial tracking, handheld pursuit, smooth crane movements, dramatic push-ins, natural motion blur.
-
-QUALITY: Ultra-detailed 4K, coherent character continuity, seamless transitions, realistic physics and anatomy. No glitches, subtitles, logos, text or watermark.
-
-Created with Seedance 2.5.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-ultra-cinematic-cyberpunk-tactical-infiltration-sequence-shot-like-a-hi-785161245e4c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### An Idol's End-of-Week Gym Recap
 
 > Made with Seedance 2.5 on @Flovaai and @Flovaai_Japan Prompt: CAMERA/LOOK: DV 16mm tape camcorder, handheld POV by CHASE; sometimes propped on gym mat/bench/she…
@@ -2728,56 +2778,6 @@ End with a wide aftermath shot showing scattered salt, burnt talismans, melted c
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Otter Friends' Summer in the Watermelon Field
-
-> Made with seedance 2.5 Prompt 👇 Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid b…
-
-[<img src="https://media.goodcase.ai/cases/d0d6ec323037.jpg" width="600" alt="Otter Friends' Summer in the Watermelon Field">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Zarnab_with_Ai | **出典:** [元投稿](https://x.com/Zarnab_with_Ai/status/2098952788835467439) | **公開日:** 2026-09-13 | **ヒート:** 39
-
-**安定度:** 85/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 84.8) · [出力](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-d625f4097d92/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（28 行、クリックで展開）</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid blue sky.
-
-The main character is a small, chubby, adorable brown otter-like animal with soft plush fur, a round face, huge expressive glossy eyes, tiny ears, rosy cheeks, a small dark nose, and a cute blue patterned scarf tied around its neck. Keep the character design consistent throughout the entire video.
-
-Opening shot: the little character walks happily through a dry sandy path surrounded by a lush watermelon field. The warm morning sunlight creates soft cinematic shadows and beautiful highlights on its fur. A large green leaf provides shade above its head. Use a low-angle, child-friendly cinematic camera with shallow depth of field.
-
-The character discovers large ripe watermelons scattered throughout the field. It becomes excited, smiles brightly, and approaches one of the watermelons. Show detailed watermelon textures, realistic green stripes, tiny soil particles, grass, and natural environmental details.
-
-The character picks up a large watermelon slice and happily eats it. Capture close-up shots of its adorable facial expressions, sparkling eyes, tiny mouth movements, and joyful reactions. The watermelon slice should have juicy red flesh, black seeds, and a fresh realistic texture.
-
-Cut to a relaxing scene where the character sits comfortably under a colorful beach umbrella on a small woven lounge chair, wearing a cute straw hat and enjoying the sunny afternoon. The atmosphere is peaceful, warm, playful, and summery.
-
-Then show the character returning to the watermelon field and interacting with an enormous watermelon. Introduce a second adorable character: a small round fluffy blue animal with huge expressive eyes and soft plush fur. The blue character approaches curiously and interacts playfully with the brown character.
-
-The two characters share watermelon together. Show them sitting side by side, smiling, looking at each other, and enjoying the fruit. Include funny, heartwarming facial expressions and subtle body movements.
-
-Final shot: both adorable characters sit together in the watermelon field, each holding a juicy watermelon slice, smiling happily toward the camera. A giant watermelon and green vines fill the background. Warm golden sunlight, soft breeze, cinematic depth of field, vibrant colors, wholesome friendship atmosphere.
-
-Visual style: high-end cinematic 3D animation, Disney/Pixar-inspired quality without copying any specific character, ultra-detailed soft fur, expressive oversized eyes, realistic materials, polished character animation, beautiful global illumination, volumetric sunlight, soft shadows, vibrant but natural colors, detailed countryside environment, smooth camera movements, shallow depth of field, cinematic composition, charming facial animation, high production value.
-
-Camera: mix of wide establishing shots, low-angle tracking shots, medium character shots, extreme close-ups of facial expressions and watermelon, gentle camera push-ins, smooth cinematic transitions.
-
-Aspect ratio: 9:16 vertical.
-Mood: adorable, wholesome, funny, relaxing, heartwarming, sunny summer adventure.
-Quality: ultra-high-definition, polished cinematic animation, highly detailed, smooth motion, consistent characters throughout.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-d625f4097d92?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Duel of Two Warriors in a Snowbound Ancient Temple
 
@@ -2983,6 +2983,66 @@ Every footprint remains visible.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-use-reference-image-1-as-the-absolute-and-permanent-identity-reference-for-the-5f134d9dd064?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Everyday Street Life in West Berlin, 1989
+
+> If AI can create THIS… Hollywood is definitely cooked. 💀 Berlin street filmed on an HD camera in 1989. Made with seedance 2.5 Prompt: Create a 30-second, 16:9,…
+
+[<img src="https://media.goodcase.ai/cases/e2155c7772af.jpg" width="600" alt="Everyday Street Life in West Berlin, 1989">](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @oggii_0 | **出典:** [元投稿](https://x.com/oggii_0/status/2097563915354063328) | **公開日:** 2026-09-09 | **ヒート:** 39
+
+**安定度:** 67/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 66.5) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（38 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second, 16:9, 1080p ultra-photorealistic archival video of everyday Berlin street life in 1989.
+
+The entire video must look like genuine footage recorded in 1989 with an unusually good professional video camera. It should feel like a real archival recording that has been digitized in HD, not a modern recreation, not a movie, and not an AI-generated vintage filter.
+
+**MAIN FOCUS:**
+The video is primarily about ordinary daily life on the streets of West Berlin in 1989. Crowded sidewalks, people walking in different directions, period-correct taxis (Mercedes W123s), Trabants and Wartburgs passing through traffic, buses, storefronts, street vendors, newspaper kiosks, and the constant movement of the city. The camera should feel like someone documenting the everyday routine of Berlin, not showcasing its architecture or politics.
+
+**SCENE SEQUENCE:**
+- **0–5s:** Street-level view from a busy West Berlin sidewalk (e.g. near Kurfürstendamm). A crowd of pedestrians walks past the camera in both directions. Mercedes taxis, Trabants, and older European cars move through the street. Natural handheld camera movement.
+- **5–10s:** A crowded avenue intersection. People wait at the crosswalk, then begin crossing. Buses, taxis, and traffic move through the frame. The camera slowly pans with the street activity.
+- **10–15s:** A closer street-level view of everyday pedestrians, storefronts with German signage, newspaper kiosks, and passing cars. People carry shopping bags, talk to each other, and go about their normal routines. Natural, unscripted-looking movement.
+- **15–20s:** A slightly wider street view showing a busy Berlin avenue filled with pedestrians and traffic. Buildings are visible only as part of the background. A section of the Berlin Wall or period signage may appear naturally in the distance, but the street activity remains the focus.
+- **20–25s:** Another crowded sidewalk and intersection. Trabants, taxis, buses, pedestrians, and storefronts create a constantly moving urban scene. The camera gently follows the flow of people.
+- **25–30s:** Final street-level view of a busy avenue, with pedestrians crossing, cars passing, and traffic continuing naturally. End like a real archival recording, without a dramatic cinematic conclusion.
+
+**CAMERA & CINEMATOGRAPHY:**
+Real 1989 professional video-camera footage. Mostly street-level, eye-level, and slightly elevated sidewalk viewpoints. Natural handheld and vehicle-mounted camera movement, slow pans, gentle zooms, slight camera vibration, occasional imperfect framing, and realistic motion blur. The camera should feel operated by a real person filming the city, with small imperfections and natural timing. No modern drone footage, no gimbal-smooth movement, no impossible camera angles, and no dramatic cinematic camera moves.
+
+**IMAGE QUALITY:**
+Surprisingly sharp and detailed for 1989, with clear pedestrians, cars, storefronts, and street details. Slightly soft image edges, natural lens rendering, mild analog video noise, subtle highlight bloom, gentle chromatic aberration, and a very subtle late-1980s video texture. The footage should look like an unusually good archival camera recording, not degraded VHS.
+
+**COLOR & LIGHTING:**
+Overcast or soft natural daylight typical of Berlin, realistic diffuse sunlight, slightly muted highlights, natural shadows, and authentic 1989 color reproduction. Colors should be realistic and slightly desaturated compared with modern digital footage, but still natural. No modern cinematic teal-and-orange grading, no excessive contrast, no fake film look, and no heavy retro effects.
+
+**HISTORICAL AUTHENTICITY:**
+Everything must look correct for West Berlin in 1989: period-correct Mercedes taxis, Trabants, Wartburgs, buses, storefronts, German-language advertisements and signage, period clothing, and architecture of the era. No modern vehicles, smartphones, LED billboards, contemporary advertisements, or post-reunification skyline elements.
+
+**REALISM:**
+Natural traffic movement, believable pedestrians, realistic reflections, accurate building geometry, and physically correct lighting. People should move naturally and independently, with varied walking speeds, gestures, and directions. Cars must have realistic proportions, wheels, reflections, and motion, including the distinct boxy shape and two-stroke-engine character of Trabants. Buildings must remain stable and geometrically accurate.
+
+**EDITING:**
+Use several connected street-level shots with natural archival-video pacing. Most shots should be crowded sidewalks, intersections, and busy avenues. Keep building, Wall, and skyline shots to a minimum. Buildings should mainly appear as background elements behind the people and traffic. Use simple cuts between shots, like genuine archival footage from one recording session. No flashy editing, no music-video style, no artificial cinematic transitions, and no text or subtitles.
+
+**FINAL RESULT:**
+The viewer should genuinely feel that they are watching real Berlin footage filmed in 1989 with an unusually good HD camera. It should feel like an ordinary day in the city, full of people, cars, traffic, and natural street activity. The realism of the pedestrians, cars, lighting, and camera behavior is more important than cinematic beauty.
+
+**NEGATIVE PROMPT:**
+AI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern cars, smartphones, LED screens, contemporary clothing, non-period signage, fake vintage filter, excessive film grain, VHS scanlines, heavy VHS distortion, oversaturated colors, teal-orange grading, cinematic movie look, drone footage, gimbal smoothness, impossible camera movement, empty streets, deserted sidewalks, excessive building shots, architectural showcase, warped buildings, duplicated pedestrians, distorted cars, flickering architecture, text, subtitles, logos, watermarks.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Kyoto Summer Evening Captured on DV
 
@@ -3515,66 +3575,6 @@ The footage should feel like an extraordinarily realistic 1945 battlefield docum
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-historical-dramatization-an-original-cinematic-reconstruction-inspired-by-the-f70171db6cd8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Everyday Street Life in West Berlin, 1989
-
-> If AI can create THIS… Hollywood is definitely cooked. 💀 Berlin street filmed on an HD camera in 1989. Made with seedance 2.5 Prompt: Create a 30-second, 16:9,…
-
-[<img src="https://media.goodcase.ai/cases/e2155c7772af.jpg" width="600" alt="Everyday Street Life in West Berlin, 1989">](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @oggii_0 | **出典:** [元投稿](https://x.com/oggii_0/status/2097563915354063328) | **公開日:** 2026-09-09 | **ヒート:** 38
-
-**安定度:** 67/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 66.5) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（38 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second, 16:9, 1080p ultra-photorealistic archival video of everyday Berlin street life in 1989.
-
-The entire video must look like genuine footage recorded in 1989 with an unusually good professional video camera. It should feel like a real archival recording that has been digitized in HD, not a modern recreation, not a movie, and not an AI-generated vintage filter.
-
-**MAIN FOCUS:**
-The video is primarily about ordinary daily life on the streets of West Berlin in 1989. Crowded sidewalks, people walking in different directions, period-correct taxis (Mercedes W123s), Trabants and Wartburgs passing through traffic, buses, storefronts, street vendors, newspaper kiosks, and the constant movement of the city. The camera should feel like someone documenting the everyday routine of Berlin, not showcasing its architecture or politics.
-
-**SCENE SEQUENCE:**
-- **0–5s:** Street-level view from a busy West Berlin sidewalk (e.g. near Kurfürstendamm). A crowd of pedestrians walks past the camera in both directions. Mercedes taxis, Trabants, and older European cars move through the street. Natural handheld camera movement.
-- **5–10s:** A crowded avenue intersection. People wait at the crosswalk, then begin crossing. Buses, taxis, and traffic move through the frame. The camera slowly pans with the street activity.
-- **10–15s:** A closer street-level view of everyday pedestrians, storefronts with German signage, newspaper kiosks, and passing cars. People carry shopping bags, talk to each other, and go about their normal routines. Natural, unscripted-looking movement.
-- **15–20s:** A slightly wider street view showing a busy Berlin avenue filled with pedestrians and traffic. Buildings are visible only as part of the background. A section of the Berlin Wall or period signage may appear naturally in the distance, but the street activity remains the focus.
-- **20–25s:** Another crowded sidewalk and intersection. Trabants, taxis, buses, pedestrians, and storefronts create a constantly moving urban scene. The camera gently follows the flow of people.
-- **25–30s:** Final street-level view of a busy avenue, with pedestrians crossing, cars passing, and traffic continuing naturally. End like a real archival recording, without a dramatic cinematic conclusion.
-
-**CAMERA & CINEMATOGRAPHY:**
-Real 1989 professional video-camera footage. Mostly street-level, eye-level, and slightly elevated sidewalk viewpoints. Natural handheld and vehicle-mounted camera movement, slow pans, gentle zooms, slight camera vibration, occasional imperfect framing, and realistic motion blur. The camera should feel operated by a real person filming the city, with small imperfections and natural timing. No modern drone footage, no gimbal-smooth movement, no impossible camera angles, and no dramatic cinematic camera moves.
-
-**IMAGE QUALITY:**
-Surprisingly sharp and detailed for 1989, with clear pedestrians, cars, storefronts, and street details. Slightly soft image edges, natural lens rendering, mild analog video noise, subtle highlight bloom, gentle chromatic aberration, and a very subtle late-1980s video texture. The footage should look like an unusually good archival camera recording, not degraded VHS.
-
-**COLOR & LIGHTING:**
-Overcast or soft natural daylight typical of Berlin, realistic diffuse sunlight, slightly muted highlights, natural shadows, and authentic 1989 color reproduction. Colors should be realistic and slightly desaturated compared with modern digital footage, but still natural. No modern cinematic teal-and-orange grading, no excessive contrast, no fake film look, and no heavy retro effects.
-
-**HISTORICAL AUTHENTICITY:**
-Everything must look correct for West Berlin in 1989: period-correct Mercedes taxis, Trabants, Wartburgs, buses, storefronts, German-language advertisements and signage, period clothing, and architecture of the era. No modern vehicles, smartphones, LED billboards, contemporary advertisements, or post-reunification skyline elements.
-
-**REALISM:**
-Natural traffic movement, believable pedestrians, realistic reflections, accurate building geometry, and physically correct lighting. People should move naturally and independently, with varied walking speeds, gestures, and directions. Cars must have realistic proportions, wheels, reflections, and motion, including the distinct boxy shape and two-stroke-engine character of Trabants. Buildings must remain stable and geometrically accurate.
-
-**EDITING:**
-Use several connected street-level shots with natural archival-video pacing. Most shots should be crowded sidewalks, intersections, and busy avenues. Keep building, Wall, and skyline shots to a minimum. Buildings should mainly appear as background elements behind the people and traffic. Use simple cuts between shots, like genuine archival footage from one recording session. No flashy editing, no music-video style, no artificial cinematic transitions, and no text or subtitles.
-
-**FINAL RESULT:**
-The viewer should genuinely feel that they are watching real Berlin footage filmed in 1989 with an unusually good HD camera. It should feel like an ordinary day in the city, full of people, cars, traffic, and natural street activity. The realism of the pedestrians, cars, lighting, and camera behavior is more important than cinematic beauty.
-
-**NEGATIVE PROMPT:**
-AI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern cars, smartphones, LED screens, contemporary clothing, non-period signage, fake vintage filter, excessive film grain, VHS scanlines, heavy VHS distortion, oversaturated colors, teal-orange grading, cinematic movie look, drone footage, gimbal smoothness, impossible camera movement, empty streets, deserted sidewalks, excessive building shots, architectural showcase, warped buildings, duplicated pedestrians, distorted cars, flickering architecture, text, subtitles, logos, watermarks.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Phone-Controlled Outfit Changes 👚📱
 
@@ -4229,6 +4229,141 @@ STYLE: Photorealistic live-action horror, intense action, flickering lights, cre
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-halloween-horror-action-video-featuring-a-young-adult-6eb8b4b13a2d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
+
+> Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴 @PixVerse High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cybe…
+
+[<img src="https://media.goodcase.ai/cases/bc47d9030600.jpg" width="600" alt="Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴">](https://goodcase.ai/cases/seedance-2-5-nova-pulse-zenith-88c08b3f5768?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @yourPlugAI | **出典:** [元投稿](https://x.com/yourPlugAI/status/2113564718187037043) | **公開日:** 2026-10-23 | **ヒート:** 36
+
+<details>
+<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
+
+```
+Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
+@PixVerse 
+
+High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cyber-Kenjutsu against two mechanical Cyber-Gargoyles. Non-stop 30-second 3D anime gauntlet. 
+
+✨Generated with Seedance 2.5 on PixVerse AI featuring Arcane and Guilty Gear Strive-level 3D cell-shaded animation. 
+
+#PixVerseCPP #PixVerseAI #Seedance25
+
+✨Seedance 2.5 - 30s Master Video Prompt (character sheets attached below)
+
+[ENGINE DIRECTIVE]
+Generate a continuous 30-second hyper-kinetic 3D anime action sequence at 60fps in 16:9 widescreen format. Style: High-end Arcane and Guilty Gear Strive 3D cell-shaded anime animation, glossy textures, intense particle effects, high-frame-rate impact pauses. Maintain 100% strict visual consistency with provided asset sheets: "Ren" (White-haired anime hero in neon blue circuit coat with plasma greatsword) and "Cyber-Gargoyles" (Mechanical beast-warriors). Setting strictly follows "Shattered Anti-Gravity Floating Courtyard". Rapid 2-to-3 second action beats, zero-gravity combat physics, directional camera whip-pans.
+
+[AUDIO DIRECTIVE]
+• MUSIC: Fast-paced cyberpunk metal synth hybrid with heavy guitar riffs, intense electronic risers, and booming sub-bass impacts.
+• SOUND DESIGN: Humming plasma blade hum, laser cannon blasts, whipping energy chain sizzles, shattering stone impacts, and anti-gravity wind roars.
+
+[TIMELINE BREAKDOWN]
+
+00:00 - 00:03 | ZERO-G STANCE & CRIMSON MOON LOCK
+• VISUAL: Low-angle tracking camera panning up from floating stone debris to Ren's ready Kenjutsu stance.
+• ACTION: Ren stands on a hovering stone tile against the giant crimson moon, his Greatsword humming with cyan energy as two Cyber-Gargoyles hover menacingly above him.
+• SOUND: Plasma blade hum, atmospheric anti-gravity drone, mechanical growls, explosive synth intro.
+
+00:03 - 00:06 | AIR-STEPPING & PLASMA BLAST DEFLECTION
+• VISUAL: High-speed upward tracking camera following Ren's aerial movement.
+• ACTION: Cannon-beast fires three high-velocity energy projectiles. Ren air-steps upward through zero-g, deflecting all three shots with his Greatsword into floating rubble, causing explosive cyan particle bursts.
+• SOUND: Cannon FIRING blasts, metallic blade energy deflect CLANGS, explosive rubble SHATTER.
+
+00:06 - 00:09 | PLASMA-CHAIN TRAP & 360-DEGREE SPIN
+• VISUAL: Dynamic orbital tracking camera capturing the mid-air spin.
+• ACTION: Whip-beast snaps dual plasma-chain whips from above. Ren executes a 360-degree mid-air spin, wrapping the energy chains tightly around his Greatsword blade to halt the momentum cold.
+• SOUND: Whip crack SIZZLE, metallic chain binding CLACK, energy tension hum.
+
+00:09 - 00:12 | BOOT PARTICLE BURST & DIAGONAL ARMOR SLICE
+• VISUAL: 0.8-second time-dilation close-up on Ren's boots before launching into a fast tracking slash.
+• ACTION: In hyper-slow motion, Ren channels a blue particle burst into his boots, launching off the trapped chain to deliver a flying diagonal slash that severs the whip-beast's shoulder armor.
+• SOUND: Time-dilation sub-bass DROP, particle boot BURST, high-voltage plasma slash WHOOSH, armor severing CRUNCH.
+
+00:12 - 00:15 | CIRCULAR GRAVITY WAVE & DEBRIS FREEZE
+• VISUAL: Wide impact tracking camera capturing the expanding energy ripple.
+• ACTION: Ren lands on a hovering pillar and plants his sword, unleashing a circular cyan gravity wave that freezes surrounding floating debris in place.
+• SOUND: Sword floor plant THUD, massive gravity shockwave BOOM, crystalline debris freeze chime. 
+
+00:15 - 00:18 | OVERDRIVE IGNITION & BEAM CHARGE
+VISUAL: Close-up camera zooming into Ren's face as his coat circuits ignite.
+ACTION: Seamless transition: Cannon-beast charges its main red beam weapon. Ren closes his eyes for a split second as glowing neon blue circuit lines pulse wildly across his dark coat.
+SOUND: High-voltage beam charge WHINE, coat circuit power-up HUM, fast drum roll.
+
+00:18 - 00:21 | OVERDRIVE DASH & STAR-SHAPED ENERGY GRID
+VISUAL: High-speed multi-angle speed-ramped camera tracking rapid teleportations.
+ACTION: Ren executes an Overdrive Dash, blurring through six rapid directional teleport-slashes that slice through both opponents, leaving a glowing cyan star-shaped energy grid in mid-air.
+SOUND: Rapid teleport WHOOSH-WHOOSH-WHOOSH, high-frequency energy grid SLICE chimes.
+
+00:21 - 00:24 | 3D ANIME IMPACT PAUSE & BLADE SHEATH
+VISUAL: Time-dilation 3D anime impact pause as camera slowly orbits behind Ren.
+ACTION: Time freezes into a dramatic anime impact pause: Ren stands behind both enemies calmly sheathing his plasma blade, as glowing cyan slash-lines expand dangerously across the beasts' armor.
+SOUND: Sub-bass time-freeze DROP, metallic sword sheath CLICK, crackling energy tension.
+
+00:24 - 00:27 | MASSIVE SHOCKWAVE EXPLOSION & DEACTIVATION
+VISUAL: Wide dramatic tracking camera capturing the explosive collapse.
+ACTION: A massive cyan energy shockwave erupts, blasting both Cyber-Gargoyles backward onto a lower floating platform, completely disarmed and deactivated with smoking armor.
+SOUND: Explosive energy shockwave BOOM, heavy armor platform crash THUD, power-down whine.
+
+00:27 - 00:30 | BLADE FLICK & VICTORIOUS SKYLINE ORBIT
+VISUAL: Hero center-framed 360-degree orbital camera settling on Ren against the cyberpunk city.
+ACTION: Ren flicks his Greatsword downward, clearing the remaining plasma trail, as the floating debris gently settles and the camera orbits his victorious stance above the glowing neon metropolis below. CUT TO BLACK at 00:30.
+SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, total silence.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-nova-pulse-zenith-88c08b3f5768?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Four Cats and a Tiger Dance in Sync in a Futuristic White Room
+
+> 🐱🔥 When Cats and a Tiger Start Dancing in Sync! 😂🐯 Seedance 2.5 Prompt ⬇️ DURATION: 30 seconds FORMAT: 4:3 STYLE: Ultra-realistic animals, funny viral dance…
+
+[<img src="https://media.goodcase.ai/cases/e61b5722d4a6.jpg" width="600" alt="Four Cats and a Tiger Dance in Sync in a Futuristic White Room">](https://goodcase.ai/cases/seedance-2-5-when-cats-and-a-tiger-start-dancing-in-sync-56a8337d4e74?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @RizwanAly07 | **出典:** [元投稿](https://x.com/RizwanAly07/status/2113513297190511082) | **公開日:** 2026-10-23 | **ヒート:** 36
+
+<details>
+<summary><b>プロンプト全文（30 行、クリックで展開）</b></summary>
+
+```
+🐱🔥 When Cats and a Tiger Start Dancing in Sync! 😂🐯
+
+Seedance 2.5
+
+Prompt ⬇️ 
+DURATION: 30 seconds
+FORMAT: 4:3
+STYLE: Ultra-realistic animals, funny viral dance, cinematic lighting, smooth motion, 4K, 24fps.
+
+Create a 30-second ultra-realistic viral dance video featuring five adorable animals: a fluffy orange cat, a white cat, a black-and-white cat, a calico cat, and an orange Bengal tiger. All animals have realistic fur, natural feline faces, and upright dancing poses. They perform together inside a futuristic minimalist white room with a glossy gray floor and bright geometric LED strips covering the walls and ceiling.
+
+0–4 seconds: All five animals stand close together facing the camera. They look curiously into the lens, move their heads to the beat, and begin preparing for the dance. The camera slowly pulls backward to reveal the futuristic room.
+
+4–8 seconds: The animals turn around together, briefly showing their backs. The fluffy orange cat turns back toward the camera, raises one front paw, and begins a playful dance gesture.
+
+8–12 seconds: The white cat and calico cat sway their bodies from side to side. The orange cat waves its front paws rhythmically while the tiger begins moving in sync with the group.
+
+12–16 seconds: All five animals perform coordinated side steps, swinging their front paws and shifting their bodies rhythmically. The camera smoothly tracks their movements.
+
+16–20 seconds: The tiger steps forward for a funny solo dance, raising its front paws and moving its shoulders. The other cats dance behind it, maintaining their natural animal appearance.
+
+20–24 seconds: The fluffy orange cat takes the spotlight, performing playful paw movements and a short body turn. The tiger and other cats continue dancing in the background.
+
+24–27 seconds: All five animals turn and perform synchronized arm-like paw gestures, side steps, and playful body sways. Their movements become faster and more energetic.
+
+27–30 seconds: The camera moves closer as all five animals gather together in a final synchronized dance pose, facing the camera. They finish with playful expressions and a slight head tilt.
+
+VISUAL QUALITY: Photorealistic fur detail, realistic feline anatomy, consistent animal identities, smooth coordinated movements, stable environment, cinematic wide-angle camera, reflective floor, bright futuristic LED lighting.
+
+STRICT RULES: Keep exactly five animals throughout the video. Do not change their fur colors or identities. No humans, no clothing, no extra animals, no deformed paws, no duplicated bodies, no morphing, no sudden teleportation, no cartoon or CGI appearance, no text, no logos, and no watermark. All movements must flow naturally from one dance sequence to the next.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-when-cats-and-a-tiger-start-dancing-in-sync-56a8337d4e74?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Miniature Woman’s Adventure in a Giant Laundry Room
 
 > Apparently, doing laundry is now an extreme sport. 🧺 Using Seedance 2.5 on Higgsfield Prompt : STYLE: Photorealistic live-action miniature-person FX, cinematic…
@@ -4542,6 +4677,47 @@ Vertical 9:16, cinematic, high detail, smooth motion, surreal glitch aesthetic.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-6b9d1c8cec22?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Seoul Woman’s Playful Day from Morning to Night
+
+> A day full of little adventures Created with Seedance 2.5 Prompt: Create a 30-second photorealistic, highly entertaining Korean Seoul lifestyle video featuring …
+
+[<img src="https://media.goodcase.ai/cases/27f0b1d36426.jpg" width="600" alt="A Seoul Woman’s Playful Day from Morning to Night">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-highly-entertaining-korean-seoul-lifestyle-v-dfbb820be92e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MissDelulu9 | **出典:** [元投稿](https://x.com/MissDelulu9/status/2102254554398228983) | **公開日:** 2026-09-22 | **ヒート:** 36
+
+**安定度:** 74/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 73.8) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-highly-entertaining-korean-seoul-lifestyle-v-dfbb820be92e/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second photorealistic, highly entertaining Korean Seoul lifestyle video featuring the SAME adult Korean woman throughout. Keep her face, hairstyle, outfit, accessories and overall appearance perfectly consistent in every shot.
+
+Character: Adult woman with long soft dark hair, natural realistic skin, fresh minimal makeup, expressive eyes and genuinely playful facial expressions.
+
+0–3 sec: She opens her Seoul apartment door confidently, takes one step outside, suddenly realizes she forgot something, freezes with a funny expression, turns around and runs back inside. Fast comedic camera push-in + whip transition.
+
+3–7 sec: She comes running back outside and catches the Seoul bus at the last second. She looks at the camera with a tiny proud smile. Dynamic tracking shot.
+
+7–11 sec: Seoul convenience store  she grabs iced coffee, a cute dessert and snacks. The dessert nearly slips from her hand, but she catches it perfectly and smiles.
+
+11–15 sec: Subway ride through Seoul. She enjoys her dessert by the window, watches the city passing by and makes a playful expression at her reflection.
+
+15–20 sec: Lively Korean street-food market. She tries spicy tteokbokki, reacts dramatically to the heat, laughs and grabs water while her friends tease her.
+
+20–25 sec: Golden-hour Han River. She and her friends ride bicycles together, playfully racing and laughing. Smooth side-tracking camera.
+
+25–30 sec: Nighttime rooftop convenience-store seating. They share snacks and dessert while Seoul glows behind them. Camera smoothly pulls backward and upward, revealing the beautiful Seoul skyline.
+
+Style: Premium Korean lifestyle commercial × cinematic vlog, cute, playful, energetic, natural expressions, smooth camera movement, realistic Seoul locations, beautiful lighting, cinematic daylight-to-night transition, photorealistic 16:9 landscape.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-highly-entertaining-korean-seoul-lifestyle-v-dfbb820be92e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Korean Village Student's Daily Commute
 
 > Before the city wakes, she’s already on the road. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action personal vlog following a …
@@ -4662,141 +4838,6 @@ Absolute priority: Preserve identity and outfit consistently. Spontaneous candid
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-preserve-image-s-exact-identity-face-hairstyle-skin-tone-body-proportions-d4e2e403a0f6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
-
-> Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴 @PixVerse High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cybe…
-
-[<img src="https://media.goodcase.ai/cases/bc47d9030600.jpg" width="600" alt="Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴">](https://goodcase.ai/cases/seedance-2-5-nova-pulse-zenith-88c08b3f5768?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @yourPlugAI | **出典:** [元投稿](https://x.com/yourPlugAI/status/2113564718187037043) | **公開日:** 2026-10-23 | **ヒート:** 35
-
-<details>
-<summary><b>プロンプト全文（69 行、クリックで展開）</b></summary>
-
-```
-Nova Pulse: Zenith (ノヴァ・パルス：頂上) ⚡🔴
-@PixVerse 
-
-High above a neon-glowing cyberpunk city under a massive crimson moon, 3D anime hero Ren unleashes high-speed Cyber-Kenjutsu against two mechanical Cyber-Gargoyles. Non-stop 30-second 3D anime gauntlet. 
-
-✨Generated with Seedance 2.5 on PixVerse AI featuring Arcane and Guilty Gear Strive-level 3D cell-shaded animation. 
-
-#PixVerseCPP #PixVerseAI #Seedance25
-
-✨Seedance 2.5 - 30s Master Video Prompt (character sheets attached below)
-
-[ENGINE DIRECTIVE]
-Generate a continuous 30-second hyper-kinetic 3D anime action sequence at 60fps in 16:9 widescreen format. Style: High-end Arcane and Guilty Gear Strive 3D cell-shaded anime animation, glossy textures, intense particle effects, high-frame-rate impact pauses. Maintain 100% strict visual consistency with provided asset sheets: "Ren" (White-haired anime hero in neon blue circuit coat with plasma greatsword) and "Cyber-Gargoyles" (Mechanical beast-warriors). Setting strictly follows "Shattered Anti-Gravity Floating Courtyard". Rapid 2-to-3 second action beats, zero-gravity combat physics, directional camera whip-pans.
-
-[AUDIO DIRECTIVE]
-• MUSIC: Fast-paced cyberpunk metal synth hybrid with heavy guitar riffs, intense electronic risers, and booming sub-bass impacts.
-• SOUND DESIGN: Humming plasma blade hum, laser cannon blasts, whipping energy chain sizzles, shattering stone impacts, and anti-gravity wind roars.
-
-[TIMELINE BREAKDOWN]
-
-00:00 - 00:03 | ZERO-G STANCE & CRIMSON MOON LOCK
-• VISUAL: Low-angle tracking camera panning up from floating stone debris to Ren's ready Kenjutsu stance.
-• ACTION: Ren stands on a hovering stone tile against the giant crimson moon, his Greatsword humming with cyan energy as two Cyber-Gargoyles hover menacingly above him.
-• SOUND: Plasma blade hum, atmospheric anti-gravity drone, mechanical growls, explosive synth intro.
-
-00:03 - 00:06 | AIR-STEPPING & PLASMA BLAST DEFLECTION
-• VISUAL: High-speed upward tracking camera following Ren's aerial movement.
-• ACTION: Cannon-beast fires three high-velocity energy projectiles. Ren air-steps upward through zero-g, deflecting all three shots with his Greatsword into floating rubble, causing explosive cyan particle bursts.
-• SOUND: Cannon FIRING blasts, metallic blade energy deflect CLANGS, explosive rubble SHATTER.
-
-00:06 - 00:09 | PLASMA-CHAIN TRAP & 360-DEGREE SPIN
-• VISUAL: Dynamic orbital tracking camera capturing the mid-air spin.
-• ACTION: Whip-beast snaps dual plasma-chain whips from above. Ren executes a 360-degree mid-air spin, wrapping the energy chains tightly around his Greatsword blade to halt the momentum cold.
-• SOUND: Whip crack SIZZLE, metallic chain binding CLACK, energy tension hum.
-
-00:09 - 00:12 | BOOT PARTICLE BURST & DIAGONAL ARMOR SLICE
-• VISUAL: 0.8-second time-dilation close-up on Ren's boots before launching into a fast tracking slash.
-• ACTION: In hyper-slow motion, Ren channels a blue particle burst into his boots, launching off the trapped chain to deliver a flying diagonal slash that severs the whip-beast's shoulder armor.
-• SOUND: Time-dilation sub-bass DROP, particle boot BURST, high-voltage plasma slash WHOOSH, armor severing CRUNCH.
-
-00:12 - 00:15 | CIRCULAR GRAVITY WAVE & DEBRIS FREEZE
-• VISUAL: Wide impact tracking camera capturing the expanding energy ripple.
-• ACTION: Ren lands on a hovering pillar and plants his sword, unleashing a circular cyan gravity wave that freezes surrounding floating debris in place.
-• SOUND: Sword floor plant THUD, massive gravity shockwave BOOM, crystalline debris freeze chime. 
-
-00:15 - 00:18 | OVERDRIVE IGNITION & BEAM CHARGE
-VISUAL: Close-up camera zooming into Ren's face as his coat circuits ignite.
-ACTION: Seamless transition: Cannon-beast charges its main red beam weapon. Ren closes his eyes for a split second as glowing neon blue circuit lines pulse wildly across his dark coat.
-SOUND: High-voltage beam charge WHINE, coat circuit power-up HUM, fast drum roll.
-
-00:18 - 00:21 | OVERDRIVE DASH & STAR-SHAPED ENERGY GRID
-VISUAL: High-speed multi-angle speed-ramped camera tracking rapid teleportations.
-ACTION: Ren executes an Overdrive Dash, blurring through six rapid directional teleport-slashes that slice through both opponents, leaving a glowing cyan star-shaped energy grid in mid-air.
-SOUND: Rapid teleport WHOOSH-WHOOSH-WHOOSH, high-frequency energy grid SLICE chimes.
-
-00:21 - 00:24 | 3D ANIME IMPACT PAUSE & BLADE SHEATH
-VISUAL: Time-dilation 3D anime impact pause as camera slowly orbits behind Ren.
-ACTION: Time freezes into a dramatic anime impact pause: Ren stands behind both enemies calmly sheathing his plasma blade, as glowing cyan slash-lines expand dangerously across the beasts' armor.
-SOUND: Sub-bass time-freeze DROP, metallic sword sheath CLICK, crackling energy tension.
-
-00:24 - 00:27 | MASSIVE SHOCKWAVE EXPLOSION & DEACTIVATION
-VISUAL: Wide dramatic tracking camera capturing the explosive collapse.
-ACTION: A massive cyan energy shockwave erupts, blasting both Cyber-Gargoyles backward onto a lower floating platform, completely disarmed and deactivated with smoking armor.
-SOUND: Explosive energy shockwave BOOM, heavy armor platform crash THUD, power-down whine.
-
-00:27 - 00:30 | BLADE FLICK & VICTORIOUS SKYLINE ORBIT
-VISUAL: Hero center-framed 360-degree orbital camera settling on Ren against the cyberpunk city.
-ACTION: Ren flicks his Greatsword downward, clearing the remaining plasma trail, as the floating debris gently settles and the camera orbits his victorious stance above the glowing neon metropolis below. CUT TO BLACK at 00:30.
-SOUND: Sword energy flick WHOOSH, settling debris rustle, quiet wind chime, total silence.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-nova-pulse-zenith-88c08b3f5768?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Four Cats and a Tiger Dance in Sync in a Futuristic White Room
-
-> 🐱🔥 When Cats and a Tiger Start Dancing in Sync! 😂🐯 Seedance 2.5 Prompt ⬇️ DURATION: 30 seconds FORMAT: 4:3 STYLE: Ultra-realistic animals, funny viral dance…
-
-[<img src="https://media.goodcase.ai/cases/e61b5722d4a6.jpg" width="600" alt="Four Cats and a Tiger Dance in Sync in a Futuristic White Room">](https://goodcase.ai/cases/seedance-2-5-when-cats-and-a-tiger-start-dancing-in-sync-56a8337d4e74?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @RizwanAly07 | **出典:** [元投稿](https://x.com/RizwanAly07/status/2113513297190511082) | **公開日:** 2026-10-23 | **ヒート:** 35
-
-<details>
-<summary><b>プロンプト全文（30 行、クリックで展開）</b></summary>
-
-```
-🐱🔥 When Cats and a Tiger Start Dancing in Sync! 😂🐯
-
-Seedance 2.5
-
-Prompt ⬇️ 
-DURATION: 30 seconds
-FORMAT: 4:3
-STYLE: Ultra-realistic animals, funny viral dance, cinematic lighting, smooth motion, 4K, 24fps.
-
-Create a 30-second ultra-realistic viral dance video featuring five adorable animals: a fluffy orange cat, a white cat, a black-and-white cat, a calico cat, and an orange Bengal tiger. All animals have realistic fur, natural feline faces, and upright dancing poses. They perform together inside a futuristic minimalist white room with a glossy gray floor and bright geometric LED strips covering the walls and ceiling.
-
-0–4 seconds: All five animals stand close together facing the camera. They look curiously into the lens, move their heads to the beat, and begin preparing for the dance. The camera slowly pulls backward to reveal the futuristic room.
-
-4–8 seconds: The animals turn around together, briefly showing their backs. The fluffy orange cat turns back toward the camera, raises one front paw, and begins a playful dance gesture.
-
-8–12 seconds: The white cat and calico cat sway their bodies from side to side. The orange cat waves its front paws rhythmically while the tiger begins moving in sync with the group.
-
-12–16 seconds: All five animals perform coordinated side steps, swinging their front paws and shifting their bodies rhythmically. The camera smoothly tracks their movements.
-
-16–20 seconds: The tiger steps forward for a funny solo dance, raising its front paws and moving its shoulders. The other cats dance behind it, maintaining their natural animal appearance.
-
-20–24 seconds: The fluffy orange cat takes the spotlight, performing playful paw movements and a short body turn. The tiger and other cats continue dancing in the background.
-
-24–27 seconds: All five animals turn and perform synchronized arm-like paw gestures, side steps, and playful body sways. Their movements become faster and more energetic.
-
-27–30 seconds: The camera moves closer as all five animals gather together in a final synchronized dance pose, facing the camera. They finish with playful expressions and a slight head tilt.
-
-VISUAL QUALITY: Photorealistic fur detail, realistic feline anatomy, consistent animal identities, smooth coordinated movements, stable environment, cinematic wide-angle camera, reflective floor, bright futuristic LED lighting.
-
-STRICT RULES: Keep exactly five animals throughout the video. Do not change their fur colors or identities. No humans, no clothing, no extra animals, no deformed paws, no duplicated bodies, no morphing, no sudden teleportation, no cartoon or CGI appearance, no text, no logos, and no watermark. All movements must flow naturally from one dance sequence to the next.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-when-cats-and-a-tiger-start-dancing-in-sync-56a8337d4e74?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Frozen Colossus and the God-Speed Finishing Slash
 
 > HAKKA NO TOGAME ⚔️ Created with Seedance 2.5 on @higgsfield Prompt: Duration: 20s (2×10s) Format: 16:9 | 24fps Style: Ultra-photorealistic live-action Japanese …
@@ -4896,46 +4937,24 @@ Important: The sneeze must be small and believable, not comedic or exaggerated. 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-seedance-2-5-b4b891450906?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Seoul Woman’s Playful Day from Morning to Night
+### Pink Jet Tractor Races Supercars on a Tokyo Expressway
 
-> A day full of little adventures Created with Seedance 2.5 Prompt: Create a 30-second photorealistic, highly entertaining Korean Seoul lifestyle video featuring …
+> A pink tractor with a jet engine hits the highway Supercars can’t keep up with this crazy speed. Made With Seedance 2.5 on @flovaai Prompt: A high octane cinema…
 
-[<img src="https://media.goodcase.ai/cases/27f0b1d36426.jpg" width="600" alt="A Seoul Woman’s Playful Day from Morning to Night">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-highly-entertaining-korean-seoul-lifestyle-v-dfbb820be92e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/cases/17d1ccde38df.jpg" width="600" alt="Pink Jet Tractor Races Supercars on a Tokyo Expressway">](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @MissDelulu9 | **出典:** [元投稿](https://x.com/MissDelulu9/status/2102254554398228983) | **公開日:** 2026-09-22 | **ヒート:** 35
+**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2100806296949903511) | **公開日:** 2026-09-18 | **ヒート:** 35
 
-**安定度:** 74/100
+**安定度:** 80/100
 
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 73.8) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-highly-entertaining-korean-seoul-lifestyle-v-dfbb820be92e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（19 行、クリックで展開）</b></summary>
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 79.9) · [出力](https://media.goodcase.ai/retests/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a/video-grok-imagine-20261003-phase1/generated.mp4)
 
 ```
-Create a 30-second photorealistic, highly entertaining Korean Seoul lifestyle video featuring the SAME adult Korean woman throughout. Keep her face, hairstyle, outfit, accessories and overall appearance perfectly consistent in every shot.
-
-Character: Adult woman with long soft dark hair, natural realistic skin, fresh minimal makeup, expressive eyes and genuinely playful facial expressions.
-
-0–3 sec: She opens her Seoul apartment door confidently, takes one step outside, suddenly realizes she forgot something, freezes with a funny expression, turns around and runs back inside. Fast comedic camera push-in + whip transition.
-
-3–7 sec: She comes running back outside and catches the Seoul bus at the last second. She looks at the camera with a tiny proud smile. Dynamic tracking shot.
-
-7–11 sec: Seoul convenience store  she grabs iced coffee, a cute dessert and snacks. The dessert nearly slips from her hand, but she catches it perfectly and smiles.
-
-11–15 sec: Subway ride through Seoul. She enjoys her dessert by the window, watches the city passing by and makes a playful expression at her reflection.
-
-15–20 sec: Lively Korean street-food market. She tries spicy tteokbokki, reacts dramatically to the heat, laughs and grabs water while her friends tease her.
-
-20–25 sec: Golden-hour Han River. She and her friends ride bicycles together, playfully racing and laughing. Smooth side-tracking camera.
-
-25–30 sec: Nighttime rooftop convenience-store seating. They share snacks and dessert while Seoul glows behind them. Camera smoothly pulls backward and upward, revealing the beautiful Seoul skyline.
-
-Style: Premium Korean lifestyle commercial × cinematic vlog, cute, playful, energetic, natural expressions, smooth camera movement, realistic Seoul locations, beautiful lighting, cinematic daylight-to-night transition, photorealistic 16:9 landscape.
+A high octane cinematic action sequence on an urban highway in Tokyo photorealistic 8k resolution, highly detailed motion blur  An East Asian woman wearing a white tank top floral pink trousers, and sunglasses on her head driving a custom bright pink tractor fitted with a huge jet engine turbine mounted on the back  The sports cars a black modern supercar a red Ferrari SF90 and a silver Lamborghini) race dynamically on the highway The woman presses a bright red booster button on the dashboard engaging the rear jet engine which ignites with intense flames, smoke and an enormous burst of speed leaving high-end supercars behind on the multi-lane expressway A busy Japanese city highway with elevated overpasses skyscrapers city traffic and realistic dynamic motion blur along the road  Fast paced camera cuts tracking shots, close-up details of the jet engine ignition front tracking shot of the pink tractor speeding ahead of exotic supercars dynamic lighting dramatic color grading.
+#Flovaai #Flovaccp @Flovaai_Japan
 ```
 
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-highly-entertaining-korean-seoul-lifestyle-v-dfbb820be92e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Garden Chicks Go from Quarreling to Reconciliation
 
@@ -5325,26 +5344,6 @@ Create a cinematic photorealistic travel video of a stylish young woman arriving
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-photorealistic-travel-video-of-a-stylish-young-woman-arrivin-b321bf4210a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Hydrating Moisturizer Skincare Commercial
-
-> Glow naturally with FERMINA Hydration softness and a fresh glow in every touch. Made With Seedance 2.5 on @itsPolloAI Prompt: Cinematic skincare commercial, ver…
-
-[<img src="https://media.goodcase.ai/cases/5fce120edbde.jpg" width="600" alt="Hydrating Moisturizer Skincare Commercial">](https://goodcase.ai/cases/seedance-cinematic-skincare-commercial-vertical-9-16-aspect-ratio-8640fa586f63?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2097171135033143553) | **公開日:** 2026-09-08 | **ヒート:** 35
-
-**安定度:** 86/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 86) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-skincare-commercial-vertical-9-16-aspect-ratio-8640fa586f63/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Cinematic skincare commercial, vertical 9:16 aspect ratio. Starts with a sleek white cosmetic bottle labeled FERMINA covered in water droplets with water splashing dynamically over the top Quick seamless macro transition to a young woman with natural glowing skin pumping cream onto her fingers then gently applying the white moisturizer onto her cheek. Close up on her smooth hydrated skin with a subtle dew effect Ends with the woman smiling softly at the camera, holding the FERMINA product bottle next to her face warm studio lighting minimal clean aesthetic, soft focus background, high-definition commercial style.
-
-#polloai
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-skincare-commercial-vertical-9-16-aspect-ratio-8640fa586f63?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md)

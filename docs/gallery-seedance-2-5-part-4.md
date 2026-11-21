@@ -2,7 +2,7 @@
 
 All 765 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 244–335 of 765.
+This page: cases 245–336 of 765.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)
 
@@ -352,37 +352,6 @@ Elegant, silent except for implied kitchen sounds and a refined, understated sco
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-f62d402ccdf6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### First-Person POV Dragon Rider Cinematic
-
-> An epic, photorealistic 8K sequence of riding a crimson-obsidian dragon over emerald cliffs and diving into the ocean with cinematic sound design.
-
-[<img src="https://media.goodcase.ai/cases/464939ccd5ab.jpg" width="600" alt="First-Person POV Dragon Rider Cinematic">](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @frametheory058 | **Source:** [Original](https://x.com/frametheory058/status/2087007818721423855) | **Published:** 2026-08-11 | **Heat:** 68
-
-**Stability:** 77/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 76.9) · [output](https://media.goodcase.ai/retests/first-person-pov-dragon-rider-cinematic/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-Create a 30-second vertical 9:16, 24fps, 8K-quality photorealistic live-action fantasy sequence from a first-person rider POV. A massive original obsidian-crimson dragon with individually detailed scales, subtle dark mottling, molten-gold eyes, volcanic-black swept-back horns, blade-like dorsal fins, burgundy-red translucent wings and faint ember-like fissures across its body. Rider wears black leather gloves, dark-green sleeves and weathered leather bracers, holding heavy chain reins from a worn brown studded saddle.
-
-Begin with the dragon calmly breathing on a wet emerald coastal cliff; it slowly turns toward camera and the rider gently pets its neck. Suddenly it lowers its body, launches across the grass and leaps from the cliff. Dive steeply toward the grey-green ocean, deploy huge wings with realistic membrane movement, then skim just above the water with spray hitting the lens. Perform a dramatic high-speed bank around a sea stack, then plunge directly underwater. Brief dark-teal underwater silence with bubbles and faint crimson glow, followed by a powerful eruption through the ocean. Finish with a calm glide above foggy water as the dragon slowly turns and looks toward the rider.
-
-Use physically accurate anatomy, weight, gravity, wing aerodynamics, water physics, scale deformation, wind and environmental interaction. Natural rider-mounted camera movement, realistic motion blur, lens droplets, focus breathing, subtle handheld vibration, cinematic depth of field, soft overcast lighting, HDR, restrained film grain and natural cinematic color grading.
-
-Audio: atmospheric drone → intimate cello → rising orchestral tension → massive launch/flight score → intense percussion during the bank → muffled underwater audio → epic orchestral return during emergence → soft cello/piano ending. Layer detailed ASMR/SFX: dragon breathing, scales, leather, reins, claws scraping soil, wind, wingbeats, water spray, bubbles, ocean impact and a deep natural dragon roar.
-
-Make it indistinguishable from expensive real live-action cinema. No AI look, cartoon, anime, game CGI, plastic textures, fake physics, neon glow, oversaturation, distorted anatomy, extra limbs, text or watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/first-person-pov-dragon-rider-cinematic?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Summer Evening Stroll Through a Seoul Neighborhood
 
@@ -4905,6 +4874,68 @@ FINAL WINNER: @image1 — THE PROTAGONIST.
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-hollywood-sword-battle-with-arri-alexa-cine-b796fdddd0e2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Woman in leather arrives at night in a white Maserati
+
+> Midnight drives and a little city magic. 🖤✨ Created in Seedance 2.5 in @openart_ai Prompt: SCENE 1 — THE ARRIVAL | MYSTERIOUS OPENING A white Maserati emerges …
+
+[<img src="https://media.goodcase.ai/cases/c9670dfe9a61.jpg" width="600" alt="Woman in leather arrives at night in a white Maserati">](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @codewithhajra | **Source:** [Original](https://x.com/codewithhajra/status/2120033593682518407) | **Published:** 2026-11-10 | **Heat:** 60
+
+<details>
+<summary><b>Full prompt (44 lines, click to expand)</b></summary>
+
+```
+SCENE 1 — THE ARRIVAL | MYSTERIOUS OPENING
+A white Maserati emerges slowly from a luxurious underground parking entrance at midnight. The camera begins with an extreme low-angle close-up of its headlights illuminating the wet asphalt. The front wheels turn slightly as the car smoothly enters the empty boulevard.
+
+Cut to a cinematic side-tracking shot revealing the woman behind the steering wheel, her face illuminated by passing golden city lights. Her sleek high ponytail is visible through the window. The engine produces a deep, powerful sound as the car accelerates into the night.
+
+SCENE 2 — THE DRIVER | CINEMATIC CLOSE-UP
+
+The camera smoothly approaches the driver’s side window. A close-up captures her hands confidently holding the steering wheel, showcasing her elegant rings and nails.
+The camera slowly moves toward her face. She briefly glances at the illuminated city skyline before returning her gaze to the road. Passing streetlights create beautiful moving highlights across her face. Her high ponytail moves subtly with the car’s motion. Her expression remains calm, mysterious, and effortlessly confident.
+
+SCENE 3 — THE LUXURY ARRIVAL | FASHION REVEAL
+
+The Maserati arrives at an exclusive rooftop parking area overlooking a breathtaking nighttime city skyline. The car comes to a smooth stop, and the driver’s door opens.
+
+She steps out gracefully, adjusts the sleeve of her black leather jacket, and picks up her elegant black handbag. The camera captures her complete outfit in a cinematic three-quarter shot, with the white supercar and glowing skyline behind her.
+A gentle breeze moves her high ponytail as she looks toward the city with a quiet, confident expression.
+
+SCENE 4 — THE SIGNATURE DETAILS | FASHION & LUXURY
+
+A cinematic sequence of elegant close-up shots. Her hand gently closes the car door, followed by a detailed shot of her gold rings, manicured nails, and structured black handbag.
+
+The camera captures the texture of her leather jacket, tailored trousers, and elegant boots stepping onto the glossy rooftop floor.
+
+A smooth rack focus transitions from her accessories toward her face as she turns slightly toward the camera. Every movement feels natural, effortless, and sophisticated.
+SCENE 5 — THE FINAL REVEAL | ICONIC HERO SHOT
+
+She walks slowly toward the front of the white Maserati and stops beside its front fender. She gently rests one hand on the car while holding her handbag in the other.
+
+The camera begins with a dramatic low-angle view of the vehicle before slowly rising to reveal her complete silhouette and face.
+
+She turns her head toward the camera with a subtle, confident expression. The illuminated city skyline glows behind her as golden reflections sweep across the white bodywork.
+
+The final frame captures her, the Maserati, and the luxurious nighttime skyline in one perfectly composed cinematic hero shot.
+NEGATIVE PROMPT
+
+No anime, cartoons, illustrations, video-game CGI, artificial skin, doll-like faces, facial identity changes, hairstyle changes, messy ponytail, clothing inconsistencies, revealing outfits, cleavage, exposed midriff, overly short clothing, distorted anatomy, extra fingers, deformed hands, floating objects, unrealistic vehicle physics, changing Maserati design, incorrect reflections, excessive smoke, excessive motion blur, harsh lighting, overexposure, low resolution, random text, logos, watermarks, or abrupt transitions.
+
+FINAL CREATIVE DIRECTION
+
+The result should feel like a luxury fashion house collaborated with a premium automotive brand to produce a midnight campaign.
+
+Mood: Mysterious, elegant, powerful, sophisticated, and effortlessly expensive.
+
+Prioritize realistic human movements, consistent identity, beautiful modest
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-white-maserati-emerges-slowly-from-a-luxurious-underground-parking-entrance-a-36a8f1f791fd?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

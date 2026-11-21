@@ -2,9 +2,28 @@
 
 All 765 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 628–704 of 765.
+This page: cases 628–706 of 765.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.md)
+
+### Tiger-Hat Cat Steals Fried Chicken at a Riverside Picnic
+
+> She said just eat the cat took that personally. Made with seedance 2.5 Prompt: A cinematic 30-second short film, photorealistic, Korean riverside picnic aesthet…
+
+[<img src="https://media.goodcase.ai/cases/df690a476802.jpg" width="600" alt="Tiger-Hat Cat Steals Fried Chicken at a Riverside Picnic">](https://goodcase.ai/cases/seedance-a-cinematic-30-second-short-film-photorealistic-korean-riverside-picnic-aesth-3b0868a31904?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zyrellix | **Source:** [Original](https://x.com/Zyrellix/status/2100081464469787115) | **Published:** 2026-09-16 | **Heat:** 34
+
+**Stability:** 81/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 81.4) · [output](https://media.goodcase.ai/retests/seedance-a-cinematic-30-second-short-film-photorealistic-korean-riverside-picnic-aesth-3b0868a31904/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+A cinematic 30-second short film, photorealistic, Korean riverside picnic aesthetic, late afternoon golden hour fading into night.A young East-Asian woman with a short black bob sits cross-legged on a beige gingham picnic blanket on green grass beside a wide river. Behind her: a long blue bridge, distant city skyline, and a tall tower. She wears an oversized white-and-blue pinstripe shirt, loose black necktie, sheer tulle overskirt, dark mini skirt, white socks, and black loafers. In front of her: a plastic cup of iced cola, a cardboard fried-chicken box, a small fluffy pom-pom, and extra chicken pieces.A chubby gray-and-white tabby cat wearing a knitted beige tiger hat with ears, stripes, and cartoon teeth sits and walks on the blanket.Shot 1 (0–3s): Wide shot. Girl calmly eats a fried chicken drumstick. The cat rolls on its back, then stands and walks toward her, staring at the chicken.Shot 2 (3–6s): Girl looks at the cat and says clearly in English, soft but firm: “No. This is mine.” The cat rears up on hind legs and bats at her arm like a tiny tiger.Shot 3 (6–10s): Wind blows her hair. She flinches, eyes squeezed shut, mouth open in a comic yell as the cat slaps her sleeve, then she sighs and says clearly: “Okay, okay. Eat. Just eat.”
+Shot 4 (10–16s): Cat grabs a drumstick from the box with both paws, sits upright like a person, and nibbles it with eyes half-closed, blissful. Girl watches, then takes another bite of her own chicken.Shot 5 (16–19s): Girl stands up, gathers her tulle skirt, and says clearly: “I’ll come back. Leave it.” She walks out of frame to the left. Cat stays sitting, still holding the drumstick.Shot 6 (19–23s): Time-lapse. Sky turns orange sunset, then deep blue dusk. City lights and bridge lights bloom. Cat finishes eating, flops onto its side, rolls on the blanket, belly up, hat still on.Shot 7 (23–30s): Night. Close-up of the cat sitting neatly on the blanket beside leftover chicken and the cola cup. Soft city bokeh behind. Cat looks slightly guilty, then looks at the empty space where the girl sat, ears drooping. No more dialogue. Soft ambient river wind and distant city hum. End on a still close-up of the tiger-hatted cat.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-cinematic-30-second-short-film-photorealistic-korean-riverside-picnic-aesth-3b0868a31904?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### One Energy Drink Powers Up a High-Speed Morning
 
@@ -360,310 +379,6 @@ cartoon, anime, game graphics, glossy CGI, plastic skin, AI faces, weapon swappi
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-arman-exact-same-identity-throughout-334c97a3dc2f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### An Unexpected Little Adventure on a Rainy Day
-
-> I almost stayed home because of the rain but one spontaneous decision turned into the sweetest little adventure. Made with Seedance 2.5 Prompt: Authentic handhe…
-
-[<img src="https://media.goodcase.ai/cases/0e762d17f78d.jpg" width="600" alt="An Unexpected Little Adventure on a Rainy Day">](https://goodcase.ai/cases/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @CaliraVal | **Source:** [Original](https://x.com/CaliraVal/status/2101908933078310950) | **Published:** 2026-09-21 | **Heat:** 33
-
-**Stability:** 71/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 70.9) · [output](https://media.goodcase.ai/retests/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (282 lines, click to expand)</b></summary>
-
-```
-Authentic handheld mini-DV camcorder footage with a soft early-digital-video aesthetic. The video should feel like a spontaneous personal vlog filmed throughout the day rather than a professionally produced commercial.
-
-Most shots are recorded by the woman herself in arm’s-length selfie mode, combined with a few naturally positioned external angles and brief first-person POV shots.
-
-Keep the camera imperfect and human:
-
-- Subtle natural hand shake
-- Slightly crooked framing
-- Occasional autofocus hunting
-- Tiny exposure fluctuations
-- Mild motion blur
-- Imperfect zooms
-- Natural reflections
-- Small framing mistakes
-- Realistic handheld movement
-
-Never show the woman setting up, placing, adjusting, or operating a camera. The camera itself must never be visible in the frame.
-
-Use natural jump cuts between locations and perspectives. Avoid overly smooth transitions or cinematic camera movements.
-
-VISUAL LOOK
-
-Soft consumer-DV texture with gentle digital softness, subtle tape character, faint grain, mild highlight bloom, realistic skin texture, slightly muted contrast, and natural colors.
-
-Cloudy daylight should feel believable and soft. Wet streets should show realistic reflections, puddles, and subtle highlights.
-
-Avoid:
-
-- Excessive beauty filters
-- Plastic-looking skin
-- Artificial sharpness
-- CGI-looking environments
-- Overly perfect lighting
-- Commercial-style polish
-- Unrealistic environments
-
-STORY & EMOTIONAL TONE
-
-A spontaneous “I almost stayed home” day that unexpectedly turns into a beautiful little adventure.
-
-Emotional progression:
-
-Bored at home → impulsive decision → rainy city walk → unexpected cozy discovery → sunset payoff
-
-She is playful, feminine, confident, slightly flirty, curious, and naturally expressive.
-
-Her reactions should feel spontaneous and unscripted, as if she is casually sharing an unexpected day with her followers.
-
-MAIN CHARACTER
-
-An exceptionally beautiful glamorous European brunette woman in her mid-20s.
-
-She has:
-
-- Expressive almond-shaped brown eyes
-- Long eyelashes
-- Full glossy lips
-- Refined facial features
-- Sculpted cheekbones
-- Delicate straight nose
-- Lightly tanned glowing skin
-- Long, thick dark-brown hair
-
-Her hair is styled in a high ponytail, with a few loose strands naturally becoming visible as the day progresses.
-
-She has a lean, feminine, athletic physique and a polished social-media-influencer appearance.
-
-Makeup is soft-glam but realistic enough for natural daylight. Preserve realistic skin texture and natural facial movement.
-
-OUTFIT & CONTINUITY
-
-She wears the same outfit throughout the entire video:
-
-- Fitted deep-burgundy long-sleeve top
-- Elegant high-waisted dark trousers or fitted jeans
-- Lightweight neutral trench coat
-- Clean white sneakers
-- Small shoulder bag
-
-The burgundy top should remain clearly visible whenever the trench coat is open.
-
-Strict continuity: same woman, same face, same hairstyle, same makeup, same outfit, same accessories, and consistent body proportions throughout every shot.
-
-No wardrobe changes.
-
-LOCATION
-
-A beautiful modern European city during an overcast rainy afternoon.
-
-Environment includes:
-
-- Stone sidewalks
-- Small independent cafés
-- Glass shop windows
-- Historic European architecture mixed with modern streets
-- Passing cars
-- Wet pavement
-- Street lights
-- Trees moving gently in the breeze
-- Cozy bookstore or café
-- Realistic urban details
-
-The city should feel lived-in and believable. Avoid large crowds dominating the background.
-
----
-
-STORYBOARD — 30 SECONDS / 10 CUTS
-
-CUT 01 — 0:00–0:03 | STUCK INSIDE
-
-Handheld selfie footage inside her apartment.
-
-She stands beside a large apartment window, looking outside at the rain. She briefly turns the camera toward the rainy street, then back toward herself.
-
-She makes a slightly unimpressed expression.
-
-Dialogue:
-“Yeah… I definitely wasn’t planning on going anywhere today.”
-
-She glances back toward the rain.
-
-Natural facial expression, casual delivery, slight handheld shake.
-
-CUT 02 — 0:03–0:06 | SPONTANEOUS DECISION
-
-Quick natural jump cut.
-
-She is now leaving the apartment building wearing her burgundy outfit and trench coat.
-
-She looks into the camera with a playful, mischievous smile while walking toward the entrance.
-
-Dialogue:
-“But staying home sounded boring.”
-
-She steps outside into the rain without posing.
-
-CUT 03 — 0:06–0:09 | RAINY STREET
-
-Handheld walking selfie.
-
-She walks along the wet European street. Small raindrops are visible on her hair and trench coat.
-
-The camera is held slightly above eye level with natural movement.
-
-A passing car creates a tiny splash near the pavement.
-
-She laughs naturally.
-
-Dialogue:
-“Okay… maybe this was a bad idea.”
-
-She smiles despite the rain.
-
-CUT 04 — 0:09–0:12 | CITY DISCOVERY
-
-She slows down while walking and notices something interesting across the street.
-
-Switch to a brief first-person POV showing a charming independent bookstore or cozy café glowing warmly through rain-speckled glass.
-
-Cut back to her face.
-
-Her expression changes from bored to curious.
-
-Dialogue:
-“Oh… wait.”
-
-She looks toward the place again with genuine curiosity.
-
-CUT 05 — 0:12–0:15 | COZY DISCOVERY
-
-Quick external angle from across the sidewalk.
-
-She walks toward the cozy bookstore/café while holding her small shoulder bag.
-
-Rain continues falling lightly.
-
-She looks through the window and smiles.
-
-Cut to a close handheld selfie as she says:
-
-Dialogue:
-“I’ve never actually been in here.”
-
-Keep the framing imperfect and documentary-like.
-
-CUT 06 — 0:15–0:18 | INSIDE
-
-Jump cut to the warm interior.
-
-She walks slowly through the cozy bookstore/café, looking around with genuine interest.
-
-Warm interior lighting contrasts naturally with the cool rainy light outside.
-
-She briefly picks up a book or looks at a small display.
-
-No exaggerated acting.
-
-Dialogue:
-“Okay, this is actually really cute.”
-
-CUT 07 — 0:18–0:21 | LITTLE MOMENT
-
-Handheld close-up selfie.
-
-She sits near the window with a warm drink.
-
-Rainy streets are visible behind her through the glass.
-
-A few loose strands of hair frame her face.
-
-She takes a small sip, looks outside, then back at the camera with a satisfied smile.
-
-No dialogue for a moment — just natural ambient café and rain sounds.
-
-CUT 08 — 0:21–0:24 | RAIN CLEARS
-
-Natural jump cut.
-
-She is back outside.
-
-The rain has become lighter. The pavement is still wet and reflective.
-
-She walks down the street while filming herself.
-
-Soft sunlight begins breaking through the clouds.
-
-She looks upward and smiles.
-
-Dialogue:
-“Okay… I’m glad I left.”
-
-CUT 09 — 0:24–0:27 | SUNSET PAYOFF
-
-Brief external cinematic-but-imperfect angle.
-
-She walks along a beautiful European street as golden evening light begins appearing between the clouds.
-
-Wet pavement reflects the warm sky.
-
-She turns toward the camera with a relaxed smile.
-
-Her hair moves naturally in the breeze.
-
-Keep the image grounded and realistic rather than overly cinematic.
-
-CUT 10 — 0:27–0:30 | FINAL SELFIE
-
-Handheld selfie at golden hour.
-
-She stops walking and looks directly into the camera.
-
-She gives a small playful smile and slightly raises her eyebrows, as if admitting the day turned out better than expected.
-
-Dialogue:
-“Maybe going out wasn’t such a bad idea.”
-
-She turns the camera slightly toward the glowing street and sunset.
-
-Natural jump cut/end.
-
-AUDIO
-
-Natural location sound throughout:
-
-- Light rain
-- Distant traffic
-- Footsteps on wet pavement
-- Subtle café ambience
-- Soft city background noise
-- Gentle wind
-
-Dialogue should sound naturally recorded through a small consumer camcorder microphone.
-
-No dramatic cinematic voice-over.
-
-No artificial studio-quality audio.
-
-FINAL STYLE RULE
-
-The entire video should feel like a real spontaneous personal vlog captured on an old consumer mini-DV camera during an unexpectedly beautiful rainy day.
-
-Prioritize natural human behavior, realistic movement, continuity, imperfect handheld framing, believable lighting, authentic expressions, and casual storytelling over polished cinematic perfection.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Japanese High School Classroom Key Mission
 
@@ -4473,6 +4188,27 @@ The realism should come from tiny imperfections, casual body language, natural e
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aqib-786ai-seedance-ai-9fcb27bab8b2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon
+
+> More Lavender, generated with Seedance 2.5. A Chinese-language character prompt: Lavender is chained in a dungeon cell, arms hauled above his head, straining furiously against the restraints.
+
+[<img src="https://media.goodcase.ai/media/poster/migrok293703-seedance-ai-feecd249fd30.jpg" width="600" alt="Seedance Chinese Character-Narrative Prompt: Lavender in the Dungeon">](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @migrok293703 | **Source:** [Original](https://x.com/migrok293703/status/2089765662193316149) | **Published:** 2026-08-18 | **Heat:** 28
+
+**Stability:** 69/100
+
+**Retests:** 2 runs
+
+- Grok Imagine · 2026-10-02 · ⚠️ degraded (score 69.4) · [output](https://media.goodcase.ai/retests/migrok293703-seedance-ai-feecd249fd30/video-grok-imagine-20261002-phase1/generated.mp4)
+- MiniMax H3 Max 768p · 2026-09-07 · ❌ failed (score n/a)
+
+```
+场景1：薰衣草被囚禁在地牢牢房中，背靠着墙站着。沉重的锁链将他的双臂高高举过头顶，露出两个腋窝。薰衣草看起来愤怒而桀骜不驯，他用力拉扯着锁链，愤怒地环顾四周，用日语咆哮着说他们会后悔的。场景2：从薰衣草身后的墙壁上缓缓伸出两条机械臂，每条机械臂的末端都长着一只戴着白手套的手。薰衣草注意到身后的动静，一脸困惑和不安，用日语问道：{现在怎么办？} 场景3：两只戴着白手套的手向薰衣草裸露的腋窝靠近。一只手伸进一个腋窝，另一只手伸进另一个腋窝。它们开始用轻柔、流畅、连贯的手指动作挠薰衣草的腋窝。滑稽的挠痒音效响起。薰衣草立刻咧嘴一笑，发出闷闷的笑声，因为他非常怕痒。（滑稽的挠痒音效）场景4：薰衣草上半身的特写镜头。两只戴着手套的手继续挠他裸露的腋窝。薰衣草紧紧闭上眼睛，咧嘴大笑，发出闷闷的笑声，稍微扭动身体想躲开戴着手套的手，但他逃不掉，戴着手套的手继续挠着薰衣草的腋窝。他用咯咯笑着的语气用日语说：“停下来！”然后又轻声笑了起来。（滑稽的挠痒音效继续）场景5：两只机械臂继续挠了一会儿腋窝后，突然停了下来，稍微拉开了距离，但仍然靠近薰衣草。薰衣草咯咯笑了几声，然后稍微恢复了镇定，希望挠痒已经结束了，他叹了口气，用日语如释重负地说：“终于停了。”场景6：机械臂的手从薰衣草的腋窝向下移到他的肚子上，薰衣草带着一丝担忧看着它们移动。两只戴着白手套的手开始用轻柔、流畅、连贯的指法挠薰衣草的肚子。薰衣草又开始轻声咯咯地笑，用他那独特的日语笑声说道：“哦，别挠那里！”然后又开始咯咯地笑，笑声越来越大。（滑稽的挠痒音效持续）场景6：薰衣草在牢房里的正面全貌。两只戴着白手套的手继续挠他的肚子，他咯咯地笑着，微微扭动着上半身，但无法逃脱。他咧嘴笑着，闭着眼睛，无力地挣扎着想要挣脱锁链，而戴着手套的手则继续挠他的肚子。总共有两条机械臂，也正好有两只戴着白手套的手。它们从薰衣草身后伸出来。首先，两只手挠薰衣草裸露的腋窝，然后向下移动，挠他的肚子。挠腋窝时要集中在腋窝的凹陷处，不要挠到肋骨、胸部或侧腰。手指的动作要轻柔、流畅、连贯。在所有挠痒痒的场景中使用滑稽、有趣的挠痒痒音效。语音为日语。
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/migrok293703-seedance-ai-feecd249fd30?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Hardcore Cartel Hideout Action Scene
 
 > A heavily cinematic lone-hero action sequence in which a battle-worn tough guy shoots his way out of a cartel hideout.
@@ -4541,6 +4277,108 @@ ENVIRONMENT / DAYLIGHT CORE: Typical details baked in: multi-story school buildi
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-on-de41ac4699ab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Kansai MiniDV Travel Memories Through Her Boyfriend’s Eyes
+
+> Made with seedance 2.5 on @openart_ai Prompt: Create exactly 30 seconds of photorealistic live-action Japanese travel memories, edited with quick hard cuts, see…
+
+[<img src="https://media.goodcase.ai/cases/9d1b39af64ac.jpg" width="600" alt="Kansai MiniDV Travel Memories Through Her Boyfriend’s Eyes">](https://goodcase.ai/cases/seedance-create-exactly-30-seconds-of-photorealistic-live-action-japanese-travel-memorie-4c285efc3fa2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @oggii_0 | **Source:** [Original](https://x.com/oggii_0/status/2099002039141626186) | **Published:** 2026-09-13 | **Heat:** 27
+
+<details>
+<summary><b>Full prompt (84 lines, click to expand)</b></summary>
+
+```
+Create exactly 30 seconds of photorealistic live-action Japanese travel memories, edited with quick hard cuts, seen through an affectionate adult boyfriend's first-person handheld consumer camcorder. This is a MULTI-SCENE MONTAGE, NOT one continuous take. Begin with a frightening cinematic near-miss at a suburban railway platform, then move immediately into warm, playful, intimate everyday travel. The emotional arc is alarm → relief → affectionate curiosity → golden-hour quiet → joyful night → tender laughter. No disaster imagery. No dramatic movie grading. Output ultrawide 21:9, requested 1080p, high-bitrate encode, with deliberately authentic early-2000s MiniDV aesthetics baked into the image. Use the full wide frame, no 4:3 pillarboxes.
+
+SAME ADULT HEROINE IN EVERY SHOT:
+SAME ADULT HEROINE IN EVERY SHOT:
+A very beautiful young adult Korean woman, age 25–28, with luminous fair warm-toned skin and realistic pores, expressive dark-brown eyes, softly sculpted youthful cheeks, naturally beautiful full rose-pink lips with a subtle satin finish, natural understated Korean makeup, and a warm spontaneous smile. Preserve her facial geometry, body proportions and identity across every cut, without idealized plastic smoothing. Thin dark-metal oval prescription glasses with clear lenses, eyes always readable. Long, naturally dark-brown to soft-black hair, smooth and healthy with subtle natural movement; no blonde hair, no bangs.
+
+One consistent modern Korean Gen Z outfit: an elegant loose ivory ankle-length A-line dress with full-length sleeves and a high neckline, subtle delicate embroidery, paired with a lightweight oversized beige cardigan jacket, clean cream sneakers, and a small structured taupe crossbody bag. Fabric remains naturally flowing, fully opaque and modest during movement. Glasses, hairstyle, outfit and bag remain identical throughout. Contemporary Korean styling, youthful, effortlessly elegant and understated. No spaghetti straps, revealing neckline, exposed midriff, or body-hugging styling. There is no supplied reference image: establish this original Korean heroine from these text details and maintain her exact identity. Never morph into another woman, change her ethnicity, facial features, hairstyle, or body proportions.
+
+MINIDV STYLE LOCK:
+Feels like a cherished home-video cassette recorded around 2003, not polished cinema pretending to be vintage. Gentle optical softness, low contrast, softly washed highlights, warm natural skin, fine luma noise, mild color bleed, subtle consumer-camera edge enhancement, restrained DV compression texture, slightly faded blues and greens, soft halation, occasional exposure pumping when moving between shade and sunlight.
+
+Real handheld wide-angle proximity, uncentered composition, brief autofocus searching that settles on her face. Noticeable motion smear on fast pans and night lights, but keep expressions legible. No heavy glitch overlays, fake VHS tracking bars, film burns between scenes, timestamps, captions, subtitles, logos, or excessive chromatic aberration. Noon feels airy, sunset feels honey-gold, night feels softly smeared and imperfect. Do not use green-noir grading or glossy blockbuster teal-orange.
+
+POV AND EDIT RULES:
+The camera operator is her adult boyfriend, mostly unseen, occasionally one anatomically correct forearm or hand enters. She repeatedly checks where he is, leans toward him, looks back, shares a discovery, and smiles directly into the lens. Small natural gestures, no fashion posing, no slow-motion beauty commercial. Hold each simple action long enough to read. Hard cuts between locations, no morphing transitions.
+
+Geography evokes a remembered Kansai day through Uji and Nara, with ordinary bookshops and shopping streets between famous places. Late spring or early summer green foliage; no contradictory autumn leaves, snow or cherry blossoms. Do not squeeze in extra landmarks or relocate Mount Fuji into Nara.
+
+EXACT 30-SECOND EDIT:
+
+00.00–04.00 — SUBURBAN PLATFORM, DANGER THEN RELIEF
+Open with danger already readable: she has distractedly stepped too near the platform edge while peering down the line, one hand shading her eyes. She remains on the platform, never on the rails. An approaching maroon-and-cream commuter train is already visible behind her and rapidly grows larger.
+
+From first-person POV, one boyfriend hand reaches to her upper arm; upon contact, the arm immediately retracts in ONE continuous movement, pulling her backward toward the lens and behind the tactile safety strip. She visibly moves back one or two quick steps; camera operator steps back naturally with her. Only once she is clear does the train rush past behind her.
+
+Its wind flutters her overshirt and dress hem, never lifts or removes her hijab or exposes her body. Her eyes widen behind glasses, lips part with a brief startled gasp, then relief begins in her expression. No contact with the train, injuries, lingering on the edge, or repeated pulling motion. Believable distances and train direction; staged fictional action with a clearly successful rescue. Keep one continuous shot for this opening.
+
+04.00–06.00 — SUNNY GRASS
+Abrupt warm hard cut: first-person handholding as she guides the viewer along a grassy path. She turns toward the camera with a relieved bright laugh. Sunlight catches her ivory sleeves and navy floral hijab pin; green grass drifts softly behind. One hand linked naturally with the operator, no duplicate fingers.
+
+06.00–07.50 — OLD BOOKSHOP
+Shoot through a gap between shelves of well-used Japanese books. She playfully bends into the gap from the far side, notices the lens, gives a small conspiratorial smile. Dusty window light, crowded wooden shelves, autofocus briefly catches book spines before her eyes. Avoid legible invented titles.
+
+07.50–09.00 — QUIET STREET CROSSING
+Low, casual waist-to-shoe framing of her walking across an ordinary Japanese zebra crossing on a pedestrian signal. Ivory dress hem sways over trainers. Tilt just enough to glimpse her looking back. No fetishized body framing; modest everyday clothing detail and footsteps are the focus.
+
+09.00–10.50 — NARROW LANE
+She walks ahead between traditional wooden storefronts, potted plants and hanging fabric curtains. Her eyes glance sideways first, then she turns her face back to find the camera, smiling softly. Overhead cables and bicycles at the side establish lived-in Japan; no staged crowd.
+
+10.50–12.50 — UJI RIVERSIDE, ADDED RESEARCHED SCENE
+At the scenic Uji River in Kyoto Prefecture, film her by a pedestrian riverbank with the historic bridge in the background. Begin with sunlight moving on water, tilt casually to her leaning lightly on the safe railing. A breeze moves her cuff; she points out the view, then looks at the operator rather than posing for the landscape. Keep her face central to the memory, river sound underneath.
+
+12.50–14.00 — UJI MATCHA, ADDED RESEARCHED SCENE
+Close handheld view of her holding a simple matcha soft-serve outside a small tea shop. She takes a tiny taste, raises her eyebrows appreciatively, then offers the cone toward the lens with a playful smile. Rich natural tea-green against ivory fabric; mild sunlight overexposure, soft storefront background. No visible brand text.
+
+14.00–15.50 — SMALL RAMEN SHOP
+Close-up of steaming vegetarian mushroom-and-vegetable ramen on a wooden counter or small table, then a quick natural focus pull to her sitting opposite, smiling through wisps of steam. Cozy lamps, spoon and bowl sounds, genuine restaurant ambience. No pork slices or alcohol props. Camera remains handheld, not a glossy food advertisement.
+
+15.50–17.00 — MANGA SHOP
+She draws one manga volume from a shelf, opens it and lowers her eyes with a curious smile. Brief close shot of hands and page texture; no readable dialogue or famous copyrighted character emphasis. Maintain same glasses and floral pin.
+
+17.00–18.50 — NARA PARK DEER
+Boyfriend POV offers one designated deer cracker, held flat and released gently to a deer in Nara Park. The woman is softly out of focus a few steps behind on green grass, laughing at the deer's polite approach. No grabbing antlers, hugging or chasing wildlife. Mild camera wobble as the deer approaches.
+
+18.50–20.00 — QUIET READING
+Sitting on a park bench, she flips a manga page. Close details of her hands, gold botanical embroidery and lace cuff, then tilt to her peaceful face behind her glasses. Rustle of paper, leaves and distant birds. Natural, modest, unposed.
+
+20.00–22.50 — UKIMIDO PAVILION, ADDED RESEARCHED SCENE
+Nara Park's hexagonal wooden Ukimido pavilion with its cypress-bark roof on Sagiike Pond, reached by a wooden bridge. From the public bridge, she pauses safely by the railing and turns back toward the camera; warm light and green trees reflect in still water. Start wide enough to read the actual pavilion silhouette, then walk a little closer as she extends her hand toward the viewer. Quiet water, wooden footfalls, no temple ritual invented. Intimate location memory rather than a drone tourism shot.
+
+22.50–24.50 — GOLDEN-HOUR MEADOW
+In Nara's grassy park with deer grazing at a respectful distance, honey-gold backlight edges her hijab and sleeves. She turns gently toward the camera, dress fabric swaying with the evening breeze. A small genuine smile, peaceful eye contact, slight exposure bloom. No spinning near deer, no flying fabric revealing skin.
+
+24.50–27.00 — LIVELY NIGHT SHOPPING STREET
+Blue-hour-to-night hard cut. Warm shop lanterns, illuminated signs and pedestrians in a Kansai shopping street. She suddenly jogs lightly several steps ahead, then looks back laughing, waiting for the operator. He follows; handheld camera movement leaves convincing soft DV light streaks. No vehicles in her running path; stay in a pedestrian area. Preserve facial readability between movement smears.
+
+27.00–28.00 — TACTILE MEMORY INSERT
+One brief close handheld detail of her hand adjusting her embroidered cuff beside her taupe bag, ivory skirt hanging naturally; warm shop light blooms softly off the stitching. A casual recorded detail, not an erotic crop.
+28.00–30.00 — CAMCORDER MEMORY ENDING
+A second small silver early-2000s consumer camcorder is held into the foreground by the operator's free hand, its side LCD flipped outward. Current POV remains on the original recording camera; make this a clearly separate physical device, not an impossible view of itself.
+
+The second camcorder points toward the woman; its LCD shows the same woman in the same pose at the same moment, synchronized without a duplicate person standing nearby. She notices that he is still filming, briefly gives a playful tiny pout with her naturally rose-toned lips, then breaks into a real warm laugh looking directly at him. Frame drifts toward a bright shop lamp and highlights bloom to soft white over the final fraction of a second. End on warmth, not alarm.
+
+AUDIO:
+Real synchronized location sound ONLY, no background music, no soundtrack, no narration, no scripted dialogue.
+
+Opening: rolling rail clatter, approaching train rush, wind blast, a single surprised gasp, shoes stepping back.
+
+Then light footsteps, grass and breeze, natural soft laughter, book pages, distant shop ambience, river water, ice-cream wrapper rustle if present, ramen bowls and chopsticks, park birds, deer footsteps, wooden bridge creaks, evening breeze, night crowd and distant vehicles.
+
+Audio hard-cuts naturally with each location; subtle room-tone tails are acceptable. Finish with her authentic laugh. No artificial whooshes between edits or dramatic suspense score.
+
+FINAL QUALITY RULES:
+Exactly one stable adult heroine, full modest coverage, consistent hijab and glasses, anatomically natural hands, no face drift or changing ethnicity, no glossy skin filter. Requested high-bitrate file must preserve intentional MiniDV texture rather than remove it. The viewer should feel these are precious imperfect memories from a real day together, not a compilation of polished commercial travel footage.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-exactly-30-seconds-of-photorealistic-live-action-japanese-travel-memorie-4c285efc3fa2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.md)

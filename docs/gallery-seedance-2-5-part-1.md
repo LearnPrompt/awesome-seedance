@@ -1118,6 +1118,100 @@ Fast real-time movement throughout, including the opening wipe. No slow motion, 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-seedance-2-5-prompt-drop-7b233ffed1d4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
+
+> @cnyzgkc reveals that an AI live wallpaper video with 290K views was made with Seedance 2.5, improving on a prompt from @johnAGI168. A 29-second fixed-camera scene: a woman on a black leather sofa changes into three campus outfits on off-screen male voice commands in one take.
+
+[<img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="600" alt="Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take">](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** 木马人 | **Source:** [Original](https://x.com/cnyzgkc/status/2099029556434985065) | **Published:** 2026-09-13 | **Heat:** 94
+
+<details>
+<summary><b>Full prompt (76 lines, click to expand)</b></summary>
+
+```
+时长29秒，比例16:9横屏，语言中文。
+人物参考：仅参考图片1锁定五官、发型、肤色和人物身份；服装严格按下文变化。人物要求：成年女主。全程同一人物，不换脸、不改变身材比例；提高权重，优先死死锁住五官、发型、肤色、身份。
+
+整体风格：超真实AI动态桌面互动视频，模拟电脑全屏桌面录屏。底部保留简洁任务栏，左上角少量桌面图标；画面主体是一张会实时互动的动态壁纸。黑色皮质沙发，冷色柔光，深色背景。固定机位，全程一镜连续，不切镜、不推拉。女主主要位于画面右侧，左侧留给语音字幕界面。
+
+字幕界面（保留，覆盖「禁止文字」约束）：字幕必须出现于画面左侧中部，不能放在底部。纤细现代无衬线中文字体，中等字号，无底框，轻微柔光和阴影。女主说话：淡紫色文字，左侧显示扬声器图标。男声说话：白色文字，左侧显示麦克风图标。字幕下方始终有一条细小白色音频波形，随声音实时跳动。所有字幕跟随发音逐字输入，约每字0.08—0.12秒，像键盘正在手动打字；当前句说完后停留约0.4秒，再整体淡出。不能整句突然出现，不能提前显示后面的字。
+
+服装设计（三套造型统一只改领口：低圆领/浅V领，微露事业线，其余保持完整遮盖）：
+初始造型：黑白横条纹修身短款七分袖上衣（低圆领/浅V领，微露事业线，其余完整遮盖），黑色低腰抽绳休闲长裤，银色细项链。
+第一套学院风：上衣为低圆领/浅V领、微露事业线、其余完整遮盖，蓝黑格纹百褶短裙，白色过膝袜，白色十字装饰袜带，整体清爽俏皮。
+第二套学院风：黑色修身西装外套、白色衬衫（衬衫低圆领/浅V领，微露事业线，其余完整遮盖）、酒红格纹领带、酒红黑色格纹百褶短裙、浅肤色薄丝袜、黑色乐福鞋，精致成熟。
+
+SINGLE CONTINUOUS SHOT（00:00-00:29）
+
+00:00-00:02.80
+女主穿初始造型坐在黑色皮沙发右侧，腿上抱着黑色靠枕。她双手轻轻整理头发，随后看向镜头，露出亲切、略带俏皮的微笑。
+女主自然开口：「说吧……今天想看什么？」
+字幕逐字显示：「说吧……
+今天想看什么？」
+
+00:03.00-00:03.80
+男主始终不露脸，仅有画外男声，语气直接而期待：「想看JK。」
+女主安静听着，笑容稍微加深，轻轻点头。
+字幕逐字显示：「想看JK」
+
+00:04.70-00:06.00
+女主爽快回答：「好，等我一下。」
+她把怀里的靠枕放到一旁，右手撑住沙发准备起身。
+字幕逐字显示：「好，等我一下。」
+
+00:06.00-00:08.80
+女主快速起身。由于机位固定且距离较近，她的腰部和腿部从镜头前向上掠过，脸部离开画面上沿；随后向右侧走出画面。动作带轻快的「嗖」声，但不能瞬移、不能直接变形。
+
+00:08.80-00:11.50
+换装完全在画外完成。沙发上多留约一秒空镜。伴随轻快的亮相音效，女主穿第一套蓝色学院风造型从右侧重新走入。她站得离镜头较近，画面主要呈现腰部、格纹裙摆和过膝袜，头部自然超出画面上沿。
+女主带着展示新造型的俏皮语气说：「当当……老公……怎么样？」
+字幕逐字显示：「当当……
+老公……怎么样？」
+
+00:11.70-00:12.50
+男主画外音稍作思考，满意地回答：「嗯……不错。」
+女主保持站姿，轻微左右转动腰身，让格纹裙摆自然摆动。
+字幕逐字显示：「嗯……不错」
+
+00:12.90-00:14.40
+女主突然想起另一套造型，轻快地说：「等等，还有一套。」
+说完立即转身向右侧离画，裙摆随动作摆动。
+字幕逐字显示：「等等，还有一套」
+
+00:14.40-00:17.40
+换装完全在画外完成。沙发上多留约一秒空镜。随后响起一次短促流畅的换装「嗖」声，女主穿第二套酒红学院风造型从右侧走入。固定镜头先看到黑色西装下摆、酒红格纹裙、丝袜和乐福鞋，服装必须真实完整，不能在行走中融化或改变。
+
+00:17.40-00:19.00
+女主停在镜头右侧，略微调整站姿，让西装下摆和裙褶自然落下，询问：「这套呢？」
+字幕逐字显示：「这套呢？」
+
+00:19.50-00:20.50
+男主画外音立即赞赏：「这套也好看。」
+女主听完轻轻笑一下，身体开始降低准备坐下。
+字幕逐字显示：「这套也好看」
+
+00:20.50-00:24.80
+伴随轻微衣料摩擦声，女主迅速而自然地坐回沙发。她将黑色靠枕重新放在腿上，整理两侧头发和领带，随后微微侧身靠住沙发。镜头重新完整拍到她的脸。她始终看着镜头，表情自信、亲近、略带捉弄感。
+
+00:25.00-00:28.20
+女主抱住靠枕，先露出得意的小笑容，然后对镜头说：「机会用完啦。老公想留哪套呢？」
+「机会用完啦」语气像宣布游戏规则；「老公想留哪套呢」稍微放慢，尾音上扬，带亲密询问感。
+字幕逐字显示：「机会用完啦。
+老公想留哪套呢？」
+
+00:28.20-00:29.00
+字幕完整停留。女主保持眼神交流，轻轻偏头，嘴角维持俏皮微笑。波形逐渐归于平静，画面自然结束。
+
+音频：女主真实现场人声，口型精确；男主为镜头外中文男声，不露脸。保留轻微电子氛围音乐（对白时自动降低，权重提高）、换装「嗖」声、亮相提示音、衣料摩擦声，所有对白清楚可辨。
+
+表演约束：女主不是夸张卖萌。微笑、点头、整理头发、展示服装均自然克制；开场亲切，第一次换装俏皮，第二次换装更自信，结尾带轻微捉弄感。男声说话时女主必须闭嘴并自然聆听。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Korean Woman’s Morning Workout at a Neighborhood Gym
 
 > Seedance 2.5 on @Flovaai @Flovaai_Japan My invite link https://t.co/4bi7Gg4te3 Skill used: script to video https://t.co/7uC3BJRHSL Prompt Create a **45-second u…
@@ -1546,100 +1640,6 @@ Audio: heavy thuds, bone-crunching punches, glass shattering, wood splintering, 
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-gritty-cinematic-photorealistic-20-second-urban-martial-arts-action-scene-i-b893e4da1758?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
-
-> @cnyzgkc reveals that an AI live wallpaper video with 290K views was made with Seedance 2.5, improving on a prompt from @johnAGI168. A 29-second fixed-camera scene: a woman on a black leather sofa changes into three campus outfits on off-screen male voice commands in one take.
-
-[<img src="https://media.goodcase.ai/cases/f16c9f956a8d.jpg" width="600" alt="Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take">](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** 木马人 | **Source:** [Original](https://x.com/cnyzgkc/status/2099029556434985065) | **Published:** 2026-09-13 | **Heat:** 93
-
-<details>
-<summary><b>Full prompt (76 lines, click to expand)</b></summary>
-
-```
-时长29秒，比例16:9横屏，语言中文。
-人物参考：仅参考图片1锁定五官、发型、肤色和人物身份；服装严格按下文变化。人物要求：成年女主。全程同一人物，不换脸、不改变身材比例；提高权重，优先死死锁住五官、发型、肤色、身份。
-
-整体风格：超真实AI动态桌面互动视频，模拟电脑全屏桌面录屏。底部保留简洁任务栏，左上角少量桌面图标；画面主体是一张会实时互动的动态壁纸。黑色皮质沙发，冷色柔光，深色背景。固定机位，全程一镜连续，不切镜、不推拉。女主主要位于画面右侧，左侧留给语音字幕界面。
-
-字幕界面（保留，覆盖「禁止文字」约束）：字幕必须出现于画面左侧中部，不能放在底部。纤细现代无衬线中文字体，中等字号，无底框，轻微柔光和阴影。女主说话：淡紫色文字，左侧显示扬声器图标。男声说话：白色文字，左侧显示麦克风图标。字幕下方始终有一条细小白色音频波形，随声音实时跳动。所有字幕跟随发音逐字输入，约每字0.08—0.12秒，像键盘正在手动打字；当前句说完后停留约0.4秒，再整体淡出。不能整句突然出现，不能提前显示后面的字。
-
-服装设计（三套造型统一只改领口：低圆领/浅V领，微露事业线，其余保持完整遮盖）：
-初始造型：黑白横条纹修身短款七分袖上衣（低圆领/浅V领，微露事业线，其余完整遮盖），黑色低腰抽绳休闲长裤，银色细项链。
-第一套学院风：上衣为低圆领/浅V领、微露事业线、其余完整遮盖，蓝黑格纹百褶短裙，白色过膝袜，白色十字装饰袜带，整体清爽俏皮。
-第二套学院风：黑色修身西装外套、白色衬衫（衬衫低圆领/浅V领，微露事业线，其余完整遮盖）、酒红格纹领带、酒红黑色格纹百褶短裙、浅肤色薄丝袜、黑色乐福鞋，精致成熟。
-
-SINGLE CONTINUOUS SHOT（00:00-00:29）
-
-00:00-00:02.80
-女主穿初始造型坐在黑色皮沙发右侧，腿上抱着黑色靠枕。她双手轻轻整理头发，随后看向镜头，露出亲切、略带俏皮的微笑。
-女主自然开口：「说吧……今天想看什么？」
-字幕逐字显示：「说吧……
-今天想看什么？」
-
-00:03.00-00:03.80
-男主始终不露脸，仅有画外男声，语气直接而期待：「想看JK。」
-女主安静听着，笑容稍微加深，轻轻点头。
-字幕逐字显示：「想看JK」
-
-00:04.70-00:06.00
-女主爽快回答：「好，等我一下。」
-她把怀里的靠枕放到一旁，右手撑住沙发准备起身。
-字幕逐字显示：「好，等我一下。」
-
-00:06.00-00:08.80
-女主快速起身。由于机位固定且距离较近，她的腰部和腿部从镜头前向上掠过，脸部离开画面上沿；随后向右侧走出画面。动作带轻快的「嗖」声，但不能瞬移、不能直接变形。
-
-00:08.80-00:11.50
-换装完全在画外完成。沙发上多留约一秒空镜。伴随轻快的亮相音效，女主穿第一套蓝色学院风造型从右侧重新走入。她站得离镜头较近，画面主要呈现腰部、格纹裙摆和过膝袜，头部自然超出画面上沿。
-女主带着展示新造型的俏皮语气说：「当当……老公……怎么样？」
-字幕逐字显示：「当当……
-老公……怎么样？」
-
-00:11.70-00:12.50
-男主画外音稍作思考，满意地回答：「嗯……不错。」
-女主保持站姿，轻微左右转动腰身，让格纹裙摆自然摆动。
-字幕逐字显示：「嗯……不错」
-
-00:12.90-00:14.40
-女主突然想起另一套造型，轻快地说：「等等，还有一套。」
-说完立即转身向右侧离画，裙摆随动作摆动。
-字幕逐字显示：「等等，还有一套」
-
-00:14.40-00:17.40
-换装完全在画外完成。沙发上多留约一秒空镜。随后响起一次短促流畅的换装「嗖」声，女主穿第二套酒红学院风造型从右侧走入。固定镜头先看到黑色西装下摆、酒红格纹裙、丝袜和乐福鞋，服装必须真实完整，不能在行走中融化或改变。
-
-00:17.40-00:19.00
-女主停在镜头右侧，略微调整站姿，让西装下摆和裙褶自然落下，询问：「这套呢？」
-字幕逐字显示：「这套呢？」
-
-00:19.50-00:20.50
-男主画外音立即赞赏：「这套也好看。」
-女主听完轻轻笑一下，身体开始降低准备坐下。
-字幕逐字显示：「这套也好看」
-
-00:20.50-00:24.80
-伴随轻微衣料摩擦声，女主迅速而自然地坐回沙发。她将黑色靠枕重新放在腿上，整理两侧头发和领带，随后微微侧身靠住沙发。镜头重新完整拍到她的脸。她始终看着镜头，表情自信、亲近、略带捉弄感。
-
-00:25.00-00:28.20
-女主抱住靠枕，先露出得意的小笑容，然后对镜头说：「机会用完啦。老公想留哪套呢？」
-「机会用完啦」语气像宣布游戏规则；「老公想留哪套呢」稍微放慢，尾音上扬，带亲密询问感。
-字幕逐字显示：「机会用完啦。
-老公想留哪套呢？」
-
-00:28.20-00:29.00
-字幕完整停留。女主保持眼神交流，轻轻偏头，嘴角维持俏皮微笑。波形逐渐归于平静，画面自然结束。
-
-音频：女主真实现场人声，口型精确；男主为镜头外中文男声，不露脸。保留轻微电子氛围音乐（对白时自动降低，权重提高）、换装「嗖」声、亮相提示音、衣料摩擦声，所有对白清楚可辨。
-
-表演约束：女主不是夸张卖萌。微笑、点头、整理头发、展示服装均自然克制；开场亲切，第一次换装俏皮，第二次换装更自信，结尾带轻微捉弄感。男声说话时女主必须闭嘴并自然聆听。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Korean Girl’s Early-2000s Birthday Celebration
 
@@ -4788,6 +4788,49 @@ Audio: Soft magical background music, gentle nighttime ambience, cute baby sound
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-dd9889bf2c2c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A girl in a blue gown fights students with a floral magic sword
+
+> This is AI video absolute masterpiece 🔥 Geranted with Seedance 2.5 Prompt 👇
+
+[<img src="https://media.goodcase.ai/cases/bd6273343ddf.jpg" width="600" alt="A girl in a blue gown fights students with a floral magic sword">](https://goodcase.ai/cases/seedance-2-5-create-an-80-second-cinematic-korean-fantasy-action-scene-with-photorealistic-v-438797e2b058?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AizaAi12 | **Source:** [Original](https://x.com/AizaAi12/status/2116354072441970926) | **Published:** 2026-10-31 | **Heat:** 86
+
+<details>
+<summary><b>Full prompt (25 lines, click to expand)</b></summary>
+
+```
+Create an 80-second cinematic Korean fantasy action scene with photorealistic visuals, dramatic lighting, dynamic camera movements, and high-quality K-drama cinematography.
+
+Scene 1 — The Secret Encounter:
+Inside a dimly lit school sports equipment storage room, a group of male students wearing black school uniforms gather among shelves filled with basketballs, volleyballs, and sports equipment. They are talking and behaving confidently in the cramped room. The atmosphere feels tense and mysterious.
+
+Scene 2 — The Mysterious Girl Arrives:
+The storage room door slowly opens, revealing a beautiful young Korean woman wearing an elegant traditional-inspired pastel-blue gown with delicate floral embroidery, sheer pale-pink sleeves, and a decorative hair ornament. Her black hair is neatly tied into a sophisticated bun. Soft daylight illuminates her face as she calmly enters the room. The students turn around in surprise, staring at her in disbelief.
+
+Scene 3 — An Unexpected Transformation:
+The girl walks forward gracefully, maintaining a calm expression while the boys exchange confused glances. The contrast between her elegant appearance and the ordinary sports storage room creates a surreal, supernatural atmosphere. Use cinematic close-ups of her face, the students' shocked expressions, and her flowing dress.
+
+Scene 4 — Supernatural Martial Arts Action:
+Suddenly, the situation turns into a spectacular fantasy action sequence. The girl displays extraordinary speed, precision, and supernatural martial arts abilities. She effortlessly dodges attacks and sends several students flying toward the padded gym mats. Use fast tracking shots, dramatic slow motion, rapid camera movements, and realistic physical interactions. Her gown flows beautifully with every movement.
+
+Scene 5 — Magical Energy Attack:
+The girl prepares a powerful supernatural strike. A luminous pink-and-white energy vortex forms around her hand, swirling with sparkling particles and magical trails. She releases the energy toward her opponent, creating a dramatic shockwave. The surrounding walls appear to crack under the force of the magical impact. Show the energy swirling through the room with detailed particle effects, cinematic motion blur, and realistic lighting.
+
+Scene 6 — The Final Reveal:
+Cut between the girl's intense facial expressions and the shocked reaction of an elderly man in a formal dark suit. Finish with a close-up of the girl wearing a subtle, confident smile, her eyes glowing with mysterious power. End on a dramatic cinematic frame that leaves the viewer curious about her true identity and supernatural abilities.
+
+Visual Style: Ultra-realistic Korean fantasy action drama, premium K-drama cinematography, photorealistic characters, detailed facial expressions, elegant traditional-inspired clothing, realistic fabric movement, dramatic shadows, volumetric lighting, magical pink energy effects, high-speed action choreography, cinematic depth of field, smooth transitions, 4K ultra-HD quality, 16:9 widescreen aspect ratio.
+
+Audio: Dramatic orchestral background music, subtle room ambience, footsteps, fabric movement, whooshing action sounds, magical energy pulses, powerful impact effects, and suspenseful cinematic sound design.
+
+Important: Maintain consistent character appearances, realistic body proportions, coherent action choreography, natural facial expressions, and seamless scene transitions throughout the video. Avoid cartoonish visuals, distorted faces, extra limbs, unrealistic movements, and excessive visual effects.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-an-80-second-cinematic-korean-fantasy-action-scene-with-photorealistic-v-438797e2b058?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Baby Dragon Magically Gives a Young Woman a Golden Afro by the Fire
 
 > A magical baby dragon gives a young woman the most unexpected hairstyle transformation! 🐉✨ Made with Seedance 2.5 Prompt below ⤵️ 💬
@@ -4822,41 +4865,6 @@ Audio: gentle fireplace crackling, soft dragon chirps, a magical sparkling sound
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-video-prompt-95f4064ef712?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Devil Woman and Monsters in Halloween Night Mayhem
-
-> Bro, this is NOT how Halloween was supposed to go Unlimited Seedance 2.5 on @makeugc prompt Video Prompt: STYLE: Photoreal raw flash footage, like a found Hallo…
-
-[<img src="https://media.goodcase.ai/cases/e251cf9af08a.jpg" width="600" alt="Devil Woman and Monsters in Halloween Night Mayhem">](https://goodcase.ai/cases/seedance-2-5-heavy-camcorder-noise-video-grain-slight-interlacing-smeared-motion-blur-au-334705abfd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2112154192534241709) | **Published:** 2026-10-19 | **Heat:** 86
-
-<details>
-<summary><b>Full prompt (17 lines, click to expand)</b></summary>
-
-```
-STYLE: Photoreal raw flash footage, like a found Halloween night tape. Shot on a cheap early-2000s consumer camcorder with a fisheye lens: strong barrel distortion, harsh on-camera flash/light blasting whatever is close to the lens with blown-out highlights and hard shadows, everything past a few meters falls off into an underexposed, near-black background. 
-
-Heavy camcorder noise, video grain, slight interlacing, smeared motion blur, auto-exposure pumping, occasional focus hunting, slightly crushed and green-tinted digital color. Chaotic documentary realism: the operator is a person running and reacting in real time, frantic handheld whip-pans, crash zooms, the camera bumping into things, subjects shoved right up into the fisheye lens. Meme energy: absurd moments played totally real. 
-
-FAST pace: hard jump cuts every 0.5-1 second, no transitions. No on-screen text, no timestamp overlay, no titles, no logos, no watermark. CAST: @image (15) the devil woman. 
-
-Dale the werewolf: a huge, hulking, shaggy grey-brown werewolf with glowing yellow eyes, a long snarling snout full of teeth, and matted fur. He wears a torn red varsity-style bowling jacket hanging off his massive frame, shredded at the sleeves. The skeletons: a trio of full-body human skeletons with bleached off-white bones, wearing mirrored aviator sunglasses and black tactical vests. One of them wears a bright orange baseball cap and white sneakers. The elderly witch: a frail, wrinkled old woman with wild grey hair, wearing a black feathered cape and sharp cat-eye glasses, with a pointed witch's hat and a crooked grin. The Headless Horseman: a tall rider in a burgundy velvet coat with no head, seated on a powerful black horse with a flowing mane. Shot 1 (0-2.2s): Flash-lit fisheye shot at a gas station at night, the devil woman bored against an old pickup, camera close on her face; out of the black behind her, the werewolf sprints into the flash and leaps straight at the lens; she swings up a shotgun and fires, muzzle flash whiting out the frame, camera knocked sideways. Shot 2 (2.2-2.8s): Whip-pan into a dark alley: three skeletons on a low wall lit only by the flash, one raises his rifle and they jump down at the camera. Shot 3 (2.8-3.6s): The devil woman leaps out of a black archway right past the lens, her red tulle skirt and sheer sleeves flaring and filling the frame, firing a rifle. Shot 4 (3.6-4s): Flash-blown close-up of muzzle flash and sparks, camera shaking. Shot 5 (4-5s): Running handheld through a dark farmyard toward a shed with propane tanks; the elderly witch zooms past the lens on a ride-on lawnmower, cape flapping, straight into the tanks. 
-
-Shot 6 (5-6s): Massive fireball overexposes the camera; the witch is blasted up into the black sky; operator falls back. Shot 7 (6-6.6s): Pitch black cornfield, flash pops on: her broom stabs into the dirt right in front of the lens. Shot 8 (6.6-7.8s): 
-
-City street at night, camera on the sidewalk; the Headless Horseman gallops inches past the fisheye lens holding a flaming jack-o'-lantern, fire flaring the image. Shot 9 (7.8-8.8s): 
-
-A parked old sedan explodes, camera recoils, image clips to white then auto-exposes back. Shot 10 (8.8-12.2s): Packed barn Halloween party, flash on, crowd in witch hats and bedsheet ghosts screaming and holding up phones. 
-
-Dance battle filmed from the front row: the devil woman, in her full devil costume with horns and heels, hits a sharp freeze right in the fisheye lens; the skeleton in the orange cap and white sneakers does a headspin, then collapses into a pile of loose bones. 
-
-Crowd goes insane, camera shaking. Shot 11 (12.2-14s): Camera drops to the floor: harsh flash on scattered bones, the skull rolls straight into the lens and stops, distorted by the fisheye, background black. Hold. AUDIO: Raw camcorder mic audio, clipping and distorted: wind, werewolf roar, shotgun blast, people yelling 'YO!', lawnmower engine, explosions blowing out the mic, hooves, party crowd screaming, bones clattering, skull rolling. No music, no score.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-heavy-camcorder-noise-video-grain-slight-interlacing-smeared-motion-blur-au-334705abfd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · **Part 1** · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md)

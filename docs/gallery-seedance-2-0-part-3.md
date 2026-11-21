@@ -160,6 +160,56 @@ She lands on a rooftop, stands with arms outstretched in triumph, hair blowing, 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mayaaicreator-seedance-ai-701e2e12eda3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 2000s MiniDV Han River Bike Ride
+
+> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
+
+[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 21
+
+**Stability:** 66/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 65.9) · [output](https://media.goodcase.ai/retests/2000-minidv-5cceb6310905/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (28 lines, click to expand)</b></summary>
+
+```
+Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
+
+Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
+
+Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
+
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
+
+00:00–00:03
+She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
+
+00:03–00:06
+She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
+
+00:06–00:09
+She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
+
+00:09–00:12
+She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
+
+00:12–00:15
+She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
+
+Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
+
+Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### High-End Lipstick Beauty Ad
 
 > An 8-second premium UGC lipstick ad project featuring beauty shots, macro product close-ups, and studio lighting effects that express a luxury skincare aesthetic.
@@ -351,56 +401,6 @@ Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimba
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-3bdeb046587d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 2000s MiniDV Han River Bike Ride
-
-> A comprehensive multi-scene prompt designed for Seedance 2.0, intended to mimic the nostalgic handheld MiniDV home-video style of 2004.
-
-[<img src="https://media.goodcase.ai/media/poster/2000-minidv-5cceb6310905.jpg" width="600" alt="2000s MiniDV Han River Bike Ride">](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ZephyraLeigh | **Source:** [Original](https://x.com/ZephyraLeigh/status/2081195428922708039) | **Published:** 2026-07-26 | **Heat:** 20
-
-**Stability:** 66/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 65.9) · [output](https://media.goodcase.ai/retests/2000-minidv-5cceb6310905/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (28 lines, click to expand)</b></summary>
-
-```
-Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
-
-Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
-
-Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
-
-Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
-
-00:00–00:03
-She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
-
-00:03–00:06
-She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
-
-00:06–00:09
-She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
-
-00:09–00:12
-She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
-
-00:12–00:15
-She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
-
-Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
-
-Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/2000-minidv-5cceb6310905?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Mango Juice Commercial
 
@@ -650,6 +650,47 @@ Cozy, wholesome, funny, spontaneous, highly realistic, authentic camcorder diary
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/pov-vlog-c94d5709daa4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Smartwatch Product Lifestyle Ad
+
+> A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
+
+[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2080519081959276735) | **Published:** 2026-07-24 | **Heat:** 19
+
+**Stability:** 75/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.7) · [output](https://media.goodcase.ai/retests/case-146e12082f4d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (19 lines, click to expand)</b></summary>
+
+```
+Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
+
+The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
+
+A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
+
+She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
+
+The scene transitions to a stylish café where she effortlessly pays for her coffee using the smartwatch. Cinematic close-ups highlight the contactless payment animation, subtle wrist gestures, and premium design.
+
+Later she walks through vibrant city streets, using the smartwatch for navigation, controlling her music, reading messages, checking the weather, and setting reminders. Natural lifestyle moments show her confidently interacting with the watch without ever reaching for her phone.
+
+Golden hour arrives as she relaxes on a rooftop overlooking the city skyline. She raises her wrist toward the sunset, and the smartwatch display transitions into a beautiful golden watch face. Macro shots emphasize the premium craftsmanship, slim profile, sapphire glass reflections, and luxury finish.
+
+The final cinematic hero shot shows her smiling warmly toward the camera while gently holding her wrist forward, making the smartwatch the focal point. The camera slowly circles around her before pulling back to reveal the glowing city skyline bathed in golden evening light.
+
+Natural ambient audio only: birds chirping, footsteps, gentle breeze, smartwatch tap sounds, subtle notification chimes, café ambience, coffee machine sounds, city ambience, leaves rustling. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
+
+Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinematography, smooth handheld and gimbal camera movement, cinematic push-ins, elegant orbit shots, realistic skin texture, physically accurate lighting, shallow depth of field, luxury lifestyle aesthetic, photorealistic product reflections, 4K HDR, 24fps, 16:9 widescreen.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Taoist Warrior and Giant on a Mountain Road Chase
 
 > Incredible character visuals and dialogue that actually hits! 🎬🔥 Stop wasting tokens on endless prompt tweaks. Seedanc
@@ -736,47 +777,6 @@ Create a 35-second anime/Ghibli-inspired 2D commercial for Starbucks Bottled Cof
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/starbucks-739b454ab5c1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Smartwatch Product Lifestyle Ad
-
-> A premium smartwatch lifestyle advertising prompt featuring a young woman in various everyday scenarios, with extremely high production quality.
-
-[<img src="https://media.goodcase.ai/media/poster/case-146e12082f4d.jpg" width="600" alt="Smartwatch Product Lifestyle Ad">](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2080519081959276735) | **Published:** 2026-07-24 | **Heat:** 18
-
-**Stability:** 75/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.7) · [output](https://media.goodcase.ai/retests/case-146e12082f4d/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (19 lines, click to expand)</b></summary>
-
-```
-Create an ultra-realistic premium smartwatch commercial featuring the same young Korean woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing glass skin, natural makeup, and body proportions in every shot. She wears a fitted white athletic crop top, high-waisted beige tennis skirt, white sneakers, delicate gold hoop earrings, and a premium silver smartwatch on her wrist. Bright summer morning, luxury lifestyle aesthetic, premium commercial cinematography, ultra-realistic storytelling.
-
-The video opens with the young Korean woman already in frame, smiling naturally toward the camera while walking through a beautiful tree-lined city street. As she approaches the camera, she gracefully raises her wrist toward the lens, revealing the premium smartwatch catching the warm morning sunlight. She gently taps the display, and the screen instantly lights up with an elegant animation. She smiles confidently and says, "Let's make today count."
-
-A cinematic macro hero shot showcases the smartwatch from every angle. Close-ups reveal the premium metal frame, crystal-clear display, rotating crown, textured strap, elegant reflections, and beautifully animated watch face as sunlight glides across the polished surface.
-
-She continues her morning jog through peaceful parks while the smartwatch tracks her pace, heart rate, calories, and distance. Smooth tracking shots capture her checking workout progress, receiving encouraging fitness notifications, and smiling naturally as she enjoys the run.
-
-The scene transitions to a stylish café where she effortlessly pays for her coffee using the smartwatch. Cinematic close-ups highlight the contactless payment animation, subtle wrist gestures, and premium design.
-
-Later she walks through vibrant city streets, using the smartwatch for navigation, controlling her music, reading messages, checking the weather, and setting reminders. Natural lifestyle moments show her confidently interacting with the watch without ever reaching for her phone.
-
-Golden hour arrives as she relaxes on a rooftop overlooking the city skyline. She raises her wrist toward the sunset, and the smartwatch display transitions into a beautiful golden watch face. Macro shots emphasize the premium craftsmanship, slim profile, sapphire glass reflections, and luxury finish.
-
-The final cinematic hero shot shows her smiling warmly toward the camera while gently holding her wrist forward, making the smartwatch the focal point. The camera slowly circles around her before pulling back to reveal the glowing city skyline bathed in golden evening light.
-
-Natural ambient audio only: birds chirping, footsteps, gentle breeze, smartwatch tap sounds, subtle notification chimes, café ambience, coffee machine sounds, city ambience, leaves rustling. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
-
-Style: Premium luxury smartwatch advertisement, ultra-realistic commercial cinematography, smooth handheld and gimbal camera movement, cinematic push-ins, elegant orbit shots, realistic skin texture, physically accurate lighting, shallow depth of field, luxury lifestyle aesthetic, photorealistic product reflections, 4K HDR, 24fps, 16:9 widescreen.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-146e12082f4d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 3D Baking Animation Sequence
 
@@ -1103,6 +1103,77 @@ Negative Prompt: No text, no captions, no subtitles, no logos, no product labels
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ugc-34764467dea1?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Glitch Art Multi-Dimensional Face Transformation
+
+> An experimental glitch-style prompt that uses rhythmic jump cuts to switch between 3D CG, live action, animation, and pixel art.
+
+[<img src="https://media.goodcase.ai/media/poster/case-5c32e2bac894.jpg" width="600" alt="Glitch Art Multi-Dimensional Face Transformation">](https://goodcase.ai/cases/case-5c32e2bac894?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Ushizaru_LAB | **Source:** [Original](https://x.com/Ushizaru_LAB/status/2081258810405175362) | **Published:** 2026-07-26 | **Heat:** 16
+
+**Stability:** 74/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 73.5) · [output](https://media.goodcase.ai/retests/case-5c32e2bac894/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+ストップモーションのようなリズミカルな接近の後、顔の造形が変わることも厭わず、3DCG・実写・2000年代アニメ・ドット絵などの全く異なる次元（2D⇔3D）を激しく往復するグリッチ映像。最後はブラウザクラッシャー的な画面崩壊で終わる。映像コンセプト：滑らかなカメラ移動を完全に排除し、「パッ！パッ！パッ！」というリズムでカメラが段階的に顔へ接近（ジャンプカット）する。接近後、少女の顔は「元の顔立ち」を保つ必要はない。画面全体を巻き込んで、立体的な3DCG、生々しい実写、2000年代風のアニメ美少女、平面的なレトロドット絵といった「全く異なる絵柄と次元（2D⇔3D）」へと、ハードカットで何度も激しくすり替わり（往復し）続ける。カメラと編集方針：【超重要：滑らかな変化やズームインは絶対NG。コマ撮りのようなジャンプカットでの接近と、別次元の絵柄への「完全な切り替え」によって構成すること。】0.0〜3.0秒：【ストップモーション接近】1枚目の映像からスタート。カメラが滑らかに近づくのではなく、0.5秒間隔の一定のリズムで「パッ！パッ！パッ！パッ！」と段階的に顔へ向かってジャンプカットして迫っていく。各カットが切り替わる瞬間、強烈な色収差（RGBズレ）のノイズが走る。3.0〜8.0秒：【次元崩壊・絵柄の完全すり替え】顔のドアップ状態に到達。ここから、顔の造形が変わることも構わず、映像のレンダリングスタイル自体が0.5秒〜1秒単位でバチバチと切り替わり（往復し）続ける。「立体ポリゴン的な3DCG」→「超高精細な実写の人間」→「2000年代風のセル画アニメの美少女キャラクター（2D）」→「真っ平らなレトロドット絵（2D）」というように、3Dと2Dの次元を跨いだ全く別の絵柄へと、フラッシュを伴って強制的にすり替わる。8.0〜10.0秒：【ブラクラ的崩壊エンド】激しい絵柄の往復が処理限界を超え、映像が完全に崩壊する。顔の映像を下敷きにして、その上に「大量のエラーウィンドウ」「異なる映像表現の動画パネル」「極彩色のブロックノイズ」がブラクラ（ブラウザクラッシャー）のように多層レイヤーで無秩序にポップアップし続ける。画面全体がバグ動画コラージュで完全に埋め尽くされ、元の映像の形を一切留めないカオス的崩壊画面となる制約：中盤の絵柄の変化において、「元の顔のシルエットを保とうとする滑らかな変化」は絶対に不要。造形が変わってもよいので、「立体（3D）」と「平面（2D）」、そして「実写」「2000年代アニメ」という、次元の異なるレンダリングスタイルへの『完全なハードカット（すり替え）』を何度も激しく繰り返すこと。
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-5c32e2bac894?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Coca-Cola Fashion Transition Ad
+
+> A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
+
+[<img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="600" alt="Coca-Cola Fashion Transition Ad">](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2079810430252331482) | **Published:** 2026-07-22 | **Heat:** 16
+
+<details>
+<summary><b>Full prompt (35 lines, click to expand)</b></summary>
+
+```
+【风格】潮流饮料变装广告（Fashion Transition Ad），竖屏9:16，真实摄影（Photorealistic）+ 平面抠像拼贴风（Cutout Collage Graphic），丝滑卡点变装，8K超清，可乐红#E61A27/纯黑/纯白三色体系
+【时长】15秒
+【场景】开场为纯白摄影棚背景；第2秒起切换为可乐红纯色背景+画面中央巨大白色曲线可乐瓶形抠像框（经典弧线瓶身剪影），背景压一层深红色"COLA"斜体大字；全程无真实品牌logo
+【角色】主角@图片1（保持参考图容貌与发型；开场穿黑色插肩长袖+黑色阔腿短裤；各段变装均为红黑白配色）
+
+[00:00-00:02] 镜头1：拧盖卡点（White Studio Open）
+纯白背景中景：主角@图片1手持无标识可乐瓶（深棕色汽水+红色瓶标），双臂交叉做两次卡点拧盖动作，第三拍"啵"一声拧开瓶盖，气泡嘶声升起。
+音效：两声节拍音、瓶盖"啵"、碳酸气泡嘶嘶声。
+
+[00:02-00:03] 镜头2：一口切世界（Snap Transition）
+她仰头喝一口，吞咽瞬间背景"啪"地整体切换：可乐红背景+白色瓶形抠像框罩住全身，深红"COLA"斜体字横贯背景。
+音效：吞咽声+重低音"咚"一声定格。
+
+[00:03-00:07] 镜头3：变装1·街头节奏（Transition Pop / Floating Props）
+瞬切变装：反戴红色棒球帽、头架白色墨镜、黑色马甲叠穿红色背心、白底黑波点裤袜+黑色短裤、红色厚底鞋，手持可乐瓶。
+她在瓶形框内做轻快跳跃舞步：单脚跳、扭胯、举瓶摆拍。
+周围漂浮红白配色道具：磁带随身听、拍立得相机、头戴耳机、采样器，白色3D立体字"气泡拉满"分布四角。
+音效：卡点节拍+道具飞入的"咻咻"声。
+
+[00:07-00:10] 镜头4：变装2·活力当下（Kick Jump Pose）
+瞬切变装：白色棒球帽、白T印红色图案、红黑外套系在腰间、黑色短裤、红色高帮帆布鞋。
+她做踢腿跳跃定格姿态，随后落地转身摆胯。
+漂浮道具换成：红色帆布鞋、白色鸭舌帽、红白相机、墨镜，3D立体字换为"痛快当夏"。
+音效：节拍延续+跳跃落地"砰"。
+
+[00:10-00:13] 镜头5：变装3·夏日漂浮（Floating Summer）
+瞬切变装：白色一字肩短上衣、红白条纹短裤、赤足，身体呈漂浮泳姿斜躺在瓶形框中，手持可乐瓶。
+周围漂浮：红白条纹泳圈、小黄鸭、红色人字拖、白色网兜包，3D立体字"离开地心引力"。
+音效：节拍转轻盈+水泡"咕噜"声。
+
+[00:13-00:15] 镜头6：产品海报收尾（End Card）
+瞬切至海报画面：红黑斜切双色背景，中央一瓶无标识可乐瓶特写（深棕汽水、红瓶标、白色"COLA"字样），瓶身挂着细密水珠。
+白色斜体大字从两侧弹入："可乐爽人瓶"，下方一行小字"#爽出你的痛快#"。
+画面定格，不淡出。
+音效：最后一记重音+气泡嘶声收尾。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Fashion UGC Ad
 
 > A user-generated content (UGC) style fashion ad prompt for showcasing an elegant dress, requiring natural motion effects and a realistic smartphone-shot aesthetic.
@@ -1200,24 +1271,6 @@ Create a whimsical, cinematic claymation-style animation of a playful black-and-
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/luxury-rooftop-helicopter-party?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Glitch Art Multi-Dimensional Face Transformation
-
-> An experimental glitch-style prompt that uses rhythmic jump cuts to switch between 3D CG, live action, animation, and pixel art.
-
-[<img src="https://media.goodcase.ai/media/poster/case-5c32e2bac894.jpg" width="600" alt="Glitch Art Multi-Dimensional Face Transformation">](https://goodcase.ai/cases/case-5c32e2bac894?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Ushizaru_LAB | **Source:** [Original](https://x.com/Ushizaru_LAB/status/2081258810405175362) | **Published:** 2026-07-26 | **Heat:** 15
-
-**Stability:** 74/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 73.5) · [output](https://media.goodcase.ai/retests/case-5c32e2bac894/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-ストップモーションのようなリズミカルな接近の後、顔の造形が変わることも厭わず、3DCG・実写・2000年代アニメ・ドット絵などの全く異なる次元（2D⇔3D）を激しく往復するグリッチ映像。最後はブラウザクラッシャー的な画面崩壊で終わる。映像コンセプト：滑らかなカメラ移動を完全に排除し、「パッ！パッ！パッ！」というリズムでカメラが段階的に顔へ接近（ジャンプカット）する。接近後、少女の顔は「元の顔立ち」を保つ必要はない。画面全体を巻き込んで、立体的な3DCG、生々しい実写、2000年代風のアニメ美少女、平面的なレトロドット絵といった「全く異なる絵柄と次元（2D⇔3D）」へと、ハードカットで何度も激しくすり替わり（往復し）続ける。カメラと編集方針：【超重要：滑らかな変化やズームインは絶対NG。コマ撮りのようなジャンプカットでの接近と、別次元の絵柄への「完全な切り替え」によって構成すること。】0.0〜3.0秒：【ストップモーション接近】1枚目の映像からスタート。カメラが滑らかに近づくのではなく、0.5秒間隔の一定のリズムで「パッ！パッ！パッ！パッ！」と段階的に顔へ向かってジャンプカットして迫っていく。各カットが切り替わる瞬間、強烈な色収差（RGBズレ）のノイズが走る。3.0〜8.0秒：【次元崩壊・絵柄の完全すり替え】顔のドアップ状態に到達。ここから、顔の造形が変わることも構わず、映像のレンダリングスタイル自体が0.5秒〜1秒単位でバチバチと切り替わり（往復し）続ける。「立体ポリゴン的な3DCG」→「超高精細な実写の人間」→「2000年代風のセル画アニメの美少女キャラクター（2D）」→「真っ平らなレトロドット絵（2D）」というように、3Dと2Dの次元を跨いだ全く別の絵柄へと、フラッシュを伴って強制的にすり替わる。8.0〜10.0秒：【ブラクラ的崩壊エンド】激しい絵柄の往復が処理限界を超え、映像が完全に崩壊する。顔の映像を下敷きにして、その上に「大量のエラーウィンドウ」「異なる映像表現の動画パネル」「極彩色のブロックノイズ」がブラクラ（ブラウザクラッシャー）のように多層レイヤーで無秩序にポップアップし続ける。画面全体がバグ動画コラージュで完全に埋め尽くされ、元の映像の形を一切留めないカオス的崩壊画面となる制約：中盤の絵柄の変化において、「元の顔のシルエットを保とうとする滑らかな変化」は絶対に不要。造形が変わってもよいので、「立体（3D）」と「平面（2D）」、そして「実写」「2000年代アニメ」という、次元の異なるレンダリングスタイルへの『完全なハードカット（すり替え）』を何度も激しく繰り返すこと。
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-5c32e2bac894?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### High-End Lifestyle Lipstick Commercial Video
 
@@ -1329,66 +1382,13 @@ Anime visual reference sheet, Studio Ghibli art style, clean cream white backgro
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-fecae6e34928?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Coca-Cola Fashion Transition Ad
-
-> A comprehensive video generation prompt for creating a multi-scene Coca-Cola commercial, with collage-style graphics and rhythmic outfit transitions.
-
-[<img src="https://media.goodcase.ai/media/poster/case-887d0484c2ce.jpg" width="600" alt="Coca-Cola Fashion Transition Ad">](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2079810430252331482) | **Published:** 2026-07-22 | **Heat:** 15
-
-<details>
-<summary><b>Full prompt (35 lines, click to expand)</b></summary>
-
-```
-【风格】潮流饮料变装广告（Fashion Transition Ad），竖屏9:16，真实摄影（Photorealistic）+ 平面抠像拼贴风（Cutout Collage Graphic），丝滑卡点变装，8K超清，可乐红#E61A27/纯黑/纯白三色体系
-【时长】15秒
-【场景】开场为纯白摄影棚背景；第2秒起切换为可乐红纯色背景+画面中央巨大白色曲线可乐瓶形抠像框（经典弧线瓶身剪影），背景压一层深红色"COLA"斜体大字；全程无真实品牌logo
-【角色】主角@图片1（保持参考图容貌与发型；开场穿黑色插肩长袖+黑色阔腿短裤；各段变装均为红黑白配色）
-
-[00:00-00:02] 镜头1：拧盖卡点（White Studio Open）
-纯白背景中景：主角@图片1手持无标识可乐瓶（深棕色汽水+红色瓶标），双臂交叉做两次卡点拧盖动作，第三拍"啵"一声拧开瓶盖，气泡嘶声升起。
-音效：两声节拍音、瓶盖"啵"、碳酸气泡嘶嘶声。
-
-[00:02-00:03] 镜头2：一口切世界（Snap Transition）
-她仰头喝一口，吞咽瞬间背景"啪"地整体切换：可乐红背景+白色瓶形抠像框罩住全身，深红"COLA"斜体字横贯背景。
-音效：吞咽声+重低音"咚"一声定格。
-
-[00:03-00:07] 镜头3：变装1·街头节奏（Transition Pop / Floating Props）
-瞬切变装：反戴红色棒球帽、头架白色墨镜、黑色马甲叠穿红色背心、白底黑波点裤袜+黑色短裤、红色厚底鞋，手持可乐瓶。
-她在瓶形框内做轻快跳跃舞步：单脚跳、扭胯、举瓶摆拍。
-周围漂浮红白配色道具：磁带随身听、拍立得相机、头戴耳机、采样器，白色3D立体字"气泡拉满"分布四角。
-音效：卡点节拍+道具飞入的"咻咻"声。
-
-[00:07-00:10] 镜头4：变装2·活力当下（Kick Jump Pose）
-瞬切变装：白色棒球帽、白T印红色图案、红黑外套系在腰间、黑色短裤、红色高帮帆布鞋。
-她做踢腿跳跃定格姿态，随后落地转身摆胯。
-漂浮道具换成：红色帆布鞋、白色鸭舌帽、红白相机、墨镜，3D立体字换为"痛快当夏"。
-音效：节拍延续+跳跃落地"砰"。
-
-[00:10-00:13] 镜头5：变装3·夏日漂浮（Floating Summer）
-瞬切变装：白色一字肩短上衣、红白条纹短裤、赤足，身体呈漂浮泳姿斜躺在瓶形框中，手持可乐瓶。
-周围漂浮：红白条纹泳圈、小黄鸭、红色人字拖、白色网兜包，3D立体字"离开地心引力"。
-音效：节拍转轻盈+水泡"咕噜"声。
-
-[00:13-00:15] 镜头6：产品海报收尾（End Card）
-瞬切至海报画面：红黑斜切双色背景，中央一瓶无标识可乐瓶特写（深棕汽水、红瓶标、白色"COLA"字样），瓶身挂着细密水珠。
-白色斜体大字从两侧弹入："可乐爽人瓶"，下方一行小字"#爽出你的痛快#"。
-画面定格，不淡出。
-音效：最后一记重音+气泡嘶声收尾。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-887d0484c2ce?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Influencer Luxury Villa Tour
 
 > A detailed multi-shot video prompt simulating iPhone 16 Pro footage, showing a female influencer introducing a modern cliffside villa, with specific dialogue and timeline transitions.
 
 [<img src="https://media.goodcase.ai/media/poster/case-80317051f9f3.jpg" width="600" alt="Influencer Luxury Villa Tour">](https://goodcase.ai/cases/case-80317051f9f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2077516915195736088) | **Published:** 2026-07-15 | **Heat:** 14
+**Author:** @techhalla | **Source:** [Original](https://x.com/techhalla/status/2077516915195736088) | **Published:** 2026-07-15 | **Heat:** 15
 
 **Stability:** 81/100
 
@@ -1424,6 +1424,51 @@ Real iPhone 16 Pro footage look, natural bright daylight, authentic mobile camer
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-80317051f9f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Seedance 2.0 Cola Commercial Video
+
+> A comprehensive multi-scene video prompt written for Seedance 2.0, designed to create a high-energy commercial while ensuring consistent character features and creative transition effects.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-0-181cb461432f.jpg" width="600" alt="Seedance 2.0 Cola Commercial Video">](https://goodcase.ai/cases/seedance-2-0-181cb461432f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2079547623917195490) | **Published:** 2026-07-21 | **Heat:** 14
+
+**Stability:** 75/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.6) · [output](https://media.goodcase.ai/retests/seedance-2-0-181cb461432f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (23 lines, click to expand)</b></summary>
+
+```
+Referencing the face, hairstyle, and body proportions of image_1 — this exact young Asian woman with shoulder-length black hair with bangs, delicate features, and slender figure must remain 100% identical across all outfit changes. Face never changes. 9:16 vertical, 15 seconds, high-saturation commercial style: photo-realistic character on flat graphic animation backgrounds, red-black-white color palette.
+
+[0–1.7s] Pure white studio background. Full-body 35mm shot. Character wears simple grey-black outfit, faces camera, holds a transparent plastic cola bottle filled with deep-brown carbonated liquid, red label, red cap. She leans in and twists the cap open with effort.
+
+[1.7–2.2s] Cap pops off with a burst — dense bubbles rush upward, cold mist sprays out. Her face shows delighted surprise. A red flash wipes the frame.
+
+[2.2–3.5s] Background instantly transforms: deep crimson flat-design. A giant matte-black cola bottle silhouette dominates center frame. Character shrinks and stands inside the silhouette, tilts head back to drink. Bold red and black geometric shapes slide rapidly behind her.
+
+[3.5–4s] A giant condensation-covered cola bottle sweeps horizontally across the full frame at high speed with motion blur — TRANSITION 1.
+
+[4–6s] Bottle clears. OUTFIT 1 — sporty sweet: red-black cropped top, black shorts, red cap, black sneakers. Same face. She raises one leg, holds cola bottle, energetic jump pose. Floating props: red headphones, black camera, ice cubes, red bottle caps.
+
+[6–8s] Cola bubbles explode across frame — TRANSITION 2. OUTFIT 2 — street casual: black oversized tee with red graphic, black wide shorts, red jacket tied at waist, red-black sneakers. Same face. She spins, lands, turns back to camera and raises cola bottle with cool confidence.
+
+[8–10s] Giant red bottle cap spins into frame — TRANSITION 3. OUTFIT 3 — hot athletic: red off-shoulder crop top, black high-waist shorts, red-black wristbands, black ankle boots. Same face. She leaps sideways mid-air, one hand drinking from cola. Floating: skewers, straws, ice cubes, cola bubbles.
+
+[10–12s] Dark brown cola liquid splashes across body — TRANSITION 4. OUTFIT 4 — cool summer: black cropped top with red trim, red-black shorts, light summer shoes. Same face. Hair gently blown by air current. She floats sideways, holds cola bottle. Floating: red-black swim ring, sunglasses, walkman, small tote bag.
+
+[12–13s] A giant ice-frosted cola bottle rises fast from bottom of frame. Character shrinks, floats beside the bottle. Red-black accessories explode outward in a shockwave. Background: deep red and black diagonal geometric blocks.
+
+[13–15s] Cut to product close-up: cola bottle front view, transparent body filled with deep-brown carbonated liquid, dense fine bubbles rising continuously, real condensation droplets coating the glass, red label with clean white 'COLA' text only. Black ice cubes and red bottle cap float around it. Character peeks from behind the bottle, smiling warmly, raises the cola joyfully, and says with accurate lip-sync: '啊——爽！'
+
+Camera: fixed frontal composition throughout, 35mm full-body for character shots, 50mm product close-up for final. All outfit transitions use in-frame occlusion only — bottle sweep, bubble burst, cap spin, liquid splash — never direct cut. All action beats hit heavy bass downbeats. Character face, hairstyle, and body proportions are identical in every shot. No subtitles. No music. Sound: bottle pop 'bō', carbonation hiss, ice clink, bubble fizz, bass drum hit on each transition beat, brief whoosh on each change, final Chinese line lip-synced precisely.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-181cb461432f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Anime Floral Bookmark ASMR
 
@@ -1496,51 +1541,6 @@ Goal: A forgotten MiniDV home video from the mid-2000s capturing an ordinary aft
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-d346cb88c88e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.0 Cola Commercial Video
-
-> A comprehensive multi-scene video prompt written for Seedance 2.0, designed to create a high-energy commercial while ensuring consistent character features and creative transition effects.
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-2-0-181cb461432f.jpg" width="600" alt="Seedance 2.0 Cola Commercial Video">](https://goodcase.ai/cases/seedance-2-0-181cb461432f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2079547623917195490) | **Published:** 2026-07-21 | **Heat:** 13
-
-**Stability:** 75/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ⚠️ degraded (score 74.6) · [output](https://media.goodcase.ai/retests/seedance-2-0-181cb461432f/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (23 lines, click to expand)</b></summary>
-
-```
-Referencing the face, hairstyle, and body proportions of image_1 — this exact young Asian woman with shoulder-length black hair with bangs, delicate features, and slender figure must remain 100% identical across all outfit changes. Face never changes. 9:16 vertical, 15 seconds, high-saturation commercial style: photo-realistic character on flat graphic animation backgrounds, red-black-white color palette.
-
-[0–1.7s] Pure white studio background. Full-body 35mm shot. Character wears simple grey-black outfit, faces camera, holds a transparent plastic cola bottle filled with deep-brown carbonated liquid, red label, red cap. She leans in and twists the cap open with effort.
-
-[1.7–2.2s] Cap pops off with a burst — dense bubbles rush upward, cold mist sprays out. Her face shows delighted surprise. A red flash wipes the frame.
-
-[2.2–3.5s] Background instantly transforms: deep crimson flat-design. A giant matte-black cola bottle silhouette dominates center frame. Character shrinks and stands inside the silhouette, tilts head back to drink. Bold red and black geometric shapes slide rapidly behind her.
-
-[3.5–4s] A giant condensation-covered cola bottle sweeps horizontally across the full frame at high speed with motion blur — TRANSITION 1.
-
-[4–6s] Bottle clears. OUTFIT 1 — sporty sweet: red-black cropped top, black shorts, red cap, black sneakers. Same face. She raises one leg, holds cola bottle, energetic jump pose. Floating props: red headphones, black camera, ice cubes, red bottle caps.
-
-[6–8s] Cola bubbles explode across frame — TRANSITION 2. OUTFIT 2 — street casual: black oversized tee with red graphic, black wide shorts, red jacket tied at waist, red-black sneakers. Same face. She spins, lands, turns back to camera and raises cola bottle with cool confidence.
-
-[8–10s] Giant red bottle cap spins into frame — TRANSITION 3. OUTFIT 3 — hot athletic: red off-shoulder crop top, black high-waist shorts, red-black wristbands, black ankle boots. Same face. She leaps sideways mid-air, one hand drinking from cola. Floating: skewers, straws, ice cubes, cola bubbles.
-
-[10–12s] Dark brown cola liquid splashes across body — TRANSITION 4. OUTFIT 4 — cool summer: black cropped top with red trim, red-black shorts, light summer shoes. Same face. Hair gently blown by air current. She floats sideways, holds cola bottle. Floating: red-black swim ring, sunglasses, walkman, small tote bag.
-
-[12–13s] A giant ice-frosted cola bottle rises fast from bottom of frame. Character shrinks, floats beside the bottle. Red-black accessories explode outward in a shockwave. Background: deep red and black diagonal geometric blocks.
-
-[13–15s] Cut to product close-up: cola bottle front view, transparent body filled with deep-brown carbonated liquid, dense fine bubbles rising continuously, real condensation droplets coating the glass, red label with clean white 'COLA' text only. Black ice cubes and red bottle cap float around it. Character peeks from behind the bottle, smiling warmly, raises the cola joyfully, and says with accurate lip-sync: '啊——爽！'
-
-Camera: fixed frontal composition throughout, 35mm full-body for character shots, 50mm product close-up for final. All outfit transitions use in-frame occlusion only — bottle sweep, bubble burst, cap spin, liquid splash — never direct cut. All action beats hit heavy bass downbeats. Character face, hairstyle, and body proportions are identical in every shot. No subtitles. No music. Sound: bottle pop 'bō', carbonation hiss, ice clink, bubble fizz, bass drum hit on each transition beat, brief whoosh on each change, final Chinese line lip-synced precisely.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-181cb461432f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Blackboard Stick-Figure Karate Duel
 
@@ -1693,6 +1693,51 @@ Korean: "완성! 다음에 또 만나요. 안녕!"
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/k-pop-vlog-01673e48bc3c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Realistic Male Influencer Storyboard
+
+> A comprehensive set of multi-scene video prompts designed to ensure character consistency across different locations and outfits, including fast cuts and handheld camera movement effects.
+
+[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="Realistic Male Influencer Storyboard">](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Shorelyn_ | **Source:** [Original](https://x.com/Shorelyn_/status/2079066277650600170) | **Published:** 2026-07-20 | **Heat:** 12
+
+<details>
+<summary><b>Full prompt (27 lines, click to expand)</b></summary>
+
+```
+Character Consistency: The subject is the young male influencer from the reference image @Image 1. In every time period and from every angle, the face shape, facial features, and skin tone must match @Image 1 exactly. Do not alter or distort the face.
+
+Outfit: In every scene, wear stylish and luxurious black casual, streetwear, or suit outfits. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
+
+Format: 9:16 vertical.
+
+Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
+
+Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
+
+---
+
+M-01. Hongdae Busking Street & Tattoo Shop Tour
+
+0 to 2 seconds: [Hongdae Walking Street] A low angle shot holding a selfie stick high above while quickly spinning to capture both yourself and the crowd in the middle of a busy busking street.
+
+2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quick transition to your face looking at the camera while lightly biting your lip with a slightly nervous expression.
+
+4 to 6 seconds: [Tattoo Workstation] A forearm shot rolling up the sleeve of an oversized black T shirt, rapidly cross edited with a shot of your face smiling while enduring the pain.
+
+6 to 8 seconds: [In Front of the Shop Mirror] A tight shot checking the linework of the newly completed tattoo in the mirror, followed by your face making eye contact with the camera through the mirror and nodding with satisfaction.
+
+8 to 10 seconds: [Hongdae Alley] A close up taking one bite of a street waffle, then blowing on it because it is hot while smiling at the camera.
+
+10 to 12 seconds: [Select Shop Hallway] A handheld tracking shot from behind as you walk slowly with a shopping bag over one shoulder. The screen naturally shakes in sync with your footsteps.
+
+12 to 15 seconds: [Hongdae Station Entrance] In front of the station exit, playfully extend your fiste toward the camera in a fist bump pose. End with a front facing full body shot frozen on the final frame.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Hand-Drawn Stop Motion: Blizzard Scene
 
 > A refined stop-motion animation prompt designed for Seedance 2.0, aiming to present a hand-drawn 2D style and depict a wolf pack attacking a Kazakh yurt camp in a blizzard.
@@ -1799,51 +1844,6 @@ Create an epic cinematic 3D animation/VFX camera showcase featuring a golden Gar
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/vfx-47bf458a20a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Realistic Male Influencer Storyboard
-
-> A comprehensive set of multi-scene video prompts designed to ensure character consistency across different locations and outfits, including fast cuts and handheld camera movement effects.
-
-[<img src="https://media.goodcase.ai/media/poster/case-58e736edb65c.jpg" width="600" alt="Realistic Male Influencer Storyboard">](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Shorelyn_ | **Source:** [Original](https://x.com/Shorelyn_/status/2079066277650600170) | **Published:** 2026-07-20 | **Heat:** 11
-
-<details>
-<summary><b>Full prompt (27 lines, click to expand)</b></summary>
-
-```
-Character Consistency: The subject is the young male influencer from the reference image @Image 1. In every time period and from every angle, the face shape, facial features, and skin tone must match @Image 1 exactly. Do not alter or distort the face.
-
-Outfit: In every scene, wear stylish and luxurious black casual, streetwear, or suit outfits. Do not wear the outfit from the character reference sheet. Completely change the outfit and hairstyle for each segment.
-
-Format: 9:16 vertical.
-
-Camera / Style: Fast editing rhythm with cuts every 0.5 to 1 second. iPhone handheld vertical shooting texture. Mix digital zoom in, zoom out, and tilt up, with natural camera shake. Include autofocus hunting, indoor and outdoor lighting exposure changes, and image quality degradation during zoom adjustments. Preserve real skin texture including pores, beard shadow, flyaway hairs, and natural skin oil. Do not use beauty filters, excessive skin retouching, CGI textures, or cinematic color grading. Do not merge cuts or omit scenes. Do not insert on screen text.
-
-Sound: Trendy hip hop or R&B background music mixed with natural environmental sounds such as street noise, footsteps, and everyday ambient sounds.
-
----
-
-M-01. Hongdae Busking Street & Tattoo Shop Tour
-
-0 to 2 seconds: [Hongdae Walking Street] A low angle shot holding a selfie stick high above while quickly spinning to capture both yourself and the crowd in the middle of a busy busking street.
-
-2 to 4 seconds: [Tattoo Shop Waiting Room] A tight shot pointing at the tattoo designs hanging on the wall with your finger, followed by a quick transition to your face looking at the camera while lightly biting your lip with a slightly nervous expression.
-
-4 to 6 seconds: [Tattoo Workstation] A forearm shot rolling up the sleeve of an oversized black T shirt, rapidly cross edited with a shot of your face smiling while enduring the pain.
-
-6 to 8 seconds: [In Front of the Shop Mirror] A tight shot checking the linework of the newly completed tattoo in the mirror, followed by your face making eye contact with the camera through the mirror and nodding with satisfaction.
-
-8 to 10 seconds: [Hongdae Alley] A close up taking one bite of a street waffle, then blowing on it because it is hot while smiling at the camera.
-
-10 to 12 seconds: [Select Shop Hallway] A handheld tracking shot from behind as you walk slowly with a shopping bag over one shoulder. The screen naturally shakes in sync with your footsteps.
-
-12 to 15 seconds: [Hongdae Station Entrance] In front of the station exit, playfully extend your fiste toward the camera in a fist bump pose. End with a front facing full body shot frozen on the final frame.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-58e736edb65c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Wireless Earbuds Product Review
 
@@ -2020,6 +2020,26 @@ Avoid: moving camera, zooming, human hands, floating cards, cards flying away, m
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/water-walking-xianxia-fraud?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Phoenix Knight Transformation Sequence
+
+> A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
+
+[<img src="https://media.goodcase.ai/cases/07e4250125ea.jpg" width="600" alt="Phoenix Knight Transformation Sequence">](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @LudovicCreator | **Source:** [Original](https://x.com/LudovicCreator/status/2081092171428401560) | **Published:** 2026-07-25 | **Heat:** 9
+
+**Stability:** 88/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 88.1) · [output](https://media.goodcase.ai/retests/case-4306bf4e075c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+```
+Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere
+
+Made  in @LumaLabsAI #LumaCPP
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Cinematic Night Chase Shot
 
 > A fast-paced cinematic night chase sequence featuring extreme close-ups and rhythmic camera-flash effects.
@@ -2186,26 +2206,6 @@ Sound: Wood creak, plank snap, rope fray, running footsteps, landing thud, silen
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-a9ab0266f96a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Phoenix Knight Transformation Sequence
-
-> A detailed cinematic prompt for a magical transformation sequence, despite the text attributing it to other models.
-
-[<img src="https://media.goodcase.ai/cases/07e4250125ea.jpg" width="600" alt="Phoenix Knight Transformation Sequence">](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @LudovicCreator | **Source:** [Original](https://x.com/LudovicCreator/status/2081092171428401560) | **Published:** 2026-07-25 | **Heat:** 8
-
-**Stability:** 88/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 88.1) · [output](https://media.goodcase.ai/retests/case-4306bf4e075c/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-```
-Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere
-
-Made  in @LumaLabsAI #LumaCPP
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-4306bf4e075c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Epic Knight Battle on a Ruined Bridge
 
@@ -3360,6 +3360,42 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/cinematic-anime-martial-arts-training-ground?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Photorealistic Wireless Earbuds Commercial
+
+> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
+
+[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @hiapi_ai | **Source:** [Original](https://x.com/hiapi_ai/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 3
+
+**Stability:** 73/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (14 lines, click to expand)</b></summary>
+
+```
+生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
+
+主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
+
+产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
+
+0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
+3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
+6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
+
+9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
+12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
+
+声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Emotional Kyoto Travel Vlog Animation
 
 > A video generation prompt designed for Seedance 2.0, intended to turn a series of photo snapshots into a coherent and emotional travel vlog with a natural handheld camera feel.
@@ -3544,42 +3580,6 @@ Ultra-cinematic FPV drone flight through New York City during golden hour, hyper
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/fpv-cd4a852a53ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Photorealistic Wireless Earbuds Commercial
-
-> A detailed storyboard prompt for a 15-second photorealistic wireless-earbuds commercial featuring a female designer in an urban setting.
-
-[<img src="https://media.goodcase.ai/media/poster/case-96017ad7706f.jpg" width="600" alt="Photorealistic Wireless Earbuds Commercial">](https://goodcase.ai/cases/case-96017ad7706f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @hiapi_ai | **Source:** [Original](https://x.com/hiapi_ai/status/2081294040415482322) | **Published:** 2026-07-26 | **Heat:** 2
-
-**Stability:** 73/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-06 · ⚠️ degraded (score 72.7) · [output](https://media.goodcase.ai/retests/case-96017ad7706f/video-minimax-h3-768p-20260906-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (14 lines, click to expand)</b></summary>
-
-```
-生成 15 秒、9:16、超写实的原创真无线耳机广告。克制、安静、城市呼吸感。
-
-主角：28 岁东亚女性平面设计师，黑色短发、自然肤色，炭灰衬衫 + 白背心 + 深色直筒裤 + 低帮帆布鞋。全片脸、发型、服装、身材必须一致。
-
-产品：雾面深灰耳机，极细暖铜金属边；扁平圆角深灰磨砂充电盒，内侧琥珀色反光。无品牌、Logo、文字、UI。
-
-0–3 秒：清晨冷蓝室内，固定中景看向靠窗工作桌；素描本、水杯、打开的耳机盒。她戴上一只耳机，拿起素描本离开。
-3–6 秒：地下通道低机位跟拍脚步，人流从两侧掠过；她轻触耳机一次，短推近耳侧，城市保持真实、模糊、流动。
-6–9 秒：暖灰印刷工作室，裁切纸张、色卡、金属尺、台灯；先拍手、纸张和耳机，再缓移至侧脸。耳机自然可见，不要硬特写。
-
-9–12 秒：雨后公交车，窗外霓虹被雨水拉成长条。通过玻璃反射拍侧脸；她把一只耳机放回盒内，另一只留在耳中。
-12–15 秒：深夜工作桌，只留小台灯。她放回另一只耳机，合上充电盒；镜头后拉，闭合耳机盒置于素描本前景，窗外夜色虚化。
-
-声音：车辆、脚步、地铁回响、纸张、裁纸器、雨滴、公交低鸣、盒盖轻响。不要背景音乐、旁白、字幕、Logo、水印、可读文字；避免耳机变形或重复、人物或服装漂移、多余手指、手部畸形、突兀转场。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/case-96017ad7706f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-0-part-1.md) · [Part 2](./gallery-seedance-2-0-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-0-part-4.md)

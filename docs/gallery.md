@@ -8,13 +8,13 @@ All 1070 cases with full prompts, split per Seedance version and paged so GitHub
 
 - [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.md) - cases 1–84 of 765.
 - [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.md) - cases 85–158 of 765.
-- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.md) - cases 159–243 of 765.
-- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.md) - cases 244–335 of 765.
-- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.md) - cases 336–430 of 765.
-- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.md) - cases 431–524 of 765.
-- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.md) - cases 525–627 of 765.
-- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.md) - cases 628–704 of 765.
-- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.md) - cases 705–765 of 765.
+- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.md) - cases 159–244 of 765.
+- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.md) - cases 245–336 of 765.
+- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.md) - cases 337–432 of 765.
+- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.md) - cases 433–526 of 765.
+- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.md) - cases 527–627 of 765.
+- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.md) - cases 628–706 of 765.
+- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.md) - cases 707–765 of 765.
 - [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.md) - cases 1–94 of 305.
 - [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.md) - cases 95–200 of 305.
 - [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.md) - cases 201–286 of 305.
