@@ -1,24 +1,24 @@
 # Awesome Seedance — ギャラリー索引
 
-全 1070 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 1075 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
 ## ページ
 
-- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.ja.md) - 765 件中 1–83 件目.
-- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.ja.md) - 765 件中 84–157 件目.
-- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.ja.md) - 765 件中 158–240 件目.
-- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.ja.md) - 765 件中 241–333 件目.
-- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.ja.md) - 765 件中 334–424 件目.
-- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.ja.md) - 765 件中 425–520 件目.
-- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.ja.md) - 765 件中 521–620 件目.
-- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.ja.md) - 765 件中 621–701 件目.
-- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.ja.md) - 765 件中 702–765 件目.
-- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 305 件中 1–93 件目.
-- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 305 件中 94–200 件目.
-- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 305 件中 201–286 件目.
-- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 305 件中 287–305 件目.
+- [Seedance 2.5 · Part 1/9](./gallery-seedance-2-5-part-1.ja.md) - 769 件中 1–84 件目.
+- [Seedance 2.5 · Part 2/9](./gallery-seedance-2-5-part-2.ja.md) - 769 件中 85–156 件目.
+- [Seedance 2.5 · Part 3/9](./gallery-seedance-2-5-part-3.ja.md) - 769 件中 157–236 件目.
+- [Seedance 2.5 · Part 4/9](./gallery-seedance-2-5-part-4.ja.md) - 769 件中 237–328 件目.
+- [Seedance 2.5 · Part 5/9](./gallery-seedance-2-5-part-5.ja.md) - 769 件中 329–422 件目.
+- [Seedance 2.5 · Part 6/9](./gallery-seedance-2-5-part-6.ja.md) - 769 件中 423–517 件目.
+- [Seedance 2.5 · Part 7/9](./gallery-seedance-2-5-part-7.ja.md) - 769 件中 518–616 件目.
+- [Seedance 2.5 · Part 8/9](./gallery-seedance-2-5-part-8.ja.md) - 769 件中 617–699 件目.
+- [Seedance 2.5 · Part 9/9](./gallery-seedance-2-5-part-9.ja.md) - 769 件中 700–769 件目.
+- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 306 件中 1–92 件目.
+- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 306 件中 93–201 件目.
+- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 306 件中 202–287 件目.
+- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.ja.md) - 306 件中 288–306 件目.
 
 ## このリポジトリのその他の入口
 
@@ -37,10 +37,10 @@
 - [Swordswoman duels a skeletal wraith on a ruined shore](./gallery-seedance-2-5-part-1.ja.md#swordswoman-duels-a-skeletal-wraith-on-a-ruined-shore) - This AI video is an Absolute Masterpiece🔥 Made by Fable 5.2 + Seedance 2.5 is unbelievable Prompt below:
 - [Selfie-Style Skincare UGC Ad](./gallery-seedance-2-5-part-1.ja.md#selfie-style-skincare-ugc-ad) - GPT Image 2 first fixes the character, a front-facing product photo is added, and Seedance 2.5 then makes a 15-second vertical selfie voiceover ad. The prompt locks the four beats, spoken lines, handheld feel and label text, so the face does not drift and the bottle text stays intact.
 - [Seoul Summer Night Vlog](./gallery-seedance-2-5-part-1.ja.md#seoul-summer-night-vlog) - A thorough scripted prompt for a nostalgic home-video-style clip of a summer night in Seoul.
+- [Side-lit close-up: she goes from closed eyes to a tearful gaze](./gallery-seedance-2-0-part-1.ja.md#side-lit-close-up-she-goes-from-closed-eyes-to-a-tearful-gaze) - Seedance 再卷也只是暂时领先 Muse 只要认真深耕视频生成，超过它是迟早的事，Muse生的视频，真实感太强了，人的毛孔都清晰可见，没有普通AI视频中 磨皮感和涂抹感 唯一可惜的是长视频，muse的人物和场景的一致性都很差劲，但是在短片段中，muse就是比seedance强 真的希望扎克伯格可以深耕视频生成领域…
 - [Modern home interior tour with floor-plan overlays](./gallery-seedance-2-0-part-1.ja.md#modern-home-interior-tour-with-floor-plan-overlays) - claude fable 5.2 is f*cking insane it can turn 2d blueprints into full 3d walkthroughs that you can tour these go for $5k to $10k per plan and there's a huge ma…
 - [Rainy Morning Coffee and a Walk to University](./gallery-seedance-2-5-part-1.ja.md#rainy-morning-coffee-and-a-walk-to-university) - Some mornings begin with sunshine. Hers began with rain. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action university vlog of …
 - [Seoul Subway Revenge: Woman Throws Her Tormentor into a Bin](./gallery-seedance-2-5-part-1.ja.md#seoul-subway-revenge-woman-throws-her-tormentor-into-a-bin) - Don't F*** with her Made using Seedance 2.5 on @wavespeed_ai Prompt : Create a live-action cinematic revenge-comedy video set in a Seoul subway station. Use rea…
 - [Two-Idol K-pop MV, Shot by Shot](./gallery-seedance-2-5-part-1.ja.md#two-idol-k-pop-mv-shot-by-shot) - A 30-second K-pop music video cut into a dozen two-to-four-second beats, each pinning down camera distance, backdrop and choreography, with pink hair and black hair used as identity anchors so the two performers stay consistent across every cut.
-- [Mini DV Coffee ASMR Vlog](./gallery-seedance-2-5-part-1.ja.md#mini-dv-coffee-asmr-vlog) - A cozy espresso-making vlog that manufactures authenticity out of consumer camcorder flaws — hand shake, focus hunting, auto-exposure shifts and tape grain — paired with an ASMR sound list, a three-second-per-beat storyboard and an explicit rule against looking commercial or AI-generated.
 
 ← [README に戻る](../README_ja.md)

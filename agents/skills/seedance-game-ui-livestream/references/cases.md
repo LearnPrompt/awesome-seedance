@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Seedance 2.5 Hyperreal AI Live Wallpaper: Outfit-Changing Heroine in One Take
 
-- Seedance 2.5 · creator: 木马人 · heat: 94
+- Seedance 2.5 · creator: 木马人 · heat: 93
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-ai-cabf3749d5b6) · [finished media](https://media.goodcase.ai/cases/4ce232c0fbe6.mp4) · [poster](https://media.goodcase.ai/cases/f16c9f956a8d.jpg) · [original source](https://x.com/cnyzgkc/status/2099029556434985065)
 - Summary: 木马人（@cnyzgkc）揭晓一条引发 29 万次浏览的 AI 动态桌面壁纸视频由 Seedance 2.5 生成。作者在 @johnAGI168 的 prompt 基础上优化加料，完整复刻效果。Prompt 描述一段 29 秒固定机位超真实 AI 动态桌面互动视频：女主坐在黑色皮沙发上，根据画外男声指令换装三套学院风造型，全程一镜连续。Prompt 极其精细地控制了字幕界面（逐字打字效果、颜色区分说话人）、服装设计（三套造型逐件描述）和逐秒表演调度（00:00-00:29），是 Seedance 2.5 写实互动类 prompt 的典型范例。
 
@@ -148,7 +148,7 @@ Inside the elevator: brushed-metal rear wall, side handrails, softly illuminated
 
 ## E3 · Neon Coastal City Gunfight and Police Chase Livestream
 
-- Seedance 2.5 · creator: @QAiStudio · heat: 82
+- Seedance 2.5 · creator: @QAiStudio · heat: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-gta-6-simulation-414a3b385a58) · [finished media](https://media.goodcase.ai/cases/afc80b70fcbb.mp4) · [poster](https://media.goodcase.ai/cases/f81388cc5f57.jpg) · [original source](https://x.com/QAiStudio/status/2099363620325048805)
 - Summary: GTA 6 Simulation Made with Seedance 2.5 on @Flovaai @Flovaai_Japan prompt Photorealistic fictional open-world coastal crime-action gameplay livestream, 16:9, on…
 
@@ -178,7 +178,7 @@ Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one
 
 ## E4 · Schoolgirl Steals a Diamond Necklace and Escapes by Train
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 80
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da) · [finished media](https://media.goodcase.ai/cases/6384d52eb319.mp4) · [poster](https://media.goodcase.ai/cases/381369ef731a.jpg) · [original source](https://x.com/saniaspeaks_/status/2099700182388801793)
 - Summary: Mission: The Great Diamond Escape Seedance 2.5 on @openart_ai Prompt 16:9 landscape, ultra-realistic AAA third-person gameplay, bright afternoon at a luxurious …
 

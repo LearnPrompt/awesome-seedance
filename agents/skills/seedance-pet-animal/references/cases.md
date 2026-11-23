@@ -32,7 +32,7 @@ Photorealistic AAA cinematic short, GTA-style urban energy: saturated colors, pu
 
 ## E2 · Fox’s Self-Filmed Walk Along a Forest Stream
 
-- Seedance 2.5 · creator: @MrDasOnX · heat: 92 · stability: 75
+- Seedance 2.5 · creator: @MrDasOnX · heat: 91 · stability: 75
 - Evidence: [GoodCase](https://goodcase.ai/cases/mrdasonx-seedance-ai-ccaa50150259) · [finished media](https://media.goodcase.ai/media/video/mrdasonx-seedance-ai-ccaa50150259.mp4) · [poster](https://media.goodcase.ai/media/poster/mrdasonx-seedance-ai-ccaa50150259.jpg) · [original source](https://x.com/MrDasOnX/status/2089969922617266257)
 - Summary: Curious Fox & Mountain Stream Vlog with Seedance 2.5 Prompt: Create a single continuous self-filmed vlog recorded on a h
 
@@ -193,7 +193,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 ## E6 · A Husky Meets Two Rabbits in Snowy Mountains at Sunset
 
-- Seedance 2.5 · creator: @RizwanAly07 · heat: 73
+- Seedance 2.5 · creator: @RizwanAly07 · heat: 72
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-most-unexpected-friendship-in-the-snow-fc70546ac916) · [finished media](https://media.goodcase.ai/cases/cbe8aa2d79b8.mp4) · [poster](https://media.goodcase.ai/cases/0d95cc091f2c.jpg) · [original source](https://x.com/RizwanAly07/status/2110654938472952253)
 - Summary: The Most Unexpected Friendship in the Snow! ❄️🐺🐰 Seedance 2.5 PROMPT ⬇️ Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husk…
 

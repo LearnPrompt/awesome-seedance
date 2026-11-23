@@ -16,7 +16,7 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 116 | 9 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 117 | 9 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 107 | 13 |
 | [动作连续性编排](#action-continuity-choreography) | 105 | 8 |
 | [电影感旅行漫游](#travel-city-walk) | 74 | 5 |
@@ -26,8 +26,8 @@
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 48 | 0 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 48 | 3 |
 | [恐怖悬疑短片](#horror-suspense-short) | 47 | 3 |
+| [体育与极限运动](#sports-extreme-stunts) | 46 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 41 | 0 |
-| [体育与极限运动](#sports-extreme-stunts) | 41 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
 | [汽车与载具速度片](#vehicles-at-speed) | 37 | 0 |
 | [美食特写与吃播 ASMR](#food-asmr) | 36 | 0 |
@@ -44,7 +44,7 @@
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-116 个案例，来自 79 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+117 个案例，来自 80 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 59 条例证实测，55 条通过
 
@@ -254,6 +254,22 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 | AIwithSynthia | 恐怖悬疑短片<br><sub>4 条例证实测，1 条通过</sub> | 8 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | 恐怖悬疑短片<br><sub>稳定复现 · 3 条例证实测，3 条通过</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="sports-extreme-stunts"></a>
+
+### 体育与极限运动
+
+> 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
+
+46 个案例，来自 41 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+稳定复现 · 17 条例证实测，14 条通过
+
+```bash
+npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
+```
+
+暂时还没有创作者方法。
+
 <a id="process-transformation-story"></a>
 
 ### 过程与变换叙事
@@ -266,22 +282,6 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 ```bash
 npx skills add LearnPrompt/goodcase --skill process-transformation-story
-```
-
-暂时还没有创作者方法。
-
-<a id="sports-extreme-stunts"></a>
-
-### 体育与极限运动
-
-> 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
-
-41 个案例，来自 37 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-稳定复现 · 17 条例证实测，14 条通过
-
-```bash
-npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
 ```
 
 暂时还没有创作者方法。
