@@ -6,7 +6,7 @@
 
 <!-- 由 data/site-skills.json 生成，请勿手改；跑 npm run generate -->
 
-[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) 上的全部视频 Skill：21 个官方 Skill，加 49 个创作者方法，共 70 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。
+[goodcase.ai](https://goodcase.ai/skills?category=video&utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=intro) 上的全部视频 Skill：21 个官方 Skill，加 48 个创作者方法，共 69 个。Skill 是装进 Claude Code、Codex 这类 agent 里的指令包。官方 Skill 从许多创作者的同类视频案例里提炼；创作者方法从某一位创作者反复使用的做法里提炼，带着这位创作者的风格。
 
 每个 Skill 都能用 [skills CLI](https://github.com/vercel-labs/skills) 一行命令装好，安装命令就在下面。标题和简介来自 goodcase.ai，这一页每天按站点目录刷新。
 
@@ -16,17 +16,17 @@
 
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
-| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 117 | 9 |
-| [POV / Vlog 临场感](#pov-vlog-presence) | 107 | 13 |
-| [动作连续性编排](#action-continuity-choreography) | 105 | 8 |
-| [电影感旅行漫游](#travel-city-walk) | 74 | 5 |
+| [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 118 | 9 |
+| [动作连续性编排](#action-continuity-choreography) | 108 | 8 |
+| [POV / Vlog 临场感](#pov-vlog-presence) | 107 | 12 |
+| [电影感旅行漫游](#travel-city-walk) | 75 | 5 |
+| [宠物动物当主角](#pets-and-animals-lead) | 72 | 2 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 2 |
-| [宠物动物当主角](#pets-and-animals-lead) | 70 | 2 |
 | [动画风格与角色一致性](#animation-style-consistency) | 62 | 2 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 48 | 0 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 48 | 3 |
 | [恐怖悬疑短片](#horror-suspense-short) | 47 | 3 |
-| [体育与极限运动](#sports-extreme-stunts) | 46 | 0 |
+| [体育与极限运动](#sports-extreme-stunts) | 47 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 41 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
 | [汽车与载具速度片](#vehicles-at-speed) | 37 | 0 |
@@ -35,7 +35,7 @@
 | [电影感剧情短片](#cinematic-drama-scene) | 18 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 9 | 0 |
-| [游戏实机录屏与直播叠层](#game-ui-livestream) | 8 | 0 |
+| [游戏实机录屏与直播叠层](#game-ui-livestream) | 9 | 0 |
 | [代码渲染讲解动画](#code-rendered-explainer-video) | 6 | 0 |
 
 <a id="epic-fantasy-scifi-spectacle"></a>
@@ -44,7 +44,7 @@
 
 > 巨龙、泰坦、世界观展示：每个实体单独定义，镜头按时间码切，尺度感靠低机位和参照物换来。
 
-117 个案例，来自 80 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+118 个案例，来自 80 位创作者 · 9 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 59 条例证实测，55 条通过
 
@@ -64,13 +64,38 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 | ZaraIrahh | 奇幻科幻大场面 | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-ha1tt9` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-ha1tt9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | CharaspowerAI | 奇幻科幻大场面<br><sub>3 条例证实测，2 条通过</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-uaxh44` | [goodcase.ai](https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-uaxh44?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="action-continuity-choreography"></a>
+
+### 动作连续性编排
+
+> 把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。
+
+108 个案例，来自 67 位创作者 · 8 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+稳定复现 · 43 条例证实测，37 条通过
+
+```bash
+npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
+```
+
+| 创作者 | 方法 | 案例 | 安装 | 页面 |
+| --- | --- | --- | --- | --- |
+| Xaroon_x | 动作连续性编排 | 7 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-cle9yv` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itxabdullaa | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itsSaira_1 | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| AIwithSynthia | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Aiwithmaha | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| Just_sharon7 | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| itxsarmadd | 动作连续性编排<br><sub>待测</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| haruuraeadss | 剧场版赛璐珞奇幻 | 3 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="pov-vlog-presence"></a>
 
 ### POV / Vlog 临场感
 
 > 用第一视角、手持运动和生活化细节制造可信的在场感。
 
-107 个案例，来自 57 位创作者 · 13 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+107 个案例，来自 57 位创作者 · 12 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pov-vlog-presence?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 64 条例证实测，51 条通过
 
@@ -86,7 +111,6 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 | ElsaSofia__AI | 多图参考长序列 | 5 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1yyrk1e` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1yyrk1e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | johnAGI168 | 卡点健身广告 | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1d090cw` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1d090cw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ZaraIrahh | 纯自拍一日流<br><sub>稳定复现 · 3 条例证实测，3 条通过</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-ha1tt9` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-ha1tt9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithkhan | 韩巷夏日家庭DV<br><sub>待测</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-wat8s8` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-wat8s8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Ciri_ai | POV / Vlog 临场感<br><sub>3 条例证实测，2 条通过</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | Just_sharon7 | POV / Vlog 临场感<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | oggii_0 | POV / Vlog 临场感 | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-2zdsi5` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-2zdsi5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
@@ -94,38 +118,13 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 | Goodmanprotocol | POV / Vlog 临场感 | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-v2wqfs` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-v2wqfs?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | YourAlphaMom | POV / Vlog 临场感<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pov-vlog-presence-by-yai6a9` | [goodcase.ai](https://goodcase.ai/skills/pov-vlog-presence-by-yai6a9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
-<a id="action-continuity-choreography"></a>
-
-### 动作连续性编排
-
-> 把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。
-
-105 个案例，来自 66 位创作者 · 8 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-稳定复现 · 43 条例证实测，37 条通过
-
-```bash
-npx skills add LearnPrompt/goodcase --skill action-continuity-choreography
-```
-
-| 创作者 | 方法 | 案例 | 安装 | 页面 |
-| --- | --- | --- | --- | --- |
-| Xaroon_x | 动作连续性编排 | 6 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-cle9yv` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-cle9yv?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itxabdullaa | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-15zo1bq` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-15zo1bq?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itsSaira_1 | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-18paelt` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-18paelt?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| AIwithSynthia | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Aiwithmaha | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1picsey` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1picsey?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| Just_sharon7 | 动作连续性编排<br><sub>待测</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1wr1qau` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1wr1qau?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| itxsarmadd | 动作连续性编排<br><sub>待测</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-d5g808` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-d5g808?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| haruuraeadss | 剧场版赛璐珞奇幻 | 3 | `npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-1lcb8j2` | [goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography-by-1lcb8j2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
 <a id="travel-city-walk"></a>
 
 ### 电影感旅行漫游
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-74 个案例，来自 46 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+75 个案例，来自 47 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 31 条例证实测，29 条通过
 
@@ -140,6 +139,25 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | Zyrellix | 电影感旅行漫游<br><sub>待测</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1r2e570` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1r2e570?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ayzalnooor24521 | 电影感旅行漫游<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | 电影感旅行漫游<br><sub>稳定复现 · 3 条例证实测，3 条通过</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
+<a id="pets-and-animals-lead"></a>
+
+### 宠物动物当主角
+
+> 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
+
+72 个案例，来自 38 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+稳定复现 · 34 条例证实测，31 条通过
+
+```bash
+npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
+```
+
+| 创作者 | 方法 | 案例 | 安装 | 页面 |
+| --- | --- | --- | --- | --- |
+| Zarnab_with_Ai | 宠物动物当主角<br><sub>稳定复现 · 12 条例证实测，12 条通过</sub> | 16 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| ayzalnooor24521 | 宠物动物当主角<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="product-ad-shot-design"></a>
 
@@ -159,25 +177,6 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 | --- | --- | --- | --- | --- |
 | laviniavelle | 皮克斯3D水光肌<br><sub>稳定复现 · 3 条例证实测，3 条通过</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | noorlewisx | 产品广告镜头<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="pets-and-animals-lead"></a>
-
-### 宠物动物当主角
-
-> 动物是主角，镜头交给一台手机：数量锁死成一只，动物只做动物做的事，包袱留给它逼近镜头。
-
-70 个案例，来自 37 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/pets-and-animals-lead?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-稳定复现 · 34 条例证实测，31 条通过
-
-```bash
-npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
-```
-
-| 创作者 | 方法 | 案例 | 安装 | 页面 |
-| --- | --- | --- | --- | --- |
-| Zarnab_with_Ai | 宠物动物当主角<br><sub>稳定复现 · 12 条例证实测，12 条通过</sub> | 15 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| ayzalnooor24521 | 宠物动物当主角<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="animation-style-consistency"></a>
 
@@ -260,7 +259,7 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 
 > 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
 
-46 个案例，来自 41 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+47 个案例，来自 42 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 17 条例证实测，14 条通过
 
@@ -408,7 +407,7 @@ npx skills add LearnPrompt/goodcase --skill storyboard-grid-to-video
 
 > 屏幕本身就是画面，假装是一段游戏实机、直播或桌面录屏。成立的关键是叠层钉死在固定位置，上面的数字和横幅跟着剧情一格一格变。
 
-8 个案例，来自 8 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+9 个案例，来自 9 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/game-ui-livestream?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 5 条例证实测，3 条通过
 

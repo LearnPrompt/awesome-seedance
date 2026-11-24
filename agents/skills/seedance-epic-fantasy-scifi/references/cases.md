@@ -68,9 +68,36 @@ Keep this geography consistent:
 [… truncated, full prompt on the goodcase.ai page]
 ```
 
-## E3 · A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
+## E3 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 90
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 89
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
+- Summary: From her pain, a dark power rises, unleashing a force that even the shadows fear. ⚡ Created with Seedance 2.5 Prompt: Sequence of shots for a dark fantasy cinem…
+
+```text
+Sequence of shots for a dark fantasy cinematic video:
+
+[Shot 1] 
+Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
+
+[Shot 2] 
+Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
+
+[Shot 3] 
+Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
+
+[Shot 4]
+Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
+
+Negative prompt: 
+blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
+
+#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
+```
+
+## E4 · A Pink-Haired Woman Driving Beneath Flying Traffic in 2050
+
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-situations-in-2050-be-like-0a938337ddb0) · [finished media](https://media.goodcase.ai/cases/f5e2b235f62b.mp4) · [poster](https://media.goodcase.ai/cases/4fad348af447.jpg) · [original source](https://x.com/Just_sharon7/status/2112913908617158822)
 - Summary: Situations in 2050 be like Seedance 2.5 on @DomoAI_ prompt TITLE: POV — DRIVING IN 2050 Create a 10-second ultra-photorealistic futuristic video showing a beaut…
 
@@ -161,33 +188,6 @@ CAMERA AND VISUAL STYLE
 Auth
 
 [… truncated, full prompt on the goodcase.ai page]
-```
-
-## E4 · A Wounded Woman and Arcane Visions in a Gothic Cathedral
-
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 89
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-sequence-of-shots-for-a-dark-fantasy-cinematic-video-9b5d4cc42091) · [finished media](https://media.goodcase.ai/cases/9c6af70f2b57.mp4) · [poster](https://media.goodcase.ai/cases/9b53e907e410.jpg) · [original source](https://x.com/itsSaira_1/status/2110223060066521421)
-- Summary: From her pain, a dark power rises, unleashing a force that even the shadows fear. ⚡ Created with Seedance 2.5 Prompt: Sequence of shots for a dark fantasy cinem…
-
-```text
-Sequence of shots for a dark fantasy cinematic video:
-
-[Shot 1] 
-Close-up cinematic shot of a wounded woman with long dark hair, wearing a blood-stained white medieval gown, struggling and pushing herself up on the stone floor of a dark gothic cathedral, moody atmosphere, dramatic lighting, 8k resolution.
-
-[Shot 2] 
-Cinematic shot of a woman plunging a glowing magical sword into the stone floor, creating a bright red glowing fiery magical sigil circle expanding rapidly across the ground, dark fantasy style, smoke, epic visual effects.
-
-[Shot 3] 
-Cinematic wide shot inside a gothic cathedral, revealing a towering mystical entity in a dark hooded cloak framed by massive rotating concentric golden rings filled with glowing eyes, epic fantasy atmosphere, dramatic lighting, 8k.
-
-[Shot 4]
-Action-packed cinematic shot of terrifying demonic monsters roaring and moving aggressively in a dark gothic cathedral, surrounded by smoke, debris, and bursts of magical fire, dark fantasy film style.
-
-Negative prompt: 
-blurry, low quality, distorted, deformed, extra limbs, bad anatomy, modern clothing, bright cheerful colors, cartoon, 3d animation, low-poly.
-
-#Ai #AIart️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️️ #visualart
 ```
 
 ## E5 · A Delivery Through Venice as It Folds into a Sphere

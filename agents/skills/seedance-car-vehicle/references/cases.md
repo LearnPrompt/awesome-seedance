@@ -151,7 +151,7 @@ Camera pulls higher still, showing the bike as a small red shape on the winding 
 
 ## E5 · White Supercar Soars Across Seoul’s River and Lands on a Rooftop
 
-- Seedance 2.5 · creator: @aiwithaayat · heat: 72
+- Seedance 2.5 · creator: @aiwithaayat · heat: 71
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-created-a-video-30-second-featuring-a-futuristic-white-supercar-driving-throu-f4b0d3637ef0) · [finished media](https://media.goodcase.ai/cases/7dc3776da6dc.mp4) · [poster](https://media.goodcase.ai/cases/9c32b67ed90d.jpg) · [original source](https://x.com/aiwithaayat/status/2112025080335339907)
 - Summary: A futuristic supercar, a fearless driver, and an unbelievable ride through the city. When luxury meets imagination, anything becomes possible. Created on seedan…
 
@@ -161,7 +161,7 @@ Created a video, 30 second, featuring a futuristic white supercar driving throug
 
 ## E6 · Helicopter Tracks a Motocross Stunt Rider Through Los Angeles
 
-- Seedance 2.5 · creator: @CharaspowerAI · heat: 68
+- Seedance 2.5 · creator: @CharaspowerAI · heat: 67
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-perfect-ai-cinematography-is-overrated-26e640ef7c4f) · [finished media](https://media.goodcase.ai/cases/22fa18ce284e.mp4) · [poster](https://media.goodcase.ai/cases/68b308e11fb0.jpg) · [original source](https://x.com/CharaspowerAI/status/2111517673276240251)
 - Summary: Perfect AI cinematography is overrated. Sometimes you need shaky tracking, missed framing, ugly zooms and compression artifacts to make something feel REAL. 👀 …
 
@@ -196,7 +196,7 @@ One continuous helicopter perspective, strong amateur-news authenticity, same ri
 
 ## E7 · Black Sedan Chase and Gunfire at Sunset
 
-- Seedance 2.5 · creator: @Xaroon_x · heat: 67
+- Seedance 2.5 · creator: @Xaroon_x · heat: 66
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-characters-hero-exact-character-from-same-face-hair-build-clothing-i-4fc9b091c2ab) · [finished media](https://media.goodcase.ai/cases/75e713901ea3.mp4) · [poster](https://media.goodcase.ai/cases/6170bf3f7274.jpg) · [original source](https://x.com/Xaroon_x/status/2107838928992489968)
 - Summary: Action 🔥 Fast cars, cinematic shots, and intense action. All brought to life with Seedance 2.5. Exploring the next level of AI video generation with @ImagineAr…
 
@@ -240,7 +240,7 @@ STYLE:** Hollywood blockbuster action. Photorealistic live-action, anamorphic AR
 
 ## E8 · Post-Apocalyptic Desert Buggy Air Battle
 
-- Seedance 2.0 · creator: @Zyrellix · heat: 66 · stability: 81
+- Seedance 2.0 · creator: @Zyrellix · heat: 65 · stability: 81
 - Evidence: [GoodCase](https://goodcase.ai/cases/zyrellix-seedance-ai-b7efa04a2c13) · [finished media](https://media.goodcase.ai/media/video/zyrellix-seedance-ai-b7efa04a2c13.mp4) · [poster](https://media.goodcase.ai/media/poster/zyrellix-seedance-ai-b7efa04a2c13.jpg) · [original source](https://x.com/Zyrellix/status/2092438692820295703)
 - Summary: Post apocalyptic chaos at full speed A rocket powered dune buggy explosive dogfights and insane cinematic action straigh
 
