@@ -17,21 +17,21 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 118 | 9 |
-| [Action continuity choreography](#action-continuity-choreography) | 108 | 8 |
+| [Action continuity choreography](#action-continuity-choreography) | 110 | 8 |
 | [POV and vlog presence](#pov-vlog-presence) | 107 | 12 |
-| [Cinematic travel montage](#travel-city-walk) | 75 | 5 |
+| [Cinematic travel montage](#travel-city-walk) | 76 | 5 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 72 | 2 |
 | [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
-| [Animation style and character consistency](#animation-style-consistency) | 62 | 2 |
+| [Animation style and character consistency](#animation-style-consistency) | 63 | 2 |
+| [Sports and extreme stunts](#sports-extreme-stunts) | 52 | 0 |
 | [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 48 | 0 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
 | [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
-| [Sports and extreme stunts](#sports-extreme-stunts) | 47 | 0 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
+| [Food close-ups and eating ASMR](#food-asmr) | 37 | 0 |
 | [Cars and vehicles at speed](#vehicles-at-speed) | 37 | 0 |
-| [Food close-ups and eating ASMR](#food-asmr) | 36 | 0 |
-| [3D cartoon character short](#3d-cartoon-character-short) | 31 | 1 |
+| [3D cartoon character short](#3d-cartoon-character-short) | 32 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 18 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
 | [Storyboard grid to video](#storyboard-grid-to-video) | 9 | 0 |
@@ -70,7 +70,7 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-108 cases from 67 creators · 8 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+110 cases from 68 creators · 8 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 43 tested, 37 passed
 
@@ -124,7 +124,7 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 
 > One traveller moves through a place scene by scene, each with its own timecode, location and one short line; polish comes from film grain and golden-hour light.
 
-75 cases from 47 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+76 cases from 47 creators · 5 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 31 tested, 29 passed
 
@@ -184,7 +184,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > Keep character design, movement language, and visual texture stable across animated shots.
 
-62 cases from 49 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+63 cases from 50 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 38 tested, 34 passed
 
@@ -196,6 +196,22 @@ npx skills add LearnPrompt/goodcase --skill animation-style-consistency
 | --- | --- | --- | --- | --- |
 | noorwithwifi | Ghibli ASMR Whimsy<br><sub>Stable · 3 tested, 3 passed</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1diwzmp` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1diwzmp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | yourPlugAI | Animation style and character consistency<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
+<a id="sports-extreme-stunts"></a>
+
+### Sports and extreme stunts
+
+> It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
+
+52 cases from 45 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+Stable · 17 tested, 14 passed
+
+```bash
+npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
+```
+
+No creator methods yet.
 
 <a id="fashion-lookbook-portrait"></a>
 
@@ -253,22 +269,6 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 | AIwithSynthia | Horror and suspense short<br><sub>4 tested, 1 passed</sub> | 8 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | Horror and suspense short<br><sub>Stable · 3 tested, 3 passed</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
-<a id="sports-extreme-stunts"></a>
-
-### Sports and extreme stunts
-
-> It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
-
-47 cases from 42 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-Stable · 17 tested, 14 passed
-
-```bash
-npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
-```
-
-No creator methods yet.
-
 <a id="process-transformation-story"></a>
 
 ### Process and transformation story
@@ -303,6 +303,22 @@ npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
 | --- | --- | --- | --- | --- |
 | Ciri_ai | Twist-ending comedy skit<br><sub>4 tested, 3 passed</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="food-asmr"></a>
+
+### Food close-ups and eating ASMR
+
+> Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
+
+37 cases from 29 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+Stable · 18 tested, 15 passed
+
+```bash
+npx skills add LearnPrompt/goodcase --skill food-asmr
+```
+
+No creator methods yet.
+
 <a id="vehicles-at-speed"></a>
 
 ### Cars and vehicles at speed
@@ -319,29 +335,13 @@ npx skills add LearnPrompt/goodcase --skill vehicles-at-speed
 
 No creator methods yet.
 
-<a id="food-asmr"></a>
-
-### Food close-ups and eating ASMR
-
-> Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
-
-36 cases from 29 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-Stable · 18 tested, 15 passed
-
-```bash
-npx skills add LearnPrompt/goodcase --skill food-asmr
-```
-
-No creator methods yet.
-
 <a id="3d-cartoon-character-short"></a>
 
 ### 3D cartoon character short
 
 > One appealing character carries the clip: a parts-list design lock, a measurable render look, and one action goal per timeline block.
 
-31 cases from 19 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+32 cases from 20 creators · 1 creator method · [Open on goodcase.ai](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 21 tested, 19 passed
 

@@ -39,7 +39,7 @@ Negative prompt: blurry, low quality, distorted proportions, extra limbs, deform
 
 ## E2 · Urban Police Chase and Explosive Getaway
 
-- Seedance 2.0 · creator: @Aria_Nawi · heat: 87
+- Seedance 2.0 · creator: @Aria_Nawi · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-police-chase-621254905333) · [finished media](https://media.goodcase.ai/cases/166c1a2a5127.mp4) · [poster](https://media.goodcase.ai/cases/dcc163d4e56d.jpg) · [original source](https://x.com/Aria_Nawi/status/2098461817555374451)
 - Summary: Police chase. Explosion. A cinematic 3D world built with GPT-6 Astra. Made by @PixVerse. Available on PixVerse and in ChatGPT via the PixVerse Plugin. Prompt ↓ …
 
@@ -54,7 +54,7 @@ Create an original GTA-inspired cartoon car chase using this workflow: Design: D
 
 ## E3 · Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
 
-- Seedance 2.5 · creator: @RuzainaMeer · heat: 77 · stability: 76
+- Seedance 2.5 · creator: @RuzainaMeer · heat: 76 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/ruzainameer-seedance-ai-e6073ec318f1) · [finished media](https://media.goodcase.ai/media/video/ruzainameer-seedance-ai-e6073ec318f1.mp4) · [poster](https://media.goodcase.ai/media/poster/ruzainameer-seedance-ai-e6073ec318f1.jpg) · [original source](https://x.com/RuzainaMeer/status/2089595902818398461)
 - Summary: Seedance 2.5 1080P is now available on @itsPolloAI — and it’s 50% off right now. I tested it with this cinematic motorcy
 
@@ -86,7 +86,7 @@ Negative: No cartoon, anime, plastic CGI textures, rubbery movement, extra chara
 
 ## E4 · Motorcycle Racing Through a Mountain Road
 
-- Seedance 2.0 · creator: @Just_sharon7 · heat: 73 · stability: 78
+- Seedance 2.0 · creator: @Just_sharon7 · heat: 72 · stability: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/just-sharon7-seedance-ai-f5af358d1f88) · [finished media](https://media.goodcase.ai/cases/e74284637136.mp4) · [poster](https://media.goodcase.ai/cases/d2b34cc66de6.jpg) · [original source](https://x.com/Just_sharon7/status/2091546827212636576)
 - Summary: How cinematic can pure motorcycle speed actually become on-screen? GPT Image 2 + Seedance 2.0 on @FishCreativeHQ prompt
 

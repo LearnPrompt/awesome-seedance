@@ -178,7 +178,7 @@ Strict rules: HANEUL appears only in the bottom-right fixed facecam; exactly one
 
 ## E4 · Schoolgirl Steals a Diamond Necklace and Escapes by Train
 
-- Seedance 2.5 · creator: @saniaspeaks_ · heat: 79
+- Seedance 2.5 · creator: @saniaspeaks_ · heat: 78
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-mission-the-great-diamond-escape-39fea191a6da) · [finished media](https://media.goodcase.ai/cases/6384d52eb319.mp4) · [poster](https://media.goodcase.ai/cases/381369ef731a.jpg) · [original source](https://x.com/saniaspeaks_/status/2099700182388801793)
 - Summary: Mission: The Great Diamond Escape Seedance 2.5 on @openart_ai Prompt 16:9 landscape, ultra-realistic AAA third-person gameplay, bright afternoon at a luxurious …
 
@@ -315,7 +315,7 @@ Sequence:
 
 ## E6 · Rio Street Chase Over a Misplaced Package
 
-- Seedance 2.5 · creator: @john_my07 · heat: 53
+- Seedance 2.5 · creator: @john_my07 · heat: 52
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-realistic-aaa-third-person-open-world-gameplay-sequenc-70896856a838) · [finished media](https://media.goodcase.ai/cases/3d47a3342470.mp4) · [poster](https://media.goodcase.ai/cases/a766a24fcbfe.jpg) · [original source](https://x.com/john_my07/status/2099832403305079015)
 - Summary: GTA in Brazil 🇧🇷 All this chaos just to deliver the package to the right house! Created using Seedance 2.5 on Pollo AI Prompt: Create a 30-second ultra-realis…
 

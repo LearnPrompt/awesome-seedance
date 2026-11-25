@@ -94,7 +94,7 @@ Keep the characters consistent throughout the entire video. Preserve the toddler
 
 ## E3 · A Stern Toddler Doctor and Her Nervous Adult Patient
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 89
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 88
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-ab2f8c8eec6c) · [finished media](https://media.goodcase.ai/cases/366adc3963e9.mp4) · [poster](https://media.goodcase.ai/cases/7e3154d06ba2.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2113820262743646446)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated comedy scene featuring an adorable toddler girl dressed as a tiny doctor. She has b…
 
@@ -121,9 +121,26 @@ Camera and Motion: Use smooth cinematic tracking shots, medium shots, facial clo
 Format: Vertical 9:16, 24 FPS, approximately 30 seconds, high-quality cinematic 3D animation, family-friendly comedy, no subtitles, no text overlays, no logos.
 ```
 
-## E4 · Frog-hat baby sneaks out of the crib and startles Dad
+## E4 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87 · stability: 90
+- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
+- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy…
+
+```text
+Made with seedance 2.5
+
+Prompt 👇 
+Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy beige sofa in a warm modern living room. One rabbit wears a blue shirt and a small golden bunny necklace, while the other is soft pink with a large pink bow and a heart-shaped necklace.
+
+The pink rabbit applies lipstick while making funny, confident expressions. She then playfully interacts with the other rabbit, who has pink lipstick kiss marks all over its face and ears. They cuddle, laugh, and playfully tumble together on the sofa. At one point, they hide under a soft beige blanket decorated with pink lipstick kiss marks, then pop back out laughing and hugging each other.
+
+Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
+```
+
+## E5 · Frog-hat baby sneaks out of the crib and startles Dad
+
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-824160459b18) · [finished media](https://media.goodcase.ai/cases/695f51585ca3.mp4) · [poster](https://media.goodcase.ai/cases/05e0d2cb4b37.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2117812036126257293)
 - Summary: Made with seedance 2.5 Prompt 👇 Style: High-quality 3D animated family comedy, adorable baby character, Pixar-inspired cinematic animation, ultra-detailed text…
 
@@ -161,26 +178,9 @@ Visual Quality: Ultra-detailed 3D animation, realistic knitted fabric, soft baby
 Important: Maintain consistent baby character design, identical frog hat, clothing, facial features, and nursery environment throughout every scene. Make the story funny, heartwarming, adorable, and highly engaging.
 ```
 
-## E5 · Playful Rabbit Couple Kissing and Cuddling on a Sofa
-
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 87 · stability: 90
-- Evidence: [GoodCase](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-27ee46690725) · [finished media](https://media.goodcase.ai/cases/23d1405ab2f8.mp4) · [poster](https://media.goodcase.ai/cases/270ba8ecea3b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2099683790717325390)
-- Summary: Made with seedance 2.5 Prompt 👇 Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy…
-
-```text
-Made with seedance 2.5
-
-Prompt 👇 
-Create a cute, heartwarming, ultra-realistic 3D animated video featuring two adorable fluffy rabbits sitting together on a cozy beige sofa in a warm modern living room. One rabbit wears a blue shirt and a small golden bunny necklace, while the other is soft pink with a large pink bow and a heart-shaped necklace.
-
-The pink rabbit applies lipstick while making funny, confident expressions. She then playfully interacts with the other rabbit, who has pink lipstick kiss marks all over its face and ears. They cuddle, laugh, and playfully tumble together on the sofa. At one point, they hide under a soft beige blanket decorated with pink lipstick kiss marks, then pop back out laughing and hugging each other.
-
-Warm golden lighting, cozy home interior, soft cushions, wooden furniture, plants and framed artwork in the background, expressive faces, detailed fluffy fur, cinematic camera movement, shallow depth of field, adorable comedic atmosphere, polished Pixar-style 3D animation, highly detailed, smooth natural motion, 4K quality.
-```
-
 ## E6 · 孕妇的梦幻橄榄球
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 86
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/case-dd9889bf2c2c) · [finished media](https://media.goodcase.ai/cases/8c17c23fdda4.mp4) · [poster](https://media.goodcase.ai/cases/573c7eaac41b.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2116718625474396498)
 - Summary: 一个用于生成 20 秒皮克斯风格 3D 动画短片的提示词，讲述一位孕妇想象宝宝踢橄榄球的场景，最后以一只搞笑猫咪的惊喜结尾。
 
@@ -239,7 +239,7 @@ Important: Maintain identical character appearances, clothing, facial features, 
 
 ## E8 · A Little Girl Learns Fruits and Their English Names at Preschool
 
-- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 83
+- Seedance 2.5 · creator: @Zarnab_with_Ai · heat: 82
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-5daf893fe041) · [finished media](https://media.goodcase.ai/cases/5a31f9968740.mp4) · [poster](https://media.goodcase.ai/cases/537cb34decad.jpg) · [original source](https://x.com/Zarnab_with_Ai/status/2108381024417993043)
 - Summary: Made with seedance 2.5 Prompt 👇 Create a 20-second ultra-realistic, adorable 3D animated educational video for toddlers. A cute baby girl with big sparkling br…
 

@@ -183,7 +183,7 @@ A highly realistic cinematic shot filmed from inside a moving car looking out th
 
 ## E5 · Underwater Animal Orchestra
 
-- Seedance 2.5 · creator: @thisismariaa25 · heat: 74 · stability: 80
+- Seedance 2.5 · creator: @thisismariaa25 · heat: 73 · stability: 80
 - Evidence: [GoodCase](https://goodcase.ai/cases/underwater-animal-orchestra) · [finished media](https://media.goodcase.ai/media/video/underwater-animal-orchestra.mp4) · [poster](https://media.goodcase.ai/cases/650742381d92.jpg) · [original source](https://x.com/thisismariaa25/status/2087112692809060493)
 - Summary: A creative cinematic prompt for Seedance 2.5 depicting an orchestra of sea animals like octopuses and dolphins performing deep underwater.
 
@@ -193,7 +193,7 @@ An orchestra, but 3,000 feet underwater. Octopuses on piano, squid on strings, d
 
 ## E6 · A Husky Meets Two Rabbits in Snowy Mountains at Sunset
 
-- Seedance 2.5 · creator: @RizwanAly07 · heat: 72
+- Seedance 2.5 · creator: @RizwanAly07 · heat: 71
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-the-most-unexpected-friendship-in-the-snow-fc70546ac916) · [finished media](https://media.goodcase.ai/cases/cbe8aa2d79b8.mp4) · [poster](https://media.goodcase.ai/cases/0d95cc091f2c.jpg) · [original source](https://x.com/RizwanAly07/status/2110654938472952253)
 - Summary: The Most Unexpected Friendship in the Snow! ❄️🐺🐰 Seedance 2.5 PROMPT ⬇️ Create an ultra-realistic cinematic video of a beautiful black-and-white Siberian Husk…
 

@@ -1,25 +1,25 @@
 # Awesome Seedance — Gallery Index
 
-All 1096 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
+All 1109 cases with full prompts, split per Seedance version and paged so GitHub renders every file. Generated from data/cases.json — do not hand-edit.
 
 ← [Back to README](../README.md)
 
 ## Pages
 
-- [Seedance 2.5 · Part 1/10](./gallery-seedance-2-5-part-1.md) - cases 1–86 of 787.
-- [Seedance 2.5 · Part 2/10](./gallery-seedance-2-5-part-2.md) - cases 87–165 of 787.
-- [Seedance 2.5 · Part 3/10](./gallery-seedance-2-5-part-3.md) - cases 166–242 of 787.
-- [Seedance 2.5 · Part 4/10](./gallery-seedance-2-5-part-4.md) - cases 243–331 of 787.
-- [Seedance 2.5 · Part 5/10](./gallery-seedance-2-5-part-5.md) - cases 332–426 of 787.
-- [Seedance 2.5 · Part 6/10](./gallery-seedance-2-5-part-6.md) - cases 427–524 of 787.
-- [Seedance 2.5 · Part 7/10](./gallery-seedance-2-5-part-7.md) - cases 525–623 of 787.
-- [Seedance 2.5 · Part 8/10](./gallery-seedance-2-5-part-8.md) - cases 624–709 of 787.
-- [Seedance 2.5 · Part 9/10](./gallery-seedance-2-5-part-9.md) - cases 710–778 of 787.
-- [Seedance 2.5 · Part 10/10](./gallery-seedance-2-5-part-10.md) - cases 779–787 of 787.
-- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.md) - cases 1–92 of 309.
-- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.md) - cases 93–202 of 309.
-- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.md) - cases 203–290 of 309.
-- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.md) - cases 291–309 of 309.
+- [Seedance 2.5 · Part 1/10](./gallery-seedance-2-5-part-1.md) - cases 1–84 of 799.
+- [Seedance 2.5 · Part 2/10](./gallery-seedance-2-5-part-2.md) - cases 85–167 of 799.
+- [Seedance 2.5 · Part 3/10](./gallery-seedance-2-5-part-3.md) - cases 168–243 of 799.
+- [Seedance 2.5 · Part 4/10](./gallery-seedance-2-5-part-4.md) - cases 244–333 of 799.
+- [Seedance 2.5 · Part 5/10](./gallery-seedance-2-5-part-5.md) - cases 334–425 of 799.
+- [Seedance 2.5 · Part 6/10](./gallery-seedance-2-5-part-6.md) - cases 426–525 of 799.
+- [Seedance 2.5 · Part 7/10](./gallery-seedance-2-5-part-7.md) - cases 526–621 of 799.
+- [Seedance 2.5 · Part 8/10](./gallery-seedance-2-5-part-8.md) - cases 622–712 of 799.
+- [Seedance 2.5 · Part 9/10](./gallery-seedance-2-5-part-9.md) - cases 713–780 of 799.
+- [Seedance 2.5 · Part 10/10](./gallery-seedance-2-5-part-10.md) - cases 781–799 of 799.
+- [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.md) - cases 1–92 of 310.
+- [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.md) - cases 93–203 of 310.
+- [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.md) - cases 204–291 of 310.
+- [Seedance 2.0 · Part 4/4](./gallery-seedance-2-0-part-4.md) - cases 292–310 of 310.
 
 ## Also in this repository
 

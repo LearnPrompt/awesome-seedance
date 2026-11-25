@@ -17,21 +17,21 @@
 | Skill | 案例 | 创作者方法 |
 | --- | --- | --- |
 | [奇幻科幻大场面](#epic-fantasy-scifi-spectacle) | 118 | 9 |
-| [动作连续性编排](#action-continuity-choreography) | 108 | 8 |
+| [动作连续性编排](#action-continuity-choreography) | 110 | 8 |
 | [POV / Vlog 临场感](#pov-vlog-presence) | 107 | 12 |
-| [电影感旅行漫游](#travel-city-walk) | 75 | 5 |
+| [电影感旅行漫游](#travel-city-walk) | 76 | 5 |
 | [宠物动物当主角](#pets-and-animals-lead) | 72 | 2 |
 | [产品广告镜头](#product-ad-shot-design) | 71 | 2 |
-| [动画风格与角色一致性](#animation-style-consistency) | 62 | 2 |
+| [动画风格与角色一致性](#animation-style-consistency) | 63 | 2 |
+| [体育与极限运动](#sports-extreme-stunts) | 52 | 0 |
 | [时尚 lookbook 与人像写真片](#fashion-lookbook-portrait) | 48 | 0 |
 | [早年 DV 家庭录像](#retro-dv-home-video) | 48 | 3 |
 | [恐怖悬疑短片](#horror-suspense-short) | 47 | 3 |
-| [体育与极限运动](#sports-extreme-stunts) | 47 | 0 |
 | [过程与变换叙事](#process-transformation-story) | 41 | 0 |
 | [反转搞笑短片](#twist-comedy-skit) | 40 | 1 |
+| [美食特写与吃播 ASMR](#food-asmr) | 37 | 0 |
 | [汽车与载具速度片](#vehicles-at-speed) | 37 | 0 |
-| [美食特写与吃播 ASMR](#food-asmr) | 36 | 0 |
-| [3D 卡通角色短片](#3d-cartoon-character-short) | 31 | 1 |
+| [3D 卡通角色短片](#3d-cartoon-character-short) | 32 | 1 |
 | [电影感剧情短片](#cinematic-drama-scene) | 18 | 0 |
 | [舞台表演与舞蹈 MV](#stage-dance-music-video) | 11 | 0 |
 | [分镜网格转视频](#storyboard-grid-to-video) | 9 | 0 |
@@ -70,7 +70,7 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 
 > 把角色、运动方向、节奏和镜头衔接写成可复现的动作序列。
 
-108 个案例，来自 67 位创作者 · 8 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+110 个案例，来自 68 位创作者 · 8 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 43 条例证实测，37 条通过
 
@@ -124,7 +124,7 @@ npx skills add LearnPrompt/goodcase --skill pov-vlog-presence
 
 > 一个人按场次走过一个地方，每场有自己的时间码、地点和一句短台词，质感靠胶片颗粒和黄金时刻的光。
 
-75 个案例，来自 47 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+76 个案例，来自 47 位创作者 · 5 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/travel-city-walk?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 31 条例证实测，29 条通过
 
@@ -184,7 +184,7 @@ npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
 
 > 在多镜头动画中固定角色造型、运动语言和材质画风。
 
-62 个案例，来自 49 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+63 个案例，来自 50 位创作者 · 2 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/animation-style-consistency?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 38 条例证实测，34 条通过
 
@@ -196,6 +196,22 @@ npx skills add LearnPrompt/goodcase --skill animation-style-consistency
 | --- | --- | --- | --- | --- |
 | noorwithwifi | 吉卜力手作童趣<br><sub>稳定复现 · 3 条例证实测，3 条通过</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1diwzmp` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1diwzmp?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | yourPlugAI | 动画风格与角色一致性<br><sub>待测</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill animation-style-consistency-by-1lqimyw` | [goodcase.ai](https://goodcase.ai/skills/animation-style-consistency-by-1lqimyw?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
+<a id="sports-extreme-stunts"></a>
+
+### 体育与极限运动
+
+> 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
+
+52 个案例，来自 45 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+稳定复现 · 17 条例证实测，14 条通过
+
+```bash
+npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
+```
+
+暂时还没有创作者方法。
 
 <a id="fashion-lookbook-portrait"></a>
 
@@ -253,22 +269,6 @@ npx skills add LearnPrompt/goodcase --skill horror-suspense-short
 | AIwithSynthia | 恐怖悬疑短片<br><sub>4 条例证实测，1 条通过</sub> | 8 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-1ktgmlf` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-1ktgmlf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | auqibhabib | 恐怖悬疑短片<br><sub>稳定复现 · 3 条例证实测，3 条通过</sub> | 5 | `npx skills add LearnPrompt/goodcase --skill horror-suspense-short-by-43hd7f` | [goodcase.ai](https://goodcase.ai/skills/horror-suspense-short-by-43hd7f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
-<a id="sports-extreme-stunts"></a>
-
-### 体育与极限运动
-
-> 全押在动作闭环上：从助跑到落地按顺序写出来，要哪几项物理就点名哪几项，负面清单专门打掉飞行、悬浮和瞬移。
-
-47 个案例，来自 42 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-稳定复现 · 17 条例证实测，14 条通过
-
-```bash
-npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts
-```
-
-暂时还没有创作者方法。
-
 <a id="process-transformation-story"></a>
 
 ### 过程与变换叙事
@@ -303,6 +303,22 @@ npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
 | --- | --- | --- | --- | --- |
 | Ciri_ai | 反转搞笑短片<br><sub>4 条例证实测，3 条通过</sub> | 4 | `npx skills add LearnPrompt/goodcase --skill twist-comedy-skit-by-1en62on` | [goodcase.ai](https://goodcase.ai/skills/twist-comedy-skit-by-1en62on?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="food-asmr"></a>
+
+### 美食特写与吃播 ASMR
+
+> 烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。
+
+37 个案例，来自 29 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+稳定复现 · 18 条例证实测，15 条通过
+
+```bash
+npx skills add LearnPrompt/goodcase --skill food-asmr
+```
+
+暂时还没有创作者方法。
+
 <a id="vehicles-at-speed"></a>
 
 ### 汽车与载具速度片
@@ -319,29 +335,13 @@ npx skills add LearnPrompt/goodcase --skill vehicles-at-speed
 
 暂时还没有创作者方法。
 
-<a id="food-asmr"></a>
-
-### 美食特写与吃播 ASMR
-
-> 烹饪特写、吃播和吃东西的 vlog。成立靠的是每一拍都让食物发生一个看得见的变化，再配上对应的一个声音，而且这道菜从头到尾都是同一道菜。
-
-36 个案例，来自 29 位创作者 · 0 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-稳定复现 · 18 条例证实测，15 条通过
-
-```bash
-npx skills add LearnPrompt/goodcase --skill food-asmr
-```
-
-暂时还没有创作者方法。
-
 <a id="3d-cartoon-character-short"></a>
 
 ### 3D 卡通角色短片
 
 > 一个拟人小角色撑起整条片子：外形逐项写死，画风写成可测量的渲染项，时间轴一段一个动作目标。
 
-31 个案例，来自 19 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+32 个案例，来自 20 位创作者 · 1 个创作者方法 · [在 goodcase.ai 打开](https://goodcase.ai/skills/3d-cartoon-character-short?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 稳定复现 · 21 条例证实测，19 条通过
 

@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Thirty-Second Tropical Travel Vlog Montage in Bali
 
-- Seedance 2.5 · creator: @eshal__ai · heat: 84 · stability: 85
+- Seedance 2.5 · creator: @eshal__ai · heat: 83 · stability: 85
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-a-cinematic-30-second-tropical-travel-vlog-montage-featuring-a-beautiful-20-yea-6af38a792806) · [finished media](https://media.goodcase.ai/cases/d8db56ed03b0.mp4) · [poster](https://media.goodcase.ai/cases/39b33ab9f88e.jpg) · [original source](https://x.com/eshal__ai/status/2096840505355370629)
 - Summary: golden hour in Bali hits different when you stop chasing the shot and just live in it 🌴 Created with Seedance 2.5 on @budgetpixel Prompt: A cinematic 30-second…
 
@@ -34,7 +34,7 @@ Scene 8 (27-30s) — Hotel Night Reflection: A rooftop pool bar overlooking a gl
 
 ## E2 · A Journey Through Poland's Landscapes and Culture
 
-- Seedance 2.0 · creator: @KinasRemek · heat: 80
+- Seedance 2.0 · creator: @KinasRemek · heat: 79
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-celem-jest-wykonanie-maksymalnie-90-sekundowego-klipu-promocyjnego-pod-tytu-11f2fef80247) · [finished media](https://media.goodcase.ai/cases/3fb2f495050f.mp4) · [poster](https://media.goodcase.ai/cases/f9e8f51d5d01.jpg) · [original source](https://x.com/KinasRemek/status/2102728913579327722)
 - Summary: "Poland is so beautiful" 🇵🇱 Opus 5.5 - jako orkiestrator i mózg operacji. Tym razem najnowszy model Claude Opus 5.5 ma za zadanie wyprodukować klip video prom…
 
@@ -131,7 +131,7 @@ ACTION
 
 ## E5 · A Slow Autumn Travel Vlog in Kyoto
 
-- Seedance 2.5 · creator: @Chaemate_ · heat: 74
+- Seedance 2.5 · creator: @Chaemate_ · heat: 73
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-create-a-photorealistic-30-second-personal-travel-vlog-featuring-the-exact-same-d5ee016defda) · [finished media](https://media.goodcase.ai/cases/784165cb489a.mp4) · [poster](https://media.goodcase.ai/cases/587b89f01743.jpg) · [original source](https://x.com/Chaemate_/status/2099439262106083704)
 - Summary: A quiet day in Kyoto, captured like a memory you almost forgot you had. 🍂 Created with Seedance 2.5 on @FishCreativeHQ Prompt: Create a photorealistic 30-secon…
 
@@ -209,7 +209,7 @@ PROPS: the bubble-tea clerk directly hands her a clear cup; the chicken-cutlet s
 
 ## E8 · A Korean Woman’s Autumn Forest Hike and Mountain Summit Journey
 
-- Seedance 2.5 · creator: @alixbuilds · heat: 70
+- Seedance 2.5 · creator: @alixbuilds · heat: 69
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-cinematic-travel-vlog-featuring-a-young-adult-korean-5ab099618e98) · [finished media](https://media.goodcase.ai/cases/13b946df0959.mp4) · [poster](https://media.goodcase.ai/cases/16feb5f7b8a2.jpg) · [original source](https://x.com/alixbuilds/status/2116381998499721651)
 - Summary: Chasing mountain views and collecting unforgettable moments. Made with Seedance 2.5 Prompt: Create an ultra-realistic cinematic travel vlog featuring a young ad…
 
