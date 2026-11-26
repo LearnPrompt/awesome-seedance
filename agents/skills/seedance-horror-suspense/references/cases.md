@@ -218,7 +218,7 @@ NEGATIVE: Excessive gore, graphic dismemberment, graphic eye gore, anime, cartoo
 
 ## E5 · A Woman Turns Zombie and Hunts Survivors in a Parking Garage
 
-- Seedance 2.5 · creator: @AIwithSynthia · heat: 88
+- Seedance 2.5 · creator: @AIwithSynthia · heat: 89
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-0-3s-a-young-korean-woman-in-a-fitted-blue-crop-top-and-white-shorts-walks-thr-3c95ae30346a) · [finished media](https://media.goodcase.ai/cases/4188ecfb268c.mp4) · [poster](https://media.goodcase.ai/cases/d1ba7a99ee62.jpg) · [original source](https://x.com/AIwithSynthia/status/2113840061104206005)
 - Summary: AI can do extraordinary things . 👇is one such example Made using Seedance 2.5 Prompt : 0–3s: A young Korean woman in a fitted blue crop top and white shorts wa…
 

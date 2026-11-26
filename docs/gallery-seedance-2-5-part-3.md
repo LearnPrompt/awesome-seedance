@@ -1,10 +1,88 @@
 # Seedance 2.5 — Full Gallery (Part 3/10)
 
-All 799 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 804 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 168–243 of 799.
+This page: cases 168–240 of 804.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)
+
+### Seedance 2.5 GoPro Fishing to Campfire Cook in One Run
+
+> A 30-second chest-mounted GoPro short in four hard cuts: casting, cleaning the trout, grilling over a campfire, eating. Props, focal lengths, physics, light and sound are pinned down.
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-2-5-gopro-94a73eef1dbf.jpg" width="600" alt="Seedance 2.5 GoPro Fishing to Campfire Cook in One Run">](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @abxxai | **Source:** [Original](https://x.com/abxxai/status/2087189194720657649) | **Published:** 2026-08-11 | **Heat:** 78
+
+**Stability:** 79/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 79) · [output](https://media.goodcase.ai/retests/seedance-2-5-gopro-94a73eef1dbf/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (56 lines, click to expand)</b></summary>
+
+```
+SCENE CONTEXT
+POV river-to-campfire sequence at a jade-green alpine river through birch/cedar forest, late-afternoon light. A trout is caught, cleaned, seasoned, grilled over an open fire, then eaten, with one sip from a glass bottle while it cooks. 30s, four continuous segments, three hard cuts, real chest-mounted action camera.
+
+ACTIVE REFERENCES
+
+@location1
+: jade-green river, granite boulders, gravel bar, stone fire-ring, tree-stump table, birch/cedar tree line, faint peaks. 100% matches reference.
+
+@hands1
+: sun-tanned forearms, light-blond arm hair, olive sleeve rolled to elbow, braided wrist cord. Same fly rod, folding knife, wood board, wire grill basket, plain glass bottle, brown fizzy liquid, no label. 100% matches reference.
+
+LOCATION MAP
+Segment A: river foreground, tree line behind. Segments B-D: gravel bar foreground, fire-ring and stump table midground, tree line and peaks background. POV chest-to-eye height, moving only with the body. Key light low, behind camera-left.
+
+FIRST FRAME / BLOCKING
+Non-empty opening frame: already mid-cast, rod raised, line already peeling off the reel. Water fills the lower two-thirds, forest/sky the top third.
+
+FORMAT MODE
+Controlled multi-shot, three HARD CUTs, camera does not cut anywhere else:
+A (0-9s) river, one continuous take. HARD CUT.
+B (9-21s) board, one continuous take. HARD CUT.
+C (21-27s) fire, one continuous take. HARD CUT.
+D (27-30s) eating, one continuous take.
+
+OPTICS
+84° in A easing to 63° through the fight. 63° easing to 18° across B. 63° opening to 29° in C. 29° held in D. No drift within any segment.
+
+CAMERA
+Chest-height POV, moving only with body motion — forward stroke on the cast, downward tilt on the knife and grate, forward lean when hands work close. Soft highlight roll-off on bright water and hot metal.
+
+ACTION
+A: rod arcs, line whistles; tip snaps down as the trout strikes; rod pumps, reel clicking, fish surfacing closer each pump; hand closes behind the gills, lifts the fish clear, holds it still one beat as water streams off. B: boots cross the gravel, fish set on the board, knife meets scales, scrapes tail to head; one clean line opens the belly, organs lift free; fish rinses in the shallows, pink cloud drifting off; salt, pepper, herbs scatter over the flesh; fish folds into the basket, latch clacks. C: kindling catches from a breath, flame licks up; basket lowers onto the grate, skin bubbles and browns, smoke lifts. D: bottle tips up for one swallow; fork pauses a half-second at the flesh before splitting it open, steam lifting as a piece rises toward camera, one quiet exhale closing the shot.
+
+PERFORMANCE
+Hands stay continuously busy with real working tasks, never idle. Pore-level realism: vellus arm hair in the breeze, capillary flush from cold water. Movements read practiced, unhurried, one deliberate pause at the fish-lift and one at the first bite, restrained and human, never cartoonish.
+
+PHYSICS
+No floating props. Correct contact shadows under every prop, every segment. Water carries real weight and splash. Fire holds true flicker, heat-shimmer, smoke on a light breeze. Mass and inertia carry through the rod bend, the fish's thrashing and the latch.
+
+LIGHTING
+WB locked 5600K, warm low sun behind camera-left as key, cool sky fill through A-B. From C onward, ember-orange fire light adds a low rim on hands and fish alongside the same key.
+
+COLOR GRADE
+Cool jade-green river/forest in A, warm honey wood and pale gravel in B, ember-orange fire glow and seared skin in C-D. Color tied to source and surface, not a flat list.
+
+AUDIO
+Warm acoustic guitar bed under everything, mixed low, sitting quietly beneath the natural sound. Diegetic: river current and line-whistle opening A, splash and reel-drag through the fight; gravel footsteps opening B, knife-on-wood, one clean cut sound, rinse-splash, hinge-click closing it; twig-snap opening C, crackle into sizzle; glass clink and swallow opening D, fork scrape, steam hiss, one quiet chuckle closing the shot. No subtitles.
+
+STYLE
+8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, true action-camera color science.
+
+OUTPUT SETTINGS
+Real-time throughout, no speed ramping, FOV holds exactly as stated per segment with no drift across any hard cut.
+
+POSITIVE LOCKS
+Same hands, sleeve and wrist cord across all four segments. Same rod, knife, board, basket and bottle, no substitutions across any cut. Same river, gravel bar and fire-ring geometry held across every segment. Fish skin and flesh stay anatomically real. Eyes stay natural — no eye glow. Contact shadows read clearly every segment. No logos, no UI, no subtitles anywhere in frame.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-gopro-94a73eef1dbf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Pink-Haired Girl’s Lazy Playground Wander
 
@@ -234,312 +312,6 @@ NEGATIVE PROMPT: No cuts, distorted physics, duplicated people, disappearing obj
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-photorealistic-cinematic-one-take-chase-through-a-colorful-2467ff2506f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Pink-haired girl fights a giant bone spider in a ruined castle
-
-> The first monster was only the BEGINNING. Seedance 2.5 @dreamina_ai #dreamina #dreaminacreators Prompt VISUAL STYLE Ultra-realistic Hollywood cinematic dark fan…
-
-[<img src="https://media.goodcase.ai/cases/e3f25a8447ff.jpg" width="600" alt="Pink-haired girl fights a giant bone spider in a ruined castle">](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-9b8359c04675?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2122037876124987416) | **Published:** 2026-11-15 | **Heat:** 77
-
-<details>
-<summary><b>Full prompt (288 lines, click to expand)</b></summary>
-
-```
-The first monster was only the BEGINNING.
-
-Seedance 2.5 @dreamina_ai 
-
-#dreamina #dreaminacreators
-
-Prompt
-
-VISUAL STYLE
-Ultra-realistic Hollywood cinematic dark fantasy horror, terrifying giant skeletal spider creature, extreme survival action, nonstop monster attacks, brutal environmental destruction, intense chase sequences, realistic physics, dynamic handheld camera movements, horrifying creature sound effects, dramatic lighting, detailed particle simulations, cinematic motion blur, 4K resolution, 16:9 widescreen, 60 FPS.
-CHARACTER — FEMALE WARRIOR
-
-A beautiful young female warrior @Image 1, age 25, with long pastel-pink hair, a slim athletic body, and icy-blue eyes.
-
-She wears the exact baby-blue and white princess-inspired coquette two-piece outfit shown in the reference image, featuring:
-
-A pearl-embellished cropped corset with delicate white lace trimming.
-
-Soft baby-blue satin panels and decorative blue satin ribbons.
-
-Romantic off-shoulder white puff sleeves.
-
-A matching baby-blue and white mini skirt.
-
-An oversized glossy baby-blue satin bow.
-A delicate blue heart pendant.
-Beautiful baby-blue hair bows.
-Preserve every outfit detail, fabric texture, color, accessory, hairstyle, and facial feature exactly as shown in @Image 1.
-WEAPON CONTINUITY: She holds a sharp steel spear firmly in her RIGHT HAND at all times. The spear must remain in her right hand during every action sequence, including combat, sliding, jumping, falling, running, and entering the next chamber.
-MONSTER — THE BONE SPIDER
-An enormous 25-foot-tall skeletal spider @Image 2.
-
-Its terrifying body is constructed from ancient human and animal bones, featuring eight enormous skeletal legs with razor-sharp tips, a cracked skull-like head, multiple glowing blood-red eyes, horrifying mandibles, and long protruding bone spikes.
-
-Thick black smoke continuously escapes from the joints of its skeletal body.
-
-Maintain the exact creature design from @Image 2, including its skull structure, skeletal proportions, red eyes, eight legs, and overall appearance.
-
-ENVIRONMENT — THE ABANDONED CASTLE
-
-Reference: @Image 3
-
-A terrifying abandoned underground medieval castle filled with broken stone pillars, enormous hanging spider webs, cracked ceilings, ancient skeletons, narrow dark corridors, and flickering wall-mounted torches.
-
-Dust floats through the cold air. Deep shadows cover the ancient stone walls, creating a claustrophobic and horrifying atmosphere.
-
-Preserve the exact architectural appearance, lighting style, textures, and environmental details from @Image 3.
-
-SCENE 1 (0–3 SEC): EXPLOSIVE OPENING HOOK
-
-THE VIDEO MUST BEGIN DIRECTLY WITH A TERRIFYING MONSTER ATTACK.
-
-The young female warrior @Image 1 stands inside the dark medieval castle corridor @Image 3, gripping her steel spear tightly in her RIGHT HAND.
-
-SUDDENLY, THE CEILING VIOLENTLY EXPLODES!
-
-An enormous 25-foot skeletal spider @Image 2 crashes through the ceiling and lands directly IN FRONT OF the girl, completely blocking her path.
-
-BOOOOOOM!
-
-Massive stone blocks crash onto the floor. Broken debris and thick clouds of dust explode in every direction.
-
-The giant spider lowers its enormous skull-like face until it is terrifyingly close to the girl's face.
-
-It opens its horrifying mandibles and unleashes a deafening scream.
-
-Female Dialogue (English, shocked): "WHATTTT?!"
-
-The camera captures an extreme close-up of the monster's glowing red eyes and razor-sharp mandibles.
-
-CAMERA: Violent handheld impact shake, low-angle monster reveal, rapid push-in toward the creature's terrifying skull.
-
-SCENE 2 (3–7 SEC): THE DEADLY FIRST ATTACK
-
-The giant skeletal spider @Image 2 swings one of its enormous bone legs toward the female warrior @Image 1 at terrifying speed.
-
-At the very last second, she slides across the stone floor, narrowly avoiding the attack.
-
-CRAAAAASH!
-
-The spider's enormous leg smashes into the ground, violently destroying the stone floor.
-
-The girl immediately recovers and charges toward the monster, keeping her steel spear firmly gripped in her RIGHT HAND.
-
-Suddenly, the monster opens its horrifying mouth and shoots thick, black, sticky spider webs directly toward her.
-
-She performs a powerful sideways jump, narrowly avoiding the incoming webs while maintaining her right-hand grip on the spear.
-
-CAMERA: Fast ground-level tracking shot, dynamic side-angle dodge, realistic debris and web physics.
-
-SCENE 3 (7–12 SEC): THE WALL OF BONES
-
-The giant skeletal spider suddenly climbs onto the castle walls and ceiling at terrifying speed.
-
-Its eight enormous skeletal legs violently strike the ancient stone surfaces as it moves.
-
-Without warning, the monster drops from above and lands directly BEHIND the girl.
-
-The female warrior instantly turns around, her steel spear still firmly held in her RIGHT HAND.
-
-The spider spreads its enormous skeletal legs, completely blocking every escape route.
-
-Its horrifying skull-like head moves closer.
-
-The monster opens its enormous mouth, revealing razor-sharp mandibles and a glowing red interior.
-
-The girl immediately thrusts her steel spear forward with her RIGHT HAND, driving the sharp tip directly into the monster's open mouth.
-
-CRAAAAACK!
-
-The creature unleashes a violent, deafening scream.
-
-Massive cracks begin spreading across its skeletal skull.
-
-CAMERA: Rapid over-the-shoulder shot, extreme close-up of the spear impact, violent monster reaction.
-
-SCENE 4 (12–17 SEC): THE MONSTER EXPLODES
-
-The female warrior pushes her steel spear deeper into the monster's glowing red core, maintaining a powerful RIGHT-HAND grip.
-
-Suddenly, the entire skeletal body begins shaking uncontrollably.
-
-The monster's eight enormous bone legs start cracking.
-
-Glowing red energy spreads through its skeletal structure.
-
-BOOOOOOOOOOM!
-
-The giant spider violently explodes into hundreds of shattered bone fragments.
-
-Broken skeletal pieces fly across the castle corridor.
-
-The powerful shockwave throws the female warrior backward.
-
-She crashes onto the stone floor and slides across the ground, protecting herself with her free left arm while keeping the steel spear securely in her RIGHT HAND.
-
-Thick dust and black smoke rapidly fill the corridor.
-
-CAMERA: Wide cinematic explosion shot, dramatic shockwave impact, ground-level tracking of the warrior sliding backward.
-
-SCENE 5 (17–22 SEC): THE HORRIFYING TWIST
-
-The female warrior slowly rises from the stone floor, breathing heavily.
-
-Her steel spear remains tightly gripped in her RIGHT HAND.
-
-She stares at the shattered remains of the giant skeletal spider.
-
-For a brief moment, she believes the monster is finally dead.
-
-Suddenly, strange clicking sounds begin coming from inside the creature's broken skull.
-
-CLICK... CLICK... CLICK...
-
-The camera rapidly pushes toward the shattered skull.
-
-Inside its hollow eye sockets, HUNDREDS OF TINY GLOWING RED EYES SUDDENLY OPEN!
-
-Without warning, approximately 100 small skeletal spiders burst out of the giant spider's shattered body.
-
-They crawl out through the broken ribs, cracked skull, and shattered skeletal joints.
-
-The tiny monsters rapidly spread across the stone floor, walls, and surrounding debris.
-
-They begin charging directly toward the female warrior at horrifying speed.
-
-Female Dialogue (English, terrified): "OH GOD... THERE'S MORE!"
-
-CAMERA: Extreme macro close-up of glowing eyes, rapid pullback revealing the entire swarm, frantic handheld movement.
-
-SCENE 6 (22–27 SEC): THE NIGHTMARE SWARM
-
-The female warrior turns and runs at full speed through the dark medieval corridor.
-
-Her steel spear remains firmly in her RIGHT HAND throughout the chase.
-
-Hundreds of small skeletal spiders pursue her relentlessly.
-
-They crawl across the walls, ceiling, and floor, moving with terrifying speed.
-
-Their tiny skeletal legs produce rapid, horrifying clicking sounds.
-
-While running, the girl swings her steel spear with her RIGHT HAND, knocking several approaching spiders away without releasing her weapon.
-
-Suddenly, she reaches an enormous ancient wooden door.
-
-She pushes the door open with her LEFT HAND while continuing to hold the spear in her RIGHT HAND.
-
-She immediately rushes inside the next chamber.
-
-ONLY AFTER SHE HAS COMPLETELY ENTERED THE ROOM, THE HEAVY WOODEN DOOR SLAMS SHUT BEHIND HER!
-
-BOOOOOOM!
-
-The skeletal spiders remain outside and violently attack the closed wooden door with hundreds of tiny claws.
-
-The door shakes under their relentless assault.
-
-CAMERA: Fast tracking shot from behind, side-angle sprint, close-up of her left hand pushing the door, dramatic interior shot as the door slams shut behind her.
-
-SCENE 7 (27–30 SEC): FINAL SHOCKING ENDING
-
-Inside the dark chamber, the female warrior stands motionless, breathing heavily.
-
-She is still holding her steel spear firmly in her RIGHT HAND.
-
-For one brief moment, she believes she has escaped.
-
-She slowly looks STRAIGHT AHEAD.
-
-Suddenly, in the darkness directly IN FRONT OF HER, EIGHT ENORMOUS GLOWING RED EYES OPEN SIMULTANEOUSLY.
-
-A horrifying 60-FOOT-TALL MOTHER BONE SPIDER emerges from the darkness.
-
-Its gigantic skeletal body towers above the girl.
-
-Its enormous skull-like head moves forward until it is terrifyingly close to her face.
-
-The girl freezes in absolute horror.
-
-Female Dialogue (English, terrified whisper): "That's... their mother."
-
-The Mother Bone Spider suddenly opens its enormous mouth, revealing gigantic razor-sharp mandibles.
-
-WITHOUT WARNING, THE MONSTER LUNGES DIRECTLY TOWARD THE GIRL WITH TERRIFYING SPEED!
-
-SMASH CUT TO BLACK.
-
-FINAL SFX: Deafening monster scream followed by complete silence.
-
-STRICT CINEMATIC REQUIREMENTS
-
-1. ABSOLUTE RIGHT-HAND SPEAR CONTINUITY
-
-The steel spear must remain in the female warrior's RIGHT HAND for the entire 30-second video.
-
-Never place the spear in her left hand.
-
-Never make the spear disappear.
-
-Never allow her to drop or throw the spear.
-
-During the stabbing scenes, she must keep her right hand gripping the spear shaft.
-
-During the explosion, she must retain her right-hand grip.
-
-During the chase, she must carry the spear in her right hand.
-
-When opening the wooden door, she must use her LEFT HAND while holding the spear in her RIGHT HAND.
-During the final Mother Spider reveal, the spear must still be visible in her RIGHT HAND.
-2. CHARACTER IDENTITY LOCK
-Maintain the exact face, pastel-pink hair, icy-blue eyes, baby-blue and white princess outfit, blue bows, pearl details, and accessories from @Image 1 throughout every scene.
-No facial changes, outfit changes, missing accessories, or random transformations.
-3. MONSTER CONSISTENCY
-The original giant skeletal spider must match @Image 2, with exactly eight skeletal legs, a consistent skull design, glowing red eyes, and black smoke emerging from its joints.
-The smaller skeletal spiders must appear as miniature versions of the original monster.
-
-The Mother Bone Spider must be significantly larger and more terrifying than the first creature.
-
-4. ACTION AND PHYSICS
-
-Realistic gravity, believable combat movements, accurate spear handling, realistic monster weight, physically convincing stone destruction, detailed dust simulations, and natural character reactions.
-
-No cartoon physics, floating characters, impossible movements, random teleportation, or inconsistent creature anatomy.
-
-5. CAMERA AND PACING
-
-The first second must immediately show the terrifying ceiling-breaking monster attack.
-
-No peaceful opening, no introductions, no unnecessary walking.
-
-Introduce a new threat, attack, escape, or horrifying reveal every 3–5 seconds.
-
-Use fast cinematic tracking shots, extreme close-ups, low-angle monster shots, dynamic handheld camera movements, and powerful impact shots.
-
-6. SOUND DESIGN
-
-Deafening monster roars, violent stone impacts, cracking bones, rapid skeletal clicking, terrifying spider screams, intense cinematic bass, realistic footsteps, heavy breathing, and dramatic silence before the final attack.
-
-7. ENDING
-
-The final scene must reveal the enormous Mother Bone Spider directly in frot of the girl.
-
-The Mother Spider must lunge toward the girl, not toward an unrelated character or empty space.
-
-End with an immediate smash cut to black at the exact moment of attack.
-
-FINAL OUTPUT: A terrifying, ultra-realistic, 30-second Hollywood monster-survival sequence featuring nonstop action, shocking creature reveals, consistent character identity, precise right-hand spear continuity, and an unforgettable cliffhanger.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-9b8359c04675?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A reindeer-riding man fights pale mutants in a foggy ruined city
 
@@ -1769,53 +1541,6 @@ No text, no subtitles, no logos, no watermark.
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/caden-flux-seedance-ai-473fedbbc75f?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Static-Awakened Girl Fights Back in a School Gym
-
-> Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
-
-[<img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="600" alt="Static-Awakened Girl Fights Back in a School Gym">](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2091388398153994395) | **Published:** 2026-08-23 | **Heat:** 77
-
-**Stability:** 80/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.4) · [output](https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (25 lines, click to expand)</b></summary>
-
-```
-30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
-
-SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
-
-00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
-
-03–06: He swings again.
-
-06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
-
-09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
-
-12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
-
-17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
-
-22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
-
-27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
-
-COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
-
-STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
-
-CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A man fights off three muggers in a rainy Seoul alley
 
 > Wrong target. Big mistake. One man, three attackers, and a fight they won't forget. Never underestimate the quiet ones. Created with seedance 2.5 on @frameo_ai …
@@ -1874,6 +1599,312 @@ Important Requirements:
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-title-the-wrong-target-0ce4f0cea1e6?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Pink-haired girl fights a giant bone spider in a ruined castle
+
+> The first monster was only the BEGINNING. Seedance 2.5 @dreamina_ai #dreamina #dreaminacreators Prompt VISUAL STYLE Ultra-realistic Hollywood cinematic dark fan…
+
+[<img src="https://media.goodcase.ai/cases/e3f25a8447ff.jpg" width="600" alt="Pink-haired girl fights a giant bone spider in a ruined castle">](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-9b8359c04675?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2122037876124987416) | **Published:** 2026-11-15 | **Heat:** 76
+
+<details>
+<summary><b>Full prompt (288 lines, click to expand)</b></summary>
+
+```
+The first monster was only the BEGINNING.
+
+Seedance 2.5 @dreamina_ai 
+
+#dreamina #dreaminacreators
+
+Prompt
+
+VISUAL STYLE
+Ultra-realistic Hollywood cinematic dark fantasy horror, terrifying giant skeletal spider creature, extreme survival action, nonstop monster attacks, brutal environmental destruction, intense chase sequences, realistic physics, dynamic handheld camera movements, horrifying creature sound effects, dramatic lighting, detailed particle simulations, cinematic motion blur, 4K resolution, 16:9 widescreen, 60 FPS.
+CHARACTER — FEMALE WARRIOR
+
+A beautiful young female warrior @Image 1, age 25, with long pastel-pink hair, a slim athletic body, and icy-blue eyes.
+
+She wears the exact baby-blue and white princess-inspired coquette two-piece outfit shown in the reference image, featuring:
+
+A pearl-embellished cropped corset with delicate white lace trimming.
+
+Soft baby-blue satin panels and decorative blue satin ribbons.
+
+Romantic off-shoulder white puff sleeves.
+
+A matching baby-blue and white mini skirt.
+
+An oversized glossy baby-blue satin bow.
+A delicate blue heart pendant.
+Beautiful baby-blue hair bows.
+Preserve every outfit detail, fabric texture, color, accessory, hairstyle, and facial feature exactly as shown in @Image 1.
+WEAPON CONTINUITY: She holds a sharp steel spear firmly in her RIGHT HAND at all times. The spear must remain in her right hand during every action sequence, including combat, sliding, jumping, falling, running, and entering the next chamber.
+MONSTER — THE BONE SPIDER
+An enormous 25-foot-tall skeletal spider @Image 2.
+
+Its terrifying body is constructed from ancient human and animal bones, featuring eight enormous skeletal legs with razor-sharp tips, a cracked skull-like head, multiple glowing blood-red eyes, horrifying mandibles, and long protruding bone spikes.
+
+Thick black smoke continuously escapes from the joints of its skeletal body.
+
+Maintain the exact creature design from @Image 2, including its skull structure, skeletal proportions, red eyes, eight legs, and overall appearance.
+
+ENVIRONMENT — THE ABANDONED CASTLE
+
+Reference: @Image 3
+
+A terrifying abandoned underground medieval castle filled with broken stone pillars, enormous hanging spider webs, cracked ceilings, ancient skeletons, narrow dark corridors, and flickering wall-mounted torches.
+
+Dust floats through the cold air. Deep shadows cover the ancient stone walls, creating a claustrophobic and horrifying atmosphere.
+
+Preserve the exact architectural appearance, lighting style, textures, and environmental details from @Image 3.
+
+SCENE 1 (0–3 SEC): EXPLOSIVE OPENING HOOK
+
+THE VIDEO MUST BEGIN DIRECTLY WITH A TERRIFYING MONSTER ATTACK.
+
+The young female warrior @Image 1 stands inside the dark medieval castle corridor @Image 3, gripping her steel spear tightly in her RIGHT HAND.
+
+SUDDENLY, THE CEILING VIOLENTLY EXPLODES!
+
+An enormous 25-foot skeletal spider @Image 2 crashes through the ceiling and lands directly IN FRONT OF the girl, completely blocking her path.
+
+BOOOOOOM!
+
+Massive stone blocks crash onto the floor. Broken debris and thick clouds of dust explode in every direction.
+
+The giant spider lowers its enormous skull-like face until it is terrifyingly close to the girl's face.
+
+It opens its horrifying mandibles and unleashes a deafening scream.
+
+Female Dialogue (English, shocked): "WHATTTT?!"
+
+The camera captures an extreme close-up of the monster's glowing red eyes and razor-sharp mandibles.
+
+CAMERA: Violent handheld impact shake, low-angle monster reveal, rapid push-in toward the creature's terrifying skull.
+
+SCENE 2 (3–7 SEC): THE DEADLY FIRST ATTACK
+
+The giant skeletal spider @Image 2 swings one of its enormous bone legs toward the female warrior @Image 1 at terrifying speed.
+
+At the very last second, she slides across the stone floor, narrowly avoiding the attack.
+
+CRAAAAASH!
+
+The spider's enormous leg smashes into the ground, violently destroying the stone floor.
+
+The girl immediately recovers and charges toward the monster, keeping her steel spear firmly gripped in her RIGHT HAND.
+
+Suddenly, the monster opens its horrifying mouth and shoots thick, black, sticky spider webs directly toward her.
+
+She performs a powerful sideways jump, narrowly avoiding the incoming webs while maintaining her right-hand grip on the spear.
+
+CAMERA: Fast ground-level tracking shot, dynamic side-angle dodge, realistic debris and web physics.
+
+SCENE 3 (7–12 SEC): THE WALL OF BONES
+
+The giant skeletal spider suddenly climbs onto the castle walls and ceiling at terrifying speed.
+
+Its eight enormous skeletal legs violently strike the ancient stone surfaces as it moves.
+
+Without warning, the monster drops from above and lands directly BEHIND the girl.
+
+The female warrior instantly turns around, her steel spear still firmly held in her RIGHT HAND.
+
+The spider spreads its enormous skeletal legs, completely blocking every escape route.
+
+Its horrifying skull-like head moves closer.
+
+The monster opens its enormous mouth, revealing razor-sharp mandibles and a glowing red interior.
+
+The girl immediately thrusts her steel spear forward with her RIGHT HAND, driving the sharp tip directly into the monster's open mouth.
+
+CRAAAAACK!
+
+The creature unleashes a violent, deafening scream.
+
+Massive cracks begin spreading across its skeletal skull.
+
+CAMERA: Rapid over-the-shoulder shot, extreme close-up of the spear impact, violent monster reaction.
+
+SCENE 4 (12–17 SEC): THE MONSTER EXPLODES
+
+The female warrior pushes her steel spear deeper into the monster's glowing red core, maintaining a powerful RIGHT-HAND grip.
+
+Suddenly, the entire skeletal body begins shaking uncontrollably.
+
+The monster's eight enormous bone legs start cracking.
+
+Glowing red energy spreads through its skeletal structure.
+
+BOOOOOOOOOOM!
+
+The giant spider violently explodes into hundreds of shattered bone fragments.
+
+Broken skeletal pieces fly across the castle corridor.
+
+The powerful shockwave throws the female warrior backward.
+
+She crashes onto the stone floor and slides across the ground, protecting herself with her free left arm while keeping the steel spear securely in her RIGHT HAND.
+
+Thick dust and black smoke rapidly fill the corridor.
+
+CAMERA: Wide cinematic explosion shot, dramatic shockwave impact, ground-level tracking of the warrior sliding backward.
+
+SCENE 5 (17–22 SEC): THE HORRIFYING TWIST
+
+The female warrior slowly rises from the stone floor, breathing heavily.
+
+Her steel spear remains tightly gripped in her RIGHT HAND.
+
+She stares at the shattered remains of the giant skeletal spider.
+
+For a brief moment, she believes the monster is finally dead.
+
+Suddenly, strange clicking sounds begin coming from inside the creature's broken skull.
+
+CLICK... CLICK... CLICK...
+
+The camera rapidly pushes toward the shattered skull.
+
+Inside its hollow eye sockets, HUNDREDS OF TINY GLOWING RED EYES SUDDENLY OPEN!
+
+Without warning, approximately 100 small skeletal spiders burst out of the giant spider's shattered body.
+
+They crawl out through the broken ribs, cracked skull, and shattered skeletal joints.
+
+The tiny monsters rapidly spread across the stone floor, walls, and surrounding debris.
+
+They begin charging directly toward the female warrior at horrifying speed.
+
+Female Dialogue (English, terrified): "OH GOD... THERE'S MORE!"
+
+CAMERA: Extreme macro close-up of glowing eyes, rapid pullback revealing the entire swarm, frantic handheld movement.
+
+SCENE 6 (22–27 SEC): THE NIGHTMARE SWARM
+
+The female warrior turns and runs at full speed through the dark medieval corridor.
+
+Her steel spear remains firmly in her RIGHT HAND throughout the chase.
+
+Hundreds of small skeletal spiders pursue her relentlessly.
+
+They crawl across the walls, ceiling, and floor, moving with terrifying speed.
+
+Their tiny skeletal legs produce rapid, horrifying clicking sounds.
+
+While running, the girl swings her steel spear with her RIGHT HAND, knocking several approaching spiders away without releasing her weapon.
+
+Suddenly, she reaches an enormous ancient wooden door.
+
+She pushes the door open with her LEFT HAND while continuing to hold the spear in her RIGHT HAND.
+
+She immediately rushes inside the next chamber.
+
+ONLY AFTER SHE HAS COMPLETELY ENTERED THE ROOM, THE HEAVY WOODEN DOOR SLAMS SHUT BEHIND HER!
+
+BOOOOOOM!
+
+The skeletal spiders remain outside and violently attack the closed wooden door with hundreds of tiny claws.
+
+The door shakes under their relentless assault.
+
+CAMERA: Fast tracking shot from behind, side-angle sprint, close-up of her left hand pushing the door, dramatic interior shot as the door slams shut behind her.
+
+SCENE 7 (27–30 SEC): FINAL SHOCKING ENDING
+
+Inside the dark chamber, the female warrior stands motionless, breathing heavily.
+
+She is still holding her steel spear firmly in her RIGHT HAND.
+
+For one brief moment, she believes she has escaped.
+
+She slowly looks STRAIGHT AHEAD.
+
+Suddenly, in the darkness directly IN FRONT OF HER, EIGHT ENORMOUS GLOWING RED EYES OPEN SIMULTANEOUSLY.
+
+A horrifying 60-FOOT-TALL MOTHER BONE SPIDER emerges from the darkness.
+
+Its gigantic skeletal body towers above the girl.
+
+Its enormous skull-like head moves forward until it is terrifyingly close to her face.
+
+The girl freezes in absolute horror.
+
+Female Dialogue (English, terrified whisper): "That's... their mother."
+
+The Mother Bone Spider suddenly opens its enormous mouth, revealing gigantic razor-sharp mandibles.
+
+WITHOUT WARNING, THE MONSTER LUNGES DIRECTLY TOWARD THE GIRL WITH TERRIFYING SPEED!
+
+SMASH CUT TO BLACK.
+
+FINAL SFX: Deafening monster scream followed by complete silence.
+
+STRICT CINEMATIC REQUIREMENTS
+
+1. ABSOLUTE RIGHT-HAND SPEAR CONTINUITY
+
+The steel spear must remain in the female warrior's RIGHT HAND for the entire 30-second video.
+
+Never place the spear in her left hand.
+
+Never make the spear disappear.
+
+Never allow her to drop or throw the spear.
+
+During the stabbing scenes, she must keep her right hand gripping the spear shaft.
+
+During the explosion, she must retain her right-hand grip.
+
+During the chase, she must carry the spear in her right hand.
+
+When opening the wooden door, she must use her LEFT HAND while holding the spear in her RIGHT HAND.
+During the final Mother Spider reveal, the spear must still be visible in her RIGHT HAND.
+2. CHARACTER IDENTITY LOCK
+Maintain the exact face, pastel-pink hair, icy-blue eyes, baby-blue and white princess outfit, blue bows, pearl details, and accessories from @Image 1 throughout every scene.
+No facial changes, outfit changes, missing accessories, or random transformations.
+3. MONSTER CONSISTENCY
+The original giant skeletal spider must match @Image 2, with exactly eight skeletal legs, a consistent skull design, glowing red eyes, and black smoke emerging from its joints.
+The smaller skeletal spiders must appear as miniature versions of the original monster.
+
+The Mother Bone Spider must be significantly larger and more terrifying than the first creature.
+
+4. ACTION AND PHYSICS
+
+Realistic gravity, believable combat movements, accurate spear handling, realistic monster weight, physically convincing stone destruction, detailed dust simulations, and natural character reactions.
+
+No cartoon physics, floating characters, impossible movements, random teleportation, or inconsistent creature anatomy.
+
+5. CAMERA AND PACING
+
+The first second must immediately show the terrifying ceiling-breaking monster attack.
+
+No peaceful opening, no introductions, no unnecessary walking.
+
+Introduce a new threat, attack, escape, or horrifying reveal every 3–5 seconds.
+
+Use fast cinematic tracking shots, extreme close-ups, low-angle monster shots, dynamic handheld camera movements, and powerful impact shots.
+
+6. SOUND DESIGN
+
+Deafening monster roars, violent stone impacts, cracking bones, rapid skeletal clicking, terrifying spider screams, intense cinematic bass, realistic footsteps, heavy breathing, and dramatic silence before the final attack.
+
+7. ENDING
+
+The final scene must reveal the enormous Mother Bone Spider directly in frot of the girl.
+
+The Mother Spider must lunge toward the girl, not toward an unrelated character or empty space.
+
+End with an immediate smash cut to black at the exact moment of attack.
+
+FINAL OUTPUT: A terrifying, ultra-realistic, 30-second Hollywood monster-survival sequence featuring nonstop action, shocking creature reveals, consistent character identity, precise right-hand spear continuity, and an unforgettable cliffhanger.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-9b8359c04675?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Girl Uses Telekinesis to Reclaim Her Necklace and Defy a Rooftop Bully
 
@@ -2301,6 +2332,53 @@ Mood: nostalgic Japanese childhood winter, friendship, warmth, discovery, and an
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-mysterious-train-station-is-buried-beneath-the-snow-and-three-friends-are-de-118e70d4e33e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Static-Awakened Girl Fights Back in a School Gym
+
+> Super Woman finally revealed her powers. Seedance 2.5 prompt: 30s | 16:9 | one continuous generation | ultra-photorealis
+
+[<img src="https://media.goodcase.ai/cases/330ec609dd7e.jpg" width="600" alt="Static-Awakened Girl Fights Back in a School Gym">](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2091388398153994395) | **Published:** 2026-08-23 | **Heat:** 76
+
+**Stability:** 80/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 80.4) · [output](https://media.goodcase.ai/retests/doctorwasif-seedance-ai-8a78efcb37f9/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (25 lines, click to expand)</b></summary>
+
+```
+30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
+
+SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
+
+00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
+
+03–06: He swings again.
+
+06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
+
+09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
+
+12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
+
+17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
+
+22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
+
+27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
+
+COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
+
+STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
+
+CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability > chaos.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/doctorwasif-seedance-ai-8a78efcb37f9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Seedance 2.5 Thirty-Second 1080p Hyperreal Fantasy Epic
 
 > Seedance 2.5 1080P is now available on @itsPolloAI — and it’s 50% off right now. I tested it with this cinematic motorcy
@@ -2433,6 +2511,93 @@ Teleportation, clones, duplicates, extra/missing limbs, malformed anatomy, broke
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-ai-8085c03efbb0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Sports-ad montage of sprint, boxing, basketball, and surfing
+
+> Put 3 AI models to the same prompt test. Now I'm curious to know which one nailed it. What's your pick ?? 1- Seedance 2.5 2- Minimax 3- Gemini Omni Flash Made w…
+
+[<img src="https://media.goodcase.ai/cases/734b08194857.jpg" width="600" alt="Sports-ad montage of sprint, boxing, basketball, and surfing">](https://goodcase.ai/cases/seedance-2-5-explosive-sprint-start-on-professional-track-stadium-close-up-of-spikes-pushin-804378ee0755?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @iam_mian7 | **Source:** [Original](https://x.com/iam_mian7/status/2125519396420432258) | **Published:** 2026-11-25 | **Heat:** 75
+
+<details>
+<summary><b>Full prompt (32 lines, click to expand)</b></summary>
+
+```
+0–2s:
+Explosive sprint start on professional track stadium, close-up of spikes pushing off ground, slow-motion dust burst, low-angle tracking shot.
+2–3s:
+Basketball arena dunk, powerful vertical jump, rim shake in slow motion, dramatic upward camera tilt.
+3–4s:
+Push-ups on wet concrete surface, water droplets suspended mid-air, extreme close-up face determination.
+4–5s:
+Pull-ups on industrial steel bar, muscles flexing under cinematic side lighting, sweat texture visible.
+5–6s:
+Boxing combination punches in dark training arena, motion blur trails, dramatic spotlight.
+6–7s:
+Hurdle sprint jump, mid-air freeze frame effect, stadium background blur.
+7–8s:
+Parkour wall flip in urban sports facility, smooth gimbal follow shot.
+8–9s:
+Rope climb ascent, upward crane shot emphasizing strength and endurance.
+9–10s:
+Soccer freestyle control, precise juggling under stadium floodlights.
+10–11s:
+Basketball crossover dribble, fast orbit camera movement, crowd energy implied.
+11–12s:
+Sprint acceleration burst, rear tracking shot with dust trail and motion blur.
+12–13s:
+Swimming dive into crystal-clear pool, cinematic splash slow motion, underwater transition.
+13–14s:
+Surfing massive ocean wave, wide drone cinematic shot, golden sunlight reflection.
+14–15s:
+Hero shot: standing on stadium rooftop at sunset, wind blowing, city skyline behind, slow zoom out, inspirational pose.
+🎧 Audio Direction:
+High-energy sports commercial soundtrack — orchestral rise + modern trap percussion + stadium crowd build + final cinematic hit.
+Brand Keywords:
+premium sports commercial, Nike-style ad, athletic performance, cinematic realism, motivational branding, elite athlete, dynamic transitions, slow motion impact, stadium energy, luxury sports advertising
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-explosive-sprint-start-on-professional-track-stadium-close-up-of-spikes-pushin-804378ee0755?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A female shinobi duels a giant samurai in a rainy ruined temple
+
+> Hollywood called. AI took over the action scene. 🔥🎬 Seedance 2.5 model Prompt : Create a 30-second, 1080p ultra-photorealistic live-action Japanese supernatur…
+
+[<img src="https://media.goodcase.ai/cases/a25655f42516.jpg" width="600" alt="A female shinobi duels a giant samurai in a rainy ruined temple">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-1080p-ultra-photorealistic-live-action-japanese-supernatura-646ec29d0656?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aniyaintel | **Source:** [Original](https://x.com/aniyaintel/status/2125432882412061128) | **Published:** 2026-11-25 | **Heat:** 75
+
+<details>
+<summary><b>Full prompt (19 lines, click to expand)</b></summary>
+
+```
+Create a 30-second, 1080p ultra-photorealistic live-action Japanese supernatural martial arts battle featuring Hollywood-level action choreography, breathtaking cinematography, realistic physics, and spectacular practical-feeling VFX.
+
+OPENING SCENE: A beautiful, fierce Japanese female warrior in her early 20s stands in the middle of an ancient Japanese temple courtyard at night. She has long flowing black hair, intense eyes, and wears a fitted black shinobi combat outfit with layered dark robes, forearm wraps, a waist belt, and traditional black boots. Rain falls heavily as she faces a gigantic masked samurai warrior wearing dark ancient armor and carrying an enormous katana. Both prepare to attack.
+
+SCENE 1 – THE FIRST ATTACK: The masked samurai suddenly charges at incredible speed, swinging his massive katana toward her. She narrowly dodges, sliding beneath the blade as it smashes into the stone ground, sending fragments flying everywhere. She immediately launches a spinning kick toward his helmet, followed by a rapid combination of punches and elbow strikes. The camera follows every movement with dynamic tracking shots and brief cinematic slow motion.
+
+SCENE 2 – SWORD VS SHINOBI: The samurai unleashes a relentless series of powerful sword attacks. She dodges, blocks, and deflects each strike using her short black ninja blade. Sparks explode whenever their weapons collide. They exchange lightning-fast attacks, jumping across broken temple pillars and fighting through clouds of dust and rain. Every strike carries believable weight and physical impact.
+
+SCENE 3 – SUPERNATURAL POWER: The samurai raises his sword, releasing a gigantic wave of dark supernatural energy. She crosses her arms to defend herself, but the impact launches her backward through an ancient wooden structure. She lands on one knee, slowly rises, wipes the rain from her face, and forms precise ninja hand seals. Her eyes become intensely focused as powerful winds surround her.
+
+SCENE 4 – EPIC COUNTERATTACK: She suddenly disappears in a burst of black smoke. Multiple shadow clones emerge from different directions, attacking the samurai simultaneously. He desperately blocks their attacks, spinning his sword in every direction. The real woman appears above him, performing an incredible aerial spinning kick that sends him crashing through a massive stone gate.
+
+FINAL SCENE – THE FINISHING BLOW: As the samurai struggles to stand, she appears directly in front of him with unbelievable speed. She performs a powerful combination of three rapid strikes before delivering a devastating final kick to his chest. A massive shockwave erupts, sending rain, dust, broken stones, and leaves flying outward. The samurai's sword falls from his hand as he collapses onto the wet battlefield.
+
+ENDING SHOT: The female shinobi calmly turns away from her defeated opponent. Her long black hair moves naturally in the wind as she walks through the ruined temple courtyard. The camera slowly pulls backward, revealing the destroyed battlefield beneath the moonlight.
+
+VISUAL STYLE: AAA Hollywood live-action action movie, ultra-photorealistic Japanese dark fantasy, realistic human anatomy, authentic martial arts choreography, physically accurate weapon movements, detailed facial expressions, realistic skin textures, natural hair and clothing physics, cinematic rain simulation, dramatic moonlight, volumetric smoke, explosive debris, realistic sword sparks, dynamic camera tracking, carefully timed slow motion, seamless scene transitions, consistent character identity throughout.
+
+AUDIO: No background music, narration, subtitles, or unnecessary dialogue. Only realistic sword clashes, punches, kicks, footsteps, heavy breathing, rain, thunder, debris impacts, and powerful supernatural sound effects.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-1080p-ultra-photorealistic-live-action-japanese-supernatura-646ec29d0656?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Two Superfast Women Meet in a City Frozen in Time
 
@@ -3168,24 +3333,6 @@ Negative prompt: distorted faces, changing faces, character morphing, extra limb
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-10-second-cinematic-action-sequence-set-inside-a-gritty-modern-subway-82a998c1a0e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Synchronized Rotation of Model and Outfit Items
-
-> Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…
-
-[<img src="https://media.goodcase.ai/cases/725dd3117245.jpg" width="600" alt="Synchronized Rotation of Model and Outfit Items">](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2101148067458347258) | **Published:** 2026-09-19 | **Heat:** 74
-
-**Stability:** 62/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 62.2) · [output](https://media.goodcase.ai/retests/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Her Autumn Day in the City
 
 > city said fall in love with fall 🍂 not a bad day at all❤️ Created with Seedance 2.5 on @FishCreativeHQ Prompt: SCENE CONTEXT A 20-year-old East Asian woman spe…
@@ -3722,6 +3869,24 @@ NEGATIVE: No character change, face change, hairstyle change, outfit change, age
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-global-continuity-photorealistic-cinematic-16-9-834ae3f7de05?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Synchronized Rotation of Model and Outfit Items
+
+> Korean outfit style board Using GPT Image 2 and Seedance 2.5 Prompt : Create a clean, premium 8-second fashion infographic animation based on the outfit-board l…
+
+[<img src="https://media.goodcase.ai/cases/725dd3117245.jpg" width="600" alt="Synchronized Rotation of Model and Outfit Items">](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AIwithkhan | **Source:** [Original](https://x.com/AIwithkhan/status/2101148067458347258) | **Published:** 2026-09-19 | **Heat:** 73
+
+**Stability:** 62/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 62.2) · [output](https://media.goodcase.ai/retests/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a clean, premium 8-second fashion infographic animation based on the outfit-board layout. The entire composition remains visible on a white minimalist background.The female model on the right begins a smooth 360° rotation on her vertical axis, like a fashion showcase turntable. Her movement is elegant and continuous, maintaining natural posture and realistic cloth physics. Hair, skirt straps, and accessories react subtly to motion. At the exact same time, every item displayed inside the numbered boxes rotates synchronously:Necklace rotates slowly in 3D, revealing chain depth and pendant details. Hair bow spins gracefully around its center.Handhel d gaming console rotates on its vertical axis like a product commercial.Cargo mini skirt rotates 360° to showcase front, side, and back views.Platform boots rotate together like luxury product display renders. Black off-shoulder top rotates smoothly to reveal full garment shape.All items complete their rotations in perfect sync with the model's rotation speed. The boxes, numbers, typography, and layout remain fixed in position while only the products rotate inside their frames. Camera remains mostly static with a subtle cinematic push-in. Soft studio lighting, realistic shadows, clean commercial fashion-ad aesthetic, ultra-sharp details, premium motion graphics, smooth easing, luxury catalog presentation, 4K, 60fps.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-clean-premium-8-second-fashion-infographic-animation-based-on-the-out-e90669bb477e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Slow Autumn Travel Vlog in Kyoto
 
 > A quiet day in Kyoto, captured like a memory you almost forgot you had. 🍂 Created with Seedance 2.5 on @FishCreativeHQ Prompt: Create a photorealistic 30-secon…
@@ -3849,43 +4014,6 @@ Low tracking, front pursuit, side tracking, shoulder-mounted chase, whip-pans an
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-single-page-premium-hollywood-disaster-action-storyboard-in-16-9-wide-7cc2f22eaa0c?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Seaside Walk Turned Wholesome Korean Vlog
-
-> A simple seaside walk turned into the most unexpectedly wholesome Korean vlog. Made with Seedance 2.5 on @TapNow_AI Prompt: Preserve the exact facial features, …
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52.jpg" width="600" alt="Seaside Walk Turned Wholesome Korean Vlog">](https://goodcase.ai/cases/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ShamiWeb3 | **Source:** [Original](https://x.com/ShamiWeb3/status/2096101448090267992) | **Published:** 2026-09-05 | **Heat:** 73
-
-<details>
-<summary><b>Full prompt (19 lines, click to expand)</b></summary>
-
-```
-Preserve the exact facial features, identity, skin tone, and natural facial proportions from @image1 throughout. Do not copy the reference hairstyle or outfit. Outfit: lightweight cream sleeveless blouse, high-waisted faded blue jeans, white canvas sneakers, small gold hoop earrings, loose natural wavy hair. Authentic Korean woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, spontaneous reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
-
-00:00–00:04 Walking quickly down a narrow seaside alley while holding the camera, suddenly spotting the ocean at the end of the street. She turns the camera toward it and excitedly says in Korean, "잠깐, 바다가 보여요!"
-
-00:04–00:08 Runs toward a small harbor, laughing as the camera shakes heavily. She reaches the railing, leans over carefully, and watches fishing boats moving across the water.
-
-00:08–00:12 Spots a fisherman pulling in a small fishing net and asks if she can help. She grabs one end of the net, struggles with the weight, laughs, and says in Korean, "생각보다 훨씬 무거운데요?"
-
-00:12–00:16 The fisherman shows her a freshly caught fish. She reacts with wide-eyed surprise, steps backward laughing, then cautiously reaches out to touch it while saying, "우와, 진짜 크다!"
-
-00:16–00:20 Walks into a tiny harbor-side snack shop, discovers a bowl of freshly made fish cake soup, sits at the counter, takes a sip, and smiles with satisfaction.
-
-00:20–00:24 Steps outside holding the warm cup, notices a group of neighborhood grandmothers playing a casual Korean card game at a plastic table. She joins them briefly, laughs at their playful reactions, and gestures toward the camera.
-
-00:24–00:27 Walks along the harbor promenade eating a small ice cream, filming boats and seagulls before accidentally getting a little ice cream on her nose. She notices it and laughs.
-
-00:27–00:30 Stops beside the harbor railing as the wind moves her hair, turns the camera toward herself, smiles naturally, and says in Korean, "오늘 진짜 재밌었다. 다음에 또 올게요. 안녕!" She waves and the recording ends abruptly.
-
-Natural ambience only: ocean waves, seagulls, fishing boats, harbor conversations, footsteps, wind, net ropes, shop sounds, card-table laughter, distant scooters, and neighborhood activity. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera Korean vacation vlog with spontaneous actions, imperfect framing, authentic Korean dialogue, realistic human movement, and natural interactions. Aspect ratio: 16:9.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Thirty-Second Photoreal Nike Air Max Commercial
 
 > Created with Seedance 2.5 A late-night deadline, one creative idea, and an unexpected twist. Prompt: Create a 30-second ultra-photorealistic cinematic commercia…
@@ -3938,39 +4066,6 @@ AUDIO: Keyboard and notification sounds at the start, building into energetic ci
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-commercial-for-nike-air-max-c205a472781d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Woman in a cream winter jacket on a snowy cabin porch
-
-> cozy cabin snowy landscapes and a jacket designed for warmth and elegance The perfect winter aesthetic. Made with seedance 2.5 Prompt: Create a 30-second cinema…
-
-[<img src="https://media.goodcase.ai/cases/64fc9b0f4e70.jpg" width="600" alt="Woman in a cream winter jacket on a snowy cabin porch">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ClaraOnAI | **Source:** [Original](https://x.com/ClaraOnAI/status/2125225700336517601) | **Published:** 2026-11-24 | **Heat:** 72
-
-<details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
-
-```
-Create a 30-second cinematic winter jacket commercial, closely following the original video's scene composition, pacing, camera movements, and shot sequence. Replace the original woman with a different young adult woman, around 24 years old, with long dark brown hair and a natural appearance.
-
-Scene 1 (0–5 seconds): Establish the exact cozy rustic wooden cabin porch, wooden walls, red cabin door, outdoor chair, small table, lantern, and snow-covered pine forest. Cinematic slow camera movement.
-
-Scene 2 (5–10 seconds): The young woman wearing a premium cream-white padded winter jacket, brown knit sweater, black winter pants, and black boots slowly steps out through the cabin door onto the snowy porch. Keep the framing and movement similar to the original.
-
-Scene 3 (10–15 seconds): A medium cinematic shot as she walks naturally along the wooden porch, with the snowy pine trees in the background. The camera gently tracks her movement.
-
-Scene 4 (15–20 seconds): She pauses near the porch railing, gently adjusts the collar of her cream-white jacket, and looks toward the snowy forest. Soft natural expressions and realistic movement.
-
-Scene 5 (20–25 seconds): Cinematic close-up of the jacket, showing its padded texture, stitching, zipper, collar, and premium fabric details. Her hand gently touches and adjusts the collar.
-
-Scene 6 (25–30 seconds): A beautiful final cinematic shot of the woman standing on the snowy cabin porch, with snow-covered trees behind her. Slow camera push-in, soft winter lighting, premium fashion advertisement look.
-
-Photorealistic cinematic commercial, consistent character and outfit in every shot, realistic body movement, natural lighting, high-end winter fashion advertising, smooth transitions, 4K visual quality. Preserve the original video's overall atmosphere and shot style.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A shop clerk presents headphones and a speaker in a game store
 
@@ -4043,42 +4138,6 @@ Negative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed han
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-hyper-realistic-cinematic-4k-video-in-16-9-aspect-ratio-24-fps-featu-7e91ba9f6151?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A pregnant couple imagine their baby winning a Formula 1 race
-
-> Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format. Scene 1: A beautiful pregnan…
-
-[<img src="https://media.goodcase.ai/cases/0b61db923e30.jpg" width="600" alt="A pregnant couple imagine their baby winning a Formula 1 race">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2ff9862a313d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2120119829294461389) | **Published:** 2026-11-10 | **Heat:** 72
-
-<details>
-<summary><b>Full prompt (18 lines, click to expand)</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format.
-
-Scene 1: A beautiful pregnant woman with long, wavy dark brown hair, big expressive blue eyes, wearing a purple and white striped dress, sits comfortably in the passenger seat of a modern car. Her husband, a handsome young man with curly dark hair, wearing a white striped shirt, is driving. The woman gently rests both hands on her pregnant belly and smiles.
-
-Scene 2: Transition into a magical fantasy visualization inside the mother's womb. Reveal a spectacular miniature Formula 1 racing circuit surrounded by glowing orange and red organic tunnels, sparkling particles, dramatic lighting, and winding race tracks.
-
-Scene 3: A cute chubby baby with big blue eyes, wearing a professional red racing suit and a red racing helmet, drives a miniature red Formula 1 Ferrari-style go-kart numbered 1. Show exciting high-speed racing, sharp turns, realistic tire movement, cinematic camera tracking, and dynamic motion blur.
-
-Scene 4: The adorable baby crosses the finish line and wins the race. The baby happily raises a golden trophy while sitting in the red racing car. A checkered racing flag waves in the background, with celebratory lights and confetti.
-
-Scene 5: Cut back to the car interior. The pregnant woman and her husband look at each other and laugh joyfully, sharing a sweet romantic moment while gently touching her belly.
-
-Visual Style: Premium Pixar-inspired 3D animation, adorable character design, expressive facial emotions, ultra-detailed environments, cinematic lighting, smooth animation, vibrant colors, realistic fabric textures, consistent characters throughout all scenes, professional camera movements, high-quality rendering, funny and heartwarming storytelling.
-
-Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles, no watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2ff9862a313d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman in a bedroom covers her face, then talks to the camera
 
@@ -4318,6 +4377,43 @@ FINALLY: skin and movement should look like real travel footage, not AI-generate
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-on-95624dd6486e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Seaside Walk Turned Wholesome Korean Vlog
+
+> A simple seaside walk turned into the most unexpectedly wholesome Korean vlog. Made with Seedance 2.5 on @TapNow_AI Prompt: Preserve the exact facial features, …
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52.jpg" width="600" alt="Seaside Walk Turned Wholesome Korean Vlog">](https://goodcase.ai/cases/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ShamiWeb3 | **Source:** [Original](https://x.com/ShamiWeb3/status/2096101448090267992) | **Published:** 2026-09-05 | **Heat:** 72
+
+<details>
+<summary><b>Full prompt (19 lines, click to expand)</b></summary>
+
+```
+Preserve the exact facial features, identity, skin tone, and natural facial proportions from @image1 throughout. Do not copy the reference hairstyle or outfit. Outfit: lightweight cream sleeveless blouse, high-waisted faded blue jeans, white canvas sneakers, small gold hoop earrings, loose natural wavy hair. Authentic Korean woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, spontaneous reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+
+00:00–00:04 Walking quickly down a narrow seaside alley while holding the camera, suddenly spotting the ocean at the end of the street. She turns the camera toward it and excitedly says in Korean, "잠깐, 바다가 보여요!"
+
+00:04–00:08 Runs toward a small harbor, laughing as the camera shakes heavily. She reaches the railing, leans over carefully, and watches fishing boats moving across the water.
+
+00:08–00:12 Spots a fisherman pulling in a small fishing net and asks if she can help. She grabs one end of the net, struggles with the weight, laughs, and says in Korean, "생각보다 훨씬 무거운데요?"
+
+00:12–00:16 The fisherman shows her a freshly caught fish. She reacts with wide-eyed surprise, steps backward laughing, then cautiously reaches out to touch it while saying, "우와, 진짜 크다!"
+
+00:16–00:20 Walks into a tiny harbor-side snack shop, discovers a bowl of freshly made fish cake soup, sits at the counter, takes a sip, and smiles with satisfaction.
+
+00:20–00:24 Steps outside holding the warm cup, notices a group of neighborhood grandmothers playing a casual Korean card game at a plastic table. She joins them briefly, laughs at their playful reactions, and gestures toward the camera.
+
+00:24–00:27 Walks along the harbor promenade eating a small ice cream, filming boats and seagulls before accidentally getting a little ice cream on her nose. She notices it and laughs.
+
+00:27–00:30 Stops beside the harbor railing as the wind moves her hair, turns the camera toward herself, smiles naturally, and says in Korean, "오늘 진짜 재밌었다. 다음에 또 올게요. 안녕!" She waves and the recording ends abruptly.
+
+Natural ambience only: ocean waves, seagulls, fishing boats, harbor conversations, footsteps, wind, net ropes, shop sounds, card-table laughter, distant scooters, and neighborhood activity. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera Korean vacation vlog with spontaneous actions, imperfect framing, authentic Korean dialogue, realistic human movement, and natural interactions. Aspect ratio: 16:9.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-preserve-the-exact-facial-features-identity-skin-tone-and-natural-facial-pro-1c752f954b52?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### GPT Image 2 + Seedance Live Action Meets 2D Animation
 
 > GPT Image 2 and Seedance 2.5 Prompt: Style: Cinematic live-action seamlessly blended with 2D hand-drawn line-art animati
@@ -4354,6 +4450,231 @@ Overall Effect: The video should feel as though the blue pencil is literally dra
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/sairah-0-seedance-ai-19e5d269c3e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A pink-haired woman takes down three thugs in a late-night laundromat
+
+> She came to clean her clothes. She ended up cleaning the whole laundromat. Seedance 2.5 on @FishCreativeHQ prompt STYLE: Ultra-realistic Korean action cinema, H…
+
+[<img src="https://media.goodcase.ai/cases/7895b44c0322.jpg" width="600" alt="A pink-haired woman takes down three thugs in a late-night laundromat">](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-73a847a18c26?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Just_sharon7 | **Source:** [Original](https://x.com/Just_sharon7/status/2125641745387970762) | **Published:** 2026-11-25 | **Heat:** 71
+
+<details>
+<summary><b>Full prompt (138 lines, click to expand)</b></summary>
+
+```
+She came to clean her clothes. She ended up cleaning the whole laundromat.
+
+Seedance 2.5 on @FishCreativeHQ 
+
+prompt
+
+STYLE: Ultra-realistic Korean action cinema, Hollywood-level fight choreography, explosive close-range combat, lightning-fast reflexes, realistic body physics, intense facial expressions, dynamic camera movements, dramatic blue-green fluorescent lighting, and powerful cinematic sound design.
+CHARACTERS
+FEMALE LEAD — YUNA (25 Years Old)
+
+An extremely beautiful 25-year-old Korean woman with long, straight pastel pink hair, sharp facial features, cold expressive eyes, and a slim athletic physique. She wears an oversized black leather jacket, a fitted white crop top, dark grey cargo pants, black combat boots, and wireless headphones.
+
+She appears innocent, relaxed, and unbothered, but is secretly a highly trained martial arts fighter. Her personality is fearless, composed, confident, and extremely dangerous.
+
+THREE GANGSTERS
+Gangster 1: Tall, muscular Korean man with blond hair, a black leather jacket, a silver chain, and an arrogant personality.
+Gangster 2: Korean man with buzz-cut hair, a dark green bomber jacket, and an aggressive personality.
+Gangster 3: Heavily built Korean man wearing a black hoodie, with tattooed arms and a violent temperament.
+EMPLOYEE: A 21-year-old Korean man with an innocent appearance, wearing a blue uniform. He is nervous and physically intimidated by the gangsters.
+LOCATION
+It is 12:47 AM inside a 24-hour laundromat on a deserted street in Seoul. Heavy rain pours outside. Raindrops cover the large glass windows, reflecting colorful neon signs from the street.
+
+The interior features rows of stainless steel washing machines, metallic laundry baskets, folding tables, plastic chairs, detergent bottles, and cold fluorescent ceiling lights.
+
+The constant humming of washing machines blends with the sound of heavy rainfall, creating a quiet but atmospheric environment.
+DETAILED 30-SECOND CINEMATIC VIDEO PROMPT
+SHOT 01 — Midnight Trouble (0–3 Seconds)
+The camera smoothly moves from the rain-soaked street through the laundromat's glass window, revealing its interior.
+
+Yuna sits casually in front of a washing machine, listening to music through her wireless headphones. A laundry basket rests beside her.
+
+Suddenly, three aggressive gangsters violently push open the entrance door. One grabs the young employee by his collar and slams him against the counter.
+
+Gangster: "Empty the register. Now!"
+
+The employee trembles in fear.
+SHOT 02 — The Final Warning (3–6 Seconds)
+The frightened employee attempts to step backward, but the blond gangster aggressively slaps him across the face.
+
+Yuna slowly raises her eyes, removes her headphones, and places them inside her laundry basket.
+
+The background music abruptly stops.
+
+Yuna: "Let him go."
+
+The blond gangster laughs arrogantly, approaches her, and violently kicks her laundry basket across the floor. Clean clothes scatter everywhere.
+
+Gangster: "Or what?"
+
+An extreme close-up captures Yuna's expression transforming from calm indifference into cold, dangerous determination.
+SHOT 03 — First Impact (6–9 Seconds)
+The blond gangster reaches forward to grab Yuna.
+
+She instantly rises from her chair with lightning-fast reflexes. An explosive martial arts combination sends him stumbling backward into a stainless steel washing machine before collapsing onto the floor.
+
+Capture the impact in dramatic 120 FPS slow motion. His silver chain swings through the air as the washing machine vibrates violently.
+
+The camera immediately returns to normal speed.
+SHOT 04 — Chaos Between Machines (9–13 Seconds)
+The second gangster angrily grabs a metallic laundry basket and swings it toward Yuna.
+
+She narrowly dodges the attack. The basket crashes against a washing machine, producing a deafening metallic sound.
+
+Yuna unleashes a rapid series of powerful counterattacks, causing the gangster to lose his balance and crash onto a folding table.
+
+Clothes, detergent bottles, and laundry accessories scatter through the air.
+
+The camera performs a fast 180-degree orbit around the characters, capturing the explosive choreography and environmental destruction.
+SHOT 05 — The Heavyweight (13–17 Seconds)
+The third, heavily muscular gangster charges toward Yuna while screaming furiously.
+
+Gangster: "You're dead!"
+
+He attempts to overpower her and push her against the washing machines. Yuna maintains her balance as an intense close-range fight erupts.
+
+Rapid punches, defensive blocks, narrow evasions, and explosive counterattacks create a brutal, fast-paced exchange.
+
+Yuna narrowly avoids a powerful attack before sending the gangster crashing into a row of metallic chairs.
+
+Use aggressive handheld tracking, rapid whip-pans, dramatic low-angle shots, and realistic impact vibrations.
+SHOT 06 — Three Against One (17–22 Seconds)
+The first two gangsters struggle back onto their feet. All three attackers surround Yuna in the narrow aisle between the washing machines.
+
+Yuna calmly adjusts her leather jacket and looks at them with an unimpressed expression.
+
+Yuna: "Seriously?"
+
+All three gangsters attack simultaneously.
+
+In one uninterrupted, high-speed cinematic tracking shot, Yuna dodges incoming attacks and performs explosive martial arts combinations with incredible speed and precision.
+
+Metallic laundry baskets slide across the floor, chairs overturn, clothes scatter, and detergent powder bursts into the air beneath the fluorescent lights.
+
+Every movement must demonstrate realistic physical weight, momentum, balance, and natural reactions. The attackers must not stand idle or wait for their turns.
+SHOT 07 — The Final Spin (22–26 Seconds)
+The blond gangster makes one final desperate attempt, charging toward Yuna with an enraged expression.
+
+Yuna executes a powerful cinematic spinning kick.
+
+Capture the decisive impact in dramatic 120 FPS slow motion, with her pastel pink hair and leather jacket moving naturally through the air.
+
+The gangster crashes backward into a metallic laundry trolley, which rolls across the floor before stopping near the glass entrance.
+
+All three gangsters lie defeated on the floor, groaning in pain.
+
+Suddenly, the entire laundromat becomes silent.
+
+Washing machine: "Beep. Beep. Beep."
+
+An extreme close-up reveals the illuminated digital display:
+
+CYCLE COMPLETE
+SHOT 08 — Perfect Timing (26–30 Seconds)
+Yuna's dangerous expression immediately returns to calm indifference.
+
+She opens the washing machine, removes her freshly washed clothes, and begins folding them neatly on the table as though nothing happened.
+
+The employee stares at her in complete disbelief.
+
+Employee: "Who... are you?"
+
+Yuna glances toward the washing machine with a subtle, confident smirk.
+
+Yuna: "Perfect timing."
+
+She puts her headphones back on, and her relaxing music resumes.
+
+The camera slowly dollies backward, revealing the entire laundromat. Yuna peacefully folds her clothes in the foreground while all three defeated gangsters lie scattered across the floor in the background.
+
+End naturally on this cinematic wide shot. No fade-out or black screen.
+SOUND DESIGN
+Deep cinematic bass and aggressive industrial percussion during combat.
+Heavy, realistic punch and kick impact sounds.
+Loud metallic collisions, sliding laundry baskets, overturned chairs, and vibrating washing machines.
+Natural breathing, footsteps, shoe friction, and clothing movements.
+Continuous rainfall and occasional thunder outside.
+Sudden silence immediately before the washing machine's completion beep.
+Relaxing lo-fi headphone music during the final scene, creating a humorous contrast with the destruction.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-73a847a18c26?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Woman in a cream winter jacket on a snowy cabin porch
+
+> cozy cabin snowy landscapes and a jacket designed for warmth and elegance The perfect winter aesthetic. Made with seedance 2.5 Prompt: Create a 30-second cinema…
+
+[<img src="https://media.goodcase.ai/cases/64fc9b0f4e70.jpg" width="600" alt="Woman in a cream winter jacket on a snowy cabin porch">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ClaraOnAI | **Source:** [Original](https://x.com/ClaraOnAI/status/2125225700336517601) | **Published:** 2026-11-24 | **Heat:** 71
+
+<details>
+<summary><b>Full prompt (15 lines, click to expand)</b></summary>
+
+```
+Create a 30-second cinematic winter jacket commercial, closely following the original video's scene composition, pacing, camera movements, and shot sequence. Replace the original woman with a different young adult woman, around 24 years old, with long dark brown hair and a natural appearance.
+
+Scene 1 (0–5 seconds): Establish the exact cozy rustic wooden cabin porch, wooden walls, red cabin door, outdoor chair, small table, lantern, and snow-covered pine forest. Cinematic slow camera movement.
+
+Scene 2 (5–10 seconds): The young woman wearing a premium cream-white padded winter jacket, brown knit sweater, black winter pants, and black boots slowly steps out through the cabin door onto the snowy porch. Keep the framing and movement similar to the original.
+
+Scene 3 (10–15 seconds): A medium cinematic shot as she walks naturally along the wooden porch, with the snowy pine trees in the background. The camera gently tracks her movement.
+
+Scene 4 (15–20 seconds): She pauses near the porch railing, gently adjusts the collar of her cream-white jacket, and looks toward the snowy forest. Soft natural expressions and realistic movement.
+
+Scene 5 (20–25 seconds): Cinematic close-up of the jacket, showing its padded texture, stitching, zipper, collar, and premium fabric details. Her hand gently touches and adjusts the collar.
+
+Scene 6 (25–30 seconds): A beautiful final cinematic shot of the woman standing on the snowy cabin porch, with snow-covered trees behind her. Slow camera push-in, soft winter lighting, premium fashion advertisement look.
+
+Photorealistic cinematic commercial, consistent character and outfit in every shot, realistic body movement, natural lighting, high-end winter fashion advertising, smooth transitions, 4K visual quality. Preserve the original video's overall atmosphere and shot style.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A pregnant couple imagine their baby winning a Formula 1 race
+
+> Made with seedance 2.5 Prompt 👇 Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format. Scene 1: A beautiful pregnan…
+
+[<img src="https://media.goodcase.ai/cases/0b61db923e30.jpg" width="600" alt="A pregnant couple imagine their baby winning a Formula 1 race">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2ff9862a313d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2120119829294461389) | **Published:** 2026-11-10 | **Heat:** 71
+
+<details>
+<summary><b>Full prompt (18 lines, click to expand)</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a high-quality cinematic 3D animated Pixar-style comedy short film in vertical 9:16 format.
+
+Scene 1: A beautiful pregnant woman with long, wavy dark brown hair, big expressive blue eyes, wearing a purple and white striped dress, sits comfortably in the passenger seat of a modern car. Her husband, a handsome young man with curly dark hair, wearing a white striped shirt, is driving. The woman gently rests both hands on her pregnant belly and smiles.
+
+Scene 2: Transition into a magical fantasy visualization inside the mother's womb. Reveal a spectacular miniature Formula 1 racing circuit surrounded by glowing orange and red organic tunnels, sparkling particles, dramatic lighting, and winding race tracks.
+
+Scene 3: A cute chubby baby with big blue eyes, wearing a professional red racing suit and a red racing helmet, drives a miniature red Formula 1 Ferrari-style go-kart numbered 1. Show exciting high-speed racing, sharp turns, realistic tire movement, cinematic camera tracking, and dynamic motion blur.
+
+Scene 4: The adorable baby crosses the finish line and wins the race. The baby happily raises a golden trophy while sitting in the red racing car. A checkered racing flag waves in the background, with celebratory lights and confetti.
+
+Scene 5: Cut back to the car interior. The pregnant woman and her husband look at each other and laugh joyfully, sharing a sweet romantic moment while gently touching her belly.
+
+Visual Style: Premium Pixar-inspired 3D animation, adorable character design, expressive facial emotions, ultra-detailed environments, cinematic lighting, smooth animation, vibrant colors, realistic fabric textures, consistent characters throughout all scenes, professional camera movements, high-quality rendering, funny and heartwarming storytelling.
+
+Format: 9:16 vertical, approximately 20–22 seconds, no dialogue, no subtitles, no watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-2ff9862a313d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Two Samurai Duel at a Floating Temple Beneath the Full Moon
 
@@ -4861,20 +5182,6 @@ CONSISTENCY and QUALITY RULES: seven distinct people at all times, always exactl
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-audio-instruction-highest-priority-use-only-the-attached-audio-file-song-pa-7c326cef4000?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Woman rescues a rain-soaked kitten, then they share spaghetti
-
-> A little kindness can turn a rainy day into a beautiful story. Sometimes, saving a tiny life means everything! Made using Seedance 2.5 on @CuddlerAI #CuddlerHal…
-
-[<img src="https://media.goodcase.ai/cases/9568bce8bc64.jpg" width="600" alt="Woman rescues a rain-soaked kitten, then they share spaghetti">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-emotional-short-film-in-vertical-9-020b16110b31?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Aiwithmaha | **Source:** [Original](https://x.com/Aiwithmaha/status/2118903281280020855) | **Published:** 2026-11-07 | **Heat:** 70
-
-```
-Create a 30-second ultra-realistic cinematic emotional short film in vertical 9:16 format. A young woman wearing a black outfit is cooking delicious spaghetti in her modern kitchen, gently stirring the pasta in a pan over a blue flame. Suddenly, she notices heavy rain falling outside her window and sees a tiny orange-and-white kitten sitting alone in the cold rain. She immediately leaves her cooking, grabs an umbrella, and rushes outside to rescue the helpless kitten. She carefully picks up the frightened, wet kitten and brings it safely inside her warm home. She gently wraps the little kitten in a soft pink towel and lovingly dries its wet fur. Next, she prepares a small pink food bowl filled with delicious cat food and places it in front of the hungry kitten. The kitten happily eats while the woman watches with a warm, emotional smile. Finally, she sits in her cozy kitchen enjoying her spaghetti while the adorable kitten rests peacefully beside her. Use realistic facial expressions, natural movements, beautiful cinematic lighting, emotional storytelling, detailed environments, and heartwarming background music throughout the entire 30-second video.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-realistic-cinematic-emotional-short-film-in-vertical-9-020b16110b31?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Korean Woman Escapes an Apartment Zombie Horde into an Elevator
 
 > THE LAST FLOOR – A Korean Zombie Nightmare SEEDANCE 2.5 on @PixVerse Prompt: Create a 30-second ultra-photorealistic Korean zombie survival thriller, cinematic …
@@ -4921,47 +5228,6 @@ OUTPUT: One coherent, suspenseful, photorealistic 30-second Korean zombie-thrill
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-ultra-photorealistic-korean-zombie-survival-thriller-cinema-382724504167?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Mint-Robed Swordswoman Fights Assassins in a Rainy Bamboo Forest
-
-> Made with seedance 2.5 Prompt: Create an ultra-realistic, cinematic Chinese Wuxia martial arts action scene set in a dark bamboo forest during heavy rain. A bea…
-
-[<img src="https://media.goodcase.ai/cases/f249ead62c64.jpg" width="600" alt="Mint-Robed Swordswoman Fights Assassins in a Rainy Bamboo Forest">](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-cinematic-chinese-wuxia-martial-arts-action-scene-se-f689fe3f11dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zoyavelle | **Source:** [Original](https://x.com/Zoyavelle/status/2110235870473461970) | **Published:** 2026-10-14 | **Heat:** 70
-
-<details>
-<summary><b>Full prompt (23 lines, click to expand)</b></summary>
-
-```
-Create an ultra-realistic, cinematic Chinese Wuxia martial arts action scene set in a dark bamboo forest during heavy rain. A beautiful young East Asian woman with long black hair, delicate facial features, floral hair ornaments, and an elegant flowing pale mint-green traditional Hanfu dress stands calmly surrounded by masked black-clad assassins holding swords and spears.
-
-Scene 1 (0–3 seconds): Low-angle cinematic tracking shot of the woman's flowing silk dress and the muddy forest floor covered in rainwater. Black-clad warriors surround her in a threatening formation. Heavy rain falls continuously, creating realistic splashes and reflections.
-
-Scene 2 (3–6 seconds): Slow camera push-in toward the mysterious woman as she stands fearlessly. Her long wet black hair moves gently in the wind. Assassins approach from the background, holding their weapons ready to attack.
-
-Scene 3 (6–9 seconds): Extreme close-up of her beautiful face, expressive dark eyes, wet eyelashes, and realistic raindrops on her skin. Her expression remains calm, confident, and emotionless. Shallow depth of field, cinematic lighting, highly detailed skin texture.
-
-Scene 4 (9–11 seconds): An assassin thrusts a sharp metal spear toward her face. Extreme close-up of the rain-covered spear blade passing dangerously close to her eyes. Dramatic slow motion, realistic water droplets sliding across the metal, intense suspense.
-
-Scene 5 (11–15 seconds): Dynamic overhead camera shot as the woman suddenly performs an elegant martial arts dodge and spins through the attacking warriors. Her flowing silk sleeves and long hair move naturally with her motion. Smooth camera rotation, realistic sword choreography, cinematic motion blur.
-
-Scene 6 (15–18 seconds): Fast, graceful sword-fighting sequence in the rain. She deflects an incoming weapon with precise movements, pivots sideways, and counters the attackers with fluid Wuxia martial arts techniques. The camera follows her movement with a sweeping tracking shot.
-
-Visual Style: Photorealistic Chinese historical fantasy, premium Wuxia movie cinematography, dark bamboo forest, cold teal and muted green color grading, soft mist, volumetric lighting, realistic heavy rain, detailed wet silk fabric, natural human anatomy, realistic facial expressions, shallow depth of field, 4K cinematic quality, 24fps, dramatic atmosphere.
-
-Camera: Low-angle tracking shots, slow dolly-in, extreme facial close-ups, overhead action shots, dynamic tracking movements, smooth cinematic transitions, controlled slow motion.
-
-Audio: Heavy rainfall, footsteps on wet mud, metallic sword clashes, sharp weapon whooshes, flowing fabric sounds, subtle tense orchestral background music.
-
-Consistency: Maintain the same woman's face, hairstyle, pale mint-green Hanfu outfit, and body proportions throughout the video. Keep all warriors dressed in black traditional assassin clothing. Natural physics, coherent action, realistic weapon movements.
-
-Negative Prompt: Cartoon, anime, CGI appearance, plastic skin, blurry faces, distorted anatomy, extra fingers, extra limbs, duplicate characters, floating weapons, unrealistic fighting, inconsistent clothing, face morphing, flickering, low resolution, oversaturated colors, text, subtitles, watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-an-ultra-realistic-cinematic-chinese-wuxia-martial-arts-action-scene-se-f689fe3f11dc?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Korean Woman’s Afternoon at Home: Plants, Laundry and Nails
 
 > Korean it-Girl doing Yoga Seedance 2.5 Prompt: image = Main Subject. Preserve her exact identity, face, hairstyle, skin tone, proportions, and reference outfit …
@@ -4994,185 +5260,6 @@ Natural movements and ambient sounds only: spray bottle, distant TV, fabric, nai
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-image-main-subject-24bd7cacbe69?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Fight in an Old Pakistani Train Compartment
-
-> Made with seedance 2.5 Prompt: A cinematic action fight scene inside an old, crowded Pakistani passenger train compartment. A young woman with long brown hair, …
-
-[<img src="https://media.goodcase.ai/cases/b451404051be.jpg" width="600" alt="Fight in an Old Pakistani Train Compartment">](https://goodcase.ai/cases/seedance-a-cinematic-action-fight-scene-inside-an-old-crowded-pakistani-passenger-train-547eff4092c7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zoyavelle | **Source:** [Original](https://x.com/Zoyavelle/status/2104802751435911223) | **Published:** 2026-09-29 | **Heat:** 70
-
-<details>
-<summary><b>Full prompt (8 lines, click to expand)</b></summary>
-
-```
-A cinematic action fight scene inside an old, crowded Pakistani passenger train compartment. A young woman with long brown hair, wearing a blue denim jacket and loose white pants, fights multiple men dressed in black. She performs fast, realistic martial-arts moves, dodging punches and delivering powerful kicks and strikes. The fight moves through the narrow aisle between old worn-out blue train seats. Dynamic handheld camera movement, low-angle shots, wide shots and close-ups, realistic body movement, natural motion blur, dramatic physical choreography, intense expressions, dusty vintage train interior, daylight coming through the windows, gritty realistic atmosphere, cinematic color grading, shallow depth of field, highly detailed, photorealistic, realistic skin texture, Hollywood-style action cinematography, 35mm lens, high contrast, 4K, smooth motion, no text, no subtitles, no watermark.”
-Negative Prompt
-“cartoon, anime, CGI look, unrealistic anatomy, extra fingers, extra limbs, distorted face, duplicate people, floating objects, unnatural movement, excessive blood, gore, blurry faces, low quality, oversaturated colors, text, subtitles, watermark, logo.”
-Aspect Ratio: 16:9
-Style: Photorealistic cinematic action
-Duration: 20 seconds
-Camera: Handheld + dynamic tracking + low-angle shots
-Quality: 4K cinematic realism
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-cinematic-action-fight-scene-inside-an-old-crowded-pakistani-passenger-train-547eff4092c7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Parasite Outbreak in a High-Security Laboratory
-
-> One lab. One infection. And suddenly, she wasn’t human anymore. 🧟‍♀️ Seedance 2.5 on @wavespeed_ai Prompt : Create a photorealistic zombie-horror sequence insi…
-
-[<img src="https://media.goodcase.ai/cases/a0d17a9bf535.jpg" width="600" alt="Parasite Outbreak in a High-Security Laboratory">](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AIwithSynthia | **Source:** [Original](https://x.com/AIwithSynthia/status/2101161634022474024) | **Published:** 2026-09-19 | **Heat:** 70
-
-**Stability:** 83/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 82.8) · [output](https://media.goodcase.ai/retests/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-Create a photorealistic zombie-horror sequence inside a high-security research laboratory. The central character is a young adult Korean female scientist dressed in a clean white lab coat over a simple light-colored shirt, blue straight-leg jeans, and practical white sneakers. She has natural dark hair, minimal makeup, realistic skin texture, and believable proportions. Her face, hairstyle, lab coat, jeans, shoes, and body proportions must remain consistent throughout the entire sequence. Build the environment with steel machinery, specimen tables, glass containment chambers, computer monitors, harsh fluorescent lighting, and realistic laboratory details. Use grounded practical effects and physically believable movement with tense handheld camerawork.
-
-While she works at a containment station, a glass specimen chamber suddenly develops fractures and explodes, scattering glass across the floor as a small dark parasite escapes and attaches itself around her shoulder and neck. She stumbles backward, frightened, while dark veins gradually appear beneath her skin and spread upward across her neck and face. Her skin becomes noticeably pale and clammy, her fingers twitch, and violent tremors run through her body. Her terrified expression gradually disappears into a blank, emotionless stare as her eyes transform into an unnaturally deep obsidian black. She abruptly turns toward a nearby colleague and charges, forcing him behind a glass partition.
-
-She repeatedly strikes the glass while staring directly at him, her completely black eyes and pulsing dark veins clearly visible. Two more scientists enter and freeze when she suddenly becomes perfectly still, then slowly rotates her head toward them. Around the laboratory, additional containment chambers begin cracking as warning lights activate. Another infected creature breaks free, sending the scientists scrambling for emergency equipment. They use a powerful emergency strobe and fire extinguisher to disorient the creatures before pushing a heavy steel cart across the corridor and retreating behind a security door.
-
-The surviving scientists reach an emergency corridor and catch their breath as red warning lights wash over their exhausted faces. The sealed laboratory door violently shakes behind them. The camera gradually approaches its small observation window, revealing the infected woman standing motionless in the darkness, still wearing her white lab coat and blue jeans. Her pale face, prominent dark veins, and completely black eyes are visible through the glass. She slowly tilts her head toward the camera as the emergency lights flicker across her face. Cut to black.
-
-Visual and audio direction: Ultra-realistic sci-fi zombie horror with detailed natural skin, convincing black eyes, subtle veins beneath the skin, realistic facial changes, practical creature effects, authentic anatomy, and believable environmental physics. Maintain cold clinical lighting before transitioning to red emergency illumination. Use handheld camera movement and natural diegetic sounds such as breaking glass, alarms, footsteps, breathing, impacts, convulsions, and distant screams. Avoid graphic gore or excessive blood. No anime, cartoon, illustration, artificial CGI appearance, plastic skin, duplicated characters, face morphing, distorted anatomy, floating objects, impossible movement, changing clothing, identity changes, subtitles, text overlays, logos, or watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-photorealistic-zombie-horror-sequence-inside-a-high-security-research-11e5b4743459?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Two Women Clash in an Industrial Lot at Golden Hour
-
-> When a peaceful evening turns into an unexpected fight. Created on Seedance 2.5 Prompt:Create a 15-second photorealistic cinematic action sequence featuring a s…
-
-[<img src="https://media.goodcase.ai/cases/6f39bca3bfd6.jpg" width="600" alt="Two Women Clash in an Industrial Lot at Golden Hour">](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Elvorya | **Source:** [Original](https://x.com/Elvorya/status/2101147922251579718) | **Published:** 2026-09-19 | **Heat:** 70
-
-**Stability:** 81/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 80.7) · [output](https://media.goodcase.ai/retests/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Create a 15-second photorealistic cinematic action sequence featuring a stylish blonde woman in a black blazer, white fitted top, and black pants, fighting another blonde woman in an industrial urban parking/loading area during golden-hour sunset.
-
-Begin with a dynamic over-the-shoulder shot of the main woman standing in an empty concrete industrial lot as another woman approaches rapidly in the background → cut into an extreme close-up side angle as the opponent throws a powerful punch toward her face, with the camera moving alongside the action and her blonde hair flowing dramatically in the wind → transition into a wide low-angle shot showing the main woman reacting and engaging in hand-to-hand combat → she performs a fast evasive movement and powerful spinning kick while the opponent attacks → cut to a low-angle tracking shot as both women exchange rapid punches and defensive movements beside a large industrial roller door and stacked cardboard boxes → show the main woman delivering a dramatic flying kick, captured with cinematic motion blur → transition into a wider shot as the opponent falls hard onto the concrete ground → the main woman slowly walks toward the camera while the fallen opponent remains in the background → final shot becomes an intimate handheld close-up/selfie-style shot of the main woman looking directly toward the camera, touching her hair/forehead with one hand and giving a calm, confident expression.
-
-Visual style: photorealistic Hollywood action cinematography, realistic human anatomy, believable martial-arts choreography, natural facial expressions, realistic skin texture, detailed blonde hair movement, black-and-white fitted clothing, industrial warehouse exterior, concrete pavement, warm golden-hour sunlight, long shadows, dramatic backlighting, subtle lens flare, shallow depth of field, cinematic motion blur, dynamic handheld camera, low-angle action shots, smooth rapid transitions, realistic physics, energetic pacing, high-detail 4K cinematic look, cohesive character appearance throughout.
-
-Negative prompt: animation, cartoon, anime, CGI appearance, unrealistic physics, distorted faces, extra fingers, malformed hands, duplicated people, warped limbs, floating objects, excessive motion blur, unnatural poses, gore, blood, subtitles, text, logos, watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-photorealistic-cinematic-action-sequence-featuring-a-stylish-ea7ff045567e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Anxious father at a prenatal checkup and a backpack baby
-
-> Made with seedance 2.5 Prompt 👇 Create a heartwarming and emotional 3D animated family comedy story set in a colorful hospital. A young pregnant woman arrives …
-
-[<img src="https://media.goodcase.ai/cases/69fec3f3b4d0.jpg" width="600" alt="Anxious father at a prenatal checkup and a backpack baby">](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-39e880879ebf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2120348100263035383) | **Published:** 2026-11-11 | **Heat:** 69
-
-<details>
-<summary><b>Full prompt (14 lines, click to expand)</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a heartwarming and emotional 3D animated family comedy story set in a colorful hospital.
-
-A young pregnant woman arrives at the hospital with her husband. The husband is nervous and anxious as doctors examine his wife. Meanwhile, a curious little baby wearing a bright yellow backpack wanders through the hospital corridors, creating funny and unexpected moments.
-
-The story follows the couple's emotional journey, hospital scenes, funny baby reactions, and the excitement of welcoming a newborn. Show the husband waiting anxiously, doctors assisting the mother, and the family experiencing emotional and humorous surprises.
-
-Use expressive facial animations, adorable baby characters, cinematic camera movements, vibrant colorful environments, soft lighting, detailed textures, and high-quality Pixar-style 3D animation.
-
-Maintain consistent character designs, outfits, and appearances throughout all scenes. Create smooth transitions between shots, emotional storytelling, and a satisfying heartwarming ending.
-
-Style: High-quality 3D cartoon animation, cinematic storytelling, family comedy, emotional expressions, 4K detail, vertical 9:16 format.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-made-with-seedance-2-5-39e880879ebf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 韩国女生露营 vlog 30s
-
-> saniaspeaks_：韩国女生露营 vlog 30s 完整 Prompt。
-
-[<img src="https://media.goodcase.ai/cases/f235f72f6399.jpg" width="600" alt="Seedance 2.5 韩国女生露营 vlog 30s">](https://goodcase.ai/cases/seedance-2-5-vlog-30s-06f6e3783a46?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @saniaspeaks_ | **Source:** [Original](https://x.com/saniaspeaks_/status/2119291884556169419) | **Published:** 2026-11-08 | **Heat:** 69
-
-<details>
-<summary><b>Full prompt (43 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-realistic 4K live-action travel vlog featuring three young Korean female friends camping in the beautiful mountains of South Korea. Authentic handheld camcorder footage, natural friendship moments and realistic activities.
-
-CHARACTERS:
-
-- Main girl: Shoulder-length dark brown hair, beige fleece jacket, white T-shirt, olive cargo pants and hiking shoes.
-- Friend 1: Black ponytail, dusty blue outdoor jacket, black pants and hiking shoes.
-- Friend 2: Medium-length brown hair, brown knitted sweater, dark jeans and hiking shoes.
-
-Keep all faces, hairstyles and outfits identical throughout.
-
-EXACT 10-SCENE SEQUENCE — 30 SECONDS
-
-1. ROAD TRIP (0–3s): A car travels along a winding Korean mountain road. The main girl films the forest from the passenger seat while her two friends laugh in the back.
-
-2. CAMPSITE ARRIVAL (3–5s): They park at a grassy campsite surrounded by pine trees and mountains, then unload their tent, backpacks and supplies.
-
-3. SETTING UP TENT (5–9s): They spread the tent fabric, connect poles, raise the tent, secure stakes and attach the rain cover. Show the complete assembly naturally.
-
-4. CAMPSITE SETUP (9–11s): They arrange camping chairs, a folding table, backpacks, vegetables, meat and cooking equipment.
-
-5. BARBECUE (11–15s): One girl prepares the portable grill, another chops vegetables, and the main girl grills marinated meat. Realistic sizzling, smoke and cooking movements.
-
-6. DINNER (15–18s): They enjoy Korean barbecue, lettuce wraps, rice and side dishes while laughing and sharing food.
-
-7. CAMPFIRE (18–22s): At night, they sit around a safe campfire. The main girl tells a funny story, her friends laugh, and warm firelight illuminates their faces.
-
-8. STARRY NIGHT (22–24s): They admire the stars, pointing towards the sky while their tent glows softly behind them.
-
-9. NEXT MORNING (24–26s): The main girl wakes inside her sleeping bag, stretches, unzips the tent and looks outside at the misty mountains.
-
-10. SUNRISE ENDING (26–30s): All three walk to a safe mountain viewpoint overlooking misty green peaks. They admire the golden sunrise. The main girl smiles and waves at the camera. End with a beautiful wide handheld shot of the friends together.
-
-VISUAL STYLE:
-Ultra-photorealistic 4K travel vlog, authentic Korean mountains, natural handheld camera shake, imperfect framing, occasional autofocus adjustments, realistic lighting, skin textures, expressions, camping equipment, food, smoke, fire and morning mist.
-
-AUDIO: Natural sounds only: car engine, forest wind, footsteps, tent assembly, sizzling barbecue, conversations, laughter, crackling fire, crickets and morning birds. No music or narration.
-
-STRICT CONTINUITY:
-Same three girls, outfits, campsite, tent and equipment throughout. Show every action in the correct order. Tent setup before cooking, cooking before eating, campfire after dinner and sunrise the following morning.
-
-No teleportation, missing scenes, duplicated objects, distorted hands, sudden outfit changes, artificial CGI or unnatural movements.
-
-FINAL GOAL: A warm, nostalgic and completely believable weekend camping vlog filled with genuine friendship, beautiful mountain scenery and a breathtaking sunrise. All 10 scenes must appear within exactly 30 seconds.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-30s-06f6e3783a46?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)

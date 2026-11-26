@@ -17,20 +17,20 @@ Each Skill installs with one line through the [skills CLI](https://github.com/ve
 | Skill | Cases | Creator methods |
 | --- | --- | --- |
 | [Epic fantasy and sci-fi spectacle](#epic-fantasy-scifi-spectacle) | 118 | 9 |
-| [Action continuity choreography](#action-continuity-choreography) | 110 | 8 |
+| [Action continuity choreography](#action-continuity-choreography) | 111 | 8 |
 | [POV and vlog presence](#pov-vlog-presence) | 107 | 12 |
 | [Cinematic travel montage](#travel-city-walk) | 76 | 5 |
+| [Product ad shot design](#product-ad-shot-design) | 72 | 2 |
 | [Pets and animals as the lead](#pets-and-animals-lead) | 72 | 2 |
-| [Product ad shot design](#product-ad-shot-design) | 71 | 2 |
 | [Animation style and character consistency](#animation-style-consistency) | 63 | 2 |
-| [Sports and extreme stunts](#sports-extreme-stunts) | 52 | 0 |
-| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 48 | 0 |
+| [Sports and extreme stunts](#sports-extreme-stunts) | 53 | 0 |
+| [Fashion lookbook and portrait film](#fashion-lookbook-portrait) | 49 | 0 |
 | [Early-2000s DV home video](#retro-dv-home-video) | 48 | 3 |
 | [Horror and suspense short](#horror-suspense-short) | 47 | 3 |
 | [Process and transformation story](#process-transformation-story) | 41 | 0 |
 | [Twist-ending comedy skit](#twist-comedy-skit) | 40 | 1 |
-| [Food close-ups and eating ASMR](#food-asmr) | 37 | 0 |
-| [Cars and vehicles at speed](#vehicles-at-speed) | 37 | 0 |
+| [Food close-ups and eating ASMR](#food-asmr) | 38 | 0 |
+| [Cars and vehicles at speed](#vehicles-at-speed) | 38 | 0 |
 | [3D cartoon character short](#3d-cartoon-character-short) | 32 | 1 |
 | [Cinematic drama scene](#cinematic-drama-scene) | 18 | 0 |
 | [Stage and dance music video](#stage-dance-music-video) | 11 | 0 |
@@ -70,7 +70,7 @@ npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle
 
 > Make action reproducible by specifying character, direction, rhythm, and shot continuity.
 
-110 cases from 68 creators · 8 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+111 cases from 69 creators · 8 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/action-continuity-choreography?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 43 tested, 37 passed
 
@@ -140,6 +140,25 @@ npx skills add LearnPrompt/goodcase --skill travel-city-walk
 | ayzalnooor24521 | Cinematic travel montage<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | nawalsehar | Cinematic travel montage<br><sub>Stable · 3 tested, 3 passed</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill travel-city-walk-by-ewg9kn` | [goodcase.ai](https://goodcase.ai/skills/travel-city-walk-by-ewg9kn?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
+<a id="product-ad-shot-design"></a>
+
+### Product ad shot design
+
+> Turn a product benefit into an opening hook, usage scene, and branded closing shot.
+
+72 cases from 47 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+
+Stable · 44 tested, 43 passed
+
+```bash
+npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
+```
+
+| Creator | Method | Cases | Install | Page |
+| --- | --- | --- | --- | --- |
+| laviniavelle | Pixar Glass-Skin Beauty<br><sub>Stable · 3 tested, 3 passed</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+| noorlewisx | Product ad shot design<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
+
 <a id="pets-and-animals-lead"></a>
 
 ### Pets and animals as the lead
@@ -158,25 +177,6 @@ npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead
 | --- | --- | --- | --- | --- |
 | Zarnab_with_Ai | Pets and animals as the lead<br><sub>Stable · 12 tested, 12 passed</sub> | 16 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-18gc2qf` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-18gc2qf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 | ayzalnooor24521 | Pets and animals as the lead<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill pets-and-animals-lead-by-1tmw5t` | [goodcase.ai](https://goodcase.ai/skills/pets-and-animals-lead-by-1tmw5t?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-
-<a id="product-ad-shot-design"></a>
-
-### Product ad shot design
-
-> Turn a product benefit into an opening hook, usage scene, and branded closing shot.
-
-71 cases from 46 creators · 2 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
-
-Stable · 44 tested, 43 passed
-
-```bash
-npx skills add LearnPrompt/goodcase --skill product-ad-shot-design
-```
-
-| Creator | Method | Cases | Install | Page |
-| --- | --- | --- | --- | --- |
-| laviniavelle | Pixar Glass-Skin Beauty<br><sub>Stable · 3 tested, 3 passed</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1napzjr` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1napzjr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
-| noorlewisx | Product ad shot design<br><sub>Awaiting tests</sub> | 3 | `npx skills add LearnPrompt/goodcase --skill product-ad-shot-design-by-1oyim0r` | [goodcase.ai](https://goodcase.ai/skills/product-ad-shot-design-by-1oyim0r?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=methods) |
 
 <a id="animation-style-consistency"></a>
 
@@ -203,7 +203,7 @@ npx skills add LearnPrompt/goodcase --skill animation-style-consistency
 
 > It all rides on the action loop: write every link from run-up to landing in order, name the physics you want by part, and spend the negative list on flying, hovering and teleporting.
 
-52 cases from 45 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+53 cases from 46 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/sports-extreme-stunts?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 17 tested, 14 passed
 
@@ -219,7 +219,7 @@ No creator methods yet.
 
 > One person, one look, a handful of places: a head-to-toe appearance lock carries the clip, each scene gets one location, one gesture and one light.
 
-48 cases from 37 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+49 cases from 38 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/fashion-lookbook-portrait?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 19 tested, 15 passed
 
@@ -309,7 +309,7 @@ npx skills add LearnPrompt/goodcase --skill twist-comedy-skit
 
 > Cooking close-ups, mukbang and eating vlogs. They work when every beat shows one visible change in the food and one matching sound, and the dish stays the same dish from first frame to last.
 
-37 cases from 29 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+38 cases from 29 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/food-asmr?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 18 tested, 15 passed
 
@@ -325,7 +325,7 @@ No creator methods yet.
 
 > One machine from first frame to last while the camera does the work: lock the vehicle part by part, then fill the runtime with a numbered cut list that moves every second.
 
-37 cases from 26 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
+38 cases from 27 creators · 0 creator methods · [Open on goodcase.ai](https://goodcase.ai/skills/vehicles-at-speed?utm_source=awesome-seedance&utm_medium=github&utm_campaign=skills&utm_content=official)
 
 Stable · 13 tested, 12 passed
 

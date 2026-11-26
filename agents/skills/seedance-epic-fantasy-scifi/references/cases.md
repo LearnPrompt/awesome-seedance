@@ -6,7 +6,7 @@ Generated from `data/cases.json` + `data/case-taxonomy.json`. Do not hand-edit.
 
 ## E1 · Woman in Green Summons a Fiery Tree Guardian Against Demons
 
-- Seedance 2.5 · creator: @itsSaira_1 · heat: 90
+- Seedance 2.5 · creator: @itsSaira_1 · heat: 91
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-cinematic-dark-fantasy-battle-16-9-photoreal-shallow-depth-of-field-anamorp-a90377df74d6) · [finished media](https://media.goodcase.ai/cases/ead498a1b98b.mp4) · [poster](https://media.goodcase.ai/cases/4a7f9d53f8c5.jpg) · [original source](https://x.com/itsSaira_1/status/2107685928647160275)
 - Summary: ⚡She didn’t summon a guardian—she awakened the wrath of the earth.🔥 Created with Seedance 2.5 Prompt: Cinematic dark fantasy battle, 16:9, photoreal, shallow d…
 

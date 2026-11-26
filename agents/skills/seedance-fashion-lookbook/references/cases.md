@@ -101,7 +101,7 @@ Negative prompt: distorted face, changing identity, extra fingers, extra limbs, 
 
 ## E5 · Pink-Haired Woman Wandering Through a Fading European City
 
-- Seedance 2.5 · creator: @Just_sharon7 · heat: 83
+- Seedance 2.5 · creator: @Just_sharon7 · heat: 84
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-what-if-every-beautiful-moment-disappears-before-we-even-realize-it-was-happeni-e781d14cb692) · [finished media](https://media.goodcase.ai/cases/0440b58f61c0.mp4) · [poster](https://media.goodcase.ai/cases/78da937a2c39.jpg) · [original source](https://x.com/Just_sharon7/status/2102013620066636225)
 - Summary: What if every beautiful moment disappears before we even realize it was happening? Seedance 2.5 on @TapNow_AI Prompt A cinematic fashion short film, ~20 seconds…
 

@@ -158,7 +158,7 @@ High-energy, professional ski-film aesthetic, smooth camera movement, crisp deta
 
 ## E3 · Blonde Woman Scores a Spectacular Goal in High Heels
 
-- Seedance 2.0 · creator: @Alexneyef · heat: 69
+- Seedance 2.0 · creator: @Alexneyef · heat: 68
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-ultra-realistic-viral-smartphone-video-in-one-continuous-handheld-shot-4702582e360c) · [finished media](https://media.goodcase.ai/cases/708b5580c270.mp4) · [poster](https://media.goodcase.ai/cases/0f6e8055f9d7.jpg) · [original source](https://x.com/Alexneyef/status/2099607916789563863)
 - Summary: OMG, what a strike 😭 Nobody expected her to pull THAT off. This is AI. And the crazy part is, you don’t need advanced skills, a pile of references, or some com…
 
@@ -217,7 +217,7 @@ Negative prompt: no subtitles, no text, no logos, no watermark, no distorted fac
 
 ## E5 · Elephant Launches Acrobat into Flips and a Horseback Landing
 
-- Seedance 2.5 · creator: @sipteaandcoffee · heat: 58
+- Seedance 2.5 · creator: @sipteaandcoffee · heat: 57
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-5-i-m-a-flexible-girl-0a4d9719d867) · [finished media](https://media.goodcase.ai/cases/9c865aa2ff52.mp4) · [poster](https://media.goodcase.ai/cases/ec4e8d1301a8.jpg) · [original source](https://x.com/sipteaandcoffee/status/2107060987157524524)
 - Summary: I'm a flexible girl Seedance 2.5 on @TapNow_AI Prompt Create a 15-second ultra-realistic vertical 9:16 circus performance video, filmed casually by an audience …
 
@@ -312,7 +312,7 @@ Audience members react enthusiasti
 
 ## E6 · Female Rider Wins Mountain Bike Final by a Wheel
 
-- Seedance 2.5 · creator: @nawalsehar · heat: 54 · stability: 76
+- Seedance 2.5 · creator: @nawalsehar · heat: 53 · stability: 76
 - Evidence: [GoodCase](https://goodcase.ai/cases/nawalsehar-seedance-ai-9cff7acb6229) · [finished media](https://media.goodcase.ai/media/video/nawalsehar-seedance-ai-9cff7acb6229.mp4) · [poster](https://media.goodcase.ai/media/poster/nawalsehar-seedance-ai-9cff7acb6229.jpg) · [original source](https://x.com/nawalsehar/status/2094294374381441152)
 - Summary: Two elite riders, one brutal final sprint, and a finish decided by inches. Created on seedance 2.5 Prompt: Ultra-photore
 
@@ -332,7 +332,7 @@ No CGI appearance, no extra racers, no spectators blocking the riders, no imposs
 
 ## E7 · White-Clad Acrobat Leaps Across Tall Poles Above a Mountain Lake
 
-- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 54
+- Seedance 2.0 · creator: @ayzalnooor24521 · heat: 53
 - Evidence: [GoodCase](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99) · [finished media](https://media.goodcase.ai/cases/e3e323cb5411.mp4) · [poster](https://media.goodcase.ai/cases/a396247022dc.jpg) · [original source](https://x.com/ayzalnooor24521/status/2113128549930729895)
 - Summary: Grace, balance, and breathtaking moves come together in this stunning acrobatic performance above the water. Created on seedance 2.0 Prompt: Create it 30-second…
 
