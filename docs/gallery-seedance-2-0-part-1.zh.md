@@ -1219,6 +1219,45 @@ Create a cinematic, ultra-realistic 9:16 school classroom scene. A young male st
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-create-a-cinematic-ultra-realistic-9-16-school-classroom-scene-758330c6bd34?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### 西爪哇乡村恋人的夏日漫步
+
+> Kalau yang tadi di hujat karna keliatan AI slop banget wkwkw karna pake model nya bukan seedance Coba kalau yang ini nih, apakah masih terlihat AI ? Gua bikin n…
+
+[<img src="https://media.goodcase.ai/cases/2967965aebb4.jpg" width="600" alt="西爪哇乡村恋人的夏日漫步">](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @bozzxyz | **来源:** [原帖](https://x.com/bozzxyz/status/2104217955521482833) | **发布:** 2026-09-27 | **热度:** 81
+
+<details>
+<summary><b>完整 prompt（21 行，点开展开）</b></summary>
+
+```
+30-second, 1080p ultra-realistic early-2000s consumer DV home video in rural West Java, warm afternoon in Indonesia.
+
+REFERENCE 1: female character. Preserve face, ponytail, proportions, pink crop top, white shorts, white sneakers, bracelet and earrings.
+REFERENCE 2: raised Sundanese house. Preserve woven bamboo bilik walls, timber, tiled roof, veranda and stairs.
+
+Sundanese Indonesian woman, long dark ponytail, Male friend in simple early-2000s clothes. Keep both consistent.
+
+00–05 — She exits the bilik house, closes the door, sees him and greets him.
+05–10 — At a warung, she picks up a bottled drink, shows it and says, “I want this one.” He laughs as she pays.
+10–15 — she opens and drinks it. The sour taste makes her react, then she laughs with him.
+15–21 — They sit on the veranda. He moves her loose hair. She smiles: “Thank you.”
+21–26 — They walk a village lane among banana trees and houses. She steps into sunlight, feels the heat, moves into shade and laughs.
+26–30 — They return to the bilik house. On the veranda they share a brief natural kiss, smile, and she turns toward the house. She looks back once. Camera keeps recording; autofocus loses focus, sunlight washes frame, then hard-cuts to black.
+
+Raw early-2000s DV: handheld shake, imperfect framing, accidental zooms, autofocus hunting, exposure shifts, faded colors, soft detail, noise and motion blur. No stabilization or polished cinematography.
+
+Rural Sundanese atmosphere: bamboo walls, raised houses, tiled roofs, dirt paths, tropical trees and rice fields.
+
+Ambience: footsteps, birds, insects, leaves, distant motorcycles, voices, warung sounds, bottle opening laughter. No music, narration, subtitles, captions, watermark.
+
+Ultra-realistic skin, hair, hands, clothing and movement; tropical light, shadows, sweat and fabric physics. No CGI, distorted faces, extra fingers, duplicated people or artificial acting.!
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 街头篮球场的宿敌对决
 
 > #Thalaivar & Mark Antony as basketball players in an epic cartoon showdown with #Jailer2 BGM. 🏀🔥 The style. The mannerisms. That iconic smile. 😎 🎥 Powered b…
@@ -2150,45 +2189,6 @@ Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting,
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/just-sharon7-seedance-ai-20d2026d6f58?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### 西爪哇乡村恋人的夏日漫步
-
-> Kalau yang tadi di hujat karna keliatan AI slop banget wkwkw karna pake model nya bukan seedance Coba kalau yang ini nih, apakah masih terlihat AI ? Gua bikin n…
-
-[<img src="https://media.goodcase.ai/cases/2967965aebb4.jpg" width="600" alt="西爪哇乡村恋人的夏日漫步">](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @bozzxyz | **来源:** [原帖](https://x.com/bozzxyz/status/2104217955521482833) | **发布:** 2026-09-27 | **热度:** 80
-
-<details>
-<summary><b>完整 prompt（21 行，点开展开）</b></summary>
-
-```
-30-second, 1080p ultra-realistic early-2000s consumer DV home video in rural West Java, warm afternoon in Indonesia.
-
-REFERENCE 1: female character. Preserve face, ponytail, proportions, pink crop top, white shorts, white sneakers, bracelet and earrings.
-REFERENCE 2: raised Sundanese house. Preserve woven bamboo bilik walls, timber, tiled roof, veranda and stairs.
-
-Sundanese Indonesian woman, long dark ponytail, Male friend in simple early-2000s clothes. Keep both consistent.
-
-00–05 — She exits the bilik house, closes the door, sees him and greets him.
-05–10 — At a warung, she picks up a bottled drink, shows it and says, “I want this one.” He laughs as she pays.
-10–15 — she opens and drinks it. The sour taste makes her react, then she laughs with him.
-15–21 — They sit on the veranda. He moves her loose hair. She smiles: “Thank you.”
-21–26 — They walk a village lane among banana trees and houses. She steps into sunlight, feels the heat, moves into shade and laughs.
-26–30 — They return to the bilik house. On the veranda they share a brief natural kiss, smile, and she turns toward the house. She looks back once. Camera keeps recording; autofocus loses focus, sunlight washes frame, then hard-cuts to black.
-
-Raw early-2000s DV: handheld shake, imperfect framing, accidental zooms, autofocus hunting, exposure shifts, faded colors, soft detail, noise and motion blur. No stabilization or polished cinematography.
-
-Rural Sundanese atmosphere: bamboo walls, raised houses, tiled roofs, dirt paths, tropical trees and rice fields.
-
-Ambience: footsteps, birds, insects, leaves, distant motorcycles, voices, warung sounds, bottle opening laughter. No music, narration, subtitles, captions, watermark.
-
-Ultra-realistic skin, hair, hands, clothing and movement; tropical light, shadows, sweat and fabric physics. No CGI, distorted faces, extra fingers, duplicated people or artificial acting.!
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-30-second-1080p-ultra-realistic-early-2000s-consumer-dv-home-video-in-rural-we-6b3c6132a462?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 混乱教室中走向镜头的少女
 
@@ -4548,6 +4548,20 @@ Create a 15-second cinematic photorealistic action sequence set in a dark, misty
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-0-create-a-15-second-cinematic-photorealistic-action-sequence-set-in-a-dark-mist-1c182572ef5d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Apartment Arrival Storyboard Animation
+
+> A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
+
+[<img src="https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg" width="600" alt="Apartment Arrival Storyboard Animation">](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2083912532692001128) | **发布:** 2026-08-02 | **热度:** 60
+
+```
+Use the storyboard grid Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and clothing, expressive facial animation, believable hand interaction with objects, and smooth cinematic camera movement. Jarvis is an AI voice only. He is never physically shown. Character sheet is Image2 Apartment exterior and bag is Image3 ⸻ SHOT 1 — 0:00–0:02.5 — 2.5 SECONDS Begin from inside the apartment facing the entrance. The front door opens and the character walks naturally into the apartment after returning from work. She carries the black Hermès Birkin 25 by its two short top handles in one hand and her car keys in the other. Her walk communicates end-of-workday fatigue: slightly lowered shoulders, relaxed pace, calm face. She looks tired but comfortable now that she is home. As she crosses the doorway, she reaches back naturally and begins pulling the door closed behind her. The handbag responds naturally to her walking motion with subtle weight and momentum. No long strap appears. Camera: Wide eye-level establishing shot. Very subtle cinematic push-in as she enters. Keep the established entry architecture visible. Audio: Door opening, soft heel footsteps, subtle handbag leather movement, quiet apartment ambience. Dialogue: None. ⸻ SHOT 2 — 0:02.5–0:04.5 — 2 SECONDS Cut to the entry console. the character walks up to the console without fully stopping. She extends the hand holding her car keys and casually releases them onto the wooden surface. The keys fall naturally and land with a distinct metallic clink. Her other hand continues holding the black Birkin by its short handles. She barely looks at the keys. The action is automatic and habitual. Immediately after releasing them, her attention shifts toward the living room and kitchen. Camera: Medium side-angle shot. Keep Jema, the Birkin and the console visible. A subtle focus shift can follow the keys as they land before returning to the character. Audio: Footsteps followed by a crisp key CLINK. Dialogue: None. ⸻ SHOT 3 — 0:04.5–0:07 — 2.5 SECONDS the character continues from the entry area into the living room, passing behind the cream sofa on her way toward the kitchen. Without stopping, she swings the Birkin slightly forward and casually tosses it onto the cream sofa. The handbag leaves her hand with believable weight, travels a short distance and lands on the cushion. The cushion compresses slightly beneath it. The bag settles naturally and remains there. As she releases the handbag and continues toward the kitchen, the character speaks casually: the character: “Jarvis, update me on my work today.” Her delivery is relaxed and familiar. She does not call loudly and does not look for a speaker or device. She talks to Jarvis as naturally as she would speak to someone already in the room. Her lips must synchronize accurately with the dialogue. Camera: Wide tracking shot. Follow Jema smoothly from the living room toward the kitchen while keeping the established apartment geography readable. Audio: Soft heel footsteps, subtle handbag landing on sofa. the character voice: Young adult woman, confident, slightly tired after work, natural conversational delivery. ⸻ SHOT 4 — 0:07–0:09.5 — 2.5 SECONDS the character reaches the kitchen and moves behind the island onto the kitchen side of the counter. She reaches toward the completely empty clear drinking glass on the countertop. The glass must remain completely empty throughout this shot. She has not poured water yet. Her eyes briefly settle on the glass as she picks it up or positions it naturally for pouring. She listens to Jarvis without interrupting her routine. Jarvis begins responding through the apartment: JARVIS (O.S.): “Miss Jema, today Claude connected to PayBox Agent by MoonPay…” Jarvis should sound like a sophisticated male AI assistant: calm, polished, articulate, composed and subtly warm. Not robotic and not overly emotional. the character does not speak. Her expression remains neutral and attentive. Camera: Medium shot from the living-room side of the island looking toward Jema behind the counter. Gentle cinematic push-in. Audio: Jarvis voice integrated naturally into the room ambience. Very subtle glass contact with countertop. ⸻ SHOT 5 — 0:09.5–0:12.5 — 3 SECONDS Cut to a cinematic close-up of the character’s hands at the same kitchen counter. There is a clear water bottle and empty glass on the counter, She picks up the clear water bottle and begins pouring water into the same previously empty glass. Show a natural continuous stream entering the glass and the water level gradually rising. Jarvis continues seamlessly: JARVIS (O.S.): “…and traded. Your portfolio is up by 17 percent…” Jema continues pouring normally. Then Jarvis finishes: JARVIS (O.S.): “… that was under ten minutes.” As he says “under ten minutes,” Jema’s pouring motion hesitates very slightly. Do not make her freeze dramatically. It should be a tiny physical reaction showing that the number caught her attention. Camera: Tight close-up of bottle, hands, water stream and glass. Very subtle camera drift. Shallow depth of field. Audio: Clear natural water-pouring sound underneath Jarvis’s voice. ⸻ SHOT 6 — 0:12.5–0:15 — 2.5 SECONDS Cut to the character‘s face and upper body behind the kitchen island. She stops pouring and holds the now-filled glass naturally. For a brief beat, she processes what Jarvis just said. Her eyes glance slightly upward. Her eyebrows rise subtly. Then the smallest impressed smile forms at the corner of her mouth. Keep the reaction understated. No huge eyes, dramatic gasp, head jerk, or exaggerated cartoon reaction. She is impressed, but AI automation like this is already part of her life. End on this subtle expression, setting up Grid 2. Camera: Medium close-up with a slow, almost imperceptible push toward her face. Shallow depth of field with the established kitchen softly blurred behind her. Audio: Water pouring stops. Brief room ambience after Jarvis finishes. No dialogue from Jema. ⸻ ANIMATION CONTINUITY The six shots are one continuous sequence. the character enters with keys + Birkin → keys stay on console → Birkin lands and stays on sofa → the character reaches kitchen → glass is empty before pouring → water is poured → the character ends holding the glass. Keep her movement restrained and natural. No unnecessary gestures, no duplicates, random head turns, excessive blinking, floating objects, hand deformation, prop morphing, wardrobe changes, hairstyle changes, or apartment changes. Total duration: exactly 15 seconds. 16:9 landscape. Storyboard Grid 2 - Video Prompt (15 seconds) Use the storyboard grid @Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and
+```
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### 韩国少女的课堂与海岸漫游
 
 > A peaceful Korean girl’s day, from a bright classroom to a beautiful seaside path. Soft moments, natural beauty, and a cinematic Korean lifestyle vibe. Created …
@@ -4593,20 +4607,6 @@ DURATION: 20 seconds ASPECT RATIO: 16:9 STYLE: Ultra-photorealistic live-action 
 ```
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Apartment Arrival Storyboard Animation
-
-> A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
-
-[<img src="https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg" width="600" alt="Apartment Arrival Storyboard Animation">](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Just_sharon7 | **来源:** [原帖](https://x.com/Just_sharon7/status/2083912532692001128) | **发布:** 2026-08-02 | **热度:** 59
-
-```
-Use the storyboard grid Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and clothing, expressive facial animation, believable hand interaction with objects, and smooth cinematic camera movement. Jarvis is an AI voice only. He is never physically shown. Character sheet is Image2 Apartment exterior and bag is Image3 ⸻ SHOT 1 — 0:00–0:02.5 — 2.5 SECONDS Begin from inside the apartment facing the entrance. The front door opens and the character walks naturally into the apartment after returning from work. She carries the black Hermès Birkin 25 by its two short top handles in one hand and her car keys in the other. Her walk communicates end-of-workday fatigue: slightly lowered shoulders, relaxed pace, calm face. She looks tired but comfortable now that she is home. As she crosses the doorway, she reaches back naturally and begins pulling the door closed behind her. The handbag responds naturally to her walking motion with subtle weight and momentum. No long strap appears. Camera: Wide eye-level establishing shot. Very subtle cinematic push-in as she enters. Keep the established entry architecture visible. Audio: Door opening, soft heel footsteps, subtle handbag leather movement, quiet apartment ambience. Dialogue: None. ⸻ SHOT 2 — 0:02.5–0:04.5 — 2 SECONDS Cut to the entry console. the character walks up to the console without fully stopping. She extends the hand holding her car keys and casually releases them onto the wooden surface. The keys fall naturally and land with a distinct metallic clink. Her other hand continues holding the black Birkin by its short handles. She barely looks at the keys. The action is automatic and habitual. Immediately after releasing them, her attention shifts toward the living room and kitchen. Camera: Medium side-angle shot. Keep Jema, the Birkin and the console visible. A subtle focus shift can follow the keys as they land before returning to the character. Audio: Footsteps followed by a crisp key CLINK. Dialogue: None. ⸻ SHOT 3 — 0:04.5–0:07 — 2.5 SECONDS the character continues from the entry area into the living room, passing behind the cream sofa on her way toward the kitchen. Without stopping, she swings the Birkin slightly forward and casually tosses it onto the cream sofa. The handbag leaves her hand with believable weight, travels a short distance and lands on the cushion. The cushion compresses slightly beneath it. The bag settles naturally and remains there. As she releases the handbag and continues toward the kitchen, the character speaks casually: the character: “Jarvis, update me on my work today.” Her delivery is relaxed and familiar. She does not call loudly and does not look for a speaker or device. She talks to Jarvis as naturally as she would speak to someone already in the room. Her lips must synchronize accurately with the dialogue. Camera: Wide tracking shot. Follow Jema smoothly from the living room toward the kitchen while keeping the established apartment geography readable. Audio: Soft heel footsteps, subtle handbag landing on sofa. the character voice: Young adult woman, confident, slightly tired after work, natural conversational delivery. ⸻ SHOT 4 — 0:07–0:09.5 — 2.5 SECONDS the character reaches the kitchen and moves behind the island onto the kitchen side of the counter. She reaches toward the completely empty clear drinking glass on the countertop. The glass must remain completely empty throughout this shot. She has not poured water yet. Her eyes briefly settle on the glass as she picks it up or positions it naturally for pouring. She listens to Jarvis without interrupting her routine. Jarvis begins responding through the apartment: JARVIS (O.S.): “Miss Jema, today Claude connected to PayBox Agent by MoonPay…” Jarvis should sound like a sophisticated male AI assistant: calm, polished, articulate, composed and subtly warm. Not robotic and not overly emotional. the character does not speak. Her expression remains neutral and attentive. Camera: Medium shot from the living-room side of the island looking toward Jema behind the counter. Gentle cinematic push-in. Audio: Jarvis voice integrated naturally into the room ambience. Very subtle glass contact with countertop. ⸻ SHOT 5 — 0:09.5–0:12.5 — 3 SECONDS Cut to a cinematic close-up of the character’s hands at the same kitchen counter. There is a clear water bottle and empty glass on the counter, She picks up the clear water bottle and begins pouring water into the same previously empty glass. Show a natural continuous stream entering the glass and the water level gradually rising. Jarvis continues seamlessly: JARVIS (O.S.): “…and traded. Your portfolio is up by 17 percent…” Jema continues pouring normally. Then Jarvis finishes: JARVIS (O.S.): “… that was under ten minutes.” As he says “under ten minutes,” Jema’s pouring motion hesitates very slightly. Do not make her freeze dramatically. It should be a tiny physical reaction showing that the number caught her attention. Camera: Tight close-up of bottle, hands, water stream and glass. Very subtle camera drift. Shallow depth of field. Audio: Clear natural water-pouring sound underneath Jarvis’s voice. ⸻ SHOT 6 — 0:12.5–0:15 — 2.5 SECONDS Cut to the character‘s face and upper body behind the kitchen island. She stops pouring and holds the now-filled glass naturally. For a brief beat, she processes what Jarvis just said. Her eyes glance slightly upward. Her eyebrows rise subtly. Then the smallest impressed smile forms at the corner of her mouth. Keep the reaction understated. No huge eyes, dramatic gasp, head jerk, or exaggerated cartoon reaction. She is impressed, but AI automation like this is already part of her life. End on this subtle expression, setting up Grid 2. Camera: Medium close-up with a slow, almost imperceptible push toward her face. Shallow depth of field with the established kitchen softly blurred behind her. Audio: Water pouring stops. Brief room ambience after Jarvis finishes. No dialogue from Jema. ⸻ ANIMATION CONTINUITY The six shots are one continuous sequence. the character enters with keys + Birkin → keys stay on console → Birkin lands and stays on sofa → the character reaches kitchen → glass is empty before pouring → water is poured → the character ends holding the glass. Keep her movement restrained and natural. No unnecessary gestures, no duplicates, random head turns, excessive blinking, floating objects, hand deformation, prop morphing, wardrobe changes, hairstyle changes, or apartment changes. Total duration: exactly 15 seconds. 16:9 landscape. Storyboard Grid 2 - Video Prompt (15 seconds) Use the storyboard grid @Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and
-```
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### 灰猫误触按钮引发厨房大乱
 

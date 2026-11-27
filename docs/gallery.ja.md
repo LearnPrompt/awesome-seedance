@@ -1,21 +1,21 @@
 # Awesome Seedance — ギャラリー索引
 
-全 1114 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
+全 1115 ケースのプロンプト全文。Seedance のバージョンごとにファイルを分け、GitHub が描画できるサイズにページ分割しています。data/cases.json から生成、手編集不可。
 
 ← [README に戻る](../README_ja.md)
 
 ## ページ
 
-- [Seedance 2.5 · Part 1/10](./gallery-seedance-2-5-part-1.ja.md) - 804 件中 1–82 件目.
-- [Seedance 2.5 · Part 2/10](./gallery-seedance-2-5-part-2.ja.md) - 804 件中 83–165 件目.
-- [Seedance 2.5 · Part 3/10](./gallery-seedance-2-5-part-3.ja.md) - 804 件中 166–237 件目.
-- [Seedance 2.5 · Part 4/10](./gallery-seedance-2-5-part-4.ja.md) - 804 件中 238–330 件目.
-- [Seedance 2.5 · Part 5/10](./gallery-seedance-2-5-part-5.ja.md) - 804 件中 331–419 件目.
-- [Seedance 2.5 · Part 6/10](./gallery-seedance-2-5-part-6.ja.md) - 804 件中 420–519 件目.
-- [Seedance 2.5 · Part 7/10](./gallery-seedance-2-5-part-7.ja.md) - 804 件中 520–616 件目.
-- [Seedance 2.5 · Part 8/10](./gallery-seedance-2-5-part-8.ja.md) - 804 件中 617–709 件目.
-- [Seedance 2.5 · Part 9/10](./gallery-seedance-2-5-part-9.ja.md) - 804 件中 710–779 件目.
-- [Seedance 2.5 · Part 10/10](./gallery-seedance-2-5-part-10.ja.md) - 804 件中 780–804 件目.
+- [Seedance 2.5 · Part 1/10](./gallery-seedance-2-5-part-1.ja.md) - 805 件中 1–82 件目.
+- [Seedance 2.5 · Part 2/10](./gallery-seedance-2-5-part-2.ja.md) - 805 件中 83–165 件目.
+- [Seedance 2.5 · Part 3/10](./gallery-seedance-2-5-part-3.ja.md) - 805 件中 166–237 件目.
+- [Seedance 2.5 · Part 4/10](./gallery-seedance-2-5-part-4.ja.md) - 805 件中 238–330 件目.
+- [Seedance 2.5 · Part 5/10](./gallery-seedance-2-5-part-5.ja.md) - 805 件中 331–419 件目.
+- [Seedance 2.5 · Part 6/10](./gallery-seedance-2-5-part-6.ja.md) - 805 件中 420–519 件目.
+- [Seedance 2.5 · Part 7/10](./gallery-seedance-2-5-part-7.ja.md) - 805 件中 520–616 件目.
+- [Seedance 2.5 · Part 8/10](./gallery-seedance-2-5-part-8.ja.md) - 805 件中 617–708 件目.
+- [Seedance 2.5 · Part 9/10](./gallery-seedance-2-5-part-9.ja.md) - 805 件中 709–779 件目.
+- [Seedance 2.5 · Part 10/10](./gallery-seedance-2-5-part-10.ja.md) - 805 件中 780–805 件目.
 - [Seedance 2.0 · Part 1/4](./gallery-seedance-2-0-part-1.ja.md) - 310 件中 1–91 件目.
 - [Seedance 2.0 · Part 2/4](./gallery-seedance-2-0-part-2.ja.md) - 310 件中 92–199 件目.
 - [Seedance 2.0 · Part 3/4](./gallery-seedance-2-0-part-3.ja.md) - 310 件中 200–288 件目.

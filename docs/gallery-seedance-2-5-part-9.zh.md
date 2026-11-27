@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全量案例（第 9/10 页）
 
-Seedance 2.5 全部 804 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
+Seedance 2.5 全部 805 条案例，按热度分排序。由 data/cases.json 生成，请勿手改。
 
-本页：第 716–784 条，共 804 条。
+本页：第 717–785 条，共 805 条。
 
 ← [返回 README](../README_zh.md) · [画廊总览](./gallery.zh.md) · [Part 1](./gallery-seedance-2-5-part-1.zh.md) · [Part 2](./gallery-seedance-2-5-part-2.zh.md) · [Part 3](./gallery-seedance-2-5-part-3.zh.md) · [Part 4](./gallery-seedance-2-5-part-4.zh.md) · [Part 5](./gallery-seedance-2-5-part-5.zh.md) · [Part 6](./gallery-seedance-2-5-part-6.zh.md) · [Part 7](./gallery-seedance-2-5-part-7.zh.md) · [Part 8](./gallery-seedance-2-5-part-8.zh.md) · **Part 9** · [Part 10](./gallery-seedance-2-5-part-10.zh.md)
 
@@ -3985,54 +3985,6 @@ Seedance 2.5 prompt 👇
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### 街头球场变向突破暴扣
-
-> The challenge Made with GPT IMAGE 2 + Seedance 2.5 on PolloAi Prompt: REI: A player wearing a deep red and white jacket
-
-[<img src="https://media.goodcase.ai/cases/54d3a5538fe4.jpg" width="600" alt="街头球场变向突破暴扣">](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2092933907218092451) | **发布:** 2026-08-27 | **热度:** 19
-
-**稳定度：** 76/100
-
-**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (75.8 分) · [产物](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-398c9aa37acf/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>完整 prompt（26 行，点开展开）</b></summary>
-
-```
-REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-Style & Atmosphere
-A dynamic presentation in a semi-flat editorial illustration style — bold, heavy brushstrokes, angular geometric rendering, blocks of color, and desaturated neutral concrete tones accented with rich deep red and teal. Warm sunlight shines diagonally from the left, creating clear light-and-shadow contrast with visible, delicate brush textures.
-Narrative Overview
-REI challenges TREY on the empty court and leaves him behind with a crossover move.
-Dynamic Description
-A steady push-in shot, medium close-up — REI takes large strides across the cracked asphalt from the left side of the frame and aggressively throws the basketball into TREY's chest. TREY, standing on the right beside the wrapped basketball hoop structure, catches the ball against his chest.
-Hard cut to a low-angle, horizontal stabilized tracking shot, medium shot — TREY dribbles low while REI mirrors him closely with intense defensive pressure. The two slide from left to right along the faded free-throw arc. Sneakers screech against the ground as dust rises.
-A whip-pan follows the basketball into an intimate handheld shot — REI performs a sharp crossover, rapidly switching the ball right, left, and right again. TREY's lead foot slips and he stumbles for half a beat. REI tears past his side and drives toward the basket.
-Static Description
-An empty urban street basketball court with a faded free-throw area painted onto cracked asphalt. On the right stands an old basketball hoop with a damaged net attached to a wrapped steel pole. Tall concrete walls, chain-link fencing, urban apartment buildings, and rooftop water tanks fill the background beneath a bright blue sky. Warm sunlight from the left casts shadows toward the right.
-Audio
-REI says: “Show me what you got.”
-Sound Effects
-The sound of a basketball hitting a chest, sharp sneaker squeaks, and distant low urban ambience.
-
-Second Scene
-REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-Style & Atmosphere
-The same semi-flat editorial illustration style — bold brushstrokes, angular geometric rendering, blocks of color, muted neutral concrete tones accented by saturated deep red and teal, warm sunlight coming diagonally from the left, strong light-and-shadow contrast, and visible fine brush textures.
-Narrative Overview
-REI breaks through, dunks over TREY, and then shows off while his opponent is on his knees.
-Dynamic Description
-Handheld tracking shot, medium shot — REI gathers the ball while moving and explosively drives from left to right toward the basket on the right. TREY is half a step behind, lunging to defend, while motion trails emphasize their speed.
-Hard cut to a three-quarter side stabilized tracking shot that cranes upward — REI jumps into the air and violently slams the ball through the damaged net. The warm low-angle sunlight bursts into a glowing halo behind the backboard. The rim shakes from the impact. The camera always remains beside the basket and is never positioned directly underneath it.
-Quick cut to a locked low-angle shot — the basketball drops onto the cracked asphalt and bounces once. TREY is on both knees at the base of the wrapped steel pole, head lowered and shoulders slumped.
-```
-
-</details>
-
-**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### 纸飞机飞越老城四季
 
 > Seedance 2.5这场景切换有点丝滑啊， 做了一个小短片：给长大后的我。 主题：纸飞机飞过城市四季，最后落进小时候的自己手里。 提示词： 生成一支15秒、16:9、720p的写实电影质感奇幻短片。全片以同一架米白色手折纸飞机为唯一主角
@@ -4183,6 +4135,54 @@ Tone: exhilarating, mysterious, playful, cinematic, photoreal, large-scale, drea
 </details>
 
 **[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/mrdejie-seedance-ai-6f5e8c48fb86?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### 街头球场变向突破暴扣
+
+> The challenge Made with GPT IMAGE 2 + Seedance 2.5 on PolloAi Prompt: REI: A player wearing a deep red and white jacket
+
+[<img src="https://media.goodcase.ai/cases/54d3a5538fe4.jpg" width="600" alt="街头球场变向突破暴扣">](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @im_shahid7 | **来源:** [原帖](https://x.com/im_shahid7/status/2092933907218092451) | **发布:** 2026-08-27 | **热度:** 18
+
+**稳定度：** 76/100
+
+**复测：** Grok Imagine · 2026-10-03 · ✅ 复现 (75.8 分) · [产物](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-398c9aa37acf/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>完整 prompt（26 行，点开展开）</b></summary>
+
+```
+REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
+Style & Atmosphere
+A dynamic presentation in a semi-flat editorial illustration style — bold, heavy brushstrokes, angular geometric rendering, blocks of color, and desaturated neutral concrete tones accented with rich deep red and teal. Warm sunlight shines diagonally from the left, creating clear light-and-shadow contrast with visible, delicate brush textures.
+Narrative Overview
+REI challenges TREY on the empty court and leaves him behind with a crossover move.
+Dynamic Description
+A steady push-in shot, medium close-up — REI takes large strides across the cracked asphalt from the left side of the frame and aggressively throws the basketball into TREY's chest. TREY, standing on the right beside the wrapped basketball hoop structure, catches the ball against his chest.
+Hard cut to a low-angle, horizontal stabilized tracking shot, medium shot — TREY dribbles low while REI mirrors him closely with intense defensive pressure. The two slide from left to right along the faded free-throw arc. Sneakers screech against the ground as dust rises.
+A whip-pan follows the basketball into an intimate handheld shot — REI performs a sharp crossover, rapidly switching the ball right, left, and right again. TREY's lead foot slips and he stumbles for half a beat. REI tears past his side and drives toward the basket.
+Static Description
+An empty urban street basketball court with a faded free-throw area painted onto cracked asphalt. On the right stands an old basketball hoop with a damaged net attached to a wrapped steel pole. Tall concrete walls, chain-link fencing, urban apartment buildings, and rooftop water tanks fill the background beneath a bright blue sky. Warm sunlight from the left casts shadows toward the right.
+Audio
+REI says: “Show me what you got.”
+Sound Effects
+The sound of a basketball hitting a chest, sharp sneaker squeaks, and distant low urban ambience.
+
+Second Scene
+REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
+Style & Atmosphere
+The same semi-flat editorial illustration style — bold brushstrokes, angular geometric rendering, blocks of color, muted neutral concrete tones accented by saturated deep red and teal, warm sunlight coming diagonally from the left, strong light-and-shadow contrast, and visible fine brush textures.
+Narrative Overview
+REI breaks through, dunks over TREY, and then shows off while his opponent is on his knees.
+Dynamic Description
+Handheld tracking shot, medium shot — REI gathers the ball while moving and explosively drives from left to right toward the basket on the right. TREY is half a step behind, lunging to defend, while motion trails emphasize their speed.
+Hard cut to a three-quarter side stabilized tracking shot that cranes upward — REI jumps into the air and violently slams the ball through the damaged net. The warm low-angle sunlight bursts into a glowing halo behind the backboard. The rim shakes from the impact. The camera always remains beside the basket and is never positioned directly underneath it.
+Quick cut to a locked low-angle shot — the basketball drops onto the cracked asphalt and bounces once. TREY is on both knees at the base of the wrapped steel pole, head lowered and shoulders slumped.
+```
+
+</details>
+
+**[🔍 在 goodcase.ai 查看（复测记录/稳定分）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 健身女孩训练 vlog 短片
 

@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 7/10）
 
-Seedance 2.5 の全 804 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 805 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 804 件中 520–616 件目。
+このページ: 805 件中 520–616 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)
 
@@ -717,6 +717,22 @@ SEEDANCE 2.5｜水上人形墙挑战
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A thorn-wood being meets a glass figure in an abandoned room
+
+> Where nature fantasy and imagination come together in a surreal encounter. Made With Seedance 2.5 Prompt: A surreal dark-fantasy cinematic scene featuring a mys…
+
+[<img src="https://media.goodcase.ai/cases/87094db3ba25.jpg" width="600" alt="A thorn-wood being meets a glass figure in an abandoned room">](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2121100826894590435) | **公開日:** 2026-11-13 | **ヒート:** 43
+
+```
+A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
+
+#AIart #AI #Visualart
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Desktop studio title card on a pale grid
 
@@ -4311,24 +4327,6 @@ Photorealistic live-action horror, authentic Japanese high-school science labora
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-cinematic-horror-action-sequence-set-inside-a-q-9afbbee52258?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Green-Robed Swordswoman Battles Guards in an Ancient Inn
-
-> Grace in every move power in every strike A true warrior never backs down. Made With Seedance 2.5 Prompt: Cinematic 8k hyper-realistic action sequence dark atmo…
-
-[<img src="https://media.goodcase.ai/cases/0776af25179a.jpg" width="600" alt="Green-Robed Swordswoman Battles Guards in an Ancient Inn">](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2098987614581997681) | **公開日:** 2026-09-13 | **ヒート:** 39
-
-**安定度:** 87/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 86.5) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian wooden inn an elegant female martial artist in flowy pale green and white traditional Hanfu robes takes a quick sip from a black wine jug before throwing it into the air fast-paced Wuxia fight combat, wooden tables shattering into splinters, atmospheric dust and misty fog dramatic volumetric backlight streaming through wooden window slats rapid dynamic low angle camera movement whip pans fluid acrobatics dodging and striking multiple guards in red and black armor ends in slow motion as she stands victorious among fallen opponents, moody lantern-lit atmosphere, 9:16 aspect ratio, ultra-detailed, photorealistic, 4k.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Day in the Life of a Female Teacher
 
 > Made this video with GPT IMAGE 2 + seedance 2.5 via @higgsfield Prompt ⤵️ DURATION: 30 seconds ASPECT RATIO: 16:9 DURATI
@@ -5287,6 +5285,24 @@ End with a wide aftermath shot showing scattered salt, burnt talismans, melted c
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Green-Robed Swordswoman Battles Guards in an Ancient Inn
+
+> Grace in every move power in every strike A true warrior never backs down. Made With Seedance 2.5 Prompt: Cinematic 8k hyper-realistic action sequence dark atmo…
+
+[<img src="https://media.goodcase.ai/cases/0776af25179a.jpg" width="600" alt="Green-Robed Swordswoman Battles Guards in an Ancient Inn">](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @laviniavelle | **出典:** [元投稿](https://x.com/laviniavelle/status/2098987614581997681) | **公開日:** 2026-09-13 | **ヒート:** 38
+
+**安定度:** 87/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 86.5) · [出力](https://media.goodcase.ai/retests/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian wooden inn an elegant female martial artist in flowy pale green and white traditional Hanfu robes takes a quick sip from a black wine jug before throwing it into the air fast-paced Wuxia fight combat, wooden tables shattering into splinters, atmospheric dust and misty fog dramatic volumetric backlight streaming through wooden window slats rapid dynamic low angle camera movement whip pans fluid acrobatics dodging and striking multiple guards in red and black armor ends in slow motion as she stands victorious among fallen opponents, moody lantern-lit atmosphere, 9:16 aspect ratio, ultra-detailed, photorealistic, 4k.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Otter Friends' Summer in the Watermelon Field
 
 > Made with seedance 2.5 Prompt 👇 Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid b…
@@ -5663,31 +5679,6 @@ Realistic skin pores, natural facial asymmetry, individual hair strands, genuine
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-the-monster-was-once-the-love-of-her-life-1bb15d3221de?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Businessman's Morning Coffee Opens a Portal to the Dinosaur Age
-
-> What if your morning coffee came with a one-way ticket to a prehistoric world? ☕🦖 Created on seedance 2.5 Prompt Create a 30-second photorealistic cinematic fa…
-
-[<img src="https://media.goodcase.ai/cases/f9e5cc65f160.jpg" width="600" alt="A Businessman's Morning Coffee Opens a Portal to the Dinosaur Age">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-cinematic-fantasy-adventure-sequence-following-ed6de8b09ab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Elvorya | **出典:** [元投稿](https://x.com/Elvorya/status/2105171530703413334) | **公開日:** 2026-09-30 | **ヒート:** 37
-
-<details>
-<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second photorealistic cinematic fantasy adventure sequence following a sharply dressed businessman through an ordinary morning in a busy modern city. Begin with a warm golden-hour tracking shot moving through a downtown street surrounded by towering glass skyscrapers, yellow taxis, pedestrians, and long cinematic shadows → reveal the businessman wearing a dark navy suit, white shirt, and tie, calmly walking through the crowd while holding a takeaway coffee and papers → transition to a dynamic street-level shot as a woman accidentally bumps into him, causing papers, coffee, sunglasses, and pigeons to scatter dramatically through the air → cut to a cinematic close-up as he reaches toward the floating coffee cup while strange golden magical particles begin appearing around him → suddenly reveal the coffee cup surrounded by glowing blue magical energy as the entire city begins filling with swirling particles → transition into a dramatic low-angle shot looking upward between enormous skyscrapers as the atmosphere transforms into a powerful vortex of golden dust and blue energy → cut to a spectacular portal sequence as a huge glowing blue circular gateway opens and pulls the businessman through the air, his suit and tie reacting naturally to the force while he desperately holds onto his coffee → transition through the blue portal into a mysterious ancient rainforest filled with enormous trees, dense ferns, mist, moss-covered ground, and shafts of soft sunlight → reveal the businessman crashing onto the forest floor, still holding his coffee, then slowly standing up in confusion → suddenly cut to an intense close-up of a gigantic realistic T-Rex-like dinosaur emerging from the dense jungle and roaring directly toward him → transition into a fast dynamic tracking shot as the businessman runs across a massive fallen tree while the dinosaur charges aggressively behind him → cut to a spectacular wide shot of him sprinting across a rope suspension bridge above a raging jungle river as the enormous dinosaur follows him → transition into an action close-up as he grabs a hanging jungle vine and swings dramatically beside a massive waterfall while the dinosaur leaps across the gap behind him → final shot becomes a heroic cinematic wide-angle view of the businessman standing on a moss-covered rock in the prehistoric forest, calmly drinking his coffee while a brilliant glowing blue portal opens behind him, surrounded by mist, waterfalls, enormous trees, floating magical particles, and dramatic sunlight breaking through the canopy.
-
-Visual style: ultra-photorealistic live-action fantasy adventure, premium Hollywood cinematography, realistic human character, realistic dinosaur creature, natural skin texture, physically accurate motion, cinematic depth of field, anamorphic lens, volumetric lighting, atmospheric fog, realistic water and particle effects, dramatic scale, smooth camera movement, high-detail environments, immersive cinematic realism, 4K quality.
-
-Character continuity: keep the exact same businessman throughout the entire sequence, identical face, hairstyle, age, body proportions, navy suit, white shirt, tie, black shoes, and coffee cup; no identity drift, no wardrobe changes, no character redesign.
-
-Negative prompt: cartoon, animation, stylized CGI, plastic skin, fake-looking human, identity drift, changing face, changing clothes, duplicate character, extra people appearing suddenly, deformed hands, extra fingers, extra limbs, distorted body, unrealistic dinosaur anatomy, floating objects, broken physics, jittery motion, excessive motion blur, warped buildings, artificial environment, low detail, oversaturated colors, text, subtitles, logos, watermark, UI elements.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-cinematic-fantasy-adventure-sequence-following-ed6de8b09ab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)

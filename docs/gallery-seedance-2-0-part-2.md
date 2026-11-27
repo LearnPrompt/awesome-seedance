@@ -264,6 +264,20 @@ Critical requirement: Create a true five-shot cinematic beauty film, not a singl
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-create-an-exactly-15-second-16-9-full-hd-1920-1080-24-fps-photorealistic-ci-cda429bbe9d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Three Korean Friends Share Late-Night Ramen at a Convenience Store
+
+> Late-night ramen, best friends, and cozy Korean vibes. Sometimes, the simplest moments make the sweetest memories. Created on seedance 2.0 Prompt: Created a vid…
+
+[<img src="https://media.goodcase.ai/cases/e0c99130c1d3.jpg" width="600" alt="Three Korean Friends Share Late-Night Ramen at a Convenience Store">](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwithaayat | **Source:** [Original](https://x.com/aiwithaayat/status/2109852187186827283) | **Published:** 2026-10-13 | **Heat:** 54
+
+```
+Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Dragon Chases a Woman Through a Container Port at Dusk
 
 > Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
@@ -433,20 +447,6 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Three Korean Friends Share Late-Night Ramen at a Convenience Store
-
-> Late-night ramen, best friends, and cozy Korean vibes. Sometimes, the simplest moments make the sweetest memories. Created on seedance 2.0 Prompt: Created a vid…
-
-[<img src="https://media.goodcase.ai/cases/e0c99130c1d3.jpg" width="600" alt="Three Korean Friends Share Late-Night Ramen at a Convenience Store">](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @aiwithaayat | **Source:** [Original](https://x.com/aiwithaayat/status/2109852187186827283) | **Published:** 2026-10-13 | **Heat:** 53
-
-```
-Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Young Woman Strolls Through a Korean Coastal Village at Sunset
 
 > A peaceful walk through a beautiful Korean coastal village. Golden sunsets, ocean breeze, and little moments that feel like a dream. Created on seedance 2.0 Pro…
@@ -479,6 +479,20 @@ Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and su
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-lifestyle-vlog-featuring-a-beautif-a70d082492a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Korean Schoolgirl’s Journey Through a Snowy Mountain Village
+
+> A peaceful winter escape filled with snowy mountains, quiet villages, and unforgettable little moments. Created on seedance 2.0 Prompt:Create a 30-second video,…
+
+[<img src="https://media.goodcase.ai/cases/aacb79532b6c.jpg" width="600" alt="A Korean Schoolgirl’s Journey Through a Snowy Mountain Village">](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ayzalnooor24521 | **Source:** [Original](https://x.com/ayzalnooor24521/status/2104443916695347682) | **Published:** 2026-09-28 | **Heat:** 53
+
+```
+Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy school uniform with a white shirt, ribbon tie, blazer, pleated skirt, and long dark hair, keeping her face, hairstyle, outfit, and proportions consistent throughout the entire video. Start with a cinematic wide shot of her walking toward a modern school building, then transition naturally into a peaceful snowy mountain village surrounded by traditional Korean-style wooden houses and dramatic snow-covered mountains. Show her walking through the quiet snowy path while the camera follows her with smooth cinematic movement and natural winter lighting. Add a close-up selfie-style moment where she smiles gently at the camera, followed by wide scenic shots revealing the beautiful winter landscape. Show two brown horses calmly eating hay in a snowy field as the girl approaches them and stands beside the wooden fence, creating a warm and emotional connection. Use realistic snow, natural body movement, subtle wind in her hair and clothing, detailed horse movement, and authentic environmental textures. Transition into a cozy traditional wooden house where she enters through the door and looks around naturally, then show her sitting near a large window with a warm cup of drink while looking at the snowy village outside. Add subtle hand-drawn doodle elements around key moments, such as small hearts, snowflakes, stars, arrows, and simple travel-style sketches, integrated naturally without covering the subject. Keep the entire video photorealistic, cinematic, warm, emotional, and immersive, with seamless transitions, realistic camera motion, consistent character identity, and no artificial-looking faces, distorted hands, extra limbs, outfit changes, or random objects.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Rainy Window, Coffee and Vinyl: A Quiet Afternoon
 
@@ -537,20 +551,6 @@ Important: Maintain one identical character throughout. Do not change her facial
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-cozy-lifestyle-video-of-a-young-woman-spending-a-p-b80e5f5782e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Korean Schoolgirl’s Journey Through a Snowy Mountain Village
-
-> A peaceful winter escape filled with snowy mountains, quiet villages, and unforgettable little moments. Created on seedance 2.0 Prompt:Create a 30-second video,…
-
-[<img src="https://media.goodcase.ai/cases/aacb79532b6c.jpg" width="600" alt="A Korean Schoolgirl’s Journey Through a Snowy Mountain Village">](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ayzalnooor24521 | **Source:** [Original](https://x.com/ayzalnooor24521/status/2104443916695347682) | **Published:** 2026-09-28 | **Heat:** 52
-
-```
-Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy school uniform with a white shirt, ribbon tie, blazer, pleated skirt, and long dark hair, keeping her face, hairstyle, outfit, and proportions consistent throughout the entire video. Start with a cinematic wide shot of her walking toward a modern school building, then transition naturally into a peaceful snowy mountain village surrounded by traditional Korean-style wooden houses and dramatic snow-covered mountains. Show her walking through the quiet snowy path while the camera follows her with smooth cinematic movement and natural winter lighting. Add a close-up selfie-style moment where she smiles gently at the camera, followed by wide scenic shots revealing the beautiful winter landscape. Show two brown horses calmly eating hay in a snowy field as the girl approaches them and stands beside the wooden fence, creating a warm and emotional connection. Use realistic snow, natural body movement, subtle wind in her hair and clothing, detailed horse movement, and authentic environmental textures. Transition into a cozy traditional wooden house where she enters through the door and looks around naturally, then show her sitting near a large window with a warm cup of drink while looking at the snowy village outside. Add subtle hand-drawn doodle elements around key moments, such as small hearts, snowflakes, stars, arrows, and simple travel-style sketches, integrated naturally without covering the subject. Keep the entire video photorealistic, cinematic, warm, emotional, and immersive, with seamless transitions, realistic camera motion, consistent character identity, and no artificial-looking faces, distorted hands, extra limbs, outfit changes, or random objects.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Warm Coffee Moments in a Modern Café
 
@@ -1092,37 +1092,6 @@ Style: photorealistic Korean lifestyle, cinematic storytelling, premium commerci
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-lifestyle-video-following-a-young-korean-universi-2c52e69d07a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Korean Woman's Summer Watermelon Routine
-
-> A Korean summer day turns sweeter with a market-fresh watermelon, from careful selection to the first refreshing bite. C
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-95054b3a6379.jpg" width="600" alt="A Korean Woman's Summer Watermelon Routine">](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2092464281404965030) | **Published:** 2026-08-26 | **Heat:** 48
-
-**Stability:** 83/100
-
-**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.4) · [output](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-95054b3a6379/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (9 lines, click to expand)</b></summary>
-
-```
-Create a 30-second 16:9 ultra-photorealistic Korean summer lifestyle video following a young Korean woman through a natural summer routine: walking to a neighborhood fruit market → choosing a watermelon → carrying it home → washing and cutting it → enjoying the first bite.
-
-Keep the same woman, outfit, watermelon, locations, lighting, and time of day throughout. Use realistic human movement, natural walking, crouching, lifting, carrying, cutting, and eating. The watermelon must have believable weight, with realistic grip, balance, inertia, and cutting resistance.
-
-Show a lively Korean market, sunny residential street, and cozy apartment kitchen with authentic environmental details. Use smooth documentary-style camera movement, natural daylight, realistic depth of field, and subtle summer breeze.
-
-Include authentic sounds of market activity, footsteps, running water, knife cutting, kitchen ambience, and natural eating sounds. Optional dialogue: “This one looks good.”
-
-Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Blue-Haired Woman Runs Back as a Scooter Rider Loses Balance and Falls
 
 > One unexpected moment turned the whole scene upside down!. Sometimes, a simple walk can turn into an unforgettable little adventure. Created on seedance 2.0 Pro…
@@ -1330,6 +1299,37 @@ Location sound only. Grass and dirt scraping, fabric rustling. Sharp impact soun
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/shamiweb3-seedance-ai-a624f0561664?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Korean Woman's Summer Watermelon Routine
+
+> A Korean summer day turns sweeter with a market-fresh watermelon, from careful selection to the first refreshing bite. C
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-95054b3a6379.jpg" width="600" alt="A Korean Woman's Summer Watermelon Routine">](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2092464281404965030) | **Published:** 2026-08-26 | **Heat:** 47
+
+**Stability:** 83/100
+
+**Retest:** MiniMax H3 Max 768p · 2026-09-07 · ✅ reproduced (score 83.4) · [output](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-95054b3a6379/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (9 lines, click to expand)</b></summary>
+
+```
+Create a 30-second 16:9 ultra-photorealistic Korean summer lifestyle video following a young Korean woman through a natural summer routine: walking to a neighborhood fruit market → choosing a watermelon → carrying it home → washing and cutting it → enjoying the first bite.
+
+Keep the same woman, outfit, watermelon, locations, lighting, and time of day throughout. Use realistic human movement, natural walking, crouching, lifting, carrying, cutting, and eating. The watermelon must have believable weight, with realistic grip, balance, inertia, and cutting resistance.
+
+Show a lively Korean market, sunny residential street, and cozy apartment kitchen with authentic environmental details. Use smooth documentary-style camera movement, natural daylight, realistic depth of field, and subtle summer breeze.
+
+Include authentic sounds of market activity, footsteps, running water, knife cutting, kitchen ambience, and natural eating sounds. Optional dialogue: “This one looks good.”
+
+Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman Attacked by a Lion While Taking Photos at a Zoo
 
@@ -1883,24 +1883,6 @@ Creative 30-second video, cinematic lifestyle road-trip short film with a warm, 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-creative-30-second-video-cinematic-lifestyle-road-trip-short-film-with-a-warm-337c32f26878?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Radiant Archangel Warrior in Moonlit Ruins
-
-> A woman swallows a sword of light, transforming into a winged archangel to battle demons in dark ruins. Created with Seedance 2.0 Prompt: Cinematic dark fantasy…
-
-[<img src="https://media.goodcase.ai/cases/dfc96b26f265.jpg" width="600" alt="Radiant Archangel Warrior in Moonlit Ruins">](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AiwithSaif7 | **Source:** [Original](https://x.com/AiwithSaif7/status/2098623698773196856) | **Published:** 2026-09-12 | **Heat:** 41
-
-**Retest:** Grok Imagine · 2026-10-03 · ❌ failed (score n/a)
-
-```
-Cinematic dark fantasy video. A young woman in a blood-stained white dress swallows a glowing sword of pure white light. Divine energy bursts from her, her eyes flash solid blinding white, and massive white feathered angel wings erupt from her back with a floating halo above her head. She transforms into a radiant archangel holding a luminous glowing weapon, fighting shadowy demonic monsters with glowing red eyes in ancient stone ruins under a full moon. Beams of holy light crash from the sky into the ground, vaporizing the dark creatures. Ultra-detailed, 8k resolution, cinematic lighting, epic motion effects, unreal engine 5 render style.
-​AI Image Prompt (For Midjourney / DALL-E 3 / Stable Diffusion)
-​Epic dark fantasy screenshot, a female archangel warrior in a blood-splattered white dress standing in ancient stone ruins under a full moon. She has glowing white eyes, a luminous halo, and massive magnificent white wings fully spread out. She holds a vertical staff of blinding white light touching the ground. Massive pillars of celestial light beam down into a circular courtyard surrounding her, dark fantasy mood, hyper-realistic detail, 8k resolution, cinematic film still. --ar 16:9
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Young Woman Films a Spring Mountain View in Japan
 
 > A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea
@@ -2066,6 +2048,24 @@ Voiceover: “Getting ready, one final touch. Bleu de Chanel, make it yours.”
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-luxury-perfume-commercial-10-seconds-9e609d896ad2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Radiant Archangel Warrior in Moonlit Ruins
+
+> A woman swallows a sword of light, transforming into a winged archangel to battle demons in dark ruins. Created with Seedance 2.0 Prompt: Cinematic dark fantasy…
+
+[<img src="https://media.goodcase.ai/cases/dfc96b26f265.jpg" width="600" alt="Radiant Archangel Warrior in Moonlit Ruins">](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AiwithSaif7 | **Source:** [Original](https://x.com/AiwithSaif7/status/2098623698773196856) | **Published:** 2026-09-12 | **Heat:** 40
+
+**Retest:** Grok Imagine · 2026-10-03 · ❌ failed (score n/a)
+
+```
+Cinematic dark fantasy video. A young woman in a blood-stained white dress swallows a glowing sword of pure white light. Divine energy bursts from her, her eyes flash solid blinding white, and massive white feathered angel wings erupt from her back with a floating halo above her head. She transforms into a radiant archangel holding a luminous glowing weapon, fighting shadowy demonic monsters with glowing red eyes in ancient stone ruins under a full moon. Beams of holy light crash from the sky into the ground, vaporizing the dark creatures. Ultra-detailed, 8k resolution, cinematic lighting, epic motion effects, unreal engine 5 render style.
+​AI Image Prompt (For Midjourney / DALL-E 3 / Stable Diffusion)
+​Epic dark fantasy screenshot, a female archangel warrior in a blood-splattered white dress standing in ancient stone ruins under a full moon. She has glowing white eyes, a luminous halo, and massive magnificent white wings fully spread out. She holds a vertical staff of blinding white light touching the ground. Massive pillars of celestial light beam down into a circular courtyard surrounding her, dark fantasy mood, hyper-realistic detail, 8k resolution, cinematic film still. --ar 16:9
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A paper-cut fox walks as autumn color blooms from ivory
 

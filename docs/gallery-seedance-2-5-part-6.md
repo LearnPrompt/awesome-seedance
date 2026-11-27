@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 6/10)
 
-All 804 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 805 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 426–525 of 804.
+This page: cases 426–525 of 805.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · **Part 6** · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)
 
@@ -1231,6 +1231,47 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 ```
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Woman drives the countryside with a baby alpaca in a convertible
+
+> My Baby Alpaca’s First Convertible Ride 🦙 Seedance 2.5 on @TapNow_AI prompt: A young woman (Image 1 for exact face and hair) sits low in the driver's seat of a…
+
+[<img src="https://media.goodcase.ai/cases/03d12febd8fc.jpg" width="600" alt="Woman drives the countryside with a baby alpaca in a convertible">](https://goodcase.ai/cases/seedance-2-5-a-young-woman-image-1-for-exact-face-and-hair-sits-low-in-the-driver-s-seat-o-f8561d0a07ac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @doctorwasif | **Source:** [Original](https://x.com/doctorwasif/status/2125463931384909872) | **Published:** 2026-11-25 | **Heat:** 51
+
+<details>
+<summary><b>Full prompt (23 lines, click to expand)</b></summary>
+
+```
+A young woman (Image 1 for exact face and hair) sits low in the driver's seat of a pastel-blue open-top convertible parked outside a rustic countryside farmhouse, cradling a fluffy cream-colored baby alpaca. She lifts it toward the camera, smiles affectionately and says: "우리 애기에요."
+
+**Six hard-cut scenes, always the exact same locked framing:**
+
+1. **Farmhouse:** She places the alpaca on the passenger seat over a soft blanket, fastens her seatbelt and starts the engine. The alpaca's ears swivel. She asks: "준비됐어?" The alpaca softly hums.
+
+2. **Driving:** The car cruises along a sunny country road surrounded by sunflowers and green fields. Wind blows her hair and ruffles the alpaca's fleece. She laughs and yells: "으아, 내 머리!"
+
+3. **Snack time:** She holds up a small alpaca treat. The alpaca eagerly stretches its neck and hums. She teases: "간식 줄까?!"
+
+4. **Countryside:** At a quiet crossroads, she rests her chin on her hand, looks at the sky and sighs: "오늘 날씨가 진짜.."
+
+5. **Arrival:** The car stops beside a sunflower meadow. Engine off, scenery still. She smiles at the camera, reaches toward the lens and says: "도착! 다녀올게요." Her hand covers the lens and the video ends.
+
+**Visual continuity:** Keep her face and hairstyle exactly as @Image 1, never its background. The same pastel-blue convertible, cream leather interior, white stitching, chrome trim and retro dashboard throughout. The same small cream baby alpaca in every scene. Roof completely open at all times — absolutely no roof or roof panels.
+
+**Camera:** One fixed, slightly wide-angle viewpoint positioned low on the center console, showing both occupants. Identical framing and focal length in every cut. No camera movement, zoom, reframing or visible filming equipment.
+
+**Style:** Photorealistic live-action, authentic self-filmed countryside vlog. Natural skin pores, individual alpaca wool fibers, subtle film grain, realistic daylight and motion. No beauty filters, CGI, 3D-rendered appearance or artificial gloss. Sharp details even during motion.
+
+**Audio:** Diegetic sound only. No background music whatsoever. Natural Korean dialogue with visible lips perfectly synchronized, engine startup, road and wind noise, birdsong and the alpaca's soft humming. No voiceover.
+
+No subtitles, text, logos, watermarks, reference sheets or duplicated subjects.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-young-woman-image-1-for-exact-face-and-hair-sits-low-in-the-driver-s-seat-o-f8561d0a07ac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Three mermaids at a night pool compete for caviar
 
@@ -4611,22 +4652,6 @@ No text, no subtitles, no watermark, no distorted faces, no extra fingers, no du
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A thorn-wood being meets a glass figure in an abandoned room
-
-> Where nature fantasy and imagination come together in a surreal encounter. Made With Seedance 2.5 Prompt: A surreal dark-fantasy cinematic scene featuring a mys…
-
-[<img src="https://media.goodcase.ai/cases/87094db3ba25.jpg" width="600" alt="A thorn-wood being meets a glass figure in an abandoned room">](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @itsSaira_1 | **Source:** [Original](https://x.com/itsSaira_1/status/2121100826894590435) | **Published:** 2026-11-13 | **Heat:** 44
-
-```
-A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
-
-#AIart #AI #Visualart
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Shaolin master breaks a rainy Chinatown siege with a golden blade
 

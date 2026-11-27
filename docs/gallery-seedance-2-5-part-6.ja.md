@@ -1,79 +1,10 @@
 # Seedance 2.5 — 全ケース（Part 6/10）
 
-Seedance 2.5 の全 804 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 805 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 804 件中 420–519 件目。
+このページ: 805 件中 420–519 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · **Part 6** · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)
-
-### Assassin in a close-quarters fight inside a luxury hotel lobby
-
-> From concept to cinematic action. Xreated with Seedance 2.5 on @WizstarAI. Stunning macro shots, epic slow motion and Hollywood-style visuals. #WizstarPartner T…
-
-[<img src="https://media.goodcase.ai/cases/2c30dbd16077.jpg" width="600" alt="Assassin in a close-quarters fight inside a luxury hotel lobby">](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-hyper-realistic-hollywood-action-sequence-60-a5c1cc2c227a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2123060264694132917) | **公開日:** 2026-11-18 | **ヒート:** 53
-
-<details>
-<summary><b>プロンプト全文（51 行、クリックで展開）</b></summary>
-
-```
-THE LAST ASSASSIN — CINEMATIC ACTION
-
-ENGINE DIRECTIVE:
-Create an exactly 30-second, 16:9 hyper-realistic Hollywood action sequence, 60 FPS target, inside a luxurious golden hotel lobby.
-
-REFERENCES:
-@image1 = Male protagonist identity and body.
-@image2 = Male antagonist.
-@image3 = Luxury hotel environment.
-
-IDENTITY LOCK: Preserve @image1's exact face, hairstyle, beard, skin texture and physique. Never alter identity.
-
-PROTAGONIST: Black tactical jacket, black inner shirt, black cargo trousers, combat boots and wristwatch. Compact black combat knife.
-
-ANTAGONIST: Muscular male, short dark hair, beard, facial scar, fitted black business suit, white shirt, loosened black tie and matte-black handgun. Two additional male security fighters in matching suits.
-
-ENVIRONMENT: Grand luxury hotel lobby, cream-and-gold marble walls, decorative columns, crystal chandeliers, dark wooden reception desk and reflective marble floor. Warm golden cinematic lighting. Preserve architecture and layout.
-
-CINEMATOGRAPHY: Hollywood martial arts, extreme macro close-ups of eyes, hands, weapons, shoes and facial expressions. Dynamic tracking, low angles, 180-degree camera orbits, shallow depth of field, realistic impacts, detailed fabric physics and dramatic slow motion.
-
-TIMELINE
-
-00–03: Protagonist stands in hotel lobby. Camera pushes into extreme eye macro. Security guards approach.
-
-03–06: First attacker charges. Protagonist dodges, counterstrikes and throws him onto marble.
-
-06–09: Macro shots of shoes, knife grip, eyes and facial expressions. Second attacker grabs from behind; protagonist escapes and counters.
-
-09–12: Dramatic slow-motion spinning kick. Attacker falls. Realistic blazer and hair movement.
-
-12–15: Antagonist raises handgun near reception. Macro weapon and eye shots. Gunshot hits marble column; protagonist takes cover.
-
-15–18: Protagonist emerges, performs a close-quarters disarming maneuver. Handgun slides across marble.
-
-18–21: Two security fighters attack from opposite directions. Camera orbits protagonist as he counters both.
-
-21–24: Extreme eye macro followed by dramatic slow-motion spinning kick. Final antagonist falls.
-
-24–27: Camera glides across fallen fighters and dropped weapon. Protagonist adjusts his jacket and tie.
-
-27–30: Golden cinematic close-up. Protagonist turns toward camera and gives a confident sideways glance. Dramatic ending.
-
-AUDIO
-
-Original Hollywood action soundtrack: deep bass, orchestral strings, aggressive percussion. Synchronized punches, kicks, footsteps, fabric movement, gunshots, metallic sounds and environmental ambience.
-
-CONTINUITY RULES
-
-Preserve @image1, @image2 and @image3 throughout. Consistent faces, outfits, weapons and architecture. Slow motion at 09–12 and 21–24. Realistic physics, natural movement, cinematic transitions. No distorted faces, duplicated limbs, teleportation, random changes, subtitles or watermarks.
-
-FINAL RESULT: One seamless 30-second photorealistic Hollywood assassin fight with spectacular macro cinematography, slow-motion combat and premium blockbuster visuals.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-hyper-realistic-hollywood-action-sequence-60-a5c1cc2c227a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Fashionable Young Woman’s Daily Life and Nights Out in Seoul
 
@@ -212,6 +143,37 @@ Overall: photorealistic, cinematic 4K, natural movement, realistic London enviro
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-character-consistency-same-young-adult-female-traveler-throughout-same-face-ba84d28e2cf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Two Infected Women Hunt Victims in a Dim Public Washroom
+
+> The Washroom Attack 🧟‍♀️ Made with Seedance 2.5 Prompt: Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>…
+
+[<img src="https://media.goodcase.ai/cases/4b9a684c1b94.jpg" width="600" alt="Two Infected Women Hunt Victims in a Dim Public Washroom">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2103091393145282775) | **公開日:** 2026-09-24 | **ヒート:** 53
+
+**安定度:** 65/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 65.4) · [出力](https://media.goodcase.ai/retests/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
+
+```
+Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>> as the exact reference for the zombie woman and keep her face, hair, body proportions and outfit consistent.
+
+A young woman enters the washroom and washes her hands, unaware that the zombie woman is watching her through the mirror. The zombie slowly reveals pale skin, dark veins, twitching fingers and completely black eyes before suddenly attacking her. She grabs the victim, pins her against the tiled wall, and chases her when she escapes toward the exit.
+
+The victim struggles to escape, but the zombie catches her again. Dark veins spread across the victim's neck and face as she convulses and collapses. Her eyes turn milky white and then black as she rises, now infected. The two infected women turn toward another person entering the washroom and suddenly charge at them.
+
+End with the washroom lights flickering as the infected women stand motionless beneath the fluorescent lights, staring directly into the camera.
+
+Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Escape Under a Loading Door in the Rain
 
@@ -1467,6 +1429,47 @@ A young snowboarder drops into an alpine terrain park, carves smoothly down the 
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/nawalsehar-seedance-ai-e50de3d2896e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Woman drives the countryside with a baby alpaca in a convertible
+
+> My Baby Alpaca’s First Convertible Ride 🦙 Seedance 2.5 on @TapNow_AI prompt: A young woman (Image 1 for exact face and hair) sits low in the driver's seat of a…
+
+[<img src="https://media.goodcase.ai/cases/03d12febd8fc.jpg" width="600" alt="Woman drives the countryside with a baby alpaca in a convertible">](https://goodcase.ai/cases/seedance-2-5-a-young-woman-image-1-for-exact-face-and-hair-sits-low-in-the-driver-s-seat-o-f8561d0a07ac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @doctorwasif | **出典:** [元投稿](https://x.com/doctorwasif/status/2125463931384909872) | **公開日:** 2026-11-25 | **ヒート:** 51
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+A young woman (Image 1 for exact face and hair) sits low in the driver's seat of a pastel-blue open-top convertible parked outside a rustic countryside farmhouse, cradling a fluffy cream-colored baby alpaca. She lifts it toward the camera, smiles affectionately and says: "우리 애기에요."
+
+**Six hard-cut scenes, always the exact same locked framing:**
+
+1. **Farmhouse:** She places the alpaca on the passenger seat over a soft blanket, fastens her seatbelt and starts the engine. The alpaca's ears swivel. She asks: "준비됐어?" The alpaca softly hums.
+
+2. **Driving:** The car cruises along a sunny country road surrounded by sunflowers and green fields. Wind blows her hair and ruffles the alpaca's fleece. She laughs and yells: "으아, 내 머리!"
+
+3. **Snack time:** She holds up a small alpaca treat. The alpaca eagerly stretches its neck and hums. She teases: "간식 줄까?!"
+
+4. **Countryside:** At a quiet crossroads, she rests her chin on her hand, looks at the sky and sighs: "오늘 날씨가 진짜.."
+
+5. **Arrival:** The car stops beside a sunflower meadow. Engine off, scenery still. She smiles at the camera, reaches toward the lens and says: "도착! 다녀올게요." Her hand covers the lens and the video ends.
+
+**Visual continuity:** Keep her face and hairstyle exactly as @Image 1, never its background. The same pastel-blue convertible, cream leather interior, white stitching, chrome trim and retro dashboard throughout. The same small cream baby alpaca in every scene. Roof completely open at all times — absolutely no roof or roof panels.
+
+**Camera:** One fixed, slightly wide-angle viewpoint positioned low on the center console, showing both occupants. Identical framing and focal length in every cut. No camera movement, zoom, reframing or visible filming equipment.
+
+**Style:** Photorealistic live-action, authentic self-filmed countryside vlog. Natural skin pores, individual alpaca wool fibers, subtle film grain, realistic daylight and motion. No beauty filters, CGI, 3D-rendered appearance or artificial gloss. Sharp details even during motion.
+
+**Audio:** Diegetic sound only. No background music whatsoever. Natural Korean dialogue with visible lips perfectly synchronized, engine startup, road and wind noise, birdsong and the alpaca's soft humming. No voiceover.
+
+No subtitles, text, logos, watermarks, reference sheets or duplicated subjects.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-young-woman-image-1-for-exact-face-and-hair-sits-low-in-the-driver-s-seat-o-f8561d0a07ac?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Three mermaids at a night pool compete for caviar
 
@@ -4847,22 +4850,6 @@ No text, no subtitles, no watermark, no distorted faces, no extra fingers, no du
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithelisia-seedance-ai-0084e9601557?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A thorn-wood being meets a glass figure in an abandoned room
-
-> Where nature fantasy and imagination come together in a surreal encounter. Made With Seedance 2.5 Prompt: A surreal dark-fantasy cinematic scene featuring a mys…
-
-[<img src="https://media.goodcase.ai/cases/87094db3ba25.jpg" width="600" alt="A thorn-wood being meets a glass figure in an abandoned room">](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @itsSaira_1 | **出典:** [元投稿](https://x.com/itsSaira_1/status/2121100826894590435) | **公開日:** 2026-11-13 | **ヒート:** 44
-
-```
-A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
-
-#AIart #AI #Visualart
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Shaolin master breaks a rainy Chinatown siege with a golden blade
 

@@ -6,19 +6,19 @@ Seedance 2.0 の全 310 ケースをヒートスコア順に掲載。data/cases.
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-0-part-1.ja.md) · **Part 2** · [Part 3](./gallery-seedance-2-0-part-3.ja.md) · [Part 4](./gallery-seedance-2-0-part-4.ja.md)
 
-### Apartment Arrival Storyboard Animation
+### Cinematic Day-in-the-Life Vlog Prompt
 
-> A cinematic 3D character animation sequence based on a storyboard, depicting a woman returning home and interacting with her apartment.
+> A thorough video prompt for an ultra-realistic life vlog following its subject from the morning wash through to night, holding character consistency across every scene.
 
-[<img src="https://media.goodcase.ai/media/poster/apartment-arrival-storyboard-animation.jpg" width="600" alt="Apartment Arrival Storyboard Animation">](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+[<img src="https://media.goodcase.ai/media/poster/vlog-543a49303376.jpg" width="600" alt="Cinematic Day-in-the-Life Vlog Prompt">](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
 
-**作者:** @Just_sharon7 | **出典:** [元投稿](https://x.com/Just_sharon7/status/2083912532692001128) | **公開日:** 2026-08-02 | **ヒート:** 59
+**作者:** @ElsaSofia__AI | **出典:** [元投稿](https://x.com/ElsaSofia__AI/status/2091345498909319528) | **公開日:** 2026-08-23 | **ヒート:** 59
 
 ```
-Use the storyboard grid Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and clothing, expressive facial animation, believable hand interaction with objects, and smooth cinematic camera movement. Jarvis is an AI voice only. He is never physically shown. Character sheet is Image2 Apartment exterior and bag is Image3 ⸻ SHOT 1 — 0:00–0:02.5 — 2.5 SECONDS Begin from inside the apartment facing the entrance. The front door opens and the character walks naturally into the apartment after returning from work. She carries the black Hermès Birkin 25 by its two short top handles in one hand and her car keys in the other. Her walk communicates end-of-workday fatigue: slightly lowered shoulders, relaxed pace, calm face. She looks tired but comfortable now that she is home. As she crosses the doorway, she reaches back naturally and begins pulling the door closed behind her. The handbag responds naturally to her walking motion with subtle weight and momentum. No long strap appears. Camera: Wide eye-level establishing shot. Very subtle cinematic push-in as she enters. Keep the established entry architecture visible. Audio: Door opening, soft heel footsteps, subtle handbag leather movement, quiet apartment ambience. Dialogue: None. ⸻ SHOT 2 — 0:02.5–0:04.5 — 2 SECONDS Cut to the entry console. the character walks up to the console without fully stopping. She extends the hand holding her car keys and casually releases them onto the wooden surface. The keys fall naturally and land with a distinct metallic clink. Her other hand continues holding the black Birkin by its short handles. She barely looks at the keys. The action is automatic and habitual. Immediately after releasing them, her attention shifts toward the living room and kitchen. Camera: Medium side-angle shot. Keep Jema, the Birkin and the console visible. A subtle focus shift can follow the keys as they land before returning to the character. Audio: Footsteps followed by a crisp key CLINK. Dialogue: None. ⸻ SHOT 3 — 0:04.5–0:07 — 2.5 SECONDS the character continues from the entry area into the living room, passing behind the cream sofa on her way toward the kitchen. Without stopping, she swings the Birkin slightly forward and casually tosses it onto the cream sofa. The handbag leaves her hand with believable weight, travels a short distance and lands on the cushion. The cushion compresses slightly beneath it. The bag settles naturally and remains there. As she releases the handbag and continues toward the kitchen, the character speaks casually: the character: “Jarvis, update me on my work today.” Her delivery is relaxed and familiar. She does not call loudly and does not look for a speaker or device. She talks to Jarvis as naturally as she would speak to someone already in the room. Her lips must synchronize accurately with the dialogue. Camera: Wide tracking shot. Follow Jema smoothly from the living room toward the kitchen while keeping the established apartment geography readable. Audio: Soft heel footsteps, subtle handbag landing on sofa. the character voice: Young adult woman, confident, slightly tired after work, natural conversational delivery. ⸻ SHOT 4 — 0:07–0:09.5 — 2.5 SECONDS the character reaches the kitchen and moves behind the island onto the kitchen side of the counter. She reaches toward the completely empty clear drinking glass on the countertop. The glass must remain completely empty throughout this shot. She has not poured water yet. Her eyes briefly settle on the glass as she picks it up or positions it naturally for pouring. She listens to Jarvis without interrupting her routine. Jarvis begins responding through the apartment: JARVIS (O.S.): “Miss Jema, today Claude connected to PayBox Agent by MoonPay…” Jarvis should sound like a sophisticated male AI assistant: calm, polished, articulate, composed and subtly warm. Not robotic and not overly emotional. the character does not speak. Her expression remains neutral and attentive. Camera: Medium shot from the living-room side of the island looking toward Jema behind the counter. Gentle cinematic push-in. Audio: Jarvis voice integrated naturally into the room ambience. Very subtle glass contact with countertop. ⸻ SHOT 5 — 0:09.5–0:12.5 — 3 SECONDS Cut to a cinematic close-up of the character’s hands at the same kitchen counter. There is a clear water bottle and empty glass on the counter, She picks up the clear water bottle and begins pouring water into the same previously empty glass. Show a natural continuous stream entering the glass and the water level gradually rising. Jarvis continues seamlessly: JARVIS (O.S.): “…and traded. Your portfolio is up by 17 percent…” Jema continues pouring normally. Then Jarvis finishes: JARVIS (O.S.): “… that was under ten minutes.” As he says “under ten minutes,” Jema’s pouring motion hesitates very slightly. Do not make her freeze dramatically. It should be a tiny physical reaction showing that the number caught her attention. Camera: Tight close-up of bottle, hands, water stream and glass. Very subtle camera drift. Shallow depth of field. Audio: Clear natural water-pouring sound underneath Jarvis’s voice. ⸻ SHOT 6 — 0:12.5–0:15 — 2.5 SECONDS Cut to the character‘s face and upper body behind the kitchen island. She stops pouring and holds the now-filled glass naturally. For a brief beat, she processes what Jarvis just said. Her eyes glance slightly upward. Her eyebrows rise subtly. Then the smallest impressed smile forms at the corner of her mouth. Keep the reaction understated. No huge eyes, dramatic gasp, head jerk, or exaggerated cartoon reaction. She is impressed, but AI automation like this is already part of her life. End on this subtle expression, setting up Grid 2. Camera: Medium close-up with a slow, almost imperceptible push toward her face. Shallow depth of field with the established kitchen softly blurred behind her. Audio: Water pouring stops. Brief room ambience after Jarvis finishes. No dialogue from Jema. ⸻ ANIMATION CONTINUITY The six shots are one continuous sequence. the character enters with keys + Birkin → keys stay on console → Birkin lands and stays on sofa → the character reaches kitchen → glass is empty before pouring → water is poured → the character ends holding the glass. Keep her movement restrained and natural. No unnecessary gestures, no duplicates, random head turns, excessive blinking, floating objects, hand deformation, prop morphing, wardrobe changes, hairstyle changes, or apartment changes. Total duration: exactly 15 seconds. 16:9 landscape. Storyboard Grid 2 - Video Prompt (15 seconds) Use the storyboard grid @Image1 as the exact visual reference for character design, apartment layout, clothing, handbag, props, lighting, and composition. Animate the six storyboard frames as one continuous 15-second cinematic sequence. Maintain the character’s exact appearance throughout. Maintain the apartment as one fixed physical environment. Do not alter furniture, architecture, kitchen layout, décor, handbag design, clothing, hairstyle, or character proportions. Movement should feel like polished feature-film 3D character animation: natural body weight, realistic walking rhythm, subtle secondary movement in hair and
+DURATION: 20 seconds ASPECT RATIO: 16:9 STYLE: Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading. REFERENCE ASSIGNMENT: @IMG1 = FEMALE HERO / MAIN CHARACTER @IMG2 = BEDROOM / MORNING @IMG3 = KITCHEN / BREAKFAST @IMG4 = WORK / DESK @IMG5 = OUTDOOR / CAFÉ @IMG6 = EVENING / NIGHT Use @IMG1 as the strict identity reference throughout the entire video. CHARACTER CONSISTENCY: The same woman must appear in every scene. Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity. Do not change her identity between scenes. 0–3 SECONDS — MORNING Start in the bedroom using @IMG2. The woman wakes up naturally and sits on the edge of the bed. Soft morning sunlight enters through the window. She gently opens the curtains and looks toward the morning light. Camera begins with a medium-wide shot and smoothly pushes toward her. Peaceful morning atmosphere. 3–6 SECONDS — BREAKFAST Smooth cinematic transition to @IMG3. The same woman prepares a simple breakfast in the kitchen. She pours coffee or tea into a ceramic mug and places breakfast on the counter. Natural steam rises from the hot drink. She briefly looks toward the camera with a relaxed morning smile. Use a natural medium tracking shot. 6–10 SECONDS — WORK Transition to @IMG4. The same woman sits at her desk and works on her laptop. She types briefly, checks the screen and writes a few notes in her notebook. Natural productive expression. Camera moves slowly from a side angle toward a three-quarter view. Keep the environment realistic and calm. 10–14 SECONDS — OUTDOOR / CAFÉ Transition naturally to @IMG5. The same woman leaves home and walks through a beautiful modern city street toward an outdoor café. Camera smoothly tracks backward while she walks toward it. She arrives at the café, places her handbag beside the table and sits down. She smiles naturally toward the camera. Warm daylight and realistic city background. 14–17 SECONDS — CAFÉ MOMENT Close cinematic shot. She picks up her coffee/drink and takes a relaxed sip. Subtle background movement from distant pedestrians. Natural handheld lifestyle-vlog feeling. 17–20 SECONDS — NIGHT Transition to @IMG6. The same woman is back home in her cozy bedroom at night. She places her phone on the bedside table and relaxes after the day. She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile. Camera slowly pushes into a close-up. End on her calm expression with warm bedroom lighting and soft city-light bokeh. CUT TO BLACK. CAMERA PRIORITY: Keep the camera cinematic and natural. Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement. Avoid excessive camera shake. Keep the woman as the visual focus. Maintain realistic transitions between locations. FINAL RULES: Same female character throughout. Same face and identity throughout. Natural realistic human movement. Realistic lighting and shadows. Realistic clothing and hair movement. No face changes. No character duplication. No extra main characters. No cartoon or anime appearance. No fantasy effects. No excessive motion blur. No distorted hands. No text. No logos. No watermark. The overall feeling should be: A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life. Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference. Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance. Create the same woman as a realistic modern lifestyle vlogger. Show her with natural feminine proportions and realistic anatomy. CHARACTER PRESENTATION: Create a clean professional character sheet containing: 1. Full-body front view 2. Full-body 3/4 view 3. Full-body side view 4. Back view 5. Close-up face portrait 6. Natural smiling expression 7. Neutral expression 8. Casual standing pose Keep the exact same woman in every view. CLOTHING: Use a simple modern casual lifestyle outfit suitable for a daily vlog: a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear. Keep the outfit realistic, modest and natural. STYLE: Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors. The character should look like a real woman photographed for a professional lifestyle vlog. IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY. Do not change her face. Do not change her hairstyle. Do not masculinize her. Do not make her look like a different person. Do not create an anime or cartoon appearance. No fantasy styling. No text. No logo. No watermark. Clean neutral studio background. This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.
 ```
 
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/apartment-arrival-storyboard-animation?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/vlog-543a49303376?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Gray Cat Triggers a Chaotic Kitchen Mishap
 
@@ -278,6 +278,20 @@ Critical requirement: Create a true five-shot cinematic beauty film, not a singl
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-an-exactly-15-second-16-9-full-hd-1920-1080-24-fps-photorealistic-ci-cda429bbe9d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Three Korean Friends Share Late-Night Ramen at a Convenience Store
+
+> Late-night ramen, best friends, and cozy Korean vibes. Sometimes, the simplest moments make the sweetest memories. Created on seedance 2.0 Prompt: Created a vid…
+
+[<img src="https://media.goodcase.ai/cases/e0c99130c1d3.jpg" width="600" alt="Three Korean Friends Share Late-Night Ramen at a Convenience Store">](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaayat | **出典:** [元投稿](https://x.com/aiwithaayat/status/2109852187186827283) | **公開日:** 2026-10-13 | **ヒート:** 54
+
+```
+Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Dragon Chases a Woman Through a Container Port at Dusk
 
 > Running for her life as a fire-breathing dragon turns the city into chaos. One wrong move could be the end! Created on seedance 2.0 Prompt: Create a 45-second u…
@@ -447,20 +461,6 @@ Create it 30-second video featuring a breathtaking cinematic acrobatic performan
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-it-30-second-video-featuring-a-breathtaking-cinematic-acrobatic-performa-d8c6b0e19d99?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Three Korean Friends Share Late-Night Ramen at a Convenience Store
-
-> Late-night ramen, best friends, and cozy Korean vibes. Sometimes, the simplest moments make the sweetest memories. Created on seedance 2.0 Prompt: Created a vid…
-
-[<img src="https://media.goodcase.ai/cases/e0c99130c1d3.jpg" width="600" alt="Three Korean Friends Share Late-Night Ramen at a Convenience Store">](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaayat | **出典:** [元投稿](https://x.com/aiwithaayat/status/2109852187186827283) | **公開日:** 2026-10-13 | **ヒート:** 53
-
-```
-Created a video 30 seconds, Beautiful Korean girls enjoying a late-night ramen break at a Korean convenience store. Three stylish young Korean women with natural Korean beauty, realistic skin texture, dark expressive eyes, and casual streetwear gather around a ramen counter under bright fluorescent lights. One girl wears a blue-and-black sporty jacket with loose navy track pants, another has short silver-gray hair and a black jacket, and the third wears a dark casual outfit with straight black hair. They prepare instant ramen, hold chocolate milk and snacks, and share a relaxed late-night meal together. Show cinematic close-up shots of steaming ramen cups, chopsticks lifting noodles, a girl gently blowing on hot noodles before eating, and friends enjoying their food while chatting naturally. Transition to a wider shot of the girls sitting at a small round table beside the convenience store window, with city lights glowing outside and reflections on the glass. Near the end, one girl gets up, adjusts her backpack, and heads toward the glass entrance while the others remain seated. Capture authentic Korean convenience-store culture, candid friendship moments, subtle facial expressions, natural movements, realistic food textures and steam, handheld camera motion, shallow depth of field, cool blue cinematic color grading, soft reflections, moody nighttime atmosphere, ultra-realistic live-action cinematography, consistent characters, detailed clothing textures, smooth transitions, vertical 9:16 aspect ratio, 4K quality, no subtitles, no text, no watermark.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-created-a-video-30-seconds-beautiful-korean-girls-enjoying-a-late-night-ramen-3340bf9aa3ba?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Young Woman Strolls Through a Korean Coastal Village at Sunset
 
 > A peaceful walk through a beautiful Korean coastal village. Golden sunsets, ocean breeze, and little moments that feel like a dream. Created on seedance 2.0 Pro…
@@ -493,6 +493,20 @@ Audio: Natural ocean waves, soft sea breeze, footsteps on the stone path, and su
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-0-create-a-30-second-ultra-realistic-cinematic-lifestyle-vlog-featuring-a-beautif-a70d082492a0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Korean Schoolgirl’s Journey Through a Snowy Mountain Village
+
+> A peaceful winter escape filled with snowy mountains, quiet villages, and unforgettable little moments. Created on seedance 2.0 Prompt:Create a 30-second video,…
+
+[<img src="https://media.goodcase.ai/cases/aacb79532b6c.jpg" width="600" alt="A Korean Schoolgirl’s Journey Through a Snowy Mountain Village">](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @ayzalnooor24521 | **出典:** [元投稿](https://x.com/ayzalnooor24521/status/2104443916695347682) | **公開日:** 2026-09-28 | **ヒート:** 53
+
+```
+Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy school uniform with a white shirt, ribbon tie, blazer, pleated skirt, and long dark hair, keeping her face, hairstyle, outfit, and proportions consistent throughout the entire video. Start with a cinematic wide shot of her walking toward a modern school building, then transition naturally into a peaceful snowy mountain village surrounded by traditional Korean-style wooden houses and dramatic snow-covered mountains. Show her walking through the quiet snowy path while the camera follows her with smooth cinematic movement and natural winter lighting. Add a close-up selfie-style moment where she smiles gently at the camera, followed by wide scenic shots revealing the beautiful winter landscape. Show two brown horses calmly eating hay in a snowy field as the girl approaches them and stands beside the wooden fence, creating a warm and emotional connection. Use realistic snow, natural body movement, subtle wind in her hair and clothing, detailed horse movement, and authentic environmental textures. Transition into a cozy traditional wooden house where she enters through the door and looks around naturally, then show her sitting near a large window with a warm cup of drink while looking at the snowy village outside. Add subtle hand-drawn doodle elements around key moments, such as small hearts, snowflakes, stars, arrows, and simple travel-style sketches, integrated naturally without covering the subject. Keep the entire video photorealistic, cinematic, warm, emotional, and immersive, with seamless transitions, realistic camera motion, consistent character identity, and no artificial-looking faces, distorted hands, extra limbs, outfit changes, or random objects.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Rainy Window, Coffee and Vinyl: A Quiet Afternoon
 
@@ -551,20 +565,6 @@ Important: Maintain one identical character throughout. Do not change her facial
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-15-second-cinematic-cozy-lifestyle-video-of-a-young-woman-spending-a-p-b80e5f5782e0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Korean Schoolgirl’s Journey Through a Snowy Mountain Village
-
-> A peaceful winter escape filled with snowy mountains, quiet villages, and unforgettable little moments. Created on seedance 2.0 Prompt:Create a 30-second video,…
-
-[<img src="https://media.goodcase.ai/cases/aacb79532b6c.jpg" width="600" alt="A Korean Schoolgirl’s Journey Through a Snowy Mountain Village">](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @ayzalnooor24521 | **出典:** [元投稿](https://x.com/ayzalnooor24521/status/2104443916695347682) | **公開日:** 2026-09-28 | **ヒート:** 52
-
-```
-Create a 30-second video, featuring a beautiful Korean schoolgirl in a neat navy school uniform with a white shirt, ribbon tie, blazer, pleated skirt, and long dark hair, keeping her face, hairstyle, outfit, and proportions consistent throughout the entire video. Start with a cinematic wide shot of her walking toward a modern school building, then transition naturally into a peaceful snowy mountain village surrounded by traditional Korean-style wooden houses and dramatic snow-covered mountains. Show her walking through the quiet snowy path while the camera follows her with smooth cinematic movement and natural winter lighting. Add a close-up selfie-style moment where she smiles gently at the camera, followed by wide scenic shots revealing the beautiful winter landscape. Show two brown horses calmly eating hay in a snowy field as the girl approaches them and stands beside the wooden fence, creating a warm and emotional connection. Use realistic snow, natural body movement, subtle wind in her hair and clothing, detailed horse movement, and authentic environmental textures. Transition into a cozy traditional wooden house where she enters through the door and looks around naturally, then show her sitting near a large window with a warm cup of drink while looking at the snowy village outside. Add subtle hand-drawn doodle elements around key moments, such as small hearts, snowflakes, stars, arrows, and simple travel-style sketches, integrated naturally without covering the subject. Keep the entire video photorealistic, cinematic, warm, emotional, and immersive, with seamless transitions, realistic camera motion, consistent character identity, and no artificial-looking faces, distorted hands, extra limbs, outfit changes, or random objects.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-video-featuring-a-beautiful-korean-schoolgirl-in-a-neat-nav-bbf2963e71f3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Warm Coffee Moments in a Modern Café
 
@@ -1106,37 +1106,6 @@ Style: photorealistic Korean lifestyle, cinematic storytelling, premium commerci
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-cinematic-realistic-lifestyle-video-following-a-young-korean-universi-2c52e69d07a3?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Korean Woman's Summer Watermelon Routine
-
-> A Korean summer day turns sweeter with a market-fresh watermelon, from careful selection to the first refreshing bite. C
-
-[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-95054b3a6379.jpg" width="600" alt="A Korean Woman's Summer Watermelon Routine">](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2092464281404965030) | **公開日:** 2026-08-26 | **ヒート:** 48
-
-**安定度:** 83/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-95054b3a6379/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second 16:9 ultra-photorealistic Korean summer lifestyle video following a young Korean woman through a natural summer routine: walking to a neighborhood fruit market → choosing a watermelon → carrying it home → washing and cutting it → enjoying the first bite.
-
-Keep the same woman, outfit, watermelon, locations, lighting, and time of day throughout. Use realistic human movement, natural walking, crouching, lifting, carrying, cutting, and eating. The watermelon must have believable weight, with realistic grip, balance, inertia, and cutting resistance.
-
-Show a lively Korean market, sunny residential street, and cozy apartment kitchen with authentic environmental details. Use smooth documentary-style camera movement, natural daylight, realistic depth of field, and subtle summer breeze.
-
-Include authentic sounds of market activity, footsteps, running water, knife cutting, kitchen ambience, and natural eating sounds. Optional dialogue: “This one looks good.”
-
-Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Blue-Haired Woman Runs Back as a Scooter Rider Loses Balance and Falls
 
 > One unexpected moment turned the whole scene upside down!. Sometimes, a simple walk can turn into an unforgettable little adventure. Created on seedance 2.0 Pro…
@@ -1344,6 +1313,37 @@ Location sound only. Grass and dirt scraping, fabric rustling. Sharp impact soun
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/shamiweb3-seedance-ai-a624f0561664?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Korean Woman's Summer Watermelon Routine
+
+> A Korean summer day turns sweeter with a market-fresh watermelon, from careful selection to the first refreshing bite. C
+
+[<img src="https://media.goodcase.ai/media/poster/aiwithaly-seedance-ai-95054b3a6379.jpg" width="600" alt="A Korean Woman's Summer Watermelon Routine">](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2092464281404965030) | **公開日:** 2026-08-26 | **ヒート:** 47
+
+**安定度:** 83/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 83.4) · [出力](https://media.goodcase.ai/retests/aiwithaly-seedance-ai-95054b3a6379/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second 16:9 ultra-photorealistic Korean summer lifestyle video following a young Korean woman through a natural summer routine: walking to a neighborhood fruit market → choosing a watermelon → carrying it home → washing and cutting it → enjoying the first bite.
+
+Keep the same woman, outfit, watermelon, locations, lighting, and time of day throughout. Use realistic human movement, natural walking, crouching, lifting, carrying, cutting, and eating. The watermelon must have believable weight, with realistic grip, balance, inertia, and cutting resistance.
+
+Show a lively Korean market, sunny residential street, and cozy apartment kitchen with authentic environmental details. Use smooth documentary-style camera movement, natural daylight, realistic depth of field, and subtle summer breeze.
+
+Include authentic sounds of market activity, footsteps, running water, knife cutting, kitchen ambience, and natural eating sounds. Optional dialogue: “This one looks good.”
+
+Negative Prompt: No CGI appearance, weightless watermelon, floating objects, teleportation, distorted hands, extra fingers, changing character or clothing, instant cutting, unrealistic physics, robotic movement, excessive wind, artificial skin, text, logos, or watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/aiwithaly-seedance-ai-95054b3a6379?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Woman Attacked by a Lion While Taking Photos at a Zoo
 
@@ -1897,24 +1897,6 @@ Creative 30-second video, cinematic lifestyle road-trip short film with a warm, 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-creative-30-second-video-cinematic-lifestyle-road-trip-short-film-with-a-warm-337c32f26878?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Radiant Archangel Warrior in Moonlit Ruins
-
-> A woman swallows a sword of light, transforming into a winged archangel to battle demons in dark ruins. Created with Seedance 2.0 Prompt: Cinematic dark fantasy…
-
-[<img src="https://media.goodcase.ai/cases/dfc96b26f265.jpg" width="600" alt="Radiant Archangel Warrior in Moonlit Ruins">](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AiwithSaif7 | **出典:** [元投稿](https://x.com/AiwithSaif7/status/2098623698773196856) | **公開日:** 2026-09-12 | **ヒート:** 41
-
-**再テスト:** Grok Imagine · 2026-10-03 · ❌ 失敗 (スコア n/a)
-
-```
-Cinematic dark fantasy video. A young woman in a blood-stained white dress swallows a glowing sword of pure white light. Divine energy bursts from her, her eyes flash solid blinding white, and massive white feathered angel wings erupt from her back with a floating halo above her head. She transforms into a radiant archangel holding a luminous glowing weapon, fighting shadowy demonic monsters with glowing red eyes in ancient stone ruins under a full moon. Beams of holy light crash from the sky into the ground, vaporizing the dark creatures. Ultra-detailed, 8k resolution, cinematic lighting, epic motion effects, unreal engine 5 render style.
-​AI Image Prompt (For Midjourney / DALL-E 3 / Stable Diffusion)
-​Epic dark fantasy screenshot, a female archangel warrior in a blood-splattered white dress standing in ancient stone ruins under a full moon. She has glowing white eyes, a luminous halo, and massive magnificent white wings fully spread out. She holds a vertical staff of blinding white light touching the ground. Massive pillars of celestial light beam down into a circular courtyard surrounding her, dark fantasy mood, hyper-realistic detail, 8k resolution, cinematic film still. --ar 16:9
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Young Woman Films a Spring Mountain View in Japan
 
 > A peaceful journey through Japan’s breathtaking mountain views, captured one frame at a time. Created to feel like a rea
@@ -2080,6 +2062,24 @@ Voiceover: “Getting ready, one final touch. Bleu de Chanel, make it yours.”
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-luxury-perfume-commercial-10-seconds-9e609d896ad2?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Radiant Archangel Warrior in Moonlit Ruins
+
+> A woman swallows a sword of light, transforming into a winged archangel to battle demons in dark ruins. Created with Seedance 2.0 Prompt: Cinematic dark fantasy…
+
+[<img src="https://media.goodcase.ai/cases/dfc96b26f265.jpg" width="600" alt="Radiant Archangel Warrior in Moonlit Ruins">](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AiwithSaif7 | **出典:** [元投稿](https://x.com/AiwithSaif7/status/2098623698773196856) | **公開日:** 2026-09-12 | **ヒート:** 40
+
+**再テスト:** Grok Imagine · 2026-10-03 · ❌ 失敗 (スコア n/a)
+
+```
+Cinematic dark fantasy video. A young woman in a blood-stained white dress swallows a glowing sword of pure white light. Divine energy bursts from her, her eyes flash solid blinding white, and massive white feathered angel wings erupt from her back with a floating halo above her head. She transforms into a radiant archangel holding a luminous glowing weapon, fighting shadowy demonic monsters with glowing red eyes in ancient stone ruins under a full moon. Beams of holy light crash from the sky into the ground, vaporizing the dark creatures. Ultra-detailed, 8k resolution, cinematic lighting, epic motion effects, unreal engine 5 render style.
+​AI Image Prompt (For Midjourney / DALL-E 3 / Stable Diffusion)
+​Epic dark fantasy screenshot, a female archangel warrior in a blood-splattered white dress standing in ancient stone ruins under a full moon. She has glowing white eyes, a luminous halo, and massive magnificent white wings fully spread out. She holds a vertical staff of blinding white light touching the ground. Massive pillars of celestial light beam down into a circular courtyard surrounding her, dark fantasy mood, hyper-realistic detail, 8k resolution, cinematic film still. --ar 16:9
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-dark-fantasy-video-bbf9e9ec916a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A paper-cut fox walks as autumn color blooms from ivory
 

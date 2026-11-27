@@ -1,10 +1,35 @@
 # Seedance 2.5 — 全ケース（Part 8/10）
 
-Seedance 2.5 の全 804 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 805 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 804 件中 617–709 件目。
+このページ: 805 件中 617–708 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)
+
+### A Businessman's Morning Coffee Opens a Portal to the Dinosaur Age
+
+> What if your morning coffee came with a one-way ticket to a prehistoric world? ☕🦖 Created on seedance 2.5 Prompt Create a 30-second photorealistic cinematic fa…
+
+[<img src="https://media.goodcase.ai/cases/f9e5cc65f160.jpg" width="600" alt="A Businessman's Morning Coffee Opens a Portal to the Dinosaur Age">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-cinematic-fantasy-adventure-sequence-following-ed6de8b09ab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Elvorya | **出典:** [元投稿](https://x.com/Elvorya/status/2105171530703413334) | **公開日:** 2026-09-30 | **ヒート:** 37
+
+<details>
+<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second photorealistic cinematic fantasy adventure sequence following a sharply dressed businessman through an ordinary morning in a busy modern city. Begin with a warm golden-hour tracking shot moving through a downtown street surrounded by towering glass skyscrapers, yellow taxis, pedestrians, and long cinematic shadows → reveal the businessman wearing a dark navy suit, white shirt, and tie, calmly walking through the crowd while holding a takeaway coffee and papers → transition to a dynamic street-level shot as a woman accidentally bumps into him, causing papers, coffee, sunglasses, and pigeons to scatter dramatically through the air → cut to a cinematic close-up as he reaches toward the floating coffee cup while strange golden magical particles begin appearing around him → suddenly reveal the coffee cup surrounded by glowing blue magical energy as the entire city begins filling with swirling particles → transition into a dramatic low-angle shot looking upward between enormous skyscrapers as the atmosphere transforms into a powerful vortex of golden dust and blue energy → cut to a spectacular portal sequence as a huge glowing blue circular gateway opens and pulls the businessman through the air, his suit and tie reacting naturally to the force while he desperately holds onto his coffee → transition through the blue portal into a mysterious ancient rainforest filled with enormous trees, dense ferns, mist, moss-covered ground, and shafts of soft sunlight → reveal the businessman crashing onto the forest floor, still holding his coffee, then slowly standing up in confusion → suddenly cut to an intense close-up of a gigantic realistic T-Rex-like dinosaur emerging from the dense jungle and roaring directly toward him → transition into a fast dynamic tracking shot as the businessman runs across a massive fallen tree while the dinosaur charges aggressively behind him → cut to a spectacular wide shot of him sprinting across a rope suspension bridge above a raging jungle river as the enormous dinosaur follows him → transition into an action close-up as he grabs a hanging jungle vine and swings dramatically beside a massive waterfall while the dinosaur leaps across the gap behind him → final shot becomes a heroic cinematic wide-angle view of the businessman standing on a moss-covered rock in the prehistoric forest, calmly drinking his coffee while a brilliant glowing blue portal opens behind him, surrounded by mist, waterfalls, enormous trees, floating magical particles, and dramatic sunlight breaking through the canopy.
+
+Visual style: ultra-photorealistic live-action fantasy adventure, premium Hollywood cinematography, realistic human character, realistic dinosaur creature, natural skin texture, physically accurate motion, cinematic depth of field, anamorphic lens, volumetric lighting, atmospheric fog, realistic water and particle effects, dramatic scale, smooth camera movement, high-detail environments, immersive cinematic realism, 4K quality.
+
+Character continuity: keep the exact same businessman throughout the entire sequence, identical face, hairstyle, age, body proportions, navy suit, white shirt, tie, black shoes, and coffee cup; no identity drift, no wardrobe changes, no character redesign.
+
+Negative prompt: cartoon, animation, stylized CGI, plastic skin, fake-looking human, identity drift, changing face, changing clothes, duplicate character, extra people appearing suddenly, deformed hands, extra fingers, extra limbs, distorted body, unrealistic dinosaur anatomy, floating objects, broken physics, jittery motion, excessive motion blur, warped buildings, artificial environment, low detail, oversaturated colors, text, subtitles, logos, watermark, UI elements.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-cinematic-fantasy-adventure-sequence-following-ed6de8b09ab5?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Mini Doodle Girl's Desktop Skateboarding Adventure
 
@@ -2164,34 +2189,6 @@ The final video should feel like a professionally filmed real-life lifestyle com
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-from-one-simple-idea-to-a-cinematic-world-64fbc77bfb9e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Lavender Radiance Mask Beauty Commercial
-
-> Get that instant glow and cleaner pores with the ultimate skin radiance mask Created with Seedance 2.5 Prompt: A clean, minimalist commercial beauty video aesth…
-
-[<img src="https://media.goodcase.ai/cases/693104e054bd.jpg" width="600" alt="Lavender Radiance Mask Beauty Commercial">](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AvelyrahnAI | **出典:** [元投稿](https://x.com/AvelyrahnAI/status/2097908289619284300) | **公開日:** 2026-09-10 | **ヒート:** 34
-
-<details>
-<summary><b>プロンプト全文（10 行、クリックで展開）</b></summary>
-
-```
-A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.
-
-Scene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask
-placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.
-
-Scene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.
-
-Scene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.
-
-Scene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Young Woman Arrives at the Airport and Boards Her Flight
 
 > New destination. New memories. Boarding the flight and letting the adventure begin. Made with seedance 2.5 on @Flovaai Prompt: Create a cinematic photorealistic…
@@ -2405,35 +2402,6 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Night Market Pursuit and Narrow-Alley Escape
-
-> One glance back. One sudden run. And nowhere to be seen. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action urban chase thrille…
-
-[<img src="https://media.goodcase.ai/cases/f7a5645d8360.jpg" width="600" alt="Night Market Pursuit and Narrow-Alley Escape">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2100462425308901480) | **公開日:** 2026-09-17 | **ヒート:** 33
-
-**安定度:** 73/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 73.2) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
-
-Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
-
-Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
-
-No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Tiger-Hat Cat Steals Fried Chicken at a Riverside Picnic
 
 > She said just eat the cat took that personally. Made with seedance 2.5 Prompt: A cinematic 30-second short film, photorealistic, Korean riverside picnic aesthet…
@@ -2529,6 +2497,34 @@ Audio: Music resolves into a short, punchy outro hit, clean cutoff — no fade.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Lavender Radiance Mask Beauty Commercial
+
+> Get that instant glow and cleaner pores with the ultimate skin radiance mask Created with Seedance 2.5 Prompt: A clean, minimalist commercial beauty video aesth…
+
+[<img src="https://media.goodcase.ai/cases/693104e054bd.jpg" width="600" alt="Lavender Radiance Mask Beauty Commercial">](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @AvelyrahnAI | **出典:** [元投稿](https://x.com/AvelyrahnAI/status/2097908289619284300) | **公開日:** 2026-09-10 | **ヒート:** 33
+
+<details>
+<summary><b>プロンプト全文（10 行、クリックで展開）</b></summary>
+
+```
+A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.
+
+Scene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask
+placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.
+
+Scene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.
+
+Scene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.
+
+Scene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Summer Stroll Through an Old Kyoto Lane
 
@@ -3097,6 +3093,35 @@ Prioritize natural human behavior, realistic movement, continuity, imperfect han
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Night Market Pursuit and Narrow-Alley Escape
+
+> One glance back. One sudden run. And nowhere to be seen. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action urban chase thrille…
+
+[<img src="https://media.goodcase.ai/cases/f7a5645d8360.jpg" width="600" alt="Night Market Pursuit and Narrow-Alley Escape">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2100462425308901480) | **公開日:** 2026-09-17 | **ヒート:** 32
+
+**安定度:** 73/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 73.2) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
+
+Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
+
+Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
+
+No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Japanese High School Classroom Key Mission
 
@@ -3740,47 +3765,6 @@ Cinematic high-end 3D anime action, 30 seconds, 24fps, ultra sharp, no watermark
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-high-end-3d-anime-action-30-seconds-24fps-ultra-sharp-no-watermar-cdb929885bab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Futuristic Vehicle Transforms into a Garbage Truck to Evade Police
-
-> Ideas hit different when AI brings them to life. Created with Seedance 2.5 for @WizstarAI Cinematic visuals, smooth motion, limitless creativity. Try your's and…
-
-[<img src="https://media.goodcase.ai/cases/1b3a14cc3b8b.jpg" width="600" alt="Futuristic Vehicle Transforms into a Garbage Truck to Evade Police">](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2099012948232483096) | **公開日:** 2026-09-13 | **ヒート:** 31
-
-<details>
-<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
-
-```
-Create a hyper-realistic cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, realistic buildings, natural daylight.
-
-IMPORTANT: Use Reference Image 1 ONLY for the male character. Preserve his exact face, eyes, nose, lips, jawline, hairstyle and skin tone throughout. No face morphing or identity drift.
-
-Open with a tight close-up of a sleek angular metallic futuristic vehicle speeding forward. Sudden gunfire erupts from off-screen; NO SHOOTERS are visible. Bullets hit the body and ricochet with sharp sparks.
-
-Camera rapidly pulls back to reveal the full vehicle. Police sirens grow louder.
-
-WITHOUT slowing down, the vehicle begins a realistic mechanical transformation while moving. Metallic panels slide, split, fold and reconfigure. Smooth surfaces become dirty, dented, scratched, rusted and uneven. The aerodynamic body becomes rough and boxy. No magic or teleportation. Within seconds it transforms into a grimy dumpster-style garbage truck blending naturally into the street.
-
-The truck hard-brakes and performs a sharp 180-degree skid turn. Tires screech; dust kicks up. It settles into roadside parking.
-
-CUT TO: Police vehicles rush past at high speed with sirens and lights, completely missing the disguised truck.
-
-In the foreground, the SAME MALE CHARACTER FROM REFERENCE IMAGE 1 casually loads garbage into the truck. Dress him as a garbage-truck worker while keeping his exact identity and face. He pauses, watches the police pass, turns toward camera and gives a subtle confident wink.
-
-Camera gently pushes in. Sirens fade into city ambience.
-
-FINAL: Hold after the wink, then smoothly FADE TO BLACK. On the fully black screen, centered clean white text slowly fades in: “Wizstar AI”. Hold, then end.
-
-STYLE: Photorealistic, premium Hollywood action, realistic VFX, natural physics.
-
-NEGATIVE: No shooters, extra characters, identity change, face distortion, cartoon/anime, random cuts, subtitles, watermark, logos.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Water Obstacle Contestant Falls Just Before Victory
 
 > She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
@@ -4306,6 +4290,47 @@ A cinematic anime-style scene of a young female traveler skateboarding downhill 
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Futuristic Vehicle Transforms into a Garbage Truck to Evade Police
+
+> Ideas hit different when AI brings them to life. Created with Seedance 2.5 for @WizstarAI Cinematic visuals, smooth motion, limitless creativity. Try your's and…
+
+[<img src="https://media.goodcase.ai/cases/1b3a14cc3b8b.jpg" width="600" alt="Futuristic Vehicle Transforms into a Garbage Truck to Evade Police">](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2099012948232483096) | **公開日:** 2026-09-13 | **ヒート:** 30
+
+<details>
+<summary><b>プロンプト全文（23 行、クリックで展開）</b></summary>
+
+```
+Create a hyper-realistic cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, realistic buildings, natural daylight.
+
+IMPORTANT: Use Reference Image 1 ONLY for the male character. Preserve his exact face, eyes, nose, lips, jawline, hairstyle and skin tone throughout. No face morphing or identity drift.
+
+Open with a tight close-up of a sleek angular metallic futuristic vehicle speeding forward. Sudden gunfire erupts from off-screen; NO SHOOTERS are visible. Bullets hit the body and ricochet with sharp sparks.
+
+Camera rapidly pulls back to reveal the full vehicle. Police sirens grow louder.
+
+WITHOUT slowing down, the vehicle begins a realistic mechanical transformation while moving. Metallic panels slide, split, fold and reconfigure. Smooth surfaces become dirty, dented, scratched, rusted and uneven. The aerodynamic body becomes rough and boxy. No magic or teleportation. Within seconds it transforms into a grimy dumpster-style garbage truck blending naturally into the street.
+
+The truck hard-brakes and performs a sharp 180-degree skid turn. Tires screech; dust kicks up. It settles into roadside parking.
+
+CUT TO: Police vehicles rush past at high speed with sirens and lights, completely missing the disguised truck.
+
+In the foreground, the SAME MALE CHARACTER FROM REFERENCE IMAGE 1 casually loads garbage into the truck. Dress him as a garbage-truck worker while keeping his exact identity and face. He pauses, watches the police pass, turns toward camera and gives a subtle confident wink.
+
+Camera gently pushes in. Sirens fade into city ambience.
+
+FINAL: Hold after the wink, then smoothly FADE TO BLACK. On the fully black screen, centered clean white text slowly fades in: “Wizstar AI”. Hold, then end.
+
+STYLE: Photorealistic, premium Hollywood action, realistic VFX, natural physics.
+
+NEGATIVE: No shooters, extra characters, identity change, face distortion, cartoon/anime, random cuts, subtitles, watermark, logos.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Winter Journey Through Russia's Snowy Cities
 
 > What if your imagination looked like a blockbuster? Seedance 2.5 on @WizstarAI is turning impossible ideas into stunning cinematic reality. You can try it too, …
@@ -4383,35 +4408,6 @@ No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, dis
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-gta-style-chaos-but-the-mission-makes-absolutely-no-sense-b787f991daf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Ranch Woman's Working Day from Sunrise to Sunset
-
-> Sunrise, saddle, and hard work beneath the Western sky. Created on seedance 2.5 Prompt: Create a 30-second ultra-photorealistic American ranch lifestyle vlog fo…
-
-[<img src="https://media.goodcase.ai/cases/4a1707106d38.jpg" width="600" alt="A Ranch Woman's Working Day from Sunrise to Sunset">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2097917075176178101) | **公開日:** 2026-09-10 | **ヒート:** 30
-
-**安定度:** 83/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 83.3) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
-
-Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
-
-Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
-
-Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Rainy Journey Across New Zealand’s Coast
 
@@ -4753,94 +4749,6 @@ AUDIO: No dialogue. Diegetic sound only — ball impact, sneaker squeak, breathi
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-step-05-seedance-2-5-generation-baa99b03bc74?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Autumn Forest-Girl Makeover in a Pixel Closet
-
-> New look unlocked! Made with Seedance 2.5 using @atlas_cloud_ai Prompt: Style: Retro Y2K pixel dress-up game + photoreal
-
-[<img src="https://media.goodcase.ai/media/poster/missdelulu9-seedance-ai-82f2bf793076.jpg" width="600" alt="Autumn Forest-Girl Makeover in a Pixel Closet">](https://goodcase.ai/cases/missdelulu9-seedance-ai-82f2bf793076?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @MissDelulu9 | **出典:** [元投稿](https://x.com/MissDelulu9/status/2094272120289415188) | **公開日:** 2026-08-31 | **ヒート:** 30
-
-<details>
-<summary><b>プロンプト全文（70 行、クリックで展開）</b></summary>
-
-```
-Style: Retro Y2K pixel dress-up game + photorealistic fashion video, cozy early-autumn forest-girl aesthetic, caramel/cream palette, 4K, 30fps, 16:9 vertical, 15 seconds. Realistic human + crisp 2D pixel UI.
-
-Character: Adult female. Her face, identity, skin tone, facial features, hair and body proportions must exactly match the reference image throughout. No identity or body changes.
-
-Setting: Cozy vintage bedroom/fashion studio with warm taupe walls, cream rug, wooden vanity, amber lamp, dark-green chair, magazines, dried autumn flowers, clothing rack, coffee table and soft afternoon sunlight.
-
-Camera: Locked full-body vertical shot, front-facing, slightly elevated, 24–28mm. She stays fully visible from head to shoes. No zoom, pan, tilt, shake or camera movement.
-
-Audio: Upbeat retro electronic music + clear 8-bit portal, click, equip, loading and victory sounds. No dialogue or subtitles.
-
-00:00–02.70 - PIXEL PORTAL
-
-Empty room. A tiny glowing 8-bit portal opens on the floor and expands. A giant brown-and-cream pixel hand pulls her into the room like a game character.
-
-She wears glossy cream satin pajamas with tiny brown dots, dark piping and white slippers. Copper-orange curly hair with wispy bangs. Eyes closed, relaxed sleepy pose.
-
-Portal disappears and a tiny pixel message appears: “PLAYER LOADED.”
-
-02.70–05.20 -CLOSET MENU
-
-She wakes, opens her eyes and looks at the camera.
-
-Pixel UI appears around the screen: “MIA’S CLOSET”, three pink hearts, pixel star, and five right-side buttons:
-
-TOP / SKIRT / KNIT / SHOES / BONUS
-
-A white pixel cursor appears. Loading meter reads “STYLE ENERGY: 00%” and fills to 100%.
-
-She stretches with both arms overhead. 8-bit “READY!” sound.
-
-05.20–10.80 -RAPID OUTFIT CHANGES
-
-Every change follows: cursor → highlight → click → short pause → instant hard cut.
-
-TOP: Satin pajama top → fitted cream-white lace camisole with brown ribbon and woodland embroidery.
-
-SKIRT: Satin pajama pants → brown-and-cream plaid layered mini skirt with lace trim. Vintage star + key necklaces appear.
-
-KNIT: Cocoa-brown fuzzy cropped cardigan appears, worn open. White patterned tights appear.
-
-SHOES: White slippers → cream slouch leg warmers + brown fluffy platform shoes.
-
-BONUS: Button becomes “LUCKY ITEM!” A cream-white beret appears, plus a structured dark-brown vintage handbag in her right hand.
-
-All changes are instant hard cuts. No morphing, particles, smoke or gradual transformations.
-
-10.80–13.00- STYLE SCORE
-
-UI changes to:
-
-AUTUMN STYLE
-98/100
- COZY . Y2K  . VINTAGE  . FOREST
-
-She checks her outfit, adjusts her cardigan, looks at the camera, places her left hand on her waist and holds the handbag with her right hand. Relaxed S-shaped fashion pose, subtle smile.
-
-13.00–15.00- FINAL SCREEN
-
-Large pixel text:
-
-LEVEL COMPLETE!
-AUTUMN LOOK UNLOCKED
-
-Three hearts flash once. Small pixel leaves and NEW LOOK appear.
-
-She holds the final pose with natural breathing and tiny head movement. Freeze at exactly 15 seconds. No fade-out or black screen.
-
-FINAL OUTFIT: Cream beret, copper-orange curls, cocoa fuzzy cardigan, cream lace camisole, brown plaid layered mini skirt, vintage necklaces, white patterned tights, cream leg warmers, brown fluffy platform shoes, dark-brown vintage handbag.
-
-NEGATIVE: No face/identity/age/skin/body changes, no camera movement, no anatomy errors, no extra fingers/limbs, no clothing transparency or exposure, no missing outfit pieces, no UI over face, no corrupted text, no watermark/logos, no mirror, no background people, no plastic skin, no CGI/anime look. Human and clothing remain photorealistic; only UI, cursor, portal and effects are 2D pixel art.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/missdelulu9-seedance-ai-82f2bf793076?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)

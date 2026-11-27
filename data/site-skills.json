@@ -3,7 +3,7 @@
   "category": "video",
   "counts": {
     "official": 21,
-    "creatorMethods": 48
+    "creatorMethods": 51
   },
   "siteWide": {
     "total": 118,
@@ -208,6 +208,31 @@
         "status": "stable",
         "tested": 3,
         "passed": 3
+      }
+    },
+    {
+      "slug": "epic-fantasy-scifi-spectacle-by-cle9yv",
+      "baseSlug": "epic-fantasy-scifi-spectacle",
+      "kind": "creator_method",
+      "title": {
+        "en": "Xaroon_x · Epic fantasy and sci-fi spectacle",
+        "zh": "Xaroon_x · 奇幻科幻大场面"
+      },
+      "description": {
+        "en": "A recurring epic fantasy and sci-fi spectacle method derived from 3 published cases by Xaroon_x.",
+        "zh": "从 Xaroon_x 的 3 个已发布 Case 中归纳出的「奇幻科幻大场面」方法。"
+      },
+      "styleTag": null,
+      "creator": "Xaroon_x",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase --skill epic-fantasy-scifi-spectacle-by-cle9yv",
+      "url": "https://goodcase.ai/skills/epic-fantasy-scifi-spectacle-by-cle9yv",
+      "cover": "https://media.goodcase.ai/cases/08ce167502a8.jpg",
+      "gate": {
+        "status": "untestable",
+        "tested": 1,
+        "passed": 1
       }
     },
     {
@@ -486,6 +511,31 @@
         "status": "untestable",
         "tested": 0,
         "passed": 0
+      }
+    },
+    {
+      "slug": "action-continuity-choreography-by-wat8s8",
+      "baseSlug": "action-continuity-choreography",
+      "kind": "creator_method",
+      "title": {
+        "en": "AIwithkhan · Action continuity choreography",
+        "zh": "AIwithkhan · 动作连续性编排"
+      },
+      "description": {
+        "en": "A recurring action continuity choreography method derived from 3 published cases by AIwithkhan.",
+        "zh": "从 AIwithkhan 的 3 个已发布 Case 中归纳出的「动作连续性编排」方法。"
+      },
+      "styleTag": null,
+      "creator": "AIwithkhan",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase --skill action-continuity-choreography-by-wat8s8",
+      "url": "https://goodcase.ai/skills/action-continuity-choreography-by-wat8s8",
+      "cover": "https://media.goodcase.ai/cases/3b9300fbc51d.jpg",
+      "gate": {
+        "status": "testing",
+        "tested": 1,
+        "passed": 1
       }
     },
     {
@@ -1235,6 +1285,31 @@
         "status": "stable",
         "tested": 17,
         "passed": 14
+      }
+    },
+    {
+      "slug": "sports-extreme-stunts-by-1h6taec",
+      "baseSlug": "sports-extreme-stunts",
+      "kind": "creator_method",
+      "title": {
+        "en": "Viniai_ · Sports and extreme stunts",
+        "zh": "Viniai_ · 体育与极限运动"
+      },
+      "description": {
+        "en": "A recurring sports and extreme stunts method derived from 3 published cases by Viniai_.",
+        "zh": "从 Viniai_ 的 3 个已发布 Case 中归纳出的「体育与极限运动」方法。"
+      },
+      "styleTag": null,
+      "creator": "Viniai_",
+      "caseCount": 3,
+      "creatorCount": 1,
+      "install": "npx skills add LearnPrompt/goodcase --skill sports-extreme-stunts-by-1h6taec",
+      "url": "https://goodcase.ai/skills/sports-extreme-stunts-by-1h6taec",
+      "cover": "https://media.goodcase.ai/cases/36cf5c70e1f5.jpg",
+      "gate": {
+        "status": "untestable",
+        "tested": 0,
+        "passed": 0
       }
     },
     {

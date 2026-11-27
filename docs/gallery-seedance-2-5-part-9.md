@@ -1,10 +1,63 @@
 # Seedance 2.5 — Full Gallery (Part 9/10)
 
-All 804 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 805 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 713–782 of 804.
+This page: cases 712–783 of 805.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · **Part 9** · [Part 10](./gallery-seedance-2-5-part-10.md)
+
+### Baby Penguin Flies into a Loving Family Cuddle
+
+> Made with seedance 2.5 Prompt 👇 Create a cute, cinematic 3D animated short film featuring an adorable fluffy baby penguin girl with soft gray-and-white feather…
+
+[<img src="https://media.goodcase.ai/cases/3ea9d5fc18dc.jpg" width="600" alt="Baby Penguin Flies into a Loving Family Cuddle">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2101989437181988957) | **Published:** 2026-09-21 | **Heat:** 29
+
+**Stability:** 88/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 87.8) · [output](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-b1495c3561d9/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (31 lines, click to expand)</b></summary>
+
+```
+Made with seedance 2.5
+
+Prompt 👇 
+Create a cute, cinematic 3D animated short film featuring an adorable fluffy baby penguin girl with soft gray-and-white feathers, huge expressive blue eyes, a small black beak, chubby body, tiny black feet, and a small pink bow on her head.
+
+Scene 1 — Beginning:
+The baby penguin stands alone on a colorful striped rug inside a warm, cozy home. She looks slightly shy and innocent, gently moving her head and looking around. Use a vertical 9:16 composition, soft warm indoor lighting, shallow depth of field, detailed fluffy feathers, and cinematic camera movement.
+
+Scene 2 — Cute close-up:
+Slowly push the camera toward her face. She looks directly into the camera with huge sparkling eyes, then smiles happily and opens her little beak. Capture adorable facial expressions and subtle feather movement.
+
+Scene 3 — Mood change:
+Her expression suddenly becomes serious and determined. She lowers her body close to the floor, narrows her eyes, spreads her tiny wings slightly, and prepares to jump forward like a tiny angry superhero. Keep the camera low and cinematic.
+
+Scene 4 — Jump:
+The penguin suddenly launches herself upward with excitement. Her wings spread wide as she flies toward the camera. Dynamic camera movement, slight slow motion, soft motion blur, detailed feathers, playful cinematic energy.
+
+Scene 5 — Flying close-up:
+Show the penguin floating above the camera with her wings fully extended. She looks down with a huge adorable smile, then moves closer toward the lens. Maintain consistent character design, pink bow, blue eyes, gray-white feathers, and warm cinematic lighting.
+
+Scene 6 — Couch:
+Transition to a cozy living room with a soft colorful couch. The baby penguin lands beside another larger fluffy penguin lying comfortably on the couch. The larger penguin looks surprised but affectionate.
+
+Scene 7 — Affectionate ending:
+The baby penguin cuddles closely against the larger penguin. They look at each other lovingly, then snuggle together. The baby penguin gently rests her head against the larger penguin, closes her eyes, and gives a sweet affectionate kiss/nuzzle.
+
+Visual style:
+High-end cinematic 3D animation, adorable family-friendly character design, ultra-detailed soft feathers, expressive oversized eyes, realistic feather physics, soft warm indoor lighting, beautiful depth of field, smooth natural animation, subtle facial expressions, realistic shadows, cinematic camera movements, polished feature-film quality, 4K, vertical 9:16.
+
+Important:
+Keep the exact same baby penguin character throughout the entire video. Preserve her face, body proportions, feather colors, blue eyes, pink bow, and overall appearance in every shot. Smooth transitions, consistent environment, natural motion, no character distortion, no extra limbs, no flickering, no text, no watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Werewolf Transformation in a Foggy Night Forest
 
@@ -154,6 +207,35 @@ No CGI, animation, fantasy, artificial faces, impossible physics, floating objec
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-travel-vlog-about-a-young-w-9b919e31ef80?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Ranch Woman's Working Day from Sunrise to Sunset
+
+> Sunrise, saddle, and hard work beneath the Western sky. Created on seedance 2.5 Prompt: Create a 30-second ultra-photorealistic American ranch lifestyle vlog fo…
+
+[<img src="https://media.goodcase.ai/cases/4a1707106d38.jpg" width="600" alt="A Ranch Woman's Working Day from Sunrise to Sunset">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2097917075176178101) | **Published:** 2026-09-10 | **Heat:** 29
+
+**Stability:** 83/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 83.3) · [output](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (7 lines, click to expand)</b></summary>
+
+```
+Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
+
+Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
+
+Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
+
+Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Red Toy Mouse Gives a Girl and an Infected Cat New Life
 
@@ -4134,54 +4216,6 @@ Seedance 2.5 prompt 👇
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Street Court Crossover Breakaway and Dunk
-
-> The challenge Made with GPT IMAGE 2 + Seedance 2.5 on PolloAi Prompt: REI: A player wearing a deep red and white jacket
-
-[<img src="https://media.goodcase.ai/cases/54d3a5538fe4.jpg" width="600" alt="Street Court Crossover Breakaway and Dunk">](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @im_shahid7 | **Source:** [Original](https://x.com/im_shahid7/status/2092933907218092451) | **Published:** 2026-08-27 | **Heat:** 19
-
-**Stability:** 76/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 75.8) · [output](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-398c9aa37acf/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (26 lines, click to expand)</b></summary>
-
-```
-REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-Style & Atmosphere
-A dynamic presentation in a semi-flat editorial illustration style — bold, heavy brushstrokes, angular geometric rendering, blocks of color, and desaturated neutral concrete tones accented with rich deep red and teal. Warm sunlight shines diagonally from the left, creating clear light-and-shadow contrast with visible, delicate brush textures.
-Narrative Overview
-REI challenges TREY on the empty court and leaves him behind with a crossover move.
-Dynamic Description
-A steady push-in shot, medium close-up — REI takes large strides across the cracked asphalt from the left side of the frame and aggressively throws the basketball into TREY's chest. TREY, standing on the right beside the wrapped basketball hoop structure, catches the ball against his chest.
-Hard cut to a low-angle, horizontal stabilized tracking shot, medium shot — TREY dribbles low while REI mirrors him closely with intense defensive pressure. The two slide from left to right along the faded free-throw arc. Sneakers screech against the ground as dust rises.
-A whip-pan follows the basketball into an intimate handheld shot — REI performs a sharp crossover, rapidly switching the ball right, left, and right again. TREY's lead foot slips and he stumbles for half a beat. REI tears past his side and drives toward the basket.
-Static Description
-An empty urban street basketball court with a faded free-throw area painted onto cracked asphalt. On the right stands an old basketball hoop with a damaged net attached to a wrapped steel pole. Tall concrete walls, chain-link fencing, urban apartment buildings, and rooftop water tanks fill the background beneath a bright blue sky. Warm sunlight from the left casts shadows toward the right.
-Audio
-REI says: “Show me what you got.”
-Sound Effects
-The sound of a basketball hitting a chest, sharp sneaker squeaks, and distant low urban ambience.
-
-Second Scene
-REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-Style & Atmosphere
-The same semi-flat editorial illustration style — bold brushstrokes, angular geometric rendering, blocks of color, muted neutral concrete tones accented by saturated deep red and teal, warm sunlight coming diagonally from the left, strong light-and-shadow contrast, and visible fine brush textures.
-Narrative Overview
-REI breaks through, dunks over TREY, and then shows off while his opponent is on his knees.
-Dynamic Description
-Handheld tracking shot, medium shot — REI gathers the ball while moving and explosively drives from left to right toward the basket on the right. TREY is half a step behind, lunging to defend, while motion trails emphasize their speed.
-Hard cut to a three-quarter side stabilized tracking shot that cranes upward — REI jumps into the air and violently slams the ball through the damaged net. The warm low-angle sunlight bursts into a glowing halo behind the backboard. The rim shakes from the impact. The camera always remains beside the basket and is never positioned directly underneath it.
-Quick cut to a locked low-angle shot — the basketball drops onto the cracked asphalt and bounces once. TREY is on both knees at the base of the wrapped steel pole, head lowered and shoulders slumped.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Paper Airplane Flies Through Four Seasons in the Old City
 
 > Seedance 2.5’s scene transitions are pretty smooth. I made a short film: To My Grown-Up Self. Theme: A paper airplane flies through the city’s four seasons and finally lands in the hands of its owner’s childhood self. Prompt: Generate a 15-second, 16:9, 720p photorealistic cinematic fantasy short film. Use the same ivory hand-folded paper airplane as the sole protagonist throughout
@@ -4332,6 +4366,54 @@ Tone: exhilarating, mysterious, playful, cinematic, photoreal, large-scale, drea
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/mrdejie-seedance-ai-6f5e8c48fb86?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Street Court Crossover Breakaway and Dunk
+
+> The challenge Made with GPT IMAGE 2 + Seedance 2.5 on PolloAi Prompt: REI: A player wearing a deep red and white jacket
+
+[<img src="https://media.goodcase.ai/cases/54d3a5538fe4.jpg" width="600" alt="Street Court Crossover Breakaway and Dunk">](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @im_shahid7 | **Source:** [Original](https://x.com/im_shahid7/status/2092933907218092451) | **Published:** 2026-08-27 | **Heat:** 18
+
+**Stability:** 76/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 75.8) · [output](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-398c9aa37acf/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (26 lines, click to expand)</b></summary>
+
+```
+REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
+Style & Atmosphere
+A dynamic presentation in a semi-flat editorial illustration style — bold, heavy brushstrokes, angular geometric rendering, blocks of color, and desaturated neutral concrete tones accented with rich deep red and teal. Warm sunlight shines diagonally from the left, creating clear light-and-shadow contrast with visible, delicate brush textures.
+Narrative Overview
+REI challenges TREY on the empty court and leaves him behind with a crossover move.
+Dynamic Description
+A steady push-in shot, medium close-up — REI takes large strides across the cracked asphalt from the left side of the frame and aggressively throws the basketball into TREY's chest. TREY, standing on the right beside the wrapped basketball hoop structure, catches the ball against his chest.
+Hard cut to a low-angle, horizontal stabilized tracking shot, medium shot — TREY dribbles low while REI mirrors him closely with intense defensive pressure. The two slide from left to right along the faded free-throw arc. Sneakers screech against the ground as dust rises.
+A whip-pan follows the basketball into an intimate handheld shot — REI performs a sharp crossover, rapidly switching the ball right, left, and right again. TREY's lead foot slips and he stumbles for half a beat. REI tears past his side and drives toward the basket.
+Static Description
+An empty urban street basketball court with a faded free-throw area painted onto cracked asphalt. On the right stands an old basketball hoop with a damaged net attached to a wrapped steel pole. Tall concrete walls, chain-link fencing, urban apartment buildings, and rooftop water tanks fill the background beneath a bright blue sky. Warm sunlight from the left casts shadows toward the right.
+Audio
+REI says: “Show me what you got.”
+Sound Effects
+The sound of a basketball hitting a chest, sharp sneaker squeaks, and distant low urban ambience.
+
+Second Scene
+REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
+Style & Atmosphere
+The same semi-flat editorial illustration style — bold brushstrokes, angular geometric rendering, blocks of color, muted neutral concrete tones accented by saturated deep red and teal, warm sunlight coming diagonally from the left, strong light-and-shadow contrast, and visible fine brush textures.
+Narrative Overview
+REI breaks through, dunks over TREY, and then shows off while his opponent is on his knees.
+Dynamic Description
+Handheld tracking shot, medium shot — REI gathers the ball while moving and explosively drives from left to right toward the basket on the right. TREY is half a step behind, lunging to defend, while motion trails emphasize their speed.
+Hard cut to a three-quarter side stabilized tracking shot that cranes upward — REI jumps into the air and violently slams the ball through the damaged net. The warm low-angle sunlight bursts into a glowing halo behind the backboard. The rim shakes from the impact. The camera always remains beside the basket and is never positioned directly underneath it.
+Quick cut to a locked low-angle shot — the basketball drops onto the cracked asphalt and bounces once. TREY is on both knees at the base of the wrapped steel pole, head lowered and shoulders slumped.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Seedance 2.5 Fitness Girl Training Vlog Short Video
 

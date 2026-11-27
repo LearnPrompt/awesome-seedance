@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 4/10）
 
-Seedance 2.5 の全 804 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 805 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 804 件中 238–330 件目。
+このページ: 805 件中 238–330 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · **Part 4** · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)
 
@@ -2859,6 +2859,123 @@ Cinematic high-action sequence set on an icy school rooftop at night. A cool ani
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-cinematic-high-action-sequence-set-on-an-icy-school-rooftop-at-night-ef6584386b8e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Ultra-Real Personal Home Video of a Korean Woman
+
+> Made with seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman con
+
+[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347.jpg" width="600" alt="Ultra-Real Personal Home Video of a Korean Woman">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2095026480552271884) | **公開日:** 2026-09-02 | **ヒート:** 65
+
+**安定度:** 76/100
+
+**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347/video-minimax-h3-768p-20260907-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（95 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman confidently attempting to learn a viral TikTok dance trend in her tiny apartment, with her furniture and coordination working against her the entire time. No reference image.
+
+**MAIN SUBJECT**
+
+Young Korean woman in her early 20s, casual and determined energy, natural makeup, expression that shifts from focused confidence to flustered embarrassment.
+
+Hair in a messy half-up bun, a few strands sticking to her face as she gets more flustered, small stud earrings.
+
+Wearing an oversized band t-shirt tucked loosely into biker shorts, white ankle socks, no shoes, phone propped up against a stack of books on the floor to "record for practice."
+
+Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+
+**SETTING**
+
+A small, cluttered studio apartment living room, evening, warm lamp light mixed with the cool glow of a laptop screen playing the dance tutorial video.
+
+A coffee table pushed slightly out of the way but not far enough, a floor lamp standing a little too close to her "stage area," a pile of laundry on the couch, a half-full water glass on the side table, string lights on the wall, and a roommate's bike leaning against the wall in the background. Cramped, real, an apartment clearly not built for dancing.
+
+**CAMERA / VISUAL AESTHETIC**
+
+Raw personal footage, filmed by her roommate on a phone propped up at first, then grabbed handheld once things go wrong — strong handheld vlog shake for the second half.
+
+Static, slightly low-angle framing for the "practice" shots, mimicking a phone-on-a-stack-of-books setup. Frame is imperfectly centered, cutting off the top of her head slightly. Once the roommate grabs the phone, autofocus hunts, motion blur kicks in during the collision moment, exposure shifts as she moves between lamp light and shadow, visible digital noise in the dim room.
+
+No stabilization, no gimbal smoothness, no cinematic camera moves — it should feel like a real phone recording that was never meant to be watched by anyone but her.
+
+---
+
+**00:00–00:05 — THE CONFIDENT SETUP**
+
+She props her phone against a stack of books, steps back into frame, and shakes out her arms like an athlete warming up.
+
+She points at the laptop screen playing the dance tutorial, then back at herself, deadly serious.
+
+*"Okay. I've watched this like twenty times. I got this."*
+
+**00:05–00:10 — FIRST EIGHT-COUNT**
+
+The music starts. She nails the first few moves surprisingly well, sharp and confident, clearly proud of herself mid-move.
+
+Roommate's voice from off-screen, genuinely impressed: *"Wait, okay—?!"*
+
+The camera stays static, catching her in full frame, a rare clean moment.
+
+**00:10–00:15 — THE FIRST WOBBLE**
+
+A quick turn in the choreography catches her off guard — she spins a half-second late, arms flailing to catch up, and clips the edge of the coffee table with her shin.
+
+She yelps, hopping on one foot, still trying to keep the rhythm going through gritted teeth.
+
+*"I'm fine — I'm fine, keep going—"*
+
+**00:15–00:20 — LAMP INCIDENT**
+
+Recovering, she throws herself into the next big arm movement — her hand clips the floor lamp, sending it tilting dangerously.
+
+Her roommate lunges into frame to catch it, grabbing the phone off the books in the process, camera suddenly handheld and shaking.
+
+*"THE LAMP—"*
+
+**00:20–00:25 — FULL CHAOS**
+
+With the lamp saved but the camera now shaky and handheld, she tries to pick the choreography back up from memory, increasingly out of sync with the music, arms going in directions the dance never intended.
+
+She knocks the water glass off the side table with her elbow, doesn't even stop, just grimaces and keeps dancing through the spill.
+
+Roommate, laughing hysterically behind the now-unsteady camera: *"You're literally destroying the apartment—"*
+
+**00:25–00:30 — FINAL MOMENT**
+
+The song ends. She strikes a triumphant final pose — chest heaving, one hand on her hip, completely out of breath, water pooling near her sock.
+
+She looks into the camera, dead serious despite the disaster around her.
+
+*"...Post it. That was clean."*
+
+Her roommate, still laughing, pans the camera slowly down to the spilled water and tipped lamp before swinging back to her unbothered face — and the footage cuts abruptly to black.
+
+---
+
+**AUDIO**
+
+Natural location sound only:
+
+The tutorial/dance track playing tinny from the laptop speakers, her footsteps and fabric movement, the thud of her shin hitting the table, the lamp wobbling and roommate's scramble to catch it, glass tipping and water spilling, her roommate's genuine off-camera laughter throughout, and handheld camera noise once it's picked up.
+
+No added music beyond the in-scene laptop track. No narration. No artificial sound effects.
+
+Spoken lines: *"Okay. I've watched this like twenty times. I got this."* / *"Wait, okay—?!"* (roommate) / *"I'm fine — I'm fine, keep going—"* / *"THE LAMP—"* (roommate) / *"You're literally destroying the apartment—"* (roommate) / *"...Post it. That was clean."*
+
+**FINAL FEEL**
+
+Chaotic, cramped-apartment energy — the universal experience of confidently trying a viral dance and immediately losing a fight with your own furniture. Funny, physical, unscripted-feeling, with a deadpan ending that lands harder because she genuinely doesn't acknowledge the destruction around her.
+
+No exaggerated slapstick beyond real physical missteps. No professional dance skill required — the comedy comes from real momentum, real near-misses, and her total refusal to admit defeat.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A Korean Woman’s Summer Peach Afternoon
 
 > Made with Seedance 2.5 Prompt: 30 seconds | 16:9 | Ultra-photorealistic live-action Create a natural Korean summer day-i
@@ -3418,123 +3535,6 @@ A dark figure leaps from a skyscraper ledge and free-falls through a neon-drench
 ```
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-dark-figure-leaps-from-a-skyscraper-ledge-and-free-falls-through-a-neon-drenc-39d445cbaaf7?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Ultra-Real Personal Home Video of a Korean Woman
-
-> Made with seedance 2.5 Prompt: Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman con
-
-[<img src="https://media.goodcase.ai/media/poster/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347.jpg" width="600" alt="Ultra-Real Personal Home Video of a Korean Woman">](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @Ciri_ai | **出典:** [元投稿](https://x.com/Ciri_ai/status/2095026480552271884) | **公開日:** 2026-09-02 | **ヒート:** 64
-
-**安定度:** 76/100
-
-**再テスト:** MiniMax H3 Max 768p · 2026-09-07 · ✅ 再現 (スコア 76) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347/video-minimax-h3-768p-20260907-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（95 行、クリックで展開）</b></summary>
-
-```
-Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman confidently attempting to learn a viral TikTok dance trend in her tiny apartment, with her furniture and coordination working against her the entire time. No reference image.
-
-**MAIN SUBJECT**
-
-Young Korean woman in her early 20s, casual and determined energy, natural makeup, expression that shifts from focused confidence to flustered embarrassment.
-
-Hair in a messy half-up bun, a few strands sticking to her face as she gets more flustered, small stud earrings.
-
-Wearing an oversized band t-shirt tucked loosely into biker shorts, white ankle socks, no shoes, phone propped up against a stack of books on the floor to "record for practice."
-
-Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
-
-**SETTING**
-
-A small, cluttered studio apartment living room, evening, warm lamp light mixed with the cool glow of a laptop screen playing the dance tutorial video.
-
-A coffee table pushed slightly out of the way but not far enough, a floor lamp standing a little too close to her "stage area," a pile of laundry on the couch, a half-full water glass on the side table, string lights on the wall, and a roommate's bike leaning against the wall in the background. Cramped, real, an apartment clearly not built for dancing.
-
-**CAMERA / VISUAL AESTHETIC**
-
-Raw personal footage, filmed by her roommate on a phone propped up at first, then grabbed handheld once things go wrong — strong handheld vlog shake for the second half.
-
-Static, slightly low-angle framing for the "practice" shots, mimicking a phone-on-a-stack-of-books setup. Frame is imperfectly centered, cutting off the top of her head slightly. Once the roommate grabs the phone, autofocus hunts, motion blur kicks in during the collision moment, exposure shifts as she moves between lamp light and shadow, visible digital noise in the dim room.
-
-No stabilization, no gimbal smoothness, no cinematic camera moves — it should feel like a real phone recording that was never meant to be watched by anyone but her.
-
----
-
-**00:00–00:05 — THE CONFIDENT SETUP**
-
-She props her phone against a stack of books, steps back into frame, and shakes out her arms like an athlete warming up.
-
-She points at the laptop screen playing the dance tutorial, then back at herself, deadly serious.
-
-*"Okay. I've watched this like twenty times. I got this."*
-
-**00:05–00:10 — FIRST EIGHT-COUNT**
-
-The music starts. She nails the first few moves surprisingly well, sharp and confident, clearly proud of herself mid-move.
-
-Roommate's voice from off-screen, genuinely impressed: *"Wait, okay—?!"*
-
-The camera stays static, catching her in full frame, a rare clean moment.
-
-**00:10–00:15 — THE FIRST WOBBLE**
-
-A quick turn in the choreography catches her off guard — she spins a half-second late, arms flailing to catch up, and clips the edge of the coffee table with her shin.
-
-She yelps, hopping on one foot, still trying to keep the rhythm going through gritted teeth.
-
-*"I'm fine — I'm fine, keep going—"*
-
-**00:15–00:20 — LAMP INCIDENT**
-
-Recovering, she throws herself into the next big arm movement — her hand clips the floor lamp, sending it tilting dangerously.
-
-Her roommate lunges into frame to catch it, grabbing the phone off the books in the process, camera suddenly handheld and shaking.
-
-*"THE LAMP—"*
-
-**00:20–00:25 — FULL CHAOS**
-
-With the lamp saved but the camera now shaky and handheld, she tries to pick the choreography back up from memory, increasingly out of sync with the music, arms going in directions the dance never intended.
-
-She knocks the water glass off the side table with her elbow, doesn't even stop, just grimaces and keeps dancing through the spill.
-
-Roommate, laughing hysterically behind the now-unsteady camera: *"You're literally destroying the apartment—"*
-
-**00:25–00:30 — FINAL MOMENT**
-
-The song ends. She strikes a triumphant final pose — chest heaving, one hand on her hip, completely out of breath, water pooling near her sock.
-
-She looks into the camera, dead serious despite the disaster around her.
-
-*"...Post it. That was clean."*
-
-Her roommate, still laughing, pans the camera slowly down to the spilled water and tipped lamp before swinging back to her unbothered face — and the footage cuts abruptly to black.
-
----
-
-**AUDIO**
-
-Natural location sound only:
-
-The tutorial/dance track playing tinny from the laptop speakers, her footsteps and fabric movement, the thud of her shin hitting the table, the lamp wobbling and roommate's scramble to catch it, glass tipping and water spilling, her roommate's genuine off-camera laughter throughout, and handheld camera noise once it's picked up.
-
-No added music beyond the in-scene laptop track. No narration. No artificial sound effects.
-
-Spoken lines: *"Okay. I've watched this like twenty times. I got this."* / *"Wait, okay—?!"* (roommate) / *"I'm fine — I'm fine, keep going—"* / *"THE LAMP—"* (roommate) / *"You're literally destroying the apartment—"* (roommate) / *"...Post it. That was clean."*
-
-**FINAL FEEL**
-
-Chaotic, cramped-apartment energy — the universal experience of confidently trying a viral dance and immediately losing a fight with your own furniture. Funny, physical, unscripted-feeling, with a deadpan ending that lands harder because she genuinely doesn't acknowledge the destruction around her.
-
-No exaggerated slapstick beyond real physical missteps. No professional dance skill required — the comedy comes from real momentum, real near-misses, and her total refusal to admit defeat.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-1080p-ultra-realistic-personal-home-video-of-a-young-korean-906969cda347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Korean Girl's Sunday Morning in the Countryside
 

@@ -1,10 +1,98 @@
 # Seedance 2.5 — 全ケース（Part 9/10）
 
-Seedance 2.5 の全 804 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 805 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 804 件中 710–779 件目。
+このページ: 805 件中 709–779 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · [Part 5](./gallery-seedance-2-5-part-5.ja.md) · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · **Part 9** · [Part 10](./gallery-seedance-2-5-part-10.ja.md)
+
+### Autumn Forest-Girl Makeover in a Pixel Closet
+
+> New look unlocked! Made with Seedance 2.5 using @atlas_cloud_ai Prompt: Style: Retro Y2K pixel dress-up game + photoreal
+
+[<img src="https://media.goodcase.ai/media/poster/missdelulu9-seedance-ai-82f2bf793076.jpg" width="600" alt="Autumn Forest-Girl Makeover in a Pixel Closet">](https://goodcase.ai/cases/missdelulu9-seedance-ai-82f2bf793076?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @MissDelulu9 | **出典:** [元投稿](https://x.com/MissDelulu9/status/2094272120289415188) | **公開日:** 2026-08-31 | **ヒート:** 30
+
+<details>
+<summary><b>プロンプト全文（70 行、クリックで展開）</b></summary>
+
+```
+Style: Retro Y2K pixel dress-up game + photorealistic fashion video, cozy early-autumn forest-girl aesthetic, caramel/cream palette, 4K, 30fps, 16:9 vertical, 15 seconds. Realistic human + crisp 2D pixel UI.
+
+Character: Adult female. Her face, identity, skin tone, facial features, hair and body proportions must exactly match the reference image throughout. No identity or body changes.
+
+Setting: Cozy vintage bedroom/fashion studio with warm taupe walls, cream rug, wooden vanity, amber lamp, dark-green chair, magazines, dried autumn flowers, clothing rack, coffee table and soft afternoon sunlight.
+
+Camera: Locked full-body vertical shot, front-facing, slightly elevated, 24–28mm. She stays fully visible from head to shoes. No zoom, pan, tilt, shake or camera movement.
+
+Audio: Upbeat retro electronic music + clear 8-bit portal, click, equip, loading and victory sounds. No dialogue or subtitles.
+
+00:00–02.70 - PIXEL PORTAL
+
+Empty room. A tiny glowing 8-bit portal opens on the floor and expands. A giant brown-and-cream pixel hand pulls her into the room like a game character.
+
+She wears glossy cream satin pajamas with tiny brown dots, dark piping and white slippers. Copper-orange curly hair with wispy bangs. Eyes closed, relaxed sleepy pose.
+
+Portal disappears and a tiny pixel message appears: “PLAYER LOADED.”
+
+02.70–05.20 -CLOSET MENU
+
+She wakes, opens her eyes and looks at the camera.
+
+Pixel UI appears around the screen: “MIA’S CLOSET”, three pink hearts, pixel star, and five right-side buttons:
+
+TOP / SKIRT / KNIT / SHOES / BONUS
+
+A white pixel cursor appears. Loading meter reads “STYLE ENERGY: 00%” and fills to 100%.
+
+She stretches with both arms overhead. 8-bit “READY!” sound.
+
+05.20–10.80 -RAPID OUTFIT CHANGES
+
+Every change follows: cursor → highlight → click → short pause → instant hard cut.
+
+TOP: Satin pajama top → fitted cream-white lace camisole with brown ribbon and woodland embroidery.
+
+SKIRT: Satin pajama pants → brown-and-cream plaid layered mini skirt with lace trim. Vintage star + key necklaces appear.
+
+KNIT: Cocoa-brown fuzzy cropped cardigan appears, worn open. White patterned tights appear.
+
+SHOES: White slippers → cream slouch leg warmers + brown fluffy platform shoes.
+
+BONUS: Button becomes “LUCKY ITEM!” A cream-white beret appears, plus a structured dark-brown vintage handbag in her right hand.
+
+All changes are instant hard cuts. No morphing, particles, smoke or gradual transformations.
+
+10.80–13.00- STYLE SCORE
+
+UI changes to:
+
+AUTUMN STYLE
+98/100
+ COZY . Y2K  . VINTAGE  . FOREST
+
+She checks her outfit, adjusts her cardigan, looks at the camera, places her left hand on her waist and holds the handbag with her right hand. Relaxed S-shaped fashion pose, subtle smile.
+
+13.00–15.00- FINAL SCREEN
+
+Large pixel text:
+
+LEVEL COMPLETE!
+AUTUMN LOOK UNLOCKED
+
+Three hearts flash once. Small pixel leaves and NEW LOOK appear.
+
+She holds the final pose with natural breathing and tiny head movement. Freeze at exactly 15 seconds. No fade-out or black screen.
+
+FINAL OUTFIT: Cream beret, copper-orange curls, cocoa fuzzy cardigan, cream lace camisole, brown plaid layered mini skirt, vintage necklaces, white patterned tights, cream leg warmers, brown fluffy platform shoes, dark-brown vintage handbag.
+
+NEGATIVE: No face/identity/age/skin/body changes, no camera movement, no anatomy errors, no extra fingers/limbs, no clothing transparency or exposure, no missing outfit pieces, no UI over face, no corrupted text, no watermark/logos, no mirror, no background people, no plastic skin, no CGI/anime look. Human and clothing remain photorealistic; only UI, cursor, portal and effects are 2D pixel art.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/missdelulu9-seedance-ai-82f2bf793076?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### White-Haired Agent Battles Pursuers at Night
 
@@ -282,6 +370,35 @@ No CGI, animation, fantasy, artificial faces, impossible physics, floating objec
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-travel-vlog-about-a-young-w-9b919e31ef80?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A Ranch Woman's Working Day from Sunrise to Sunset
+
+> Sunrise, saddle, and hard work beneath the Western sky. Created on seedance 2.5 Prompt: Create a 30-second ultra-photorealistic American ranch lifestyle vlog fo…
+
+[<img src="https://media.goodcase.ai/cases/4a1707106d38.jpg" width="600" alt="A Ranch Woman's Working Day from Sunrise to Sunset">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2097917075176178101) | **公開日:** 2026-09-10 | **ヒート:** 29
+
+**安定度:** 83/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 83.3) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>プロンプト全文（7 行、クリックで展開）</b></summary>
+
+```
+Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
+
+Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
+
+Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
+
+Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Red Toy Mouse Gives a Girl and an Infected Cat New Life
 
@@ -4261,54 +4378,6 @@ Seedance 2.5 prompt 👇
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-vlog-30-3b85f315bb08?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Street Court Crossover Breakaway and Dunk
-
-> The challenge Made with GPT IMAGE 2 + Seedance 2.5 on PolloAi Prompt: REI: A player wearing a deep red and white jacket
-
-[<img src="https://media.goodcase.ai/cases/54d3a5538fe4.jpg" width="600" alt="Street Court Crossover Breakaway and Dunk">](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @im_shahid7 | **出典:** [元投稿](https://x.com/im_shahid7/status/2092933907218092451) | **公開日:** 2026-08-27 | **ヒート:** 19
-
-**安定度:** 76/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 75.8) · [出力](https://media.goodcase.ai/retests/im-shahid7-seedance-ai-398c9aa37acf/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（26 行、クリックで展開）</b></summary>
-
-```
-REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-Style & Atmosphere
-A dynamic presentation in a semi-flat editorial illustration style — bold, heavy brushstrokes, angular geometric rendering, blocks of color, and desaturated neutral concrete tones accented with rich deep red and teal. Warm sunlight shines diagonally from the left, creating clear light-and-shadow contrast with visible, delicate brush textures.
-Narrative Overview
-REI challenges TREY on the empty court and leaves him behind with a crossover move.
-Dynamic Description
-A steady push-in shot, medium close-up — REI takes large strides across the cracked asphalt from the left side of the frame and aggressively throws the basketball into TREY's chest. TREY, standing on the right beside the wrapped basketball hoop structure, catches the ball against his chest.
-Hard cut to a low-angle, horizontal stabilized tracking shot, medium shot — TREY dribbles low while REI mirrors him closely with intense defensive pressure. The two slide from left to right along the faded free-throw arc. Sneakers screech against the ground as dust rises.
-A whip-pan follows the basketball into an intimate handheld shot — REI performs a sharp crossover, rapidly switching the ball right, left, and right again. TREY's lead foot slips and he stumbles for half a beat. REI tears past his side and drives toward the basket.
-Static Description
-An empty urban street basketball court with a faded free-throw area painted onto cracked asphalt. On the right stands an old basketball hoop with a damaged net attached to a wrapped steel pole. Tall concrete walls, chain-link fencing, urban apartment buildings, and rooftop water tanks fill the background beneath a bright blue sky. Warm sunlight from the left casts shadows toward the right.
-Audio
-REI says: “Show me what you got.”
-Sound Effects
-The sound of a basketball hitting a chest, sharp sneaker squeaks, and distant low urban ambience.
-
-Second Scene
-REI: A player wearing a deep red and white jacket with beige cargo pants. TREY: A player wearing an oversized white and teal jacket with loose cargo pants. THE COURT: An empty urban street basketball court.
-Style & Atmosphere
-The same semi-flat editorial illustration style — bold brushstrokes, angular geometric rendering, blocks of color, muted neutral concrete tones accented by saturated deep red and teal, warm sunlight coming diagonally from the left, strong light-and-shadow contrast, and visible fine brush textures.
-Narrative Overview
-REI breaks through, dunks over TREY, and then shows off while his opponent is on his knees.
-Dynamic Description
-Handheld tracking shot, medium shot — REI gathers the ball while moving and explosively drives from left to right toward the basket on the right. TREY is half a step behind, lunging to defend, while motion trails emphasize their speed.
-Hard cut to a three-quarter side stabilized tracking shot that cranes upward — REI jumps into the air and violently slams the ball through the damaged net. The warm low-angle sunlight bursts into a glowing halo behind the backboard. The rim shakes from the impact. The camera always remains beside the basket and is never positioned directly underneath it.
-Quick cut to a locked low-angle shot — the basketball drops onto the cracked asphalt and bounces once. TREY is on both knees at the base of the wrapped steel pole, head lowered and shoulders slumped.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/im-shahid7-seedance-ai-398c9aa37acf?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Paper Airplane Flies Through Four Seasons in the Old City
 

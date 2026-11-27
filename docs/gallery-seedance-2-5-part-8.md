@@ -1,10 +1,90 @@
 # Seedance 2.5 — Full Gallery (Part 8/10)
 
-All 804 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 805 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 622–712 of 804.
+This page: cases 622–711 of 805.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)
+
+### Seedance 2.5 Phone-Controlled Outfit Changes 👚📱
+
+> Seedance 2.5 手机遥控变装👚📱 prompt 👇 Duration: 20秒 Aspect ratio: 9:16 Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏 【场景】明亮客厅/卧室，落地窗自然光，背景简洁…
+
+[<img src="https://media.goodcase.ai/cases/bf76fb08150a.jpg" width="600" alt="Seedance 2.5 Phone-Controlled Outfit Changes 👚📱">](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2097320255139795072) | **Published:** 2026-09-08 | **Heat:** 37
+
+**Stability:** 47/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 46.5) · [output](https://media.goodcase.ai/retests/seedance-seedance-2-5-dc01b3250bb4/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (58 lines, click to expand)</b></summary>
+
+```
+Seedance 2.5 手机遥控变装👚📱
+
+prompt 👇
+
+Duration: 20秒
+Aspect ratio: 9:16
+Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏
+
+【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物
+【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手
+【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈
+
+SHOT 1（00:00-00:03.5）开场展示
+画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。
+台词：女主："老公，看我今天穿得怎么样？"
+音效：室内底噪，衣料轻响。
+Constraints: 女主全身入画，开场服装=角色原本服装。
+
+SHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动
+画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。
+台词：男主（画外音，慵懒）："还行。换这套看看。"
+音效：屏幕滑动轻摩擦声。
+Constraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。
+
+SHOT 3（00:06.5-00:09.5）第一次点击瞬变
+画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。
+台词：女主（惊讶）："诶？！"
+音效：清脆"滴"+换装"叮"，衣料展开微响。
+Constraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。
+
+SHOT 4（00:09.5-00:13）第二次滑动+点击瞬变
+画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。
+台词：男主（画外音）："这套也行。"
+女主（小声）："你……乱点。"
+音效：滑动声+"滴"+"叮"，轻快音乐渐起。
+Constraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。
+
+SHOT 5（00:13-00:16.5）第三次滑动+点击瞬变
+画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。
+台词：女主："这套……还挺好看的嘛。"
+音效："滴"+"叮"，音乐节奏加快半拍。
+Constraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。
+
+SHOT 6（00:16.5-00:20）第四次滑动+点击+收尾
+画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。
+台词：男主（画外音，满意）："这套定了。"
+女主（笑着凑近，嗔怪）："你好坏啊——我好喜欢！"
+音效："滴"+"叮"，音乐在女主台词落点收在甜甜重拍。
+Constraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。
+
+【导演铁律】
+1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。
+2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。
+3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。
+4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。
+5. 台词口型清晰，与点击节拍对齐。
+
+Negative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Midnight Fairground: Schoolgirl Flees Joker and Mascots
 
@@ -1749,34 +1829,6 @@ The final video should feel like a professionally filmed real-life lifestyle com
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-from-one-simple-idea-to-a-cinematic-world-64fbc77bfb9e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Lavender Radiance Mask Beauty Commercial
-
-> Get that instant glow and cleaner pores with the ultimate skin radiance mask Created with Seedance 2.5 Prompt: A clean, minimalist commercial beauty video aesth…
-
-[<img src="https://media.goodcase.ai/cases/693104e054bd.jpg" width="600" alt="Lavender Radiance Mask Beauty Commercial">](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @AvelyrahnAI | **Source:** [Original](https://x.com/AvelyrahnAI/status/2097908289619284300) | **Published:** 2026-09-10 | **Heat:** 34
-
-<details>
-<summary><b>Full prompt (10 lines, click to expand)</b></summary>
-
-```
-A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.
-
-Scene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask
-placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.
-
-Scene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.
-
-Scene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.
-
-Scene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Young Woman Arrives at the Airport and Boards Her Flight
 
 > New destination. New memories. Boarding the flight and letting the adventure begin. Made with seedance 2.5 on @Flovaai Prompt: Create a cinematic photorealistic…
@@ -1990,35 +2042,6 @@ A high octane cinematic action sequence on an urban highway in Tokyo photorealis
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-high-octane-cinematic-action-sequence-on-an-urban-highway-in-tokyo-photoreali-e9963e75b76a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Night Market Pursuit and Narrow-Alley Escape
-
-> One glance back. One sudden run. And nowhere to be seen. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action urban chase thrille…
-
-[<img src="https://media.goodcase.ai/cases/f7a5645d8360.jpg" width="600" alt="Night Market Pursuit and Narrow-Alley Escape">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2100462425308901480) | **Published:** 2026-09-17 | **Heat:** 33
-
-**Stability:** 73/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 73.2) · [output](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
-
-Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
-
-Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
-
-No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Tiger-Hat Cat Steals Fried Chicken at a Riverside Picnic
 
 > She said just eat the cat took that personally. Made with seedance 2.5 Prompt: A cinematic 30-second short film, photorealistic, Korean riverside picnic aesthet…
@@ -2114,6 +2137,34 @@ Audio: Music resolves into a short, punchy outro hit, clean cutoff — no fade.
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-0-4s-character-a-matching-the-reference-image-livestreams-herself-on-a-dark-672f3482fa3b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Lavender Radiance Mask Beauty Commercial
+
+> Get that instant glow and cleaner pores with the ultimate skin radiance mask Created with Seedance 2.5 Prompt: A clean, minimalist commercial beauty video aesth…
+
+[<img src="https://media.goodcase.ai/cases/693104e054bd.jpg" width="600" alt="Lavender Radiance Mask Beauty Commercial">](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @AvelyrahnAI | **Source:** [Original](https://x.com/AvelyrahnAI/status/2097908289619284300) | **Published:** 2026-09-10 | **Heat:** 33
+
+<details>
+<summary><b>Full prompt (10 lines, click to expand)</b></summary>
+
+```
+A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.
+
+Scene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask
+placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.
+
+Scene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.
+
+Scene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.
+
+Scene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading  Detans & Brightens  Cleaner Pores  Clearer Skin  Natural Glow,
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-clean-minimalist-commercial-beauty-video-aesthetic-with-soft-pastel-purple-a-42d26dd79b36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Summer Stroll Through an Old Kyoto Lane
 
@@ -2682,6 +2733,35 @@ Prioritize natural human behavior, realistic movement, continuity, imperfect han
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-authentic-handheld-mini-dv-camcorder-footage-with-a-soft-early-digital-video-ae-cb1413d2e1a8?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Night Market Pursuit and Narrow-Alley Escape
+
+> One glance back. One sudden run. And nowhere to be seen. Created on Seedance 2.5 Prompt: Create a 30-second ultra-photorealistic live-action urban chase thrille…
+
+[<img src="https://media.goodcase.ai/cases/f7a5645d8360.jpg" width="600" alt="Night Market Pursuit and Narrow-Alley Escape">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2100462425308901480) | **Published:** 2026-09-17 | **Heat:** 32
+
+**Stability:** 73/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 73.2) · [output](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979/video-grok-imagine-20261003-phase1/generated.mp4)
+
+<details>
+<summary><b>Full prompt (7 lines, click to expand)</b></summary>
+
+```
+Create a 30-second ultra-photorealistic live-action urban chase thriller set in a crowded evening street market. A young woman realizes a stranger is following her, accelerates into a run, weaves naturally through pedestrians and food stalls, ducks behind a market stall, then suddenly changes direction and disappears into a narrow alley just before the follower arrives.
+
+Show realistic human biomechanics, acceleration, momentum, friction, center-of-mass shifts, crowd reactions, fabric and bag physics, realistic object interaction, and natural environmental movement. Use handheld close-ups, over-the-shoulder shots, low running angles, side tracking, a hidden perspective behind the stall, and a tight alley shot with realistic camera inertia and autofocus.
+
+Use only diegetic sound: footsteps, breathing, crowd chatter, vendors, bicycles, fabric movement, traffic, and echoing alley footsteps. Natural mixed market lighting, realistic shadows, reflections, depth of field, and motion blur. End on a locked-off shot of the empty alley as her footsteps fade away.
+
+No CGI, animation, superhero movement, impossible parkour, teleportation, unrealistic crowd behavior, distorted anatomy, floating objects, weapons, gore, text, logos, or watermark.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-live-action-urban-chase-thriller-set-in-623df1759979?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Japanese High School Classroom Key Mission
 
@@ -3325,47 +3405,6 @@ Cinematic high-end 3D anime action, 30 seconds, 24fps, ultra sharp, no watermark
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-high-end-3d-anime-action-30-seconds-24fps-ultra-sharp-no-watermar-cdb929885bab?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Futuristic Vehicle Transforms into a Garbage Truck to Evade Police
-
-> Ideas hit different when AI brings them to life. Created with Seedance 2.5 for @WizstarAI Cinematic visuals, smooth motion, limitless creativity. Try your's and…
-
-[<img src="https://media.goodcase.ai/cases/1b3a14cc3b8b.jpg" width="600" alt="Futuristic Vehicle Transforms into a Garbage Truck to Evade Police">](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2099012948232483096) | **Published:** 2026-09-13 | **Heat:** 31
-
-<details>
-<summary><b>Full prompt (23 lines, click to expand)</b></summary>
-
-```
-Create a hyper-realistic cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, realistic buildings, natural daylight.
-
-IMPORTANT: Use Reference Image 1 ONLY for the male character. Preserve his exact face, eyes, nose, lips, jawline, hairstyle and skin tone throughout. No face morphing or identity drift.
-
-Open with a tight close-up of a sleek angular metallic futuristic vehicle speeding forward. Sudden gunfire erupts from off-screen; NO SHOOTERS are visible. Bullets hit the body and ricochet with sharp sparks.
-
-Camera rapidly pulls back to reveal the full vehicle. Police sirens grow louder.
-
-WITHOUT slowing down, the vehicle begins a realistic mechanical transformation while moving. Metallic panels slide, split, fold and reconfigure. Smooth surfaces become dirty, dented, scratched, rusted and uneven. The aerodynamic body becomes rough and boxy. No magic or teleportation. Within seconds it transforms into a grimy dumpster-style garbage truck blending naturally into the street.
-
-The truck hard-brakes and performs a sharp 180-degree skid turn. Tires screech; dust kicks up. It settles into roadside parking.
-
-CUT TO: Police vehicles rush past at high speed with sirens and lights, completely missing the disguised truck.
-
-In the foreground, the SAME MALE CHARACTER FROM REFERENCE IMAGE 1 casually loads garbage into the truck. Dress him as a garbage-truck worker while keeping his exact identity and face. He pauses, watches the police pass, turns toward camera and gives a subtle confident wink.
-
-Camera gently pushes in. Sirens fade into city ambience.
-
-FINAL: Hold after the wink, then smoothly FADE TO BLACK. On the fully black screen, centered clean white text slowly fades in: “Wizstar AI”. Hold, then end.
-
-STYLE: Photorealistic, premium Hollywood action, realistic VFX, natural physics.
-
-NEGATIVE: No shooters, extra characters, identity change, face distortion, cartoon/anime, random cuts, subtitles, watermark, logos.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Water Obstacle Contestant Falls Just Before Victory
 
 > She was one step away from victory… then the water had other plans.... 😭 I created this with Seedance 2.5 on @budgetpixel Prompt : 15-Second Ultra-Realistic Li…
@@ -3891,6 +3930,47 @@ A cinematic anime-style scene of a young female traveler skateboarding downhill 
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-a-cinematic-anime-style-scene-of-a-young-female-traveler-skateboarding-downhill-9d0ffb3a7366?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Futuristic Vehicle Transforms into a Garbage Truck to Evade Police
+
+> Ideas hit different when AI brings them to life. Created with Seedance 2.5 for @WizstarAI Cinematic visuals, smooth motion, limitless creativity. Try your's and…
+
+[<img src="https://media.goodcase.ai/cases/1b3a14cc3b8b.jpg" width="600" alt="Futuristic Vehicle Transforms into a Garbage Truck to Evade Police">](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @Xaroon_x | **Source:** [Original](https://x.com/Xaroon_x/status/2099012948232483096) | **Published:** 2026-09-13 | **Heat:** 30
+
+<details>
+<summary><b>Full prompt (23 lines, click to expand)</b></summary>
+
+```
+Create a hyper-realistic cinematic action sequence on a bright urban road in daytime. Clean streets, light traffic, realistic buildings, natural daylight.
+
+IMPORTANT: Use Reference Image 1 ONLY for the male character. Preserve his exact face, eyes, nose, lips, jawline, hairstyle and skin tone throughout. No face morphing or identity drift.
+
+Open with a tight close-up of a sleek angular metallic futuristic vehicle speeding forward. Sudden gunfire erupts from off-screen; NO SHOOTERS are visible. Bullets hit the body and ricochet with sharp sparks.
+
+Camera rapidly pulls back to reveal the full vehicle. Police sirens grow louder.
+
+WITHOUT slowing down, the vehicle begins a realistic mechanical transformation while moving. Metallic panels slide, split, fold and reconfigure. Smooth surfaces become dirty, dented, scratched, rusted and uneven. The aerodynamic body becomes rough and boxy. No magic or teleportation. Within seconds it transforms into a grimy dumpster-style garbage truck blending naturally into the street.
+
+The truck hard-brakes and performs a sharp 180-degree skid turn. Tires screech; dust kicks up. It settles into roadside parking.
+
+CUT TO: Police vehicles rush past at high speed with sirens and lights, completely missing the disguised truck.
+
+In the foreground, the SAME MALE CHARACTER FROM REFERENCE IMAGE 1 casually loads garbage into the truck. Dress him as a garbage-truck worker while keeping his exact identity and face. He pauses, watches the police pass, turns toward camera and gives a subtle confident wink.
+
+Camera gently pushes in. Sirens fade into city ambience.
+
+FINAL: Hold after the wink, then smoothly FADE TO BLACK. On the fully black screen, centered clean white text slowly fades in: “Wizstar AI”. Hold, then end.
+
+STYLE: Photorealistic, premium Hollywood action, realistic VFX, natural physics.
+
+NEGATIVE: No shooters, extra characters, identity change, face distortion, cartoon/anime, random cuts, subtitles, watermark, logos.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-hyper-realistic-cinematic-action-sequence-on-a-bright-urban-road-in-da-7d6b917b4327?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Winter Journey Through Russia's Snowy Cities
 
 > What if your imagination looked like a blockbuster? Seedance 2.5 on @WizstarAI is turning impossible ideas into stunning cinematic reality. You can try it too, …
@@ -3968,35 +4048,6 @@ No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, dis
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-gta-style-chaos-but-the-mission-makes-absolutely-no-sense-b787f991daf0?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### A Ranch Woman's Working Day from Sunrise to Sunset
-
-> Sunrise, saddle, and hard work beneath the Western sky. Created on seedance 2.5 Prompt: Create a 30-second ultra-photorealistic American ranch lifestyle vlog fo…
-
-[<img src="https://media.goodcase.ai/cases/4a1707106d38.jpg" width="600" alt="A Ranch Woman's Working Day from Sunrise to Sunset">](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @aiwithaly | **Source:** [Original](https://x.com/aiwithaly/status/2097917075176178101) | **Published:** 2026-09-10 | **Heat:** 30
-
-**Stability:** 83/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 83.3) · [output](https://media.goodcase.ai/retests/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (7 lines, click to expand)</b></summary>
-
-```
-Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
-
-Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
-
-Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
-
-Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-american-ranch-lifestyle-vlog-following-8c714f97866e?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A Rainy Journey Across New Zealand’s Coast
 
@@ -4501,59 +4552,6 @@ ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, 
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/ciri-ai-seedance-ai-5ce4a010eef9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Baby Penguin Flies into a Loving Family Cuddle
-
-> Made with seedance 2.5 Prompt 👇 Create a cute, cinematic 3D animated short film featuring an adorable fluffy baby penguin girl with soft gray-and-white feather…
-
-[<img src="https://media.goodcase.ai/cases/3ea9d5fc18dc.jpg" width="600" alt="Baby Penguin Flies into a Loving Family Cuddle">](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @Zarnab_with_Ai | **Source:** [Original](https://x.com/Zarnab_with_Ai/status/2101989437181988957) | **Published:** 2026-09-21 | **Heat:** 29
-
-**Stability:** 88/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 87.8) · [output](https://media.goodcase.ai/retests/seedance-made-with-seedance-2-5-b1495c3561d9/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (31 lines, click to expand)</b></summary>
-
-```
-Made with seedance 2.5
-
-Prompt 👇 
-Create a cute, cinematic 3D animated short film featuring an adorable fluffy baby penguin girl with soft gray-and-white feathers, huge expressive blue eyes, a small black beak, chubby body, tiny black feet, and a small pink bow on her head.
-
-Scene 1 — Beginning:
-The baby penguin stands alone on a colorful striped rug inside a warm, cozy home. She looks slightly shy and innocent, gently moving her head and looking around. Use a vertical 9:16 composition, soft warm indoor lighting, shallow depth of field, detailed fluffy feathers, and cinematic camera movement.
-
-Scene 2 — Cute close-up:
-Slowly push the camera toward her face. She looks directly into the camera with huge sparkling eyes, then smiles happily and opens her little beak. Capture adorable facial expressions and subtle feather movement.
-
-Scene 3 — Mood change:
-Her expression suddenly becomes serious and determined. She lowers her body close to the floor, narrows her eyes, spreads her tiny wings slightly, and prepares to jump forward like a tiny angry superhero. Keep the camera low and cinematic.
-
-Scene 4 — Jump:
-The penguin suddenly launches herself upward with excitement. Her wings spread wide as she flies toward the camera. Dynamic camera movement, slight slow motion, soft motion blur, detailed feathers, playful cinematic energy.
-
-Scene 5 — Flying close-up:
-Show the penguin floating above the camera with her wings fully extended. She looks down with a huge adorable smile, then moves closer toward the lens. Maintain consistent character design, pink bow, blue eyes, gray-white feathers, and warm cinematic lighting.
-
-Scene 6 — Couch:
-Transition to a cozy living room with a soft colorful couch. The baby penguin lands beside another larger fluffy penguin lying comfortably on the couch. The larger penguin looks surprised but affectionate.
-
-Scene 7 — Affectionate ending:
-The baby penguin cuddles closely against the larger penguin. They look at each other lovingly, then snuggle together. The baby penguin gently rests her head against the larger penguin, closes her eyes, and gives a sweet affectionate kiss/nuzzle.
-
-Visual style:
-High-end cinematic 3D animation, adorable family-friendly character design, ultra-detailed soft feathers, expressive oversized eyes, realistic feather physics, soft warm indoor lighting, beautiful depth of field, smooth natural animation, subtle facial expressions, realistic shadows, cinematic camera movements, polished feature-film quality, 4K, vertical 9:16.
-
-Important:
-Keep the exact same baby penguin character throughout the entire video. Preserve her face, body proportions, feather colors, blue eyes, pink bow, and overall appearance in every shot. Smooth transitions, consistent environment, natural motion, no character distortion, no extra limbs, no flickering, no text, no watermark.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-made-with-seedance-2-5-b1495c3561d9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · **Part 8** · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)

@@ -1,8 +1,8 @@
 # Seedance 2.5 — 全ケース（Part 5/10）
 
-Seedance 2.5 の全 804 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
+Seedance 2.5 の全 805 ケースをヒートスコア順に掲載。data/cases.json から生成、手編集不可。
 
-このページ: 804 件中 331–419 件目。
+このページ: 805 件中 331–419 件目。
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)
 
@@ -3120,6 +3120,28 @@ Keep the same young South Asian woman, same face, hairstyle and clear stylish gl
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-keep-the-same-young-south-asian-woman-same-face-hairstyle-and-clear-stylish-g-0b7ca70e5347?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### A Day in the Life of a Korean University Student
+
+> One ordinary university day, filled with little moments worth remembering. Created on seedance 2.5 Prompt: Create a 30-second photorealistic live-action 2026 Ko…
+
+[<img src="https://media.goodcase.ai/cases/9f3ba27bedc7.jpg" width="600" alt="A Day in the Life of a Korean University Student">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2096818423846334683) | **公開日:** 2026-09-07 | **ヒート:** 57
+
+**安定度:** 78/100
+
+**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 77.7) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Create a 30-second photorealistic live-action 2026 Korean university lifestyle vlog following a young Korean female student through one beautiful ordinary day. Start with a morning city-bus ride and ocean-like city reflections through the window, then move naturally through a busy campus lecture, iced coffee break, quiet library study, cafeteria lunch with a friend, energetic dance-club practice, golden-hour campus walk, and peaceful blue-hour night stroll.
+
+Use authentic modern Korean university surroundings, natural student clothing, realistic Korean facial features, subtle expressions and spontaneous interactions. High-end smartphone vlog aesthetic with handheld movement, selfie shots, POV footage, natural autofocus, exposure changes and realistic motion blur. Hair, cardigan, backpack and objects react naturally to movement, wind and gravity. Include realistic bus movement, walking, dancing, coffee condensation, food steam and believable human biomechanics.
+
+English dialogue only, with natural location sounds such as bus noise, classroom ambience, café chatter, footsteps, cafeteria sounds, dance-room audio and nighttime campus ambience. No narrator, no background music, no CGI, animation, subtitles, logos or watermark.
+```
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Rider jumps the collapsing Golden Gate Bridge
 
 > From explosive action to breathtaking aerial shots, turning imagination into cinematic reality with Seedance 2.5 on @frameo_ai #MadeWithFrameo Prompt : THE LAST…
@@ -3625,28 +3647,6 @@ smooth continuous camera motion, no cuts.
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-a-weathered-old-lighthouse-keeper-stands-on-a-foggy-cliff-at-night-f581948aed80?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### A Day in the Life of a Korean University Student
-
-> One ordinary university day, filled with little moments worth remembering. Created on seedance 2.5 Prompt: Create a 30-second photorealistic live-action 2026 Ko…
-
-[<img src="https://media.goodcase.ai/cases/9f3ba27bedc7.jpg" width="600" alt="A Day in the Life of a Korean University Student">](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @aiwithaly | **出典:** [元投稿](https://x.com/aiwithaly/status/2096818423846334683) | **公開日:** 2026-09-07 | **ヒート:** 56
-
-**安定度:** 78/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ✅ 再現 (スコア 77.7) · [出力](https://media.goodcase.ai/retests/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Create a 30-second photorealistic live-action 2026 Korean university lifestyle vlog following a young Korean female student through one beautiful ordinary day. Start with a morning city-bus ride and ocean-like city reflections through the window, then move naturally through a busy campus lecture, iced coffee break, quiet library study, cafeteria lunch with a friend, energetic dance-club practice, golden-hour campus walk, and peaceful blue-hour night stroll.
-
-Use authentic modern Korean university surroundings, natural student clothing, realistic Korean facial features, subtle expressions and spontaneous interactions. High-end smartphone vlog aesthetic with handheld movement, selfie shots, POV footage, natural autofocus, exposure changes and realistic motion blur. Hair, cardigan, backpack and objects react naturally to movement, wind and gravity. Include realistic bus movement, walking, dancing, coffee condensation, food steam and believable human biomechanics.
-
-English dialogue only, with natural location sounds such as bus noise, classroom ambience, café chatter, footsteps, cafeteria sounds, dance-room audio and nighttime campus ambience. No narrator, no background music, no CGI, animation, subtitles, logos or watermark.
-```
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-photorealistic-live-action-2026-korean-university-lifestyle-7281a3ed7794?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### Ultra-Real Summer Home Video From a Master Reference
 
 > Made with Seedance 2.5 in 1080p Duration: 30 seconds Aspect Ratio: 16:9 Prompt Ultra realistic personal summer home-video featuring Elsa. Use the provided Maste…
@@ -3911,6 +3911,72 @@ STRICT REQUIREMENTS: Photorealistic live action, consistent character identity, 
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-ultra-realistic-korean-live-action-mystery-thriller-0c299221d112?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown
+
+> Iron Elbows Of Yaowarat (ศอกเหล็กแห่งเยาวราช.) 🇹🇭⚡ @PixVerse Cornered in a cramped, neon-lit alleyway in Bangkok Chinatown, underdog fighter Kham relies on tr…
+
+[<img src="https://media.goodcase.ai/cases/a00887cb56c3.jpg" width="600" alt="Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown">](https://goodcase.ai/cases/seedance-2-5-iron-elbows-of-yaowarat-07e40d0f9c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @yourPlugAI | **出典:** [元投稿](https://x.com/yourPlugAI/status/2112760259886407861) | **公開日:** 2026-10-21 | **ヒート:** 55
+
+<details>
+<summary><b>プロンプト全文（48 行、クリックで展開）</b></summary>
+
+```
+Iron Elbows Of Yaowarat (ศอกเหล็กแห่งเยาวราช.) 🇹🇭⚡
+@PixVerse 
+
+Cornered in a cramped, neon-lit alleyway in Bangkok Chinatown, underdog fighter Kham relies on traditional Muay Boran and lethal street Muay Thai to defend himself against three armed syndicate enforcers.
+
+Through bone-shattering elbow strikes, mid-air double-knee pipe blocks, and a legendary Hanuman flying knee strike, Kham clears the alley in a non-stop 30-second martial arts gauntlet. 
+
+✨Generated by Seedance 2.5 on PixVerse AI 
+
+✨Grab the exact character sheets and FULL video prompt from the Pixverse Canvas link attached below
+
+#PixVerseCPP #PixVerseAI #Seedance25 
+
+Phase 1: 00:00 to 00:15 (Seedance 2.5)
+
+[ENGINE DIRECTIVE]
+Generate a continuous 15-second hyper-realistic live-action martial arts sequence using Seedance 2.5 at 60fps ultra-realism in 16:9 widescreen format. Maintain 100% strict visual consistency with provided asset sheets: "Kham" (Thai fighter in kard chuek hand wraps, prajied armbands, dark Muay Thai shorts) and "Syndicate Enforcers" (Somchai with steel pipe, Twins with short machetes). Setting strictly follows "Rain-Soaked Yaowarat Alleyway Night Market". Style: Visceral Ong-Bak Muay Boran action cinema, rapid 2-to-3 second beats, bone-crunching elbow leverage, wet neon reflections, high-velocity water splash physics.
+
+[AUDIO DIRECTIVE]
+• MUSIC: Driving fast-paced Thai percussion blended with heavy industrial synth bass and aggressive action risers.
+• SOUND DESIGN: Heavy tropical rain, machete wind swooshes, elbow-to-bone impact thuds, shattering wooden food carts, and steel pipe clangs.
+
+[TIMELINE BREAKDOWN]
+
+00:00 - 00:03 | NEON STANCE & MACHETE AMBUSH
+• VISUAL: Low-angle tracking shot panning up from neon-lit puddles to Kham's low Muay Boran stance.
+• ACTION: Heavy rain pours off Kham's cloth hand-wraps under a flickering red noodle sign. Somchai and the Twin Strikers step out from the shadows with steel pipe and machetes drawn.
+• SOUND: Heavy downpour, flickering neon buzz, steel pipe drag ON asphalt, fast drum pulse.
+
+00:03 - 00:06 | WRIST PARRY & COLLARBONE DOWNWARD ELBOW
+• VISUAL: Close-quarters dynamic camera tracking Kham's forearm parry.
+• ACTION: First Twin rushes with a diagonal machete slash. Kham steps inside the guard, parries the wrist with his cloth-wrapped forearm, and delivers a brutal horizontal downward elbow directly to the collarbone.
+• SOUND: Machete WHOOSH, forearm parry CLACK, bone-crunching elbow THUD.
+
+00:06 - 00:09 | PLUM CLINCH & UPWARD RIB KNEE
+• VISUAL: Low-angle impact camera tracking the water displacement.
+• ACTION: Second Twin lunges with a thrust. Kham duck-drifts under the blade, grabs the attacker's neck in a tight plum clinch, and drives a crushing upward knee strike to the ribs, sending neon-lit water blasting off their clothes.
+• SOUND: Water slide hiss, clinch leather friction, heavy knee impact CRUNCH, water spray explosion.
+
+00:09 - 00:12 | FOOD CART VAULT & DOUBLE-KNEE PIPE BLOCK
+• VISUAL: 0.8-second time-dilation tracking shot orbiting Kham's aerial vault.
+• ACTION: Somchai swings his heavy steel pipe. In hyper-slow motion, Kham vaults off an overturned wooden food cart, executing a mid-air double-knee block that catches the pipe between his shins.
+• SOUND: Time-dilation sub-bass DROP, heavy pipe WHOOSH, shin-on-pipe CLANG, wood splintering.
+
+00:12 - 00:15 | SPINNING BACK-ELBOW & CRATE SKID
+• VISUAL: Wide impact tracking camera capturing Somchai staggring into the background.
+• ACTION: Landing on wet asphalt, Kham uses his momentum to deliver a spinning back-elbow to Somchai's jaw, sending sparks and rainwater flying as the giant staggers back into plastic crates, setting up Phase 2.
+• SOUND: High-speed spin WHOOSH, jaw impact BOOM, plastic crates crashing, surging music riser.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-iron-elbows-of-yaowarat-07e40d0f9c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Zombies Erupt at a Night Concert as a Guitarist Saves His Bandmates
 
@@ -4239,72 +4305,6 @@ REALISM: Natural anatomy, realistic foot contact, balanced movements, natural br
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-use-image-1-as-the-only-character-reference-99f4b178234b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown
-
-> Iron Elbows Of Yaowarat (ศอกเหล็กแห่งเยาวราช.) 🇹🇭⚡ @PixVerse Cornered in a cramped, neon-lit alleyway in Bangkok Chinatown, underdog fighter Kham relies on tr…
-
-[<img src="https://media.goodcase.ai/cases/a00887cb56c3.jpg" width="600" alt="Muay Thai Fighter Battles Armed Thugs in Rainy Bangkok Chinatown">](https://goodcase.ai/cases/seedance-2-5-iron-elbows-of-yaowarat-07e40d0f9c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @yourPlugAI | **出典:** [元投稿](https://x.com/yourPlugAI/status/2112760259886407861) | **公開日:** 2026-10-21 | **ヒート:** 54
-
-<details>
-<summary><b>プロンプト全文（48 行、クリックで展開）</b></summary>
-
-```
-Iron Elbows Of Yaowarat (ศอกเหล็กแห่งเยาวราช.) 🇹🇭⚡
-@PixVerse 
-
-Cornered in a cramped, neon-lit alleyway in Bangkok Chinatown, underdog fighter Kham relies on traditional Muay Boran and lethal street Muay Thai to defend himself against three armed syndicate enforcers.
-
-Through bone-shattering elbow strikes, mid-air double-knee pipe blocks, and a legendary Hanuman flying knee strike, Kham clears the alley in a non-stop 30-second martial arts gauntlet. 
-
-✨Generated by Seedance 2.5 on PixVerse AI 
-
-✨Grab the exact character sheets and FULL video prompt from the Pixverse Canvas link attached below
-
-#PixVerseCPP #PixVerseAI #Seedance25 
-
-Phase 1: 00:00 to 00:15 (Seedance 2.5)
-
-[ENGINE DIRECTIVE]
-Generate a continuous 15-second hyper-realistic live-action martial arts sequence using Seedance 2.5 at 60fps ultra-realism in 16:9 widescreen format. Maintain 100% strict visual consistency with provided asset sheets: "Kham" (Thai fighter in kard chuek hand wraps, prajied armbands, dark Muay Thai shorts) and "Syndicate Enforcers" (Somchai with steel pipe, Twins with short machetes). Setting strictly follows "Rain-Soaked Yaowarat Alleyway Night Market". Style: Visceral Ong-Bak Muay Boran action cinema, rapid 2-to-3 second beats, bone-crunching elbow leverage, wet neon reflections, high-velocity water splash physics.
-
-[AUDIO DIRECTIVE]
-• MUSIC: Driving fast-paced Thai percussion blended with heavy industrial synth bass and aggressive action risers.
-• SOUND DESIGN: Heavy tropical rain, machete wind swooshes, elbow-to-bone impact thuds, shattering wooden food carts, and steel pipe clangs.
-
-[TIMELINE BREAKDOWN]
-
-00:00 - 00:03 | NEON STANCE & MACHETE AMBUSH
-• VISUAL: Low-angle tracking shot panning up from neon-lit puddles to Kham's low Muay Boran stance.
-• ACTION: Heavy rain pours off Kham's cloth hand-wraps under a flickering red noodle sign. Somchai and the Twin Strikers step out from the shadows with steel pipe and machetes drawn.
-• SOUND: Heavy downpour, flickering neon buzz, steel pipe drag ON asphalt, fast drum pulse.
-
-00:03 - 00:06 | WRIST PARRY & COLLARBONE DOWNWARD ELBOW
-• VISUAL: Close-quarters dynamic camera tracking Kham's forearm parry.
-• ACTION: First Twin rushes with a diagonal machete slash. Kham steps inside the guard, parries the wrist with his cloth-wrapped forearm, and delivers a brutal horizontal downward elbow directly to the collarbone.
-• SOUND: Machete WHOOSH, forearm parry CLACK, bone-crunching elbow THUD.
-
-00:06 - 00:09 | PLUM CLINCH & UPWARD RIB KNEE
-• VISUAL: Low-angle impact camera tracking the water displacement.
-• ACTION: Second Twin lunges with a thrust. Kham duck-drifts under the blade, grabs the attacker's neck in a tight plum clinch, and drives a crushing upward knee strike to the ribs, sending neon-lit water blasting off their clothes.
-• SOUND: Water slide hiss, clinch leather friction, heavy knee impact CRUNCH, water spray explosion.
-
-00:09 - 00:12 | FOOD CART VAULT & DOUBLE-KNEE PIPE BLOCK
-• VISUAL: 0.8-second time-dilation tracking shot orbiting Kham's aerial vault.
-• ACTION: Somchai swings his heavy steel pipe. In hyper-slow motion, Kham vaults off an overturned wooden food cart, executing a mid-air double-knee block that catches the pipe between his shins.
-• SOUND: Time-dilation sub-bass DROP, heavy pipe WHOOSH, shin-on-pipe CLANG, wood splintering.
-
-00:12 - 00:15 | SPINNING BACK-ELBOW & CRATE SKID
-• VISUAL: Wide impact tracking camera capturing Somchai staggring into the background.
-• ACTION: Landing on wet asphalt, Kham uses his momentum to deliver a spinning back-elbow to Somchai's jaw, sending sparks and rainwater flying as the giant staggers back into plastic crates, setting up Phase 2.
-• SOUND: High-speed spin WHOOSH, jaw impact BOOM, plastic crates crashing, surging music riser.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-iron-elbows-of-yaowarat-07e40d0f9c6a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### An East Asian Woman Explores Istanbul: Mosques and Bosphorus Sunset
 
@@ -4680,37 +4680,6 @@ Negative prompt: No anime, CGI, plastic skin, robotic movement, impossible physi
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-japanese-rural-slice-of-life-home-video-9431ffb8cf81?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Two Infected Women Hunt Victims in a Dim Public Washroom
-
-> The Washroom Attack 🧟‍♀️ Made with Seedance 2.5 Prompt: Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>…
-
-[<img src="https://media.goodcase.ai/cases/4b9a684c1b94.jpg" width="600" alt="Two Infected Women Hunt Victims in a Dim Public Washroom">](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**作者:** @AIwithSynthia | **出典:** [元投稿](https://x.com/AIwithSynthia/status/2103091393145282775) | **公開日:** 2026-09-24 | **ヒート:** 54
-
-**安定度:** 65/100
-
-**再テスト:** Grok Imagine · 2026-10-03 · ⚠️ 劣化 (スコア 65.4) · [出力](https://media.goodcase.ai/retests/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>プロンプト全文（9 行、クリックで展開）</b></summary>
-
-```
-Create an ultra-realistic Korean zombie-horror sequence inside a dim public washroom. Use << < image >>> as the exact reference for the zombie woman and keep her face, hair, body proportions and outfit consistent.
-
-A young woman enters the washroom and washes her hands, unaware that the zombie woman is watching her through the mirror. The zombie slowly reveals pale skin, dark veins, twitching fingers and completely black eyes before suddenly attacking her. She grabs the victim, pins her against the tiled wall, and chases her when she escapes toward the exit.
-
-The victim struggles to escape, but the zombie catches her again. Dark veins spread across the victim's neck and face as she convulses and collapses. Her eyes turn milky white and then black as she rises, now infected. The two infected women turn toward another person entering the washroom and suddenly charge at them.
-
-End with the washroom lights flickering as the infected women stand motionless beneath the fluorescent lights, staring directly into the camera.
-
-Style: photorealistic Korean zombie horror, claustrophobic tiled washroom, wet surfaces, cold fluorescent lighting, realistic skin, dark veins, terrifying eyes, unnatural but believable movements, handheld camera, practical-effects feel, natural reactions, no gore, no graphic injuries, no CGI look, no morphing, no duplicate characters, no distorted anatomy, no subtitles, no text, no watermark.
-```
-
-</details>
-
-**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-create-an-ultra-realistic-korean-zombie-horror-sequence-inside-a-dim-public-was-55525bbe6921?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Restaurant Chef’s Flaming Wok Performance
 
@@ -5090,6 +5059,75 @@ Exactly 30 seconds, 10 shots, 16:9.
 </details>
 
 **[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-a-photorealistic-live-action-travel-film-with-japanese-scenery-authenti-2abccbc23433?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### Assassin in a close-quarters fight inside a luxury hotel lobby
+
+> From concept to cinematic action. Xreated with Seedance 2.5 on @WizstarAI. Stunning macro shots, epic slow motion and Hollywood-style visuals. #WizstarPartner T…
+
+[<img src="https://media.goodcase.ai/cases/2c30dbd16077.jpg" width="600" alt="Assassin in a close-quarters fight inside a luxury hotel lobby">](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-hyper-realistic-hollywood-action-sequence-60-a5c1cc2c227a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**作者:** @Xaroon_x | **出典:** [元投稿](https://x.com/Xaroon_x/status/2123060264694132917) | **公開日:** 2026-11-18 | **ヒート:** 53
+
+<details>
+<summary><b>プロンプト全文（51 行、クリックで展開）</b></summary>
+
+```
+THE LAST ASSASSIN — CINEMATIC ACTION
+
+ENGINE DIRECTIVE:
+Create an exactly 30-second, 16:9 hyper-realistic Hollywood action sequence, 60 FPS target, inside a luxurious golden hotel lobby.
+
+REFERENCES:
+@image1 = Male protagonist identity and body.
+@image2 = Male antagonist.
+@image3 = Luxury hotel environment.
+
+IDENTITY LOCK: Preserve @image1's exact face, hairstyle, beard, skin texture and physique. Never alter identity.
+
+PROTAGONIST: Black tactical jacket, black inner shirt, black cargo trousers, combat boots and wristwatch. Compact black combat knife.
+
+ANTAGONIST: Muscular male, short dark hair, beard, facial scar, fitted black business suit, white shirt, loosened black tie and matte-black handgun. Two additional male security fighters in matching suits.
+
+ENVIRONMENT: Grand luxury hotel lobby, cream-and-gold marble walls, decorative columns, crystal chandeliers, dark wooden reception desk and reflective marble floor. Warm golden cinematic lighting. Preserve architecture and layout.
+
+CINEMATOGRAPHY: Hollywood martial arts, extreme macro close-ups of eyes, hands, weapons, shoes and facial expressions. Dynamic tracking, low angles, 180-degree camera orbits, shallow depth of field, realistic impacts, detailed fabric physics and dramatic slow motion.
+
+TIMELINE
+
+00–03: Protagonist stands in hotel lobby. Camera pushes into extreme eye macro. Security guards approach.
+
+03–06: First attacker charges. Protagonist dodges, counterstrikes and throws him onto marble.
+
+06–09: Macro shots of shoes, knife grip, eyes and facial expressions. Second attacker grabs from behind; protagonist escapes and counters.
+
+09–12: Dramatic slow-motion spinning kick. Attacker falls. Realistic blazer and hair movement.
+
+12–15: Antagonist raises handgun near reception. Macro weapon and eye shots. Gunshot hits marble column; protagonist takes cover.
+
+15–18: Protagonist emerges, performs a close-quarters disarming maneuver. Handgun slides across marble.
+
+18–21: Two security fighters attack from opposite directions. Camera orbits protagonist as he counters both.
+
+21–24: Extreme eye macro followed by dramatic slow-motion spinning kick. Final antagonist falls.
+
+24–27: Camera glides across fallen fighters and dropped weapon. Protagonist adjusts his jacket and tie.
+
+27–30: Golden cinematic close-up. Protagonist turns toward camera and gives a confident sideways glance. Dramatic ending.
+
+AUDIO
+
+Original Hollywood action soundtrack: deep bass, orchestral strings, aggressive percussion. Synchronized punches, kicks, footsteps, fabric movement, gunshots, metallic sounds and environmental ambience.
+
+CONTINUITY RULES
+
+Preserve @image1, @image2 and @image3 throughout. Consistent faces, outfits, weapons and architecture. Slow motion at 09–12 and 21–24. Realistic physics, natural movement, cinematic transitions. No distorted faces, duplicated limbs, teleportation, random changes, subtitles or watermarks.
+
+FINAL RESULT: One seamless 30-second photorealistic Hollywood assassin fight with spectacular macro cinematography, slow-motion combat and premium blockbuster visuals.
+```
+
+</details>
+
+**[🔍 goodcase.ai で見る（再テスト記録 / 安定度スコア）→](https://goodcase.ai/cases/seedance-2-5-create-an-exactly-30-second-16-9-hyper-realistic-hollywood-action-sequence-60-a5c1cc2c227a?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [README に戻る](../README_ja.md) · [ギャラリー索引](./gallery.ja.md) · [Part 1](./gallery-seedance-2-5-part-1.ja.md) · [Part 2](./gallery-seedance-2-5-part-2.ja.md) · [Part 3](./gallery-seedance-2-5-part-3.ja.md) · [Part 4](./gallery-seedance-2-5-part-4.ja.md) · **Part 5** · [Part 6](./gallery-seedance-2-5-part-6.ja.md) · [Part 7](./gallery-seedance-2-5-part-7.ja.md) · [Part 8](./gallery-seedance-2-5-part-8.ja.md) · [Part 9](./gallery-seedance-2-5-part-9.ja.md) · [Part 10](./gallery-seedance-2-5-part-10.ja.md)

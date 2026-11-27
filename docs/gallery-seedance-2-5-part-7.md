@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 7/10)
 
-All 804 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 805 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 526–621 of 804.
+This page: cases 526–621 of 805.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)
 
@@ -465,6 +465,22 @@ SEEDANCE 2.5｜水上人形墙挑战
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/johnagi168-seedance-ai-792fb30bed36?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
+### A thorn-wood being meets a glass figure in an abandoned room
+
+> Where nature fantasy and imagination come together in a surreal encounter. Made With Seedance 2.5 Prompt: A surreal dark-fantasy cinematic scene featuring a mys…
+
+[<img src="https://media.goodcase.ai/cases/87094db3ba25.jpg" width="600" alt="A thorn-wood being meets a glass figure in an abandoned room">](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @itsSaira_1 | **Source:** [Original](https://x.com/itsSaira_1/status/2121100826894590435) | **Published:** 2026-11-13 | **Heat:** 43
+
+```
+A surreal dark-fantasy cinematic scene featuring a mysterious humanoid creature made entirely of twisted branches, roots, and sharp thorns, encountering a beautiful translucent glass-like humanoid figure with an iridescent rainbow sheen inside an abandoned vintage room. The two figures slowly approach and interact with each other, creating an emotional and mysterious atmosphere. A glowing pink energy begins to emerge as the wooden creature reaches toward the transparent figure. Dreamlike movements, intricate organic textures, soft volumetric light, dramatic shadows, shallow depth of field, atmospheric cinematic lighting, photorealistic details, haunting visual storytelling, slow fluid camera movements, ultra-realistic fantasy filmmaking, 4K.
+
+#AIart #AI #Visualart
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-a-surreal-dark-fantasy-cinematic-scene-featuring-a-mysterious-humanoid-creature-9173c874f884?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### Desktop studio title card on a pale grid
 
@@ -4059,24 +4075,6 @@ Photorealistic live-action horror, authentic Japanese high-school science labora
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-short-ultra-realistic-cinematic-horror-action-sequence-set-inside-a-q-9afbbee52258?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
-### Green-Robed Swordswoman Battles Guards in an Ancient Inn
-
-> Grace in every move power in every strike A true warrior never backs down. Made With Seedance 2.5 Prompt: Cinematic 8k hyper-realistic action sequence dark atmo…
-
-[<img src="https://media.goodcase.ai/cases/0776af25179a.jpg" width="600" alt="Green-Robed Swordswoman Battles Guards in an Ancient Inn">](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @laviniavelle | **Source:** [Original](https://x.com/laviniavelle/status/2098987614581997681) | **Published:** 2026-09-13 | **Heat:** 39
-
-**Stability:** 87/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 86.5) · [output](https://media.goodcase.ai/retests/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764/video-grok-imagine-20261003-phase1/generated.mp4)
-
-```
-Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian wooden inn an elegant female martial artist in flowy pale green and white traditional Hanfu robes takes a quick sip from a black wine jug before throwing it into the air fast-paced Wuxia fight combat, wooden tables shattering into splinters, atmospheric dust and misty fog dramatic volumetric backlight streaming through wooden window slats rapid dynamic low angle camera movement whip pans fluid acrobatics dodging and striking multiple guards in red and black armor ends in slow motion as she stands victorious among fallen opponents, moody lantern-lit atmosphere, 9:16 aspect ratio, ultra-detailed, photorealistic, 4k.
-```
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
 ### A Day in the Life of a Female Teacher
 
 > Made this video with GPT IMAGE 2 + seedance 2.5 via @higgsfield Prompt ⤵️ DURATION: 30 seconds ASPECT RATIO: 16:9 DURATI
@@ -5035,6 +5033,24 @@ End with a wide aftermath shot showing scattered salt, burnt talismans, melted c
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-cinematic-korean-folk-horror-ritual-inside-a-dark-traditional-korean-w-a9cbf4e1b64b?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Green-Robed Swordswoman Battles Guards in an Ancient Inn
+
+> Grace in every move power in every strike A true warrior never backs down. Made With Seedance 2.5 Prompt: Cinematic 8k hyper-realistic action sequence dark atmo…
+
+[<img src="https://media.goodcase.ai/cases/0776af25179a.jpg" width="600" alt="Green-Robed Swordswoman Battles Guards in an Ancient Inn">](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @laviniavelle | **Source:** [Original](https://x.com/laviniavelle/status/2098987614581997681) | **Published:** 2026-09-13 | **Heat:** 38
+
+**Stability:** 87/100
+
+**Retest:** Grok Imagine · 2026-10-03 · ✅ reproduced (score 86.5) · [output](https://media.goodcase.ai/retests/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764/video-grok-imagine-20261003-phase1/generated.mp4)
+
+```
+Cinematic 8k hyper-realistic action sequence dark atmospheric ancient East Asian wooden inn an elegant female martial artist in flowy pale green and white traditional Hanfu robes takes a quick sip from a black wine jug before throwing it into the air fast-paced Wuxia fight combat, wooden tables shattering into splinters, atmospheric dust and misty fog dramatic volumetric backlight streaming through wooden window slats rapid dynamic low angle camera movement whip pans fluid acrobatics dodging and striking multiple guards in red and black armor ends in slow motion as she stands victorious among fallen opponents, moody lantern-lit atmosphere, 9:16 aspect ratio, ultra-detailed, photorealistic, 4k.
+```
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-cinematic-8k-hyper-realistic-action-sequence-dark-atmospheric-ancient-east-asia-291b879b5764?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### Otter Friends' Summer in the Watermelon Field
 
 > Made with seedance 2.5 Prompt 👇 Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid b…
@@ -5771,86 +5787,6 @@ AI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern 
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-16-9-1080p-ultra-photorealistic-archival-video-of-everyday-9b6f33c925e9?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Seedance 2.5 Phone-Controlled Outfit Changes 👚📱
-
-> Seedance 2.5 手机遥控变装👚📱 prompt 👇 Duration: 20秒 Aspect ratio: 9:16 Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏 【场景】明亮客厅/卧室，落地窗自然光，背景简洁…
-
-[<img src="https://media.goodcase.ai/cases/bf76fb08150a.jpg" width="600" alt="Seedance 2.5 Phone-Controlled Outfit Changes 👚📱">](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @johnAGI168 | **Source:** [Original](https://x.com/johnAGI168/status/2097320255139795072) | **Published:** 2026-09-08 | **Heat:** 37
-
-**Stability:** 47/100
-
-**Retest:** Grok Imagine · 2026-10-03 · ⚠️ degraded (score 46.5) · [output](https://media.goodcase.ai/retests/seedance-seedance-2-5-dc01b3250bb4/video-grok-imagine-20261003-phase1/generated.mp4)
-
-<details>
-<summary><b>Full prompt (58 lines, click to expand)</b></summary>
-
-```
-Seedance 2.5 手机遥控变装👚📱
-
-prompt 👇
-
-Duration: 20秒
-Aspect ratio: 9:16
-Overall style: POV男友第一人称短剧，真实手机手持轻微呼吸晃动，室内自然光通透，手机滑动+点击瞬间换装，节奏轻快甜宠，竖屏
-
-【场景】明亮客厅/卧室，落地窗自然光，背景简洁温馨，地面干净无杂物
-【角色】女主（@图片1，开场穿角色原本服装）；男主为POV视角，全程不露脸，仅画面下方出现持手机的男性手
-【道具】一部现代全面屏手机，竖持。屏幕是简洁时尚穿搭App：上方大预览图，下方横向可滑动的服装卡片。每次滑动有跟手惯性，点击卡片时屏幕轻微缩放+短震反馈
-
-SHOT 1（00:00-00:03.5）开场展示
-画面：POV，女主站画面中央，开心地原地转半圈展示穿搭，双手轻提衣摆，眼睛亮亮看镜头。
-台词：女主："老公，看我今天穿得怎么样？"
-音效：室内底噪，衣料轻响。
-Constraints: 女主全身入画，开场服装=角色原本服装。
-
-SHOT 2（00:03.5-00:06.5）掏出手机+第一次滑动
-画面：画面下方男主手举起手机入镜，屏幕亮起，显示穿搭App。拇指从右向左滑过卡片，停在@衣服1的卡片上，预览图放大。
-台词：男主（画外音，慵懒）："还行。换这套看看。"
-音效：屏幕滑动轻摩擦声。
-Constraints: 手机屏幕清晰可读，卡片上能看出是@衣服1；男主只出手，不露脸。
-
-SHOT 3（00:06.5-00:09.5）第一次点击瞬变
-画面：拇指点在@衣服1卡片上，屏幕短震。点击落下的同一帧，女主服装瞬间变成@衣服1，站位、姿势、发型完全连续；她低头看衣服，瞪大眼张嘴，再抬头看镜头。
-台词：女主（惊讶）："诶？！"
-音效：清脆"滴"+换装"叮"，衣料展开微响。
-Constraints: 换装发生在点击同一帧，单帧瞬变；可加一道从上到下扫过身体的柔和微光；禁止叠化、黑闪、人物跳位。
-
-SHOT 4（00:09.5-00:13）第二次滑动+点击瞬变
-画面：拇指再次左滑，卡片停在@衣服2，点一下。同一帧女主换成@衣服2；这次她反应过来，脸颊微红，手指绞在身前，害羞小幅扭身，眼神躲闪又忍不住看镜头。
-台词：男主（画外音）："这套也行。"
-女主（小声）："你……乱点。"
-音效：滑动声+"滴"+"叮"，轻快音乐渐起。
-Constraints: 滑动必须完整看见从@衣服1卡片滑到@衣服2；换装仍是点击同一帧硬切。
-
-SHOT 5（00:13-00:16.5）第三次滑动+点击瞬变
-画面：再滑到@衣服3，点一下。同一帧换成@衣服3；女主已经习惯，咬一下下唇，抬手整理新衣服领口/裙摆，眼神带点得意看镜头。
-台词：女主："这套……还挺好看的嘛。"
-音效："滴"+"叮"，音乐节奏加快半拍。
-Constraints: 三次反应递进：惊讶→害羞→得意；每次都有小动作，禁止呆立。
-
-SHOT 6（00:16.5-00:20）第四次滑动+点击+收尾
-画面：最后一滑停在@衣服4，拇指点下。同一帧女主瞬变为@衣服4；她直接笑出来，上前一步凑近镜头，狡黠眯眼。手机仍举在画面下方，屏幕停在@衣服4预览。
-台词：男主（画外音，满意）："这套定了。"
-女主（笑着凑近，嗔怪）："你好坏啊——我好喜欢！"
-音效："滴"+"叮"，音乐在女主台词落点收在甜甜重拍。
-Constraints: 结尾女主凑近但不过分贴脸；手机始终在画面下方可见；服装顺序锁定：开场=原本 → @衣服1 → @衣服2 → @衣服3 → @衣服4，不可乱。
-
-【导演铁律】
-1. 换装铁律：每次换装发生在“点击”同一帧，单帧瞬变。女主站位、姿势、发型、脸型跨越换装帧完全连续，只有服装改变。
-2. POV铁律：镜头=男主眼睛，全程轻微手持呼吸晃动；男主只出手+画外音，禁止露脸。
-3. 手机铁律：每次必须先滑动再点击，滑动跟手、卡片切换清楚；禁止凭空换装、禁止不看屏幕直接变。
-4. 服装引用：开场=@图片1原本衣服；第1次=@衣服1；第2次=@衣服2；第3次=@衣服3；第4次=@衣服4。
-5. 台词口型清晰，与点击节拍对齐。
-
-Negative: 叠化换装，黑闪，白闪，烟雾，旋转遮挡，人物瞬移，姿势断裂，脸型变化，发型变化，鞋子乱变（除非衣服图自带），露男主脸，横屏，字幕，水印，Logo，背景突然更换，多人入画，宽松居家服除非衣服图就是，镜头剧烈抖动，手机屏幕模糊不可读。
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-seedance-2-5-dc01b3250bb4?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · [Part 3](./gallery-seedance-2-5-part-3.md) · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · **Part 7** · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)

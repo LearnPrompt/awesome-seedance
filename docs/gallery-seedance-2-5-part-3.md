@@ -1,8 +1,8 @@
 # Seedance 2.5 — Full Gallery (Part 3/10)
 
-All 804 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
+All 805 Seedance 2.5 prompt cases, sorted by heat score. Generated from data/cases.json — do not hand-edit.
 
-This page: cases 168–240 of 804.
+This page: cases 168–240 of 805.
 
 ← [Back to README](../README.md) · [Gallery index](./gallery.md) · [Part 1](./gallery-seedance-2-5-part-1.md) · [Part 2](./gallery-seedance-2-5-part-2.md) · **Part 3** · [Part 4](./gallery-seedance-2-5-part-4.md) · [Part 5](./gallery-seedance-2-5-part-5.md) · [Part 6](./gallery-seedance-2-5-part-6.md) · [Part 7](./gallery-seedance-2-5-part-7.md) · [Part 8](./gallery-seedance-2-5-part-8.md) · [Part 9](./gallery-seedance-2-5-part-9.md) · [Part 10](./gallery-seedance-2-5-part-10.md)
 
@@ -4067,6 +4067,39 @@ AUDIO: Keyboard and notification sounds at the start, building into energetic ci
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-create-a-30-second-ultra-photorealistic-cinematic-commercial-for-nike-air-max-c205a472781d?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
+### Woman in a cream winter jacket on a snowy cabin porch
+
+> cozy cabin snowy landscapes and a jacket designed for warmth and elegance The perfect winter aesthetic. Made with seedance 2.5 Prompt: Create a 30-second cinema…
+
+[<img src="https://media.goodcase.ai/cases/64fc9b0f4e70.jpg" width="600" alt="Woman in a cream winter jacket on a snowy cabin porch">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
+
+**Author:** @ClaraOnAI | **Source:** [Original](https://x.com/ClaraOnAI/status/2125225700336517601) | **Published:** 2026-11-24 | **Heat:** 72
+
+<details>
+<summary><b>Full prompt (15 lines, click to expand)</b></summary>
+
+```
+Create a 30-second cinematic winter jacket commercial, closely following the original video's scene composition, pacing, camera movements, and shot sequence. Replace the original woman with a different young adult woman, around 24 years old, with long dark brown hair and a natural appearance.
+
+Scene 1 (0–5 seconds): Establish the exact cozy rustic wooden cabin porch, wooden walls, red cabin door, outdoor chair, small table, lantern, and snow-covered pine forest. Cinematic slow camera movement.
+
+Scene 2 (5–10 seconds): The young woman wearing a premium cream-white padded winter jacket, brown knit sweater, black winter pants, and black boots slowly steps out through the cabin door onto the snowy porch. Keep the framing and movement similar to the original.
+
+Scene 3 (10–15 seconds): A medium cinematic shot as she walks naturally along the wooden porch, with the snowy pine trees in the background. The camera gently tracks her movement.
+
+Scene 4 (15–20 seconds): She pauses near the porch railing, gently adjusts the collar of her cream-white jacket, and looks toward the snowy forest. Soft natural expressions and realistic movement.
+
+Scene 5 (20–25 seconds): Cinematic close-up of the jacket, showing its padded texture, stitching, zipper, collar, and premium fabric details. Her hand gently touches and adjusts the collar.
+
+Scene 6 (25–30 seconds): A beautiful final cinematic shot of the woman standing on the snowy cabin porch, with snow-covered trees behind her. Slow camera push-in, soft winter lighting, premium fashion advertisement look.
+
+Photorealistic cinematic commercial, consistent character and outfit in every shot, realistic body movement, natural lighting, high-end winter fashion advertising, smooth transitions, 4K visual quality. Preserve the original video's overall atmosphere and shot style.
+```
+
+</details>
+
+**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
+
 ### A shop clerk presents headphones and a speaker in a game store
 
 > This might be the most unexpected product placement in GTA 6. A digital camera sitting in a virtual shop, with an NPC doing the selling. I wanted to see how AI …
@@ -4606,39 +4639,6 @@ Relaxing lo-fi headphone music during the final scene, creating a humorous contr
 </details>
 
 **[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/just-sharon7-seedance-2-5-ai-73a847a18c26?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
-
-### Woman in a cream winter jacket on a snowy cabin porch
-
-> cozy cabin snowy landscapes and a jacket designed for warmth and elegance The perfect winter aesthetic. Made with seedance 2.5 Prompt: Create a 30-second cinema…
-
-[<img src="https://media.goodcase.ai/cases/64fc9b0f4e70.jpg" width="600" alt="Woman in a cream winter jacket on a snowy cabin porch">](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)
-
-**Author:** @ClaraOnAI | **Source:** [Original](https://x.com/ClaraOnAI/status/2125225700336517601) | **Published:** 2026-11-24 | **Heat:** 71
-
-<details>
-<summary><b>Full prompt (15 lines, click to expand)</b></summary>
-
-```
-Create a 30-second cinematic winter jacket commercial, closely following the original video's scene composition, pacing, camera movements, and shot sequence. Replace the original woman with a different young adult woman, around 24 years old, with long dark brown hair and a natural appearance.
-
-Scene 1 (0–5 seconds): Establish the exact cozy rustic wooden cabin porch, wooden walls, red cabin door, outdoor chair, small table, lantern, and snow-covered pine forest. Cinematic slow camera movement.
-
-Scene 2 (5–10 seconds): The young woman wearing a premium cream-white padded winter jacket, brown knit sweater, black winter pants, and black boots slowly steps out through the cabin door onto the snowy porch. Keep the framing and movement similar to the original.
-
-Scene 3 (10–15 seconds): A medium cinematic shot as she walks naturally along the wooden porch, with the snowy pine trees in the background. The camera gently tracks her movement.
-
-Scene 4 (15–20 seconds): She pauses near the porch railing, gently adjusts the collar of her cream-white jacket, and looks toward the snowy forest. Soft natural expressions and realistic movement.
-
-Scene 5 (20–25 seconds): Cinematic close-up of the jacket, showing its padded texture, stitching, zipper, collar, and premium fabric details. Her hand gently touches and adjusts the collar.
-
-Scene 6 (25–30 seconds): A beautiful final cinematic shot of the woman standing on the snowy cabin porch, with snow-covered trees behind her. Slow camera push-in, soft winter lighting, premium fashion advertisement look.
-
-Photorealistic cinematic commercial, consistent character and outfit in every shot, realistic body movement, natural lighting, high-end winter fashion advertising, smooth transitions, 4K visual quality. Preserve the original video's overall atmosphere and shot style.
-```
-
-</details>
-
-**[🔍 View on goodcase.ai (retest log / stability score) →](https://goodcase.ai/cases/seedance-2-5-create-a-30-second-cinematic-winter-jacket-commercial-closely-following-the-or-580ff177e350?utm_source=awesome-seedance&utm_medium=github&utm_campaign=gallery&utm_content=entry)**
 
 ### A pregnant couple imagine their baby winning a Formula 1 race
 
